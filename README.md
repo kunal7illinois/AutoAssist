@@ -50,14 +50,32 @@ New manuals can be added without modifying code. Uploading a PDF triggers text e
 An evaluation script guides a human evaluator through a set of predefined queries. For each query, the top five passages are displayed, the linked PDFs are opened, and the evaluator marks relevant results. The tool then computes Precision@5, Recall@5, and F1@5.
 
 ## How to Run the System
+
+## Data Download (Manuals and RAW DATA)
+To keep the repository lightweight, the full set of manuals and raw extracted data is not stored in GitHub.  
+They must be downloaded separately.
+
+### Download Link
+The complete data package (about 1 GB) is available here:
+
+https://drive.google.com/file/d/1ZjNO5KipRuTRMH3hB8ilCPySBzLZd-zc/view?usp=sharing
+
+### Instructions
+1. Download the ZIP file from the link above.  
+2. Extract it.
+3. Place the extracted folders inside the project's `data/` directory so the structure becomes:
+
+```
+data/
+    manuals/
+    RAW DATA/
+    corpus/
+```
+The system will now have access to all manuals and can operate normally.
+
 ### Installation
 ```
 pip install -r requirements.txt
-```
-
-### Building the TF-IDF Index
-```
-python src/tfidf_indexer.py
 ```
 
 ### Launching the Application
@@ -86,34 +104,6 @@ This script outputs Precision@5, Recall@5, and F1@5 for each query and stores hu
 ```
 human_judgments.json
 ```
-
-## Data Download (Manuals and RAW DATA)
-To keep the repository lightweight, the full set of manuals and raw extracted data is not stored in GitHub.  
-They must be downloaded separately.
-
-### Download Link
-The complete data package (about 1 GB) is available here:
-
-https://drive.google.com/file/d/1ZjNO5KipRuTRMH3hB8ilCPySBzLZd-zc/view?usp=sharing
-
-### Instructions
-1. Download the ZIP file from the link above.  
-2. Extract it.
-3. Place the extracted folders inside the project's `data/` directory so the structure becomes:
-
-```
-data/
-    manuals/
-    RAW DATA/
-    corpus/
-```
-
-4. After placing the data, you may rebuild the TF-IDF index (optional but recommended):
-```
-python src/tfidf_indexer.py
-```
-
-The system will now have access to all manuals and can operate normally.
 
 ## Design Decisions
 ### Choice of TF-IDF
