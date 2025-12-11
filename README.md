@@ -387,7 +387,7 @@ Macro averaged across all ten queries, the system achieved:
 
 Recall was perfect. For every query, at least one relevant passage appeared in the top five.
 
-### 7.3 Strengths
+### 7.3 Pros
 
 From manual review, a few strengths stood out:
 
@@ -396,7 +396,7 @@ From manual review, a few strengths stood out:
 - Treating all manuals as one corpus helped surface good explanations from other vehicles when they applied.  
 - Manufacturer boosting helped bring car specific content closer to the top when the make was known.
 
-### 7.4 Limitations
+### 7.4 Cons
 
 The evaluation also highlighted some limits:
 
