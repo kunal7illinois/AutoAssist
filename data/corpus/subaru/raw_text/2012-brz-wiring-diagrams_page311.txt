@@ -1,0 +1,105 @@
+A73(A), D5(B), D6(C)
+Main Body ECU
+B
+2
+B
+5 JH1
+H1
+B
+12
+B
+B–W
+1 JH1
+3
+BS
+B–W
+26 3D
+19 HD1
+B–W
+B
+3J
+13 B 14 B
+17 A
+GL P
+5 A
+47 HD1 45 HD1
+H26(A)
+Y G
+19 A
+R
+46 HD1
+RB
+B
+15 4
+15 B 14 B
+RCO RDA RSSI
++5 DATA RSSI
+GND
+Door Control Receiver
+H3
+GL
+R
+P
+G
+14 3
+34D
+rotcennoC
+noitcnuJ
+CANL CANH
+B
+)B(14D
+,)A(04D
+ylbmessA
+UCE
+noitacifitreC
+ylbmessA
+rekirtS
+rooD
+tnemtrapmoC
+egagguL
+3 HD1
+D+
+E
+GL
+1
+81G
+HR
+ylbmessA
+hctiwS
+thgiL
+ysetruoC
+rooD
+tnorF
+10
+12H
+HL
+ylbmessA
+hctiwS
+thgiL
+ysetruoC
+rooD
+tnorF
+13 3B
+1
+RG
+GD1
+B–Y
+16
+28 3A
+V
+CANL CANH FPCY FDCY TSW5
+18
+10 B 9 B 6 B (∗1)
+4 A 5 A 2 A (∗2)
+12 B (∗1)
+1 A (∗2)
+H28(B)
+Tire Pressure Warning
+ECU and Receiver
+(Door Control and Tire
+Pressure Monitoring
+System Receiver Assembly)
+∗ 1 : w/ Tire Pressure Warning System
+∗ 2 : w/o Tire Pressure Warning System
+311
+BRZ (G4400BE)

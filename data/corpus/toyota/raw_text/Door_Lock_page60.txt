@@ -1,0 +1,44 @@
+DL–60
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+INSPECTION PROCEDURE
+1 READ VALUE OF DATA LIST
+(a) Check the DATA LIST to ensure proper function of the
+door unlock detection switch.
+MAIN BODY:
+Measurement Item /
+Item Normal Condition Diagnostic Note
+Display (Range)
+Driver door lock/unlock switch ON: Driver side door key cylinder
+lock signal (key-linked lock is turned to LOCK
+DOR KEY SW-LOCK -
+switch) OFF: Driver side door key
+/ON or OFF cylinder is not turned to LOCK
+Driver door lock/unlock switch ON: Driver side door key cylinder
+unlock signal (key-linked unlock is turned to UNLOCK
+DOR KEY SW-ULCK -
+switch) OFF: Driver side door key
+/ON or OFF cylinder is not turned to UNLOCK
+OK:
+The display is as specified in the normal condition
+column.
+NG Go to step 2
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+2 INSPECT FRONT DOOR LOCK ASSEMBLY (DOOR KEY LOCK AND UNLOCK SWITCH)
+(a) Remove the front door lock assembly LH.
+(b) Measure the resistance according to the value(s) in the
+Lock
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+Unlock 7 - 9 ON (Door lock set to Below 1 Ω
+LOCK)
+7 - 9
+OFF (Free) 10 kΩ or higher
+7 - 10
+ON (Door lock set to
+7 - 10 Below 1 Ω
+DL UNLOCK)
+NG REPLACE FRONT DOOR LOCK ASSEMBLY
+B065428E11
+OK

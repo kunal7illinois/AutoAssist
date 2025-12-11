@@ -1,0 +1,46 @@
+ENGINE AND EMISSION CONTROL 17-77
+AUTO-CRUISE CONTROL
+DATA LIST REFERENCE TABLE
+M1172002400169
+MUT-II SCAN ITEM INSPECTION ITEM INSPECTION NORMAL
+TOOL DISPLAY NO. REQUIREMENT CONDITION
+CANCEL SWITCH 04 Auto-cruise CANCEL CANCEL switch: "ON" ON
+control
+CANCEL switch: "OFF" OFF
+switch
+IDLE SW SIG 08 Closed throttle position Accelerator pedal: Depressed OFF
+switch
+Accelerator pedal: Released ON
+MAIN SW 01 Auto-cruise MAIN MAIN switch: "ON" ON
+control
+MAIN switch: "OFF" OFF
+switch
+OD OFF 15 A/T control signal No "OD-OFF" request OFF
+"OD-OFF" request ON
+PNP SW/CLUTCH 14 Clutch pedal position Clutch switch: Depressed ON
+switch <M/T>
+Clutch switch: Released OFF
+Park/neutral position Selector lever: "P" or "N" ON
+switch <A/T> position
+Selector lever: Other than "P" OFF
+or "N" position
+RESUME SWITCH 03 Auto-cruise RESUME RESUME switch: "ON" ON
+control
+RESUME switch: "OFF" OFF
+switch
+SET SWITCH 02 SET SET switch: "ON" ON
+SET switch: "OFF" OFF
+STOPLIGHT SW 05 Stoplight switch Brake pedal: Depressed ON
+Brake pedal: Released OFF
+TP SENSOR 13 Throttle position sensor Ignition Accelerator pedal: 400 − 1,000 mV
+switch: Fully depressed
+"ON"
+Accelerator pedal: Increases in
+Depressed proportion to throttle
+opening angle.
+Accelerator pedal: 4,000 − 5,500 mV
+Released
+VSS 10 Vehicle speed sensor Road test the vehicle The speedometer and
+MUT-II display the
+same value.
+TSB Revision

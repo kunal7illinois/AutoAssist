@@ -1,0 +1,35 @@
+NS–189
+NAVIGATION – NAVIGATION SYSTEM
+3 CHECK HARNESS AND CONNECTOR (MICROPHONE - RADIO AND NAVIGATION
+ASSEMBLY)
+(a) Disconnect the microphone connector Q5 or Q12 and
+Microphone Connector Front View radio and navigation assembly connector F12.
+(TMC Made): (b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Q5
+Tester connection Condition Specified condition
+ACC - MACC Always Below 1 Ω
+MI1+ - MIC+ Always Below 1 Ω
+ACC MIC- MIC- - MIC- Always Below 1 Ω
+MACC - Body ground Always 10 kΩ or higher
+MIC+ - Body ground Always 10 kΩ or higher
+MI1+ MIC- - Body ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+Microphone Connector Front View
+CONNECTOR
+(TMMK Made):
+Q12
+ACC
+MI1+
+MIC-
+Radio and Navigation Assembly
+Wire Harness View:
+F12
+MIC-
+MIC+
+MACC
+NS
+E131896E01
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

@@ -1,0 +1,53 @@
+CHASSIS - TIRE PRESSURE WARNING SYSTEM CH-141
+(cid:3)CONSTRUCTION AND OPERATION
+1. Tire Pressure Warning System Valve & Transmitter
+(cid:3) The tire pressure warning system valve & transmitter is integrated in the air valve of a disc wheel. It
+measures the pressure and the temperature of the air in the tire and transmits the measured values and a
+recognition ID to the tire pressure warning system valve & transmitter.
+(cid:3) If the battery voltage drops, the tire pressure warning system valve & transmitter assembly must be
+replaced. Furthermore, if the battery voltage drops, the tire pressure warning system valve & transmitter
+will be unable to transmit signals, which causes a DTC to be output.
+(cid:3) Tire pressure warning system valve & transmitter with 5 different ID code range are used on one vehicle.
+(cid:3) Each tire pressure warning system valve & transmitter has a built-in semi-conductor to directly measure
+the inflation pressure of the tire.
+(cid:3) Frequency of the tire pressure warning system valve & transmitter is 314.98 MHz.
+Valve Portion
+Sensor and
+Transmitter
+Portion
+Sensor and
+Disc Wheel
+Transmitter
+Rim
+Portion
+Tire Pressure
+Warning System
+Identification Number Valve & Transmitter
+Valve Cap Nut Grommet
+025CH57TE
+NOTICE
+(cid:3) Ensure the proper direction of the tire pressure warning system valve & transmitter by adhering
+to the prescribed procedure for installing a tire pressure warning system valve & transmitter on a
+wheel. Failure to do so could result in an incorrect measurement of the tire air inflation pressure.
+(cid:3) Make sure to replace the tires in accordance with the prescribed procedure. To prevent the tire
+pressure warning system valve & transmitter from damage, drop the tire pressure warning system
+valve & transmitter into the wheel before removing the tire. Failure to do so could damage the tire
+pressure warning system valve & transmitter.
+For further details regarding the above, see the 2007 Camry Repair Manual (Pub. No RM0250U).
+Service Tip
+(cid:3) If the lithium battery is depleted, replace the entire tire pressure warning system valve &
+transmitter assembly.
+(cid:3) After a tire pressure warning system valve & transmitter has been replaced, the ID of the tire
+pressure warning system valve & transmitter must be registered in the ECU. To register an ID, use
+a hand-held tester to enter the ID code that is indicated on the sensor.
+(cid:3) When replacing the tire pressure warning system valve & transmitter, all the separate ID codes of
+the 5-tire pressure warning system valve & transmitter must be registered. Even if only 1 tire
+pressure warning system valve & transmitter is replaced, the ID codes of all 5 tire pressure warning
+system valve & transmitter must be registered again.
+(cid:3) A new tire pressure warning system valve & transmitter that is available as a service part is in the
+sleep mode in its initial state, to prevent the battery from depleting. During PDS (Pre-Delivery
+Service), after the tire pressure warning system valve & transmitter and the tire are correctly
+mounted on the disc wheel, inflating the tire to the specified pressure causes the sleep mode to
+cancel. Keep the air pressure of the spare tire the same as the set air pressure amount of the front
+and rear tires.
+For further details regarding the above, see the 2007 Camry Repair Manual (Pub. No. RM0250U).

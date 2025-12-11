@@ -1,0 +1,56 @@
+AUTOMATIC TRANSAXLE 23A-327
+AUTOMATIC TRANSAXLE DIAGNOSIS
+MUT-II SCAN ITEM INSPECTION ITEM INSPECTION REQUIREMENT NORMAL
+TOOL NO. CONDITION
+DISPLAY
+TCC SOL 36 Torque converter Warming up Driving at constant 70 − 90%
+DUTY clutch solenoid valve Selector lever speed of 50 km/h (31
+duty % position: 3 mph)
+<Vehicles without Release accelerator 70 − 90% → 0%
+sport mode> or
+pedal [at less than Decreases
+Sport mode
+50 km/h (31 mph)] gradually as the
+<Vehicles with
+vehicle speed
+sport mode>
+decreases
+Driving at speed of
+50 km/h (31 mph)
+in 3rd gear
+TP SENSOR 11 Throttle position Ignition switch: ON Accelerator pedal: 535 − 735 mV
+sensor Engine: Stopped Fully closed
+Selector lever
+Accelerator pedal: Gradually rises
+position: P
+Depressed from the above
+value
+Accelerator pedal: 4,500 − 5,500
+Fully open mV
+U/D SOL 32 Underdrive solenoid Selector lever Driving at constant 0%
+DUTY valve duty % position: L, 2, 3, D speed of 10 km/h
+<Vehicles without (6.2 mph) in 1st gear
+sport mode> or
+Driving at constant 0%
+Sport mode
+speed of 30 km/h (19
+<Vehicles with
+mph) in 2nd gear
+sport mode>
+Driving at constant 0%
+speed of 50 km/h (31
+mph) in 3rd gear
+Driving at constant 100%
+speed of 50 km/h (31
+mph) in 4th gear
+VSS 29 Vehicle speed signal Selector lever Idling with 1st gear 0 km/h (0 mph)
+position: 3 (Vehicle stopped)
+<Vehicles without
+Driving at constant 50 km/h (31
+sport mode> or
+speed of 50 km/h (31 mph)
+Sport mode
+mph)
+<Vehicles with
+sport mode>
+TSB Revision

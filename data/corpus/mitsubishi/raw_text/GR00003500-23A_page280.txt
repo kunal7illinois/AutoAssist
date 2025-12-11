@@ -1,0 +1,34 @@
+23A-280 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+CONNECTOR: C-28
+CONNECTOR: C-94
+CONNECTOR BLOCK (RH)
+C-28
+C-94
+AC106611AB
+AC106628AB
+CONNECTOR: C-57 <2.4L ENGINE> OR
+C-59 <3.0L ENGINE>
+PCM
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+. COMMENT
+CIRCUIT OPERATION
+• When the A/C is turned ON and the dual pres- The cause is probably a faulty dual pressure switch
+circuit or a defective PCM.
+sure switch is closed, PCM (terminal number 83)
+receives battery voltage and then determines the
+.
+A/C compressor has been signaled to engage. TROUBLESHOOTING HINTS (The most likely
+• When the A/C compressor is engaged, the PCM causes for this code to be set:)
+increases line pressure and briefly delays shift • Malfunction of the dual pressure switch
+points to compensate for the additional engine • Damaged harness, connector
+load. • Malfunction of A/C system
+• Malfunction of the PCM
+.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+TSB Revision

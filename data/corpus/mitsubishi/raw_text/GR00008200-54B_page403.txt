@@ -1,0 +1,52 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-403
+SYMPTOM PROCEDURES
+STEP 3. Check the input signal (by using the Pulse Check).
+Check the following switches and input signals:
+• Key reminder switch
+• Liftgate latch switch or liftgate light switch <ECLIPSE>
+• Trunk lid latch switch or trunk light switch <ECLIPSE SPY-
+DER>
+• interior light loaded signal
+Operate the MUT-II according to the procedure below to dis-
+play "PULSE CHECK."
+16 PIN
+1. Select "SYSTEM SELECT."
+MB991502 2. Select "SWS."
+AC001252AD
+3. Select "PULSE CHECK."
+Check if scan tool MB991502 sounds or not.
+ITEM NAME CONDITIONS
+Key reminder switch Remove and reinsert
+the ignition key
+Liftgate latch switch or liftgate Open and close the
+light switch <ECLIPSE> liftgate
+Trunk lid latch switch or trunk Open and close the
+light switch <ECLIPSE trunk lid
+SPYDER>
+Interior light loaded signal Illuminate one of the
+interior lights
+Q:When the key reminder switch, liftgate latch switch or
+liftgate light switch <ECLIPSE>, and the trunk lid latch
+switch or trunk light switch <ECLIPSE SPYDER> and
+the interior light loaded signal is operated, does scan
+tool MB991502 sound?
+YES : Replace the ETACS-ECU.Check that the dome light
+illuminates normally.
+NO : • Scan tool MB991502 does not sound when the
+ignition key is removed and reinserted: Refer to
+Inspection Procedure P-1 "ETACS-ECU does not
+receive a signal from the key reminder switch
+P.54B-524."
+• When the liftgate <ECLIPSE> or trunk lid
+<ECLIPSE SPYDER> is opened and closed, scan
+tool MB991502 does not sound: Refer to
+Inspection Procedure P-9 "ETACS-ECU does not
+receive a signal from the liftgate latch switch
+<ECLIPSE> or trunk lid latch switch <ECLIPSE
+SPYDER>."
+• When one of the interior lights is illuminated, scan
+tool MB991502 does not sound: Refer to
+Inspection Procedure P-14 "ETACS-ECU does not
+receive any multi-purpose fuse No.17 loaded
+signal P.54B-611."
+TSB Revision

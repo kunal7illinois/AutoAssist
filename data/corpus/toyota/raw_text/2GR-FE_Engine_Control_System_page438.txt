@@ -1,0 +1,51 @@
+ES–438
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+36 PERFORM EVAP SYSTEM CHECK (AUTO OPERATION)
+NOTICE:
+• The EVAP SYSTEM CHECK (AUTO OPERATION)
+consists of 5 steps performed automatically by the
+intelligent tester. It takes a maximum of approximately
+18 minutes.
+• Do not perform the EVAP SYSTEM CHECK when the
+fuel tank is more than 90% full because the cut-off
+valve may be closed, making the fuel tank leak check
+unavailable.
+• Do not run the engine in this step.
+• When the temperature of the fuel is 35°C (95°F) or
+ES
+more, a large amount of vapor forms and any check
+results become inaccurate. When performing an EVAP
+SYSTEM CHECK, keep the temperature below 35°C
+(95°F).
+(a) Clear the DTCs (See page ES-45).
+(b) On the intelligent tester, select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / SYSTEM CHECK /
+EVAP SYS CHECK / AUTO OPERATION.
+(c) After the SYSTEM CHECK is completed, check for
+pending DTCs by selecting the following menu items:
+DIAGNOSIS / ENHANCED OBD II / DTC INFO /
+PENDING CODES.
+HINT:
+If no pending DTCs are found, the repair has been
+successfully completed.
+NEXT
+COMPLETED
+CONFIRMATION DRIVING PATTERN
+HINT:
+After a repair, check Monitor Status by performing the Key-Off Monitor Confirmation and Purge Flow
+Monitor Confirmation described below.
+1. KEY-OFF MONITOR CONFIRMATION
+(a) Preconditions
+The monitor will not run unless:
+• The vehicle has been driven for 10 minutes or more (in a city area or on a freeway).
+• The fuel tank is less than 90 % full.
+• The altitude is less than 8,000 ft (2,400 m).
+• The Engine Coolant Temperature (ECT) is between 4.4°C and 35°C (40°F and 95°F).
+• The Intake Air Temperature (IAT) is between 4.4°C and 35°C (40°F and 95°F).
+• The vehicle remains stationary (the vehicle speed is 0 mph (0 km/h)).
+(b) Monitor Conditions
+1. Allow the engine to idle for at least 5 minutes.
+2. Turn the ignition switch off and wait for 6 hours (8 or 10.5 hours).
+HINT:
+Do not start the engine until checking MONITOR STATUS. If the engine is started, the steps
+described above must be repeated.

@@ -1,0 +1,57 @@
+Audi TT No. 61 / 2
+Current Flow Diagram
+Battery, Starter, Battery monitor control unit, Battery
+isolation igniter
+*
+A Battery
+SD1 SD2 SD3 N253
+B Starter
+J104 ABS control unit
+A1 B1 C1 D1 E1 T2b T2b F1 J234 Airbag control unit
+/1 /2 J367 Battery monitor control unit
+N253 Battery isolation igniter
+SD1 Fuse 1 on fuse holder D
+B+ SD2 Fuse 2 on fuse holder D
+0.5 4.0 16.0 16.0 0.5 0.5 70.0
+rt/vi rt/gn rt rt br ge sw SD3 Fuse 3 on fuse holder D
+A T2au 2-pin connector
+T2b 2-pin connector
+T47 47-pin connector
+- T /1 47 T /2 7 8 5 T /2 7 7 5 T75 75-pin connector
+J104
+B301 B299
+J234 U6 Jump start socket
+40 Earth point, under rear right seat
+6.0 10.0 B299 Positive connection 3 (30), in main wiring harness
+rt rt
+T2au
+B1 /2 P2 B300 Positive connection 4 (30), in main wiring harness
+J367
+226644 B300
+B301 Positive connection 5 (30), in main wiring harness
+A1 T2au
+/1
+6.0 35.0 35.0 P2 Positive connection (30), in battery wiring harness
+rt sw sw
+0.35 *2
+vi/ws
+P4 P4 Positive connection 2 (30) in battery wiring harness
+2211 6622 * Main fuse box, on battery on rear right in luggage compartment
+4400 *2 Only models with jump start socket
+50.0 4.0 U6 35.0
+sw rt sw
+*2
+50 30 1188
+M
+ws = white
+B sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+40 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-061020410 rs = pink
+04.2010

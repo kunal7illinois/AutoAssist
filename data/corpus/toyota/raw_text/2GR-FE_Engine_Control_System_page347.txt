@@ -1,0 +1,54 @@
+ES–347
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2 CHECK HARNESS AND CONNECTOR (ACCELERATOR PEDAL POSITION SENSOR -
+ECM)
+(a) Disconnect the A17 Accelerator Pedal Position (APP)
+Wire Harness Side Front View:
+sensor connector.
+(b) Disconnect the A55 ECM connector.
+A17 APP Sensor Connector (c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance (Check for open)
+VPA2 VCPA
+Tester Connection Specified Condition
+EPA2 EPA
+VPA (A17-6) - VPA (A55-55) Below 1 Ω
+EPA (A17-5) - EPA (A55-59) Below 1 Ω
+VCP2 1 2 3 4 5 6 VPA
+VCPA (A17-4) - VCPA (A55-57) Below 1 Ω
+ES
+VPA2 (A17-3) - VPA2 (A55-56) Below 1 Ω
+EPA2 (A17-2) - EPA2 (A55-60) Below 1 Ω
+ECM Connector
+A55 VCP2 (A17-1) - VCP2 (A55-58) Below 1 Ω
+Standard resistance (Check for short)
+VPA VCPA EPA
+Tester Connection Specified Condition
+VPA (A17-6) or VPA (A55-55) - body ground 10 kΩ or higher
+EPA (A17-5) or EPA (A55-59) - body ground 10 kΩ or higher
+VCPA (A17-4) or VCPA (A55-57) - body ground 10 kΩ or higher
+VPA2 (A17-3) or VPA2 (A55-56) - body ground 10 kΩ or higher
+EPA2 (A17-2) or EPA2 (A55-60) - body ground 10 kΩ or higher
+VCP2 (A17-1) or VCP2 (A55-58) - body ground 10 kΩ or higher
+VPA2 VCP2 EPA2
+(d) Reconnect the APP sensor connector.
+(e) Reconnect the ECM connector.
+A115665E06
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+3 INSPECT ACCELERATOR POSITION SENSOR (VCPA AND VCP2 VOLTAGE)
+(a) Disconnect the A17 APP sensor connector.
+Wire Harness Side Front View:
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+table below.
+APP Sensor Connector Standard voltage
+Tester Connection Specified Condition
+VCPA (A17-4) - EPA (A17-5) 4.5 to 5.0 V
+A17 VCP2 (A17-1) - EPA2 (A17-2) 4.5 to 5.0 V
+1 2 3 4 5 6
+(d) Reconnect the APP sensor connector.
+NG REPLACE ECM (See page ES-518)
+VCP2 EPA2 VCPA EPA
+A115666E08

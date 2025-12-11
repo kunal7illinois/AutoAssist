@@ -1,0 +1,42 @@
+ENGINE ELECTRICAL 16-37
+IGNITION SYSTEM
+1.5 V POWER SUPPLY CONTINUITY BETWEEN
+BETWEEN 2 − 3 1 − 2
+Current flowing Yes
+Current not flowing No
+IGNITION COIL CHECK
+M1163001200078
+<3.0L ENGINE>
+1. Measurement of the primary coil resistance
+Measure the resistance between connector terminals 1 and
+1 2 3 4 5 6 7
+2 of the distributor.
+Standard value: 0.56 − 0.68 Ω
+2. Measurement of the secondary coil resistance
+Measure the resistance between the high-voltage terminal
+and connector terminal 1.
+HIGH-VOLTAGE Standard value: 9.4 − 12.8 kΩ
+TERMINAL
+AKX01266AB
+IGNITION COIL POWER TRANSISTOR
+CONTINUITY CHECK
+M1163001300097
+<3.0L ENGINE>
+.NOTE: An analog-type ohmmeter should be used.
+NOTE: Connect the negative probe of the ohmmeter to termi-
+nal 2.
+1.5 V
+CAUTION
+– + This test must be performed quickly (in less than 10 sec-
+onds) to prevent coil from burning and ignition power tran-
+sistor from breaking.
+As described in the chart below, perform a continuity check on
+1 2 3 4 5 6 7
+the ignition coil power transistor. Replace the ignition power
+transistor if there is a malfunction.
+AKX01267AB
+1.5 V POWER SUPPLY CONTINUITY BETWEEN
+BETWEEN 3 − 4 2 − 4
+Current flowing Yes
+Current not flowing No
+TSB Revision

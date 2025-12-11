@@ -1,0 +1,67 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Pa‐ Monitoring Frequency of
+sage cedure ria and Threshold rameters with En‐ Time checks, MIL
+Value able Conditions Length Illum
+P2195 O2 Sensor – Check the • trim control • Catalyst temp 200 Sec‐ • Continu‐
+Signal Heated Oxy‐ post catalyst < - 350 to 850° C onds ous
+Biased/ gen Sensor 6 %
+Stuck Lean (HO2S) - • engine load • 2 DCY
+- Bank 1, G39- . Refer changes < 7%
+Sensor 1 to
+• engine speed
+⇒
+1120 ... 4000
+“3.5.20 Heat‐
+RPM
+ed Oxygen
+Sensor, • engine load
+Checking”, 16….100 %
+page 152 .
+• mass air flow
+25 to 150 kg/h
+• ECT > 50° C
+• lambda set
+point 1
+• Lambda con‐
+trol - active
+• O2 heaters
+ready, no
+DTCs
+• second control
+loop active
+• Fuel cutoff, cat‐
+alyst heating,
+SAI not active
+P2196 O2 Sensor – Check the • trim control • Catalyst temp 200 Sec. • Continu‐
+Signal Heated Oxy‐ post catalyst < - 350 to 850° C ous
+Biased/ gen Sensor 6 %
+Stuck Rich - (HO2S) - • engine load • 2 DCY
+Bank 1, G39- . Refer changes < 7%
+Sensor 1 to
+• engine speed
+⇒
+1120 ... 4000
+“3.5.20 Heat‐
+RPM
+ed Oxygen
+Sensor, • engine load
+Checking”, 16….100 %
+page 152 .
+• mass air flow
+25 to 150 kg/h
+• ECT > 50° C
+• lambda set
+point 1
+• Lambda con‐
+trol - active
+• O2 heaters
+ready, no
+DTCs
+• second control
+loop active
+• Fuel cutoff, cat‐
+alyst heating,
+SAI not active
+92
+Rep. Gr.ST - Generic Scan Tool

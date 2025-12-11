@@ -1,0 +1,46 @@
+AC–67
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+A
+3 INSPECT COMPRESSOR AND MAGNETIC CLUTCH (A/C LOCK SENSOR)
+(a) Disconnect the connector from the A/C compressor.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+C53-1 (SSR+) - C53-2
+Always (at 20°C (68°F)) 165 to 205 Ω
+(SSR-)
+NG REPLACE COMPRESSOR AND MAGNETIC
+E005280 CLUTCH (A/C LOCK SENSOR)
+OK
+4 CHECK HARNESS AND CONNECTOR (A/C AMPLIFIER - A/C LOCK SENSOR)
+(a) Disconnect the connector from the A/C amplifier.
+Air Conditioning Amplifier
+Connector Wire Harness View:
+E38
+AC
+SG-2 LOCK
+E124470E05
+(b) Measure the resistance according to the value(s) in the
+Compressor and Magnetic Clutch
+table below.
+Connector Front View:
+Standard resistance
+Tester Connection
+Condition Specified Condition
+(Symbols)
+E38-8 (LOCK) - C53-1
+Always Below 1 Ω
+(SSR+)
+E38-13 (SG-2) - C53-2
+Always Below 1 Ω
+(SSR-)
+E38-8 (LOCK) - Body
+Always 10 kΩ or higher
+ground
+C53
+(cid:19) (cid:20)
+E38-13 (SG-2) - Body
+(cid:21) ground Always 10 kΩ or higher
+SSR+ SSR- NG REPAIR OR REPLACE HARNESS OR
+E124442E04 CONNECTOR

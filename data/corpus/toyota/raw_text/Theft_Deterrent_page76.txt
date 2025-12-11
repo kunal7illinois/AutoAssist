@@ -1,0 +1,42 @@
+TD–74
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/o Smart Key System)
+INSPECTION PROCEDURE
+1 INSPECT CLOCK ASSEMBLY
+(a) Disconnect the F3 clock connector.
+(b) Apply battery voltage between the terminals of the
+F3 indicator, and check the lighting condition of the security
+Clock Assembly
+indicator.
+LP Standard
+Measurement Condition Specified Condition
+Battery positive (+) → Terminal F3-8 (LP)
+Lights up
+Battery negative (-) → Terminal F3-19 (GND1)
+GND1 NOTICE:
+• If the positive (+) lead and the negative (-) lead are
+incorrectly connected, the security indicator will
+not light up.
+• Voltage of more than 12 V will damage the
+security indicator.
+B139454E01 • If the voltage is too low, the security indicator will
+not light up.
+NG REPLACE CLOCK ASSEMBLY
+OK
+2 CHECK HARNESS AND CONNECTOR (CLOCK ASSEMBLY - MAIN BODY ECU)
+(a) Disconnect the E9 ECU connector.
+Connector Wire Harness View:
+(b) Disconnect the F3 clock connector.
+Main Body ECU (c) Measure the resistance according to the value(s) table
+TD below.
+E9 Standard resistance
+Symbol (Tester Connection) Specified Condition
+IND (E9-4) - LP (F3-8) Below 1 Ω
+IND (E9-4) - Body ground 10 kΩ or higher
+IND
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Clock Assembly
+F3
+LP
+B139459E01
+OK

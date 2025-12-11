@@ -1,0 +1,27 @@
+13A-184 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the power supply voltage at heated oxygen
+sensor (rear) harness side connector C-23.
+(1) Disconnect the connector C-23 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 3 and ground.
+• Voltage should be battery positive voltage.
+C-23 HARNESS
+SIDE CONNECTOR (4) Turn the ignition switch to the "LOCK" (OFF) position.
+2 1 Q:Is the voltage normal?
+6 5 4 3 YES : Go to Step 5.
+NO : Go to Step 4.
+AK000322AD
+STEP 4. Check harness connector B-18X at the MFI relay
+for damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-18X
+YES : Repair harness wire between MFI relay connector A-
+MFI RELAY 18X terminal 4 and heated oxygen sensor (rear)
+connector C-23 terminal 5 because of open circuit or
+short circuit to ground. Then go to Step 12.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+AK101363AB
+TSB Revision

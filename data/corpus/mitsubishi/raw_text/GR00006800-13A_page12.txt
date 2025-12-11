@@ -1,0 +1,55 @@
+13A-12 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+1. Connect scan tool MB991502 to the data link connector.
+2. Turn the ignition switch to the "ON" position.
+3. Change the diagnostic test mode of the ECM <M/T> or PCM
+<A/T> to DIAGNOSTIC TEST MODE II (INCREASED
+SENSITIVITY).
+4. Road test the vehicle.
+5. Read the diagnostic trouble code and repair the
+16 PIN
+malfunctioning part.
+MB991502
+6. Turn the ignition switch to the "LOCK" (OFF) position.
+AKX01177AB
+7. Disconnect scan tool MB991502 from the data link
+connector.
+INSPECTION USING SCAN TOOL MB991502,
+DATA LIST AND ACTUATOR TESTING
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+1. Connect scan tool MB991502 to the data link connector.
+2. Turn the ignition switch to the "ON" position.
+3. Carry out inspection by means of the data list and the
+actuator test function. If there is an abnormality, check and
+repair the chassis harnesses and components. Refer to
+Data List Reference Table P.13A-544.
+Refer to Actuator Test Reference Table P.13A-553.
+16 PIN
+4. Re-check using scan tool MB991502 and check to be sure
+MB991502 that the abnormal input and output have returned to normal
+AKX01177AB because of the repairs.
+5. Erase the diagnostic trouble code(s).
+6. Turn the ignition switch to the "LOCK" (OFF) position.
+7. Disconnect scan tool MB991502 from the data link
+connector.
+8. Start the engine again and do a test drive to confirm that the
+problem is eliminated.
+ON-BOARD DIAGNOSTICS
+The engine control module (ECM) <M/T> or powertrain control module (PCM) <A/T> monitors the input/out-
+put signals (some signals all the time and others under specified conditions) of the ECM <M/T> or PCM <A/
+T>. When a malfunction continues for a specified time or longer after the irregular signal is initially monitored,
+the ECM <M/T> or PCM <A/T> judges that a malfunction has occurred. After the ECM <M/T> or PCM <A/T>
+first detects a malfunction, a diagnostic trouble code is recorded when the engine is restarted and the same
+malfunction is re-detected. However, for items marked with a "*," a diagnostic trouble code is recorded on the
+first detection of the malfunction. There are 83 diagnostic items. The diagnostic results can be read out with a
+scan tool. Since memorization of the diagnostic trouble codes is backed up directly by the battery, the diag-
+nostic results are memorized even if the ignition key is turned off. The diagnostic trouble codes will, however,
+be erased when the battery terminal or the ECM <M/T> or PCM <A/T> connector is disconnected. In addition,
+the diagnostic trouble code can also be erased by turning the ignition switch to "ON" position and sending the
+diagnostic trouble code erase signal from scan tool MUT-II (MB991502) to the ECM <M/T> or PCM <A/T>.
+TSB Revision

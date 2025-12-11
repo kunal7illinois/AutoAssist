@@ -1,0 +1,47 @@
+ES–93
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0100 Mass or Volume Air Flow Circuit
+DTC P0102 Mass or Volume Air Flow Circuit Low Input
+DTC P0103 Mass or Volume Air Flow Circuit High Input
+DESCRIPTION
+The Mass Air Flow (MAF) meter is a sensor that measures the amount of air flowing through the throttle
+valve.
+The ECM uses this information to determine the fuel injection time and to provide the appropriate air-fuel
+ratio.
+ES
+Inside the MAF meter, there is a heated platinum wire which is exposed to the flow of intake air.
+By applying a specific electrical current to the wire, the ECM heats it to a given temperature. The flow of
+incoming air cools both the wire and an internal thermistor, affecting their resistance. To maintain a
+constant current value, the ECM varies the voltage applied to these components in the MAF meter. The
+voltage level is proportional to the airflow through the sensor, and the ECM uses it to calculate the intake
+air volume.
+The circuit is constructed so that the platinum hot wire and the temperature sensor create a bridge circuit,
+and the power transistor is controlled so that the potentials of A and B remain equal to maintain the
+predetermined temperature.
+HINT:
+When any of these DTCs are set, the ECM enters fail-safe mode. During fail-safe mode, the ignition
+timing is calculated by the ECM, according to the engine RPM and throttle valve position. Fail-safe mode
+continues until a pass condition is detected.
++B
+Temperature Sensor
+Power Transistor
+(Thermistor)
+Platinum Hot Wire (Heater)
+A B
+Output Voltage
+Temperature Sensor (Thermistor) Platinum Hot Wire (Heater)
+A140749E02
+DTC No. DTC Detection Conditions Trouble Areas
+MAF meter voltage less than 0.2 V, or more than 4.9 V for 3 • Open or short in MAF meter circuit
+P0100 seconds • MAF meter
+(1 trip detection logic) • ECM
+• Open or short in MAF meter circuit
+MAF meter voltage less than 0.2 V for 3 seconds
+P0102 • MAF meter
+(1 trip detection logic)
+• ECM
+• Open or short in MAF meter circuit
+MAF meter voltage more than 4.9 V for 3 seconds
+P0103 • MAF meter
+(1 trip detection logic)
+• ECM

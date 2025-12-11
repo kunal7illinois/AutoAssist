@@ -1,0 +1,33 @@
+ES–110
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+NG REPLACE CAMSHAFT TIMING OIL
+CONTROL VALVE ASSEMBLY (See page ES-
+481)
+OK
+6 INSPECT OIL CONTROL VALVE FILTER AND PIPE
+(a) Remove the oil pipe No. 1 or No. 2.
+RH Bank:
+(b) Remove the oil control valve filter.
+(c) Check that the filter and pipe are not clogged.
+OK:
+Filter is not clogged.
+ES
+NG CLEAN OIL CONTROL VALVE FILTER AND
+PIPE
+LH Bank:
+G042497E01
+OK
+7 REPLACE EXHAUST CAMSHAFT
+NEXT
+8 CHECK WHETHER DTC OUTPUT RECURS
+(a) Clear the DTCs.
+(1) Operate the intelligent tester, or disconnect the EFI
+and ETCS fuses more than 60 seconds to erase the
+codes.
+(b) Start the engine and warm up the engine.
+(c) Switch the ECM from normal mode to check mode using
+the intelligent tester (See page ES-49).
+(d) Drive the vehicle for more than 10 minutes or more.
+(e) Read the output DTCs using the intelligent tester.
+OK:
+No DTC output.

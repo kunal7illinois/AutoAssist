@@ -1,0 +1,20 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (K20Z3) - Civic (Except GX & Si)
+Fig. 32: Identifying T-Fitting And FTP Sensor
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+19. Turn the ignition switch ON (II).
+20. Check and record the FTP SENSOR reading in the DATA LIST with the HDS.
+21. Slowly apply about 1.3 kPa (0.4 in.Hg, 10 mmHg) of vacuum to the hose.
+22. Check the FTP SENSOR in the DATA LIST with the HDS.
+Does the value change?
+YES - Check for debris or blockage at the EVAP canister port, then go to step
+24.
+NO - Go to step 23.
+23. Replace the FTP sensor (see FTP SENSOR REPLACEMENT ).
+24. Reconnect all hoses.
+25. Turn the ignition switch ON (II).
+26. Reset the ECM with the HDS.
+27. Do the ECM idle learn procedure (see ECM IDLE LEARN PROCEDURE ).
+28. Do the EVAP FUNCTION TEST in the INSPECTION MENU with the HDS.
+Is the result OK?

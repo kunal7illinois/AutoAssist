@@ -1,0 +1,36 @@
+54A-12 CHASSIS ELECTRICAL
+IGNITION SWITCH
+DIAGNOSTIC TROUBLE CODE PROCEDURES
+DTC 11:Transponder Communication System or Radio Interference of Encrypted Code
+Ignition Key Ring Antenna Circuit
+AC102607AB
+CONNECTOR: C-79 CONNECTOR: C-88
+CENTER COLUMN SWITCH
+REINFORCEMENT
+IMMOBILIZER-ECU
+AC001652AC AC001653AC
+. DTC SET CONDITION
+CIRCUIT OPERATION
+• If the engine is started while several ignition keys
+The ignition key is powered by the ignition key ring
+are in the vicinity, interference between the differ-
+antenna, and sends an encrypted code. The ignition
+ent keys may occur, which will cause this code to
+key ring antenna receives the encrypted code, and
+be generated.
+determines whether the ignition key is a registered
+• The encrypted code of the transponder is not
+key or not.
+sent to the immobilizer-ECU immediately after
+the ignition switch is turned to "ON" position.
+.
+NOTE: DTC 11 is always output together with MFI
+system DTC P1610.
+.
+TROUBLESHOOTING HINTS
+• Radio interference of encrypted code
+• Malfunction of transponder
+• Malfunction of ignition key ring antenna
+• Malfunction of immobilizer-ECU
+• Damaged wiring harness of connectors
+TSB Revision

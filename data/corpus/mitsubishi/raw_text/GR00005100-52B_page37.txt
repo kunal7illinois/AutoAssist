@@ -1,0 +1,41 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-37
+SRS AIR BAG DIAGNOSIS
+STEP 3. Check SRS-ECU connector C-72 and passenger(cid:146)s
+connector C-11.
+(1) Disconnection connectors C-72 and C-11, and then
+CONNECTOR: C-72
+reconnect them.
+(2) Connect the negative battery terminal.
+(3) Erase the DTC memory, and then check the DTC.
+Q:Is DTC 24 output?
+YES : Go to Step 4.
+NO : The inspection is complete. (It is assumed that DTC
+SRS-ECU
+24 set as connector C-72 or C-11 was engaged
+ACCELERATOR PEDAL improperly.)
+CENTER REINFORCEMENT(LH)AC000358AD
+CONNECTOR: C-11 PASSENGER'S (FRONT)
+AIR BAG
+AC000363AD
+STEP 4. Check the passenger’s air bag module.
+(1) Unclip passenger(cid:146)s air bag module connector C-11.
+CONNECTOR: C-11 PASSENGER'S (FRONT)
+AIR BAG
+AC000363AD
+(2) Connect special tool MB991865 to special tool MB991866.
+DUMMY RESISTOR
+RESISTOR (3Ω) HARNESS CAUTION
+(MB991865) (MB991866) Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+HARNESS SIDE weakened.
+CONNECTOR (3) Disconnect the passenger’s air bag module connector C-11,
+and insert special tool MB991866 into the harness side
+connector by backprobing.
+(4) Connect the negative battery terminal.
+(5) Erase the DTC memory, and then recheck the DTC.
+Q: Is DTC 24 output?
+C-11 PASSENGER'S
+(FRONT) AIR BAG MODULE YES : Go to Step 5.
+CONNECTOR AC102572AD NO : Replace the passenger’s air bag module. Refer to
+P.52B-144. Then go to Step 7.
+TSB Revision

@@ -1,0 +1,50 @@
+ES–456
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+10 CHECK HARNESS AND CONNECTOR
+(a) Disconnect the throttle body connector.
+Wire Harness Side:
+(b) Disconnect the accelerator pedal position sensor
+connector.
+C55 ECM Connector (c) Disconnect the VVT sensor for intake camshaft bank 1
+connector.
+(d) Disconnect the VVT sensor for exhaust camshaft bank 1
+connector.
+(e) Disconnect the VVT sensor for intake camshaft bank 2
+connector.
+(f) Disconnect the VVT sensor for exhaust camshaft bank 2
+VCE2 VCE1 VCTA VCPP connector.
+ES VCV2 VCV1 (g) Disconnect the canister pump module connector.
+(h) Disconnect the C55 and A55 ECM connectors.
+A55 ECM Connector
+(i) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance (Check for short)
+Tester Connections Specified Conditions
+VCTA (C55-96) - Body ground 10 kΩ or higher
+VCV1 (C55-115) - Body ground 10 kΩ or higher
+VCPA VCP2
+VCV2 (C55-113) - Body ground 10 kΩ or higher
+A107934E23
+VCE1 (C55-114) - Body ground 10 kΩ or higher
+VCE2 (C55-112) - Body ground 10 kΩ or higher
+VCPA (A55-57) - Body ground 10 kΩ or higher
+VCP2 (A55-58) - Body ground 10 kΩ or higher
+VCPP (C55-75) - Body ground 10 kΩ or higher
+(j) Reconnect the ECM connectors.
+(k) Reconnect the canister pump module connector.
+(l) Reconnect the fuel pressure sensor connector.
+(m) Reconnect the VVT sensor for exhaust camshaft bank 2
+connector.
+(n) Reconnect the VVT sensor for intake camshaft bank 2
+connector.
+(o) Reconnect the VVT sensor for exhaust camshaft bank 1
+connector.
+(p) Reconnect the VVT sensor for intake camshaft bank 1
+connector.
+(q) Reconnect the accelerator pedal position sensor
+connector.
+(r) Reconnect the throttle body connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE ECM (See page ES-518)

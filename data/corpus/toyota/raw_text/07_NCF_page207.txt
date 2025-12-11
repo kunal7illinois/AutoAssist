@@ -1,0 +1,51 @@
+CHASSIS - U660E AUTOMATIC TRANSAXLE CH-43
+Service Tip
+ATF Filling procedure using SST (09843-18040)
+When a large amount of ATF needs to be filled (i.e. after removal and installation of oil pan or torque
+converter), perform the procedure from step 1.
+When a small amount of ATF is required (i.e. removal and installation of oil cooler tube, repair of
+a minor oil leak), perform the procedure from step 7.
+1) Raise the vehicle while keeping it level.
+2) Remove the refill plug and overflow plug.
+3) Fill the transaxle with WS type ATF through the refill plug hole until it overflows from the
+overflow plug hole.
+(cid:1) ATF WS must be used to fill the transaxle.
+4) Reinstall the overflow plug.
+5) Add the specified amount of ATF (specified amount is determined by the procedure that was
+performed) and reinstall the refill plug.
+Example:
+Procedure Liters (US qts, Imp.qts)
+Removal and installation of transaxle oil pan
+2.9 (3.1, 2.6)
+(including oil drainage)
+Removal and installation of transaxle valve body 3.3 (3.5, 2.9)
+Replacement of torque converter 4.9 (5.2, 4.3)
+CG
+6) Lower the vehicle
+7) Use the SST (09843-18040) to make
+shorts between the TC and CG terminals
+of the DLC3 connector:
+8) Start the engine and allow it to idle.
+(cid:1) A/C switch must be turned off.
+9) Move the shift lever from the P position
+to the S mode position and slowly selects TC
+259LSK78
+each gear S1 - S6. Then move the shift DLC3
+lever back to the P position.
+10) Move the shift lever to the D position, and then quickly move it back and forth between N and
+D (at least once every 1.5 seconds) for at least 6 seconds. This will activate oil temperature
+detection mode.
+Standard: The shift position indicator light “D” remains illuminated for 2 seconds and
+then goes off.
+11) Return the shift lever to the P position and disconnect the TC terminal.
+12) Idle the engine to raise the ATF temperature.
+13) Immediately after the shift position indicator “D” light turns on, lift the vehicle up.
+(cid:1) The shift position indicator light “D” will indicate the ATF temperature according to the
+following table.
+Lower than Higher than
+ATF Temp. Optimal Temp.
+Optimal Temp. Optimal Temp.
+Shift Position
+OFF ON Blinking
+Indicator Light “D”
+(Continued)

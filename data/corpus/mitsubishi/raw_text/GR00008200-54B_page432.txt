@@ -1,0 +1,39 @@
+54B-432 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CIRCUIT OPERATION TECHNICAL DESCRIPTION (COMMENT)
+The ETACS-ECU operates the interior light auto- If the function does not work normally, the input cir-
+matic shutdown function according to the following cuit system from the switches or the ETACS-ECU
+switch signals: may be defective (refer to "CIRCUIT OPERATION").
+• Ignition switch (ACC)
+• Ignition switch (IG1) . TROUBLESHOOTING HINTS
+• Front door switch • Malfunction of the door switch
+• interior light loaded signal • Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Check the front dome light and the rear dome
+light.
+If the front dome light switch and the rear dome light switch are
+moved to the "door interlock position", the front dome light and
+the rear dome light should illuminate when either door is
+opened.
+Q:Do the front dome light and the rear dome light
+illuminate normally?
+YES : Go to Step 2.
+NO : • Neither the front dome light nor the rear dome light
+illuminates normally: Refer to Inspection
+Procedure M-1 "Dome light, luggage compartment
+light <ECLIPSE> and trunk light <ECLIPSE
+SPYDER> do not illuminate or go out normally
+P.54B-400."
+• Either the front dome light or the rear dome light
+illuminates normally: Refer to Inspection
+Procedure M-2 "Dome light, luggage compartment
+light <ECLIPSE> and trunk light <ECLIPSE
+SPYDER> do not illuminates or goes out normally
+P.54B-404."
+TSB Revision

@@ -1,0 +1,47 @@
+ES–338
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 CHECK HARNESS AND CONNECTOR (ECM - ETCS FUSE, ETCS FUSE - BATTERY)
+(a) Check the harness and connector between the ETCS
+fuse and ECM.
+Engine Room Junction Block
+(1) Remove the ETCS fuse from the engine room R/B.
+(2) Disconnect the A55 ECM connector.
+(3) Measure the resistance according to the value(s) in
+the table below.
+ETCS Standard resistance (Check for open)
+Tester Connection Specified Condition
+Engine room R/B ETCS fuse terminal 2 - +BM (A55-3) Below 1 Ω
+Standard resistance (Check for short)
+ES
+Tester Connection Specified Condition
+Engine room R/B ETCS fuse terminal 2 or +BM (A55-
+10 kΩ or higher
+3) - Body ground
+(4) Reinstall the ETCS fuse.
+(5) Reconnect the ECM connector.
+(b) Check the harness and connector between the ETCS
+fuse and positive battery cable.
+(1) Remove the ETCS fuse from the engine room R/B.
+(2) Disconnect the negative battery terminal.
+(3) Disconnect the positive battery terminal.
+(4) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance (Check for open)
+Tester Connection Specified Condition
+Positive battery terminal - Engine room R/B ETCS
+Below 1 Ω
+fuse terminal 1
+A55 ECM Connector
+Standard resistance (Check for short)
+Tester Connection Specified Condition
+Positive battery terminal or Engine room R/B ETCS
+10 kΩ or higher
+fuse terminal 1 - Body ground
+(5) Reinstall the ETCS fuse.
+(6) Reconnect the positive battery terminal.
+(7) Reconnect the negative battery terminal.
++BM
+A140650E01 NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE ECM (See page ES-518)

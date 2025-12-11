@@ -1,0 +1,35 @@
+SR–6
+STEERING COLUMN – ELECTRIC STEERING LOCK
+SYSTEM DIAGRAM
+Enigine Switch
+- Transponder Key
+Certification ECU
+Amplifier (with Key Coil)
+Main Body ECU ID Code Box Steering Lock ECU
+SR
+ECM
+LIN Communication Line
+B126245E02
+Input and output signals of each ECU:
+Transmitting ECU (transmitter) Receiving ECU Signals Communication Method
+Power supply status (to steering
+Main Body ECU Steering Lock ECU LIN
+lock motor)
+• Certification ECU
+Steering Lock ECU • Main Body ECU Sleep available status LIN
+• ID Code Box
+• Certification ECU
+Steering Lock ECU • Main Body ECU Lock / Unlock sensor status LIN
+• ID Code Box
+• Certification ECU
+Steering Lock ECU • Main Body ECU Steering lock status LIN
+• ID Code Box
+• Certification ECU
+Steering Lock ECU • Main Body ECU Motor control status LIN
+• ID Code Box
+• Certification ECU
+Steering Lock ECU • Main Body ECU Diagnostic response status LIN
+• ID Code Box
+• Certification ECU
+Steering Lock ECU • Main Body ECU Lock / Unlock sensor malfunction LIN
+• ID Code Box

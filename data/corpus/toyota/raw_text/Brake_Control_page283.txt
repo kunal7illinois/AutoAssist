@@ -1,0 +1,54 @@
+BC–272
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+VEHICLE STABILITY CONTROL
+SYSTEM (for BOSCH Made)
+PRECAUTION
+1. EXPRESSIONS OF IGNITION SWITCH
+The type of ignition switch used on this model differs
+according to the specifications of the vehicle.
+The expressions listed in the table below are used in this
+section.
+Switch Type
+Expression
+Ignition Switch (Position) Engine Switch (Condition)
+Ignition switch off LOCK off
+Ignition switch on (IG) ON on (IG)
+Ignition switch on (ACC) ACC on (ACC)
+Engine start START start
+BC
+2. TROUBLESHOOTING PRECAUTION
+(a) When there is a malfunction in the contact point of
+the terminals or installation problems with parts, the
+removal and installation of the suspected problem
+parts may return the system to the normal condition
+either completely or temporarily.
+(b) In order to determine the malfunctioning area, be
+sure to check the conditions at the time the
+malfunction occurred, such as by DTC output and
+freeze frame data output, and record it before
+disconnecting each connector or removing and
+installing parts.
+(c) Since the vehicle stability control system may be
+influenced by a malfunction in the other systems, be
+sure to check for DTCs in the other systems.
+(d) Be sure to remove and install the brake actuator
+assembly and each sensor with the ignition switch
+off unless specified in the inspection procedure.
+(e) If the brake actuator or a sensor has been removed
+and installed, it is necessary to check the system for
+problems after the parts have been reassembled.
+Check for DTCs using the intelligent tester, also
+check that system functions and signals received by
+the ECU are normal using test mode.
+3. CAN COMMUNICATION SYSTEM PRECAUTION
+(a) The CAN communication system is used for data
+communication between the skid control ECU, the
+steering angle sensor, and the yaw rate and
+acceleration sensor. If there is trouble in the CAN
+communication line, a DTC of the communication
+line is output.
+(b) If a DTC of the CAN communication line is output,
+repair the malfunction in the communication line and
+troubleshoot the vehicle stability control system
+under the condition that data communication is
+normal.

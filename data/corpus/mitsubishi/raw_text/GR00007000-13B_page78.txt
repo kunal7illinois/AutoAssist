@@ -1,0 +1,50 @@
+13B-78 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TECHNICAL DESCRIPTION • However, time is not counted if any of the follow-
+• The engine coolant temperature sensor converts ing conditions are met.
+the engine coolant temperature to a voltage and 1. Intake air temperature is 60°C (140°F) or
+output it. more.
+• The ECM <M/T> or PCM <A/T> checks whether 2. Volume air flow sensor output frequency is 70
+this voltage is within a specified range. Hz or less.
+3. During fuel shut-off operation.
+.
+DTC SET CONDITIONS • The ECM <M/T> or PCM <A/T> monitors for this
+condition once during the drive cycle.
+Check Conditions
+• Engine coolant temperature was 7°C (45°F) or
+.
+more immediately before the engine was stopped TROUBLESHOOTING HINTS (The most likely
+at the last drive. causes for this code to be set are:)
+• Engine coolant temperature was 7°C (45°F) or • Engine coolant temperature sensor failed.
+more when the engine started. • Open or shorted engine coolant temperature sen-
+sor circuit, or loose connector.
+Judgement Criteria
+• ECM failed. <M/T>
+• Engine coolant temperature fluctuates within 1°C
+• PCM failed. <A/T>
+(1.8°F) after 5 minutes have passed since the
+engine was started.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 21:
+Engine Coolant Temperature Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the data reading mode for item
+21, Engine Coolant Temperature Sensor.
+16 PIN • The engine coolant temperature and temperature
+shown with the scan tool should approximately match.
+MB991502
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+AKX01177AB
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+TSB Revision

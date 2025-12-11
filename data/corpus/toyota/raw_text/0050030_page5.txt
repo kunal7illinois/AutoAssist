@@ -1,0 +1,37 @@
+ES–167
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+ECM
+IG2
+#10
+Injector No. 1
+#20
+Injector No. 2
+Ignition Switch
+#30
+AM2 ES
+Injector No. 3
+#40
+IG2 AM2
+Injector No. 4
+E01
+FL MAIN E02
+Battery
+Y A127256E01
+CONFIRMATION DRIVING PATTERN
+1. Connect the intelligent tester to the DLC3.
+2. Turn the ignition switch ON.
+3. Turn the tester ON.
+4. Record the DTC(s) and freeze frame data.
+5. Using the tester, switch the ECM from normal mode to check mode (see page ES-38).
+6. Read the misfire counts of each cylinder (CYL #1 to #4) with the engine in an idling condition. If any
+misfire count is displayed, skip the following confirmation driving pattern.
+7. Drive the vehicle several times with the conditions, such as engine rpm and engine load, shown in
+MISFIRE RPM and MISFIRE LOAD in the DATA LIST.
+HINT:
+In order to store misfire DTCs, it is necessary to drive the vehicle for the period of time shown in the
+table below, with the MISFIRE RPM and MISFIRE LOAD in the DATA LIST.
+Engine RPM Duration
+Idling 3.5 minutes or more
+1,000 3 minutes or more
+2,000 1.5 minutes or more
+3,000 1 minute or more

@@ -1,0 +1,45 @@
+BE-180 BODY ELECTRICAL - GARAGE DOOR OPENER
+GARAGE DOOR OPENER
+(cid:2)DESCRIPTION
+The garage door opener system is used on the XLE grade model as standard equipment and on the other grade
+model as optional equipment.
+This system enables the garage door to be opened or closed from inside the vehicle by operating the switch.
+This system provides the features listed below.
+(cid:1) Up to three types of transmitter codes can be registered in the garage door opener.
+(cid:1) The garage door opener switch is provided in the overhead console where it is easily accessible.
+(cid:1) An indicator light is provided to enable the operator to verify the operation mode of the garage door opener.
+(cid:1) A rolling code function is used, which changes the transmitter code each time the garage door opener
+switch is pressed.
+Garage Door Opener Switch
+LED Indicator Light
+025BE184P
+(cid:2)FUNCTION
+The following table shows the garage door opener functions and the indicator light operation in each of the
+modes.
+Function Outline Indicator Light
+While the switch is being pressed, the garage door opener Flash (cid:1) On
+Transmission transmits the code that was previously registered. Even if the (Rolling Code)
+Mode button is pressed continuously, the transmission stops after 20 ON
+seconds. (Except Rolling Code)
+When the button is pressed continuously for 20 seconds, the
+Slow flashing
+mode changes to learning mode in which a transmitter code
+Learning (during learning mode)
+can be registered. Or an existing code can be overwritten. If
+Mode Quick flashing
+no codes are registered within 90 seconds of entering learning
+(registration completed)
+mode, the mode changes to low power mode.
+When the 2 outside buttons are pressed simultaneously for 20
+seconds, all the transmitter codes that are registered in the
+button are cleared.
+All Delete When the buttons are released within 10 seconds of clearing Quick flashing
+Mode the codes, the mode changes to learning mode. (code clearing completed)
+When the buttons are pressed for longer than 10 seconds after
+clearing the codes, all the buttons will be registered with a
+code for operation verification.
+If the button remains pressed for longer than 100 seconds,
+Low Power such as in the case in which the pressed button gets caught, the
+OFF
+Mode mode changes to low power mode to reduce power
+consumption.

@@ -1,0 +1,38 @@
+V1.2 User Guide 3/19/09 V1.2 User Guide 3/19/09
+Reading Sensors (continued) MENU SYSTEM (continued)
+Where TPM’s are reread several times, then the number of reads of Main Menu
+that TPM is also stored (this data is however only displayed in the The Main Menu is the root of the menu system and provides items
+Audit File). that perform the core functions of the BRT-DBL4.
+If a 6th unique TPM is read, and the TPM is not one of the current five Audi Vehicles
+stored, then it will replace the last read TPM Data with this new TPM Directs the user to the Audi Vehicles selections
+Data.
+VW Vehicles
+NOTE: Directs the user to the VW Vehicles selections
+Data records are stored in the memory until overwritten by new
+reads OR they are deleted using the Delete TPM Data command, Delete TPM Data
+or after you have connected to the PC using Audit mode. Will allow the user to delete the data currently stored in the
+tool
+Beru Gen1 Long Listen – Delta P
+Other Vehicles
+Directs the user to select by Make, Model, and Year for
+There are sensors in use today that can be activated
+vehicles other than Audi or VW
+(forced to transmit) by changing the pressure inside the
+wheel and tire, or waiting for the sensor to transmit on Settings
+its own, most notably these are Beru Gen1 sensors. Allows the user to make changes to the tools settings: # of
+wheels to test, TPM ID, Pressure readout, Temp read out
+When selected on the BRT-DBL4, these particular
+Tool Box
+vehicles will show the BER TPM type AND the ↓P icon at Gives user a way to check Siemens sensor modes and set
+the bottom of the tool display. sensors to Park. Allows the ability to check a wheel and tire
+to determine senor type inside wheel without having to
+break down wheel and tire.
+Beru Gen1 315
+Part Number Off
+4D0907275A This will power the tool off
+Beru Gen1 433
+Part Number
+Each item is a command that can be activated by
+4D0907275
+pressing the Q Button.
+16 13

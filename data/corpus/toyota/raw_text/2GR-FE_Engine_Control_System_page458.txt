@@ -1,0 +1,35 @@
+ES–458
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+ECM
+IG2 C/OPN
+IGN
+FC
+Tr1
+Fuel Pump M
+IG2
+ES EFI
+EFI MAIN
+MREL
+Main Body ECU
+AM2
+AM2
+*1 Ignition Switch *1
+IG2D
+AM1 AM1 *1
+*2 *2 ST1 STR
+*2 *1
+AM2 IG2
+ALT
+*2
+*2 ST2
+*2
+ST/AM2 *2 Park / Neutral position Switch
+*1
+ST
+FL MAIN NSW
+To Starter
+STA
+NE+
+Battery *1: with Smart Key System NE Signal
+*2: without Smart Key System
+A141108E01

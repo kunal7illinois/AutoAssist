@@ -1,0 +1,31 @@
+AUTOMATIC TRANSAXLE 23A-163
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 38. Check the switch output voltage at PCM
+connector C-61 by backprobing.
+(1) Do not disconnect connector C-61.
+CONNECTOR: C-61
+(2) Turn the ignition switch to the "ON" position.
+(3) Move the selector lever to the "2" position.
+PCM
+C-61
+AC001657BH
+(4) Measure the voltage between terminal 122 and ground by
+backprobing.
+C-61 CONNECTOR • Voltage should be battery positive voltage.
+HARNESS SIDE VIEW
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 12.
+NO : Go to Step 39.
+AC001908AI
+STEP 39. Check connector C-61 at PCM for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-61
+YES : Repair harness open circuit or short circuit to ground
+between Park/Neutral position switch connector B-41
+PCM terminal 2 and PCM connector C-61 terminal 122.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+C-61
+AC001657BH
+TSB Revision

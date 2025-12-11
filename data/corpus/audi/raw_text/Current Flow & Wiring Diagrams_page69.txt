@@ -1,0 +1,81 @@
+Audi TT No. 3 / 18
+Current Flow Diagram
+Engine control unit, radiator fan control unit, radiator fan
+J293 Radiator fan control unit
+J533 Data bus diagnostic interface
+J623 Engine control unit
+J743 Mechatronic unit for dual clutch gearbox
+T4c 4-pin connector, black, on radiator fan control unit
+T16 16-pin connector, diagnostic connector
+T20d 20-pin connector, black, on data bus diagnostic interface
+T20e 20-pin connector, on mechatronic unit for dual clutch gearbox
+T81 81-pin connector, black, on engine control unit
+V7 Radiator fan
+B444 V177 Radiator fan 2
+✱✱
+✱ B383 Connection 1 (powertrain CAN bus, high), in main wiring harness
+0,35 0,35 0,35
+gr/ws gr/ws gr/ws
+K B390 Connection 1 (powertrain CAN bus, low), in main wiring harness
+T16/7 T20e/1
+J743
+B444 Connection 1 (diagnosis), in main wiring harness
+T
+K
+81/43
+J623
+*
+• C
+m
+A
+o
+N
+de
+b
+ls
+u s
+w i
+(
+t
+d
+h
+a
+d
+ta
+ir e
+w
+c
+i
+t
+r e
+s
+)
+hift gearbox 02E
+** Is dropped from June 2008
+T81/60 T81/58 T81/66
+• •
+0,35 0,35 0,35
+or/sw or/br ge/li
+B383 B390
+118866 2200
+✱ ✱
+• • • •
+0,35 0,35 0,35 0,35 0,5 1,0 6,0
+or/sw or/sw or/br or/br ge/li bl/ro ro/gn
+T20e T20d T20d/6 T20e/15 T4c/3 T4c/2 T4c/1
+J74 / 3 10 J53 / 3 16 J533 J743 J293
+T4c/4
+M 250W M 300W V V 7 177
+ws = white
+31 sw = black
+ro = red
+6,0 br = brown
+br gn = green
+bl = blue
+221100 gr = grey
+li = purple
+ge = yellow
+225 226 227 228 229 230 231 232 233 234 235 236 237 238 or = orange
+8J0-003180409
+rs = pink
+Edition 10.2010

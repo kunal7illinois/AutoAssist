@@ -1,0 +1,32 @@
+ES–475
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Air Intake Control Circuit
+DESCRIPTION
+The air cleaner is equipped with two inlets, one of which is opened or closed by the Air Intake Control
+Valve (AICV). This system reduces intake noise and increases engine power at low-to-high engine
+speeds range.
+When the engine is operating in the low-to-mid speed range, this control operates the AICV to close one
+of the air cleaner inlets. When the engine speed is more than 3,600 rpm and the opening angle of the
+throttle valve is more than 60°, the ECM activates the VSV and opens the AICV.
+Vacuum Tank
+AICV Open (VSV: ON)
+VSV Throttle Valve
+ES
+Opening Angle
+60°
+Air Intake Control Valve (AICV)
+Air Cleaner Inlet 3,600 rpm
+Engine Speed
+A061332E03
+WIRING DIAGRAM
+A53 ECM
+AICV VSV
+EFI EFI No. 3
+4
+A55 AICV
+44
+EFI MAIN
+A55 MREL
+FL MAIN
+Battery
+A137320E02

@@ -1,0 +1,54 @@
+Interior Light
+System Outline
+1. Dome Light and Ignition Key Illumination Function
+When any door is opened, the dome light (If SW is set to ’DOOR’) and ignition key cylinder light are lit in fade–in manner.
+Then when all the doors are closed (Any door is unlocked), the illumination is kept ON with the timer for approximately for 15
+seconds and then is turned OFF in fade–out manner when the timer is completed.
+2. Battery Saver Function
+If the illumination is kept on for 20 minutes with a door open, it is turned OFF automatically.
+: Parts Location
+Code See Page Code See Page Code See Page
+E1 56 A 60 Q1 61
+NN66
+E2 56 B 60 Q2 61
+E5 56 A 60 Q6 61
+NN1133
+E6 A 56 B 60 Q7 61
+E7 B 56 N15 60 Q8 61
+E25 56 N23 60 Q9 61
+E37 57 N24 A 60 Q10 61
+E49 57 N26 B 60 Q11 61
+E52 57 N28 60 S5 61
+H7 61 O6 60 S15 61
+I6 61 O10 60
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+3B
+3C
+3F
+3G
+3333366666 IIIIInnnnnssssstttttrrrrruuuuummmmmeeeeennnnnttttt PPPPPaaaaannnnneeeeelllll WWWWWiiiiirrrrreeeee aaaaannnnnddddd JJJJJ/////BBBBB NNNNNooooo.....33333 (((((BBBBBeeeeehhhhhiiiiinnnnnddddd ttttthhhhheeeee CCCCCooooommmmmbbbbbiiiiinnnnnaaaaatttttiiiiiooooonnnnn MMMMMeeeeettttteeeeerrrrr)))))
+3I
+3L
+3N
+3O
+4E
+4G 444222 IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll WWWiiirrreee aaannnddd JJJ///BBB NNNooo...444 (((IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll BBBrrraaaccceee CCCeeennnttteeerrr)))
+4H
+ID 30 Engine Room Main Wire and Instrument Panel J/B (Cowl Side Left)
+IF 30
+IG
+3311
+II IIIInnnnssssttttrrrruuuummmmeeeennnntttt PPPPaaaannnneeeellll WWWWiiiirrrreeee aaaannnndddd IIIInnnnssssttttrrrruuuummmmeeeennnntttt PPPPaaaannnneeeellll JJJJ////BBBB ((((CCCCoooowwwwllll SSSSiiiiddddeeee LLLLeeeefffftttt))))
+IL
+3300
+IM
+IO
+3300 FFlloooorr WWiirree aanndd IInnssttrruummeenntt PPaanneell JJ//BB ((CCoowwll SSiiddee LLeefftt))
+IP
+IR 30 Instrument Panel Wire and Instrument Panel J/B (Cowl Side Left)
+170
+CAMRY (EM0250U)

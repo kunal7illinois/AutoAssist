@@ -1,0 +1,39 @@
+54A-26 CHASSIS ELECTRICAL
+IGNITION SWITCH
+STEP 2. Check the "SECURITY" indicator light
+(1) Remove the combination meter and remove the
+"SECURITY" indicator light
+"SECURITY" indicator light bulb.
+TCL
+LAONCTKI SEE SNR OGV OINI
+N
+CEE CRUISE (2) Check the bulb.
+SRS
+RAKE Q:Is the "SECURITY" indicator light damaged?
+100 120
+80 140
+40 60 80 120 16 k 0 m/h 200 240 2 3 4 5 6 7 8 R P H Y N E O S : : G R o ep to la c S e te i p t. 3.
+20 40 0 ODO m TR il I e P s 1 0x 1000 r/min N D 4 3 2
+0 1
+MPH
+C
+AC106909AB
+STEP 3. Check the immobilizer-ECU connector C-79 and
+combination meter connector C-42 for damage.
+Q:Are the immobilizer-ECU connector C-79 and
+CONNECTOR: C-79
+combination meter connector C-42 damaged?
+CENTER
+REINFORCEMENT YES : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. Confirm
+that scan tool MB991502 communicates normally.
+NO : Go to Step 4.
+IMMOBILIZER-ECU DEVICE SIDE
+1 2 3 4 5
+6 7 8 91011 12
+AC001652AD
+CONNECTOR: C-42
+DEVICE SIDE
+2122232425262728 293031323334
+AC106473AI
+TSB Revision

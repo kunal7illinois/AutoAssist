@@ -1,0 +1,31 @@
+RS–317
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+B Go to step 13
+A
+4 CHECK FLOOR WIRE NO. 2 (SHORT TO B+)
+(a) Disconnect the connector from the center airbag sensor
+assembly and occupant classification ECU.
+Floor Wire No. 2
+(b) Connect the negative (-) terminal cable to the battery.
+(c) Turn the ignition switch on (IG).
+(d) Measure the voltage according to the value (s) in the
+table below.
+D A
+Standard voltage
+C B
+Center Airbag
+Occupant Sensor Assembly Tester connection Condition Specified condition
+Classification O4-8 (FSR+) - Body
+Ignition switch on (IG) Below 1 V
+ECU ground
+O4-4 (FSR-) - Body
+Ignition switch on (IG) Below 1 V
+ground
+Connector C
+NG REPAIR OR REPLACE FLOOR WIRE NO. 2
+O4
+FSR-
+FSR+
+C C123686E03
+RS
+OK

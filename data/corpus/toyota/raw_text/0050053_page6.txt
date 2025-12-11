@@ -1,0 +1,50 @@
+ES–294
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2 CHECK HARNESS AND CONNECTOR (ACCELERATOR PEDAL POSITION SENSOR -
+ECM)
+(a) Disconnect the A4 Accelerator Pedal Position (APP)
+Wire Harness Side:
+sensor connector.
+(b) Disconnect the A9 ECM connector.
+APP Sensor Connector
+A4 (c) Measure the resistance.
+Standard resistance (Check for open)
+VPA2 VCPA Tester Connections Specified Conditions
+A4-6 (VPA) - A9-55 (VPA) Below 1 Ω
+EPA2 EPA
+A4-5 (EPA) - A9-59 (EPA) Below 1 Ω
+ES
+A4-4 (VCPA) - A9-57 (VCPA) Below 1 Ω
+VCP2 1 2 3 4 5 6 VPA
+A4-3 (VPA2) - A9-56 (VPA2) Below 1 Ω
+A4-2 (EPA2) - A9-60 (EPA2) Below 1 Ω
+Front View
+A4-1 (VCP2) - A9-58 (VCP2) Below 1 Ω
+A9 ECM Connector
+Standard resistance (Check for short)
+VPA VCPA EPA Tester Connections Specified Conditions
+A4-6 (VPA) or A9-55 (VPA) - body
+10 kΩ or higher
+ground
+A4-5 (EPA) or A9-59 (EPA) - body
+10 kΩ or higher
+ground
+A4-4 (VCPA) or A9-57 (VCPA) - body
+10 kΩ or higher
+ground
+A4-3 (VPA2) or A9-56 (VPA2) - body
+10 kΩ or higher
+ground
+VPA2 VCP2 EPA2
+A4-2 (EPA2) or A9-60 (EPA2) - body
+10 kΩ or higher
+ground
+Front View
+A4-1 (VCP2) or A9-58 (VCP2) - body
+10 kΩ or higher
+A115665E04 ground
+(d) Reconnect the APP sensor connector.
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK

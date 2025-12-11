@@ -1,0 +1,47 @@
+ES–357
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+10 PERFORM EVAP SYSTEM CHECK (STEP 5/5)
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed
+Vent Valve ON
+OFF: Vent
+Leak Detection
+Pump ON ES
+EVAP Pressure
+Positive
+Gross Leak
+Negative [Second
+Reference
+Pressure] x 0.2
+First Reference
+Small Leak
+Pressure
+No Leak
+[Second
+Steps 5/5 Reference
+Time Pressure]
+60
+(Reference) seconds
+A106735E09
+(a) Check the EVAP pressure in step 5/5.
+(b) Compare the EVAP pressure in step 3/5 and the second
+reference pressure (step 5/5).
+Result
+DTCs* Test Results Suspected Trouble Areas Proceed To
+EVAP pressure (step 3/5) lower than second Not yet determined (no leakage from EVAP
+- A
+reference pressure (step 5/5) system)
+P0441 and EVAP pressure (step 3/5) higher than [second • Purge VSV stuck open
+B
+P0455 reference pressure (step 5/5) x 0.2] • EVAP gross leak
+EVAP pressure (step 3/5) higher than second
+P0456 EVAP small leak B
+reference pressure (step 5/5)
+*: These DTCs are already present in the ECM when the
+vehicle arrives and are confirmed in the "CONFIRM
+DTC" procedures above.
+A Go to step 35
+B Go to step 12

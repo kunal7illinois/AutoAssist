@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 ACCESSORIES & EQUIPMENT Keyless/Power Door Locks/Security System - Civic (All Except Hybrid)
+4. Check for DTCs with the HDS.
+Is DTC B1128 indicated?
+YES - Go to step 5.
+NO - Intermittent failure. The driver's door lock system is OK at this time.
+5. With the driver's door lock switch in the neutral position, select KEYLESS
+from the HDS and enter the DATA LIST.
+6. Check the ON/OFF information of the DRIVER'S DOOR LOCK SWITCH
+(LOCK) and DRIVER'S DOOR LOCK SWITCH (UNLOCK) in the DATA
+LIST.
+Are both information indicators OFF?
+YES - Go to step 12.
+NO - Go to step 7.
+7. Disconnect the driver's power window switch 22P (16P)* connector.
+*: 2-door
+8. Check the ON/OFF information of the DRIVER'S DOOR LOCK SWITCH
+(LOCK) and DRIVER'S DOOR LOCK SWITCH (UNLOCK) in the DATA
+LIST.
+Are both information indicators OFF?
+YES - Faulty door lock switch; replace the driver's power window switch.
+NO - Go to step 9.
+9. Turn the ignition switch OFF.
+10. Disconnect the under-dash fuse/relay box connector T(34P).
+11. Check for continuity between the No. 28 (LOCK) and No. 27 (UNLOCK)
+terminals of the under-dash fuse/relay box connector T (34P) and body ground.

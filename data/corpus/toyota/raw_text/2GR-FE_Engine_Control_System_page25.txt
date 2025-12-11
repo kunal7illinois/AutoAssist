@@ -1,0 +1,24 @@
+ES–25
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(g) Enter the following menus: DIAGNOSIS /
+ENHANCED OBD ll / VIN.
+Menu Screen:
+Select VIN READ
+ES
+DTC P0630 Set VIN Previously Stored VIN Not Stored
+17-digit VIN
+displayed
+[EXIT] [EXIT] [EXIT]
+To Menu Screen
+A103812E03
+3. WRITE VIN
+(a) The flowchart of the VIN writing process is shown.
+This process allows the VIN to be input into the
+ECM. If the ECM is changed, or the VINs do not
+match, the VIN can be registered, or overwritten in
+the ECM by following this procedure.
+(b) Write VIN using the intelligent tester.
+(c) Check the vehicle's VIN.
+(d) Connect the intelligent tester to the DLC3.
+(e) Turn the ignition switch on (IG).
+(f) Turn the tester on.

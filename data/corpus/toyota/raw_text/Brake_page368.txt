@@ -1,0 +1,35 @@
+BC–357
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+Brake Actuator Assembly (Skid Control
+ECU with Actuator)
+7
+A60 RL+
+1
+g1
+Rear Speed Sensor LH
+27
+A60 RL-
+2
+29 BC
+A60 RR+
+1
+f1
+Rear Speed Sensor RH 8
+A60 RR-
+2
+C122948E04
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).
+1 CHECK TIRES
+(a) Check the size and condition of all 4 wheels (See page
+TW-3).
+HINT:
+The DTC is output when tire deformation or a difference
+in tire size is detected.
+OK:
+The diameter of all 4 tires and air pressure are the
+same.
+NG REPLACE TIRES SO THAT ALL 4 TIRES ARE
+THE SAME SIZE
+OK

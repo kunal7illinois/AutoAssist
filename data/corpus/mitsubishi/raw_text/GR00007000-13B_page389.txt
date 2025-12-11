@@ -1,0 +1,25 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-389
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Check connectors C-28, C-90, D-16 at intermediate
+connector and C-62 at ECM <M/T> or C-59 at PCM <A/T>
+for damage.
+Q:Are the connectors in good condition?
+CONNECTOR: C-28
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 22.
+AC001741AJ
+CONNECTOR: C-90
+CONNECTOR
+BLOCK (LH)
+AC001991AI
+CONNECTOR: D-16
+AC001787AD
+CONNECTOR: C-62<M/T>, C-59 <A/T>
+ECM <M/T>
+OR
+PCM <A/T>
+C-59 C-62
+<A/T> <M/T>
+AC001689AP
+TSB Revision

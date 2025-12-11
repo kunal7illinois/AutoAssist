@@ -1,0 +1,16 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+Fig. 7: Identifying Hydraulic Control Unit Graph
+EBD Features
+The electronic brake distribution (EBD) feature helps control vehicle braking by
+adjusting the rear brake force in accordance with the rear wheel load before the
+ABS operates. Based on the wheel speed sensor signals, the control unit uses the
+modulator to control the rear brakes individually. When the rear wheel speed is less
+than the front wheel speed, the VSA modulator-control unit retains the current rear
+brake fluid pressure by closing the inlet valve in the modulator. As the rear wheel
+speed increases and approaches the front wheel speed, the VSA modulator-control
+unit increases the rear brake fluid pressure by momentarily opening the inlet valve.
+This whole process is repeated very rapidly. While this is happening, there is
+kickback at the brake pedal.
+Fig. 8: Identifying Electronic Brake Distribution Graph

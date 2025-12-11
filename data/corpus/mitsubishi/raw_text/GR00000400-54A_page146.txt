@@ -1,0 +1,45 @@
+54A-146 CHASSIS ELECTRICAL
+RADIO AND TAPE PLAYER
+STEP 7. Check the wiring harness between front door
+speaker (RH) connector E-01 (terminal 1 and 2) and radio
+and CD player connector C-22 (terminal 6 and 14).
+NOTE: After inspecting intermediate connector C-95, inspect
+CONNECTOR: C-22
+the wire. If intermediate connector C-95 is damaged, repair or
+replace the wiring harness. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+DEVICE SIDE
+1 2 3 4 5 6
+7 8 91011121314
+AC106557AL
+CONNECTOR : E-01
+FRONT DOOR (RH)
+DEVICE SIDE
+1
+2
+AC106487AH
+Q:Are the wiring harness between front door speaker (RH)
+CONNECTOR: C-95
+connector E-01 (terminal 1 and 2) and radio and CD
+player connector C-22 (terminal 6 and 14) in good
+condition?
+CONNECTOR YES : Repair or replace the radio and CD player. The front
+BLOCK (RH)
+door speaker (RH) should sound.
+NO : Repair the wiring harness. The front door speaker
+(RH) should sound.
+1 2 3 4 5 6 7 8 9
+101112131415161718192021
+2223 24252627282930 3132
+AC106553AD
+STEP 8. Check the rear speaker (LH).
+(1) Remove the rear speaker (LH).
+(2) Check that the rear speaker (LH) generates noise when a
+five-volt voltage is applied on the rear speaker (LH)
+terminal.
+Q:Is the rear speaker (LH) generating noise?
+YES : Go to Step 9.
+5V NO : Replace the rear speaker (LH). The rear speaker (LH)
+should sound.
+ACX01868AB
+TSB Revision

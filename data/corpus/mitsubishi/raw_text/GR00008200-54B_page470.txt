@@ -1,0 +1,42 @@
+54B-470 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Measure at ETACS-ECU connector C-119 in order
+to check the line from the ignition switch (IG1) to the
+ETACS-ECU.
+(1) Disconnect ETACS-ECU connector C-119, and measure at
+CONNECTOR: C-119 the junction block side.
+DEVICE SIDE
+(2) Turn the ignition switch to the "ON" position.
+1 2 3 4 5 6 7 8 91011121314151617181920
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+(3) Measure the voltage between terminal 8 and ground.
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+CONNECTOR C-119 YES : Replace the ETACS-ECU. If the functions, which are
+(JUNCTION BLOCK SIDE) described in "CIRCUIT OPERATION", work normally,
+the input signal from the ignition switch (IG1) should
+be normal.
+NO : Go to Step 2.
+20191817161514131211109 8 7 6 5 4 3 2 1
+AC101930AD
+STEP 2. Check ETACS-ECU connector C-119 for damage.
+Q:Is ETACS-ECU connector C-119 in good condition?
+CONNECTOR: C-119
+YES : Go to Step 3.
+DEVICE SIDE
+NO : Repair or replace the connector. Refer to GROUP
+1 2 3 4 5 6 7 8 91011121314151617181920
+00E, Harness Connector Inspection P.00E-2. If the
+JUNCTION BLOCK functions, which are described in "CIRCUIT
+(REAR VIEW)
+OPERATION", work normally, the input signal from
+the ignition switch (IG1) should be normal.
+AC106481AF
+TSB Revision

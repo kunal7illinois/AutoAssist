@@ -1,0 +1,33 @@
+BC–317
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC 43 ABS Control System Malfunction
+DESCRIPTION
+This DTC is output when the VSC system detects a malfunction in the ABS control system.
+DTC No. DTC Detection Condition Trouble Area
+43 Malfunction in the ABS control system ABS control system
+INSPECTION PROCEDURE
+1 CHECK ABS CONTROL SYSTEM
+(a) Clear the DTC (See page BC-302).
+(b) Turn the ignition switch on (IG).
+(c) Check if the same DTC is recorded (See page BC-302).
+Result
+BC
+Condition Proceed to
+DTC (ABS control system DTC) is not output A
+DTC (ABS control system DTC) is output B
+B REPAIR CIRCUITS INDICATED BY OUTPUT
+DTCS (BRAKE CONTROL SYSTEM) (See
+page BC-311)
+A
+2 CONFIRM DTC
+(a) Clear the DTC (See page BC-302).
+(b) Turn the ignition switch on (IG).
+(c) Check if the same DTC is recorded (See page BC-302).
+Result
+Condition Proceed to
+DTC (43) is not output A
+DTC (43) is output B
+B REPLACE BRAKE ACTUATOR ASSEMBLY
+(See page BC-432)
+A
+END

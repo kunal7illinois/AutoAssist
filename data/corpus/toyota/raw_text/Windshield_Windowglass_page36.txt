@@ -1,0 +1,37 @@
+WS–36
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+Driver Side Power Window Motor Circuit
+DESCRIPTION
+This circuit transmits signals from the power window regulator master switch assembly to the power
+window regulator motor (Front LH).
+WS
+WIRING DIAGRAM
+with Jam Protection:
+M1
+Power Window Regulator Master
+I5 Switch Assembly
+Power Window Regulator Motor (Front LH)
+2
+from PWR fuse B
+10 8
+UP1 UP
+7 5
+DWN1 DN
+4 4
+AUTO AUTO
+1
+E
+C
+B137064E01
+without Jam Protection:
+M1
+Power Window Regulator Master
+Switch Assembly
+I4
+Power Window Regulator Motor (Front LH)
+2 3
+UP
+1 4
+DN
+C
+B137065E04

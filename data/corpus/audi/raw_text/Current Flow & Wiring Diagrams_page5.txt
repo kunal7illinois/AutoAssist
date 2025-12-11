@@ -1,0 +1,57 @@
+Audi TT No. 1 / 5
+Current Flow Diagram
+Terminal 50 voltage supply relay, relay for power sockets,
+fuses
+E313 Selector lever
+F189 Tiptronic switch
+J682 Terminal 50 voltage supply relay
+J807 Relay for power sockets
+SC12 Fuse 12 on fuse holder C
+SC13 Fuse 13 on fuse holder C
+SC14 Fuse 14 on fuse holder C
+SC15 Fuse 15 on fuse holder C
+SC29 Fuse 29 on fuse holder C
+SC30 Fuse 30 on fuse holder C
+SC31 Fuse 31 on fuse holder C
+SC32 Fuse 32 on fuse holder C
+SC33 Fuse 33 on fuse holder C
+SC37 Fuse 37 on fuse holder C
+66 111100 77 77
+SC38 Fuse 38 on fuse holder C
+## T10p 10-pin connector, on Tiptronic switch
+6,0 4,0 6,0 2,5
+ro sw ro ro * Relay carrier under left dash panel
+** models with direct shift gearbox 02E
+*** only USA
+12 13 14 15 29 30 31 32 33 37 38 # up to May 2007
+SC12 SC13 SC14 SC15 SC29 SC30 SC31 SC32 SC33 SC37 SC38 ## from June 2007
+10A 10A 5A 5A 15A 20A 40A 5A 5A 5A 20A
+12a 13a 14a 15a 29a 30a 31a 32a 33a 37a 38a
+# # ##
+0,5 0,5 0,5 0,5 0,5 1,5 2,5 2,5 4,0 0,5 0,5 0,5 2,5
+ro/li ro/ws ro/ws li/ws li/ws gn/ws ro/ws ro/ws sw/bl ro/bl ro/gr ro/ge ro/bl
+337733 118800 226655 330033 118822 333322 333355 7700 333377 334466
+T10p/10
+E313 111177 226666
+F189
+✱✱
+0,5 0,5
+ro/sw sw/ge
+✱
+4/86 2/30 ## 12/86 32/30
+✱ 4 2.2
+J682 J807
+6/85 8/87 22/85 42/87a 52/87 ws = white
+sw = black
+ro = red
+✱✱✱
+0,5 4,0 0,5 4,0 2,5 br = brown
+br ro br ro/ws ro/ws gn = green
+bl = blue
+112200 1100 334433 333311 333322 gr = grey
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-001050407
+rs = pink
+Edition 04.2008

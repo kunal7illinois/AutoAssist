@@ -1,0 +1,44 @@
+RS–252
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+(b) Simulation method for DTC B1794:
+Turn the ignition switch from the off to on (IG), hold it
+for 10 seconds, and back to off again 50 times in a
+row.
+HINT:
+DTC B1794 is output if the occupant classification
+ECU receives the ignition switch off-on (IG)-off
+signal 50 times in a row when a malfunction occurs
+in the power circuit for the occupant classification
+system.
+3. FUNCTION OF PASSENGER AIRBAG ON/OFF
+INDICATOR
+(a) Initial check.
+(1) Turn the ignition switch on (IG).
+(2) The passenger airbag ON/OFF indicator ("ON"
+and "OFF") comes on for approximately 4
+seconds, then goes off for approximately 2
+seconds.
+(3) Approximately 6 seconds after the ignition
+switch is turned to on (IG), the passenger airbag
+ON/OFF indicator will show ON or OFF
+depending on the conditions listed below.
+Condition ON Indicator OFF Indicator
+Vacant OFF OFF
+Adult is seated. (Above 36 kg (79.37 lb)) ON OFF
+Child is seated. (Less than 36 kg (79.37 lb)) OFF ON
+Child restraint system is set. (*) OFF ON
+Front passenger occupant classification
+RS OFF ON
+system failure
+*: Child restraint system less than 7 kg (15.43 lb)
+and passenger side buckle switch is ON, then 7
+to 36 kg (15.43 to 79.37 lb) is set.
+HINT:
+• The passenger airbag ON/OFF indicator is
+based on the timing chart below in order to
+check the indicator light circuit.
+• When the occupant classification system has
+trouble, both the SRS warning light and the
+passenger airbag ON/OFF indicator ("OFF")
+come on. In this case, check the DTCs in
+"AIRBAG SYSTEM" first.

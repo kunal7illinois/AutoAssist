@@ -1,0 +1,86 @@
+BC–157
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC No. Detection Item Trouble Area See page
+1. Front speed sensor LH
+2. Speed sensor rotor
+Foreign Object is Attached on Tip
+C1236/36 3. Sensor installation BC-197
+of Front Speed Sensor LH
+4. Brake actuator assembly (Skid
+control ECU)
+1. Rear speed sensor RH
+2. Speed sensor rotor
+Foreign Object is Attached on Tip
+C1238/38 3. Sensor installation BC-197
+of Rear Speed Sensor RH
+4. Brake actuator assembly (Skid
+control ECU)
+1. Rear speed sensor LH
+2. Speed sensor rotor
+Foreign Object is Attached on Tip
+C1239/39 3. Sensor installation BC-197
+of Rear Speed Sensor LH
+4. Brake actuator assembly (Skid
+control ECU)
+1. ECU-IG NO. 2 fuse
+2. Battery
+3. Charging system
+C1241/41 Low Battery Positive Voltage BC-207
+4. Power source circuit
+5. Internal power supply circuit of
+the skid control ECU BC
+1. Yaw rate and acceleration
+Acceleration Sensor Stuck sensor
+C1243/43 (*1) BC-193
+Malfunction 2. Yaw rate and acceleration
+sensor circuit
+1. Yaw rate and acceleration
+Open or Short in Acceleration sensor
+C1244/44 BC-193
+Sensor Circuit 2. Yaw rate and acceleration
+sensor circuit
+1. Yaw rate and acceleration
+Acceleration Sensor Output sensor
+C1245/45 (*1) BC-193
+Malfunction 2. Yaw rate and acceleration
+sensor circuit
+1. Master cylinder pressure
+sensor
+Master Cylinder Pressure Sensor 2. Master cylinder pressure
+C1246/46 (*2) BC-210
+Malfunction sensor circuit
+3. Stop light switch circuit
+4. Brake actuator assembly
+1. STOP fuse
+2. Stop light switch
+C1249/49 Open in Stop Light Switch Circuit 3. Stop light switch circuit BC-213
+4. Brake actuator assembly (Skid
+control ECU)
+1. Brake actuator assembly (GND
+circuit)
+C1251/51 (*1) Open in Pump Motor Circuit BC-219
+2. Brake actuator assembly
+(Motor circuit)
+1. ABS NO. 1 fuse
+2. VSC NO. 1 (fail safe) relay
+Short Circuit in ABS Motor Fail
+C1361/91 3. VSC NO. 1 (fail safe) relay BC-175
+Safe Relay Circuit
+circuit
+4. Brake actuator assembly
+1. Yaw rate and acceleration
+Yaw Rate and / or Acceleration
+sensor
+C1381/97 Sensor Power Supply Voltage BC-193
+2. Yaw rate and acceleration
+Malfunction
+sensor power source circuit
+Control Module Communication
+U0073/94 CAN communication system BC-224
+Bus OFF
+CAN communication system
+Lost Communication with Lateral
+U0124/95 (Skid control ECU to yaw rate and BC-224
+Acceleration Sensor Module
+acceleration sensor)
+(*1, *2):

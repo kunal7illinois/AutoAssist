@@ -1,0 +1,32 @@
+BC–224
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC C1251/51 Open in Pump Motor Circuit
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+• Actuator pump motor does not operate properly.
+• Brake actuator assembly (GND circuit)
+C1251/51 • Open in actuator pump motor circuit continues for at least
+• Brake actuator assembly (Motor circuit)
+2 seconds.
+WIRING DIAGRAM
+Brake Actuator Assembly
+BC
+R+
+45
+VSC NO. 1 (Fail Safe)
+MRF
+1 2 14
+5 3
+VSC NO. 2
+MR Skid Control
+1 2 15 ECU
+ABS NO. 1
+3 5
+BM
+ALT
+2
+Pump
+FL MAIN Motor
+GND2
+Battery 1
+C136022E01

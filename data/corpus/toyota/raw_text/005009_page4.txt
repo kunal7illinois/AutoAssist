@@ -1,0 +1,49 @@
+ES–44
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+LABEL
+Measurement Item Diagnostic Note
+(Intelligent Tester Display)
+VVT CTRL B1 VVT control status -
+Key-off EVAP system leak detection pump
+VACUUM PUMP (see page ES-333)
+status
+EVAP VENT VAL Key-off EVAP system vent valve status -
+FAN MOTOR Electric fan motor -
+TC/TE1 TC and CG (TE1) terminals of DLC3 -
+Output only when FUEL CUT #1 is performed
+ENG SPEED #1 Engine rpm during No. 1 cylinder fuel cut
+using ACTIVE TEST
+Output only when FUEL CUT #2 is performed
+ENG SPEED #2 Engine rpm during No. 2 cylinder fuel cut
+using ACTIVE TEST
+Output only when FUEL CUT #3 is performed
+ES ENG SPEED #3 Engine rpm during No. 3 cylinder fuel cut using ACTIVE TEST
+Output only when FUEL CUT #4 is performed
+ENG SPEED #4 Engine rpm during No. 4 cylinder fuel cut
+using ACTIVE TEST
+Average of engine rpm values during fuel cut Output only when ACTIVE TEST is performed
+ENG SPEED ALL
+of No. 1 to No. 4 cylinders
+VVTL AIM ANGL#1 VVT aim angle -
+VVT CHNG ANGL#1 VVT angle -
+VVT OCV DUTY B1 VVT OCV operation duty -
+ON: when throttle valve fully closed and
+FC IDL Fuel cut idle
+engine speed over 3,500 rpm
+Fuel cut being performed under very light load
+FC TAU Fuel cut during very light load to prevent engine combustion from becoming
+incomplete
+IGNITION Ignition counter -
+CYL #1 Cylinder #1 misfire Only displayed during idling
+CYL #2 Cylinder #2 misfire Only displayed during idling
+CYL #3 Cylinder #3 misfire Only displayed during idling
+CYL #4 Cylinder #4 misfire Only displayed during idling
+CYL ALL All cylinders misfire Only displayed during idling
+MISFIRE RPM Engine speed when misfire occurred -
+MISFIRE LOAD Engine load when misfire occurred -
+MISFIRE MARGIN Margin to detect engine misfire -
+MIL ON RUN DIST Distance after DTC is detected -
+ENG RUN TIME Accumulated engine running time -
+TIME DTC CLEAR Cumulative time after DTC cleared -
+DIST DTC CLEAR Accumulated distance from DTC cleared -
+WU CYC DTC CLEAR Warm-up cycle after DTC cleared -

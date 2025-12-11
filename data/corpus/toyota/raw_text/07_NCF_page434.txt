@@ -1,0 +1,36 @@
+BE-100 BODY ELECTRICAL - SMART KEY SYSTEM
+Step System Operation
+After checking that the steering is in the unlocked condition, the main body ECU transmits a
+o)
+starter request (STSW) signal to the ECM.
+The ECM receives this signal, outputs an ST relay (STAR) signal, and actuates the starter. (For
+p)
+details see the cranking hold function on page EG-132.)
+The ECM and main body ECU both output the starter relay signal in order to actuate the starter.
+q) Both the ECM and main body ECU output the signal in order to prevent situations where the
+starter may fail to operate, such as when the battery voltage supplied to the ECM is low.
+When the ECM judges from the engine speed that engine start is completed, it stops the starter
+r)
+relay (STAR) signal, and stops the starter.
+The main body ECU receives this signal, checks that engine start is completed, and turns OFF
+s)
+the indicator light of the engine switch.
+Crankshaft Position Sensor
+(Engine Speed Signal)
+r)
+o)
+Engine Switch p), r)
+ECM ST CUT Relay
+s) r)
+Main Body
+q)
+ECU
+Park/Neutral
+Position Switch
+ST Relay
+o) Starter
+Steering Lock
+ECU
+Local
+Communication
+0140BE134C

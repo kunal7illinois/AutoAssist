@@ -1,0 +1,38 @@
+ES–431
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+20 INSPECT CANISTER PUMP MODULE (VENT VALVE OPERATION)
+(a) Turn the ignition switch off.
+Charcoal Canister Assembly:
+(b) Disconnect the N17 canister pump module connector.
+VGND (-) (c) Apply battery voltage to the VLVB and VGND terminals
+VLVB (+) of the canister pump module.
+(d) Touch the canister pump module to confirm the vent
+valve operation.
+A112598E01
+Result ES
+Test Results Suspected Trouble Areas Proceed to
+1. Wire harness between vent valve and ECM
+Operating A
+2. ECM
+Not operating Vent valve B
+(e) Reconnect the canister connector.
+B Go to step 29
+A
+21 CHECK HARNESS AND CONNECTOR (ECM - CANISTER PUMP MODULE)
+(a) Disconnect the A55 ECM connector.
+Wire Harness Side:
+(b) Disconnect the N17 canister pump module connector.
+(c) Measure the resistance between the VPMP terminal of
+A55 ECM Connector
+the ECM connector and the VGND terminal of the
+canister pump module connector.
+VPMP Front View
+Canister Pump Module Connector
+1 2 3 4 5
+N17 6 7 8 910
+VGND Front View
+A112621E15
+Result
+Test Results Suspected Trouble Areas Proceed to
+Below 1 Ω ECM A
+10 kΩ or higher Wire harness between ECM and canister pump module B

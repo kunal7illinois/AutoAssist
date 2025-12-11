@@ -1,0 +1,50 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Test-ID DTC Component or System Min. Max. Additional Information
+$82 (130) --- EVAP Monitor System OK by in‐ 6.4 g 6553.5 g ---
+itial Purge check.
+– If any of components or systems fail to meet the specified val‐
+ues. Refer to Diagnostic “Mode 03: Interrogating Fault Mem‐
+ory” to check for stored DTC's or the corresponding diagnostic
+repair procedure
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+– Switch the ignition OFF.
+Monitor-ID $3D (61): EVAP Purge Flow Monitor
+– Connect the scan tool.
+– Start the engine and run at idle.
+– Select “Mode 6: Check test the results of components that are
+not continuously monitored”.
+Select “Monitor-ID $3D (61)”.
+– Select the desired “Test-ID”.
+– Check specified values at idle.
+Test-ID DTC Component or System Min. Max. Additional Information
+$80 (128) P0441 Purge Flow Monitor valve open. 0.01 0.2 Refer to DTC P0441 in
+the DTC summary ta‐
+ble. ⇒ page 69
+$82 (130) --- Purge Flow Monitor valve closed. 0.04 9945 ---
+– If any of components or systems fail to meet the specified val‐
+ues. Refer to Diagnostic “Mode 03: Interrogating Fault Mem‐
+ory” to check for stored DTC's or the corresponding diagnostic
+repair procedure
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+– Switch the ignition OFF.
+Monitor-ID $41 (65): Oxygen Sensor Heater Monitor Bank 1 -
+Sensor 1
+– Connect the scan tool.
+– Start the engine and run at idle.
+– Select “Mode 6: Check test the results of components that are
+not continuously monitored”.
+Select “Monitor-ID $41 (65)”.
+– Select the desired “Test-ID” or “Hex-ID”.
+– Check specified values at idle.
+Test-ID DTC Component or System Min. Max. Additional Information
+$85 (133) P0135 Oxygen sensor ceramic temper‐ 720° C 1200° C Refer to DTC P0135 in
+ature Bank 1 Sensor 1 monitor‐ the DTC summary table.
+ing. ⇒ page 41 .
+– If any of components or systems fail to meet the specified val‐
+ues. Refer to Diagnostic “Mode 03: Interrogating Fault Mem‐
+ory” to check for stored DTC's or the corresponding diagnostic
+21
+3. Diagnosis and Testing

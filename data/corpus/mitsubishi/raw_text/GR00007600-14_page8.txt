@@ -1,0 +1,49 @@
+14-8 COOLING SYSTEM
+ENGINE COOLING DIAGNOSIS
+CONNECTOR: C-07 CONNECTORS: A-30, A-30-1
+A-30
+RADIATOR
+FAN
+A-30-1
+AC000244AC AC000260AD
+CONNECTOR:
+C-49 <2.4L-M/T>, C-50 <2.4L-A/T>
+C-51 <3.0L-M/T>, C-52 <3.0L-A/T>
+ECM <M/T>
+OR
+PCM <A/T>
+AC000245AE
+. TECHNICAL DESCRIPTION
+CIRCUIT OPERATION • The cause could be a malfunction of the fan con-
+• The fan controller is powered from fusible link
+troller power supply or ground circuit.
+number 2. • The cause could also be a malfunction of the fan
+• The ECM <M/T> or PCM <A/T> judges the
+controller or the ECM <M/T> or PCM <A/T>.
+required revolution speed of radiator fan motor
+and condenser fan motor using the input signals .
+transmitted from A/C switch, automatic compres- TROUBLESHOOTING HINTS
+sor controller, vehicle speed sensor and engine • Malfunction of fusible link
+coolant temperature sensor. The ECM <M/T> or • Malfunction of fan control relay
+PCM <A/T> activates the fan controller to drive • Malfunction of fan controller
+the radiator fan motor and condenser fan motor. • Malfunction of ECM <M/T> or PCM <A/T>
+• Damaged wiring harness or connector
+.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+STEP 1. Check the circuit at fan controller connector A-30
+(terminal number 3).
+(1) Disconnect fan controller connector A-30 (terminal number
+3), and measure at the harness side connector.
+CONNECTOR A-30
+(2) Measure the voltage between terminal number 3 and
+ground.
+• When the ignition switch is turned to "ON" position, volt-
+age should be battery positive voltage.
+Q:Is the voltage battery positive voltage when the ignition
+switch is turned to "ON" position?
+YES : Go to Step 7.
+AC000246AB NO : Go to Step 2.
+TSB Revision

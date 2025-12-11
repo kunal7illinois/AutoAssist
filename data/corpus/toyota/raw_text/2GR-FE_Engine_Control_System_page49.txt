@@ -1,0 +1,51 @@
+ES–49
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4. FREEZE FRAME DATA
+The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is
+stored. When troubleshooting, freeze frame data can be
+helpful in determining whether the vehicle was running or
+stopped, whether the engine was warmed up or not,
+whether the air-fuel ratio was lean or rich, as well as
+other data recorded at the time of a malfunction.
+5. DLC3 (Data link Connector 3)
+The vehicle's ECM uses ISO 15765-4 for communication
+DLC3 protocol. The terminal arrangement of the DLC3
+complies with SAE J1962 and matches the ISO 15765-4
+format.
+1 2 3 4 5 6 7 8
+ES
+9 10111213141516
+A122830E11
+Symbols Terminal No. Names Reference terminal Results Condition
+SIL 7 Bus "+" line 5 - Signal ground Pulse generation During transmission
+CG 4 Chassis ground Body ground 1 Ω or less Always
+SG 5 Signal ground Body ground 1 Ω or less Always
+BAT 16 Battery ground Body ground 9 to 14 V Always
+CANH 6 CAN "High" line CANL 54 to 69 Ω Engine switch off
+CANH 6 CAN "High" line Battery positive 1 MΩ or higher Engine switch off
+CANH 6 CAN "High" line CG 1 kΩ or higher Engine switch off
+CANL 14 CAN "Low" line Battery positive 1 MΩ or higher Engine switch off
+CANL 14 CAN "Low" line CG 1 kΩ or higher Engine switch off
+HINT:
+The DLC3 is the interface prepared for reading various
+data from the vehicle's ECM. After connecting the cable
+of an intelligent tester, turn the ignition switch on (IG) and
+turn the tester on. If a communication failure message is
+displayed on the tester screen (on the tester: UNABLE
+TO CONNECT TO VEHICLE), a problem exists in either
+the vehicle or tester. In order to identify the location of
+the problem, connect the tester to another vehicle.
+If communication is normal: Inspect the DLC3 on the
+original vehicle.
+If communication is still not possible: The problem is
+probably in the tester itself. Consult the Service
+Department listed in the instruction manual.
+6. BATTERY VOLTAGE
+Standard Voltage:
+11 to 14 V
+If voltage is below 11 V, replace or recharge the battery
+before proceeding to the next step.
+7. MIL (Malfunction Indicator Lamp)
+(a) The MIL is illuminated when the engine switch is
+first turned on (the engine is not running).

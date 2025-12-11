@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+36-02: EPS CONTROL UNIT INTERNAL CIRCUIT (INH OUTPUT CIRCUIT) (INITIAL
+DIAGNOSIS); DTC 37-01: EPS CONTROL UNIT INTERNAL CIRCUIT (STEP-UP CIRCUIT)
+(INITIAL DIAGNOSIS)
+1. Clear the DTC with the HDS.
+2. Turn the ignition switch to LOCK (0).
+3. Start the engine.
+Does the EPS indicator come on?
+YES -Go to step 4.
+NO -Check for loose terminals or poor connections. If the connections are
+good, the system is OK at this time.
+4. Check for DTCs with the HDS.
+Is DTC 32-01, 32-02, 35-01, 35-02, 35-04, 35-06, 35-07, 36-02, or 37-01?
+YES -Check for loose terminals in the EPS control unit connectors, and repair
+if necessary. If no poor connections are found, replace the EPS control unit
+(see EPS CONTROL UNIT REMOVAL/INSTALLATION ).
+NO -Troubleshoot the indicated DTC. If there are no DTCs, the system is OK
+at this time.
+DTC 32-07: EPS CONTROL UNIT INTERNAL CIRCUIT (CURRENT SENSOR) (STEERING
+DIAGNOSIS)
+1. Clear the DTC with the HDS.
+2. Turn the ignition switch to LOCK (0).
+3. Start the engine.
+4. Turn the steering wheel to the right or left, and wait 10 seconds or more.
+Does the EPS indicator come on?
+YES -Go to step 5.

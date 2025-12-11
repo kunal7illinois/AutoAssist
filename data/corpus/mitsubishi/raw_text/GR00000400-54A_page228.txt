@@ -1,0 +1,40 @@
+54A-228 CHASSIS ELECTRICAL
+REMOTE CONTROLLED RADIO SWITCH
+DIAGNOSIS
+STEP 1. Check the remote controlled radio switch power
+supply circuit at the clock spring connector C-84.
+(1) Disconnect the clock spring connector C-84.
+CONNECTOR: C-84
+(2) Turn the ignition switch to "ON" position.
+DEVICE SIDE
+C-84
+1 2 3 4 5 6
+AC106475AI
+(3) Measure the voltage between terminal 2 and ground.
+HARNESS SIDE • The measured value should be approximately 5 volts
+C-84 (battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 4.
+NO : Go to Step 2.
+6 5 4 3 2 1
+AC106885AB
+STEP 2. Radio and CD player connector C-21 and clock
+spring connector C-84 for damage.
+Q:Are radio and CD player connector C-21 and clock
+CONNECTOR: C-21
+spring connector C-84 in good condition?
+YES : Go to Step 3.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. The
+remote controlled radio switch should work normally.
+DEVICE SIDE
+C-21
+1 2 3 4
+5 6 7 8
+AC106557BB
+CONNECTOR: C-84
+DEVICE SIDE
+C-84
+1 2 3 4 5 6
+AC106475AI
+TSB Revision

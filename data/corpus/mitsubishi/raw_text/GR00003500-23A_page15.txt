@@ -1,0 +1,61 @@
+AUTOMATIC TRANSAXLE 23A-15
+AUTOMATIC TRANSAXLE DIAGNOSIS
+A/T DIAGNOSTIC TROUBLESHOOTING STRATEGY
+M1231007600168
+Use these steps to plan your diagnostic strategy. If 6. If there is a DTC, record the number of the code,
+you follow them carefully, you will find most A/T then erase the code from memory using the scan
+faults. tool.
+1. Gather as much information as possible about the 7. Reconfirm the symptom using the Road Test.
+complaint from the customer.
+8. If DTC is set again, go to Inspection Chart for
+2. Verify that the condition described by the Diagnostic Trouble Codes.
+customer exists.
+9. If DTC is not set again, the malfunction is
+3. Check the vehicle for any A/T Diagnostic Trouble intermittent. For information on how to cope with
+Code (DTC). intermittent malfunctions, refer to GROUP 00,
+4. If you cannot verify the condition and there are no How to Use Troubleshooting/Inspection Service
+DTC, the malfunction is intermittent. For Points − How to Cope with Intermittent
+information on how to cope with intermittent Malfunction P.00-6.
+malfunctions, refer to GROUP 00, How to Use 10.After repairs are completed, conduct a Road Test
+Troubleshooting/Inspection Service Points − How duplicating the complaint set conditions to confirm
+to Cope with Intermittent Malfunction P.00-6. the malfunction has been eliminated.
+5. If you can verify the condition but there are no
+DTC, or the system cannot communicate with the
+scan tool, refer to Symptom Chart P.23A-41.
+A/T DIAGNOSTIC TROUBLE CODE DIAGNOSIS
+M1231007700154
+CHECK "N" RANGE LIGHT <VEHICLES WITH
+SPORT MODE>
+The "N" range light flashes once per second if there is an
+abnormality in any of the items in the table below which are
+related to the A/T system. Check for diagnostic trouble codes if
+the "N" range light is flashing once per second.
+"N" range light flashing items
+Input shaft speed sensor
+Output shaft speed sensor
+Each solenoid valve
+AC001816
+Gear incorrect ratio
+A/T control relay system
+CAUTION
+If the "N" range light is flashing twice per second, it means
+that the A/T fluid temperature is too high. Stop the vehicle
+in a safe place and wait until the "N" range light switches
+off.
+ON-BOARD DIAGNOSTICS sport mode> diagnostic items. The diagnostic results
+can be read with a scan tool. Diagnostic trouble
+The powertrain control module (PCM) monitors its
+codes are kept in memory by direct battery feed. The
+input/output signals (some signals all the time and
+codes are retained in memory even if the ignition
+others under specified conditions). When an irregular
+switch is in the "LOCK" (OFF) position. Diagnostic
+signal is initially monitored, the PCM decides that a
+trouble codes will, however, be erased when a bat-
+malfunction has occurred and records the occur-
+tery terminal or the PCM connector is disconnected.
+rence as a diagnostic trouble code. There are 24
+In addition, the diagnostic trouble code can also be
+<Vehicles without sport mode> or 25 <Vehicles with
+erased by the scan tool MUT-II (MB991502).
+TSB Revision

@@ -1,0 +1,36 @@
+ES–398
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+INSPECTION PROCEDURE
+1 CHECK OTHER DTC OUTPUT (IN ADDITION TO DTC U0101)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DTC INFO / CURRENT CODES.
+(e) Read the DTCs.
+Result
+Display (DTC output) Proceed to
+U0101 A
+ES U0101 and other DTCs B
+B GO TO DTC CHART (See page ES-63)
+A
+2 CHECK TCM TERMINAL VOLTAGE (+B AND E1 TERMINALS)
+(a) Disconnect the TCM connector.
+Wire Harness Side:
+(b) Turn the ignition switch on (IG).
+TCM Connector (Front View)
+(c) Measure the voltage of the TCM connectors.
+Standard voltage
+C56
+Tester Connection Specified Condition
+C56-18 (+B) - C56-8 (E1) 9 to 14 V
+(d) Turn the ignition switch off.
+(e) Measure the resistance of the TCM connector.
++B E1
+Standard resistance
+C133210E08
+Tester Connection Specified Condition
+C56-8 (E1) - Body ground Below 1 Ω
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK

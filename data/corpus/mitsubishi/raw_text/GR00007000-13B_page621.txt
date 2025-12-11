@@ -1,0 +1,32 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-621
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Check the fuel pump operation.
+(1) Disconnect fuel pump connector D-17.
+(2) Use jumper wires to connect fuel pump connector terminal
+FUEL PUMP SIDE
+5 to the positive battery terminal and terminal 4 to the
+CONNECTOR
+negative battery terminal.
+1 2 3 • An operating sound of the fuel pump should be heard.
+4 5
+Q:Is the fuel pump operating properly?
+YES : Go to Step 11.
+NO : Replace the fuel pump. Then confirm that the
+malfunction symptom is eliminated.
+AKX01439AB
+STEP 11. Check the continuity at fuel pump harness side
+connector D-17.
+(1) Disconnect the connector D-17 and measure at the harness
+side.
+(2) Check for the continuity between terminal 4 and ground.
+D-17 HARNESS • Should be less than 2 ohm.
+SIDE CONNECTOR
+Q:Is the continuity normal?
+3 2 1
+5 4 YES : Go to Step 12.
+NO : Repair harness wire damage between fuel pump
+connector D-17 terminal 4 and ground because of
+open circuit or harness damage. Then confirm that
+the malfunction symptom is eliminated.
+AKX01440AC
+TSB Revision

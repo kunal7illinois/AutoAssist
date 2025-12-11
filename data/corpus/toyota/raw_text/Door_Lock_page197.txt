@@ -1,0 +1,29 @@
+DL–187
+DOOR LOCK – SMART KEY SYSTEM
+Luggage Oscillator Circuit
+DESCRIPTION
+The certification ECU activates the inner and outer luggage compartment oscillators. The power is
+supplied from the certification ECU to both the inner and outer luggage compartment oscillators. The inner
+and outer luggage compartment oscillator circuits have the same wiring. If the entry luggage compartment
+function has a problem, check both the inner and outer luggage compartment oscillator circuits.
+WIRING DIAGRAM
+E58
+Certification ECU
+N25
+Electrical Key Oscillator (Inside Luggage Room)
+CLGB 16
+CG7B
+3
+CLG6 15
+CLG7
+1
+S14
+Electrical Key Oscillator (Outside Luggage Room)
+CLGB 32
+CG8B
+2
+DL
+CLG5 31
+CLG8
+1
+B147262E01

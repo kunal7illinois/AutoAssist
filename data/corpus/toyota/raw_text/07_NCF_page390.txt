@@ -1,0 +1,25 @@
+BE-56 BODY ELECTRICAL - AIR CONDITIONING
+5. A/C Pressure Sensor
+A/C pressure sensor detects the refrigerant pressure and outputs it to the A/C ECU in the form of voltage
+changes.
+6. Room Temp. Sensor and Outside Temp. Sensor
+(cid:1) The room temperature sensor detects the room temperature based on changes in the resistance of its
+built-in thermistor and sends a signal to the A/C ECU. This sensor is used on models with automatic air
+conditioning.
+(cid:1) The outside temperature sensor detects the outside temperature based on changes in the resistance of its
+built-in thermistor and sends a signal to the A/C ECU.
+7. Solar Sensor
+(cid:1) The solar sensor consists of a photo diode, two amplifier circuits for the solar sensor, and a frequency
+converter circuit for the light control sensor. This sensor is used on models with automatic air conditioning.
+(cid:1) A solar sensor detects (in the form of changes in the current that flows through the built-in photo diode)
+the changes in the amount of sunlight from the LH and RH sides (2 directions) and outputs these sunlight
+strength signals to the A/C ECU.
+Internal circuit of the solar sensor
+LH Side RH Side
+Photo Diode
+Frequency Amplifier
+Convert Circuit Circuit (LH)
+Amplifier
+Sensor Portion Circuit (RH)
+To Main Body ECU To A/C ECU
+0140BE235C

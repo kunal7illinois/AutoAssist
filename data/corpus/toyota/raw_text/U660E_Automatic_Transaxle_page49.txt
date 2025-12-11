@@ -1,0 +1,85 @@
+AX–49
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Measurement Item/
+Item Normal Condition Diagnostic Note
+Range (display)
+• Press continuously "+" (Up
+Sport shift up switch status/
+SPORTS UP SW shift): ON -
+ON or OFF
+• Release "+" (Up shift): OFF
+• Press continuously "-" (Down
+Sport shift down switch status/
+SPORTS DOWN SW shift): ON - AX
+ON or OFF
+• Release "-" (Down shift): OFF
+Shift lever position is;
+Sport mode select switch status/
+MODE SELECT SW S, "+" and "-": ON -
+ON or OFF
+Except S, "+" and "-": OFF
+Gear position 1st, 2nd, 3rd or 4th:
+TPS 1 SW 0: OFF / 1: ON ON -
+Gear position 5th or 6th: OFF
+Gear position 4th, 5th or 6th: ON
+TPS 2 SW 0: OFF / 1: ON Gear position 1st, 2nd or 3rd: -
+OFF
+Shift solenoid valve SLU is ON:
+ON
+TPS 3 SW 0: OFF / 1: ON -
+Shift solenoid valve SLU is OFF:
+OFF
+• After stall test;
+ATF temp. sensor value/ If the value is "-40°C (-40°F)" or
+Approx. 80°C (176°F)
+A/T OIL TEMP 1 min.: -40°C (-40°F) "215°C (419°F)", ATF temp.
+• Equal to ambient temperature
+max.: 215°C (419°F) sensor circuit is open or shorted.
+when cold soak
+NT SENS VOL Min.: 0 V, Max.: 5 V 0.1 to 1.9 V -
+NC SENS VOL Min.: 0 V, Max.: 5 V 0.1 to 1.9 V -
+ATF 0: OFF / 1: ON -
+LOCK UP 0: OFF / 1: ON Lock up: ON -
+Lock up solenoid status/ • Lock up: ON
+LOCK UP SOL -
+ON or OFF • Except lock up: OFF
+Shift Solenoid SLU Status/ • Lock up: ON
+SOLENOID (SLU) -
+ON or OFF • Except lock up: OFF
+• Accelerator pedal is
+Shift solenoid SLT status/ depressed: OFF
+SOLENOID (SLT) -
+ON or OFF • Accelerator pedal is released:
+ON
+Engine speed:
+ENGINE SPD 550 to 800 rpm: Idling -
+Min.: 0 rpm, Max.: 16,383.75 rpm
+• If value -40°C(-40°F): sensor
+Intake air temperature
+Equivalent to ambient air circuit open
+INTAKE AIR TEMP Min.: -40°C (-40°F), Max.: 140°C
+temperature • If value 140°C(284°F): sensor
+(258°F)
+circuit shorted
+• If value -40°C (-40°F): sensor
+Engine coolant temperature
+80 to 105°C (176 to 221°F): After circuit open
+COOLANT TEMP Min.: -40°C (-40°F), Max.: 215°C
+warming up • If value 140°C (284°F):
+(419°F)
+sensor circuit shorted
+• Accelerator pedal released:
+Throttle sensor position: 0% Recognition value for throttle
+THROTTLE POS
+Min.: 0%, Max.: 100% • Accelerator pedal fully opening angle on ECM
+depressed: 64 to 96%
+Whether throttle position sensor
+THROTTLE POS detecting idle: ON: Idling -
+ON or OFF
+ACCEL POS Min.: 0%, Max.: 100% -
+# of Codes:
+#CODES - Number of detected DTCs
+Min.: 0, Max.: 255
+Check mode:
+CHECK MODE ON: Check mode ON -
+0: OFF, 1: ON

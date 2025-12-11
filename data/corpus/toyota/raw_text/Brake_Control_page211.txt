@@ -1,0 +1,23 @@
+BC–205
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Rear Speed Sensor Circuit: Brake Actuator Assembly
+- Skid Control ECU
+Rear Speed Sensor RH
+RR+
+2 1 5
+RR-
+19
+Rear Speed Sensor LH
+BC
+RL+
+2 1 20
+RL-
+6
+C132772E08
+INSPECTION PROCEDURE
+NOTICE:
+When replacing the brake actuator assembly, perform zero point calibration (See page BC-119).
+HINT:
+When C0200/31, C0205/32, C0210/33, or C0215/34 is output together with C1235/35, C1236/36, C1238/
+38, or C1239/39, inspect and repair the trouble areas indicated by C0200/31, C0205/32, C0210/33, or
+C0215/34 first.

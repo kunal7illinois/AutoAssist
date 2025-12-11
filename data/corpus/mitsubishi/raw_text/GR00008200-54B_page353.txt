@@ -1,0 +1,35 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-353
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the turn-signal lights.
+Q:Do the turn-signal lights illuminate normally?
+YES : Go to Step 2.
+NO : Refer to Inspection Procedure K-1 "Turn-signal lights
+does not flash when the turn-signal light switch is
+turned on P.54B-345."
+STEP 2. Check the input signal (by using the Pulse Check).
+Check input signal from the hazard warning light switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Operate the MUT-II according to the procedure below to
+display "PULSE CHECK."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+(3) Check that scan tool MB991502 sounds when the hazard
+16 PIN warning light switch is turned from "OFF" to "ON."
+Q:Does scan tool MB991502 sound when the hazard
+MB991502
+AC001252AD warning light switch is turned from "OFF" to "ON"?
+YES : Replace the ETACS-ECU.Check that the hazard
+warning lights illuminate normally.
+NO : Refer to Inspection Procedure P-2 "ETACS-ECU does
+not receive a signal from the hazard warning light
+switch" P.54B-528.
+TSB Revision

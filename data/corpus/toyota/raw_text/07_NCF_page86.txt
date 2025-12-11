@@ -1,0 +1,33 @@
+ENGINE - 2AZ-FE ENGINE EG-59
+10. Cooling Fan Control System
+A cooling fan control system in which the ECM controls the cooling fan speed in accordance with the engine
+coolant temperature and the air conditioning operating condition.
+(cid:3) The ECM controls the cooling fan speed based on A/C pressure sensor signals and engine coolant
+temperature sensor signals. The A/C pressure sensor signals are sent from the A/C ECU to the ECM via
+the CAN. This control is accomplished by operating the 2 fan motors in 2 stages at low speed (series
+connection) and high speed (parallel connection).
+(cid:1) Wiring Diagram (cid:2)
+AM1 IG2 Condenser
+Fan Motor
+Fan Fan 3 4 Fan
+No.1 No.2 No.3 M
+ALT Relay Relay 5 Relay
+Radiator
+M
+Fan Motor Engine Coolant
+Battery
+Temp. Sensor
+FANH ECM FANL THW
+CAN (CAN No.1 Bus)
+A/C ECU A/C Pressure Sensor
+025EG16TE
+(cid:1) Cooling Fan Operation (cid:2)
+AAiirr CCoonnddiittiioonniinngg EEnnggiinnee CCoooollaanntt Relay Operation CCoooolliinngg FFaann CCoooolliinngg FFaann
+Operating Condition Temperature No.1 No.2 No.3 Motor Connection Operation
+Low OFF 3 to 4 OFF OFF OFF
+OOFFFF
+High ON 3 to 5 ON Parallel High
+A/C Pressure “Low” Low OFF 3 to 4 ON Series Low
+A/C Pressure “High” Low ON 3 to 5 ON Parallel High
+A/C Pressure “Low” High ON 3 to 5 ON Parallel High
+A/C Pressure “High” High ON 3 to 5 ON Parallel High

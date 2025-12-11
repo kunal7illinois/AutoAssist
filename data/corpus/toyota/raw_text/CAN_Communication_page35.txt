@@ -1,0 +1,36 @@
+CA–35
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+DTC B1207 Certification ECU Communication Malfunction
+DTC B2326 CAN MS Bus Line Communication Malfunction
+DESCRIPTION
+The Main Body ECU and Certification ECU perform 2-way communication with each other via the
+Controller Area Network (CAN). If the Certification ECU cannot communicate with the Main Body ECU,
+the Main Body ECU will conclude that there is a malfunction in the CAN system, and set a DTC.
+DTC No. DTC Detection Condition Trouble Area
+• CAN MS bus wire or connector
+B1207 • Certification ECU power source circuit
+No communication from certification ECU continues
+B2326 • Certification ECU
+• Main body ECU
+WIRING DIAGRAM
+CA
+E58 E8
+Certification ECU Main Body ECU
+EFI No. 1
++B
+CANH L CANP
+E W
+CANL CANN
+120 Ω 120 Ω
+: CAN MS Bus Line (CANP) Trouble Area
+: CAN MS Bus Line (CANN)
+C133252E01
+INSPECTION PROCEDURE
+NOTICE:
+• Turn the ignition switch off before measuring the resistance of the CAN main wire and CAN
+branch wires.
+• After the ignition switch is turned off, check that the key reminder warning system and light
+reminder warning system are not operating.
+• Before measuring the resistance, leave the vehicle as is for at least 1 minute and do not operate
+the ignition switch, any other switches or the doors. If doors need to be opened in order to
+check connectors, open the doors and leave them open.

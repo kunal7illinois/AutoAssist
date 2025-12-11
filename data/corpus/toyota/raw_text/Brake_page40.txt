@@ -1,0 +1,46 @@
+BC–40
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+A
+5 INSPECT FRONT SPEED SENSOR INSTALLATION
+(a) Check the front speed sensor installation.
+8.0 N*m (82 kgf*cm, 71 in.*lbf)
+OK:
+The installation bolt is tightened properly.
+There is no clearance between the sensor and front
+steering knuckle.
+Torque:8.0 N*m (82 kgf*cm, 71 in.*lbf)
+NOTICE:
+Check the speed sensor signal after replacement (See
+No clearance
+OK NG page BC-11).
+BR03795E21
+NG REPLACE FRONT SPEED SENSOR (See
+page BC-438)
+BC OK
+6 INSPECT FRONT SPEED SENSOR
+(a) Make sure that there is no looseness at the locking part
+and the connecting part of the connectors.
+(b) Disconnect the front speed sensor connectors.
+2 1 (c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+LH
+Tester Connection Specified Condition
+0.92 to 1.22 kΩ at 20
+A14-1 (FL+) - A14-2 (FL-)
+C093876E01 °C (68°F)
+A14-1 (FL+) - Body ground 10 kΩ or higher
+A14-2 (FL-) - Body ground 10 kΩ or higher
+RH
+Tester Connection Specified Condition
+0.92 to 1.22 kΩ at 20
+A35-1 (FR+) - A35-2 (FR-)
+°C(68°F)
+A35-1 (FR+) - Body ground 10 kΩ or higher
+A35-2 (FR-) - Body ground 10 kΩ or higher
+NOTICE:
+Check the speed sensor signal after replacement
+(See page BC-11).
+NG REPLACE FRONT SPEED SENSOR (See
+page BC-438)
+OK

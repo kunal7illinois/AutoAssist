@@ -1,0 +1,67 @@
+13B-616 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+.CIRCUIT OPERATION • During cranking and while the engine is running,
+• Battery positive voltage is applied to the fuel the ECM <M/T> or PCM <A/T> turns the power
+transistor in the ECM <M/T> or PCM <A/T> ON
+pump relay 1 (terminal 3) from the ignition switch-
+to ground the fuel pump relay 2 coil. With this, the
+IG.
+fuel pump relay turns ON, and the battery positive
+Ground is provided through terminal 2 to chassis
+voltage is supplied to the fuel pump from the fuel
+ground.
+• When the ignition switch is turned to the "ON" pump relay 2 (terminal 4).
+position, the battery positive voltage is applied to
+.
+the fuel pump relay 2 (terminal 1) from the fuel TROUBLESHOOTING HINTS (The most likely
+pump relay 1 (terminal 1). causes for this code to be set are:)
+• A battery positive voltage is applied on the fuel • Malfunction of the fuel pump relay 1 and 2.
+pump relay 2 (terminal 3) from the ignition switch- • Malfunction of the fuel pump.
+IG. • Improper connector contact, open or short-cir-
+cuited harness wire.
+• Malfunction of the ECM <M/T> or PCM <A/T>.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check actuator test
+item 07: Fuel Pump.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the actuator test mode for item
+07, Fuel Pump.
+16 PIN • An operation sound of the fuel pump should be heard.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AKX01177AB Q:Is the fuel pump operating properly?
+YES : That this malfunction is intermittent. Refer to GROUP
+00, How to Use Troubleshooting/Inspection Service
+Points P.00-6.
+NO : Go to Step 2.
+STEP 2. Check connector C-107 at fuel pump relay 1 and
+connector C-105 at fuel pump relay 2 for damage.
+Q:Is the connector in good condition?
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK103836
+TSB Revision
+44
+33
+44
+33
+22
+11
+22
+11
+CONNECTOR: C-105,C-107
+JUNCTION BLOCK
+C-105
+C-107
+HARNESS SIDE
+CONNECTOR
+AE

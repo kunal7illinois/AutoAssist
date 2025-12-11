@@ -1,0 +1,43 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-541
+SYMPTOM PROCEDURES
+STEP 2. Malfunction of the driver’s door lock key cylinder
+switch
+Disconnect driver’s door lock key cylinder switch connector E-
+CONNECTOR: E-14 14.Then check continuity between the switch terminals.
+FRONT DOOR (LH)
+SWITCH POSITION TESTER SPECIFIED
+CONNECTION CONDITION
+LOCK 2 − 3 Less than 2 ohm
+Neutral (OFF) 1 - 2 - 3 Open circuit
+UNLOCK 1 − 2 Less than 2 ohm
+Q:Is the driver’s door lock key cylinder switch in good
+condition?
+YES : Go to Step 3.
+NO : Replace the driver’s door lock key cylinder switch. If
+the systems, which are described in "CIRCUIT
+OPERATION", work normally, the input signal from
+the driver’s door lock key cylinder switch should be
+normal.
+1 2 3
+AC106561AB
+STEP 3. Measure at driver’s door lock key cylinder switch
+connector E-14 in order to check the ground circuit to the
+driver’s door lock key cylinder switch.
+(1) Disconnect driver’s door lock key cylinder switch connector
+CONNECTOR: E-14 E-14, and measure at the harness side.
+FRONT DOOR (LH)
+DEVICE SIDE
+E-14
+1 2 3
+AC106556AG
+(2) Measure the resistance value between terminal 2 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR E-14
+(HARNESS SIDE) Q:Does the measured resistance value correspond with
+this range?
+YES : Go to Step 6.
+3 2 1
+NO : Go to Step 4.
+AC002175AD
+TSB Revision

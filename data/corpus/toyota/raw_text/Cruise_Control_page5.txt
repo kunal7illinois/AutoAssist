@@ -1,0 +1,54 @@
+CC–5
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+SYSTEM DESCRIPTION
+1. CRUISE CONTROL SYSTEM
+This system is controlled by the ECM, and is activated by
+the throttle position sensor and motor. The ECM controls
+the following functions: ON-OFF, - (COAST)/SET, +
+(ACCEL)/RES (RESUME), CANCEL, vehicle speed
+operation, motor output control, and overdrive control.
+• The ECM compares the driving vehicle speed from
+the speed sensor with the stored vehicle speed set
+through the cruise control main switch. The ECM
+instructs the throttle valve motor of the throttle body
+assembly to close the valve when the driving speed is
+greater than the stored speed, and instructs it to open
+the valve when the driving speed is less than the
+stored speed.
+• The ECM receives signals such as ON-OFF, -
+(COAST)/SET, + (ACCEL)/RES (RESUME), and
+CANCEL from the cruise control main switch and
+executes the command.
+• The ECM illuminates the combination meter's
+CRUISE main indicator light when it receives a cruise
+control main switch ON signal.
+• The ECM cancels the cruise control system when the
+brake pedal is depressed and the ECM receives a
+stop light switch signal.
+• The ECM cancels the cruise control system when the
+shift lever is moved from the D to the N position or the
+transmission is shifted to the 3rd, 2nd, or 1st gear with
+the shift lever in the S position, and the ECM receives
+a park/neutral position switch signal.
+• The ECM cancels the cruise control system when the
+clutch pedal is depressed and the ECM receives a
+clutch switch signal.
+2. LIMIT CONTROL
+(a) Low speed limit
+CC
+The lowest possible limit of the speed setting range
+is set at approximately 40 km/h (25 mph). The
+cruise control system cannot be set when the
+driving vehicle speed is below the low speed limit.
+Cruise control operation will be automatically
+canceled but the stored vehicle speed will be
+retained when the vehicle speed drops below the
+low speed limit 40 km/h (25 mph) while the cruise
+control is in operation.
+(b) High speed limit
+The highest possible limit of the speed setting range
+is set at approximately 200 km/h (125 mph). The
+cruise control system cannot be set when the
+driving vehicle speed is over the high speed limit.
+Also, + (ACCEL)/RES (RESUME) cannot be used to
+increase speed beyond the high speed limit.

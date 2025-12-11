@@ -1,0 +1,18 @@
+BC–78
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+DTC C1300/62 Skid Control ECU Malfunction
+DESCRIPTION
+The skid control ECU outputs this DTC, if malfunctions are found in the circuit inside the computer by self
+diagnosis.
+DTC No. DTC Detecting Condition Trouble Area
+C1300/62 Internal failure of the skid control ECU control unit Brake actuator assembly (skid control ECU)
+INSPECTION PROCEDURE
+1 REPLACE BRAKE ACTUATOR ASSEMBLY
+(a) Replace the brake actuator assembly (skid control ECU)
+(See page BC-432).
+HINT:
+BC This DTC is output when the skid control ECU detects a
+malfunction in the internal circuit.
+(b) Clear the DTC (See page BC-21).
+NEXT
+END

@@ -1,0 +1,30 @@
+AUTOMATIC TRANSAXLE 23A-241
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 16. Check harness for damage between A/T control
+relay connector A-17X terminal 3 and the ground.
+Q:Is the harness wire in good condition?
+CONNECTOR: A-17X
+YES : Go to Step 17.
+NO : Repair it.
+BATTERY A-17X
+FRONT OF VEHICLE
+AC102447AF
+STEP 17. Check harness for short circuit to ground
+between A/T control relay connector A-17X terminal 2 and
+PCM connector C-54 <2.4L Engine> or C-55 <3.0L Engine>
+terminal 50.
+Q:Is the harness wire in good condition?
+CONNECTOR: A-17X
+YES : Repair harness short circuit to ground between A/T
+control relay connector A-17X terminal 4 and solenoid
+valve assembly connector B-40 terminal 9 and 10.
+NO : Repair it.
+BATTERY A-17X
+FRONT OF VEHICLE
+AC102447AF
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE>
+PCM
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+TSB Revision

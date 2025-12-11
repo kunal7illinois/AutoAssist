@@ -1,0 +1,44 @@
+23A-116 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+CONNECTOR: C-28
+CONNECTORS: C-111, C-112
+JUNCTION BLOCK
+(FRONT VIEW)
+C-112
+C-111
+C-28 C-111
+C-112
+AC106611AB
+AC106814AB
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+• A coil built into the output shaft speed sensor If the output signal from the output shaft speed sen-
+sor has been lost for one second or more while the
+generates a pulse signal at both ends of this coil
+vehicle is being driven, it is judged to be an open cir-
+when the output shaft rotates. The pulse signal
+cuit or short circuit in the output shaft speed sensor
+frequency increases with a rise in output shaft
+circuit and diagnostic trouble code number "23" is
+speed.
+• Both ends of the coil are connected to the PCM set. If diagnostic trouble code number "23" is output
+four times, the transaxle is locked into 3rd gear or
+(terminals 16 and 104) via the output shaft speed
+2nd gear as a fail-safe measure, and the "N" range
+sensor connector (terminals 1 and 2).
+• The PCM detects the output shaft speed by the light flashes once per second.
+signal input to terminal 104.
+.
+• The output shaft speed sensor generates the TROUBLESHOOTING HINTS (The most likely
+pulse signal as the teeth of the transfer drive gear causes for this code to be set:)
+pass the magnetic tip of the sensor. • Malfunction of the output shaft speed sensor
+• Malfunction of the transfer drive gear or driven
+. gear
+• Damaged harness, connector
+• Malfunction of the PCM
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+TSB Revision

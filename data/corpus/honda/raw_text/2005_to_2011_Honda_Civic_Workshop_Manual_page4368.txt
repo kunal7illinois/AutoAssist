@@ -1,0 +1,20 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+Fig. 43: Checking Continuity Between Brake Pedal Position Switch 4P
+Connector And ECM Connector A (44P)
+Is there continuity?
+YES -Substitute a known-good ECM, then go to step 1 and recheck. If DTCs
+are not indicated, replace the original ECM (see ECM REPLACEMENT ).
+NO -Repair open in the wire between the ECM and the brake pedal position
+switch.
+DTC 68-22: BRAKE PEDAL POSITION SWITCH STUCK ON
+1. Turn the ignition switch ON (II).
+2. Check the BRK PRESS in the VSA DATA LIST with the HDS. Do not press
+the brake pedal.
+Is 10 MPa or more?
+YES -Check brake pedal height (see BRAKE PEDAL AND BRAKE
+PEDAL POSITION SWITCH ADJUSTMENT ). If the brake pedal height is
+OK, replace the VSA modulator-control unit (see VSA MODULATOR-
+CONTROL UNIT REMOVAL AND INSTALLATION ).
+NO -Go to step 3.

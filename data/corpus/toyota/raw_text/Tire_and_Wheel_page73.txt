@@ -1,0 +1,38 @@
+TW–72
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+2 INSPECT IG1 RELAY
+(a) Remove the IG1 relay from the instrument panel junction
+block.
+1 (b) Measure the resistance according to the value(s) in the
+table below.
+5 3 Standard resistance
+3 5
+Tester Connection Specified Condition
+2 1
+10 kΩ or higher
+2 3 - 5 Below 1 Ω
+(When battery voltage is applied to terminals 1 and
+A092673E31 2)
+NG REPLACE IG1 RELAY
+TW
+OK
+3 CHECK HARNESS AND CONNECTOR (ECU - BATTERY AND BODY GROUND)
+(a) Disconnect the E60 ECU connector.
+Wire Harness Side:
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Tester Connection Switch Condition Specified Condition
+IG E60-7 (IG) - Body Ignition switch on (IG) 10 to 14 V
+E60 ground Ignition switch off Below 1 V
+(c) Measure the resistance according to the value(s) in the
+GND
+table below.
+E129464E01
+Standard resistance
+Tester Connection Specified Condition
+E60-9 (GND) - Body ground Below 1 Ω
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

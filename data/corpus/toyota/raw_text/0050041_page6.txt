@@ -1,0 +1,21 @@
+ES–249
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+15 CHECK WHETHER DTC OUTPUT RECURS (DTC P050A AND/OR P050B)
+NOTICE:
+In this operation, the engine must be cold (the same level
+as the engine coolant temperature recorded in the freeze
+frame data).
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Clear DTCs (see page ES-35).
+(e) Switch the ECM from normal mode to check mode using
+the tester (see page ES-38). ES
+(f) Start the engine to idle for a minute.
+OK:
+Stable fast idling.
+(g) Read DTCs.
+OK:
+No DTC output.
+NEXT
+END

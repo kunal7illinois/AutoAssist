@@ -1,0 +1,42 @@
+54B-510 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 9. Check the wiring harness between passenger’s
+door switch connector D-01 (terminal 2) and ETACS-ECU
+connector C-118 (terminal 65).
+NOTE: Also check intermediate connector C-90. If intermedi-
+CONNECTOR <ECLIPSE>: D-01
+ate connectors C-90 is damaged, repair or replace the connec-
+tor as described in GROUP 00E, Harness Connector
+Inspection P.00E-2.
+DEVICE SIDE
+D-01
+1 2 3
+AC106483AD
+CONNECTOR <ECLIPSE SPYDER>: D-01
+DEVICE SIDE
+D-01
+1 2 3
+AC106485AD
+CONNECTOR: C-118
+DEVICE SIDE
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+Q:Is the wiring harness between passenger’s door switch
+CONNECTOR: C-90
+connector D-01 (terminal 2) and ETACS-ECU connector
+CONNECTOR BLOCK (LH)
+C-118 (terminal 65) in good condition?
+YES : Replace the ETACS-ECU. If the functions, which are
+described in "CIRCUIT OPERATION", work normally,
+the input signal from the passenger’s door switch
+should be normal.
+1 2 3 4 5 6 7 8 9 NO : Repair the wiring harness. If the functions, which are
+1011121314 15 161718192021
+described in "CIRCUIT OPERATION", work normally,
+2223242526 27 2829 30313233
+34353637 38 3940 414243 the input signal from the passenger’s door switch
+AC106477AE should be normal.
+TSB Revision

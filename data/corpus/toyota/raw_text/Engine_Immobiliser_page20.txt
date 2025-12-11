@@ -1,0 +1,51 @@
+EI–20
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+(d) Measure the resistance and voltage according to
+the value(s) in the table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+AGND (E58-40) - Body ground G - Body ground Engine switch ground Always Below 1 Ω
+Engine switch power Key is not in cabin Below 1 V
+VC5 (E58-30) - AGND (E58-40) R - G
+supply Press engine switch* 4.6 to 5.4 V
+Key is not in cabin Below 1 V
+CODE (E58-9) - AGND (E58-40) W - G Engine switch CODE input Press engine switch and Pulse generation (see
+hold key close to engine
+waveform 1)
+switch*
+Key is not in cabin Below 1 V
+Engine switch TXCT Press engine switch and
+TXCT (E58-8) - AGND (E58-40) GR - G Pulse generation (see
+output hold key close to engine
+waveform 2)
+switch*
+HINT:
+*: Remove the key battery before performing this
+inspection.
+If the result is not as specified, the ECU may have a
+malfunction.
+(e) Inspect using an oscilloscope.
+(1) Waveform 1 (Reference)
+Item Content
+Symbols (Terminal No.) CODE (E58-9) - AGND (E58-40)
+Tool Setting 2 V/DIV., 20 ms./DIV.
+GND Press engine switch and hold key close
+Condition
+to engine switch*
+HINT:
+*: Remove the key battery before performing this
+inspection.
+Tool Setting: 2 V/DIV., 20 ms./DIV.
+EI
+B139211E01
+(2) Waveform 2 (Reference)
+Item Content
+Symbols (Terminal No.) TXCT (E58-8) - AGND (E58-40)
+Tool Setting 2 V/DIV., 20 ms./DIV.
+Press engine switch and hold key close
+Condition
+GND to engine switch*
+HINT:
+*: Remove the key battery before performing this
+inspection.
+Tool Setting: 2 V/DIV., 20 ms./DIV.
+B139212E01

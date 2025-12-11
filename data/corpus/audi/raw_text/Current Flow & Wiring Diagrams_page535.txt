@@ -1,0 +1,39 @@
+Audi TT No. 61 / 14
+Current Flow Diagram
+Intake air temperature sender, Coolant temperature sender,
+Intake manifold pressure sender, Radiator outlet coolant
+temperature sender, Engine control unit
+G42 Intake air temperature sender
+G62 Coolant temperature sender
+G71 Intake manifold pressure sender
+G83 Radiator outlet coolant temperature sender
+J623 Engine control unit
+T60 60-pin connector
+T94 94-pin connector
+316 Earth connection (sender earth 2) in engine wiring harness
+D174 Connection 2 (5V) in engine prewiring harness
+J623
+T94 T94 T60 T60 T60 T60 T60
+/36 /12 /57 /14 /42 /29 /9
+316
+316
+0.35 0.35 0.35 0.35 0.35 0.5
+ge br ws/br gn/br ge sw/gr
+D174
+D174
+0.35 0.5 0.5 0.5
+br br gr ws
+1 2 1 2 1 2 1 3 4
+ws = white
+sw = black
+G83 G62 G42 G71
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+169 170 171 172 173 174 175 176 177 178 179 180 181 182 or = orange
+8J0-061140410 rs = pink
+04.2010

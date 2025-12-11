@@ -1,0 +1,57 @@
+AV–26
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+System Check Mode:
+PRESET SWITCH “3” PRESET SWITCH “2”
+Detailed Information Mode 2:
+(DTCs are detected in the (*1) (*2)
+(*3) PRESET SWITCH “5”
+responses to both “System Check
+Result Request” and “Diagnostic (*1) (*2) (Press 2 seconds or more)
+Memory Request”.)
+(*4)
+*5: 1...The first code
+(*1) (*2)
+(*5) L...Indicates logical address
+Detailed information of the 62...Logical address
+(*1) (*2)
+first code is displayed.
+(*6) *6: 1...The first code
+(*1) (*2) d...Indicates DTC
+47...DTC
+Continues to display (*12)
+*7: “COdE” indicates the display
+start of the response to “Diagnostic
+Memory Request”.
+(*1) (*2)
+(*7)
+(*1) (*2)
+*8: 2...The second code
+(*8)
+*9: Physical address appears as
+(*1) (*2) the sub-code.
+*10: Connection check number
+(*1) (*2)
+Detailed information of the
+(*9) *11: The number of times of
+second code is displayed.
+occurrence
+(*1) (*2)
+(*10)
+*12: Continues to display detailed
+(*1) (*2) information when more DTCs are
+detected in the response to “System
+(*11)
+Check Result Request”.
+*1: SEEK TRACK DOWN (*1) (*2)
+AV
+*2: SEEK TRACK UP
+*3: P...Indicates physical address
+Continues to display (*13)
+*13: Continues to display detailed
+190...Physical address information when more DTCs are
+detected in the response to
+*4: “SyS” indicates the display start
+(*1) (*2) “Diagnostic Memory Request”.
+of the response to “System Check
+Result Request”.
+E110918E05

@@ -1,0 +1,33 @@
+AX–73
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Required sensors/Components Speed sensor (NT), Speed sensor (NC)
+Frequency of operation Continuous
+Duration 5 sec.
+MIL operation Immediate
+Sequence of operation None
+AX
+TYPICAL ENABLING CONDITIONS
+P0715:
+Battery voltage 8 V or more
+Ignition switch ON
+Starter OFF
+P0717:
+P0500 (VSS)
+The monitor will run whenever this DTC is not present.
+P0748, P0778, P0798 (Shift solenoid valve (range))
+Shift change Shift change is completed before starting next shift change operation
+TCM selected gear 2nd, 3rd, 4th, 5th or 6th
+Output shaft rpm 1,000 rpm or more
+STAR switch OFF
+R switch OFF
+Engine Running
+Battery voltage 8 V or more
+Ignition switch ON
+Starter OFF
+TYPICAL MALFUNCTION THRESHOLDS
+P0715:
+Sensor voltage Less than 0.1 V or more than 1.9 V
+P0717:
+Sensor signal rpm Less than 300 rpm
+COMPONENT OPERATING RANGE
+Speed sensor (NT) Turbine speed is equal to engine speed with lock-up ON

@@ -1,0 +1,31 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-335
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 15. Check connector A-18X at the MFI relay for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-18X
+YES : Go to Step 16.
+MFI RELAY NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 20.
+AK101363AB
+STEP 16. Check connector C-58 at ECM <M/T> or
+connector C-55 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-58<M/T>, C-55<A/T>
+YES : Go to Step 17.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 20.
+C-55 C-58
+AK000225AI
+STEP 17. Check for harness damage between MFI relay
+connector A-18X terminal 4 and camshaft position sensor
+connector B-22 terminal 6.
+Q:Is the harness wire in good condition?
+CONNECTOR: A-18X
+YES : Go to Step 18.
+MFI RELAY NO : Repair it. Then go to Step 20.
+AK101363AB
+CONNECTOR: B-22
+AAKK000000221177AB
+TSB Revision

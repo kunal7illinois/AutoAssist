@@ -1,0 +1,45 @@
+CHASSIS ELECTRICAL 54A-237
+REAR WINDOW DEFOGGER
+REAR WINDOW DEFOGGER
+ON-VEHICLE SERVICE
+PRINTED-HEATER LINES CHECK
+M1543001800162
+1. Run engine at 2,000 r/min. Check heater element with
+NORMAL CHARACTERSTIC CURVE
+battery at full.
+VOLTAGE 2. Turn "ON" rear window defogger switch. Measure heater
+element voltage with circuit tester at rear window glass
+centre A. Condition is good if it indicates about 6 V.
+A (CENTER POINT)
+3. If 12 V is indicated at A, there is a break in the negative
+APPROXIMATELY
+6 V terminals from A. Move test bar slowly to negative terminal
+to detect where voltage changes suddenly (0V).
+POSITIVE PRINTED NEGATIVE 4. If 0 V is indicated at A, there is a break in the positive
+TERMINAL HEATER TERMINAL
+LINE terminals from A. Defect where the voltage changes
+suddenly (12 V) in the same method described above.
+ABNORMAL CHARACTERSTIC CURVE
+VOLTAGE
+OPENCIRCUIT
+POINT
+POSITIVE PRINTED NEGATIVE
+TERMINAL HEATER TERMINAL
+LINE
+ACX00813AC
+REAR WINDOW DEFOGGER SWITCH REMOVAL AND INSTALLATION
+REMOVAL AND INSTALLATION
+M1543006200165
+Refer to GROUP 55, Heater Control Assembly and
+Blower Switch Assembly P.55-31.
+INSPECTION
+M1543019501233
+REAR WINDOW DEFOGGER SWITCH
+HEATER CONTROL ASSEMBLY SWITCH TESTER SPECIFIED
+CONNECTORT
+POSITION CONNECTION CONDITION
+OFF 3 − 12 Open circuit
+ON 3 − 12 Less than 2 ohm
+1 2 3 4 5 6 7 8 9 10 11 12
+ACX02300AC
+TSB Revision

@@ -1,0 +1,20 @@
+BC–279
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+SYSTEM DESCRIPTION
+1. SYSTEM DESCRIPTION
+HINT:
+• The skid control ECU is located within the brake
+actuator assembly.
+• The yaw rate sensor and acceleration sensor are
+combined in a single unit. This unit communicates
+with the skid control ECU through the CAN
+communication system.
+(a) ABS operation
+(1) Based on the signals received from the 4 wheel
+speed sensors, the skid control ECU calculates
+the deceleration and speed of each wheel, while
+monitoring for wheel lock. If wheel lock is
+occurring, the ECU controls the solenoid valves
+in the brake actuator in order to adjust the
+hydraulic pressure applied to the brakes at each
+wheel. BC

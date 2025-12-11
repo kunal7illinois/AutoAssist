@@ -1,0 +1,37 @@
+CIRCUIT DIAGRAMS 90-9
+HOW TO READ CIRCUIT DIAGRAMS
+SYMBOLS (EXCEPT CONNECTOR AND GROUNDING)
+Devices appearing in circuit diagrams are indicated by the following symbols.
+Battery Buzzer Capacitor Electrolytic Variable Coil
+capacitor capacitor
+ACX02377AB ACX02378AB ACX02379AB ACX02380AB ACX02381AB ACX02382AB
+Diode Light emitting Photo diode Zener diode Dual bulb Single bulb
+diode
+ACX02383AB ACX02384AB ACX02385AB ACX02386AB ACX02387AB ACX02388AB
+Fuse Fusible link Horn Motor Pulse generator Piezoelectric
+device
+ACX02389AB ACX02390AB ACX02391AB ACX02392AB ACX02393AB ACX02394AB
+Resistor Variable resistor Speaker Thermistor Transistor Photo transistor
+ACX02395AB ACX02396AB ACX02397AB ACX02398AB ACX02399AB ACX02400AB
+WIRE COLOR CODES
+Wire colors are identified by the following color codes.
+CODE WIRE COLOR CODE WIRE COLOR CODE WIRE COLOR CODE WIRE COLOR
+B Black L Blue R Red Y Yellow
+BR Brown LG Light green SB Sky blue − −
+G Green O Orange V Violet − −
+GR Gray P Pink W White − −
+If a cable has two colors, the first of the two color code charac-
+ters indicates the basic color (color of the cable coating) and
+Example: <F> 1.25 G B
+the second indicates the marking color.
+1 2 3 4
+NO. MEANING
+1 <F>: Flexible wire
+<T>: Twisted wire
+2 Wire size (mm2)*
+ACX01279AB 3 Basic color (color of the cable coating)
+4 Marking color
+NOTE:
+*: No code indicates 0.5 mm2(0.0008 in2). Cable color code in
+parentheses indicates 0.3 mm2 (0.0005 in2).
+TSB Revision

@@ -1,0 +1,48 @@
+AUTOMATIC TRANSAXLE 23A-291
+AUTOMATIC TRANSAXLE DIAGNOSIS
+CONNECTOR: C-57 <2.4L ENGINE> OR
+C-59 <3.0L ENGINE>
+PCM
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+. COMMENT
+CIRCUIT OPERATION
+A malfunction may be present on the auto-cruise sig-
+When the battery positive voltage from PCM (termi-
+nal line circuit, auto-cruise control ECU or the PCM.
+nal number 75) is grounded at auto-cruise control-
+ECU (terminal number 3), the auto-cruise control-
+.
+ECU emits an overdrive cancel signal. When a mal- TROUBLESHOOTING HINTS (The most likely
+function of the auto-cruise control circuit occurs, the causes for this code to be set:)
+transaxle may downshift harshly with the auto-cruise • Damaged harness, connector
+control engaged. • Malfunction of the PCM
+• Malfunction of the auto-cruise control ECU
+.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Using scan tool MB991502, check data list item 66:
+Overdrive Off Signal (Auto-cruise ECM Signal).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and prepare to test drive the vehicle.
+(Operate the auto-cruise)
+(3) Set scan tool MB991502 to data reading mode for item 66:
+Overdrive Off Signal (Auto-cruise ECM Signal).
+• When driving at level road, the display should be "OFF."
+• When driving at uphill road, the display should be "ON."
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the sensor operating properly?
+MB991502 AC001252AE YES : This malfunction can be intermittent. Refer to GROUP
+00, How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Go to Step 2.
+TSB Revision

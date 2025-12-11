@@ -1,0 +1,73 @@
+BC–158
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Even after the trouble areas are repaired, the ABS warning
+light will not go off unless the following operations are
+performed:
+• (*1):
+(a)Drive the vehicle at 12 mph (20 km/h) for 30 seconds or
+more and check that the ABS warning light goes off.
+(b)Clear the DTC.
+• (*2):
+(a)Keep the vehicle stationary for 5 seconds or more and
+depress the brake pedal lightly 2 or 3 times.
+(b)Drive the vehicle at the vehicle speed of 31 mph (50
+km/h) and keep depressing the brake pedal strongly for
+approximately 3 seconds.
+(c)Repeat the above operation 3 times or more and check
+that the ABS warning light goes off.
+(d)Clear the DTC.
+HINT:
+In some cases, the intelligent tester cannot be used when the
+BC ABS warning light remains on.
+DTC chart of VSC:
+DTC No. Detection Item Trouble Area See page
+43 ABS Control System Malfunction ABS control system BC-155
+Engine Control System
+C1201/51 Engine control system BC-186
+Malfunction
+ECM Communication Circuit
+C1203/53 ECM BC-187
+Malfunction
+1. Brake actuator assembly (Skid
+control ECU)
+Zero Point Calibration of Yaw
+C1210/36 2. Yaw rate and acceleration BC-188
+Rate Sensor Undone
+sensor
+3. Zero point calibration undone
+1. Steering angle sensor
+2. Steering angle sensor circuit
+Steering Angle Sensor Circuit 3. Steering angle sensor power
+C1231/31 BC-190
+Malfunction supply
+4. Brake actuator assembly (Skid
+control ECU)
+1. Yaw rate and acceleration
+sensor
+C1232/32 Stuck in Acceleration Sensor BC-193
+2. Yaw rate and acceleration
+sensor circuit
+1. Yaw rate and acceleration
+sensor
+C1234/34 Yaw Rate Sensor Malfunction BC-193
+2. Yaw rate and acceleration
+sensor circuit
+1. Yaw rate and acceleration
+sensor zero point calibration
+incomplete
+Steering Angle Sensor Zero Point 2. Poor adjustment of the
+C1290/66 BC-222
+Malfunction centered position of the steering
+wheel
+3. Poor adjustment of front wheel
+alignment
+1. Brake actuator assembly (Skid
+control ECU)
+Zero Point Calibration of
+C1336/39 2. Yaw rate and acceleration BC-188
+Acceleration Sensor Undone
+sensor
+3. Zero point calibration undone
+Lost Communication with ECM / CAN communication system
+U0100/65 BC-224
+PCM (Skid control ECU to ECM)

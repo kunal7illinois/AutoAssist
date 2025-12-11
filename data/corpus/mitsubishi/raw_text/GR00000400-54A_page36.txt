@@ -1,0 +1,22 @@
+54A-36 CHASSIS ELECTRICAL
+IGNITION SWITCH
+1. Connect scan tool MB991502 to data link connector (16
+pin).
+2. Turn the ignition switch to "ON" position.
+16 PIN
+MB991502
+AC001252AB
+3. At "System Select," press "YES."
+AC000522AC
+4. Select "Immobilizer," press "YES".
+AC000523AB
+5. Select "Date list" press "YES".
+AC106459
+6. Confirm "TP LOCK CHECK."
+TP LOCK CHECK IGNITION KEY: JUDGMENT OF
+IGNITION KEY
+UNLOCK Can be overwritten Correct
+LOCK Can not be Incorrect
+overwritten
+AC106460
+TSB Revision

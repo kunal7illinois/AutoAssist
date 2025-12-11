@@ -1,0 +1,32 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System (R18A1) - Civic (Except Hybrid)
+NOTE:
+Before you troubleshoot, record all freeze data and any
+(cid:1)
+on-board snapshot, and review the general
+troubleshooting information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+Because it requires 162 miles (260 km) of driving
+(cid:1)
+without refueling to complete this diagnosis, DTC
+P0461 cannot be duplicated during this
+troubleshooting.
+1. Test the fuel gauge sending unit (see FUEL GAUGE SENDING UNIT
+TEST ).
+Is the fuel gauge sending unit OK?
+YES - Check for poor connections or loose terminals at the fuel gauge sending
+unit and the gauge assembly.
+NO - Replace the fuel gauge sending unit (see FUEL PUMP/FUEL GAUGE
+SENDING UNIT REPLACEMENT ), then go to step 2.
+2. Turn the ignition switch ON (II).
+3. Reset the ECM/PCM with the HDS.
+4. Do the ECM/PCM idle learn procedure (see ECM/PCM IDLE LEARN
+PROCEDURE ).
+5. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0461 indicated?
+YES - Check for poor connections or loose terminals at the fuel gauge sending
+unit and the gauge control module, then go to step 1.
+NO - Troubleshooting is complete. If any other Temporary DTCs or DTCs are
+indicated, go to the indicated DTC's troubleshooting.
+DTC P0462: FUEL LEVEL SENSOR (FUEL GAUGE SENDING UNIT) CIRCUIT LOW VOLTAGE

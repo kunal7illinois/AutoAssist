@@ -1,0 +1,49 @@
+RS–178
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+NG REPLACE SPIRAL CABLE (See page RS-
+363)
+OK
+3 CHECK DRIVER SIDE SQUIB 2ND STEP CIRCUIT
+(a) Disconnect the connectors from the center airbag sensor
+assembly.
+Driver Side Squib 2nd Step
+(b) Check for a short to B+ in the circuit.
+(1) Connect the negative (-) terminal cable to the
+battery, and wait for at least 2 seconds.
+A
+(2) Turn the ignition switch on (IG).
+F E DC B
+(3) Measure the voltage according to the value(s) in the
+Spiral Cable table below.
+Standard voltage
+Center Airbag
+Sensor Assembly Tester Connection Condition Specified Condition
+D2+ - Body ground Ignition switch on (IG) Below 1 V
+Connector E D2- - Body ground Ignition switch on (IG) Below 1 V
+(c) Check for an open in the circuit.
+(1) Turn the ignition switch off.
+D2- D2+
+(2) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+Color: Black (3) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+RS C C114815E01 Tester Connection Condition Specified Condition
+D2+ - D2- Always Below 1 Ω
+(d) Check for a short to ground in the circuit.
+(1) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+D2+ - Body ground Always 1 MΩ or higher
+D2- - Body ground Always 1 MΩ or higher
+(e) Check for a short in the circuit.
+(1) Release the activation prevention mechanism built
+into connector B (See page RS-32).
+(2) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+D2+ - D2- Always 1 MΩ or higher
+NG Go to step 5
+OK

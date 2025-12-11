@@ -1,0 +1,19 @@
+BC–30
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+FAIL-SAFE CHART
+1. FAIL SAFE OPERATION
+If there is a problem with sensor signals or brake
+actuator systems, the skid control ECU will prohibit
+power supply to the brake actuator and terminate ABS
+control.
+ABS control will be prohibited, but EBD control continues
+as much as possible. If EBD control is impossible, the
+brake warning light will come on to warn the driver (See
+page BC-19).
+Malfunction Area Control Method
+ABS system Prohibits the ABS control
+EBD system Prohibits the ABS and EBD control
+HINT:
+If the ABS system has a malfunction, the brake system
+will operate normally without ABS control.
+BC

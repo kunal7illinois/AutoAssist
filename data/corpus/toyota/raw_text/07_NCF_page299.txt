@@ -1,0 +1,28 @@
+CHASSIS - BRAKE CH-135
+Engine Output Control
+During a VSC operation, the skid control ECU outputs a VSC operation signal to the ECM. Upon receiving
+this signal, the ECM effects throttle control to regulate the engine output.
+(a): Start of throttle control
+Level of Strong Front
+(b): Start of brake control
+Wheel Skid or Rear
+(c): Brake control completed
+Wheel Skid (a) (b) (c) (d)
+(d): Throttle control completed
+Vehicle
+Condition
+Engine
+Torque
+High
+Brake Wheel
+Cylinder Fluid
+Pressure*
+Time
+151CH31
+*: The wheel cylinder that activates varies depending on the condition of the vehicle.
+Initial Check
+Each time the power source is IG ON*, and the vehicle reaches a speed of approximately 6 km/h (4 mph)
+or more, the skid control ECU performs an initial check. The functions of each solenoid valve and pump
+motor in the brake actuator are checked in sequence.
+*: The power source condition can be changed by operating the engine switch on models with the smart
+key system, and the ignition switch on models without the smart key system.

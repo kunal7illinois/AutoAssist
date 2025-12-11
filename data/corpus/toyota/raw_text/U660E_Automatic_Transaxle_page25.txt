@@ -1,0 +1,46 @@
+AX–25
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+HINT:
+The following operation is available for use with TCMs
+that can transmit the registered transaxle compensation
+code to the intelligent tester.
+(a) Shift the shift lever to N or P position.
+(b) Connect the intelligent tester to the DLC3.
+AX
+(c) Turn the ignition switch on (IG).
+(d) Turn the tester on.
+NOTICE:
+Do not start the engine.
+HINT:
+The transaxle compensation code is imprinted on
+the QR label.
+(e) Read the transaxle compensation code.
+M-OBD / OBD(cid:932)MENU (1) Enter the menu items in this order:
+[Name of system]
+DIAGNOSIS / OBD/MOBD / ECT / AT CODE
+1 : DATA LIST
+1 : DTC INFO UTILITY.
+3 : ACTIVE TEST
+(2) Press "ENTER".
+4 : SNAPSHOT
+6 : RESET MEMORY
+8 : CHECK MODE
+9 : AT CODE UTILITY
+C133193
+(3) Select "AT CODE REGIST".
+AT CODE UTILITY (4) Press "ENTER".
+[Name of system]
+1 : AT CODE REGIST
+2 : AT CODE RESET
+C133194
+(5) Press "ENTER" again to proceed.
+NOTICE
+This function is
+used to input a
+compensation code
+and initialize the
+ECU after an A/T
+assembly or ECU has
+been replaced.
+PRESS [ENTER]
+C133195

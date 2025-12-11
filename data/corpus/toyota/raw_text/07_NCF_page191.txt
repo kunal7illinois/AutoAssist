@@ -1,0 +1,35 @@
+CHASSIS - U250E AUTOMATIC TRANSAXLE CH-27
+Transmission Control Switch and Park/Neutral Position Switch
+The ECM uses these switches to detect the shift lever position.
+(cid:3) The park/neutral position switch sends the P, R, N, D, 3 and 2 position signals to the ECM.
+(cid:3) The transmission control switch is installed inside the shift lever assembly. This switch sends the 4 and
+L position signals to the ECM.
+(cid:3) The ECM sends these shift position signals to the combination meter (meter ECU) through CAN
+communication. The combination meter (meter ECU) controls the shift position indicator light based on
+these signals.
+(cid:1) Wiring Diagram (cid:2)
+Park/Neutral
+Position Switch
+NSW STA
+From
+Ignition To Starter Relay
+Switch
+PL P
+CAN
+RL R (CAN No.1 Bus) Combination Meter
+ECM
+NL N Shift Position
++B
+Indicator Light
+DL D
+2L 3 Shift Position
+Signal
+LL 2
+4 L
+NSSD
+AT4
+NSSL
+ATL
+Transmission
+025CH14Y
+Control Switch

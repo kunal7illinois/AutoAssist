@@ -1,0 +1,39 @@
+ST–56
+2GR-FE STARTING – SMART KEY SYSTEM
+DTC B2277 Detecting Vehicle Submersion
+DESCRIPTION
+This DTC is output when the submersion circuit monitor inside the main body ECU detects that the vehicle
+is submerged in water.
+HINT:
+When the main body ECU is replaced with a new one and the negative (-) battery terminal is connected,
+the power source mode becomes the IG-ON mode. When the battery is removed and reinstalled, the
+power source mode that was selected when the battery was removed is restored.
+After the main body ECU is replaced, perform the registration procedures for the engine immobiliser
+system (See page EI-8).
+DTC No. DTC Detection Condition Trouble Area
+Submersion circuit monitor inside main body ECU
+B2277 Main body ECU
+detects that vehicle is submerged in water
+INSPECTION PROCEDURE
+1 CHECK FOR WATER DAMAGE
+(a) Check the main body ECU, peripheral components, and
+wire harnesses for traces of water.
+OK:
+There are no traces of water.
+NG TAKE APPROPRIATE MEASURES AGAINST
+CAUSE OF WATER DAMAGE AND REPLACE
+MAIN BODY ECU
+OK
+2 CHECK DTC OUTPUT
+(a) Delete the DTCs (See page ST-26).
+HINT:
+After all DTCs are cleared, check if the trouble occurs
+again 30 seconds after the engine switch is turned on
+(IG).
+(b) Check for DTCs again.
+OK:
+No DTC is output.
+NG REPLACE MAIN BODY ECU
+OK
+ST
+END

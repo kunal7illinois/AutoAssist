@@ -1,0 +1,47 @@
+ES–279
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+INSPECTION PROCEDURE
+NOTICE:
+• When a vehicle is brought into a workshop, leave it as it is. Do not change the vehicle
+condition. For example, do not tighten the fuel tank cap.
+• Do not disassemble the pump module.
+• The intelligent tester is required to conduct the following diagnostic troubleshooting
+procedure.
+1 CHECK HARNESS AND CONNECTOR (PUMP MODULE - ECM)
+(a) Disconnect the N17 canister connector.
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage and resistance according to the
+value(s) in the table below.
+ES
+Standard voltage
+Tester Connection Specified Condition
+N17-4 - Body ground 4.5 to 5.0 V
+N17-3 - Body ground 4.5 to 5.0 V
+N17-2 - Body ground 100 Ω or less
+Result
+Test Result Suspected Trouble Area Proceed to
+Voltage and resistance Open in pressure sensor
+A
+Wire Harness Side: within standard ranges circuit
+Open in wire harness/
+Voltage and resistance
+connector (ECM - B
+outside standard ranges
+pressure sensor)
+VOUT VCC (d) Reconnect the canister connector.
+B Go to step 3
+SGND
+N17
+Canister Pump Module Connector
+A135029E01
+A
+2 REPLACE CHARCOAL CANISTER ASSEMBLY
+(a) Replace the canister assembly (See page EC-9).
+NOTICE:
+When replacing the canister, check the canister
+pump module interior and related pipes for water,
+fuel and other liquids. If liquids are present, check
+for disconnections and/or cracks in the following: 1)
+the pipe from the air inlet port to the canister pump
+module; 2) the canister filter; and 3) the fuel tank
+vent hose.

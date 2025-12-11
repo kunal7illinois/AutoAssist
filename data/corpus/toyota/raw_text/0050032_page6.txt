@@ -1,0 +1,23 @@
+ES–184
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK
+6 REPLACE CRANKSHAFT POSITION SENSOR
+NEXT
+7 CHECK WHETHER DTC OUTPUT RECURS
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+ES (c) Turn the tester ON.
+(d) Clear DTCs (see page ES-35).
+(e) Start the engine.
+(f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(g) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+No output A
+P0335 or P0339 B
+HINT:
+If the engine does not start, replace the ECM.
+B REPLACE ECM
+A
+END

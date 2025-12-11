@@ -1,0 +1,50 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Note
+Use only gold-plated terminals when servicing the electrical har‐
+ness connector terminals in Accelerator Pedal Position Sensor -
+G79- / Accelerator Pedal Position Sensor 2 -G185- .
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the drivers side storage compartment. Refer to the
+Repair Manual
+– Disconnect the Accelerator Pedal Position Sensor -G79- / Ac‐
+celerator Pedal Position Sensor 2 -G185- 6 pin electrical har‐
+ness connector.
+Checking voltage supply and wiring
+– Switch the ignition On.
+– Using a multimeter, check the following wiring connections for
+voltage.
+Accelerator Pedal Position Sensor 1 - Specified value
+G79- / Accelerator Pedal Position Sensor
+2 -G185- electrical harness connector
+terminals
+1 to Ground near 5 V
+1 to 5 near 5 V
+2 to Ground near 5 V
+2 to 3 near 5 V
+– Switch the ignition OFF.
+If the specified value was Not obtained:
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual .
+– Using a multimeter, check the Accelerator Pedal Position Sen‐
+sor -G79- / Accelerator Pedal Position Sensor 2 -G185- elec‐
+trical harness connector terminals to the Engine Control
+Module (ECM) -J623- electrical connector T94 for an open
+circuit. Refer to Wiring Diagrams for pin locations.
+Accelerator Pedal Position Sen‐ Engine Control Module
+sor -G79- / Accelerator Pedal (ECM) -J623- electrical con‐
+Position Sensor 2 -G185- elec‐ nector T94 terminals or test
+trical harness connector termi‐ box sockets
+nals
+1 58
+2 80
+3 78
+4 79
+5 56
+6 57
+Specified value: 1.5 Ω max.
+148
+Rep. Gr.ST - Generic Scan Tool

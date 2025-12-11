@@ -1,0 +1,122 @@
+22 D 32 D
+53 AC1 52 AC1 51 AC1
+2 2 2
+1 1 1
+W
+6 B 1 A
+13 D
+R
+03C
+R
+V
+9C
+V
+R
+13C
+A33(A), A34(B), A35(C), A36(D)
+ECM
+L–P B–P G–P
+12 D
+2
+1
+P
+R
+8C
+Y–B
+54 AC1
+R–B L–B
+R R R R
+G–R
+G–Y
+10 C 19 C
+11 D
+11 AC1
+2
+1
+B–R R–G
+10 GD2 9 GD2
+1 AD2 2 AD2
+G–R R–G
+V
+V
+V
+B–W BS
+V
+11 3C
+R
+W–B
+Y–R )T/M(
+(IG)
+10A
+ECU IG2
+2
+Y–G
+1
+A21
+2
+15 A
+R
+A22
+Stop Light
+Switch Assembly
+7 A
+Y–G )T/M(
+SB
+W–B
+V
+L
+2 3
+1 4
+P
+R
+W–B
+V
+Clutch Switch
+Assembly
+ylbmessA
+rotcejnI
+leuF
+)1
+.oN
+noitcejnI
+troP
+rof(
+ylbmessA
+rotcejnI
+leuF
+)2
+.oN
+noitcejnI
+troP
+rof(
+ylbmessA
+rotcejnI
+leuF
+)3
+.oN
+noitcejnI
+troP
+rof(
+ylbmessA
+rotcejnI
+leuF
+)4
+.oN
+noitcejnI
+troP
+rof(
+STP CLSW +B +B2 DI FPC
+PRG #10 #20 #30 #40
+2 Cd1
+BR–W BR–W
+G–Y
+1d
+dioneloS
+CPC
+1 Cd1
+R
+R
+Cruise Control, Electronically Controlled Transmission and A/T Indicator
+(A/T), Engine Control, Shift Indicator (M/T) and Shift Lock
+102
+BRZ (G4400BE)

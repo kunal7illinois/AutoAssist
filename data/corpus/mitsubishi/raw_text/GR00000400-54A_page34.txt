@@ -1,0 +1,48 @@
+54A-34 CHASSIS ELECTRICAL
+IGNITION SWITCH
+7. Press the "YES" key to start key ID registration.
+8. This will be displayed when the add key ID registration is
+successful. If an error occurs during key ID registration, the
+message "Can’t execute" will be displayed. If the key has
+already been registered, "Key ID has been registration" will
+be displayed.
+AC101477
+9. The number of keys currently registered will be displayed.
+To register an additional key, replace the ignition key with
+the next key to be registered within five seconds and then
+press the "YES" key. Key ID registration screen will be
+displayed, then register another key.
+NOTE: A maximum of eight different keys can be registered.
+If key ID registration is complete, press the "NO" key.
+10.This completes the registration operation. Turn the ignition
+switch to the "LOCK" (OFF) position and leave it off for
+AC101476 approximately ten seconds.
+11.Check that the engine can be started with each of the
+ignition keys.
+12.Check that the immobilizer system DTC and MFI system
+DTC did not set.
+13.Turn the ignition switch to the "LOCK" (OFF) position.
+14.Disconnect scan tool MB991502.
+.
+Registration of additional keys without using the scan tool
+Operate two registered ignition keys by the following proce-
+dure, call additional registration mode for the immobilizer-ECU,
+then register an additional ignition key by operating it. Addi-
+tional ignition keys can be registered without using the MUT-II
+by operating two ignition keys that already have been regis-
+tered to the vehicle and operating an additional key to be regis-
+tered. (A maximum of eight ignition keys can be registered.)
+1. The ignition switch is "ON" by using he first key (KEY A)
+which has already been registered to the vehicle.
+2. If the first key (KEY A) is correct, the immobilizer-ECU
+begins the condition ow warning the second key (KEY B)
+which has already been registered to the vehicle. The
+ignition switch has been on the "ON" position for longer than
+5 seconds so that enters the condition of waiting the second
+key (KEY B).
+3. After the ignition switch is "LOCK" (OFF), it is "ON" by the
+second key (EY B) which has already been registered to the
+vehicle.
+The second key (KEY B) must be turned on within 7
+seconds of removing the first key.
+TSB Revision

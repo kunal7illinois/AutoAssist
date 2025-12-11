@@ -1,0 +1,49 @@
+ES–21
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+CHECKING MONITOR STATUS
+The purpose of the monitor result (mode 06) is to allow
+access to the results of on-board diagnostic monitoring tests
+of specific components/systems that are not continuously
+monitored. Examples are catalysts, evaporative emissions
+(EVAP) and thermostats.
+The monitor result allows the OBD II scan tool to display the
+monitor status, test value, minimum test limit and maximum
+test limit. These data are displayed after the vehicle has been
+driven to run the monitor.
+When the test value is not between the minimum and
+maximum test limits, the ECM (PCM) interprets this as a
+malfunction. If the test value is on the borderline of the test ES
+limits, the component is likely to malfunction in the near
+future.
+Perform the following instruction to view the monitor status.
+Although this instruction refers to the Lexus/Toyota diagnostic
+tester, it can be checked using a generic OBD II scan tool.
+Refer to your scan tool operator's manual for specific
+procedural information.
+1. PERFORM MONITOR DRIVE PATTERN
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch and the tester ON.
+(c) Clear the DTCs (see page ES-35).
+(d) Run the vehicle in accordance with the applicable
+drive pattern described in READINESS MONITOR
+DRIVE PATTERN (see page ES-19). Do not turn the
+ignition switch OFF.
+NOTE:
+The test results will be lost if the ignition
+switch is turned OFF.
+2. ACCESS MONITOR RESULT
+(a) Select the following items from the intelligent tester
+menus: DIAGNOSIS, ENHANCED OBD II,
+MONITOR INFO and MONITOR RESULT. The
+monitor status appears after the component name.
+• INCMP: The component has not been monitored
+yet.
+• PASS: The component is functioning normally.
+• FAIL: The component is malfunctioning.
+(b) Confirm that the component is either PASS or FAIL.
+(c) Select the component and press ENTER. The
+accuracy test value appears if the monitor status is
+either PASS or FAIL.
+3. CHECK COMPONENT STATUS
+(a) Compare the test value with the minimum test limit
+(MIN LIMIT) and maximum test limit (MAX LIMIT).

@@ -1,0 +1,43 @@
+RS–155
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+9 CHECK PASSENGER AIRBAG ON/OFF INDICATOR CIRCUIT (SHORT TO B+)
+(a) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+D A table below.
+C B Standard voltage
+Clock Assembly
+Tester Connection Condition Specified Condition
+Center Airbag F3-13 (PAON) - Body
+Ignition switch on (IG) Below 1 V
+Sensor Assembly ground
+F3-14 (P-AB) - Body
+Ignition switch on (IG) Below 1 V
+ground
+Connector C
+NG REPAIR OR REPLACE WIRE HARNESS
+F3
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+PAON P-AB
+C C123729E01
+OK
+RS
+REPLACE CLOCK ASSEMBLY (See page OT-4)
+10 CHECK CONNECTION OF CONNECTORS
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Check that the connectors are properly connected to the
+center airbag sensor assembly and the clock assembly.
+OK:
+The connectors are properly connected.
+NG CONNECT CONNECTORS PROPERLY
+OK
+11 CHECK CONNECTORS
+(a) Disconnect the connectors from the center airbag sensor
+assembly and the clock assembly.
+(b) Check that the connectors (on the center airbag sensor
+assembly side and clock assembly side) are not
+damaged.

@@ -1,0 +1,28 @@
+16-48 ENGINE ELECTRICAL
+IGNITION SYSTEM
+Example 5
+• Wave characteristics
+No waves in wave damping section
+• Cause of problem
+Layer short in ignition coil.
+AKX00284
+IGNITION PRIMARY VOLTAGE WAVE PATTERN
+CHECK
+M1163004600020
+<3.0L ENGINE>
+.MEASUREMENT METHOD
+1. Disconnect the distributor connector and connect special
+tool (Test harness: MB991348) in between. (All of the
+terminals should be connected.)
+2. Connect the analyzer primary pickup to the distributor
+OSCILLOSCOPE
+connector terminal 2.
+3. Connect the primary pickup ground terminal.
+1 2 3 4 5 6 7
+4. Clamp the spark plug cable with the trigger pickup.
+NOTE: The wave pattern of the cylinder clamped to the trig-
+PRIMARY ger pickup will appear at the left edge of the screen.
+PICKUP
+GROUND
+AKX01282AB
+TSB Revision

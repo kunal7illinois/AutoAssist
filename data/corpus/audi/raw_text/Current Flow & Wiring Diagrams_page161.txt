@@ -1,0 +1,59 @@
+Audi TT No. 19 / 2
+Current Flow Diagram
+Four-wheel drive control unit, haldex coupling pump, fuses
+J492 Four-wheel drive control unit
+J519 Onboard supply control unit
+J527 Steering column electronics control unit
+J533 Data bus diagnostic interface
+J623 Engine control unit
+SC7 Fuse 7 on fuse holder C
+SC8 Fuse 8 on fuse holder C
+T2t 2-pin connector, black connector L, on onboard supply control
+unit
+J519
+T6q 6-pin connector, black, on four-wheel drive control unit
+T2t/2
+T8o 8-pin connector, black, on four-wheel drive control unit
+T20c 20-pin connector, black, connector A, on steering column
+4,0
+sw electronics control unit
+B163 T20d 20-pin connector, black, on data bus diagnostic interface
+V181 Haldex coupling pump
+4,0 4,0 393 Earth connection 28, in main wiring harness
+sw sw
+662 Earth point, rear left side panel
+1177
+7 8
+V181 J492
+SC7 SC8
+M B163 Positive connection 1 (15), in interior wiring harness
+5A 10A
+7a 8a T8o/1 T8o/7 T8o/8 T8o/2
+31
+B383 Connection 1 (drive train CAN bus, high), in main wiring harness
+0,5
+1,0✱✱ 0,5 0,35 0,35 0,5
+sw/gr sw/bl or/br or/sw br
+B390 Connection 1 (drive train CAN bus, low), in main wiring harness
+T6q/1 T6q/5 T6q/6 T6q • CAN bus (data wire)
+/2 * ⇒ Engine Current Flow Diagram
+** phased-in modification
+• •
+0,35 0,35 1,0
+or/br or/sw br
+B390 B383
+393
+ws = white
+0,35 0,35 0,35 0,35 0,35 0,35 1,0
+or/br or/br or/br or/sw or/sw or/sw br sw = black
+ro = red
+br = brown
+T20d/6 T20c/11 T /1 2 6 0d T20c/12 gn = green
+J533 J623 J527 J623 J533 J527 bl = blue
+✱ ✱ gr = grey
+662 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-019020408
+rs = pink
+Edition 04.2008

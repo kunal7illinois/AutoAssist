@@ -1,0 +1,46 @@
+13A-492 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Using scan tool MB991502, check data list item 11:
+Heated oxygen sensor (front).
+(1) Start the engine and run at idle.
+(2) Set scan tool MB991502 to the data reading mode for item
+11, Heated Oxygen Sensor (front).
+• Voltage should fluctuate between 0 − 0.4 volts and 0.6 −
+1.0 volts while after the engine has been warmed.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+16 PIN
+YES : Go to Step 9.
+MB991502 NO : Go to Step 11.
+AKX01177AB
+STEP 9. Check the EGR system.
+Refer to GROUP 17, Emission Control System − EGR System
+Check P.17-106.
+Q:Is the EGR system normal?
+YES : Go to Step 10.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+STEP 10. Using scan tool MB991502, check data list item
+59: Heated oxygen sensor (rear).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+59, Heated Oxygen Sensor (rear).
+16 PIN • Average voltage should be 0.6 volts or less, when idling.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AKX01177AB Q:Is the sensor operating properly?
+YES : Go to Step 12.
+NO : Replace the heated oxygen sensor (front). Then
+confirm that the malfunction symptom is eliminated.
+STEP 11. Check the fuel pressure.
+Refer to, Fuel Pressure Test P.13A-578.
+Q:Is the fuel pressure normal?
+YES : Go to Step 12.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+TSB Revision

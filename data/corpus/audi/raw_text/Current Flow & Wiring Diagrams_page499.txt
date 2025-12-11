@@ -1,0 +1,30 @@
+Audi TT No. 56 / 5
+Current Flow Diagram
+Onboard supply control unit, left headlight range control
+motor, right headlight range control motor
+J519 Onboard supply control unit
+T14a 14-pin connector, black, on left of headlight
+T14b 14-pin connector, black, on right of headlight
+V48 Left headlight range control motor
+V49 Right headlight range control motor
+J519
+7799 8811 7788 8800 7777 8833 8844 8822
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+gn/ge gn/br gn/gr gr/sw gr/bl gr/br gr gr/sw
+T14a/1 T14a/2 T14a/3 T14a/4 T14b/1 T14b/2 T14b/3 T14b/4
+1 2 3 4 1 2 3 4
+M M
+V48 V49
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-056050409
+rs = pink
+Edition 04.2009

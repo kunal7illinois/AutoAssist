@@ -1,0 +1,32 @@
+13A-584 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+ON-VEHICLE SERVICE
+4. Apply 3M(cid:1) AAD part number 8731 or equivalent to threaded
+portion.
+5. Install the engine coolant temperature sensor and tighten it
+to the specified torque.
+Tightening torque: 29 ± 10 N⋅m (22 ± 7 ft-lb)
+AKX01623AB
+THROTTLE POSITION SENSOR CHECK
+M1131003200202
+Required Special Tool:
+• MB991348: Test Harness Set
+THROTTLE POSITION .
+Checking the Terminal Resistance
+SENSOR SIDE CONNECTOR
+1. Disconnect the throttle position sensor connector.
+1 2 3 4
+2. Measure resistance between the throttle position sensor
+side connector terminal 1 and terminal 4.
+Standard value: 3.5 − 6.5 kΩ
+3. Measure resistance between the throttle position sensor
+AKX01413AB side connector terminal 1 and terminal 3.
+Normal condition:
+Throttle valve slowly open Changes smoothly in
+until fully open from the idle proportion to the opening
+position angle of the throttle valve
+4. If resistance is outside the standard value, or if it doesn’t
+change smoothly, replace the throttle position sensor.
+NOTE: After replacement, the throttle position sensor should
+be adjusted. (Refer to P.13A-576.)
+.
+TSB Revision

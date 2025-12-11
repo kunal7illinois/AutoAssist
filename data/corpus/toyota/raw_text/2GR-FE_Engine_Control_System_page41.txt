@@ -1,0 +1,83 @@
+ES–41
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Symbols (Terminal No.) Wiring Colors Terminal Descriptions Conditions STD Voltages
+Stop light switch signal Ignition switch on (IG), W-Brake
+ST1- (A55-35) - E1 (C55-81) GR - W-B 7.5 to 14 V
+(opposite to STP terminal) pedal released
+ACCR*2 (A24-17) - E1 (C55-81) B - W-B ACC relay control signal Cranking Below 1.5 V
+Accelerator pedal position
+Ignition switch on (IG),
+VPA (A55-55) - E1 (C55-81) G - W-B sensor signal (for engine 0.5 to 1.1 V
+Accelerator pedal fully released
+control)
+Accelerator pedal position
+Ignition switch on (IG),
+VPA (A55-55) - E1 (C55-81) G - W-B sensor signal (for engine 2.6 to 4.5 V
+Accelerator pedal fully depressed
+control)
+Accelerator pedal position
+Ignition switch on (IG),
+VPA2 (A55-58) - EPA2 (A55-60) R - O sensor signal (for sensor 1.2 to 2.0 V
+Accelerator pedal fully released
+malfunction detection)
+Accelerator pedal position
+Ignition switch on (IG),
+VPA2 (A55-58) - EPA2 (A55-60) R - O sensor signal (for sensor 3.4 to 5.0 V
+Accelerator pedal fully depressed
+malfunction detection)
+ES
+Accelerator pedal position
+Ignition switch on (IG),
+EPA (A5-59) - VPA (A55-55) Y - G sensor signal (for engine 0.5 to 1.1 V
+Accelerator pedal fully released
+control)
+Accelerator pedal position
+Ignition switch on (IG),
+EPA (A5-59) - VPA (A55-55) Y - G sensor signal (for engine 2.6 to 4.5 V
+Accelerator pedal fully depressed
+control)
+Accelerator pedal position
+Ignition switch on (IG),
+EPA2 (A55-60) - VPA2 (A55-58) O - R sensor signal (for sensor 1.2 to 2.0 V
+Accelerator pedal fully released
+malfunction detection)
+Accelerator pedal position
+Ignition switch on (IG),
+EPA2 (A55-60) - VPA2 (A55-58) O - R sensor signal (for sensor 3.4 to 5.0 V
+Accelerator pedal fully depressed
+malfunction detection)
+Pressure sensor signal
+PPMP (C55-77) - E1 (C55-81) L - W-B Ignition switch on (IG) 3 to 3.6 V
+(built into pump module)
+TC (A55-27) - E1 (C55-81) P - W-B Terminal TC of DLC3 Ignition switch on (IG) 9 to 14 V
+Power source of
+VCPA (A55-57) - EPA (A55-59) R - Y accelerator pedal position Ignition switch on (IG) 4.5 to 5.0 V
+sensor (for VPA)
+Power source of
+VCP2 (A55-56) - EPA2 (A55-60) L - O accelerator pedal position Ignition switch on (IG) 4.5 to 5.0 V
+sensor (for VPA2)
+Engine speed signal (for Pulse generation
+TACH (A55-15) - E1 (C55-81) B - W-B Idling
+combination meter) (see waveform 11)
+Ignition switch on (IG) 10 to 16 V
+CANCEL switch ON 6.6 to 10.1 V
+Cruise control main switch
+CCS (A55-40) - E1 (C55-81) W - W-B SET/COAST switch ON 4.5 to 7.1 V
+signal
+RES/ACC switch ON 2.3 to 4.0 V
+Main switch ON Below 1 V
+Vehicle speed signal from Ignition switch on (IG), driving Pulse generation
+SPD (A55-24) - E1 (C55-81) BR - W-B
+combination meter wheel rotated slowly (see waveform 8)
+Malfunction Indicator
+W (A55-24) - E1 (C55-81) BR - W-B Lamp (MIL) operation Ignition switch on (IG) Below 3.0 V
+signal
+Malfunction Indicator
+W (A55-24) - E1 (C55-81) BR - W-B Lamp (MIL) operation Idling 9 to 14 V
+signal
+CAN communication
+CANH (A55-41) - CANL (A55-49) B - W Ignition switch off 54 to 69 Ω
+circuit
+Earth (ground) circuit of
+E1 (C55-81) - Body ground W-B - - Always Below 1 V
+ECM

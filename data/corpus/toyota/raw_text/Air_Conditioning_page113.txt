@@ -1,0 +1,35 @@
+AC–113
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+INSPECTION PROCEDURE
+1 INSPECT A/C CONTROL ASSEMBLY
+(a) Remove the A/C control assembly with the connectors
+A/C Control Assembly Connector
+Wire Harness View: still connected.
+(b) Measure the resistance according to the value(s) in the
+table below.
+F16 Standard resistance
+Tester Connection
+Condition Specified Condition
+(Symbols)
+F16-9 (ADI1) - F16-8
+AUTO switch: ON Below 2.5 Ω
+(SG)
+F16-9 (ADI1) - F16-8
+OFF switch: ON Approx. 329 Ω
+(SG)
+F16-9 (ADI1) - F16-8
+TEMP+ switch: ON Approx. 1,000 Ω
+(SG)
+ADI1 SG
+F16-9 (ADI1) - F16-8
+TEMP- switch: ON Approx. 3,110 Ω
+(SG)
+E124479E02
+NG Go to step 2
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+AC
+2 INSPECT STEERING PAD SWITCH ASSEMBLY
+(a) Remove the steering pad switch assembly.
+(b) Disconnect the connector from the steering pad switch
+assembly.

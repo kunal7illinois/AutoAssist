@@ -1,0 +1,45 @@
+54A-210 CHASSIS ELECTRICAL
+RADIO AND TAPE PLAYER
+STEP 14. Check motor antenna connector F-35 for
+damage.
+Q:Are motor antenna connector F-35 in good condition?
+CONNECTOR
+<ECLIPSE SPYDER>: F-35 YES : Go to Step 15.
+DEVICE SIDE NO : Repair or replace the connector. Refer to GROUP
+1 2 3 4 00E, Harness Connector Inspection P.00E-2.
+5 6 7 8
+AC106491AQ
+STEP 15. Check the wiring harness between motor
+antenna connector F-35 (terminal 8) and battery.
+NOTE: After inspecting joint connector C-78, intermediate con-
+CONNECTOR
+<ECLIPSE SPYDER>: F-35 nector C-89 and C-90, inspect the wire. If joint connector C-78,
+DEVICE SIDE intermediate connector C-89 and C-90 are damaged, repair or
+replace them. Refer to GROUP 00E, Harness Connector
+1 2 3 4
+5 6 7 8 Inspection P.00E-2.
+AC106491AQ
+Q:Are the wiring harness between motor antenna
+CONNECTORS : C-78, C-89, C-90
+connector F-35 (terminal 8) and battery in good
+condition?
+YES : There is no action to be taken.
+NO : Repair the wiring harness. Refer to GROUP 00E,
+C-78
+Harness Connector Inspection P.00E-2.
+C-89 C-78
+C-90 1 2 3 4 5 6 7 8 91011
+1213141516171819202122
+2324252627282930313233
+C-89
+1 2 3 4 5 6 7 8 910 111213
+141516171819202122232425
+262728 29 30 31 38
+3233 34 35 36 37
+C-90
+1 2 3 4 5 6 7 8 9
+1011121314 15 161718192021
+2223242526 27 2829 30313233
+34353637 38 3940 414243
+AC106478AD
+TSB Revision

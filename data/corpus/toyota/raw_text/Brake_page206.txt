@@ -1,0 +1,46 @@
+BC–200
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+(d) Turn the ignition switch on (IG) again and check that no
+CAN communication system DTC is output.
+(e) Check if DTCs for zero point calibration of the yaw rate
+sensor undone (C1210/36) or for zero point calibration of
+the acceleration sensor undone (C1336/39) are output.
+Result
+Condition Proceed to
+DTCs (C1210/36, C1336/39 and/or CAN communication system DTC) are not output A
+CAN communication system DTC is output B
+DTCs (C1210/36 and/or C1336/39) are output C
+B INSPECT CAN COMMUNICATION SYSTEM
+C REPAIR CIRCUIT INDICATED BY OUTPUT
+DTC (See page BC-151)
+A
+BC
+2 CHECK YAW RATE AND ACCELERATION SENSOR INSTALLATION
+(a) Turn the ignition switch off.
+(b) Check that the yaw rate and acceleration sensor has
+been installed properly (See page BC-448).
+OK:
+The sensor is tightened to the specified torque.
+The sensor is not tilted.
+NG INSTALL YAW RATE AND ACCELERATION
+SENSOR CORRECTLY
+OK
+3 INSPECT YAW RATE AND ACCELERATION SENSOR (IG TERMINAL)
+(a) Disconnect the yaw rate and acceleration sensor
+Yaw Rate and Acceleration Sensor Harness Side
+connector.
+Connector Front View:
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+E34
+Tester Connection Condition Specified Condition
+IG
+E34-5 (IG) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+G026359E61
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (IG CIRCUIT)
+OK

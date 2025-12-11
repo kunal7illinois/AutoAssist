@@ -1,0 +1,86 @@
+ES–43
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Symbols (Terminal No.) Wiring Colors Terminal Descriptions Conditions STD Voltages
+Camshaft timing Oil
+Control Valve (OCV) Pulse generation
+OE2+ (C55-14) - OE2- (C55-15) W-L - Y Ignition switch on (IG)
+operation signal (Exhaust (see waveform 1)
+side)
+Variable Valve Timing
+Pulse generation
+VV2- (C55-90) - VV2+ (C55-67) B - W (VVT) sensor signal Idling
+(see waveform 5)
+(Intake side)
+Variable Valve Timing
+Pulse generation
+VV1- (C55-92) - VV1+ (C55-69) LG - L (VVT) sensor signal Idling
+(see waveform 5)
+(Intake side)
+Camshaft timing Oil
+Control Valve (OCV) Pulse generation
+OE1- (B47-31) - OE1+ (B47-26) LG - L Ignition switch on (IG)
+operation signal (Exhaust (see waveform 1)
+side)
+Camshaft timing Oil
+OE2- (C55-15) - OE2+ (C55-14) Y - W-L Control Valve (OCV) Ignition switch on (IG) Pulse generation ES
+operation signal (Exhaust (see waveform 1)
+side)
+HT1B (C55-48) - E1 (C55-81) LG - W-B Heated oxygen sensor
+Idling Below 3.0 V
+HT2B (C55-47) - E1 (C55-81) Y - W-B heater operation signal
+HT1B (C55-48) - E1 (C55-81) LG - W-B Heated oxygen sensor
+Ignition switch on (IG) 9 to 14 V
+HT2B (C55-47) - E1 (C55-81) Y - W-B heater operation signal
+VSV for active control
+ACM (C55-42) - E1 (C55-81) L-B - W-B mount system operation Ignition switch on (IG) 9 to 14 V
+signal
+Throttle drive motor
+Pulse generation
+M- (C55-18) - ME01 (C55-20) R - B operation signal (negative Idling with warm engine
+(see waveform 10)
+terminal)
+Throttle drive motor
+Pluse generation
+M+ (C55-19) - ME01 (C55-20) G - B operation signal (positive Idling with warm engine
+(see waveform 9)
+terminal)
+Earth (ground) circuit of
+E02 (C55-21) - Body ground B-W - - Always Below 1 V
+ECM
+Earth (ground) circuit of
+E01 (C55-22) - Body ground W-B - - Always Below 1 V
+ECM
+IGT1 (C55-40) - E1 (C55-81) W - W-B
+IGT2 (C55-39) - E1 (C55-81) GR - W-B
+IGT3 (C55-38) - E1 (C55-81) G - W-B Ignition coil with igniter Pulse generation
+Idling
+IGT4 (C55-37) - E1 (C55-81) LG - W-B (ignition signal) (see waveform 6)
+IGT5 (C55-36) - E1 (C55-81) P - W-B
+IGT6 (C55-35) - E1 (C55-81) G-R - W-B
+Shielded earth (ground)
+GE01(C55-41) - E1 (C55-81) G-R - W-B circuit of throttle drive Always Below 1 V
+motor
+OX1B (C55-88) - EX1B (C55-65) W - BR Heated oxygen sensor With engine speed at 2,500 rpm Pulse generation
+OX2B (C55-87) - EX2B (C55-64) B - W-B signal for 2 minutes after warming up (see waveform 2)
+Throttle position sensor
+Ignition switch on (IG),
+VTA2 (C55-99) - ETA (C55-97) W-L - P signal (for sensor 2.1 to 3.1 V
+Accelerator pedal fully released
+malfunction detection)
+Throttle position sensor
+Ignition switch on (IG),
+VTA2 (C55-99) - ETA (C55-97) W-L - P signal (for sensor 4.5 to 5.0 V
+Accelerator pedal fully depressed
+malfunction detection)
+Throttle position sensor Ignition switch on (IG), Throttle
+VTA1 (C55-98) - ETA (C55-97) Y - P 0.5 to 1.2 V
+signal (for engine control) valve fully closed
+Throttle position sensor Ignition switch on (IG), Throttle
+VTA1 (C55-98) - ETA (C55-97) Y - P 3.2 to 4.8 V
+signal (for engine control) valve fully open
+Engine coolant Idling, Engine coolant
+THW (C55-79) - ETHW (C55-78) B - P 0.2 to 1.0 V
+temperature sensor signal temperature 80°C (176°F)
+Intake air temperature Idling, Intake air temperature
+THA (C55-71) - ETHA (C55-74) P - G-R 0.5 to 3.4 V
+sensor signal 20°C (68°F)

@@ -1,0 +1,39 @@
+CA–24
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+(b) Measure the resistance according to the value(s) in
+Combination Meter (Component Side):
+the table below.
+F1
+CANL CANH
+C133254E01
+Standard resistance
+Terminals Condition Specified Condition
+F1-17 (CANH) - F1-18 (CANL) Ignition Switch off 108 to 132 Ω
+CA
+(c) Measure the resistance according to the value(s) in
+Combination Meter (Wire Harness Side):
+the table below.
+F1
+B2
+CANL CANH
+C133255E01
+Standard resistance
+Terminals Wiring Color Terminal Description Condition Specified Condition
+HIGH-level CAN bus wire -
+F1-17 (CANH) - F1-18 (CANL) B - W Ignition Switch off 108 to 132 Ω
+LOW-level CAN bus wire
+HIGH-level CAN bus wire -
+F1-17 (CANH) - F1-12 (E2) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+LOW-level CAN bus wire -
+F1-18 (CANL) - F1-12 (E2) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+HIGH-level CAN bus wire -
+F1-17 (CANH) - F1-2 (B2) B - R Ignition Switch off 6 kΩ or higher
+Battery positive
+LOW-level CAN bus wire -
+F1-18 (CANL) - F1-2 (B2) B - R Ignition Switch off 6 kΩ or higher
+Battery positive
+11. CERTIFICATION ECU (W/ SMART KEY SYSTEM)
+(a) Disconnect the E58 connector from the certification
+ECU.

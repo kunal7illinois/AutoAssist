@@ -1,0 +1,62 @@
+WS–31
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+Tester Connection Condition Specified Condition
+4 (AUTO) - 5 (DN) - 1 (E) Below 1 Ω
+Auto DOWN
+8 (UP) - 6 (B) Below 1 Ω
+1 (E) - 10 (RRU)
+1 (E) - 12 (RLU)
+1 (E) - 13 (RLD) UNLOCK (Below 1 Ω) WS
+Lock/Unlock switch →LOCK (10 kΩ or
+1 (E) - 15 (PD) higher)
+1 (E) - 16 (PU)
+1 (E) - 18 (RRD)
+(without Jam Protection)
+Tester Connection Condition Specified Condition
+1 (E) - 3 (UP) Below 1 Ω
+OFF
+1 (E) - 4 (DN) Below 1 Ω
+1 (E) - 10 (RRU)
+1 (E) - 12 (RLU)
+1 (E) - 13 (RLD) UNLOCK (Below 1 Ω)
+Lock/Unlock switch →LOCK (10 kΩ or
+1 (E) - 15 (PD) higher)
+1 (E) - 16 (PU)
+1 (E) - 18 (RRD)
+NG REPLACE POWER WINDOW REGULATOR
+MASTER SWITCH ASSEMBLY
+OK
+4 CHECK WIRE HARNESS (POWER WINDOW MASTER SWITCH - FRONT LH, REAR LH/RH
+SWITCH)
+(a) Disconnect the M1 and H6 (K1, J1) connectors.
+M1
+(b) Measure the resistance according to the value(s) in the
+Power Window Regulator Master
+Switch Assembly: table below.
+Standard resistance:
+Front RH side
+RLU PD
+Tester Connection Condition Specified Condition
+RRU RRD M1-16 (PU) - H6-5 (SU) Always Below 1 Ω
+M1-15 (PD) - H6-2 (SD) Always Below 1 Ω
+RLD
+PU
+M1-16 (PU) - Body
+Always 10 kΩ or higher
+ground
+H6 (K1, J1)
+Power Window Switch M1-15 (PD) - Body
+Always 10 kΩ or higher
+(Front RH, Rear LH/RH): ground
+Rear LH side
+Tester Connection Condition Specified Condition
+M1-12 (RLU) - K1-5 (SU) Always Below 1 Ω
+M1-13 (RLD) - K1-2 (SD) Always Below 1 Ω
+M1-12 (RLU) - Body
+Always 10 kΩ or higher
+ground
+M1-13 (RLD) - Body
+Always 10 kΩ or higher
+ground
+B137067E01
+Rear RH side

@@ -1,0 +1,49 @@
+Audi TT No. 56 / 4
+Current Flow Diagram
+Onboard supply control unit, left gas discharge light control
+unit, power output module for left headlight
+J343 Left gas discharge light control unit
+J519 Onboard supply control unit
+J667 Power output module for left headlight
+L13 Left gas discharge (xenon) bulb
+L174 Left day driving light bulb
+L176 Left LED module for daytime running light and side light
+M1 Left side light bulb
+M5 Front left turn signal bulb
+M33 Front left side marker bulb
+T14a 14-pin connector, black, on left of headlight
+T52a 52-pin connector, black, on onboard supply control unit
+T52c 52-pin connector, brown, on onboard supply control unit
+V294 Left dip beam screen motor
+366 Earth connection 1, in main wiring harness
+372 Earth connection 7, in main wiring harness
+J519
+672 Earth point 2, on front of left longitudinal member
+* only USA
+T52c T52a/11 T52c T52a/7 T52a/5 T52a
+/48 /26 /10
+1,0 1,0 1,0 0,5 0,5 0,5
+ws/sw ge/sw ge/gn gr/sw gr/bl sw/ws
+T14a T14a T14a T14a
+/11 T14a/6 /12 /10 /13 T14a/9
+1 J667 L176 4 1 ✱
+M33 M5
+1 2 4 2 1 2 3 4 2
+L13 1 2 4
+3
+J343 M1 L174
+V294 1
+T14a/5 T14a/7 ws = white
+31 31 sw = black
+366 ro = red
+6,0 2,5 1,5 1,0
+br br br br br = brown
+gn = green
+372 bl = blue
+gr = grey
+672 li = purple
+ge = yellow
+29 30 31 32 33 34 35 36 37 38 39 40 41 42 or = orange
+8J0-056040409
+rs = pink
+Edition 04.2009

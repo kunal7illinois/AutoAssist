@@ -1,0 +1,66 @@
+TW–36
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+DTC No. Detection Item Trouble Area See page
+C2143/43 Transmitter ID3 Error 1. Tire pressure warning valve TW-46
+and transmitter
+2. Tire pressure waning ECU
+C2144/44 Transmitter ID4 Error 1. Tire pressure warning valve TW-46
+and transmitter
+2. Tire pressure warning ECU
+C2145/45 Transmitter ID5 Error 1. Tire pressure warning valve TW-46
+and transmitter
+2. Tire pressure warning ECU
+C2165/65 Abnormal Temperature Inside ID1 1. Tires TW-49
+Tire 2. Tire pressure warning valve
+and transmitter
+3. Tire pressure warning ECU
+C2166/66 Abnormal Temperature Inside ID2 1. Tires TW-49
+Tire 2. Tire pressure warning valve
+and transmitter
+3. Tire pressure warning ECU
+TW C2167/67 Abnormal Temperature Inside ID3 1. Tires TW-49
+Tire 2. Tire pressure warning valve
+and transmitter
+3. Tire pressure warning ECU
+C2168/68 Abnormal Temperature Inside ID4 1. Tires TW-49
+Tire 2. Tire pressure warning valve
+and transmitter
+3. Tire pressure warning ECU
+C2169/69 Abnormal Temperature Inside ID5 1. Tires TW-49
+Tire 2. Tire pressure warning valve
+and transmitter
+3. Tire pressure warning ECU
+C2176/76 Receiver Error 1. Tire pressure warning antenna TW-55
+and receiver
+2. Wire harness or connector
+3. Tire pressure warning ECU
+C2171/71 Transmitter ID not Registered Tire pressure warning ECU TW-53
+C2177/77 Initialization not Completed 1. Tire pressure warning valve TW-58
+and transmitter
+2. Tire pressure warning ECU
+3. Tire pressure warning antenna
+and receiver
+4. Tire pressure warning reset
+switch
+5. Wire harness or connector
+C2181/81 Transmitter ID1 not Received 1. Tire pressure warning valve TW-38
+(Test Mode DTC) and transmitter
+2.
+Tire pressure warning antenna
+and receiver
+3. Wire harness or connector
+4. Tire pressure warning ECU
+C2182/82 Transmitter ID2 not Received 1. Tire pressure warning valve TW-38
+(Test Mode DTC) and transmitter
+2.
+Tire pressure warning antenna
+and receiver
+3. Wire harness or connector
+4. Tire pressure warning ECU
+C2183/83 Transmitter ID3 not Received 1. Tire pressure warning valve TW-38
+(Test Mode DTC) and transmitter
+2.
+Tire pressure warning antenna
+and receiver
+3. Wire harness or connector
+4. Tire pressure warning ECU

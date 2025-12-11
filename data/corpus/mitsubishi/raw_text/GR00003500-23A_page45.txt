@@ -1,0 +1,45 @@
+AUTOMATIC TRANSAXLE 23A-45
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 5. Using scan tool MB991502, check data list item 11:
+Throttle Position Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the data reading mode for item
+11: Throttle Position Sensor.
+• With the throttle valve in the idle position, voltage should
+be between 535 and 735 mV.
+• With the throttle valve in the full-open position, voltage
+should be between 4,500 and 5,500 mV.
+16 PIN
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 AC001252AB Q:Is the sensor operating properly?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Replace the PCM.
+STEP 6. Check connectors B-07 at throttle position sensor
+and C-57 <2.4L Engine> or C-59 <3.0L Engine> at PCM for
+damage.
+Q:Are the connectors in good condition?
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> YES : Repair harness damage between throttle position
+B-07
+sensor connector B-07 terminal 3 and PCM connector
+B-07
+C-57 <2.4L Engine> or C-59 <3.0L Engine> terminal
+78.
+NO : Repair or replace the defective connector(s). Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2.
+AC001831AF
+CONNECTOR: C-57 <2.4L ENGINE> OR
+C-59 <3.0L ENGINE>
+PCM
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+TSB Revision

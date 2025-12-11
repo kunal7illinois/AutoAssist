@@ -1,0 +1,43 @@
+13A-470 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Checking by operating the accelerator pedal.
+Q:Does the engine stall right after the accelerator pedal is
+released?
+YES : Refer to, Clean the throttle valve area P.13A-575.
+NO : Go to Step 6.
+STEP 6. Engine stall reproduction test.
+Q:Is it easy to reproduce the engine stall?
+YES : Go to Step 7.
+NO : Check if the following signals change suddenly by
+wiggling the circuit harness and connectors.
+a. Crankshaft position sensor signal.
+b. Volume air flow sensor signal.
+c. Injector drive signal.
+d. Primary and secondary ignition signal.
+e. Fuel pump drive signal.
+f. PCM or ECM power supply voltage.
+Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+STEP 7. Using scan tool MB991502, check data list.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Check the following items in the data list. Refer to, Data List
+Reference Table P.13A-544.
+16 PIN a. Item 13: Intake Air Temperature Sensor.
+b. Item 25: Barometric Pressure Sensor.
+MB991502
+AKX01177AB c. Item 21: Engine Coolant Temperature Sensor.
+d. Item 59: Heated Oxygen Sensor (rear).
+e. Item 11: Heated Oxygen Sensor (front).
+f. Item 27: Power Steering Pressure Switch.
+g. Item 28: A/C Switch.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Are they operating properly?
+YES : Go to Step 8.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+TSB Revision

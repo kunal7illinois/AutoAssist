@@ -1,0 +1,19 @@
+ES–194
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+A. Engine RPM 1,500 rpm or less
+B. Starter OFF
+Either of following conditions C or D met -
+C. Both of following conditions (a) and (b) met -
+(a) Engine speed 500 rpm or less
+(b) Battery voltage 6 V or more
+D. All of following conditions (a), (b) and (c) met -
+(a) Engine speed More than 500 rpm
+(b) Battery voltage 10 V or more
+(c) Number of sparks after CPU reset 5 sparks or more
+TYPICAL MALFUNCTION THRESHOLDS
+ES
+ECM does not receive any IGF signal despite ECM sending IGT signal
+IGF signal
+to igniter
+COMPONENT OPERATING RANGE
+IGF signal Igniter transmits IGF signal when it receives IGT signal from ECM

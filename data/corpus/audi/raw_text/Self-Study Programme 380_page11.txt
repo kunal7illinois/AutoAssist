@@ -1,0 +1,38 @@
+Belt-on warning
+The Audi TT Coupé ‘07 has a belt-on warning function for the driver.
+The airbag control unit evaluates the information from the driver side belt switch E24 after ignition "on". If the
+driver is not wearing a seat belt, a visual warning is given by the seat belt warning system warning lamp K19
+integrated in the dash panel insert.If the system determines that the vehicle is moving, an audio warning is
+given in addition to the visual warning.As long as the ignition is on, the airbag control unit monitors the
+switched condition of seat belt switch E24. If seat belt status changes while terminal 15 is "on", the seat belt
+reminder will be reactivated.
+Time diagram for seat belt reminder
+Visual and audio signals
+- Delayed seat belt fastening
+ON
+Terminal 15
+OFF
+V > 25 kph
+Road speed
+v < 25 kph
+yes
+Seat belt fastened
+No
+ON
+Seat belt warning system warning lamp
+OFF
+ON
+Audio signal
+OFF
+Time
+361_016
+Driver side belt switch E24
+The "belt-on warning" function needs information
+on whether the driver's seat belt is fastened or not.
+Seat belt switch E24 in the belt buckle is
+a mechanically actuated open-close switch.
+The airbag control unit uses a resistance
+measurement to establish whether the seat belt is
+fastened or not.
+380_065
+11

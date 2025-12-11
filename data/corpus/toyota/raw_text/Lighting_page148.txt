@@ -1,0 +1,60 @@
+LI–135
+LIGHTING – AUTOMATIC LIGHT CONTROL SENSOR
+(e) Check the waveform.
+OK
+Tester Specified
+Tool Setting Condition
+Connection Condition
+Ignition switch
+GND E11-6 (CLTE) - 5 V/DIV., 5 ms./ on (IG), light Correct
+A waveform is as
+E11-4 (CLTS) DIV control switch in
+shown
+AUTO
+HINT:
+If the ambient light becomes brighter, width A
+B113714E01
+becomes narrower.
+If the result is not as specified, replace the
+automatic light control sensor.
+2. INSPECT AUTOMATIC LIGHT CONTROL SENSOR
+Wire Harness Side:
+(for Automatic Air Conditioning System)
+(a) Disconnect the E11 automatic light control sensor
+Automatic Light Control Sensor
+connector.
+(b) Measure the voltage and resistance according to
+the value(s) in the table below.
+E11 Standard voltage
+CLTE
+CLTB
+Tester Connection Condition Specified Condition
+E11-6 (CLTB) - E11-3 Ignition switch off Below 1 V
+B109993E16 (CLTE) Ignition switch on (IG) 10 to 14 V
+Standard resistance
+Tester Connection Specified Condition
+E11-3 (CLTE) - Body ground Below 1 Ω
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the automatic light control sensor
+connector.
+(d) Connect an oscilloscope to the automatic light
+control sensor connector.
+(e) Check the waveform.
+OK
+LI
+Tester Specified
+Tool Setting Condition
+Connection Condition
+Ignition switch
+GND E11-3 (CLTE) - 5 V/DIV., 5 ms./ on (IG), light Correct
+A waveform is as
+E11-5 (CLTS) DIV control switch in
+shown
+AUTO
+HINT:
+If the ambient light becomes brighter, width A
+B113714E01
+becomes narrower.
+If the result is not as specified, replace the
+automatic light control sensor.

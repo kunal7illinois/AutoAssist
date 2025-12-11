@@ -1,0 +1,38 @@
+ES–332
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Duration 10 minutes
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTC not present None
+Ignition switch ON
+Engine Running
+Battery voltage 8 V or more
+Starter OFF
+ES
+TYPICAL MALFUNCTION THRESHOLDS
+Soak timer measurement when ECM CPU clock counts 10 minutes Less than 7 minutes, or more than 13 minutes
+INSPECTION PROCEDURE
+HINT:
+• DTC P2610 is set if an internal ECM problem is detected. Diagnostic procedures are not required.
+ECM replacement is necessary.
+• Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition
+when malfunctions are detected. When troubleshooting, freeze frame data can help determine if the
+vehicle was moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or
+rich, and other data from the time the malfunction occurred.
+1 REPLACE ECM
+(a) Replace the ECM (see page ES-429).
+NEXT
+2 CHECK WHETHER DTC OUTPUT RECURS
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Clear DTCs (see page ES-35).
+(e) Start the engine and wait for 10 minutes or more.
+(f) On the tester, select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / DTC INFO /
+PENDING CODES.
+(g) If no pending DTC is displayed, the repair has been
+successfully completed.
+NEXT
+END

@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Fig. 142: Checking Continuity Between A/T Clutch Pressure Control
+Solenoid Valve C Terminal 1 And PCM Connector Terminal B25
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES -Go to step 22.
+NO -Repair open in the wire between A/T clutch pressure control solenoid
+valve C connector terminal No. 1 and PCM connector terminal B25, then go to
+step 16.
+16. Reconnect all connectors.
+17. Turn the ignition switch to ON (II).
+18. Clear the DTC with the HDS.
+19. Start the engine, and wait for at least 1 second.
+20. Check for DTCs with the HDS.
+Is DTC P0970 indicated?
+YES -Check for poor connections or loose terminals between A/T clutch
+pressure control solenoid valve C and the PCM, then go to step 1.
+NO -Go to step 21.
+21. Monitor the OBD STATUS for P0970 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?

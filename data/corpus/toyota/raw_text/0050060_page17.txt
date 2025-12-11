@@ -1,0 +1,45 @@
+ES–356
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+9 PERFORM EVAP SYSTEM CHECK (STEP 4/5)
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed
+Vent Valve ON
+OFF: Vent
+Leak Detection
+ES Pump ON
+EVAP Pressure
+OK
+Positive
+Negative
+Purge VSV Stuck Closed
+First Reference
+Pressure
+Steps
+4/5
+Time
+10
+(Reference) seconds
+A106741E05
+(a) Check the EVAP pressure in step 4/5.
+Result
+DTCs* Test Results Suspected Trouble Areas Proceed To
+EVAP pressure increases by 0.3 kPa-g (2.25
+- mmHg-g) or more within 10 seconds of Not yet determined A
+proceeding from step 3/5 to step 4/5
+EVAP pressure increases by 0.3 kPa-g (2.25
+Problems in EVAP hose between purge VSV
+P0441 mmHg-g) or more within 10 seconds of B
+and intake manifold
+proceeding from step 3/5 to step 4/5
+Variation in EVAP pressure less than 0.3 kPa-g
+P0441 (2.25 mmHg-g) for 10 seconds, after Purge VSV stuck closed C
+proceeding from step 3/5 to step 4/5
+*: These DTCs are already present in the ECM when the
+vehicle arrives and are confirmed in the "CONFIRM
+DTC" procedures above.
+B Go to step 15
+C Go to step 12
+A

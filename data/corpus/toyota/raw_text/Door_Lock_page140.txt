@@ -1,0 +1,64 @@
+DL–130
+DOOR LOCK – SMART KEY SYSTEM
+Transmitting ECU (Transmitter) Receiving ECU Signals Communication method
+Engine switch position signal
+Courtesy light switch signal
+Door lock output signal
+Luggage compartment door output signal
+Main body ECU Certification ECU Wireless door lock buzzer request signal CAN
+Door lock position switch signal
+D/P door key operated switch signal
+Luggage compartment door key operated switch
+signal
+Main body ECU Combination meter Wireless door lock buzzer request signal CAN
+Illumination light request signal
+Certification ECU Main body ECU CAN
+Light answer back signal
+Certification ECU Driver seat ECU Memory call replay request signal CAN
+Meter buzzer single-shot request signal
+Meter buzzer intermittence request signal
+Meter buzzer continuation request signal
+Door open display signal
+Certification ECU Combination meter Key loss warning signal CAN
+Low key battery warning signal
+Shift position warning signal
+Steering lock abnormal warning
+Steering lock unlock warning
+Certification ECU/Main
+Combination meter Vehicle speed signal CAN
+body ECU
+• Matching request random number signal
+• EEP ROM access malfunction
+• Model code matching signal
+• Model code mismatching signal
+• ECM code receiving status
+• Engine start permission request signal
+• Engine start permission response signal
+ID code box Certification ECU • S code matching result signal LIN
+• S code registration status signal
+• S code registration mode signal
+• L code matching result signal
+• ECM communication signal
+• Registered key number response signal
+• Diagnosis mode switching signal
+• Registered key number signal
+• 3 bit code request signal
+• ID code matching result signal
+Certification ECU ID code box LIN
+• Registered key number signal
+DL
+• Vehicle type handle signal
+• L code registration mode signal
+• ID code box • Diagnosis mode request signal
+Certification ECU LIN
+• Steering lock ECU • DTC clear request signal
+• L code registration status signal
+• Steering lock request signal
+• Steering unlock signal
+• Steering lock confirmation signal
+• Certification ECU • Steering unlock confirmation signal
+Steering lock ECU LIN
+• ID code box • Diagnosis response signal
+• Steering unlock drive relay signal
+• Steering lock drive relay signal
+• Steering lock motor operation signal

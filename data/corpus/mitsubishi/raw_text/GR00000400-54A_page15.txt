@@ -1,0 +1,26 @@
+CHASSIS ELECTRICAL 54A-15
+IGNITION SWITCH
+DTC12: Encrypted Codes are not the Same or not Registered
+. .
+DTC SET CONDITION TROUBLESHOOTING HINTS
+The encrypted code which is sent from the transpon- • The encrypted code in the ignition key being used
+der is not the same as the encrypted code which is has not been properly registered
+registered in the immobilizer-ECU. • Malfunction of immobilizer-ECU
+NOTE: DTC 12 is always output together with MFI
+system DTC P1610.
+.
+DIAGNOSIS
+STEP 1. Check that the encrypted code was registered.
+Q:Was the encrypted code registered?
+YES : Replace the immobilizer and then re-register the
+encrypted code (Refer to P.54A-28.)
+NO : Register the encrypted code (Refer to P.54A-28.)
+TROUBLE SYMPTOM CHART
+M1543007200544
+SYMPTOMS INSPECTION REFERENCE PAGE
+PROCEDURE NO.
+Communication with scan tool is impossible 1 P.54A-16
+Registering the ignition key is impossible 2 P.54A-22
+Engine does not start (Cranking but no initial combustion) 3 P.54A-23
+The "SECURITY" Indicator Light does not Illuminate. 4 P.54A-24
+TSB Revision

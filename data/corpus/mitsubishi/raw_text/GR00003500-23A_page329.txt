@@ -1,0 +1,49 @@
+AUTOMATIC TRANSAXLE 23A-329
+AUTOMATIC TRANSAXLE DIAGNOSIS
+INVECS-II CANCEL COMMAND
+M1231009500145
+MUT-II ITEM ITEM CONTENT REMARKS
+SCAN NO.
+TOOL
+DISPLAY
+Std. SIFT 14 Standard Stops the INVECS-II Use this function when performing procedure 8 in
+PATN shift pattern control and shifts the road tests. (Refer to P.23A-19.)
+gears according to the If the ignition switch is turned from "LOCK" (OFF)
+standard shift pattern. to "ON," this function restores the INVECS-II
+control.
+PCM TERMINAL VOLTAGE REFERENCE CHART FOR TRANSAXLE OPERATION
+M1231008400134
+ACX01182AB
+TERMINAL INSPECTION ITEMS INSPECTION REQUIREMENT NORMAL CONDITION
+NO.
+45 Crankshaft position Engine: Cranking 0.4 − 4.0 V
+sensor Engine: Idling 1.5 − 2.5 V
+46 Throttle position sensor Ignition switch: ON 4.8 − 5.2 V
+supplied voltage
+50 A/T control relay Ignition switch: LOCK (OFF) 0 V
+Ignition switch: ON 10 − 12 V
+57 Throttle position sensor Always 0.5 V or less
+ground
+75 Auto-cruise signal Ignition switch: ON Battery positive voltage
+76 Ground Always 1 V or less
+77 Solenoid valve power Ignition switch: LOCK (OFF) 0 V
+supply
+Ignition switch: ON Battery positive voltage
+78 Throttle position sensor Ignition switch: ON (check Idle 0.6 − 0.8 V
+for smooth voltage increase Wide open 4.5 − 5.5 V
+as throttle is moved from idle
+throttle
+position to wide open throttle
+80 Vehicle speed signal • Measure between terminals 80 and Refer to P.23A-333,
+ground with an oscilloscope. Inspection Procedure
+• Engine: 2,000 r/min Using an Oscilloscope.
+• Selector lever position: 3 (3rd gear)
+<Vehicles without sport mode>, Sport
+mode (3rd gear) <Vehicles with sport
+mode>
+88 Ground Always 0 V
+89 Solenoid valve power Ignition switch: LOCK (OFF) 0 V
+supply
+Ignition switch: ON Battery positive voltage
+97 Ground Always 0 V
+TSB Revision

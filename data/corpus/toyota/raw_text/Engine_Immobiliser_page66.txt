@@ -1,0 +1,58 @@
+EI–62
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+NOTICE:
+If the key code registration has failed in
+automatic key code registration mode, code 2-1
+will be output from the security indicator. Trying
+to register an already registered key will cause
+code 2-2 to be output when the key is inserted. If
+the number of registered key codes exceeds the
+limit, code 2-3 will be output from the security
+indicator. The output details are shown in
+procedure "B".
+HINT:
+• A brief outline of procedures for key code
+registration is shown above. For detailed
+information, refer to the screen of the intelligent
+tester.
+• When the immobiliser system is operating
+normally and the key is pulled out, the security
+indicator will blink.
+4. ERASURE OF KEY CODE
+(a) Erase the key codes by using the intelligent tester.
+HINT:
+• All key codes will be erased except for the
+master key which is used for erasing the key
+codes. In order to use a key for which the code
+has been erased, it is necessary to register the
+key code again.
+• The registration operation will be cancelled if any
+step is not completed within the specified time.
+Erasing Key Code:
+Time
+Procedure Security Indicator Condition
+(Operation Completion Time)
+1. Start
+2. Insert the already registered master key in - Indicator blinks until the first key is inserted.
+EI the ignition key cylinder and turn the ignition
+switch on.
+3. Intelligent tester operation
+(1) Select IMMOBILISER
+(2) Select ID UTILITY
+(3) Select IMMOB CODE ERA
+Within 120 sec. OFF
+HINT:
+After completing the above operation,
+proceed to the next step in accordance with
+the prompts on the tester screen.
+4. Remove the master key. Within 10 sec. of the instruction on the tester ON for 1 sec. then OFF
+5. Next - Blinking
+6. End
+HINT:
+• A brief outline of procedures for key code
+registration is shown above. For detailed
+information, refer to the screen of the intelligent
+tester.
+• When the immobiliser system is operating
+normally and the key is pulled out, the security
+indicator will blink.

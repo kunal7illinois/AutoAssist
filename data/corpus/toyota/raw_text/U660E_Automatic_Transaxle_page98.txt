@@ -1,0 +1,48 @@
+AX–98
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Pressure Control Solenoid "B" Electrical (Shift
+DTC P0778
+Solenoid Valve SL2)
+DESCRIPTION
+Shifting from 1st to 6th is performed in combination with "ON" and "OFF" operation of the shift solenoid
+AX
+valves SL1, SL2, SL3, SL4 and SL which is controlled by the TCM. If an open or short circuit occurs in any
+of the shift solenoid valves, the TCM controls the remaining normal shift solenoid valve to allow the
+vehicle to be operated smoothly (See page AX-39).
+DTC No. DTC Detection Condition Trouble Area
+The TCM checks for an open or short in the shift
+solenoid valve SL2 circuit while driving and shifting
+• Open or short in shift solenoid valve SL2 circuit
+gears. (1-trip detection logic)
+P0778 • Shift solenoid valve SL2
+• Output signal duty equals to 100%.
+• TCM
+(NOTE: SL2 output signal duty is less than 100%
+under normal condition.)
+MONITOR DESCRIPTION
+This DTC indicates an open or short in the shift solenoid valve SL2 circuit. The TCM commands gear
+shifts by turning the shift solenoid valves on or off. When there is an open or short circuit in any of the shift
+solenoid valve circuits, the TCM detects the problem and illuminates the MIL and stores the DTC. The
+TCM also performs the fail-safe function and turns the other normal shift solenoid valves on or off. (In
+case of an open or short circuit, the TCM stops sending current to the circuit.)
+While driving and shifting gears, if the TCM detects an open or short in the shift solenoid valve SL2 circuit,
+the TCM determines there is a malfunction (See page AX-39).
+MONITOR STRATEGY
+Related DTCs P0778: Shift solenoid valve SL2/Range check
+Required sensors/Components Shift solenoid valve SL2
+Frequency of operation Continuous
+Duration 1 sec.
+MIL operation Immediate
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+ALL:
+The monitor will run whenever this DTC is not present None
+Ignition switch ON
+Starter OFF
+Malfunction (A):
+Battery voltage 12 V or more
+Malfunction (B):
+Battery voltage 10 V or more and less than 12 V
+CPU commanded duty Less than 75%
+TYPICAL MALFUNCTION THRESHOLDS
+Output signal duty 100% or more

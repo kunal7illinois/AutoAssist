@@ -1,0 +1,48 @@
+BC–134
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+HINT:
+When the sensor check has been completed, the
+ABS warning light goes off while driving and blinks
+in the Test Mode pattern while stationary.
+(c) Check the VSC sensor.
+TEST MODE
+Check that the VSC warning light (models without
+multi information display) blinks or "CHECK VSC
+Blinking Pattern:
+SYSTEM" is displayed on the multi information
+display (models with multi information display), and
+0.13 sec. 0.13 sec. perform the check.
+ON
+OFF
+Display:
+BC
+C135802E01
+13. YAW RATE SENSOR CHECK (SST CHECK WIRE)
+(a) Check the output of the yaw rate sensor.
+Start Position (1) Keep the vehicle stationary on a level surface for
+1 second or more.
+(2) Move the shift lever from P to the D position (A/
+T) or release the parking brake (M/T) and drive
+the vehicle at a vehicle speed of approximately 3
+Within +- 5 deg. mph (5 km/h) and turn the steering wheel either
+to the left or right 90° or more and until the
+vehicle makes a 180° turn.
+(3) Stop the vehicle and move the shift lever to the P
+position (A/T) or apply the parking brake (M/T).
+End Position
+Check that the skid control buzzer sounds for 3
+seconds.
+HINT:
+C137757E01 • If the skid control buzzer sounds, the sensor
+check is completed normally.
+• If the skid control buzzer does not sound,
+check the skid control buzzer circuit (See
+page BC-263), then perform the sensor check
+again.
+• If the skid control buzzer still does not sound,
+there is a malfunction in the yaw rate sensor,
+so check the DTC.
+• Make a 180° turn. At the end of the turn, the
+direction of the vehicle should be within 180°
++- 5° of its start position.
+• Do not spin the wheels.

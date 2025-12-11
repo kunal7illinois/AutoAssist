@@ -1,0 +1,54 @@
+ES–245
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+The ECM monitors the intake air amount during idling and the ignition timing.
+When the Engine Coolant Temperature (ECT) is between -10°C and 50 °C (14°F and 122°F), the ECM
+calculates the idling intake air amount for 10 seconds, beginning 3 seconds after the engine starts.
+When the accumulated value is below the threshold, the ECM interprets this as a malfunction in the Idle
+Speed Control (ISC) system at cold start.
+The ECM also monitors the ignition timing at cold start, and judges it to be incorrect when it is advanced to
+the same value for a warm engine for 5 seconds or more of the 10 second monitoring period.
+Example:
+P050A is detected when all conditions below are met (2 trip detection logic).
+1. The ECT is between -10°C and 50 °C (14°F and 122°F) when the engine starts.
+2. The engine idles for 13 seconds after engine start.
+3. The accumulated intake air amount is below the threshold.
+The ECM sets the DTC and illuminates the MIL 13 seconds after the engine is next started.
+ES
+NOTICE:
+When the negative battery terminal is disconnected during inspection or repairs, the ISC learning
+values are cleared. The ISC learning must be performed by warming up the engine and idling for 5
+minutes with the ECT at 75°C (167°F) or more because DTCs cannot be detected with the ISC
+learning values cleared.
+MONITOR STRATEGY
+P050A: Idle speed control problem at cold
+Related DTCs
+P050B: Idle ignition timing problem at cold
+Required Sensors/Components (Main) Mass air flow meter
+Engine Coolant Temperature (ECT) sensor, Throttle position sensor,
+Required Sensors/Components (Related)
+Vehicle speed sensor
+Frequency of Operation Once per driving cycle
+Duration 10 seconds
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+P050A:
+Battery voltage 8 V or more
+Time after engine start 3 seconds or more
+Starter OFF
+ECT at engine start -10°C (14°F) or more
+ECT -10°C to 50°C (14°F to 122°F)
+Engine idling time 3 seconds or more
+Fuel-cut OFF
+Vehicle speed Less than 3 km/h (1.875 mph)
+Time after shift position changed (A/T) 1 second or more
+Atmospheric pressure 76 kPa (570 mmHg) or more
+P050B:
+Battery voltage 8 V or more
+Time after engine start 3 seconds or more
+Starter OFF
+ECT at engine start -10°C (14°F) or more
+ECT -10°C to 50°C (14°F to 122°F)
+Engine idling time 3 seconds or more
+Fuel-cut OFF
+Vehicle speed Less than 3 km/h (1.875 mph)

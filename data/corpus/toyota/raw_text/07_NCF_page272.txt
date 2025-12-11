@@ -1,0 +1,29 @@
+CH-108 CHASSIS - BRAKE
+6. Outline of VSC Function
+General
+The followings are two examples that can be considered as circumstances in which the tires exceed their
+lateral grip limit.
+The VSC function is designed to help control the vehicle behavior by controlling the motive force and the
+brakes at each wheel when the vehicle is under one of the conditions indicated below.
+(cid:1) When the front wheels lose grip in relation to the rear wheels (front wheel skid tendency).
+(cid:1) When the rear wheels lose grip in relation to the front wheels (rear wheel skid tendency).
+151CH17 189CH100
+Front Wheel Skid Tendency Rear Wheel Skid Tendency
+Method for Determining the Vehicle Condition
+To determine the condition of the vehicle, sensors detect the steering angle, vehicle speed, vehicle’s yaw
+rate, and the vehicle’s lateral acceleration, which are then calculated by the skid control ECU.
+1) Determining Front Wheel Skid
+Whether or not the vehicle is in the state of Actual Locus of Travel
+front wheel skid is determined by the (Actual Yaw Rate)
+difference between the target yaw rate and the
+vehicle’s actual yaw rate. Locus of Travel
+When the vehicle’s actual yaw rate is smaller Based on the
+than the yaw rate (a target yaw rate that is Target Yaw Rate
+determined by the vehicle speed and steering
+angle) that should be rightfully generated
+when the driver operates the steering wheel, it
+means the vehicle is making a turn at a greater
+angle than the locus of travel.
+Thus, the skid control ECU determines that
+there is a large tendency to front wheel skid.
+151CH19

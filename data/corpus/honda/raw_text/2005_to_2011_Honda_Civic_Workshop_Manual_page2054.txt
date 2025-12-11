@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+YES -Repair open or short between the WHT/GRN and BLU/RED wires in the
+torque sensor circuit between the torque sensor and the EPS control unit.
+NO -Faulty torque sensor (short or open in the internal circuit), replace the
+steering gearbox (see STEERING GEARBOX REMOVAL AND
+INSTALLATION ).
+DTC 51-02: TORQUE SENSOR (VT3 DIFFERENTIAL-AMPLIFICATION FUNCTION) (REGULAR
+DIAGNOSIS); DTC 51-03: TORQUE SENSOR (VT1, VT2 RAPID-CHANGE) (REGULAR
+DIAGNOSIS); DTC 51-06: TORQUE SENSOR (VT1, VT2 AVERAGE) (REGULAR DIAGNOSIS);
+DTC 51-07: TORQUE SENSOR (VT1, VT2 INITIAL CHECK) (INITIAL DIAGNOSIS)
+1. Clear the DTC with the HDS
+2. Turn the ignition switch to LOCK (0).
+3. Start the engine.
+Does the EPS indicator come on?
+YES -Go to step 4.
+NO -Check for loose terminals or poor connections. If the connections are
+good, the system is OK at this time.
+4. Check for DTCs with the HDS.
+Is DTC 51-02, 51-03, 51-06 or 51-07 indicated?
+YES -Go to step 5.
+NO -Troubleshoot the indicated DTC. If there are no DTCs, the system is OK
+at this time.
+5. Turn the ignition switch to LOCK (0).
+6. Disconnect EPS control unit connector D (28P).
+7. Measure the resistance between EPS control unit connector D (28P) terminals
+No. 9 and No. 10.

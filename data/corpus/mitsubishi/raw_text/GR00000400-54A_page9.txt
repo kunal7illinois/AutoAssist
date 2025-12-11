@@ -1,0 +1,76 @@
+CHASSIS ELECTRICAL 54A-9
+IGNITION SWITCH
+IGNITION SWITCH
+GENERAL DESCRIPTION
+M1543009900710
+IGNITION KEY REMINDER TONE ALARM • Using scan tool MB991502 (MUT-II) (Refer to
+P.54A-28.)
+.The ignition key reminder tone alarm will sound
+• Registering new ignition keys by operating igni-
+under the following condition, and warn the driver to
+tion keys that already have been registered
+remove the ignition key.
+(Refer to P.54A-28.)
+• The driver’s door is opened when the ignition
+switch is at "LOCK" (OFF) or "ACC" position with-
+.
+CONSTRUCTION DIAGRAM
+out removing the ignition key.
+1. When the ignition switch is turned to "ON"
+However, the light reminder tone alarm will take pre-
+cedence over this function. position, the ECM <M/T> or PCM <A/T> sends a
+requirement for the encrypted code to the
+IMMOBILIZER SYSTEM immobilizer-ECU (at this time, the engine is
+remobilized).
+.The immobilizer system consists of the ignition key,
+2. When the immobilizer-ECU receives the
+the key ring antenna, the immobilizer-ECU, and the
+requirement from the ECM <M/T> or PCM <A/T>,
+ECM <M/T> or PCM <A/T>. The ignition key has a
+the immobilizer-ECU supplies power to the
+built-in transponder. The key ring antenna is installed
+transponder inside the ignition key via the
+on the steering lock key cylinder. Only the registered
+antenna. The energized transponder sends the
+ignition key permits the engine to start, therefore, the
+encrypted code back to the immobilizer-ECU via
+engine can never be started by means of a forged
+the antenna.
+key or by connecting the ignition wiring directly. The
+3. The immobilizer-ECU judges the encrypted code
+system is significantly safe and reliable against theft.
+with its code logic in itself. If they are identical, the
+In addition, the driver has only to turn the ignition
+immobilizer-ECU sends the encrypted code to the
+switch to the "ON" position to activate the immobi-
+ECM <M/T> or PCM <A/T>.
+lizer system. If the requirements for starting the
+engine are not satisfied, the engine will be immobi- 4. If the ECM < M/T> or PCM < A/T> can not receive
+lized. If a registered ignition key is lost, all your igni- the encrypted code, the engine will be
+tion keys need to be registered again using scan tool immobilized.
+MB991502 (MUT-II) to ensure security (refer to
+P.54A-28.). An additional ignition key can be regis-
+tered as follows (only if no ignition keys are lost):
+ENCRYPTED
+IGNITION KEY
+CODE
+STEERING LOCK
+(WIRELESS)
+ANTENNA
+CYLINDER
+CPU
+ECM <M/T> OR SCAN TOOL
+PCM <A/T> (MUT-II)
+ENCRYPTED
+CODE IMMOBILIZER-ECU
+POWER
+(WIRELESS) KEY RING
+HIGH FREQUENCY COMMUNICATION
+ANTENNA
+CIRCUIT CIRCUIT
+TRANSPONDER
+ENCRYPTED
+CPU
+CODE
+AC002231AB
+TSB Revision

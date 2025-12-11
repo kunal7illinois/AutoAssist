@@ -1,0 +1,29 @@
+ES–387
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK:
+Fuel pump operating sound occurs.
+OK Go to step 8
+NG
+2 INSPECT INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY (C/OPN RELAY INPUT
+VOLTAGE)
+(a) Measure the voltage between the terminal of the
+Instrument Panel J/B:
+instrument panel Junction Block (J/B) and the body
+ground when the ignition switch is turned ON and OFF.
+ES
+Standard voltage
+Ignition Switch
+Tester Connections Specified Conditions
+Conditions
+IB
+IB-11 - Body ground
+OFF Below 1 V
+IF-4 - Body ground
+11 IB-11 - Body ground
+ON 9 to 14 V
+IF-4 - Body ground
+OK Go to step 4
+IF
+4
+A116124E13
+NG

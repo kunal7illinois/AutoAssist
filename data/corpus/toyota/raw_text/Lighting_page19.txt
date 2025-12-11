@@ -1,0 +1,90 @@
+LI–19
+LIGHTING – LIGHTING SYSTEM
+Symbols Wiring Color Terminal Description Condition Specified Condition
+Ignition switch off Below 1 V
+CLTS (E6-19) - Body Automatic light control
+ground G - Body ground sensor signal input Automatic light control Pulse generation
+system operates (See waveform 1)
+Ignition switch off Below 1 V
+Automatic light control
+CLTB (E6-20) - Body Ignition switch on (IG)
+B - Body ground sensor power supply
+ground and light control switch 10 to 14 V
+output
+in AUTO
+Passenger side door
+Below 1 V
+PCTY (E6-21) - Body Passenger side door open
+Y - Body ground
+ground courtesy switch input Passenger side door
+10 to 14 V
+closed
+Luggage compartment
+Below 1 V
+LGCY (E6-25) - Body Luggage courtesy door open
+W - Body ground
+ground switch input Luggage compartment
+10 to 14 V
+door closed
+Passenger side door
+LSWP (E6-27) - Body Passenger side door locked 10 to 14 V
+LG - Body ground lock position switch
+ground Passenger side door
+input Below 1 V
+unlocked
+Front fog light switch
+Below 1 V
+FFOG (E6-28) - Body Front fog light switch ON
+V - Body ground
+ground input Front fog light switch
+10 to 14 V
+OFF
+Rear right door locked 10 to 14 V
+LSWR (E6-5) - Body Rear right door lock
+ground (*1) V - Body ground position switch input Rear right door Below 1 V
+unlocked
+RCTY (E6-5) - Body Rear right door courtesy Rear right door open Below 1 V
+GR - Body ground
+ground (*2) switch input Rear right door closed 10 to 14 V
+RCTY (E6-7) - Body Rear right door courtesy Rear right door open Below 1 V
+GR - Body ground
+ground (*1) switch input Rear right door closed 10 to 14 V
+Dimmer switch in HIGH
+Below 1 V
+HF (E7-13) - Body Dimmer switch HIGH FLASH position
+R - Body ground
+ground FLASH signal input Dimmer switch not in
+10 to 14 V
+HIGH FLASH position
+Engine switch not
+SSW2 (E7-16) - Body 10 to 14 V
+V - Body ground Engine switch input pushed
+ground (*1)
+Engine switch pushed Below 1 V
+Engine switch not
+SSW1 (E7-17) - Body L - Body ground Engine switch input pushed 10 to 14 V LI
+ground (*1)
+Engine switch pushed Below 1 V
+Light control switch in
+Below 1 V
+Light control switch AUTO
+A (E7-21) - Body ground G - Body ground
+AUTO signal input Light control switch not
+10 to 14 V
+in AUTO
+ACCD (E7-22) - Body Accessory relay drive Ignition switch on (ACC) Below 1 V
+W - Body ground
+ground (*1) output Ignition switch off 10 to 14 V
+Light control switch in
+Below 1 V
+TAIL (E7-23) - Body Light control switch TAIL or HEAD
+B - Body ground
+ground TAIL signal input Light control switch in
+10 to 14 V
+neither TAIL nor HEAD
+DCTY (E7-24) - Body Driver side door Driver side door open Below 1 V
+L - Body ground
+ground courtesy switch input Driver side door closed 10 to 14 V
+IG1D (E7-3) - Body Ignition 1 relay drive Ignition switch on (IG) Below 1 V
+P - Body ground
+ground (*1) output Ignition switch off 10 to 14 V

@@ -1,0 +1,32 @@
+13B-436 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Using scan tool MB991502, check solenoid for
+clogging of the purge control.
+(1) Disconnect hoses B and C from the evaporative emission
+<VEHICLE WITHOUT VARIABLE
+INDUCTION SYSTEM> purge solenoid side, and connect the hand vacuum pump to
+HOSE B EVAPORATIVE the evaporative emission purge solenoid instead of hose C.
+EMISSION (2) Set scan tool MB991502 to actuator test mode for item 08:
+PURGE Evaporative Emission Purge Solenoid. When the
+SOLENOID
+evaporative emission purge solenoid is operated, apply a
+pressure on the hand vacuum pump and confirm that air is
+blown from the other side nipple.
+HOSE C (3) Turn the ignition switch to the "LOCK" (OFF) position. Then
+disconnect scan tool MB991502.
+AC106500AB
+(4) Disconnect the hand vacuum pump, and connect hoses B
+<VEHICLE WITH VARIABLE INDUCTION and C to the evaporative emission purge solenoid.
+SYSTEM>
+Q:Is the solenoid in good condition?
+HOSE C
+YES : Go to Step 3.
+NO : Replace the evaporative emission purge solenoid.
+Then go to Step 26.
+HOSE B
+EVAPORATIVE
+EMISSION
+PURGE
+SOLENOID
+AC106498AC
+TSB Revision

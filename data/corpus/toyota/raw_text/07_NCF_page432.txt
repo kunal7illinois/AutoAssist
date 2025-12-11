@@ -1,0 +1,49 @@
+BE-98 BODY ELECTRICAL - SMART KEY SYSTEM
+Pattern A: OFF (cid:1) IG-ON (after the engine is started)
+Step System Operation
+a) The driver holds the key and enters the vehicle.
+When the driver presses the engine switch once with the following conditions satisfied, the
+main body ECU recognizes the engine switch signal and transmits the key certification request
+to the certification ECU.
+b)
+(cid:3) Shift position is P or N.
+(cid:3) Brake pedal depressed.
+(cid:3) Power source is at OFF.
+The certification ECU receives the certification request and transmits a request signal to the
+c)
+front/rear oscillators. These oscillators then transmit the request signal.
+The brake pedal is depressed, so the main body ECU turns ON the green indicator light of the
+d)
+engine switch.
+The moment the key receives the request signal, it transmits its ID code to the tuner. The signal
+e)
+includes the response code.
+f) The tuner receives this code and transmits it to the certification ECU.
+The certification ECU judges and certifies the ID code, and transmits a key certification OK
+g)
+signal to the main body ECU.
+h) After receiving the key certification OK signal, the main body ECU turns ON the ACC relay.
+b)
+Park/Neutral Position Switch
+b) h)
+Main Body
+Stop Light Switch ACC Relay
+ECU
+b)
+d)
+g)
+Local Communication
+b)
+f)
+Certification
+Tuner
+ECU
+e)
+c) c)
+c)
+Front/Rear
+Oscillators
+c)
+Key
+025BE84P
+(Continued)

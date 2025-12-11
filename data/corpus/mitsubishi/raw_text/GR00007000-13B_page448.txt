@@ -1,0 +1,38 @@
+13B-448 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 21. Check for clogging in the evaporator line from
+hose J to hose K.
+(1) Remove the fuel tank. (Refer to GROUP 13C, Fuel Tank
+P.13C-11.)
+(2) Disconnect hose J at the liquid separator side, and then
+connect a hand vacuum pump to the hose.
+HOSE J
+AC02040AB
+(3) Unplug the hose K at the fuel tank side.
+(4) Apply a pressure on the vacuum pump, air should pass
+through the hose K.
+(5)
+Q:Are the hoses good condition?
+YES : Go to Step 22.
+NO : Replace the inferior hose, and reinstall the fuel tank.
+HOSE K (Refer to GROUP 13C, Fuel Tank P.13C-11.) Then go
+to Step 26.
+AC002038AB
+STEP 22. Check for clogging in the evaporator line hose I,
+L, M, N and hose O.
+(1) Remove the filler neck assembly. (Refer to GROUP 13C,
+Fuel Tank P.13C-11.)
+(2) The clogging test with a hand vacuum pump on each hose
+from hoses I, L, M, N and O.
+Q:Are the hoses in good condition?
+HOSE I
+YES : Go to Step 23.
+NO : Replace the inferior hose, and reinstall the filler neck
+assembly. (Refer to GROUP 13C, Fuel Tank P.13C-
+11.) Then go to Step 26.
+AC002032AABB
+HOSE O
+HOSE M
+HOSE N
+HOSE L AC002039AABB
+TSB Revision

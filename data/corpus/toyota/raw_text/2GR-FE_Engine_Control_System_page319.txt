@@ -1,0 +1,53 @@
+ES–319
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Transmission Range Sensor Circuit Malfunc-
+DTC P0705
+tion (PRNDL Input)
+DESCRIPTION
+The park / neutral position switch detects the shift lever position and sends signals to the ECM.
+DTC No. DTC Detection Condition Trouble Area
+(A) Any 2 or more signals of the following are ON
+simultaneously (2-trip detection logic)
+• P input signal is ON.
+• N input signal is ON.
+• R input signal is ON.
+• D input signal is ON.
+(B) Any 2 or more signals of the following are ON
+simultaneously (2-trip detection logic)
+• NSW input signal is ON. • Short in park / neutral position switch circuit
+ES
+P0705 • R input signal is ON. • Park / neutral position switch
+• D input signal is ON. • ECM
+(C) Any of following conditions is met for 2.0 sec. or
+more in the S position (2-trip detection logic).
+• NSW input signal is ON.
+• P input signal is ON.
+• N input signal is ON.
+• R input signal is ON.
+(D) All switches are OFF simultaneously for NSW, P, R,
+N and D.
+MONITOR DESCRIPTION
+These DTCs indicate a problem with the park / neutral position switch and the wire harness in the park /
+neutral position switch circuit.
+The park / neutral position switch detects the shift lever position and sends a signal to the ECM.
+For security, the park / neutral position switch detects the shift lever position so that engine can be started
+only when the shift lever is in the P or N position.
+The park / neutral position switch sends a signal to the ECM according to the shift position (P, R, N or D).
+The ECM determines that there is a problem with the switch or related parts if it receives more than 1
+position signal simultaneously. The ECM will turn on the MIL and store the DTC.
+MONITOR STRATEGY
+Related DTCs P0705: Park / neutral position switch/Verify switch input
+Required sensors/Components Park / neutral position switch
+Frequency of operation Continuous
+Duration 2 sec.
+MIL operation 2 driving cycles
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+All:
+The monitor will run whenever this DTC is not present. None
+Ignition switch ON
+Battery voltage 10.5 V or more
+Condition (C):
+One of the following conditions is met: Condition (a), (b), (c) or (d)
+(a) Park Neutral position switch ON
+(b) Park position switch ON

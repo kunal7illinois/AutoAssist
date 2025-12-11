@@ -1,0 +1,16 @@
+SB–7
+SEAT BELT – SEAT BELT WARNING SYSTEM
+TERMINALS OF ECU
+1. CLOCK ASSEMBLY
+F3
+B140734E01
+Standard voltage
+Terminal No. (Symbols) Terminal Description Condition Specified Condition
+F3-3 (IG) - Body ground Power supply Ignition switch OFF → ON (IG) Below 1 V → 10 to 14 V
+Standard resistance
+Terminal No. (Symbols) Terminal Description Condition Specified Condition
+The passenger seat is
+F3-10 (PBEW) - Body ground Passenger seat belt signal occupied, seat belt is fastened Below 1 Ω → 10 kΩ or higher
+→ unfastened
+F3-19 (GND1) - Body ground Ground Always Below 1 Ω
+SB

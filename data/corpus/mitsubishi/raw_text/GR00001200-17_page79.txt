@@ -1,0 +1,41 @@
+ENGINE AND EMISSION CONTROL 17-79
+AUTO-CRUISE CONTROL
+TERMINAL CHECK ITEM CHECK CONDITIONS NORMAL
+NO. CONDITION
+12 ECU power When "MAIN" switch is ON Battery positive
+supply voltage
+13 Clutch pedal When pedal is not depressed When clutch pedal Battery positive
+position switch position switch is voltage
+input <M/T> OFF
+When pedal is depressed When clutch pedal 0 V
+position switch is ON
+Park/neutral When select lever is in a position When park/neutral Battery positive
+position switch other than N range position switch is voltage
+input <A/T> OFF
+When select lever is in N range When park/neutral 0 V
+position switch is ON
+14 Ground At any time 0 V
+15 Indicator light When indicator light is illuminated 0 V
+input (inside
+When indicator light is switch off Battery positive
+combination
+voltage
+meter)
+16 Auto-cruise When driving at constant speed Motor stopped/ Battery positive
+vacuum pump using the "SET" switch running voltage/0 V
+motor input
+When accelerating with the Motor stopped/ Battery positive
+"RESUME" switch while driving running voltage/0 V
+at constant speed
+When decelerating with the Motor stopped Battery positive
+"SET" switch while driving at voltage
+constant speed
+When cancelling constant speed Motor stopped Battery positive
+driving with the "CANCEL" voltage
+switch
+NOTE: *: Auto-cruise control-ECU terminal No.10 is
+sending a voltage of 5 volts to the vehicle speed sen-
+sor system circuit. However, as higher voltage is
+mixed through the circuit a voltmeter will show 8 − 12
+V.
+TSB Revision

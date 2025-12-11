@@ -1,0 +1,39 @@
+IN–50
+INTRODUCTION – HOW TO TROUBLESHOOT ECU CONTROLLED SYSTEMS
+• In the DTC check, it is very important to determine
+whether the problem indicated by the DTC either: 1)
+still occurs, or 2) occurred in the past but has returned
+to normal. In addition, the DTC should be compared
+to the problem symptom to see if they are related. For
+this reason, DTCs should be checked before and after
+IN
+confirmation of symptoms (i.e., whether or not
+problem symptoms exist) to determine current system
+conditions, as shown in the flowchart below.
+• Never skip the DTC check. Failing to check DTCs
+may, depending on the case, result in unnecessary
+troubleshooting for systems operating normally or
+lead to repairs not related to the problem. Follow the
+procedures listed in the flowchart in the correct order.
+• The following flowchart shows how to proceed with
+troubleshooting using the DTC check. Directions from
+the flowchart will indicate how to proceed either to
+DTC troubleshooting or to the troubleshooting of each
+problem symptom.
+1 DTC CHECK
+NEXT
+2 MAKE A NOTE OF DTCS DISPLAYED AND THEN CLEAR MEMORY
+NEXT
+3 SYMPTOM CONFIRMATION
+Result
+Result Proceed to
+No symptoms exist A
+Symptoms exist B
+B Go to step 5
+A
+4 SIMULATION TEST USING SYMPTOM SIMULATION METHODS
+NEXT
+5 DTC CHECK
+Result
+Result Proceed to
+DTC is not output A

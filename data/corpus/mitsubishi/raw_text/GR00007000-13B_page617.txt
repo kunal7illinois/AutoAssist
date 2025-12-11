@@ -1,0 +1,51 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-617
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the fuel pump relay 1 and 2.
+(1) Remove the fuel pump relay 1 and 2.
+AK103836
+(2) Check for continuity between the each fuel pump relay
+terminals 2 and 3.
+• There should be continuity. (approximately 70 Ω)
+(3) Use jumper wires to connect each fuel pump relay terminal
+3 to the positive battery terminal and terminal 2 to the
+negative battery terminal.
+(4) Check the continuity between the each fuel pump relay
+terminals 1 and 4 while connecting and disconnecting the
+jumper wire at the negative battery terminal.
+• Should be less than 2 ohm. (Negative battery terminal
+connected)
+• Should be open loop. (Negative battery terminal discon-
+nected)
+(5) Install the fuel pump relay 1 and 2.
+Q:Is the resistance normal?
+YES : Go to Step 4.
+NO : Replace the fuel pump relay 1 and/or 2. Then confirm
+that the malfunction symptom is eliminated.
+TSB Revision
+44
+33
+44
+33
+22
+11
+22
+11
+CONNECTOR: C-105,C-107
+JUNCTION BLOCK
+C-105
+C-107
+HARNESS SIDE
+CONNECTOR
+AE
+FUEL PUMP
+RELAY SIDE
+CONNECTOR
+1 2
+3 4
+AK103837AB
+FUEL PUMP
+RELAY SIDE
+CONNECTOR
+11 22
+33 44
+AK103838AB

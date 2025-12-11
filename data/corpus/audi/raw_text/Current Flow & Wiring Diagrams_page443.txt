@@ -1,0 +1,46 @@
+Audi TT No. 48 / 10
+Current Flow Diagram
+Front passenger door control unit, window regulator switch
+in front passenger door, front passenger side mirror
+adjustment motor, front passenger side mirror adjustment
+motor, front passenger side fold-in mirror motor, front
+passenger side automatic anti-dazzle exterior mirror, front
+passenger side heated exterior mirror, front passenger side
+exterior mirror turn signal bulb
+E107 Window regulator switch in front passenger door
+J387 Front passenger side door control unit
+L132 Front passenger side exterior mirror turn signal bulb
+T16g 16-pin connector, connector B, on front passenger door control
+unit
+T32g 32-pin connector, connector C, on front passenger door control
+unit
+V25 Front passenger side mirror adjustment motor
+V122 Front passenger side fold-in mirror motor
+V148 Front passenger side window regulator motor
+V150 Front passenger side mirror adjustment motor
+Y21 Front passenger side automatic anti-dazzle exterior mirror
+J387 Z5 Front passenger side heated exterior mirror
+* mirror with fold-in feature
+M V148 ** models with mirror heating
+*** models with automatic anti-dazzle exterior mirror
+T32g T32g/15 T32g T16g/4 T16g T16g/5 T16g T16g T16g/8 T16g T16g T16g/7 T16g
+/26 /21 /12 /14 /15 /16 /11 /13
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,5 0,5 0,35
+bl/gr br/gn br/ro ro ws br/ws rs bl sw/gr sw/gn sw/bl sw/ro ge
+1/58s 3 2/31
+M M M
+ws = white
+E107 V25 V150 V122 Y21 Z5 L132
+sw = black
+✱ ✱✱✱ ✱✱
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+113 114 115 116 117 118 119 120 121 122 123 124 125 126 or = orange
+8J0-048100409
+rs = pink
+Edition 04.2010

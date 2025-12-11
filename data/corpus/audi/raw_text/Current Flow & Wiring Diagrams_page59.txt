@@ -1,0 +1,43 @@
+Audi TT No. 3 / 8
+Current Flow Diagram
+Engine control unit, injector cylinder 1 up to 6
+J623 Engine control unit
+N30 Injector, cylinder 1
+N31 Injector, cylinder 2
+N32 Injector, cylinder 3
+N33 Injector, cylinder 4
+N83 Injector, cylinder 5
+N84 Injector, cylinder 6
+SC21 Fuse 21 on fuse holder C
+4400 T14 14-pin connector, black, on front left in engine compartment
+2,5 T40 40-pin connector, black, on engine control unit
+sw
+21 D103 Connection 3, in engine compartment wiring harness
+SC21
+10A
+21a
+1,0
+ro/sw
+J623 9988
+T40/96 T40/112 T40/88 T40/113 T40/97 T40/89
+0,35 0,35 0,35 0,35 0,35 0,35
+ro/sw ro/ws ro/li ro/gr ro/bl ro/ge
+9988
+1,0
+ro/sw
+2 2 2 2 2 2
+T14
+N30 N31 N32 N33 N83 N84 /8
+1 1 1 1 1 1 ws = white
+sw = black
+ro = red
+1,0 1,0 1,0 1,0 1,0 1,0 2,5 br = brown
+ro/sw ro/sw ro/sw ro/sw ro/sw ro/sw ro/sw gn = green
+D103 bl = blue
+gr = grey
+li = purple
+ge = yellow
+85 86 87 88 89 90 91 92 93 94 95 96 97 98 or = orange
+8J0-003080806
+rs = pink
+Edition 10.2010

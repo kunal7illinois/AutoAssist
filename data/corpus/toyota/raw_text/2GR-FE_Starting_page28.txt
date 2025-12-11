@@ -1,0 +1,75 @@
+ST–28
+2GR-FE STARTING – SMART KEY SYSTEM
+DATA LIST / ACTIVE TEST
+1. READ DATA LIST
+HINT:
+Using the intelligent tester to read the Data List allows
+the values or states of switches, sensors, actuators and
+other items to be read without removing any parts. This
+non-intrusive inspection can be very useful as
+intermittent conditions or signals may be discovered
+before parts or wiring is disturbed. Reading the DATA
+LIST information early in troubleshooting is one way to
+save diagnostic time.
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+When using the intelligent tester with the engine
+switch off, turn on and off any of the door courtesy
+light switches repeatedly at 1.5 or less second
+intervals until communication between the tester
+and vehicle starts.
+(b) Turn the engine switch on (IG).
+(c) Enter the following menus: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST.
+(d) Read the DATA LIST.
+MAIN BODY:
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Engine switch on (ACC) / ON or ON: Engine switch on (ACC)
+ACC SW -
+OFF OFF: Engine switch off
+Engine switch on (IG) / ON or ON: Engine switch on (IG)
+IG SW -
+OFF OFF: Engine switch off
+Shift P position signal / ON or ON: Shift position is P
+SHIFT P SIG -
+OFF OFF: Shift position is not P
+Steering lock condition / ON or ON: Steering is unlocked
+STR UNLOCK SW -
+OFF OFF: Steering is locked
+ON: Brake pedal depressed
+STOP LAMP SW Stop light switch / ON or OFF -
+OFF: Brake pedal released
+ON: Engine switch is pushed
+STSW1 Start switch 1 / ON or OFF -
+OFF: Engine switch is not pushed
+ON: Engine switch is pushed
+START SW2 Start switch 2 / ON or OFF -
+OFF: Engine switch is not pushed
+ON: Shift position is P or N
+N SW / C SW Neutral start switch / ON or OFF OFF: Shift position is neither P -
+nor N
+ON: Engine switch on (IG) or
+engine running
+RATCH CIRCUIT Ratch circuit / ON or OFF -
+OFF: Engine switch off or on
+(ACC)
+IG1 outer relay monitor / ON or ON: Engine switch on (IG)
+IG1 RELAY MON1 -
+OFF OFF: Engine switch off
+ST
+IG1 inner relay monitor / ON or ON: Engine switch on (IG)
+IG1 RELAY MON2 -
+OFF OFF: Engine switch off
+IG2 outer relay monitor / ON or ON: Engine switch on (IG)
+IG2 RELAY MON1 -
+OFF OFF: Engine switch off
+IG2 inner relay monitor / ON or ON: Engine switch on (IG)
+IG2 RELAY MON2 -
+OFF OFF: Engine switch off
+Engine is cranking with engine
+STARTER relay monitor / ON or ON: Engine is cranking
+ST RELAY MON switch on (IG) and shift lever in P
+OFF OFF: Engine is not cranking
+or N

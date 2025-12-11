@@ -1,0 +1,21 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+Fig. 49: Checking Continuity Between Terminals Of Motor 1P And Motor
+2P Connector
+Is there continuity?
+YES -Repair open in the wire harness between the EPS control unit and the
+motor.
+NO -Open in the motor wire harness, or motor internal circuit, replace the
+motor (see MOTOR REMOVAL AND INSTALLATION ).
+DTC 71-01: MOTOR ANGLE SENSOR (SIN/COS SIGNALS) (STEERING DIAGNOSIS); DTC 71-02:
+MOTOR ANGLE SENSOR (NEUTRAL POSITION LEARNING OF SIN/COS) (INITIAL
+DIAGNOSIS); DTC 71-03: MOTOR ANGLE SENSOR (SIN/COS SIGNALS) (STEERING
+DIAGNOSIS); DTC 71-05: MOTOR ANGLE SENSOR (SIN/COS SIGNALS CHANGING AMOUNT)
+(STEERING DIAGNOSIS); DTC 71-06: MOTOR ANGLE SENSOR (NEUTRAL POSITION OF
+SIN/COS) (INITIAL DIAGNOSIS)
+1. Clear the DTC with the HDS.
+2. Turn the ignition switch to LOCK (0).
+3. Start the engine.
+4. Turn the steering wheel to the right or left, and wait 10 seconds or more.
+Does the EPS indicator come on?

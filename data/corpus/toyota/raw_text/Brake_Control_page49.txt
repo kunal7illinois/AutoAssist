@@ -1,0 +1,52 @@
+BC–49
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+7 CHECK HARNESS AND CONNECTOR (SKID CONTROL SENSOR WIRE TO SKID
+CONTROL ECU)
+(a) Check harness and connector.
+(1) Disconnect the skid control ECU connector.
+Skid Control ECU (Wire Harness Side)
+(2) Disconnect the skid control sensor wire.
+Connector Front View:
+(3) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance:
+LH
+RL- RL+ RR- RR+
+A25 Tester Connection Specified Condition
+A25-7 (RL+) - g1-1 (RL+) Below 1 Ω
+A25-17 (RL-) - g1-2 (RL-) Below 1 Ω
+g1-1 (RL+) - Body ground 10 kΩ or higher
+g1-2 (RL-) - Body ground 10 kΩ or higher
+Front Speed Sensor (Wire Harness Side) RH
+BC
+Connector Front View:
+Tester Connection Specified Condition
+A25-19 (RR+) - f1-1 (RR+) Below 1 Ω
+A25-8 (RR-) - f1-2 (RR-) Below 1 Ω
+g1 f1 f1-1 (RR+) - Body ground 10 kΩ or higher
+LH RH f1-2 (RR-) - Body ground 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (SKID CONTROL ECU TO
+RL- RL+ RR- RR+
+SKID CONTROL SENSOR WIRE)
+C132909E03
+OK
+8 CHECK HARNESS AND CONNECTOR (SKID CONTROL SENSOR WIRE TO REAR SPEED
+SENSOR)
+(a) Check harness and connector (skid control sensor wire).
+Skid Control Sensor Wire: (1) Measure the resistance according to the value(s) in
+the table below.
+Vehicle Side Connector Standard resistance:
+LH
+Tester Connection Specified Condition
+g1-1 - A-1 Below 1 Ω
+g1-1 - A-2 10 kΩ or higher
+g1-1 - Body ground 10 kΩ or higher
+g1 LH
+g1-2 - A-2 Below 1 Ω
+f1 RH g1-2 - A-1 10 kΩ or higher
+A g1-2 - Body ground 10 kΩ or higher
+RH
+Sensor Side Connector
+C113396E04 Tester Connection Specified Condition
+f1-1 - A-1 Below 1 Ω

@@ -1,0 +1,42 @@
+NS–35
+NAVIGATION – NAVIGATION SYSTEM
+Address No. Name Address No. Name
+17D TEL 440 DSP-AMP
+530 ETC 1F6 RSE
+1A0 DVD-P 1D6 CLOCK
+238 DTV 480 AMP
+(2) Check Result/*2
+HINT:
+Result codes for all devices are displayed.
+Result Meaning Action
+The device did not respond with a DTC
+OK (excluding communication DTCs from the -
+AVC-LAN).
+The device responds with a "replace"-type Look up the DTC in "Unit Check Mode" and
+EXCH
+DTC. replace the device.
+The device responds with a "check"-type
+CHEK Look up the DTC in "Unit Check Mode".
+DTC.
+1. Check power supply wire harness of the
+The device was previously present, but does
+NCON device.
+not respond in diagnostic mode.
+2. Check the AVC-LAN of the device.
+Old The device responds with an "old"-type DTC. Look up the DTC in "Unit Check Mode".
+1. Check power supply wire harness of the
+The device responds in diagnostic mode, but
+NRES device.
+gives no DTC information.
+2. Check the AVC-LAN of the device.
+(3) Code Clear/*3
+• Present DTCs are cleared.
+• Press the "Code CLR" switch for 3 seconds.
+(4) Memory Clear/*4
+• Present and past DTCs and registered
+connected device names are cleared.
+• Press the "Memory CLR" switch for 3
+seconds.
+(b) Diagnosis MENU Screen
+NS
+E120070E01

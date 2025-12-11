@@ -1,0 +1,71 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P240 Evaporative – Check the • Signal voltage • EVAP pump elec‐ 0.5 Sec. • 2 DCY
+B Emission Leak Detec‐ < 2.74 to 3.26 V tric drive comman‐
+System tion Pump ded off
+Leak Detec‐ (LDP) -
+tion Pump V144- . Refer
+Heater to
+Control Cir‐ ⇒
+cuit Low “3.5.13 Leak
+Detection
+Pump,
+Checking ”,
+page 136
+P240 Evaporative – Check the • Signal current • EVAP pump elec‐ 0.5 Sec. • 2 DCY
+C Emission Leak Detec‐ > 2.2 to 4 A tric drive comman‐
+System tion Pump ded on
+Leak Detec‐ (LDP) -
+tion Pump V144- . Refer
+Heater to
+Control Cir‐ ⇒
+cuit High “3.5.13 Leak
+Detection
+Pump,
+Checking ”,
+page 136
+P2400 Evaporative – Check the • Signal voltage • LDP commanded 0.5 Sec. • Continu‐
+Emission Leak Detec‐ > 4.40 to 5.60 V OFF ous
+System tion Pump
+Leak Detec‐ (LDP) - • engine speed >40 • 2 DCY
+tion Pump V144- . Refer RPM
+Control Cir‐ to
+cuit/Open ⇒
+“3.5.13 Leak
+Detection
+Pump,
+Checking ”,
+page 136
+P2401 Evaporative For Model Year • Signal voltage • LDP commanded 0.5 Sec. • Continu‐
+Emission 2011 > < 2.74 to 3.26 V OFF ous
+System – Check the
+Leak Detec‐ Leak Detec‐ • engine speed >40 • 2 DCY
+tion Pump tion Pump RPM
+Control Cir‐ (LDP) -
+cuit Low V144- . Refer
+to
+⇒
+“3.5.13 Leak
+Detection
+Pump,
+Checking ”,
+page 136
+P2402 Evaporative For Model Year • signal current > • LDP commanded 0.5 Sec. • Continu‐
+Emission 2011 > 3 A ON ous
+System – Check the
+Leak Detec‐ Leak Detec‐ • engine speed >40 • 2 DCY
+tion Pump tion Pump RPM
+Control Cir‐ (LDP) -
+cuit High V144- . Refer
+to
+⇒
+“3.5.13 Leak
+Detection
+Pump,
+Checking ”,
+page 136
+101
+3. Diagnosis and Testing

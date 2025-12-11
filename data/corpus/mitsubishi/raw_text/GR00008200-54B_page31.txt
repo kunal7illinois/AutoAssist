@@ -1,0 +1,58 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-31
+SYMPTOM PROCEDURES
+STEP 1. Use scan tool to select "ECU COMM CHECK" on
+the SWS monitor display.
+Check the following ECUs:
+• ETACS-ECU
+• Column-ECU
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502. Also con-
+nect SWS monitor kit MB991862 after turning on scan tool
+MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+COLUMN SWITCH (2) Connect SWS monitor kit MB991862 to the column switch
+CONNECTOR
+connector.
+MB991502 (3) Turn the ignition switch to the "LOCK" (OFF) position.
+(4) Operate the MUT-II according to the procedure below to
+display "ECU COMM CHECK."
+1. Select "SYSTEM SELECT."
+DATA LINK 2. Select "SWS."
+CONNECTOR
+3. Select "SWS MONITOR."
+AC101571AB 4. Select "ECU COMM CHECK."
+(5) Scan tool MB991502 should show "OK" on the "ECU
+COLUMN SWITCH COMM CHECK" menu.
+CONNECTOR
+Q:Are "OK" displayed on the "ETACS ECU" and "COLUMN
+ECU" menus?
+SWS MONITOR "OK" are displayed for all the items : Go to Step 2.
+HARNESS (FOR
+"NG" is displayed on the "COLUMN ECU" menu : "NG"
+COLUMN-ECU)
+is displayed on the "COLUMN ECU" menu: Refer to
+COLUMN SWITCH Inspection Procedure A-3 "Communication with
+CONNECTOR AT
+ETACS-ECU is impossible P.54B-39."
+HARNESS SIDE
+"NG" is displayed on the "ETACS ECU" menu : "NG" is
+AC101421AB
+displayed on the "ETACS ECU" menu: Refer to
+Inspection Procedure A-3 "Communication with
+ETACS-ECU is impossible P.54B-39."
+"NG" displayed on the "ETACS ECU" and "COLUMN
+ECU" menu. : "NG" are displayed for all the items: Refer to
+Inspection Procedure A-3 "Communication with
+ETACS-ECU is impossible P.54B-39."
+STEP 2. Check column switch connector C-86 for damage.
+Q:Is column switch connector C-86 in good condition?
+CONNECTOR: C-86
+YES : Go to Step 3.
+NO : Repair or replace the connector. The system should
+DEVICE SIDE communicate with the column switch (column-ECU)
+1 2 3 4 5 normally.
+6 7 8 910
+AC106475AB
+TSB Revision

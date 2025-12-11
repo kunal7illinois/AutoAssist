@@ -1,0 +1,32 @@
+54B-110 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal by using "DATA LIST" of
+the SWS monitor.
+Check the input signals from the following switches:
+COLUMN SWITCH • Driver(cid:146)s door: open
+CONNECTOR • Front passenger(cid:146)s door: closed
+MB991502 (1) Operate the MUT-II as follows:
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "SWS MONITOR."
+DATA LINK
+4. Select "DATA LIST."
+CONNECTOR
+5. Select "ETACS ECU."
+AC101571AB (2) Check that normal conditions are displayed on the items
+described in the table below.
+COLUMN SWITCH
+CONNECTOR ITEM No. ITEM NAME NORMAL
+CONDITIONS
+ITEM No.32 FRONT DOOR SW ON
+SWS MONITOR
+HARNESS (FOR
+COLUMN-ECU) Q:The scan tool show the respective normal condition for
+COLUMN SWITCH item "FRONT DOOR SW."
+CONNECTOR AT YES : Go to Step 3.
+HARNESS SIDE
+NO : Refer to Inspection Procedure O-6 "ETACS-ECU
+AC101421AB
+does not receive a signal from the driver’s or the front
+passenger’s door switch P.54B-502."
+TSB Revision

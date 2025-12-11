@@ -1,0 +1,35 @@
+23A-322 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 30. Check the switch output voltage at PCM
+connector C-61 <2.4L Engine> or C-63 <3.0L Engine>.
+(1) Disconnect connector C-61 <2.4L Engine> or C-63 <3.0L
+CONNECTOR: C-61 <2.4L ENGINE> OR
+Engine> and measure at the harness side.
+C-63 <3.0L ENGINE>
+(2) Turn the ignition switch to the "ON" position.
+PCM
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+(3) Measure the voltage between terminal 110 and ground.
+• Voltage should be battery positive voltage when the
+selector lever is downshift and hold.
+C-61 <2.4L ENGINE> OR C-63
+<3.0L ENGINE> CONNECTOR (4) Turn the ignition switch to the "LOCK" (OFF) position.
+HARNESS SIDE VIEW
+Q:Is the voltage normal?
+YES : Go to Step 14.
+NO : Go to Step 31.
+AC002125AD
+STEP 31. Check connector C-61 <2.4L Engine> or C-63
+<3.0L Engine> at PCM connector for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE> YES : Repair harness open circuit or short circuit to ground
+between shift switch assembly connector C-65
+PCM terminal 4 and PCM connector C-61 <2.4L Engine>
+C-63 <3.0L Engine> terminal 110.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+TSB Revision

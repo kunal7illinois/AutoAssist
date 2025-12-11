@@ -1,0 +1,55 @@
+ANTI-LOCK BRAKING SYSTEM (ABS) 35B-43
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+DATA LIST REFERENCE TABLE
+M1352011500285
+The following items can be read by the scan tool
+from the ABS-ECU input data.
+MUT-II SCAN ITEM CHECK ITEM CHECKING REQUIREMENTS NORMAL
+TOOL NO. VALUE
+DISPLAY
+FR SNSR 11 Front-right wheel speed sensor Drive the vehicle Vehicle speeds
+displayed on the
+FL SNSR 12 Front-left wheel speed sensor
+speedometer
+RR SNSR 13 Rear-right wheel speed sensor
+and scan tool are
+RL SNSR 14 Rear-left wheel speed sensor identical.
+BATT. 16 ABS-ECU power supply voltage Ignition switch power supply 9 − 16 V
+VOLTAGE voltage and valve monitor
+voltage
+STOPLIGHT 36 Stoplight switch Depress the brake pedal. ON
+SW
+Release the brake pedal. OFF
+ACTUATOR TEST REFERENCE TABLE
+M1352011600260
+The scan tool activates the following actuators for NOTE: Actuator testing is only possible when the
+testing. vehicle is stationary. If the vehicle speed during actu-
+ator testing exceeds 10 km/h (6 mph), forced actua-
+NOTE: If the ABS-ECU is inoperative, actuator test-
+tion will be canceled.
+ing cannot be carried out.
+.
+ACTIVATION PATTERN ACTUATOR TEST SPECIFICATIONS
+NO. ITEM PARTS TO BE
+ACTIVATED
+START OF END OF
+01 Solenoid valve for front-left wheel Solenoid valves
+FORCED FORCED
+ACTION ACTION and pump motors
+02 Solenoid valve for front-right wheel
+in the hydraulic
+SOLENOIDA
+03 Solenoid valve for rear-left wheel unit (simple
+VALVE
+B 1 s inspection mode)
+04 Solenoid valve for rear-right wheel
+C 2 s
+PUMP ON
+MOTOR
+OFF
+NOTE
+A: HYDRAULIC PRESSURE DECREASES
+B: HYDRAULIC PRESSURE HOLDS
+C: HYDRAULIC PRESSURE INCREASES
+AC000971AC
+TSB Revision

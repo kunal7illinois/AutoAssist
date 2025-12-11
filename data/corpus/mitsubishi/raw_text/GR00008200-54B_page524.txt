@@ -1,0 +1,29 @@
+54B-524 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 4. Replace the ECU.
+(1) Replace the sunroof motor assembly.
+(2) If the sunroof operates normally, it indicates that a correct
+signal is sent from the sunroof switch.
+Q:Does the ETACS-ECU receive correct signals from the
+sunroof switch?
+YES : No action to be taken.
+NO : Replace the ETACS-ECU. If the sunroof operates
+normally, it indicates that a correct signal is sent from
+the sunroof switch.
+INSPECTION PROCEDURE P-1: ETACS-ECU does not Receive a Signal from the Key Reminder
+Switch.
+Key Reminder Switch Input Circuit
+CONNECTOR: C-88
+CONNECTOR: C-117
+JUNCTION BLOCK
+(REAR VIEW)
+AC106475AE AC106481AC
+. • Dome light dimming function
+CIRCUIT OPERATION
+The ETACS-ECU operates the following functions or
+.
+systems according to signal from the key reminder TECHNICAL DESCRIPTION (COMMENT)
+switch: If the signal is not normal, the functions or systems,
+• Ignition key reminder tone alarm function which are described in "CIRCUIT OPERATION", do
+• Keyless entry system not work normally.
+TSB Revision

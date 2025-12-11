@@ -1,0 +1,34 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Navigation System - Civic (Except Hybrid)
+a. OFF (0) when shift lever is in any position other than reverse
+b. ON (1) when shift lever is in reverse
+The Back signal is used by the navigation unit to allow the map screen to show the
+VP moving backwards when in reverse and to trigger the optional rear view camera.
+This signal is needed because the Speed Pulse does not provide any directional
+information to the system.
+ILL CANCEL
+(cid:1)
+a. OFF (0) when the dash lights brightness control button is less than 90 %
+brightness with the headlights turned on.
+b. ON (1) when the dash lights brightness control button is more than 90 %
+brightness with the headlights turned on.
+ILL-Illumination Indication (Navigation unit connector A (17P) terminal No.
+(cid:1)
+10)
+a. OFF (0) when parking lights, or headlights are off
+b. ON (1) when parking lights, or headlights are on
+The navigation unit uses the signal to determine whether to put the navigation
+screen into the Day or Night brightness mode. (Setup screen 1)
+Display-this displays the current position of the display
+(cid:1)
+a. (Close) when the display is closed
+b. (Open) when the display is open
+The navigation unit has a microswitch to detect this. If open is indicated when the
+display is closed, replace the navigation unit.
+GPS INFORMATION
+This screen shows the current status of GPS reception. The circular diagram shows
+the current location of the GPS satellites (yellow balls) as they would appear in the
+sky. The outer circle represents the horizon (0 degrees elevation). The middle and
+inner circles represents 30 and 60 degrees respectively. The very center of the
+diagram (90 degrees elevation) is directly overhead. Nearby obstructions, like tall

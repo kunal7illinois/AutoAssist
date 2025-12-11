@@ -1,0 +1,48 @@
+ES–322
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2. P2402: Leak detection pump stuck ON
+In operation B, the leak detection pump creates negative pressure (a vacuum) through the reference
+orifice. The EVAP (Evaporative Emission) system pressure is then measured by the ECM, using the
+canister pressure sensor, to determine the reference pressure. If the pressure is higher than -1.057
+kPa-g (-7.93 mmHg-g), or lower than -4.85 kPa-g (-36.4 mmHg-g), the ECM interprets this as the leak
+detection pump being stuck ON (remaining ON all the time). The ECM illuminates the MIL and sets the
+DTC (2 trip detection logic).
+EVAP Pressure when Leak Detection Pump Stuck ON:
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ES ON: Closed
+ON
+Vent Valve
+OFF: Vent
+Leak Detection
+ON
+Pump
+EVAP Pressure
+OK
+Positive
+Negative
+Malfunction
+First Reference
+Pressure
+Sequence A B C D E
+Time 10 seconds 60 Within 15 minutes 10 60
+seconds seconds seconds
+A106065E04
+HINT:
+The detection logic of DTCs P2401 and P2402 is the same because in both cases the reference
+pressure measured in operation B is compared to the atmospheric pressure registered in operation A.
+The ECM calculates the difference between these pressures by deducting [the reference pressure]
+from [the stored atmospheric pressure], and uses this to monitor the EVAP system pressure change.
+MONITOR STRATEGY
+Required Sensors/Components Purge VSV and canister pump module
+Frequency of Operation Once per driving cycle
+Duration Within 2 minutes (varies with amount of fuel in tank)
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+EVAP key-off monitor runs when all of following conditions met -
+Atmospheric pressure 70 to 110 kPa-a (525 to 825 mmHg-a)
+Battery voltage 10.5 V or more

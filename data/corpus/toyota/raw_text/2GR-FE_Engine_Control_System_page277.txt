@@ -1,0 +1,39 @@
+ES–277
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Immediate: P0450, P0452, P0453
+MIL Operation
+2 driving cycles: P0451
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+P0450, P0452 and P0453 (Pressure sensor chattering, low voltage, high voltage):
+Monitor runs whenever following DTCs are not present: None
+Battery voltage 8 V or more
+Starter OFF
+Engine switch ON
+P0451 (Pressure sensor noise):
+Atmospheric pressure 70 kPa (525 mmHg) to 110 kPa (825 mmHg)
+Battery voltage 10.5 V or more
+ES
+Intake air temperature 4.4 to 35°C (40 to 95°F)
+EVAP pressure sensor malfunction (P0450, P0452, P0453) Not detected
+Either of following conditions is met: 1 or 2
+1. Engine Running
+2. Time after key off 5, 7 or 9.5 hours
+P0451 (Pressure sensor stuck):
+Atmospheric pressure Less than 70 kPa (525 mmHg), or 110 kPa (825 mmHg) or more
+Battery voltage 10.5 V or more
+Intake air temperature 4.4 to 35°C (40 to 95°F)
+EVAP pressure sensor malfunction (P0450, P0452, P0453) Not detected
+Time after key off 5, 7 or 9.5 hours
+TYPICAL MALFUNCTION THRESHOLDS
+P0450: Pressure sensor chattering
+EVAP Pressure Less than 42.11 kPa (315.82 mmHg), or more than 123.761 kPa
+(928.207 mmHg)
+P0451: Pressure sensor noise
+Frequency that EVAP pressure change is 0.3 kPa or more 10 times or more in 10 seconds
+P0451: Pressure sensor stuck
+EVAP pressure change during reference pressure Less than 0.65 kPa (4.87 mmHg)
+P0452: Pressure sensor low voltage
+EVAP Pressure Less than 42.11 kPa (315.82 mmHg)
+P0453: Pressure sensor high voltage
+EVAP Pressure More than 123.761 kPa (928.207 mmHg)

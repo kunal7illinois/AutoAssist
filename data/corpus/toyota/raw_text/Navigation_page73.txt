@@ -1,0 +1,33 @@
+NS–73
+NAVIGATION – NAVIGATION SYSTEM
+3 IDENTIFY THE COMPONENT WHICH HAS STORED THIS CODE
+(a) Enter the diagnostic mode.
+Example:
+(b) Press the "LAN Mon" switch to change to "LAN Monitor"
+mode.
+(c) Identify the component which has stored this code.
+Component Table:
+Display Component
+DSP-AMP Stereo component amplifier
+HINT:
+"NAVI" is the component which has stored this code in
+the example shown in the illustration.
+Component which
+has stored this code
+DTC
+E111829E03
+NEXT
+4 CHECK HARNESS AND CONNECTOR
+HINT:
+For details of the connectors, refer to "TERMINALS OF ECU"
+(See page NS-45).
+(a) Referring to the AVC-LAN wiring diagram below, check
+the AVC-LAN circuit between the radio and navigation NS
+assembly and the component which has stored this
+code.
+(1) Disconnect all connectors between the radio and
+navigation assembly and the component which has
+stored this code.
+(2) Check for an open or short in the AVC-LAN circuit
+between the radio and navigation assembly and the
+component which has stored this code.

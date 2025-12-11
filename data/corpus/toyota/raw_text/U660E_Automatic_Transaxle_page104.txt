@@ -1,0 +1,34 @@
+AX–104
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+2 CHECK TRANSMISSION WIRE
+(a) Remove the TCM.
+(b) Disconnect the speed sensor connector from the
+TCM Side Connector
+AX transmission wire.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Condition Specified Condition
+NCO - NCO Below 1 Ω
+NCB - NCB Below 1 Ω
+NCO NCB NCO - NCB 10 kΩ or higher
+Sensor Side Connector NG REPLACE TRANSMISSION WIRE
+NCO NCB
+C133270E02
+OK
+3 REPLACE SPEED SENSOR
+NEXT
+4 CHECK IF DTC OUTPUT RECURS (SEE IF DTC P0791 AND/OR P0793 IS OUTPUT AGAIN)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the intelligent tester main
+switch ON.
+(c) Perform the monitor drive pattern (See page AX-27).
+(d) When you use the intelligent tester:
+Select the item "DIAGNOSIS / OBD/MOBD / ECT / DTC
+INFO / CURRENT CODES".
+(e) Read the DTCs using the intelligent tester.
+Result
+Display (DTC output) Proceed to
+Only "P0791 or P0793" is output A
+No outpur B
+B END

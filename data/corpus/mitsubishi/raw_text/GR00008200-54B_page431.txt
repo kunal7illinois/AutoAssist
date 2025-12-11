@@ -1,0 +1,31 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-431
+SYMPTOM PROCEDURES
+STEP 4. Check the input signal (by using the Pulse Check).
+Check the input signals from the following switches:
+• key reminder switch
+Operate the MUT-II according to the procedure below to dis-
+play "PULSE CHECK."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+16 PIN Check if scan tool MB991502 sounds or not.
+ITEM NAME CONDITIONS
+MB991502
+AC001252AD
+Key reminder switch Remove and reinsert the ignition key
+Q:Does scan tool MB991502 sound when the key reminder
+switch is operated?
+YES : Replace the ETACS-ECU. Check that the dome light
+dimming function works normally.
+NO : Refer to Inspection Procedure P-1 "ETACS-ECU does
+not receive a signal from the key reminder switch
+P.54B-524."
+INSPECTION PROCEDURE M-4: Interior Light: The Interior Light Automatic shut down Function does
+not Operate Correctly.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+Interior Light Automatic Shut-down Function Circuit
+.
+TSB Revision

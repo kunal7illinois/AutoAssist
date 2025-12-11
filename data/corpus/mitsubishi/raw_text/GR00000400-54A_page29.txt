@@ -1,0 +1,51 @@
+CHASSIS ELECTRICAL 54A-29
+IGNITION SWITCH
+CAUTION
+Because registering the encrypted codes is done after all
+previously-registered codes have been erased, you should
+keep all of the ignition keys that have already been regis-
+tered accessible.
+If the ignition key, Immobilizer-ECU, ECM <M/T> or PCM <A/
+T> is replaced or an ignition key is added, encrypted codes of
+all the ignition keys must be registered. (A maximum of eight
+different ignition key can be registered.) Moreover, when the
+immobilizer-ECU has been replaced, you will need to use scan
+tool MB991502 to register the immobilizer-ECU and input the
+vehicle secret code and to register the password (secret code)
+that the owner specifies into the immobilizer-ECU.
+If an attempt is made to start the engine with an unregistered
+"SECURITY" indicator light
+ignition key, cranking occurs, but fuel supply is cut off to disable
+TCL
+LAONCTKI SEE SNR OGV OINI
+N
+CEE CRUISE the engine. In approx. 10 seconds, the theft-alarm indicator will
+SRS
+blink for approx. 30 seconds.
+RAKE
+100 120
+60 80 120 16 k 0 m/h 200 240 140 3 4 5 6 7 8 N im O m T o E b : i l E iz C er M -E < C M U / , T a > n o d r t P he C M en < c A ry / p T t > e d h a c s o d a e n i e s n r c e r g y i p st t e e r d e c d o i d n e t h fo e r
+4 2 0 0 8 4 0 0 0 ODO m TR il I e P s 2 1 0x 1000 r/min R N D P 4 3 2 H immobilizer-ECU and ignition key.
+0 1
+MPH
+C
+AC106909AB
+POINTS TO NOTE DURING OPERATION
+If none of the functions can be used, check the diagnostic trou-
+ble codes, and after carrying out any necessary repairs, repeat
+the operation.
+If an incorrect password is input five times in a row, the immobi-
+lizer-ECU judges that an unauthorized operation is being
+attempted. Start-prevention mode will be set, and engine oper-
+ation will stop and all special functions will be disabled. If the
+ignition switch is turned to "ON" position and left in that position
+for approximately 20 minutes, "Unauthorized operation, start-
+prevention mode" will be cancelled.
+KEY ID REGISTER
+All ignition keys can be registered with scan tool MB991502.
+Additional ignition keys can be registered with or without scan
+tool MB991502.
+If an ignition key is registered using scan tool MB991502, no
+registered ignition keys must be lost.
+.
+TSB Revision

@@ -1,0 +1,42 @@
+AUTOMATIC TRANSAXLE 23A-89
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 4. Using scan tool MB991502, check data list item 21:
+Crankshaft Position Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) With the gear selector lever in the "P" position, start the
+engine and run at idle.
+(3) Set scan tool MB991502 to data reading mode for item 21:
+Crankshaft Position Sensor.
+• When the accelerator pedal is not depressed (throttle
+valve is fully closed) the display should be "600 to 900 r/
+min."
+16 PIN
+• With the accelerator pedal depressed, the engine speed
+MB991502 display should increase according to engine speed.
+AC001252AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Replace the PCM.
+STEP 5. Check connector B-20 at crankshaft position
+sensor for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-20
+YES : Go to Step 6.
+<2.4L ENGINE>
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+B-20
+AC004926AC
+CONNECTOR: B-20
+<3.0L ENGINE>
+B-20
+AC004927AC
+TSB Revision

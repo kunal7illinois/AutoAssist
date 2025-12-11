@@ -1,0 +1,55 @@
+RS–166
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+(3) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E16-1 (D+) - E16-2 (D-) Always Below 1 Ω
+(e) Check for a short to ground in the circuit.
+(1) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E16-1 (D+) - Body
+Always 1 MΩ or higher
+ground
+E16-2 (D-) - Body
+Always 1 MΩ or higher
+ground
+(f) Check for a short in the circuit.
+(1) Release the activation prevention mechanism built
+into connector B (See page RS-32).
+(2) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E16-1 (D+) - E16-2 (D-) Always 1 MΩ or higher
+NG REPAIR OR REPLACE INSTRUMENT PANEL
+WIRE
+RS OK
+6 CHECK SPIRAL CABLE
+(a) Check for a short to B+ in the circuit.
+(1) Connect the negative (-) terminal cable to the
+Instrument Panel Wire
+battery, and wait for at least 2 seconds.
+(2) Turn the ignition switch on (IG).
+(3) Measure the voltage according to the value(s) in the
+A table below.
+F E D C B Standard voltage
+Spiral Cable
+Tester Connection Condition Specified Condition
+Center Airbag D+ - Body ground Ignition switch on (IG) Below 1 V
+Driver Side Squib Sensor Assembly D- - Body ground Ignition switch on (IG) Below 1 V
+(b) Check for an open in the circuit.
+(1) Turn the ignition switch off.
+Connector E
+(2) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+D- D+ (3) Measure the resistance according to the value(s) in
+the table below.
+Color: Orange
+Standard resistance
+Tester Connection Condition Specified Condition
+D+ - D- Always Below 1 Ω
+C C114808E01
+(c) Check for a short to ground in the circuit.

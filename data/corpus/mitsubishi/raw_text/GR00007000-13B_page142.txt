@@ -1,0 +1,39 @@
+13B-142 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TROUBLESHOOTING HINTS (The most likely • ECM failed. <M/T>
+causes for this code to be set are: ) • PCM failed. <A/T>
+• Right bank heated oxygen sensor (front) deterio-
+rated.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 39:
+Heated Oxygen Sensor Bank 1, Sensor 1 (right front).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+39, Heated Oxygen Sensor Bank 1, Sensor 1 (right front).
+16 PIN (4) Warm up the engine, 2500r/min.
+• Output voltage repeats 0.4 volt or less and 0.6 − 1.0 volt
+MB991502
+10 times or more within 10 seconds.
+AKX01177AB
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Replace the right bank heated oxygen sensor (front).
+Then go to Step 2.
+STEP 2. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 4 − Heated Oxygen Sensor Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0133 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+TSB Revision

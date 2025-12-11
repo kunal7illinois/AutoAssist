@@ -1,0 +1,23 @@
+ES–37
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+15. WAVEFORM 15
+Generator
+ECM Terminal Names Between RLO and E1
+Tester Ranges 2 V/DIV., 50 msec./DIV.
+Conditions After engine warmed up, during
+charging control, vehicle accelerated
+HINT:
+A constant value is not output, as the duty ratio varies
+depending on the electrical load and battery condition.
+A084457
+16. WAVEFORM 16
+Generator
+ES
+ECM Terminal Names Between RLO and E1
+Tester Ranges 2 V/DIV., 50 msec./DIV.
+Conditions After engine warmed up, during
+charging control, vehicle decelerated
+HINT:
+A constant value is not output, as the duty ratio varies
+depending on the electrical load and battery condition.
+A084456

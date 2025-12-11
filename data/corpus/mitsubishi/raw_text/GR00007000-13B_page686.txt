@@ -1,0 +1,49 @@
+13B-686 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+ON-VEHICLE SERVICE
+INJECTOR CHECK
+M1131005200060
+.
+<Right bank side (number 1, 3, 5 cylinders)>
+1. Disconnect the injector intermediate connector.
+2. Measure the resistance between the injector intermediate
+connector terminals.
+Standard value:
+INJECTOR NO. MEASUREMENT RESISTANCE
+1 2
+3 4 TERMINAL
+NO.1 1-2 13 − 16 Ω [20°C
+(68°F)]
+NO.3 1-3
+NO.5 1-4
+AK000125AB
+3. Connect the injector intermediate connector.
+.
+<Left bank side (number 2, 4, 6 cylinders)>
+1. Disconnect the injector connector.
+2. Measure the resistance between injector side connector
+terminals 1 and 2.
+Standard value: 13 − 16 Ω [at 20 °C (68°F)]
+3. Connect the injector connector.
+AK000126
+IDLE AIR CONTROL MOTOR (STEPPER MOTOR)
+CHECK
+M1131005400116
+Refer to GROUP 13A, On-vehicle Service − Idle Air Control
+Motor (Stepper Motor) Check P.13A-588.
+EVAPORATIVE EMISSION PURGE SOLENOID
+CHECK
+M1131005600080
+Refer to GROUP 17, Emission Control System − Evaporative
+Emission Control System − Evaporative Emission Purge Sole-
+noid Check P.17-101.
+EGR SOLENOID CHECK
+M1131005700087
+Refer to GROUP 17, Emission Control System − Exhaust Gas
+Recirculation (EGR) System - EGR Solenoid Check P.17-109.
+EVAPORATVE EMISSION VENTILATION
+SOLENOID CHECK
+M1131012800020
+Refer to GROUP 17, Emission Control System − Evaporative
+Emission Canister and Fuel Tank Pressure Relief Valve − Fuel
+Tank Pressure Relief Valve Inspection P.17-111.
+TSB Revision

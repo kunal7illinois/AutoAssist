@@ -1,0 +1,48 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-563
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 7. Using scan tool MB991502, check data list.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items in the data list. Refer to, Data List
+Reference Table P.13B-640.
+a. Item 13: Intake Air Temperature Sensor.
+b. Item 25: Barometric Pressure Sensor.
+c. Item 21: Engine Coolant Temperature Sensor.
+d. Item 69: Right Bank Heated Oxygen Sensor (rear).
+16 PIN
+e. Item 39: Right Bank Heated Oxygen Sensor (front).
+MB991502 f. Item 59: Left Bank Heated Oxygen Sensor (rear).
+AKX01177AB
+g. Item 11: Left Bank Heated Oxygen Sensor (front).
+h. Item 27: Power Steering Pressure Switch.
+i. Item 28: A/C Switch.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Are they operating properly?
+YES : Go to Step 8.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+STEP 8. Using scan tool MB991502, check actuator test.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items in the actuator test. Refer to,
+Actuator Test Reference Table P.13B-654.
+a. Item 08: Evaporative Emission Purge Solenoid.
+b. Item 10: EGR Solenoid.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Are they operating properly?
+16 PIN
+YES : Go to Step 9.
+MB991502 NO : Repair or replace. Then confirm that the malfunction
+AKX01177AB
+symptom is eliminated.
+STEP 9. Using scan tool MB991502, check data list.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items in the data list. Refer to, Data List
+Reference Table P.13B-640.
+a. Item 45: Idle Air Control Motor Position.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the actuator operating properly?
+YES : Go to Step 10.
+16 PIN
+NO : Adjust the basic idle speed. Refer to, Basic Idle
+MB991502 Speed Adjustment P.13B-679. After adjusting,
+AKX01177AB confirm.
+TSB Revision

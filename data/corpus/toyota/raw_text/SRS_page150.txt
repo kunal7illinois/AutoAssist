@@ -1,0 +1,38 @@
+RS–150
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Passenger Airbag ON / OFF Indicator Circuit
+DTC B1660/43
+Malfunction
+DESCRIPTION
+The passenger airbag ON/OFF indicator circuit consists of the center airbag sensor assembly and the
+clock assembly.
+The passenger airbag ON/OFF indicator indicates the operation condition of the front passenger airbag
+assembly and the front seat side airbag assembly RH.
+DTC B1660/43 is recorded when a malfunction is detected in the passenger airbag ON/OFF indicator
+circuit.
+DTC No. DTC Detecting Condition Trouble Area
+• The center airbag sensor assembly receives an
+open circuit signal, a short circuit to ground signal • Instrument panel wire
+or a short circuit to B+ signal in the passenger • Instrument panel wire No. 2
+B1660/43
+airbag ON/OFF indicator circuit for 2 seconds. • Clock assembly
+• Passenger airbag ON/OFF indicator malfunction • Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+WIRING DIAGRAM
+F3
+Center Airbag Sensor Assembly
+Clock Assembly
+23
+RS
+PAON E30 PAON
+13
+17
+P-AB E30 P-AB
+14
+25
+IG E30 E1
+3
+26
+From GAUGE No. 2 Fuse
+E30 E2
+C C123657E02

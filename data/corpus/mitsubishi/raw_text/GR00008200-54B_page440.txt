@@ -1,0 +1,49 @@
+54B-440 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTORS: C-42, C-78 CONNECTOR: C-89
+C-42 CONNECTOR BLOCK (LH)
+C-78
+AC106473AT AC106477AD
+CONNECTOR: C-118
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AE
+. • Liftgate: Opened <ECLIPSE>
+CIRCUIT OPERATION
+• When the ETACS-ECU receives a "LOCK" signal • Liftgate lock key cylinder: Not operating
+<ECLIPSE>
+from the door lock actuator switch, it illuminates
+• Trunk lid: Closed <ECLIPSE SPYDER>
+the security indicator light for approximately 18
+• Trunk lid lock ley cylinder: Not operating
+seconds, and then set the theft-alarm system.
+• The ETACS-ECU sets the theft-alarm system <ECLIPSE SPYDER>
+• Hood: Closed
+according to the input signals from the following
+• Transmitter: Turn to the "LOCK" position
+signals:
+• Ignition key reminder switch: ON
+.
+• Driver’s and front passenger’s door switch: TECHNICAL DESCRIPTION (COMMENT)
+OFF If the theft-alarm system is set normally, the input sig-
+• Driver’s and front passenger’s door lock key nal circuit, the "SECURITY" indicator light or the
+cylinder switch: OFF ETACS-ECU may be defective.
+• Driver’s and front passenger’s doors actuator
+.
+switch: LOCK TROUBLESHOOTING HINTS
+• Liftgate latch switch: OFF <ECLIPSE> • Malfunction of the theft-alarm indicator light
+• Liftgate lock key cylinder switch: OFF • Malfunction of the ignition key reminder switch
+<ECLIPSE> • Malfunction of the driver’s or front passenger’s
+• Trunk lid latch switch: OFF <ECLIPSE SPY- door switch
+DER> • Malfunction of the driver’s or front passenger’s
+• Trunk lid lock key cylinder switch: OFF door lock key cylinder switch
+<ECLIPSE SPYDER> • Malfunction of the driver’s and front passenger’s
+• Hood switch: OFF door lock actuator switch
+• Transmitter switch: LOCK • Malfunction of the liftgate latch switch
+• Vehicle condition: <ECLIPSE>
+• Ignition key: Removed from the ignition key • Malfunction of the liftgate lock key cylinder switch
+cylinder signal <ECLIPSE>
+• All doors: Closed • Malfunction of the trunk lid latch switch
+• Driver’s and front passenger’s door lock key <ECLIPSE SPYDER>
+cylinder: Not being operated
+TSB Revision

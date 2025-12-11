@@ -1,0 +1,25 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-309
+SYMPTOM PROCEDURES
+STEP 37. Measure at rear side marker light (LH) connector
+F-20 in order to check the ground circuit to the license
+plate lights.
+(1) Disconnect rear side marker light (LH) connector F-20, and
+CONNECTOR <ECLIPSE>: F-20
+measure at the wiring harness side.
+DEVICE SIDE
+1 2
+AC106489AR
+CONNECTOR <ECLIPSE SPYDER>: F-20
+DEVICE SIDE
+1 2
+AC106491AO
+(2) Measure the resistance value between terminal 1 and
+ground.
+CONNECTOR: F-20 • The measured value should be 2 ohm or less.
+(HARNESS SIDE)
+Q:Does the measured resistance value correspond with
+2 1 this range?
+YES : Go to Step 40.
+NO : Go to Step 38.
+AC102041AC
+TSB Revision

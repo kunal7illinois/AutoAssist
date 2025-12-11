@@ -1,0 +1,39 @@
+25
+W
+A73(A), D5(B), D6(C)
+Main Body ECU
+15A 10A
+HAZ ECU ACC
+2
+1
+28 3B
+(∗3)
+L–R
+R–G
+(BAT) (ACC) (IG)
+10A
+ECU IG1
+2 2 2
+8 9
+G–R
+G
+∗ 3 : w/ Smart Entry & Start System
+R–L
+(BAT)
+1
+W
+)3∗(
+7. 5A
+MPX–B
+G
+R–G
+Headlight Beam Level Control
+(BAT)
+7. 5A
+ECU–B
+IG ACC
+2
+1
+AD2
+208
+BRZ (G4400BE)

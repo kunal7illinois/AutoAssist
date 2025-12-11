@@ -1,0 +1,37 @@
+23A-108 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 10. Check connectors C-50 <2.4L Engine> or C-52
+<3.0L Engine> and C-61 <2.4L Engine> or C-63 <3.0L
+Engine> at PCM and B-42 at input shaft speed sensor for
+damage.
+Q:Are the connectors in good condition?
+CONNECTORS: C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE>, C-61 <2.4L ENGINE> YES : Go to Step 11.
+OR C-63 <3.0L ENGINE> NO : Repair or replace the defective connector(s). Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+PCM
+2.
+C-61 <2.4L ENGINE>
+OR
+C-63 <3.0L ENGINE>
+C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE> AC001657BG
+CONNECTOR: B-42 B-42
+AC001835AH
+STEP 11. Check the continuity at input shaft speed sensor
+connector B-42.
+(1) Disconnect connector B-42 and measure at the harness
+CONNECTOR: B-42 B-42
+side.
+AC001835AH
+(2) Check for the continuity between terminal 1 and ground.
+• Should be less than 2 ohm.
+HARNESS
+CONNECTOR: B-42 Q:Is the continuity normal?
+YES : Go to Step 12.
+NO : Repair harness open circuit or damage between input
+shaft speed sensor connector B-42 terminal 1 and
+PCM connector C-50 <2.4L Engine> or C-52 <3.0L
+Engine> terminal 16.
+ACX02128AE
+TSB Revision

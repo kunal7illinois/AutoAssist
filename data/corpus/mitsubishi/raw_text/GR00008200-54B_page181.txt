@@ -1,0 +1,41 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-181
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+Check the input signal (by using the Pulse check).
+Check the input signals from the sunroof switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Operate the MUT-II according to the procedure below to
+display "PULSE CHECK."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+(3) When each function of the sunroof switch is operated
+16 PIN (turned on), check that scan tool MB991502 sounds.
+Q:Does scan tool MB991502 sound when the sunroof
+MB991502
+AC001252AD switch is operated?
+YES : Replace the sunroof motor assembly. Check that the
+sunroof works at all positions normally.
+NO : Refer to Inspection Procedure O-10 "ETACS-ECU
+does not receive a signal from "UP", "OPEN" or
+"CLOSE/DOWN" switch P.54B-511."
+INSPECTION PROCEDURE F-3: Sunroof: Sunroof Timer Function does not Work Normally.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+Sunroof Timer Function
+. • Driver(cid:146)s and passenger(cid:146)s door switch: OFF
+CIRCUIT OPERATION
+• The sunroof timer function works according to the • Vehicle condition
+• Ignition switch: LOCK position
+signals from the following switches:
+• Ignition switch (IG1): OFF • Driver(cid:146)s and passenger(cid:146)s door: Closed
+TSB Revision

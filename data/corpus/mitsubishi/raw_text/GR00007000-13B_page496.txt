@@ -1,0 +1,50 @@
+13B-496 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC P0551: Power Steering Pressure Sensor Circuit Range/Performance
+1
+AK000708
+. .
+CIRCUIT OPERATION TECHNICAL DESCRIPTION
+• A battery positive voltage is applied to the power • The power steering pressure switch converts the
+steering pressure switch output terminal (terminal existence of a power steering load into a high/low
+1) from the ECM (terminal 54) or PCM (terminal voltage, and inputs it into the ECM <M/T> or PCM
+52) <A/T> via the resistor in the ECM <M/T> or <A/T>.
+PCM <A/T>.
+TSB Revision
+WOLLEY
+1
+WOLLEY
+Power Steering Pressure Switch Circuit
+C-58 <M/T>
+(MU803782)
+41424344 45 46 47
+48495051525354555657 58 59
+6061 626364 6566 67 68 ENGINE CONTROL
+MODULE (ECM) <M/T>
+C-55 <A/T> OR
+(MU803781) POWERTRAIN CONTROL
+MODULE (PCM) <A/T>
+41 42 43 444546
+47 48 495051525354555657
+58 59 60616263 646566
+54 <M/T>
+52 <A/T>
+B-47
+MU802653
+1
+1
+B-19
+POWER STEERING
+PRESSURE SWITCH
+CONNECTOR : B-19 CONNECTOR : B-47
+POWER
+STEERING
+PRESSURE
+SWITCH
+POWER STEERING
+OIL PUMP
+ACX02522AC AK000211AC
+CONNECTOR : C-58<M/T>, C-55<A/T>
+PCM<A/T> ECM<M/T>
+C-55 C-58
+AK000225AI

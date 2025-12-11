@@ -1,0 +1,45 @@
+ES–296
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Throttle / Pedal Position Sensor / Switch "D"
+DTC P2121
+Circuit Range / Performance
+DESCRIPTION
+HINT:
+Refer to DTC P2120 (see page ES-282).
+DTC No. DTC Detection Conditions Trouble Areas
+Difference between VPA and VPA2 less than 0.4 V, or more • Accelerator Pedal Position (APP) sensor
+P2121
+than 1.2 V for 0.5 seconds (1 trip detection logic) • ECM
+MONITOR DESCRIPTION
+ES
+When the difference between the output voltages of VPA and VPA2 deviates from the standard, the ECM
+determines that the Accelerator Pedal Position (APP) sensor is malfunctioning. The ECM turns on the MIL
+and the DTC is set.
+MONITOR STRATEGY
+Related DTCs P2121: APP sensor rationality
+Required Sensors/Components (Main) APP sensor
+Required Sensors/Components (Related) -
+Frequency of Operation Continuous
+Duration 0.5 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+Either of following conditions 1 or 2 met: -
+1. Ignition switch ON
+2. Throttle actuator power ON
+TYPICAL MALFUNCTION THRESHOLDS
+Difference between VPA voltage (learned value) and VPA2 voltage
+Less than 0.4 V, or more than 1.2 V
+(learned value)
+FAIL-SAFE
+The APP sensor has two (main and sub) sensor circuits. If a malfunction occurs in either of the sensor
+circuits, the ECM detects the abnormal signal voltage difference between the two sensor circuits and
+switches to limp mode. In limp mode, the functioning circuit is used to calculate the accelerator pedal
+opening angle to allow the vehicle to continue driving. If both circuits malfunction, the ECM regards the
+opening angle of the accelerator pedal as being fully closed. In this case, the throttle valve remains closed
+as if the engine is idling.
+If a pass condition is detected and then the ignition switch is turned OFF, the fail-safe operation stops and
+the system returns to a normal condition.
+WIRING DIAGRAM
+Refer to DTC P2120 (see page ES-286).

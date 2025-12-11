@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (K20Z3) - Civic (Except GX & Si)
+12. Turn the ignition switch OFF.
+13. Replace the EVAP canister vent shut valve (see EVAP CANISTER VENT
+SHUT VALVE REPLACEMENT ).
+14. Turn the ignition switch ON (II).
+15. Reset the ECM with the HDS.
+16. Do the ECM idle learn procedure (see ECM IDLE LEARN PROCEDURE ).
+17. Do the EVAP FUNCTION TEST in the INSPECTION MENU with the HDS.
+Is the result OK?
+YES - Troubleshooting is complete.
+NO - Check for poor connections or loose terminals at the FTP sensor, the
+EVAP canister vent shut valve, and the ECM, then go to step 1.
+18. Reinstall the EVAP canister vent shut valve.
+19. Turn the ignition switch ON (II).
+20. Reset the ECM with the HDS.
+21. Do the ECM idle learn procedure (see ECM IDLE LEARN PROCEDURE ).
+22. Do the EVAP FUNCTION TEST in the INSPECTION MENU with the HDS.
+Is the result OK?
+YES - Troubleshooting is complete.
+NO - Check for poor connections or loose terminals at the FTP sensor, the
+EVAP canister vent shut valve, and the ECM, then go to step 1.
+DTC P0496: EVAP SYSTEM HIGH PURGE FLOW DETECTED
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).

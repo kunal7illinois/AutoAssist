@@ -1,0 +1,40 @@
+CH-94 CHASSIS - BRAKE
+2. Outline of EBD Control
+General
+The distribution of the brake force, which was performed mechanically in the past, is now performed under
+electrical control of the skid control ECU, which precisely controls the braking force in accordance with
+the vehicle’s driving conditions.
+Front/Rear Wheels Brake Force Distribution
+If the brakes are applied while the vehicle is moving straight forward, the transfer of the road reduces the
+load that is applied to the rear wheels. The skid control ECU determines this condition by way of the signals
+from the wheel speed sensors, and the brake actuator regulates the distribution of the brake force of the rear
+wheels to optimally control.
+For example, the amount of the brake force that is applied to the rear wheels during braking varies whether
+or not the vehicle is carrying a load. The amount of the brake force that is applied to the rear wheels also
+varies in accordance with the extent of the deceleration.
+Thus, the distribution of the brake force to the rear is optimally controlled in order to effectively utilize the
+braking force of the rear wheels under these conditions.
+(cid:1) EBD Control Concept (cid:2)
+Ideal Brake Force
+Ideal Brake Force Distribution
+Distribution
+Rear
+Rear Brake
+Brake Force
+Force
+EBD control
+EBD control
+Front Brake Force Front Brake Force
+Without Load in Rear With Load in Rear
+182CH56
+Right/Left Wheels Brake Force Distribution (During Cornering Braking)
+When the brakes are applied while the vehicle is
+cornering, the load that applied to the inner
+wheel decreases and the outer wheel increases.
+The skid control ECU determines this condition
+by way of the signals from the wheel speed
+sensors, and the brake actuator regulates the
+brake force in order to optimally control the
+distribution of the brake force to the inner wheel
+and outer wheel.
+181CH56

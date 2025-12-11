@@ -1,0 +1,27 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-39
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Check the sensor supply voltage at volume air
+flow sensor harness side connector B-14.
+(1) Disconnect the connector B-14 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 3 and ground.
+B-14 HARNESS • Voltage should be between 4.8 and 5.2 volts.
+SIDE CONNECTOR
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+7 6 5 4 3 2 1
+Q: Is the voltage normal?
+YES : Go to Step 9.
+NO : Go to Step 7.
+AKX01406AC
+STEP 7. Check connector C-58 at ECM <M/T> or connector
+C-55 at PCM <A/T> for damage.
+Q:Is the harness connector in good condition?
+CONNECTOR : C-58<M/T>, C-55<A/T>
+YES : Go to Step 8.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 13.
+C-55 C-58
+AK000225AI
+TSB Revision

@@ -1,0 +1,25 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+4. Check for DTCs with the HDS.
+Is DTC 86-01 indicated?
+YES -Go to step 5.
+NO -Intermittent failure, the system is OK at this time. Check for loose
+terminals between ECM connector A (44P) and the VSA modulator-control
+unit 37P connector. Refer to INTERMITTENT FAILURES
+TROUBLESHOOTING (see ).
+5. Turn the ignition switch to LOCK (0).
+6. Short the SCS line with the HDS.
+7. Disconnect ECM connector A (44P).
+8. Disconnect the HDS from the data link connector (DLC).
+9. Disconnect the gauge control module (tach) 36P connector.
+10. Disconnect SRS unit connector A (28P).
+11. With EPS: Disconnect EPS control unit connector D (28P).
+12. With TPMS: Disconnect the TPMS control unit 20P connector.
+13. Disconnect the yaw rate-lateral acceleration sensor 5P connector.
+14. Disconnect the VSA modulator-control unit 37P connector.
+15. Check for continuity between VSA modulator-control unit 37P connector
+terminals No. 1 and No. 15 and body ground individually.

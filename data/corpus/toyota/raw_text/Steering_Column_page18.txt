@@ -1,0 +1,63 @@
+SR–16
+STEERING COLUMN – ELECTRIC STEERING LOCK
+(b) Connect the cable of the intelligent tester to the
+Intelligent Tester DLC3, turn the engine switch on (IG) and attempt to
+use the tester. If the display indicates that a
+communication error has occurred, there is a
+problem either with the vehicle or with the tester.
+• If communication is normal when the tester is
+connected to another vehicle, inspect the DLC3
+of the original vehicle.
+• If communication is still not possible when the
+tester is connected to another vehicle, the
+problem may be in the tester itself. Consult the
+Service Department listed in the tester's
+instruction manual.
+DLC3
+CAN VIM
+C131977E05
+3. WARNING FUNCTION OF ENGINE SWITCH
+Indicator Light INDICATOR
+(a) The steering lock ECU blinks the LED indicator of
+the engine switch when any of the following
+problems occurs in the system:
+SR
+B083100E01
+Detection Item Indicator Light Blink Pattern Indication Status Countermeasure
+The motor operates to release the
+• Blinks green at 1-second
+steering lock, but the steering Push the engine switch while
+intervals
+Steering lock is still not released lock cannot be released (e.g. the turning the steering wheel left or
+• Goes off 15 seconds after
+lock bar is stuck in the steering right.
+blinking starts
+column).
+• Blinks amber at 2-second • There is a short in the
+Troubleshoot by following "HOW
+intervals devices activating the motor.
+Malfunction in smart access TO PROCEED WITH
+• Goes off 15 seconds after the • There is a problem in the
+system with push-button start TROUBLESHOOTING" (See
+engine switch is turned off steering lock ECU or power
+page SR-7).
+while blinking source control ECU.
+4. WARNING FUNCTION OF COMBINATION METER
+(a) The steering lock ECU displays a warning on the
+combination meter when any of the following
+problems occurs in the system.
+Detection Item Display Indication Status Countermeasure
+The motor operates to release the
+"S/T is not Unlocked" steering lock, but the steering Push the engine switch while
+Steering lock is still not released • Goes off 15 seconds after lock cannot be released (e.g. the turning the steering wheel left or
+blinking starts lock bar is stuck in the steering right.
+column).
+• There is a short in the
+"Check S/T Lock" Troubleshoot by following "HOW
+devices activating the motor.
+• Goes off 15 seconds after the TO PROCEED WITH
+Malfunction in push start system • There is a problem in the
+engine switch is turned off TROUBLESHOOTING" (See
+steering lock ECU or power
+while blinking page SR-7).
+source control ECU.

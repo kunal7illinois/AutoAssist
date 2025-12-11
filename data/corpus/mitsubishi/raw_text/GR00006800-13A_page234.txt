@@ -1,0 +1,33 @@
+13A-234 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Check for open circuit and short circuit to ground
+and harness damage between knock sensor connector B-
+35 (terminal 1) and ECM connector C-60 (terminal 78) <M/
+T> or PCM connector C-57 (terminal 90) <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-35
+YES : Go to Step 5.
+NO : Repair it. Then go to Step 6.
+AK103530AB
+CONNECTORS:C-60<M/T>,C-57<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-60
+C-57
+AK000280BE
+STEP 5. Check the knock sensor.
+(1) Disconnect the knock sensor connector B-35.
+KNOCK SENSOR (2) Start the engine and run at idle.
+(3) Measure the voltage between knock sensor side connector
+terminal 1 (output) and 2 (ground).
+(4) Gradually increase the engine speed.
+• The voltage increases with the increase in the engine
+speed.
+(5) Turn the ignition switch to the "LOCK"(OFF) position.
+Q:Is the sensor operating properly?
+ACX02470AG YES : Replace the ECM or PCM. Then go to Step 6.
+NO : Replace the knock sensor. Then go to Step 6.
+CONNECTOR: B-35
+AK103530AB
+TSB Revision

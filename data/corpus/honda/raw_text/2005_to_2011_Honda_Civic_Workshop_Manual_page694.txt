@@ -1,0 +1,36 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+opened
+About 5.0 V
+A36 WHT CAN H (CAN Sends and With
+COMMUNICATION receives ignition
+SIGNAL HIGH) communication switch ON
+signal (II): About
+2.5 V
+(pulses)
+A37 RED CAN L (CAN Sends and With
+COMMUNICATION receives ignition
+SIGNAL LOW) communication switch ON
+signal (II): About
+2.5 V
+(pulses)
+A40 LT GRN BK SW (BRAKE Detects brake With brake
+PEDAL POSITION pedal position pedal
+SWITCH) switch signal pressed:
+Battery
+voltage
+With Brake
+pedal
+released:
+About 0 V
+NOTE:
+Standard battery voltage is about 12 V.
+PCM CONNECTOR B (TRIANGLE SYMBOL) (44P)
+CONNECTOR TERMINAL WIRE COLOR REFERENCE
+Terminal
+number Wire color Terminal name Description Signal
+B1 BLK PG2 (POWER Ground Less than 1.0 V
+GROUND) circuit for at all times
+PCM circuit
+B2 BLU/RED EGR (EXHAUST Drives EGR With EGR

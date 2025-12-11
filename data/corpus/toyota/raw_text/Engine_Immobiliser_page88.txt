@@ -1,0 +1,22 @@
+EI–84
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+DTC B2795 Unmatched Key Code
+DESCRIPTION
+This DTC is output when a key with a key code that has not been registered in the ECU is inserted into the
+ignition key cylinder.
+DTC No. DTC Detection Condition Trouble Area
+B2795 Key with unregistered key code is inserted Key
+INSPECTION PROCEDURE
+NOTICE:
+If the key is replaced, register the key (See page EI-57).
+1 RE-REGISTER KEY
+(a) Delete the DTCs (See page EI-69).
+(b) Re-register the key (See page EI-57) and insert this key
+into the ignition key cylinder. Check that the engine starts
+with this key.
+OK:
+The engine starts.
+NG REPLACE KEY
+OK
+END
+EI

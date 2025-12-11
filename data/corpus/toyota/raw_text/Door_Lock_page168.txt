@@ -1,0 +1,10 @@
+DL–158
+DOOR LOCK – SMART KEY SYSTEM
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+CANN (E8-15) - Body ground W - Body ground CAN Line Always 10 kΩ or higher
+CANP (E8-16) - Body ground L - Body ground CAN Line Always 10 kΩ or higher
+STP (IL-7) - Body ground L - Body ground Stop light switch signal Brake pedal depressed 10 to 14 V
+STP (IL-7) - Body ground L - Body ground Stop light switch signal Brake pedal depressed Below 1 V
+If the result is not as specified, the junction block
+may have a malfunction.
+DL

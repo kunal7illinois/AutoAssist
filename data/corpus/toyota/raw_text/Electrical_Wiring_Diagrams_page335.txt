@@ -1,0 +1,47 @@
+Sliding Roof
+: Parts Location
+Code See Page Code See Page Code See Page
+A41 A 59 E43 B 57 A 60
+NN66
+A42 B 59 E44 C 57 B 60
+C57 51 (2GR–FE) E48 57 Q6 61
+E7 B 56 E49 57 Q13 61
+E8 C 56 F1 A 58
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+1A 25 Engine Room Main Wire and Engine Room J/B (Engine Compartment Left)
+3D
+3F
+3G 33336666 IIIInnnnssssttttrrrruuuummmmeeeennnntttt PPPPaaaannnneeeellll WWWWiiiirrrreeee aaaannnndddd JJJJ////BBBB NNNNoooo....3333 ((((BBBBeeeehhhhiiiinnnndddd tttthhhheeee CCCCoooommmmbbbbiiiinnnnaaaattttiiiioooonnnn MMMMeeeetttteeeerrrr))))
+3L
+3O
+3Q
+3366 IInnssttrruummeenntt PPaanneell NNoo..22 WWiirree aanndd JJ//BB NNoo..33 ((BBeehhiinndd tthhee CCoommbbiinnaattiioonn MMeetteerr))
+3U
+ID 30 Engine Room Main Wire and Instrument Panel J/B (Cowl Side Left)
+IF 30
+IG 31
+IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll WWWiiirrreee aaannnddd IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll JJJ///BBB (((CCCooowwwlll SSSiiidddeee LLLeeefffttt)))
+IM
+3300
+IR
+: Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+64 (2GR–FE)
+CCAA33 EEnnggiinnee WWiirree aanndd EEnnggiinnee RRoooomm MMaaiinn WWiirree ((IInnssiiddee ooff tthhee EEnnggiinnee RRoooomm RR//BB aanndd EEnnggiinnee RRoooomm JJ//BB))
+65 (2AZ–FE)
+EA1 66 Instrument Panel Wire and Engine Room Main Wire (Left Kick Panel)
+EN2 66 Instrument Panel Wire and Floor Wire (Left Kick Panel)
+EQ1 66 Instrument Panel Wire and Roof Wire (Lower Part of Front Pillar LH)
+FE3 66 Instrument Panel No.2 Wire and Instrument Panel Wire (Instrument Panel Center)
+: Ground Points
+Code See Page Ground Points Location
+C6 65 (2AZ–FE) Cylinder Block
+C7 64 (2GR–FE) Left Side of the Cylinder Block
+E2 66 Instrument Panel Brace LH
+F1 66 Instrument Panel Left
+334
+CAMRY (EM0250U)

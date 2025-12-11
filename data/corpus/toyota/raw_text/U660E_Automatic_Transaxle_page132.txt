@@ -1,0 +1,41 @@
+AX–132
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+C GO TO DTC CHART (RELATED SHIFT
+SOLENOID VALVE (SL3) PERFORMANCE
+DTC P0796)
+D GO TO DTC CHART (RELATED SHIFT
+AX SOLENOID VALVE (SL4) PERFORMANCE
+DTC P2808)
+E
+4 INSPECT SHIFT SOLENOID VALVE SLT
+(a) Remove the shift solenoid valve SLT.
+Shift Solenoid Valve SLT:
+(b) Measure the resistance according to the value(s) in the
+table below.
+1 2
+Standard resistance
+Specified Condition
+Tester Connection
+20°C (68°F)
+1 - 2 5.0 to 5.6 Ω
+(c) Connect a positive (+) lead through a 21 W bulb to
+terminal 2 and a negative (-) lead to terminal 1 of the
+solenoid valve connector, then check the movement of
+the valve.
+2 OK:
+1 The solenoid makes an operating sound.
+NG REPLACE SHIFT SOLENOID VALVE SLT
+(-) (+)
+G020767E08
+OK
+5 INSPECT TRANSMISSION VALVE BODY ASSEMBLY
+OK:
+There are no foreign objects on each valve.
+NG REPLACE TRANSMISSION VALVE BODY
+ASSEMBLY
+OK
+6 INSPECT TORQUE CONVERTER CLUTCH ASSEMBLY
+(a) Check the torque converter clutch assembly (See page
+AX-239).
+OK:
+The torque converter clutch operates normally.

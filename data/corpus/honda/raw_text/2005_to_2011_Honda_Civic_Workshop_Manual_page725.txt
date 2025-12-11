@@ -1,0 +1,20 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+When starting off in reverse gear, the PCM turns shift solenoid valves B and C ON.
+Shift solenoid valve A remains OFF, and D remains ON. Shift solenoid valve B is
+turned ON, and shift solenoid valve B pressure (SB) is applied to the right end of
+shift valve B. Shift valve B is moved to the right side to switch A/T clutch pressure
+control solenoid valve A pressure (55') port to line pressure (1B) port leading to the
+5th clutch. The 5th clutch is engaged with the line pressure mode.
+Reverse Inhibitor Control
+When R is selected while the vehicle is moving forward at speeds over 6 mph (10
+km/h), the PCM turns shift solenoid valves A and C ON, and shift solenoid valves
+B and D OFF. Shift solenoid valve D is kept OFF, and shift valve D is kept in the
+left side to cover line pressure (3) port leading to the servo valve. The servo valve is
+kept in the forward position. Shift solenoid valve A is turned ON, shift valve A is
+moved to the right side and covers the port to stop line pressure (1 A) leading to the
+5th clutch. The servo valve is not applied line pressure, the 5th clutch is not applied
+5th clutch pressure, as a result, power is not transmitted to the reverse direction.
+NOTE: When used, "left" or "right" indicates direction on the
+hydraulic circuit.

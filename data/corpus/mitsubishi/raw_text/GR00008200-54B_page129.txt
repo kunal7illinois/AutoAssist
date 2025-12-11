@@ -1,0 +1,24 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-129
+SYMPTOM PROCEDURES
+Q:Is the wiring harness between power window relay
+CONNECTOR: C-91
+connector C-116 (terminal 4) and power window main
+CONNECTOR switch connector E-12 (terminal 6) in good condition?
+BLOCK (LH)
+YES : Replace the ETACS-ECU. Check that the power
+windows work normally.
+NO : Repair the wiring harness. Check that the power
+windows work normally.
+C-91
+1 2 3 4 5 6 7 8 9
+101112131415161718192021
+2223 24252627282930 3132
+AC106683AC
+INSPECTION PROCEDURE D-2: Power Window: The Power Window Timer does not Work Normally.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+Power Window Timer Function Circuit
+.
+TSB Revision

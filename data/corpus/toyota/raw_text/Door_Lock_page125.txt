@@ -1,0 +1,33 @@
+DL–119
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/o Smart Key System)
+OK
+3 REPLACE DOOR CONTROL RECEIVER
+(a) Reconnect the E6 main body ECU connector.
+(b) Replace the door control receiver with a normal one.
+(c) Perform the registration procedures (See page DL-101).
+HINT:
+If a normally functioning door control receiver is
+available, connect it and check if the wireless door lock
+function is normal or DTCs are output. If the alternative
+receiver functions normally, replace the original door
+control receiver.
+NEXT
+4 CONFIRM DTC
+(a) Clear the DTCs (See page DL-109).
+(b) Check if the same DTC is detected.
+HINT:
+Reinstall the sensors, connectors, etc. and restore the
+previous vehicle conditions before rechecking for DTCs.
+Result
+Result Proceed To
+DTC is output A
+DTC is not output (When troubleshooting in accordance with the DTC CHART) B
+DTC is not output (When troubleshooting in accordance with the PROBLEM SYMPTOMS
+C
+TABLE)
+B END
+C PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+A
+REPLACE MAIN BODY ECU (INSTRUMENT PANEL JUNCTION BLOCK)
+DL

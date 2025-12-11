@@ -1,0 +1,41 @@
+54B-28 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 7. Check the wiring harness between ETACS-ECU
+connector C-118 (terminals 51 and 67) and data link
+connector C-29 (terminals 9 and 1).
+NOTE: Also check joint connector C-77. If joint connector C-77
+CONNECTOR: C-118
+is damaged, repair or replace the connector as described in
+DEVICE SIDE
+GROUP 00E, Harness Connector Inspection P.00E-2.
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+CONNECTOR: C-29
+HARNESS
+SIDE
+1 2 3 4 5 6 7 8
+910111213141516
+AC106557AE
+Q:Is the wiring harness between ETACS-ECU connector C-
+CONNECTOR: C-77
+118 (terminals 51 and 67) and data link connector C-29
+(terminals 9 and 1) in good condition?
+YES : Replace the ETACS-ECU. The system should
+communicate with the SWS monitor kit normally.
+NO : Repair the wiring harness. The system should
+communicate with the SWS monitor kit normally.
+DEVICE SIDE
+1 2 3 4 5 6 7 8 91011
+1213141516171819202122
+2324252627282930313233
+AC106473AL
+INSPECTION PROCEDURE A-2: Communication with the Column Switch (Column-ECU) is
+Impossible.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+TSB Revision

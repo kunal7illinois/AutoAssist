@@ -1,0 +1,38 @@
+RS–341
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+DTC B1795 Occupant Classification ECU Malfunction
+DESCRIPTION
+DTC B1795 is recorded when a malfunction is detected in the occupant classification ECU.
+Troubleshoot the DTC B1771 first when the DTC B1771 and B1795 are output simultaneously.
+DTC No. DTC Detecting Condition Trouble Area
+• Occupant classification ECU circuit malfunction
+• Front seat wire RH (for Power seat)
+• The occupant classification ECU receives a short
+• Floor wire No. 2
+B1795 circuit to ground signal in the passenger side
+• Front seat inner belt assembly RH
+buckle switch circuit for 2 seconds.
+• Occupant classification ECU
+• Occupant classification ECU malfunction
+INSPECTION PROCEDURE
+1 CHECK DTC
+(a) Turn the ignition switch on (IG), and wait for at least 10
+seconds.
+(b) Check the DTCs (See page RS-251).
+Result:
+A:
+DTC B1771 and B1795 are output.
+B:
+DTC B1795 is output.
+HINT:
+Codes other than DTC B1771 and B1795 may be output
+at this time, but they are not related to this check.
+RS
+A GO TO DTC B1771
+B
+2 CHECK FUSE
+(a) Check the ECU-B fuse.
+Resistance:
+Below 1 Ω
+NG REPLACE FUSE
+OK

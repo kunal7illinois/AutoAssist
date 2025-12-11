@@ -1,0 +1,16 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-453
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+OVERVIEW OF TROUBLESHOOTING • Prior to doing the performance test, several sim-
+• To determine the cause of DTC P0456, a perfor- ple inspections are needed to exclude some pos-
+mance test is needed. The performance test uses sibilities of the symptom.
+a mechanical vacuum gauge and scan tool
+MB991502 set on the fuel tank differential pres-
+sure sensor (TANK PRES SNER 73.) The
+mechanical gauge reading is used to verify scan
+tool MB991502 reading. A comparison of the
+mechanical gauge to scan tool MB991502 deter-
+mines the problem in the system.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

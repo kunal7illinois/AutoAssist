@@ -1,0 +1,12 @@
+BC–234
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+ABS Warning Light Remains ON
+DESCRIPTION
+The skid control ECU is connected to the combination meter via CAN communication.
+If any of the following is detected, the ABS warning light remains on.
+• The skid control ECU connectors are disconnected from the skid control ECU.
+• There is a malfunction in the skid control ECU internal circuit.
+• There is an open in the harness between the combination meter and the skid control ECU.
+HINT:
+In some cases, the intelligent tester cannot be used when the skid control ECU is abnormal.
+BC

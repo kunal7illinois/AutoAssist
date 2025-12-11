@@ -1,0 +1,32 @@
+CH-112 CHASSIS - BRAKE
+9. Brake Actuator
+(cid:3) The brake actuator consists of the actuator portion, skid control ECU, relays.
+(cid:3) The TMC made models brake actuator consists of 10 solenoid valves, 1 pump motor, 2 pumps, 2 pressure
+regulator valves, 2 reservoirs and 1 master cylinder pressure sensor.
+(cid:3) The TMMK made models brake actuator consists of 12 solenoid valves, 1 pump motor, 2 pumps, 2
+reservoirs and 1 master cylinder pressure sensor.
+(cid:1) Hydraulic Circuit (TMC Made Models) (cid:2)
+Master Cylinder
+Brake Actuator
+Master Cylinder
+Pressure Sensor
+Port (A)
+Port (B)
+Port (D) Port (E)
+(1) (2)
+Port (F)
+Port (C)
+Pumps
+(3) Port (H) (4) (5) Port (I) (6)
+Pressure
+Regulator
+Valves
+Port (G)
+(7) (8) (9) (10) Port (J)
+Reservoirs
+Front Left Rear Right Rear Left Front Right
+285CH28
+Component
+(1), (2) Master Cylinder Cut Solenoid Valve
+(3), (4), (5), (6) Pressure Holding Valve
+(7), (8), (9), (10) Pressure Reduction Valve

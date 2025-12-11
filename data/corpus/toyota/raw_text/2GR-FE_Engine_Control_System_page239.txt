@@ -1,0 +1,32 @@
+ES–239
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+P0348 (High voltage):
+VVT sensor voltage More than 4.7 V
+COMPONENT OPERATING RANGE
+VVT sensor voltage 0.3 to 4.7 V
+WIRING DIAGRAM
+Refer to DTC P0335 (See page ES-224).
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data ES
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air/fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).
+1 CHECK HARNESS AND CONNECTOR (SENSOR POWER SOURCE)
+(a) Disconnect the C41 or C45 VVT sensor connector.
+Wire Harness Side: (b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+VVT Sensor
+Tester Connection Specified Condition
+VC (C41-3) - Body ground 4.5 to 5.0 V
+VC (C45-3) - Body ground 4.5 to 5.0 V
+C41 Bank 1
+(c) Reconnect the VVT sensor connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+C45 Bank 2
+VC
+A107149E16
+OK

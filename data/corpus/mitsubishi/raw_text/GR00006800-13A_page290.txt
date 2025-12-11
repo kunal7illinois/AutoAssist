@@ -1,0 +1,10 @@
+13A-290 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 12. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0443 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+TSB Revision

@@ -1,0 +1,59 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Pa‐ Monitor‐ Frequency of
+sage cedure ria and Threshold rameters with ing Time checks, MIL Il‐
+Value Enable Condi‐ Length lum
+tions
+P2017 Intake – Check the In‐ • signal voltage > --- .2 Sec • Continuous
+Manifold take Flap Mo‐ 4.8 V
+Runner Po‐ tor -V157- / In‐ • 2 DCY
+sition Sen‐ take Manifold
+sor/Switch Runner Posi‐
+Circuit tion Sensor -
+Range/Per‐ G336- . Refer
+formance to
+Bank 1 ⇒ “3.5.12 In‐
+take Manifold
+Runner Posi‐
+tion Sensor,
+Checking”,
+page 134 .
+P2088 Camshaft – Check the • signal voltage < • Camshaft 0.5 Sec. • Continuous
+Position Ac‐ Camshaft Ad‐ 2.15 .. 3.25 V solenoid
+tuator Con‐ justment commanded • 2 DCY
+trol Circuit Valve 1 - OFF
+Low Bank 1 N205- . Refer
+to • Engine
+⇒ speed, > 40
+“3.5.38 Cam‐ RPM
+shaft Adjust‐
+ment Valve,
+Checking”,
+page 186 .
+P2089 Camshaft – Check the • Signal current, • Camshaft 0.5 Sec. • Continuous
+Position Ac‐ Camshaft Ad‐ > 2.2 A solenoid
+tuator Con‐ justment commanded • 2 DCY
+trol Circuit Valve 1 - ON
+High Bank 1 N205- . Refer
+to • Engine
+⇒ speed > 40
+“3.5.38 Cam‐ RPM
+shaft Adjust‐
+ment Valve,
+Checking”,
+page 186 .
+P2090 Exhaust – Check the • signal voltage < • Camshaft 0.5 Sec • Continuous
+Camshaft Camshaft Ad‐ 2.15 .. 3.25 V solenoid
+Position Ac‐ justment commanded • 2 DCY
+tuator Cir‐ Valve 1 (ex‐ OFF
+cuit short to haust) -
+ground N318- . Refer • Engine
+Bank 1 to speed, > 40
+⇒ RPM
+“3.5.39 Cam‐
+shaft Adjust‐
+ment Valve 1,
+Exhaust”,
+page 188
+84
+Rep. Gr.ST - Generic Scan Tool

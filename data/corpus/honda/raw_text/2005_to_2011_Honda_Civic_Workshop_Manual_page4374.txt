@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+YES -Repair short to power in the wire between the appropriate wheel speed
+sensor and the VSA modulator-control unit.
+NO -Replace the VSA modulator-control unit (see VSA MODULATOR-
+CONTROL UNIT REMOVAL AND INSTALLATION ).
+DTC 81-3D: CENTRAL PROCESSING UNIT (CPU) INTERNAL CIRCUIT MALFUNCTION; DTC
+81-3E: CENTRAL PROCESSING UNIT (CPU) INTERNAL CIRCUIT MALFUNCTION; DTC 81-59:
+CENTRAL PROCESSING UNIT (CPU) INTERNAL CIRCUIT MALFUNCTION
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+4. Turn the steering wheel from lock to lock.
+5. Check for DTCs with the HDS.
+Is DTC 81-3D, 81-3E, or 81-59 indicated?
+YES -Replace the VSA modulator-control unit (see VSA MODULATOR-
+CONTROL UNIT REMOVAL AND INSTALLATION ).
+NO -Intermittent failure, the system is OK at this time.
+DTC 83-13: ECM COMMUNICATION ERROR; DTC 83-14: ECM COMMUNICATION ERROR
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Test-drive the vehicle.
+4. Check for DTCs with the HDS.
+Is DTC 83-13, or 83-14 indicated?
+YES -Go to step 5.
+NO -Intermittent failure, the system is OK at this time. Check for loose
+terminals between ECM connector A (44P) and the VSA modulator-control
+unit 37P connector. Refer to INTERMITTENT FAILURES

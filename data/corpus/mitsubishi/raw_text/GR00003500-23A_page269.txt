@@ -1,0 +1,43 @@
+AUTOMATIC TRANSAXLE 23A-269
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 3. Using scan tool MB991502, check data list.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine.
+(3) Set scan tool MB991502 to data reading mode for following
+items.
+a. Item 31: Low-Reverse Solenoid Valve Duty Percent
+b. Item 32: Underdrive Solenoid Valve Duty Percent
+c. Item 33: Second Solenoid Valve Duty Percent
+16 PIN d. Item 34: Overdrive Solenoid Valve Duty Percent
+• Check that the values shown below are displayed
+MB991502
+AC001252AB when each data list item is entered.
+DATA LIST ITEM
+DRIVING CONDITION
+31 32 33 34
+Driving at constant speed of 10 km/h (6.2 mph) in 1st gear 0% 0% 100% 100%
+Driving at constant speed of 30 km/h (19 mph) in 2nd gear 100% 0% 0% 100%
+Driving at constant speed of 50 km/h (31 mph) in 3rd gear 100% 0% 100% 0%
+Driving at constant speed of 50 km/h (31 mph) in 4th gear 100% 100% 0% 0%
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Are the solenoid valves operating properly?
+YES : Go to Step 4.
+NO : Go to Step 6.
+STEP 4. Adjust the line pressure.
+Adjust the line pressure. Refer to P.23A-40, Line Pressure
+Adjustment. Then check the symptom.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Go to Step 5.
+STEP 5. Disassemble and clean the valve body.
+Check the O-ring installation bolts for looseness and the valve
+VALVE body for damage. Repair or replace the faulty parts. Refer to
+BODY
+GROUP 23B, Valve Body P.23B-74.
+ASSEMBLY
+Q:Is the repair possible and the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Replace the valve body assembly. Then check the
+symptom. Go to Step 7.
+AC001860AB
+TSB Revision

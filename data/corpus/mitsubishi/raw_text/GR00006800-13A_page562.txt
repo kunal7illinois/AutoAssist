@@ -1,0 +1,46 @@
+13A-562 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CAMSHAFT POSITION SENSOR AND
+CRANKSHAFT POSITION SENSOR
+Required Special Tools:
+OSCILLOSCOPE
+CAMSHAFT POSITION • MB991709: Test Harness Set
+SENSOR CONNECTOR • MD998478: Test Harness
+.
+1 2 3 Measurement Method
+1. Disconnect the camshaft position sensor connector, and
+connect the test harness special tool (MB991709) in
+between. (All terminals should be connected.)
+2. Connect the oscilloscope probe to camshaft position sensor
+MB991709 connector terminal 2.
+AK102976AB
+3. Disconnect the crankshaft position sensor connector, and
+OSCILLOSCOPE connect the test harness special tool (MD998478) in
+CRANKSHAFT POSITION between.
+SENSOR CONNECTOR
+4. Connect the oscilloscope probe to crankshaft position
+1 2 sensor connector terminal 2 (black clip of special tool).
+3
+.
+MD998478 Alternate method (Test harness not available)
+<M/T>
+1. Connect the oscilloscope probe to ECM terminal 88.
+(Check the camshaft position sensor signal wave pat-
+AK102979AB tern.)
+2. Connect the oscilloscope probe to ECM terminal 89.
+(Check the crankshaft position sensor signal wave pat-
+tern.)
+<A/T>
+1. Connect the oscilloscope probe to PCM terminal 56.
+(Check the camshaft position sensor signal wave pat-
+tern.)
+2. Connect the oscilloscope probe to PCM terminal 45.
+(Check the crankshaft position sensor signal wave pat-
+tern.)
+Standard Wave Pattern
+Observation conditions
+Function Special pattern
+Pattern height Low
+Pattern selector Display
+Engine r/min Idle speed
+TSB Revision

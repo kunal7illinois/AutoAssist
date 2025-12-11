@@ -1,0 +1,51 @@
+Electrical convertible top control system
+Topology and networking
+On the next two pages you will find an overview of the networking of the individual control units in the
+Audi TT Roadster. The convertible top operation control unit J256 is integrated in the convenience CAN bus.
+Engine
+Control unit
+J623
+Twin clutch
+gearbox
+mechatronics
+J743
+Selector lever
+E313
+ECD control unit
+ABS
+(electronically controlled
+control unit
+damping)
+J104
+J250
+Airbag Headlight range control,
+control unit control unit
+J234 J431
+Four-wheel drive
+control unit
+J402
+Power output module Power output module
+for left headlight for right headlight
+Tyre pressure J667 J668
+monitor
+control unit 2
+J793*
+Power steering
+control unit
+J500
+Steering angle
+sender
+G85
+Steering column
+electronics
+control unit
+J527
+Multifunction
+steering wheel
+control unit
+J453
+Powertrain CAN bus Diagnostics CAN bus
+Infotainment CAN bus LIN bus
+Convenience CAN bus Subbus system
+Dash panel insert CAN bus Panasonic bus
+30

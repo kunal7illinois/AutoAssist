@@ -1,0 +1,54 @@
+WS–19
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+FAIL-SAFE CHART
+1. POWER WINDOW OPERATION IN FAIL-SAFE MODE
+HINT:
+If the pulse sensor built into the power window regulator
+motor (on the driver side) malfunctions, the power
+window control system enters fail-safe mode. WS
+Fail mode Fail Detection Condition
+With the door glass going up or down, the pulse that indicates door
+Pulse direction error
+glass operation in the opposite direction is detected for 400 msec.
+With the door glass going up or down, no pulse is detected for 350 to
+Pulse stop error
+450 msec.
+(a) The power window control system prohibits the
+following power window operation when the pulse
+sensor for the jam protection function has problems
+and the window position or the learned value is
+abnormal.
+Power window control system
+Key-off
+Key-off
+(After approx. 45 seconds
+Power window operation Ignition switch on (IG) (Within approx. 45 seconds
+elapsed after ignition switch
+after ignition switch turned off)
+turned off)
+Manual UP Operation prohibited Operation prohibited Operation prohibited
+Operative
+Manual DOWN Operation prohibited Operation prohibited
+(Jam protection not operative)
+AUTO UP Operative
+(hold switch at AUTO UP (in MANUAL mode) Operation prohibited Operation prohibited
+position) (Jam protection not operative)
+AUTO UP Operation prohibited Operation prohibited Operation prohibited
+AUTO DOWN Operation prohibited Operation prohibited Operation prohibited
+HINT:
+When the pulse sensor is normal, the AUTO UP /
+DOWN function can be resumed by deactivating
+fail-safe mode. To deactivate fail-safe mode, pull up
+the driver door power window switch to the AUTO
+UP position and hold it for at least 1 second to fully
+close the window from the fully open position.
+(b) If the LIN communication system malfunctions
+(communication blackout), the power window
+control system prohibits the following operations.
+LIN communication system
+Power window operation Ignition switch on (IG)
+MANUAL UP Operative (Jam protection operative)
+MANUAL DOWN Operative (Jam protection not operative)
+AUTO UP (hold switch at AUTO UP position) Operative (Jam protection operative)
+AUTO UP Operative (Jam protection operative)
+AUTO DOWN Operative (Jam protection not operative)

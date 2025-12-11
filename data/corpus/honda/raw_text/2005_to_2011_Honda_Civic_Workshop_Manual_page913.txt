@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+5. Select Shift Solenoid Valve D in the Miscellaneous Test Menu, and test shift
+solenoid valve D with the HDS.
+Is a clicking sound heard?
+YES -Go to step 6.
+NO -Go to step 8.
+6. Start the engine with the shift lever in P, and wait for at least 1 second.
+7. Monitor the OBD STATUS for P0982 in the DTCs MENU with the HDS.
+Does the HDS indicate FAILED?
+YES -Go to step 8.
+NO -If the HDS indicates PASSED, intermittent failure, the system is OK at
+this time. Check for intermittent short to body ground in the wire between shift
+solenoid valve D and the PCM. If the HDS indicates NOT COMPLETED, go
+to step 5.
+8. Turn the ignition switch to LOCK (0).
+9. Jump the SCS line with the HDS.
+10. Disconnect PCM connectors B (44P) and C (44P).
+11. Measure the resistance between PCM connector terminals B11 and C40.
+Fig. 160: Measuring Resistance Between PCM Connector Terminals B11
+And C40

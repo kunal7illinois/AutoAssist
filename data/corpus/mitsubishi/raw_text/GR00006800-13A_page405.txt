@@ -1,0 +1,38 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-405
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 11. Check the idle air control motor operation using
+special tool MB991709.
+(1) Remove the idle air control motor.
+CONNECTOR:B-34
+IDLE AIR
+CONTROL MOTOR
+ACX02519AI
+(2) Connect special tool MB991709 to the idle air control motor.
+(All terminals should be connected.)
+(3) Use the jumper wires to connect terminal 2 of the idle air
+control motor connector to the positive battery terminal.
+TERMINAL 2
+IAC MOTOR
+TERMINAL 5
+MB991709 AKX01627AB
+(4) Check the ensure that the motor operates when the
+terminals 1 and 3 of the idle air control motor connector are
+respectively connected to the negative battery terminal
+using a jumper wire.
+• Vibration should be present at each application of volt-
+age to test clip combination.
+(5) Then use jumper wires to connect the terminal 5 of the idle
+air control motor connector to the positive battery terminal.
+(6) Check the ensure that the motor operates when the
+terminals 4 and 6 of the idle air control motor connector are
+AKX01626
+respectively connected to the negative battery terminal
+using a jumper wire.
+• Vibration should be present at each application of volt-
+age to test clip combination.
+(7) Install the idle air control motor. Refer to, Throttle Body −
+Disassembly and Assembly P.13A-593.
+Q:Is the idle air control motor operating properly?
+YES : Go to Step 12.
+NO : Replace the idle air control motor. Then go to Step 14.
+TSB Revision

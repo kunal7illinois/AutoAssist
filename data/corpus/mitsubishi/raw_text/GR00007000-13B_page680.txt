@@ -1,0 +1,66 @@
+13B-680 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+ON-VEHICLE SERVICE
+FUEL PRESSURE TEST
+M1131001900056
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991637: Fuel Pressure Gauge Set
+• MD998709: Adaptor Hose
+• MD998742: Hose Adaptor
+1. Release residual pressure from the fuel line to prevent fuel
+spray. (Refer to P.13B-682 .)
+WARNING
+To prevent a fire, cover the hose connection with
+shop towels to prevent splashing of fuel that could be
+caused by some residual pressure in the fuel pipe
+line.
+2. Disconnect the high-pressure fuel hose at the fuel rail side.
+HIGH-PRESSURE 3. Assemble the fuel pressure measurement tools as follows.
+FUEL HOSE
+<When using the fuel pressure gauge>
+AK000117AB
+1. Remove the union joint and bolt from special tool
+FUEL PRESSURE
+MD998709 (adaptor hose) and instead attach special tool
+GAUGE
+MD998742 (hose adaptor) to the adaptor hose.
+O-RING OR GASKET
+2. Place a suitable O-ring or gasket on the assembled special
+MD998709
+tools MD998709 and MD998742 and install the fuel pres-
+FUEL sure gauge.
+RAIL
+MD998742
+3. Install the assembled fuel pressure measurement tools
+HIGH-PRESSURE between the fuel rail and high-pressure fuel hose.
+FUEL HOSE
+<When using the special tool MB991637 (fuel pressure
+AKX01457AB gauge set)>
+1. Remove the union joint and bolt from special tool
+MD998709 (adaptor hose) and instead attach special tool
+MB991637
+MD998742 (hose adaptor) to the adaptor hose.
+O-RING OR GASKET
+2. Install special tool MB991637 (fuel pressure gauge set) into
+MD998709
+assembled special tools MD998709 and MD998742 via a
+FUEL gasket.
+RAIL
+MD998742 3. Install the assembled fuel pressure measurement tools
+HIGH- between the fuel rail and the high-pressure fuel hose.
+PRESSURE
+FUEL HOSE
+AKX01458AB
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+4. Connect scan tool MB991502 to the data link connector.
+5. Use Actuator test 07 to drive the fuel pump. Check that there
+is no fuel leaking from any section when the fuel pump is
+operating.
+16 PIN
+6. Stop the fuel pump.
+MB991502 7. Start the engine and run at idle.
+AKX01177AB
+TSB Revision

@@ -1,0 +1,36 @@
+EI–39
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+A
+2 CHECK HARNESS AND CONNECTOR (CERTIFICATION ECU - ID CODE BOX)
+(a) Disconnect the E58 ECU and E50 ID code box
+Wire Harness Side Connector Front View:
+connectors.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+E58
+Certification ECU
+Tester Connection Specified Condition
+E58-10 (LIN) - E50-3 (LIN1) Below 1 Ω
+E58-10 (LIN) - Body ground 10 kΩ or higher
+1 2 3 4 5 6 7 8 9 1011121314151617
+1819202122232425262728293031323334353637383940
+NG REPAIR OR REPLACE HARNESS OR
+LIN CONNECTOR
+E50
+ID Code Box
+1 2 3 4 5 6 7 8
+LIN1
+B113404E02
+OK
+3 CHECK CERTIFICATION ECU
+(a) After replacing the certification ECU with a normal one,
+check for DTCs (See page EI-24).
+EI
+Result
+Result Proceed to
+B2789 output reoccurs A
+B2789 output does not reoccur B
+B END
+A
+REPLACE ID CODE BOX

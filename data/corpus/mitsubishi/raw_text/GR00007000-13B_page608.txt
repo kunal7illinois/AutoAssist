@@ -1,0 +1,33 @@
+13B-608 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS : C-58, C-62<M/T>, CONNECTOR: A-18X
+C-55, C-59<A/T>
+MFI RELAY
+PCM<A/T> ECM<M/T>
+C-55 C-59 C-58 C-62
+AK000225AK AK101363AB
+CONNECTOR:C-89 CONNECTOR: C-111
+AK000345AE AK101421AD
+CONNECTOR:C-87 CONNECTOR: C-112
+AK000219AC AK101422AD
+CONNECTOR:C-07
+AK000312AJ
+. T> "ON" and grounds the MFI relay coil. With
+CIRCUIT OPERATION
+• Battery positive voltage is applied to the MFI this, the MFI relay turns "ON" and the battery
+positive voltage is supplied to the ECM (terminal
+relay (terminals 1, 2).
+• When the ignition switch is turned to the "ON" 47, 59) <M/T> or PCM (terminal 41, 47) <A/T>
+from the MFI relay (terminal 4).
+position, the battery positive voltage is applied to
+• Battery positive voltage is constantly supplied to
+the ECM (terminal 99) <M/T> or PCM (terminal
+the ECM (terminal 60) <M/T> or PCM (terminal
+98) <A/T>. When the battery positive voltage is
+66) <A/T> as the backup power.
+applied, the ECM <M/T> or PCM <A/T> turns the
+• The ECM (terminal 46, 58) <M/T> or PCM (termi-
+power transistor in the ECM <M/T> or PCM <A/
+nals 42, 48) <A/T> is grounded to the vehicle
+body.
+TSB Revision

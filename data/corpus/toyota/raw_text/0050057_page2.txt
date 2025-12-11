@@ -1,0 +1,58 @@
+ES–320
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Sequ
+Operations Descriptions Duration
+ence
+Vent valve turned OFF (vent) and EVAP system pressure measured by ECM in order to
+Atmospheric pressure register atmospheric pressure.
+A 10 seconds
+measurement If pressure in EVAP system not between 76 kPa-a and 110 kPa-a (570 mmHg-a and 825
+mmHg-a), ECM cancels EVAP system monitor.
+In order to determine reference pressure, leak detection pump creates negative pressure
+First reference
+B (vacuum) through reference orifice and then ECM checks if leak detection pump and vent 60 seconds
+pressure measurement
+valve operate normally.
+Vent valve turned ON (closed) to shut EVAP system.
+Negative pressure (vacuum) created in EVAP system, and EVAP system pressure then
+EVAP system pressure
+C measured. 15 minutes*
+measurement
+Write down measured value as it will be used in leak check.
+If EVAP pressure does not stabilize within 15 minutes, ECM cancels EVAP system monitor.
+Purge VSV opened and then EVAP system pressure measured by ECM.
+ES D Purge VSV monitor 10 seconds
+Large increase indicates normality.
+After second reference pressure measurement, leak check performed by comparing first and
+Second reference second reference pressure.
+E 60 seconds
+pressure measurement If stabilized system pressure higher than second reference pressure, ECM determines that
+EVAP system leaking.
+F Final check Atmospheric pressure measured and then monitoring result recorded by ECM. -
+*: If only a small amount of fuel is in the fuel tank, it takes longer for the EVAP pressure to stabilize.
+Operation B, E:
+Operation A: Atmospheric Pressure Measurement
+Reference Pressure Measurement
+Purge VSV: OFF
+Canister
+Fuel Tank
+OFF
+OFF (vent)
+Vent Valve: OFF (vent)
+Canister Pump Module
+Canister
+Canister Filter
+Pressure
+ON
+Sensor
+Leak Detection Pump: OFF Reference Orifice (0.02 Inch)
+Operation D: Purge VSV Monitor
+Operation C: EVAP System Pressure Measurement
+ON (closed)
+OFF ON
+Atmospheric ON (closed)
+Pressure
+Negative
+Pressure
+ON ON
+A112612E01

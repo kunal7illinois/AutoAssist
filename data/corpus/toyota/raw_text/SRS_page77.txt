@@ -1,0 +1,40 @@
+RS–77
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+INSPECTION PROCEDURE
+1 CHECK FRONT AIRBAG SENSOR LH
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Interchange the front airbag sensor RH with LH and
+connect the connectors to them.
+DC
+(d) Connect the negative (-) terminal cable to the battery,
+Front Airbag
+and wait for at least 2 seconds.
+Sensor RH
+(e) Turn the ignition switch on (IG), and wait for at least 60
+Center Airbag
+seconds.
+Sensor Assembly
+(f) Clear the DTCs stored in the memory (See page RS-41).
+(g) Turn the ignition switch off.
+(h) Turn the ignition switch on (IG), and wait for at least 60
+DTC 13
+seconds.
+(i) Check the DTCs (See page RS-41).
+DLC3 Result
+DTC 14 Result Proceed to
+DTC B1615/14 is output. A
+DTC B1610/13 is output. B
+CG TC
+DTC B1610/13 and B1615/14 are not output. C
+C C114793E02 HINT:
+Codes other than DTC B1610/13 and B1615/14 may be
+output at this time, but they are not related to this check.
+RS
+A REPLACE CENTER AIRBAG SENSOR
+ASSEMBLY (See page RS-441)
+B REPLACE FRONT AIRBAG SENSOR LH (See
+page RS-446)
+C
+USE SIMULATION METHOD TO CHECK (See page RS-32)

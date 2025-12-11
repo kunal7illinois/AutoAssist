@@ -1,0 +1,47 @@
+17-66 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+INSPECTION PROCEDURE 6: Auto-cruise Control cannot be Set.
+. .
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINTS
+The fail-safe function is probably cancelling auto- • Malfunction of the auto-cruise control switch.
+cruise control. • Malfunction of the auto-cruise control-ECU.
+In this case, scan tool MB991502 can be used to
+check the trouble symptoms in each system by
+checking the diagnostic trouble codes.
+The scan tool can also be used to check if the cir-
+cuits of each input switch are normal or not by check-
+ing the input switch codes.
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991223: Harness Set
+STEP 1. Can the auto-cruise control-ECU communicate
+with scan tool MB991502?
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Using scan tool MB991502.
+(2) Connect scan tool MB991502 to the data link connector.
+(3) Turn the ignition switch to the "ON" position.
+Q:Can the auto-cruise control-ECU communicate with the
+16 PIN scan tool?
+YES : Go to Step 2.
+MB991502
+AC001252AB NO : Inspect each trouble symptom.
+(Refer to Inspection Procedure number 1 P.17-44.)
+STEP 2. Is any diagnostic trouble code output?
+Q:Is any diagnostic trouble code output?
+YES : Diagnostic trouble code number 11, 12, 14, 15, 16 or
+17 is output, refer to the following.
+(Code number 11 P.17-12.)
+(Code number 12 P.17-17.) <M/T>
+(Code number 12 P.17-20.) <A/T>
+(Code number 14 P.17-23.)
+(Code number 15 P.17-32.)
+(Code number 16 P.17-39.)
+(Code number 17 P.17-39.)
+Then check that the malfunction is eliminated.
+NO : Go to Step 3.
+TSB Revision

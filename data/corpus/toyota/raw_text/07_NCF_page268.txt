@@ -1,0 +1,43 @@
+CH-104 CHASSIS - BRAKE
+2. System Diagram
+(cid:1) TMC Models (cid:2)
+Brake Actuator
+Solenoid Relay
+Master Cylinder Cut
+Solenoid Valve (2)
+Speed Sensor (4)
+Solenoid Valve (8)
+Stop Light Switch
+Master Cylinder
+Pressure Sensor
+Skid
+VSC Warning Buzzer Control Pump Motor
+ECU
+Combination Meter
+Motor Relay
+Speedometer
+Motor Cut Relay
+DLC3 From Battery
+Yaw Rate &
+Deceleration Sensor
+Parking Brake Switch Steering
+Angle Sensor
+Main Body ECU
+CAN (CAN No.1 Bus)
+Combination Meter
+Crankshaft
+Position Sensor Throttle Body
+ABS Warning Light
+Slip Indicator Light
+Accelerator Pedal Throttle Position Sensor
+ECM
+Position Sensor
+Brake System Warning Light
+Throttle Control Motor
+VSC Warning Light*1
+Park/Neutral
+Position Switch Master Warning Light*2
+Multi-information Display*2
+*1: LE and SE grade models
+*2: XLE grade models
+025CH39P

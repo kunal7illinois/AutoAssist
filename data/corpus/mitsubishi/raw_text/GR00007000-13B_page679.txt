@@ -1,0 +1,55 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-679
+ON-VEHICLE SERVICE
+BASIC IDLE SPEED ADJUSTMENT
+M1131001800208
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+NOTE: The standard idling speed has been adjusted with the
+speed adjusting screw (SAS), by the manufacturer. There
+should be no need for readjustment.
+NOTE: If the adjustment has been changed by mistake, the idle
+speed may become too high or the idle speed may drop too low
+when loads A/C, defogger, etc. are placed on the engine. If this
+occurs, adjust by the following procedure.
+NOTE: The adjustment, if made, should be made after first con-
+firming that the spark plugs, the injectors, the idle air control
+motor, compression, etc., are all normal.
+1. The vehicle should be prepared as follows before the
+inspection and adjustment.
+• Engine coolant temperature: 80 − 95°C (176 − 203°F)
+• Lights, electric cooling fan and accessories: OFF
+• Transaxle: Neutral ("P" range on vehicle with A/T)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+2. Connect scan tool MB991502 to the data link connector (16-
+pin).
+3. Start the engine and run at idle.
+4. Select the item number 30 of the scan tool Actuator test.
+16 PIN
+NOTE: Use the scan tool to hold the IAC motor at the basic
+MB991502 step to adjust the basic idle speed.
+AKX01177AB
+5. Check the idle speed.
+NOTE: The engine speed may be 20 to 100 r/min lower than
+indicated above for a new vehicle [driven approximately 500
+km (300 mile) or less], but no adjustment is necessary.
+NOTE: If the engine stalls or the engine speed is low even
+though the vehicle has been driven approximately 500 km
+(300 mile) or more, it is probable that deposits are adhered
+to the throttle valve, so clean it. (Refer to P.13B-677 .)
+Standard value: 700 + 50 r/min
+6. If not within the standard value range, turn the speed
+adjusting screw (SAS) to make the necessary adjustment.
+7. Press the scan tool clear key, and release the IAC motor
+Actuator test mode.
+SPEED ADJUSTING SCREW
+8. Turn the ignition switch to the "LOCK" (OFF) position.
+NOTE: Unless the IAC motor is released, the Actuator test
+mode will continue for 27 minutes.
+9. Disconnect scan tool MB991502.
+10.Start the engine again and let it idle for about 10 minutes.
+AK000115AB
+Check that the idling condition is normal.
+TSB Revision

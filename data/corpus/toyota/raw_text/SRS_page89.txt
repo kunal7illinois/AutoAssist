@@ -1,0 +1,39 @@
+RS–89
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+OK:
+The connector is properly connected.
+NG CONNECT CONNECTOR PROPERLY
+OK
+12 CHECK CONNECTOR
+(a) Disconnect the connectors from the side airbag sensor
+LH and rear airbag sensor LH.
+(b) Check that the connector (on the rear airbag sensor LH
+side) is not damaged.
+OK:
+The connector is not deformed or damaged.
+NG REPAIR OR REPLACE FLOOR WIRE
+OK
+13 CHECK FLOOR WIRE (OPEN)
+(a) Using a service wire, connect terminals 2 (BCL+) and 1
+Floor Wire
+(BCL-) of connector C.
+NOTICE:
+Do not forcibly insert a service wire into the
+D A
+terminals of the connector when connecting.
+C B
+(b) Measure the resistance according to the value(s) in the
+Rear Airbag Side Airbag
+table below. RS
+Sensor LH Sensor LH
+Standard resistance
+Tester connection Condition Specified condition
+N7-1 (BCL+) - N7-2
+Always Below 1 Ω
+Connector C Connector B (BCL-)
+N12 N7 NG REPAIR OR REPLACE FLOOR WIRE
+4321
+BCL- BCL+
+Service Wire BCL- BCL+
+C123725E01
+OK

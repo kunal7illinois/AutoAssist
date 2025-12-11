@@ -1,0 +1,46 @@
+EG-66 ENGINE - 2AZ-FE ENGINE
+3) EVAP Leak Check
+a. General
+The EVAP leak check operates in accordance with the following timing chart:
+(cid:1) Timing Chart (cid:2)
+ON (Open)
+Purge VSV
+OFF (Close)
+ON
+Vent Valve
+OFF (Vent)
+ON
+Pump Motor
+OFF
+Atmospheric Pressure
+System Pressure
+0.02 in. Pressure
+1) 2) 3) 4) 5) 6)
+060XA19C
+Order Operation Description Time
+Atmospheric The ECM turns the vent valve OFF (vent) and measures
+1) Pressure EVAP system pressure to memorize the atmospheric —
+Measurement pressure.
+0.02 in. Leak The leak detection pump creates negative pressure (vacuum)
+2) Pressure through a 0.02 in. orifice and the pressure is measured. The 20 sec.
+Measurement ECM determines this as the 0.02 in. leak pressure.
+The leak detection pump creates negative pressure (vacuum)
+in the EVAP system and the EVAP system pressure is
+measured. If the stabilized pressure is larger than the 0.02 in.
+EVAP Leak Within
+3) leak pressure, ECM determines that the EVAP system has a
+Check 15 min.
+leak.
+If the EVAP pressure does not stabilize within 15 minutes,
+the ECM cancels EVAP monitor.
+The ECM opens the purge VSV and measures the EVAP
+Purge VSV
+4) pressure increase. If the increase is large, the ECM interprets 10 sec.
+Monitor
+this as normal.
+Repeat 0.02 in. The leak detection pump creates negative pressure (vacuum)
+5) Leak Pressure through the 0.02 in. orifice and the pressure is measured. The 20 sec.
+Measurement ECM determines this as the 0.02 in. leak pressure.
+The ECM measures the atmospheric pressure and records the
+6) Final Check —
+monitor result.

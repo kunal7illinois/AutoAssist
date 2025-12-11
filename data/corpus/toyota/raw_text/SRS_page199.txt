@@ -1,0 +1,56 @@
+RS–199
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Short in Driver Side Curtain Shield Squib Cir-
+DTC B1830/57
+cuit
+Open in Driver Side Curtain Shield Squib Cir-
+DTC B1831/57
+cuit
+Short to GND in Driver Side Curtain Shield
+DTC B1832/57
+Squib Circuit
+Short to B+ in Driver Side Curtain Shield Squib
+DTC B1833/57
+Circuit
+DESCRIPTION
+The driver side curtain shield squib circuit consists of the center airbag sensor assembly and the curtain
+shield airbag assembly LH.
+The circuit instructs the SRS to deploy when deployment conditions are met.
+These DTCs are recorded when a malfunction is detected in the driver side curtain shield squib circuit.
+DTC No. DTC Detection Condition Trouble Area
+• The center airbag sensor assembly receives a line
+• Floor wire
+short circuit signal 5 times in the driver side curtain
+• Curtain shield airbag assembly LH (Driver side
+B1830/57 shield squib circuit during primary check.
+curtain shield squib)
+• Driver side curtain shield squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives an
+• Floor wire
+open circuit signal in the driver side curtain shield
+• Curtain shield airbag assembly LH (Driver side
+B1831/57 squib circuit for 2 seconds. RS
+curtain shield squib)
+• Driver side curtain shield squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives a
+• Floor wire
+short circuit to ground signal in the driver side
+• Curtain shield airbag assembly LH (Driver side
+B1832/57 curtain shield squib circuit for 0.5 seconds.
+curtain shield squib)
+• Driver side curtain shield squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives a
+• Floor wire
+short circuit to B+ signal in the driver side curtain
+• Curtain shield airbag assembly LH (Driver side
+B1833/57 shield squib circuit for 0.5 seconds.
+curtain shield squib)
+• Driver side curtain shield squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction

@@ -1,0 +1,54 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-25
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+NOTE: .
+Do not replace the engine control module (ECM) <M/T> or powertrain control module (PCM) <A/T> until a
+through terminal check reveals there are no short/open circuits.
+Check that the ECM <M/T> or PCM <A/T> ground circuit is normal before checking for the cause of the prob-
+lem.
+After the ECM <M/T> or PCM <A/T> detects a malfunction, a diagnostic trouble code is recorded the next
+time the engine is started and the same malfunction is re-detected. However, for items marked with a "*",
+the diagnostic trouble code is recorded on the first detection of the malfunction.
+Sensor 1 indicates the sensor mounted at a position closest to the engine, and sensor 2 indicates the sensor
+mounted at the position second closest to the engine.
+SYMPTOM CHART
+M1131151500168
+.
+NOTE: Check that the engine control module (ECM) <M/T> or powertrain control module (PCM) <A/T>
+ground circuit is normal before checking for the cause of the problem.
+SYMPTOMS INSPECTION REFERENCE
+PROCEDURE PAGE
+Communication Communication with all systems is not possible 1 P.13A-434
+with scan tool is
+Communication with ECM <M/T> or PCM <A/T> only 2 P.13A-436
+impossible
+is not possible
+Service engine The service engine soon/malfunction indicator lamp 3 P.13A-439
+soon/ does not illuminate right after the ignition switch is
+malfunction turned to the "ON" position
+indicator lamp
+The service engine soon/malfunction indicator lamp 4 P.13A-444
+and related
+remains illuminated and never goes out
+parts
+Starting Cranks, won’t start 5 P.13A-446
+Starts up and dies 6 P.13A-450
+Hard starting 7 P.13A-454
+Idling stability Unstable idle (rough idle, hunting) 8 P.13A-458
+(improper
+Idle speed is high (improper idle speed) 9 P.13A-462
+idling)
+Idle speed is low (improper idle speed) 10 P.13A-464
+Idling stability When the engine is cold, it stalls at idle (die out) 11 P.13A-465
+(engine stalls)
+When the engine is hot, it stalls at idle (die out) 12 P.13A-468
+The engine stalls when accelerating (pass out) 13 P.13A-473
+The engine stalls when decelerating 14 P.13A-474
+Driving Hesitation, sag or stumble 15 P.13A-475
+Acceleration shock 16 P.13A-478
+Deceleration shock 17 P.13A-479
+Poor acceleration 18 P.13A-480
+Surge 19 P.13A-483
+Knocking 20 P.13A-486
+Dieseling (Run-on) 21 P.13A-487
+Too high CO and HC concentration when idling 22 P.13A-487
+TSB Revision

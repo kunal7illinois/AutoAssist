@@ -1,0 +1,33 @@
+B HOW TO USE THIS MANUAL
+[O] System Outline
+Current is applied at all times through the STOP fuse to TERMINAL 2 of the stop lamp SW.
+When the ignition SW is turned on, current flows from the GAUGE fuse to TERMINAL 8 of the light failure sensor, and also flows
+through the rear lights warning light to TERMINAL 4 of the light failure sensor.
+Stop Light Disconnection Warning
+When the ignition SW is turned on and the brake pedal is pressed (Stop lamp SW on), if the stop light circuit is open, the current
+flowing from TERMINAL 7 of the light failure sensor to TERMINALS 1, 2 changes, so the light failure sensor detects the
+disconnection and the warning circuit of the light failure sensor is activated.
+As a result, the current flows from TERMINAL 4 of the light failure sensor to TERMINAL 11 to GROUND and turns the rear lights
+warning light on. By pressing the brake pedal, the current flowing to TERMINAL 8 of the light failure sensor keeps the warning
+circuit on and holds the warning light on until the ignition SW is turned off.
+[P] : Parts Location
+Code See Page Code See Page Code See Page
+H4 36 H7 36 H17 38
+H6 36 H9 38 J7 38
+[Q] : Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 18 R/B No.1 (Instrument Panel Brace LH)
+[R] : Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+3C 22 Instrument Panel Wire and J/B No.3 (Instrument Panel Brace LH)
+IB 20 Instrument Panel Wire and Instrument Panel J/B (Lower Finish Panel)
+[S] : Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+CH1 42 Engine Room Main Wire and Instrument Panel Wire (Left Kick Panel)
+HJ1 50 Instrument Panel Wire and Floor Wire (Right Kick Panel)
+[T] : Ground Points
+Code See Page Ground Points Location
+H1 50 Under the Left Center Pillar
+H2 50 Back Panel Center
+6
+CAMRY (EM0250U)

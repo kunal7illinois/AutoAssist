@@ -1,0 +1,44 @@
+ST–76
+2GR-FE STARTING – SMART KEY SYSTEM
+HINT:
+Before performing the inspection, depress the brake pedal and check that the stop lights come on. If the
+stop lights do not come on when the brake pedal is depressed, refer to the page shown in the brackets
+(See page LI-12).
+1 READ VALUE OF INTELLIGENT TESTER (STOP LIGHT SWITCH)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the engine switch on (IG).
+(c) Check the DATA LIST for proper functioning of the stop
+light switch.
+MAIN BODY:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Brake pedal depressed
+STOP LAMP SW Stop light switch / ON or OFF -
+OFF: Brake pedal released
+OK:
+ON (brake pedal depressed) and OFF (brake pedal
+released) appear on the screen.
+NG Go to step 4
+OK
+2 CHECK DTC OUTPUT (CAN COMMUNICATION SYSTEM)
+(a) Delete the DTCs (See page ST-26).
+(b) Check for CAN communication system DTCs (See page
+CA-31).
+HINT:
+If the DTCs for the CAN communication system
+malfunction are output, inspect those DTCs first (See
+page CA-31).
+OK:
+No DTC is output.
+NG GO TO CAN COMMUNICATION SYSTEM
+OK
+3 CHECK DTC OUTPUT (ENGINE CONTROL SYSTEM)
+(a) Delete the DTCs (See page ST-26).
+(b) Check for DTC P0500 and P0503 (See page ES-63).
+OK:
+ST
+No DTC is output.
+NG GO TO ENGINE CONTROL SYSTEM
+OK
+REPLACE MAIN BODY ECU

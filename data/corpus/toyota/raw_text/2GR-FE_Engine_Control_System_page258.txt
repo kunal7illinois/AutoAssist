@@ -1,0 +1,46 @@
+ES–258
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+TYPICAL ENABLING CONDITIONS
+P0011, 14 (VVT System 1 - Advance)
+P0012, 15 (VVT System 1 - Retard)
+P0031, 32, 51, 52 (A/F Sensor heater - Sensor 1)
+P0037, 38, 58, 59 (O2 Sensor heater - Sensor 2)
+P0100 - P0103 (MAF meter)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+P0125 (Insufficient ECT for Closed Loop)
+Monitor runs whenever following DTCs are not present P0136, P0156(O2 Sensor - Sensor 2)
+P0171, P0172, P0174, P0175 (Fuel system)
+P0300 - P0304 (Misfire)
+P0335 (CKP sensor)
+P0340 (CMP sensor)
+P0351 - P0354 (Igniter)
+P0500 (VSS)
+P2196, P2198 (A/F Sensor - rationality)
+P2A00, P2A03 (A/F Sensor - slow response)
+ES
+Battery voltage 11 V or more
+IAT -10°C (14°F) or more
+ECT 70 kPa (525 mmHg) or more
+Atmospheric pressure -
+Idle OFF
+Engine RPM Less than 3,200 rpm
+A/F sensor Activated
+Fuel system status Closed loop
+Engine load 10 to 70 %
+All of the following conditions 1, 2 and 3 are met: -
+1. MAF 5 to 25 g/sec.
+2. Front catalyst temperature (estimated) 600 to 750°C (1,112 to 1,382°F)
+3. Rear catalyst temperature (estimated) 100 to 900°C (212 to 1,652°F)
+EVAP system monitor The monitor has not run yet or the vacuum introduction has been completed.
+A/F sensor monitor Completed
+Rear HO2S monitor Completed
+Shift position 4th or higher
+TYPICAL MALFUNCTION THRESHOLDS
+OSC (Oxygen Storage Capacity) of Catalyst Less than 0.046 g
+MONITOR RESULT
+Refer to CHECKING MONITOR STATUS (See page ES-25).
+CONDITIONING FOR SENSOR TESTING
+Perform the operation with the engine speeds and time durations described below prior to checking the
+waveforms of the A/F and HO2 sensors. This is performed in order to heat the sensors sufficiently to
+obtain the appropriate inspection results.

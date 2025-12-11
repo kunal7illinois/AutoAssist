@@ -1,0 +1,56 @@
+Audi TT No. 28 / 2
+Current Flow Diagram
+Preparation for mobile telephone
+J401 Navigation system with CD drive control unit
+J503 Control unit with display for radio and navigation system
+J519 Onboard supply control unit
+J681 Terminal 15 voltage supply relay 2
+R Radio
+SC47 Fuse 47 on fuse holder C
+SC48 Fuse 48 on fuse holder C
+SD3 Fuse 3 on fuse holder D
+T2t 2-pin connector, connector L, on onboard supply control unit
+B300 B163 T12g 12-pin connector, green, radio connector C
+T18b 18-pin connector, black, behind the glove box
+10,0 4,0 ♦ 4,0 ♦♦ 380 Earth connection 15, in main wiring harness
+ro sw sw
+T2t/2 8/87 610 Earth point (audio), under centre console, front
+B299 J519 J681
+✱✱
+16,0 2,5 1,0 B163 Positive connection 1 (15), in interior wiring harness
+ro ro sw
+E1 47 48 B299 Positive connection 3 (30), in main wiring harness
+SD3 SC47 SC48
+5A 5A
+110A
+✱ 47a 48a T18b/1 T18b/7 T18b/16 B300 Positive connection 4 (30), in main wiring harness
+31
+0,5 0,5 0,5 0,5 0,5 B318 Positive connection 4 (30a), in main wiring harness
+ro/ws ro/gn br sw gn
+* main fuse box, in luggage compartment, rear right, on the battery
+** Relay carrier on onboard power supply control unit
+T12g/6 T12g/12 # models with radio
+B318
+# R # R ## models with navigation system RNS-low (7Q9)
+##J503 ##J503 ### models with navigation system RNS-E (7Q2)
+### J401 ### J401 ♦ up to May 2009
+♦♦ from June 2009
+0,5
+ro/ws
+30 15
+T18b/11 T18b/10
+380
+ws = white
+sw = black
+ro = red
+2,5 br = brown
+br
+gn = green
+bl = blue
+gr = grey
+610 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-028020409
+rs = pink
+Edition 04.2009

@@ -1,0 +1,63 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-43
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+• A 5-volt voltage is supplied to the barometric Check Conditions
+pressure sensor power terminal (terminal 1) from • Barometric pressure is lower than 76 kPa (11
+the ECM (terminal 42) <M/T> or PCM (terminal psi).
+46) <A/T>. The ground terminal (terminal 5) is
+Judgement Criteria
+grounded with ECM (terminal 34) <M/T> or PCM
+• During 15 times of driving, the changes in the
+(terminal 16) <A/T>.
+sensor output voltage should be 0.015 volt
+• A voltage that is proportional to the atmospheric
+[equivalent to 0.4 kPa (0.06 psi)] or less.
+pressure is sent to the ECM (terminal 51) <M/T>
+• Make sure that the engine coolant temperature is
+or PCM (terminal 55) <A/T> from the barometric
+72°C (162°F) or higher during each of the 15
+pressure sensor output terminal (terminal 2).
+times of driving. Also, during each of the 15 times
+of driving, make sure that after the engine has
+.
+TECHNICAL DESCRIPTION
+been started, the engine coolant temperature has
+• The barometric pressure sensor outputs a volt- increased for 23°C (41°F) or higher.
+age which corresponds to the barometric pres-
+sure. .
+TROUBLESHOOTING HINTS (The most likely
+• The ECM <M/T> or PCM <A/T> checks whether
+causes for this code to be set are:)
+this voltage is within a specified range.
+• Barometric pressure sensor failed.
+• Open or shorted barometric pressure sensor cir-
+.
+cuit, or loose connector.
+• ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC P0107 is output?
+MB991502 YES : Refer to, DTC P0107 − Barometric Pressure Circuit
+AKX01177AB Low Input P.13B-46.
+NO : Go to Step 2.
+STEP 2. Check connector B-14 at the barometric pressure
+sensor for damage.
+Q:Is the connector in good condition?
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 9.
+TSB Revision

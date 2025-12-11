@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+Terminal No. 16 And Body Ground
+Is the voltage between 9.20-17.4 V?
+YES -Check for loose terminals in the EPS control unit connectors and repair
+if necessary. If no poor connections are found, replace the EPS control unit
+(see EPS CONTROL UNIT REMOVAL/INSTALLATION ).
+NO -If there is no voltage, or the voltage is lower than specified, repair an open
+or high resistance in the wire between the No. 4 (7.5 A) fuse in the under-dash
+fuse/relay box and EPS control unit. If the wire checks OK, check the battery
+(see BATTERY TEST ), and troubleshoot the alternator regulator circuit (see
+ALTERNATOR AND REGULATOR CIRCUIT
+TROUBLESHOOTING ).
+DTC 12-01: LOW/HIGH VBU VOLTAGE (REGULAR DIAGNOSIS)
+1. Turn the ignition switch to LOCK (0).
+2. Connect the HDS to the data link connector (DLC).
+3. Turn the ignition switch ON (II).
+4. Check the BATTERY in the DATA LIST with the HDS.
+Is the voltage at 9.2-17.4 V?
+YES -Check for loose wires or poor connections. If the connections are good,
+the system is OK at this time.
+NO -Go to step 5.
+5. Turn the ignition switch to LOCK (0).
+6. Check the No. 1 (70 A) fuse in the under-hood fuse/relay box.
+Is the fuse OK?
+YES -Reinstall the fuse, and go to step 7.
+NO-Replace the fuse, and recheck. If the fuse is blown, check for a short to

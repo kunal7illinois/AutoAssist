@@ -1,0 +1,25 @@
+BE-176 BODY ELECTRICAL - SLIDING ROOF SYSTEM
+2. Jam Protection Function
+(cid:3) The Hall IC converts the changes in the magnetic flux that occur due to the rotation of the worm gear into
+pulse signals and outputs them to the ECU.
+Sliding Roof
+Motor
+Hall IC
+Sliding Roof ECU
+Sliding Roof Motor Assembly 01YBE140Y
+(cid:3) To control the jam protection function, the ECU monitors the amount of movement and judges jamming
+of the moon roof based on the pulse signals from the Hall IC1, and the moving direction of the moon roof
+from the phase difference between the pulsed from the Hall IC1 and Hall IC2.
+(cid:1) Monitoring Amount of Movement Judgment of Jamming (cid:2)
+Hall IC1
+Signal
+1 Motor Revolution 1 Motor Revolution
+Normal Jammed
+232BE34
+(cid:1) Judgment of Movement Direction (cid:2)
+Hall IC1
+Signal
+Hall IC2
+Signal
+OPEN/TILT UP CLOSE/TILT DOWN
+232BE35

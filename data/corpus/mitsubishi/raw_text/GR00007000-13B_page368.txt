@@ -1,0 +1,48 @@
+13B-368 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR : C-51<M/T>, C-52<A/T> CONNECTOR: A-18X
+MFI RELAY
+PCM<A/T> ECM<M/T>
+C-52 C-51
+AK000225AJ AK101363AB
+. Judgment Criteria
+CIRCUIT OPERATION
+• Power to the evaporative emission purge sole- • The evaporative emission purge solenoid coil
+surge voltage (battery positive voltage + 2 volts)
+noid power is supplied from the MFI relay (termi-
+is not detected for 0.2 second.
+nal 4).
+• The ECM <M/T> or PCM <A/T> controls ground • The ECM <M/T> or PCM <A/T> monitors for this
+condition once during the drive cycle.
+evaporative emission purge solenoid by turning
+the power transistor in the ECM <M/T> or PCM Check Conditions
+<A/T> "ON" and "OFF". • Battery positive voltage is at between 10 and 16
+volts.
+. TECHNICAL DESCRIPTION • ON duty cycle of the evaporative emission purge
+• To judge if there is open circuit in the evaporative solenoid is between 10 and 90 percent.
+emission purge solenoid drive circuit, ECM <M/ • ON duty cycle of the EGR solenoid is 0 percent.
+T> or PCM <A/T> measures the surge voltage of • Evaporative emission ventilation solenoid is OFF.
+the evaporative emission purge solenoid coil. • More than 1 second has elapsed after the above
+• The ECM <M/T> or PCM <A/T> drives the evapo- mentioned conditions have been met.
+rative emission purge solenoid. After the solenoid
+Judgment Criteria
+is turned off, the ECM <M/T> or PCM <A/T> will • The evaporative emission purge solenoid coil
+check if the solenoid coil produces a surge volt-
+surge voltage (battery positive voltage + 2 volts)
+age of 2 V or more.
+is not detected for 1 second. When the evapora-
+tive emission purge solenoid is turned OFF.
+.
+DTC SET CONDITIONS
+.
+Check Conditions TROUBLESHOOTING HINTS (The most likely
+• Engine is being cranked. causes for this code to be set are:)
+• Battery positive voltage is at between 10 and 16 • Evaporative emission purge solenoid failed.
+volts. • Open or shorted evaporative emission purge
+solenoid circuit, or loose connector.
+• ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

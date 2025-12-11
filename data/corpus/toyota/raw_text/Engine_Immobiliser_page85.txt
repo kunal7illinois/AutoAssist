@@ -1,0 +1,40 @@
+EI–81
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+3 INSPECT TRANSPONDER KEY ECU ASSEMBLY (TRANSPONDER KEY AMPLIFIER
+POWER SOURCE)
+(a) Reconnect the E15 ECU and E25 amplifier connectors.
+Wire Harness Side Connector Rear View:
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+E15
+Transponder Key ECU Assembly Tester Connection Condition Specified Condition
+No key is in ignition key
+Below 1 V
+E15-14 (VC5) - Body cylinder
+ground Key is in ignition key
+4.6 to 5.4 V
+cylinder
+NG REPLACE TRANSPONDER KEY ECU
+ASSEMBLY
+VC5
+B128338E01
+OK
+4 INSPECT TRANSPONDER KEY ECU ASSEMBLY (TRANSPONDER KEY AMPLIFIER
+GROUND)
+(a) Measure the resistance according to the value(s) in the
+Wire Harness Side Connector Rear View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E15
+Transponder Key ECU Assembly E15-5 (AGND) - Body
+Always Below 1 Ω
+ground
+EI
+NG REPLACE TRANSPONDER KEY ECU
+ASSEMBLY
+AGND
+B128338E02
+OK
+REPLACE TRANSPONDER KEY AMPLIFIER

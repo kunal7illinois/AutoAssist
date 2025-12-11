@@ -1,0 +1,44 @@
+AC–59
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+2 INSPECT AIR CONDITIONING HARNESS
+(a) Remove the air conditioning harness (evaporator
+Air Conditioning Harness: temperature sensor).
+(b) Measure the resistance according to the value(s) in the
+(A/C Evaporator Temperature Sensor)
+table below.
+Standard resistance
+Sensor Area
+Tester Connection Condition Specified Condition
+e1-5 - e1-6 -10°C (14°F) 7.30 to 9.10 kΩ
+e1-5 - e1-6 -5°C (23°F) 5.65 to 6.95 kΩ
+e1-5 - e1-6 0°C (32°F) 4.40 to 5.35 kΩ
+e1 e1-5 - e1-6 5°C (41°F) 3.40 to 4.15 kΩ
+e1-5 - e1-6 10°C (50°F) 2.70 to 3.25 kΩ
+e1-5 - e1-6 15°C (59°F) 2.14 to 2.58 kΩ
+e1-5 - e1-6 20°C (68°F) 1.71 to 2.05 kΩ
+e1-5 - e1-6 25°C (77°F) 1.38 to 1.64 kΩ
+e1-5 - e1-6 30°C (86°F) 1.11 to 1.32 kΩ
+Resistance (kΩ)
+NOTICE:
+10.0
+• Even slightly touching the sensor may change the
+9.0
+resistance value. Be sure to hold the connector of
+8.0
+the sensor.
+7.0
+• When measuring, the sensor temperature must be
+6.0
+5.0 the same as the ambient temperature.
+4.0 HINT:
+AC
+3.0 As the temperature increases, the resistance decreases
+2.0 (see the graph).
+1.0
+0.0 NG REPLACE AIR CONDITIONING HARNESS
+-10 0 10 20 30(°C)
+14 32 50 68 86(°F)
+Temperature
+E124474E01
+OK
+REPLACE AIR CONDITIONING AMPLIFIER

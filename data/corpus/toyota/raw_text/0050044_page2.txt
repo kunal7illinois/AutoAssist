@@ -1,0 +1,32 @@
+ES–257
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+ECM CPU malfunction (P0607):
+Either A or B met -
+A. All of following conditions (a), (b) and (c) met -
+(a) CPU reset 1 time or more
+(b) Learned TP - learned APP 0.4 V or more
+(c) Electronic throttle actuator OFF
+B. CPU reset 2 times or more
+ETCS power supply (P0657):
+ETCS power supply when ignition switch turned ON 7 V or more
+INSPECTION PROCEDURE
+ES
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P0604, P0606, P0607 or
+P0657)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(e) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+P0604, P0606, P0607 or P0657 A
+P0604, P0606, P0607 or P0657 and other DTCs B
+B GO TO DTC CHART
+A
+REPLACE ECM

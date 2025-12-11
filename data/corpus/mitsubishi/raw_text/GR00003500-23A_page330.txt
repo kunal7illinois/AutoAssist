@@ -1,0 +1,50 @@
+23A-330 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+TERMINAL INSPECTION ITEMS INSPECTION REQUIREMENT NORMAL CONDITION
+NO.
+101 Park/Neutral position • Ignition switch: LOCK (OFF) 0 V
+switch: P • Selector lever position: P
+• Ignition switch: LOCK (OFF) Battery positive voltage
+• Selector lever position: Other than
+above
+102 Park/Neutral position • Ignition switch: LOCK (OFF) 0 V
+switch: D • Selector lever position: D
+• Ignition switch: LOCK (OFF) Battery positive voltage
+• Selector lever position: Other than
+above
+103 Input shaft speed • Measure between terminals 57 and Refer to P.23A-333,
+sensor 103 with an oscilloscope. Inspection Procedure
+• Engine: 2,000 r/min Using an Oscilloscope.
+• Selector lever position: 3 (3rd gear)
+<Vehicles without sport mode>, Sport
+mode (3rd gear) <Vehicle with sport
+mode>
+104 Output shaft speed • Measure between terminals 57 and Refer to P.23A-333,
+sensor 104 with an oscilloscope. Inspection Procedure
+• Engine: 2,000 r/min Using an Oscilloscope.
+• Selector lever position: 3 (3rd gear)
+<Vehicles without sport mode>, Sport
+mode (3rd gear) <Vehicle with sport
+mode>
+105 Shift indicator light: 1st • Engine: Idling Battery positive voltage
+<Vehicles with sport • Gear range: 1st gear
+mode> • Engine: Idling 0 − 0.9 V
+• Gear range: other than 1st gear
+106 Second solenoid valve • Engine: Idling Battery positive voltage
+• Selector lever position: 2 (2nd gear)
+<Vehicles without sport mode>, Sport
+mode (2nd gear) <Vehicles with sport
+mode>
+• Engine: Idling 7 − 9 V
+• Selector lever position: P
+107 Torque converter clutch • Engine: Idling Battery positive voltage
+solenoid valve • Selector lever position: L (1st gear)
+<Vehicles without sport mode>, Sport
+mode (1st gear) <Vehicles with sport
+mode>
+108 Park/Neutral position • Ignition switch: ON 0 V
+switch: R • Selector lever position: R
+• Ignition switch: ON Battery positive voltage
+• Selector lever position: Other than
+above
+TSB Revision

@@ -1,0 +1,46 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-351
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Using scan tool MB991502, check solenoid for
+clogging of the purge control.
+(1) Disconnect hoses A and B from the evaporative emission
+THROTTLE
+BODY purge solenoid side, and connect the hand vacuum pump to
+HOSE A the evaporative emission purge solenoid instead of hose B.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to actuator test mode for item 08:
+Evaporative Emission Purge Solenoid. When the
+evaporative emission purge solenoid is operated, apply a
+HOSE B
+pressure on the hand vacuum pump and confirm that air is
+blown from the other side nipple.
+(4) Turn the ignition switch to the "LOCK" (OFF) position. Then
+AC000223AG
+disconnect scan tool MB991502.
+EVAPORATIVE EMISSION (5) Disconnect the hand vacuum pump, and connect hoses A
+PURGE SOLENOID
+and B to the evaporative emission purge solenoid.
+Q:Is the solenoid in good condition?
+YES : Go to Step 3.
+NO : Replace the evaporative emission purge solenoid.
+Then go to Step 27.
+AC000182AB
+STEP 3. Check for leaks and clogging in the evaporator
+line hose A to hose C.
+Q:Are the hoses in good condition?
+THROTTLE
+BODY YES : Go to Step 4.
+HOSE A NO : Replace the inferior hose. Then go to Step 27.
+HOSE B
+HOSE C
+AC000223AE
+STEP 4. Check for leaks and clogging in the chamber.
+(1) When you blow the chamber, it should pass less air.
+THROTTLE
+BODY (2) When you blow the chamber, on air should leak from the
+chamber body.
+Q:Is the chamber in good condition?
+CHAMBER
+YES : Go to Step 5.
+NO : Replace the chamber. Then go to Step 27.
+AC000223AF
+TSB Revision

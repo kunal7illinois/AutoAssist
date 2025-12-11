@@ -1,0 +1,34 @@
+DL–170
+DOOR LOCK – SMART KEY SYSTEM
+INSPECTION PROCEDURE
+1 CHECK HARNESS AND CONNECTOR (CERTIFICATION ECU - DOOR CONTROL
+RECEIVER)
+(a) Disconnect the E58 ECU connector.
+Certification ECU: (b) Disconnect the O18 receiver connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection (Symbols) Condition Specified Condition
+E58 E58-37 (ASEL) - O18-4
+Always Below 1 Ω
+(ASEL)
+E58-39 (RSSI) - O18-5 (RSSI) Always Below 1 Ω
+E58-38 (RDA) - O18-3 (DATA) Always Below 1 Ω
+E58-29 (RC0) - O18-2 (+5) Always Below 1 Ω
+E58-37 (ASEL) - Body ground Always 10 kΩ or higher
+E58-39 (RSSI) - Body ground Always 10 kΩ or higher
+RC0
+RSSI
+ASEL E58-38 (RDA) - Body ground Always 10 kΩ or higher
+RDA
+E58-29 (RC0) - Body ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Door Control Receiver:
+O18
+DATA +5
+ASEL
+RSSI
+B137962E01
+OK
+DL

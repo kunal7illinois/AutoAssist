@@ -1,0 +1,32 @@
+ES–255
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 CHECK VVT SENSOR FOR EXHAUST CAMSHAFT (SENSOR INSTALLATION)
+(a) Check the VVT sensor installation condition.
+OK:
+Sensor is installed correctly.
+NG REPAIR OR REPLACE VVT SENSOR
+Clearance
+Normal Abnormal ES
+BR03795E18
+OK
+4 CHECK EXHAUST CAMSHAFT
+(a) Check the teeth of the camshaft.
+NG REPLACE EXHAUST CAMSHAFT
+OK
+5 REPLACE VVT SENSOR
+NEXT
+6 CHECK WHETHER DTC OUTPUT RECURS
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the intelligent tester on.
+(d) Clear the DTCs (See page ES-45).
+(e) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / PENDING CODES.
+(f) Read the DTCs.
+Result
+Display (DTC Output) Proceed to
+No output A
+P0365, P0352, P0353, P0354, P0355 or P0356 B
+HINT:
+If the engine does not start, replace the ECM.
+B REPLACE ECM (See page ES-518)

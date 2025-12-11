@@ -1,0 +1,26 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-465
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal (by using the Pulse check).
+Check the input signals from the transmitter "PANIC" switch:
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Operate the MUT-II according to the procedure below to
+display "PULSE CHECK."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+(3) Check that scan tool MB991502 sounds.
+16 PIN
+Q:Does scan tool MB991502 sound when the transmitter
+"PANIC" switch is operated?
+MB991502
+AC001252AD
+YES : Replace the ETACS-ECU. Check that the panic alarm
+works normally.
+NO : Refer to Inspection Procedure P-13 "The ETACS-
+ECU does not receive signal from lock, unlock, trunk
+or panic switch P.54B-609.
+TSB Revision

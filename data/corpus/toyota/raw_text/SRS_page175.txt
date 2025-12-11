@@ -1,0 +1,45 @@
+RS–175
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DTC B1810/53 Short in Driver Side Squib 2nd Step Circuit
+DTC B1811/53 Open in Driver Side Squib 2nd Step Circuit
+Short to GND in Driver Side Squib 2nd Step Cir-
+DTC B1812/53
+cuit
+Short to B+ in Driver Side Squib 2nd Step Cir-
+DTC B1813/53
+cuit
+DESCRIPTION
+The driver side squib 2nd step circuit consists of the center airbag sensor assembly, the spiral cable, and
+the steering pad.
+The circuit instructs the SRS to deploy when deployment conditions are met.
+These DTCs are recorded when a malfunction is detected in the driver side squib 2nd step circuit.
+DTC No. DTC Detecting Condition Trouble Area
+• The center airbag sensor assembly receives a line
+short circuit signal 5 times in the driver side squib • Instrument panel wire
+2nd step circuit during primary check. • Spiral cable
+B1810/53
+• Driver side squib 2nd step malfunction • Steering pad (Driver side squib 2nd step)
+• Spiral cable malfunction • Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives an
+open circuit signal in the driver side squib 2nd step • Instrument panel wire
+circuit for 2 seconds. • Spiral cable
+B1811/53
+• Driver side squib 2nd step malfunction • Steering pad (Driver side squib 2nd step)
+• Spiral cable malfunction • Center airbag sensor assembly
+RS
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives a
+short circuit to ground signal in the driver side 2nd • Instrument panel wire
+step circuit for 0.5 seconds. • Spiral cable
+B1812/53
+• Driver side squib 2nd step malfunction • Steering pad (Driver side squib 2nd step)
+• Spiral cable malfunction • Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives a
+short circuit to B+ signal in the driver side squib 2nd • Instrument panel wire
+step circuit for 0.5 seconds. • Spiral cable
+B1813/53
+• Driver side squib 2nd step malfunction • Steering pad (Driver side squib 2nd step)
+• Spiral cable malfunction • Center airbag sensor assembly
+• Center airbag sensor assembly malfunction

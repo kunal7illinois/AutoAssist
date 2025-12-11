@@ -1,0 +1,29 @@
+54B-336 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 3. Check high-beam indicator light bulb.
+Q:Is the high-beam indicator light bulb in good condition?
+HIGH-BEAM INDICATOR LIGHT
+YES : Go to Step 4.
+NO : Replace the high-beam indicator light bulb. Check
+that the high-beam indicator light illuminates normally.
+AC003655AC
+STEP 4. Check the combination meter (printed-circuit
+board).
+(1) Remove the combination meter. Refer to GROUP 54A,
+Combination Meter Assembly and Vehicle Speed Sensor
+P.54A-105.
+(2) Remove the high-beam indicator light bulb. Then measure
+the resistance value between the bulb terminals.
+(3) Install the bulb to the combination meter, and then measure
+CONNECTOR C-42
+the resistance value between connector C-42 terminals 21
+(COMBINATION METER SIDE)
+and 22. The measured resistance value should be roughly
+the same as the value measured in Step (2).
+Q:Are these two resistance values extremely different?
+YES : Repair or replace the combination meter (printed
+circuit board).Check that the headlight-beam indicator
+light illuminates normally.
+NO (much the same) : Go to Step 5.
+AC003659AB
+TSB Revision

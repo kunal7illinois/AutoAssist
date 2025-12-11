@@ -1,0 +1,44 @@
+CA–7
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+SYSTEM DESCRIPTION
+1. BRIEF DESCRIPTION
+(a) Two different CAN busses are used. The CAN
+busses are classified into two types based on typical
+communication speed.
+The HS-CAN bus is a high-speed communication
+bus that is used for powertrain, chassis, and some
+body electrical communication. The HS-CAN bus is
+referred to as the "CAN bus" and it operates at
+speeds of approximately 500 kbps. Terminating
+resistors for the HS-CAN bus are located in the
+ECM and combination meter.
+The MS-CAN bus is a medium-speed
+communication bus that is used for body electrical
+communication. The MS-CAN bus is referred to as
+the "MS bus" and it operates at speeds of
+approximately 250 kbps. Terminating resistors for
+the MS-CAN bus are located in the main body ECU
+and the certification ECU. The resistance of the MS-
+CAN bus cannot be measured from the DLC3 CA
+connector.
+Communication between these two networks is
+handled via the main body ECU, which acts as a
+gateway ECU.
+(b) By pairing the CANH and CANL bus wires, the CAN
+performs communication based on differential
+voltage.
+(c) Many ECUs (sensors) installed on the vehicle
+operate by sharing information and communicating
+with each other.
+(d) The CAN has two resistors of 120 Ω which are
+necessary to enable communication on the main
+bus wire.
+2. DEFINITION OF TERMS
+(a) Main bus wire
+(1) The main bus wire is a wire harness between
+the two terminus circuits on the bus
+(communication line).
+(b) Branch wire
+(1) The branch wire is a wire harness which
+diverges from the main bus wire to an ECU or
+sensor.

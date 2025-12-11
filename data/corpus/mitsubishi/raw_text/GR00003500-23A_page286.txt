@@ -1,0 +1,26 @@
+23A-286 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 9. Check the switch output voltage at PCM connector
+C-57 <2.4L Engine> or C-59 <3.0L Engine> by backprobing.
+(1) Do not disconnect connector C-41.
+CONNECTOR: C-57 <2.4L ENGINE> OR
+(2) Start the engine and run at idle.
+C-59 <3.0L ENGINE>
+(3) Operate the A/C.
+PCM
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+(4) Measure the voltage between terminal 83 and ground by
+backprobing.
+• When the A/C is in operation, the voltage should be bat-
+tery positive voltage.
+• When the A/C is not in operation, the voltage should be
+0.5 volt or less.
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+C-57 <2.4L ENGINE> OR
+C-59 <3.0L ENGINE>
+Q:Is the voltage normal?
+CONNECTOR HARNESS
+SIDE VIEW YES : Go to Step 14.
+AC002096AE NO : Go to Step 10.
+TSB Revision

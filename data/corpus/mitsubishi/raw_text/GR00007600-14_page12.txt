@@ -1,0 +1,28 @@
+14-12 COOLING SYSTEM
+ENGINE COOLING DIAGNOSIS
+STEP 10. Check the harness wire between ECM connector
+C-49 (terminal number 21) <2.4L-M/T>, C-51 (terminal
+number 18) <3.0L-M/T> or PCM connector C-50 (terminal
+number 18) <2.4L-A/T>, C-52 (terminal number 18) <3.0L-A/
+T> and fan controller connector A-30 (terminal number 2).
+NOTE: If intermediate connector C-07 (terminal number 6) is
+CONNECTOR: C-07
+damaged, repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+AC000244AC
+Q:Are the harness wires between ECM connector C-49
+CONNECTOR:
+C-49 <2.4L-M/T>, C-50 <2.4L-A/T> (terminal number 21) <2.4L-M/T>, C-51 (terminal number
+C-51 <3.0L-M/T>, C-52 <3.0L-A/T> 18) <3.0L-M/T> or PCM connector C-50 (terminal number
+18) <2.4L-A/T>, C-52 (terminal number 18) <3.0L-A/T>
+ECM <M/T>
+OR and fan controller connector A-30 (terminal number 2)
+PCM <A/T> damaged?
+YES : Repair or replace them, then go to Step 12.
+NO : Go to Step 11.
+AC000245AE
+CONNECTOR: A-30
+RADIATOR
+FAN
+AC000270AB
+TSB Revision

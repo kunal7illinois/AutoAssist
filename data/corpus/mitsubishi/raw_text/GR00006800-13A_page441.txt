@@ -1,0 +1,35 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-441
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, check data list item 16:
+Power Supply Voltage.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before. con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the data reading mode for item
+16, Power Supply Voltage.
+16 PIN • Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AKX01177AB Q:Is the voltage normal?
+YES : Go to Step 2.
+NO : Refer to INSPECTION PROCEDURE 29 − Power
+Supply System and Ignition Switch − IG System
+P.13A-505.
+STEP 2. Check the burned-out bulb.
+Q:Is the valve normal?
+YES : Go to step 3.
+NO : Replace the bulb. Then confirm that the malfunction
+symptom is eliminated.
+STEP 3. Check connector C-41 at the combination meter
+for damage.
+Q:Is the connector in good condition?
+CONNECTOR:C-41
+YES : Go to step 4.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK000312AI
+TSB Revision

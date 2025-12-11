@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+circuit, or replace the transmission, then go to step 13.
+7. Turn the ignition switch to ON (II).
+8. Clear the DTC with the HDS.
+9. Test-drive the vehicle in 1st gear with the shift lever in D at speeds over 7 mph
+(12 km/h) and the engine speed above 1,000 rpm, for at least 12 seconds.
+10. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 9, then go
+to step 11.
+11. Check for DTCs with the HDS.
+Is DTC P0731 indicated?
+YES -Repair the 1st clutch, or replace the transmission, then go to step 13.
+NO -Go to step 12.
+12. Monitor the OBD STATUS for P0731 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+11, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, repair the 1st clutch, or replace the
+transmission. If the HDS indicates NOT COMPLETED, go to step 9.
+13. Test-drive the vehicle in 1st gear with the shift lever in D at speeds over 7 mph
+(12 km/h) and the engine speed above 1,000 rpm, for at least 12 seconds.
+14. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 13, then go
+to step 15.
+15. Check for DTCs with the HDS.
+Is DTC P0731 indicated?
+YES -Check for poor connections or loose terminals at the input shaft
+(mainshaft) speed sensor and the output shaft (countershaft) speed sensor and
+the PCM, then go to step 4.

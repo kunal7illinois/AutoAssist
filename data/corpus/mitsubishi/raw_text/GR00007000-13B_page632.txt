@@ -1,0 +1,16 @@
+13B-632 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check for open circuit and short circuit to ground
+and harness damage between park/neutral position switch
+connector B-41 terminal 9 and PCM connector C-55
+terminal 58.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-41
+YES : Replace the PCM. Then confirm that the malfunction
+symptom is eliminated.
+NO : Repair it. Then confirm that the malfunction symptom
+is eliminated.
+AK101751AB
+CONNECTOR:C-55
+AK000227AD
+TSB Revision

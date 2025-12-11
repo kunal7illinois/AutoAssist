@@ -1,0 +1,43 @@
+54A-130 CHASSIS ELECTRICAL
+RADIO AND TAPE PLAYER
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness set
+STEP 1. Check the radio and CD play power supply circuit
+by backprobing.
+(1) Do not disconnect radio, tape player, CD player and CD
+CONNECTOR: C-22
+auto changer connector C-22.
+(2) Turn the ignition switch to "ACC" position.
+DEVICE SIDE
+1 2 3 4 5 6
+7 8 91011121314
+AC106557AL
+(3) Measure the voltage between terminal 10 and ground by
+HARNESS SIDE
+backprobing.
+C-22
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 4.
+NO : Go to Step 2.
+1 2 3 4 5 6
+7 8 9 1011121314
+AC106891AB
+STEP 2. Check radio, tape player, CD player and CD auto
+changer connector C-22 for damage.
+Q:Are radio, tape player, CD player and CD auto changer
+CONNECTOR: C-22
+connector C-22 in good condition?
+YES : Go to Step 3.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. If the
+power switch is turned on, the radio, tape player, CD
+player and CD auto changer should operate normally.
+DEVICE SIDE
+1 2 3 4 5 6
+7 8 91011121314
+AC106557AL
+TSB Revision

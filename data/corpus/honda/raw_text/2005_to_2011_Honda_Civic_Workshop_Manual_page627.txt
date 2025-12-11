@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+CLEAR/CRANK (CKP) PATTERN LEARN ).
+Substituting the PCM
+Special Tools Required
+Honda diagnostic system (HDS) tablet tester
+(cid:1)
+Honda interface module (HIM) and an iN workstation with HDS and CM
+(cid:1)
+update software
+HDS pocket tester
+(cid:1)
+GNA600 and an iN workstation with HDS and CM update software
+(cid:1)
+Use this procedure when you need to substitute a known-good PCM during
+troubleshooting procedures.
+1. Make sure you have the anti-theft code for the audio system or the navigation
+system (if equipped), then write down the audio presets.
+2. Connect the HDS to the DLC (A) located behind the driver's dashboard lower
+cover.
+Fig. 13: Identifying Data Link Connector
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+3. Turn the ignition switch to ON (II).
+4. Make sure the HDS communicates with the PCM. If it does not, go to DLC
+CIRCUIT TROUBLESHOOTING . If you did the DLC circuit
+troubleshooting, skip steps 5 thru 9, then clean the throttle body (see

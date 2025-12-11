@@ -1,0 +1,40 @@
+CHASSIS ELECTRICAL 54A-51
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+Q:Are the wiring harness between combination meter
+CONNECTOR: C-28
+connector C-42 (terminal 30) and vehicle speed sensor
+connector B-39 (terminal 3) <M/T> in good condition?
+YES : There is no action to be taken.
+NO : Repair the wiring harness. The speedometer should
+work normally.
+1 2 3 4
+5 16
+6 7 8 9101112131415
+17 28
+18192021222324252627
+29 38
+3031 32333435 3637
+C-28
+AC106563AC
+CONNECTOR: C-77
+DEVICE SIDE
+1 2 3 4 5 6 7 8 91011
+1213141516171819202122
+2324252627282930313233
+AC106473AL
+STEP 13. Check the vehicle speed sensor power supply
+circuit at the vehicle speed meter connector B-39 <M/T>.
+(1) Disconnect the vehicle speed sensor connector B-39 <M/
+T>.
+(2) Turn the ignition switch to "ON" position.
+(3) Measure the voltage between terminal 1 and ground.
+VEHICLE SPEED
+• The measured value should be 12 volts (battery positive
+SENSOR CONNECTOR
+(HARNESS SIDE) voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 16.
+B-39
+NO : Go to Step 14.
+AC002044AE
+TSB Revision

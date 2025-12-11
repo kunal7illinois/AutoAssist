@@ -1,0 +1,34 @@
+DL–197
+DOOR LOCK – SMART KEY SYSTEM
+INSPECTION PROCEDURE
+1 CHECK HARNESS AND CONNECTOR (POWER SOURCE CIRCUIT)
+(a) Disconnect the E58 certification ECU connector.
+Certification ECU:
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Specified
+Tester Connection (Symbols) Condition
+Condition
+E58 E58-1 (+B) - Body ground Always 10 to 14 V
+Engine switch OFF Below 1 V
+E58-18 (IG) - Body ground
+Engine switch ON (IG) 10 to 14 V
+Engine switch OFF Below 1 V
+E58-19 (ACC) - Body ground
+Engine switch ON (ACC) 10 to 14 V
+E
++B
+ACC
+(c) Measure the resistance according to the value(s) in the
+IG
+table below.
+Standard resistance
+B137963E07
+Tester Connection (Symbols) Condition Specified Condition
+E58-17 (E) - Body ground Always Below 1 Ω
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+DL

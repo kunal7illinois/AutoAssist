@@ -1,0 +1,66 @@
+ES–391
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+6 CHECK HARNESS AND CONNECTOR (C/OPN RELAY - FUEL PUMP - BODY GROUND)
+(a) Check the harness and the connectors between the
+Wire Harness Side:
+instrument panel junction block assembly and the fuel
+pump.
+Main Body ECU (1) Disconnect the IA instrument panel junction block
+connector.
+(Instrument Panel Junction Block)
+(2) Disconnect the S1 fuel pump connector.
+(3) Measure the resistance.
+IA
+Standard resistance (Check for open)
+Tester Connections Specified Conditions
+16 1 ES
+17 2 IA-8 (Instrument panel J/B) - S1-4
+18 3 Below 1Ω
+19 4 (Fuel pump)
+20 5
+21 6
+22 7 Standard resistance (Check for short)
+23 8
+24 9 Tester Connections Specified Conditions
+25 10
+26 11
+IA-8 (Instrument panel J/B) or S1-4
+10 kΩ or higher
+27 12 (Fuel pump) - Body ground
+28 13
+29 14
+30 15 (b) Check the harness and the connectors between the fuel
+pump and the body ground.
+(1) Disconnect the S1 fuel pump connector.
+(2) Measure the resistance.
+Standard resistance (Check for open)
+S1 Fuel Pump Connector
+Tester Connections Specified Conditions
+S1-5 (Fuel pump) - Body ground Below 1 Ω
+(c) Reconnect the instrument panel junction block
+1 2 3
+connector.
+4 5
+(+) (-) (d) Reconnect the fuel pump connector.
+Front View
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+A133159E02
+OK
+7 INSPECT FUEL PUMP
+(a) Inspect fuel pump resistance.
+Component Side:
+(1) Measure the resistance between the terminals.
+Front View Standard resistance:
+Fuel Pump
+0.2 to 3.0 Ω at 20°C(68°F)
+(b) Inspect fuel pump operation.
+(1) Apply the battery voltage to both the terminals.
+Check that the pump operates.
+NOTICE:
+• These tests must be done quickly (within 10
+seconds) to prevent the coil from burning
+A128730E01
+out.
+• Keep the fuel pump as far away from the
+battery as possible.

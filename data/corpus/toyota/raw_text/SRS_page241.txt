@@ -1,0 +1,33 @@
+RS–239
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+SYSTEM DESCRIPTION
+1. DESCRIPTION OF OCCUPANT CLASSIFICATION
+SYSTEM
+(a) GENERAL DESCRIPTION.
+(1) In the occupant classification system, the
+occupant classification ECU calculates the
+weight of the occupant based on a signal from
+the occupant classification sensors. This system
+recognizes the occupant as a child if it detects a
+weight of less than 36 kg (79.37 lb), and
+disables the front passenger airbag and front
+passenger side-side airbag.
+(2) This system is mainly comprised of 4 occupant
+classification sensors that detect the load on the
+front passenger seat. The occupant
+classification ECU controls the system, and the
+passenger airbag ON/OFF indicator indicates
+the ON/OFF condition of the front passenger
+airbag and front passenger side-side airbag.
+(b) OCCUPANT CLASSIFICATION SENSOR.
+Rear Occupant Classification Sensor RH
+RS
+Rear Occupant Classification Sensor LH
+Front Occupant Classification Sensor LH
+Front Occupant Classification Sensor RH
+Occupant Classification ECU
+Occupant Load
+A
+Occupant Classification Sensor A A - A Cross Section
+C
+C110537E01

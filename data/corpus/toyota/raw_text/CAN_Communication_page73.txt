@@ -1,0 +1,43 @@
+CA–73
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+INSPECTION PROCEDURE
+NOTICE:
+• Turn the ignition switch off before measuring the resistance of the CAN main wire and CAN
+branch wires.
+• After the ignition switch is turned off, check that the key reminder warning system and light
+reminder warning system are not operating.
+• Before measuring the resistance, leave the vehicle as is for at least 1 minute and do not operate
+the ignition switch, any other switches or the doors. If doors need to be opened in order to
+check connectors, open the doors and leave them open.
+HINT:
+Operating the ignition switch, any other switches or any triggers related ECU and sensor communication
+on the CAN, which would cause resistance reading variations.
+1 CHECK DLC3
+(a) Turn the ignition switch off.
+E10
+DLC3: (b) Measure the resistance according to the value(s) in the
+CANH
+table below.
+Standard resistance
+CA
+Tester
+Condition Specified Value Result
+Connection
+E10-6 (CANH) - Ignition switch
+108 to 132 Ω A
+E101-14 (CANL) off
+E10-6 (CANH) - Ignition switch
+CANL 132 Ω or higher B
+E10-14 (CANL) off
+C126231E11
+NOTICE:
+When the measured value is 132 Ω or more and a
+CAN communication system diagnostic trouble code
+is output, there may be a fault besides disconnection
+of the DLC3 branch wire. For that reason,
+troubleshooting should be performed again from
+"HOW TO PROCEED WITH TROUBLESHOOTING"
+(See page CA-8 ) after repairing the trouble area.
+B REPAIR OR REPLACE DLC3 BRANCH WIRE
+OR CONNECTOR (CANH, CANL)
+A

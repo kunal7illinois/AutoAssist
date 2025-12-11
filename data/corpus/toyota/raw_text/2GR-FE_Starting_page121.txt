@@ -1,0 +1,46 @@
+ST–121
+2GR-FE STARTING – SMART KEY SYSTEM
+5 CHECK WIRE HARNESS (MAIN BODY ECU - BODY GROUND)
+(a) Disconnect the IF and IM ECU connectors.
+Wire Harness Side:
+(b) Measure the resistance according to the value(s) in the
+IM
+table below.
+Standard resistance
+Main Body ECU
+Tester Connection
+Condition Specified Condition
+(Symbols)
+GND2 IF-10 (GND1) - Body
+Always Below 1 Ω
+ground
+IM-9 (GND2) - Body
+Always Below 1 Ω
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+IF
+GND1
+B138008E01
+OK
+6 CHECK FOR DTCS
+(a) Delete the DTCs (See page ST-26).
+HINT:
+After all the DTCs are cleared, check if the trouble
+occurs again 5 seconds after the engine switch is turned
+on (IG).
+(b) Check for DTCs again.
+OK:
+No DTC is output.
+NG GO TO DTC CHART
+OK
+7 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3. ST
+(b) Turn the engine switch on (IG).
+(c) Check the DATA LIST for proper functioning of the start
+switches 1 and 2.
+HINT:
+When using the intelligent tester with the engine switch
+off, turn on and off any of the door courtesy light switches
+repeatedly at 1.5 second intervals or less until
+communication between the tester and vehicle starts.

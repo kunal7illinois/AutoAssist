@@ -1,0 +1,59 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-195
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS : C-58, C-62<M/T>,
+C-55, C-59<A/T>
+PCM<A/T> ECM<M/T>
+C-55 C-59 C-58 C-62
+AK000225AK
+. • Left bank heated oxygen sensor (front) signal
+CIRCUIT OPERATION
+• A voltage corresponding to the oxygen concen- voltage has continued to be 0.2 volt or lower.
+• Engine coolant temperature is higher than 76°C
+tration in the exhaust gas is sent to the ECM (ter-
+(169°F).
+minal 71) <M/T> or PCM (terminal 71) <A/T>
+• Engine speed is higher than 1,200 r/min.
+from the output terminal (terminal 4) of the left
+• Volumetric efficiency is higher than 25 percent.
+bank heated oxygen sensor (front).
+• Terminal 2 of the left bank heated oxygen sensor • Volume air flow sensor output frequency is 75 Hz
+or more.
+(front) is grounded with ECM (terminal 49) <M/T>
+• At least 20 seconds have passed since fuel shut
+or PCM (terminal 57) <A/T>.
+off control was canceled.
+• After the ignition switch is turned ON, the
+.
+TECHNICAL DESCRIPTION
+changes in the output voltage of the left bank
+• The left bank heated oxygen sensor (front)
+heated oxygen sensor (front) is lower than 0.078
+detects the concentration of oxygen in the
+volt.
+exhaust gas; it converts that data to voltage, and
+• Monitoring time: 10 seconds.
+sends it to the ECM <M/T> or PCM <A/T>.
+• When the left bank heated oxygen sensor (front) Judgement Criteria
+begins to deteriorate, the heated oxygen sensor • Making the air/fuel ratio 15 percent for 10 sec-
+signal response deteriorates also. onds richer does not result in raising the heated
+• The ECM <M/T> or PCM <A/T> varies the air/fuel oxygen sensor (front) output voltage beyond 0.15
+mixture to make it leaner and richer, and checks volt.
+the response speed of the left bank heated oxy- • The ECM <M/T> or PCM <A/T> monitors for this
+gen sensor (front). In addition, the ECM <M/T> or condition once during the drive cycle.
+PCM <A/T> also checks for an open circuit in the
+.
+left bank heated oxygen sensor (front) output TROUBLESHOOTING HINTS (The most likely
+line. causes for this code to be set are: )
+• Left bank heated oxygen sensor (front) failed.
+. DTC SET CONDITIONS • Short circuit in left bank heated oxygen sensor
+(front) output line.
+Check Conditions
+• ECM failed. <M/T>
+• 3 minutes or more have passed since the starting
+• PCM failed. <A/T>
+sequence was completed.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MD998464: Test Harness
+TSB Revision

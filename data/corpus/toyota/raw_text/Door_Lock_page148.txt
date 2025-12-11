@@ -1,0 +1,56 @@
+DL–138
+DOOR LOCK – SMART KEY SYSTEM
+7. ENTRY UNLOCK FUNCTION
+(a) The detection area is formed by communication
+between a door oscillator and door control receiver
+when the door is locked in order to detect access of
+the person carrying the electrical key.
+(b) When the person carrying the electrical key enters
+the detection area around the vehicle, the matching
+of the ID codes for a door oscillator and electrical
+key will automatically be performed. After the
+matching is completed, the door will enter unlock
+standby mode.
+(c) In unlock standby mode, the antenna built into the
+outside handle starts sensing. If the outside handle
+is held (the back side of the handle is touched), the
+door unlock operation will be performed. At this
+time, the hazard warning light blinks twice and the
+wireless door lock buzzer sounds twice.
+(d) If any of the doors are not opened after a door
+unlock operation, all doors will automatically lock
+after 60 seconds.
+8. ENTRY LOCK FUNCTION
+(a) After leaving the vehicle carrying the electrical key,
+push the lock switch on the outside handle when all
+the doors are closed.
+(b) The certification ECU determines whether the
+electrical key is located inside or outside of the
+cabin based on the information from a door
+oscillator and room oscillator. Then matching of the
+ID codes is performed.
+(c) When the matching result shows that the ID codes
+of the electrical key and indoor antenna do not
+match and the ID codes of the electrical key and
+door oscillator match, the door lock function will
+operate. At this time, the hazard warning lights blink
+once and the wireless door lock buzzer sounds
+once.
+(d) If the electrical key is located inside of the cabin, the
+door lock function will not operate and the alarm
+buzzer (beep sound) will sound for 2 seconds.
+9. ENTRY LUGGAGE COMPARTMENT OPEN
+DL FUNCTION
+Stand in front of the luggage compartment with the
+electrical key and push the power luggage compartment
+opener switch to start the matching of the ID codes for
+the electrical key oscillator (outside luggage
+compartment). If the ID codes match, luggage
+compartment door open operation will be performed.
+10. PREVENTION OF ELECTRICAL KEY CONFINEMENT
+FUNCTION
+(a) If you attempt to lock the door through keyless
+operation (move the lock knob to the lock position
+and then close the door) with the electrical key in
+the cabin, the system determines that the electrical
+key is located in the cabin and unlocks the door.

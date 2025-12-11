@@ -1,0 +1,51 @@
+CA–28
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+ECU/Sensor name Check method
+ECT With automatic transaxle
+SRS AIRBAG Installed on all vehicles
+A/C Installed on all vehicles
+METER Installed on all vehicles
+MAIN BODY Installed on all vehicles
+ACCESSORY G/W With dealer option
+SMART ACCESS/KEY With smart key system
+3. DTC TABLE BY ECU
+HINT:
+• For the CAN communication system, CAN
+communication system DTCs stored in certain ECUs
+can be displayed using the intelligent tester.
+• If CAN communication system DTCs are output,
+trouble cannot be determined only by the DTCs.
+Perform troubleshooting according to "HOW TO
+PROCEED WITH TROUBLESHOOTING" (See page
+CA-8).
+(a) ECM (2AZ-FE)
+CA
+DTC No. Detection Item
+U0101* High speed CAN Communication Bus
+HINT:
+• DTC communication is via the CAN
+communication system.
+• *: The ECM is malfunctioning if only U0101 is
+output. Replace the ECM.
+(b) ECM (2GR-FE)
+DTC No. Detection Item
+U0101* High speed CAN Communication Bus
+HINT:
+• DTC communication is via the CAN
+communication system.
+• *: The ECM is malfunctioning if only U0101 is
+output. Refer to SFI system (See page ES-389).
+(c) ECT (2AZ-FE)
+DTC No. Detection Item
+U0100* High speed CAN Communication Bus
+HINT:
+• DTC communication is via the CAN
+communication system.
+• *: The ECM is malfunctioning if only U0100 is
+output. Replace the ECM.
+(d) ECT (2GR-FE)
+DTC No. Detection Item
+U0100* High speed CAN Communication Bus
+HINT:
+• DTC communication is via the CAN
+communication system.

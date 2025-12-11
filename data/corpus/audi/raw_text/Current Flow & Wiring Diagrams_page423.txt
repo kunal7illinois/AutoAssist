@@ -1,0 +1,57 @@
+Audi TT No. 47 / 23
+Current Flow Diagram
+Onboard supply control unit, horn relay, treble horn, bass
+horn, tank filler flap locking motor
+H2 Treble tone horn
+H7 Bass tone horn
+J413 Horn relay
+J519 Onboard supply control unit
+SC22 Fuse 22 on fuse holder C
+SC23 Fuse 23 on fuse holder C
+SC25 Fuse 25 on fuse holder C
+99
+T52a 52-pin connector, black, on onboard supply control unit
+6,0
+ro T52b 52-pin connector, yellow, on onboard supply control unit
+V155 Tank filler flap locking motor
+22 23 25
+SC22 SC23 SC25 43 Earth point, lower part of right A-pillar
+30A 20A 30A
+22a 23a 25a
+391 Earth connection 26, in main wiring harness
+2,5 2,5
+ro/br li/ws
+B324 Positive connection 10 (30a), in main wiring harness
+229977 225555
+J519
+B521 Connection (dual tone horn), in main wiring harness
+* Relay carrier on onboard power supply control unit
+T52b/41 T52b/5 T52a/46
+B521
+0,35 2,5 1,5 1,5 0,5 0,5
+br/ge sw/ge sw/ge sw/ge gn/li gn/gr
+1 4 5 1 1
+3.1 ✱
+J413 H2 H7
+2 3 2/31 2/31
+0,5 2,5 1,5 1,5
+ro/br ro/br br br
+B324 391
+1
+M
+V155
+2 ws = white
+sw = black
+ro = red
+2,5 4,0 br = brown
+ro/br br
+gn = green
+bl = blue
+229977
+gr = grey
+43 li = purple
+ge = yellow
+295 296 297 298 299 300 301 302 303 304 305 306 307 308 or = orange
+8J0-047230409
+rs = pink
+Edition 04.2010

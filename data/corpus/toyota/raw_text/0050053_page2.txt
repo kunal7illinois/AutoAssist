@@ -1,0 +1,58 @@
+ES–290
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+APP Sensor Output Voltage (V)
+APP Sensor ECM
+*1 *2
+Magnet
+VPA
+IC No. 1 4.55
+EPA 3.988
+ES 3.75
+VCPA
+3.188
+VPA2
+1.6
+EPA2 0.8
+IC No. 2 VCP2 0.29
+Magnet
+0 Usable Range 15.9
+Accelerator Pedal Turning Angle ((cid:113))
+*1: Accelerator Pedal Fully Released
+*2: Accelerator Pedal Fully Depressed
+A112620E03
+DTC No. DTC Detection Conditions Trouble Areas
+VPA fluctuates rapidly beyond upper and lower malfunction • APP sensor
+P2120
+thresholds for 0.5 seconds or more (1 trip detection logic) • ECM
+• APP sensor
+VPA 0.4 V or less for 0.5 seconds or more when accelerator • Open in VCP1 circuit
+P2122
+pedal fully released (1 trip detection logic) • Open or ground short in VPA circuit
+• ECM
+• APP sensor
+VPA 4.8 V or more for 2.0 seconds or more
+P2123 • Open in EPA circuit
+(1 trip detection logic)
+• ECM
+VPA2 fluctuates rapidly beyond upper and lower malfunction • APP sensor
+P2125
+thresholds for 0.5 seconds or more (1 trip detection logic) • ECM
+• APP sensor
+VPA2 1.2 V or less for 0.5 seconds or more when accelerator • Open in VCP2 circuit
+P2127
+pedal fully released (1 trip detection logic) • Open or ground short in VPA2 circuit
+• ECM
+Conditions (a) and (b) continue for 2.0 seconds or more (1 trip
+• APP sensor
+detection logic):
+P2128 • Open in EPA2 circuit
+(a) VPA2 4.8 V or more
+• ECM
+(b) VPA between 0.4 V and 3.45 V
+Condition (a) or (b) continues for 2.0 seconds or more (1 trip
+• Short between VPA and VPA2 circuits
+detection logic):
+P2138 • APP sensor
+(a) Difference between VPA and VPA2 0.02 V or less
+• ECM
+(b) VPA 0.4 V or less and VPA2 1.2 V or less

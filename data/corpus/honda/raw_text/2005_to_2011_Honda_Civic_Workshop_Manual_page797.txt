@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Does the HDS indicate FAILED?
+YES -Go to step 6.
+NO -If the HDS indicates PASSED, intermittent failure, the system is OK at
+this time. Check for poor connections or loose terminals between the output
+shaft (countershaft) speed sensor and the PCM. If the HDS indicates NOT
+COMPLETED, go to step 3.
+6. Turn the ignition switch to LOCK (0).
+7. Disconnect the output shaft (countershaft) speed sensor connector, and inspect
+the connector and connector terminals to be sure they are making good contact.
+Are the connector terminals OK?
+YES -Go to step 8.
+NO -Repair the connector terminals, then go to step 8.
+8. Connect the output shaft (countershaft) speed sensor connector.
+9. Test-drive the vehicle with the shift lever in D with engine speed 2,000 rpm or
+higher, and let the transmission shift through all five gears.
+10. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 9, then go
+to step 11.
+11. Monitor the OBD STATUS for P0723 in the DTCs MENU with the HDS.
+Does the HDS indicate FAILED?
+YES -Go to step 12.
+NO -If the HDS indicates PASSED, troubleshooting is complete. If the HDS
+indicates NOT COMPLETED, go to step 9.
+12. Turn the ignition switch to LOCK (0).
+13. Jump the SCS line with the HDS.
+14. Disconnect PCM connector C (44P).

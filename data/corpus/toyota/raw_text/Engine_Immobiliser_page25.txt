@@ -1,0 +1,21 @@
+EI–25
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+(b) Disconnect the E8, E7 and E6 main body ECU
+connectors.
+Vehicle Rear Side
+IM
+IF
+Vehicle Front Side
+E8
+E7
+EI
+E6
+B128347E01
+(c) Measure the resistance and voltage according to
+the value(s) in the table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+GND1 (IF-10) - Body ground W-B - Body ground Ground Always Below 1 Ω
+GND2 (IM-9) - Body ground W-B - Body ground Ground Always Below 1 Ω
+GND3 (E8-1) - Body ground W-B - Body ground Ground Always Below 1 Ω
+AM1 (E7-6) - Body ground L - Body ground +B power supply Always 10 to 14 V
+AM2 (E6-1) - Body ground L - Body ground +B power supply Always 10 to 14 V

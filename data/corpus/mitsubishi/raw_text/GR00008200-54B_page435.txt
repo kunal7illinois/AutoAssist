@@ -1,0 +1,50 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-435
+SYMPTOM PROCEDURES
+STEP 4. Check the input signal (by using the Pulse Check).
+Check the following switches and input signals:
+• Interior light loaded signal
+Operate the MUT-II according to the procedure below to dis-
+play "PULSE CHECK."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+16 PIN Check if scan tool MB991502 sounds or not.
+ITEM NAME CONDITIONS
+MB991502
+AC001252AD
+Interior light loaded signal Illuminate one of the interior
+lights
+Q:Does scan tool MB991502 sound when the interior light
+loaded signal is operated?
+YES : Replace the ETACS-ECU. Check that the dome light
+illuminates normally.
+NO : Refer to Inspection Procedure P-14 "ETACS-ECU
+does not receive a interior light loaded signal P.54B-
+611."
+THEFT-ALARM SYSTEM
+GENERAL DESCRIPTION CONCERNING THEFT-ALARM SYSTEM
+M1549022100014
+The following ECUs affect the functions and control
+of the theft-alarm function.
+Functions Control ECU
+Theft-alarm system ETACS-ECU, front-ECU
+THEFT-ALARM SYSTEM
+.ARMING THE SYSTEM
+After the following procedures have been completed, the theft-
+alarm indicator light illuminates for about 20seconds. When the
+light goes off, the system is armed.
+1. Pull ut the ignition key from the key cylinder.
+2. Lock all doors with the key or the RKE transmitter.
+NOTE: The system is set regardless of whether the hood trunk
+or liftgate is open or closed, and is armed as soon as the light
+goes off.
+.
+DISARMING THE SYSTEM
+The system is disarmed if any of the following conditions is sat-
+isfied.
+• Unlock the doors by using the door lock key cylinder.
+• Unlock the liftgate lock key cylinder <ECLIPSE> or the trunk
+lid lock key cylinder <ECLIPSE SPYDER>.
+• Unlock the doors by using the RKE transmitter.
+.
+TSB Revision

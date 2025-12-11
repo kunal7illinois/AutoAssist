@@ -1,0 +1,46 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-561
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check if the battery terminal is disconnected.
+Q:Has the battery terminal been disconnected lately?
+YES : Start the engine and let it run at idle for approximate
+10 minutes after engine warm up. Then, if a
+malfunction occurs, go to Step 2.
+NO : Go to Step 2.
+STEP 2. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch is to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC is output?
+MB991502 YES : Refer to, Diagnostic Trouble Code Chart P.13B-22.
+AKX01177AB NO : Go to Step 3.
+STEP 3. Check the engine idling state.
+Q:Is it hunting remarkably?
+YES : Go to Step 4.
+NO : Go to Step 5.
+STEP 4. Check the following items.
+(1) Carry out the following cleaning.
+a. Clean the throttle valve area. Refer to P.13B-677.
+(2) After cleaning, confirm that the malfunction symptom is
+eliminated.
+Q:Is the malfunction symptom resolved?
+YES : The check is completed.
+NO : Check the following items, and repair or replace the
+defective items.
+a. Broken intake manifold gasket.
+b. Broken air intake hose.
+c. Broken vacuum hose.
+d. Positive crankcase ventilation valve does not
+operate.
+Then confirm that the malfunction symptom is
+eliminated.
+TSB Revision

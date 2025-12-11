@@ -1,0 +1,34 @@
+RS–91
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+16 CHECK FLOOR WIRE (SHORT TO GROUND)
+(a) Turn the ignition switch off.
+Floor Wire (b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Measure the resistance according to the value(s) in the
+table below.
+D A
+Standard resistance
+C B
+Rear Airbag Side Airbag Tester connection Condition Specified condition
+Sensor LH Sensor LH N7-1 (BCL+) - Body
+Always 1 MΩ or higher
+ground
+N7-2 (BCL-) - Body
+Always 1 MΩ or higher
+ground
+Connector B
+NG REPAIR OR REPLACE FLOOR WIRE
+N7
+4321
+BCL- BCL+
+C C114843E11
+OK
+17 CONFIRM PART NUMBER OF REAR AIRBAG SENSOR RS
+(a) Check that the part number of the rear airbag sensor LH
+is equal to the number of the other side.
+OK:
+Those numbers are the same.
+(b) Connect the connectors to the side airbag sensor LH
+and the rear airbag sensor LH.
+NG Go to step 19
+OK

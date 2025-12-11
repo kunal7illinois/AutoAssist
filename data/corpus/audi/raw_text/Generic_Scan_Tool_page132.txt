@@ -1,0 +1,49 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Using a multimeter, check the Exhaust Flap Valve 1 -N321-
+electrical harness connector terminal 2 to Engine Control Mod‐
+ule (ECM) -J623- electrical harness connector T94 terminal 28
+for an open circuit.
+Exhaust Flap Valve 1 -N321- Engine Control Module (ECM) -
+electrical harness connector J623- electrical connector T94
+terminal terminal or test box socket
+2 28
+Specified value: 1.5 Ω max.
+If the specification is not obtained:
+– Check the wiring for a short circuit to each other, Battery (+),
+and Ground (GND).
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is detected in the wiring and if the voltage supply
+was OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the appropriate service manual.
+– Install the engine cover with air filter. Refer to the appropriate
+service manual.
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, p age 8 .
+3.5.10 Exhaust Gas Temperature Sensor 1,
+Checking
+Note
+Use only gold-plated terminals when servicing terminals in the
+electrical harness connector of Exhaust Gas Temperature (EGT)
+Sensor 1 -G235- .
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Wiring diagram.
+Test requirements
+• The Engine Control Module (ECM) - J623- fuses OK.
+• The Fuel Pump (FP) Relay -J17- must be OK.
+• Battery voltage at least 12.5 volts.
+128
+Rep. Gr.ST - Generic Scan Tool

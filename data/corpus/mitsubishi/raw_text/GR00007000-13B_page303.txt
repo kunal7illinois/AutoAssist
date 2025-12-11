@@ -1,0 +1,46 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-303
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Check for harness damage between injector
+connector and ECM connector <M/T> or PCM connector
+<A/T>.
+a. Check the harness wire between injector connector B-01
+CONNECTORS : B-01, B-02, B-05, B-06,
+B-25, B-26 terminal 2 and ECM connector C-51 terminal 1 <M/T> or
+PCM connector C-52 terminal 1 <A/T> when checking No. 1
+cylinder.
+B-01B-05 B-26
+b. Check the harness wire between injector connector B-02
+terminal 2 and ECM connector C-51 terminal 9 <M/T> or
+PCM connector C-52 terminal 9 <A/T> when checking No. 2
+cylinder.
+c. Check the harness wire between injector connector B-05
+B-02 B-06 B-25
+terminal 2 and ECM connector C-51 terminal 24 <M/T> or
+AAKK000000221155AB
+PCM connector C-52 terminal 24 <A/T> when checking No.
+CONNECTOR : C-51<M/T>, C-52<A/T> 3 cylinder.
+d. Check the harness wire between injector connector B-06
+PCM<A/T> ECM<M/T> terminal 2 and ECM connector C-51 terminal 2 <M/T> or
+PCM connector C-52 terminal 2 <A/T> when checking No. 4
+cylinder.
+e. Check the harness wire between injector connector B-26
+terminal 2 and ECM connector C-51 terminal 10 <M/T> or
+PCM connector C-52 terminal 10 <A/T> when checking No.
+C-52 C-51 5 cylinder.
+AK000225AJ f. Check the harness wire between injector connector B-25
+terminal 2 and ECM connector C-51 terminal 25 <M/T> or
+PCM connector C-52 terminal 25 <A/T> when checking No.
+6 cylinder.
+Q:Is the harness wire in good condition?
+YES : Go to Step 11.
+NO : Repair it. Then go to Step 13.
+STEP 11. Check the following items.
+(1) Check the following items, and repair or replace the
+defective component.
+a. Check for skipped timing belt teeth.
+b. Check compression.
+c. EGR valve failed.
+Q:Are there any abnormalities?
+YES : Go to Step 12.
+NO : Repair or replace it. Then go to Step 13.
+TSB Revision

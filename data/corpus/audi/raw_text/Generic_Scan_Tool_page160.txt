@@ -1,0 +1,46 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+3.5.22 Oxygen Sensor after Catalytic Convert‐
+er, Checking
+Note
+Use only gold-plated terminals when servicing terminals in the
+electrical harness connectors of the Oxygen Sensor (O2S) Be‐
+hind Three Way Catalytic Converter (TWC) -G130- .
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Wiring diagram.
+Test requirements
+• Fuse -SB6- OK.
+• Engine Control Module (ECM) -J623- fuses OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• Vehicles with automatic transmission, shift selector lever into
+position “P” or “N”.
+• A/C switched off.
+• Ground connections between engine/transmission/chassis
+OK.
+• Ignition switched OFF.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8 .
+Start diagnosis
+– Perform the function test in Diagnostic Mode 06.
+If specified Mode 6 values are obtained:
+– Switch the ignition Off. Generate the readiness code.
+If the specified value was Not obtained:
+– Remove the retaining screws and the cover.
+Checking primary voltage
+– Disconnect the Oxygen Sensor (O2S) Behind Three Way Cat‐
+alytic Converter (TWC) -G130- electrical harness connector.
+– Switch the ignition ON.
+– Using a multimeter, check t h e Oxygen Sensor (O2S) Behind
+Three Way Catalytic Conve r ter (TWC) -G130- electrical har‐
+ness connector terminals 3 to 4 for voltage.
+Specified value: 0.400 to 0.500 Volts
+– Switch the ignition OFF.
+If the specified value was obtained:
+– Replace the Oxygen Sensor (O2S) Behind Three Way Cata‐
+lytic Converter (TWC) -G130- .
+156
+Rep. Gr.ST - Generic Scan Tool

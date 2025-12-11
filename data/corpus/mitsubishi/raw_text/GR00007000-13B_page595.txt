@@ -1,0 +1,43 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-595
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Using scan tool MB991502, check data list item 11:
+Left Bank Heated oxygen sensor (front).
+(1) Start the engine and run at idle.
+(2) Set scan tool MB991502 to the data reading mode for item
+11, Left Bank Heated Oxygen Sensor (front).
+• Output voltage should be 0.6 − 1.0 volt when sudden
+revving.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+16 PIN
+YES : Go to Step 9.
+MB991502 NO : Refer to, DTC P0150 − Heated Oxygen Sensor Circuit
+AKX01177AB (bank 2, sensor 1) P.13B-184, DTC P0151 − Heated
+Oxygen Sensor Circuit Low Voltage (bank 2, sensor
+1) P.13B-194, DTC P0152 − Heated Oxygen Sensor
+Circuit High Voltage (bank 2, sensor 1) P.13B-199,
+DTC P0153 − Heated Oxygen Sensor Circuit Slow
+Response (bank 2, sensor 1) P.13B-202, DTC P0154
+− Heated Oxygen Sensor Circuit No Activity Detected
+(bank 2, sensor 1) P.13B-205.
+STEP 9. Using scan tool MB991502, check data list item 39:
+Right Bank Heated oxygen sensor (front).
+(1) Start the engine and run at idle.
+(2) Set scan tool MB991502 to the data reading mode for item
+39, Right Bank Heated Oxygen Sensor (front).
+• Voltage should fluctuate between 0 − 0.4 volt and 0.6 −
+1.0 volt while after the engine has been warmed.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+16 PIN
+YES : Go to Step 10.
+MB991502 NO : Go to Step 12.
+AKX01177AB
+STEP 10. Check the EGR system.
+Refer to GROUP 17, Emission Control System − EGR System
+Check P.17-106.
+Q:Is the EGR system normal?
+YES : Go to Step 11.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+TSB Revision

@@ -1,0 +1,35 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 ACCESSORIES & EQUIPMENT Audio System - Civic (Except Hybrid)
+player. Voice control commands are communicated on the GA-Net (audio unit).
+When using the TALK/BACK button, the audio is muted on all speakers and you
+get navigation sound on the front channels. When using the navigation or route
+guidance (RG), the front speakers give the navigation sound and the rear speakers
+continue to play. For more information, see the NAVIGATION SYSTEM
+(EXCEPT HYBRID) article. The outline of the interruption function is shown in
+this table.
+AUDIO OUTPUT AND CONTENTS REFERENCE
+Audio output
+Left
+Contents Right front Right Subwoofer
+Left front CH rear
+CH rear CH CH
+CH
+TALK/BACK Navigation Navigation
+Muted Muted Muted
+Buttons voice output voice output
+Navigation Navigation
+Route guidance Audio Audio Audio
+voice output voice output
+GA-NET BUS CONFIGURATION
+The GA-Net bus passes audio and navigation commands throughout the navigation
+and audio components. These commands include navigation touch screen and hard
+button signals, audio/XM selections by voice, and XM station and music title
+names. Because the entire bus is daisy chained between components (see diagram),
+any open or short in the GA-Net bus harness will cause any or all of these functions
+to become inoperative. Naturally the addition of any audio accessory must maintain
+the continuity of the GA-Net bus by installing the Y cable included with the
+accessory kit.
+Fig. 5: Audio System - Circuit Diagram (Navigation Unit, XM Receiver And
+Music Link, CD Changer)
+Courtesy of AMERICAN HONDA MOTOR CO., INC.

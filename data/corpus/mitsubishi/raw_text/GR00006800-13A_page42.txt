@@ -1,0 +1,54 @@
+13A-42 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC P0106: Barometric Pressure Circuit Range/Performance Problem
+1 2 3 4 5 6 7
+AK101511
+. • A voltage that is proportional to the atmospheric
+CIRCUIT OPERATION
+• A 5-volt voltage is supplied to the barometric pressure is sent to the ECM (terminal 85) <M/T>
+or PCM (terminal 55) <A/T> from the barometric
+pressure sensor power terminal (terminal 1) from
+pressure sensor output terminal (terminal 2).
+the ECM (terminal 81) <M/T> or PCM (terminal
+46) <A/T>. The ground terminal (terminal 5) is
+.
+grounded with ECM (terminal 40) <M/T> or PCM
+(terminal 16) <A/T>.
+TSB Revision
+WOLLEY-NEERG
+ETIHW-NEERG
+NWORB
+Barometric Pressure Sensor Circuit
+B-14
+BAROMETRIC PRESSURE SENSOR
+(INCORPORATED IN VOLUME AIR
+FLOW SENSOR)
+1 2 5
+C-60 <M/T> C-53 <M/T>
+(MU803772) 81 <M/T>*1 85 <M/T>*1 40 <M/T>*2 (MU803771)
+46 <A/T>*3 55 <A/T>*3 16 <A/T>*4
+3132333435363738
+7172737475767778798081
+3940414243444546
+8283848586878889909192
+C-54 <A/T> C-50 <A/T>
+(MU803781) (MU803784)
+41 42 43 444546 5 V 1 2 3 4 5 6 7 8
+47 48 495051525354555657 9 1011121314151617181920212223
+58 59 60616263 646566 ENGINE CONTROL 24 25 26272829 30313233 3435
+MODULE (ECM) <M/T>
+NOTE OR
+*1: ECM connector C-60 <M/T> POWERTRAIN CONTROL
+*2: ECM connector C-53 <M/T> MODULE (PCM) <A/T>
+*3: PCM connector C-54 <A/T>
+*4: PCM connector C-50 <A/T>
+CONNECTOR : B-14 CONNECTORS:C-53,C-60<M/T>,
+C-50,C-54<A/T>
+ECM<M/T>
+VOLUME AIR OR
+PCM<A/T>
+FLOW SENSOR
+C-50 C-53, C-60
+C-54
+ACX02480AC
+AK000280BV

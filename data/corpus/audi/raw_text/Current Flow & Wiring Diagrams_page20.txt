@@ -1,0 +1,87 @@
+Audi TT No. 1 / 20
+Current Flow Diagram
+Onboard supply control unit, heated rear window relay,
+heated rear window, washer jet heater element
+C18 Window aerial suppression filter
+C24 Suppression filter
+J9 Heated rear window relay
+J519 Onboard supply control unit
+SC7 Fuse 7 on fuse holder C
+T1a Single connector, black, left side panel
+T6h 6-pin connector, connector J, on onboard supply control unit
+111122
+# T10d 10-pin connector, black, connector K, on onboard power supply
+✱✱ 4,0 control unit
+B5 sw
+Z1 Heated rear window
+4/85
+J9
+1/30 7 Z20 Left washer jet heater element
+SC7 Z21 Right washer jet heater element
+5A
+3/86 2/87 7a 4477 53 Earth point, on right in rear lid
+0,5 0,5 98 Earth connection, in rear lid wiring harness
+sw/ge li/ws
+J519 226622
+T10d/5
+219 Earth connection 2, in rear lid wiring harness
+287 Earth connection, in rear lid feeder wiring harness
+T10d/1 T10d/1 T6h/1
+219 226622 330066
+662 Earth point, rear left side panel
+✱ ✱✱ ✱✱ ✱✱
+4,0 1,5 1,5 2,5 0,5 0,5 0,35
+ws sw sw ws/sw sw/ge sw/ge sw/ge
+B281 Positive connection 5 (15a), in main wiring harness
+C24 C18
+* models without radio
+B281
+T1a 100nF 200μF ** models with radio
+# Relay carrier on onboard power supply control unit, under left
+dash panel
+♦ up to May 2007
+♦♦ from June 2007
+♦ ♦♦ ♦ ♦♦
+✱ ✱✱ ✱✱ ✱✱ ✱✱ ✱✱
+4,0 1,5 1,5 1,5 1,5 4,0 0,5 0,5 0,5
+ws br br br br ws sw/ge sw/ge sw/ge
+98
+1 1 5544
+♦♦
+✱✱
+Z1
+287
+1
+b
+,
+r
+5 Z1 Z20
+2/31
+Z21
+2/31
+w
+sw
+s =
+=
+w
+bl
+h
+a
+i
+c
+te
+k
+ro = red
+br = brown
+✱ ✱✱ ✱✱ ✱✱ ♦ ♦♦ ♦ ♦♦
+4,0 1,5 4,0 4,0 0,5 0,5 0,5 0,5 gn = green
+br sw♦ br br br br br br
+53 ♦ sw/br♦♦ bl = blue
+gr = grey
+227733 118866 227744 118877
+662♦♦ 53 662 li = purple
+ge = yellow
+253 254 255 256 257 258 259 260 261 262 263 264 265 266 or = orange
+8J0-001200407
+rs = pink
+Edition 04.2008

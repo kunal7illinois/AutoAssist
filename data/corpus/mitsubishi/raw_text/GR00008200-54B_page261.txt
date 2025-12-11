@@ -1,0 +1,43 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-261
+SYMPTOM PROCEDURES
+HEADLIGHT AND TAILLIGHT
+GENERAL DESCRIPTION CONCERNING HEADLIGHT AND TAILLIGHT
+M1549021300015
+The following ECUs affect the functions and control
+of the headlights and the taillights.
+Functions Control ECU
+Taillight Front ECU, column switch
+Headlights and high-beam indicator light ETACS-ECU, front ECU, column switch
+Headlight automatic-shutdown function ETACS-ECU, front ECU, column switch
+Dimmer automatic reset function Front ECU, column switch
+Taillights and headlights illumination
+.
+Taillight
+If the column switch sends a taillight switch "ON" signal to the
+front-ECU, the front-ECU turns on its taillight relay, causing the
+taillights to illuminate.
+ON
+Taillight
+switch NOTE: This description covers the taillights only. In actual driv-
+OFF ing, the taillights may be turned off due to the headlight auto-
+matic shut-down function. For the details of the headlight
+ON automatic shut-down function, refer to its Section.
+Taillight
+relay
+OFF . Headlights and high-beam indicator light
+If the column switch sends a headlight switch "ON" signal to the
+AC106502AB front-ECU, the front-ECU turns on its headlight relay (LO),
+causing the low-beam headlights to illuminate. If the dimmer
+switch is turned on while the headlight relay (LO) is on, the
+front-ECU turns on the headlight relay (HI), causing the high-
+beam headlights to illuminate.
+If the acknowledgement signal, which the front-ECU sends to
+the SWS communication line, turns to "HI-BEAM ACK", or the
+headlight switch signal, which the column switch (column-ECU)
+sends to the SWS communication line, turns to "PASSING", the
+ETACS-ECU will illuminate the high-beam indicator light.
+NOTE: This description covers the headlights only. In actual
+driving, the headlights may be turned off due to the headlight
+automatic shut-down function. For the details of the headlight
+automatic shut-down function, refer to its Section.
+TSB Revision

@@ -1,0 +1,44 @@
+AX–136
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+INSPECTION PROCEDURE
+1 INSPECT TRANSMISSION WIRE (SLT)
+(a) Remove the TCM from the transaxle.
+AX (b) Measure the resistance according to the value(s) in the
+SLT- table below.
+Standard resistance
+Specified Condition
+SLT+ Tester Connection
+20°C (68°F)
+12 (SLT+) - 7 (SLT-) 5.0 to 5.6 Ω
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+Check for short
+Tester Connection Specified Condition
+12 (SLT+) - Body ground 10 kΩ or higher
+7 (SLT-) - Body ground 10 kΩ or higher
+C133212E06
+OK REPLACE TCM
+NG
+2 INSPECT SHIFT SOLENOID VALVE SLT
+(a) Remove the shift solenoid valve SLT.
+Shift Solenoid Valve SLT:
+(b) Measure the resistance according to the value(s) in the
+table below.
+1 2
+Standard resistance
+Specified Condition
+Tester Connection
+20°C (68°F)
+1 - 2 5.0 to 5.6 Ω
+(c) Connect a positive (+) lead through a 21 W bulb to
+terminal 2 and a negative (-) lead to terminal 1 of the
+solenoid valve connector, then check the movement of
+the valve.
+2 OK:
+1 The solenoid makes an operating sound.
+NG REPLACE SHIFT SOLENOID VALVE SLT
+(-) (+)
+G020767E08
+OK
+REPLACE TRANSMISSION WIRE

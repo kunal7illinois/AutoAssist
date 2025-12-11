@@ -1,0 +1,53 @@
+Audi TT No. 27 / 2
+Current Flow Diagram
+Telephone transmitter and receiver unit, fuses
+J533 Data bus diagnostic interface
+R36 Telephone transmitter and receiver unit
+SC47 Fuse 47 on fuse holder C
+SD3 Fuse 3 on fuse holder D
+T20d 20-pin connector, black, on data bus diagnostic interface
+T54 54-pin connector, connector A, on telephone transmitter and
+receiver unit
+610 Earth point (audio), under centre console, front
+B300 B415 B421
+B299 Positive connection 3 (30), in main wiring harness
+• •
+10,0 0,35 0,35
+ro or/li or/br
+B300 Positive connection 4 (30), in main wiring harness
+T20d/20 T20d/10
+B299 J533 J533
+B318 Positive connection 4 (30a), in main wiring harness
+• •
+16,0 2,5 0,35 0,35
+ro ro or/li or/br
+Connection 1 (infotainment CAN bus, high), in main wiring
+B415
+E1 47
+R36
+T54/17 T54/18
+harness
+S 11 D 0A 3 S 5A C47 B421 C ha o r n n n e e s c s tion 1 (infotainment CAN bus, low), in main wiring
+✱ 47a T54/1 T54/2 T54/3
+30 31 • CAN bus (data wire)
+* main fuse box, in luggage compartment, rear right, on the battery
+0,5 0,5 0,5 0,5 0,5
+ro/ws ro/ws br br/ws br/ws
+5522 6666
+B318
+0,5 0,5
+ro/ws ro/ws
+5500 6644
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+610 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-027020409
+rs = pink
+Edition 04.2009

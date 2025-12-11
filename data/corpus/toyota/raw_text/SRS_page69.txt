@@ -1,0 +1,59 @@
+RS–69
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+7 CHECK FRONT AIRBAG SENSOR LH (SHORT TO GROUND)
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+F A (c) Measure the resistance according to the value(s) in the
+E DC B table below.
+Standard resistance
+Front Airbag
+Sensor LH
+Tester Connection Condition Specified Condition
+Center Airbag
+A13-2 (+SL) - Body
+Sensor Assembly Always 1 MΩ or higher
+ground
+A13-1 (-SL) - Body
+Always 1 MΩ or higher
+ground
+Connector E
+NG Go to step 12
+A13
+-SL +SL
+C C114791E06
+OK
+8 CHECK FRONT AIRBAG SENSOR LH RS
+(a) Connect the connectors to the center airbag sensor
+assembly.
+(b) Interchange the front airbag sensor RH with LH and
+connect the connectors to them.
+(c) Connect the negative (-) terminal cable to the battery,
+DC
+and wait for at least 2 seconds.
+Front Airbag
+(d) Turn the ignition switch on (IG), and wait for at least 60
+Sensor RH
+seconds.
+Center Airbag
+(e) Clear the DTCs stored in the memory (See page RS-41).
+Sensor Assembly
+(f) Turn the ignition switch off.
+(g) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+(h) Check the DTCs (See page RS-41).
+DTC 83
+Result
+DLC3
+Result Proceed to
+DTC B1608, B1617, B1618, or 84 is output. A
+DTC 84
+DTC B1603, B1612, B1613, or 83 is output. B
+DTC B1603, B1612, B1613, or 83 and B1608, B1617,
+CG TC C
+B1618, or 84 are not output.
+HINT:
+C123723E05
+Codes other than DTC B1608, B1617, B1618, or 84 and
+B1603, B1612, B1613, or 83 may be output at this time,
+but they are not related to this check.

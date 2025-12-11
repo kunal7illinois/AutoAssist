@@ -1,0 +1,43 @@
+GENERAL <ELECTRICAL> 00E-11
+HOW TO DIAGNOSE
+3. Relays may be classified as the normally open-type or the
+NORMAL OPEN (NO) TYPE
+normally closed-type, depending on their contact
+DEENERGIZED STATE ENERGIZED STATE
+construction.
+CURRENT DOES CURRENT FLOWS
+NOT FLOW
+ACX00949AB
+NORMAL CLOSED (NC) TYPE
+DEENERGIZED STATE ENERGIZED STATE
+CURRENT FLOWS CURRENT DOES
+NOT FLOW
+ACX00950AB
+CHECKING FUSES
+M1001005000044
+A blade type fuse has test taps provided to allow checking of
+the fuse itself without removing it from the fuse block. The fuse
+FUSE BLOCK is okay if the test light comes on when its one lead is connected
+to the test taps (one at a time) and the other lead is grounded.
+Remember to turn the ignition switch to ON to ensure all cir-
+cuits are live.
+TEST TAPS
+ACX00951AB
+CAUTIONS IN EVENT OF BLOWN FUSE
+When a fuse is blown, there are two probable causes. One is
+that it is blown due to flow of current exceeding its rating. The
+other is that it is blown due to repeated on/off current flowing
+through it. Which of the two causes is responsible can be easily
+determined by visual check as described below.
+1. Fuse blown due to current exceeding rating
+STATE OF FUSE BLOWN DUE TO The illustration shows the state of a fuse blown due to this
+OVERCURRENT cause. In this case, do not replace the fuse with a new one
+hastily since a current heavy enough to blow the fuse has
+flowed through it. First, check the circuit for shorts and check
+for abnormal electric parts. After correcting shorts or
+replacing parts, use only a fuse of the same capacity as a
+replacement. Never use a fuse of larger capacity than the
+original fuse. If a larger capacity fuse is used, electric parts
+or wiring could be damaged, or could start a fire.
+ACX00952AB
+TSB Revision

@@ -1,0 +1,47 @@
+52B-72 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+STEP 2. Check the clock spring.
+(1) Disconnect the negative battery terminal.
+(2) Disconnect the clock spring connector C-85.
+(3) Connect special tool MB991865 to special tool MB991866.
+DUMMY RESISTOR (3Ω)
+(MB991865) RESISTOR HARNESS CAUTION
+(MB991866) Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+weakened.
+(4) Insert special tool MB991866 into clock spring harness side
+connector C-85 (terminal No.3 and 4) by backprobing.
+(REAR VIEW) (5) Connect the negative battery terminal.
+1 2 3 4 (6) Erase the DTC memory, and then recheck the DTC.
+C-85 CLOCK SPRING Q:Is DTC 62 output?
+HARNESS SIDE CONNECTOR
+YES : Go to Step 3.
+AC102560AD
+NO : Replace the clock spring. Then go to Step 5.
+STEP 3. Check the harness for short circuit to ground
+between the SRS-ECU and the clock spring.
+(1) Disconnect SRS-ECU connector C-72.
+CONNECTOR: C-72
+(2) Disconnect the clock spring connector C-85.
+(3) Measure at the wiring harness side.
+CAUTION
+Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+weakened.
+SRS-ECU (4) Check the continuity between terminals7, 8 and body
+ACCELERATOR PEDAL ground
+CENTER REINFORCEMENT(LH)AC000358AD • There should be open circuit.
+Q:Is the continuity normal?
+CONNECTOR: C-85
+YES : Erase the DTC memory, and recheck if any DTC sets.
+CLOCK
+If DTC 62 sets, replace the SRS-ECU. Refer to
+SPRING
+P.52B-142. Then go to Step 5.
+NO : Go to Step 4.
+AC106436AC
+C-72 CONNECTOR (HARNESS SIDE) REAR VIEW
+1 2 3 4 5 6 7 8
+9 10111213141516
+AC106572AB
+TSB Revision

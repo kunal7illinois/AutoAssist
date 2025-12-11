@@ -1,0 +1,28 @@
+23A-100 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 21. Check harness for damage between MFI relay
+connector A-18X terminal 4 and crankshaft position sensor
+connector B-20 terminal 3.
+Q:Is the harness wire in good condition?
+CONNECTOR: A-18X
+YES : Go to Step 22.
+NO : Repair it.
+BATTERY A-18X
+FRONT OF VEHICLE
+AC102447AE
+CONNECTOR: B-20
+<2.4L ENGINE>
+B-20
+AC004926AC
+CONNECTOR: B-20
+<3.0L ENGINE>
+B-20
+AC004927AC
+STEP 22. Check the crankshaft position sensor vane.
+Q:Is the vane in good condition?
+YES : Replace the crankshaft position sensor. Refer to
+GROUP 16, Ignition System − Crankshaft Position
+Sensor Removal and Installation <2.4L Engine>P.16-
+55 or <3.0L Engine>P.16-56 .
+NO : Repair or replace it.
+TSB Revision

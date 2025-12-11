@@ -1,0 +1,30 @@
+23A-238 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 9. Check connector C-54 <2.4L Engine> or C-55
+<3.0L Engine> at PCM for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE> YES : Repair harness open circuit between A/T control relay
+connector A-19X terminal 4 and PCM connector C-54
+PCM <2.4L Engine> or C-55 <3.0L Engine> terminal 50.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+STEP 10. Check harness for short circuit to ground
+between A/T control relay connector A-17X terminal 2 and
+PCM connector C-54 <2.4L Engine> or C-55 <3.0L Engine>
+terminal 50.
+Q:Is the harness wire in good condition?
+CONNECTOR: A-17X
+YES : Go to Step 11.
+NO : Repair it.
+BATTERY A-17X
+FRONT OF VEHICLE
+AC102447AF
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE>
+PCM
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+TSB Revision

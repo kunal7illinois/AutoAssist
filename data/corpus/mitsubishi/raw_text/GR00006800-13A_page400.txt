@@ -1,0 +1,57 @@
+13A-400 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR:B-34 CONNECTOR: A-18X
+IDLE AIR
+MFI RELAY
+CONTROL MOTOR
+ACX02519AI AK101363AB
+CONNECTORS:C-49<M/T>,C-50<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-49,C-50
+AK000280BC
+. • Under the closed loop idle speed control.
+CIRCUIT OPERATION
+• The idle air control motor power is supplied from • Engine coolant temperature is higher than 77°C
+(171°F).
+the MFI relay (terminal 4).
+• The ECM (terminals 4, 5, 17, 18) <M/T> or PCM • Battery positive voltage is higher than 10 volts.
+• Barometric pressure is higher than 76 kPa (11
+(terminals 14, 15, 28, 29) <A/T> drives the step-
+psi).
+per motor by sequentially turning "ON" the power
+• Intake air temperature is higher than −10°C
+transistors in the ECM <M/T> or PCM <A/T> and
+(14°F).
+providing ground to the idle air control motor (ter-
+• 25 seconds have elapsed from the start of the
+minals 1, 3, 4, 6).
+previous monitoring.
+• Target idle air control motor position is 0 steps.
+.
+TECHNICAL DESCRIPTION
+• The amount of air taken in during idling is regu- Judgment Criteria
+lated by the opening and closing of the servo • Actual idle speed has continued to be higher than
+valve located in the air passage that bypasses the target idle speed by 200 r/min (300 r/min*) or
+the throttle body. more for 12 seconds.
+• If there is a malfunction of the IAC system, the *: Specs in parentheses are applicable if the max-
+actual engine speed will not be identical to the imum air temperature during the previous
+target engine speed. operation was more than 45°C (113°F).
+• The ECM <M/T> or PCM <A/T> checks the differ-
+.
+ence between the actual engine speed and the TROUBLESHOOTING HINTS (The most likely
+target engine speed. causes for this code to be set are: )
+• Idle air control motor failed.
+. DTC SET CONDITIONS • Open or shorted idle air control motor circuit, or
+loose connector.
+Check Conditions
+• ECM failed. <M/T>
+• Vehicle speed has reached 1.5 km/h (0.93 mph)
+• PCM failed. <A/T>
+or more at least once.
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+• MB991709: Test harness Set
+TSB Revision

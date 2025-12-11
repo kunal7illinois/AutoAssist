@@ -1,0 +1,56 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+2.4.3 Checking electric supplementary heater
+The supplementary heater element -Z35- is only installed on ve‐
+hicles with diesel engine.
+Note
+♦ An electric supplementary air heater is currently fitted on ve‐
+hicles with diesel engine ⇒ Audi sales range . Heat energy is
+supplied to the air after leaving the heat exchanger of the air
+conditioner unit in the event of a request from the air condi‐
+tioner operating unit, Climatronic control unit -J255- .
+♦ The electric supplementary heater ( supplementary air heater
+element -Z35- ) is actuated by way of the corresponding en‐
+gine control unit (the control units exchange the appropriate
+information by way of the data bus) ⇒ "Guided fault-finding"
+function of vehicle diagnostic, testing and information system
+VAS 5051 and ⇒ Current flow diagrams, Electrical fault finding
+and Fitting locations.
+♦ The measured value block of the air conditioner operating unit,
+Climatronic control unit -J255- shows that the electric supple‐
+mentary heater is being actuated or indicates why there is no
+actu a tion in spite of a low ambient temperature ⇒ "Guided
+fault-finding" function of vehicle diagnostic, testing and infor‐
+mation system VAS 5051 .
+♦ Vehicles with petrol engine are currently not fitted with a sup‐
+plementary heater.
+♦ For checking actuation of the supplementary air heater ele‐
+ment -Z35- , refer to the guided fault-finding routine for the
+engine fitted in this vehicle ⇒ "Guided fault-finding" function
+of vehicle diagnostic, testing and information system
+VAS 5051 .
+♦ For checking the resistance value of the supplementary air
+heater element -Z35- , refer to ⇒ "Guided fault-finding" func‐
+tion of vehicle diagnostic, testing and information system
+VAS 5051.
+Cut-in criteria for actuation of supplementary heater
+Note
+On vehicles with air conditioner (or with heater only), the cut-in
+criteria must be satisfied in the air conditioner (heater) operating
+unit, Climatronic control unit -J255- and in the corresponding en‐
+gine control unit.
+– The following prerequisites must be met for the air conditioner
+(heater) operating unit, Climatronic control unit -J255- to trans‐
+mit a request for supplementary heater activation to the engine
+control unit:
+♦ Engine running for at least 8 seconds and engine speed higher
+than 500 rpm.
+♦ Engine temperature less than 75 °C.
+♦ Calculated ambient temperature less than 8 °C.
+♦ Electrical system voltage greater than 12.2 V and onboard
+supply control unit -J519- not transmitting any request pre‐
+venting activation.
+♦ No faults stored in air conditioner (heater) operating unit, Cli‐
+matronic control unit -J255- .
+29
+2. Notes on air conditioner repair work

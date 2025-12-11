@@ -1,0 +1,39 @@
+RF–23
+SLIDING ROOF – SLIDING ROOF SYSTEM
+OK
+3 DELETE DTC
+(a) Delete the DTCs (See page RF-8).
+NEXT
+END
+4 INSPECT ROOF CONSOLE BOX ASSEMBLY (SLIDING ROOF CONTROL SWITCH)
+(a) Remove the roof console box assembly.
+(b) Measure the resistance according to the value(s) in the
+Roof Console Box Assembly
+Connector: table below.
+Standard resistance RF
+Tester Connection Switch Position Specified Condition
+Q6-1 (CLS) - Q6-3 (GND) CLOSE Below 100 Ω
+Q6-2 (OPN) - Q6-3
+OPEN Below 100 Ω
+(GND)
+Q6-4 (DOWN) - Q6-3
+DOWN Below 100 Ω
+(GND)
+Q6-5 (UP) - Q6-3 (GND) UP Below 100 Ω
+Q6-1 (CLS) - Q6-3 (GND) OPEN 1 kΩ or higher
+Q6-2 (OPN) - Q6-3
+CLOSE 1 kΩ or higher
+(GND)
+Q6-4 (DOWN) - Q6-3
+UP 1 kΩ or higher
+(GND)
+Sliding Roof Control Switch Q6-5 (UP) - Q6-3 (GND) DOWN 1 kΩ or higher
+OK Go to step 10
+Q6
+B131165E02
+NG
+5 REPLACE ROOF CONSOLE BOX ASSEMBLY (SLIDING ROOF CONTROL SWITCH)
+(a) Temporarily replace the roof console box assembly
+(sliding roof control switch) with a new one or normally
+functioning one (See page LI-105).
+NEXT

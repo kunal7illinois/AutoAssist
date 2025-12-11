@@ -1,0 +1,43 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+♦ No faults stored in engine control unit and capacity utilisation
+of alternator -C- less than 30 ... 77 % (depending on engine
+speed).
+♦ On the basis of the setting and the temperatures measured,
+the air conditioner (heater) operating unit, Climatronic control
+unit -J255- has calculated that additional heat output is re‐
+quired to attain the specified passenger compartment temper‐
+ature.
+♦ The air conditioner (heater) operating unit, Climatronic control
+unit -J255- has calculated that more than 90 % of the air is
+being routed through the heat exchanger of the air conditioner
+unit.
+Note
+On vehicles with 3-stage supplementary air heater elements -
+Z35- , the engine control unit actuates the two supplementary
+heating relays such that the capacity utilisation of the alternator -
+C- does not exceed 95 % ⇒ "Guided fault-finding" function of
+vehicle diagnostic, testing and information system VAS 5051 (for
+the engine control unit) and ⇒ Current flow diagrams, Electrical
+fault finding and Fitting locations. The next stage is only switched
+in if the capacity utilisation of the alternator -C- is less than 30 ...
+77 % depending on engine speed.
+Shutoff criteria for actuation of supplementary heater
+Note
+Deactivation takes place as soon as a cut-in criterion is no longer
+satisfied in the air conditioner (heater) operating unit, Climatronic
+control unit -J255- and the corresponding engine control unit or if
+one of the shutoff criteria is detected.
+– The air conditioner (heater) operating unit, Climatronic control
+unit -J255- cancels the request for activation of the electric
+supplementary heater if:
+♦ One of the cut-in prerequisites is no longer satisfied.
+♦ The calculated ambient temperature is greater than 11 °C.
+♦ The capacity utilisation of the alternator -C- is greater than 95
+%.
+♦ The air conditioner (heater) operating unit, Climatronic control
+unit -J255- has calculated that less than 60 % of the air is being
+routed through the heat exchanger of the air conditioner unit
+(heater) (position of temperature flaps).
+30
+Rep. Gr.87 - Air conditioning system

@@ -1,0 +1,30 @@
+SR–14
+STEERING COLUMN – ELECTRIC STEERING LOCK
+TERMINALS OF ECU
+E51
+C106482E05
+1. STEERING LOCK ACTUATOR ASSEMBLY
+(STEERING LOCK ECU)
+Terminal No. (Symbols) Wiring Color Terminal Description Condition Specified Condition
+E51-1 (GND) - Body
+W-B - Body ground Ground Always Below 1 V
+ground
+E51-2 (SGND) - Body
+W-B - Body ground Signal ground Always Below 1 V
+ground
+• Motor is in operation
+E51-3 (IGE) - E51-1 Power source for driving • Below 1 V
+BR - W-B • Motor is not in
+(GND) motor • 10 to 12 V
+operation
+• Steering is locked
+SR E51-4 (SLP1) - E51-2 P - W-B Unlock position sensor • Steering lock is • 10 to 14 V
+(SGND) output signal • Below 1 V
+released
+E51-5 (LIN) - E51-2
+O - W-B LIN communication bus Engine switch on (IG) Pulse generation
+(SGND)
+E51-6 (IG2) - E51-1
+B - W-B IG signal input Engine switch on (IG) 10 to 14 V
+(GND)
+E51-7 (B) - E51-1 (GND) P - W-B Power source Always 10 to 14 V

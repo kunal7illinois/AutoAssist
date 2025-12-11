@@ -1,0 +1,31 @@
+54A-66 CHASSIS ELECTRICAL
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 30. Check the ground voltage at PCM connector C-50
+<2.4L> or C-52 <3.0L> by backprobing.
+(1) Do not disconnect connector C-50 <2.4L> or C-52 <3.0L>.
+CONNECTORS: C-50 <2.4L-A/T>,
+C-52 <3.0L-A/T> (2) Turn the ignition switch to the "ON" position.
+PCM
+AC001689AY
+(3) Measure the voltage between terminal 16 and ground by
+C-50 <2.4L>, C-52 <3.0L>
+backprobing.
+CONNECTOR
+HARNESS SIDE VIEW • The measured value should be 0.5 volt or less.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Does the measured voltage correspond with this range?
+1 2 3 4 5 6 7 8
+9 10 11121314151617181920212223 YES : Go to Step 32.
+24 25 26272829 30313233 3435
+NO : Go to Step 31.
+AC101969AC
+STEP 31. Check connector C-50 <2.4L> or C-52 <3.0L> at
+PCM for damage.
+Q:Is the connector in good condition?
+CONNECTORS: C-50 <2.4L-A/T>,
+C-52 <3.0L-A/T> YES : Go to Step 32.
+NO : Repair or replace the connector. Refer to GROUP
+PCM 00E, Harness Connector Inspection P.00E-2. The
+speedometer should work normally.
+AC001689AY
+TSB Revision

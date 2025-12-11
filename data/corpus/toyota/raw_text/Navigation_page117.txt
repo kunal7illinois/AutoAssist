@@ -1,0 +1,33 @@
+NS–117
+NAVIGATION – NAVIGATION SYSTEM
+Display does not Dim when Light Control Switch is Turned ON
+INSPECTION PROCEDURE
+1 CHECK IMAGE QUALITY SETTING
+(a) Enter the display adjustment screen by pressing the
+"DISP" switch.
+(b) Turn the light control switch to the TAIL position.
+(c) Check if "DAY MODE" on the display adjustment is ON.
+OK:
+"DAY MODE" is ON.
+NG Go to step 2
+E125813E01
+OK
+TURN "DAY MODE" SETTING OFF
+2 CHECK VEHICLE SIGNAL (DISPLAY CHECK MODE)
+(a) Enter the "Display Check" mode (Vehicle Signal Check)
+(See page NS-22).
+(b) Check that the display changes between ON and OFF
+according to the light control switch operation.
+OK
+Light Control Switch Display
+TAIL or ON ON
+OFF OFF
+HINT:
+E125810E01
+The display is updated once per second. It is normal for
+the display to lag behind the actual switch operation.
+NG PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+OK
+REPLACE RADIO AND NAVIGATION ASSEMBLY
+NS

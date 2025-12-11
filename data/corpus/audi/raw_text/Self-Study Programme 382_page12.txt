@@ -1,0 +1,39 @@
+Electrical system and convenience electronics
+Master function for terminal 15 across the powertrain CAN-bus
+As in the Audi A3´04, information transmitted across the powertrain CAN bus includes a run-on function.
+This allows the various control units to transmit information relevant to safety even when the ignition is off.
+With regard to terminal 15 run-on, there are three different groups of powertrain CAN bus control units:
+Active and passive control units as well as control units without run-on.
+Active control units are control units which are able to keep the powertrain CAN bus awake.
+Passive control units remain awake until the gateway signa l s it is ready to enter Sleep mode, but cannot
+independently keep the powertrain CAN bus awake.
+Control units without run-on function shut off immediately after "ignition off".
+active passive without
+Four-wheel drive
+Engine control unit Steering angle sensor
+control unit
+J623 G85
+J492
+Direct shift gearbox Selector lever Headlight range control,
+mechatronics E313 control unit
+J743 J431
+ESP control unit Airbag control unit
+J104 J234
+Power steering control unit ECD control unit (electronically
+J500 controlled damping)
+J250
+Tyre pressure monitor
+control unit 2
+Data bus diagnostic interface J793
+J533
+382_045
+Coding the gateway
+Difference to the Audi A3´04
+When coding the gateway, the derivative (body
+version) "Coupé, sports car" must be selected for the
+Audi TT Coupé´07.
+Reference
+For information on coding the
+gateway, refer to Self-Study
+Programme 312.
+12

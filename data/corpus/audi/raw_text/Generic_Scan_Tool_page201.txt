@@ -1,0 +1,53 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Using a multimeter, check the Data Bus On Board Diagnostic
+Interface -J533- electrical harness connector to the Engine
+Control Module (ECM) -J623- electrical harness connector
+T94 for short to ground, high resistance or an open circuit.
+Refer to Wiring Diagrams for pin locations.
+Data Bus On Board Diag‐ Engine Control Module (ECM) -
+nostic Interface -J533- J623- electrical connector T94 ter‐
+electrical harness connec‐ minals or test box sockets
+tor terminals
+6 (Can Bus Low) 67
+16 (Can Bus High) 68
+Specified value: 1.5 Ω Max.
+If the specified value was Not obtained:
+– Check the wiring connection for short to ground, high resist‐
+ance or an open circuit.
+– Check the wiring connection for damage, corrosion, loose or
+broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is found in the wiring and the Terminal Resist‐
+ance was Not OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+If no malfunction is found in the wiring and the Terminal Resist‐
+ance was OK:
+– Replace the Data Bus On Board Diagnostic Interface -J533- .
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.44 CAN-Bus Terminal Resistance, Trans‐
+mission Control Module to Engine Con‐
+trol Module, Checking
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Wiring diagram.
+Test requirement
+• A CAN-Bus malfunction was recognized.
+• The Engine Control Module (ECM) - J623- Direct Shift Gear‐
+box (DSG) Mechatronic -J743- fuses OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+197
+3. Diagnosis and Testing

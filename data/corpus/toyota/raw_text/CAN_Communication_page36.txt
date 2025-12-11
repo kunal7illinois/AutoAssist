@@ -1,0 +1,45 @@
+CA–36
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+HINT:
+Operating the ignition switch, any other switches or any triggers related ECU and sensor communication
+on the CAN, which would cause resistance reading variations.
+1 CHECK CAN MS BUS WIRE
+(a) Turn the ignition switch off.
+Certification ECU Connector:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Specified
+E58 Condition Proceed to
+Connection Condition
+E58-27 (CANH) - Ignition switch
+54 to 69 Ω A
+E58-28 (CANL) off
+E58-27 (CANH) - Ignition switch
+69 Ω or more B
+E58-28 (CANL) off
+E58-27 (CANH) - Ignition switch
+54 Ω or less C
+E58-28 (CANL) off
+CANL CANH
+CA B Go to step 9
+B139430E05 C Go to step 11
+A
+2 CHECK SHORT TO +B IN CAN MS BUS WIRE
+(a) Turn the ignition switch off.
+Certification ECU Connector:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E58
+E58-27 (CANH) - E58-1
+Ignition switch off 6 kΩ or higher
+(+B)
+E58-2 (CANL) - E58-1
+Ignition switch off 6 kΩ or higher
+(+B)
+NG Go to step 5
+CANL CANH +B
+B139430E06
+OK

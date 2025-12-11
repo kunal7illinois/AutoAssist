@@ -1,0 +1,16 @@
+54B-70 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+General Circuit Diagram for Seat Belt Tone Alarm Function
+INSPECTION PROCEDURE B-1: Tone Alarm: Ignition Key Reminder Tone Alarm Function does not
+Work Normally.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+Ignition Key Reminder Tone Alarm Function
+.
+CIRCUIT OPERATION
+The ETACS-ECU operates the ignition key reminder • Ignition switch (IG1): OFF
+tone alarm function, based on input signals from the • Key reminder switch: OFF
+following switches: • Driver(cid:146)s door switch: ON
+TSB Revision

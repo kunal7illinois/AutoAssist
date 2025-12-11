@@ -1,0 +1,86 @@
+F RELAY LOCATIONS
+: Instrument Panel J/B Cowl Side Left (See Page 20)
+IM
+20191817161514131211
+10 9 8 7 6 5 4321
+IJ
+(from Instrument Panel Wire)
+1 23456
+7 89101112
+IK
+161514131211109
+87654 3 2 1 (from Instrument Panel Wire)
+(from Instrument Panel Wire) Yellow
+9
+1
+1
+2
+01
+3
+11
+4
+21
+5
+31
+6
+41
+7
+51
+8
+6 1
+1
+11
+2
+21
+3
+31
+4
+41
+5
+51
+6
+61
+7
+71
+8
+81
+9
+9
+1
+2
+0
+0 65432 1
+12111098 7
+IL IE 123456
+1211109 8 7 78 910
+6 5 4 3 2 1
+(from Instrument Panel Wire)
+(from Instrument Panel Wire) 7 8 9101112 11121314151617181920 654321
+1 2 3 4 5 6 12345 6 7 8 910 109 87
+IF
+IC 20191817161514131211
+1413121110 9 8 109 8 7 6 5 4321
+7 6 5 4 3 2 1
+(from Instrument Panel Wire)
+(from Engine Room Main Wire) 8 1 9 2 1 3 01 4 11 5 21 6 31 7 4 1 91 2 01 3 11 4 21 5 31 6 41 7 51 8 6 654321
+121110987
+ID IR 123456
+161514131211109 789101112
+8 7 6 5 4 321
+(from Instrument Panel Wire)
+(from Engine Room Main Wire) 2 1 1 7 1 8 2 9 3 1 4 01 5 11 6 2 7 1 8 2 9 3 1 4 01 5 11 6 2 13 IO
+IB 13 1 6 21 5 11 4 09 3 8 2 7 1
+1 2
+(from Floor Wire)
+(from Engine Room Main Wire)
+IP
+IA 2 1 2 4 1 3 2 1 3 1211109 8 7
+5 5 1 2 5 1 2 6 5 4 3 2 1
+1 3 3 3
+5 5 (from Floor Wire)
+(from Engine Room Main Wire)
+FOG Relay IG1 Relay
+PWR Relay
+TAIL Relay ACC Relay
+30
+CAMRY (EM0250U)

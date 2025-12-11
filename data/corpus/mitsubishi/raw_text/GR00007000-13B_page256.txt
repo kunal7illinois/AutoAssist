@@ -1,0 +1,60 @@
+13B-256 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Check the fuel pressure.
+Refer to Fuel Pressure Test P.13B-680.
+Q:Is the fuel pressure normal?
+YES : Go to Step 9.
+NO : Repair or replace it. Then go to Step 10.
+STEP 9. Replace the right bank injector.
+(1) Replace the right bank injector.
+CONNECTORS : B-01, B-05, B-26
+(2) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 2 − Fuel Trim Monitor P.13B-6.
+B-05 B-26 (3) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0172 is output?
+YES : Replace the ECM or PCM. Then go to Step 10.
+NO : The inspection is complete.
+B-01
+AK000210AB
+STEP 10. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 2 − Fuel Trim Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0172 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0174: System too Lean (bank 2)
+. • Intake air temperature is lower than 60°C (140°F)
+System too Lean (bank 2) Circuit
+• Refer to DTC P0202, P0204, P0206 − Injector when the engine is started.
+• Under the closed loop air/fuel ratio control.
+Circuit P.13B-292.
+• Engine coolant temperature is higher than 77°C
+(171°F).
+.
+CIRCUIT OPERATION
+• Volume air flow sensor output frequency is 75 Hz
+• Refer to DTC P0202, P0204, P0206 − Injector
+or more.
+Circuit P.13B-292.
+Judgment Criteria
+. • Long-term fuel trim has continued to be higher
+TECHNICAL DESCRIPTION
+• If a malfunction occurs in the fuel system, the fuel than +12.5 percent for 5 seconds.
+or
+trim value becomes too large.
+• The ECM <M/T> or PCM <A/T> checks whether • Short-term fuel trim has continued to be higher
+than +7.4 percent for 5 seconds.
+the fuel trim value is within a specified range.
+Check Area
+. DTC SET CONDITIONS • Engine coolant temperature is lower than approx-
+imately 100°C (212°F) when the engine is
+Check Area
+started.
+• Engine coolant temperature is lower than approx-
+• Intake air temperature is lower than 60°C (140°F)
+imately 100°C (212°F) when the engine is
+when the engine is started.
+started.
+• Under the closed loop air/fuel ratio control.
+TSB Revision

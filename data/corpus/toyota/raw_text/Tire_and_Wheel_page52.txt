@@ -1,0 +1,56 @@
+TW–51
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+(b) Display the "Tire Inflation Pressure" data for each wheel
+using the intelligent tester.
+(c) Rapidly reduce the tire pressure for each wheel at least
+40 kPa (0.41 kg/cm2, 5.8 psi) within 30 seconds. If "Tire
+Inflation Pressure" displayed on the tester (ID1 to ID4 or
+ID5) does not change, the tire pressure monitor valve
+corresponds to the DTC that was detected.
+HINT:
+• Identify the malfunctioning tire pressure monitor valve
+by repeatedly decreasing the tire pressure for each
+tire.
+• Record which "TIREPRESS" data (ID1 to ID4 or ID5)
+corresponds to each tire.
+Measurement Item/Range
+Item Normal Condition Diagnostic Note
+(display)
+ID1 tire inflation pressure/
+TW
+TIREPRESS1 min.: 0 kPa (0 kgf/cm2, 0 psi), max.: Actual tire inflation pressure -
+637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+ID2 tire inflation pressure/
+TIREPRESS2 min.: 0 kPa (0 kgf/cm2, 0 psi), max.: Actual tire inflation pressure -
+637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+ID3 tire inflation pressure/
+TIREPRESS3 min.: 0 kPa (0 kgf/cm2, 0 psi), max.: Actual tire inflation pressure -
+637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+ID4 tire inflation pressure/
+TIREPRESS4 min.: 0 kPa (0 kgf/cm2, 0 psi), max.: Actual tire inflation pressure -
+637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+ID5 tire inflation pressure/
+TIREPRESS5 min.: 0 kPa (0 kgf/cm2, 0 psi), max.: Actual tire inflation pressure -
+637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+(d) Check the DATA LIST.
+Result
+Condition Detection Condition
+One of "Tire Inflation Pressure" data (ID1 to ID4 or ID5) changed. Normal
+"Tire Inflation Pressure" data did not change. Transmitter corresponding to DTC
+NOTICE:
+• When "TIREPRESS" data has not changed, reset
+the tire pressure to the appropriate specified
+value and rotate the tire 90 to 270 degrees. Then
+forcibly transmit the transmitter ID and recheck.
+• Record the transmitter ID and position of
+transmitters that are normal.
+(e) When the "TIREPRESS" data (ID1 to ID4 or ID5) has
+changed, repeat this procedure to identify the tire
+pressure warning valve and transmitter that corresponds
+to a DTC.
+(f) When all of the "TIREPRESS" data (ID1 to ID4 or ID5)
+have changed, identify the malfunctioning tire pressure
+warning valve and transmitter using recorded ID
+numbers and output DTC.
+(g) Set the tire pressures to the appropriate specified
+values.

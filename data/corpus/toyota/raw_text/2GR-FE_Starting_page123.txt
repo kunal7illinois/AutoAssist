@@ -1,0 +1,36 @@
+ST–123
+2GR-FE STARTING – SMART KEY SYSTEM
+Wire Harness Side:
+E7 E52
+Main Body ECU Engine Switch
+SS1
+SS2 GND
+SSW1
+SSW2
+B137980E01
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection
+Condition Specified Condition
+(Symbols)
+E52-7 (SS1) - E7-17
+Always Below 1 Ω
+(SSW1)
+E52-2 (SS2) - E7-16
+Always Below 1 Ω
+(SSW2)
+E52-5 (GND) - Body
+Always Below 1 Ω
+ground
+E52-7 (SS1) or E7-17
+Always 10 kΩ or higher
+(SSW1) - Body ground
+E52-2 (SS2) or E7-16
+Always 10 kΩ or higher
+(SSW2) - Body ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE MAIN BODY ECU
+ST

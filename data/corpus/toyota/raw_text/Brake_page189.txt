@@ -1,0 +1,41 @@
+BC–183
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+2 INSPECT VSC NO. 2 RELAY
+(a) Remove the VSC NO. 2 relay.
+VSC NO. 2 Relay:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+3 - 5 Always 10 kΩ or higher
+Apply B+ between
+3 - 5 Below 1 Ω
+terminals 1 and 2
+F050240E07 NG REPLACE VSC NO. 2 RELAY
+OK
+3 INSPECT VSC NO. 1 (FAIL SAFE) RELAY BC
+(a) Remove the VSC NO. 1 (fail safe) relay.
+VSC NO. 1 (Fail Safe) Relay:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+3 - 5 Always 10 kΩ or higher
+Apply B+ between
+3 - 5 Below 1 Ω
+terminals 1 and 2
+F050241E11 NG REPLACE VSC NO. 1 (FAIL SAFE) RELAY
+OK
+4 INSPECT ENGINE ROOM RELAY BLOCK (POWER SOURCE TERMINAL)
+(a) Measure the voltage according to the value(s) in the
+Engine Room R/B:
+VSC NO. 1 (Fail Safe) Relay table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+VSC NO. 1 (fail safe) relay terminal 5 -
+Always 10 to 14 V
+Body ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (POWER SOURCE CIRCUIT)
+C135809E01
+OK

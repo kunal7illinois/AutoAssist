@@ -1,0 +1,33 @@
+35C-26 TRACTION CONTROL SYSTEM (TCL)
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+STEP 6. Check the continuity between the combination
+meter and the ABS-ECU.
+Check the continuity between the combination meter connector
+CONNECTOR: A-02
+C-41 (terminal 42) and ABS-ECU connector A-02 (terminal 20).
+Q:Is there the continuity between the combination meter
+connector C-41 (terminal 42) and the ABS-ECU
+connector A-02 (terminal 20)?
+HARNESS SIDE YES : Replace the hydraulic unit (integrated with ABS-ECU)
+(Refer to GROUP 35B, Hydraulic Unit P.35B-52.) and
+then go to Step 9.
+NO : Repair the harness wire and then go to Step 9.
+AC001985AF
+CONNECTOR: C-41
+COMBINATION METER
+HARNESS SIDE
+AC004482AC
+STEP 7. Check connectors C-41, C-108, and C-111.
+Refer to GROUP 00E, Harness Connector Inspection P.00E-2.
+CONNECTOR: C-41
+COMBINATION METER Q:Is any of the connectors damaged?
+YES : Repair it and then go to Step 9.
+NO : Go to Step 8.
+AC004482AB
+CONNECTORS: C-108, C-111
+JUNCTION BLOCK
+(FRONT VIEW)
+C-108
+C-111
+AC102831AC
+TSB Revision

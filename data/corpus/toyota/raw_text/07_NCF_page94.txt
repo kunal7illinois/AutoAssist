@@ -1,0 +1,34 @@
+ENGINE - 2AZ-FE ENGINE EG-67
+b. Atmospheric Pressure Measurement
+1)When the ignition switch is turned OFF, the purge VSV and the vent valve are turned OFF. Therefore,
+atmospheric pressure is introduced into the canister.
+2)The ECM measures the atmospheric pressure based on the signals provided by the canister pressure
+sensor.
+3)If the measurement value is out of standards, the ECM actuates the leak detection pump in order to
+monitor the changes in the pressure.
+Atmosphere
+Purge VSV
+(OFF)
+Canister Pump Module
+Vent Valve
+(OFF)
+M
+ECM Leak Detection Pump
+& Pump Motor
+P
+Canister Pressure
+Sensor
+060XA20C
+ON (Open)
+Purge VSV
+OFF (Close)
+ON
+Vent Valve
+OFF (Vent)
+ON
+Pump Motor
+OFF
+Atmospheric Pressure
+System Pressure
+Atmospheric Pressure Measurement
+D13N22

@@ -1,0 +1,27 @@
+54B-594 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check the liftgate lock key cylinder switch
+<ECLIPSE> or the trunk lid lock key cylinder switch
+<ECLIPSE SPYDER> ground circuit at trunk lid lock key
+cylinder switch connector F-10.
+(1) Disconnect liftgate lock key cylinder switch <ECLIPSE> or
+CONNECTOR <ECLIPSE>: F-10
+trunk lid lock key cylinder switch <ECLIPSE SPYDER>
+connector F-10 and measure at the harness side.
+DEVICE SIDE
+1 2
+AC106489AJ
+CONNECTOR <ECLIPSE SPYDER>: F-10
+DEVICE SIDE
+1 2
+AC106491AG
+(2) Measure the resistance between terminal 2 and ground.
+• The measured value should be 2 ohm or less.
+Q:Does the measured resistance value correspond with
+CONNECTOR F-10
+this range?
+(HARNESS SIDE)
+YES : Go to Step 5.
+2 1 NO : Go to Step 3.
+AC002179AD
+TSB Revision

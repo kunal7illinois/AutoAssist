@@ -1,0 +1,23 @@
+EI–88
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+2 CHECK DTC OUTPUT
+(a) Separate the keys from each other, or remove the key
+ring.
+(b) Delete the DTCs (See page EI-69).
+(c) Insert a key into the ignition key cylinder and remove the
+key. Repeat for all the other keys of the vehicle.
+OK:
+No code is output.
+OK END
+NG
+3 CHECK TRANSPONDER KEY AMPLIFIER
+(a) After replacing the transponder key amplifier (See page
+LI-112) with a normally functioning amplifier, check that
+the engine starts.
+OK:
+The engine starts.
+NG REPLACE TRANSPONDER KEY ECU
+ASSEMBLY
+OK
+END
+EI

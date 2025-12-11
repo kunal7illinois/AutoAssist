@@ -1,0 +1,41 @@
+Audi TT No. 32 / 13
+Current Flow Diagram
+Navigation system with CD drive control unit, iPod holder
+J401 Navigation system with CD drive control unit
+R192 iPod holder
+T12a 12-pin connector, black, on CD changer
+T12f 12-pin connector, blue, radio connector B
+T12r 12-pin connector, black, on iPod holder
+280 Earth connection, in communications wiring harness
+R192
+T12r T12r/11 T12r/12 T12r/3 T12r/1 T12r/8
+/7
+0,21
+sw
+a
+b
+0,21 0,21 0,21 0,21 0,21 0,35 0,21
+sw gr li bl ge ro gn
+115555 115566 115577 115599 116611 J401 116644 116666
+T12f/11 T12f/12 T12f/6 T12f/4 T12f/10
+111188 116699
+0,5 0,35 0,35 0,35 0,35 0,35 0,35
+br sw li ws bl ro/bl li/ro
+280
+0,35 0,35
+br br
+T12a/3 T12a/1 T12a/2 T12a/4 T12a/6 T12a/8
+ws = white
+sw = black
+ro = red
+0,21 0,21 0,21 0,21 0,21 0,35 0,21
+sw gr li bl ge ro gn br = brown
+gn = green
+115555 115566 115577 115599 116611 116644 116666 bl = blue
+gr = grey
+li = purple
+ge = yellow
+155 156 157 158 159 160 161 162 163 164 165 166 167 168 or = orange
+8J0-032130906
+rs = pink
+Edition 04.2009

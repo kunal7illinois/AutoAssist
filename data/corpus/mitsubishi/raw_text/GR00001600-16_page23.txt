@@ -1,0 +1,46 @@
+ENGINE ELECTRICAL 16-23
+STARTING SYSTEM
+• For models equipped with A/T, when the ignition
+switch is switched to the "ST" position while the
+selector lever is at the "P" or "N" position, the
+contact (magnetic switch) of the starter is
+switched ON and the starter motor is activated.
+DIAGNOSIS
+M1162000700163
+TROUBLESHOOTING HINTS
+The starter motor does not operate at all.
+• Check the starter (coil).
+• Check for poor contact at the battery terminals and
+starter.
+• Check the park/neutral position switch. <A/T>
+• Check starter relay. <M/T>
+• Check the clutch pedal position switch.
+• Check the theft-alarm starter relay.
+The starter motor doesn’t stop
+• Check the starter (magnetic switch).
+TROUBLESHOOTING GUIDE
+The starting system troubleshooting guide is shown in the fol-
+lowing chart.
+STEP 1.
+Q:Is the battery in good condition? (Refer to GROUP 54A,
+Battery − On-vehicle Service − Battery Check P.54A-5).
+YES : Go to Step 2.
+NO : Charge or replace the battery.
+STEP 2.
+• Disconnect the starter motor S (solenoid) terminal connec-
+tor.
+• Using a jumper wire, apply battery positive voltage to the
+starter motor S (solenoid) terminal.
+• Check the engine condition.
+OK: Turns normally
+Q:Dose the starter motor operate normally?
+YES : • Check the ignition switch (Refer to GROUP 54A,
+Ignition Switch - Ignition Switch P.54A-236.)
+• Check the starter relay.
+• Check the park/neutral position switch. (Refer to
+GROUP 23A, On-vehicle Service − Essential
+Service P.23A-351.)
+• Check the line between the battery and starter
+motor S (solenoid) terminal.
+NO : Go to Step 3.
+TSB Revision

@@ -1,0 +1,47 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-131
+SRS AIR BAG DIAGNOSIS
+CONNECTOR: C-72 CONNECTORS: C-108, C-111
+JUNCTION BLOCK
+(FRONT VIEW)
+C-108
+C-111
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH)AC000358AD
+AC102831AC
+CONNECTOR: C-29
+CONNECTOR: C-77
+COMBINATION METER
+COMBINATION
+METER
+AC000800AC AC004427AB
+CIRCUIT OPERATION TECHNICAL DESCRIPTION (COMMENT)
+• The SRS-ECU is powered from the ignition • If communication is not possible with the SRS
+switch (IG1). only, the cause is probably an open circuit in the
+• The SRS-ECU power is supplied from two cir- on-board diagnostic output circuit of the SRS or
+cuits. Even if one circuit is shut off, the air bag in the power circuit (including ground circuit).
+can inflate.
+TROUBLESHOOTING HINTS
+• The SRS system diagnosis can be done by con-
+• Damaged wiring harnesses or connectors
+necting scan tool MB991502 to the data link con-
+• Malfunction of the SRS-ECU
+nector.
+• Incorrect scan tool (MUT-II) ROM pack
+• The SRS-ECU judges how severe a collision is
+by detecting signals from the left and right side
+impact sensors and the analog G-sensor. If the
+impact is over a predetermined level, the SRS-
+ECU outputs an ignition signal. At this time, if the
+safing G-sensor is on, the SRS air bag will inflate.
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223 (MB991222): Harness set (Probe)
+STEP 1. Check that the scan tool can communicate with
+the other systems.
+Q:Can the scan tool communicate with the other systems?
+YES : Go to Step 2.
+NO : Refer to GROUP 13A, Diagnosis P.13A-434 GROUP
+13B, Diagnosis P.13B-530.
+TSB Revision

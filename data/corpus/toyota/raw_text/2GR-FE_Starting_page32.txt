@@ -1,0 +1,51 @@
+ST–32
+2GR-FE STARTING – SMART KEY SYSTEM
+ON-VEHICLE INSPECTION
+1. CHECK POWER SOURCE MODE CHANGE
+FUNCTION
+(a) Check the function of the engine switch.
+(1) Check that power source mode changes in
+accordance with the conditions of the shift
+position and brake pedal.
+Brake Pedal Shift Lever Power Source Mode Pattern
+When the engine switch is pushed once.
+• off → engine start
+Depressed P or N Position
+• on (ACC) → engine start
+• on (IG) → engine start
+Each time the engine switch is pushed.
+P position
+• off → on (ACC) → on (IG) → off
+Not depressed
+Each time the engine switch is pushed.
+Except P Position
+• off → on (ACC) → on (IG) → on (ACC)
+When the engine switch is pushed with power source mode on (IG) (engine running).
+- P Position
+• on (IG) → off
+When the engine switch is pushed with power source mode on (IG) (engine running).
+- Except P Position
+• on (IG) → on (ACC)
+(b) Check if power source mode changes without
+pressing the engine switch.
+(1) With power source mode on (ACC) and the
+shift position in P, wait for at least 1 hour. Check
+that power source mode changes from on
+(ACC) to off automatically.
+2. CHECK INDICATOR CONDITION
+Indicator Light (a) Check the indicator on the engine switch.
+(1) Check that the engine switch indicator turns on
+and changes color according to the table
+below.
+START
+STOP
+A109251E01
+Indicator Light Condition
+Power Source Mode/Condition
+Brake pedal released Brake pedal depressed, shift lever in P or N
+off OFF ON (Green) (When key and vehicle IDs match)
+on (ACC, IG) ON (Amber) ON (Green)
+Engine running OFF OFF
+Steering lock not unlocked Flashes (Green) for 15 sec. Flashes (Green) for 15 sec.
+System malfunction Flashes (Amber) for 15 sec. Flashes (Amber) for 15 sec.
+ST

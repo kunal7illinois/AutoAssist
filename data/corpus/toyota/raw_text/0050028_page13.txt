@@ -1,0 +1,38 @@
+ES–148
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+5 PERFORM CONFIRMATION DRIVING PATTERN
+NEXT
+6 CHECK WHETHER DTC OUTPUT RECURS (DTC P0138)
+(a) On the intelligent tester, select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / DTC INFO /
+CURRENT CODES.
+(b) Read DTCs.
+ES
+Result
+Display (DTC Output) Proceed To
+P0138 A
+No output B
+B CHECK FOR INTERMITTENT PROBLEMS
+A
+REPLACE HEATED OXYGEN SENSOR
+7 READ VALUE USING INTELLIGENT TESTER (OUTPUT VOLTAGE OF HEATED OXYGEN
+SENSOR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Start the engine.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY / O2S B1
+S2
+(e) After warming up the engine, run the engine at an engine
+speed of 2,500 rpm for 3 minutes.
+(f) Read the output voltage of the HO2 sensor when the
+engine rpm is suddenly increased.
+HINT:
+Quickly accelerate the engine to 4,000 rpm 3 times using
+the accelerator pedal.
+Standard voltage:
+Fluctuates between 0.4 V or less and 0.5 V or more.
+NG Go to step 14
+OK
+8 PERFORM CONFIRMATION DRIVING PATTERN
+NEXT

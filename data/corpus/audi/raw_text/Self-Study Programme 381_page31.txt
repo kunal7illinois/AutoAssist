@@ -1,0 +1,50 @@
+CAN data exchange
+J220 Motronic control unit (1)
+J250 ECD control unit (electronically controlled
+Momentary position of brake light switch, brake test
+damping)
+switch
+System status (2,5,8)
+Coolant temperature
+Activation of warning lamp, text display (8,5)
+Intake air temperature (ambient temperature)
+Position of button E387 (2,5,8)
+Engine torque
+Height front right, front left, rear right, rear left (4)
+Driver torque input
+Automatic activation ESP (2,5,8)
+J104 ESP control unit (2)
+ESP on or off
+ESP system status
+J533 Diagnostic interface (8)
+Momentary vehicle speed
+Date, time
+ABS active
+Terminal 15 -counter
+Lateral acceleration
+Mileage (km)
+Brake pressure
+Time not in use
+Yaw rate
+J527 Steering column electronics control unit (3)
+G85 Wheel angle sender
+Max. steering angle
+Steering speed
+Status of terminal 30
+J519 Onboard power supply control unit (9)
+Status of terminal 50
+J431 Headlight range control,
+control unit (4)
+(receiver only)
+J285 Control unit with display in dash panel insert (5)
+Time not in use of the vehicle
+Status of combined light (terminal 58d)
+Ambient temperature
+VIN
+381_043
+Information sent by control unit J250 Powertrain CAN bus
+Dash panel insert CAN bus
+Information received and evaluated
+by control unit J250
+Convenience CAN bus
+31

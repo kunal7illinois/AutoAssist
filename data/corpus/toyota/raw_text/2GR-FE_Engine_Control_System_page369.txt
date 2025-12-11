@@ -1,0 +1,33 @@
+ES–369
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Reference (System Diagram of Bank 1 Sensor 1):
+A/F Relay A/F Sensor ECM
+Heater
+From A/F +B HA1A HA1A
+Battery
+Sensor
+A1A- A1A+ A1A+
+Duty
+Control
+From
+A1A-
+EFI
+Relay ES
+A133850E06
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+14 CHECK AIR INDUCTION SYSTEM
+(a) Check the air induction system for vacuum leakage.
+OK:
+No leakage from air induction system.
+NG REPAIR OR REPLACE AIR INDUCTION
+SYSTEM
+OK
+15 CHECK FUEL PRESSURE (HIGH PRESSURE SIDE AND LOW PRESSURE SIDE)
+(a) Check the fuel pressure.
+NG REPAIR OR REPLACE FUEL SYSTEM
+OK
+16 REPLACE AIR FUEL RATIO SENSOR
+(a) Replace the air fuel ratio sensor (See page EC-19).
+NEXT

@@ -1,0 +1,33 @@
+DL–63
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Door Control Switch Circuit
+DESCRIPTION
+When the lock side of the door control switch is pressed, continuity is established between terminal 2
+(driver side) or 4 (passenger side) and terminal 1 (driver side) or 3 (passenger side) of the switch. When
+the unlock side of the switch is pressed, continuity is established between terminal 9 (driver side) or 2
+(passenger side) and terminal 1 (driver side) or 3 (passenger side).
+Terminals L1 and UL1 of the main body ECU are connected to the door control switch and door lock/
+unlock request signals (by door control switch operation) are input to the ECU.
+The main body ECU constantly applies voltage to terminal 2 (driver side) or 4 (passenger side) of the door
+control switch via terminal L1. When the door control switch is operated to lock all doors, current flows
+from terminal L1 to terminal 2 (driver side) or 4 (passenger side). The main body ECU determines that this
+is door lock request signal input.
+The main body ECU also applies constant voltage to terminal 9 (driver side) or 2 (passenger side) of the
+door control switch via terminal UL1. When the door control switch is operated to unlock the doors, current
+flows from terminal UL1 to terminal 9 (driver side) or 2 (passenger side). The main body ECU determines
+that this is door unlock request signal input.
+WIRING DIAGRAM
+DRIVER SIDE:
+M1 Main Body ECU
+Power Window Master Switch
+(Door Control Switch)
+Instrument Panel J/B
+LOCK 15
+2 9
+IK L1
+1
+12
+9 12
+IK UL1
+UNLOCK
+B109774E06 DL

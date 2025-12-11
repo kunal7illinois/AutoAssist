@@ -1,0 +1,45 @@
+Audi 100 1991 ➤ , Audi 80 1992 ➤ , Audi A1 2011 ➤ , Audi A2 2001 ➤ , A ...
+Air conditioner with refrigerant R134a - Edition 06.2010
+2.5.5 Air conditioning system pressure switch
+-F129-
+This pressure switch has 3 functions:
+1. Switches the radiator fan up to the next speed setting in the
+event of a pressure increase (approx. 16 bar) in the refrigerant
+circuit.
+2. Switches off the air conditioner in the event of excessive pres‐
+sure (approx. 32 bar) caused for example by inadequate engine
+cooling.
+3. Switches off the air conditioner in the event of insufficient pres‐
+sure (approx. 2 bar) caused for example by a loss of refrigerant.
+Note
+The air conditioning system pressure switch -F129- replaces the
+high-pressure switch for air conditioning system -F23- , the low-
+pressure switch for air conditioning system -F73- and the high-
+pressure switch for magnetic clutch -F118- .
+2.5.6 High-pressure sender -G65-
+The high-pressure sender -G65- is fitted instead of the air condi‐
+tioning system pressure switch -F129- or the refrigerant pressure
+and temperature sender -G395- .
+The refrigerant pressure and temperature sender -G395- ( „grey“
+housing at present) and the high-pressure sender -G65- ( „black“
+housing at present) currently only differ in terms of the housing
+colour and attention is therefore to be paid to the correct assign‐
+ment on replacement (part number ⇒ Electronic parts catalogue ).
+As these two senders emit different signals, the relevant control
+unit can only evaluate the signal to which it has been matched ⇒
+Heating, air conditioning; Rep. gr. 87 or ⇒ Air conditioning; Rep.
+gr. 87 (vehicle-specific workshop manual).
+The high-pressure sender -G65- generates a square-wave signal
+or data telegram when voltage is applied. This signal changes
+with the pressure in the system.
+The downstream control units (radiator fan control unit, engine
+control unit, operating and display unit for Climatronic air condi‐
+tioning system -E87- , Climatronic control unit -J255- etc.) use this
+signal to calculate the pressure in the refrigerant circuit and to
+actuate the radiator fans and the air conditioning system magnetic
+clutch -N25- accordingly or to modify actuation of the air condi‐
+tioner compressor regulating valve -N280- ⇒ Heating, air condi‐
+tioning; Rep. gr. 87 or ⇒ Air conditioning; Rep. gr. 87 (vehicle-
+specific workshop manual).
+30
+Rep. gr.87 - Air conditioning system

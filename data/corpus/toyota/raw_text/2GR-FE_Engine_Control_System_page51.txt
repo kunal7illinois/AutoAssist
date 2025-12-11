@@ -1,0 +1,42 @@
+ES–51
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC CHECK / CLEAR
+NOTICE:
+When the diagnosis system is changed from the normal
+mode to check mode or vice versa, all DTCs and freeze
+frame data recorded in normal mode are erased. Before
+changing modes, always check and make a note of DTCs
+and freeze frame data.
+HINT:
+• DTCs which are stored in the ECM can be displayed on an
+intelligent tester. An intelligent tester can display the
+current and pending DTCs.
+• Some DTCs are not set if the ECM does not detect the
+same malfunction again during a second consecutive
+driving cycle. However, such malfunctions, detected on
+ES
+only one occasion, are stored as pending DTCs.
+1. CHECK DTC (Using an intelligent tester)
+(a) Connect an intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Enter the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT
+CODES.
+(e) Check the DTC(s) and freeze frame data, and then
+write them down.
+(f) Check the details of the DTC(s) (See page ES-63).
+2. CLEAR DTC (Using an intelligent tester)
+(a) Connect an intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Enter the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CLEAR CODES.
+(e) Press the YES button.
+3. CLEAR DTC (Without using an intelligent tester)
+(a) Perform either one of the following operations:
+(1) Disconnect the negative battery cable for more
+than 1 minute.
+(2) Remove the EFI MAIN and ETCS fuses from the
+Engine Room relay block located inside the
+engine compartment for more than 1 minute.

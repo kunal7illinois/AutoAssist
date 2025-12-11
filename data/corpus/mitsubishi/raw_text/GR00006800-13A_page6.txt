@@ -1,0 +1,44 @@
+13A-6 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+Items Indicated by the Service Engine Soon/Malfunction Indicator Lamp
+DTC NO. ITEMS
+− Engine control module (ECM) <M/T> or Powertrain control module (PCM) <A/T>
+malfunction
+P0101 Volume air flow circuit range/performance problem
+P0102 Volume air flow circuit low input
+P0106* Barometric pressure circuit range/performance problem
+P0107 Barometric pressure circuit low input
+P0108 Barometric pressure circuit high input
+P0111 Intake air temperature circuit range/performance problem
+P0112 Intake air temperature circuit low input
+P0113 Intake air temperature circuit high input
+P0116 Engine coolant temperature circuit range/performance problem
+P0117 Engine coolant temperature circuit low input
+P0118 Engine coolant temperature circuit high input
+P0121 Throttle position sensor circuit range/performance problem
+P0122 Throttle position sensor circuit low input
+P0123 Throttle position sensor circuit high input
+P0125 Insufficient coolant temperature for closed loop fuel control
+P0128 Coolant thermostat (Coolant temperature below thermostat regulating temperature)
+P0130 Heated oxygen sensor circuit (sensor 1)
+P0131 Heated oxygen sensor circuit low voltage (sensor 1)
+P0132 Heated oxygen sensor circuit high voltage (sensor 1)
+P0133 Heated oxygen sensor circuit slow response (sensor 1)
+P0134* Heated oxygen sensor circuit no activity detected (sensor 1)
+P0135 Heated oxygen sensor heater circuit (sensor 1)
+P0136 Heated oxygen sensor circuit (sensor 2)
+P0137 Heated oxygen sensor circuit low voltage (sensor 2)
+P0138 Heated oxygen sensor circuit high voltage (sensor 2)
+P0139 Heated oxygen sensor circuit slow response (sensor 2)
+P0141 Heated oxygen sensor heater circuit (sensor 2)
+P0171 System too lean
+P0172 System too rich
+P0181 Fuel temperature sensor circuit range/performance
+P0182 Fuel temperature sensor circuit low input
+P0183 Fuel temperature sensor circuit high input
+P0201 Injector circuit-cylinder 1
+P0202 Injector circuit-cylinder 2
+P0203 Injector circuit-cylinder 3
+P0204 Injector circuit-cylinder 4
+P0300 Random/multiple cylinder misfire detected
+TSB Revision

@@ -1,0 +1,29 @@
+ANTI-LOCK BRAKING SYSTEM (ABS) 35B-41
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+STEP 3. Check the harness wire between the ABS-ECU
+connector A-02 (terminal 21) and the intermediate
+connector C-94 (terminal 16).
+Q:Is the harness wire between the ABS-ECU connector A-
+CONNECTOR: A-02
+02 (terminal 21) and the intermediate connector C-94
+(terminal 16) damaged?
+YES : Repair it and then go to Step 6.
+NO : Replace the hydraulic unit (integrated with ABS-ECU)
+(Refer to P.35B-52.) and then go to Step 6.
+HARNESS SIDE
+AC001985AF
+CONNECTOR: C-94
+FEMALE CONNECTOR SIDE
+AC004410AE
+STEP 4. Check the following connectors: the combination
+meter connector C-42 and the intermediate connector C-
+94.
+Q:Is any of the connectors damaged?
+CONNECTOR: C-42
+COMBINATION YES : Repair it and then go to Step 6.
+METER
+NO : Go to Step 5.
+AC004483AB
+CONNECTOR: C-94
+AC004410AD
+TSB Revision

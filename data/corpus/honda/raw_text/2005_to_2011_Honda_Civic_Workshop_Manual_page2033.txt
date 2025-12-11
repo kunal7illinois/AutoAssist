@@ -1,0 +1,25 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+2. Raise the vehicle, and support it with safety stands in the proper locations (see
+LIFT AND SUPPORT POINTS ), and allow all wheels to rotate freely.
+3. Connect the HDS to the data link connector (DLC).
+4. Start the engine, run the vehicle in 4th gear.
+5. Check the VEHICLE SPEED in the DATA LIST with the HDS.
+Is the vehicle speed indicated?
+YES -The system is OK at this time.
+NO -Go to step 6.
+6. Check for DTCs in the fuel and emissions systems with the HDS.
+Is DTC P0720 indicated?
+YES -Troubleshoot the indicated DTC.
+NO -Go to step 7.
+7. Start the engine and check the tachometer.
+Is the tachometer working correctly?
+YES -Go to step 8.
+NO -Troubleshoot the gauge control module (tach) (see SELF-DIAGNOSTIC
+FUNCTION ).
+8. Turn the ignition switch to LOCK (0).
+9. Short the SCS line with the HDS.
+10. Disconnect ECM connector A (44P) and EPS control unit connector D (28P).
+11. Check for continuity between EPS control unit connector D (28P) terminals
+No. 1 and ECM connector A (44P) terminals No. 36.

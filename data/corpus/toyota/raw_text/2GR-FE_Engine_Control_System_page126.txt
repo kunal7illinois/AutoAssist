@@ -1,0 +1,46 @@
+ES–126
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+P0037 and P0057:
+Battery voltage 10.5 to 20 V
+P0038 and P0058 (Case 1):
+Battery voltage 10.5 V or more
+Engine Running
+Starter OFF
+P0038 and P0058 (Case 2):
+Battery voltage 10.5 to 20 V
+P0141 and P0161:
+One of the following conditions is met: Condition A or B
+A. All of the following conditions are met: Conditions 1, 2, 3, 4 and 5
+1. Battery voltage 10.5 V or more
+ES
+2. Fuel cut OFF
+3. Time after fuel cut ON to OFF 30 seconds or more
+4. Accumulated heater ON time 100 seconds or more
+5. Learned heater OFF current operation Completed
+B. Duration that rear heated oxygen sensor impedance is less than 15
+2 seconds or more
+kΩ
+TYPICAL MALFUNCTION THRESHOLDS
+P0037 and P0057:
+Heater current Less than 0.3 A
+P0038 and P0058:
+One of the following conditions is met: Condition A or B
+A. Learned heater OFF current More than 2 A
+B. Heater current 2 A or more
+P0141 and P0161 (Heater performance monitor check):
+Accumulated heater resistance Varies with sensor element temperature (Example: More than 23 ohm)
+COMPONENT OPERATING RANGE
+0.4 to 1 A (when engine idles, HO2 sensor warmed up and battery
+Heated Oxygen (HO2) sensor heater current
+voltage 11 to 14 V)
+MONITOR RESULT
+Refer to CHECKING MONITOR STATUS (See page ES-25).
+WIRING DIAGRAM
+Refer to DTC P0136 (See page ES-178).
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).

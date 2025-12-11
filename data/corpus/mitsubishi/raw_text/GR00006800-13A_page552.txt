@@ -1,0 +1,50 @@
+13A-552 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+MUT-II SCAN ITEM INSPECTION ITEM INSPECTION REQUIREMENT NORMAL INSPECTION REFERENCE
+TOOL NO. CONDITION PROCEDURE PAGE
+DISPLAY NO.
+TANK 73 Fuel tank • Ignition switch: "ON" −3.3 − 3.3 − −
+PRS. differential • Fuel tank filler tube cap kPa
+SNSR pressure removal
+sensor
+TP 14 Throttle Ignition switch: Set to idle 535 − 735 Code No. P.13A-98,
+SENSOR position sensor "ON" position mV P0121, P.13A-
+Gradually open Increases in P0122, 106,
+P0123
+proportion to P.13A-112
+throttle
+opening
+angle
+Open fully 4,500 −
+5,500 mV
+TP 8A*6 Throttle Ignition switch: Set to idle 6 − 20 % Code No. P.13A-98,
+SENSOR position sensor "ON" position P0121, P.13A-
+Gradually open Increases in P0122, 106,
+P0123
+proportion to P.13A-112
+throttle
+opening
+angle
+Open fully 80 − 100 %
+VAF 34 Volume air flow Engine: Engine is iding ON − −
+RESET sensor reset warming up
+2,500 r/min OFF
+SIG signal
+VAF 12 Volume air flow • Engine Engine is idling 12 − 38 Hz − −
+SENSOR sensor (mass coolant 2,500 r/min 55 − 95 Hz
+air flow rate) temperature
+*5 : 80 − 95°C Engine is Frequency
+(176 − revved (or air flow
+203°F) volume)
+• Lights, increases in
+response to
+electric
+revving
+cooling fan
+and all
+accessories
+: OFF
+• Transaxle:
+neutral (A/T:
+"P" range)
+TSB Revision

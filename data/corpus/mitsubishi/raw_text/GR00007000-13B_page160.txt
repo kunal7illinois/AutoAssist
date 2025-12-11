@@ -1,0 +1,37 @@
+13B-160 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Check connector B-28 at right bank heated
+oxygen sensor (rear) and connector C-62 at ECM <M/T> or
+connector C-59 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-28
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 15.
+AAKK110033550088AB
+CONNECTOR : C-62<M/T>, C-59<A/T>
+PCM<A/T> ECM<M/T>
+C-59 C-62
+AK000225AL
+STEP 5. Using scan tool MB991502, check data list item 69:
+Heated Oxygen Sensor Bank 1, Sensor 2 (right rear).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+69, Heated Oxygen Sensor Bank 1, Sensor 2 (right rear).
+16 PIN • Warming up the engine. When the engine is revved, the
+output voltage should repeat 0 volt and 0.6 to 1.0 volt
+MB991502
+alternately.
+AKX01177AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Replace the ECM or PCM. Then go to Step 15.
+TSB Revision

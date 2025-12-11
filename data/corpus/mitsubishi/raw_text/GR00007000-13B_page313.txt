@@ -1,0 +1,25 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-313
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the knock sensor.
+(1) Disconnect the knock sensor connector B-35.
+(2) Start the engine and run at idle.
+KNOCK SENSOR
+AAKK110033551111AB
+CONNECTOR: B-35 <WITHOUT VARIABLE
+INDUCTION SYSTEM>
+AK103512AB
+CONNECTOR: B-35 <WITH VARIABLE
+INDUCTION SYSTEM>
+AK103513AB
+(3) Measure the voltage between knock sensor side connector
+KNOCK SENSOR terminal 1(output) and 2(ground).
+SIDE CONNECTOR
+(4) Gradually increase the engine speed.
+1 2 • The voltage increases with the increase in the engine
+speed.
+(5) Turn the ignition switch to the "LOCK"(OFF) position.
+Q:Is the sensor operating properly?
+YES : Replace the ECM or PCM. Then go to Step 6.
+NO : Replace the knock sensor. Then go to Step 6.
+AK103514AB
+TSB Revision

@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+NO -Repair short in the wire between the PCM (A41) and the fuel pressure
+regulator switch 2P connector, the fuel shut-off solenoid valve relay. Also
+replace fuel pressure regulator P1 (see FUEL PRESSURE REGULATOR P1
+REPLACEMENT ). Then go to step 35.
+8. Check the FUEL RAIL PRESSURE SENSOR in the DATA LIST with the
+HDS, and note the value.
+9. Turn the ignition switch OFF.
+10. Close the manual shut-off valve.
+11. Start the engine, and let it idle until it stops.
+12. Check the FUEL RAIL PRESSURE SENSOR in the DATA LIST with the
+HDS.
+13. Compare the current value of the FUEL RAIL PRESSURE SENSOR with the
+value from step 8.
+Is the current value lower than the value from step 4?
+YES -Go to step 14.
+NO -Go to step 18.
+14. Turn the ignition switch OFF.
+15. Disconnect the fuel pressure regulator switch 2P connector (see FUEL
+PRESSURE SWITCH REPLACEMENT ).
+16. Turn the ignition switch ON (II).
+17. Check the LOW FUEL INDICATOR in the DATA LIST with the HDS.
+Is OFF indicated?
+YES -Replace fuel pressure regulator P1 (see FUEL PRESSURE
+REGULATOR P1 REPLACEMENT ), then go to step 35.
+NO -Repair short in the wire between the PCM (A41) and the fuel pressure
+regulator switch 2P connector, the fuel shut-off solenoid valve relay. Also
+replace fuel pressure regulator P1 (see FUEL PRESSURE REGULATOR P1
+REPLACEMENT ). Then go to step 35.

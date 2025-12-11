@@ -1,0 +1,32 @@
+35B-28 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+CONNECTOR: A-02 CONNECTOR: C-29
+COMBINATION METER
+AC001985AD AC004429AB
+CONNECTOR: C-77 CONNECTOR: C-94
+COMBINATION
+METER
+AC004427AB AC004410AD
+CONNECTORS: C-111, C-112
+JUNCTION BLOCK
+(FRONT VIEW)
+C-111
+C-112
+AC102149AC
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+• The diagnostic output is made from the ABS- When communication with the scan tool is not possi-
+ble, the cause is probably an open circuit in the ABS-
+ECU (terminal 11) to the diagnostic output termi-
+ECU power circuit or an open circuit in the diagnostic
+nal (terminal 7) of the data link connector.
+• When the data link connector’s diagnostic test output circuit.
+mode control terminal (terminal 1) is grounded,
+.
+the ABS-ECU (terminal 12) will go into diagnostic TROUBLESHOOTING HINTS (The most likely
+mode. causes for this case:)
+• Blown fuse
+. • Damaged wiring harness and connector
+• Malfunction of the hydraulic unit (Integrated with
+ABS-ECU)
+TSB Revision

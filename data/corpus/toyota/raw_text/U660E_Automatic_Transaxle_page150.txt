@@ -1,0 +1,41 @@
+AX–150
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+ON malfunction (D):
+TCM select gear 4th
+Throttle valve opening angle 4.5% or more at engine speed 2,000 rpm (condition vary with engine speed)
+Vehicle speed 1.2 mph (2 km/h) or more
+ECT (Engine coolant temperature) 40°C (104°F) or more
+AX Turbine speed/Output speed (NT/NO) with 1st 3.304 to 7.724
+Turbine speed/Output speed (NT/NO) with 2nd 1.901 to 2.340
+Turbine speed/Output speed (NT/NO) with 3rd 1.399 to 1.649
+Turbine speed/Output speed (NT/NO) with 4th 0.998 to 1.138
+Turbine speed/Output speed (NT/NO) with 5th 0.705 to 0.836
+Turbine speed/Output speed (NT/NO) with 6th 0.568 to 0.695
+TYPICAL MALFUNCTION THRESHOLDS
+OFF malfunction (A):
+Engine speed - Turbine speed x Gear ratio 1,000 rpm or more
+OFF malfunction (B):
+Turbine speed / Output speed 3.304 to 7.724
+ON malfunction (A) and (B):
+Turbine speed / Output speed 1.399 to 1.649
+ON malfunction (C):
+Turbine speed / Output speed 0.705 to 0.836
+ON malfunction (D):
+Turbine speed / Output speed 0.998 to 1.138
+INSPECTION PROCEDURE
+1 CHECK OTHER DTCS OUTPUT (IN ADDITION TO DTC P2808)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester on.
+(c) Enter the following items: "DIAGNOSIS / OBD/MOBD /
+DTC INFO / CURRENT CODES".
+(d) Read the DTCs using the intelligent tester.
+Result
+Display (DTC output) Proceed to
+Only "P2808" is output A
+"P2808" and other DTCs B
+HINT:
+If a solenoid is stuck OFF, DTCs for several solenoids
+including the malfunctioning solenoid will be detected.
+A Go to step 3
+B

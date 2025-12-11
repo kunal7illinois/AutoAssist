@@ -1,0 +1,39 @@
+54B-362 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 13. Check the wiring harness between front
+combination light (RH) connector A-32 (terminal 1) and
+ETACS-ECU connector C-119 (terminal 9).
+NOTE: Also check junction block connector C-112 and interme-
+CONNECTOR: A-32
+diate connector C-94. If junction block connector C-112 or inter-
+mediate connector C-94 is damaged, repair or replace the
+connector as described in GROUP 00E, Harness Connector
+Inspection P.00E-2.
+DEVICE SIDE
+1 2 3
+AC106465AI
+CONNECTOR: C-119
+DEVICE SIDE
+1 2 3 4 5 6 7 8 91011121314151617181920
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+Q:Is the wiring harness between front combination light
+CONNECTOR: C-94
+(RH) connector A-32 (terminal 1) and ETACS-ECU
+1 2 3 4 5 6 7 8 9 10
+connector C-119 (terminal 9) in good condition?
+91011121314151617181920
+YES : Replace the front combination light socket (RH).
+CONNECTOR Check that the turn-signal lights illuminate normally.
+BLOCK (RH) NO : Repair the wiring harness. Check that the turn-signal
+lights illuminate normally.
+AC106553AB
+CONNECTOR: C-112
+DEVICE SIDE
+1 2 3 4 5 6
+7 8 91011121314
+JUNCTION BLOCK
+(FRONT VIEW)
+AC106479AH
+TSB Revision

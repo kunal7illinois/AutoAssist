@@ -1,0 +1,52 @@
+13B-598 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC is output?
+MB991502 YES : Refer to, Diagnostic Trouble Code Chart P.13B-22.
+AKX01177AB NO : Refer to GROUP 17, Emission Control System −
+Purge Control System Check (Purge Flow Check)
+P.17-100.
+INSPECTION PROCEDURE 25: Pressure Test of the Evaporative System Failure.
+.COMMENT TROUBLESHOOTING HINTS (The most likely
+• The test fails if there is a leak from the fuel tank or causes for this case:)
+• Loose fuel tank filler tube cap.
+vapor line.
+• Broken seal in fuel tank, vapor line evaporative
+. emission canister.
+DIAGNOSIS
+STEP 1. Check the evaporative emission purge solenoid.
+Refer to GROUP 17, Emission Control System − Evaporative
+Emission Purge Solenoid Check P.17-101.
+Q:Is the evaporative emission purge solenoid normal?
+YES : Go to Step 2.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+STEP 2. Check the evaporative emission ventilation
+solenoid.
+Refer to GROUP 17, Emission Control System − Evaporative
+Emission Ventilation Solenoid Check P.17-103.
+Q:Is the evaporative emission ventilation solenoid
+normal?
+YES : Check the following items, and repair or replace the
+defective items.
+a. Check for leaks from the vapor line or
+evaporative emission canister.
+b. Check for leaks from the fuel tank.
+Then confirm that the malfunction symptom is
+eliminated.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+TSB Revision

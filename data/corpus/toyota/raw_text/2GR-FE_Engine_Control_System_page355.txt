@@ -1,0 +1,40 @@
+ES–355
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• If a A/F sensor malfunction is detected, the ECM sets a DTC.
+MONITOR DESCRIPTION
+Sensor voltage detection monitor
+Under the air-fuel ratio feedback control, if the A/F sensor output voltage indicates rich or lean for a certain
+period of time, the ECM determines that there is a malfunction in the A/F sensor. The ECM illuminates the
+MIL and sets a DTC.
+Example:
+(1)If the A/F sensor voltage output is less than 2.8 V (very rich condition) for 10 seconds, despite the
+HO2 sensor output voltage being less than 0.6 V, the ECM sets DTC P2196. Alternatively, if the A/F
+sensor output voltage is more than 3.8 V (very lean condition) for 15 seconds, despite the HO2
+sensor output voltage being 0.15 V or more, DTC P2195 is set.
+(2)Sensor current detection monitor
+(3)A rich air-fuel mixture causes a low A/F sensor current, and a lean air-fuel mixture causes a high A/
+F sensor current. Therefore, the sensor output becomes low during acceleration, and it becomes ES
+high during deceleration with the throttle valve fully closed. The ECM monitors the A/F sensor
+current during fuel-cut and detects any abnormal current values.
+(4)If the A/F sensor output is 3.6 mA or more for more than 3 seconds of cumulative time, the ECM
+interprets this as a malfunction in the A/F sensor and sets DTC P2195 (high-side stuck). If the A/F
+sensor output is 1.0 mA or less for more than 3 seconds of cumulative time, the ECM sets DTC
+P2196 (low-side stuck).
+Air Fuel Ratio Sensor Current Monitor
+Cumulative Time "t" = t1 + t2 =3 seconds or more
+ON
+Fuel-Cut
+OFF
+Delay (3 seconds) Delay (3 seconds) Delay (3 seconds)
+Sensor Current (mA)
+High Side Threshold
+Low Side Threshold
+3 seconds or more t1 t2
+Normal Sensor Output Abnormal Sensor Output Time
+A107165E05
+MONITOR STRATEGY
+P2195: A/F sensor (Bank 1) signal stuck lean
+P2196: A/F sensor (Bank 1) signal stuck rich
+Related DTCs
+P2197: A/F sensor (Bank 2) signal stuck lean
+P2198: A/F sensor (Bank 2) signal stuck rich

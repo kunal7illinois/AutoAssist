@@ -1,0 +1,43 @@
+TW–20
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+INITIALIZATION
+1. INITIALIZATION
+NOTICE:
+• Perform initialization after the transmitter ID
+registration is completed.
+• Initialization is necessary after replacing any of
+the ECU, tires with different tire pressure, or tire
+pressure warning valve and transmitter, or when a
+new vehicle is delivered.
+• Perform the tire pressure adjustment after the
+vehicle has sufficiently cooled down. If the
+vehicle is not sufficiently cooled down, increase
+the air pressure by 20 to 30 kPa (0.2 to 0.3 kgf/
+cm2, 2.9 to 4.3 psi) above the specified value.
+(a) Set the air pressure of all wheels, including the
+TW ground spare tire, to the specified value.
+Cold tire inflation pressure
+Tire size Front kPa (kgf/cm2, psi) Rear kPa (kgf/cm2, psi)
+P215/60R16 94W 210 (2.1, 31) *1 240 (2.4, 35)*2 210 (2.1, 31) *1 240 (2.4, 35)*2
+P215/55R17 93V 220 (2.2, 32) *1 240 (2.4, 35)*2 220 (2.2, 32) *1 240 (2.4, 35)*2
+*1: For driving under 100 mph (160 km/h)
+*2: For driving at 100 mph (160 km/h) or over
+(b) Keep the tire pressure warning reset switch pressed
+for 3 seconds or more with the ignition switch on
+(IG).
+(c) Check that the tire pressure warning light blinks 3
+times (1 second ON, 1 second OFF).
+HINT:
+• Initialization will be completed if signals are
+received from all the wheels. Initialization will be
+canceled if the ignition switch is turned off during
+initialization.
+Tire Pressure
+Warning Reset
+Switch
+Tire Pressure Warning Light Output Pattern:
+1 sec.
+ON
+OFF
+1 sec.
+E129454E01

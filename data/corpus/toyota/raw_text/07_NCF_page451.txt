@@ -1,0 +1,35 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-117
+Prevention of Key Confinement
+1) General
+This function has two system operations: inside room (cabin) and inside luggage compartment.
+2) Inside Room
+a) When the door is locked with the outside door handle while the key is still inside the vehicle, the
+certification ECU receives this signal and transmits a request signal for the front and rear room
+oscillators to form a actuation area.
+b)The key receives this signal and returns the ID code to the tuner.
+c) The certification ECU judges and certifies the ID code, and checks the location of the key. The ECU
+transmits a door unlock signal to the main body ECU.
+d)The main body ECU receives the signal and operates each door lock motor to unlock the doors.
+e) The certification ECU sounds the wireless door lock buzzer and the buzzer of the combination meter
+as an answerback for the unlock function that was performed.
+a)
+Outside Door Handle
+(cid:3) Lock Switch
+a) Front Room
+a)
+Oscillator
+Certification a) Rear Room a)
+ECU Oscillator
+Key
+c)
+Tuner b)
+e)
+Wireless Door
+Lock Buzzer
+CAN (MS Bus) c)
+d)
+Main Body ECU Door Lock Motor
+CAN (CAN No. 1 Bus) e)
+Combination Meter
+(cid:3) Buzzer
+025BE97P

@@ -1,0 +1,24 @@
+EI–71
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+DTC CHECK / CLEAR
+1. CHECK DTC
+(a) Connect the intelligent tester to the Controller Area
+Network Vehicle Interface Module (CAN VIM). Then
+connect the CAN VIM to the DLC3.
+(b) Turn the ignition switch to the ON position.
+(c) Read the DTCs by following the directions on the
+tester screen.
+HINT:
+Refer to the intelligent tester operator's manual for
+further details.
+2. CLEAR DTC
+DLC3 (a) Connect the intelligent tester (with CAN VIM) to the
+Intelligent Tester
+DLC3.
+C131977E01 (b) Turn the ignition switch to the ON position.
+(c) Erase the DTCs by following the directions on the
+tester screen.
+HINT:
+Refer to the intelligent tester operator's manual for
+further details.
+EI

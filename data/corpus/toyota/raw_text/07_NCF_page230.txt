@@ -1,0 +1,27 @@
+CH-66 CHASSIS - U660E AUTOMATIC TRANSAXLE
+6. Line Pressure Optimal Control
+The line pressure is controlled by using solenoid valve SLT. Through the use of solenoid valve SLT, the line
+pressure is optimally controlled in accordance with the engine torque information, as well as with the internal
+operating conditions of the torque converter and the transaxle. Accordingly, the line pressure can be
+accurately controlled in accordance with the engine output, traveling condition, and the ATF temperature,
+thus realizing smooth shift characteristics and optimizing the workload of the oil pump.
+Line Pressure
+Primary Regulator
+Solenoid Drive Signal
+Solenoid Valve SLT
+Input Turbine Speed
+ECT
+ATF Temp.
+Fluid ECU
+Pressure
+Shift Position
+Current
+Throttle Valve Opening
+Pump
+Intake Air Mass
+ECM
+Engine Coolant Temp.
+Engine Speed
+01YCH27Y
+*:This diagram illustrates the fundamentals of Line Pressure Control. The valve shapes differ from the actual
+ones.

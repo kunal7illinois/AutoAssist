@@ -1,0 +1,27 @@
+ENGINE - 2AZ-FE ENGINE EG-65
+System Operation
+1) Purge Flow Control
+When the engine has reached predetermined parameters (closed loop, engine coolant temp. above 80(cid:4)C
+(176(cid:4)F), etc), stored fuel vapors are purged from the canister whenever the purge VSV is opened by the
+ECM.
+The ECM will change the duty ratio cycle of the purge VSV, thus controlling purge flow volume. Purge
+flow volume is determined by intake manifold pressure and the duty ratio cycle of the purge VSV.
+Atmospheric pressure is allowed into the canister to ensure that purge flow is constantly maintained
+whenever purge vacuum is applied to the canister.
+To IN Manifold Atmosphere
+Purge VSV
+(Open)
+ECM
+060XA17C
+2) ORVR (On-Board Refueling Vapor Recovery)
+When the internal pressure of the fuel tank increases during refueling, this pressure causes the diaphragm
+in the refueling valve to lift up, allowing the fuel vapors to enter the canister. The air that has had the fuel
+vapors removed from it will be discharged through the fresh air line. The vent valve is used to open and
+close the fresh air line, and it is always open (even when the engine is stopped) except when the vehicle
+is in monitoring mode (the valve will be open as long as the vehicle is not in monitoring mode). If the
+vehicle is refueled in system monitoring mode, the ECM will recognize the refueling by way of the
+canister pressure sensor, which detects the sudden pressure increase in the fuel tank, and the ECM will
+open the vent valve.
+Open
+Closed
+060XA18C

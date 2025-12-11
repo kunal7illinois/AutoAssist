@@ -1,0 +1,61 @@
+AX–87
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+HINT:
+Comparing the shift position commanded by the ACTIVE
+TEST with the actual shift position enables confirmation
+of the problem (See page AX-39).
+Item Test Details Diagnostic Note
+[Test Details] AX
+Operate the shift solenoid valve and set each shift position by yourself.
+Possible to check the operation
+SHIFT [Others]
+of the shift solenoid valves.
+• Press "←" button: Shift up
+• Press "→" button: Shift down
+NOTICE:
+• This test can be conducted when the vehicle is
+stopped.
+• When shifting gears using the Active Test
+function, do not operate the accelerator pedal for
+2 seconds before and after shifting gears.
+HINT:
+The shift position commanded by the TCM is shown in
+the DATA LIST/SHIFT display on the intelligent tester.
+(d) Check the vehicle speed and the gear position when the
+engine speed is 1,000 rpm.
+HINT:
+Because the torque converter clutch has not engaged, it
+may be difficult to obtain the speeds specified in 4th, 5th,
+and 6th gear, however a difference of speed should still
+be evident following each gear change.
+Standard
+1st 2nd 3rd 4th 5th 6th
+5 to 7.5 mph (8 to 9.3 to 11.8 mph (15 13.0 to 15.5 mph (21 19.3 to 21.7 mph (31 27.3 to 29.8 mph (44 32.3 to 34.8 mph (52
+12 km/h) to 19 km/h) to 25 km/h) to 35 km/h) to 48 km/h) to 56 km/h)
+(e) Compare the TCM gear shift command and the actual
+gear position.
+Result
+Actuator gear position under TCM gear shift command
+Proceed to
+malfunction 1st 2nd 3rd 4th 5th 6th
+Stuck ON 1st 2nd 3rd 4th 4th 4th
+Shift solenoid SL1 A
+Stuck OFF N*1 N*1 N*1 N*1 5th 6th
+Stuck ON 4th 4th 4th 4th 5th 6th
+Shift solenoid SL2 B
+Stuck OFF 1st 2nd 3rd 1st N*1 N*1
+Stuck ON 2nd 2nd 3rd 4th 5th 6th
+Shift solenoid SL3 C
+Stuck OFF 1st 1st 3rd 4th 5th N*1
+Stuck
+3rd 3rd 3rd 4th 5th 5th
+Shift solenoid SL4
+ON*3
+D
+Stuck OFF 1st 2nd 1st 4th N*1 6th
+Stuck ON N*2 N*2 N*2 N*2 N*2 N*2
+Shift solenoid SLT Stuck E
+1st 2nd 3rd 4th 5th 6th
+OFF*3
+HINT:
+• *1: Neutral

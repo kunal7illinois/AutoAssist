@@ -1,0 +1,52 @@
+Audi TT No. 8 / 8
+Current Flow Diagram
+Front passenger door control unit, automatic anti-dazzle
+interior mirror
+J387 Front passenger door control unit
+T6n 6-pin connector, black, on interior mirror
+T20b 20-pin connector, black, in the front right door
+T20g 20-pin connector, connector A, on front passenger door control
+unit
+Y7 Automatic anti-dazzle interior mirror
+43 Earth point, lower part of right A-pillar
+391 Earth connection 26, in main wiring harness
+Connection 2 (convenience CAN bus, high), in main wiring
+B398
+harness
+Connection 2 (convenience CAN bus, low), in main wiring
+B407
+harness
+B427 Connection 1 (mirror signal), in main wiring harness
+J387
+B428 Connection 2 (mirror signal), in main wiring harness
+T20g/12# T20g/20 T20g/19 T20g/8 T20g/9 T20g/1 T20g
+T20g/18## 30 31 /10
+30 • CAN bus (data wire)
+• • ✱ ✱ * models with automatic anti-dazzle mirror
+0,5 2,5 2,5 0,35 0,35 0,35 0,35 # up to May 2007
+ro/ge ro/gn br or/gn or/br li/sw li
+## from June 2007
+T20b/13 T20b/11 T20b/1 T20b/3 T20b/20 T20b/19 T20b
+/9
+• • ✱ ✱
+0,5 2,5 2,5 0,35 0,35 0,35 0,35
+ro/ge ro/gn br or/gn or/br li/sw li
+B398 B407 B427 B428
+22 66
+391
+ws = white
+sw = black
+ro = red
+✱ ✱ ✱ ✱
+4,0 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 br = brown
+br or/gn or/gn or/br or/br li/sw li/sw li li
+gn = green
+bl = blue
+1177 113377 2200 113399 T6n 2266 2288 T6n/5
+/4 gr = grey
+43 Y7 Y7 li = purple
+ge = yellow
+85 86 87 88 89 90 91 92 93 94 95 96 97 98 or = orange
+8J0-008080408
+rs = pink
+Edition 04.2008

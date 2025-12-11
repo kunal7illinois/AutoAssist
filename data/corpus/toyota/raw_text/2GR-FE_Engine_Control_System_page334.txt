@@ -1,0 +1,33 @@
+ES–334
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+B GO TO DTC CHART (See page ES-63)
+A
+2 INSPECT THROTTLE BODY (VISUALLY CHECK THROTTLE VALVE)
+(a) Check for contamination between the throttle valve and
+the housing. If necessary, clean the throttle body. And
+check that the throttle valve moves smoothly.
+OK:
+Throttle valve is not contaminated with foreign
+objects and moves smoothly.
+NG REPLACE THROTTLE BODY ASSEMBLY
+ES
+(See page ES-503)
+OK
+3 CHECK WHETHER DTC OUTPUT RECURS (DTC P2111 OR P2112)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Clear the DTCs (See page ES-45).
+(e) Start the engine, and fully depress and release the
+accelerator pedal quickly (to fully open and close the
+throttle valve).
+(f) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DTC INFO / CURRENT CODES.
+(g) Read the DTCs.
+Result
+Display (DTC Output) Proceed to
+No DTC A
+P2111 or P2112 B
+B REPLACE ECM (See page ES-518)
+A
+CHECK FOR INTERMITTENT PROBLEMS

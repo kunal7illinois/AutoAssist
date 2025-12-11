@@ -1,0 +1,45 @@
+13B-652 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+MUT-II SCAN ITEM INSPECTION ITEM INSPECTION REQUIREMENT NORMAL INSPECTION REFERENCE
+TOOL NO. CONDITION PROCEDURE PAGE
+DISPLAY NO.
+SHORT 84*6 Short-term fuel Engine: warming up, 2,500 r/min −25 − 25% Code No. P.13B-
+TRIM B2 compensation without any load (during closed P0174, 256,
+(bank 2) loop) P0175 P.13B-
+262
+SYS. 88*6 Fuel control Engine: 2,500 r/min Closed loop − −
+STATUS condition warming up When engine Open loop −
+B1 (bank 1)
+is suddenly drive
+revved condition
+SYS, 89*6 Fuel control Engine: 2,500 r/min Closed loop − −
+STATUS condition warming up When engine Open loop −
+B2 (bank 2)
+is suddenly drive
+revved condition
+TANK 73 Fuel tank • Ignition switch: "ON" −3.3 − − −
+PRS. differential • Fuel cap removal 3.3 kPa
+SNSR pressure
+sensor
+TP 14 Throttle Ignition switch: Set to idle 535 − Code No. P.13B-
+SENSOR position sensor "ON" position 735 mV P0121, 95,
+Gradually open Increases in P0122, P.13B-
+proportion to P0123 103,
+throttle P.13B-
+opening 109
+angle
+Open fully 4,500 −
+5,500 mV
+TP 8A*6 Throttle Ignition switch: Set to idle 6 − 20% Code No. P.13B-
+SENSOR position sensor "ON" position P0121, 95,
+Gradually open Increases in P0122, P.13B-
+proportion to P0123 103,
+throttle P.13B-
+opening 109
+angle
+Open fully 80 − 100%
+VAF 34 Volume air flow Engine: Engine is idling ON − −
+RESET sensor reset warming up
+2,500 r/min OFF
+SIG signal
+TSB Revision

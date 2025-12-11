@@ -1,0 +1,63 @@
+BC–159
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC No. Detection Item Trouble Area See page
+CAN communication system
+Lost Communication with Yaw
+U0123/62 (Skid control ECU to yaw rate and BC-224
+Rate Sensor Module
+acceleration sensor)
+CAN communication system
+Lost Communication with
+U0126/63 (Skid control ECU to steering BC-224
+Steering Angle Sensor Module
+angle sensor)
+HINT:
+In some cases, the intelligent tester cannot be used when the
+VSC warning light (models without multi information display)
+or multi information display (models with multi information
+display) remains on.
+Test Mode DTC of ABS:
+DTC No. Detection Item Trouble Area See page
+1. Front speed sensor RH
+Low Output Signal of Front Speed
+C1271/71 2. Sensor installation BC-156
+Sensor RH (Test Mode DTC)
+3. Speed sensor rotor
+1. Front speed sensor LH
+Low Output Signal of Front Speed
+C1272/72 2. Sensor installation BC-156
+Sensor LH (Test Mode DTC) BC
+3. Speed sensor rotor
+1. Rear speed sensor RH
+Low Output Signal of Rear Speed
+C1273/73 2. Sensor installation BC-164
+Sensor RH (Test Mode DTC)
+3. Speed sensor rotor
+1. Rear speed sensor LH
+Low Output Signal of Rear Speed
+C1274/74 2. Sensor installation BC-164
+Sensor LH (Test Mode DTC)
+3. Speed sensor rotor
+Abnormal Change in Output
+C1275/75 Signal of Front Speed Sensor RH Speed sensor rotor BC-197
+(Test Mode DTC)
+Abnormal Change in Output
+C1276/76 Signal of Front Speed Sensor LH Speed sensor rotor BC-197
+(Test Mode DTC)
+Abnormal Change in Output
+C1277/77 Signal of Rear Speed Sensor RH Speed sensor rotor BC-197
+(Test Mode DTC)
+Abnormal Change in Output
+C1278/78 Signal of Rear Speed Sensor LH Speed sensor rotor BC-197
+(Test Mode DTC)
+Acceleration Sensor Output 1. Yaw rate and acceleration
+C1279/79 Voltage Malfunction (Test Mode sensor BC-193
+DTC) 2. Sensor installation
+Master Cylinder Pressure Sensor 1. Stop light switch
+C1281/81 Output Malfunction (Test Mode 2. Master cylinder pressure BC-210
+DTC) sensor
+Test Mode DTC of VSC:
+DTC No. Detection Item Trouble Area See page
+Yaw Rate Sensor (Test Mode
+C0371/71 Yaw rate and acceleration sensor BC-193
+DTC)

@@ -1,0 +1,57 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-349
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+• Volume air flow sensor output frequency is • The cumulative volume air flow sensor output fre-
+between 69 and 169 Hz. quency is higher than 4,000 Hz.
+• More than 3 seconds have elapsed after the
+Judgment Criteria
+abovementioned three conditions have been met.
+• The left bank heated oxygen sensor (rear) signal
+• Intake air temperature is higher than −10°C
+frequency divided by left bank heated oxygen
+(14°F).
+sensor (front) signal frequency = 0.8 or more.
+• Barometric pressure is higher than 76 kPa (11
+psi).
+.
+• Under the closed loop air/fuel ratio control. TROUBLESHOOTING HINTS (The most likely
+• Vehicle speed is 1.5 km/h (0.93 mph) or more. causes for this code to be set are: )
+• The ECM <M/T> or PCM <A/T> monitors for this • Left bank side catalytic converter deteriorated.
+• Left bank heated oxygen sensor failed.
+condition for 7 cycles of 12 second each during
+• ECM failed. <M/T>
+the drive cycle.
+• Short-term fuel trim is higher than −30 percent • PCM failed. <A/T>
+and lower than +25 percent.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the exhaust leaks.
+Q:Are there any abnormalities?
+YES : Go to Step 2.
+NO : Repair it. Then go to Step 7.
+STEP 2. Using scan tool MB991502, check data list item 59:
+Heated Oxygen Sensor Bank 2, Sensor 2 (left rear).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+59, Heated Oxygen Sensor Bank 2, Sensor 2 (left rear).
+16 PIN • Warming up the engine. When the engine is revved, the
+output voltage should repeat 0 volt and 0.6 to 1.0 volt
+MB991502
+alternately.
+AKX01177AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : Go to Step 3.
+NO : Refer to DTC P0156 − Heated Oxygen Sensor Circuit
+(bank 2, sensor 2) P.13B-218, DTC P0157 − Heated
+Oxygen Sensor Circuit Low Voltage (bank 2, sensor
+2) P.13B-228, DTC P0158 − Heated Oxygen Sensor
+Circuit High Voltage (bank 2, sensor 2) P.13B-233,
+DTC P0159 − Heated OxygenSensor Circuit Slow
+Response (bank 2, sensor 2) P.13B-236.
+TSB Revision

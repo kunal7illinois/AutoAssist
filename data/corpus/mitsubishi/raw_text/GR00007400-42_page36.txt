@@ -1,0 +1,39 @@
+42-36 BODY
+QUARTER WINDOW GLASS AND REGULATOR ASSEMBLY
+CONNECTOR: F-31, F-34
+F-31
+F-34
+AC003848AD
+CIRCUIT OPERATION TROUBLESHOOTING HINTS
+• When the power window main switch is operated, • Malfunction of the power window main switch
+signal is sent to the convertible top control mod- • Malfunction of the quarter window regulator
+ule in order to operate the quarter window regula- motor assembly <RH>
+tor motor to open/close the quarter window. • Damaged harness wires or connectors
+TECHNICAL DESCRIPTION (COMMENT)
+• The cause may be a malfunction of the quarter
+window regulator motor <RH> drive circuit.
+.DIAGNOSIS
+STEP 1. Check harness wires between convertible top
+control module connector F-34 (terminals 2, 1) and quarter
+window regulator motor connector F-31 (terminals 1, 2).
+Q:Are there any damaged wires between convertible top
+CONNECTOR: F-31, F-34
+control module connector F-34 (terminal 2, 1) and
+F-31 quarter window regulator motor connector F-31
+F-34
+(terminals 1, 2)?
+YES : Replace it, then go to Step 4.
+NO : Go to Step 2.
+AC003848AD
+STEP 2. Check the quarter window regulator motor <RH>
+operation.
+(1) Check that the motor runs smoothly when the battery is
+QUARTER WINDOW connected directly to the motor terminals.
+REGULATOR ASSEMBLY (2) Furthermore, check that the motor operates in reverse
+when the terminal connections are reversed. (Refer to P.42-
+39.)
+Q:Is the quarter window regulator motor <RH> damaged?
+YES : Replace it, then go to Step 4.
+NO : Go to Step 3.
+AC003346AB
+TSB Revision

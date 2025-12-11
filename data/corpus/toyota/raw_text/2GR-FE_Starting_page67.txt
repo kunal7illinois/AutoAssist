@@ -1,0 +1,28 @@
+ST–67
+2GR-FE STARTING – SMART KEY SYSTEM
+INSPECTION PROCEDURE
+1 CHECK OPERATION OF SPEEDOMETER
+(a) Drive the vehicle and check if the function of the
+speedometer in the combination meter is normal.
+OK:
+Actual vehicle speed and the speed indicated on
+the speedometer are the same.
+HINT:
+The vehicle speed sensor is functioning normally when
+the indication on the speedometer is normal.
+NG GO TO COMBINATION METER SYSTEM
+OK
+2 CHECK DTC OUTPUT (CAN COMMUNICATION SYSTEM)
+(a) Delete the DTCs (See page ST-26).
+(b) Check for CAN communication system DTCs.
+HINT:
+If the DTCs for the CAN communication system
+malfunction are output, inspect those DTCs first (See
+page CA-31).
+OK:
+No DTC is output.
+NG GO TO CAN COMMUNICATION SYSTEM
+OK
+3 CHECK WIRE HARNESS (MAIN BODY ECU - COMBINATION METER)
+(a) Disconnect the E8 ECU connector.
+ST

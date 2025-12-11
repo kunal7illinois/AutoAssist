@@ -1,0 +1,54 @@
+WS–22
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+DTC B2311 Driver Door Motor Malfunction
+DESCRIPTION
+The portion of the power window control system that is located in the driver door consists of a power
+window master switch, regulator, and a motor with an integrated ECU. The driver door power window
+WS
+regulator motor is controlled by the ECU when the power window master switch is operated (models with
+jam protection).
+DTC B2311 is set when the ECU for the driver door power window regulator motor assembly
+malfunctions.
+NOTICE:
+The power window control system uses a serial communication protocol (LIN) to communicate
+with the main body ECU. Inspect the communication function by following HOW TO PROCEED
+WITH TROUBLESHOOTING. Troubleshoot the power window control system after confirming that
+the communication system is functioning properly.
+HINT:
+• Initialization is required only when the power window regulator motor is replaced. However, replacing
+the motor may cause the motor gear to be engaged in a different position. This can cause a difference
+to exist between the current door glass position and the position memorized in the ECU. In this case,
+the jam protection function may work improperly. Return the system to the pre-initialized condition and
+reinitialize the system.
+• To return the system to the pre-initialized condition:
+Disconnect the power window regulator motor connector during power window operation. This will
+return the motor to the pre-initialized condition.
+DTC No. DTC Detection Condition Trouble Area
+When either condition below is met:
+• Battery disconnection when the ignition
+• The power window regulator motor (on
+switch is on (IG)
+driver side) malfunctions
+• Power window regulator motor (on driver
+• When the ECU in the power widow
+side)
+B2311 regulator motor (on driver side)
+• Incorrect installation of power window
+determines that the fully closed window
+components
+position has deviated approximately 20
+• Overheated power window regulator
+mm (0.79 in.) or more from the normal
+motor (on driver side)
+position
+INSPECTION PROCEDURE
+1 INITIALIZE POWER WINDOW CONTROL SYSTEM
+(a) Initialize the power window regulator motor assembly (on
+the driver side) (see page WS-8).
+(b) Check that the power window operates normally by
+opening and closing the window.
+OK:
+Driver side power window operates normally.
+NG REPLACE POWER WINDOW REGULATOR
+MOTOR ASSEMBLY (for Driver Side)
+OK

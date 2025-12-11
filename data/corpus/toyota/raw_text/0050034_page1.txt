@@ -1,0 +1,24 @@
+ES–190
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0351 Ignition Coil "A" Primary / Secondary Circuit
+DTC P0352 Ignition Coil "B" Primary / Secondary Circuit
+DTC P0353 Ignition Coil "C" Primary / Secondary Circuit
+DTC P0354 Ignition Coil "D" Primary / Secondary Circuit
+DESCRIPTION
+HINT:
+ES • These DTCs indicate malfunctions relating to the primary circuit.
+• If DTC P0351 is set, check No. 1 ignition coil with igniter circuit.
+• If DTC P0352 is set, check No. 2 ignition coil with igniter circuit.
+• If DTC P0353 is set, check No. 3 ignition coil with igniter circuit.
+• If DTC P0354 is set, check No. 4 ignition coil with igniter circuit.
+A Direct Ignition System (DIS) is used on this vehicle.
+The DIS is a 1-cylinder ignition system in which each cylinder is ignited by one ignition coil and one spark
+plug is connected to the end of each secondary wiring. A powerful voltage, generated in the secondary
+wiring, is applied directly to each spark plug. The sparks of the spark plugs pass from the center electrode
+to the ground electrodes.
+The ECM determines the ignition timing and transmits the ignition (IGT) signals to each cylinder. Using the
+IGT signal, the ECM turns the power transistor inside the igniter on and off. The power transistor, in turn,
+switches on and off the current to the primary coil. When the current to the primary coil is cut off, a
+powerful voltage is generated in the secondary coil. This voltage is applied to the spark plugs, causing
+them to spark inside the cylinders. As the ECM cuts the current to the primary coil, the igniter sends back
+an ignition confirmation (IGF) signal to the ECM, for each cylinder ignition.

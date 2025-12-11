@@ -1,0 +1,58 @@
+23A-234 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+CONNECTORS: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE>, C-57 <2.4L ENGINE>
+OR C-59 <3.0L ENGINE>
+PCM
+C-57 <2.4L ENGINE>
+OR
+C-59 <3.0L ENGINE>
+C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE> AC001657BB
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+• A/T control relay (terminal number 1) receives the If the A/T control relay voltage is less than 7 volts at
+terminals 77 and 89 after the ignition switch has
+battery positive voltage from the battery.
+• When turning the ignition switch to the "ON" posi- been turned to the "ON" position it is judged that
+there is an open circuit or a short-circuit in the A/T
+tion the PCM receives battery voltage from the
+control relay ground and diagnostic trouble code
+ignition switch (terminal 98). Then the PCM (ter-
+number "54" is output. The transmission is locked
+minal number 50) applies a voltage to the A/T
+into the 3rd gear as a fail-safe measure, and the "N"
+control relay (terminal number 4), and the A/T
+range light flashes once per second.
+control relay switch is turned on. When the A/T
+control relay switch is turned on, the battery
+.
+applies a power supply voltage to the PCM (ter- TROUBLESHOOTING HINTS (The most likely
+minal numbers 77 and 89). causes for this code to be set:)
+• Malfunction of the A/T control relay
+. • Damaged harness, connector
+• Malfunction of the PCM
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Using scan tool MB991502, check data list item 54:
+A/T Control Relay Output Voltage.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to data reading mode for item 54:
+A/T Control Relay Output Voltage.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the relay operating properly?
+16 PIN YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+MB991502 AC001252AB Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Go to Step 2.
+TSB Revision

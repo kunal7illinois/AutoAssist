@@ -1,0 +1,29 @@
+ST–51
+2GR-FE STARTING – SMART KEY SYSTEM
+OK
+CHECK INTERMITTENT PROBLEMS
+2 CHECK WIRE HARNESS (MAIN BODY ECU - ECM)
+(a) Disconnect the E9 ECU connector.
+Wire Harness Side:
+ECM
+E9
+Main Body ECU
+STSW
+A55
+STSW
+B137996E02
+(b) Disconnect the A55 ECM connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Terminal No. (Symbol) Condition Specified Condition
+E9-4 (STSW) - A55-14
+Always Below 1 Ω
+(STSW)
+E9-4 (STSW) - Body
+Always 10 kΩ or higher
+ground
+ST
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK

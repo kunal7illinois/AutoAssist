@@ -1,0 +1,32 @@
+ES–281
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+ECM
+ETCS
++BM
+Shielded
+M+ Throttle Actuator
+Control Circuit ES
+M-
+FL MAIN
+Throttle Actuator
+GE01
+E1
+ME01
+Battery
+A127271E01
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 READ VALUE USING INTELLIGENT TESTER (+BM VOLTAGE)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / +BM VOLTAGE.
+(e) Read the value displayed on the tester.
+Standard voltage:
+9 to 14 V

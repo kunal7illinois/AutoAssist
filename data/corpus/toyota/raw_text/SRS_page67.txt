@@ -1,0 +1,39 @@
+RS–67
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+3 CHECK CONNECTORS
+(a) Disconnect the connectors from the center airbag sensor
+assembly and front airbag sensor LH.
+(b) Check that the connectors (on the center airbag sensor
+assembly side and front airbag sensor LH side) are not
+damaged.
+OK:
+The connectors are not deformed or damaged.
+NG REPAIR OR REPLACE WIRE HARNESS
+OK
+4 CHECK FRONT AIRBAG SENSOR LH (OPEN)
+(a) Using a service wire, connect terminals 30 (+SL) and 28
+(-SL) of connector B.
+NOTICE:
+F A
+E DC B Do not forcibly insert a service wire into the
+terminals of the connector when connecting.
+Front Airbag
+(b) Measure the resistance according to the value(s) in the
+Sensor LH
+Center Airbag table below.
+Sensor Assembly Standard resistance
+Tester Connection Condition Specified Condition
+Connector E Connector B A13-2 (+SL) - A13-1 (- Always Below 1 Ω
+SL)
+RS
+A13 E30
+NG Go to step 9
+-SL +SL
+109 8 7 6 5 4 3 2 1
+20191817161514131211
+30292827262524232221
++SL
+-SL
+Service Wire
+C114801E03
+OK

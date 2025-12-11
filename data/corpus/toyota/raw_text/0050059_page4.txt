@@ -1,0 +1,40 @@
+ES–336
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+Integration Relay ECM
+A/F Sensor
+EFI MAIN
+EFI MAIN
++B HA1A HA1A
+EFI NO. 1
+Shielded
+A1A- A1A+
+A1A+
+P/I
+ES
+A1A-
+FL
+MAIN
+MREL
+Battery
+A127851E01
+INSPECTION PROCEDURE
+HINT:
+Intelligent tester only:
+Malfunctioning areas can be identified by performing the A/F CONTROL function provided in the ACTIVE
+TEST. The A/F CONTROL function can help to determine whether the Air-Fuel Ratio (A/F) sensor, Heated
+Oxygen (HO2) sensor and other potential trouble areas are malfunctioning.
+The following instructions describe how to conduct the A/F CONTROL operation using the intelligent
+tester.
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the tester ON.
+(c) Warm up the engine at an engine speed of 2,500 rpm for approximately 90 seconds.
+(d) On the tester, select the following menu items: DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST / A/
+F CONTROL.
+(e) Perform the A/F CONTROL operation with the engine idling (press the RIGHT or LEFT button to
+change the fuel injection volume).
+(f) Monitor the voltage outputs of the A/F and HO2 sensors (AFS B1 S1 and O2S B1 S2) displayed on the
+tester.
+HINT:
+• The A/F CONTROL operation lowers the fuel injection volume by 12.5 % or increases the injection
+volume by 25 %.

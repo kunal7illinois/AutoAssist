@@ -1,0 +1,50 @@
+ES–285
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Time after key off 5, 7 or 9.5 hours
+EVAP pressure sensor malfunction (P0450, P0451, P0452 and
+Not detected
+P0453)
+EVAP VSV Not operated by scan tool
+Vent valve Not operated by scan tool
+Leak detection pump Not operated by scan tool
+Both of following conditions are met before key OFF: Conditions 1 and 2
+1. Duration that vehicle is being driven 5 minutes or more
+2. EVAP purge operation Performed
+ECT 4.4 to 35°C (40 to 95°F)
+IAT 4.4 to 35°C (40 to 95°F)
+1. Key-off monitor sequence 1 to 8
+1. Atmospheric pressure
+Next sequence is run if following condition is met: - ES
+Atmospheric pressure change Less than 0.3 kPa (2.25 mmHg) for 1 second
+2. First reference pressure
+Next sequence is run if all of following conditions are met: Conditions 1, 2 and 3
+1. EVAP pressure when 4 seconds after reference pressure
+-1 kPa (-7.5 mmHg) or less
+measurement
+2. Reference pressure -4.85 to -1.05 kPa (-36.38 to -7.87 mmHg)
+3. Reference pressure Saturated within 1 minute
+3. Vent valve stuck closed check
+Next sequence is run if following condition is met: -
+EVAP pressure change after vent valve is ON 0.3 kPa (2.25 mmHg) or more
+4. Vacuum introduction and leak
+Next sequence is run if both of following conditions are met: -
+Vacuum introduction time 15 minutes or less
+5. EVAP VSV stuck closed check
+Next sequence is run if following condition is met: -
+EVAP pressure change after purge VSV ON 0.3 kPa (2.25 mmHg) or more
+6. Second reference pressure measurement
+Next sequence is run if all of following conditions are met: Conditions 1, 2, 3 and 4
+1. EVAP pressure just after reference pressure measurement -1 kPa (-7.5 mmHg) or less
+2. Reference pressure -4.85 to -1.05 kPa (-36.38 to -7.87 mmHg)
+3. Reference pressure Saturated within 1 minute
+4. Reference pressure difference between first and second Less than 0.7 kPa (5.25 mmHg)
+7. Leak check
+Next sequence is run if following condition is met: -
+EVAP pressure when vacuum introduction was complete Less than second reference pressure
+8. Atmospheric pressure
+Monitor is complete -
+Atmospheric pressure difference between sequence 1 and 8 0.3 kPa (2.25 mmHg) or less
+TYPICAL MALFUNCTION THRESHOLDS
+"Saturated" indicates that the EVAP pressure change is less than 0.1 kPa (0.75 mmHg) in 30 seconds.
+P0455: EVAP gross leak
+EVAP pressure when vacuum introduction is complete Higher than reference pressure x 0.2

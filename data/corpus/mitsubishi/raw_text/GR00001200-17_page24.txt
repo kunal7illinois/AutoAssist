@@ -1,0 +1,26 @@
+17-24 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+CONNECTORS: C-03, C-06 CONNECTOR: C-89
+C-06
+C-03
+CONNECTOR
+BLOCK (LH)
+AC101196AD AC103104AD
+CONNECTOR: C-94
+CONNECTOR
+BLOCK (RH)
+AC101197AB
+. .
+CIRCUIT OPERATION DTC SET CONDITIONS
+This circuit supplies the power to the vacuum pump. None of the drive signals from release valve, control
+The battery positive voltage is supplied to the auto- valve and motor of the auto-cruise vacuum pump are
+cruise control vacuum pump by turning on the tran- input to the auto-cruise control-ECU.
+sistor at terminal number 16 of the auto-cruise con-
+trol-ECU. . TROUBLESHOOTING HINTS
+The conditions for turning on the transistor at termi- The most likely causes for this code to be set are:
+nal number 16 of the auto-cruise control-ECU are as • Malfunction of the stoplight switch.
+follows. • Malfunction of the auto-cruise vacuum pump.
+• Ignition switch "ON." • Damaged harness or connector.
+• Auto-cruise control main switch "ON." • Malfunction of the auto-cruise control-ECU.
+• Stoplight switch ON.
+TSB Revision

@@ -1,0 +1,52 @@
+CA–50
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+• Before measuring the resistance, leave the vehicle as is for at least 1 minute and do not operate
+the ignition switch, any other switches or the doors. If doors need to be opened in order to
+check connectors, open the doors and leave them open.
+HINT:
+Operating the ignition switch, any other switches or any triggers related ECU and sensor communication
+on the CAN, which would cause resistance reading variations.
+1 CHECK CAN BUS LINE FOR DISCONNECTION (AIR CONDITIONING AMPLIFIER BRANCH
+WIRE)
+(a) Turn the ignition switch off.
+Air Conditioning Amplifier (Wire Harness
+(b) Disconnect the air conditioning amplifier connector.
+Side):
+(c) Measure the resistance according to the value(s) in the
+table below.
+E38
+Standard resistance
+Tester Connection Condition Specified Condition
+E38-11 (CANH) - E38-12
+Ignition Switch off 54 to 69 Ω
+(CANL)
+CA NG REPAIR OR REPLACE CAN BRANCH WIRE
+CONNECTED TO AIR CONDITIONING
+AMPLIFIER (CAN-H, CAN-L)
+CANL CANH
+E124470E21
+OK
+2 CHECK HARNESS AND CONNECTOR (IG+, B, GND)
+(a) Disconnect the air conditioning amplifier connector.
+Air Conditioning Amplifier (Wire Harness
+(b) Measure the resistance according to the value(s) in the
+Side):
+table below.
+Standard resistance
+E38
+Tester Connection Condition Specified Condition
+E38-14 (GND) - Body
+Always Below 1 Ω
+Ground
+(c) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+GND B IG+ E38-1 (IG+) - Body
+Ignition Switch on (IG) 10 to 14 V
+Ground
+E38-21 (B)- Body
+Always 10 to 14 V
+E124470E22 Ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR

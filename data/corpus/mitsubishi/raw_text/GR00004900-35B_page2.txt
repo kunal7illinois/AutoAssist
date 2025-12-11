@@ -1,0 +1,34 @@
+35B-2 ANTI-LOCK BRAKING SYSTEM (ABS)
+GENERAL DESCRIPTION
+GENERAL DESCRIPTION
+.
+M1352000100238
+The ABS consists of components such as the wheel If the ABS hydraulic unit is faulty, the ABS-ECU must
+speed sensors, stoplight switch, hydraulic unit be replaced.
+assembly (integrated with ABS-ECU), ABS rotor, and The ABS-ECU runs a self-check for 3 seconds upon
+the ABS warning light. If a problem occurs in the sys- start-up (also ignition switch ON, engine stopped).
+tem, the malfunctioning components can be identi- The ABS warning light, TCL warning light, and TCL
+fied and the trouble symptoms will be memorized by indicator light should be illuminated during the self-
+the diagnostic function. check and turn off when the self-check completes.
+In addition, reading of diagnostic trouble codes and
+data list and actuator testing are possible by using
+the Scan Tool.
+ITEMS SPECIFICATIONS
+ABS type 4-sensor, 3-channel type
+Speed sensor Magnet coil type on 4-wheels
+Front ABS rotor teeth 43
+Rear ABS rotor teeth 43
+CONSTRUCTION DIAGRAM
+4
+3
+2
+1
+6
+5
+6
+5 AC004346AB
+1. HYDRAULIC UNIT (INTEGRATED 4. ABS WARNING LIGHT
+WITH ABS-ECU) 5. ABS ROTOR
+2. STOPLIGHT SWITCH 6. WHEEL SPEED SENSOR
+3. DATA LINK CONNECTOR
+TSB Revision

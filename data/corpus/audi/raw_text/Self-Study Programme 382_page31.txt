@@ -1,0 +1,13 @@
+Diagnosis
+The scope of diagnosis in the convenience system central control unit J393 has been extended to include the
+new function.Address word 46 is assigned to the convenience system central control unit in the diagnostic
+tester.
+There is a new data block for the "electrically adjustable rear spoiler" function. It contains the following
+information:
+● Switch for detecting the end position "rear spoiler retracted" is actuated or not actuated
+● Switch for detecting the end position "rear spoiler extended" is actuated or not actuated
+● Adjustable rear spoiler switch E127 is actuated or not actuated
+● Warning lamp K242 in the adju s table rear spoiler switch E127 is on or off
+There is adaption or final control diagnostics function for the electrically adjustable rear spoiler. It is not
+included in the coding either, but is standard equipment in the TT Coupé.
+31

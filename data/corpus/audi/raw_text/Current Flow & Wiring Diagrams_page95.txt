@@ -1,0 +1,42 @@
+Audi TT No. 7 / 5
+Current Flow Diagram
+Climatronic control unit, potentiometer for centre flap
+control motor, potentiometer for air flow flap control motor,
+potentiometer for air recirculation flap control motor
+G112 Central flap control motor potentiometer
+G113 Air flow flap control motor potentiometer
+G143 Air recirculation flap control motor potentiometer
+J255 Climatronic control unit
+T12k 12-pin connector, connector A, on Climatronic control unit
+T20k 20-pin connector, connector B, on Climatronic control unit
+V70 Central flap control motor
+V71 Air flow flap control motor
+V113 Air recirculation flap control motor
+97 Earth connection 1, in air conditioning system wiring harness
+L31 Connection (5V), in air conditioning system wiring harness
+* Operating unit for air conditioning
+J255 ✱
+T20k T12k/8 T12k/7 T20k/6 T12k/5 T12k/6 T20k/5 T20k/1 T12k/9 T12k T20k/7
+/14 /10
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+bl/ro li/ge gn/ws ge ws/ge gr/ge sw ws/gn ge/gn gr/gn
+L31
+L31
+0,35 0,35 0,35
+sw sw sw
+5 6 2 1 5 6 2 3 5 6 2 3
+M M M
+ws = white
+V113 G143 3 V70 G112 1 V71 G113 1
+sw = black
+ro = red
+0,35 0,35 0,35 0,35 br = brown
+br/ws br/ws br/ws br/ws gn = green
+97 bl = blue
+97 gr = grey
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-007050806
+rs = pink
+Edition 10.2008

@@ -1,0 +1,57 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-167
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS : C-58, C-62<M/T>,
+C-55, C-59<A/T>
+PCM<A/T> ECM<M/T>
+C-55 C-59 C-58 C-62
+AK000225AK
+. • Volumetric efficiency is higher than 25 percent.
+CIRCUIT OPERATION
+• A voltage corresponding to the oxygen concen- • Volume air flow sensor output frequency is 75 Hz
+or more.
+tration in the exhaust gas is sent to the ECM (ter-
+• At least 20 seconds have passed since fuel shut
+minal 74) <M/T> or PCM (terminal 74) <A/T>
+off control was canceled.
+from the output terminal (terminal 4) of the right
+• The right bank heated oxygen sensor (front) out-
+bank heated oxygen sensor (rear).
+• Terminal 2 of the right bank heated oxygen sen- puts 0.5 volts or more.
+• After the ignition switch is turned ON, the
+sor (rear) is grounded with ECM (terminal 49)
+changes in the output voltage of the right bank
+<M/T> or PCM (terminal 57) <A/T>.
+heated oxygen sensor (rear) is lower than 0.078
+volt.
+.
+TECHNICAL DESCRIPTION
+• Monitoring time: 10 seconds.
+• The output signal of the right bank heated oxygen
+sensor (front) is compensated by the output sig- Judgement Criteria
+nal of the right bank heated oxygen sensor (rear). • Making the air/fuel ratio 15 percent for 10 sec-
+• The ECM <M/T> or PCM <A/T> checks for an onds richer does not result in raising the heated
+open circuit in the right bank heated oxygen sen- oxygen sensor (rear) output voltage beyond 0.15
+sor (rear) output line. volt.
+• The ECM <M/T> or PCM <A/T> monitors for this
+. condition once during the drive cycle.
+DTC SET CONDITIONS
+Check Conditions .
+TROUBLESHOOTING HINTS (The most likely
+• 3 minutes or more have passed since the starting
+causes for this code to be set are: )
+sequence was completed.
+• Right bank heated oxygen sensor (rear) failed.
+• Right bank heated oxygen sensor (rear) signal
+• Short circuit in right bank heated oxygen sensor
+voltage has continued to be 0.15 volt or lower.
+(rear) output line.
+• Engine coolant temperature is higher than 76°C
+• ECM failed. <M/T>
+(169°F).
+• PCM failed. <A/T>
+• Engine speed is higher than 1,200 r/min.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991316: Test Harness Set
+TSB Revision

@@ -1,0 +1,40 @@
+Audi TT 2007 ➤
+Direct petrol injection and ignition system (4-cyl. 1.8 ltr., 2.0 ltr. 4-valve turbo with timing chain) - Edition
+06.2010
+– Connect pressure line of pressure sensor tester -VAS 6394-
+to adapter -VAS 6394/2- .
+– Start engine.
+– Compare the pressure indicated by pressure sensor tester -
+VAS 6394/1- with the actual pressure value on the vehicle
+diagnostic tester .
+• The pressure readings must not deviate by more than 5 bar.
+– If the deviation is more than 5 bar, test a new fuel pressure
+sender -G247- .
+WARNING
+The fuel system is pressurised. The fuel pressure in the high-
+pressure part of the injection system must be reduced to a
+residual pressure prior to opening; for procedure see
+⇒ page 4 .
+– Screw a new fuel pressure sender -G247- into the pressure
+gauge -VAS 639 4/1- .
+– Repeat the test with the new fuel pressure sender -G247- and
+compare the two pressure values.
+If the two values still do not agree:
+– Check the electrical connection between the fuel pressure
+sender -G247- and the engine control unit; refer to ⇒ Current
+flow diagrams, Electrical fault finding and Fitting locations.
+If the values agree:
+– Install the new fuel pressure sender -G247- ⇒ page 59 .
+9.3 Checking fuel pressure and residual
+pressure (up to high-pressure pump)
+Special tools and workshop equipment required
+♦ K-Jetronic pressure tester -V.A.G 1318-
+♦ Fuel-resistant measuring container
+♦ Protective gloves
+Test conditions:
+• Battery voltage at least 12.5 V.
+• Fuel filter OK.
+• Fuel tank at least 1/4 full.
+• Fuel pump control unit -J538- OK (check)
+62
+Rep. Gr.24 - Mixture preparation - injection

@@ -1,0 +1,24 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-35
+SRS AIR BAG DIAGNOSIS
+DTC 24 : Passenger(cid:146)s (Front) Air Bag Module (Squib) System Fault 1 (Short Circuit between Terminals
+of the Squib Circuit)
+Driver's Air Bag Module (Squib) Circuit
+NOTE
+: CONNECTOR LOCK SWITCH
+AC106623AB
+CONNECTOR: C-72 CONNECTOR: C-11 PASSENGER'S (FRONT)
+AIR BAG
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH)AC000358AD
+AC000363AE
+CIRCUIT OPERATION DTC SET CONDITIONS
+• The SRS-ECU judges how severe a collision is • This DTC is set if there is abnormal resistance
+by detecting signals from the left and right side between the input terminals of the passenger’s
+impact sensors and the analog G-sensor. If the (front) air bag module (squib). The most likely
+impact is over a predetermined level, the SRS- causes for this code to be set are shown in the
+ECU outputs an ignition signal. At this time, if the table below: However, if no DTC resets, the SRS
+safing G-sensor is on, the SRS air bag will inflate. warning light will be switched off (The DTC will be
+• The ignition signal is input to the air bag module retained).
+to inflate the air bag.
+TSB Revision

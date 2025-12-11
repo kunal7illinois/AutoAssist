@@ -1,0 +1,45 @@
+CA–83
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+No. 1 CAN J/C “B” side (without Earth Terminal): No. 1 CAN J/C “A” side (with Earth Terminal):
+Earth Terminal
+B B
+E46 E42
+W W
+B B
+E62 E45
+W W
+B
+E63
+W CA
+B E43
+W
+B E44
+W
+Earth Terminal
+C137761E02
+CAN J/C connectors ("A" side, with earth terminal) Connector Color Wire Color (CAN-H) Wire Color (CAN-L)
+Airbag Sensor Assembly Center (E45) Black B W
+CAN J/C connectors ("B" side, with earth terminal) Connector Color Wire Color (CAN-H) Wire Color (CAN-L)
+Yaw Rate Sensor* (E46) Blue B W
+Steering Angle Sensor* (E63) Brown B W
+Main Body ECU (E44) Black B W
+*: with VSC
+NOTICE:
+Do not reconnect the disconnected connectors until
+this inspection is complete because there may be a
+short in 2 or more branch wires.
+Result
+Symptom Proceed to
+The resistance is still below 54 Ω when all the specified connectors are disconnected. (There
+A
+are no shorts in the branch wires.)
+The resistance becomes normal (between 54 and 69 Ω) when a connector is disconnected.
+B
+(There is a short in one or more of the branch wires.)
+(d) When there is a short in one or more of the branch wires:
+(1) Reconnect all of the connectors to the No. 1 CAN J/
+C, except for the one that was disconnected last
+(the short-circuited bus wire). Check that the
+resistance shown on the tester is normal (between
+54 and 69 Ω) to confirm that there is a short in one
+branch wire only.

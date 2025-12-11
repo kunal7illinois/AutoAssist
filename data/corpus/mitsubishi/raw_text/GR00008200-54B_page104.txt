@@ -1,0 +1,27 @@
+54B-104 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+Check the input signal (by using the Pulse check).
+Check the input signals from the door lock switch:
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Operate the MUT-II as follows:
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+(3) Move the driver’s or the front passenger’s door lock switch
+from "LOCK" to "UNLOCK" or vice versa.
+16 PIN (4) Check the scan tool MB991502 sounds or not.
+Q:Does scan tool MB991502 sound when the driver’s or
+MB991502
+AC001252AD the front passenger’s door lock switch is moved from
+"LOCK" to "UNLOCK" or vice versa?
+YES : Replace the ETACS-ECU. All the doors should be
+locked and unlocked by the door lock switch.
+NO : Refer to Inspection Procedure P-7 "ETACS-ECU does
+not receive a signal from the door lock switch
+(incorporated in the power window main switch)
+P.54B-39."
+TSB Revision

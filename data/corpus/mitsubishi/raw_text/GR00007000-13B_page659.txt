@@ -1,0 +1,42 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-659
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TERMINAL TERMINAL INSPECTION ITEM INSPECTION CONDITION (ENGINE CONDITION) NORMAL CONDITION
+NO. <M/T> NO. <A/T>
+74 74 Right bank heated • Engine: warming up 0 and 0.6 − 1.0 V
+oxygen sensor • Revving alternates
+(rear)
+78 78 Throttle position Ignition switch: Idling 0.535 − 0.735 V
+sensor "ON" (check for Wide open throttle 4.5 − 5.5 V
+smooth voltage
+increase as throttle
+is moved from idle
+position to wide
+open throttle)
+79 79 Idle position signal Ignition switch: Set throttle valve to idle 0 − 1 V
+"ON" position
+Open throttle slightly 4 V or more
+80 − Vehicle speed • Ignition switch: "ON" 0 ⇔ 8 −12 V
+sensor • Move the vehicle slowly forward (changes
+repeatedly)
+83 83 A/C switch Engine: idling Turn the A/C switch OFF 1V or less
+Turn the A/C switch ON (A/C B+
+compressor is operating)
+92 91 Manifold Engine: idling 0.8 − 2.4 V
+differential • Engine: idling Rises from 0.8 −
+pressure sensor • Suddenly depress the accelerator pedal 2.4 V suddenly
+93 92 Fuel tank Engine: idling 1.2 − 3.8 V
+differential
+pressure sensor
+99 98 Ignition switch-IG Ignition switch: "ON" B+
+TERMINAL RESISTANCE AND CONTINUITY CHECK
+ECM <M/T> or PCM <A/T> Connector Terminal Arrangement
+<M/T>
+77 76 75 7473 7271 47 46 45 44434241 8 7 6 5 4 3 2 1
+90 89 8887868584838281807978 59 58 57565554535251504948 23222120191817161514131211 10 9
+100 99 989796 9594 939291 68 67 6665 646362 6160 3534 33323130 29282726 25 24
+<A/T>
+107 106105 104103 102101 77 76 75 74737271 464544 43 42 41 8 7 6 5 4 3 2 1
+120 119118117116115114113112111110109108 89 88 87868584838281807978 575655545352515049 48 47 23222120191817161514131211 10 9
+130 129 128127126 125124 123122121 98 97 9695 949392 9190 666564 63626160 59 58 3534 33323130 29282726 25 24
+AK000059AB
+TSB Revision

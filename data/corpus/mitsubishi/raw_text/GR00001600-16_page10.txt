@@ -1,0 +1,68 @@
+16-10 ENGINE ELECTRICAL
+CHARGING SYSTEM
+REGULATED VOLTAGE TEST
+M1161001100116
+LOAD
+AMMETER
+CHARGING
+IGNITION WARNING
+SWITCH LIGHT
+BLACK GENERATOR
+INDICATOR LAMP
+(BRAKE WARNING
+LIGHT, etc.) MB991519 G
+S
+L
+FR
++ BLUE
+YELLOW
+BATTERY
+RED
+ECM (M/T)
+–
+PCM (A/T)
+VOLTMETER
+(DIGITAL-TYPE)
+AKX01215AB
+Required Special Tools: 5. Disconnect the generator output wire from the
+• MB991502: Scan Tool (MUT-II) generator "B" terminal.
+• MB991519: Generator Harness Connector 6. Connect a DC test ammeter with a range of 0 −
+This test determines whether the voltage regulator is
+100 A in series between the "B" terminal and the
+correctly controlling the generator output voltage.
+disconnected output wire. (Connect the positive
+1. Always be sure to check the following before the load of the ammeter to the "B" terminal, and then
+test: connect the negative lead of the ammeter to the
+• Generator installation disconnected output wire.)
+• Check to be sure that the battery installed in the
+WARNING
+vehicle is fully charged. (Refer to GROUP 54A,
+Battery posts, terminals and related acces-
+Battery − On-vehicle Service − Battery Check
+sories contain lead and lead compounds.
+P.54A-5.)
+WASH HANDS AFTER HANDLING.
+• Generator drive belt tension (Refer to GROUP
+00, Maintenance Service − Drive Belts P.00-44.) 7. Reconnect the negative battery cable.
+• Fusible link 8. Connect a tachometer or the scan tool
+• Abnormal noise from the generator while the MB991502.
+engine is running
+9. Turn the ignition switch to the "ON" position and
+2. Turn the ignition switch to the "LOCK" (OFF) check that the reading on the voltmeter is equal to
+position. the battery positive voltage.
+WARNING NOTE: If the voltage is 0 V, the cause is probably
+Battery posts, terminals and related acces- an open circuit in the wire or fusible link between
+sories contain lead and lead compounds. the generator "S" terminal and the battery positive
+WASH HANDS AFTER HANDLING. terminal.
+10.Check to be sure that all lights and accessories
+3. Disconnect the negative battery cable.
+are off.
+4. Use the special tool (Generator harness
+11.Start the engine.
+connector: MB991519) to connect a digital-type
+voltmeter between the generator "S" terminal and 12.Increase the engine speed to 2,500 r/min.
+the ground. (Connect the positive lead of the 13.Read the value displayed on the voltmeter when
+voltmeter to the "S" terminal, and then connect the the current output by the generator becomes 10 A
+negative lead of the voltmeter to a secure ground or less.
+or to the negative battery terminal.)
+TSB Revision

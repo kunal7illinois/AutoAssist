@@ -1,0 +1,61 @@
+AUTOMATIC TRANSAXLE 23A-249
+AUTOMATIC TRANSAXLE DIAGNOSIS
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE 1: Engine does not Crank
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+causes for this case:)
+If the engine does not crank when the selector lever
+• Malfunction of the Park/Neutral position switch
+is placed in the "P" or "N" position, the cause is prob-
+• Malfunction of the transaxle control cable assem-
+ably a malfunction of the Park/Neutral position switch
+bly
+system, transaxle control cable assembly, engine
+• Malfunction of the engine system
+system, torque converter or transaxle oil pump.
+• Malfunction of the torque converter
+• Malfunction of the transaxle oil pump
+.
+• Malfunction of the PCM
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Using scan tool MB991502, check the A/T
+diagnostic trouble code.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the A/T diagnostic trouble code.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is A/T diagnostic trouble code numbers "27" or "28"
+displayed?
+YES : Refer to P.23A-136, P.23A-166, code number 27, 28:
+16 PIN Park/Neutral Position Switch System.
+NO : Go to Step 2.
+MB991502
+AC001252AB
+STEP 2. Check the transaxle control cable assembly.
+Move the selector lever to each position. The manual control
+P lever position of the Park/Neutral position switch should match
+PARK/NEUTRAL
+R
+N POSITION SWITCH the selector lever position.
+D Q:Is the manual control lever position correct?
+3
+YES : Go to Step 3.
+2
+NO : Repair the transaxle control cable. Refer to P.23A-
+L
+352, Park/Neutral Position Switch and Control Cable
+MANUAL
+Adjustment. Retest the system to verify the repair.
+CONTROL
+LEVER
+AC001856AB
+TSB Revision

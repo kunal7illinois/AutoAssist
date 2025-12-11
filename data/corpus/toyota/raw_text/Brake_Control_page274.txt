@@ -1,0 +1,33 @@
+BC–268
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Skid Control Buzzer Circuit
+DESCRIPTION
+The skid control buzzer sounds while the accumulator pressure is abnormally low or when an abnormality
+causing low fluid pressure occurs, and then the VSC is activated.
+WIRING DIAGRAM
+Brake Actuator Assembly
+- Skid Control ECU
+Skid Control Buzzer
+IG1
+ECU-IG NO. 2
+BZ
+5 3 2 1 30
+BC
+2 1
+From Ignition Switch (*1),
+Main Body ECU (*2)
+From Battery
+(*1): without Smart Key System (*2): with Smart Key System
+C136034E03
+INSPECTION PROCEDURE
+NOTICE:
+When replacing the brake actuator assembly, perform zero point calibration (See page BC-119).
+1 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (SKID CONTROL BUZZER)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine.
+(c) Select the Active Test mode on the intelligent tester.
+ABS / VSC:
+Item (Display) Vehicle Condition / Test Details Diagnostic Note
+BUZZER Turns skid control buzzer ON / OFF Buzzer can be heard
+(d) Check that the buzzer sounds/stops when turning the
+skid control buzzer on/off by using the intelligent tester.

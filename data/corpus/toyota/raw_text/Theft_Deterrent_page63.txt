@@ -1,0 +1,32 @@
+TD–61
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/o Smart Key System)
+Engine Hood Courtesy Switch Circuit
+DESCRIPTION
+The engine hood courtesy switch is installed together with the hood lock. This switch turns off when the
+engine hood is opened and turns on when the engine hood is closed.
+WIRING DIAGRAM
+Instrument Panel J/B Assembly
+E7
+A5 Main Body ECU
+Engine Hood Courtesy Switch
+HCTY
+1 2 16
+B144365E01
+INSPECTION PROCEDURE
+TD
+1 INSPECT ENGINE HOOD COURTESY SWITCH
+(a) Remove the courtesy switch from the hood lock.
+(b) Measure the resistance according to the value(s) in the
+table below.
+A5
+Standard resistance
+Free Engine Hood
+(ON) Courtesy Switch Tester Connection Switch Position Specified Condition
+Free (ON) Below 1 Ω
+1 - 2
+Pushed (OFF) 10 kΩ or higher
+Pushed
+NG REPLACE HOOD LOCK ASSEMBLY
+(OFF)
+B144360E01
+OK

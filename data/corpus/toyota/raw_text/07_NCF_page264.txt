@@ -1,0 +1,21 @@
+CH-100 CHASSIS - BRAKE
+7. Brake Actuator
+General
+(cid:3) The brake actuator consists of actuator portion, skid control ECU, ABS solenoid relay, and ABS motor
+relay.
+(cid:3) The 2 relays are built in the brake actuator.
+Skid Control ECU
+Actuator Portion
+263CH42
+Actuator Portion
+The actuator portion consists of 8 two-position solenoid valves 1 motor, 2 pumps and 2 reservoirs. The 8
+two-solenoid valves consist of 4 pressure holding valves [(1), (2), (3), (4)] and 4 pressure reduction valves
+[(5), (6), (7), (8)].
+(cid:1) Hydraulic Circuit (cid:2)
+Master Cylinder
+Brake Actuator
+(1) (2) (3) (4)
+Pumps
+(5) (6) Reservoirs (7) (8)
+Front Left Rear Right Rear Left Front Right
+025CH73Y

@@ -1,0 +1,43 @@
+BC–332
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+Tester Connection Specified Condition
+f1-1 - A-2 10 kΩ or higher
+f1-1 - Body ground 10 kΩ or higher
+f1-2 - A-2 Below 1 Ω
+f1-2 - A-1 10 kΩ or higher
+f1-2 - Body ground 10 kΩ or higher
+(2) Connect the connector.
+NG REPAIR OR REPLACE SKID CONTROL
+SENSOR WIRE
+OK
+9 INSPECT SPEED SENSOR SIGNAL WAVEFORM
+(a) Lift up the vehicle.
+Skid Control ECU (Harness Side (b) Perform the inspection using an oscilloscope.
+BC Connector Front View): (1) Disconnect the skid control ECU connector.
+(2) Connect the oscilloscope to the rear speed sensor
+terminals of the skid control ECU.
+A60
+RL+ RR- (3) Check that a waveform is output when the tires are
+rotated.
+OK:
+The same waveforms is output from rear
+wheels and there is no noise or interference in
+the waveform.
+HINT:
+RL- RR+
+• As vehicle speed (wheel rotation speed)
+increases, the width of the waveform narrows
+Normal Signal Waveform: and the output voltage becomes greater.
+• When noise is identified in the waveform on the
+oscilloscope, the erratic signals are generated
+due to rotor scratches, looseness or foreign
+matter attached to the speed sensor.
+GND (4) Connect the connector.
+NG CLEAN OR REPLACE SPEED SENSOR AND
+SENSOR ROTOR
+1 V/Division, 2 ms./Division
+C139144E01
+OK
+10 READ VALUE OF INTELLIGENT TESTER (REAR SPEED SENSOR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine.

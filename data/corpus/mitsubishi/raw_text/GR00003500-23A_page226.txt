@@ -1,0 +1,49 @@
+23A-226 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 15. Overhaul the A/T.
+(1) Replace the following parts.
+SECOND • If DTC No.41, No.42, No.43 are output individually or in
+UNDERDRIVE
+BRAKE a group, replace the underdrive clutch. Refer to GROUP
+LOW- CLUTCH
+REVERSE 23B, Underdrive Clutch and Input Shaft P.23B-57.
+REVERSE
+CLUTCH BRAKE • If DTC No.43, No.44 are output individually or in a
+group, replace the overdrive clutch. Refer to GROUP
+23B, Reverse and Overdrive Clutch P.23B-59.
+• If DTC No.46 is output, replace the reverse clutch. Refer
+to GROUP 23B, Reverse and Overdrive Clutch P.23B-
+OVERDRIVE CLUTCH 59.
+AC001868AB
+• If DTC No.41, No.46 are output individually or in a
+group, replace the low-reverse brake. Refer to GROUP
+23B, Transaxle P.23B-10.
+• If DTC No.42, No.44 are output individually or in a
+group, replace the second brake. Refer to GROUP 23B,
+Transaxle P.23B-10.
+• If DTC No.41 is output, replace the one-way clutch
+(OWC-L). Refer to GROUP 23B, Planetary Gear P.23B-
+64.
+(2) Test drive the vehicle.
+(3) Check for A/T diagnostic trouble code.
+Q:Is the A/T diagnostic trouble code output again?
+YES : The A/T diagnostic trouble code may have set due to
+external radio frequency (RFI), possibly caused by
+cellular phone activity, after market components
+installed on the vehicle, etc.
+NO : The inspection is complete.
+DTC 52: Torque Coverter Clutch System
+. .
+DTC SET CONDITIONS TROUBLESHOOTING HINTS (The most likely
+If input shaft speed sensor is abnormal and drive causes for this code to be set:)
+duty rate for the torque converter clutch solenoid • Malfunction of the torque converter clutch sole-
+valve is 100 percent for continuous period of 4 sec- noid valve
+onds or more, it is judged that there is an abnormality • Damaged harness, connector
+in the torque converter clutch system and diagnostic • Malfunction of the PCM
+trouble code number "52" is output. • Malfunction of the underdrive clutch
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+TSB Revision

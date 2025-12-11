@@ -1,0 +1,36 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EGR System (R18A1) - Civic (All Except Hybrid)
+PROCEDURE ).
+12. Test-drive under these conditions:
+Engine coolant temperature (ECT SENSOR 1) above 158°F (70°C)
+(cid:1)
+A/T in D position (M/T in 4th gear)
+(cid:1)
+Drive at a steady speed between 55-75 mph (88-120 km/h) for at least 10
+(cid:1)
+seconds
+During the drive, decelerate (with the throttle fully closed) for 5 seconds
+(cid:1)
+13. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0401 indicated?
+YES - Check for poor connections or loose terminals at the EGR valve and the
+ECM/PCM. If the connections are OK, go to step 15.
+NO - Go to step 14.
+14. Monitor the OBD STATUS for DTC P0401 in the DTCs MENU with the
+HDS.
+Does the screen indicate PASSED?
+YES - Troubleshooting is complete. If any other Temporary DTCs or DTCs
+were indicated in step 13, go to the indicated DTCs troubleshooting.
+NO - If the screen indicates FAILED, check for poor connections or loose
+terminals at the EGR valve and the ECM/PCM, then go to step 1. If the screen
+indicates EXECUTING, keep driving until a result comes on. If the screen
+indicates OUT OF CONDITION, go to step 12.
+15. Update the ECM/PCM if it does not have the latest software (see UPDATING
+ECM/PCM ), or substitute a known-good ECM/PCM (see SUBSTITUTING
+THE ECM/PCM ).
+16. Test-drive under these conditions:
+Engine coolant temperature (ECT SENSOR 1) above 158°F (70°C)
+(cid:1)
+A/T in D position (M/T in 4th gear)
+(cid:1)

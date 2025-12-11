@@ -1,0 +1,37 @@
+ES–193
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+Ignition Coil with Igniter
+IGT Ignition Coil
+Igniter
+ECM
+IGF
+ES
+Ignition Signal
+(IGT)
+Normal
+Ignition
+Confirmation
+Malfunction
+Signal (IGF)
+Circuit Open
+Time
+A115898E02
+If the ECM does not receive any IGF signals despite transmitting the IGT signal, it interprets this as a fault
+in the igniter and sets a DTC.
+If the malfunction is not repaired successfully, a DTC is set 1 second after the engine is next started.
+MONITOR STRATEGY
+P0351: Igniter (cylinder 1) malfunction
+P0352: Igniter (cylinder 2) malfunction
+Related DTCs
+P0353: Igniter (cylinder 3) malfunction
+P0354: Igniter (cylinder 4) malfunction
+Required Sensors/Components (Main) Igniter
+Required Sensors/Components (Related) Crankshaft position sensor
+Frequency of Operation Continuous
+Duration 0.512 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+Either of following conditions A or B met -

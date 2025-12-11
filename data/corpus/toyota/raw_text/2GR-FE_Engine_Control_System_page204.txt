@@ -1,0 +1,60 @@
+ES–204
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(f) Monitor the voltage outputs of the A/F and HO2 sensors
+(AFS B1S1 and O2S B1S2 or AFS B2S1 and O2S
+B2S2) displayed on the tester.
+HINT:
+• The A/F CONTROL operation lowers the fuel injection
+volume by 12.5% or increases the injection volume by
+25%.
+• Each sensor reacts in accordance with increases and
+decreases in the fuel injection volume.
+Standard voltage
+Tester Display (Sensor) Injection Volumes Status Voltages
+AFS B1S1 or AFS B2S1 (A/F) +25% Rich Less than 3.0
+AFS B1S1 or AFS B2S1 (A/F) -12.5% Lean More than 3.35
+O2S B1S2 or O2S B2S2 (HO2) +25% Rich More than 0.55
+ES
+O2S B1S2 or O2S B2S2 (HO2) -12.5% Lean Less than 0.4
+Result
+Status AFS Status O2S
+A/F Condition and A/F
+B1S1 or AFS B1S2 or O2S Misfires Suspected Trouble Areas Proceed to
+Sensor Condition
+B2S1 B2S2
+Lean/Rich Lean/Rich Normal - - C
+• PCV valve and hose
+• PCV hose connections
+• Injector blockage
+• Gas leakage from
+exhaust system
+• Air induction system
+Lean Lean Actual air-fuel ratio lean May occur A
+• Fuel pressure
+• Mass Air Flow (MAF)
+meter
+• Engine Coolant
+Temperature (ECT)
+sensor
+• Injector leakage or
+blockage
+• Gas leakage from
+exhaust system
+Rich Rich Actual air-fuel ratio rich - A
+• Ignition system
+• Fuel pressure
+• MAF meter
+• ECT sensor
+Lean Lean/Rich A/F sensor malfunction - A/F sensor B
+Rich Lean/Rich A/F sensor malfunction - A/F sensor B
+Lean: During A/F CONTROL, the A/F sensor output
+voltage (AFS) is consistently more than 3.35 V, and the
+HO2 sensor output voltage (O2S) is consistently less
+than 0.4 V.
+Rich: During A/F CONTROL, the AFS is consistently less
+than 3.0 V, and the O2S is consistently more than 0.55 V.
+Lean/Rich: During A/F CONTROL of the ACTIVE TEST,
+the output voltage of the heated oxygen sensor
+alternates correctly.
+B Go to step 11
+C Go to step 15

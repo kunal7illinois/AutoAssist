@@ -1,0 +1,41 @@
+ME–54
+METER – METER / GAUGE SYSTEM
+2 PERFORM ACTIVE TEST BY INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester ON.
+(d) Enter following menus: DIAGNOSIS / OBD/MOBD /
+METER / ACTIVE TEST.
+(e) Check the values by referring to the table below.
+METER:
+Item Test Details Diagnostic Note
+FUEL GAUGE EMPTY, 1/2, FULL -
+OK:
+Needle indication is normal.
+NG REPLACE COMBINATION METER
+ASSEMBLY
+OK
+3 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester ON.
+(d) Enter following menus: DIAGNOSIS / OBD/MOBD /
+METER / DATA LIST.
+(e) Check the values by referring to the table below.
+METER:
+Measurement Item/Range
+Item Normal Condition Diagnostic Note
+(Display)
+Fuel gauge indicates (F): 35
+Fuel gauge indicates (3/4): 85
+Fuel input signal Min.: 0, Max.:
+FUEL GAUGE Fuel gauge indicates (1/2): 145 -
+255
+Fuel gauge indicates (3/4): 186
+Fuel gauge indicates (E): 205
+OK:
+Fuel value signal displayed on the tester is almost
+the same as needle indication.
+NG Go to step 4
+ME OK
+REPAIR OR REPLACE HARNESS OR CONNECTOR

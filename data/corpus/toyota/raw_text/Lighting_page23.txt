@@ -1,0 +1,81 @@
+LI–23
+LIGHTING – LIGHTING SYSTEM
+DATA LIST / ACTIVE TEST
+1. READ DATA LIST
+HINT:
+Using the intelligent tester DATA LIST allows switch,
+actuator and other item values to be read without
+removing any parts. Reading the DATA LIST early in
+troubleshooting is one way to save time.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Read the DATA LIST according to the display on the
+tester.
+MAIN BODY (MAIN BODY ECU):
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Ignition switch on (ACC or
+Ignition switch or engine switch
+ACC SW IG) -
+ACC signal / ON or OFF
+OFF: Ignition switch off
+Ignition switch or engine switch ON: Ignition switch on (IG)
+IG SW -
+IG signal / ON or OFF OFF: Ignition switch off
+Driver side door courtesy switch ON: Driver side door is open
+D DOR CTY SW -
+signal / ON or OFF OFF: Driver side door is closed
+ON: Front passenger side door is
+Passenger side door courtesy open
+P DOR CTY SW -
+switch signal / ON or OFF OFF: Front passenger side door
+is closed
+Rear right door courtesy switch ON: Rear right door is open
+RR DOR CTY SW -
+signal / ON or OFF OFF: Rear right door is closed
+Rear left door courtesy switch ON: Rear left door is open
+RL DOR CTY SW -
+signal / ON or OFF OFF: Rear left door is closed
+Driver side door lock position ON: Driver side door is unlocked
+D LOCK POS SW -
+switch signal / ON or OFF OFF: Driver side door is locked
+ON: Front passenger side door is
+Passenger side door lock position unlocked
+P LOCK POS SW -
+switch signal / ON or OFF OFF: Front passenger side door
+is locked
+RR LOCK POS SW Rear right door lock position ON: Rear right door is unlocked
+-
+(with Smart Key System) switch signal / ON or OFF OFF: Rear right door is locked
+RL. LOCK POS SW Rear left door lock position switch ON: Rear left door is unlocked
+-
+(with Smart Key System) signal / ON or OFF OFF: Rear left door is locked
+ON: Dimmer switch in HIGH or LI
+Dimmer switch HIGH signal / ON
+DIMMER SW HIGH FLASH -
+or OFF
+OFF: Dimmer switch in LOW
+ON: Dimmer switch in HIGH
+Dimmer switch HIGH FLASH FLASH
+HIGH FLASHER SW -
+signal / ON or OFF OFF: Dimmer switch not in HIGH
+FLASH
+Fog light switch signal / ON or ON: Fog light switch ON
+F FOG LIGHT SW -
+OFF OFF: Fog light switch OFF
+ON: Light control switch in AUTO
+Light control switch AUTO signal /
+AUTO LIGHT SW OFF: Light control switch not in -
+ON or OFF
+AUTO
+ON: Light control switch in HEAD
+Light control switch HEAD signal /
+HEAD LIGHT SW OFF: Light control switch not in -
+ON or OFF
+HEAD
+ON: Light control switch in TAIL or
+Light control switch TAIL signal / HEAD
+TAIL LIGHT SW -
+ON or OFF OFF: Light control switch not in
+TAIL or HEAD

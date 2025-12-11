@@ -1,0 +1,29 @@
+WS–99
+WINDSHIELD / WINDOWGLASS – WINDOW DEFOGGER SYSTEM
+5 PERFORM ACTIVE TEST BY INTELLIGENT TESTER
+(a) Select the ACTIVE TEST, use the intelligent tester to
+issue a control command, and then check the DEFOG
+relay operation. WS
+(b) Check that operation sound of the RR DEF relay is
+heard.
+Result Proceed to
+Relay operating sound is heard OK
+Relay operating sound is not heard NG
+OK Go to step 9
+NG
+6 INSPECT RR DEF RELAY
+See page WS-100.
+NG REPLACE RR DEF RELAY
+OK
+7 CHECK WIRE HARNESS (RR DEF RELAY - BATTERY POSITIVE)
+(a) Disconnect the RR DEF relay.
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage:
+Engine room R/B, J/B
+Tester Connection Condition Specified Condition
+1 - Body ground Ignition switch on (IG) 10 to 14 V
+NG REPAIR OR REPLACE A/C NO. 2 FUSE,
+B137052E01
+HARNESS OR CONNECTOR
+OK

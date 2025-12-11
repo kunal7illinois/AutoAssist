@@ -1,0 +1,26 @@
+ES–295
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+NG REPLACE STOP LIGHT SWITCH ASSEMBLY
+(See page LI-125)
+OK
+4 CHECK ECM (STP, ST1 - VOLTAGE)
+(a) Disconnect the A55 ECM connector.
+Brake Pedal Brake Pedal
+(b) Measure the voltage according to the value(s) in the
+Depressed Released
+table below.
+Standard voltage
+Brake Pedal
+Tester Connection Specified Condition
+Operation
+STP (A55-36) - Body ground Depressed 9 to 14 V ES
+STP (A55-36) - Body ground Released 0 to 3 V
+ST1- (A55-35) - Body ground Depressed 0 to 3 V
+ST1- (A55-35) - Body ground Released 9 to 14 V
+Wire Harness Side Front View:
+A55 ECM Connector NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+ST1- STP
+A112585E08
+OK
+REPLACE ECM (See page ES-518)

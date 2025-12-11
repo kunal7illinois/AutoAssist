@@ -1,0 +1,57 @@
+54B-276 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal by using "FUNCTION
+DIAG." of the SWS monitor.
+Check the input signals from the following switches:
+COLUMN SWITCH • Ignition switch: ON
+CONNECTOR • Lighting switch: HEAD
+MB991502 • Dimmer switch: ON
+Operate the MUT-II according to the procedure below to dis-
+play "HEADLIGHT HI."
+1. Select "SYSTEM SELECT."
+DATA LINK 2. Select "SWS."
+CONNECTOR
+3. Select "SWS MONITOR."
+AC101571AB 4. Select "FUNCTION DIAG."
+5. Select "LIGHTING."
+COLUMN SWITCH
+6. Select "HEADLIGHT HI."
+CONNECTOR
+Check that normal conditions are displayed on the items
+described in the table below.
+SWS MONITOR
+ITEM No. ITEM NAME NORMAL
+HARNESS (FOR
+CONDITIONS
+COLUMN-ECU)
+COLUMN SWITCH ITEM No.00 HEADLIGHT SW ON
+CONNECTOR AT
+ITEM No.02 DIMMER SW OFF (should turn
+HARNESS SIDE
+AC101421AB "ON" momentarily
+when the dimmer
+switch is
+operated)
+ITEM No.35 H/L AUTO-CUT OFF
+ITEM No.70 FRONT ECU ACK HI-BEAM ACK
+Q:Does the scan tool display the items "HEADLIGHT SW",
+"DIMMER SW", "H/L AUTO-CUT" and "FRONT ECU
+ACK" as normal condition?
+YES : Replace the front-ECU. Check that the headlights
+(high beam) illuminate normally.
+NO : • The scan tool does not show the respective
+normal condition for item "HEADLIGHT SW."
+Refer to Inspection Procedure O-8 "ETACS-ECU
+does not receive a signal from the headlight switch
+P.54B-511."
+• The scan tool does not show the respective
+normal condition for item "DIMMER SW." Refer to
+Inspection Procedure O-7 "ETACS-ECU does not
+receive a signal from the dimmer switch P.54B-
+511."
+• The scan tool does not show the respective
+normal condition for item "H/L AUTO-CUT." Refer
+to Inspection Procedure J-9 "Headlight automatic
+shutdown function does not work normally P.54B-
+340."
+TSB Revision

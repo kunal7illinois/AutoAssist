@@ -1,0 +1,46 @@
+CHASSIS - BRAKE CH-109
+2) Determining Rear Wheel Skid
+Whether or not the vehicle is in the state of Direction of Travel of the Vehicle’s
+rear wheel skid is determined by the values of Center of Gravity
+Movement of Vehicle
+the vehicle’s slip angle and the vehicle’s slip
+angular velocity (time-dependent changes in Slip Angle
+the vehicle’s slip angle). When the vehicle’s
+slip angle is large, and the slip angular
+velocity is also large, the skid control ECU
+determines that the vehicle has a large rear
+wheel skid tendency.
+151CH18
+Method for VSC Operation
+When the Skid Control ECU determines that the vehicle exhibits a tendency to front wheel skid or rear wheel
+skid, it decreases the engine output and applies the brake of a front or rear wheel to control the vehicle’s
+yaw moment.
+The basic operation of the VSC is described below. However, the control method differs depending on the
+vehicle’s characteristics and driving conditions.
+1) Dampening a Strong Front Wheel Skid
+When the skid control ECU determines that Braking Force
+there is a large front wheel skid tendency, it Control Moment
+counteracts in accordance with the extent of
+that tendency. The skid control ECU controls
+the engine output and applies the brakes of the
+front wheels and rear wheel of the inner circle
+of the turn in order to help restrain the front
+wheel skid tendency.
+Braking Force
+Making a Right Turn
+161ES30
+2) Dampening a Strong Rear Wheel Skid
+When the skid control ECU determines that Control Moment
+there is a large rear wheel skid tendency, it
+counteracts in accordance with the extent of
+Braking Force
+that tendency. It applies the brakes of the front
+wheel of the outer circle of the turn, and
+generates an outward moment of inertia in the
+vehicle, in order to restrain the rear wheel skid
+tendency. Along with the reduction in the
+vehicle speed caused by the braking force, the
+excellent vehicle’s stability is ensured.
+In some cases, the skid control ECU applies
+the brake of the rear wheels, as necessary. Making a Right Turn
+204CH15

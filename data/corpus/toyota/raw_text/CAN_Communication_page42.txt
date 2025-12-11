@@ -1,0 +1,32 @@
+CA–42
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+10 CHECK CAN MS BUS MAIN WIRE OR CONNECTOR (CERTIFICATION ECU - MAIN BODY
+ECU)
+(a) Turn the ignition switch off.
+Certification ECU Connector
+(b) Disconnect the E8 main body ECU connector.
+(Wire Harness Side):
+(c) Measure the resistance according to the value(s) in the
+table below.
+HINT:
+The resistance must be measured after the E58
+certification ECU connector is disconnected.
+E58
+Standard resistance
+Tester Connection Condition Specified Condition
+E58-27 (CANH) - E8-16
+Always Below 1 Ω
+(CANP)
+CANL CANH
+E58-28 (CANL) - E8-15
+Always Below 1 Ω
+(CANN)
+Main Body ECU Connector
+(Wire Harness Side):
+OK REPLACE MAIN BODY ECU
+CA
+E8
+CANN CANP
+C133244E01
+NG
+REPAIR OR REPLACE CAN MS BUS MAIN WIRE OR CONNECTOR

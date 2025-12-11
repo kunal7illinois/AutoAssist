@@ -1,0 +1,31 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-173
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check the heated oxygen sensor (rear).
+(1) Disconnect the heated oxygen sensor (rear) connector C-
+23 and connect test harness special tool, MB991658, to the
+connector on the heated oxygen sensor (front) side.
+(2) Warm up the engine until engine coolant 80°C (176°F) or
+higher.
+HEATED OXYGEN
+SENSOR (REAR) CAUTION
+Be very careful when connecting the jumper wires; incor-
+rect connection can damage the right bank heated oxygen
+sensor (rear).
+ACX02495AF
+CONNECTOR: C-23
+AK103527AB
+(3) Use the jumper wires to connect terminal 5 to the positive
+JUMPER battery terminal and terminal 6 to the negative battery
+WIRES
+terminal.
+(4) Connect a digital volt meter between terminal 3 and
+terminal 4.
+(5) While repeatedly revving the engine, measure the heated
+oxygen sensor (rear) output voltage.
+Standard value: 0.6 − 1.0 volt
+Q:Is the voltage at the standard value?
+MB991658
+AK000122AB YES : Go to Step 3.
+NO : Replace the heated oxygen sensor (rear). Then go to
+Step 5.
+TSB Revision

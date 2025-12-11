@@ -1,0 +1,22 @@
+ES–348
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition
+when malfunctions are detected. When troubleshooting, freeze frame data can help determine if the
+vehicle was moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or
+rich, and other data from the time the malfunction occurred.
+1 CONFIRM DTC
+(a) Turn the ignition switch OFF and wait for 10 seconds.
+(b) Turn the ignition switch ON.
+(c) Turn the ignition switch OFF and wait for 10 seconds.
+(d) Connect an intelligent tester to the DLC3.
+(e) Turn the ignition switch ON and turn the tester ON.
+ES (f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(g) Confirm DTCs and freeze frame data.
+If any EVAP system DTCs are set, the malfunctioning
+area can be determined using the table below.
+NOTICE:
+If the reference pressure difference between the first
+and second checks is greater than the specification,
+all the DTCs relating to the reference pressure
+(P043E, P043F, P2401, P2402 and P2419) are stored.

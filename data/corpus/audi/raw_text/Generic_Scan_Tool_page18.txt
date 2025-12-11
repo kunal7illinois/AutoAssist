@@ -1,0 +1,47 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+3.3.3 Diagnostic Mode 03 - Read DTC Mem‐
+ory
+Diagnostic Mode 03 makes it possible to read emissions-related
+faults (confirmed DTCs: faults which have activated the MIL) in
+the ECM and in the TCM.
+When the ECM recognizes an emission related fault it turns on
+the malfunction indicator lamp. If an electronic throttle malfunction
+is recognized, the ECM turns on the electronic power control
+warning lamp. Both are located in the instrument cluster.
+The DTCs are sorted by SAE code with the DTC tables consisting
+of a 5 digit alpha numeric value.
+Note
+Depending on scan tool and protocol used, diagnostic mode 03
+and the information provided may be referred to by a different
+name.
+The following tables provide a breakdown and explanation of the
+DTC code.
+P-Codes
+Component group
+P x x x x DTC for the drivetrain
+Norm-Code
+P 0 x x x Trouble codes defined by SAE with specified malfunction texts
+P 1 x x x Additional emission relevant DTCs provided by the manufac‐
+turer
+P 2 x x x DTCs defined by SAE with specified texts, from MY 2000
+P 3 x x x Additional emission relevant DTCs provided by the manufac‐
+turer from MY 2000
+Component group
+Repair group
+P x 0 x x Fuel and air mixture and additional emission regulations
+P x 1 x x Fuel and air ratios
+P x 2 x x Fuel and air ratios
+P x 3 x x Ignition system
+P x 4 x x Additional exhaust system
+P x 5 x x Speed and idle control
+P x 6 x x Control module and output signals
+P x 7 x x Transmission
+P x 8 x x Transmission
+P x 9 x x Control modules, input and output signals
+U-Codes
+Component group
+U x x x x DTC for network (CAN bus)
+Norm-Code
+14
+Rep. Gr.ST - Generic Scan Tool

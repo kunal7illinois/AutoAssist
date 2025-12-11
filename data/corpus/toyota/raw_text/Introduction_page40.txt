@@ -1,0 +1,29 @@
+IN–40
+INTRODUCTION – HOW TO TROUBLESHOOT ECU CONTROLLED SYSTEMS
+HOW TO TROUBLESHOOT ECU
+CONTROLLED SYSTEMS
+GENERAL INFORMATION
+IN A large number of ECU controlled systems are used in the
+CAMRY. In general, ECU controlled systems are considered
+to be very intricate, requiring a high level of technical
+knowledge to troubleshoot. However, most problem checking
+procedures only involve inspecting the ECU controlled
+system's circuits one by one. An adequate understanding of
+the system and a basic knowledge of electricity is enough to
+perform effective troubleshooting, accurate diagnoses and
+necessary repairs.
+FOR USING INTELLIGENT TESTER
+– Before using the intelligent tester, read the tester
+operator's manual thoroughly.
+– If the tester cannot communicate with the ECU controlled
+systems when the tester is connected to the DLC3 with the
+ignition switch on and the tester turned on, there is a
+problem on the vehicle side or tester side.
+(1)If communication is normal when the tester is
+connected to another vehicle, inspect the diagnosis
+data link line (Bus (+) line) or ECU power circuit of the
+vehicle.
+(2)If communication is still not possible when the tester is
+connected to another vehicle, the problem is probably
+in the tester itself. Perform the Self Test procedures
+outlined in the tester operator's manual.

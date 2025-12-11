@@ -1,0 +1,56 @@
+DL–135
+DOOR LOCK – SMART KEY SYSTEM
+Component Function
+Outside Door Handle (driver and passenger doors) (lock switch) Transmits door lock request signals to certification ECU
+Receives request signal from certification ECU, and forms detection
+Door Electrical Key Oscillator (driver and passenger doors)
+area around front door
+Receives request signal from certification ECU, and forms detection
+Indoor Electrical Key Oscillator (console and rear seat)
+area in vehicle interior
+Receives request signal from certification ECU, and forms detection
+Luggage Compartment Electrical Key Oscillator (inner)
+area in luggage compartment
+Receives request signal from certification ECU, and forms detection
+Luggage Compartment Electrical Key Oscillator (outer)
+area around luggage compartment door
+• Receives ID code from electrical key in detection area and
+transmits it to certification ECU
+Door Control Receiver
+• Receives ID code from electrical key in luggage compartment and
+transmits it to certification ECU
+Receives ID code from electrical key and transmits it to entry door
+Electrical Key Antenna
+control receiver
+Transmits luggage compartment door open request signal to
+Luggage Compartment Opener Switch
+certification ECU
+Stop Light Switch Outputs state of brake pedal to main body ECU
+When certification ECU detects human errors such as those below, it
+warns driver by sounding wireless door lock buzzer, displaying
+information and sounding a buzzer in combination meter in
+Wireless Door Lock Buzzer
+accordance with request signal from ECU
+• Combination Meter
+Example:
+– Multi-information Display
+• Electrical key is taken out of vehicle
+– Buzzer
+• Driver leaves vehicle while engine is still running
+• Driver leaves vehicle while shift lever is in any position other than
+P
+4. CONSTRUCTION AND OPERATION
+(a) Electrical Key
+The electrical key consists of a mechanical key, a
+transmitter for the wireless door lock control, and a
+transceiver for the smart key system.
+• The transceiver for the smart key system
+receives signals from the oscillators and sends
+the ID code to the tuner.
+• The transmitter for the wireless door lock control
+has a LOCK switch, UNLOCK switch, LUGGAGE
+COMPARTMENT switch, and PANIC switch.
+• This mechanical key works for the driver door,
+luggage compartment door, and glove box, but
+cannot start the engine.
+DL

@@ -1,0 +1,31 @@
+54A-256 CHASSIS ELECTRICAL
+MULTI-CENTER DISPLAY
+STEP 2. Check the wiring harness between ambient sensor
+connector A-29 (terminals 1 and 2) and multi-center
+display connector C-09 (terminals 14 and 12).
+NOTE: After checking intermediate connector C-89, check the
+CONNECTOR: A-29
+wires. If intermediate connector C-89 is damaged, repair or
+replace the wiring harness. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+Q:Is the wiring harness between ambient sensor
+connector A-29 (terminals 1 and 2) and multi-center
+display connector C-09 (terminals 14 and 12) in good
+condition?
+DEVICE SIDE
+YES : Go to Step 3.
+1 2 NO : Repair the wiring harness. The multi-center display
+AC106465AW should work normally.
+CONNECTOR : C-09
+DEVICE SIDE
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+AC106557AY
+CONNECTOR: C-89
+CONNECTOR BLOCK (LH)
+1 2 3 4 5 6 7 8 910 111213
+141516171819202122232425
+262728 29 30 31 38
+3233 34 35 36 37
+AC106477AC
+TSB Revision

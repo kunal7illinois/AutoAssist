@@ -1,0 +1,26 @@
+BODY 42-103
+CONVERTIBLE TOP
+CONNECTOR:E-12
+DOOR(LH)
+AC004107AB
+. DOWN" signal is received, the convertible top control
+CIRCUIT OPERATION
+module drives the quarter window regulator motor to
+When the convertible top switch is operated, a signal
+lower the quarter windows and simultaneously drives
+is sent to the convertible top control module. The
+the topstack drive motor assembly to operate the
+convertible top control module sends convertible top
+electric convertible top.
+switch "ON" signal to the power window main switch
+to lower the door windows automatically. The power
+.
+window main switch lowers the door windows and TECHNICAL DESCRIPTION (COMMENT)
+simultaneously sends the "AUTO DOWN" signal to The cause may be a malfunction of the topstack con-
+the convertible top control module. When the "AUTO trol module circuit.
+.
+TROUBLESHOOTING HINTS
+• Malfunction of the power window main switch
+• Damaged harness wires or connectors
+.
+TSB Revision

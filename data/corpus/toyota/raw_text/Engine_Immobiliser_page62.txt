@@ -1,0 +1,56 @@
+EI–58
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+REGISTRATION
+1. DESCRIPTION OF CODE REGISTRATION
+HINT:
+The key has 2 codes: The key code (immobiliser code)
+and the wireless code. Both of these codes need to be
+registered. Refer to page for the wireless code
+registration procedures.
+(a) When adding master keys or sub keys (Additional
+registration):
+(1) Register key code (immobiliser code) in the
+transponder key ECU.
+Target ECU See Procedure
+Transponder key ECU Procedure "A"
+(b) When replacing the transponder key ECU (New
+registration):
+(1) Register the key code (immobiliser code) in the
+transponder key ECU.
+Target ECU See Procedure
+Transponder key ECU Procedure "B"
+(2) Register the ECU communication ID between
+the ECM and the transponder key ECU.
+Target ECU See Procedure
+Transponder key ECU Procedure "C"
+(c) When replacing the ECM:
+(1) Register the ECU communication ID between
+the ECM and the transponder key ECU.
+Target ECU See Procedure
+Transponder key ECU Procedure "C"
+2. KEY REGISTRATION
+(a) Automatic registration (Procedure "B"):
+EI
+The new registration of the key codes (immobiliser
+codes) is made automatically.
+HINT:
+• When installing a new transponder key ECU, the
+key codes (immobiliser codes) must be
+registered.
+• A new transponder key ECU starts in the
+automatic key code registration mode. In this
+mode, a maximum of 4 key codes for 3 master
+keys and 1 sub key can be registered. Since the
+transponder key ECU can distinguish types of
+keys, any registration order is acceptable.
+Automatic Key Code Registration (New Registration):
+Procedure Security Indicator Condition
+1. Start (Procedure "D") Blinking occurs until the first key is inserted.
+2. Insert the key into the ignition key cylinder. ON
+3. Registration begins.
+OFF
+HINT:
+HINT:
+The registration will be completed approx. 1 sec. after the key is
+Approx. 1 sec.
+inserted.

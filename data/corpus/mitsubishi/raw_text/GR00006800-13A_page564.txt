@@ -1,0 +1,44 @@
+13A-564 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+INJECTOR
+Required Special Tools:
+• MD991348: Test Harness Set
+.
+Measurement Method
+1. Disconnect the injector connector, and connect the test
+OSCILLOSCOPE
+INJECTOR harness special tool MB991348 in between. (All terminals
+CONNECTOR
+should be connected.)
+MB991348
+1 2 2. Connect the oscilloscope probe to injector connector
+terminal 2.
+Alternate method (Test harness not available)
+<M/T>
+1. Connect the oscilloscope probe to ECM terminal 1.
+(When checking the number 1 cylinder.)
+AK102980AB
+2. Connect the oscilloscope probe to ECM terminal 14.
+(When checking the number 2 cylinder.)
+3. Connect the oscilloscope probe to ECM terminal 2.
+(When checking the number 3 cylinder.)
+4. Connect the oscilloscope probe to ECM terminal 15.
+(When checking the number 4 cylinder.)
+<A/T>
+1. Connect the oscilloscope probe to PCM terminal 1.
+(When checking the number 1 cylinder.)
+2. Connect the oscilloscope probe to PCM terminal 9.
+(When checking the number 2 cylinder.)
+3. Connect the oscilloscope probe to PCM terminal 24.
+(When checking the number 3 cylinder.)
+4. Connect the oscilloscope probe to PCM terminal 2.
+(When checking the number 4 cylinder.)
+Standard Wave Pattern
+Observation conditions
+Function Special pattern
+Pattern height Variable
+Variable knob Adjust while viewing the
+wave pattern
+Pattern selector Display
+Engine r/min Idle speed
+TSB Revision

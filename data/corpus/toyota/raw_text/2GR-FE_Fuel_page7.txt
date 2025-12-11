@@ -1,0 +1,49 @@
+FU–7
+2GR-FE FUEL – FUEL SYSTEM
+SYSTEM DIAGRAM
+ECM
+IG2 C7 Fuel Injector (No. 1)
+IG2
+45
+From
+C55 #10
+Battery 5 3 2 1
+C9 Fuel Injector (No. 2)
+2 1
+85
+C55 #20
+2 1
+C8 Fuel Injector (No. 3)
+44
+C55 #30
+2 1
+E23 Ignition Switch
+ST/AM2 C10 Fuel Injector (No. 4)
+From *2 84
+Battery 5 AM2 IG2 6 C55 #40
+2 1
+C36 Fuel Injector (No. 5)
+43
+FU
+E6 Main Body ECU 2 1 C55 #50
+C37 Fuel Injector (No. 6)
+*1 83
+IG2D
+11 C55 #60
+2 1
+EFI MAIN
+From
+Battery
+EFI
+44
+A55 MREL
+C/OPN N10 Fuel Suction Pump and Gauge Assembly
+4 5
+IGN Pump
+From 7
+Ignition
+A55 FC
+Switch
+*1: with Smart Key System
+*2: without Smart Key System
+A140778E01

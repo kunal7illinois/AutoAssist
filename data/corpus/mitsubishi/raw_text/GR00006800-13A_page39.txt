@@ -1,0 +1,32 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-39
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Check for short circuit to ground between volume
+air flow sensor connector B-14 (terminal 3) and ECM
+connector C-60 (terminal 90) <M/T> or PCM connector C-54
+(terminal 65) <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-14
+YES : Replace the ECM or PCM. Then go to Step 13.
+NO : Repair it. Then go to Step 13.
+VOLUME AIR
+FLOW SENSOR
+ACX02480AC
+CONNECTORS:C-60<M/T>,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+STEP 9. Check the continuity at volume air flow sensor
+harness side connector B-14.
+(1) Disconnect the connector B-14 and measure at the harness
+side.
+(2) Check for the continuity between terminal 5 and ground.
+B-14 HARNESS • Should be less than 2 ohm.
+SIDE CONNECTOR
+Q:Is the continuity normal?
+7 6 5 4 3 2 1
+YES : Go to Step 12.
+NO : Go to Step 10.
+AKX01409AC
+TSB Revision

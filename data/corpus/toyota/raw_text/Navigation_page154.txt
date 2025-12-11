@@ -1,0 +1,40 @@
+NS–154
+NAVIGATION – NAVIGATION SYSTEM
+3 CHECK HARNESS AND CONNECTOR (COMBINATION METER - RADIO AND NAVIGATION
+ASSEMBLY)
+(a) Disconnect the radio and navigation assembly connector
+Radio and Navigation Assembly
+F13 and combination meter connector F2.
+Wire Harness View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+SPD
+Tester connection Condition Specified condition
+SPD - +S Ignition switch off Below 1 Ω
+NG REPAIR OR REPLACE HARNESS OR
+F13
+CONNECTOR
+Combination Meter Wire Harness View:
+F2
++S
+E129818E01
+OK
+4 CHECK HARNESS AND CONNECTOR (RADIO AND NAVIGATION ASSEMBLY - BODY
+GROUND)
+(a) Measure the resistance according to the value(s) in the
+Radio and Navigation Assembly
+table below.
+Wire Harness View:
+Standard resistance
+Tester connection Condition Specified condition
+SPD - Body ground Ignition switch off 10 kΩ or higher
+SPD
+HINT:
+If the resistance between terminal SPD and body ground
+NS
+is less than 10 kΩ, there may be a short in a wire
+harness, connector, or an ECU.
+F13 NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR OR CHECK EACH ECU
+E113510E05

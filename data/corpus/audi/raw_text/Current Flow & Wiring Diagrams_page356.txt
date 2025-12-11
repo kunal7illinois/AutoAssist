@@ -1,0 +1,41 @@
+Audi TT No. 43 / 15
+Current Flow Diagram
+Engine control unit, fuel pressure regulating valve, lambda
+probe, lambda probe after catalytic converter
+G39 Lambda probe
+G130 Lambda probe after catalytic converter
+J623 Engine control unit
+N276 Fuel pressure regulating valve
+T4b 4-pin connector, black, on Lambda probe after catalytic
+converter
+T6c 6-pin connector, black, on Lambda probe
+T14 14-pin connector, black, on front left in engine compartment
+T60 60-pin connector, on engine control unit
+T94 94-pin connector, on engine control unit
+Z19 Lambda probe heater
+Z29 Lambda probe 1 heater after catalytic converter
+J623
+T60/19 T94/73 T94/78 T94/56 T94/79 T94/57 T94/29 T94/34 T94/62
+55 55
+1,0 1,5 1,0 0,35 0,35 0,35 0,35 1,0 0,35 0,35
+li/br ro/gn br/ws ro/gn li li/ge li/bl br/gn ro/ge ro/bl
+T14/8 T6c/3 T6c/1 T6c/5 T6c/2 T6c/6 T4b/2 T4b/3 T4b/4
+1,5
+ro/gn
+1
+N276
+2 ws = white
+Z19 G39 Z29 G130 sw = black
+ro = red
+T6c/4 T4b/1
+br = brown
+1,0 1,0 gn = green
+sw/gn sw/gn bl = blue
+gr = grey
+4433 4444
+li = purple
+ge = yellow
+183 184 185 186 187 188 189 190 191 192 193 194 195 196 or = orange
+8J0-043151008
+rs = pink
+Edition 04.2009

@@ -1,0 +1,44 @@
+BC–327
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+WIRING DIAGRAM
+Brake Actuator Assembly (Skid Control
+ECU with Actuator)
+7
+A60 RL+
+1
+g1
+Rear Speed Sensor LH
+27
+A60 RL-
+2
+BC
+29
+A60 RR+
+1
+f1
+Rear Speed Sensor RH 8
+A60 RR-
+2
+C122948E03
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).
+1 READ VALUE OF INTELLIGENT TESTER (REAR SPEED SENSOR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine.
+(c) Select "DATA LIST" and read the value displayed on the
+intelligent tester (See page BC-307).
+DATA LIST: ABS/TRAC/VSC
+Measurement Item /
+Item Normal Condition
+Range (Display)
+Wheel speed sensor (RR) reading / min.: 0 MPH (0
+RR WHEEL SPD Actual wheel speed
+km/h), max.: 202 MPH (326 km/h)
+Wheel speed sensor (RL) reading / min.: 0 MPH (0
+RL WHEEL SPD Actual wheel speed
+km/h), max.: 202 MPH (326 km/h)
+(d) Check that there is no difference between the speed
+value output from the speed sensor displayed on the
+intelligent tester and the speed value displayed on the
+speedometer when driving the vehicle.

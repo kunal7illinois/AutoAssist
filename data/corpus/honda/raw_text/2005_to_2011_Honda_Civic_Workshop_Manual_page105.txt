@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+ODS UNIT INITIALIZATION
+When a seat-back cover, seat-back cushion, and/or ODS unit is replaced, initialize
+the ODS by following the procedure.
+NOTE: A new (uninitialized) ODS unit installed with a faulty OPDS
+sensor can cause DTC 85-71.
+1. Clear the DTC memory (see CLEAR THE DTC MEMORY WITH THE
+HDS).
+2. Make sure the front passenger's seat is dry. Set the seat-back in a normal
+position, and make sure there is nothing on the seat.
+3. Make sure the ignition switch is OFF and the MES connector is not shorted.
+4. Connect the HDS to the data link connector (DLC) (A).
+Fig. 37: Identifying Data Link Connector (DLC)
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+5. Turn the ignition switch ON (II).
+6. Make sure the HDS communicates with the vehicle and the SRS unit. If it does
+not communicate, troubleshoot the DLC circuit (see DLC CIRCUIT
+TROUBLESHOOTING ).
+7. From the HDS Main Menu, select SRS, then SRS, then Adjustments. In the
+Adjustment Menu, select ODS INIT. Follow the screen prompts to initialize
+the ODS unit.

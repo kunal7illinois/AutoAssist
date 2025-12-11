@@ -1,0 +1,44 @@
+AC–82
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Operate the R/F (Recirculation/Fresh) switch.
+(d) Select the item below in the DATA LIST, and read the
+display on the intelligent tester.
+DATA LIST / AIR CONDITIONER:
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+A/I DAMP PLS Air inlet damper target pulse / RECIRCULATION: 7 (pulse)
+-
+(Air inlet damper target pulse) Min.: 0, Max.: 255 FRESH: 28 (pulse)
+OK:
+The display is as specified in the normal condition
+column.
+Result
+Result Proceed to
+NG A
+OK (When troubleshooting according to the PROBLEM SYMPTOMS TABLE) B
+OK (When troubleshooting according to the DTC) C
+B PROCEED TO NEXT CIRCUIT INSPECTION
+AC SHOWN IN PROBLEM SYMPTOMS TABLE
+C REPLACE AIR CONDITIONING AMPLIFIER
+A
+2 REPLACE AIR INLET CONTROL SERVO MOTOR
+(a) Replace the air inlet control servo motor.
+HINT:
+Since the servo motor cannot be inspected while it is
+removed from the vehicle, replace the servo motor with a
+normal one and check that the condition returns to
+normal.
+(b) Check for DTCs.
+Result
+Result Proceed to
+DTC B1442/42 is output A
+DTC B1442/42 is not output B
+B END
+A
+REPLACE AIR CONDITIONING HARNESS

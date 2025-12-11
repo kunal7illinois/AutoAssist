@@ -1,0 +1,42 @@
+AUTOMATIC TRANSAXLE 23A-219
+AUTOMATIC TRANSAXLE DIAGNOSIS
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Using scan tool MB991502, check the A/T
+diagnostic trouble code.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the A/T diagnostic trouble code.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is A/T diagnostic trouble code numbers "22" or "23"
+output?
+YES : Refer to P.23A-101, code number 22: Input Shaft
+16 PIN Speed Sensor System, or refer to P.23A-115, code
+number 23: Output Shaft Speed Sensor System.
+MB991502
+AC001252AB NO : Go to Step 2.
+STEP 2. Using scan tool MB991502, carry out the actuator
+test.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to actuator test mode for following
+items.
+a. item 01: Low-reverse Solenoid Valve
+b. item 02: Underdrive Solenoid Valve
+c. item 03: Second Solenoid Valve
+16 PIN d. item 04: Overdrive Solenoid Valve
+• An operation sound should be heard from solenoid
+MB991502
+AC001252AB valve when solenoid valve is operated.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the solenoid valve operating properly?
+YES : Go to Step 3.
+NO : Replace the corresponding solenoid valve. Refer to
+GROUP 23B, Valve Body P.23B-74.
+TSB Revision

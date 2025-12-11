@@ -1,0 +1,30 @@
+EI–101
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+Diagnosis Circuit
+DESCRIPTION
+This circuit is used to read the DTCs that are output from the transponder key ECU assembly with the
+intelligent tester.
+WIRING DIAGRAM
+Data Link
+Transponder Key
+Connector 3
+ECU Assembly
+Instrument Panel J/B No. 3 J/B
+7 12 3 7 8 9
+GR GR GR
+SIL E10 IM IF 3L 3B E15 D
+E49
+J/C
+4 3 3
+W-B W-B
+CG E10 3H 3C
+9
+2
+W-B
+E2
+B128329E01
+INSPECTION PROCEDURE
+NOTICE:
+If the transponder key ECU assembly is replaced, register the key and ECU communication ID
+EI
+(See page EI-57).

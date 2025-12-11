@@ -1,0 +1,38 @@
+BE-112 BODY ELECTRICAL - SMART KEY SYSTEM
+Wireless Door Lock Remote Control Function
+The wireless door lock remote control function has the following functions:
+Function Outline
+All Doors Lock Pressing the LOCK button of the transmitter locks all doors.
+All Doors Unlock Pressing the UNLOCK button of the transmitter (key) unlocks all doors.
+All Doors Unlock Pressing the UNLOCK button of the transmitter once unlocks the driver’s door,
+(2-step Unlock)* and pressing it again within three seconds unlocks all the doors.
+Keeping the TRUNK button of the transmitter pressed longer than about 1 second
+Trunk Opener*
+opens the trunk lid.
+The hazard light flashes once when locking, and flashes twice when unlocking, to
+Answer Back*
+indicate that the operation has been completed.
+Keeping the PANIC button of the transmitter pressed longer than about 1 of a
+second causes the following functions of the alarm to activate.
+(cid:3) Sounds the horn and security horn.
+Panic Alarm
+(cid:3) Flashes the hazard lights, headlights, and taillights.
+(cid:3) Illuminates the interior light (If the interior light switch is in the DOOR
+position).
+If none of the doors are opened within 60 seconds of being unlocked by the
+Automatic Lock*
+wireless door lock remote control, all the doors will be locked again automatically.
+Door Ajar If any door is open or ajar, pressing the LOCK button of the transmitter will cause
+Warning* the wireless door lock buzzer to sound for about ten seconds.
+If a door is not locked in response to the locking operation of the transmitter, the
+Repeat
+integration relay will output a lock signal after approximately 1 second.
+When all the doors are locked, pressing the UNLOCK button causes the interior
+Illuminated Entry
+lights to illuminate simultaneously with the unlock operation.
+Security Sends an operation signal as a rolling code.
+The wireless door lock buzzer sounds when the theft deterrent system performs
+Wireless Buzzer
+warning operations.
+*: The function setting can be changed using the customized body electronics system. For details, refer
+to Customized Body Electronics System section on page BE-13.

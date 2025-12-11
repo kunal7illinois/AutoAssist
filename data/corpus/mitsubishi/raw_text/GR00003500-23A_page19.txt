@@ -1,0 +1,53 @@
+AUTOMATIC TRANSAXLE 23A-19
+AUTOMATIC TRANSAXLE DIAGNOSIS
+ROAD TEST
+M1231007800162
+Check by the following procedures
+STEP CONDITION BEFORE TEST/OPERATION STANDARD INSPECTION DTC INSPECTION
+TEST/OPERATION ITEM PROCEDURE
+PAGE
+1 Ignition switch: Ignition switch Data list No. 54 A/T Control 54 A/T Control
+(LOCK) OFF (1) ON (1) Control relay relay system
+Relay Voltage output (P.23A-233.)
+[V] voltage
+2 Ignition switch: Selector lever position Data list No. 61 Park/ 27, Park/Neutral
+ON <Vehicles without sport (1) P, (2) R, (3) Neutral 28 position switch
+Engine: Stopped mode> N, (4) D, (5) 3, position system (P.23A-
+Selector lever (1) P, (2) R, (3) N, (4) D, (5) (6) 2, (7) L switch 136, P.23A-
+position: P 3, (6) 2, (7) L 166.)
+Selector lever position Data list No. 61
+<Vehicles with sport (1) P, (2) R, (3)
+mode> N, (4) D
+(1) P, (2) R, (3) N, (4) D
+Selector lever position Data list No. 67 Select - Shift switch
+<Vehicles with sport (1) OFF, (2) ON, switch assembly
+mode> (3) ON, (4) ON Shift switch system (P.23A-
+(1) D (1st gear) Data list No. 68 302.)
+(2) Select the sport mode (1) OFF, (2) OFF,
+(1st gear) (3) ON, (4) OFF
+(3) Upshift and hold the Data list No. 69
+selector lever in that (1) OFF, (2) OFF,
+position (2nd gear) (3) OFF, (4) ON
+(4) Downshift and hold the
+selector lever in that
+position (1st gear)
+Shift indicator
+light
+(1) "D" or "1"
+illuminates
+(2) Only "1"
+illuminates
+(3) Only "2"
+illuminates
+(4) Only "1"
+illuminates
+Accelerator pedal Data list No. 11 TPS 11, TPS system
+(1) Fully closed (1) 535 − 735 mV 12, (P.23A-42,
+(2) Depressed (2) Gradually 14 P.23A-51,
+(3) Fully open rises from (1) P.23A-59.)
+(3) 4,500 − 5,500
+mV
+Brake pedal Data list No. 26 Stoplight 26 Stoplight
+(1) Depressed (1) ON switch switch system
+(2) Released (2) OFF (P.23A-129.)
+TSB Revision

@@ -1,0 +1,33 @@
+54B-34 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 6. Measure at column switch connector C-86 in order
+to check the ground circuit to the column switch.
+(1) Disconnect column switch connector C-86, and measure at
+CONNECTOR: C-86
+the wiring harness side.
+DEVICE SIDE
+1 2 3 4 5
+6 7 8 910
+AC106475AB
+(2) Measure the resistance value between terminal 4 and
+ground.
+• The measured value should be 2 ohm or less.
+Q:Does the measured resistance value correspond with
+CONNECTOR C-86
+this range?
+(HARNESS SIDE)
+YES : Go to Step 9.
+NO : Go to Step 7.
+5 4 3 2 1
+10 9 8 7 6
+ACX00772AF
+STEP 7. Check column switch connector C-86 for damage.
+Q:Is column switch connector C-86 in good condition?
+CONNECTOR: C-86
+YES : Go to Step 8.
+NO : Repair or replace the connector. Refer to GROUP
+DEVICE SIDE 00E, Harness Connector Inspection P.00E-2. The
+1 2 3 4 5 system should communicate with the column switch
+6 7 8 910 (column-ECU) normally.
+AC106475AB
+TSB Revision

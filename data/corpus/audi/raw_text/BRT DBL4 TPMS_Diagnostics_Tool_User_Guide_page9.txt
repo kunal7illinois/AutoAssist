@@ -1,0 +1,27 @@
+V1.2 User Guide 3/19/09 V1.2 User Guide 3/19/09
+DISPLAY AREA (continued) The following is an example of a complete audit of a vehicle’s
+tires:
+10
+9
+9 Magnet Activated Sensor Indicator (see appx B)
+10
+Delta P (change in pressure) Activation Indicator
+1 Current Menu Page
+This indicates what menu page the user is currently in. Menu pages
+contain a number of items in which actions can be carried out or
+other menus can be navigated to.
+2 Current Item
+This displays the current item that is selected. The action taken
+when the Enter / Right Button is pressed is determined by the
+current item selected.
+3 Selected TPM
+The Selected TPM indicates what type of TPM will be tested if the
+user presses the Test Button. If the Test Indicator is not visible, this will
+be the TPM that was last tested. If the Test Indicator is visible then
+this will indicate the new TPM Type that will be tested (see the Test
+Indicator for more details).
+BER = Beru PAC = Pacific
+FOR = Ford Banded SCH = Schrader Electronics
+LEA = Lear SIE = Siemens
+MAG = Magnet Activated Sensor TRW = TRW (Entire)
+8 21

@@ -1,0 +1,56 @@
+CA–48
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+2 CHECK WIRE HARNESS (IG1, GND1, GND2)
+(a) Measure the resistance according to the value(s) in the
+Skid Control ECU Connector table below.
+(Front View): Standard resistance:
+without VSC
+without VSC: A25 Tester Connection Condition Specified Value
+A25-4 (GND1) - Body
+Always Below 1 Ω
+ground
+A25-1 (GND2) - Body
+Always Below 1 Ω
+ground
+with VSC (TMC made)
+GND2 GND1 IG1
+Tester Connection Condition Specified Value
+A26-32 (GND1) - Body
+Always Below 1 Ω
+ground
+with VSC (TMC Made):
+A26-1 (GND2) - Body
+Always Below 1 Ω
+A26 ground
+CA
+with VSC (TMMK made)
+Tester Connection Condition Specified Value
+A60-4 (GND1) - Body
+Always Below 1 Ω
+ground
+GND2 GND1 IG1 A60-1 (GND2) - Body Always Below 1 Ω
+ground
+(b) Measure the voltage according to the value(s) in the
+with VSC (TMMK Made): table below.
+A60 Standard voltage:
+without VSC
+Tester Connection Condition Specified Value
+A25-18 (IG1) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+GND2 GND1 IG1
+with VSC (TMC made)
+C133241E02
+Tester Connection Condition Specified Value
+A26-46 (IG1) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+with VSC (TMMK made)
+Tester Connection Condition Specified Value
+A60-28 (IG1) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE BRAKE ACTUATOR ASSEMBLY

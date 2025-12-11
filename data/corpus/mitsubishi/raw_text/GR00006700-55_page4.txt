@@ -1,0 +1,60 @@
+55-4 HEATING AND AIR CONDITIONING
+GENERAL INFORMATION
+Compressor control When compressor locks <vehicles with 3.0 L
+engine>
+When operating the air conditioning switch
+• Since the compressor and alternator are driven
+• The air thermo sensor, which senses the temper-
+by the same belt, the electric generating function
+ature of the air flowing out of the evaporator,
+of the alternator also stops when the belt is bro-
+deactivates the compressor at 5 °C (41.0 °F) or
+ken. In order to assure the electric generating
+below.
+function of the alternator, there is an A/C-ECU to
+• The dual pressure switch turns OFF when the
+prevent breaking of the belt due to slipping when
+refrigerant pressure becomes excessively high or
+the compressor locks. The A/C-ECU makes a
+low, thus protecting the compressor circuit. (See
+comparative calculation of the compressor revo-
+Table below.)
+lutions and the engine revolutions which are
+• When the air thermo sensor is activated, the dual
+detected by the revolution pick-up sensor. When
+pressure switch is ON, and the ignition switch,
+70% or more slip ratio continues for 3 seconds or
+blower switch, and air conditioning switch are
+more, the A/C compressor relay goes from on to
+ON, the A/C compressor relay is energized.
+off; at the same time, the operation display in the
+When operating the air outlet changeover control air conditioner switch blinks to announce an
+knob abnormality.
+• When the air outlet changeover control knob is
+moved to DEFROSTER or DEFROSTER/FOOT
+position, the defroster switch, which is connected
+in series to the air conditioning switch, is turned
+on. The other compressor control than the above
+is the same as that when operating the air condi-
+tioning switch.
+A/C Compressor Relay ON Conditions
+Ignition switch (IG2) ON NOTE: A/C compressor relay is de-
+energized when any one switch, sensor or
+Blower switch ON
+control unit shown on the left turns off.
+Air conditioning switch or defroster switch ON
+NOTE: The *marked device measures the
+Air thermo sensor *
+temperature of the outlet air, and according
+Dual pressure Low-pressure side 221 kPa (32.1 psi) ON to the control characteristics of the magnetic
+switch or higher clutch for the compressor, the automatic
+compressor controller outputs the "HI" signal
+High-pressure side 2,942 kPa (426.7 ON
+(12V). When air of 5°C (41.0°F) or less blows
+psi) or below
+out of the evaporator, the compressor
+A/C compressor relay driving transistor (within ON
+magnetic clutch will be turned off.
+automatic compressor controller and engine control
+module <M/T>, powertrain control module <A/T>)
+TSB Revision

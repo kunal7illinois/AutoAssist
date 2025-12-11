@@ -1,0 +1,51 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+If no malfunction is found in the wiring and the resistance was OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Install the engine cover with air filter. Refer to the Repair Man‐
+ual.
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.41 Ignition Coil with Power Output Stage,
+Checking
+The following procedure is used to diagnose all Ignition Coils with
+Power Output Stage .
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Diode test lamp.
+♦ Wiring diagram.
+Test requirements
+• The Ignition Coils with Power Output Stage - N70, N127,
+N291, N292, N323- fuses OK.
+• The Engine Control Module (ECM) Power Supply Relay -
+J271- OK.
+• The Engine Speed (RPM) Sensor -G28- OK.
+• The Camshaft Position (CMP) Sensor -G40- OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• Vehicles with automatic transmission, shift selector lever into
+position “P” or “N”.
+• A/C switched off.
+• Ground connections between engine/transmission/chassis
+OK.
+• Ignition switched Off.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the engine cover. Refer to the Repair Manual.
+– Remove the Ignition Coils with Power Output Stage -N70,
+N127, N291, N292, N323- electrical harness screws.
+192
+Rep. Gr.ST - Generic Scan Tool

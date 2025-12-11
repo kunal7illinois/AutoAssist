@@ -1,0 +1,58 @@
+ES–266
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+EVAP canister vent valve Not operated by scan tool
+EVAP leak detection pump Not operated by scan tool
+Both of the following conditions 1 and 2 are met before
+Conditions 1 and 2
+key-off
+1. Duration that vehicle driven 5 minutes or more
+2. EVAP purge operation Performed
+ECT 4.4 to 35°C (40 to 95°F)
+IAT 4.4 to 35°C (40 to 95°F)
+Key-off monitor sequence 1 to 8
+1. Atmospheric pressure measurement
+Next sequence is run if the following condition is met: -
+Atmospheric pressure measurement Less than 0.3 kPa (2.25 mmHg) in 1 second
+2. First reference pressure measurement
+ES
+Next sequence is run if all of the following conditions
+Conditions 1, 2 and 3
+are met:
+1. EVAP pressure just after reference pressure
+-1 kPa (-7.5 mmHg) or less
+measurement
+2. Reference pressure -4.85 to -1.057 kPa (-36.384 to -7.929 mmHg)
+3. Reference pressure Saturated within 1 minute
+3. EVAP canister vent valve close stuck check
+Next sequence is run if the following condition is met: -
+EVAP pressure change after vent valve is ON 0.3 kPa (2.25 mmHg) or more
+4. Vacuum introduction
+Next sequence is run if the following condition is met: -
+Vacuum introduction time Saturated within 15 minutes
+5. EVAP canister purge valve close stuck check
+Next sequence is run if the following condition is met: -
+EVAP pressure change after purge valve is open 0.3 kPa (2.25 mmHg) or more
+6. Second reference pressure measurement
+Next sequence is run if all of the following conditions
+Conditions 1, 2, 3 and 4
+are met:
+1. EVAP pressure just after reference pressure -1 kPa (-7.5 mmHg) or less
+2. Reference pressure -4.85 to -1.057 kPa (-36.384 to -7.929 mmHg)
+3. Reference pressure Saturated
+4. Difference between first reference pressure and
+Less than 0.7 kPa (5.25 mmHg)
+second reference pressure
+7. Leak check
+Next sequence is run if the following condition is met -
+EVAP pressure when vacuum introduction was
+Lower than second reference pressure
+complete
+8. Atmospheric pressure measurement
+EVAP monitor is complete if the following condition is
+-
+met:
+Atmospheric pressure difference between sequence 1
+Within 0.3 kPa (2.25 mmHg)
+and 8
+TYPICAL MALFUNCTION THRESHOLDS
+One of following conditions met -

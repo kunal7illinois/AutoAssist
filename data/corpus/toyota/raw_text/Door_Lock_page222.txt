@@ -1,0 +1,41 @@
+DL–207
+DOOR LOCK – KEY REMINDER WARNING SYSTEM
+2 INSPECT FRONT DOOR COURTESY LIGHT SWITCH ASSEMBLY
+(a) Remove the driver's side front door courtesy light switch
+Front Door Courtesy Light Switch Side
+(See page LI-128).
+Connector Front View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Free Standard resistance
+Tester Connection Condition Specified Condition
+Pushed Courtesy switch
+10 kΩ or higher
+pushed (Door closed)
+1 - Switch body
+Courtesy switch free
+Below 1 Ω
+(Door open)
+NG REPLACE FRONT DOOR COURTESY LIGHT
+Switch Body
+SWITCH ASSEMBLY
+B111600E02
+OK
+3 CHECK HARNESS AND CONNECTOR (FRONT DOOR COURTESY LIGHT SWITCH - MAIN
+BODY ECU)
+(a) Disconnect the E7 ECU connector.
+Wire Harness Side Connector Front View:
+(b) Measure the resistance according to the value(s) in the
+N6 table below.
+Front Door Courtesy Light Switch Assembly Standard resistance
+Tester Connection Condition Specified Condition
+N6-1 - E7-24 (DCTY) Below 1 Ω
+Always
+N6-1 - Body ground 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E7
+Main Body ECU
+DL
+DCTY
+B139169E03

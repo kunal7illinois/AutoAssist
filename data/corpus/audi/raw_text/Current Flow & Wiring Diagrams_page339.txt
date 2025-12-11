@@ -1,0 +1,51 @@
+Audi TT No. 42 / 19
+Current Flow Diagram
+Control unit in dash panel insert, fuel gauge sender, fuel
+gauge, high-pressure sender, fuel gauge sender 2
+G Fuel gauge sender
+G1 Fuel gauge
+G65 High pressure sender
+G169 Fuel gauge sender 2
+J255 Climatronic control unit
+J285 Control unit in dash panel insert
+T5a 5-pin connector, black, on fuel gauge sender
+T16d 16-pin connector, black, connector D, on Climatronic control unit
+T32 32-pin connector, blue, on control unit in dash panel insert
+Y24 Display in dash panel insert
+388 Earth connection 23, in main wiring harness
+389 Earth connection 24, in main wiring harness
+410 Earth connection 1 (sender earth), in main wiring harness
+* output sender earth
+** models with four-wheel drive
+G1 Y24 J285
+T32/27 T32/25 T32/26 T32/6 T32/28
+✱
+223366
+0,35 0,35 0,35 0,35 2,5
+li/sw bl/ge ge/gr ge/gn br
+389
+1,0 J255
+br T16d/3
+226666
+388
+0,5 0,35 0,5
+br br/bl sw/ro
+T5a/3 T5a/4 2 3 1/31 2 3
+G ✱✱
+G169 G65
+T5a/2 1 ws = white
+sw = black
+ro = red
+0,35 0,35 0,35
+br = brown
+br/bl br/bl br/bl
+gn = green
+410
+bl = blue
+410 gr = grey
+li = purple
+ge = yellow
+239 240 241 242 243 244 245 246 247 248 249 250 251 252 or = orange
+8J0-042190409
+rs = pink
+Edition 09.2009

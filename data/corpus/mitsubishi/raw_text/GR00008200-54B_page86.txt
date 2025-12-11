@@ -1,0 +1,23 @@
+54B-86 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Measure at ETACS-ECU connector C-119 in order
+to check the fusible link (1) line of power supply system to
+ETACS-ECU.
+(1) Disconnect ETACS-ECU connector C-119 , and measure at
+CCOONNNNEECCTTOORR:: CC--111199
+the junction block side.
+JUNCTION BLOCK
+(REAR VIEW)
+C-119
+AC106693AABB
+(2) Measure the voltage between terminal 2 and ground.
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 5.
+NO : Go to Step 3.
+CONNECTOR C-119
+(JUNCTION BLOCK SIDE)
+20191817161514131211109 8 7 6 5 4 3 2 1
+AC101928AD
+TSB Revision

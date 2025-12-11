@@ -1,0 +1,54 @@
+Audi TT No. 51 / 4
+Current Flow Diagram
+Convertible roof actuation control unit, convertible roof
+stowed switch, convertible roof front switch, open
+convertible roof latch closed switch, convertible roof latch
+closed switch, convertible roof lock motor
+F171 Convertible roof stowed switch
+F172 Front latch switch for convertible roof
+F202 Convertible roof front switch
+F294 Convertible roof latch open switch
+F295 Convertible roof latch closed switch
+J256 Convertible roof actuation control unit
+T4w 4-pin connector, black, near left locking motor
+T10c 10-pin connector, black, rear left side panel
+T10v 10-pin connector, black, connector A, on convertible roof
+actuation control unit
+T20v 20-pin connector, red, connector B, on convertible roof actuation
+control unit
+V223 Convertible roof lock motor
+202 Earth connection, in convertible roof wiring harness
+J256 * left
+** right
+T10v/1 T10v/2 T20v T20v/13 T20v/18 T20v
+/12 /17
+2,5 2,5 0,35 0,35 0,35 0,35
+ro/ws ro/bl bl/gr bl/ge br/li ro/gn
+T10c T10c/8 T10c/6 T10c/7 T10c/9 T10c
+/5 /10
+0,5 0,5
+bl/ge bl/ro
+T4w/1 T4w/2 T4w T4w/4
+/3
+1,5 0,5 0,5 0,5 0,5 0,5
+br sw sw br br/ge ro/ge
+2
+V223
+2 1
+F294
+2 1 1
+M ✱ ✱✱
+F295 F295 F202 F171
+1 1 2 1 3 3 ws = white
+sw = black
+ro = red
+1,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 br = brown
+sw/ge sw sw br br br br br gn = green
+bl = blue
+202 gr = grey
+202 li = purple
+ge = yellow
+29 30 31 32 33 34 35 36 37 38 39 40 41 42 or = orange
+8J0-051041010
+rs = pink
+Edition 10.2010

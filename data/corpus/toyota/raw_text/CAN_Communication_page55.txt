@@ -1,0 +1,34 @@
+CA–55
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+• Before measuring the resistance, leave the vehicle as is for at least 1 minute and do not operate
+the ignition switch, any other switches or the doors. If doors need to be opened in order to
+check connectors, open the doors and leave them open.
+HINT:
+Operating the ignition switch, any other switches or any triggers related ECU and sensor communication
+on the CAN, which would cause resistance reading variations.
+1 CHECK OPEN IN CAN BUS WIRE (YAW RATE SENSOR BRANCH LINE)
+(a) Turn the ignition switch off.
+Yaw Rate Sensor Connector (Front View):
+(b) Disconnect the yaw rate sensor connector.
+(c) Measure the resistance according to the value(s) in the
+TMC Made: table below.
+Standard resistance:
+TMC made
+E34
+Tester Connection Condition Specified Value
+E34-3 (CANH) - E34-2
+Ignition switch off 54 to 69 Ω
+(CANL)
+CANL CANH TMMK made CA
+Tester Connection Condition Specified Value
+TMMK Made:
+E65-3 (CANL) - E65-2
+Ignition switch off 54 to 69 Ω
+(CANH)
+E65
+NG REPAIR OR REPLACE YAW RATE SENSOR
+BRANCH WIRE OR CONNECTOR (CANH,
+CANL)
+CANH CANL
+C133237E01
+OK

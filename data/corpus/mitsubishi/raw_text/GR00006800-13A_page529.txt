@@ -1,0 +1,44 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-529
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Check connector C-60 at ECM for damage.
+Q:Is the connector in good condition?
+CONNECTOR:C-60
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK000280BI
+STEP 5. Check the power supply voltage at ECM connector
+C-60.
+(1) Disconnect the connector C-60 and measure at the harness
+side.
+(2) Turn the ignition switch to the "START" position.
+(3) Measure the voltage between terminal 71 and ground.
+• Voltage should be battery positive voltage.
+C-60 HARNESS (4) Turn the ignition switch to the "LOCK" (OFF) position.
+SIDE CONNECTOR
+Q:Is the voltage normal?
+YES : Go to Step 6.
+8180797877767574737271
+9291908988878685848382 NO : Repair harness wire between starter relay connector
+A-13X terminal 2 and ECM connector C-60 terminal
+71 because of open circuit. Then confirm that the
+malfunction symptom is eliminated.
+AK000410AC
+STEP 6. Check connector C-02 at interlock switch for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-02
+YES : Go to Step 7.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK000312AF
+STEP 7. Check the interlock switch.
+Refer to GROUP 21A, On-vehicle Service − Interlock switch
+check and adjustment P.21A-9.
+Q:Are there any abnormalities?
+YES : Go to Step 8.
+NO : Repair or replace it. Then confirm that the malfunction
+symptom is eliminated.
+TSB Revision

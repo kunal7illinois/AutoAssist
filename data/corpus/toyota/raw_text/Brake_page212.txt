@@ -1,0 +1,46 @@
+BC–206
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+1 CHECK SPEED SENSOR AND SPEED SENSOR ROTOR SERRATIONS
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU Harness Side (b) Connect the oscilloscope to each speed sensor terminal
+Connector Front View: of the skid control ECU.
+(c) Check that a waveform is output when the tires are
+rotated (by the sensor circuit).
+FR+ FL- RR+ OK:
+RL-
+A26 The same waveform is output from all the 4 wheels and
+there is no noise or interference in the waveform.
+(d) Check that the waveform does not change while jiggling
+a connector or a wire harness.
+OK:
+RL+ The waveform does not change.
+FR- FL+ RR-
+HINT:
+• As the vehicle speed (wheel revolution speed)
+Normal Signal Waveform:
+increases, a cycle of the waveform narrows and the
+BC
+output voltage becomes greater.
+• When noise is identified in the waveform on the
+oscilloscope, the erratic signals are generated due to
+speed sensor rotor's scratches, looseness or foreign
+matter attached to it.
+GND
+NG Go to step 3
+1 V/Division, 2 ms/Division
+C136019E05
+OK
+2 RECONFIRM DTC
+(a) Reconnect the skid control ECU connector.
+(b) Clear the DTC (See page BC-141).
+(c) Start the engine.
+(d) Drive the vehicle at the speed of 12 mph (20 km/h) or
+more for at least 60 seconds.
+(e) Check if the same DTC is recorded (See page BC-141).
+Result
+Condition Proceed to
+DTCs (C1235/35, C1236/36, C1238/38 and/or C1239/39) are not output A
+DTCs (C1235/35, C1236/36, C1238/38 and/or C1239/39) are output B
+B REPLACE BRAKE ACTUATOR ASSEMBLY
+A
+USE SIMULATION METHOD TO CHECK

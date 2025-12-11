@@ -1,0 +1,39 @@
+ST–86
+2GR-FE STARTING – SMART KEY SYSTEM
+Standard resistance
+Tester Connection
+Condition Specified Condition
+(Symbols)
+E8-8 (TACH) - A55-15
+Always Below 1 Ω
+(TACH)
+E8-8 (TACH) or A55-15
+Always 10 kΩ or higher
+(TACH) - Body ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+4 READ VALUE OF INTELLIGENT TESTER
+(a) Reconnect the connectors.
+(b) Connect the intelligent tester to the DLC3.
+(c) Check the DATA LIST for proper functioning of the
+engine.
+HINT:
+When using the intelligent tester with the engine switch
+off, turn on and off any of the door courtesy light switches
+repeatedly at 1.5 second intervals or less until
+communication between the tester and vehicle starts.
+MAIN BODY:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+STOP: Engine is stopped
+E/G COND Engine condition/STOP or RUN -
+RUN: Engine is running
+OK:
+STOP (engine is stopped) and RUN (engine is
+running) appear on the screen.
+NG REPLACE ECM
+OK
+REPLACE MAIN BODY ECU
+ST

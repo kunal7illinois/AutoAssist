@@ -1,0 +1,19 @@
+CH-70 CHASSIS - U660E AUTOMATIC TRANSAXLE
+10. Coast Downshift Control
+(cid:3) The ECT ECU performs downshift control to restrain the engine speed from decreasing, and keeps fuel
+cut control operating for as long as possible. In this way, the fuel economy is improved.
+(cid:3) In this control, the transaxle downshifts from 6th to 5th and then 5th to 4th before fuel cut control ends
+when the vehicle is decelerated in the 6th gear, so that fuel cut control continues operating.
+Continuous Fuel Cut : with Downshift Control (6AT)
+Control Operation
+: without Downshift Control (5AT)
+Fuel Cut Control ON
+Fuel Cut Control OFF
+Engine 6th
+to 5th
+Speed to 4th
+5th Fuel Cut Control ON
+Fuel Cut Control OFF
+to 4th to 3rd
+Time
+01YCH34Y

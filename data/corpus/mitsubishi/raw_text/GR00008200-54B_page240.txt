@@ -1,0 +1,33 @@
+54B-240 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+Check the input signal (by using the Pulse Check).
+Check the automatic stop signal, which the rear wiper motor
+sends to the ETACS-ECU.
+NOTE: When the rear wiper is operated, a signal is sent to the
+ETACS-ECU.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+MB991502
+(2) Operate the MUT-II according to the procedure below to
+display "PULSE CHECK."
+1. Select "SYSTEM SELECT."
+16 PIN
+2. Select "SWS."
+3. Select "PULSE CHECK."
+(3) Check that scan tool MB991502 sounds.
+Q:Does scan tool MB991502 sound when the rear wiper
+switch is operated?
+ACX01539AB
+YES : Replace the ETACS-ECU. The rear wiper should stop
+automatically at the predetermined park position.
+NO : Refer to Inspection Procedure P-7 "ETACS-ECU does
+not receive an automatic stop signal from the wiper
+motor P.54B-569."
+TSB Revision

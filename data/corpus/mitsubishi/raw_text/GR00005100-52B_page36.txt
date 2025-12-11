@@ -1,0 +1,29 @@
+52B-36 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+TROUBLESHOOTING HINTS • Short circuit between the passenger’s (front) air
+• Improper engaged connector or defective short bag module (squib) circuit terminals
+bar* • Damaged connector(s)
+• Malfunction of the SRS-ECU
+NOTE: *: The squib circuit connectors integrate a "short" bar (which prevents the air bag from deploying unin-
+tentionally due to static electricity by shorting the positive wire to the ground wire in the squib circuit when the
+connectors are disconnected) (Refer to P.52B-20.) Therefore, if the connector C-11 or C-72 is damaged or
+improperly engaged, the short bar may not be released when the connector is connected.
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991865: Dummy resister
+• MB991866: Resister harness
+STEP 1. Check the DTC.
+Q:Is DTC 34 output?
+YES : Go to Step 2.
+NO : Go to Step 3.
+STEP 2. Check SRS-ECU connector C-72.
+Q:Is the connector correctly engaged?
+CONNECTOR: C-72
+YES : Go to Step 3.
+NO : Engage the connector correctly. Then go to Step 7.
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH)AC000358AD
+TSB Revision

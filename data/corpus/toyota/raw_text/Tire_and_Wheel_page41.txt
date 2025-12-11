@@ -1,0 +1,60 @@
+TW–40
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+INSPECTION PROCEDURE
+NOTICE:
+• It is necessary to perform initialization (See page TW-18) after registration (See page TW-15) of
+the transmitter IDs into the tire pressure warning ECU after the ECU and/or valve and
+transmitter has been replaced.
+HINT:
+Set the tire pressure to the specified value.
+1 PERFORM FORCED TRANSMISSION OF TRANSMITTER ID OF ALL WHEELS
+(a) Set the tire pressure to the specified value.
+Cold tire Inflation Pressure
+Tire size Front kPa (kgf/cm2, psi) Rear kPa (kgf / cm2, psi)
+P215/60R16 94 V 210 (2.1, 31) 210 (2.1, 31)
+P215/55R17 93 V 220 (2.2, 32) 220 (2.2, 32)
+TW
+(b) Connect the intelligent tester to the DLC3.
+(c) Turn the ignition switch on (IG) and turn the tester ON.
+(d) Select "TIREPRESS" by following the prompts displayed
+on the intelligent tester.
+Measurement Item/Range
+Item Normal Condition Diagnostic Note
+(display)
+ID1 tire inflation pressure / min.:0
+kPa (0 kgf/cm2, 0 psi), max.:
+TIREPRESS1 Actual tire inflation pressure -
+637.5 kPa (6.48 kgf / cm2, 92.2
+psi)
+ID2 tire inflation pressure / min.:0
+kPa (0 kgf/cm2, 0 psi), max.:
+TIREPRESS2 Actual tire inflation pressure -
+637.5 kPa (6.48 kgf / cm2, 92.2
+psi)
+ID3 tire inflation pressure / min.:0
+kPa (0 kgf/cm2, 0 psi), max.:
+TIREPRESS3 Actual tire inflation pressure -
+637.5 kPa (6.48 kgf / cm2, 92.2
+psi)
+ID4 tire inflation pressure / min.:0
+kPa (0 kgf/cm2, 0 psi), max.:
+TIREPRESS4 Actual tire inflation pressure -
+637.5 kPa (6.48 kgf / cm2, 92.2
+psi)
+ID5 tire inflation pressure / min.:0
+kPa (0 kgf/cm2, 0 psi), max.:
+TIREPRESS5 Actual tire inflation pressure -
+637.5 kPa (6.48 kgf / cm2, 92.2
+psi)
+(e) Rapidly release the pressures from each wheel by
+approximately 40 kPa (0.4 kgf / cm2, 5.8 psi) /30
+seconds or more.
+(1) Check that each tire pressure data displayed on the
+intelligent tester screen has changed.
+OK:
+Each tire pressure data displayed on the
+intelligent tester screen will change to the
+value of the tire pressure.
+NOTICE:
+• It takes about 1 minute or more to display the
+updated tire pressure data.

@@ -1,0 +1,46 @@
+ES–107
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Retarded camshaft timing:
+Valve timing No change
+Valve timing Retard position
+WIRING DIAGRAM
+Refer to DTC P0013 (See page ES-93).
+INSPECTION PROCEDURE
+HINT:
+Advanced timing over Retarded timing over
+Abnormal bank
+(Valve timing is out of specified range) (Valve timing is out of specified range)
+Bank 1 P0014 P0015
+Bank 2 P0024 P0025
+ES
+• If DTC P0014 or P0015 is displayed, check the exhaust camshaft circuit for the bank 1 VVT system.
+• Bank 1 refers to the bank that includes cylinder No. 1.
+• If DTC P0024 or P0025 is displayed, check for exhaust camshaft circuit for the bank 2 VVT system.
+• Bank 2 refers to the bank that does not include cylinder No. 1.
+• Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame
+data can be helpful in determining whether the vehicle was running or stopped, whether the engine
+was warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the
+time of a malfunction (See page ES-45).
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P0014, P0015, P0024 OR
+P0025)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DTC INFO / CURRENT CODES.
+(d) Read the DTCs.
+Result
+Display (DTC output) Proceed to
+P0014, P0015, P0024 or P0025 A
+P0014, P0015, P0024 or P0025 and other DTCs B
+HINT:
+If any DTCs other than P0014, P0015, P0024 or P0025
+are output, troubleshoot those DTCs first.
+B GO TO DTC CHART (See page ES-63)
+A
+2 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (OPERATE OCV)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the tester on.
+(c) Warm up the engine.
+(d) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / ACTIVE TEST / VVT CTRL B1.

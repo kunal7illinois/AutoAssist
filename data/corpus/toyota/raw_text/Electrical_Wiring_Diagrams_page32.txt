@@ -1,0 +1,39 @@
+F
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Main Body ECU 13
+14
+15
+16
+17
+18
+19
+20
+21 IH
+22 161514131211109
+23 8 7 6 54321
+24
+25
+26 (from Instrument Panel Wire)
+IG 2 2 30A POWER
+1211109 8 7 1 7 2 8 3 91 4 01 5 11 6 2 6 1 7 2 8 3 9 4 1 5 0 1 91 2 01 3 11 4 21 5 31 6 41 7 51 8 6 1 1 (for High Current)
+6543 2 1
+(from Instrument Panel Wire)
+30A P/SEAT
+(for High Current)
+II
+1098 7 6
+543 2 1
+(from Instrument Panel Wire)
+31
+CAMRY (EM0250U)

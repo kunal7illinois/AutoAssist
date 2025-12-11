@@ -1,0 +1,50 @@
+CHASSIS ELECTRICAL 54A-17
+IGNITION SWITCH
+CONNECTOR: C-79 CONNECTORS: C-56 <2.4L ENGINE-M/T>,
+C-61 <2.4L ENGINE-A/T>, C-62 <3.0L
+CENTER ENGINE-M/T>, C-63 <3.0L ENGINE-A/T>
+REINFORCEMENT
+ECM <M/T>
+OR
+PCM <A/T>
+C-56 C-61, C-62,
+IMMOBILIZER-ECU C-63
+AC001652AC AC001657AQ
+. • If the MFI system is normal, the MFI relay can be
+Communication with scan tool MB991502 is
+determined as normal. In addition, if the MFI sys-
+impossible
+tem and scan tool MB991502 can communicate
+Immobilizer-ECU is energized when the ignition
+each other, the circuits between the data link con-
+switch is turned "ON," and the MFI relay is turned on.
+nector and the ECM <M/T> or PCM <A/T> can
+The ECM <M/T> or PCM <A/T> transmits a signal
+determined as normal.
+from scan tool MB991502 to the immobilizer-ECU as
+it is. In the same way, a signal from the immobilizer- NOTE: If this malfunction appears, MFI system
+ECU is also transmitted to scan tool MB991502 as it DTC P1610 will be output.
+is.
+.
+TROUBLESHOOTING HINTS
+. TECHNICAL DESCRIPTION (COMMENT) • Malfunction of immobilizer-ECU
+• This malfunction may be caused by a defective • Malfunction of ECM <M/T> or PCM <A/T>
+immobilizer-ECU, ECM <M/T> or PCM <A/T>, or • Damaged wiring harness or connectors
+a defect in the communication line between the
+immobilizer-ECU and ECM <M/T> or PCM <A/
+T>. If this malfunction appears when the MFI sys-
+tem and scan tool MB991502 can communicate
+each other, MFI system DTC P1610 will reset.
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check scan tool MB991502 communicates with
+the MFI system and MFI system DTC output other than
+P1610.
+Q:Can scan tool MB991502 communicate with the MFI
+system? Does MFI system DTC other than P1610 reset?
+YES : Go to Step 2.
+NO : Refer to GROUP 13A, Diagnosis P.13A-22.
+TSB Revision

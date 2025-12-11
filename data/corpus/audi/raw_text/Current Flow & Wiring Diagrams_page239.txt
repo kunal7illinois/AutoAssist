@@ -1,0 +1,51 @@
+Audi TT No. 30 / 17
+Current Flow Diagram
+Roadster, navigation system with CD drive control unit, TV
+tuner, TV aerial 2 and 3, navigation system aerial, satellite
+aerial
+J401 Navigation system with CD drive control unit
+R50 Navigation system aerial
+R56 TV aerial 2
+R57 TV aerial 3
+R78 TV tuner
+R56 ✱✱ R57 ✱ R50 ✱✱✱ R170 ## R146 Satellite radio
+R170 Satellite aerial
+T2an 2-pin connector, green, left in rear lid
+* on left windscreen
+A1 A2 A1 A2
+** on right windscreen
+*** on centre windscreen
+# only USA
+A1 A2
+## on left in rear lid
+0,5 0,5 0,5
+sw sw sw
+0,4 0,4 0,4
+221111 221144
+J401
+221199
+T2an T2an
+G1 G2
+/1 /2
+0,5 0,5
+sw sw
+221111 221144
+0,4 0,4 0,4 0,4
+221199
+0,5 0,5 0,5
+sw sw sw
+B1 B2 C3 C4 C1 C2
+ws = white
+R78 R146 #
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+211 212 213 214 215 216 217 218 219 220 221 222 223 224 or = orange
+8J0-030171007
+rs = pink
+Edition 04.2009

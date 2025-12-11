@@ -1,0 +1,35 @@
+35B-42 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+STEP 5. Check the harness wire between the combination
+meter connector C-42 (terminal 24) and the intermediate
+connector C-94 (terminal 16).
+Q:Is the harness wire between the combination meter
+CONNECTOR: C-42
+COMBINATION connector C-42 (terminal 24) and the intermediate
+HARNESS SIDE METER connector C-94 (terminal 16) damaged?
+YES : Repair it and then go to Step 6.
+NO : Replace the combination meter (printed circuit board)
+(Refer to GROUP 54A, Combination Meter P.54A-105
+and P.54A-107.) and then go to Step 6.
+AC004483AC
+CONNECTOR: C-94
+MALE CONNECTOR SIDE
+AC004410AF
+STEP 6. Check symptom.
+Q:Does the ABS warning light turn off 3 seconds after
+start-up?
+YES : This diagnosis is complete.
+NO : Return to Step 1.
+INSPECTION PROCEDURE 4: Faulty ABS Operation
+. .
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINTS (The most likely
+The cause depends on driving and road surface con- causes for this case:)
+ditions, so diagnosis may be difficult. However, if no • Malfunction of the hydraulic unit
+diagnostic trouble code is displayed, carry out the fol-
+lowing inspection.
+.
+DIAGNOSIS
+Check the hydraulic unit. (Refer to P.35B-47.) If the hydraulic
+unit (integrated with ABS-ECU) is malfunctioning, replace it.
+Then check that the malfunction symptom is eliminated.
+TSB Revision

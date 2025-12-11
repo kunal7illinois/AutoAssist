@@ -1,0 +1,11 @@
+ES–32
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Monitor ID Test ID Scaling Unit Description
+Misfire rate for cylinder 6: Misfire counts for last/current driving cycle-
+$A7 $0C Multiply by 1 Time
+Total
+Rear Oxygen Sensor Heater:
+Monitor ID Test ID Scaling Unit Description
+$42 $91 Multiply by 0.001 Ohm Oxygen sensor heater resistance bank 1 sensor 2
+$46 $91 Multiply by 0.004 Ohm Oxygen sensor heater resistance bank 2 sensor 2
+ES

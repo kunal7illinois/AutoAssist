@@ -1,0 +1,84 @@
+ES–49
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Intelligent Tester Display Measurement: Range (Display) Normal Condition*1 Diagnostic Note
+Brake pedal signal:
+ST1 ON: Brake pedal depressed -
+ON or OFF
+System guard:
+SYS GUARD JUDGE - ETCS service data
+ON or OFF
+Open side malfunction:
+OPN MALFUNCTION - ETCS service data
+ON or OFF
+• 10 to 22 %: Throttle fully • Calculated value based on
+Throttle position sensor: closed VTA1
+THROTTLE POS
+Min.: 0%, Max.: 100 % • 66 to 98 %: Throttle fully • Read value with ignition switch
+open ON (Do not start engine)
+Whether or not throttle position
+THROTTL IDL POS sensor detecting idle: ON: Idling -
+ON or OFF
+ES
+Throttle requirement position:
+THRTL REQ POS 0.5 to 1.0 V: Idling -
+Min.: 0 V, Max.: 5 V
+• Recognition value for throttle
+• 0 %: Throttle fully closed
+Throttle position: opening angle on ECM
+THROTTLE POS • 50 to 80 %: Throttle fully
+Min.: 0 %, Max.: 100 % • Read value with ignition switch
+open
+ON (Do not start engine)
+• 42 to 62 %: Throttle fully • Calculated value based on
+Throttle position No. 2 sensor: closed VTA2
+THROTTLE POS #2
+Min.: 0 %, Max.: 100 % • 92 to 100 %: Throttle fully • Read value with ignition switch
+open ON (Do not start engine)
+Throttle position sensor No. 1
+THROTTLE POS #1 output voltage: - ETCS freeze data
+Min.: 0 V, Max.: 4.98 V
+Throttle position sensor No. 2
+THROTTLE POS #2 output voltage: - ETCS freeze data
+Min.: 0 V, Max.: 4.98 V
+• 0.5 to 1.1 V: Throttle fully
+Throttle position sensor No. 1
+closed Read value with ignition switch ON
+THROTTLE POS #1 output voltage:
+• 3.3 to 4.9 V: Throttle fully (Do not start engine)
+Min.: 0 V, Max.: 5 V
+open
+• 2.1 to 3.1 V: Throttle fully
+Throttle position sensor No. 2
+closed Read value with ignition switch ON
+THROTTLE POS #2 output voltage:
+• 4.6 to 5.0 V: Throttle fully (Do not start engine)
+Min.: 0 V, Max.: 5 V
+open
+Throttle position command value: Read value with ignition switch ON
+THRTL COMND VAL 0.5 to 4.9 V
+Min.: 0 V, Max.: 4.9804 V (Do not start engine)
+Throttle sensor opener position
+THROTTLE SSR #1 No. 1: - ETCS service data
+Min.: 0 V, Max.: 4.9804 V
+Throttle sensor opener position
+THROTTLE SSR #2 No. 2: - ETCS service data
+Min.: 0 V, Max.: 4.9804 V
+Throttle position sensor No. 1
+Read value with ignition switch ON
+THRTL SSR #1 AD output voltage (AD): 0.5 to 4.9 V
+(Do not start engine)
+Min.: 0 V, Max.: 4.9804 V
+Whether or not throttle actuator
+Read value with ignition switch ON
+THROTTLE MOT control permitted: ON: Idling
+(Do not start engine)
+ON or OFF
+Throttle actuator current:
+THROTTLE MOT 0 to 3.0 A: Idling -
+Min.: 0 A, Max.: 80 A
+Throttle actuator:
+THROTTLE MOT 0.5 to 40 %: Idling -
+Min.: 0 %, Max.: 100 %
+Throttle actuator current:
+THROTTLE MOT 0 to 3.0 A: Idling -
+Min.: 0 A, Max.: 19.92 A

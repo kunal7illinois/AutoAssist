@@ -1,0 +1,33 @@
+ES–161
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+14 REPLACE AIR-FUEL RATIO SENSOR
+NEXT
+15 PERFORM CONFIRMATION DRIVING PATTERN
+Vehicle Speed ES
+(f)
+Between 60 km/h and
+120 km/h (38 mph and
+75 mph)
+(e)
+Idling
+Ignition Switch OFF
+(a), (b), (c), (d) 2 minutes Time
+3 to 5 minutes
+A115372E27
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Clear DTCs (see page ES-35).
+(d) Switch the ECM from normal mode to check mode using
+the tester (see page ES-38).
+(e) Start the engine and warm it up with all the accessories
+switched OFF.
+(f) Drive the vehicle at between 60 km/h and 120 km/h (38
+mph and 75 mph) and at an engine speed of between 1,400
+rpm and 3,200 rpm for 3 to 5 minutes.
+HINT:
+If the system is still malfunctioning, the MIL will be illuminated
+during step (f).
+NOTICE:
+If the conditions in this test are not strictly followed, no
+malfunction will be detected.
+NEXT

@@ -1,0 +1,29 @@
+MI–3
+MIRROR – POWER MIRROR CONTROL SYSTEM
+Mirror Heater Operation:
+E38 F16
+A/C Amplifier Heater Control
+Engine Room R/B, J/B Assembly Panel Assembly
+MI
+RR DEF Relay
+1 2 38
+from A/C No. 2 fuse 1 1 RDFG
+37 9
+LIN1 TX+
+5 3
+from RR DEF fuse 1 1
+4
+Instrument Panel J/B
+MIR HTR fuse
+1 2
+1K 1B
+1
+1J
+H2
+Outer Rear View Mirror Assembly RH
+3 4
+I3
+Outer Rear View Mirror Assembly LH
+3 4
+: LIN
+B137069E01

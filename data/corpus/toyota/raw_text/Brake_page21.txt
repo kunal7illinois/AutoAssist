@@ -1,0 +1,34 @@
+BC–21
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+TERMINALS OF ECU
+1. TERMINALS OF ECU
+Skid Control ECU (Brake Actuator Assembly):
+C131974E01
+Symbols (Terminal No.) Terminal Description
+GND2 (1) Actuator pump motor ground
++BM (2) Motor relay power supply
++BS (3) Solenoid valves power supply
+BC
+GND1 (4) Skid control ground
+FL+ (5) Front LH (+) wheel speed signal input
+FL- (6) Front LH (-) wheel speed signal input
+RL+ (7) Rear LH (+) wheel speed signal input
+RR- (8) Rear RH (-) wheel speed signal input
+FR- (9) Front RH (-) wheel speed signal input
+FR+ (10) Front RH (+) wheel speed signal input
+D/G (11) Diagnosis tester communication line
+CANL (15) CAN communication line L
+RL- (17) Rear LH (-) wheel speed signal input
+IG1 (18) ECU power supply
+RR+ (19) Rear RH (+) wheel speed signal input
+STP (20) Stop light switch input
+SP1 (23) Speed signal output for speedometer
+TS (25) Sensor check input
+CANH (26) CAN communication line H
+2. TERMINAL INSPECTION
+(a) Disconnect the connector and measure the voltage
+or resistance on the wire harness side.
+HINT:
+Voltage cannot be measured with the connector
+connected to the skid control ECU as the connector
+is watertight.

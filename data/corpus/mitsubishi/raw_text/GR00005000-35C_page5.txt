@@ -1,0 +1,38 @@
+TRACTION CONTROL SYSTEM (TCL) 35C-5
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+1. Use special tool MB991529 to ground number 1 terminal of
+the data link connector.
+MB991529
+DATA LINK
+CONNECTOR AC002241AB
+CAUTION
+Do not depress the brake pedal after the ignition switch is
+turned "ON." If the brake pedal is depressed while the ABS
+is inoperative and the ignition switch is "ON," the ABS
+warning light will remain on. Because of this, diagnostic
+trouble codes will not be read out.
+2. Turn the ignition switch to the "ON" position.
+3. Read out a diagnostic trouble code by observing how the
+ABS WARNING LIGHT warning light flashes.
+AC004361AB
+WHEN THE DIAGNOSTIC TROUBLE CODE NO. 24 WHEN NO DIAGNOSTIC TROUBLE CODE IS
+IS OUTPUT OUTPUT
+1.5s 0.5s 0.25s
+0.5s
+ILLUMINATED
+ILLUMINATED
+SWITCHED SWITCHED
+OFF OFF
+PAUSE TENS PLACE UNITS
+TIME 3s SIGNAL DIVISION SIGNAL ACX01778AB
+2s
+ACX01777AB
+4. Disconnect special tool MB991529.
+Erasing TCL Diagnostic Trouble Codes
+NOTE: If the ABS-ECU functions have stopped due to the fail-
+safe function, the diagnostic code cannot be erased.
+.
+USING SCAN TOOL MB991502
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

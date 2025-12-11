@@ -1,0 +1,58 @@
+ENGINE AND EMISSION CONTROL 17-69
+AUTO-CRUISE CONTROL
+STEP 3. Check the vacuum actuator.
+(1) Disconnect the vacuum hose from the vacuum actuator,
+and then connect a hand vacuum pump to the vacuum
+THROTTLE BODY
+actuator.
+(2) Apply a vacuum and check that the throttle lever moves and
+the vacuum is maintained.
+Q:Is the vacuum actuator damaged?
+YES : Replace the vacuum actuator.
+For 2.4L engine, refer to GROUP 13A, Throttle Body
+Assembly P.13A-593.
+VACUUM ACTUATOR
+AC001493AB For 3.0L engine, refer to GROUP 13B, Throttle Body
+Assembly P.13B-690.
+Then check that the malfunction is eliminated.
+NO : Check that the malfunction is eliminated.
+If the malfunction is not eliminated, replace the auto-
+cruise control-ECU. (Refer to P.17-86.)
+Then check that the malfunction is eliminated.
+INSPECTION PROSEDURE 8: Hunting (Repeated Acceleration and Deceleration) Occurs at the Set
+Vehicle Speed. <A/T>
+. TROUBLESHOOTING HINTS
+TECHNICAL DESCRIPTION (COMMENT)
+• Malfunction of the output shaft speed sensor.
+The cause is probably the malfunction of the output
+• Malfunction of the PCM.
+shaft speed sensor or PCM or incorrect vacuum in
+• Malfunction of the auto-cruise control vacuum
+the auto-cruise control vacuum pump or actuator.
+pump.
+• Malfunction of the actuator.
+.
+• Malfunction of the auto-cruise control-ECU.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+• MB991223: Harness Set
+STEP 1. Check the vehicle speed signal.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Using scan tool MB991502.
+(2) Connect scan tool MB991502 to the data link connector.
+(3) Turn the ignition switch to the "ON" position.
+(4) Read the MFI-DTC.
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the MFI-DTC P0720 is output?
+MB991502 AC001252AB YES : For 2.4L engine, refer to GROUP 13A, Diagnosis −
+Diagnostic Trouble Code Chart P.13A-22.
+For 3.0L engine, refer to GROUP 13B, Diagnosis −
+Diagnostic Trouble Code Chart P.13B-22.
+NO : Go to Step 2.
+TSB Revision

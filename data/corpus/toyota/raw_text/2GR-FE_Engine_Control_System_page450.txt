@@ -1,0 +1,28 @@
+ES–450
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+VC Output Circuit
+DESCRIPTION
+The ECM constantly uses 5 V from the battery voltages supplied to the +B (BATT) terminal to operate the
+microprocessor. The ECM also provides this power to the sensors through the VC output circuit.
+When the VC circuit is short-circuited, the microprocessor in the ECM and sensors that are supplied
+power through the VC circuit are inactivated because the power is not supplied from the VC circuit. Under
+this condition, the system does not start up and the MIL does not illuminate even if the system
+malfunctions.
+HINT:
+Under normal conditions, the MIL is illuminated for several seconds when the ignition switch is first turned
+on (IG). The MIL goes off when the engine is started.
+ES
+ECM
+BATT
+From EFI MAIN Fuse
+5 V Constant Voltage Circuit
++B
+From EFI Relay
+Microprocessor
+Throttle Position Sensor, Accelerator
+Pedal Position Sensor, etc. (Sensors VC
+which have IC)
+Engine Coolant Temperature Sensor,
+R
+Intake Air Temperature Sensor, etc.
+A116143E14

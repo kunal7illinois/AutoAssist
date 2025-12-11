@@ -1,0 +1,53 @@
+ES–229
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 INSPECT KNOCK SENSOR
+(a) Disconnect the CV1 connector.
+Wire Harness Side:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+CV1
+Tester Connection Specified Condition
+Male CV1 male connector 1 - 2 120 to 280 kΩ
+CV1 male connector 3- 4 120 to 280 kΩ
+(c) Reconnect the CV1 connector.
+G042949E02
+OK CHECK FOR INTERMITTENT PROBLEMS
+ES
+NG
+5 CHECK HARNESS AND CONNECTOR (CONNECTOR - KNOCK SENSOR)
+HINT:
+• If DTC P0327 or P0328 has changed to P0332 or P0333,
+check the knock sensor circuit on the right bank side.
+• If DTC P0332 or P0333 has changed to P0327 or P0328,
+check the knock sensor circuit on the left bank side.
+(a) Disconnect the CV1 connector.
+Wire Harness Side:
+(b) Disconnect the V2 and V1 knock sensor connectors.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance (Check for open)
+CV1
+Tester Connection Specified Condition
+Male
+CV1 male connector 2 - V2-2 Below 1 Ω
+CV1 male connector 1 - V2-1 Below 1 Ω
+CV1 male connector 4 - V1-2 Below 1 Ω
+CV1 male connector 3 - V1-1 Below 1 Ω
+Standard resistance (Check for short)
+Knock Sensor Connector
+Tester Connection Specified Condition
+CV1 male connector 2 or V2-2 - Body ground 10 kΩ or higher
+V2
+CV1 male connector 1 or V2-1 - Body ground 10 kΩ or higher
+Bank 1
+CV1 male connector 4 or V1-2 - Body ground 10 kΩ or higher
+V1 CV1 male connector 3 or V1-1 - Body ground 10 kΩ or higher
+Bank 2
+(d) Reconnect the CV1 connector.
+(e) Reconnect the knock sensor connectors.
+A135025E01
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE KNOCK SENSOR (See page ES-510)

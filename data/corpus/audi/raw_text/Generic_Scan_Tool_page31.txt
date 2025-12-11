@@ -1,0 +1,66 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+at least one PASS diagnostic result was detected - and the Min‐
+imum Trip Conditions for a General Denominator (without con‐
+sidering high/ambient temperature) were met in this phase in any
+DCY after erasing the DTC memory. - The engine control module
+relays the message “Minimum Trip conditions met” to all other
+OBD control modules via CAN: CAN message OBD_01, Byte 8,
+Bit 4: OBD_Minimum_Trip - Permanent Fault Codes may NOT be
+erased if the diagnostic result is FAIL after clearing the DTC
+memory. A Pending Fault Code should be stored and the DTC
+memory line should be overwritten with new Freeze Frame data.
+(Exception: If the Pending Fault Code is corrected without a Con‐
+firmed Fault Code being detected, the Permanent Fault Code may
+also be erased under the conditions described below.) - Perma‐
+nent Fault Codes should be erased in engine control modules
+after Update Programming. At this time, all readiness bits (Mode
+01 PID $01) must be reset to “not complete” [ (g)(4.4.6)(D) ]. Per‐
+manent Fault Codes should not be erased in OBD control mod‐
+ules with Comprehensive Components (CCM) as a single
+readiness bit if the identical program/data status is being pro‐
+grammed. If a different program/data status is being program‐
+med, Permanent Fault Codes should be erased after Update
+Programming. - The procedure in Mode 01 through Mode 09 and
+in the service tester is NOT affected by implementation of the
+Permanent Fault Codes.
+3.4 DTC Tables
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P000 Intake – Check the • adjustment an‐ • Engine speed, 5 Sec. • Continu‐
+A Camshaft Camshaft Ad‐ gle difference < >550 RPM ous
+Position justment 9° CA/s
+Slow Re‐ Valve 1 - • ECT > - 7.5 °C • 2 DCY
+sponse N205- . Refer
+• Time after engine
+Bank 1 to
+start > 3.5 Sec.
+⇒
+“3.5.38 Cam‐ • number of
+shaft Adjust‐ checks@normal
+ment Valve, operation 3
+Checking”,
+page 186 • time length for
+more than 1.5 Sec
+• camshaft position
+change > 4° CA
+P000 Exhaust – Check the • adjustment an‐ • engine speed > 5 Sec • Continu‐
+B Camshaft Camshaft Ad‐ gle difference < 550 rpm ous
+Position justment 7° CA/s
+Slow Re‐ Valve 1 (ex‐ • ECT > 7.5° C • 2 DCY
+sponse haust) -
+• time after engine
+Bank 1 N318- . Refer
+start > 3.5 Sec
+to
+⇒ • number of
+“3.5.39 Cam‐ checks@normal
+shaft Adjust‐ operation 3
+ment Valve 1,
+Exhaust”, • time length for
+page 188 more than 1.5 Sec
+• camshaft position
+change > 4° CA
+27
+3. Diagnosis and Testing

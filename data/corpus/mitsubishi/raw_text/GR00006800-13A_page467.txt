@@ -1,0 +1,38 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-467
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Using scan tool MB991502, check actuator test
+items 01, 02, 03, 04: Injector.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Check following items in the actuator test. Refer to, Actuator
+Test Reference Table P.13A-553.
+16 PIN a. Item 01, 02, 03, 04: Injector.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AKX01177AB Q:Is the actuator operating properly?
+YES : Go to Step 7.
+NO : Refer to, DTC P0201, P0202, P0203, P0204 −
+Injector Circuit Malfunction P.13A-216.
+STEP 7. Using scan tool MB991502, check data list.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items in the data list. Refer to, Data List
+Reference Table P.13A-544.
+a. Item 21: Engine Coolant Temperature Sensor.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : Go to Step 8.
+16 PIN
+NO : Repair or replace. Then confirm that the malfunction
+MB991502 symptom is eliminated.
+AKX01177AB
+STEP 8. Check the fuel pressure.
+Refer to, Fuel Pressure Test P.13A-578.
+Q:Is the fuel pressure normal?
+YES : Go to Step 9.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+TSB Revision

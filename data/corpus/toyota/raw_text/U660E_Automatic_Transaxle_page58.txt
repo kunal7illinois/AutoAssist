@@ -1,0 +1,27 @@
+AX–58
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+2 INSPECT TCM
+(a) Shift the lever to the neutral position.
+Wire Harness Side:
+(b) Jack up the vehicle.
+TCM Connector (Front View)
+AX (c) Disconnect the TCM connector.
+(d) Turn the ignition switch on (IG).
+C56
+E1 SPD1
+C133210E01
+(e) Measure the voltage according to the value(s) in the
+table below as the wheel is turned slowly.
+Standard
+4.5 to
+5.5 V Tester Connection Specified Condition
+C56-3 (SPD1) - C56-8 (E1) Voltage is generated intermittently
+HINT:
+0 V The output voltage should fluctuate up and down
+Turn the wheel
+similarly to the diagram when the wheel is turned slowly.
+A062954E07
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE TCM

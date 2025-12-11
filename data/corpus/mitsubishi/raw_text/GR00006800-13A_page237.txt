@@ -1,0 +1,54 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-237
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR: B-20
+CRANKSHAFT
+POSITION
+SENSOR
+AAKK110033552299AB AK103528AB
+CONNECTORS:C-53,C-60<M/T>, CONNECTOR: A-18X
+C-50,C-54<A/T>
+MFI RELAY
+ECM<M/T>
+OR
+PCM<A/T>
+C-50 C-53, C-60
+C-54
+AK000280BV
+AK101363AB
+. .
+CIRCUIT OPERATION DTC SET CONDITIONS
+• The crankshaft position sensor power is supplied
+Check Conditions
+from the MFI relay (terminal 4).
+• Engine is being cranked.
+• Terminal 1 of the crankshaft position sensor is
+grounded with ECM (terminal 40) <M/T> or PCM Judgment Criteria
+(terminal 16) <A/T>. • Crankshaft position sensor output voltage has not
+• A 5-volt voltage is applied on the crankshaft posi- changed (no pulse signal is input) for 2 seconds.
+tion sensor output terminal (terminal 2) from the
+Check Conditions, Judgment Criteria
+ECM (terminal 89) <M/T> or PCM (terminal 45) • Normal signal pattern has not been input for cyl-
+<A/T>. The crankshaft position sensor generates
+inder identification from the crankshaft position
+a pulse signal when the output terminal is opened
+sensor signal and camshaft position sensor sig-
+and grounded.
+nal for 2 seconds.
+.
+TECHNICAL DESCRIPTION .
+TROUBLESHOOTING HINTS (The most likely
+• The crankshaft position sensor detects the crank
+causes for this code to be set are:)
+angle (position) of each cylinder, and converts • Crankshaft position sensor failed.
+that data to pulse signals, which are then input to • Open or shorted crankshaft position sensor cir-
+the ECM <M/T> or PCM <A/T>.
+cuit, or loose connector.
+• When the engine is running, the crankshaft posi- • ECM failed. <M/T>
+tion sensor outputs a pulse signal. • PCM failed. <A/T>
+• The ECM <M/T> or PCM <A/T> checks whether
+pulse signal is input while the engine is cranking.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MD998478: Test Harness (3pin, triangle)
+TSB Revision

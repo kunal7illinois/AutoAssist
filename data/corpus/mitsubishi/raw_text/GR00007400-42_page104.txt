@@ -1,0 +1,37 @@
+42-104 BODY
+CONVERTIBLE TOP
+DIAGNOSIS
+STEP 1. Check harness wires between convertible top
+control module connector F-34 (terminal 12) and power
+window main switch connector E-12 (terminal 2).
+NOTE: After inspecting intermediate connector C-90, C-91
+CONNECTOR:F-34
+inspect the wire. If connector block connector C-90, C-91 are
+damaged, repair or replace it. Refer to GROUP 00E P.00E-2,
+Harness Connector Inspection. Then go to Step 3.
+Q:Are there any damaged wires between convertible top
+control module connector F-34 (terminal 12) and power
+window main switch connector E-12 (terminal 2)?
+YES : Replace it, then go to Step 3.
+NO : Go to Step 2.
+AC004102AB
+CONNECTOR:E-12
+DOOR(LH)
+AC004107AB
+CONNECTORS:C-90,C-91
+C-90
+C-91
+AC004108AB
+STEP 2. Check the power window main switch
+Furthermore, check that the power window main switch with
+the one in good condition to check that the quarter window
+glass operates properly. (Refer to P.42-137.)
+Q:Is the power window main switch damaged?
+YES : Replace it, then go to Step 3.
+NO : Go to Step 3.
+STEP 3. Check the Check symptoms.
+Q:Does the electric convertible top open and close
+normally?
+YES : This diagnosis is complete.
+NO : Return to Step 1.
+TSB Revision

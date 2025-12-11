@@ -1,0 +1,53 @@
+ES–254
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2 CHECK HARNESS AND CONNECTOR (ECM - EFI MAIN FUSE, EFI MAIN FUSE -
+BATTERY)
+(a) Check the harness and the connector between the EFI
+Engine Room No. 1 Relay Block:
+MAIN fuse and ECM.
+(1) Remove the EFI MAIN fuse from the engine No. 1
+room relay block.
+(2) Disconnect the A9 ECM connector.
+1 2
+(3) Measure the resistance.
+Standard resistance (Check for open)
+EFI MAIN Tester Connections Specified Conditions
+ES
+2 (EFI MAIN fuse) - A9-20 (BATT) Below 1 Ω
+Standard resistance (Check for short)
+Tester Connections Specified Conditions
+2 (EFI MAIN fuse) or A9-20 (BATT) -
+10 kΩ or higher
+Body ground
+(4) Reconnect the ECM connector.
+(5) Reinstall the EFI MAIN fuse.
+Wire Harness Side:
+(b) Check the harness and the connector between the EFI
+ECM Connector MAIN fuse and battery.
+A9
+(1) Remove the EFI MAIN fuse from the engine room
+No. 1 relay block.
+(2) Disconnect the positive battery terminal.
+(3) Check the resistance.
+Standard resistance (Check for open)
+Tester Connections Specified Conditions
+BATT
+Battery positive terminal - 1 (EFI
+Below 1 Ω
+A127761E01 MAIN fuse)
+Standard resistance (Check for short)
+Tester Connections Specified Conditions
+Battery positive terminal or 1 (EFI
+10 kΩ or higher
+MAIN fuse) - Body ground
+(4) Reconnect the positive battery terminal.
+(5) Reinstall the EFI MAIN fuse.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+3 INSPECT BATTERY
+(a) Check that the battery is not depleted.
+OK:
+Battery is not depleted
+NG REPLACE BATTERY
+OK

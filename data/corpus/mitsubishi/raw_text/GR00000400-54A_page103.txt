@@ -1,0 +1,51 @@
+CHASSIS ELECTRICAL 54A-103
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+TACHOMETER CHECK
+M1543001000218
+1. Attach an external high quality tachometer to the engine
+TACHOMETER AC101133
+speed detection connector on the harness side (such as
+with a paper clip).
+PAPER CLIP
+NOTE: For tachometer check, use an external high quality
+inductive tachometer.
+2. Compare the readings of the vehicle tachometer and the
+external tachometer at every engine speed, and check if the
+variations are within the standard values.
+ENGINE SPEED Standard values:
+DETECTION CONNECTOR AC103124AB • 700 r/min: ±100 r/min
+• 3,000 r/min: ±150 r/min
+• 5,000 r/min: ±250 r/min
+• 6,000 r/min: ±300 r/min
+FUEL GAUGE UNIT CHECK
+M1543001200201
+Remove the fuel pump module and the remove the fuel gauge
+unit. (Refer to GROUP 13C, Fuel Tank P.13C-11.)
+FUEL GAUGE UNIT RESISTANCE
+1. Check that resistance value between the fuel gauge terminal
+and ground terminal is at the standard value when the fuel
+gauge unit float is between point "F" (highest) and point "E"
+(lowest).
+FUEL GAUGE
+GROUND Standard value:
+• Point "F": 3 − 5 ohms
+• Point "E": 110 − 112 ohms
+2. Check that resistance value changes smoothly when the
+float moves slowly between point "F" (highest) and point "E"
+AC001290AB (lowest).
+3. If all checks are correct, go to fuel gauge unit float height
+check. If any check is not correct, replace the fuel gauge
+unit.
+FUEL GAUGE UNIT FLOAT HEIGHT
+1. Move the float and measure height A at point "F" (highest)
+POINT "F" (HIGHEST)
+and B at point "E" (lowest) with the float arm touching
+stopper.
+Standard value:
+• A: 180.3 mm (7.10 inches)
+A ARM • B: 18.8 mm (0.74 inch)
+2. Adjust the float arm to the standard value, then go to the
+B
+thermistor check.
+POINT "E" (LOWEST)AC001291AB
+TSB Revision

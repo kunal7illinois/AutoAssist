@@ -1,0 +1,45 @@
+BC–339
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+3 INSPECT SKID CONTROL ECU (GND TERMINAL CONTINUITY)
+(a) Measure the resistance according to the value(s) in the
+Skid Control ECU (Harness Side
+table below.
+Connector Front View):
+Standard resistance
+Tester Connection Specified Condition
+A60-4 (GND1) - Body ground Below 1 Ω
+A60
+A60-1 (GND2) - Body ground Below 1 Ω
+(b) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (GND CIRCUIT)
+GND2 GND1
+BC
+C136493E02
+OK
+4 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (ABS MOTOR RELAY)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Select "ACTIVE TEST" on the intelligent tester (See
+page BC-307).
+ACTIVE TEST: ABS/TRAC/VSC
+Item Measurement Item/Range (Display) Normal Condition
+ABS MTR RELAY Turns ABS motor relay ON/OFF Operating sound of motor is heard.
+(d) Check the operating sound of the ABS motor relay when
+operating it with the intelligent tester.
+OK:
+The operating sound of the ABS motor relay is
+heard.
+NG REPLACE BRAKE ACTUATOR ASSEMBLY
+(See page BC-432)
+OK
+5 RECONFIRM DTC
+HINT:
+This code is detected when a problem is identified in the
+brake actuator assembly.
+The ABS motor relay is located in the brake actuator
+assembly.
+Therefore, ABS motor relay inspection and motor relay unit
+inspection cannot be performed. Be sure to check if the DTC
+is output before replacing the brake actuator assembly.
+(a) Clear the DTC (See page BC-302).

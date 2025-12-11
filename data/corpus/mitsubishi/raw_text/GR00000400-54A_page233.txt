@@ -1,0 +1,48 @@
+CHASSIS ELECTRICAL 54A-233
+REMOTE CONTROLLED RADIO SWITCH
+STEP 3. Check the wiring harness between remote
+controlled radio switch connector C-97 (terminals 1 and 2)
+and clock spring connector C-96 (terminals 4 and 5).
+Q:Are the wiring harness between emote controlled radio
+CONNECTORS: C-96, C-97
+switch connector C-97 (terminals 1 and 2) and clock
+spring connector C-96 (terminals 4 and 5) in good
+condition?
+YES : No action to be taken.
+DEVICE SIDE
+NO : Repair the wiring harness. The remote controlled
+C-97
+radio switch (RH) should work normally.
+1 2
+C-96
+C-96
+C-97
+1 2 3 4 5
+AC106475AG
+INSPECTION PROCEDURE 3: The system does not accept the remote controlled radio switch (LH)
+only.
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+Refer to Inspection Procedure 1 P.54A-227.
+Refer to Inspection Procedure 1 P.54A-227.
+.
+. TROUBLESHOOTING HINTS
+Refer to Inspection Procedure 1 P.54A-227.
+.
+DIAGNOSIS
+STEP 1.Check the remote controlled radio switch (LH).
+(1) Remove the airbag module (Refer to GROUP 52B, Air Bag
+Module and Clock Spring P.52B-144).
+(2) Check the continuity by operating the remote controlled
+radio switch (LH) in each position.
+SWITCH POSITION MEASUREMENT VALUE
+No push Open circuit
+1 2
+Upper 3.3 kΩ
+Center 473 Ω
+Lower 1.2 kΩ
+Q:Is the remote controlled radio switch normal?
+AC106745AB
+YES : Go to Step 2.
+NO : Replace the remote controlled radio switch (LH).
+TSB Revision

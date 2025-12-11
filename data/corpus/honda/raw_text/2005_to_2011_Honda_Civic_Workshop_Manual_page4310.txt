@@ -1,0 +1,51 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+rear wheel
+8 PUR RL-GND speed sensor
+signal
+Detects right-
+rear wheel
+9 LTGRN RR+B
+speed sensor
+signal
+- - -
+Ground for the
+10 BRN SGND steering angle
+sensor
+Detects left-
+(1)
+RED front wheel
+11 FL-GND
+(2) speed sensor
+GRY
+signal
+Power source
+Battery
+13 WHT FSR+B for the fail-safe 13-GND At all times
+voltage
+relay
+Power source
+Battery
+14 RED MR+B for the motor 14-GND At all times
+voltage
+relay
+F-CAN
+15 WHT CAN-H communication
+circuit
+Detects steering
+17 PUR STR-B angle sensor
+signal
+Detects right-
+- - -
+front wheel
+19 GRN FR+B
+speed sensor
+signal
+Detects left-
+(1)
+YEL rear wheel
+20 RL+B
+(2) speed sensor
+BLU
+signal

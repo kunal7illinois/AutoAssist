@@ -1,0 +1,81 @@
+ES–65
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Measurement Item: Range
+Intelligent Tester Display Normal Condition*1 Diagnostic Note
+(Display)
+VVT exhaust operation duty (bank
+Requested duty value for intrusive
+VVT EX OCV D B2*2 2 Exhaust side): 0 to 100%
+operation
+Min.: 0%, Max.: 100%
+FC IDL = "ON" when throttle valve
+Fuel cut idle:
+FC IDL ON: Fuel cut operation fully closed and engine speed over
+ON or OFF
+2,800 rpm
+Fuel cut TAU (Fuel cut with very Fuel cut being performed with very
+FC TAU light load): ON: Fuel cut operating light load to prevent incomplete
+ON or OFF engine combustion
+Ignition counter:
+IGNITION 0 to 800 -
+Min.: 0, Max.: 800
+Misfire ratio of cylinder 1: This item displayed only during
+CYL #1 0
+Min.: 0, Max.: 255 idling
+Misfire ratio of cylinder 2: This item displayed only during
+CYL #2 0
+Min.: 0, Max.: 255 idling ES
+Misfire ratio of cylinder 3: This item displayed only during
+CYL #3 0
+Min.: 0, Max.: 255 idling
+Misfire ratio of cylinder 4: This item displayed only during
+CYL #4 0
+Min.: 0, Max.: 255 idling
+Misfire ratio of cylinder 5: This item displayed only during
+CYL #5 0
+Min.: 0, Max.: 255 idling
+Misfire ratio of cylinder 6: This item displayed only during
+CYL #6 0
+Min.: 0, Max.: 255 idling
+All cylinders misfire rate:
+CYL ALL 0 to 35 -
+Min.: 0, Max.: 255
+Engine RPM for first misfire
+MISFIRE RPM range: 0 rpm: Misfire 0 -
+Min.: 0 rpm, Max.: 6,375 rpm
+Engine load for first misfire range:
+MISFIRE LOAD 0 g/rev: Misfire 0 -
+Min.: 0 g/rev, Max.: 3.98 g/rev
+Misfire monitoring:
+MISFIRE MARGIN -100 to 99.22% Misfire detecting margin
+Min.: -100%, Max.: 99.22%
+#Codes:
+#CODES - Number of detected DTCs
+Min.: 0, Max.: 255
+Check mode:
+CHECK MODE ON: Check mode ON (see page ES-49)
+ON or OFF
+Check mode result for vehicle
+SPD TEST speed sensor: - -
+COMPL or INCMPL
+Check mode result for misfire
+MISFIRE TEST monitor: - -
+COMPL or INCMPL
+Check mode result for HO2
+OXS1 TEST sensor (bank 1): - -
+COMPL or INCMPL
+Check mode result for HO2
+OXS2 TEST sensor (bank 2): - -
+COMPL or INCMPL
+Check mode result for air-fuel
+A/F SSR TEST B1 ratio sensor (bank 1): - -
+COMPL or INCMPL
+Check mode result for air-fuel
+A/F SSR TEST B2 ratio sensor (bank 2): - -
+COMPL or INCMPL
+MIL status:
+MIL ON: MIL ON -
+ON or OFF
+MIL ON run distance: Distance driven after DTC
+MIL ON RUN DIST -
+Min.: 0 km, Max.: 65,535 km detected

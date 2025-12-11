@@ -1,0 +1,43 @@
+ES–148
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK HARNESS AND CONNECTOR (MASS AIR FLOW METER - ECM)
+(a) Disconnect the C2 MAF meter connector.
+Wire Harness Side:
+(b) Disconnect the C55 ECM connector.
+(c) Measure the resistance between the terminals.
+MAF Meter Connector Standard resistance (Check for open)
+C2
+Tester Connection Specified Condition
+THA (C55-71) - THA (C2-1) Below 1 Ω
+ETHA (C55-74) - E2 (C2-2) Below 1 Ω
+Standard resistance (Check for short)
+THA E2
+Tester Connection Specified Condition
+ES ECM Connector THA (C55-71) or THA (C2-1) - Body ground 10 kΩ or higher
+C55 ETHA (C55-74) or E2 (C2-2) - Body ground 10 kΩ or higher
+(d) Reconnect the MAF meter connector.
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+THA ETHA
+A127959E14
+OK
+REPLACE ECM (See page ES-518)
+5 CHECK MASS AIR FLOW METER (CHECK FOR SHORT IN SENSOR)
+(a) Disconnect the C2 MAF meter connector.
+C2
+(b) Connect the intelligent tester to the DLC3.
+MAF Meter
+ECM
+(c) Turn the ignition switch on (IG).
+(d) Turn the tester on.
+(e) Enter the following menus: DIAGNOSIS / ENHANCED
+THA OBD II / DATA LIST / PRIMARY / INTAKE AIR.
+(f) Read the value displayed on the tester.
+ETHA Standard:
+-40°C (-40°F) or higher
+(g) Reconnect the MAF meter connector.
+A084869E58
+OK REPLACE MASS AIR FLOW METER (See
+page ES-477)
+NG

@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ELECTRICAL Charging System (K20Z3) - Civic (All Except Si)
+(see step 2 in HOW TO USE THE HDS (HONDA DIAGNOSTIC
+SYSTEM) ).
+21. Turn the ignition switch ON (II).
+22. Make sure the HDS communicates with the vehicle and the ECM. If it doesn't,
+troubleshoot the DLC circuit (see DLC CIRCUIT TROUBLESHOOTING ).
+23. Jump the SCS line with the HDS, then turn the ignition switch OFF.
+NOTE: This step must be done to protect the ECM from
+damage.
+24. Disconnect ECM connector B (44P).
+25. Check for continuity between ECM connector terminal B42 and alternator 4P
+connector terminal No. 3.
+Fig. 5: Checking Continuity Between ECM Connector Terminal B42 And
+Body Ground
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES - Update the ECM if it does not have the latest software (see
+UPDATING THE ECM ), or substitute a known-good ECM (see
+SUBSTITUTING THE ECM ), then recheck. If the symptom/indication goes
+away with a known-good ECM, replace the original ECM (see ECM
+REPLACEMENT ).

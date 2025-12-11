@@ -1,0 +1,47 @@
+AX–139
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+ON malfunction:
+OFF
+TCM lock-up command
+(SLU pressure: less than 4 kPa (0.04 kgfcm2, 0.6 psi)
+Duration time from lock-up on command 0.064 sec. or more
+Throttle valve opening angle 7% or more
+Vehicle speed Less than 37.3 mph (60 km/h)
+AX
+TYPICAL MALFUNCTION THRESHOLDS
+OFF malfunction:
+Following conditions are met (a) and (b)
+(a) Engine speed - Turbine speed 70 rpm or more
+(b) Transmission fluid pressure switch OFF
+ON malfunction:
+Following conditions are met (a) and (b)
+(a) Engine speed - Turbine speed Less than 35 rpm
+(b) Transmission fluid pressure switch ON
+COMPONENT OPERATING RANGE
+Speed sensor (NT) Input speed is equal to engine speed when lock-up is ON.
+INSPECTION PROCEDURE
+1. ACTIVE TEST
+HINT:
+Performing the ACTIVE TEST using the intelligent tester allows relays, VSVs, actuators and other
+items to be operated without removing any parts. Performing the ACTIVE TEST as the first step in
+troubleshooting is one method to save labor time.
+It is possible to display the DATA LIST during the ACTIVE TEST.
+(a) Warm up the engine.
+(b) Turn the ignition switch off.
+(c) Connect the intelligent tester together with the CAN VIM (Controller Area Network Vehicle
+Interface Module) to the DLC3.
+(d) Turn the ignition switch on (IG).
+(e) Turn on the tester.
+(f) Enter the following items: "DIAGNOSIS / OBD/MOBD / ECT / ACTIVE TEST".
+(g) According to the display on the tester, perform "ACTIVE TEST".
+Item Test Details Diagnostic Note
+[Test Details]
+Control the shift solenoid SLU to set the automatic transaxle to the
+lock-up condition. Possible to check the SLU
+LOCK UP
+[Vehicle Condition] operation.
+• Throttle valve opening angle: Less than 35%
+• Vehicle Speed: 37 mph (60 km/h) or more
+HINT:
+• This test can be conducted when the vehicle speed is 36 mph (58 km/h) or more.
+• This test can be conducted with the 6th gear.

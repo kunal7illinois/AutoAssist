@@ -1,0 +1,57 @@
+Audi TT 2007 ➤
+Running gear, front-wheel drive and four-wheel drive - Edition 08.2010
+Tyre pressure warning active
+If the tyre pressure monitoring system detects a loss of pressure
+in one or more tyres, the tyre pressure warning lamp in the in‐
+strument cluster lights up continuously to warn the driver. A tyre
+warning symbol also lights up in the driver information system in
+the instrument cluster, together with the text „Please check tyre
+pressures“. In this case the tyre pressures must be checked ac‐
+cording to the figures listed on the sticker on the tank flap/B-pillar.
+If a severe loss of pressure has occurred at one or more tyres,
+check the tyres for damage and foreign bodies. Renew the tyre if
+necessary ⇒ page 240 .
+System fault in tyre pressure monitoring system
+A system fault will be stored in the tyre pressure monitor control
+unit -J502- . If a system fault is present or occurs while the vehicle
+is being driven, the yellow fault warning lamp in the instrument
+cluster will flash for 1 minute and then remain lit continuously ev‐
+ery time the ignition is switched on. The yellow fault warning lamp
+cannot be cancelled by pressing the tyre pressure monitor button
+-E226- in the row of switches on the centre console. The letters
+„TPMS“ also light up in the driver information system in the in‐
+strument cluster, together with the text „Tyre pressure! System
+malfunction“. If a system fault has been detected, connect -VAS
+5051- and select „Guided Fault Finding“ ⇒ Vehicle diagnostic,
+testing and information system VAS 5051.
+Re-coding tyre pressure monitor control unit -J502-
+The new control unit must be coded if the tyre pressure monitor
+control unit -J502- is renewed. Proceed as follows:
+– Connect -VAS 5051 A- , start Guided Fault Finding sequence
+for the vehicle in question and use Go to button to select
+„Function /Component Selection“.
+Then
+– „Running gear (Rep. Gr. 01; 40 - 49)“
+– „Tyre pressure monitor system (Rep. Gr. 01; 44)“
+– „01 - Self-diagnosis compatible systems“
+– „65 - Tyre pressure monitor J502“
+– „J502 - Tyre pressure monitor control unit, Functions“
+– „65 - Replace control unit (Rep. Gr. 44)“
+The new tyre pressures must be stored as reference values
+whenever the inflation pressures are changed intentionally.
+Storing tyre pressures
+To ensure reliable operation of the tyre pressure monitoring sys‐
+tem, it is important to store the reference pressures correctly.
+After any change affecting the wheels, the tyre pressure monitor
+button -E226- in the centre console must be pressed and held for
+approx. 5 seconds (with the vehicle stationary and the ignition on)
+until an acoustic tone sounds and the yellow fault warning lamp
+with „system fault“ pictogram in the instrument cluster flashes
+several times. The successful calibration (i.e. the re-adaption of
+the tyre pressures) is confirmed when the warning lamp flashes
+several times.
+The new tyre pressur e s must be stored as reference values
+whenever the inflation pressures are changed intentionally. The
+system is adapted while the vehicle is driven.
+237
+3. Tyre pressure monitoring system (TPM)

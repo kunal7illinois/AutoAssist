@@ -1,0 +1,54 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-567
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+Standard wave pattern
+(V)
+POINT AN INDUCED
+POINT B COIL RE-
+THE WAVE PATTERN ELECTROMOTIVE
+VERSE ELECTRO-
+APPEARS FOR AN FORCE FROM THE
+MOTIVE FORCE
+INSTANT, BUT SOON MOTOR TURNING
+30 (APPROXIMATELY
+DISAPPEARS.
+3 x10 V)
+IAC
+MOTOR
+CONTROL 20
+SIGNAL
+WAVE
+PATTERN
+10
+0
+TIME
+AKX01607AB
+Wave Pattern Observation Points
+Check that the standard wave pattern appears when the idle air
+control motor is operating.
+Point A:
+Presence or absence of induced electromotive force from the
+motor turning. (Refer to abnormal wave pattern.)
+CONTRAST WITH PROBABLE CAUSE
+STANDARD WAVE
+PATTERN
+Induced electromotive force Malfunction of motor
+does not appear or is
+extremely small
+Point B:
+Height of coil back electromotive force
+CONTRAST WITH PROBABLE CAUSE
+STANDARD WAVE
+PATTERN
+Coil reverse electromotive Short in the coil
+force does not appear or is
+extremely small
+.
+Examples of Abnormal Wave Patterns
+Example 1
+• Cause of problem
+Malfunction of motor. (Motor is not operating.)
+• Wave pattern characteristics
+Induced electromotive force from the motor turning does not
+appear.
+AKX01608AB
+TSB Revision

@@ -1,0 +1,38 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-119
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check the sensor output voltage at engine coolant
+temperature sensor connector B-11 by backprobing.
+(1) Do not disconnect the connector B-11.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground by
+B-11 CONNECTOR backprobing.
+HARNESS
+SIDE VIEW • When engine coolant temperature is −20°C (−4°F), volt-
+age should be 3.9 and 4.5 volts.
+1 2
+• When engine coolant temperature is 0°C (32°F), voltage
+should be 3.2 and 3.8 volts.
+• When engine coolant temperature is 20°C (68°F), volt-
+age should be 2.3 and 2.9 volts.
+• When engine coolant temperature is 40°C (104°F), volt-
+age should be 1.3 and 1.9 volts.
+AK000233AB • When engine coolant temperature is 60°C (140°F), volt-
+age should be 0.7 and 1.3 volts.
+• When engine coolant temperature is 80°C (176°F), volt-
+age should be 0.3 and 0.9 volt.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 3.
+NO : Go to Step 5.
+STEP 3. Check connector B-11 at the engine coolant
+temperature sensor for damage.
+Q:Is the connector in good condition?
+CONNECTOR : B-11
+YES : Go to Step 4.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 14.
+ENGINE COOLANT
+TEMPERATURE
+SENSOR
+ACX02478AD
+TSB Revision

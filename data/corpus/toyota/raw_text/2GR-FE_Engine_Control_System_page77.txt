@@ -1,0 +1,67 @@
+ES–77
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Suspected Trouble MIL Memory See page
+Area
+P0174 System Too Lean 1. Air induction Comes on DTC stored ES-191
+(Bank 2) system
+2. Injector blockage
+3. MAF meter
+4. ECT sensor
+5. Fuel pressure
+6. Gas leakage from
+exhaust system
+7. Open or short in A/
+F sensor (bank 2
+sensor 1) circuit
+8. A/F sensor (bank 2
+sensor 1)
+9. A/F sensor heater
+(bank 2 sensor 1)
+10. A/F sensor heater
+relay ES
+11. A/F sensor heater
+and A/F sensor
+heater relay circuits
+12. PCV hose
+connections
+13. PCV valve and
+hose
+14. ECM
+P0175 System Too Rich 1. Injector leakage or Comes on DTC stored ES-191
+(Bank 2) blockage
+2. MAF meter
+3. ECT sensor
+4. Ignition system
+5. Fuel pressure
+6. Gas leakage from
+exhaust system
+7. Open or short in A/
+F sensor (bank 2
+sensor 1) circuit
+8. A/F sensor (bank 2
+sensor 1)
+9. A/F sensor heater
+(bank 2 sensor 1)
+10. A/F sensor heater
+relay
+11. A/F sensor heater
+and A/F sensor
+heater relay circuits
+12. ECM
+P0220 Throttle / Pedal 1. TP sensor (built Comes on DTC stored ES-154
+Position Sensor / into throttle body)
+Switch "B" Circuit 2. ECM
+P0222 Throttle / Pedal 1. TP sensor (built Comes on DTC stored ES-154
+Position Sensor / into throttle body)
+Switch "B" Circuit 2. Short in VTA2
+Low Input circuit
+3. Open in VC circuit
+4. ECM
+P0223 Throttle / Pedal 1. TP sensor (built Comes on DTC stored ES-154
+Position Sensor / into throttle body)
+Switch "B" Circuit 2. Open in VTA2
+High Input circuit
+3. Open in E2 circuit
+4. Short between VC
+and VTA2 circuits
+5. ECM

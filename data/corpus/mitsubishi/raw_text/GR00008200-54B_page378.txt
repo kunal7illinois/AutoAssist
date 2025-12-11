@@ -1,0 +1,38 @@
+54B-378 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTOR: A-04X, A-10X CONNECTORS: A-28, A-31
+FRONT-ECU
+A-04X
+A-10X
+AC106535AG A-31 A-28
+AC106465AU
+CONNECTORS: C-06, C-43 CONNECTOR: C-89
+C-06 CONNECTOR BLOCK (LH)
+C-43
+AC106473AO AC106477AD
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+• The ETACS-ECU sends a fog light illumination If the headlights illuminate at low beam, the fog light
+relay, the fog light switch, the front-ECU or the
+request signal ("LIGHT ON" signal) to the front-
+ETACS-ECU may be defective.
+ECU when the fog light switch is turned on while
+the headlights are illuminating at low beam.
+.
+• Then the front-ECU switches on its relay to illumi- TROUBLESHOOTING HINTS
+nate the fog lights. • Malfunction of the fog light relay
+• Malfunction of the fog light switch
+. • Malfunction of the front-ECU
+• Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Check the headlight (low beam) operation.
+Q:Do the headlights illuminate at low beam normally?
+YES : Go to Step 2.
+NO : Refer to Inspection Procedure J-2 "Headlights (low-
+beam) do not illuminate normally P.54B-270."
+TSB Revision

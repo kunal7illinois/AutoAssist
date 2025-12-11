@@ -1,0 +1,35 @@
+BC–237
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+OK
+5 INSPECT SKID CONTROL ECU (GND TERMINAL)
+(a) Turn the ignition switch off.
+Skid Control ECU Harness Side
+(b) Measure the resistance according to the value(s) in the
+Connector Front View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+A26-32 (GND1) - Body ground Always Below 1 Ω
+A26-1 (GND2) - Body ground Always Below 1 Ω
+A26
+GND2 GND1 NG REPAIR OR REPLACE HARNESS OR
+F049362E97
+CONNECTOR (GND CIRCUIT)
+OK
+BC
+6 INSPECT COMBINATION METER ASSEMBLY
+(a) Reconnect the skid control ECU connector.
+(b) Perform Active Test of the combination meter (meter
+CPU) using the intelligent tester (See page ME-32).
+OK:
+The ABS warning light turns on or off in
+accordance with the intelligent tester.
+HINT:
+If troubleshooting has been carried out according to the
+Problem Symptoms Table, refer back to the table and
+proceed to the next step before replacing the part (See
+page BC-134).
+NG REPLACE COMBINATION METER
+ASSEMBLY
+OK
+REPLACE BRAKE ACTUATOR ASSEMBLY

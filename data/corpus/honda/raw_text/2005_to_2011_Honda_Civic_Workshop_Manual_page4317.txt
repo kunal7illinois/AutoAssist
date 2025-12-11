@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+learns the current driver's normal braking characteristics by monitoring the brake
+pressure sensor and the brake pedal position switch at each stop. Using these inputs
+and their values, the VSA modulator-control unit is able to learn the driver's normal
+braking habits, and then determine the difference between a normal stop and a panic
+stop for the individual driver of the vehicle. If during a panic stop the VSA
+modulator-control unit determines that the brake system pressure increases above a
+learned threshold in less than a learned amount of time, the VSA modulator-control
+unit engages brake assist. Because the brake system pressure crossed the threshold
+before the time threshold had expired, the VSA modulator-control unit goes into
+brake assist mode.
+Fig. 12: Identifying Brake Assist Features
+Modulator Unit
+The modulator unit consists of the inlet solenoid valve, the outlet solenoid valve,
+the VSA NO (normally open) solenoid valve, the VSA NC (normally closed)
+solenoid valve, the reservoir, the pump, the pump motor, and the damping chamber.
+The hydraulic control has three modes at ABS action; pressure intensifying,
+pressure retaining, and pressure reducing.
+And pressure adding mode is combined at TCS, VSA, and brake assist action.
+The hydraulic circuit is an independent four channel type; one channel for each
+wheel.

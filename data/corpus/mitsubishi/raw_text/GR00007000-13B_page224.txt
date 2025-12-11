@@ -1,0 +1,27 @@
+13B-224 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Check the continuity at left bank heated oxygen
+sensor (rear) harness side connector B-23.
+(1) Disconnect the connector B-23 and measure at the harness
+side.
+(2) Check for the continuity between terminal 2 and ground.
+• Should be less than 2 ohm.
+Q:Is the continuity normal?
+YES : Go to Step 11.
+NO : Go to Step 9.
+2 1
+4 3
+B-23 HARNESS
+SIDE CONNECTOR
+AK000243AC
+STEP 9. Check connector C-58 at ECM <M/T> or connector
+C-55 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-58<M/T>, C-55<A/T>
+YES : Go to Step 10.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 15.
+C-55 C-58
+AK000225AI
+TSB Revision

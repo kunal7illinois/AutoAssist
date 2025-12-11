@@ -1,0 +1,25 @@
+BC–186
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC C0278/11 Open in ABS Solenoid Relay Circuit
+DTC C0279/12 Short to B+ in ABS Solenoid Relay Circuit
+DESCRIPTION
+The ABS solenoid relay supplies power to the ABS solenoid and TRAC solenoid.
+The solenoid relay is turned on 1.5 seconds after the ignition switch is turned on (IG), and is turned off if
+an open or short in the solenoid is detected by self diagnosis performed when the vehicle starts running.
+The ABS solenoid relay is housed in the skid control ECU in the actuator assembly.
+HINT:
+If a speed signal of 4 mph (6 km/h) or more is input to the skid control ECU, with the ignition switch on (IG)
+and the stop light switch off, the ECU performs self diagnosis of the motor and solenoid circuits.
+DTC No. DTC Detection Condition Trouble Area
+When any of the following (1 or 2) is detected:
+1. Both of the following conditions continue for 0.2 seconds or more.
+• The IG1 terminal voltage is between 9.5 and 17.2 V. • ABS NO. 2 fuse
+• The solenoid relay contact is open when the relay is ON. • ABS solenoid relay
+BC C0278/11
+2. Both of the following conditions continue for 0.2 seconds or more. • ABS solenoid relay circuit
+• IG1 terminal voltage becomes lower than 9.5 V or less when the • Brake actuator assembly
+relay is turned on.
+• The relay contact remains open.
+Immediately after the ignition switch is turned on (IG), the solenoid
+C0279/12 Brake actuator assembly
+relay contact is closed for 0.2 seconds when the relay is turned off.

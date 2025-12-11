@@ -1,0 +1,41 @@
+52B-24 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+DTC SET CONDITIONS TROUBLESHOOTING HINTS
+• These DTC are output when a fault is detected in • Malfunction of the SRS-ECU
+the SRS-ECU. The most likely causes for this
+code to be set are shown in the table below:
+CODE NO. DEFECTIVE PART SYMPTOMS
+14 Analog G-sensor • When the analog G-sensor is not operating
+• When the characteristics of the analog G-sensor are
+abnormal
+• When the output from the analog G-sensor is abnormal
+15 Safing G-sensor (front air bag) • Short circuit in the safing G-sensor
+16 • Open circuit in the safing G-sensor
+17 Safing G-sensor (side-airbag) • When the safing G-sensor is not operating
+• When the characteristics of the safing G-sensor are
+abnormal
+• When the output from the safing G-sensor is abnormal
+31 Capacitor • Voltage at the capacitor terminal is higher than the
+specified value for five seconds or more
+32 • Voltage at the capacitor terminal is lower than the
+specified value for five seconds or more (This is not
+detected if diagnostic trouble code No. 41 or 42
+indicating battery positive voltage drop has been output.)
+45 Non-volatile memory • When the non-volatile memory (EEPROM) and A/D
+(EEPROM) and A/D converter converter system are abnormal
+51 Driver’s air bag module (squib • Short circuit in the squib ignition drive circuit
+52 ignition drive circuit) • Open circuit in the squib ignition drive circuit
+54 Passenger’s (front) air bag • Short circuit in the squib ignition drive circuit
+55 module (squib ignition drive • Open circuit in the squib ignition drive circuit
+circuit)
+73 Right hand side-airbag module • Short circuit in the squib ignition drive circuit
+74 (squib ignition drive circuit) • Open circuit in the squib ignition drive circuit
+83 Left hand side-airbag module • Short circuit in the squib ignition drive circuit
+84 (squib ignition drive circuit) • Open circuit in the squib ignition drive circuit
+.
+DIAGNOSIS
+Replace the SRS-ECU. (Refer to P.52B-142.)
+Q:Is any of DTC output?
+YES : There is no action to be taken.
+NO : This diagnosis is complete.
+TSB Revision

@@ -1,0 +1,32 @@
+BC–222
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+A
+USE SIMULATION METHOD TO CHECK
+7 INSPECT STOP LIGHT SWITCH (POWER SOURCE TERMINAL)
+(a) Disconnect the stop light switch connector.
+Stop Light Switch Harness Side
+(b) Measure the voltage according to the value(s) in the
+Connector Front View:
+table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+A19-2 - Body ground Always 10 to 14 V
+A19
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (POWER SOURCE CIRCUIT)
+BC
+I042363E16
+OK
+8 INSPECT STOP LIGHT SWITCH
+(a) Measure the resistance according to the value(s) in the
+table below.
+Stop Light Switch:
+Standard resistance
+Tester Connection Condition Specified Condition
+1 - 2 Switch pin free Below 1 Ω
+2 1
+1 - 2 Switch pin pushed in 10 kΩ or higher
+NG REPLACE STOP LIGHT SWITCH
+Free Pushed in
+C124796E03
+OK

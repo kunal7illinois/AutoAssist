@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EGR System (R18A1) - Civic (All Except Hybrid)
+ECM/PCM ), or substitute a known-good ECM/PCM (see SUBSTITUTING
+THE ECM/PCM ).
+54. Do the EGR TEST in the INSPECTION MENU with the HDS.
+55. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P2413 indicated?
+YES - Check for poor connections or loose terminals at the EGR valve and the
+ECM/PCM. If the ECM/PCM was updated, substitute a known-good
+ECM/PCM (see SUBSTITUTING THE ECM/PCM ), then go to step 54. If
+the ECM/PCM was substituted, go to step 1.
+NO - Go to step 56.
+56. Monitor the OBD STATUS for DTC P2413 in the DTCs MENU with the
+HDS.
+Does the screen indicate PASSED?
+YES - If the ECM/PCM was updated, troubleshooting is complete. If the
+ECM/PCM was substituted, replace the original ECM/PCM (see ECM/PCM
+REPLACEMENT ). If any other Temporary DTCs or DTCs were indicated in
+step 55, go to the indicated DTCs troubleshooting.
+NO - If the screen indicates FAILED, check for poor connections or loose
+terminals at the EGR valve and the ECM/PCM. If the ECM/PCM was updated,
+substitute a known-good ECM/PCM (see SUBSTITUTING THE
+ECM/PCM ), then go to step 54. If the ECM/PCM was substituted, go to step
+1. If the screen indicates EXECUTING, keep idling until a result comes on. If
+the screen indicates OUT OF CONDITION, go to step 54.
+EGR VALVE REPLACEMENT
+1. Remove the injector cover (see step 8 in ENGINE REMOVAL ).
+2. Disconnect the EGR valve 6P connector (A).

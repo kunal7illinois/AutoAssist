@@ -1,0 +1,50 @@
+ES–122
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Fail-Safe Angle
+Sensor Output Voltage (V)
+5.0
+4.8
+VTA2
+VTA1
+2.55
+Throttle Position 2.25
+Sensor
+ES Magnet ECM 0.93
+0.69
+IC No. 1 6°
+VC 0° Usable Range 84°
+VTA1 Throttle Valve Opening Angle ((cid:113))
+Note:
+VTA2
+The throttle valve opening angle detected by the sensor terminal
+VTA1 is expressed as a percentage.
+E2
+Between 10 % and 22 %: Throttle valve fully closed
+IC No. 2
+Between 66 % and 98 %: Throttle valve fully open
+Magnet
+Approximately 19 %: Fail-safe angle (6°)
+A122493E04
+DTC No. DTC Detection Conditions Trouble Areas
+Output voltage of VTA1 quickly fluctuates beyond lower and
+upper malfunction thresholds for 2 seconds when accelerator • Throttle Position (TP) sensor (built into throttle body)
+P0120
+pedal depressed • ECM
+(1 trip detection logic)
+• TP sensor (built into throttle body)
+Output voltage of VTA1 0.2 V or less for 2 seconds when
+• Short in VTA1 circuit
+P0122 accelerator pedal depressed
+• Open in VC circuit
+(1 trip detection logic)
+• ECM
+• TP sensor (built into throttle body)
+Output voltage of VTA1 4.535 V or more for 2 seconds when • Open in VTA1 circuit
+P0123 accelerator pedal depressed • Open in E2 circuit
+(1 trip detection logic) • Short between VC and VTA1 circuits
+• ECM
+Output voltage of VTA2 quickly fluctuates beyond lower and
+upper malfunction thresholds for 2 seconds when accelerator • TP sensor (built into throttle body)
+P0220
+pedal depressed • ECM
+(1 trip detection logic)

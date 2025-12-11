@@ -1,0 +1,39 @@
+Audi TT No. 26 / 5
+Current Flow Diagram
+Radio, digital sound package control unit, front left treble
+loudspeaker, front left and right bass loudspeaker, front left
+mid-range loudspeaker
+J525 Digital sound package control unit
+R Radio
+R20 Front left treble loudspeaker
+R21 Front left bass loudspeaker
+R23 Front right bass loudspeaker
+R103 Front left mid-range loudspeaker
+T20a 20-pin connector, black, in the front left door
+T20b 20-pin connector, black, in the front right door
+T32a 32-pin connector, black, on digital sound package control unit
+R
+R21 R23 R103 R20
+1/-- 2/+ 1/-- 2/+ 1/-- 2/+ 1/-- 2/+
+1,0 1,0 1,0 1,0 0,5 0,5 0,5 0,5
+br/ro ro br/gr ro/gr br ro br ro
+T20a T20a T20b T20b T20a/14 T20a/15
+/2 /12 /2 /12
+1,0 1,0 1,0 1,0 0,5 0,5
+br/ro ro br/gr ro/gr br ro
+T32a T32a
+/15 T32a/3 /16 T32a/4 T32a/19 T32a/7
+ws = white
+J525
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-026050409
+rs = pink
+Edition 04.2009

@@ -1,0 +1,44 @@
+23A-66 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 14. Check the ground voltage at PCM connector C-54
+<2.4L Engine> or C-55 <3.0L Engine> by backprobing.
+(1) Do not disconnect connector C-54 <2.4L Engine> or C-55
+CONNECTOR: C-54 <2.4L ENGINE> OR
+<3.0L Engine>.
+C-55 <3.0L ENGINE>
+(2) Turn the ignition switch to the "ON" position.
+PCM
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+(3) Measure the voltage between terminal 57 and ground by
+backprobing.
+• Voltage should be 0.5 volt or less.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 15.
+C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE> NO : Go to Step 16.
+CONNECTOR HARNESS
+SIDE VIEW
+AC001791AD
+STEP 15. Check connectors B-07 at throttle position
+sensor and C-54 <2.4L Engine> or C-55 <3.0L Engine> at
+PCM for damage.
+Q:Are the connectors in good condition?
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> YES : Repair harness open circuit or damage between
+B-07
+throttle position sensor connector B-07 terminal 1 and
+B-07
+PCM connector C-54 <2.4L Engine> or C-55 <3.0L
+Engine> terminal 57.
+NO : Repair or replace the defective connector(s). Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2.
+AC001831AF
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE>
+PCM
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+TSB Revision

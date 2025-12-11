@@ -1,0 +1,25 @@
+AX–123
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+ECT (Engine coolant temperature) 40°C (104°F) or more
+Transmission range "D"
+TCM selected gear Not 1st
+Vehicle speed 15.5 mph (25 km/h) or more
+P0989:
+AX
+TCM lock-up command ON
+Engine speed - Turbine speed Less than 20 rpm
+Throttle valve opening angle 7% or more
+Vehicle speed Less than 62 mph (100 km/h)
+Shift solenoid valve SLU Not ON malfunction
+P0990:
+TCM indicated pressure valve of SLU Less than 4 kPa
+TCM lock-up command OFF
+Shift solenoid valve SLU Not malfunction
+Shift solenoid valve SL Not OFF malfunction
+TYPICAL MALFUNCTION THRESHOLDS
+P0989:
+Transmission fluid pressure switch No. 3 OFF
+P0990:
+Following conditions are met (a) and (b)
+(a) Engine speed - Turbine speed Less than 20 rpm
+(b) Transmission fluid pressure switch No. 3 ON

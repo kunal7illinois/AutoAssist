@@ -1,0 +1,37 @@
+CH-136 CHASSIS - BRAKE
+11. CAN (Controller Area Network)
+CAN communication is used between the skid control ECU, steering angle sensor, yaw rate & deceleration
+sensor (lateral acceleration sensor), ECM, main body ECU and DLC3. For details of CAN communication,
+see page BE-8.
+12. Service Mode
+(cid:1) The TRAC OFF switch designed for ’06 Camry is not used on ’07 Camry.
+(cid:1) A new service mode has been created for ’07 Camry. In this mode, TRAC and VSC functions can be
+forcibly turned OFF, either through the operation of a hand-held tester or by operating the parking brake
+and the brake pedal together. Please refer to the following service tip for information regarding changing
+the service mode.
+Service Tip
+Transition to the service mode (TRAC and VSC OFF mode).
+The TRAC and VSC systems can be turned off by following the procedures below:
+(cid:1) When using the parking brake and brake pedal:
+1)Check that the power source is OFF and the shift lever is in position P.
+2)Start the engine after turning the power source ON.
+3)Operate the following steps 4 to 8 within 30 seconds of starting the engine.
+4)Turn the parking brake switch on.
+5)Depress and release the brake pedal twice.
+6)Turn the parking brake switch on and off twice while depressing the brake pedal.
+7)Depress and release the brake pedal twice while the parking brake switch is on.
+Notice: Steps 6 and 7 should each be performed within 15 seconds.
+8)Check that the slip indicator light and VSC warning light (LE and SE grade models) are turned
+on or “CHECK VSC SYSTEM” message will appear on the multi-information display (XLE
+grade models). If not, repeat the procedure from the step 1.
+9)The brake control system can be returned to the normal mode by turning the power source ON
+from OFF.
+(cid:1) When using the hand-held tester:
+1)Check that the power source is OFF and the shift lever is in position P.
+2)Start the engine after turning the power source ON.
+3)Connect the hand-held tester to the DLC3, and operate it to send signals of memory change
+function.
+4)The brake control system can be returned to the normal mode by turning the power source ON
+from OFF
+For details of the transition to service mode, see the 2007 Camry Repair Manual (Pub. No.
+RM0250U).

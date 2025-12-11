@@ -1,0 +1,43 @@
+54A-198 CHASSIS ELECTRICAL
+RADIO AND TAPE PLAYER
+TROUBLESHOOTING HINTS • Malfunction of the radio, tape player, CD player
+• Damaged wiring harness or connector. and CD auto changer.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness set
+STEP 1. Check the radio, tape player, CD player and CD
+auto changer memory backup power supply circuit by
+back probing.
+(1) Do not disconnect radio, tape player, CD player and CD
+CONNECTOR: C-22
+auto changer connector C-22.
+DEVICE SIDE
+1 2 3 4 5 6
+7 8 91011121314
+AC106557AL
+(2) Measure the voltage between terminal number 11 and
+HARNESS SIDE
+ground by backprobing.
+C-22
+Q:Is the voltage approximately 12 volts (battery positive
+voltage)?
+YES : Replace the radio, tape player, CD player and CD
+auto changer. Check that a memory is retained.
+NO : Go to Step 2.
+1 2 3 4 5 6
+7 8 9 1011121314
+AC106904AB
+STEP 2. Check harness connector C-22 at the radio, tape
+player, CD player and CD auto changer for damage.
+Q:Is harness connector C-22 in good condition?
+CONNECTOR: C-22
+YES : Go to Step 3.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. Check
+that a memory is retained.
+DEVICE SIDE
+1 2 3 4 5 6
+7 8 91011121314
+AC106557AL
+TSB Revision

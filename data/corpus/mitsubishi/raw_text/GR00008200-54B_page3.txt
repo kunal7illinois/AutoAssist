@@ -1,0 +1,88 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-3
+GENERAL DESCRIPTION
+• If you try to lock either the driver’s or passenger’s • A jam preventing mechanism has been adopted.
+door when the passenger’s door is open (door When a slide-close or tilt-down operation is
+switch turned ON) and the key is inserted in the blocked by an external force, the roof lid glass
+ignition switch (key reminder switch turned OFF), moves back and stops.
+the ETACS-ECU prevents the doors from being • The electronic sunroof system cannot be oper-
+locked by activating the door unlock relay for 0.25 ated manually. The sunroof wrench that was used
+seconds. in previous models is not provided. If the anti-jam
+mechanism reverses the sunroof five or more
+POWER WINDOW RELAY CONTROL times consecutively due to deformation or other
+problem with the sunroof components, it deacti-
+.Power Window Relay Operation
+vates and allows the sunroof to make small
+If the ignition switch is turned to "ON" position, the
+movements [30 mm (1.2 inches)] until it closes
+power window relay is energized to activate the
+completely.
+power windows.
+.
+Sunroof Timer Function
+. When the ignition switch is turned from "ON" position
+Power Window Timer Function
+to "LOCK" (OFF) or "ACC" position, the sunroof can
+When the ignition switch is turned from the "ON"
+be operated for thirty seconds. If any door is opened
+position to "LOCK" (OFF) or "ACC" position, the
+for the 30 seconds, the sunroof will be immobilized at
+power windows can be operated for 30 seconds. If
+that point.
+driver(cid:146)s or front passenger(cid:146)s door is opened for the
+30 seconds, the power windows will be immobilized
+WINDSHIELD WIPERS AND WASHERS
+at that point.
+.Windshield Low-speed (and High-speed) Wiper
+KEYLESS ENTRY SYSTEM
+Operation
+.Keyless Entry Answerback Function • If the windshield low-speed wiper switch is turned
+to the ON position with the ignition switch at the
+If the RKE transmitter "LOCK" or "UNLOCK" switch
+"ACC" or "ON" position, the column switch sends
+is pressed while the ignition key is removed, the
+a low-speed wiper ON and high-speed wiper OFF
+doors can be locked or unlocked. If the doors are
+signals to the front-ECU. This turns the wiper sig-
+closed, the hazard warning lights, the dome light and
+nal on and the wiper speed switching relay off
+the horn will operate due to answerback function.
+(low-speed), causing the wipers to operate at
+Because of the answerback function, the hazard
+low-speed.
+warning lights flash twice, and the horn sounds once,
+• If the windshield high-speed wiper switch is
+the dome light flashes twice when the doors are
+turned to the ON position, the column switch
+locked. Meanwhile, when the doors are unlocked,
+sends a low-speed wiper OFF and high-speed
+the hazard warning lights flash once and the dome
+wiper ON signals to the front-ECU. This turns
+light illuminates for 30 seconds. The hazard and the
+both the wiper signal and the wiper speed switch-
+horn answerback functions can be cancelled by
+ing relay on (high-speed), causing the wipers to
+using the RKE transmitter.
+operate at high-speed.
+.
+Trunk Lid Opener Function
+.
+Windshield Intermittent Wiper Operation
+After "TRUNK" switch of the transmitter is turned
+The ETACS-ECU calculates the wiper operation
+"ON" twice within five seconds without ignition key in
+interval according to the voltage signal sent from the
+the key hole, ETACS-ECU makes trunk lid opener
+column switch. Then the ETACS-ECU sends a signal
+actuator open the trunk lid.
+to the front-ECU. The front-ECU determines the
+SUNROOF wiper operation interval and turns on the wiper relay
+signal relay. This causes the wiper auto stop relay to
+Sunroof Operation turn on. Then the wiper auto stop relay will turn off
+• All of the slide open/close, tilt up/down, and stop after the wipers reach the park position. This causes
+operations can be performed by a single switch. the wiper signal relay and then the wipers to turn off.
+• When the roof lid glass is tilted up, the sunshade If the wiper signal relay remains off for the wiper
+opens approximately 98 mm (3.9 inches) in com- operation interval, the relay turns on again, causing
+bined operation with the roof lid glass for better the wipers to operate in intermittent mode.
+ventilation.
+.
+TSB Revision

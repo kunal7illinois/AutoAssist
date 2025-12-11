@@ -1,0 +1,66 @@
+NS–58
+NAVIGATION – NAVIGATION SYSTEM
+DTC No. Detection Item Trouble Area See page
+01-DB Mode Status Error 1. Power source circuit of the NS-57
+component shown by the sub-
+code
+2. AVC-LAN circuit between the
+radio and navigation assembly
+and the component shown by the
+sub-code
+3. Component shown by the sub-
+code
+01-DC Transmission Error If the same sub-code is recorded NS-63
+in other components, check
+harness for power supply and
+communication system of all
+components shown by code
+01-DD Master Reset 1. Radio and navigation assembly NS-66
+power source circuit
+2. AVC-LAN circuit between the
+radio and navigation assembly
+and the component which has
+stored this code
+3. Radio and navigation assembly
+4. Component which has stored
+this code
+01-DE Slave Reset 1. Power source circuit of the NS-57
+component shown by the sub-
+code
+2. AVC-LAN circuit between the
+radio and navigation assembly
+and the component shown by the
+sub-code
+3. Component shown by the sub-
+code
+01-DF Master Error 1. Radio and navigation assembly NS-70
+power source circuit
+2. AVC-LAN circuit between the
+radio and navigation assembly
+and the component which has
+stored this code
+3. AVC-LAN circuit between the
+master unit and the sub-master
+unit (radio receiver)
+4. Radio and navigation assembly
+5. Component which has stored
+this code
+01-E0 Registration Complete Indication - NS-74
+Error
+01-E1 Voice Processing Device ON 1. Radio and navigation assembly NS-66
+Error power source circuit
+2. AVC-LAN circuit between the
+radio and navigation assembly
+and the component which has
+stored this code
+3. Radio and navigation assembly
+4. Component which has stored
+this code
+NS 01-E2 ON / OFF Indication Parameter Radio and navigation assembly NS-75
+Error
+01-E3 Registration Demand - NS-74
+Transmission
+01-E4 Multiple Frame Incomplete - NS-74
+SW:
+DTC No. Detection Item Trouble Area See page
+21-10 Panel Switch Error Radio and navigation assembly NS-76

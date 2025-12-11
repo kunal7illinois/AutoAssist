@@ -1,0 +1,32 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-81
+SRS AIR BAG DIAGNOSIS
+STEP 3. Check the harness wires for short circuit to
+ground between SRS-ECU connector C-72 (terminal No.5
+and 6) and passenger’s air bag module connector C-11
+(terminal No.1 and 2).
+Q:Are the harness wires between SRS-ECU connector C-
+CONNECTOR: C-72
+72 (terminal No.5 and 6) and passenger’s air bag module
+connector C-11 (terminal No.1 and 2) in good condition?
+HARNESS SIDE
+(REAR VIEW) YES : Go to Step 4.
+NO : Repair the harness wires between SRS-ECU
+1 2 3 4 5 6 7 8 connector C-72 and passenger’s air bag module
+9 10111213141516 connector C-11. Then go to Step 4.
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH) AC000358AH
+CONNECTOR: C-11 PASSENGER'S (FRONT)
+AIR BAG
+HARNESS SIDE
+1 2 (REAR VIEW)
+AC000363AF
+STEP 4. Check the DTC.
+Q:Is DTC 65 output?
+YES : Return to Step 1.
+NO : This diagnosis is complete. (If no malfunctions are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to GROUP 00, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+TSB Revision

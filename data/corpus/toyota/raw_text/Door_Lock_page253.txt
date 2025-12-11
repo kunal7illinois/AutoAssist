@@ -1,0 +1,38 @@
+DL–233
+DOOR LOCK – FRONT DOOR LOCK
+(c) Check operation of the door key lock and unlock
+LOCK switch.
+(1) Measure the resistance according to the
+value(s) in the table below.
+Standard resistance
+UNLOCK Tester Connection Condition Specified Condition
+ON
+5 - 8 Below 1 Ω
+(Door lock set to UNLOCK)
+5 - 8
+OFF (Free) 10 kΩ or higher
+6 - 8
+ON
+6 - 8 Below 1 Ω
+(Door lock set to LOCK)
+B112613E01
+(d) Check operation of the door unlock detection
+switch.
+(1) Measure the resistance according to the
+value(s) in the table below.
+Standard resistance
+Tester Measurement Door Lock (Specified
+Connection Condition Condition Condition)
+Battery positive
+(+) → Terminal 4
+7 - 8 LOCK 10 kΩ or higher
+Battery negative
+(-) → Terminal 1
+Battery positive
+(+) → Terminal 1
+7 - 8 UNLOCK Below 1 Ω
+Unlock Battery negative
+(-) → Terminal 4
+Lock
+DL
+B065429E21

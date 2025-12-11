@@ -1,0 +1,60 @@
+ES–64
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Trouble Areas MIL Memory See page
+P0451 Evaporative Emission - Canister pump Comes on DTC stored ES-210
+Control System module
+Pressure Sensor - Connector/wire
+Range / Performance harness (Canister
+pump module - ECM)
+- EVAP system hose
+(pipe from air inlet
+port to canister pump
+module, canister
+filter, fuel tank vent
+hose)
+- ECM
+P0452 Evaporative Emission - Same as DTC Comes on DTC stored ES-210
+Control System P0451
+ES Pressure Sensor /
+Switch Low Input
+P0453 Evaporative Emission - Same as DTC Comes on DTC stored ES-210
+Control System P0451
+Pressure Sensor /
+Switch High Input
+P0455 Evaporative Emission - Fuel cap (loose) Comes on DTC stored ES-220
+Control System Leak - Leakage from EVAP
+Detected (Gross line (Canister - Fuel
+Leak) tank)
+- Leakage from EVAP
+line (Purge VSV -
+Canister)
+- Canister pump
+module
+- Leakage from fuel
+tank
+- Leakage from
+canister
+P0456 Evaporative Emission - Same as DTC Comes on DTC stored ES-220
+Control System Leak P0455
+Detected (Very Small
+Leak)
+P0500 Vehicle Speed - Open or short in Comes on DTC stored ES-224
+Sensor "A" speed signal circuit
+- Vehicle speed
+sensor
+- Combination meter
+- ECM
+- Skid control ECU
+P0504 Brake Switch "A" / "B" - Short in stop light - DTC stored ES-229
+Correlation switch signal circuit
+- STOP fuse
+- IGN fuse
+- Stop light switch
+- ECM
+P0505 Idle Control System - ETCS (Electronic Comes on DTC stored ES-233
+Malfunction Throttle Control
+System)
+- Air induction system
+- PCV hose
+connections
+- ECM

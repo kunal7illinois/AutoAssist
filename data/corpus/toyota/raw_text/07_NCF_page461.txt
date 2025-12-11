@@ -1,0 +1,34 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-127
+12) Situation: K
+A malfunction of the steering lock ECU is detected.
+In this situation, the following control is performed:
+Possible Effects without Warning Malfunction detection
+Warning Condition A malfunction of the steering lock ECU is detected.
+Buzzer Sounds once
+Multi-information
+Combination
+Display
+Meter
+025BE103P
+Master Warning
+Flash
+Light
+Wireless Door Lock Buzzer —
+Engine Switch Indicator Light The amber indicator blinks at 2-second intervals.
+Warning Stop Condition The steering lock ECU returns to normal.
+13) Situation: L
+A malfunction of the main body ECU is detected.
+In this situation, the following control is performed:
+Possible Effects without Warning Malfunction detection
+Warning Condition A malfunction in the main body ECU is detected.
+Buzzer —
+Multi-information
+Combination —
+Display
+MMeetteerr
+Master Warning
+—
+Light
+Wireless Door Lock Buzzer —
+Engine Switch Indicator Light The amber indicator blinks at 2-second intervals.
+Warning Stop Condition The main body ECU returns to normal.

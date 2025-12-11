@@ -1,0 +1,38 @@
+ES–331
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2 CHECK HARNESS AND CONNECTOR (THROTTLE CONTROL MOTOR - ECM)
+(a) Disconnect the C5 throttle body connector.
+Wire Harness Side Front View:
+(b) Disconnect the C55 ECM connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+C5 Throttle Body Connector
+Standard resistance (Check for open)
+M+ Tester Connection Specified Condition
+M+ (C5-2) - M+ (C55-19) Below 1 Ω
+1 2 3 4 5 6 M- (C5-1) - M- (C55-18) Below 1 Ω
+M-
+Standard resistance (Check for short)
+Tester Connection Specified Condition ES
+C55 ECM Connector M+ (C5-2) or M+ (C55-19) - Body ground 10 kΩ or higher
+M-
+M- (C5-1) or M- (C55-18) - Body ground 10 kΩ or higher
+(d) Reconnect the throttle body connector.
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+M+
+A115662E07
+OK
+3 INSPECT THROTTLE BODY (VISUALLY CHECK THROTTLE VALVE)
+(a) Check for foreign objects between the throttle valve and
+the housing.
+NG REMOVE FOREIGN OBJECT AND CLEAN
+THROTTLE BODY
+OK
+4 INSPECT THROTTLE VALVE
+(a) Check if the throttle valve opens and closes smoothly.
+NG REPLACE THROTTLE BODY (See page ES-
+503)
+OK
+REPLACE ECM (See page ES-518)

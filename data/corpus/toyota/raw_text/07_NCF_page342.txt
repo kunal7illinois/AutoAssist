@@ -1,0 +1,33 @@
+BE-8 BODY ELECTRICAL - MULTIPLEX COMMUNICATION
+(cid:3)CAN
+1. General
+(cid:3) The ’07 Camry uses two types of CAN that have different communication speeds: HS-CAN (500 kbps)
+and MS-CAN (250 kbps).
+(cid:3) The HS-CAN consists of the CAN No.1 bus. The terminating resistors of the CAN No.1 bus are built into
+the ECM and meter ECU.
+(cid:3) The MS-CAN consists of the MS bus. The terminating resistors of the MS-bus are built into the main body
+ECU and certification ECU. The MS bus is used only when the smart key system (certification ECU),
+which is optional equipment, is provided.
+(cid:3) The main body ECU, which has a gateway function, is used to transmit data between the CAN No.1 bus
+and the MS bus.
+(cid:1) Image of Data Transmission between Buses (cid:2)
+CAN No.1 Bus
+(cid:3) ECM (cid:3) DLC3 (cid:3) Meter ECU
+(cid:3) A/C ECU (cid:3) Option Connector
+(cid:3) Skid Control ECU
+Main Body ECU (cid:3) Steering Angle Sensor*
+(with Gateway Function) (cid:3) Yaw Rate & Deceleration Sensor*
+Data
+(cid:3) Airbag Sensor Assembly
+Transmission
+CAN No.1 Bus HS-CAN (cid:3) Main Body ECU
+Data
+Transmission
+Between
+Buses Data
+Transmission
+MS Bus MS-CAN MS Bus
+(cid:3) Main Body ECU
+(cid:3) Certification ECU*
+025BE53P
+*: Optional Equipment

@@ -1,0 +1,38 @@
+CA–110
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+• After the ignition switch is turned off, check that the key reminder warning system and light
+reminder warning system are not operating.
+• Before measuring the resistance, leave the vehicle as is for at least 1 minute and do not operate
+the ignition switch, any other switches or the doors. If doors need to be opened in order to
+check connectors, open the doors and leave them open.
+HINT:
+Operating the ignition switch, any other switches or any triggers related ECU and sensor communication
+on the CAN, which would cause resistance reading variations.
+1 CHECK FOR SHORT TO GND IN CAN BUS WIRE (DLC3 BRANCH WIRE)
+(a) Turn the ignition switch off.
+No. 1 CAN J/C “B” Side (without Earth
+(b) Disconnect the DLC3 branch wire gray connector (E62)
+Terminal) Wire Harness Side:
+from the No. 1 CAN J/C "B" side (without earth terminal).
+NOTICE:
+• Before disconnecting the connector, make a note
+CANH E62
+of where it is connected.
+• Reconnect the connector to its original position.
+CA
+CANL
+C133233E01
+(c) Measure the resistance according to the value(s) in the
+DLC3: E10 table below.
+CANH
+Standard resistance
+Tester Connection Condition Specified Value
+E10-6 (CANH) - E10-4 (CG) Ignition switch off 200 Ω or higher
+E10-14 (CANL) - E10-4 (CG) Ignition switch off 200 Ω or higher
+(d) Reconnect the DLC3 branch wire connector (E62) to the
+No. 1 CAN J/C "B" side (without earth terminal).
+CG CANL
+C126231E13
+NG REPAIR OR REPLACE DLC3 BRANCH WIRE
+OR CONNECTOR
+OK

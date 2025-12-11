@@ -1,0 +1,49 @@
+DL–186
+DOOR LOCK – SMART KEY SYSTEM
+INSPECTION PROCEDURE
+1 CHECK HARNESS AND CONNECTOR (ELECTRICAL KEY OSCILLATOR - ANTENNA)
+(a) Remove the outside handle.
+Antenna Wire Harness: (b) Disconnect the antenna and door oscillator connectors.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+X1 Tester Connection (Symbols) Condition Specified Condition
+X1-2 (ANT2) - X2-8 (ANT2) (*1) Always Below 1 Ω
+W1
+X1-6 (SGT) - X2-2 (SGT) (*1) Always Below 1 Ω
+ANT2
+X1-5 (ANT1) - X2-3 (ANT1) (*1) Always Below 1 Ω
+ANT1
+X1-2 (ANT2) - Body ground (*1) Always 10 kΩ or higher
+SGT2
+X1-6 (SGT) - Body ground (*1) Always 10 kΩ or higher
+X1-5 (ANT1) - Body ground (*1) Always 10 kΩ or higher
+W1-2 (ANT2) - W2-8 (ANT2) (*2) Always Below 1 Ω
+Door Oscillator:
+W1-6 (SGT) - W2-2 (SGT) (*2) Always Below 1 Ω
+W1-5 (ANT1) - W2-3 (ANT1) (*2) Always Below 1 Ω
+W1-2 (ANT2) - Body ground (*2) Always 10 kΩ or higher
+X2
+W1-6 (SGT) - Body ground (*2) Always 10 kΩ or higher
+W2
+W1-5 (ANT1) - Body ground (*2) Always 10 kΩ or higher
+*1: Driver side
+SGT
+*2: Passenger side
+ANT1
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+ANT2
+B112467E07
+OK
+2 CHECK AND REPLACE DOOR OUTSIDE HANDLE
+(a) Replace the door outside handle.
+(b) Check that the entry LOCK/UNLOCK function operates
+normally.
+OK:
+DL
+Entry LOCK/UNLOCK function operates normally.
+NG PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+OK
+END (DOOR OUTSIDE HANDLE IS DEFECTIVE)

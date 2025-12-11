@@ -1,0 +1,69 @@
+13B-6 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TROUBLESHOOTING STRATEGY
+M1131150000104
+NOTE: If a DTC is erased, its "freeze frame" data will 6. If there is a DTC, record the number of the code,
+be also erased and the readiness test status will be then erase the code from the memory using the
+reset. Store the "freeze frame" data before erasing scan tool.
+the DTC.
+7. Reconfirm the malfunction symptom and carry out
+Use these steps to plan your diagnostic strategy. If
+a test drive with the drive cycle pattern.
+you follow them carefully, you will be sure to have
+8. If DTC is set again, carry out an inspection with
+exhausted most of the possible ways to find an MFI
+the inspection procedure for diagnostic trouble
+fault.
+codes of that code.
+1. Gather as much information as possible about the
+9. If DTC is not set again, the malfunction is
+complaint from the customer.
+intermittent. For information on how to cope with
+2. Verify that the condition described by the
+intermittent malfunctions, refer to GROUP 00,
+customer exists.
+How to Use Troubleshooting/Inspection Service
+3. Check the vehicle for any MFI Diagnostic Trouble Points − How to cope with Intermittent Malfunction
+Code (DTC).
+P.00-6.
+4. If you cannot verify the condition and there are no
+10.After repairs are completed, conduct a road test
+DTCs, the malfunction is intermittent. For
+duplicating the complaint set conditions to confirm
+information on how to cope with intermittent
+the malfunction has been connected.
+malfunctions, refer to GROUP 00, How to Use
+NOTE: If the engine control module (ECM) <M/T> or
+Troubleshooting/Inspection Service Points − How
+powertrain control module (PCM) <A/T> is replaced,
+to cope with Intermittent Malfunction P.00-6.
+Immobilizer Encrypted Code Registration should be
+5. If you can verify the condition but there are no carried out. Refer to GROUP 54A, Ignition Switch −
+DTCs, or the system cannot communicate with On-vehicle Service − Immobilizer Encrypted Code
+the scan tool, refer to the trouble symptom
+Registration P.54A-28.
+classification table.
+TROUBLE CODE DIAGNOSIS
+M1131150500165
+.
+SERVICE ENGINE SOON/MALFUNCTION INDICATOR
+LAMP
+Among the on-board diagnostic items, a Service Engine Soon/
+SERVICE ENGINE SOON/
+MALFUNCTION INDICATOR LAMP Malfunction Indicator Lamp illuminates to notify the driver of an
+emission control malfunction.
+However, when an irregular signal returns to normal and the
+powertrain control module judges that it has returned to normal,
+the Service Engine Soon/Malfunction Indicator Lamp is
+switched off.
+Moreover, when the ignition switch is turned off, the lamp is
+switched off. Even if the ignition switch is turned on again, the
+lamp does not illuminate until the malfunction is detected.
+AK000054AABB
+Immediately after the ignition switch is turned on, the Service
+Engine Soon/Malfunction Indicator Lamp is lit for 20 seconds to
+indicate that the Service Engine Soon/Malfunction Indicator
+Lamp operates normally.
+.
+TSB Revision

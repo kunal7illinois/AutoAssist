@@ -1,0 +1,53 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-9
+SWS DIAGNOSIS
+HOW TO CHECK ECUs
+M1549014900167
+1. Use the scan tool and the SWS monitor kit to NOTE: The "ECU COMM CHECK" function checks
+check ECUs. (Refer to MUT-II Reference Manual) a communication status of ECUs "NG" does not
+always mean ECU malfunction. If a malfunction is
+2. The following ECUs can be checked by using the
+found by the "ECU COMM CHECK", proceed "Symp-
+scan tool and the SWS monitor kit.
+tom Procedure" (Refer to P.54B-17).
+SWS monitor kit-compatible ECUs and their conditions
+ECUS TO BE CHECKED DISPLAY ON NORMAL ECU CONDITIONS
+SCAN TOOL CONDITIONS
+Column switch (column- COLUMN ECU OK*1 All of the column switch, power supply,
+ECU) ground and interconnecting communication
+line are normal
+ETACS-ECU ETACS ECU OK All of the ETACS-ECU switch, power
+supply, ground and interconnecting
+communication line are normal
+Front-ECU FRONT ECU OK*2 All of the front-ECU, power supply, ground
+and interconnecting communication line are
+normal
+Sunroof motor assembly SUNROOF ECU OK*2 All of the sunroof motor assembly, power
+(sunroof-ECU) supply, ground and interconnecting
+communication line are normal
+Other SWS-related ECUs Other ECUs NG ECUs are not used
+NOTE: . •*2: When "NG" is displayed beside the "ETACS
+•*1: If the ignition switch is turned to the "LOCK" ECU", the scan tool shows "NG" beside the
+(OFF) or "ACC" when "NG" is displayed beside "FRONT ECU" and "SUNROOF ECU (sunroof
+the "ETACS ECU" or the signal request line is motor assembly)".
+abnormal, the scan tool shows "NG" beside the
+"COLUMN ECU".
+SERVICE DATA CHECK
+M1549015000167
+1. Use the scan tool and the SWS monitor kit to 2. The following input signals can be checked by
+check "Service Data." using the scan tool and the SWS monitor kit.
+This "Service Data" check is applicable for NOTE: If a problem is found in the "Service Data"
+signals, which are transmitted and received check, refer to the Problems during Input Signal
+through the SWS communication line.For input Check <SWS monitor>. (Refer to P.54B-20.)
+signals, which are not compatible with the SWS
+monitor kit, refer to the Pulse Check procedure
+(by using the scan tool or voltmeter) P.54B-16.
+<DATA LIST REFERENCE TABLE>
+• COLUMN ECU (column switch)
+CHECK ITEMS ITEM DISPLAY ON CHECK CONDITIONS NORMAL
+NO. SCAN TOOL CONDITIONS
+Dimmer switch 02 DIMMER SW Dimmer switch: ON ON
+Dimmer switch: OFF OFF
+Windshield washer 09 FRONT Windshield washer switch: ON ON
+switch WASH.SW
+Windshield washer switch: OFF OFF
+TSB Revision

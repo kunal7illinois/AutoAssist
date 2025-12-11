@@ -1,0 +1,43 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-543
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DIAGNOSIS
+STEP 1. Check connector C-49, C-53 at ECM <M/T> or
+connector C-50, C-57 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-49,C-53<M/T>,
+C-50,C-57<A/T> YES : Go to Step 2.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then confirm that the
+OR
+PCM<A/T> malfunction symptom is eliminated.
+C-49, C-57
+C-50 C-53
+AK000280BQ
+STEP 2. Check the circuit at ECM connector C-49 <M/T> or
+PCM connector C-50 <A/T>.
+(1) Disconnect the connectors C-49 <M/T> or C-50 <A/T> and
+measure at the harness side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 8 <M/T> or 20 <A/T>
+<M/T>
+and ground.
+• Voltage should be battery positive voltage.
+(4) Using a jumper wire, connect terminal 8 <M/T> or 20 <A/T>
+to ground.
+13121110 9 8 7 6 5 4 3 2 1 • A/C compressor relay should turn "ON".
+26252423222120191817161514
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+C-49 HARNESS
+SIDE CONNECTOR Q:Is the voltage and A/C compressor relay condition
+normal?
+AK000419AC YES : Go to Step 3.
+NO : Refer to GROUP 55, Heating and air conditioning −
+<A/T>
+C-50 HARNESS Introduction To Heater, Air Conditioning And
+SIDE CONNECTOR Ventilation Diagnosis P.55-5. Then confirm that the
+8 7 6 5 4 3 2 1 malfunction symptom is eliminated.
+2322212019181716151413121110 9
+3635 34333231 30292826 25 24
+AKX01448AG
+TSB Revision

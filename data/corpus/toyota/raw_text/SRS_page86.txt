@@ -1,0 +1,50 @@
+RS–86
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+5 CHECK FLOOR WIRE (OPEN)
+(a) Using a service wire, connect terminals 8 (BBD+) and 15
+Floor Wire (BBD-) of connector B.
+NOTICE:
+Do not forcibly insert a service wire into the
+D A
+terminals of the connector when connecting.
+C B
+(b) Measure the resistance according to the value(s) in the
+Side Airbag Center Airbag table below.
+Sensor LH
+Sensor Assembly Standard resistance
+Tester connection Condition Specified condition
+Connector C Connector B N7-4 (BBL+) - N7-3
+Always Below 1 Ω
+(BBL-)
+N7 N1
+NG REPAIR OR REPLACE FLOOR WIRE
+5 4 3 2 1
+109 8 7 6
+4321
+1514131211
+BBD-
+BBL+ BBL- BBD+
+Service Wire
+C
+C114840E07
+OK
+RS 6 CHECK FLOOR WIRE (SHORT)
+(a) Disconnect the service wire from connector B.
+(b) Measure the resistance according to the value(s) in the
+Floor Wire
+table below.
+Standard resistance
+D A
+C B Tester connection Condition Specified condition
+N7-4 (BBL+) - N7-3
+Side Airbag Center Airbag (BBL-) Always 1 MΩ or higher
+Sensor LH
+Sensor Assembly
+NG REPAIR OR REPLACE FLOOR WIRE
+Connector C
+N7
+4321
+BBL+ BBL-
+C
+C114841E06
+OK

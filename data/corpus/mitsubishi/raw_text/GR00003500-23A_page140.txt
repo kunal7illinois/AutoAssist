@@ -1,0 +1,40 @@
+23A-140 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Using scan tool MB991502, check data list item 61:
+Park/Neutral Position Switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to data reading mode for item 61:
+Park/Neutral Position Switch.
+• Move the selector lever to "P," "R," "N," "D," "3," "2," "L"
+and sport mode positions to confirm whether shown on
+the scan tool. (Vehicles with sport mode is indicated as
+"D" on the scan tool.)
+16 PIN
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 AC001252AB Q:Is the switch operating properly?
+YES : This malfunction can be intermittent. Refer to GROUP
+00, How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : When indication disagrees at all positions: Go to Step
+2. When indication disagrees at "P" position: Go to
+Step 6. When indication disagrees at "R" position: Go
+to Step 13. When indication disagrees at "N" position:
+Go to Step 19. When indication disagrees at "D"
+position: Go to Step 25. When indication disagrees at
+"3" position: Go to Step 32 . When indication
+disagrees at "2" position: Go to Step 36. When
+indication disagrees at "L" position: Go to Step 40.
+When indication disagrees at sport mode position
+(agrees at "D" position): Go to Step 44.
+TSB Revision

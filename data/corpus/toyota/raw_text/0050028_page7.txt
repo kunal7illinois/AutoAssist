@@ -1,0 +1,29 @@
+ES–142
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(e) Rear HO2 sensor voltage 0.21 to 0.59 V
+(f) OSC 2 g or more
+Heated Oxygen Sensor Output Voltage (Low):
+All of following conditions (a), (b) and (c) met -
+(a) Commanded air-fuel ratio 14.3 or less
+(b) Rear HO2 sensor voltage Less than 0.21 V
+(c) OSC 2 g or more
+Heated Oxygen Sensor Output Voltage (High):
+All of following conditions (a), (b) and (c) met -
+(a) Commanded air-fuel ratio 14.9 or more
+(b) Rear HO2 sensor voltage More than 0.59 V
+ES
+(c) OSC 2 g or more
+Heated Oxygen Sensor Impedance (Low):
+Duration of following condition met 30 seconds or more
+Heated oxygen sensor impedance Less than 5 Ω
+Heated Oxygen Sensor Impedance (High):
+Duration of following condition met 90 seconds or more
+Heated oxygen sensor impedance 15 kΩ or more
+Heated Oxygen Sensor Output Voltage (Extremely High):
+Duration of following condition met 10 seconds or more
+Heated oxygen sensor voltage 1.2 V or more
+COMPONENT OPERATING RANGE
+Duration of following condition met 30 seconds or more
+Heated oxygen sensor voltage Varies between 0.1 and 0.9 V
+MONITOR RESULT
+Refer to CHECKING MONITOR STATUS (see page ES-17).

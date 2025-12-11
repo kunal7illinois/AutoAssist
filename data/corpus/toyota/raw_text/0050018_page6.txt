@@ -1,0 +1,27 @@
+ES–98
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+5 CHECK HARNESS AND CONNECTOR (MASS AIR FLOW METER - INTEGRATION RELAY)
+(a) Check the EFI No. 1 fuse.
+Wire Harness Side:
+(b) Disconnect the B1 MAF meter connector.
+MAF Meter Connector
+(c) Remove the integration relay from the engine room No. 1
+relay block.
+(d) Check the resistance.
+Standard resistance (Check for open)
+B1
+Tester Connections Specified Conditions
++B B1-3 (+B) - 1A-4 Below 1 Ω
+ES Integration Relay Standard resistance (Check for short)
+1A
+Tester Connections Specified Conditions
+B1-3 (+B) or 1A-4 - Body ground 10 kΩ or higher
+(e) Reconnect the MAF meter connector.
+4 (f) Reinstall the integration relay.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+EFI No. 1
+Engine Room No. 1 Relay Block
+A127960E01
+OK
+CHECK ECM POWER SOURCE CIRCUIT

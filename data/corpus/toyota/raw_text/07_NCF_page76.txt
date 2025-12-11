@@ -1,0 +1,29 @@
+ENGINE - 2AZ-FE ENGINE EG-49
+6. ETCS-i (Electronic Throttle Control System-intelligent)
+General
+In the conventional throttle body, the throttle valve angle is determined invariably by the amount of the
+accelerator pedal effort. In contrast, ETCS-i uses the ECM to calculate the optimal throttle valve angle that
+is appropriate for the respective driving condition and uses a throttle control motor to control the angle.
+(cid:1) System Diagram (cid:2)
+Throttle Valve Throttle Position Sensor
+Accelerator Pedal
+Position Sensor
+Throttle Control
+Motor
+Mass Air
+Flow Meter
+Cruise Control Ignition Coil
+Switch ECM
+Fuel Injector
+Skid Control
+ECU
+CAN (CAN No.1 Bus)
+01ZEG05Y
+Control
+1) General
+The ETCS-i consists of the following five functions:
+(cid:3) Normal Throttle Control (Non-linear Control)
+(cid:3) ISC (Idle Speed Control)
+(cid:3) TRAC (Traction Control)
+(cid:3) VSC (Vehicle Stability Control)
+(cid:3) Cruise Control

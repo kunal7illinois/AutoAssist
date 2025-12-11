@@ -1,0 +1,51 @@
+Audi TT 2007 ➤
+Communication - Edition 02.2009
+16 Multi-function steering wheel
+16.1 General notes
+Description
+Buttons are integrated into the steering wheel to facilitate opera‐
+tion of the radio -R- , mobile telephone -R54- , navigation and CD
+changer -R41- .
+Additional rocker switches are provided if vehicle is fitted with tip‐
+tronic (automatic gearbox).
+The electronics integrated into the multi-function buttons pro‐
+cesses the signals of buttons/tiptronic switch and transmits the
+signals by way of a single-wire bus (LIN) to the steering column
+electronics control unit -J527- . There the signals are transferred
+to the CAN Bus (Convenience).
+The individual button blocks and tiptronic buttons can be re‐
+newed.
+Fault finding is performed via the “Guided Fault Finding” ⇒ Vehicle
+diagnosis, testing and information system VAS 5051.
+16.2 Multi-function steering wheel - layout
+1 - Multi-function steering
+wheel
+❑ Removing and installing
+multi-function buttons
+⇒ page 144
+❑ Removing and installing
+tiptronic buttons
+⇒ page 144
+2 - Steering column electronics
+control unit -J527-
+❑ On steering column
+❑ Connectors
+⇒ page 147
+❑ Removing and installing
+⇒ page 148
+3 - Telephone transmitter and
+receiver unit -R36-
+❑ In electronics box under
+front seat (left-side)
+4 - CAN bus (convenience)
+5 - Data bus diagnostic inter‐
+face -J533-
+❑ Behind storage com‐
+partment (front left)
+6 - CAN bus (infotainment)
+7 - Radio -R-
+❑ In centre console (top)
+8 - CD changer -R41-
+❑ In glove box
+143
+16. Multi-function steering wheel

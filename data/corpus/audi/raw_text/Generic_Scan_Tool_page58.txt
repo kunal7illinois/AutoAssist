@@ -1,0 +1,48 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0273 Cylinder 5 – Check the • signal current < • Injection valve, 0.5 Sec. • Continu‐
+Injector Cir‐ Fuel Injector - 2.1 A commanded OFF ous
+cuit Low N83- . Refer to
+⇒ “3.5.27 • high pressure sys‐ • 2 DCY
+Fuel Injectors, tem current > 4.2 A
+Checking”,
+• Engine speed, >
+page 167 .
+40 RPM
+P0274 Cylinder 5 – Check the • signal current > • Injection valve, 0.5 Sec. • 2 DCY
+Injector Cir‐ Fuel Injector - 14.7 A commanded ON
+cuit High N83- . Refer to
+⇒ “3.5.27 • Engine speed, >
+Fuel Injectors, 40 RPM
+Checking”,
+page 167 .
+P0299 Turbo‐ – Check the • difference ac‐ --- 3 Sec • multiple
+charger/Su‐ Charge Air tual pressure -
+percharger Pressure Sen‐ set point pres‐ • 2 DCY
+Underboost sor -G31- . sure >30 kPa
+Rationality Refer to
+check low ⇒
+“3.5.16 Charg
+e Air Pressure
+Sensor / In‐
+take Air Tem‐
+perature Sen‐
+sor 2, Check‐
+ing ”,
+page 142 .
+– Check the
+charge air
+system for
+proper seal.
+Refer to En‐
+gine Mechani‐
+cal, Fuel In‐
+jection and Ig‐
+nition; 21;
+Charge Air
+System
+54
+Rep. Gr.ST - Generic Scan Tool

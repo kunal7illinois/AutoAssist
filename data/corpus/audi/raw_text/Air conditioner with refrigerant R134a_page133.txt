@@ -1,0 +1,59 @@
+Audi 100 1991 ➤ , Audi 80 1992 ➤ , Audi A1 2011 ➤ , Audi A2 2001 ➤ , A ...
+Air conditioner with refrigerant R134a - Edition 06.2010
+Possible deviation from speci‐ Possible causes of fault Fault elimination
+fication
+• High pressure remains con‐ ♦ Actuation of air conditioner compres‐ – Check actuation of -N280-
+stant or only increases sor regulating valve -N280- not OK
+slightly (above pressure – Extract refrigerant from re‐
+with engine stopped) ♦ Not enough refrigerant in circuit frigerant circuit.
+• Low pressure quickly drops ♦ Expansion valve defective • If quantity of refrigerant ex‐
+to value in graph or below tracted is substantially less
+than specified capacity:
+• Required cooling output is
+not attained
+• High pressure normal – Localise leak with leak de‐
+tector and eliminate
+• Low pressure in line with
+value in graph – Re-charge refrigerant circuit.
+• Required cooling output is
+– Repeat test.
+not attained
+• High pressure normal • If quantity of refrigerant ex‐
+tracted roughly corresponds
+• Low pressure too low (see to specified capacity:
+graph)
+– Renew expansion valve.
+• Required cooling output is
+not attained – Re-charge refrigerant circuit.
+– Repeat test.
+Note
+♦ If no fault is found for this problem, clean refrigerant circuit
+(flush with refrigerant R134a ⇒ page 59 or blow out with com‐
+pressed air and nitrogen ⇒ page 55 ).
+♦ Check the measured values of the evaporator output temper‐
+ature sender -G263- and actuation of -N280- . If the measured
+value of the evaporator output temperature sender -G263- is
+not OK, the evaporator may ice up or the cooling output is not
+attained.
+♦ If, after replacing the expansion valve, operation of the air
+conditioning system is not OK when the test is repeated (re-fit
+old expansion valve), clean the refrigerant circuit (flush with
+refrigerant R134a ⇒ page 59 or blow out with compressed air
+and nitrogen ⇒ page 55 ). Then replace the air conditioner
+compressor and receiver.
+♦ With this fault, the evaporator may ice up although the quantity
+of refrigerant in the circuit is OK.
+♦ If the expansion valve is defective (permanently closed or
+does not open sufficiently), -N280- is actuated to maximum
+output and the low pressure drops to the value in the graph or
+below (the air conditioner compressor draws off refrigerant
+from the low-pressure end). As however refrigerant cannot
+flow via the expansion valve, the cooling output is not attained
+and the high pressure may also not increase or only increase
+slightly due to the absence of energy conversion ⇒ Vehicle
+diagnostic tester ( „self-diagnosis“ or „guided fault-finding“
+function for air conditioner) and ⇒ Heating, air conditioning;
+Rep. gr. 87 or ⇒ Air conditioning; Rep. gr. 87 (vehicle-specific
+workshop manual).
+129
+7. Checking pressures

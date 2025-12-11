@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+NO -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM, refer to the ECM/PCM
+REPLACEMENT . If any other Temporary DTCs or DTCs are indicated, go
+to the indicated DTC's troubleshooting.
+LOW FUEL INDICATOR TROUBLESHOOTING
+If the low fuel indicator is blinking, do this:
+NOTE: If the PCM has any DTCs, do the DTC troubleshooting first.
+1. Turn the ignition switch ON (II).
+2. Check the LOW FUEL INDICATOR in the DATA LIST with the HDS.
+Is ON indicated?
+YES -Intermittent failure, the system is OK at this time. Check for poor
+connections or loose terminals at the fuel pressure switch and the PCM, then
+disconnect the negative cable from the battery for a few seconds to reset the
+low fuel indicator.
+NO -Go to step 3.
+3. Turn the ignition switch OFF.
+4. Disconnect the fuel pressure switch 2P connector (see FUEL PRESSURE
+SWITCH REPLACEMENT ).
+5. Check for continuity between fuel pressure switch 2P connector terminal No. 2
+and body ground.

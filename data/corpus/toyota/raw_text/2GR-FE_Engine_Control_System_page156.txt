@@ -1,0 +1,26 @@
+ES–156
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+C CHECK FOR INTERMITTENT PROBLEMS
+A
+3 CHECK ENGINE COOLANT TEMPERATURE SENSOR (CHECK FOR OPEN IN SENSOR)
+(a) Confirm good connection of the sensor.
+(b) Disconnect the C4 engine coolant temperature (ECT)
+C4 sensor connector.
+ECM
+ECT Sensor (c) Connect terminals 1 and 2 of the ECT sensor connector
+on the wire harness side.
+(d) Connect the intelligent tester to the DLC3.
+THW (e) Turn the ignition switch on (IG).
+(f) Turn the tester on.
+ES
+ETHW (g) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DATA LIST / PRIMARY / COOLANT TEMP.
+(h) Read the value displayed on the tester.
+Wire Harness Side:
+Standard:
+140°C (284°F) or higher.
+C4 ECT Sensor (i) Reconnect the ECT sensor connector.
+OK REPLACE ENGINE COOLANT
+TEMPERATURE SENSOR (See page ES-499)
+A107691E25
+NG

@@ -1,0 +1,67 @@
+ES–78
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Suspected Trouble MIL Memory See page
+Area
+P0300 Random / Multiple 1. Open or short in Comes on or flashes DTC stored ES-204
+Cylinder Misfire engine wire harness
+Detected 2. Connector
+connections
+3. Vacuum hose
+connection
+4. Ignition system
+5. Injector
+6. Fuel pressure
+7. Mass Air Flow
+(MAF) meter
+8. Engine Coolant
+Temperature (ECT)
+sensor
+9. Compression
+pressure
+ES 10. Valve clearance
+11. Valve timing
+12. PCV valve and
+hose
+13. PCV hose
+connections
+14. Air induction
+system
+15. ECM
+P0301 Cylinder 1 Misfire Same as DTC P0300 Comes on or flashes DTC stored ES-204
+Detected
+P0302 Cylinder 2 Misfire Same as DTC P0300 Comes on or flashes DTC stored ES-204
+Detected
+P0303 Cylinder 3 Misfire Same as DTC P0300 Comes on or flashes DTC stored ES-204
+Detected
+P0304 Cylinder 4 Misfire Same as DTC P0300 Comes on or flashes DTC stored ES-204
+Detected
+P0305 Cylinder 5 Misfire Same as DTC P0300 Comes on or flashes DTC stored ES-204
+Detected
+P0306 Cylinder 6 Misfire Same as DTC P0300 Comes on or flashes DTC stored ES-204
+Detected
+P0327 Knock Sensor 1 1. Short in knock Comes on DTC stored ES-216
+Circuit Low Input sensor 1 circuit
+(Bank 1 or Single 2. Knock sensor 1
+Sensor) 3. ECM
+P0328 Knock Sensor 1 1. Open in knock Comes on DTC stored ES-216
+Circuit High Input sensor 1 circuit
+(Bank 1 or Single 2. Knock sensor 1
+Sensor) 3. ECM
+P0332 Knock Sensor 2 1. Short in knock Comes on DTC stored ES-216
+Circuit Low Input sensor 2 circuit
+(Bank 2) 2. Knock sensor 2
+3. ECM
+P0333 Knock Sensor 2 1. Open in knock Comes on DTC stored ES-216
+Circuit High Input sensor 2 circuit
+(Bank 2) 2. Knock sensor 2
+3. ECM
+P0335 Crankshaft Position 1. Open or short in Comes on DTC stored ES-222
+Sensor "A" Circuit Crankshaft Position
+Sensor (CKP) circuit
+2. CKP sensor
+3. Sensor plate (CKP
+sensor plate)
+4. ECM
+P0339 Crankshaft Position Same as DTC P0335 Does not come on DTC stored ES-222
+Sensor "A" Circuit
+Intermittent

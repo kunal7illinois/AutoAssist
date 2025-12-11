@@ -1,0 +1,42 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-193
+SYMPTOM PROCEDURES
+STEP 4. Check at windshield wiper motor connector A-03
+to check the windshield wiper motor ground circuit.
+(1) Disconnect windshield wiper motor connector A-03, and
+CONNECTOR: A-03
+A-03 measure at the wiring harness side.
+1 2 3 4 5
+AACC110066667722AB
+(2) Measure the resistance value between terminal 5 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR A-03
+Q: Does the measured resistance value correspond with
+(HARNESS SIDE)
+this range?
+5 4 3 2 1 YES : Go to Step 7.
+NO : Go to Step 5.
+AC002115AB
+STEP 5. Check windshield wiper motor connector A-03 for
+damage.
+Q:Is windshield wiper motor connector A-03 in good
+CONNECTOR: A-03
+A-03
+condition?
+1 2 3 4 5 YES : Go to Step 6.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. Check
+that the windshield wiper works normally.
+AACC110066667722AB
+STEP 6. Check the wiring harness between windshield
+wiper motor connector A-03 (terminal 5) and ground.
+Q:Is the wiring harness between windshield wiper motor
+CONNECTOR: A-03
+A-03
+connector A-03 (terminal 5) and ground in good
+1 2 3 4 5 condition?
+YES : No action to be taken.
+NO : Repair the wiring harness. Check that the windshield
+wiper works normally.
+AACC110066667722AB
+TSB Revision

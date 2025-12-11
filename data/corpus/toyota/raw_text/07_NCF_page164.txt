@@ -1,0 +1,40 @@
+ENGINE - 2GR-FE ENGINE EG-137
+Fail-safe of Accelerator Pedal Position Sensor
+The accelerator pedal position sensor comprises two (Main, Sub) sensor circuits.
+(cid:3) If a malfunction occurs in either of the sensor circuits, the ECM detects the abnormal signal voltage
+difference between these two sensor circuits and switches into the limp mode. In the limp mode, the
+remaining circuit is used to calculate the accelerator pedal opening, in order to operate the vehicle under
+limp mode control.
+ECM
+Accelerator Pedal Return Spring
+Position Sensor Open
+Main Sub
+Main
+M
+Sub
+Throttle
+Throttle Throttle Valve
+Control
+Position
+Motor
+Sensor
+Throttle Body
+D13N08
+(cid:3) If both circuits malfunction, the ECM detects the abnormal signal voltage from these two sensor circuits
+and discontinues the throttle control. At this time, the vehicle can be driven within its idling range.
+ECM
+Accelerator Pedal Return Spring
+Close
+Position Sensor
+Main Sub
+Main
+M
+Sub
+Throttle
+Throttle Throttle Valve
+Control
+Position
+Motor
+Sensor
+Throttle Body
+D13N09

@@ -1,0 +1,28 @@
+CH-116 CHASSIS - BRAKE
+ABS with EBD Operation
+Based on the signals received from the 4 wheel speed sensors and yaw rate & deceleration sensor, the skid
+control ECU calculates each wheel speed and deceleration, and checks wheel slipping condition. According
+to the slipping condition, the ECU controls the pressure holding solenoid valve and pressure reduction
+solenoid valve in order to adjust the fluid pressure of each wheel cylinder in the following three modes:
+pressure reduction, pressure holding, and pressure increase modes.
+Not Activated Normal Braking — —
+Activated Pressure Increase Mode Pressure Holding Mode Pressure Reduction Mode
+Port A
+To
+Reservoir
+Pressure Holding
+and Pump
+Solenoid Valve
+Hydraulic Circuit
+Port B
+Pressure Reduction From Wheel
+Solenoid Valve To Wheel Cylinder
+Cylinder
+D13N69 D13N70 D13N71
+Pressure Holding
+OFF/Open ON/Close ON/Close
+Valve (Port A)
+Pressure
+Reduction OFF/Close OFF/Close ON/Open
+Valve (Port B)
+Pressure Increase Hold Reduce

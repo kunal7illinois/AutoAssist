@@ -1,0 +1,66 @@
+DL–83
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/ Smart Key System)
+DATA LIST / ACTIVE TEST
+1. DATA LIST
+HINT:
+Using the intelligent tester DATA LIST allows switch,
+sensor, actuator and other item values to be read without
+removing any parts. Reading the DATA LIST early in
+troubleshooting is one way to shorten labor time.
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the engine switch on (IG).
+(c) Enter the following menus: DIAGNOSIS / OBD/
+MOBD / BODY or SMART / DATA LIST.
+(d) Read the DATA LIST according to the display on the
+tester.
+MAIN BODY (Main body ECU):
+Diagnostic
+Item Measurement Item/Display (Range) Normal Condition
+Note
+Wireless door lock control function / ON ON: Operating
+WIRELESS OPER -
+or OFF OFF: Not operating
+HAZARD ANS Hazard answer-back of wireless / ON or ON: Operating
+-
+BACK OFF OFF: Not operating
+OPEN DOOR ON: Operating
+Open door warning / ON or OFF -
+WARN OFF: Not operating
+AUTO LOCK 60 s: 60 seconds
+Automatic lock time / 60 s or 30 s -
+DELAY 30 s: 30 seconds
+2 times operation of wireless unlock / ON ON: All doors unlock when UNLOCK is pressed twice
+UNLOCK /2OPER -
+or OFF OFF: All doors unlock when UNLOCK is pressed once
+WIRLS BUZZ Wireless door lock buzzer response / ON ON: Operating
+-
+RESP or OFF OFF: Not operating
+1 TIME: Luggage compartment door opens when LUGGAGE
+OPEN switch is pressed once
+Luggage compartment door open 2 TIME: Luggage compartment door opens when LUGGAGE
+TRUNK LID OPER function type / 1 TIME/2 TIME/ 0.6 s PR/ OPEN switch is pressed twice -
+OFF 0.6 s PR: Luggage compartment door opens when LUGGAGE
+OPEN switch is pressed and held down for 0.6 seconds.
+OFF: Not operating
+SMART (Certification ECU):
+Diagnostic
+Item Measurement Item/Display (Range) Normal Condition
+Note
+ALARM ON: Operating
+Panic function / ON or OFF -
+FUNCTION OFF: Not operating
+2. ACTIVE TEST
+DL
+HINT:
+Performing the intelligent tester ACTIVE TEST allows
+relay, VSV, actuator and other items to be operated
+without removing any parts. Performing the ACTIVE
+TEST early in troubleshooting is one way to shorten the
+labor time. The DATA LIST can be displayed during the
+ACTIVE TEST.
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the engine switch on (IG).
+(c) Enter the following menus: DIAGNOSIS / OBD/
+MOBD / BODY or SMART / ACTIVE TEST.

@@ -1,0 +1,29 @@
+ST–43
+2GR-FE STARTING – SMART KEY SYSTEM
+3 INSPECT RELAY (IG2 RELAY)
+(a) Remove the IG2 relay from the engine room R/B.
+(b) Measure the resistance according to the value(s) in the
+2
+1 table below.
+Standard resistance
+3 5
+5 Tester Connection Specified Condition
+3 - 5 10 kΩ or higher
+1 2 Below 1 Ω (when battery voltage is applied to
+3 - 5
+3 terminals 1 and 2)
+B060778E89 NG REPLACE RELAY
+OK
+4 CHECK WIRE HARNESS (ENGINE ROOM R/B - MAIN BODY ECU AND BODY GROUND)
+(a) Remove the IG2 relay from the engine room R/B.
+Wire Harness Side:
+E6
+Main Body ECU
+Engine Room R/B
+IG2D
+IG2 Relay Terminal
+ST
+B138002E01
+(b) Disconnect the E6 ECU connector.
+(c) Measure the resistance according to the value(s) in the
+table below.

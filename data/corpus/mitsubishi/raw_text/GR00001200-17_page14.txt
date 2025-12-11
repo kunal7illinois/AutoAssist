@@ -1,0 +1,30 @@
+17-14 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+STEP 2. Check auto-cruise control-ECU connector C-20
+and intermediate connector C-94.
+Q:Is the connector damaged?
+CONNECTOR: C-20
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that diagnostic trouble code 11 is not
+output.
+NO : Go to Step 3.
+AC001451AB
+CONNECTOR: C-94
+CONNECTOR
+BLOCK (RH)
+AC101197AB
+STEP 3. Check auto-cruise control vacuum pump
+connector A-01.
+Q:Is the connector damaged?
+CONNECTOR: A-01
+YES : Repair or replace connector.
+RESERVE Refer to GROUP 00E, Harness Connector Inspection
+TANK
+P.00E-2.
+Then check that diagnostic trouble code 11 is not
+output.
+NO : Go to Step 4.
+AC001449AB
+TSB Revision

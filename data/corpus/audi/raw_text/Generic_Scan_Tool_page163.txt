@@ -1,0 +1,54 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Specified value: Battery voltage.
+– Switch the ignition OFF.
+If the specified value was Not obtained:
+– Check the wiring for an open, high resistance, short circuit to
+each other, or Ground.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If the specified value was obtained:
+Checking Ground activation
+If the manufacturers test box is being used, perform the following
+step.
+– Install the test box.
+If the manufacturers test box is not being used, perform the fol‐
+lowing step.
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Using a multimeter, check the Oxygen Sensor 02S) 1 (behind
+Three Way Cataly t ic Converter (TWC)) Heater -Z29- electrical
+harness connecto r terminal 2 to the Engine Control Module
+(ECM) -J623- electrical harness connector T94 terminal for an
+open circuit. Refer to Wiring Diagrams for pin locations.
+Oxygen Sensor 02S) 1 (be‐ Engine Control Module (ECM) -
+hind Three Way Catalytic J623- electrical connector T94
+Converter (TWC)) Heater - terminal or test box socket
+Z29- electrical harness con‐
+nector terminal
+2 7
+Specified value: 1.5 Ω max.
+If the specified value was Not obtained:
+– Check the wiring for an open or high resistance.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is detected in the wiring and the voltage supply
+was OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual .
+– Install the right vehicle floor cover.
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+159
+3. Diagnosis and Testing

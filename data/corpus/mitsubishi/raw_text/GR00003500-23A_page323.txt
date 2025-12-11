@@ -1,0 +1,53 @@
+AUTOMATIC TRANSAXLE 23A-323
+AUTOMATIC TRANSAXLE DIAGNOSIS
+DATA LIST REFERENCE TABLE
+M1231008100144
+MUT-II SCAN ITEM INSPECTION ITEM INSPECTION REQUIREMENT NORMAL
+TOOL NO. CONDITION
+DISPLAY
+2ND SOL 33 Second solenoid valve Selector lever Driving at constant 100%
+DUTY duty % position: L, 2, 3, D speed of 10 km/h
+<Vehicles without (6.2 mph) in 1st gear
+sport mode> or
+Driving at constant 0%
+Sport mode
+speed of 30 km/h (19
+<Vehicles with
+mph) in 2nd gear
+sport mode>
+Driving at constant 100%
+speed of 50 km/h (31
+mph) in 3rd gear
+Driving at constant 0%
+speed of 50 km/h (31
+mph) in 4th gear
+A/T CONT 54 A/T control relay Ignition switch: ON Battery positive
+RLY output voltage voltage
+A/T TMP 15 A/T fluid temperature Warming up Drive for 15 minutes Gradually rises
+SNSR sensor or more so that the to 70 − 80 °C
+A/T fluid temperature (158 − 176 °F)
+becomes 70 − 80 °C
+(158 − 176 °F)
+CRANK 21 Crankshaft position Engine: Idling Accelerator pedal: 600 − 900 r/min
+SENSOR sensor (after the worming Fully closed
+up)
+Accelerator pedal: Gradually rises
+Selector lever
+Depressed from the above
+position: P
+value
+DUAL 65 Dual pressure switch Engine: Idling A/C switch: ON ON
+PRESS SW Selector lever (While the A/C
+position: P, N compressor is in
+operation)
+A/C switch: OFF OFF
+ENGINE 57 Engine load Engine: Idling Accelerator pedal: Data changes
+LOAD (volumetric efficiency) Selector lever fully closed →
+position: P, N depressed
+INP SHFT 22 Input shaft speed Gear range: 3rd Driving at constant 1,600 − 1,900 r/
+SNSR sensor gear speed of 50 km/h (31 min <2.4L
+mph) Engine>
+1,300 − 1,600 r/
+min <3.0L
+Engine>
+TSB Revision

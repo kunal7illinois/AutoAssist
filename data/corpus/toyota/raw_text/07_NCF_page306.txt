@@ -1,0 +1,36 @@
+CH-142 CHASSIS - TIRE PRESSURE WARNING SYSTEM
+2. Tire Pressure Warning System Antenna & Receiver and
+Tire Pressure Warning System ECU
+(cid:3) The tire pressure warning system antenna & receiver, receives the radio wave signals from the tire pressure
+warning system valve & transmitter and transmits those signals to the tire pressure warning system ECU.
+(cid:3) The tire pressure warning system antenna & receiver receives the tire inflation pressure data and sensor
+identification data.
+(cid:3) The tire pressure warning system antenna & receiver can determine from the received data whether the
+signals came from its own tires.
+(cid:1) Wiring Diagram (cid:2)
+Combination Meter
+IG
+SPD
+IG Relay
+From IG IND
+Tire
+Battery
+Pressure
+Warning
+Light
+From
+GND2
+Main Body ECU*1
+Ignition Switch*2 Tire Pressure RDA Tire Pressure
+Warning System ECU Warning System
+CLSW Antenna & Receiver
+RF5V
+Tire Pressure
+Warning System
+Reset Switch GND
+SIL
+DLC3
+TC
+025CH61P
+*1: Models with smart key system
+*2: Except models with smart key system

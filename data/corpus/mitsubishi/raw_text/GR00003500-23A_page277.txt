@@ -1,0 +1,42 @@
+AUTOMATIC TRANSAXLE 23A-277
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 1. Using scan tool MB991502, carry out the actuator
+test item 06: Torque Converter Clutch Solenoid Valve.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to actuator test mode for item 06:
+Torque Converter Clutch Solenoid Valve.
+• An operation sound should be heard from solenoid
+valve when the torque converter clutch solenoid valve is
+operated.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the solenoid valve operating properly?
+MB991502
+AC001252AB YES : Go to Step 2.
+NO : Repair or replace the torque converter clutch solenoid
+valve. Refer to GROUP 23B, Valve Body P.23B-74.
+Then confirm that the symptom is eliminated.
+STEP 2. Check the vibration.
+Q:Does the vibration occur when the transmission fluid
+temperature sensor connector has been disconnected?
+YES : Check the engine system. Refer to GROUP 13A
+<2.4L Engine>, Diagnosis − Symptom Chart − Driving
+P.13A-25, or GROUP 13B <3.0L Engine>, Diagnosis
+− Symptom Chart − Driving P.13B-26. If the
+inspection result is not good, diagnose, repair, and/or
+replace the engine component(s).
+NO : Go to Step 3.
+STEP 3. Check the torque converter hydraulic pressure.
+Measure the torque converter hydraulic pressure. Then check if
+the torque converter hydraulic pressure is within the standard
+value. Refer to P.23A-26, Hydraulic Pressure Test.
+Q:Is the torque converter hydraulic pressure within the
+standard value?
+YES : Go to Step 4.
+NO : Go to Step 5.
+TSB Revision

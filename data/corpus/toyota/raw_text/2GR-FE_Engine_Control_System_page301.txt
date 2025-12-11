@@ -1,0 +1,44 @@
+ES–301
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+TYPICAL MALFUNCTION THRESHOLDS
+P050A:
+Accumulated mass air flow Varies with ECT (Example: Less than 42.5 g)
+P050B:
+Accumulated time when ignition timing retard is cut off 5 seconds or more
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using an intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the time of
+ES
+a malfunction (See page ES-45).
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P050A AND/OR P050B)
+(a) Connect an intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Select the following the menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(e) Read the DTCs.
+Result
+Display (DTC Output) Proceed to
+P050A and/or P050B A
+P050A and/or P050B and other DTCs B
+HINT:
+If any DTCs other than P050A and P050B are output,
+troubleshoot those DTCs first.
+B GO TO DTC CHART (See page ES-63)
+A
+2 READ VALUE USING INTELLIGENT TESTER (FUEL TRIM)
+HINT:
+Calculate the total fuel trim values to check the characteristic
+deviation of the mass air flow meter.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY / SHORT
+FT #1 and LONG FT #1.
+(e) Read the values displayed on the tester.
+(f) Add together the SHORT FT #1 and LONG FT #1 values
+to obtain the total FUEL TRIM.

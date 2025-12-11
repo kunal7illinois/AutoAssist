@@ -1,0 +1,72 @@
+LI–18
+LIGHTING – LIGHTING SYSTEM
+Symbols Wiring Color Terminal Description Condition Specified Condition
+ALTB (ID-16) - Body
+W - Body ground Generator power supply Always 10 to 14 V
+ground
+Standard resistance
+Symbols Wiring Color Terminal Description Condition Specified Condition
+GND1 (IF-10) - Body
+W-B - Body ground Ground Always Below 1 Ω
+ground
+GND2 (IM-9) - Body
+W-B - Body ground Ground Always Below 1 Ω
+ground
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the IA, ID, IF, and IM J/B connectors.
+(d) Measure the resistance and voltage between the
+specified terminals of the J/B connectors and body
+ground.
+Standard resistance
+Symbols Wiring Color Terminal Description Condition Specified Condition
+CLTE (E6-18) - Body Automatic light control
+BR - Body ground Always Below 1 Ω
+ground ground
+Standard voltage
+Symbols Wiring Color Terminal Description Condition Specified Condition
+Parking brake switch ON Below 1 V
+PKB (IC-14) - Body Parking brake switch
+ground (*3) L - Body ground input Parking brake switch 10 to 14 V
+OFF
+Light control switch in
+Below 1 V
+HRLY (ID-3) - Body Headlight relay drive HEAD
+P - Body ground
+ground output Light control switch not
+10 to 14 V
+in HEAD
+Dimmer switch in HIGH
+DRL (ID-9) - Body V - Body ground High beam headlights or HIGH FLASH Below 1 V
+ground drive output
+Dimmer switch in LOW 10 to 14 V
+Dimmer switch in HIGH
+HU (IG-5) - Body ground LG - Body ground Dimmer switch HIGH or HIGH FLASH 10 to 14 V
+input
+Dimmer switch in LOW Below 1 V
+Interior light and ignition
+ILE (II-10) - Body ground Interior light and ignition key cylinder light ON Below 1 V
+LI BR - Body ground key cylinder light drive
+(*2) Interior light and ignition
+output 10 to 14 V
+key cylinder light OFF
+Parking brake switch ON Below 1 V
+PKB (IM-2) - Body Parking brake switch
+ground (*4) Y - Body ground input Parking brake switch 10 to 14 V
+OFF (Released)
+LCTY (IO-7) - Body Rear left door courtesy Rear left door open Below 1 V
+LG - Body ground
+ground switch input Rear left door closed 10 to 14 V
+LSR (IP-5) - Body ground Rear left door lock Rear left door locked 10 to 14 V
+GR - Body ground
+(*2) position switch input Rear left door unlocked Below 1 V
+LSWL (IP-5) - Body Rear left door lock Rear left door locked 10 to 14 V
+GR - Body ground
+ground (*2) position switch input Rear left door unlocked Below 1 V
+Light control switch in
+Below 1 V
+HEAD (E6-17) - Body Light control switch HEAD
+P - Body ground
+ground HEAD input Light control switch not
+10 to 14 V
+in HEAD

@@ -1,0 +1,48 @@
+ES–248
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+IG2 Relay
+IG2
+A
+5 3
+1 2
+E23
+Ignition SW
+FL MAIN
+ST/AM2
+*2 5 AM2 IG2 6 *2
+*1 *1: with Smart Key System
+ES
+Battery E6 *2: without Smart Key System
+Main Body ECU IG2D
+11
+A133855E01
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).
+1 INSPECT IGNITION COIL ASSEMBLY (POWER SOURCE)
+(a) Disconnect the C11, C13, C12, C14, C38 or C39 ignition
+Wire Harness Side:
+coil connector.
+Ignition Coil Connector (b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Tester Connection Specified Condition
+C11 C13 C12
+C11-1 - Body ground 9 to 14 V
+C14 C38 C39 C13-1 - Body ground 9 to 14 V
+A054393E66
+C12-1 - Body ground 9 to 14 V
+C14-1 - Body ground 9 to 14 V
+C38-1 - Body ground 9 to 14 V
+C39-1 - Body ground 9 to 14 V
+(d) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Specified Condition
+C11-4 - Body ground Below 1 Ω
+C13-4 - Body ground Below 1 Ω

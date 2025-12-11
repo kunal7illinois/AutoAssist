@@ -1,0 +1,54 @@
+Audi TT No. 9 / 2
+Current Flow Diagram
+ABS control unit, ABS hydraulic pump, fuses
+A Battery
+J104 ABS control unit
+J519 Onboard supply control unit
+J681 Terminal 15 voltage supply relay 2
+SC1 Fuse 1 on fuse holder C
+SC2 Fuse 2 on fuse holder C
+SC4 Fuse 4 on fuse holder C
+SD1 Fuse 1 on fuse holder D
+✱✱ SD2 Fuse 2 on fuse holder D
+J519 J681
+SF8 Fuse 8 on fuse holder F
+T2t/2 8/87 ✱ T2t 2-pin connector, black connector L, on onboard supply control
+unit
+4,0 # 4,0 ## SD2 SD1 T47 47-pin connector, on ABS control unit
+sw sw 110A 40A V64 ABS hydraulic pump
+88 A1 D1 C1
+B163 B+ 43 Earth point, lower part of right A-pillar
+4,0 6,0 A 16,0
+sw ro ro
+B163 Positive connection 1 (15), in interior wiring harness
+M V64
+1 2 4 8 B278 Positive connection 2 (15a), in main wiring harness
+SC1 SC2 SC4 SF8 J104
+10A 5A 5A 20A
+1a 2a 4a 8a B301 Positive connection 5 (30), in main wiring harness
+B301
+* main fuse box, in luggage compartment, rear right, on the battery
+T47/1 T47/32 T47/16 T47/47
+30 30 31 31 ** Relay carrier on onboard power supply control unit
+# up to May 2009
+## from June 2009
+0,5 0,5 0,5 6,0 4,0 4,0 4,0 4,0
+ge/sw ge/sw sw/ro ro ro/gn ro/ws br br
+1155 1199 55
+B278
+0,5
+sw/ro
+ws = white
+sw = black
+2277
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+43 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-009020409
+rs = pink
+Edition 04.2009

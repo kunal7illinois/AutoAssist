@@ -1,0 +1,59 @@
+Audi TT No. 46 / 15
+Current Flow Diagram
+Engine control unit, additional coolant pump relay, engine
+component current supply relay, continued coolant
+circulation pump
+J496 Additional coolant pump relay
+J623 Engine control unit
+J757 Engine component current supply relay
+N492 Refrigerant circulation solenoid valve
+SB1 Fuse 1 on fuse holder B
+SB2 Fuse 2 on fuse holder B
+B537 4,0# T10 10-pin connector, black, in front left engine compartment
+4,0 1,5## 2,5 T94 94-pin connector, on engine control unit
+sw/ge sw/ge sw/ge
+V51 Continued coolant circulation pump
+1 2
+118844
+ST2 SB1 SB2 B537 Connection 28 in main wiring harness
+15A 30A
+1a 2a
+D108 Connection 6, in engine compartment wiring harness
+1,5 2,5
+sw/gn ro/bl * Relay and fuse carrier in electronics box engine compartment
+# up to May 2009
+118822 227799 ## from June 2009
+J623
+T94/32 T94/33
+D108
+#
+0,35 0,5 0,5 0,5 0,5
+sw/br ro/ws gn/ge gn/ge gn/ge
+T10/5 1 1
+##
+0,35
+li/br V51 M N492
+2/31 2/31
+118844
+4,0 0,5 0,5 0,5
+sw/ge gn/ge br br
+##
+22/86## 42/87a 52/87##
+ 8/87 6/85  2/86# 4/87a# 5/87#
+55 2.2 T10/6 T10/2
+J757 J496
+2/30 4/86 1/85# 3/30# ws = white
+12/85## 32/30## sw = black
+ro = red
+4,0 0,35 0,35 0,5 0,5 0,5 br = brown
+ro bl/ro ro/gn ro/gn br br
+gn = green
+bl = blue
+6600 5511 119988 119999 223344 223355
+gr = grey
+li = purple
+ge = yellow
+183 184 185 186 187 188 189 190 191 192 193 194 195 196 or = orange
+8J0-046150909
+rs = pink
+Edition 04.2010

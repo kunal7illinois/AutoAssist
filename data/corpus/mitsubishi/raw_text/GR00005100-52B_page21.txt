@@ -1,0 +1,47 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-21
+SRS AIR BAG DIAGNOSIS
+DTC CHART
+M1524003300283
+Inspect according to the inspection chart that is appropriate for the DTC.
+CODE NO. ON-BOARD DIAGNOSTIC ITEM REFERENCE PAGE
+14 Analog G-sensor system in the SRS-ECU P.52B-23
+15 Safing G-sensor short circuit P.52B-23
+16 Safing G-sensor open circuit P.52B-23
+17 Safing G-sensor for side-airbag faults P.52B-23
+21*2 Driver’s air bag module (squib) system fault 1 (Short circuit between P.52B-25
+terminals of the squib circuit)
+22*2 Driver’s air bag module (squib) system fault 2 (Open in the squib circuit) P.52B-31
+24*2 Passenger(cid:146)s (front) air bag module (squib) system fault 1 (Short circuit P.52B-35
+between terminals of the squib circuit)
+25*2 Passenger(cid:146)s (front) air bag module (squib) system fault 2 (Open in the P.52B-40
+squib circuit)
+31 SRS-ECU capacitor circuit voltage too high P.52B-23
+32 SRS-ECU capacitor circuit voltage too low P.52B-23
+34*1 Connector lock system detects connector unlocked P.52B-43
+35 SRS-ECU air bag condition monitor detects deployed air bag P.52B-44
+41*1 IG1 power circuit system (fuse No.23 circuit) P.52B-45
+42*1 IG1 power circuit system (fuse No.22 circuit) P.52B-52
+43 SRS warning light drive circuit system Light does not illuminate*1 P.52B-57
+fault 1
+Light does not switch off P.52B-61
+44*1 SRS warning light drive circuit system fault 2 P.52B-57
+45 SRS-ECU non-volatile memory (EEPROM) and A/D converter system P.52B-23
+51 Driver’s air bag module (squib ignition drive circuit) system detected P.52B-23
+short circuit
+52 Driver’s air bag module (squib ignition drive circuit) system detected P.52B-23
+open circuit
+54 Passenger’s (front) air bag module (squib ignition drive circuit) system P.52B-23
+detected short circuit
+55 Passenger’s (front) air bag module (squib ignition drive circuit) system P.52B-23
+detected open circuit
+61 Driver’s air bag module (squib) system fault for power supply circuit P.52B-66
+(Short-circuited to power supply)
+62 Driver’s s air bag module (squib) system fault for ground circuit (Short- P.52B-70
+circuited to ground)
+64 Passenger(cid:146)s (front) air bag module (squib) system fault for power P.52B-74
+supply circuit (Short-circuited to power supply)
+65 Passenger(cid:146)s (front) air bag module (squib) system fault for ground P.52B-78
+circuit (Short-circuited to ground)
+71*2 Right hand side-airbag module (squib) system fault 1 (Short circuit P.52B-82
+between terminals of the squib circuit)
+TSB Revision

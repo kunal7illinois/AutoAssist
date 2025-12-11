@@ -1,0 +1,48 @@
+13A-588 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+ON-VEHICLE SERVICE
+IDLE AIR CONTROL MOTOR (STEPPER MOTOR)
+CHECK
+M1131005400075
+Required Special Tool:
+• MB991709: Test Harness Set
+.
+Checking the Operation Sound
+1. Check that the engine coolant temperature is 20°C (68°F) or
+below.
+NOTE: If necessary, you can disconnect the engine coolant
+temperature sensor connector and connect the harness-side
+of the connector to another engine coolant temperature sen-
+sor that is at 20°C (68°F) or below.
+2. Check that the operation sound of the stepper motor can be
+heard after the ignition is switched ON (but do not start the
+engine).
+3. If the operation sound cannot be heard, check the stepper
+motor’s activation circuit. If the circuit is normal, it is
+probable that there is a malfunction of the stepper motor or
+engine control module (ECM) <M/T> or powertrain control
+module (PCM) <A/T>.
+.
+Checking the Coil Resistance
+1. Disconnect the idle air control motor connector.
+2. Measure resistance between terminal 2 and either terminal
+1 or terminal 3 of the connector at the idle air control motor
+side.
+Standard value: 28 − 33 Ω [at 20°C (68°F)]
+3. If resistance is not within the standard value, replace the IAC
+motor.
+4. Measure the resistance between terminal 5 and either
+terminal 6 or terminal 4 of the connector at the idle air
+1 2 3
+4 5 6 control motor side.
+Standard value: 28 − 33 Ω [at 20°C (68°F)]
+5. If resistance is not within the standard value, replace the IAC
+motor.
+1 2 3 .
+<Operation Check>
+4 5 6
+1. Remove the throttle body.
+2. Remove the idle air control motor.
+3. Connect special tool MB991709 to the idle air control motor
+connector.
+AKX01561AB
+TSB Revision

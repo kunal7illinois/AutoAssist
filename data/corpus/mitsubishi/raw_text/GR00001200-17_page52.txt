@@ -1,0 +1,47 @@
+17-52 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+STEP 3. Check stoplight switch connector C-03.
+Q:Is the connector damaged?
+CONNECTOR: C-03
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that the malfunction is eliminated.
+NO : Go to Step 4.
+AC101196AE
+STEP 4. Check the harness wire between dedicated fuse
+No.5 and stoplight switch connector C-03 (terminal
+number 2).
+Q:Is any harness wire between dedicated fuse No.5 and
+CONNECTOR: C-03
+stoplight switch connector C-03 (terminal number 2)
+damaged?
+YES : Repair the harness wire and then check that the
+malfunction is eliminated.
+NO : Check that the malfunction is eliminated.
+If the malfunction is not eliminated, replace the auto-
+cruise control-ECU. (Refer to P.17-86.)
+Then check that the malfunction is eliminated.
+AC101196AE
+STEP 5. Check the stoplight switch.
+(1) Disconnect harness connector C-03 at the stoplight switch.
+(2) Connect an ohmmeter to the stoplight switch, and check
+continuity when the plunger of the stoplight switch is
+pushed in and when it is released.
+(3) The stoplight switch is in good condition if the circuit is open
+when the plunger is pushed in to a depth of within 4 mm
+NO CONTINUITY CONTINUITY
+(0.2 inch) from the outer case edge surface, and if the
+resistance value is less than 2 ohm when it is released.
+(4) The check for continuity should be made at terminals 1 and
+2 of the stoplight switch.
+4 mm (0.2 in)
+AC001478AB Q:Is the circuit open?
+YES : Replace the stoplight switch.
+Refer to GROUP 35A, Brake Pedal P.35A-31.
+Then check that the malfunction is eliminated.
+NO : Go to Step 6.
+STOPLIGHT SWITCH
+CONNECTOR: C-03
+ACX02256AC
+TSB Revision

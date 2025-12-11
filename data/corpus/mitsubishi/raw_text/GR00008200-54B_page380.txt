@@ -1,0 +1,44 @@
+54B-380 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 3. Check the fog light relay.
+CONNECTOR: A-05X
+BATTERY VOLTAGE TESTER SPECIFIED
+CONNECTION CONDITION
+FRONT-ECU Not applied 1 − 4 Open circuit
+• Connect terminal 2 to 1 − 4 Less than 2
+the positive battery ohm
+terminal
+• Connect terminal 3 to
+the negative battery
+terminal
+Q:Is the fog light relay in good condition?
+YES : Go to Step 4.
+NO : Replace the fog light relay. Check that the fog lights
+1 2 1
+4 illuminate normally.
+3 4
+2 3
+AC106538AC
+STEP 4. Measure at fog light relay connector A-04X in
+order to the battery power supply to the fog light relay.
+(1) Disconnect fog light relay connector A-04X, and measure at
+CONNECTOR: A-04X
+the relay box side.
+FRONT-ECU
+DEVICE SIDE
+A-04X
+1 2
+X
+3 4
+AC106537AG
+(2) Measure the voltage between terminal 1, 2 and ground.
+• The measured value should be approximately 12 volts
+CONNECTOR A-04X (battery positive voltage).
+(RELAY BOX SIDE)
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 7.
+NO : Go to Step 5.
+2 1
+4 3
+AC101914AB
+TSB Revision

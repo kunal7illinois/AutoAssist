@@ -1,0 +1,48 @@
+RS–44
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+(7) Check if the SRS warning light goes off within 2
+to 4 seconds after connecting terminals TC and
+CG of the DLC3. Also check if the normal
+system code is output within 1 second after the
+SRS warning light goes off.
+If DTCs are not cleared, repeat this procedure
+until the codes are cleared.
+ON (IG)
+Ignition Switch
+Off
+Open
+DLC3 (TC and CG)
+Short
+0.5 sec. 0.5 sec. 0.25 sec. 0.25 sec.
+SRS Warning Light (*)
+ON
+T1: 0 to ∞ sec.
+OFF
+T2: approx. 6 sec.
+1.5 sec.
+T3: 3 to 5 sec.
+T4: 3 to 10 sec.
+T1 T2 T3 T4 T5 T6 T5 T6 T5 T6 T5 T7
+T5: 2 to 4 sec.
+RS
+T6: 1 to 5 sec.
+T7: within 1 sec. *: The past trouble code in the illustration shows DTC 21 as an example.
+C C123780E02
+3. DTC CHECK
+(a) Check the DTCs.
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch on (IG).
+(3) Check the DTCs by following the prompts on the
+tester screen.
+HINT:
+Refer to the intelligent tester operator's manual
+for further details.
+(b) Clear the DTCs.
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch on (IG).
+(3) Clear the DTCs by following the prompts on the
+DLC3 tester screen.
+Intelligent Tester
+HINT:
+C131977E01 Refer to the intelligent tester operator's manual
+for further details.

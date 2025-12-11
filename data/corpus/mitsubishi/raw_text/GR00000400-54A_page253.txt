@@ -1,0 +1,28 @@
+CHASSIS ELECTRICAL 54A-253
+MULTI-CENTER DISPLAY
+STEP 5. Replace the compass sensor.
+(1) Replace the compass sensor.
+(2) The system should communicate with the compass is
+normally.
+Q:Is the compass displayed correctly?
+YES : No action to be taken.
+NO : Replace the compass-ECU.
+INSPECTION PROCEURE 3: The Compass is not Correct.
+STEP 1. Check the vehicle location STEP 3.Correct magnetic declination
+Q: Are there any constructions, such as high-voltage Q: Was magnetic declination corrected?
+wires or a steel bridge, which might affect the YES : Go to Step 4.
+compass sensor? NO : Correct the magnetic declination. (Refer to
+YES : After moving to a location where the P.54A-264.)
+magnetic field is stable, check the faulty
+condition again.
+STEP 4. Demagnetize
+NO : Go to Step 2.
+Q: Was that demagnetized?
+YES : Replace the compass sensor.
+STEP 2. Correct magnetization
+NO : Demagnetize it. (Refer to P.54A-266.)
+Q: Was magnetization corrected?
+YES : Go to Step 3.
+NO : Correct magnetization. (Refer to P.54A-
+266.)
+TSB Revision

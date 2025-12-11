@@ -1,0 +1,38 @@
+BC–272
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+2 INSPECT DLC3
+(a) Turn the ignition switch on (IG).
+DLC3:
+CG (b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+E10 E10-13 (TC) - E10-4 (CG) Ignition switch on (IG) 10 to 14 V
+OK Go to step 5
+TC
+G022986E20
+NG
+3 CHECK HARNESS AND CONNECTOR (TC of DLC3 - ECM)
+BC
+(a) Turn the ignition switch off.
+DLC3: (b) Disconnect the ECM connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+2GR-FE
+E10 Tester Connection Condition Specified Condition
+E10-13 (TC) - A55-27 (TC) Always Below 1 Ω
+E10-13 (TC) - Body ground Always 10 kΩ or higher
+TC
+2AZ-FE
+ECM Wire Harness View:
+Tester Connection Condition Specified Condition
+E10-13 (TC) - A24-27 (TC) Always Below 1 Ω
+E10-13 (TC) - Body ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+A55-27 (TC) (*1)
+A24-27 (TC) (*2)
+(*1): 2GR-FE (*2): 2AZ-FE
+C136035E02
+OK

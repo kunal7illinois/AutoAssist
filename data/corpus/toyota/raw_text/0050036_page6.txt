@@ -1,0 +1,72 @@
+ES–210
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Evaporative Emission Control System Incorrect
+DTC P0441
+Purge Flow
+DTC SUMMARY
+Detection Detection
+DTC Monitoring Items Malfunction Detection Conditions Trouble Areas
+Timings Logic
+Leak detection pump creates negative
+• Purge VSV
+pressure (vacuum) in EVAP system and
+• Connector/wire harness
+EVAP system pressure measured.
+Purge VSV (Vacuum (Purge VSV - ECM)
+Reference pressure measured at start While ignition
+Switching Valve) stuck • ECM 2 trip
+and at end of leak check. switch OFF
+open • Canister pump module
+If stabilized pressure higher than [second
+• Leakage from EVAP
+reference pressure x 0.2], ECM
+ES system
+determines that purge VSV stuck open.
+After EVAP leak check performed, purge
+• Purge VSV
+VSV turned ON (open), and atmospheric
+• Connector/wire harness
+air introduced into EVAP system.
+(Purge VSV - ECM)
+Reference pressure measured at start While ignition
+Purge VSV stuck closed • ECM 2 trip
+and at end of check. switch OFF
+• Canister pump module
+P0441 If pressure does not return to near
+• Leakage from EVAP
+atmospheric pressure, ECM determines
+system
+that purge VSV stuck closed.
+While engine running, following
+conditions successively met:
+• Negative pressure not created in • Purge VSV
+EVAP system when purge VSV • Connector/wire harness
+turned ON (open) (Purge VSV - ECM)
+While engine
+Purge flow • EVAP system pressure change less • Leakage from EVAP line 2 trip
+running
+than 0.5 kPa-g (3.75 mmHg-g) when (Purge VSV - Intake
+vent valve turned ON (closed) manifold)
+• Atmospheric pressure change before • ECM
+and after purge flow monitor less
+than 0.1 kPa-g (0.75 mmHg-g)
+DESCRIPTION
+The description can be found in the EVAP (Evaporative Emission) System (see page ES-335).
+INSPECTION PROCEDURE
+Refer to the EVAP System (see page ES-340).
+MONITOR DESCRIPTION
+The two monitors, Key-Off and Purge Flow, are used to detect malfunctions relating to DTC P0441. The
+Key-Off monitor is initiated by the ECM internal timer, known as the soak timer, 5 hours* after the ignition
+switch is turned OFF. The purge flow monitor runs while the engine is running.
+1. KEY-OFF MONITOR
+5 hours* after the ignition switch is turned OFF, the leak detection pump creates negative pressure
+(vacuum) in the EVAP system. The ECM monitors for leaks and actuator malfunctions based on the
+EVAP pressure.
+HINT:
+*: If the engine coolant temperature is not below 35°C (95°F) 5 hours after the ignition switch is turned
+OFF, the monitor check starts 2 hours later. If it is still not below 35°C (95°F) 7 hours after the ignition
+switch is turned OFF, the monitor check starts 2.5 hours later.
+Sequ
+Operations Descriptions Duration
+ence
+- ECM activation Activated by soak timer 5, 7 or 9.5 hours after ignition switch turned OFF. -

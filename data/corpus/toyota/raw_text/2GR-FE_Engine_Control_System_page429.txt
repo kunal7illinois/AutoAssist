@@ -1,0 +1,26 @@
+ES–429
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(d) Reconnect the purge VSV connector.
+B Go to step 31
+A
+18 CHECK HARNESS AND CONNECTOR (PURGE VSV - ECM)
+(a) Disconnect the C55 ECM connector and the C6 purge
+Wire Harness Side:
+VSV connector.
+(b) Measure the resistance.
+C55 ECM Connector Standard resistance
+Tester Connections Specified Conditions
+C55-108 (PRG) - C6-2 (Purge VSV) Below 1 Ω
+ES
+C55-108 (PRG) - Body ground 10 kΩ or higher
+C6-2 (Purge VSV) - Body ground 10 kΩ or higher
+(c) Reconnect the purge VSV connector.
+Front View
+(d) Reconnect the ECM connector.
+PRG
+OK Go to step 34
+Purge VSV Connector
+NG Go to step 31
+C6
+Front View
+A112616E06

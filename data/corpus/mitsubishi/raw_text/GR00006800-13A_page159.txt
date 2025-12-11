@@ -1,0 +1,19 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-159
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 11. Check the trouble symptoms.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0135 is output?
+YES : Replace the ECM or PCM. Then go to Step 12.
+NO : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+STEP 12. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0135 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+TSB Revision

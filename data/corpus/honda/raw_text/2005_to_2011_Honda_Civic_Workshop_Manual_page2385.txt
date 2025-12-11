@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (K20Z3) - Civic (Except GX & Si)
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch OFF.
+4. Remove the fuel fill cap.
+5. Turn the ignition switch ON (II).
+6. Check the FTP SENSOR in the DATA LIST with the HDS.
+Is about - 7.3 kPa (-2.16 in.Hg, - 55 mmHg), or 0.3 V or less indicated?
+YES - Go to step 10.
+NO - Go to step 7.
+7. Install the fuel fill cap.
+8. Start the engine.
+9. Monitor the OBD STATUS for DTC P0452 in the DTCs MENU with the
+HDS.
+Does the screen indicate FAILED?
+YES - Go to step 10.
+NO - If the screen indicates PASSED, intermittent failure, the system is OK at
+this time. Check for poor connections or loose terminals at the FTP sensor and
+the ECM. If the screen indicates NOT COMPLETED, go to step 4 and
+recheck.
+10. Turn the ignition switch OFF.
+11. Disconnect the FTP sensor 3P connector.
+12. Turn the ignition switch ON (II).
+13. Check the FTP SENSOR in the DATA LIST with the HDS.

@@ -1,0 +1,24 @@
+17-40 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+CONNECTOR: B-07 <2.4L ENGINE> CONNECTOR: C-20
+AC103106AB AC001451AB
+CONNECTOR: B-07 <3.0L ENGINE> CONNECTOR: C-28
+AC103107AC AC101201AB
+. .
+CIRCUIT OPERATION DTC SET CONDITIONS
+The throttle position sensor signal is sent to the auto- If 2.5 volts or more 0.2 volts or less is output for four
+cruise control-ECU through this circuit. seconds or more.
+The auto-cruise control-ECU receives a signal from
+the throttle position sensor at terminal 3. . TROUBLESHOOTING HINTS
+The signal is OFF when the accelerator pedal is The most likely causes for this code to be set are:
+depressed, and ON when the accelerator pedal is • Malfunction of the throttle position sensor.
+released. • Damaged harness or connector.
+The throttle position sensor sends a voltage signal to • Malfunction of the auto-cruise control-ECU.
+terminal 1 of the auto-cruise control-ECU.
+The voltage depends on throttle opening angle.
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991223: Harness Set
+TSB Revision

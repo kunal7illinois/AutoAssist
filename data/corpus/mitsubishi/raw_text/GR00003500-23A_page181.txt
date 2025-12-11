@@ -1,0 +1,39 @@
+AUTOMATIC TRANSAXLE 23A-181
+AUTOMATIC TRANSAXLE DIAGNOSIS
+CONNECTOR: A-17X CONNECTOR: B-40
+BATTERY A-17X
+B-40
+FRONT OF VEHICLE
+AC102447AF ACX02479AK
+CONNECTORS: B-40-1, B-40-2, B-40-3, CONNECTOR: C-07
+B-40-4, B-40-5
+C-07
+B-40-3 B-40-1
+B-40-5 B-40-2
+VALVE BODY B-40-4
+ASSEMBLY
+AC002219AO AC001729AY
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE>
+PCM
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+. .
+CIRCUIT OPERATION DTC SET CONDITIONS
+• A/T control relay supplies battery positive voltage If the resistance value for a solenoid valve circuit is
+to each solenoid valve (terminal 9 and 10). greater than 3.5 Ω for 4 seconds or less than 2.6 Ω
+• Solenoid valve closes when energized (on), and for 4 seconds, it is judged that there is a short circuit
+opens when deenergized (off). The PCM ener- or an open circuit in the solenoid valve and the diag-
+gizes or deenergizes solenoid valve, based on nostic trouble code number "31" is displayed. The
+inputs from sensors such as Throttle Position transmission is locked into 3rd gear as a fail-safe
+Sensor, Park/Neutral Position Switch, Stoplight measure, and the "N" range light flashes once per
+Switch, Vehicle Speed Sensor, Input Shaft Speed second.
+Sensor, Output Shaft Speed Sensor, A/T Fluid
+Temperature Sensor, etc. . TROUBLESHOOTING HINTS (The most likely
+• The PCM provides the ground to energize sole- causes for this code to be set:)
+noid. The ground time is displayed in percent. • Malfunction of low-reverse solenoid valve
+• As solenoid is energized or deenergized, it influ- • Damaged harness, connector
+ences hydraulic pressure in the transmission • Malfunction of the PCM
+applying and releasing elements.
+.
+TSB Revision

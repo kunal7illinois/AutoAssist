@@ -1,0 +1,44 @@
+AC–55
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+C REPLACE AIR CONDITIONING AMPLIFIER
+A
+3 INSPECT AMBIENT TEMPERATURE SENSOR
+(a) Remove the ambient temperature sensor.
+Ambient Temperature Sensor Connector (b) Measure the resistance according to the value(s) in the
+Front View: table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+Sensor Area
+A2
+A2-1 - A2-2 10°C (50°F) 3.00 to 3.73 kΩ
+A2-1 - A2-2 15°C (59°F) 2.45 to 2.88 kΩ
+A2-1 - A2-2 20°C (68°F) 1.95 to 2.30 kΩ
+A2-1 - A2-2 25°C (77°F) 1.60 to 1.80 kΩ
+A2-1 - A2-2 30°C (86°F) 1.28 to 1.47 kΩ
+A2-1 - A2-2 35°C (95°F) 1.00 to 1.22 kΩ
+A2-1 - A2-2 40°C (104°F) 0.80 to 1.00 kΩ
+A2-1 - A2-2 45°C (113°F) 0.65 to 0.85 kΩ
+A2-1 - A2-2 50°C (122°F) 0.50 to 0.70 kΩ
+Resistance (kΩ) A2-1 - A2-2 55°C (131°F) 0.44 to 0.60 kΩ
+A2-1 - A2-2 60°C (140°F) 0.36 to 0.50 kΩ
+4.0
+NOTICE:
+3.5
+• Even slightly touching the sensor may change the
+3.0 AC
+resistance value. Be sure to hold the connector of
+2.5 the sensor.
+2.0 • When measuring, the sensor temperature must be
+the same as the ambient temperature.
+1.5
+HINT:
+1.0
+As the temperature increases, the resistance decreases
+0.5 (see the graph).
+0.0
+10 20 30 40 50 60 (°C) NG REPLACE AMBIENT TEMPERATURE
+50 68 86 104 122 140(°F)
+SENSOR
+Temperature
+E118395E04
+OK

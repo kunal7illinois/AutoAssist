@@ -1,0 +1,38 @@
+54B-346 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTOR: C-119
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+. • Turn-signal light switch: Left or right turn-sig-
+CIRCUIT OPERATION
+• The turn-signal light switch sends a signal nal position
+through the column-ECU (incorporated in the col-
+.
+umn switch) to the ETACS-ECU. If the column- TECHNICAL DESCRIPTION (COMMENT)
+ECU sends a turn-signal light switch "ON" signal Is the turn-signal lights do not flash normally, the
+to the ETACS-ECU, the ETACS-ECU turns on the input circuits from the switches described in "CIR-
+flasher timer (incorporated in the ETACS-ECU), CUIT OPERATION" or the ETACS-ECU may be
+thus causing the turn-signal lights to flash. defective. If the hazard warning lights do not flash,
+• The ETACS-ECU operates the turn-signal lights the power supply line to the ETACS-ECU (dedicated
+according to the following signals: to the turn-signal lights) may be defective.
+• Ignition switch (IG1): ON
+• Turn-signal light switch: ON . TROUBLESHOOTING HINTS
+• The ETACS-ECU flashes the turn-signal lights • Malfunction of column switch (turn-signal light
+under the following conditions: and lighting switch)
+• Ignition key: "ON" position • Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Check the hazard warning light.
+Q:Do the hazard warning lights work normally?
+YES : Go to Step 7.
+NO : Go to Step 2.
+STEP 2. Check the turn-signal lights.
+Q:Does either of the turn-signal lights illuminate?
+YES (illuminates at only one side) : Go to Step 3.
+NO (do not illuminate at all) : Go to Step 4.
+TSB Revision

@@ -1,0 +1,61 @@
+54B-66 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 15. Replace the sunroof motor assembly.
+(1) Replace the sunroof motor assembly.
+(2) The system should communicate with the sunroof motor
+assembly normally.
+Q:Can the system communicate with the sunroof motor
+assembly?
+YES : No action to be taken.
+NO : Replace the ETACS-ECU. The system should
+communicate with the sunroof motor assembly
+(sunroof-ECU) normally.
+TONE ALARM
+GENERAL DESCRIPTION CONCERNING TONE ALARM
+M1549021000025
+The tone alarm functions are as follows. These func-
+tions are controlled by relevant ECUs.
+Functions Control ECU
+Ignition key reminder tone alarm function ETACS-ECU
+Light reminder tone alarm function ETACS-ECU, column switch
+Seat belt tone alarm function ETACS-ECU
+IGNITION KEY REMINDER TONE ALARM FUNCTION
+When the driver(cid:146)s door is opened with the ignition key inserted
+ON
+Ignition switch in the ignition key cylinder (ignition switch is in the OFF posi-
+(IG1)
+OFF tion,) the tone alarm sounds intermittently (horning sound) to
+Key ON
+reminder (Key removed) indicate that the ignition key has not been removed.
+switch OFF
+(Key inserted)
+Driver's ON (Open)
+door
+switch OFF (Closed)
+Ignition key ON (Tone alarm
+inserted sounds)
+reminder OFF (Tone alarm
+tone alarm does not sound)
+output
+AC005427AB
+LIGHT REMINDER TONE ALARM FUNCTION
+When the tail light or headlight is ON, if the ignition key is
+Tail light or ON removed and the driver’s door is opened, a tone alarm will
+headlight
+OFF sound continuously to warn that the light is illuminated. How-
+Key ON
+reminder (Key removed) ever, if the tail light or headlight has been turned off by the
+switch OFF headlight automatic-shutdown function, the tone alarm will not
+(Key inserted)
+Driver's sound.
+ON (Open)
+door
+switch OFF (Closed)
+Light ON (Tone alarn
+sounds)
+reminder
+OFF (Tone alarm
+tone
+does not sound)
+alarm output AC005428AB
+TSB Revision

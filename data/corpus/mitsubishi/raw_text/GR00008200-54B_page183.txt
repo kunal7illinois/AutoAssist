@@ -1,0 +1,57 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-183
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal by using "FUNCTION
+DIAG." of the SWS monitor.
+(1) Turn the ignition switch to the "OFF" position to check the
+COLUMN SWITCH input signals from the following switches.
+CONNECTOR
+(2) Operate the MUT-II according to the procedure below to
+MB991502 display "SUNROOF-OPE."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "SWS MONITOR."
+DATA LINK
+4. Select "FUNCTION DIAG."
+CONNECTOR
+5. Select "SUNROOF."
+AC101571AB 6. Select "SUNROOF-OPE."
+(3) Check that normal conditions are displayed on the items
+COLUMN SWITCH
+described in the table below.
+CONNECTOR
+ITEM No. ITEM NAME NORMAL
+CONDITIONS
+SWS MONITOR
+HARNESS (FOR ITEM No.30 IG SW (IG1) OFF
+COLUMN-ECU)
+ITEM No.72 S/R ECU ACK NORMAL ACK
+COLUMN SWITCH
+CONNECTOR AT
+Q:Are normal conditions displayed on the "IG SW (IG1)"
+HARNESS SIDE
+AC101421AB and "S/R ECU ACK"?
+YES : Replace the sunroof motor assembly. Check that the
+sunroof timer function works normally.
+NO : • Normal condition is not displayed on the "IG
+SW(IG1)": Refer to Inspection Procedure O-2
+"ETACS-ECU does not receive a signal from the
+ignition switch (IG1) P.54B-469."
+• Normal condition is not displayed on the "S/R
+ECU ACK": Replace the sunroof motor assembly.
+Check that the sunroof timer function works
+normally.
+INSPECTION PROCEDURE F-4: Sunroof: Safety Mechanism does not Function.
+. .
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINT
+The sunroof motor assembly monitors load condition Malfunction of the sunroof motor assembly
+according to the current, which runs in the motor. If a
+predetermined current is exceeded, the sunroof
+motor reverses due to safety mechanism. If the sun-
+roof motor does not reverse when an excessive load
+is applied, the sunroof motor assembly may be
+defective.
+.
+DIAGNOSIS
+Replace the sunroof motor assembly.
+The sunroof safety mechanism should work normally.
+TSB Revision

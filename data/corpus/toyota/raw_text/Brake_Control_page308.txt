@@ -1,0 +1,61 @@
+BC–297
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+PROBLEM SYMPTOMS TABLE
+If there are no DTCs output but the problem still occurs,
+check the circuits for each problem symptom in the order
+given in the table below, and proceed to the relevant
+troubleshooting page.
+NOTICE:
+Before replacing the brake actuator assembly, sensor, or
+other related parts, turn the ignition switch off.
+Vehicle stability control system:
+Symptom Suspected area See page
+1. Check for the DTC again and make sure that the normal BC-302
+system code is output.
+2. IG power source circuit BC-361
+3. Front speed sensor circuit BC-316
+4. Rear speed sensor circuit BC-324
+5. Check the brake actuator assembly with the intelligent tester BC-431
+ABS, BA and/or EBD does not operate
+(Check brake actuator assembly operation using the active
+test function). If abnormal, check the hydraulic circuit for
+BC
+leakage.
+6. If the symptoms still occur even after the above circuits in BC-432
+suspected areas have been inspected and proved to be
+normal, replace the brake actuator assembly (skid control
+ECU).
+1. Check for the DTC again and make sure that the normal BC-302
+system code is output.
+2. Front speed sensor circuit BC-316
+3. Rear speed sensor circuit BC-324
+4. Stop light switch circuit BC-368
+5. Check the brake actuator assembly with the intelligent tester BC-431
+ABS, BA and/or EBD does not operate efficiently
+(Check brake actuator assembly operation using the active
+test function). If abnormal, check the hydraulic circuit for
+leakage.
+6. If the symptoms still occur even after the above circuits in BC-432
+suspected areas have been inspected and proved to be
+normal, replace the brake actuator assembly (skid control
+ECU).
+1. Check for the DTC again and make sure that the normal BC-302
+system code is output.
+2. IG power source circuit BC-361
+3. Check the hydraulic circuit for leakage. -
+4. Front speed sensor circuit BC-316
+VSC and/or TRACTION does not operate 5. Rear speed sensor circuit BC-324
+6. Yaw rate and deceleration sensor circuit BC-343
+7. Steering angle sensor circuit BC-350
+8. If the symptoms still occur even after the above circuits in BC-432
+suspected areas have been inspected and proved to be
+normal, replace the brake actuator assembly (skid control
+ECU).
+1. Check for the DTC again and make sure that the normal BC-302
+system code is output.
+2. TC and CG terminal circuit BC-418
+ABS sensor DTC check cannot be done
+3. If the symptoms still occur even after the above circuits in BC-432
+suspected areas have been inspected and proved to be
+normal, replace the brake actuator assembly (skid control
+ECU).

@@ -1,0 +1,96 @@
+AC–43
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Evaporator fin thermistor / Min.: -
+EVAP FIN TEMP Actual evaporator temperature is
+29.7°C (-21.46°F), Max.: 59.55°C -
+(Evaporator fin thermistor) displayed
+(139.19°F)
+Driver side solar sensor value
+SOLAR SENS-D Driver side solar sensor / Min.: 0,
+increases as brightness -
+(Solar sensor (D side)) Max.: 255
+increases
+Passenger side solar sensor
+SOLAR SENS-P Passenger side solar sensor /
+value increases as brightness -
+(Solar sensor (P side)) Min.: 0, Max.: 255
+increases
+Engine coolant temperature / Actual engine coolant
+COOLANT TEMP
+Min.: 1.3°C (34.34°F), Max.: temperature is displayed while -
+(Engine coolant temperature)
+90.55°C (194.99°F) engine is warmed up
+SET TEMP-D Driver side set temperature / Min.: Driver side set temperature is
+-
+(Set temperature (D - side)) 0°C (32°F), Max.: 30°C (54°F) displayed
+Passenger side set temperature /
+SET TEMP-P Passenger side set temperature
+Min.: 0°C (32°F), Max.: 30°C -
+(Set temperature (P - side)) is displayed
+(54°F)
+Damper is at "MAX. COOL": -
+Driver side estimate temperature
+ESTIMATE TEMP-D 358.4°C (-613.12°F)
+/ Min.: -358.4°C (-613.12°F), -
+(Estimate temperature (D side) Damper is at "MAX. HOT":
+Max.: 358.4°C (677.12°F)
+358.4°C (677.12°F)
+Damper is at "MAX. COOL": -
+Passenger side estimate
+ESTIMATE TEMP-P 358.4°C (-613.12°F)
+temperature / Min.: -358.4, Max.: -
+(Estimate temperature (P side) Damper is at "MAX. HOT":
+358.4
+358.4°C (677.12°F)
+HAND FREE TEL Hands free telephone / OFF or
+- -
+(Hand free telephone) ON
+Increases in the range between 0
+BLOWER LEVEL Blower motor speed level / Min.: 0
+and 31 as the blower motor - AC
+(Blower motor speed level) level, Max.: 31 level
+speed increases
+Regulator pressure sensor / Min.:
+REG PRESS SENS Actual refrigerant pressure is
+-0.5 kgf/cm2G, Max.: 37.75 kgf/ -
+(Regulator pressure sensor) displayed
+cm2G
+REG CTRL CURRNT Compressor variable output
+- -
+(Regulator control current) current / Min.: 0 A, Max.: 0.996 A
+AIR MIX PULSE-D
+Driver side air mix servo motor MAX. COLD: 5 (pulse)
+(Air mix servomotor target pulse -
+target pulse / Min.: 0, Max.: 255 MAX. HOT: 103 (pulse)
+(D side))
+AIR MIX PULSE-P Passenger side air mix servo
+MAX. COLD: 105 (pulse)
+(Air mix servomotor target pulse motor target pulse / Min.: 0, Max.: -
+MAX. HOT: 7 (pulse)
+(P side)) 255
+FACE: 8 (pulse)
+B/L: 30 to 38 (pulse)
+AIR OUT PULSE-D Driver side air outlet servo motor
+FOOT: 50 to 74 (pulse) -
+(Air out pulse-D) target pulse / Min.: 0, Max.: 255
+FOOT/DEF: 80 (pulse)
+DEF: 97 (pulse)
+A/I DAMP PLS Air inlet damper target pulse / RECIRCULATION: 7 (pulse)
+-
+(Air inlet damper target pulse) Min.: 0, Max.: 255 FRESH: 28 (pulse)
+#CODES Number of trouble codes / Min.: 0,
+Number of DTCs will be displayed -
+(Number of trouble codes) Max.: 255
+ENGINE
+Measurement Item / (Range)
+Item Normal Condition Diagnostic Note
+Display
+A/C SIGNAL ON: A/C ON
+A/C signal / ON or OFF -
+(A/C signal) OFF: A/C OFF
+A/C MAG CLUTCH A/C magnetic clutch relay / ON or ON: A/C magnetic clutch ON
+-
+(A/C magnetic clutch relay) OFF OFF: A/C magnetic clutch OFF

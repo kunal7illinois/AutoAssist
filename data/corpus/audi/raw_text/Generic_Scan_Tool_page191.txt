@@ -1,0 +1,51 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+• Vehicles with automatic transmission, shift selector lever into
+position “P” or “N”.
+• A/C switched off.
+• Ground connections between engine/transmission/chassis
+OK.
+• Ignition switched OFF.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the engine cover with air filter. Refer to the Repair
+Manual.
+– Disconnect Camshaft Adjustment Valve 1 -N205- electrical
+harness connector.
+– Using a multimeter, check the Camshaft Adjustment Valve 1 -
+N205- for resistance.
+Specified value: 5.0 to 9.0 Ω (at approx. 20° C)
+If the specified value was Not obtained:
+– Replace the Camshaft Adjustment Valve 1 -N205- Refer to the
+Repair Manual.
+If the specified value was obtained:
+Checking voltage
+– Start the engine.
+– Using a multimeter, Check the Camshaft Adjustment Valve 1
+-N205- electrical harness connector terminal 2 for voltage.
+– Switch the ignition OFF.
+Specified value: Battery voltage.
+If the specified value was Not obtained:
+– Check the wiring connection for an open circuit, short circuit
+to Battery (+) or Ground. Refer to the wiring diagram.
+– Check the wiring connection for damage, corrosion, loose or
+broken terminals.
+– If necessary, repair the faulty wiring connection.
+If the specified value was obtained:
+Checking wiring
+If the manufacturers test box is being used, perform the following
+step.
+– Install the test box.
+If the manufacturers test box is not being used, perform the fol‐
+lowing step.
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Using a multimeter, Check the Camshaft Adjustment Valve 1
+-N2 05- electrical harness connector terminal 1 to the Engine
+Con trol Module (ECM) electrical harness connector T60 ter‐
+minal 45 for an open circuit. Refer to Wiring Diagrams for pin
+locations.
+187
+3. Diagnosis and Testing

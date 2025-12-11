@@ -1,0 +1,51 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Function test
+– Perform the function test in Diagnostic Mode 06. Refer to
+⇒ “3.3.6 Diagnostic Mode 06 - Read Test Results for Specific
+Diagnostic Functions ”, page 16 .
+– Switch the ignition Off.
+If the specified values are exceeded:
+– Check the exhaust system for leaks.
+– If necessary, repair the leak in the exhaust system.
+– Erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+– Perform a road test to verify Repair.
+If the DTC does not return:
+Erase the DTC memory. Generate readiness code. Refer to
+⇒ “3.2 Readiness Code”, page 8 .
+If no leaks are found in the exhaust system:
+– Replace the catalytic converter with front exhaust pipe. Refer
+to the Repair Manual .
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.31 Secondary Air Injection Combination
+Valve, Checking
+The following procedure is used to test all combination valves.
+Special tools and workshop equipment required
+♦ Hand vacuum pump.
+Test conditions
+• Vacuum lines and hose connections free of leaks.
+• Vacuum lines not plugged.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8 .
+Start procedure
+– Remove the vacuum hose from the Secondary Air Injection
+Combination Valve .
+– Connect hand vacuum pump to combination valve vacuum
+connection.
+– Remove the air duct hose from the Throttle Valve Control
+Module -J338- and position aside.
+174
+Rep. Gr.ST - Generic Scan Tool

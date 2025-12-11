@@ -1,0 +1,45 @@
+DL–189
+DOOR LOCK – SMART KEY SYSTEM
+2 CHECK AND REPLACE ELECTRICAL KEY OSCILLATOR
+(a) Replace the electrical key oscillator.
+(b) Check that the luggage compartment door entry LOCK/
+UNLOCK function operates normally.
+OK:
+Luggage compartment door entry LOCK/UNLOCK
+function operates normally.
+OK END (ELECTRICAL KEY OSCILLATOR IS
+DEFECTIVE)
+NG
+3 PERFORM ACTIVE TEST BY INTELLIGENT TESTER
+(a) Reconnect the oscillator and the ECU connectors.
+Certification ECU:
+(b) Connect the intelligent tester to the DLC3.
+(c) Turn the engine switch on (IG).
+(d) Following the display on the tester, select the "ACTIVE
+TEST".
+SMART ACCESS (Certification ECU):
+E58 Item Vehicle Condition/Test Details
+Electrical key oscillator (Luggage compartment
+IN-BDR TRNSMTTR
+inner) ON/OFF
+Electrical key oscillator (Luggage compartment
+BDOOR TRNSMTTR
+outer) ON/OFF
+(e) Measure the frequency according to the value(s) in the
+CG7B CG8B CLG8
+table below.
+CLG7
+Standard
+B137963E04 Tester Connection
+Condition Specified Condition
+(Symbols)
+E58-16 (CG7B) - E58-15 Frequency is generated
+During ACTIVE TEST
+(CLG7) (higher than 0 Hz)
+E58-32 (CG8B) - E58-31 Frequency is generated
+During ACTIVE TEST
+(CLG8) (higher than 0 Hz)
+NG REPLACE CERTIFICATION ECU
+DL
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

@@ -1,0 +1,42 @@
+BE-38 BODY ELECTRICAL - AIR CONDITIONING
+(cid:4)SYSTEM DIAGRAM
+(cid:1) Automatic Air Conditioning (cid:2)
+A/C Compressor
+Solar Sensor Solenoid Valve
+Lock Sensor*
+A/C Pressure Sensor Magnetic Clutch*
+Magnetic
+Room Temp. Sensor
+Clutch Relay*
+Air Mix Servo Motor
+Evaporator Temp. Sensor (For Driver)
+A/C ECU
+Air Mix Servo Motor
+(For Front Passenger)
+Outside Temp. Sensor
+Air Inlet Servo Motor
+Local
+Heater Control Panel Communication
+Air Vent Servo Motor
+(cid:3) A/C Operation Signal
+(cid:3) Diagnosis Display
+Blower Motor
+Plasmacluster TM
+Steering Pad Switch
+Generator
+ECM Meter ECU
+Transmission Signals
+Transmission Signals
+(cid:3) Engine Speed (cid:3) Vehicle Speed
+(cid:3) A/C Cut Request
+(cid:3) Engine Coolant
+Reception Signal
+Temp.
+(cid:3) Outside Temp. Data
+Reception Signal
+(cid:3) Idle-up Request
+(cid:3) Cooling Fan
+Drive Request DLC3
+CAN (CAN No.1 Bus)
+025BE39P
+*: Only for models with 2GR-FE engine

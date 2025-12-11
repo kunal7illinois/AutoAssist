@@ -1,0 +1,30 @@
+CA–25
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+(b) Measure the resistance according to the value(s) in
+Certification ECU (Wire Harness Side):
+the table below.
+E58
++B
+E
+CANL CANH
+C136713E01
+Standard resistance
+Terminals Wiring Color Terminal Description Condition Specified Condition
+HIGH-level CAN bus wire -
+E58-27 (CANH) - E58-28 (CANL) B - W Ignition Switch off 108 to 132 Ω
+LOW-level CAN bus wire CA
+HIGH-level CAN bus wire -
+E58-27 (CANH) - E58-17 (E) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+LOW-level CAN bus wire -
+E58-28 (CANL) - E58-17 (E) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+HIGH-level CAN bus wire -
+E58-27 (CANH) - E58-1 (+B) B - W Ignition Switch off 6 kΩ or higher
+Battery positive
+LOW-level CAN bus wire -
+E58-28 (CANL) - E58-1 (+B) W - W Ignition Switch off 6 kΩ or higher
+Battery positive
+12. MAIN BODY ECU (INSTRUMENT PANEL J/B)
+(a) Disconnect the E8 connector from the main body
+ECU.

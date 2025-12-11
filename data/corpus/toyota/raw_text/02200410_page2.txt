@@ -1,0 +1,38 @@
+ST–18
+2AZ-FE STARTING – IGNITION SWITCH
+REMOVAL
+1. DISCONNECT CABLE FROM NEGATIVE BATTERY
+TERMINAL
+CAUTION:
+Wait at least 90 seconds after disconnecting the
+cable from the negative (-) battery terminal to
+prevent airbag and seat belt pretensioner activation.
+2. REMOVE STEERING COLUMN COVER LOWER
+(a) Detach the 4 claws, release the tilt lever and
+remove the steering column cover lower.
+A134309
+3. REMOVE IGNITION SWITCH ASSEMBLY
+(a) Disconnect the ignition switch connector.
+(b) Disconnect the ignition key cylinder light connector.
+A124916
+(c) Remove the 2 screws and ignition switch.
+A124915
+INSPECTION
+IG1 ACC AM1 ST1
+1. INSPECT IGNITION SWITCH ASSEMBLY
+ST
+(a) Measure the resistance of the switch.
+Standard resistance
+4 3 2 1
+No Pin Tester Connection Switch Condition Specified Condition
+8 7 6 5
+- LOCK 10 kΩ or higher
+2 (AM1) - 3 (ACC) ACC Below 1 Ω
+ST2 AM2 IG2 2 (AM1) - 3 (ACC)
+G035048E06 2 (AM1) - 4 (IG1) ON Below 1 Ω
+6 (IG2) - 7 (AM2)
+1 (ST1) - 2 (AM1)
+1 (ST1) - 4 (IG1)
+START Below 1 Ω
+6 (IG2) - 7 (AM2)
+6 (IG2) - 8 (ST2)

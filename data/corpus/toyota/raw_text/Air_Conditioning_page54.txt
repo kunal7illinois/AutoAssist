@@ -1,0 +1,58 @@
+AC–54
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Select the item below in the DATA LIST, and read the
+display on the intelligent tester.
+DATA LIST / AIR CONDITIONER:
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Ambient temperature sensor / Open in circuit: -23.3°C (-9.94°F)
+AMBI TEMP SENS Actual ambient temperature is
+Min: -23.3°C (-9.94°F), Max: Short in circuit: 65.95°C
+(Ambient temperature sensor) displayed
+65.95°C (150.71°F) (150.71°F)
+OK:
+The display is as specified in the normal condition
+column.
+Result
+Result Proceed to
+NG A
+OK (When troubleshooting according to the PROBLEM SYMPTOMS TABLE) B
+OK (When troubleshooting according to the DTC) C
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+C REPLACE AIR CONDITIONING AMPLIFIER
+A
+AC
+2 INSPECT AIR CONDITIONING AMPLIFIER
+(a) Remove the A/C amplifier connectors still connected.
+Air Conditioning Amplifier
+(b) Turn the ignition switch on (IG).
+Connector Wire Harness View:
+(c) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+E38
+Tester Connection Condition Specified Condition
+E38-5 (TAM) - E38-13 Ignition switch on (IG)
+1.35 to 1.75 V
+(SG-2) at 25°C (77°F)
+E38-5 (TAM) - E38-13 Ignition switch on (IG)
+0.9 to 1.2 V
+(SG-2) at 40°C (104°F)
+SG-2 TAM HINT:
+As the temperature increases, the voltage decreases.
+Result
+Result Proceed to
+E124471E15
+NG A
+OK (When troubleshooting
+according to the PROBLEM B
+SYMPTOMS TABLE)
+OK (When troubleshooting
+C
+according to the DTC)
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE

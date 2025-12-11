@@ -1,0 +1,53 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-13
+SWS DIAGNOSIS
+ITEMS ITEM INPUT SIGNALS DISPLAY ON SCAN NORMAL CONDITIONS
+NO. TOOL
+F.WIPER 05 Windshield intermittent wiper switch INT WIPER SW ON
+INT
+06 Windshield low-speed wiper switch LO WIPER SW OFF
+07 Windshield high-speed wiper switch HI WIPER SW OFF
+08 Wind shield mist wiper switch MIST WIPER SW OFF
+09 Windshield washer switch FRONT WASH.SW OFF
+31 Ignition switch (ACC) IG SW (ACC) ON
+37 Windshield intermittent wiper INT WIPE TIME The scan tool displays
+interval intermittent wiper interval
+in response to the
+intermittent wiper control
+positions
+70 Response by the front-ECU FRONT ECU ACK NORMAL ACK or HI-
+BEAM ACK
+F.WIPER 05 Windshield intermittent wiper switch INT WIPER SW OFF
+LO
+06 Windshield low-speed wiper switch LO WIPER SW ON
+07 Windshield high-speed wiper switch HI WIPER SW OFF
+08 Wind shield mist wiper switch MIST WIPER SW OFF
+09 Windshield washer switch FRONT WASH.SW OFF
+31 Ignition switch (ACC) IG SW (ACC) ON
+70 Response by the front-ECU FRONT ECU ACK NORMAL ACK or HI-
+BEAM ACK
+F.WIPER 05 Windshield intermittent wiper switch INT WIPER SW OFF
+MIST
+06 Windshield low-speed wiper switch LO WIPER SW OFF
+07 Windshield high-speed wiper switch HI WIPER SW OFF
+08 Wind shield mist wiper switch MIST WIPER SW ON
+09 Windshield washer switch FRONT WASH.SW OFF
+31 Ignition switch (ACC) IG SW (ACC) ON
+70 Response by the front-ECU FRONT ECU ACK NORMAL ACK or HI-
+BEAM ACK
+F.WIPER 08 Wind shield mist wiper switch MIST WIPER SW OFF
+WASH
+09 Windshield washer switch FRONT WASH.SW ON
+31 Ignition switch (ACC) IG SW (ACC) ON
+70 Response by the front-ECU FRONT ECU ACK NORMAL ACK or HI-
+BEAM ACK
+• REAR WIPER
+ITEMS ITEM INPUT SIGNALS DISPLAY ON SCAN NORMAL CONDITIONS
+NO. TOOL
+REAR 14 Rear washer switch REAR WASH.SW ON
+WASHER
+31 Ignition switch (ACC) IG SW (ACC) ON
+REAR 13 Rear wiper switch REAR WIPER SW ON
+WIPER
+14 Rear washer switch REAR WASH.SW OFF
+31 Ignition switch (ACC) IG SW (ACC) ON
+TSB Revision

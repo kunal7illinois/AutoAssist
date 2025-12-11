@@ -1,0 +1,40 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-529
+SYMPTOM PROCEDURES
+CONNECTOR: C-10 CONNECTOR: C-118
+JUNCTION BLOCK
+(REAR VIEW)
+AC106557AC AC106481AE
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the signal is not normal, the equipment or systems,
+The ETACS-ECU operates the following functions or
+which are described in "CIRCUIT OPERATION", do
+systems according to signal from the hazard warning
+not work normally.
+light switch:
+• Hazard warning light
+.
+• Keyless entry system (registering the encrypted TROUBLESHOOTING HINTS
+code) • Malfunction of the hazard warning light switch
+• Malfunction of the ETACS-ECU
+. • Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the hazard warning light switch.
+Remove the hazard warning light switch.Then check continuity
+CONNECTOR: C-10
+between the switch terminals.
+SWITCH TESTER SPECIFIED
+POSITION CONNECTION CONDITION
+Released 1 − 2 Open circuit
+Pressed 1 − 2 Less than 2 ohm
+Q:Is the hazard warning light switch in good condition?
+YES : Go to Step 2.
+NO : Replace the hazard warning light switch. If the
+equipment, which are described in "CIRCUIT
+OPERATION", work normally, the input signal from
+the hazard warning light switch should be normal.
+AC106563AE
+TSB Revision

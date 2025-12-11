@@ -1,0 +1,46 @@
+AC–79
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Operate the front passenger side temperature
+adjustment switch.
+(d) Select the item below in the DATA LIST, and read the
+display on the intelligent tester.
+DATA LIST / AIR CONDITIONER:
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+AIR MIX PULSE-P Passenger side air mix servo
+MAX. COLD: 105 (pulse)
+(Air mix servomotor target pulse motor target pulse / Min.: 0, Max.: -
+MAX. HOT: 7 (pulse)
+(P side)) 255
+OK:
+The display is as specified in the normal condition
+column.
+Result
+Result Proceed to
+NG A
+OK (When troubleshooting according to the PROBLEM SYMPTOMS TABLE) B
+OK (When troubleshooting according to the DTC) C
+AC
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+C REPLACE AIR CONDITIONING AMPLIFIER
+A
+2 REPLACE AIR MIX CONTROL SERVO MOTOR
+(a) Replace the air mix control servo motor.
+HINT:
+Since the servo motor cannot be inspected while it is
+removed from the vehicle, replace the servo motor with a
+normal one and check that the condition returns to
+normal.
+(b) Check for DTCs.
+Result
+Result Proceed to
+DTC B1441/41 is output A
+DTC B1441/41 is not output B
+B END

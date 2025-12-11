@@ -1,0 +1,34 @@
+23A-42 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+DIAGNOSTIC TROUBLE CODE PROCEDURES
+DTC 11: Throttle Position Sensor System (Short Circuit)
+Throttle Position Sensor System Circuit
+AC004681AC
+CONNECTOR: B-07 CONNECTORS: C-54 <2.4L ENGINE> OR
+<2.4L ENGINE> <3.0L ENGINE> C-55 <3.0L ENGINE>, C-57 <2.4L ENGINE>
+B-07 OR C-59 <3.0L ENGINE>
+B-07
+PCM
+C-57 <2.4L ENGINE>
+OR
+C-59 <3.0L ENGINE>
+C-54 <2.4L ENGINE> OR
+AC001831AF C-55 <3.0L ENGINE> AC001657BB
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+• When the throttle valve shaft rotates from the idle If the PCM output voltage is 4.8 volts or higher when
+the engine is idling, the output is judged to be too
+position to the fully opened position, the resis-
+high and diagnostic trouble code number "11" is out-
+tance between the TPS output terminal (terminal
+put.
+3) and ground terminal (terminal 1) will increase
+according to the rotation.
+.
+• With the ignition switch in the "ON" position, volt- TROUBLESHOOTING HINTS (The most likely
+age at pin 78 increases from around 0.7 volts at causes for this code to be set:)
+closed throttle to about 5 volts at wide open throt- • Malfunction of the throttle position sensor circuit
+tle. • Damaged harness, connector
+• Malfunction of the PCM
+.
+TSB Revision

@@ -1,0 +1,38 @@
+CA–81
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+2 CHECK FOR SHORT IN CAN BUS WIRES (NO. 1 CAN J/C SIDE)
+(a) Disconnect the CAN main bus wire white connector
+No. 1 CAN J/C “A” Side (with Earth (E42) from the No. 1 CAN J/C "A" side (with earth
+Terminal): terminal).
+E42
+C133228E01
+(b) Connect the probes of an ohmmeter to terminals 6 CA
+E10
+DLC3: (CANH) and 14 (CANL) of the DLC3.
+CANH
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Value
+E10-6 (CANH) - E10-14
+Ignition switch off 108 to 132 Ω
+(CANL)
+CANL
+C126231E11 OK Go to step 7
+NG
+3 CHECK FOR SHORT IN CAN BUS WIRES (NO. 1 CAN J/C BRANCH WIRE)
+(a) Reconnect the CAN main bus wire connector (E42) to
+E10
+DLC3: the No. 1 CAN J/C "A" side (with earth terminal).
+CANH
+(b) Connect the probes of an ohmmeter to terminals 6
+(CANH) and 14 (CANL) of the DLC3.
+(c) While observing the resistance value shown on the
+tester, disconnect connectors E44, E45, E46 and E63
+from the No. 1 CAN J/C one by one until the resistance
+becomes normal (between 54 and 69 Ω).
+HINT:
+CANL
+Disconnect the branch wire connectors other than those
+C126231E11
+of the DLC3.

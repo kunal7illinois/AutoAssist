@@ -1,0 +1,33 @@
+BE-122 BODY ELECTRICAL - SMART KEY SYSTEM
+4) Situation: C
+There are two patterns for situation C.
+(cid:3) Pattern 1: When the engine is left running and the shift lever is in the P position, the driver closes the
+driver’s door and attempts to leave the vehicle while holding the key.
+(cid:3) Pattern 2: Under the conditions of pattern 1, the driver presses the lock switch on the door outside
+handle.
+In these situations, the following control is performed:
+Pattern 1.
+Possible Effects without Warning Vehicle theft, Engine cannot be restarted, Discharged battery
+The warning is activated when all of the following conditions
+are met:
+(cid:3) Shift lever is P.
+Warning Condition
+(cid:3) Power source is in a mode other than OFF.
+(cid:3) Key is not in the vehicle.
+(cid:3) Driver door is opened (cid:1) closed.
+Buzzer Sounds once
+Multi-information
+Combination
+Display
+Meter
+025BE100P
+Master Warning
+Flash
+Light
+Wireless Door Lock Buzzer Sounds three times
+Engine Switch Indicator Light —
+The warning is stopped when one of the following conditions
+is met:
+Warning Stop Condition
+(cid:3) Power source is OFF.
+(cid:3) Key is in the vehicle.

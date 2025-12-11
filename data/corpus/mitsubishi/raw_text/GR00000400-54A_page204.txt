@@ -1,0 +1,42 @@
+54A-204 CHASSIS ELECTRICAL
+RADIO AND TAPE PLAYER
+STEP 3. Check the motor antenna assembly ground by
+backprobing
+(1) Do not disconnect motor antenna assembly F-35 connector.
+CONNECTOR
+<ECLIPSE SPYDER>: F-35
+DEVICE SIDE
+1 2 3 4
+5 6 7 8
+AC106491AQ
+(2) Measure the voltage between terminal number 5 and
+HARNESS SIDE
+ground by backprobing.
+F-35
+Q:Is the resistance less than two ohm?
+1 2 3 4
+YES : Go to Step 4.
+5 6 7 8
+NO : Go to Step 5.
+AC106901AB
+STEP 4. Check the motor antenna assembly.
+(1) Disconnect motor antenna connector F-35.
+(2) Connect the circuit shown in the solid line.
+(3) Check that antenna extends when the circuit shown in the
+dotted line is connected.
+(4) Check that antenna retracts when the circuit shown in the
+dotted line is disconnected.
+Q:Is motor antenna in good condition?
+YES : Go to Step 7.
+NO : Replace the motor antenna.
+AC004050
+STEP 5. Check motor antenna connector F-35 for damage.
+Q:Are motor antenna connector F-35 in good condition?
+CONNECTOR
+<ECLIPSE SPYDER>: F-35 YES : Go to Step 6.
+DEVICE SIDE NO : Repair or replace the connector. Refer to GROUP
+1 2 3 4 00E, Harness Connector Inspection P.00E-2. The
+5 6 7 8
+motor antenna should work normally.
+AC106491AQ
+TSB Revision

@@ -1,0 +1,21 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+Fig. 7: Checking Continuity Between Fuel Temperature Sensor 2P
+Connector Terminals
+Is there continuity?
+YES -Go to step 27.
+NO -Repair open in the wire between the PCM (B5) and the fuel temperature
+sensor, then go to step 22.
+20. Turn the ignition switch OFF.
+21. Replace the fuel temperature sensor (see FUEL TEMPERATURE SENSOR
+REPLACEMENT ).
+22. Reconnect all connectors.
+23. Turn the ignition switch ON (II).
+24. Reset the PCM with the HDS.
+25. Do the PCM idle learn procedure, refer to the ECM/PCM IDLE LEARN
+PROCEDURE .
+26. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0183 indicated?
+YES -Check for poor connections or loose terminals at the fuel temperature
+sensor and the PCM, then go to step 1.

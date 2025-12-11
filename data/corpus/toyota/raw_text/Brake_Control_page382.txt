@@ -1,0 +1,37 @@
+BC–371
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+WIRING DIAGRAM
+Brake Actuator Assembly
+(Skid Control ECU)
+A19
+Stop Light Switch
+STOP 30
+A60 STP1
+2 1
+N16
+Center Stop Light
+1 2
+BC
+S12
+Rear Combination Light (RH)
+Tail
+3
+Stop 2
+Multiplex
+Communication
+System (CAN)
+ALT Tail
+3 4
+2 A60 GND1
+Stop
+FL MAIN S11
+Rear Combination Light (LH) 1
+A60 GND2
+N15
+Battery
+Noise Filter
+(Dome and Stop)
+C131998E02
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).

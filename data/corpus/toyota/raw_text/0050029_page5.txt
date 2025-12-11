@@ -1,0 +1,54 @@
+ES–158
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+A/F Sensor (Sensor 1) HO2 Sensor (Sensor 2) Main Suspected
+Case
+Output Voltage Output Voltage Trouble Areas
+Injection Volume Extremely rich or lean
+Injection volume
++25 % actual air-fuel ratio
++25 %
+-12.5 % • Injector leakage or
+-12.5 %
+blockage
+Output Voltage Output Voltage • Gas leakage from
+3 Almost Almost exhaust system
+no reaction no reaction • Fuel pressure
+• MAF meter
+• ECT sensor
+• Air induction system
+• PCV hose
+connections
+Following the A/F CONTROL procedure enables technicians
+ES
+to check and graph the voltage outputs of both the A/F and
+HO2 sensors.
+To display the graph, select the following menu items on the
+tester: DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST /
+A/F CONTROL / USER DATA / AFS B1S1 and O2S B1S2;
+then press the YES button and then the ENTER button
+followed by the F4 button.
+Result
+Result Proceed To
+Case 1 C
+Case 2 B
+Case 3 A
+B Go to step 11
+C Go to step 15
+A
+3 READ VALUE USING INTELLIGENT TESTER (MAF)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY / MAF and
+COOLANT TEMP.
+(d) Allow the engine to idle until the COOLANT TEMP
+reaches 75°C (167°F) or more.
+(e) Read the MAF with the engine in an idling condition and
+at an engine speed of 2,500 rpm.
+Standard:
+MAF while engine idling: Between 1 g/sec. and 3 g/
+sec. (shift position: N, A/C: OFF).
+MAF at engine speed of 2,500 rpm: Between 2 g/
+sec. and 6 g/sec. (shift position: N, A/C: OFF).
+NG REPLACE MASS AIR FLOW METER
+OK

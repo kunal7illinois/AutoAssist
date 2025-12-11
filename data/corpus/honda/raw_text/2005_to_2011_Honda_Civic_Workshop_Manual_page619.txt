@@ -1,0 +1,25 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+1. Connect the HDS to the DLC. (See the HDS user's manual for specific
+instructions.)
+2. Turn the ignition switch to ON (II). Make sure the HDS communicates with
+the PCM. If it does not, go to DLC CIRCUIT TROUBLESHOOTING . .
+3. Select SCS mode, then observe the D indicator in the gauge control module.
+Codes 1 through 9 are indicated by individual short blinks. Code 10 and above
+are indicated by a series of long and short blinks. One long blink equals 10
+short blinks. Add the long and short blinks together to determine the code.
+Fig. 6: D Indicator - Blinking Pattern
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+4. Record all fuel and emissions DTCs and A/T DTCs.
+5. If there is a fuel and emissions DTC, first check the fuel and emissions system
+as indicated by the DTC.
+6. Clear the DTC and data.
+7. Drive the vehicle for several minutes under the same conditions as those
+indicated by the freeze data, and then recheck for DTCs. If the A/T DTC
+returns, go to the INDICATED DTC'S TROUBLESHOOTING. If the DTC
+does not return, there was an intermittent problem within the circuit. Make sure
+all pins and terminals in the circuit are tight.
+How to Troubleshoot Circuits at the PCM Connectors
+NOTE: The PCM overwrites data and monitors the EVAP system
+for up to 15 minutes after the ignition switch is turned to

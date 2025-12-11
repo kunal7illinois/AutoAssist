@@ -1,0 +1,48 @@
+RF–18
+SLIDING ROOF – SLIDING ROOF SYSTEM
+DTC B2341 Sensor (Motor) Failure
+DTC B2344 Position Failure
+DESCRIPTION
+When the sliding roof drive gear sub-assembly (sliding roof control ECU) detects malfunctions in the
+motor, and the sliding roof operation is stopped, DTC B2341 is output. When the sliding roof drive gear
+sub-assembly (sliding roof control ECU) detects malfunctions in the gear, and the sliding roof operation is
+stopped, DTC B2344 is output.
+DTC No. DTC Detection Condition Trouble Area
+• Sliding roof drive gear sub-assembly (sliding roof
+control ECU)
+B2341 Sensor (motor) Failure • Roof console box assembly (sliding roof control
+switch)
+• Wire harness
+• Sliding roof drive gear sub-assembly (sliding roof
+control ECU)
+RF B2344 Position Failure • Roof console box assembly (sliding roof control
+switch)
+• Wire harness
+WIRING DIAGRAM
+Sliding Roof Control
+Q6 ECU and Motor
+Overhead J/B
+10 9
+UP Q13 R1 UP
+5
+(*1) (*2)
+8 7
+DOWN Q13 R1 DWN
+4
+(*1) (*2)
+9 8
+CLS Q13 R1 CLS
+1
+(*1) (*2)
+7 10
+OPN Q13 R1 OPN
+2
+(*1) (*2)
+2 2
+GND Q13 R1 E
+3
+(*1) (*2)
+*1: TMC Made
+M
+*2: TMMK Made
+B146416E01

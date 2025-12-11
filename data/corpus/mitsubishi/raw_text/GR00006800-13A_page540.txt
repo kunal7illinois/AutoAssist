@@ -1,0 +1,41 @@
+13A-540 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Check for continuity at ignition coil harness side
+connector B-16, B-21.
+(1) Disconnect the connectors B-16, B-21 and measure at the
+CONNECTORS : B-16, B-21
+harness side.
+B-21 B-16
+AAKK000000336622AB
+(2) Check for continuity between terminal 2 and ground.
+• Should be less than 2 ohm.
+B-16, B-21
+HARNESS SIDE
+Q:Is the continuity normal?
+CONNECTOR
+YES : Go to Step 9.
+33 22 11 NO : Repair harness wire between ignition coil connector
+B-16, B-21 terminal 2 and ground because of open
+circuit or harness damage. Then confirm that the
+malfunction symptom is eliminated.
+AK101265AC
+STEP 9. Check connector A-12X at engine speed detection
+and connector C-56 at ECM <M/T> or connector C-54 at
+PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-12X AC101133
+YES : Go to Step 10.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+ENGINE SPEED
+DETECTION
+CONNECTOR
+AC101151AC
+CONNECTORS:C-56<M/T>,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-56
+AK000280BP
+TSB Revision

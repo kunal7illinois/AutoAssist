@@ -1,0 +1,23 @@
+Electrical convertible top control system
+Convertible top operation control unit J256
+Automatic or fully automatic convertible top The convertible top can be operated again until a
+operation is only possible using the convertible time-out of approx. ten minutes has expired. If the
+top operation control unit J256. convertible top does not meet the "closed"
+The convertible top operation control unit J256 condition after approx. four minutes of continuous
+gathers information from the sensors, evaluates operation, the control unit stops the convertible top
+this and activates the actuators. operating cycle immediately. The convertible top
+The convertible top operation control unit J256 is cannot be operated again until a 20 minute time-out
+also responsible for system diagnostics. has expired. The actuation time of the convertible
+If a faulty actuator or a sensor is identified or if the top lock motor is also used for monitoring the
+signals from the sensors are not received in time, operating time of the convertible top.
+the control unit stops the convertible top operating
+cycle. A fault is stored in the fault memory. The convertible top operation control unit J256
+In addition, the control unit monitors the operating is integrated in the convenience CAN bus and
+time of the convertible top. In order to avoid exchanges data with other vehicle systems
+overloading the hydraulic pump, the convertible top across this bus.
+operation control unit J256 deactivates the The control unit is housed in the luggage
+convertible top after approx. three minutes, compartment under the cargo floor.
+provided that the convertible top is closed.
+Convertible top operation control unit J256
+391_073
+24

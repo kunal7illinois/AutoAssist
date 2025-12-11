@@ -1,0 +1,49 @@
+13B-352 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP1. Using scan tool MB991502, check actuator test
+item 08: Evaporative Emission Purge Solenoid.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the actuator test mode for item
+08, Evaporative emission purge solenoid.
+16 PIN • An operation sound should be heard and vibration
+should be felt when the evaporative emission purge
+MB991502
+solenoid is operated.
+AKX01177AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the solenoid operating properly?
+YES : Go to Step 2.
+NO : Replace the evaporative emission purge solenoid.
+Then go to Step 4.
+STEP 2. Using scan tool MB991502, check actuator test
+item 29: Evaporative Emission Ventilation Solenoid.
+(1) Turn the ignition switch to the "ON" position.
+(2) Set scan tool MB991502 to the actuator test mode for item
+29, Evaporative emission ventilation solenoid.
+• An operation sound should be heard and vibration
+should be felt when the evaporative emission ventilation
+solenoid is operated.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the solenoid operating properly?
+MB991502 YES : Go to Step 3.
+AKX01177AB NO : Replace the evaporative emission ventilation
+solenoid. Then go to Step 4.
+STEP 3. Check for clogging in the vent hose and air filter
+Q:Are there any clogs?
+YES : Repair or replace it. Then go to Step 4.
+NO : Refer to, DTC P0451 − Evaporative Emission Control
+System Pressure Sensor Range/Performance P.13B-
+383, DTC P0452 − Evaporative Emission Control
+System Pressure Sensor Low Input P.13B-400, DTC
+P0453 − Evaporative Emission Control System
+Pressure Sensor High Input P.13B-416.
+TSB Revision

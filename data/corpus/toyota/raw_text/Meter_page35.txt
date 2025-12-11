@@ -1,0 +1,79 @@
+ME–35
+METER – METER / GAUGE SYSTEM
+DATA LIST / ACTIVE TEST
+1. DATA LIST
+According to the DATA LIST displayed by the intelligent
+tester, you can read the values of the switches, sensors,
+actuators and so on without parts removal. Reading the
+DATA LIST as the first step of troubleshooting is one
+method to shorten work time.
+(a) Warm up the engine.
+(b) Ignition switch off.
+(c) Connect the intelligent tester to the DLC3.
+(d) Turn the ignition switch on (IG).
+(e) Turn the tester ON.
+(f) Enter following menus: DIAGNOSIS / OBD/MOBD /
+METER / DATA LIST.
+(g) Check values by referring to the table below.
+METER:
+Measurement Item/Range
+ITEM Normal Condition Diagnostic Note
+(Display)
+ON: Rheostat knob turns fully
+-
+clockwise
+TAIL CANCEL SW TAIL CANCEL switch is ON/OFF
+OFF: Rheostat knob turns fully
+-
+counterclockwise
+ON: Switch is pushed -
+ODO/TRIP SW ODO/TRIP switch is ON/OFF
+OFF: Switch is released -
+Front passenger buckle switch is ON: Seat belt is fastened -
+P-BELT BUCKL SW
+ON/OFF OFF: Seat belt is unfastened -
+If data received from the skid
+control ECU exceeds the range
+Vehicle speed/Min.: 0 km/h (0 Almost same as actual vehicle that can be displayed on the
+SPEED METER
+mph), Max.: 255 km/h (158 mph) speed (When driving) meter, the meter continues to
+display the maximum value of the
+range.
+If data received from the ECM
+exceeds the range that can be
+Engine speed/Min.: 0 rpm, Max.: Almost same at the meter rpm
+TACHO METER displayed on the meter, the meter
+12,750 rpm (When engine is running)
+continues to display the
+maximum value of the range.
+•If -40°C (-40°F): sensor
+Engine coolant temperature 0°C After warming up: 78°C (172.4°F) circuit open
+COOLANT TEMP
+(32°F) to 127.5°C (261.5°F) to 105°C (221°F) •If 140°C (284°F) or more:
+sensor circuit shorted
+ON: Washer level is more than
+-
+Washer level warning switch is low
+WASHER SW
+ON/OFF OFF: Washer level is less than
+-
+low
+ME
+MODE switch in the steering pad ON: Mode switch is ON -
+MULTI DISP SW
+is ON/OFF OFF: Mode switch is OFF -
+Battery voltage/Min.: 0 V, Max.:
++B VOLTAGE VAL 10 to 14 V -
+25.5 V
+The running distance after If the value is 5,000 or more,
+Oil maintenance warning value:
+OIL MAINTENANCE performing oil maintenance perform oil maintenance resetting
+Min.: 0, Max. 25500
+resetting procedure is displayed procedure after changing the oil.
+Fuel gauge indicates (F): 35 -
+Fuel gauge indicates (3/4): 85 -
+Fuel input signal Min.: 0, Max.
+FUEL GAUGE Fuel gauge indicates (1/2): 145 -
+255
+Fuel gauge indicates (1/4): 186 -
+Fuel gauge indicates (E): 205 -

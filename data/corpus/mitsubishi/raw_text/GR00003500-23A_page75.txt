@@ -1,0 +1,29 @@
+AUTOMATIC TRANSAXLE 23A-75
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 8. Check the A/T fluid temperature sensor at A/T
+control solenoid valve assembly connector B-40.
+(1) Disconnect connector B-40 and measure at the sensor
+CONNECTOR: B-40
+side.
+B-40
+ACX02479AK
+(2) Measure the resistance between terminal 1 and 2.
+• When A/T fluid temperature is 0°C (32°F), resistance
+should be between 16.7 and 20.5 kiloohm.
+• When A/T fluid temperature is 20°C (68°F), resistance
+should be between 7.3 and 8.9 kiloohm.
+• When A/T fluid temperature is 40°C (104°F), resistance
+should be between 3.4 and 4.2 kiloohm.
+HARNESS • When A/T fluid temperature is 60°C (140°F), resistance
+CONNECTOR: B-40
+should be between 1.9 and 2.2 kiloohm.
+• When A/T fluid temperature is 80°C (176°F), resistance
+ACX02103AD
+should be between 1.0 and 1.2 kiloohm.
+• When A/T fluid temperature is 100°C (212°F), resis-
+tance should be between 0.57 and 0.69 kiloohm.
+Q:Is the resistance normal?
+YES : Go to Step 9.
+NO : Replace the A/T fluid temperature sensor. Refer to
+GROUP 23B, Transaxle P.23B-10.
+TSB Revision

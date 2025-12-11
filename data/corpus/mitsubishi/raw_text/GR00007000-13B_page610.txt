@@ -1,0 +1,31 @@
+13B-610 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the power supply voltage at MFI relay
+harness side connector A-18X.
+(1) Disconnect the connector A-18X and measure at the
+harness side.
+(2) Measure the voltage between terminal 1, 2 and ground.
+• Voltage should be battery positive voltage.
+Q:Is the voltage normal?
+YES : Go to Step 4.
+22 11 NO : Check harness connector C-07 at intermediate
+44 33 connector for damage, and repair or replace as
+required. Refer to, GROUP 00E, Harness Connector
+A-18X HARNESS
+SIDE CONNECTOR Inspection P.00E-2. If intermediate connector is in
+good condition, repair harness wire between fusible
+AK101240AC link (3) and MFI relay connector A-18X terminal 1, 2
+because of open circuit. Then confirm that the
+malfunction symptom is eliminated.
+STEP 4. Check connector C-62 at ECM <M/T> or connector
+C-59 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-62<M/T>, C-59<A/T>
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+C-59 C-62
+AK000225AL
+TSB Revision

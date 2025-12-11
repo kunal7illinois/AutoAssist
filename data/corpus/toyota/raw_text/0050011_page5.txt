@@ -1,0 +1,90 @@
+ES–51
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Intelligent Tester Display Measurement: Range (Display) Normal Condition*1 Diagnostic Note
+Estimated catalyst temperature
+CAT TEMP B1S2 (sensor 2): - -
+Min.: -40°C, Max.: 6,513.5°C
+Sub heated oxygen sensor
+S O2S B1S2 impedance (sensor2): - -
+Min.: 0 Ω, Max.: 21247.68 Ω
+Engine coolant temperature at
+Close to ambient air
+INI COOL TEMP engine start: -
+temperature
+Min.: -40°C, Max.: 120°C
+Intake air temperature at engine
+Close to ambient air
+INI INTAKE TEMP start: -
+temperature
+Min.: -40°C, Max.: 120°C
+Injection volume (Cylinder 1): Quantity of fuel injection volume
+INJ VOL 0 to 0.15 ml: Idling
+Min.: 0 ml, Max.: 2.048 ml for 10 times ES
+Starter switch (STSW) signal:
+STARTER SIG ON: Cranking -
+ON or OFF
+Power steering signal:
+PS SW ON: Power steering operation -
+ON or OFF
+ON: When steering wheel first
+Power steering signal (history): Signal status usually ON until
+PS SIGNAL turned after battery terminals
+ON or OFF battery terminals disconnected
+connected
+Closed throttle position switch: • ON: Throttle fully closed
+CTP SW -
+ON or OFF • OFF: Throttle open
+A/C signal:
+A/C SIGNAL ON: A/C ON -
+ON or OFF
+PNP switch status:
+PNP SW [NSW] ON: P or N position -
+ON or OFF
+Electrical load signal: ON: Headlights or defogger
+ELECT LOAD SIG -
+ON or OFF turned ON
+Stop light switch:
+STOP LIGHT SW ON: Brake pedal depressed -
+ON or OFF
+Whether or not electric throttle
+ON: Ignition switch ON and
++BM control system power inputted: -
+system normal
+ON or OFF
++BM voltage: 9 to 14 (V): Ignition switch ON
++BM VOLTAGE ETCS service data
+Min.: 0, Max.: 19.922 and system normal
+Battery voltage:
+BATTERY VOLTAGE 9 to 14 V: Ignition switch ON -
+Min.: 0 V, Max.: 65.535 V
+Actuator power supply:
+ACTUATOR POWER ON: Idling ETCS service data
+ON or OFF
+Atmospheric pressure: Approximately 100 kPa: Ignition
+ATM PRESSURE -
+Min.: 0 kPa, Max.: 255 kPa switch ON
+Battery current:
+BATTERY CURRENT - -
+Min.: -100 A, Max.: 100 A
+Battery temperature:
+BATTERY TEMP - -
+Min.: -45 °C, Max.: 156.4 °F
+Generator output duty ratio:
+ALT OUTPUT DUTY - During charge control
+Min.: 0 %, Max.: 100 %
+Battery electrolyte temperature Alternator regulator output voltage
+Request voltage when regulator
+varies (12.5 to 14.8 V) while is out put
+ALT V NORMAL not under forced activation:
+driving: When performing Active Test,
+Min.: 0 V, Max.: 20 V
+After engine start value is 0V
+Request voltage when regulator Request instruction voltage Charging control service data
+ALT V TST under forced activation: value: When not performing Active Test,
+Min.: 0 V, Max.: 20 V After engine start value is 0V
+Purge VSV status:
+EVAP (Purge) VSV - -
+ON or OFF
+Fuel pump status:
+FUEL PUMP / SPD ON: Engine running Active Test support data
+ON or OFF

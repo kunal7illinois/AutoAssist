@@ -1,0 +1,48 @@
+Audi TT No. 59 / 2
+Current Flow Diagram
+Mechatronic unit for dual clutch gearbox
+J217 Automatic gearbox control unit
+* *2 B300 J681 Terminal 15 voltage supply relay 2
+J681 SD3
+J743 Mechatronic unit for dual clutch gearbox
+SC1 Fuse 1 on fuse holder C
+E1
+SD3 Fuse 3 on fuse holder D
+6.0
+rt SC6 Fuse 6 on fuse holder C
+SC22 Fuse 22 on fuse holder C
+4.0 16.0 10.0 SC24 Fuse 24 on fuse holder C
+sw rt rt
+4466
+T16h 16-pin connector
+B163 Positive connection 1 (15), in interior wiring harness
+B163 B299
+B279 Positive connection 3 (15a) in main wiring harness
+4.0 6.0
+sw rt B299 Positive connection 3 (30), in main wiring harness
+1 6 22 24
+B300 Positive connection 4 (30), in main wiring harness
+SC1 SC6 SC22 SC24 J743 J217
+* see applicable current flow diagram for basic equipment
+1a 6a 22a 24a
+*2 Main fuse box, on battery on rear right in luggage compartment
+T16h T16h
+/9 /15
+30 15
+0.35 1.0 0.5
+sw/bl rt/ge sw/bl
+B279
+0.5
+sw/bl
+ws = white
+4488 sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-059020410 rs = pink
+04.2010

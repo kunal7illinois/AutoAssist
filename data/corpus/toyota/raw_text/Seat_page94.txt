@@ -1,0 +1,48 @@
+SE–87
+SEAT – POWER SEAT SWITCH
+REMOVAL
+1. REMOVE FRONT SEAT HEADREST ASSEMBLY
+2. REMOVE SEAT TRACK COVER (See page SE-30)
+3. REMOVE INNER SEAT TRACK BRACKET COVER
+(See page SE-30)
+4. REMOVE FRONT SEAT ASSEMBLY (See page SE-30)
+5. REMOVE RECLINING POWER SEAT SWITCH KNOB
+(See page SE-31)
+6. REMOVE SLIDE AND VERTICAL POWER SEAT SE
+SWITCH KNOB (See page SE-31)
+7. REMOVE FRONT SEAT CUSHION SHIELD
+ASSEMBLY (See page SE-32)
+8. REMOVE POWER SEAT SWITCH
+(a) Remove the 3 screws.
+(b) Disconnect the connector and remove the power
+seat switch.
+B134677
+INSPECTION
+1. INSPECT FRONT POWER SEAT SWITCH LH
+Slide Switch Reclining Switch (a) Measure the resistance between the specified
+terminals when each switch is operated.
+Standard resistance (Slide switch)
+Tester Connection Switch Condition Specified Condition
+U7-1 (B) - U7-9 (SLDF) FRONT Below 1 Ω
+U7-4 (E) - U7-6 (SLDR) FRONT Below 1 Ω
+Front Vertical Switch U7-1 (B) - U7-6 (SLDR) FRONT 10 kΩ or higher
+Lifter Switch
+U7-4 (E) - U7-9 (SLDF) FRONT 10 kΩ or higher
+U7 U7-4 (E) - U7-6 (SLDR) OFF Below 1 Ω
+RCLF B
+U7-4 (E) - U7-9 (SLDF) OFF Below 1 Ω
+E RCLR
+U7-1 (B) - U7-6 (SLDR) OFF 10 kΩ or higher
+U7-1 (B) - U7-9 (SLDF) OFF 10 kΩ or higher
+U7-1 (B) - U7-6 (SLDR) REAR Below 1 Ω
+U7-4 (E) - U7-9 (SLDF) REAR Below 1 Ω
+U7-1 (B) - U7-9 (SLDF) REAR 10 kΩ or higher
+FUP LDWN SLDR U7-4 (E) - U7-6 (SLDR) REAR 10 kΩ or higher
+SLDF LUP FDWN
+B105970E08 Standard resistance (Front vertical switch)
+Tester Connection Switch Condition Specified Condition
+U7-1 (B) - U7-10 (FUP) UP Below 1 Ω
+U7-4 (E) - U7-5 (FDWN) UP Below 1 Ω
+U7-1 (B) - U7-5 (FDWN) UP 10 kΩ or higher
+U7-4 (E) - U7-10 (FUP) UP 10 kΩ or higher
+U7-4 (E) - U7-5 (FDWN) OFF Below 1 Ω

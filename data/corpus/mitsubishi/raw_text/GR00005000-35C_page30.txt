@@ -1,0 +1,30 @@
+35C-30 TRACTION CONTROL SYSTEM (TCL)
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+STEP 2. Check the harness wire between the ABS-ECU
+connector A-02 (terminal 13) and the combination meter
+connector C-41 (terminal 43).
+NOTE: After inspecting the intermediate connector C-94,
+CONNECTOR: C-94
+CONNECTOR inspect the wire. If the intermediate connector C-94 is dam-
+BLOCK (RH) aged, repair or replace it. Refer to GROUP 00E, Harness Con-
+nector Inspection P.00E-2. If the connector has been repaired
+or replaced, go to Step 3.
+AC003604AB
+Q:Is the harness wire between the ABS-ECU connector A-
+CONNECTOR: A-02
+02 (terminal 13) and the combination meter connector
+C-41 (terminal 43) damaged?
+YES : Repair it and then go to Step 3.
+NO : Go to Step 3.
+HARNESS SIDE
+AC001985AF
+CONNECTOR: C-41
+COMBINATION METER
+HARNESS SIDE
+AC004482AC
+STEP 3. Check symptom.
+Q:Does the TCL indicator light turn off 3 seconds after
+start-up?
+YES : This diagnosis is complete.
+NO : Return to Step 1.
+TSB Revision

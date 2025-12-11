@@ -1,0 +1,58 @@
+BC–132
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+(2) Check that the steering wheel is centered and
+move the shift lever to the P position (A/T) or
+apply the parking brake (M/T).
+(3) Using SST, connect terminals TS and CG of the
+DLC3:
+CG DLC3.
+SST 09843-18040
+(4) Turn the ignition switch on (IG).
+TS
+G022987E07
+(5) Check that the ABS and VSC (models without
+TEST MODE
+multi information display) warning lights blink or
+"CHECK VSC SYSTEM" is displayed on the
+Blinking Pattern:
+multi information display (models with multi
+BC
+information display) (Test Mode).
+0.13 sec. 0.13 sec. HINT:
+ON • The SLIP indicator light remains on during
+Test Mode because TRAC is prohibited.
+• If the ABS and VSC (models without multi
+OFF
+information display) warning lights do not
+blink or "CHECK VSC SYSTEM" is not
+displayed on the multi information display
+Display:
+(models with multi information display),
+inspect the TS and CG terminal circuit, and
+ABS and VSC warning light circuits.
+Trouble Area See procedure
+TS and CG terminal circuit BC-269
+ABS warning light circuit BC-233
+VSC warning light circuit BC-240
+C135802E01
+(6) Check the ABS sensor.
+Blinking Pattern in TEST MODE:
+HINT:
+Check that the ABS warning light is blinking in
+0.13 sec. 0.13 sec.
+Test Mode and perform the check.
+ON 10. ACCELERATION SENSOR CHECK (SST CHECK
+WIRE)
+(a) Keep the vehicle stationary on a level surface for 1
+second or more.
+OFF
+HINT:
+BR03904E16 Acceleration sensor check can be performed with
+the master cylinder pressure sensor check below.
+11. MASTER CYLINDER PRESSURE SENSOR CHECK
+(SST CHECK WIRE)
+(a) Leave the vehicle in a stationary condition and
+release the brake pedal for 1 second or more, and
+quickly and continuously depress the brake pedal
+with a force of 98 N (10 kgf, 22 lbf) or more for 1
+second.

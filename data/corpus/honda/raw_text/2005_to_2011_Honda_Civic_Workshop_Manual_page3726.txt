@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 ACCESSORIES & EQUIPMENT Keyless/Power Door Locks/Security System - Civic (All Except Hybrid)
+Fig. 9: Checking Continuity Between Terminals Of Front Passenger
+Power Window Switch 8P Connector
+Is there continuity?
+YES - Repair a short in the wire between the LOCK and UNLOCK wires.
+NO - Substitute a known-good passenger's window master switch, and
+recheck. If the symptom/indication goes away, replace the original passenger's
+window switch. If not, the MICU is faulty, replace the under-dash fuse/relay
+box.
+DTC B1127: DRIVER'S DOOR KEY CYLINDER SWITCH SIGNAL ERROR
+NOTE: If you are troubleshooting multiple DTCs, be sure to follow
+the instructions in B-CAN System Diagnosis Test Mode A
+(see TROUBLESHOOTING - B-CAN SYSTEM DIAGNOSIS
+TEST MODE A ).
+1. Clear the DTCs with the HDS.
+2. Turn the ignition switch OFF, and then back ON (II)
+3. Insert the ignition key into the driver's door key cylinder switch, and turn the
+key in LOCK and UNLOCK positions ten times.
+4. Check for DTCs with the HDS.
+Is DTC B1127 indicated?
+YES - Go to step 5.
+NO - Intermittent failure. The driver's door key cylinder switch system is OK
+at this time.
+5. With the driver's door key cylinder in the neutral position, select KEYLESS
+with the HDS, and enter the DATA LIST.
+6. Check the ON/OFF information of the DRIVER'S DOOR KEY CYLINDER
+SWITCH (LOCK) and DRIVER'S DOOR KEY CYLINDER SWITCH
+(UNLOCK) in the DATA LIST.

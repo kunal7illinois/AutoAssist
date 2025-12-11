@@ -1,0 +1,19 @@
+BE-88 BODY ELECTRICAL - WIRELESS DOOR LOCK REMOTE CONTROL SYSTEM
+2. Transmitter Recognition Code Registration Function
+The table below shows the 6 special code ID registration function modes through which up to 6 different
+codes can be registered. The codes are electrically registered (written to and stored) in the EEPROM. For
+details of the recognition code registration procedure, refer to the 2007 Camry Repair Manual (Pub. No.
+RM0250U).
+Mode Function
+Erases all previously registered codes and registers only the newly received codes.
+Rewrite Mode
+This mode is used whenever a transmitter or the main body ECU is replaced.
+Adds a newly received code while preserving any previously registered codes.
+Add Mode This mode is used when adding a new transmitter. If the number of codes exceeds 6,
+the oldest registered code is erased first.
+Confirms how many codes are currently registered. When adding a new code, this
+Confirm Mode
+mode is used to check how many codes already exist.
+To delete all the registered codes and to prohibit the wireless door lock function.
+Prohibit Mode
+This mode is used when the transmitter is lost.

@@ -1,0 +1,38 @@
+ES–234
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2 CHECK HARNESS AND CONNECTOR (CRANKSHAFT POSITION SENSOR - ECM)
+(a) Disconnect the C50 CKP sensor connector.
+Wire Harness Side:
+(b) Disconnect the C55 ECM connector.
+(c) Measure the resistance according to the value(s) in the
+Crankshaft Position Sensor
+table below.
+Standard resistance (Check for open)
+Tester Connection Specified Condition
+C50 C50-1 - NE+ (C55-110) Below 1 Ω
+C50-2 - NE- (C55-111) Below 1 Ω
+Standard resistance (Check for short)
+ES Tester Connection Specified Condition
+C50-1 or NE+ (C55-110) - Body ground 10 kΩ or higher
+C50-2 or NE- (C55-111) - Body ground 10 kΩ or higher
+(d) Reconnect the ECM connector.
+ECM Connector
+(e) Reconnect the CKP sensor connector.
+C55
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+NE+ NE-
+A135026E01
+OK
+3 CHECK CRANK POSITION SENSOR (SENSOR INSTALLATION)
+(a) Check the CKP sensor installation condition.
+OK:
+Sensor is installed correctly.
+NG REPAIR OR REPLACE CRANK POSITION
+SENSOR
+Clearance
+OK NG
+BR03795E10
+OK
+4 CHECK CRANKSHAFT POSITION SENSOR PLATE (TEETH OF SENSOR PLATE)
+(a) Check the teeth of the sensor plate.

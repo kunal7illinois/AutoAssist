@@ -1,0 +1,44 @@
+RS–285
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+3 CHECK FRONT SEAT WIRE RH (SHORT TO B+)
+(a) Disconnect the connectors from the occupant
+classification ECU and the rear occupant classification
+Front Seat Wire RH sensor LH.
+(b) Connect the negative (-) terminal cable to the battery.
+(c) Turn the ignition switch on (IG).
+D A (d) Measure the voltage according to the value(s) in the
+C B table below.
+Occupant
+Front Seat Inner Standard voltage:
+Classification
+Belt Assembly RH for Power seat
+ECU
+Tester connection Condition Specified condition
+T11-3 (SGD3) - Body
+Ignition switch on (IG) Below 1 V
+ground
+T11-5 (SVC3) - Body
+Ignition switch on (IG) Below 1 V
+ground
+Connector B
+T11-9 (SIG3) - Body
+Ignition switch on (IG) Below 1 V
+ground
+SGD3 SVC3
+for Manual seat
+T11 (*1) *1: for Power Seat
+Tester connection Condition Specified condition
+d1 (*2) *2: for Manual Seat
+d1-3 (SGD3) - Body
+SIG3 ground Ignition switch on (IG) Below 1 V
+C138022E03
+d1-9 (SIG3) - Body
+Ignition switch on (IG) Below 1 V
+ground
+d1-5 (SVC3) - Body
+Ignition switch on (IG) Below 1 V
+ground
+RS
+NG REPAIR OR REPLACE FRONT SEAT WIRE
+RH
+OK

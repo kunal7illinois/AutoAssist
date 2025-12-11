@@ -1,0 +1,22 @@
+Climatronic control unit J255
+The setpoint for the temperature flap is set using the "Temperature" rotary knob. The rotary knob is infinitely
+variable and activates the "Maximum cool" function in the lowest setting and the "Maximum heat" function in
+the highest setting.
+Automatic mode of the air conditioning system can be deactivated with the "Air flow" or "Air distribution"
+rotary knob or by pressing the DEFROST or AC key.
+The air conditioner compressor of the system can be switched on or off by pressing the AC key; the LED is on
+or off. The system is active without cooling function when the air conditioner compressor is off.
+DEFROST function key REAR WINDOW DEFROSTER function key
+"Temperature" rotary knob "Air flow" rotary knob "Air distribution" rotary knob
+AUTO function key AIR RECIRCULATION function key SEAT HEATER right function key
+SEAT HEATER left function key AC function key
+380_049
+The seat heater is optional equipment with the Audi TT Coupé ‘07. The three heater settings can be set by
+pressing the function keys.
+In setting 0 the seat heater is off; setting 0 cannot be selected directly from setting 3; it can only be activated
+by pressing the "Minus" key several times.
+The function keys are backlit and currently active functions are indicated by integrated LEDs. The control unit
+with display in dash panel insert J285 provides the dimming signals terminal 58d for the function LEDs and
+terminal 58s for the key backlighting via CAN bus.
+The LEDs of the function keys and the key backlighting cannot be switched individually.
+43

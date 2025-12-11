@@ -1,0 +1,36 @@
+54B-320 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 50. Check license plate light connector F-15 for
+damage.
+Q:Is license plate light connector F-15 in good condition?
+CONNECTOR <ECLIPSE>: F-15
+YES : Go to Step 51.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness connector Inspection P.00E-2. Check
+that the license plate light illuminate normally.
+DEVICE SIDE 1 2
+AC106489AO
+CONNECTOR <ECLIPSE SPYDER>: F-15
+1 2
+DEVICE SIDE
+AC106491AL
+STEP 51. Check the wiring harness between license plate
+light connector F-15 (terminal 1) and ground.
+NOTE: Also check intermediate connector F-14. If intermediate
+CONNECTOR <ECLIPSE>: F-15
+connector F-14 is damaged, repair or replace the connector as
+described in GROUP 00E, Harness connector Inspection
+P.00E-2.
+Q:Is the wiring harness between license plate light
+connector F-15 (terminal 1) and ground in good
+condition?
+YES : Replace the license plate light socket. Check that the
+license plate light illuminate normally.
+DEVICE SIDE 1 2 NO : Repair the wiring harness. Check that the license
+AC106489AO
+plate light illuminate normally.
+CONNECTOR <ECLIPSE SPYDER>: F-15
+1 2
+DEVICE SIDE
+AC106491AL
+TSB Revision

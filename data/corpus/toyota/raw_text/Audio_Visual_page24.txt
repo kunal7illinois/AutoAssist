@@ -1,0 +1,54 @@
+AV–24
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+Service Check Mode:
+(*1) (*2)
+PRESET SWITCH “3” PRESET SWITCH “2”
+Detailed Information Mode 1:
+(*1) (*2)
+(*3)
+PRESET SWITCH “5”
+(DTC is detected only in the
+response to “Diagnostic (*1) (*2) (Press for 2 seconds or more)
+Memory Request”.)
+(*4)
+(*1) (*2)
+(*5) *1: SEEK TRACK DOWN
+(*1) (*2) *2: SEEK TRACK UP
+(*6) *3: P...Indicates physical address
+Detailed information of
+(*1) (*2) 440...Physical address
+the first code is
+displayed. (*7) *4: “COdE” indicates the display
+start of the response to “Diagnostic
+(*1) (*2)
+Memory Request”.
+(*8)
+(*1) (*2)
+*5: 1...The first code
+(*9)
+(*1) (*2) L...Indicates logical address
+01...Logical address
+(*10)
+(*1) (*2) *6: 1...The first code
+(*10) d...Indicates DTC
+Detailed information of
+(*1) (*2) DC...DTC
+the second code is
+displayed. (*11) *7: Physical address appears as the
+sub-code.
+(*1) (*2)
+(*8)
+*8: Connection check number
+(*1) (*2)
+*9: The number of times of
+(*9) occurrence
+(*1) (*2)
+AV
+*10: 2...The second code
+Continues to display detailed
+information when more DTCs
+*11: For DTCs without sub-codes,
+are detected.
+physical address is not displayed.
+(*1) (*2)
+E110919E06

@@ -1,0 +1,50 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-11
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TEST MONITORING SIMPLE TECHNICAL INDICATION OF SCAN CONVERSION
+ID ITEM DESCRIPTION TOOL COEFFICIENT IN
+USING
+GENERAL SCAN
+TOOL
+07 Evaporation ECM <M/T> or PCM <A/T> EVAP Leak Mon. Gross × 0.032 kPa
+leak monitor monitors the leak of fuel Pressure Value
+(Gross leak) evaporation gas by checking Test Result and Limit
+whether the pressure can be Value (min.) kPa
+reduced (the amount of pressure
+reduction) using the fuel tank
+differential pressure sensor after
+sealing the fuel tank and the fuel
+line.
+08 Evaporation ECM <M/T> or PCM <A/T> EVAP Leak Mon. × 0.032 kPa
+leak monitor monitors the leak of fuel 0.5mm Pressure Value
+(Very small evaporation gas by the reduction of Test Result and Limit
+leak) vacuum in tank after appointed time Value (max.) kPa
+using the fuel tank differential
+pressure sensor after making the
+fuel tank and the fuel line vacuum.
+09 Right bank ECM <M/T> or PCM <A/T> HO2S B1 SENSOR1 × 1 count
+heated oxygen monitors the deteriorated condition Rich/Lean Switching
+sensor (front) of the right bank heated oxygen Count
+monitor (Rich/ sensor (front) by checking the lean/ Test Result and Limit
+Lean rich Switching frequency of the right Value (min.)
+Switching) bank heated oxygen sensor (front).
+0A Left bank ECM <M/T> or PCM <A/T> HO2S B2 SENSOR1 × 1 count
+heated oxygen monitors the deteriorated condition Rich/Lean Switching
+sensor (front) of the left bank heated oxygen Count
+monitor (Rich/ sensor (front) by checking the lean/ Test Result and Limit
+Lean rich Switching frequency of the left Value (min.)
+Switching) bank heated oxygen sensor (front).
+0B Right bank ECM <M/T> or PCM <A/T> checks HO2S B1 SENSOR2 × 19.5 mV
+heated oxygen the output voltage of the right bank Change in Volt
+sensor (rear) heated oxygen sensor (rear) in Test Result and Limit
+monitor order to monitor whether the heated Value (min.)
+(Voltage) oxygen sensor (rear) output is
+stuck.
+0C Left bank ECM <M/T> or PCM <A/T> checks HO2S B2 SENSOR2 × 19.5 mV
+heated oxygen the output voltage of the left bank Change in Volt
+sensor (rear) heated oxygen sensor (rear) in Test Result and Limit
+monitor order to monitor whether the left Value (min.)
+(Voltage) bank heated oxygen sensor (rear)
+output is stuck.
+NOTE: *1: Minimum value: The test fails if test value is less than this value.
+NOTE: *2: Maximum value: The test fails if test value is greater than this value.
+TSB Revision

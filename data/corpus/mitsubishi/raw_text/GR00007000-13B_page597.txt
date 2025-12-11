@@ -1,0 +1,51 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-597
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 14. Using scan tool MB991502, check data list item
+59: Left Bank Heated oxygen sensor (rear).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+59, Left Bank Heated Oxygen Sensor (rear).
+16 PIN • Average voltage should be 0.6 volt or less, when idling.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AKX01177AB Q:Is the sensor operating properly?
+YES : Go to Step 16.
+NO : Replace the left bank heated oxygen sensor (front).
+Then confirm that the malfunction symptom is
+eliminated.
+STEP 15. Check the fuel pressure.
+Refer to, Fuel Pressure Test P.13B-680.
+Q:Is the fuel pressure normal?
+YES : Go to Step 16.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+STEP 16. Check the following items.
+(1) Check the following items, and repair or replace the
+defective items.
+a. Check the injectors for fuel leakage.
+b. Check the ignition coil, spark plugs, spark plug cables.
+c. Check compression pressure.
+d. Check the positive crankcase ventilation system.
+e. Check the evaporative emission control system.
+(2) Then check the malfunction symptom.
+Q:Is the malfunction symptom is eliminated?
+YES : The check is completed.
+NO : Replace the catalytic converter. Then confirm that the
+malfunction symptom is eliminated.
+INSPECTION PROCEDURE 24: Purge Flow Test of the Evaporative Emission Canister Failure.
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+• The test fails when the purge line or purge port is causes for this case:)
+• Purge line or purge port is clogged.
+clogged or if the evaporative emission purge
+• Malfunction of the evaporative emission purge
+solenoid fails.
+solenoid.
+• Evaporative emission canister is clogged.
+.
+TSB Revision

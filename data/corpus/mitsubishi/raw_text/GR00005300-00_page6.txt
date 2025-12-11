@@ -1,0 +1,61 @@
+00-6 GENERAL <BODY AND CHASSIS>
+TROUBLESHOOTING GUIDELINES
+TROUBLESHOOTING GUIDELINES
+M1001008800221
+FIND THE PROBLEM
+VERIFY THE COMPLAINT After the symptoms have been confirmed, and prob-
+• Make sure the customer’s complaint and the ser- able causes have been identified, the next step is to
+vice writer’s work order description are under- make step-by-step checks of the suspected system
+stood before starting work. components, junctions, and links in logical order.
+• Make sure the correct operation of the system is Use the diagnostic procedures in the service manual
+understood. Read the service manual description whenever possible. Follow these procedures care-
+to verify any aspect of normal system operation. fully to avoid missing an important step in the diagno-
+• Operate the system to see the symptoms. Look sis sequence. It might be the skipped step that leads
+for other symptoms that were not reported by the to the solution of the problem.
+customer, or on the work order, that may be If the service manual doesn’t have step-by-step pro-
+related to the problem. cedures to help diagnose the problem, come up with
+a series of checks based on the ranked list of proba-
+DETERMINE POSSIBLE CAUSES ble causes. Troubleshooting checks should be made
+in the order that the list of causes was ranked:
+Compare the confirmed symptoms to the diagnostic
+• general to specific
+symptom indexes to get to the right diagnosis proce-
+• most-likely to least-likely
+dure.
+• easy-to-check to hard-to-check
+If the confirmed symptoms can not be found on any
+symptom index, determine other possible causes.
+REPAIR THE PROBLEM
+• Analyze the system diagrams and list all possible
+causes for the problem symptoms. When the step-by-step troubleshooting checks find a
+• Rank all these possible causes in order of proba- fault, perform the proper repairs. Be sure to fix the
+bility, based on how much of the system they root cause of the problem, not just the symptom. Just
+cover, how likely they are to be the cause, and fixing the symptom, without fixing the root cause, will
+how easy they will be to check. Be sure to take cause the symptom to eventually return.
+experience into account. Consider the causes of
+VERIFY THE REPAIR
+similar problems seen in the past. The list of
+causes should be ranked in order from general to After repairs are made, recheck the operation of the
+specific, from most-likely to least-likely, and from system to confirm that the problem is eliminated. Be
+easy-to-check to hard-to-check. sure to check the system thoroughly. Sometimes
+new problems are revealed after repairs have been
+made.
+HOW TO USE TROUBLESHOOTING/INSPECTION SERVICE
+POINTS
+M1001000200258
+Troubleshooting of electronic control systems for 2. SYSTEM OPERATION AND SYMPTOM
+which the scan tool can be used follows the basic VERIFICATION TESTS
+outline described below. Even in systems for which If verification of the symptom(s) is difficult, proce-
+the scan tool cannot be used, part of these systems dures for checking operation and verifying symptoms
+still follow this outline. are shown.
+TROUBLESHOOTING CONTENTS
+.
+3. DIAGNOSTIC FUNCTION
+.1. STANDARD FLOW OF DIAGNOSTIC TROU-
+The following trouble code diagnosis are shown.
+BLESHOOTING • How to read diagnostic trouble codes
+Troubleshooting strategy is shown in each group. • How to erase diagnostic trouble codes
+• Input inspection service points
+.
+.
+TSB Revision

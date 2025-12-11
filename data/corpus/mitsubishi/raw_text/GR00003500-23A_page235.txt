@@ -1,0 +1,30 @@
+AUTOMATIC TRANSAXLE 23A-235
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 2. Check the A/T control relay.
+(1) Remove the A/T control relay A-17X.
+CONNECTOR: A-17X
+BATTERY A-17X
+FRONT OF VEHICLE
+AC102447AF
+(2) Use jumper wires to terminal 2 of A/T control relay
+connector A-17X to the positive battery terminal, and
+RELAY TERMINALS terminal number 3 of A/T control relay connector A-17X to
+the negative battery terminal.
+1 2 (3) Measure the resistance between terminal 1 and 4 of A/T
+3 4 control relay connector A-17X.
+• Should be than 2 ohm when the jumper wire connected.
+• Open circuit when the jumper wire disconnected.
+Q:Is the resistance normal?
+AC100115AG YES : Go to Step 3.
+NO : Replace the A/T control relay.
+STEP 3. Check connector A-17X at A/T control relay for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-17X
+YES : Go to Step 4.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+BATTERY A-17X
+FRONT OF VEHICLE
+AC102447AF
+TSB Revision

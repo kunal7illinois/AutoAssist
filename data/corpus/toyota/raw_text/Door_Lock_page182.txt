@@ -1,0 +1,54 @@
+DL–172
+DOOR LOCK – SMART KEY SYSTEM
+4 CHECK AND REPLACE ELECTRICAL KEY ANTENNA (RECONFIRM DTC)
+(a) Replace the antenna.
+(b) Clear the DTCs and repeat the procedure to recheck for
+DTCs (See page DL-156).
+OK:
+DTC is not output.
+OK END (ANTENNA IS DEFECTIVE)
+NG
+5 INSPECT CERTIFICATION ECU
+(a) Reconnect the E58 ECU connector.
+Certification ECU:
+(b) Reconnect the O19 antenna connector.
+(c) Reconnect the O18 receiver connector.
+(d) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+E58 Tester Connection
+Condition Specified Condition
+(Symbols)
+Engine switch OFF,
+luggage compartment Below 1 V
+E58-37 (ASEL) - Body door OPEN
+RSSI RC0 ground Engine switch OFF,
+RDA ASEL luggage compartment 4.5 to 5.5 V
+door CLOSED
+Engine switch OFF, all
+doors closed, the
+B137963E01 electrical key is not in the 10 to 14 V
+E58-39 (RSSI) - Body action area
+ground Engine switch OFF, all
+doors closed, the
+Below 1 V
+electrical key in the
+action area
+Engine switch OFF, all
+10 to 14 V (Pulse
+doors closed and
+generation)
+E58-38 (RDA) -Body electrical key switch OFF
+ground Engine switch OFF, all
+doors closed and Pulse generation
+electrical key switch ON
+DL
+Engine switch OFF, all
+doors closed and Below 1 V
+E58-29 (RC0) - Body electrical key switch OFF
+ground Engine switch OFF, all
+doors closed and 4.5 to 5.5 V
+electrical key switch ON
+NG REPLACE CERTIFICATION ECU
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

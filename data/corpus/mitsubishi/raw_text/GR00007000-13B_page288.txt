@@ -1,0 +1,29 @@
+13B-288 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Check the power supply voltage at injector
+intermediate connector B-48.
+(1) Disconnect the connector B-48 and measure at the female
+connector side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+2 1 Q:Is the voltage normal?
+4 3
+YES : Go to Step 8.
+INJECTOR
+NO : Go to Step 7.
+INTERMEDATE
+CONNECTOR
+AK000271AB
+STEP 7. Check connector A-18X at MFI relay for damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-18X
+YES : Repair harness wire between MFI relay connector A-
+MFI RELAY 18X terminal 4 and injector intermediate connector B-
+48 terminal 1 because of open circuit or short circuit to
+ground. Then go to Step 12.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+AK101363AB
+TSB Revision

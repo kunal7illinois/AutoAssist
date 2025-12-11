@@ -1,0 +1,38 @@
+54B-452 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check the theft-alarm horn.
+(1) Remove the horn.
+CONNECTOR: A-25
+DEVICE SIDE
+1
+AC106465AD
+(2) Connect the battery as shown, and check that the theft-
+alarm horn sounds.
+Q:Does the theft-alarm horn sound?
+YES : Go to Step 3.
+NO : Replace the theft-alarm horn. All the vehicle horn
+(including the theft-alarm horn) should sound when
+the theft-alarm system is triggered.
+ACX02352
+STEP 3. Check the theft-alarm horn relay.
+CONNECTOR: A-06X
+BATTERY VOLTAGE TESTER SPECIFIED
+CONNECTION CONDITION
+Not applied 1 − 4 Open circuit
+FRONT-ECU
+• Connect terminal 2 1 − 4 Less than 2 ohm
+to the positive
+battery terminal
+• Connect terminal 3
+to the negative
+battery terminal
+Q:Is the theft-alarm horn relay normal?
+DEVICE SIDE YES : Go to Step 4.
+NO : Replace the theft-alarm horn relay.All the vehicle horn
+1 2 1
+(including the theft-alarm horn) should sound when
+4
+3 4 the theft-alarm system is triggered.
+2 3
+AC106538AD
+TSB Revision

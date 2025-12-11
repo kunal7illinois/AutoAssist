@@ -1,0 +1,31 @@
+ES–40
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+If communication is normal: Inspect the DLC3 on the
+original vehicle.
+If communication is still not possible: The problem is
+probably in the tester itself. Consult the Service
+Department listed in the instruction manual.
+6. BATTERY VOLTAGE
+Standard battery voltage:
+11 to 14 V
+If the voltage is below 11 V, replace or recharge the
+battery before proceeding.
+7. MIL (Malfunction Indicator Lamp)
+(a) The MIL is illuminated when the ignition switch is
+first turned ON (the engine is not running).
+ES
+(b) The MIL should turn OFF when the engine is
+started. If the MIL remains illuminated, the diagnosis
+system has detected a malfunction or abnormality in
+the system.
+HINT:
+If the MIL is not illuminated when the ignition switch
+is first turned ON, check the MIL circuit (see page
+ES-386).
+8. ALL READINESS
+For the vehicle, using the intelligent tester allows
+readiness codes corresponding to all DTCs to be read.
+When diagnosis (normal or malfunctioning) has been
+complete, readiness codes are set. Select the following
+menu items on the intelligent tester: ENHANCED OBD II
+/ MONITOR STATUS.

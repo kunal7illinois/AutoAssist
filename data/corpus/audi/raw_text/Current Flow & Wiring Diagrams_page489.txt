@@ -1,0 +1,53 @@
+Audi TT No. 55 / 3
+Current Flow Diagram
+Onboard supply control unit, light switch
+E1 Light switch
+J519 Onboard supply control unit
+SC1 Fuse 1 on fuse holder C
+SC3 Fuse 3 on fuse holder C
+SC4 Fuse 4 on fuse holder C
+SC5 Fuse 5 on fuse holder C
+T10e 10-pin connector, black, connector A, on light switch
+T52a 52-pin connector, black, on onboard supply control unit
+T52b 52-pin connector, yellow, on onboard supply control unit
+4,0 B163 4,0 T52c 52-pin connector, brown, on onboard supply control unit
+sw sw
+1 3 4 5 44 Earth point, lower part of left A-pillar
+1100
+SC1 SC3 SC4 SC5
+10A 5A 5A 5A
+1a 3a 4a 5a 374 Earth connection 9, in main wiring harness
+0,5 0,5 0,5 375 Earth connection 10, in main wiring harness
+sw/ge sw/ro gr/ge
+3388 7711 6611
+392 Earth connection 27, in main wiring harness
+J519
+B163 Positive connection 1 (15), in interior wiring harness
+T52a T52b T52c/5 T52a/23 T52a T52a T52a T52a
+/42 /52 31 31 /18 /20 /19 /22
+31 31
+2,5 2,5 2,5 0,5 0,35 0,35 0,35 0,35
+br br br br sw/ws ge/bl gr/ge ws/sw
+E1
+T10e/9 T10e/2 T10e/3 T10e/1
+0123
+392 374
+T10e/6
+31
+88
+2,5 2,5 1,0 0,35 0,5
+br br br br br
+ws = white
+375
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+44 44 li = purple
+ge = yellow
+15 16 17 18 19 20 21 22 23 24 25 26 27 28 or = orange
+8J0-055030409
+rs = pink
+Edition 04.2009

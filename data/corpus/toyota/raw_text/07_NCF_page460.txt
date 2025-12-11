@@ -1,0 +1,48 @@
+BE-126 BODY ELECTRICAL - SMART KEY SYSTEM
+10) Situation: I
+The vehicle is driven using a key that has a low battery.
+In this situation, the following control is performed:
+Possible Effects without Warning Smart access system does not function
+The warning is activated when all of the following conditions
+are met:
+(cid:3) Power source switches to OFF after being left in IG-ON for
+Warning Condition
+over 20 minutes.
+(cid:3) Key battery voltage is low.
+(cid:3) Key is in the vehicle.
+Buzzer Sounds once
+Multi-information
+Combination
+Display
+Meter
+025BE101P
+Master Warning
+Flash
+Light
+Wireless Door Lock Buzzer —
+Engine Switch Indicator Light —
+Warning Stop Condition The key battery is replaced with a new one.
+11) Situation: J
+Steering lock cannot be released.
+In this situation, the following control is performed:
+Possible Effects without Warning Steering usability function
+The Steering lock cannot be released, thus the engine is
+Warning Condition
+prevented from starting.
+Buzzer Sounds once
+Multi-information
+Combination
+Display
+025BE102P
+Meter
+Displayed for 15 seconds (and then automatically turned off)
+Master Warning
+Flash
+Light
+Wireless Door Lock Buzzer —
+The green indicator blinks at 1-second intervals
+Engine Switch Indicator Light
+(goes off automatically in 15 seconds).
+The engine switch is pressed while the steering wheel is turned
+Warning Stop Condition
+left and right, and the steering lock successfully disengages.

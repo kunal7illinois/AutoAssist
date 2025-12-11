@@ -1,0 +1,41 @@
+ES–92
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+5 CHECK HARNESS AND CONNECTOR (HO2 SENSOR - ECM)
+(a) Disconnect the B19 HO2 sensor connector.
+Wire Harness Side:
+(b) Disconnect the B30 ECM connector.
+HO2 Sensor Connector (c) Measure the resistance.
+Standard resistance (Check for open)
+Tester Connections Specified Conditions
+HT1B
+B19 B19-1 (HT1B) - B30-47 (HT1B) Below 1 Ω
+Standard resistance (Check for short)
+Front View Tester Connections Specified Conditions
+ES
+B19-1 (HT1B) or B30-47 (HT1B) -
+10 kΩ or higher
+Body ground
+B30 ECM Connector (d) Reconnect the HO2 sensor connector.
+HT1B (e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Front View
+A104950E05
+OK
+6 CHECK WHETHER DTC OUTPUT RECURS
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Clear DTCs (see page ES-35).
+(e) Start the engine.
+(f) Allow the engine to idle for 2 minutes or more.
+(g) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(h) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+No output A
+P0037, P0038 and/or P0141 B
+B REPLACE ECM
+A
+CHECK FOR INTERMITTENT PROBLEMS

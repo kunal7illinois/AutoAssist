@@ -1,0 +1,49 @@
+BC–15
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+(a) Procedure to enter Test Mode.
+(1) Turn the ignition switch off.
+(2) Connect the intelligent tester to the DLC3.
+(3) Check that the steering wheel is centered and
+move the shift lever to the P position (for
+Automatic Transaxle) or apply the parking brake
+(Manual Transaxle).
+(4) Turn the ignition switch on (IG).
+DLC3
+Intelligent Tester
+C131977E02
+(5) Set the intelligent tester to Test Mode (select
+"SIGNAL CHECK").
+BC
+HINT:
+Refer to the intelligent tester operator's manual
+for further details.
+C106533
+(6) Check that the ABS warning light comes on for
+TEST MODE: several seconds and then blinks in test mode.
+HINT:
+Blinking Pattern:
+If the ABS warning light does not blink, inspect
+the ABS warning light circuit.
+0.13 sec. 0.13 sec.
+Trouble Area See procedure
+ON ABS warning light (Does not come on) BC-78
+(b) Check the sensor signal.
+OFF
+(1) Drive the vehicle straight ahead.
+Accelerate the vehicle to a speed of 28 mph (45
+Display:
+km/h) or more for several seconds and check
+that the ABS warning light goes off when the
+brake pedal is depressed.
+HINT:
+• The sensor check may not be completed if
+wheel spin occurs, or if the steering wheel is
+turned during this check.
+• The ABS warning light goes off when the
+USA: sensor signal check has been completed and
+the brake pedal is depressed.
+• The ABS warning light comes on immediately
+Canada:
+after a malfunction has been detected during
+the speed sensor signal check.
+C132874E01

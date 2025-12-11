@@ -1,0 +1,46 @@
+Audi TT 2007 ➤
+7-speed dual clutch gearbox 0BH (S tronic) - Edition 09.2010
+5 Notes on dual clutch gearbox 0BH
+5.1 General notes
+Gearbox
+The layout of the dual clutch gearbox 0BH „S tronic“ is basically
+similar to that of a 7-speed manual gearbox. The engine torque
+is transferred to the gearbox via the dual-mass flywheel. The two
+multi-plate clutches are controlled hydraulically and actuated al‐
+ternately so that the gearbox is operated like an automatic gear‐
+box, in other words the gears are engaged automatically (but can
+also be selected manually via the tiptronic function). There is no
+clutch pedal. For further information please refer to ⇒ Self-study
+programme No. 454 ; 7-speed dual clutch gearbox 0BT .
+Selector mechanism
+In selector lever position „P“ the selector lever cable is used to
+engage the parking lock mechanically. All other gearshift com‐
+mands and selector lever positions are transmitted via the CAN
+data bus from the selector lever -J743- (selector mechanism) to
+the mechatronic unit for dual clutch gearbox -E313- .
+Gear oil (gearbox and bevel box)
+The dual clutch gearbox „0BH“ has a common oil system.
+This oil system lubricates the gears and shafts, the final drive, the
+clutches and the mechatronic unit for dual clutch gearbox -J743- .
+Note
+Use only the correct type of gear oil for dual clutch gearbox
+„0BH“ (available as a replacement part). Other types of oil will
+cause malfunctions and/or failure of the gearbox; for part number
+refer to ⇒ Electronic parts catalogue .
+The bevel box has a separate oil filling ⇒ page 115 .
+Note
+Use only the correct type of gear oil (available as a replacement
+part) for the bevel box. Other types of oil will cause malfunctions
+and/or failure of the bevel box; for part number refer to ⇒ Elec‐
+tronic parts catalogue .
+When does the gear oil filter have to be changed?
+Note
+The gear oil filter does not always require replacement.
+Do not change the filter if:
+♦ The gear oil cooler or its O-rings have been renewed and no
+coolant has entered the oil system.
+♦ Oil seals or O-rings have been renewed in the gearbox.
+♦ The oil pan or mechatronic unit have been renewed.
+♦ The maintenance interval has been reached.
+6
+Rep. gr.00 - Technical data

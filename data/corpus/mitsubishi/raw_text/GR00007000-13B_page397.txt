@@ -1,0 +1,41 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-397
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 17. Check the harness wire between intermediate
+connector D-16 terminal 6 and fuel tank differential
+pressure sensor connector D-18 terminal 2 for damage.
+Q:Is the harness wire in good condition?
+CONNECTOR: D-16
+YES : Replace the fuel tank differential pressure sensor.
+Then go to Step 22.
+NO : Repair it. Then go to 22.
+AC001787AD
+CONNECTOR: D-18
+FUEL TANK DIFFERENTIAL
+PRESSURE SENSOR
+FUEL TANK
+AC103356AD
+STEP 18. Check the output circuit voltage at fuel tank
+differential pressure sensor connector D-18.
+(1) Remove the center exhaust pipe. (Refer to GROUP 15,
+Exhaust Pipe, Main Muffler and Catalytic Converter P.15-
+22.)
+(2) Remove the fuel band assembly, tilt the fuel tank.
+(3) Disconnect fuel tank differential pressure sensor connector
+D-18.
+(4) Use special tool (MB991658) to connect terminals 1, 2 and
+3 of the disconnected sensor connector and those of the
+harness side connector respectively.
+MB991658
+(5) Turn the ignition switch to the "ON" position.
+(6) Remove the fuel cap.
+(7) Measure the voltage between terminal 1 and ground.
+• Voltage should be between 2.0 and 3.0 volts.
+(8) Turn the ignition switch to the "LOCK" (OFF) position.
+FUEL TANK DIFFERENTIAL
+PRESSURE SENSOR Q:Is the voltage normal?
+AC002081AB YES : Remove the special tool and connect fuel tank
+differential pressure sensor connector D-18. Then go
+to Step 19.
+NO : Replace the fuel tank differential pressure sensor.
+Then go to 22.
+TSB Revision

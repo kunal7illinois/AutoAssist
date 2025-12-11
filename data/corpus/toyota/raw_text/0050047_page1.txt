@@ -1,0 +1,35 @@
+ES–265
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0724 Brake Switch "B" Circuit High
+DESCRIPTION
+The purpose of this circuit is to prevent the engine from stalling while driving in the lock-up condition when
+the brakes are suddenly applied.
+When the brake pedal is depressed, this switch sends a signal to the ECM. Then the ECM cancels the
+operation of the lock-up clutch while braking is in progress.
+DTC No. DTC Detection Condition Trouble Area
+P0724 Stop light switch remains ON even when • Short in stop light switch signal circuit
+vehicle is driven in GO (30 km/h (18.63 mph) • Stop light switch
+or more) and STOP (less than 3 km/h (1.86 • ECM
+mph)) pattern 5 times (2 trip detection logic)
+ES
+MONITOR DESCRIPTION
+This DTC indicates that the stop light switch remains ON. When the stop light switch remains ON during
+GO and STOP driving, the ECM interprets this as a fault in the stop light switch. Then the MIL illuminates
+and the ECM stores the DTC. The vehicle must GO (30 km/h (18.63 mph) or more) and STOP (less than
+3 km/h (1.86 mph)) 5 times for 2 driving cycles in order for the DTC to be output.
+MONITOR STRATEGY
+Related DTCs P0724: Stop light switch/Range check/Rationality
+Required sensors/Components Stop light switch, Vehicle speed sensor
+Frequency of operation Continuous
+Duration GO and STOP 5 times
+MIL operation 2 driving cycles
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+The monitor will run whenever this DTC is not present. None
+Battery voltage 8 V or more
+Starter OFF
+Ignition switch ON
+GO (Vehicle speed is 30 km/h (18.63 mph) or more) Once
+STOP (Vehicle speed is less than 3 km/h (1.86 mph)) Once
+TYPICAL MALFUNCTION THRESHOLDS
+Brake switch Stuck ON

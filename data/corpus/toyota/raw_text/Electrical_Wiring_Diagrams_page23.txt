@@ -1,0 +1,97 @@
+* 1:120A ALT (for High Current)
+* 2:30A ST/AM2 (for High Current)
+* 3:50A HTR (for High Current)
+* 4:50A ABS No.1 (for High Current)
+* 5:50A FAN MAIN (for High Current)
+* 6:30A ABS No.2 (for High Current)
+* 7:50A RR DEF (for High Current)
+1 * 8:40A CDS FAN (for High Current)
+* 9:40A RDI FAN (for High Current)
+(from Engine Room Main Wire)
+Wire Color : W
+1
+(from Engine Room Main Wire)
+Wire Color : B
+H-LP (LH)
+Unit B
+Unit D
+Unit A
+1
+(from Engine Wire)
+Wire Color : B
+3
+RR DEF Relay 1 2
+1
+IG2 Relay 5 3 VSC No.1 Relay
+2
+3 3
+ST CUT Relay 5 5
+1 2 1 2
+ST Relay
+2
+3 3 3 5 VSC NO.2 Relay
+MGC Relay 5 5
+1 2 1 2 1
+NIAM
+IFE
+15A
+A03
+*9
+*2 *8
+2
+1
+*7
+H-LP (RH) *6
+15A
+H-LP (LL)
+15A *5
+H-LP (RL)
+15A
+HORN *4
+10A *1
+*3
+EFI NO.1
+10A
+MPX-B
+10A
+A/F
+20A
+S-HORN
+7.5A STR LOCK
+120A 2
+IG2
+120A 2
+HAZ
+115A 2
+EFI NO.2 RADIO NO.1 ETCS
+115A 2 215A 1 110A 2
+EFI NO.3 ECU-B NO.1
+110A 2 210A 1
+DOME
+210A 1
+SHORT
+2 1
+ALT-S
+17.5A2
+AM2
+17.5A2
+4
+5
+PMA A52
+2
+1
+1.ON
+ROOD
+A52
+F RELAY LOCATIONS
+1 : Engine Room R/B
+EEnnggiinnee CCoommppaarrttmmeenntt LLeefftt ((SSeeee PPaaggee 2200))
+: Engine Room J/B
+1G
+1F
+2
+1
+1C
+Unit C Unit E
+22
+CAMRY (EM0250U)

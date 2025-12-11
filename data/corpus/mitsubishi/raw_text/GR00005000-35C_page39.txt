@@ -1,0 +1,40 @@
+TRACTION CONTROL SYSTEM (TCL) 35C-39
+ON-VEHICLE SERVICE
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool.
+3. Turn the ignition switch to the "LOCK" (OFF) position and
+set scan tool MB991502 as shown in the illustration.
+4. After checking that the selector lever <A/T> or the shift lever
+<M/T> is in neutral, start the engine.
+5. Use scan tool MB991502 to force-drive the actuator.
+NOTE: The TCL system will switch to the scan tool mode
+and the ABS warning light will illuminate.
+16 PIN
+NOTE: When the TCL has been interrupted by the fail-safe
+function, scan tool MB991502 actuator testing cannot be
+MB991502 AC001252AF
+used.
+SCAN TOOL ACTUATOR TEST
+(ITEM NO.06, 07) START
+PRESSURE INCREASES
+SOLENOID
+1 s
+VALVE PRESSURE HOLD
+POSITION
+2 s
+PRESSURE DECREASES
+BRAKE FORCE
+CHECKING
+3 s
+THE BRAKE
+FORCE DRAG FORCE
+AC000972AB
+6. Turn the wheel by hand and check the change in braking
+force. Use a braking force tester. The braking force reading
+value should change when the actuator test is carried out.
+The result should be as shown in the diagram above.
+7. If the result of inspection is abnormal, replace the hydraulic
+unit. (Refer to GROUP 35B, Hydraulic Unit P.35B-52.)
+TSB Revision

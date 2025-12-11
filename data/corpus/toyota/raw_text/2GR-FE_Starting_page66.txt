@@ -1,0 +1,28 @@
+ST–66
+2GR-FE STARTING – SMART KEY SYSTEM
+WIRING DIAGRAM
+F2 E8
+Combination Meter Main Body ECU
+CAN CAN
+CAN
+12 9
++S SPD
+F19 F8
+Stereo Component Amplifier Radio Receiver
+11 3
+SPD SPD
+E60 F13
+Tire Pressure Warning ECU Radio and Display
+2 3
+SPD SPD
+C56
+Transmission Control ECU A55 ECM
+3 8
+SPD1 SPD
+B137981E01
+HINT:
+ST
+• A voltage of 12 V or 5 V is output from each ECU and then input to the combination meter. The signal
+is changed to a pulse signal at the transistor in the combination meter. Each ECU controls the
+respective system based on the pulse signal.
+• If a short occurs in an ECU, all systems in the diagram above will not operate normally.

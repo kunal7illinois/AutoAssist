@@ -1,0 +1,55 @@
+Audi TT No. 47 / 18
+Current Flow Diagram
+Onboard supply control unit, rear fog light, left and right tail
+light USA
+J519 Onboard supply control unit
+M6 Rear left turn signal bulb
+M8 Rear right turn signal bulb
+M9 Left brake light bulb
+M10 Right brake light bulb
+M16 Left reversing light bulb
+M17 Right reversing light bulb
+M37 Rear left side marker bulb
+M38 Rear right side marker bulb
+T2g 2-pin connector, black, on right in luggage compartment
+T6k 6-pin connector, black, on left tail light
+T6l 6-pin connector, black, on right tail light
+T52a 52-pin connector, black, on onboard supply control unit
+T52c 52-pin connector, brown, on onboard supply control unit
+X3 Rear fog light
+395 Earth connection 30, in main wiring harness
+J519 662 Earth point, rear left side panel
+* not USA
+T52c T52a T52a/4 T52c/4 T52a/28 T52c T52a T52a/3 T52c/3 T52a/9 T52c # Coupé
+/51 /27 /28 /26 /47 ## Roadster
+# ✱
+0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5
+gr/ro gr/sw gr/ws ws sw/bl sw/bl ws gr/ws gr/sw gr/ro ws/ge
+T2g/2
+## ✱
+0,5 0,5
+gr/ws ws/ge
+T6k/6 T6k/5 T6k/4 T6k/3 T6k/2 T6l/6 T6l/3 T6l/4 T6l/1 T6l/2
+M37 M37 M38 M38 2
+M6 M9 M6 M9 M16 M17 M10 M8 M10 M8
+X3
+1/31
+T6k/1 T6l/5
+31 31 ✱
+0,5
+br
+ws = white
+T2g/1 sw = black
+ro = red
+✱
+1,5 1,5 0,5 br = brown
+br br br gn = green
+395 bl = blue
+395
+gr = grey
+662 li = purple
+ge = yellow
+225 226 227 228 229 230 231 232 233 234 235 236 237 238 or = orange
+8J0-047180409
+rs = pink
+Edition 04.2010

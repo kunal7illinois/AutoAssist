@@ -1,0 +1,31 @@
+ES–226
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+ECM
+V2
+Knock Sensor (Bank 1) Shielded
+2 95
+1 2 KNK1
+CV1 C55
+1 94
+EKNK
+CV1 C55
+ES
+V1
+Knock Sensor (Bank 2)
+4 118
+1 2 KNK2
+CV1 C55
+3 117
+EKN2
+CV1 C55
+A133852E01
+INSPECTION PROCEDURE
+HINT:
+• DTCs P0327 and P0328 are for the bank 1 knock sensor circuit.
+• DTCs P0332 and P0333 are for the bank 2 knock sensor circuit.
+• Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame
+data can be helpful in determining whether the vehicle was running or stopped, whether the engine
+was warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the
+time of a malfunction (See page ES-45).

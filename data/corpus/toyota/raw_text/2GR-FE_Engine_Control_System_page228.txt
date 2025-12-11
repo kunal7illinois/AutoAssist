@@ -1,0 +1,54 @@
+ES–228
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2 CHECK WIRE HARNESS AND CONNECTOR (CONNECTOR - ECM)
+(a) Disconnect the CV1 connector.
+Wire Harness Side: (b) Disconnect the C55 ECM connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance (Check for open)
+CV1
+Female Tester Connection Specified Condition
+CV1 female connector 2 - KNK1 (C55-95) Below 1 Ω
+CV1 female connector 1 - EKNK (C55-94) Below 1 Ω
+CV1 female connector 4 - KNK2 (C55-118) Below 1 Ω
+ECM Connector CV1 female connector 3 - EKN2 (C55-117) Below 1 Ω
+C55
+ES
+Standard resistance (Check for short)
+EKNK KNK1
+Tester Connection Specified Condition
+CV1 female connector 2 or KNK1 (C55-95) - Body
+10 kΩ or higher
+ground
+CV1 female connector 1 or EKNK (C55-94) - Body
+10 kΩ or higher
+ground
+CV1 female connector 4 or KNK2 (C55-118) - Body
+10 kΩ or higher
+ground
+EKN2 KNK2
+CV1 female connector 3 or EKN2 (C55-117) - Body
+10 kΩ or higher
+ground
+A135193E01
+(d) Reconnect the CV1 connector.
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+3 INSPECT ECM
+(a) Disconnect the CV1 connector.
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+CV1
+Tester Connection Specified Condition
+Female
+CV1 female connector 2 - 1 4.5 to 5.5 V
+CV1 female connector 4 - 3 4.5 to 5.5 V
+(d) Reconnect the ECM connector.
+A137955E01
+NG REPLACE ECM (See page ES-518)
+OK
+CHECK FOR INTERMITTENT PROBLEMS

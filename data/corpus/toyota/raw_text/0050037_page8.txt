@@ -1,0 +1,39 @@
+ES–224
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK HARNESS AND CONNECTOR (CANISTER PUMP MODULE - ECM)
+(a) Disconnect the S3 canister pump module connector.
+(b) Turn the ignition switch ON.
+(c) Measure the voltage and resistance of the canister
+connector.
+Standard
+Tester Connections Specified Conditions
+S3-4 (VCC) - Body ground 4.5 to 5.5 V
+S3-3 (VOUT) - Body ground 4.5 to 5.5 V
+S3-2 (SGND) - Body ground 100 Ω or less
+ES
+Wire Harness Side:
+VOUT VCC
+S3 1 2 3 4 5
+6 7 8 910
+SGND
+Canister Pump Module Connector
+A127718E01
+Result
+Test Results Suspected Trouble Areas Proceed To
+Voltage and resistance within standard ranges Open in canister pressure sensor circuit A
+Open in wire harness/connector (ECM - Canister
+Voltage and resistance outside standard ranges B
+pressure sensor)
+(d) Reconnect the canister pump module connector.
+A Go to step 5
+B Go to step 6
+5 REPLACE CHARCOAL CANISTER ASSEMBLY
+(a) Replace the canister assembly (see page EC-10).
+NOTICE:
+When replacing the canister, check the canister
+pump module interior and related pipes for water,
+fuel and other liquids. If liquids are present, check
+for disconnections and/or cracks in the following: 1)
+the pipe from the air inlet port to the canister pump
+module; 2) the canister filter; and 3) the fuel tank
+vent hose.

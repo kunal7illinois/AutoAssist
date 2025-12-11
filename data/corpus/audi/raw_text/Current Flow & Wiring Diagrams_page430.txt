@@ -1,0 +1,46 @@
+Audi TT No. 47 / 30
+Current Flow Diagram
+Control unit in dash panel insert, diagnostic connector,
+radio controlled clock receiver, radio controlled clock
+J285 Control unit in dash panel insert
+J489 Radio controlled clock receiver
+J623 Engine control unit
+T16 16-pin connector, diagnostic connector
+T32 32-pin connector, blue, on control unit in dash panel insert
+Y8 Radio controlled clock
+Y24 Display in dash panel insert
+393 Earth connection 28, in main wiring harness
+662 Earth point, rear left side panel
+B444 Connection 1 (diagnosis), in main wiring harness
+• CAN bus (data wire)
+* ⇒ Engine Current Flow Diagram
+Y24 J285 Y8
+T32/9 T32
+/10
+0,35 0,35
+ge ro/gn
+B444
+2299 4444
+0,5 0,35 0,35 0,5 0,35
+sw/bl gr/ws gr/ws ro/li br
+15 K 30
+T16/1 T16/7 T16/16
+J623
+2/31 1 3
+✱
+393
+T16/4 T16/5 T16/6 T16/14 J489 ws = white
+31 31 sw = black
+ro = red
+• •
+0,5 0,5 0,35 0,35 1,5 1,0 br = brown
+br br or/ro or/br br br gn = green
+bl = blue
+gr = grey
+337711 337722 338888 338877 227700
+662 li = purple
+ge = yellow
+393 394 395 396 397 398 399 400 401 402 403 404 405 406 or = orange
+8J0-047300409
+rs = pink
+Edition 04.2010

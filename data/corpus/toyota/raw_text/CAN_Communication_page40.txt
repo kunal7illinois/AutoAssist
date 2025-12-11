@@ -1,0 +1,28 @@
+CA–40
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+8 CHECK SHORT TO GND IN CAN MS BUS WIRE
+(a) Turn the ignition switch off.
+Main Body ECU: (b) Disconnect the E8 main body ECU connector.
+E8
+CA
+C140857E01
+(c) Measure the resistance according to the value(s) in the
+Certification ECU Connector
+table below.
+(Wire Harness Side):
+HINT:
+The resistance must be measured after the E58
+certification ECU connector is disconnected.
+Standard resistance
+Tester Connection Condition Specified Condition
+E58
+E58-27 (CANH) - E58-17
+Ignition switch off 6 kΩ or higher
+(E)
+E58-28 (CANL) - E58-17
+Ignition switch off 6 kΩ or higher
+E (E)
+CANL CANH OK REPLACE MAIN BODY ECU
+C136713E03
+NG
+REPAIR OR REPLACE CAN MS BUS MAIN WIRE OR CONNECTOR

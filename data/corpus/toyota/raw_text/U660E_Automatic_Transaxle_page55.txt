@@ -1,0 +1,37 @@
+AX–55
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+DTC No. Detection Item Trouble Area MIL *1 Memory *2 See page
+P2716 Pressure Control Solenoid "D" 1. Open or short in shift solenoid Comes on DTC stored AX-128
+Electrical (Shift Solenoid Valve valve SLT circuit
+SLT) 2. Shift solenoid valve SLT
+3. TCM
+P2757 Torque Converter Clutch 1. Shift solenoid valve SLU remains Comes on DTC stored AX-131
+Pressure Control Solenoid open or closed AX
+Performance (Shift Solenoid 2. Valve body is blocked
+Valve SLU) 3. Torque converter clutch
+4. Automatic transaxle (clutch, brake
+or gear, etc.)
+5. Line pressure is too low
+P2759 Torque Converter Clutch 1. Open or short in shift solenoid Comes on DTC stored AX-136
+Pressure Control Solenoid valve SLU circuit
+Control Circuit Electrical (Shift 2. Shift solenoid valve SLU
+Solenoid Valve SLU) 3. TCM
+P2769 Short in Torque Converter 1. Short in shift solenoid valve SL Comes on DTC stored AX-139
+Clutch Solenoid Circuit (Shift circuit
+Solenoid Valve SL) 2. Shift solenoid valve SL
+3. TCM
+P2770 Open in Torque Converter 1. Open in shift solenoid valve SL Comes on DTC stored AX-139
+Clutch Solenoid Circuit (Shift circuit
+Solenoid Valve SL) 2. Shift solenoid valve SL
+3. TCM
+P2808 Pressure Control Solenoid "D" 1. Shift solenoid valve SL4 remains Comes on DTC stored AX-142
+Performance or Stuck OFF (Shift open or closed
+Solenoid Valve SL4) 2. Valve body is blocked
+3. Automatic transaxle (clutch, brake
+or gear etc.)
+P2810 Pressure Control Solenoid "D" 1. Open or short in shift solenoid Comes on DTC stored AX-148
+Electrical (Shift Solenoid Valve valve SL4 circuit
+SL4) 2. Shift solenoid valve SL4
+3. TCM
+U0100 Lost Communication with ECM/ TCM Comes on DTC stored AX-151
+PCM "A"

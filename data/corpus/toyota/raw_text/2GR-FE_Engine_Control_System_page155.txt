@@ -1,0 +1,45 @@
+ES–155
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).
+1 CHECK DTC OUTPUT
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+ES
+(d) Read the DTCs.
+Result
+Display (DTC Output) Proceed to
+P0115 A
+P0117 B
+P0118 C
+B Go to step 6
+C Go to step 4
+A
+2 READ VALUE OF ENGINE COOLANT TEMPERATURE SENSOR (COOLANT TEMP)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DATA LIST / PRIMARY / COOLANT TEMP.
+(e) Read the value displayed on the tester.
+Standard:
+Between 80°C and 97°C (176°F and 207°F) with
+warm engine.
+Result
+Temperature Displayed Proceed to
+-40°C (-40°F) A
+140°C (284°F) or higher B
+Between 80°C and 97°C (176°F and 207°F) C
+HINT:
+• If there is an open circuit, the intelligent tester
+indicates -40°C (-40°F).
+• If there is a short circuit, the intelligent tester indicates
+140°C (284°F) or higher.
+B Go to step 5

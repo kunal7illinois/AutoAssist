@@ -1,0 +1,21 @@
+ST–74
+2GR-FE STARTING – SMART KEY SYSTEM
+DTC B2284 Brake Signal Malfunction
+DESCRIPTION
+This DTC is output when: 1) the brake signal circuit between the main body ECU and the stop light switch
+is malfunctioning; and 2) the CAN information is inconsistent.
+HINT:
+When the main body ECU is replaced with a new one and the negative (-) battery terminal is connected,
+the power source mode becomes the IG-ON mode. When the battery is removed and reinstalled, the
+power source mode that was selected when the battery was removed is restored.
+After the main body ECU is replaced, perform the registration procedures for the engine immobiliser
+system (See page EI-8).
+DTC No. DTC Detection Condition Trouble Area
+• Stop light switch
+• CAN communication system
+Communication or communication line is abnormal
+B2284 • ECM
+between the main body ECU and the stop light switch
+• Main body ECU
+• Wire harness or connector
+ST

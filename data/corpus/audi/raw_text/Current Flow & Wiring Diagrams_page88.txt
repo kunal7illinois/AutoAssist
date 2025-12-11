@@ -1,0 +1,58 @@
+Audi TT No. 6 / 5
+Current Flow Diagram
+Airbag control unit, front airbag crash sensor for driver side
+and front passenger, driver side and front passenger knee
+airbag igniter,front passenger side airbag deactivated
+warning lamp
+G283 Front airbag crash sensor for driver side
+G284 Front airbag crash sensor for front passenger side
+J234 Airbag control unit
+K145 Front passenger side airbag deactivated warning lamp
+55 N295 Driver side knee airbag igniter
+N296 Front passenger side knee airbag igniter
+4,0
+sw SC1 Fuse 1 on fuse holder C
+T2u 2-pin connector, yellow, in front left engine compartment
+1
+T2v 2-pin connector, yellow, in front right engine compartment
+SC1
+10A T3i 3-pin connector, yellow, on driver side knee airbag igniter
+1a T3k 3-pin connector, yellow, on front passenger side knee airbag
+igniter
+T75 75-pin connector, yellow, on airbag control unit
+1,0 383 Earth connection 18, in main wiring harness
+sw/bl
+J234 5566
+B277 Positive connection 1 (15a), in main wiring harness
+* up to May 2009
+T75/24 T75/25 T75/42 T75/43 T75/46 T75/68 T75/41 T75/67 T75/60
+** from June 2009
+✱ ✱ ✱ ✱
+0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,35
+gr bl bl/ro gr/ro br ge br ws ge/li
+✱✱ ✱✱ ✱✱ ✱✱
+0,35 0,35 0,35 0,35
+br or br ws 2
+T3i/2 T3i/1 T3k/1 T3k/2 K145
+1
+0,5
+-- + -- + sw/bl
++ -- -- + T2u/2 T2u/1 T2v/2 T2v/1
+N295 N296 G283 G284 B277
+T3i/3 T3k/3
+ws = white
+sw = black
+ro = red
+0,5 0,5 1,0
+br br sw/bl br = brown
+gn = green
+2233 2244 5566 bl = blue
+383
+gr = grey
+383 383
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-006050409
+rs = pink
+Edition 10.2010

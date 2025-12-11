@@ -1,0 +1,51 @@
+13A-138 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, check data list item 11:
+Heated Oxygen Sensor (front).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+11, Heated Oxygen Sensor (front).
+16 PIN • Warming up the engine. When the engine is revved, the
+output voltage should be 0.6 to 1.0 volt.
+MB991502
+• Warming up the engine. When the engine is idling, the
+AKX01177AB
+output voltage should repeat 0.4 volt and 0.6 to 1.0 volt
+alternately.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+STEP 2. Check the heated oxygen sensor (front).
+(1) Disconnect the heated oxygen sensor (front) connector B-
+CONNECTOR: B-17
+17 and connect test harness special tool, MD998464, to the
+connector on the heated oxygen sensor (front) side.
+(2) Warm up the engine until engine coolant 80°C (176°F) or
+higher.
+CAUTION
+Be very careful when connecting the jumper wires; incor-
+rect connection can damage the heated oxygen sensor
+(front).
+AAKK110033552266AB
+(3) Use the jumper wires to connect terminal 1 (red clip) to the
+JUMPER positive battery terminal and terminal 3 (blue clip) to the
+WIRES negative battery terminal.
+BLACK (4) Connect a digital volt meter between terminal 2 (black clip)
+RED and terminal 4 (white clip).
+(5) While repeatedly revving the engine, measure the heated
+oxygen sensor (front) output voltage.
+WHITE BLUE Standard value: 0.6 − 1.0 volt
+Q:Is the voltage at the standard value?
+MD998464
+AKX01625AC YES : Go to Step 3.
+NO : Replace the heated oxygen sensor (front). Then go to
+Step 5.
+TSB Revision

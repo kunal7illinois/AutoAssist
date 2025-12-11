@@ -1,0 +1,19 @@
+BE-12 BODY ELECTRICAL - MULTIPLEX COMMUNICATION
+(cid:3)AVC-LAN
+1. General
+The AVC-LAN is used to transmit data only between the audio head unit and the stereo amplifier on models
+with the JBL premium sound system.
+(cid:1) System Diagram (cid:2)
+Audio Head Unit Stereo Amplifier
+025BE06P
+2. Layout of Main Components
+Audio Head Unit
+Stereo Amplifier
+025BE05TE
+3. Diagnosis
+(cid:3) If a malfunction occurs in the AVC-LAN communication line, the audio head unit stores a DTC
+(Diagnostic Trouble Code) in its memory.
+(cid:3) The DTC of models with the navigation with AV system can be read on the diagnosis menu display on
+the audio head unit.
+(cid:3) The DTC of models without the navigation with AV system can be read on the LCD of the audio head unit.
+For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).

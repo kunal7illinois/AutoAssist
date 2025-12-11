@@ -1,0 +1,48 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-473
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+INSPECTION PROCEDURE 13: The Engine Stalls when Accelerating (Pass Out).
+. .
+COMMENT TROUBLESHOOTING HINTS (The most likely
+• In case such as the above, the cause is probably causes for this case: )
+misfiring due to a weak spark, or an inappropriate • Vacuum leak.
+air/fuel mixture when the accelerator pedal. • Malfunction of the ignition system.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC is output?
+MB991502 YES : Refer to, Diagnostic Trouble Code Chart P.13A-22.
+AKX01177AB NO : Go to Step 2.
+STEP 2. Using scan tool MB991502, check actuator test.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items in the actuator test. Refer to,
+Actuator Test Reference Table P.13A-553.
+a. Item 10: EGR Solenoid.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the actuator operating properly?
+YES : Check the following items, and repair or replace the
+16 PIN
+defective items.
+MB991502 a. Check the ignition coil, spark plugs, spark plug
+AKX01177AB
+cables.
+b. Check for vacuum leaks.
+• Broken intake manifold gasket.
+• Broken or disconnected vacuum hose.
+• Improper operation of the PCV valve.
+• Broken air intake hose.
+Then confirm that the malfunction symptom is
+eliminated.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+TSB Revision

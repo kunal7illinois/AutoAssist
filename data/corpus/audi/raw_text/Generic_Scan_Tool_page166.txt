@@ -1,0 +1,53 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Testing if display is approx. - 40.0° C
+– Disconnect the Engine Coolant Temperature (ECT) Sensor -
+G62 or G83- electrical harness connector .
+– Using a jumper wire, connect the Engine Coolant Temperature
+(ECT) Sensor -G62 or G83- electrical harness connector ter‐
+minals 1 to 2.
+– Check the value indicated on the scan tool display.
+If the value jumps to approx. 140.0° C:
+– Switch the ignition OFF.
+– Replace the Engine Coolant Temperature (ECT) Sensor -G62
+or G83- .
+If indication remains at approx. -40.0° C:
+Checking wiring
+If the manufacturers test box is being used, perform the following
+step.
+– Install the test box.
+If the manufacturers test box is not being used, perform the fol‐
+lowing step.
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Using a multimeter, check the Engine Coolant Temperature
+(ECT) Sensor -G62 or G83- electrical harness connector ter‐
+minal 1 to the Engine Control Module (ECM) -J623- electrical
+harness connector for an open circuit or a short to voltage,
+refer to the chart below for the appropriate sensor. Refer to
+Wiring Diagrams for pin locations.
+ECT 1
+Engine Coolant Tempera‐ Engine Control Module (ECM) -
+ture (ECT) Sensor -G62 - J623- electrical connector T60 ter‐
+electrical harness connec‐ minals or test box socket
+tor terminals
+1 14
+2 10
+ECT 2
+Engine Coolant Tempera‐ Engine Control Module (ECM) -
+ture (ECT) Sensor - 2 G83- J623- electrical connector T94 ter‐
+electrical harness connec‐ minals or test box socket
+tor terminals
+1 18
+2 12
+Specified values: 1.5 Ω Max. and 0 volts disconnected from ECM.
+If the specified value was Not obtained:
+– Check the wiring for an open or short circuit to Battery (+).
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is detected in the signal circuit:
+– Using a multimeter, check terminal 2 of the ECT sensor to en‐
+gine ground.
+162
+Rep. Gr.ST - Generic Scan Tool

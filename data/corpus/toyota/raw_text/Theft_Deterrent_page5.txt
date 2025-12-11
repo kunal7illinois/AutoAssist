@@ -1,0 +1,56 @@
+TD–5
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/ Smart Key System)
+SYSTEM DESCRIPTION
+1. OUTLINE OF THEFT DETERRENT SYSTEM
+• The theft deterrent system will operate when
+somebody attempts to forcibly enter the vehicle,
+unlock any door or luggage compartment door, or
+open the engine hood or the luggage compartment
+door without using the key.
+This system causes the lights to light up or blink and
+the horns to sound in order to deter break-in and theft.
+• The theft deterrent system has 2 modes; one is the
+active arming mode (see ACTIVE ARMING MODE)
+and the other is passive arming mode (see PASSIVE
+ARMING MODE). The passive arming mode can be
+switched ON/OFF using the specified method.
+• Each mode has 4 states; a disarmed state, an arming
+preparation state, an armed state and an alarm
+sounding state.
+(a) Disarmed state:
+• The alarm function is not operating.
+• The theft deterrent system is not operating.
+(b) Arming preparation state:
+• The time until the system goes into the armed
+state.
+• The theft deterrent system is not operating.
+(c) Armed state:
+• The theft deterrent system is operating.
+(d) Alarm sounding state:
+• Alarm function is operating.
+Alarm time:
+Approx. 60 sec.
+Refer to table below for alarm method and time:
+Headlight Blinking TD
+Taillight Blinking
+Hazard Warning Light Blinking
+Alarm Method Interior Light Illuminating
+Sounding
+Vehicle Horn
+(approx. 0.4 second cycles)
+Sounding
+Security Horn
+(approx. 0.4 second cycles)
+Alarm Time Approx. 60 sec.
+HINT:
+If any of the doors are unlocked when the key is not
+in the actuation area during the armed state, a
+forced door lock signal will be output (see FORCED
+DOOR LOCK CONTROL).
+2. FUNCTION OF MAIN COMPONENT
+Component Function
+Security indicator Informs driver of theft deterrent system status.
+Security horn Sounds when attempted brake-in or theft is detected.
+Headlights Blink when attempted break-in or theft is detected.
+Taillights Blink when attempted break-in or theft is detected.
+Hazard warning lights Blinking when attempted break-in or theft is detected.

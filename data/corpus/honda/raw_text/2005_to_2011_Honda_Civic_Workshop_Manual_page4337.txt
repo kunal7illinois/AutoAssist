@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+3. Do the VSA sensor neutral position memorization (see VSA SENSOR
+NEUTRAL POSITION MEMORIZATION ).
+4. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+5. Check for DTCs with the HDS.
+Is DTC 25-11, 25-12, 25-13, 25-16, or 25-21 indicated?
+YES -Replace the yaw rate-lateral acceleration sensor (see YAW RATE-
+LATERAL ACCELERATION SENSOR REPLACEMENT ).
+NO -Intermittent failure, the system is OK at this time.
+DTC 25-14: YAW RATE/LATERAL ACCELERATION SENSOR CIRCUIT HIGH VOLTAGE; DTC
+25-15: YAW RATE/LATERAL ACCELERATION SENSOR CIRCUIT LOW VOLTAGE
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Do the VSA sensor neutral position memorization (see VSA SENSOR
+NEUTRAL POSITION MEMORIZATION ).
+4. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+5. Check for DTCs with the HDS.
+Is DTC 25-14, or 25-15 indicated?
+YES -lf the DTC 61-01,61-21,61-22,61-23, and/or 62-21 is indicated at the
+same time, check the battery performance (see BATTERY TEST ), and do the
+alternator and regulator circuit troubleshooting (see ALTERNATOR AND
+REGULATOR CIRCUIT TROUBLESHOOTING ). If the DTC 61-01, 61-
+21,61-22, 61-23, and/or 62-21 is not indicated at the same time, replace the
+yaw rate-lateral acceleration sensor (see YAW RATE-LATERAL
+ACCELERATION SENSOR REPLACEMENT ).
+NO -Intermittent failure, the system is OK at this time.
+DTC 25-22: YAW RATE SENSOR STUCK
+1. Turn the ignition switch ON (II).

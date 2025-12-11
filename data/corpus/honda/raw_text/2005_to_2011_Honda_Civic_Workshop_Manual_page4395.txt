@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+Fig. 60: Checking Continuity Between VSA Off Switch 5P Connector
+Terminal No. 2 And Body Ground
+Is there continuity?
+YES -Repair short to body ground in the wire between the gauge control
+module (tach) and the VSA OFF switch.
+NO -Substitute a known-good VSA modulator-control unit, then go to step 1
+and recheck. If it is OK, replace the original VSA modulator-control unit (see
+VSA MODULATOR-CONTROL UNIT REMOVAL AND
+INSTALLATION ).
+ABS indicator, brake system indicator, and VSA indicator do not go off at same time
+NOTE: Check for gauge DTCs with the HDS (see WIRE COLOR
+CODES ). If goluges DTCs are stored, troubleshoot those
+DTCs first.
+1. Release the parking brake.
+2. Turn the ignition switch ON (II).
+3. Check the ABS indicator, brake system indicator and the VSA indicator for
+several seconds when the ignition switch is turned ON (II).
+Do the indicators come on then go off?
+YES -Intermittent failure, the system is OK at this time. Check for loose
+terminals between the gauge control module (tach) 36P connector and the VSA
+modulator-control unit 37P connector. Refer to INTERMITTENT

@@ -1,0 +1,31 @@
+BE-128 BODY ELECTRICAL - SMART KEY SYSTEM
+14) Situation: M
+A warning message appears on the meter when the driver does not follow the proper procedure to start
+the vehicle.
+In this situation, the following control is performed:
+Possible Effects without Warning Usability function
+The warning is activated when all of the following conditions
+are met:
+(cid:3) Power source is in a mode other than ON.
+Warning Condition
+(cid:3) Any doors are closed (cid:1) opened.
+(cid:3) The power source is changed from OFF to ACC more than
+once with the engine off and brake pedal not depressed.
+Buzzer Sounds once
+Multi-information
+Combination
+Display
+Meter
+025BE104P
+Master Warning
+—
+Light
+Wireless Door Lock Buzzer —
+Engine Switch Indicator Light —
+The warning is stopped when one of the following conditions
+is met:
+(cid:3) 10 seconds have elapsed since a warning message was
+Warning Stop Condition
+displayed.
+(cid:3) The engine switch is pushed with the brake pedal
+depressed.

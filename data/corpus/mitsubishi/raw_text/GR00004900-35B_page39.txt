@@ -1,0 +1,25 @@
+ANTI-LOCK BRAKING SYSTEM (ABS) 35B-39
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+CONNECTOR: A-02 CONNECTORS: C-41, C-42 COMBINATION
+METER
+C-42
+C-41
+AC001985AD AC004428AB
+CONNECTOR: C-94 CONNECTORS: C-108, C-111
+JUNCTION BLOCK
+(FRONT VIEW)
+C-108
+C-111
+AC004410AD AC102831AC
+. .
+CIRCUIT OPERATION TECHNICAL DESCRIPTION (COMMENT)
+• The ABS-ECU controls the illumination of the The cause is probably the ABS-ECU malfunction.
+ABS warning light by turning the power transistor
+in the ABS-ECU ON and OFF. . TROUBLESHOOTING HINTS (The most likely
+• The ABS-ECU illuminates the ABS warning light causes for this condition:)
+on start-up. It turns the light off after 3 seconds • Malfunction of the ABS-ECU connector lock
+when the ABS-ECU completes the self-check. • Disconnection of the ABS-ECU connector
+• When the ABS-ECU connector is disconnected, • Damaged wiring harness or connector
+the circuit is grounded to illuminate the light by • Malfunction of the hydraulic unit (integrated with
+the connector lock switch OFF operation. ABS-ECU)
+TSB Revision

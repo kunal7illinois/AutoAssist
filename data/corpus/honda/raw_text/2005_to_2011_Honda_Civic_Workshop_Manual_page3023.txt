@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 HVAC Heating/Air Conditioning - Civic (All Except Hybrid)
+11. Turn the ignition switch ON (II), and check the same terminals for voltage to
+body ground. See Fig. 17.
+Is there battery voltage?
+YES - Repair any short to power in the wires between the HVAC control unit
+and the air mix control motor. This short may also damage the HVAC control
+unit. Repair the short to power before replacing the HVAC control unit.
+NO - Substitute a known-good HVAC control unit, and recheck. If the
+symptom/indication goes away, replace the original HVAC control unit.
+DTC INDICATOR 3: A PROBLEM IN THE AIR MIX CONTROL LINKAGE, DOOR, OR MOTOR
+1. Clear the DTC (see CLEAR THE DTCS ).
+2. Turn the ignition switch to LOCK (0), and then ON (II).
+3. Do the self-diagnostic with the HVAC control unit (see HOW TO USE THE
+SELF-DIAGNOSTIC FUNCTION ).
+4. Check for DTCs.
+Is DTC 3 indicated?
+YES - Go to step 5.
+NO - Intermittent failure.
+5. Turn the ignition switch to LOCK (0).
+6. Test the air mix control motor (see AIR MIX CONTROL MOTOR TEST ).
+Is the air mix control motor OK?
+YES - Go to step 7.
+NO - Replace the air mix control motor (see AIR MIX CONTROL MOTOR
+TEST ), or repair the air mix control linkage or door.
+7. Check for continuity between the following terminals of the HVAC control

@@ -1,0 +1,25 @@
+NS–36
+NAVIGATION – NAVIGATION SYSTEM
+HINT:
+Each item is grayed out or not displayed based on
+the device settings.
+(c) Unit Check Mode Screen
+*1
+*6
+*5
+*2 *3 *4 *7
+E120071E03
+Screen Description:
+Display Contents
+Device name/*1 Target device
+Segment/*2 Target device logical address
+DTC/*3 DTC (Diagnostic Trouble Code)
+The time and date of past DTCs are displayed. (The year is displayed
+Timestamp/*4
+in 2-digit format.)
+Present code/*5 DTCs output at the service check are displayed.
+Past code/*6 Diagnostic memory results and recorded DTCs are displayed.
+Pushing this switch for 3 seconds clears the diagnostic memory data
+Diagnosis clear switch/*7 of the target device. (Both response to diagnostic system check result
+and the displayed data are cleared.)
+NS

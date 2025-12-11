@@ -1,0 +1,24 @@
+ES–362
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(d) Reconnect the purge VSV connector.
+B Go to step 31
+A
+18 CHECK HARNESS AND CONNECTOR (PURGE VSV - ECM)
+(a) Disconnect the B30 ECM connector and the B2 purge
+Wire Harness Side:
+VSV connector.
+(b) Measure the resistance.
+B30 ECM Connector
+Standard resistance
+ES Tester Connections Specified Conditions
+B30-49 (PRG) - B2-2 (Purge VSV) Below 1 Ω
+B30-49 (PRG) - Body ground 10 kΩ or higher
+B2-2 (Purge VSV) - Body ground 10 kΩ or higher
+(c) Reconnect the purge VSV connector.
+Front View
+PRG (d) Reconnect the ECM connector.
+OK Go to step 34
+B2 Purge VSV Connector
+NG Go to step 31
+Front View
+A112616E02

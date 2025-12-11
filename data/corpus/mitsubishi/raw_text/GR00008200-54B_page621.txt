@@ -1,0 +1,50 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-621
+CHECK AT ECU TERMINAL
+TERMINAL INSPECTION ITEMS INSPECTION CONDITIONS NORMAL VALUE
+31 Input of front passenger’s door lock Front passenger(cid:146)s door lock 0 V
+key cylinder switch (UNLOCK) key cylinder switch: UNLOCK
+signal
+32 − − −
+33 Input of door lock switch signal Door lock switch (incorporated 0 V
+(LOCK) in power window switch):
+LOCK
+34 Input of door lock switch signal Door lock switch (incorporated 0 V
+(UNLOCK) in power window switch):
+UNLOCK
+35 Input of driver’s door lock actuator Driver’s door lock actuator 0 V
+switch (LOCK) signal switch: LOCK
+36 Input of driver’s door lock actuator Driver’s door lock actuator 0 V
+switch (LOCK) signal switch: UNLOCK
+37 Input of trunk lid latch switch signal Trunk lid latch switch: ON 0 V
+<ECLIPSE SPYDER-vehicles with
+theft-alarm system>
+Input of trunk light switch signal Trunk light switch: ON 0 V
+<ECLIPSE SPYDER-vehicles
+without theft-alarm system>
+38 Ground (for sensor) Always 0 V
+39 Input of the backup light switch backup light switch: ON Battery positive voltage
+Input of "R" position signal from Ignition switch: "ON," Battery positive voltage
+park/neutral position switch Selector lever: "R"
+40 Output to the theft-alarm horn relay When the theft-alarm horn is Battery positive voltage
+enabled
+42 Input of door lock key cylinder door lock key cylinder switch: 0 V
+switch (LOCK) signal LOCK
+43 Input of front passenger’s door lock front passenger(cid:146)s door lock 0 V
+actuator switch (UNLOCK) signal actuator switch: UNLOCK
+44 Output to horn relay When a horn sounds by the 2V or less
+keyless entry horn answerback
+function or the theft-alarm
+system
+51 Output to data link connector When DTC sets 0 − 12 V (pulse signal)
+When input check signal is 0 − 12 V (when input
+output pulse signal is
+fluctuating)
+52 Output to luggage compartment When the luggage 2V or less
+light <ECLIPSE> compartment light is
+illuminating
+Output to trunk light <ECLIPSE When the trunk light is on 2V or less
+SPYDER>
+53 Output to door-ajar indicator light When the door-ajar indicator 2V or less
+light is on
+54 Input of fog light switch signal Fog light switch: ON 0 V
+TSB Revision

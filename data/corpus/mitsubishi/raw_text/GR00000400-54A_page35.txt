@@ -1,0 +1,47 @@
+CHASSIS ELECTRICAL 54A-35
+IGNITION SWITCH
+4. If the second key (KEY B) is correct, the immobilizer-ECU
+"SECURITY" indicator light
+enters the addition entry mode.
+TCL LAONCTKI SEE SNR OGV OINI N CEE CRUISE And the "SECURITY" indicator light blinks approx. twice a
+SRS
+RAKE second.
+100 120
+60 80 120 16 k 0 m/h 200 240 140 3 4 5 6 7 8 5. s A w fte itc r h th i e s " " S O E F C F" U ( R L I O T C Y K " i ) n . d A ic n a d t o it r i s li g " h O t N b " li n b k y s u , s th in e g i g th n e it i n o e n w
+40 80 2 R P H
+20 40 0 ODO m TR il I e P s 1 0x 1000 r/min N D 4 3 2 t is ra l n im sp ite o d n d th e a r n k e 3 y 0 . T s h e e co t n im d e s a w f h te ic r h th t e h e in k d e ic y a c to a r n b b li e n k re s. gistered
+0 1
+MPH
+C 6. The time which the key can be registered is limited less than
+AC106909AB 30 seconds after the "SECURITY" indicator blinks.
+7. The immobilizer-ECU controls as follows by the new key
+condition.
+THE NEW KEY ADDITION ADDITION THEFT ALARM INDICATOR
+CONDITION ENTY MODE
+ACTION TIMING
+Not registered key OK Continuation Turn on for 3 seconds After the addition
+entry mode is
+finished
+Registered key NO Continuation Turn on for 3 seconds After the registered
+key is judged
+Read error NO Continuation Blink of three times After read error
+judged
+8. To continue to register another key, set the ignition switch to
+"LOCK" (OFF) position, and turn the ignition key to be
+registered "ON" within seven seconds. (the maximum of 8
+keys can be registered to each vehicle. If the 9th key
+registers, the registration will be refused.)
+9. The additional registration mode is terminated when any of
+the following conditions is met:
+• The ignition key is "ON" position keeps more than 30 sec-
+onds. (the time-out of addition entry mode)
+• The engine control relay is off after key is turned to the
+"LOCK" (OFF) position.
+• Start the communication with scan tool
+10.The addition registered key can start engine, after the key
+turned off and the engine control relay is off.
+TRANSPONDER LOCK CHECK
+M1543024100012
+Follow the procedure below to judge if the ignition key can be
+overwritten (i.e. the ignition key is correct) or not.
+TSB Revision

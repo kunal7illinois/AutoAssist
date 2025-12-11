@@ -1,0 +1,38 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-503
+SYMPTOM PROCEDURES
+CONNECTORS <ECLIPSE>: D-01, D-11
+CONNECTORS: C-118, C-119
+JUNCTION BLOCK
+(REAR VIEW)
+D-11
+D-01
+C-118
+C-119
+AC106481AL AC106483AB
+CONNECTORS <ECLIPSE SPYDER>:
+D-01, D-11
+D-11
+D-01
+AC106485AB
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the signal is not normal, the functions or systems,
+The ETACS-ECU operates the following functions or
+which are described in "CIRCUIT OPERATION", do
+systems according to signal from the driver’s or front
+not work normally. If the signal is not normal, the
+passenger’s door switches:
+• Ignition key reminder tone alarm function driver’s or front passenger’s door switch or the
+• Light reminder tone alarm function ETACS-ECU may be defective.
+• Power window timer function
+.
+• Headlight automatic shutdown function TROUBLESHOOTING HINTS
+• Dome light • Malfunction of the driver’s or front passenger’s
+• Interior automatic-shutdown function door switches
+• Malfunction of the ETACS-ECU
+. • Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

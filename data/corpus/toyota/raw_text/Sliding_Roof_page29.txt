@@ -1,0 +1,53 @@
+RF–29
+SLIDING ROOF – SLIDING ROOF SYSTEM
+Sliding Roof Control Switch Circuit
+DESCRIPTION
+The sliding roof drive gear sub-assembly (sliding roof control ECU) receives slide switch and tilt switch
+signals and drives its built-in motor.
+WIRING DIAGRAM
+Refer to DTC B2341 (See page RF-14).
+INSPECTION PROCEDURE
+1 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (SLIDING ROOF OPERATION)
+(a) Select the ACTIVE TEST, use the intelligent tester to
+generate a control command, and then check that the
+sliding roof slides open/close and tilts up/down.
+Sliding roof ECU RF
+Item Test Details Diagnostic Note
+Operate sliding roof SLIDE CLOSE/TILT UP
+SLIDING ROOF CLOS/UP: Sliding roof SLIDE CLOSE or TILT UP operation occurs -
+OFF: Sliding roof is not operating
+Operate sliding roof SLIDE OPEN/TILT DOWN
+SLIDING ROOF OPEN/DOWN: Sliding roof SLIDE OPEN or TILT DOWN operation occurs -
+OFF: Sliding roof is not operating
+OK:
+Sliding roof operates normally.
+NG REPLACE SLIDING ROOF DRIVE GEAR
+SUB-ASSEMBLY (SLIDING ROOF CONTROL
+ECU)
+OK
+2 READ VALUE OF INTELLIGENT TESTER (SLIDING ROOF SWITCH)
+(a) Use the DATA LIST to check if the sliding roof switch is
+functioning properly.
+Sliding roof ECU
+Measurement Item/Range
+Item Normal Condition Diagnostic Note
+(Display)
+ON: OPEN switch is pressed.
+Slide switch open signal/ON or
+OPEN SW OFF: OPEN switch is not -
+OFF
+pressed.
+ON: CLOSE switch is pressed.
+Slide switch close signal/ON or
+CLOSE SW OFF: CLOSE switch is not -
+OFF
+pressed.
+ON: UP switch is pressed.
+UP SW Tilt switch up signal/ON or OFF -
+OFF: UP switch is not pressed.
+ON: DOWN switch is pressed.
+Tilt switch down signal/ON or
+DOWN SW OFF: DOWN switch is not -
+OFF
+pressed.
+OK:

@@ -1,0 +1,35 @@
+DL–21
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Item Measurement Item/Display Normal Condition Diagnostic Note
+(Range)
+D DOR KEY SW-UL Driver door lock/unlock switch ON: Driver side door key cylinder -
+unlock signal (2 times key-linked is turned to unlock position
+unlock switch)/ON or OFF OFF: Driver side door key
+cylinder is turned to lock position
+TRUNK KEY UNLK Luggage compartment door key ON: Ignition key is inserted and -
+cylinder switch/ON or OFF turned to lock position
+OFF: Ignition key is inserted and
+turned to unlock position
+*1: w/ Smart Key System, w/o Smart Key System
+with Theft Deterrent System
+2. PERFORM ACTIVE TEST
+HINT:
+Performing the intelligent tester's ACTIVE TEST allows
+relays, VSVs, actuators, and other items to be operated
+without removing any parts. Performing the ACTIVE
+TEST early in troubleshooting is one way to save time.
+The DATA LIST can be displayed during the ACTIVE
+TEST.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Enter the following menus: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST.
+(d) Perform the ACTIVE TEST according to the display
+on the tester.
+MAIN BODY:
+Item Test Details Diagnostic Note
+DOOR LOCK Operate door lock motor LOCK/UNLOCK -
+D DOOR UNLOCK Operate driver door lock motor LOCK -
+TRUNK/BDOR OPEN Operate luggage compartment door lock -
+motor LOCK
+DL

@@ -1,0 +1,21 @@
+NS–7
+NAVIGATION – NAVIGATION SYSTEM
+(c) GPS navigation (Satellite navigation)
+This method detects the absolute vehicle position
+using radio waves from a GPS satellite.
+* GPS satellites were launched by the U.S.
+Department of Defence for military purposes.
+Current longitude/latitude/altitude is determined using the radio wave arrival time from four satellites.
+GPS
+I100029E03
+Number of satellites Measurement Description
+Vehicle position cannot be obtained because
+2 or less Measurement impossible
+the number of satellites is not enough.
+Vehicle position is obtained based on the
+3 2-dimensional measurement is possible current longitude and latitude. (This is less
+precise than 3-dimensional measurement.)
+Vehicle position is obtained based on the
+4 3-dimensional measurement is possible
+current longitude, latitude and altitude.
+NS

@@ -1,0 +1,38 @@
+Infotainment
+Behaviour of the internal map memory while driving
+Route with Destination radius
+corridor
+Location radius
+382_053
+After entering the route destination a map section is If the actual location and the destination are too far
+copied t o an internal memory. The map section apart when the navigation CD is removed, the
+consists of a location radius, a destination radius as system may request that the navigation CD be
+well as a slightly narrower route corridor in reloaded while navigating to the destination.
+between.
+The size of the corridor is defined by the size of the
+When the vehicle is driving towards the destination, system memory. Due to the different density of the
+the location of the vehicle changes. To make navigation data in towns and in sparsely populated
+optimum use of internal memory, the position and areas, it is not possible to specify the size of the
+size of the location radius are updated continuously corridor area.
+by the system when the navigation CD is loaded.
+Likewis, the size of the destination radius as well as
+the width of the corridor are updated continuously
+in the internal memory. In codedthe event that the
+navigation CD is removed, this ensures that the
+optimum map section is always stored in the
+system memory.
+When the navigation CD is removed from the
+system, the map content stored at the time of
+removal of the CD remains stored in the system
+memory. The map content remains stored in the
+deactivated system for 72 hours.
+This enables one to enter a route from town A to
+town B and to navigate between town A to town B
+over a lengthy period of time without having to
+reload the navigation CD.
+Note
+When map data is stored in the system, the static current consumption of the system rises
+slightly. Map data can only be cleared prematurely by disconnecting the system from the power
+supply. Please bear this fact in mind when performing static current measurements on the
+vehicle.
+46

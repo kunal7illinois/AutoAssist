@@ -1,0 +1,49 @@
+Audi TT No. 61 / 7
+Current Flow Diagram
+Engine control unit
+E45 Cruise control system switch
+J527 Steering column electronics control unit
+J533 Data bus diagnostic interface
+J623 Engine control unit
+J743 Mechatronic unit for dual clutch gearbox
+T20c 20-pin connector
+T20d 20-pin connector
+T20e 20-pin connector
+T94 94-pin connector
+B351 Positive connection 2 (87a) in main wiring harness
+B383 Connection 1 (powertrain CAN bus, high), in main wiring harness
+J623
+B390 Connection 1 (powertrain CAN bus, low), in main wiring harness
+T94 T94 T94 T94 T94 T94
+/3 /5 /6 /45 /67 /68
+* Only models with cruise control system (CCS)
+*2 Data bus wire (CAN bus)
+*3 Only models with dual clutch gearbox 02E
+2.5 2.5 2.5 0.35 0.35 0.35
+rt/gn rt/gn rt/gn sw/ws or/br or/sw
+*2 *2
+B390 B383
+B351
+2.5
+*3 *3
+rt/gn
+0.35*2 0.35*2 0.35*2 0.35*2
+or/br or/br or/sw or/sw
+4477
+T20c T20d T20e T20d T20e
+/13 /6 /15 /16 /1
+J527 J533 J743 J533 J743
+E45
+*
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+71 72 73 74 75 76 77 78 79 80 81 82 83 84 or = orange
+8J0-061070410 rs = pink
+04.2010

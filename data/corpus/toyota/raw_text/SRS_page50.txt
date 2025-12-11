@@ -1,0 +1,80 @@
+RS–50
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DTC No. Detection Item Trouble Area Check Mode See page
+1. Floor wire
+Driver Side Satellite 2. Side airbag sensor LH
+B1643/81 Sensor Bus Initialization 3. Rear airbag sensor LH *1 RS-80
+Incomplete 4. Center airbag sensor
+assembly
+1. Floor wire No. 2
+Lost Communication with 2. Side airbag sensor RH
+B1647/82 Front Passenger Side 3. Rear airbag sensor RH *1 RS-100
+Satellite Sensor Bus 4. Center airbag sensor
+assembly
+1. Floor wire No. 2
+Front Passenger Side 2. Side airbag sensor RH
+B1648/82 Satellite Sensor Bus 3. Rear airbag sensor RH *1 RS-100
+Initialization Incomplete 4. Center airbag sensor
+assembly
+1. Floor wire No. 2
+2. Occupant classification
+Occupant Classification system
+B1650/32 *1 RS-124
+System Malfunction 3. Front seat wire RH
+4. Center airbag sensor
+assembly
+1. Floor wire
+2. Seat position airbag
+Seat Position Airbag
+B1653/35 sensor *1 RS-136
+Sensor Circuit Malfunction
+3. Center airbag sensor
+assembly
+1. Floor wire
+Driver Side Seat Belt 2. Front seat inner belt
+B1655/37 Buckle Switch Circuit assembly LH *1 RS-142
+Malfunction 3. Center airbag sensor
+assembly
+1. Instrument panel wire
+2. Instrument panel wire
+RS Passenger Airbag ON /
+No. 2
+B1660/43 OFF Indicator Circuit *1 RS-148
+3. Clock assembly
+Malfunction
+4. Center airbag sensor
+assembly
+1. Instrument panel wire
+2. Spiral cable
+Short in Driver Side Squib
+B1800/51 3. Steering pad *2 RS-159
+Circuit
+4. Center airbag sensor
+assembly
+Open in Driver Side Squib
+B1801/51 Same as DTC B1800/51 *2 RS-159
+Circuit
+Short to GND in Driver
+B1802/51 Same as DTC B1800/51 *2 RS-159
+Side Squib Circuit
+Short to B+ in Driver Side
+B1803/51 Same as DTC B1800/51 *2 RS-159
+Squib Circuit
+1. Instrument panel wire
+2. Instrument panel wire
+assembly
+Short in Front Passenger
+B1805/52 3. Front passenger airbag *2 RS-166
+Side Squib Circuit
+assembly
+4. Center airbag sensor
+assembly
+Open in Front Passenger
+B1806/52 Same as DTC B1805/52 *2 RS-166
+Side Squib Circuit
+Short to GND in Front
+B1807/52 Passenger Side Squib Same as DTC B1805/52 *2 RS-166
+Circuit
+Short to B+ in Front
+B1808/52 Passenger Side Squib Same as DTC B1805/52 *2 RS-166
+Circuit

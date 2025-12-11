@@ -1,0 +1,44 @@
+13A-364 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 26. Check for clogging in the evaporator line from
+hose N.
+(1) The clogging test with a hand vacuum pump on the hose N.
+HOSE N
+Q:Is the hose N in good condition?
+YES : Go to Step 27.
+NO : Replace the hose N, and reinstall the fuel tank. (Refer
+to GROUP 13C, Fuel Tank P.13C-11.) Then go to
+Step 27.
+AC000195AD
+STEP 27. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 1 - Evaporative Emission Control System Leak
+Monitor P.13A-5.
+(2) Read the diagnostic trouble code.
+Q:Is diagnostic trouble code P0455 set?
+YES : Go to Step 1.
+NO : This diagnosis is complete.
+DTC P0456: Evaporative Emission Control System Leak Detected (Very Small Leak)
+SYSTEM DIAGRAM
+INTAKE MANIFOLD
+CHECK VALVE A
+J
+L
+CHAMBER
+A
+M
+B C
+EVAPORATIVE EMISSION G
+PURGE SOLENOID H CHECK K
+E VALVE B
+D
+F
+P I N
+FUEL TANK
+O EVAPORATIVE EVAPORATIVE
+EMISSION
+EMISSION CANISTER
+VENTILATION
+SOLENOID
+AC001943AB
+TSB Revision

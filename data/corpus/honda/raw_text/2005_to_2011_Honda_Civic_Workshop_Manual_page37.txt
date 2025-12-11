@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+4. Check for DTCs with the HDS.
+Is DTC 12-12, 14-12, 16-12, and/or 18-12 indicated?
+YES - Go to step 5.
+NO - Intermittent failure, the system is OK at this time. Check for loose
+terminals between the wheel sensor 2P connector and the ABS modulator-
+control unit 25P connector. Refer to INTERMITTENT FAILURES
+TROUBLESHOOTING .
+5. Turn the ignition switch to LOCK (0).
+6. Disconnect the ABS modulator-control unit 25P connector.
+7. Check for continuity between the appropriate ABS modulator-control unit 25P
+connector wheel sensor +B terminals (see ABS MODULATOR-CONTROL
+UNIT 25P CONNECTOR WHEEL SENSOR +B TERMINALS ).
+ABS MODULATOR-CONTROL UNIT 25P CONNECTOR WHEEL
+SENSOR +B TERMINALS
+ABS Modulator-control Unit 25P Connector Terminal No.
+DTC
+Appropriate Terminal Other Terminals
+12-12 No. 2 No. 12 No. 6 No. 14
+14-12 No. 12 No. 2 No. 6 No. 14
+16-12 No. 6 No. 2 No. 12 No. 14
+18-12 No. 14 No. 2 No. 12 No. 6

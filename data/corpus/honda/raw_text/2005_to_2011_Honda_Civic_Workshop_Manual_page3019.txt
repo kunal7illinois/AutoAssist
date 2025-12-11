@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 HVAC Heating/Air Conditioning - Civic (All Except Hybrid)
+SELF-DIAGNOSTIC FUNCTION ).
+4. Check for DTCs.
+Is DTC 1 indicated?
+YES - Go to step 5.
+NO - Intermittent failure, check for loose wires or poor connections on the air
+mix control motor circuit.
+5. Turn the ignition switch to LOCK (0).
+6. Test the air mix control motor (see AIR MIX CONTROL MOTOR TEST ).
+Is the air mix control motor OK?
+YES - Go to step 7.
+NO - Replace the air mix control motor (see AIR MIX CONTROL MOTOR
+TEST ).
+7. Disconnect the air mix control motor 7P connector.
+8. Disconnect the HVAC control unit 24P connector.
+9. Check for continuity between the following terminals of the HVAC
+controlpanel 24P connector and the air mix control motor 7P connector.
+CONTINUITY CHECK INDEX
+24P 7P
+1 5
+13 7
+18 3

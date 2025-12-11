@@ -1,0 +1,47 @@
+ES–403
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2 CHECK VACUUM
+(a) Start the engine.
+(b) Disconnect the vacuum hose from the air cleaner cap.
+(c) Check that the disconnected port located on the vacuum
+tank applies suction to your finger.
+OK:
+Vacuum pressure exists.
+(d) Reconnect the vacuum hose.
+NG CHECK AND REPLACE VACUUM SOURCE
+AND HOSES
+G041079
+ES
+OK
+3 INSPECT DUTY VACUUM SWITCHING VALVE (OPERATION)
+(a) Remove the VSV for ACM.
+(b) Check operation of the VSV for ACM when positive
+G battery voltage is applied to the terminals of the VSV for
+ACM connector.
+Positive battery voltage is not applied:
+The air from pipe G is flowing out through pipes E
+E and H.
+Positive battery voltage is applied:
+F
+The air from pipe F is flowing out through pipes E
+H G
+and H.
+(c) Reinstall the VSV for ACM.
+E NG REPLACE DUTY VACUUM SWITCHING
+VALVE
+F
+H
+A052014E04
+OK
+4 INSPECT DUTY VACUUM SWITCHING VALVE (RESISTANCE)
+(a) Disconnect the C34 VSV for ACM connector.
+Component Side:
+(b) Measure the resistance between terminals 1 and 2.
+Standard resistance:
+19 to 21 Ω at 20°C (68°F)
+(c) Reconnect the VSV for ACM connector.
+C34
+2 1 NG REPLACE DUTY VACUUM SWITCHING
+VALVE
+C058536E23
+OK

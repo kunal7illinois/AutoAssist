@@ -1,0 +1,46 @@
+ME–58
+METER – METER / GAUGE SYSTEM
+2 PERFORM ACTIVE TEST BY INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester ON.
+(d) Enter the following menus: DIAGNOSIS / OBD/MOBD /
+METER / ACTIVE TEST.
+(e) Check the values by referring to the values in the table
+below.
+METER:
+Item Test Details Diagnostic Note
+COOLANT TEMP LOW, NORMAL, HI -
+OK:
+Needle indication is normal.
+NG REPLACE COMBINATION METER
+ASSEMBLY
+OK
+3 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester ON.
+(d) Enter the following menus: DIAGNOSIS / OBD/MOBD /
+METER / DATA LIST.
+METER:
+Measurement Item/Range
+Item Normal Condition Diagnostic Note
+(Display)
+•If -40°C (-40°F): sensor
+Engine coolant temperature: 0°C After warming up: 80 to 95°C circuit open
+COOLANT TEMP
+(-40°F) to 127.5°C (284°F) (176 to 203°F) •If 140°C (284°F) or more:
+sensor circuit shorted
+OK:
+Engine coolant temperature value displayed on the
+tester is almost the same as needle indication.
+NG Go to step 4
+OK
+ME
+REPLACE COMBINATION METER ASSEMBLY
+4 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester ON.
+(d) Enter the following menus: DIAGNOSIS / OBD/MOBD /
+ENGINE / DATA LIST.

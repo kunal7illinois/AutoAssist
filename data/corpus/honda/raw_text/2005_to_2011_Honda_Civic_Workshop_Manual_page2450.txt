@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (R18A1) - Civic (All Except Hybrid)
+YES - If the ECM/PCM was updated, troubleshooting is complete. If the
+ECM/PCM was substituted, replace the original ECM/PCM (see ECM/PCM
+REPLACEMENT ). If any other Temporary DTCs or DTCs were indicated in
+step 35, go to the indicated DTCs troubleshooting.
+NO - If the screen indicates FAILED, check for poor connections or loose
+terminals at the FTP sensor and the ECM/PCM. If the ECM/PCM was updated,
+substitute a known-good ECM/PCM (see SUBSTITUTING THE
+ECM/PCM ), then go to step 34. If the ECM/PCM was substituted, go to step
+1. If the screen indicates NOT COMPLETED, keep idling until a result comes
+on.
+DTC P0453: FTP SENSOR CIRCUIT HIGH VOLTAGE
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch OFF.
+4. Remove the fuel fill cap.
+5. Turn the ignition switch ON (II).
+6. Check the FTP SENSOR in the DATA LIST with the HDS.
+Is about 7.3 kPa (2.16 in.Hg, 55 mmHg), or 4.7 V or more Indicated?
+YES - Go to step 10.
+NO - Go to step 7.
+7. Install the fuel fill cap.
+8. Start the engine.
+9. Monitor the OBD STATUS for DTC P0453 in the DTCs MENU with the
+HDS.

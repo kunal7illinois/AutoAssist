@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (K20Z3) - Civic (Except GX & Si)
+YES - Go to step 5.
+NO - If the screen indicates PASSED, intermittent failure, the system is OK at
+this time. Check for poor connections or loose terminals at the FTP sensor and
+the ECM. If the screen indicates NOT COMPLETED, keep idling until a result
+comes on.
+5. Turn the ignition switch OFF.
+6. Replace the FTP sensor (see FTP SENSOR REPLACEMENT ).
+7. Turn the ignition switch ON (II).
+8. Reset the ECM with the HDS.
+9. Do the ECM idle learn procedure (see ECM IDLE LEARN PROCEDURE ).
+10. Start the engine, and let it idle 1 minute.
+11. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0451 indicated?
+YES - Check for poor connections or loose terminals at the FTP sensor and the
+ECM, then go to step 1.
+NO - Go to step 12.
+12. Monitor the OBD STATUS for DTC P0451 in the DTCs MENU with the
+HDS.
+Does the screen indicate PASSED?
+YES - Troubleshooting is complete. If any other Temporary DTCs or DTCs
+were indicated in step 11, go to the indicated DTC's troubleshooting.
+NO - If the screen indicates FAILED, check for poor connections or loose
+terminals at the FTP sensor and the ECM, then go to step 1. If the screen
+indicates NOT COMPLETED, keep idling until a result comes on.
+DTC P0452: FTP SENSOR CIRCUIT LOW VOLTAGE
+NOTE: Before you troubleshoot, record all freeze data and any on-

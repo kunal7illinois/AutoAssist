@@ -1,0 +1,13 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+Fig. 6: Identifying Grip Force Of Tire And Road Surface
+The control unit detects the wheel speed based on the wheel sensor signals it
+received, then it calculates the vehicle speed based on the detected wheel speed.
+The control unit detects the vehicle speed during deceleration based on the rate of
+deceleration.
+The control unit calculates the slip rate of each wheel, and transmits the control
+signal to the modulator unit solenoid valve when the slip rate is high.
+The hydraulic control has three modes: Pressure intensifying, pressure reducing,
+and pressure retaining.
+Fig. 7: Identifying Hydraulic Control Unit Flow Diagram

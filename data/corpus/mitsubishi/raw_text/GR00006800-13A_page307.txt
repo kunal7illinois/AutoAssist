@@ -1,0 +1,32 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-307
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 7. Check the 5-volt supply circuit voltage at ECM
+connector C-60 <M/T> or PCM connector C-54 <A/T> by
+backprobing.
+(1) Do not disconnect ECM connector C-60 <M/T> or PCM
+connector C-54 <A/T>.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 81 <M/T> or terminal
+46 <A/T> and ground by backprobing.
+HARNESS SIDE • Voltage should be between 4.8 and 5.2 volts.
+CONNECTOR
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+<M/T> C-60
+Q:Is the voltage normal?
+YES : Go to Step 9.
+NO : Go to Step 8.
+<A/T> C-54
+AC002552AC
+STEP 8. Check connector C-60 at ECM <M/T> or C-54 at
+PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-60 <M/T>, C-54 <A/T>
+YES : Go to Step 21.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM <M/T> Connector Inspection P.00E-2. Then go to Step 22.
+OR
+PCM <A/T>
+C-54 C-60
+<A/T> <M/T>
+AC001689AL
+TSB Revision

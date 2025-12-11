@@ -1,0 +1,27 @@
+23A-186 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 9. Check connector B-40 at solenoid valve assembly
+for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-40
+YES : Go to Step 10.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+B-40
+ACX02479AK
+STEP 10. Check the low-reverse solenoid valve at solenoid
+valve assembly connector B-40.
+(1) Disconnect connector B-40 and measure at the solenoid
+CONNECTOR: B-40
+valve side.
+B-40
+ACX02479AK
+(2) Measure the resistance between terminal 6 and 10.
+Standard value: 2.7 − 3.4 Ω [at 20°C (68°F)]
+HARNESS
+CONNECTOR: B-40 Q:Is the resistance at the standard value?
+YES : Go to Step 11.
+NO : Replace the low-reverse solenoid valve. Refer to
+GROUP 23B, Valve Body P.23B-74.
+AC001960AD
+TSB Revision

@@ -1,0 +1,51 @@
+ES–29
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+CHECKING MONITOR STATUS
+The purpose of the monitor result (mode 06) is to allow
+access to the results for on-board diagnostic monitoring tests
+of specific components/systems that are not continuously
+monitored. Examples are catalyst, evaporative emission
+(EVAP) and thermostat.
+The monitor result allows the OBD II scan tool to display the
+monitor status, test value, minimum test limit and maximum
+test limit. These data are displayed after the vehicle has been
+driven to run the monitor.
+When the test value is not between the minimum test limit
+and maximum test limit, the ECM (PCM) interprets this as a
+malfunction. When the component is not malfunctioning, if the
+difference of the test value and test limit is very small, the
+ES
+component will malfunction in the near future.
+Perform the following instructions to view the monitor status.
+Although the Toyota diagnostic tester is used in the following
+instructions, it can be checked using a generic OBD II scan
+tool. Refer to your scan tool operator's manual for specific
+procedures.
+1. PERFORM MONITOR DRIVE PATTERN
+The monitor results and test values can be checked with
+the OBD II scan tool or the intelligent tester. The engine
+control module (ECM) monitors the emissions-related
+components such as the thermostat, catalyst converter
+and evaporative emissions (EVAP), and determines
+whether they are functioning normally or not. When
+monitoring is finished, the ECM stores the monitor
+results and the test values. The monitor result indicates
+whether the component is functioning normally or not.
+The test value is the value that was used to determine
+the monitor result. If the test value is outside of the test
+limit (malfunction criterion), the ECM determines the
+component is malfunctioning. Some emissions-related
+components have multiple test values to determine
+monitor result. If one of these test values is outside of the
+test limit, the ECM determines the component is
+malfunctioning.
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the tester on.
+(c) Clear the DTCs.
+(d) Run the vehicle in accordance with the applicable
+drive pattern described in READINESS MONITOR
+DRIVE PATTERN (See page ES-28). DO NOT turn
+the engine switch off.
+NOTICE:
+The test results will be lost if the engine switch
+is turned off.

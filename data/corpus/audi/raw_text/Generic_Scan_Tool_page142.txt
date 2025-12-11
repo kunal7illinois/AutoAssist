@@ -1,0 +1,40 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.14 Low Fuel Pressure Sensor, Checking
+Observe all safety precautions:
+⇒ “1.1 Safety Precautions”, page 2
+View clean working conditions:
+⇒ “1.2 Clean Working Conditions”, page 3
+Use only gold-plated terminals when servicing any component
+with gold-plated electrical harness connector terminals.
+For wiring diagrams, component locations, and connector views,
+Refer to the applicable wiring diagram.
+Special tools and workshop equipment required
+♦ multimeter.
+♦ Wiring diagram.
+Test requirements
+• The Fuel Pump (FP) Control Module -J538- OK.
+• The Engine Control Module (ECM) - J623- fuses OK.
+• The fuel filter OK.
+• The battery voltage at least 12.5 V.
+• All electrical consumers switched off (radiator fan must NOT
+run during test).
+• A/C switched off.
+• The fuel tank at least 1/4 filled.
+• The ignition switched off.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the engine cover with air filter. Refer to appropriate
+service manual.
+138
+Rep. Gr.ST - Generic Scan Tool

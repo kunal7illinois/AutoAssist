@@ -1,0 +1,64 @@
+13A-188 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 11. Check the trouble symptoms.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0141 is output?
+YES : Replace the ECM or PCM. Then go to Step 12.
+NO : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+STEP 12. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0141 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0171: System too Lean
+. or
+System too Lean Circuit
+• Refer to, DTC P0201 − P0204 Injector Circuit • Short-term fuel trim has continued to be higher
+than +10.0 percent for 5 seconds.
+Malfunction. P.13A-216
+Check Conditions
+. CIRCUIT OPERATION • Engine coolant temperature is lower than approx-
+• Refer to, DTC P0201 − P0204 Injector Circuit imately 100°C (212°F) when the engine is
+Malfunction. P.13A-216 started.
+• Intake air temperature is lower than 60°C (140°F)
+. when the engine is started.
+TECHNICAL DESCRIPTION
+• If a malfunction occurs in the fuel system, the fuel • Under the closed loop air/fuel ratio control.
+• Engine coolant temperature is higher than 77°C
+trim value becomes too large.
+• The ECM <M/T> or PCM <A/T> checks whether
+(171°F).
+• Volume air flow sensor output frequency is 88 Hz
+the fuel trim value is within a specified range.
+or less.
+.
+DTC SET CONDITIONS Judgment Criteria
+• Long-term fuel trim has continued to be higher
+Check Conditions
+than +12.5 percent for 5 seconds.
+• Engine coolant temperature is lower than approx-
+or
+imately 100°C (212°F) when the engine is
+• Short-term fuel trim has continued to be higher
+started.
+than +15 percent for 5 seconds.
+• Intake air temperature is lower than 60°C (140°F)
+when the engine is started. Check Conditions
+• Under the closed loop air/fuel ratio control. • Engine coolant temperature is higher than
+• Engine coolant temperature is higher than 77°C approximately 100°C (212°F) when the engine is
+(171°F). started.
+• Volume air flow sensor output frequency is 88 Hz • Intake air temperature is higher than 60°C
+or more. (140°F) when the engine is started.
+• Under the closed loop air/fuel ratio control.
+Judgment Criteria
+• Engine coolant temperature is higher than 77°C
+• Long-term fuel trim has continued to be higher
+(171°F).
+than +12.5 percent for 5 seconds.
+TSB Revision

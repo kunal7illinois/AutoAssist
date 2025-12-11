@@ -1,0 +1,49 @@
+BC–385
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+4 INSPECT SKID CONTROL ECU (IG1 TERMINAL)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Harness Side
+(b) Turn the ignition switch on (IG).
+Connector Front View):
+(c) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+A60
+Tester Connection Condition Specified Condition
+A60-28 (IG1) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (IG1 CIRCUIT)
+IG1
+BC
+C136493E05
+OK
+5 INSPECT SKID CONTROL ECU (GND TERMINAL)
+(a) Turn the ignition switch off.
+Skid Control ECU (Harness Side
+(b) Measure the resistance according to the value(s) in the
+Connector Front View):
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+A60
+A60-4 (GND1) - Body
+Always Below 1 Ω
+ground
+A60-1 (GND2) - Body
+Always Below 1 Ω
+ground
+(c) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+GND2 GND1 CONNECTOR (GND CIRCUIT)
+C136493E02
+OK
+6 INSPECT COMBINATION METER ASSEMBLY
+(a) Connect the intelligent tester to the DLC3.
+(b) Perform "ACTIVE TEST" of the combination meter
+assembly using the intelligent tester (See page ME-32).
+(c) Check the ABS warning light operation.
+OK:
+The ABS warning light turns on or off in
+accordance with the intelligent tester.

@@ -1,0 +1,49 @@
+RF–8
+SLIDING ROOF – SLIDING ROOF SYSTEM
+TERMINALS OF ECU
+1. CHECK SLIDING ROOF DRIVE GEAR SUB-
+ASSEMBLY (SLIDING ROOF CONTROL ECU) (TMC
+MADE)
+Q13
+B050671E36
+(a) Disconnect the Q13 ECU connector.
+(b) Measure the resistance and voltage according to
+RF the value(s) in the table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+B (Q13-1) - E (Q13-2) B - W-B +B power supply Always 10 to 14 V
+Ignition switch power
+IG (Q13-5) - E (Q13-2) Y - W-B Ignition switch off Below 1 V
+supply
+Ignition switch power
+IG (Q13-5) - E (Q13-2) Y - W-B Ignition switch on (IG) 10 to 14 V
+supply
+OPN (Q13-7) - E (Q13-2) BR - W-B Sliding roof motor open OPEN switch OFF 10 kΩ or higher
+OPN (Q13-7) - E (Q13-2) BR - W-B Sliding roof motor open OPEN switch ON Below 1 Ω
+CLS (Q13-9) - E (Q13-2) L - W-B Sliding roof motor closed CLOSE switch OFF 10 kΩ or higher
+CLS (Q13-9) - E (Q13-2) L - W-B Sliding roof motor closed CLOSE switch ON Below 1 Ω
+UP (Q13-10) - E (Q13-2) W - W-B Sliding roof motor up UP switch OFF 10 kΩ or higher
+UP (Q13-10) - E (Q13-2) W - W-B Sliding roof motor up UP switch ON Below 1 Ω
+DWN (Q13-8) - E (Q13-2) G - W-B Sliding roof motor down DOWN switch OFF 10 kΩ or higher
+DWN (Q13-8) - E (Q13-2) G - W-B Sliding roof motor down DOWN switch ON Below 1 Ω
+E (Q13-2) - Body ground W-B - Body ground Ground Always Below 1 Ω
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the Q13 ECU connector.
+(d) Measure the voltage according to the value(s) in the
+table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Ignition switch on (IG),
+OPN (Q13-7) - E (Q13-2) BR - W-B Sliding roof motor open sliding roof closed, OPEN Below 1 V
+switch OFF
+Ignition switch on (IG),
+OPN (Q13-7) - E (Q13-2) BR - W-B Sliding roof motor open sliding roof closed, OPEN 10 to 14 V
+switch ON
+Ignition switch on (IG),
+CLS (Q13-9) - E (Q13-2) L - W-B Sliding roof motor closed sliding roof open, CLOSE Below 1 V
+switch OFF
+Ignition switch on (IG),
+CLS (Q13-9) - E (Q13-2) L - W-B Sliding roof motor closed sliding roof open, CLOSE 10 to 14 V
+switch ON
+Ignition switch on (IG),
+UP (Q13-10) - E (Q13-2) W - W-B Sliding roof motor up sliding roof tilted Below 1 V
+downward, UP switch OFF

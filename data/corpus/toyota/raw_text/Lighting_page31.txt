@@ -1,0 +1,33 @@
+LI–31
+LIGHTING – LIGHTING SYSTEM
+Ignition Switch Circuit
+DESCRIPTION
+This circuit detects the state of the ignition switch or engine switch, and sends it to the main body ECU.
+WIRING DIAGRAM
+without Smart Key System:
+Main Body ECU
+Instrument Panel J/B
+ACC
+1 ECU-ACC
+IA ACC
+5 3 22
+3
+II
+2 1
+E23
+Ignition Switch
+ACC IG1
+4 AM1 ECU IG No. 1
+2 AM1
+II IG
+IG1 4 5 3 15
+1
+9
+II
+2 1
+10
+ALT IF
+FL MAIN
+Battery
+LI
+E121497E02

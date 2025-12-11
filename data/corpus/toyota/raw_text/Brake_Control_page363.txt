@@ -1,0 +1,22 @@
+BC–352
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC C1231/31 Steering Angle Sensor Circuit Malfunction
+DESCRIPTION
+The steering angle sensor signal is sent to the skid control ECU via the CAN communication system.
+When there is a malfunction in the CAN communication system, it will be detected by the steering angle
+sensor zero point malfunction diagnostic function.
+DTC No. DTC Detection Condition Trouble Area
+When any of the following is detected:
+• With ECU terminal IG1 voltage 9.8 V or more, the
+condition that the ECU does not receive data from
+the steering angle sensor continues.
+• Steering angle sensor
+• Internal sensor failure
+C1231/31 • Steering angle sensor circuit
+• The offset value is out of range.
+• Steering angle sensor power supply
+• Sensor signal changes too rapidly.
+• Steering angle value difference between measured
+and reference is out of range.
+• Steering angle sensor signal is out of range.
+BC

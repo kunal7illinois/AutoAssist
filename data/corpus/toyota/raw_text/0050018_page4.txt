@@ -1,0 +1,33 @@
+ES–96
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+A
+2 INSPECT MASS AIR FLOW METER (POWER SOURCE VOLTAGE)
+(a) Disconnect the B1 Mass Air Flow (MAF) meter
+Wire Harness Side:
+connector.
+Front View
+(b) Turn the ignition switch ON.
++B (+) (c) Measure the voltage between the terminal of the wire
+harness side connector and body ground.
+Standard voltage
+Tester Connections Specified Conditions
+ES
+B1 MAF Meter Connector B1-3 (+B) - Body ground 9 to 14 V
+(d) Reconnect the MAF meter connector.
+A127724E01
+NG Go to step 5
+OK
+3 INSPECT MASS AIR FLOW METER (VG VOLTAGE)
+(a) Output voltage inspection.
+MAF Meter
+(1) Apply battery voltage across terminals +B and E2G.
+(2) Connect the positive (+) tester probe to terminal VG,
+VG E2G +B and negative (-) tester probe to terminal E2G.
+(3) Measure the voltage.
+Standard voltage
+Tester Connections Specified Conditions
+5 4 3 2 1
+5 (VG) - 4 (E2G) 0.2 to 4.9 V
+A127786E02
+NG REPLACE MASS AIR FLOW METER
+OK

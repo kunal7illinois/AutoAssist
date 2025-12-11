@@ -1,0 +1,53 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-683
+ON-VEHICLE SERVICE
+THROTTLE POSITION SENSOR CHECK
+M1131003200213
+Required Special Tool:
+• MB991348: Test Harness Set
+.
+Checking the Terminal Resistance
+1. Disconnect the throttle position sensor connector.
+2. Measure the resistance between throttle position sensor
+THROTTLE POSITION side connector terminals 1 and 4.
+SENSOR SIDE CONNECTOR
+Standard value: 3.5 − 6.5 kΩ
+1 2 3 4
+3. Measure the resistance between throttle position sensor
+side connector terminals 1 and terminal 3.
+Normal condition:
+Throttle valve slowly open Changes smoothly in
+AKX01413AB until fully open from the idle proportion to the opening
+position angle of the throttle valve
+4. If the resistance is outside the standard value, or if it doesn’t
+change smoothly, replace the throttle position sensor.
+NOTE: After replacement, the throttle position sensor should
+be adjusted. (Refer to P.13B-677 .)
+.
+Check using oscilloscope
+1. Disconnect the throttle position sensor connector and
+connect the test harness special tool (MB991348) in
+between. (All terminals should be connected.)
+2. Connect the oscilloscope probe to the throttle position
+OSCILLOSCOPE
+sensor side connector terminal 3.
+THROTTLE POSITION
+SENSOR CONNECTOR
+3. Turn the ignition switch to the "ON" position.
+1 2 3 4
+MB991348
+AK102987AB
+4. Slowly move the throttle lever from the idle position to the
+NORMAL WAVEFORM
+full-throttle position and check then if the waveform is free
+THROTTLE LEVER
+from any noise.
+FULL-THROTTLE
+POSITION 5. If any noise is recognized, replace the throttle position
+sensor.
+THROTTLE NOTE: After replacement, the throttle position sensor should
+LEVER
+be adjusted. (Refer to P.13B-677 .)
+IDLE
+POSITION
+AKX01462AB
+TSB Revision

@@ -1,0 +1,49 @@
+54B-468 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check ETACS-ECU connector C-119 for damage.
+Q:Is ETACS-ECU connector C-119 in good condition?
+CONNECTOR: C-119
+YES : Go to Step 3.
+DEVICE SIDE
+NO : Repair or replace the connector. Refer to GROUP
+1 2 3 4 5 6 7 8 91011121314151617181920
+00E, Harness Connector Inspection P.00E-2. If the
+JUNCTION BLOCK equipment, which are described in "CIRCUIT
+(REAR VIEW)
+OPERATION", work normally, the input signal from
+the ignition switch (ACC) should be normal.
+AC106481AF
+STEP 3. Check the wiring harness between ETACS-ECU
+connector C-119 (terminal 4) and the ignition switch (ACC).
+NOTE: Also check intermediate connector C-89 and junction
+CONNECTOR: C-119 block connector C-112. If intermediate connector C-89 or junc-
+DEVICE SIDE
+tion block connector C-112 is damaged, repair or replace the
+1 2 3 4 5 6 7 8 91011121314151617181920
+connector as described in GROUP 00E, Harness Connector
+JUNCTION BLOCK Inspection P.00E-2.
+(REAR VIEW)
+AC106481AF
+Q:Is the wiring harness between ETACS-ECU connector C-
+CONNECTOR: C-89
+119 (terminal 4) and ignition switch (ACC) in good
+CONNECTOR BLOCK (LH)
+condition?
+YES : No action to be taken.
+NO : Repair the wiring harness. If the equipment, which are
+described in "CIRCUIT OPERATION", work normally,
+the input signal from the ignition switch (ACC) should
+1 2 3 4 5 6 7 8 910 111213
+be normal.
+141516171819202122232425
+262728 29 30 31 38
+3233 34 35 36 37
+AC106477AC
+CONNECTOR: C-112
+DEVICE SIDE
+1 2 3 4 5 6
+7 8 91011121314
+JUNCTION BLOCK
+(FRONT VIEW)
+AC106479AH
+TSB Revision

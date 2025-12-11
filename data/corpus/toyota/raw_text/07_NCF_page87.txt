@@ -1,0 +1,33 @@
+EG-60 ENGINE - 2AZ-FE ENGINE
+11. Evaporative Emission Control System
+General
+The evaporative emission control system prevents the fuel vapors that are created in the fuel tank from being
+released directly into the atmosphere.
+The canister stores the fuel vapors that have been created in the fuel tank.
+(cid:3) The ECM controls the purge VSV in accordance with the driving conditions in order to direct the fuel
+vapors into the engine, where they are burned.
+(cid:3) In this system, the ECM checks for evaporative emission leaks and outputs DTC (Diagnostic Trouble
+Code) in the event of a malfunction. An evaporative emission leak check consists of an application of
+vacuum to the evaporative emissions system and monitoring the system for changes in pressure in order
+to detect a leakage.
+(cid:3) This system consists of a purg VSV, canister, refueling valve, canister pump module, and ECM.
+(cid:3) An ORVR (Onboard Refueling Vapor Recovery) function is provided in the refueling valve.
+(cid:3) The canister pressure sensor has been included to the canister pump module.
+(cid:3) An air filter has been provided on the fresh air line. This air filter is maintenance-free.
+(cid:3) The EVAP service port has been removed.
+(cid:3) The following are the typical conditions necessary to enable an evaporative emission leak check:
+(cid:3) Five hours have elapsed after the engine has been turned OFF*.
+(cid:3) Altitude: Below 2400 m (8000 feet)
+Typical Enabling (cid:3) Battery Voltage: 10.5 V or more
+Condition (cid:3) Ignition switch: OFF
+(cid:3) Engine Coolant Temperature: 4.4 to 35(cid:4)C (40 to 95(cid:4)F)
+(cid:3) Intake Air Temperature: 4.4 to 35(cid:4)C (40 to 95(cid:4)F)
+*: If engine coolant temperature does not drop below 35(cid:4)C (95(cid:4)F), this time should be extended to 7 hours.
+Even after that, if the temperature is not less than 35(cid:4)C (95(cid:4)F), the time should be extended to 9.5 hours.
+Service Tip
+The canister pump module performs a fuel evaporative emission leakage check. This check is done
+approximately five hours after the engine is turned off. Sound may be heard coming from
+underneath the luggage compartment for several minutes. This does not indicate a malfunction.
+(cid:3) Pinpoint pressure test procedure is adopted by pressurizing the fresh air line that runs from the
+canister pump module to the air filler neck. For details, see the 2007 Camry Repair Manual (Pub.
+No. RM0250U).

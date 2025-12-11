@@ -1,0 +1,55 @@
+CA–78
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+WIRING DIAGRAM
+F1
+: CAN Main Bus Wire (CANH)
+Combination Meter
+: CAN Main Bus Wire (CANL)
+: CAN Branch Wire (CANH)
+(x)
+: CAN Branch Wire (CANL)
+CANH CANL
+17 (x) 18
+B W
+E10
+1 E43 E43 2
+DLC3
+No. 1 CAN J/C 1
+B 6
+E62 CANH
+2 (x)
+W 14
+E62 CANL
+CA E34
+Yaw Rate Sensor (*1)
+1
+B 3 CANH
+E46
+E8
+Main Body ECU 2 (x) (x)
+W 2 CANL
+E46
+1
+CANH 5 B
+E44
+(x) (x) 2
+CANL 6 W
+E44
+E17
+Steering Angle Sensor (*1)
+1
+CANH 10 B
+E63
+(x) (x) 2 E30
+CANL 9 W Center Airbag Sensor
+E63
+1
+B 13 CANH
+E45
+2 (x) (x)
+(x) W 22 CANL
+E45
+(*1) : with VSC
+1 E42 E42 2 : Suspected Area (Short
+B W in CAN Bus Wires)
+C133250E01

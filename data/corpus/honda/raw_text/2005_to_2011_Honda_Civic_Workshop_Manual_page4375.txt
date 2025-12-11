@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+TROUBLESHOOTING (see ).
+5. Turn the ignition switch to LOCK (0).
+6. Substitute a known-good ECM (see SUBSTITUTING THE ECM ).
+7. Turn the ignition switch ON (II).
+8. Clear the DTC with the HDS.
+9. Test-drive the vehicle.
+10. Check for DTCs with the HDS.
+Is DTC 83-13, 83-14 indicated?
+YES -Replace the VSA modulator-control unit (see VSA MODULATOR-
+CONTROL UNIT REMOVAL AND INSTALLATION ).
+NO -Replace the original ECM (see ECM REPLACEMENT ).
+DTC 84-21: VSA SENSOR NEUTRAL POSITION NOT WRITING
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Do the VSA sensor neutral position memorization (see VSA SENSOR
+NEUTRAL POSITION MEMORIZATION ).
+4. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+5. Check for DTCs with the HDS.
+Is DTC 84-21 indicated?
+YES -Check for loose terminals in the VSA modulator-control unit 37P
+connector. If necessary, substitute a known-good VSA modulator-control unit
+(see VSA MODULATOR-CONTROL UNIT REMOVAL AND
+INSTALLATION), and retest.
+NO -The system is OK at this time.
+DTC 86-01: F-CAN BUS-OFF MALFUNCTION

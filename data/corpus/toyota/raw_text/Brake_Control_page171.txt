@@ -1,0 +1,31 @@
+BC–165
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+7 INSPECT FRONT SPEED SENSOR
+(a) Turn the ignition switch off.
+Front Speed Sensor: (b) Install the front speed sensor.
+(c) Disconnect the front speed sensor connector.
+(d) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+RH
+1
+2
+Tester Connection Condition Specified Condition
+1.4 to 1.8 kΩ at 20°C (68
+1 (FR+) - 2 (FR-) Always
+°F)
+1 (FR+) - Body ground Always 10 kΩ or higher
+2 (FR-) - Body ground Always 10 kΩ or higher
+LH
+Tester Connection Condition Specified Condition BC
+C136017E01
+1.4 to 1.8 kΩ at 20°C (68
+1 (FL+) - 2 (FL-) Always
+°F)
+1 (FL+) - Body ground Always 10 kΩ or higher
+2 (FL-) - Body ground Always 10 kΩ or higher
+NOTICE:
+Check the speed sensor signal after replacement
+(See page BC-123).
+NG REPLACE FRONT SPEED SENSOR
+OK

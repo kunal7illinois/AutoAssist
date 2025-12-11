@@ -1,0 +1,30 @@
+AX–112 U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+WIRING DIAGRAM
+TCM
+AX
++B
+SL3+
+Shift Solenoid Valve SL3
+SL3-
+Transaxle Assembly
+C133261E04
+INSPECTION PROCEDURE
+1 INSPECT TRANSMISSION WIRE (SL3)
+(a) Remove the TCM from the transaxle.
+(b) Measure the resistance according to the value(s) in the
+SL3+
+SL3- table below.
+Standard resistance
+Specified Condition
+Tester Connection
+20°C (68°F)
+16 (SL3+) - 15 (SL3-) 5.0 to 5.6 Ω
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+Check for short
+Tester Connection Specified Condition
+16 (SL3+) - Body ground 10 kΩ or higher
+15 (SL3-) - Body ground 10 kΩ or higher
+C133212E05
+OK REPLACE TCM

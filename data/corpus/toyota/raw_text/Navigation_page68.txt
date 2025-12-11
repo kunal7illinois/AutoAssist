@@ -1,0 +1,44 @@
+NS–68
+NAVIGATION – NAVIGATION SYSTEM
+DTC 01-DC Transmission Error
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+Transmission to component shown by sub-code failed. If the same sub-code is recorded in other components,
+01-DC
+(Detecting this DTC does not always mean actual check harness for power supply and communication
+*1
+failure.) system of all components shown by code
+HINT:
+*1: This code may be stored if the engine is started, idled for 60 seconds and then the ignition switch is
+turned to the START position again. (Key type ignition switch only)
+NOTICE:
+• Before starting troubleshooting, be sure to clear DTCs to erase codes stored due to the
+reasons described in the HINT above. Then, check for DTCs and troubleshoot according to the
+output DTCs.
+• The radio and navigation assembly is the master unit.
+• Be sure to clear and recheck DTCs after the inspection is completed to confirm that no DTCs
+are output.
+INSPECTION PROCEDURE
+NOTICE:
+Be sure to read DESCRIPTION before performing the following procedures.
+1 CHECK FOR DTC OF OTHER COMPONENTS
+(a) Check if the component shown by the sub-code is
+displayed in the check result of the other components.
+(1) Check if "01-DC" is output for the other
+components.
+(2) If "01-DC" is output for any other components,
+check if the same physical address is displayed.
+HINT:
+For the list of the components shown by sub-codes,
+refer to the table in step 2.
+Result
+Result Proceed to
+"01-DC" is output and the same physical address is
+A
+displayed
+"01-DC" is not output or the same physical address
+B
+is not displayed
+B Go to step 4
+A
+NS

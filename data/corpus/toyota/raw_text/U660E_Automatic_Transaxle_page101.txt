@@ -1,0 +1,33 @@
+AX–101
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+DTC P0791 Intermediate Shaft Speed Sensor "A" Circuit
+DTC P0793 Intermediate Shaft Speed Sensor "A"
+DESCRIPTION
+AX
+This sensor detects the rotation speed of the turbine which shows the input speed of transaxle. By
+comparing the input turbine speed signal (NC) with the counter gear speed sensor signal (NC), the TCM
+detects the shift timing of the gears and appropriately controls the engine torque and hydraulic pressure
+according to various conditions, thus, providing smooth gear shift.
+Counter Gear Clutch Drum
+Output Speed Sensor NC Input Speed Sensor NT
+C133216E01
+DTC No. DTC Detection Condition Trouble Area
+When the speed sensor input voltage is either more
+P0791
+than 1.9 V or less than 0.1 V for 2 seconds or more.
+• Transmission revolution sensor (speed sensor NC)
+When the vehicle speed is 15.5 mph (25 km/h) or • TCM
+P0793 higher, the counter gear speed is less than 300 rpm for
+2 seconds or more.
+MONITOR DESCRIPTION
+The NT terminal of the TCM detects a revolution signal from the speed sensor (NT) (input RPM). The
+TCM calculates a gearshift comparing the speed sensor (NT) with the speed sensor (NC).
+While the vehicle is operating in 2nd, 3rd, 4th or 5th gear in the shift position of D, if the input shaft
+revolution is less than 300 rpm *1although the output shaft revolution is more than 1,000 rpm *2, the TCM
+interprets this as a fault, illuminates the MIL and stores the DTC.
+*1: Pulse is not output or is irregularly output.
+*2: The vehicle speed is 31 mph (50 km/h) or more.
+MONITOR STRATEGY
+Related DTCs P0717: Speed sensor (NT) /Verify pulse input
+Required sensors/Components Speed sensor (NT), Speed sensor (NC)
+Frequency of operation Continuous

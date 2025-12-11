@@ -1,0 +1,45 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+Note
+If the display zone shows no or insufficient current, check actua‐
+tion of the air conditioner compressor regulating valve -N280-
+⇒ page 45 .
+– The displayed pressure in the refrigerant circuit rises above
+the value with the air conditioner compressor switched off.
+Note
+♦ If the pressure displayed does not change and actuation of the
+air conditioner compressor is OK, check again as to whether
+the air conditioner compressor is actually being driven. If it is,
+there is a fault in the refrigerant circuit. The vehicle is to be
+taken to a workshop equipped with the necessary tools where
+the work can be performed by appropriately qualified person‐
+nel ⇒ Air conditioner with refrigerant R134a (there may be
+problems with air conditioner compressor control). Inform the
+workshop of t h e problems encountered.
+♦ The air conditioner compressor regulating valve -N280- is ac‐
+tuated by the air conditioner operating unit, Climatronic control
+unit -J255- such that the temperature of the air downstream of
+the evaporator reaches the specified value (approx. 2 to 5 °C).
+♦ After starting the vehicle, a value greater than 75 % (0.55 A)
+is displayed depending on the measured temperature, engine
+speed and electrical system voltage. As soon as the temper‐
+ature measured by the evaporator outflow temperature sender
+-G263- approaches the specified value, actuation is cancelled
+and the compressor output thus reduced.
+♦ Under certain operating conditions, residual moisture in the
+refrigerant circuit may lead to the formation of ice at the air
+conditioner compressor regulating valve (and at the expansion
+valve). Such ice formation impedes air conditioner compressor
+control. The evaporator is excessively cooled and ices up.
+Icing-up of the evaporator may give rise to various problems
+⇒ page 138 .
+– Press the recirculated air mode button on the air conditioner
+operating unit, Climatronic control unit -J255- (symbol for “re‐
+circulated air mode” in recirculated air button lights).
+– Set engine speed to 2000 rpm (start of time measurement).
+– In the “Reading measured value block” function, select the
+display with the measured value of the evaporator output tem‐
+perature sender -G263- ⇒ "Guided fault-finding" function of
+vehicle diagnostic, testing and information system VAS 5051.
+133
+10. Checking cooling output of air conditioner

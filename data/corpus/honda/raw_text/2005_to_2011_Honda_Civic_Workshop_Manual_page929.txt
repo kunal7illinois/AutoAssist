@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+9. Test-drive the vehicle with the shift lever in D, and let the transmission shift
+through all five gears.
+10. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 9, then go
+to step 11.
+11. Check for DTCs with the HDS.
+Is DTC P1747 indicated?
+YES -Go to step 4.
+NO -Go to step 12.
+12. Monitor the OBD STATUS for P1747 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+11, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, go to step 4. If the HDS indicates NOT
+COMPLETED, go to step 9.
+DTC P1780: Problem in Shift Control System
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+1. Turn the ignition switch to ON (II).
+2. Clear the DTC with the HDS.
+3. Test-drive the vehicle with the shift lever in D, and let the transmission shift
+through all five gears.
+4. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 3, then go
+to step 5.
+5. Check for other DTCs indicated along with DTC P1780 with the HDS.

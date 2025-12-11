@@ -1,0 +1,30 @@
+DL–29
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+OK:
+The display is as specified in the normal condition
+column.
+NG Go to step 2
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+2 INSPECT REAR DOOR LOCK ASSEMBLY (UNLOCK DETECTION SWITCH)
+(a) Remove the rear door lock assembly LH.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Measurement Door Lock Specified
+Connection Condition Condition Condition
+Battery positive
+(+) → Terminal 4
+6 - 9 Lock 10 kΩ or higher
+Battery negative
+(-) → Terminal 1
+Battery positive
+(+) → Terminal 1
+6 - 9 Unlock Below 1 Ω
+Lock Battery negative
+Unlock (-) → Terminal 4
+NG REPLACE REAR DOOR LOCK ASSEMBLY
+E123890E02
+OK
+3 CHECK WIRE HARNESS (REAR DOOR LOCK ASSEMBLY - MAIN BODY ECU)
+(a) Disconnect the rear door lock assembly LH connector. DL

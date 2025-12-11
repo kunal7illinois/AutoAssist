@@ -1,0 +1,52 @@
+Audi TT No. 47 / 9
+Current Flow Diagram
+Onboard supply control unit, terminal 15 voltage supply
+relay 2, fuses
+J519 Onboard supply control unit
+J681 Terminal 15 voltage supply relay 2
+SF1 Fuse 1 on fuse holder F
+SF2 Fuse 2 on fuse holder F
+SF7 Fuse 7 on fuse holder F
+SF8 Fuse 8 on fuse holder F
+SF10 Fuse 10 on fuse holder F
+55 SF12 Fuse 12 on fuse holder F
+T52a 52-pin connector, black, on onboard supply control unit
+10,0
+ro T52b 52-pin connector, yellow, on onboard supply control unit
+T52c 52-pin connector, brown, on onboard supply control unit
+B302
+B302 Positive connection 6 (30), in main wiring harness
+44 4477
+* Relay carrier on onboard power supply control unit
+4,0 4,0 6,0 1,5
+ro ro ro li/ws
+1 2 7 8 1 0 12
+J519
+T52b/42
+SF1 SF2 SF7 SF8 SF10 SF12
+5A 40A 40A 20A 20A 5A
+1a 2a 7a 8a 10a 12a T52c T52b/1 T52a/1 T52a T52b/12
+/42 30 30 /24
+30 30
+0,5 4,0 4,0 2,5 4,0 2,5 4,0 0,5 0,35
+ro/li ro/li ro/gn ro/ge ro/li ro/ge ro/gn ro/li sw/ws
+110099 110066 110088 110077 110000 110033 110011 9999
+3333
+4,0
+sw
+6/85 8/87
+✱ 1
+J681
+4/86 2/30 ws = white
+sw = black
+ro = red
+0,35 4,0 br = brown
+br ro gn = green
+bl = blue
+112200 88 gr = grey
+li = purple
+ge = yellow
+99 100 101 102 103 104 105 106 107 108 109 110 111 112 or = orange
+8J0-047090409
+rs = pink
+Edition 04.2010

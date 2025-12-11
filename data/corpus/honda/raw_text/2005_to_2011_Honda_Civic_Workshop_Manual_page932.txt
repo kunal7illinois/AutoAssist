@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+8. Start the engine, and wait for at least 2 minutes.
+9. Check for DTCs the A/T SYSTEM with the HDS.
+Is DTC P2122 indicated in the A/T SYSTEM?
+YES -Check for poor connections or loose terminals at the PCM. If the PCM
+was updated, substitute a known-good PCM (see SUBSTITUTING THE
+PCM ), then go to step 8. If the PCM was substituted, go to step 1.
+NO -Go to step 10.
+10. Monitor the OBD STATUS for P2122 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM (see ECM/PCM REPLACEMENT ). If
+any other DTCs were indicated in step 9, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals at the PCM. If the PCM was updated, substitute a known-good PCM
+(see SUBSTITUTING THE PCM ), then go to step 8. If the PCM was
+substituted, go to step 1. If the HDS indicates NOT COMPLETED, go to step
+8.
+DTC P2123: Accelerator Pedal Position (APP) Sensor A (Throttle Position Sensor D) Circuit High Voltage Input
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snap shot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+1. Turn the ignition switch to ON (II).
+2. Clear the DTC with the HDS.
+3. Check for Temporary DTCs or DTCs in the PGM-FI SYSTEM with the HDS.

@@ -1,0 +1,20 @@
+EI–24
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+(b) Inspect using an oscilloscope.
+(1) Waveform 1 (Reference)
+Item Content
+Symbols (Terminal No.) IMI (A55-11) - E1 (C55-81)
+GND Tool Setting 10 V/DIV., 100 ms./DIV.
+Condition Engine switch on (IG)
+Tool Setting: 10 V/DIV., 100 ms./DIV.
+B139210E01
+(2) Waveform 2 (Reference)
+Item Content
+Symbols (Terminal No.) IMO (A55-10) - E1 (C55-10)
+Tool Setting 10 V/DIV., 100 ms./DIV.
+GND Condition Engine switch on (IG)
+6. CHECK MAIN BODY ECU (INSTRUMENT PANEL J/B)
+(a) Disconnect the IF and IM junction block connectors.
+Tool Setting: 10 V/DIV., 100 ms./DIV.
+B139209E01
+EI

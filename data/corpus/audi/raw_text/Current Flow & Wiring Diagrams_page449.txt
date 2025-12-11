@@ -1,0 +1,42 @@
+Audi TT No. 48 / 16
+Current Flow Diagram
+Onboard supply control unit, light switch
+E1 Light switch
+E284 Garage door operating unit
+J519 Onboard supply control unit
+T6 6-pin connector, black, connector C, on light switch
+T52b 52-pin connector, yellow, on onboard supply control unit
+T52c 52-pin connector, brown, on onboard supply control unit
+W1 Front interior light
+375 Earth connection 10, in main wiring harness
+B340 Connection 1 (58s), in main wiring harness
+* Coming Home switch
+** no longer fitted, phased
+J519
+T52b/13 T52c/18 T52b/51
+✱✱ ✱✱
+0,35 0,35 0,5
+li/ws li/ge gr/bl
+B340
+✱✱
+0,35 0,35 0,35
+gr/bl gr/bl gr/bl
+T6/2 T6/3 T6/4
+✱
+E1 W1 E284 ws = white
+T6/1
+31 114488 sw = black
+ro = red
+✱✱
+0,35 1,0 br = brown
+br br
+gn = green
+375 bl = blue
+gr = grey
+li = purple
+ge = yellow
+197 198 199 200 201 202 203 204 205 206 207 208 209 210
+or = orange
+8J0-048160410
+rs = pink
+Edition 04.2010

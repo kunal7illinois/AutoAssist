@@ -1,0 +1,72 @@
+EI–28
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+DATA LIST / ACTIVE TEST
+1. READ DATA LIST
+HINT:
+Using the intelligent tester to read the DATA LIST allows
+the values or states of switches, sensors, actuators and
+other items to be read without removing any parts. This
+non-intrusive inspection can be very useful as
+intermittent conditions or signals may be discovered
+before parts or wiring is disturbed. Reading the DATA
+LIST information early in troubleshooting is one way to
+save diagnostic time.
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the engine switch on (IG).
+(c) Read the DATA LIST.
+SMART:
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Engine switch on (ACC, IG)
+Engine switch on (IG) signal / ON
+IG SW or start -
+or OFF
+OFF: Engine switch off
+ON: Engine switch on (ACC, IG)
+Engine switch on (ACC) signal /
+ACC SW or start -
+ON or OFF
+OFF: Engine switch off
+Immobiliser system status / SET SET: Key is not in cabin
+IMMOBILISER -
+or UNSET UNSET: Key is in cabin
+MATCH: Master key code is sent
+Master key code signal / MATCH
+MASTER KEY NO MATCH: Unmatched master -
+or NO MATCH
+key code is sent
+MATCH: Sub-key (master key)
+Sub-key (Master key) code signal code is sent
+SUB KEY -
+/ MATCH or NO MATCH NO MATCH: Unmatched sub-key
+(master key) code is sent
+Transponder chip signal / OK or OK: Correct data sent
+BCC -
+NG NG: Incorrect data sent
+EI Transponder chip data / OK or OK: Data OK
+STATUS -
+NG NG: Data error
+Transponder chip signal / OK or OK: Correct data sent
+ENCRYPT CODE -
+NG NG: Incorrect data sent
+Transponder chip signal / OK or OK: Correct data sent
+SERIAL NUMBER -
+NG NG: Incorrect data sent
+Transponder chip signal / OK or OK: Correct data sent
+FRAME -
+NG NG: Incorrect data sent
+2. PERFORM ACTIVE TEST
+HINT:
+Performing the intelligent tester's ACTIVE TEST allows
+relay, VSV, actuator and other items to be operated
+without removing any parts. Performing the ACTIVE
+TEST early in troubleshooting is one way to save time.
+The DATA LIST can be displayed during the ACTIVE
+TEST.
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the engine switch on (IG).
+(c) Perform the ACTIVE TEST by following the
+directions on the tester screen.

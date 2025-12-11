@@ -1,0 +1,43 @@
+ES–233
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+INSPECTION PROCEDURE
+HINT:
+• If no problem is found by this diagnostic troubleshooting procedure, troubleshoot the engine
+mechanical system.
+• Check the engine speed. The engine speed can be checked by using the intelligent tester. To check,
+follow the procedure below:
+(a)Connect the intelligent tester to the DLC3.
+(b)Start the engine.
+(c)Turn the tester on.
+(d)Enter the following menus: DIAGNOSIS / ENHANCED OBD II / DATA LIST / PRIMARY / ENGINE
+SPD.
+The engine speed may be indicated as zero despite the engine revolving normally. This is caused
+by a lack of NE signals from the crankshaft position (CKP) sensor. Alternatively, the engine speed
+may be indicated as lower than the actual engine speed, if the CKP sensor output voltage is
+insufficient. ES
+• Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame
+data can be helpful in determining whether the vehicle was running or stopped, whether the engine
+was warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the
+time of a malfunction (See page ES-45).
+1 INSPECT CRANKSHAFT POSITION SENSOR
+(a) Disconnect the C50 crankshaft position (CKP) sensor
+connector.
+CKP Sensor
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+C50
+Tester Connection Condition Specified Condition
+1 - 2 Cold 1,630 to 2,740 Ω
+1 - 2 Hot 2,065 to 3,225 Ω
+HINT:
+A078431E19
+Terms "cold" and "hot" refer to the temperature of the
+coils. "Cold" means approximately -10 to 50°C (14 to
+122°F). "Hot" means approximately 50 to 100°C (122 to
+212°F).
+(c) Reconnect the CKP sensor connector.
+NG REPLACE CRANKSHAFT POSITION
+SENSOR (See page ES-496)
+OK

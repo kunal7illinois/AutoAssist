@@ -1,0 +1,59 @@
+RS–226
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Yaw Rate Sensor Main Body ECU
+3 2 1 1 5
+(*1)
+CANH E34 E65 E46 E44 E8 CANH
+(*3) (*4)
+2 3 2 2 6
+(*1)
+CANL E34 E65 E46 E44 E8 CANL
+(*3) (*4)
+1 15
+E42 E8 CANN
+Skid Control ECU 2 16
+with Actuator E42 E8 CANP
+26 Junction Connector Certification ECU
+CANH A25
+4 27
+15
+E41 E58 CANH
+CANL A25
+10 28
+E41 E58 CANL
+Skid Control ECU
+with Actuator
+A/C Amplifier
+(*2)
+RS 11 35 2 1 11
+(*1)
+CANH A26 A60 A40 E41 E38 CANH
+(*2)
+(*3) (*4)
+25 14 8 7 12
+(*1)
+CANL A26 A60 A40 E41 E38 CANL
+(*3) (*4)
+Option Connector (Buffer) ECM
+1 2 1 41
+(*6)
+CAN+ E61 E41 A40 A24 CANH
+2 8 2 49
+(*6)
+CAN- E61 E41 A40 A24 CANL
+*1: with VSC
+Transmission Control ECU
+ECM
+*2: without VSC
+6 2
+(*5) *3: TMC Made
+CAN+ C56 C55 CAN+ 41
+(*5)
+CANH A55 *4: TMMK Made
+7 1
+(*5)
+CAN- C56 C55 CAN- 49 *5: 2GR-FE
+(*5)
+CANL A55
+*6: 2AZ-FE
+C C123739E01

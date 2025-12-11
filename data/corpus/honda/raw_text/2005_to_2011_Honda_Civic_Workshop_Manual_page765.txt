@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+This code is caused by an electrical circuit problem and
+(cid:1)
+cannot be caused by a mechanical problem in the
+transmission.
+1. Turn the ignition switch to ON (II).
+2. Check the ATF TEMP SENSOR voltage in the DATA LIST with the HDS.
+Is the ATF TEMP SENSOR voltage 0.07 V or less?
+YES -Go to step 3.
+NO -Intermittent failure, the system is OK at this time. Check for an
+intermittent short to body ground in the ATFT wire between the ATF
+temperature sensor and the PCM.
+3. Turn the ignition switch to LOCK (0).
+4. Disconnect the shift solenoid harness connector.
+5. Turn the ignition switch to ON (II).
+6. Check the ATF TEMP SENSOR voltage in the DATA LIST with the HDS.
+Is the ATF TEMP SENSOR voltage 0.07 V or less?
+YES -Go to step 7.
+NO -Replace the ATF temperature sensor (see ATF TEMPERATURE
+SENSOR TEST/REPLACEMENT ), then go to step 12.
+7. Turn the ignition switch to LOCK (0).
+8. Jump the SCS line with the HDS.
+9. Disconnect PCM connector B (44P).
+10. Check for continuity between shift solenoid harness connector terminal No. 6
+and body ground.

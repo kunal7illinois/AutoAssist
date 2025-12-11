@@ -1,0 +1,37 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-443
+SYMPTOM PROCEDURES
+STEP 4. Check the combination meter (printed-circuit
+board).
+(1) Remove the combination meter.
+(2) Remove the theft-alarm indicator light bulb. Then measure
+the resistance value between the bulb terminals.
+(3) Install the bulb to the combination meter, and then measure
+CONNECTOR C-42
+the resistance value between connector C-42 terminals 31
+(COMBINATION METER SIDE)
+and 32. The measured resistance value should be roughly
+the same as the value measured in Step (2).
+Q:Are these two resistance values extremely different?
+YES : Repair or replace the combination meter (printed
+circuit board).Check that the seat belt warning light
+illuminates normally.
+NO (much the same) : Go to Step 5.
+AC003659AB
+STEP 5. Check at combination meter connector C-42 in
+order to check the battery power supply line to the theft-
+alarm indicator light circuit.
+(1) Disconnect combination meter connector C-42, and check
+CONNECTOR: C-42
+at the wiring harness side.
+DEVICE SIDE
+2122232425262728 293031323334
+AC106473AI
+(2) Measure the voltage between terminal 32 and ground.
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+CONNECTOR: C-42
+(HARNESS SIDE) Q:Does the measured voltage correspond with this range?
+YES : Go to Step 8.
+343332313029 2827262524232221 NO : Go to Step 6.
+AC102926AB
+TSB Revision

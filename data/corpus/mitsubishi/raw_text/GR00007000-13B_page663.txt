@@ -1,0 +1,53 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-663
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+Example 2
+• Cause of problem
+Damaged rectifier or vortex generation column.
+• Wave pattern characteristics
+Unstable wave pattern with non-uniform frequency. An igni-
+tion leak will distort the wave pattern temporarily, even if the
+volume air flow sensor is normal.
+CAMSHAFT POSITION SENSOR AND
+CRANKSHAFT POSITION SENSOR
+Required Special Tools:
+OSCILLOSCOPE
+CAMSHAFT POSITION • MB991348: Test Harness
+SENSOR CONNECTOR
+• MD998478: Test Harness
+1 2 3 4 5 6 7
+.
+Measurement Method
+MB991348
+1. Disconnect the camshaft position sensor connector, and
+connect the test harness special tool (MB991348) in
+between. (All terminals should be connected.)
+2. Connect the oscilloscope probe to camshaft position sensor
+connector terminal 5.
+AK102977AB
+3. Disconnect the crankshaft position sensor connector, and
+OSCILLOSCOPE connect the test harness special tool (MD998478) in
+CRANKSHAFT POSITION between.
+SENSOR CONNECTOR
+4. Connect the oscilloscope probe to crankshaft position
+1 2 sensor connector terminal 2 (black clip of special tool).
+3
+.
+MD998478 Alternate method (Test harness not available)
+<M/T>
+1. Connect the oscilloscope probe to ECM terminal 50. (Check
+the camshaft position sensor signal wave pattern.)
+AK102979AB
+2. Connect the oscilloscope probe to ECM terminal 43. (Check
+the crankshaft position sensor signal wave pattern.)
+<A/T>
+1. Connect the oscilloscope probe to PCM terminal 56. (Check
+the camshaft position sensor signal wave pattern.)
+2. Connect the oscilloscope probe to PCM terminal 45. (Check
+the crankshaft position sensor signal wave pattern.)
+Standard Wave Pattern
+Observation conditions
+Function Special pattern
+Pattern height Low
+Pattern selector Display
+Engine r/min Idle speed
+TSB Revision

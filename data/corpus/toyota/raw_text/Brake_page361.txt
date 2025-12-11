@@ -1,0 +1,34 @@
+BC–350
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC C1225/25 SMC Solenoid Circuit
+DTC C1226/26 SMC Solenoid Circuit
+DTC C1227/27 SRC Solenoid Circuit
+DTC C1228/28 SRC Solenoid Circuit
+DESCRIPTION
+These solenoids turn on when signals are received from the skid control ECU and they control the
+pressure acting on the wheel cylinders to control the braking force.
+DTC No. DTC Detecting Condition Trouble Area
+• Brake actuator assembly (skid control ECU)
+C1225/25 Solenoid valve signal does not match the check result
+• SMC1 circuit
+• Brake actuator assembly (skid control ECU)
+C1226/26 Solenoid valve signal does not match the check result
+BC • SMC2 circuit
+• Brake actuator assembly (skid control ECU)
+C1227/27 Solenoid valve signal does not match the check result
+• SRC1 circuit
+• Brake actuator assembly (skid control ECU)
+C1228/28 Solenoid valve signal does not match the check result
+• SRC2 circuit
+WIRING DIAGRAM
+Brake Actuator Assembly
+(Skid Control ECU)
+ALT ABS No. 2 3
+A60 +BS
+4
+A60 GND1
+FL MAIN
+1
+A60 GND2
+Battery
+C131988E04

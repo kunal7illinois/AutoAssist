@@ -1,0 +1,56 @@
+B
+[A] :System Title [H] :Indicates the wiring color.
+[B] :Indicates a Relay Block. No shading is used and Wire colors are indicated by an alphabetical code.
+only the Relay Block No. is shown to distinguish it B = Black W = White BR = Brown
+from the J/B
+L = Blue V = Violet SB = Sky Blue
+Example: Indicates Relay Block No.1
+R = Red G = Green LG = Light Green
+[C] :( ) is used to indicate different wiring and P = Pink Y = Yellow GR= Gray
+connector, etc. when the vehicle model, engine
+O = Orange
+type, or specification is different.
+The first letter indicates the basic wire color and the
+[D] :Indicates related system.
+second letter indicates the color of the stripe.
+[E] :Indicates the code for the (male and female)
+connectors which are used to join two wire Example: L – Y
+harnesses. The connector code consists of two
+alphabetical and one numerical characters.
+L Y
+(Blue) (Yellow)
+[I] :Indicates a shielded cable.
+Female Male ( )
+The first character of the connector code indicates
+the alphabetical code allocated to the wire harness
+which has the female connector, and the second [J] :Indicates the pin number of the connector.
+shows that of the wire harness which has the male The numbering system is different for female and
+connector. male connectors.
+The third character indicates a serial number used
+to distinguish between the wire harness Example: Numbered in other Numbered in other
+combinations in cases when more than one of the from upper left to from upper right to
+lower right lower left
+same combination of wire harnesses exist
+(e.g. CH1 and CH2).
+Symbol ( ) indicates the male terminal connector.
+Numbers outside connector codes indicate the pin
+Female Male
+numbers of both male and female connectors.
+[F] :Represents a part (all parts are shown in sky blue). [K] :Indicates the ground point. The code consists of the
+The code is the same as the code used in parts two characters: A letter and number.
+position. The first character of the code indicates the
+alphabetical code allocated to the wire harness.
+[G] :Junction Block (The number in the circle is the J/B The second character indicates a serial number
+No. and the connector code is shown beside it). used to distinguish between the ground points in
+Junction Blocks are shaded to clearly separate cases when more than one ground point exist on the
+them from other parts. same wire harness.
+[L] :Page No.
+Example: [M] :Indicates the ignition key position(s) when the
+power is supplied to the fuse(s).
+3C indicates that [N] :Indicates a wiring Splice Point.
+it is inside
+Junction Block
+No.3
+Example:
+5
+CAMRY (EM0250U)

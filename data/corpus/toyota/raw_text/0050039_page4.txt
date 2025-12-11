@@ -1,0 +1,41 @@
+ES–239
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 CHECK ECM (STP AND ST1 - VOLTAGE)
+(a) Disconnect the A9 ECM connector.
+Brake Pedal Brake Pedal
+(b) Turn the ignition switch ON.
+Depressed Released
+(c) Measure the voltage between the terminals ST1- and
+STP of the A9 ECM connector and body ground.
+Standard voltage
+Tester Connections Brake Pedal Operations Specified Conditions
+A9-35 (ST1-) - Body Released 9 to 14 V
+ground Depressed 0 to 3 V
+A9-36 (STP) - Body Released 0 to 3 V ES
+Wire Harness Side: ground Depressed 9 to 14 V
+(d) Reconnect the ECM connector.
+A9 ECM Connector
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+STP
+ST1-
+Front View
+A112585E06
+OK
+REPLACE ECM
+4 INSPECT FUSE (STOP AND IGN FUSE)
+(a) Remove the STOP and IGN fuses from the instrument
+Instrument Panel Junction Block:
+panel junction block.
+(b) Measure the resistance.
+IGN
+Standard resistance:
+Below 1 Ω
+(c) Reinstall the STOP and IGN fuses.
+NG CHECK FOR SHORTS IN ALL HARNESSES
+AND CONNECTORS CONNECTED TO FUSE
+STOP
+AND REPLACE FUSE
+A126984E01
+OK
+REPAIR OR REPLACE HARNESS OR CONNECTOR

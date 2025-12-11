@@ -1,0 +1,24 @@
+54B-194 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 7. Measure at front-ECU connector A-11X in order to
+check the ignition switch (IG2) line of power supply
+system to the front-ECU.
+(1) Disconnect front-ECU connector A-11X, and measure at the
+CONNECTOR: A-11X
+relay box side.
+FRONT-ECU (2) Turn the ignition switch to the "ON" position.
+A-11X
+2122232425262728293031
+AC106667AB
+(3) Measure the voltage between terminal 30 and ground.
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Replace the front-ECU. Check that the windshield
+wiper works normally.
+NO : Go to Step 8.
+3130292827262524232221
+CONNECTOR: A-11X
+(RELAY BOX SIDE)
+AC102044AB
+TSB Revision

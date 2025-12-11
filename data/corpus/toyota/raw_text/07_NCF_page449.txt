@@ -1,0 +1,35 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-115
+Entry Lock Function
+a) This signal is transmitted to the certification ECU when the driver (who has the key in their possession),
+exits the vehicle and presses the lock switch on the outside door handle.
+b)The certification ECU transmits a request signal for all door and room oscillators to form actuation areas.
+c) The key receives this signal and returns the ID code to the tuner.
+d)The certification ECU judges and certifies the ID code from the tuner. It then checks the location of the
+key and, if all the doors are closed, the ECU transmits a door lock signal to the main body ECU.
+e) The main body ECU receives this signal and actuates the door lock motors to lock the doors.
+f) The main body ECU blinks hazard warning lights once and the certification ECU sounds the wireless
+door lock buzzer once as an answerback for the entry lock function.
+b) a) Outside Door Handle
+(cid:3) Lock Switch
+b) All Door b) Key
+All Room
+Oscillators
+Oscillators
+Certification
+ECU
+d)
+Tuner c)
+b)
+f) Wireless Door
+Lock Buzzer
+CAN
+(MS Bus)
+e)
+Door Lock
+Main Body Buzzer
+ECU f) Hazard Warning
+Lights
+d)
+All Door
+Courtesy Switches
+025BE95P

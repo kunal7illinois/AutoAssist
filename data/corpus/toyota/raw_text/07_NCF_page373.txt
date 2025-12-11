@@ -1,0 +1,32 @@
+BODY ELECTRICAL - AIR CONDITIONING BE-39
+(cid:1) Manual Air Conditioning (cid:2)
+A/C Compressor
+A/C Pressure Sensor Solenoid Valve
+Lock Sensor*
+Magnetic Clutch*
+Evaporator Temp. Sensor
+Magnetic
+A/C ECU Clutch Relay*
+Outside Temp. Sensor
+Air Mix Servo Motor
+Air Inlet Servo Motor
+Local
+Heater Control Panel Communication
+(cid:3) A/C Operation Air Vent Servo Motor
+Signal
+Blower Motor
+ECM Meter ECU
+Transmission Signals
+Transmission Signals
+(cid:3) Engine Speed (cid:3) Vehicle Speed
+(cid:3) A/C Cut Request
+(cid:3) Engine Coolant
+Temp. Reception Signal
+(cid:3) Outside Temp. Data
+Reception Signal
+(cid:3) Idle-up Request
+(cid:3) Cooling Fan
+Drive Request DLC3
+CAN (CAN No.1 Bus)
+025BE40P
+*: Only for models with 2GR-FE engine

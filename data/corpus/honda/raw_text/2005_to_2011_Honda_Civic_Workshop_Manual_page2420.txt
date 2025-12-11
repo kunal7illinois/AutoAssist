@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (K20Z3) - Civic (Except GX & Si)
+19. Turn the ignition switch ON (II).
+20. Reset the ECM with the HDS.
+21. Do the ECM idle learn procedure (see ECM IDLE LEARN PROCEDURE ).
+22. Select EVAP CVS ON in the INSPECTION MENU with the HDS.
+23. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0498 indicated?
+YES - Check for poor connections or loose terminals at the EVAP canister
+vent shut valve and the ECM, then go to step 1.
+NO - Go to step 24.
+24. Monitor the OBD STATUS for DTC P0498 in the DTCs MENU with the
+HDS.
+Does the screen indicate PASSED?
+YES - Troubleshooting is complete. If any other Temporary DTCs or DTSs
+were indicated in step 23, go to the indicated DTC's troubleshooting.
+NO - If the screen indicates FAILED, check for poor connections or loose
+terminals at the EVAP canister vent shut valve and the ECM, then go to step 1.
+If the screen indicates NOT COMPLETED, go to step 22.
+25. Reconnect all connectors.
+26. Update the ECM if it does not have the latest software (see UPDATING THE
+ECM ), or substitute a known-good ECM (see SUBSTITUTING THE
+ECM ).
+27. Select EVAP CVS ON in the INSPECTION MENU with the HDS.
+28. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0498 indicated?
+YES - Check for poor connections or loose terminals at the EVAP canister
+vent shut valve and the ECM. If the ECM was updated, substitute a known-

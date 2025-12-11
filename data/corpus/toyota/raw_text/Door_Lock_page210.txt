@@ -1,0 +1,18 @@
+DL–195
+DOOR LOCK – KEY REMINDER WARNING SYSTEM
+SYSTEM DIAGRAM
+Front Door Courtesy Light Switch Assembly
+(Driver’s Side Door)
+Main Body ECU
+Unlock Warning Switch Assembly
+Combination Meter Assembly
+(Key Reminder Warning Buzzer)
+: CAN Communication Line (CAN)
+B112715E05
+BODY ECU:
+Transmitting ECU Receiving ECU Signals Communication method
+Driver's side door courtesy light
+Main Body ECU Combination Meter Assembly CAN
+switch signal
+Main Body ECU Combination Meter Assembly Unlock warning switch signal CAN
+DL

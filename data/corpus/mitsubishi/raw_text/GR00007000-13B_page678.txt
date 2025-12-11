@@ -1,0 +1,37 @@
+13B-678 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+ON-VEHICLE SERVICE
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+1. Connect scan tool MB991502 to the data link connector.
+When not using the scan tool, proceed as follows.
+16 PIN
+MB991502
+AKX01177AB
+THROTTLE POSITION
+SENSOR
+ACX02484AE
+(1) Disconnect the throttle position sensor connector, and
+TERMINAL 3
+(SENSOR OUTPUT) connect the special tool MB991348 in between. (All
+terminals should be connected.)
+MB991348
+(2) Connect a digital voltmeter between throttle position
+sensor terminal 3 (sensor output) and terminal 1 (sensor
+ground).
+2. Turn the ignition switch to the "ON" position (but do not start
+TERMINAL 1 the engine).
+(SENSOR
+GROUND) 3. Check the throttle position sensor output voltage.
+AKX01636AB Standard value: 535 − 735 mV
+4. If not within the standard value range, adjust by loosening
+throttle position sensor mounting bolts and turning the
+throttle position sensor body. After adjusting, tighten the
+bolts securely.
+5. Turn the ignition switch to the "LOCK" (OFF) position.
+6. Disconnect scan tool MB991502, and connect the throttle
+position sensor connector. When the scan tool is not used,
+remove special tool MB991348, and connect the throttle
+position sensor connector.
+TSB Revision

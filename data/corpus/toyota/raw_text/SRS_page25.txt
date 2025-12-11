@@ -1,0 +1,55 @@
+RS–25
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+• The center airbag sensor assembly receives
+signals from the deceleration sensor and the
+electronic safing sensor built into the center
+airbag sensor assembly and the rear airbag
+sensor, and determines whether the curtain
+shield airbag should be activated, and
+diagnoses system malfunctions.
+• The center airbag sensor assembly sends the
+airbag deployment signal to the ECM through
+CAN to operate the fuel pump control.
+(2) Deceleration sensor and ignition control circuit
+• The deceleration sensor is built into the
+center airbag sensor assembly.
+• The ignition control circuit performs
+calculations based on the signal output from
+the deceleration sensors of the center airbag
+sensor assembly and front airbag sensor. If
+the calculated values are greater than the
+specified values, it activates ignition
+operation.
+(3) Safing sensor
+• The safing sensor is built into the center
+airbag sensor assembly. During a front
+collision, the sensor turns on and outputs an
+ON signal to the center airbag sensor
+assembly if a deceleration rate sent to the
+safing sensor is greater than the specified
+value.
+(4) Electronic safing sensor
+RS
+• The electronic safing sensor is built into the
+center airbag sensor assembly. During a side
+collision, the sensor turns on and outputs an
+ON signal to the center airbag sensor
+assembly if a deceleration rate sent to the
+electronic safing sensor is greater than the
+specified value.
+(5) Backup power source
+• The backup power source consists of a
+power supply capacitor and a DC-DC
+converter. When the power system does not
+function during a collision, the power supply
+capacitor discharges and supplies electric
+power to the system. The DC-DC converter
+operates as a boosting transformer when the
+battery voltage falls below a predetermined
+level.
+(6) Diagnostic circuit
+• This circuit constantly diagnoses system
+malfunctions. When a malfunction is
+detected, it turns on the SRS warning light on
+the combination meter assembly to inform the
+driver.

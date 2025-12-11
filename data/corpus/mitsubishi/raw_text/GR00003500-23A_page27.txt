@@ -1,0 +1,53 @@
+AUTOMATIC TRANSAXLE 23A-27
+AUTOMATIC TRANSAXLE DIAGNOSIS
+2. Connect the special tools (3.0 MPa (427 psi) oil pressure
+MD998330
+gauge [MD998330] and adapters [MD998332, MD998900])
+to each pressure discharge port.
+NOTE: .
+• 2ND: Second brake pressure port
+• UD: Underdrive clutch pressure port
+MD998900 • LR: Low-reverse brake pressure port
+• DR: Torque converter release pressure port
+• DA: Torque converter apply pressure port ("DA" pressure
+VALVE BODY
+COVER is approximately the same as the "DR" pressure, so
+AC006151AB
+measurements are not needed)
+• RV: Reverse clutch pressure port
+MD998330
+• OD: Overdrive clutch pressure port
+VALVE BODY COVER 3. Restart the engine.
+4. Check that there are no leaks around the special tool port
+adapters.
+5. Measure the hydraulic pressure at each port under the
+MD998332 conditions given in the standard hydraulic pressure table,
+and check that the measured values are within the standard
+value ranges.
+AC006149AB
+6. If not within the standard value, stop the engine and refer to
+<UNDER SIDE VIEW> the Hydraulic pressure test diagnosis table.
+MD998330 7. Recover the O-ring from the port plug and replace it.
+8. Remove the special tool, and install the plugs to the
+MD998332 hydraulic pressure ports.
+9. On completion, start the engine and check that there are no
+leaks around the plugs.
+VALVE BODY COVER
+AC006150AB
+STANDARD HYDRAULIC PRESSURE TEST
+MEASUREMENT CONDITION STANDARD HYDRAULIC PRESSURE MPa (psi)
+SELECTOR SHIFT ENGINE UNDERDRIV REVERSE OVERDRIVE LOW- SECOND TORQUE
+LEVER POSITION SPEED E CLUTCH CLUTCH CLUTCH REVERSE BRAKE CONVERTER
+POSITION (r/min) PRESSURE PRESSURE PRESSURE BRAKE PRESSURE PRESSURE
+[UD] [RV] [OD] PRESSURE [2ND] [DR]
+[LR]
+P − 2,500 − − − 0.31 − − 0.25 −
+0.39 (45 − 0.39 (37 −
+57) 57)
+R Reverse 2,500 − 1.27 − − 1.27 − − 0.50 −
+1.77 (185 1.77 (185 0.70 (73 −
+− 256) − 256) 101)
+N − 2,500 − − − 0.31 − − 0.25 −
+0.39 (45 − 0.39 (37 −
+57) 57)
+TSB Revision

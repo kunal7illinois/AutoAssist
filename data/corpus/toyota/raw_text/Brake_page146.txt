@@ -1,0 +1,32 @@
+BC–140
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+TERMINALS OF ECU
+1. Terminal of ECU
+Skid Control ECU:
+F045080E06
+Symbols (Terminal No.) Terminal Description
+GND2 (1) Pump motor ground
+BM (2) Motor relay input
+FR+ (3) Front wheel speed RH signal power supply output
+BC
+FL- (4) Front wheel speed LH signal input
+RR+ (5) Rear wheel speed RH signal power supply output
+RL- (6) Rear wheel speed LH signal input
+CANH (11) CAN communication line H
+SP1 (12) Speed signal output for combination meter
+D/G (13) Diagnosis tester communication line
+MRF (14) Fail safe motor relay output
+MR (15) Motor relay output
+FR- (17) Front wheel speed RH signal input
+FL+ (18) Front wheel speed LH signal power supply output
+RR- (19) Rear wheel speed RH signal input
+RL+ (20) Rear wheel speed LH signal power supply output
+TS (24) Test mode (signal check) input
+CANL (25) CAN communication line L
+STP (27) Stop light switch input
+BZ (30) Skid control buzzer output
++BS (31) Solenoid relay power supply
+GND1 (32) Skid control ECU ground
+WFSE (42) WFSE input
+R+ (45) Power supply for motor relay
+IG1 (46) IG1 power supply

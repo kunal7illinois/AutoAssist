@@ -1,0 +1,30 @@
+54B-550 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTOR: E-13
+FRONT DOOR (LH)
+AC106556AC
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the signal is not normal, the functions or systems,
+The ETACS-ECU operates the following functions or
+which are described in "CIRCUIT OPERATION", do
+systems according to signal from the driver’s or front
+not work normally.
+passenger’s door lock actuator switches:
+• Central door locking system
+.
+• Keyless entry system TROUBLESHOOTING HINTS
+• Dome light dimming function • Malfunction of the driver(cid:146)s or front passenger’s
+door latch assembly
+. • Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check which door lock key cylinder switch is
+defective.
+Q:Which door lock actuator switch signal is not entered?
+Driver’s door : Go to Step 2.
+Front passenger’s door : Go to Step 8.
+TSB Revision

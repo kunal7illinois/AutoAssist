@@ -1,0 +1,34 @@
+13B-378 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3 Check the evaporative emission ventilation
+solenoid.
+(1) Disconnect the evaporative emission ventilation solenoid
+CONNECTOR:D-10
+connector D-10.
+EVAPORATIVE EMISSION
+VENTILATION SOLENOID
+ACX02516AJ
+(2) Measure the resistance between evaporative emission
+ventilation solenoid side connector terminal 1 and 2.
+EVAPORATIVE EMISSION
+VENTILATION SOLENOID Standard value: 17 − 21 Ω [at 20°C (68°F)]
+1 2 Q:Is the resistance at the standard value?
+YES : Go to Step 4.
+NO : Replace the over vent valve module. Then go to Step
+12.
+AK000004AB
+STEP 4. Check the power supply voltage at evaporative
+emission ventilation solenoid harness side connector D-
+10.
+(1) Disconnect the connector D-10 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 2 and ground.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+D-10 HARNESS
+SIDE CONNECTOR Q:Is the voltage normal?
+YES : Go to Step 6.
+2 1 NO : Go to Step 5.
+AKX01502AI
+TSB Revision

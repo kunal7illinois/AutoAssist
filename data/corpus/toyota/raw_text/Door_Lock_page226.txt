@@ -1,0 +1,31 @@
+DL–211
+DOOR LOCK – KEY REMINDER WARNING SYSTEM
+3 CHECK HARNESS AND CONNECTOR (UNLOCK WARNING SWITCH - MAIN BODY ECU)
+(a) Disconnect the E22 switch and E9 ECU connectors.
+Wire Harness Side Connector Front View:
+(b) Measure the resistance according to the value(s) in the
+E22 table below.
+Unlock Warning Switch Assembly
+Standard resistance
+Tester Connection Condition Specified Condition
+E22-1 - E9-5 (KSW) Below 1 Ω
+Always
+E22-1 - Body ground 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E9
+Main Body ECU
+KSW
+B139168E01
+OK
+4 CHECK HARNESS AND CONNECTOR (UNLOCK WARNING SWITCH - BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+Wire Harness Side Connector Front View:
+table below.
+Standard resistance
+E22
+Unlock Warning Switch Assembly Tester Connection Condition Specified Condition
+E22-2 - Body ground Always Below 1 Ω DL
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+B139172E01

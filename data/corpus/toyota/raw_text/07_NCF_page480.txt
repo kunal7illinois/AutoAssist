@@ -1,0 +1,32 @@
+BE-146 BODY ELECTRICAL - SRS AIRBAG SYSTEM
+(cid:3)AIRBAG FOR SIDE/REAR OF SIDE COLLISION
+1. General
+(cid:1) With the airbag for side collisions, if the side & curtain shield airbag sensor detects an impact, the airbag
+sensor assembly causes the front side and curtain shield airbags to be deployed simultaneously.
+(cid:1) With the airbag for rear of side collisions, if the curtain shield airbag sensor detects an impact, the airbag
+sensor assembly causes the curtain shield airbag to be deployed.
+(cid:1) System Operation (cid:2)
+Collision Impact
+Side & Curtain
+Shield Airbag Sensor
+Side Airbag
+CAN (CAN No.1 Bus)
+Combination Meter Airbag Sensor
+(cid:1) SRS Warning Light Assembly Curtain Shield Airbag
+Fuel Cut
+Signal
+ECM
+025BE113TE
+Airbags for Side Collision
+Collision Impact
+Curtain Shield
+Airbag Sensor
+Curtain Shield Airbag
+CAN (CAN No.1 Bus)
+Combination Meter Airbag Sensor
+(cid:1) SRS Warning Light Assembly
+Fuel Cut
+Signal
+ECM
+025BE114TE
+Airbag for Rear of Side Collision

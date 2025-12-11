@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+13. Clear the DTC with the HDS.
+14. Test-drive the vehicle with the shift lever in D, and let the transmission shift
+through all five gears, then slow down to a stop. Shift to R, and drive the
+vehicle for at least 2 seconds.
+15. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 14, then go
+to step 16.
+16. Check for DTCs with the HDS.
+Is DTC P0746 indicated?
+YES -Go to step 9.
+NO -Go to step 17.
+17. Monitor the OBD STATUS for P0746 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+16, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, go to step 9. If the HDS indicates NOT
+COMPLETED, go to step 14.
+DTC P0747: A/T Clutch Pressure Control Solenoid Valve A Stuck ON
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+1. Warm up the engine to normal operating temperature (the radiator fan comes
+on).
+2. Make sure that the transmission is filled to the proper level, and check for fluid
+leaks.
+3. Drain the ATF (see step 3 ) through a strainer. Inspect the strainer for metal

@@ -1,0 +1,69 @@
+RS–249
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+Terminal No. (Symbols) Wiring Color Terminal Description Condition Specification
+Ignition switch on (IG), a
+Rear occupant
+load is applied to rear
+T11-9 (SIG3) - T11-3 (SGD3) Y - W classification sensor LH 0.2 to 4.9 V
+occupant classification
+signal line
+sensor LH
+Ignition switch on (IG), a
+Rear occupant
+load is applied to rear
+T11-10 (SIG4) - T11-4 (SGD4) B - BR classification sensor RH 0.2 to 4.9 V
+occupant classification
+signal line
+sensor RH
+Ignition switch on (IG), a
+Front occupant
+load is applied to front
+T11-11 (SVC1) - T11-1 (SGD1) R - G classification sensor LH 4.5 to 5.1 V
+occupant classification
+power supply line
+sensor LH
+Ignition switch on (IG), a
+Front occupant
+load is applied to front
+T11-12 (SVC2) - T11-2 (SGD2) W - O classification sensor RH 4.5 to 5.1 V
+occupant classification
+power supply line
+sensor RH
+2. OCCUPANT CLASSIFICATION ECU (for Manual seat)
+d1 O4
+6 54 3 2 1 6 54 3 2 1
+1211109 8 7 1211109 8 7
+C C110373E12
+Terminal
+Terminal No. (Symbols) Wiring Color Condition Specification
+Description RS
+O4-1 (+B) - O4-3 (GND) LG - W-B Battery Always 10 to 14 V
+O4-2 (DIA) - O4-3 (GND) O - W-B Diagnosis (DLC3) Ignition switch on (IG) Pulse generation
+O4-3 (GND) - Body ground W-B - Body ground Ground Always Below 1 V
+Center airbag sensor
+O4-4 (FSR-) - O4-3 (GND) B - W assembly Always Below 1 V
+communication line (-)
+Passenger side
+O4-5 (BGND) - O4-3 (GND) GR - W-B buckle switch ground Always Below 1 V
+line
+Power source (ECU-B
+O4-7 (IG) - O4-3 (GND) BR - W-B Ignition switch on (IG) 10 to 14 V
+Fuse)
+Center airbag sensor
+O4-8 (FSR+) - O4-4 (FSR-) W - B assembly Ignition switch on (IG) Pulse generation
+communication line
+Passenger side
+O4-9 (BSW) - O4-5 (BGND) P - GR Always Below 1 V
+buckle switch line
+Front occupant
+d1-1 (SGD1) - O4-3 (GND) G - W-B classification sensor Always Below 1 V
+LH ground line
+Front occupant
+d1-2 (SGD2) - O4-3 (GND) O - W-B classification sensor Always Below 1 V
+RH ground line
+Rear occupant
+d1-3 (SGD3) - O4-3 (GND) W - W-B classification sensor Always Below 1 V
+LH ground line
+Rear occupant
+d1-4 (SGD4) - O4-3 (GND) BR - W-B classification sensor Always Below 1 V
+RH ground line

@@ -1,0 +1,32 @@
+54B-256 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 4. Check at ETACS-ECU connector C-118 in order to
+check the ground circuit to the seat belt warning light.
+(1) Disconnect ETACS-ECU connector C-118, and measure at
+CONNECTOR: C-118
+the wiring harness side.
+DEVICE SIDE
+(2) Turn the ignition switch to the "ON" position.
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+(3) Connect terminal 73 to ground.
+Q:Does the seat belt warning light illuminate?
+YES : Replace the ETACS-ECU. Check that the seat belt
+warning light illuminates normally.
+59 58 57565554535251
+CONNECTOR C-118 NO : Go to Step 5.
+68 67 66656463626160
+(HARNESS SIDE)
+74 73 72 717069
+AC101937AD
+STEP 5. Check the seat belt warning light bulb.
+Q:Is the seat belt warning light bulb in good condition?
+SEAT BELT WARNING LIGHT
+YES : Go to Step 6.
+NO : Replace the bulb. Check that the seat belt warning
+light illuminates normally.
+AC003655AB
+TSB Revision

@@ -1,0 +1,41 @@
+54B-508 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 6. Check the passenger’s door switch.
+Remove the passenger’s door switch. Then check the continu-
+CONNECTOR <ECLIPSE>: D-01
+ity between the switch terminal and the switch body.
+SWITCH POSITION TESTER SPECIFIED
+CONNECTIO CONDITION
+N
+Released 1 − 2 Less than 2 ohm
+Pressed 1 −2 Open circuit
+Q:Is the passenger’s door switch in good condition?
+AC106483AG
+YES : Go to Step 7.
+CONNECTOR <ECLIPSE SPYDER>: D-01 NO : Replace the passenger’s door switch. If the functions,
+which are described in "CIRCUIT OPERATION", work
+normally, the input signal from the passenger’s door
+switch should be normal.
+AC106485AH
+ON
+OFF
+1 2 3
+ACX01865AC
+STEP 7. Measure at the lower metal part of the passenger’s
+door switch in order to check the ground circuit to the
+passenger’s door switch.
+NOTE: Check that the passenger’s door switch is grounded to
+the vehicle body by means of its mounting screw.
+Remove the cap, and measure the resistance value between
+the lower metal part and the ground.
+• The measured value should be 2 ohm or less.
+METAL PART
+Q:Does the measured resistance value correspond with
+this range?
+YES : Go to Step 8.
+NO : Check the fit of the switch, and repair if necessary.6If
+the functions, which are described in "CIRCUIT
+OPERATION", work normally, the input signal from
+CUP
+ACX01600AB the passenger’s door switch should be normal.
+TSB Revision

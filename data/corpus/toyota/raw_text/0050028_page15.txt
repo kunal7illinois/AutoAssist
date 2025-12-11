@@ -1,0 +1,45 @@
+ES–150
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+13 PERFORM ACTIVE TEST USING INTELLIGENT TESTER (INJECTION VOLUME)
+Injection Volume
++12 %
+Malfunction -12 %
+A/F Sensor
+Output
+ES
+Normal
+3.3 V
+HO2 Sensor Output
+Malfunction
+1 V
+0 V
+A121606E02
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the tester ON.
+(c) Warm up the engine.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST / INJ VOL.
+(e) Change the fuel injection volume using the tester,
+monitoring the voltage output of Air-Fuel Ratio (A/F) and
+HO2 sensors displayed on the tester.
+HINT:
+• Change the fuel injection volume within the range of -12 %
+and +12 %. The injection volume can be changed in 1 %
+graduations within the range.
+• The A/F sensor is displayed as AFS B1 S1, and the HO2
+sensor is displayed as O2S B1 S2, on the intelligent tester.
+Result
+Tester Display (Sensor) Voltage Variations Proceed To
+Alternates between more and less than 3.3
+OK
+V
+AFS B1 S1 (A/F)
+Remains at more than 3.3 V NG
+Remains at less than 3.3 V NG
+HINT:
+A normal HO2 sensor voltage (O2S B1 S2) reacts in
+accordance with increases and decreases in fuel injection
+volumes. When the A/F sensor voltage remains at either
+less or more than 3.3 V despite the HO2 sensor indicating
+a normal reaction, the A/F sensor is malfunctioning.
+NG REPLACE AIR-FUEL RATIO SENSOR

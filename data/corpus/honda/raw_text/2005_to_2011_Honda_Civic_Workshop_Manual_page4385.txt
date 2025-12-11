@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+Fig. 53: Measuring Voltage Between YAW Rate-Lateral Acceleration
+Sensor 5P Connector Terminal And Body Ground
+Is there 0.1 V or less?
+YES -Replace the yaw rate-lateral acceleration sensor (see YAW RATE-
+LATERAL ACCELERATION SENSOR REPLACEMENT ).
+NO -Repair open in the wire between the yaw rate-lateral acceleration sensor
+and body ground (G602).
+DTC 107-22: CENTRAL PROCESSING UNIT (CPU) INTERNAL CIRCUIT MALFUNCTION
+1. Turn the ignition switch to LOCK (0) to cool the VSA modulator-control unit,
+and wait 1 hour or more.
+2. Turn the ignition switch ON (II).
+3. Clear the DTC with the HDS.
+4. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+5. Check for DTCs with the HDS.
+Is DTC 107-22 indicated?
+YES -Replace the VSA modulator-control unit (see VSA MODULATOR-
+CONTROL UNIT REMOVAL AND INSTALLATION ).
+NO -The system is OK at this time.
+DTC 108-21: STEERING ANGLE SENSOR MALFUNCTION

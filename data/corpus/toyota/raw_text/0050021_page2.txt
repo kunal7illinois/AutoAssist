@@ -1,0 +1,44 @@
+ES–110
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR STRATEGY
+P0111: Intake air temperature sensor rationality (After engine stop)
+Related DTCs P0111: Intake air temperature sensor rationality (After cold engine
+start)
+Required Sensors/Components (Main) Intake Air Temperature (IAT) sensor
+Required Sensors/Components (Sub) -
+Frequency of Operation Once per driving cycle
+Duration 5 hours or more
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+ES
+All:
+Monitor runs whenever following DTCs are not present None
+After engine stop:
+Time after engine start 10 seconds or more
+Battery voltage 10.5 V or more
+ECT sensor circuit OK
+ECT change since engine Less than 180°C (356°F)
+ECT before engine stop 70°C (158°F) or more
+Time that MAF is low before engine stop 70 minutes
+Accumulated MAF amount before engine stop 3,451 g or more
+Key-off duration 30 minutes
+After cold engine start:
+Key-off duration 5 hours
+Time after engine start 10 seconds or more
+ECT sensor circuit OK
+ECT 70°C (158°F) or more
+Accumulated MAF amount 3,451 g or more
+One of the following conditions 1 or 2 is met: -
+1. Duration while engine load is low 120 seconds or more
+2. Duration while engine load is high 10 seconds or more
+TYPICAL MALFUNCTION THRESHOLDS
+After engine stop:
+IAT change Less than 1°C (2°F)
+After cold engine start:
+IAT change Less than 1°C (2°F)
+WIRING DIAGRAM
+Refer to DTC P0110 (see page ES-88).
+INSPECTION PROCEDURE
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P0111)
+(a) Connect the intelligent tester to the DLC3.

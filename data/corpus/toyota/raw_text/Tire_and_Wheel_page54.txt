@@ -1,0 +1,44 @@
+TW–53
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+DTC C2165/65 Abnormal Temperature Inside ID1 Tire
+DTC C2166/66 Abnormal Temperature Inside ID2 Tire
+DTC C2167/67 Abnormal Temperature Inside ID3 Tire
+DTC C2168/68 Abnormal Temperature Inside ID4 Tire
+DTC C2169/69 Abnormal Temperature Inside ID5 Tire
+DESCRIPTION
+Each tire pressure warning valve and transmitter measures the internal temperature of its tire as well as
+tire pressure, and transmits the information to the tire pressure warning ECU along with the transmitter ID.
+If the measured temperature is out of the specified range, the tire pressure warning ECU recognizes it as TW
+a malfunction, outputs DTCs, and blinks the tire pressure warning light.
+DTC No. DTC Detecting Condition Trouble Area
+C2165/65
+C2166/66 • Tires
+Temperature inside the tire exceeds 119°C (246.2°F)
+C2167/67 • Tire pressure warning valve and transmitter
+more than once.
+C2168/68 • Tire pressure warning ECU
+C2169/69
+HINT:
+• It is necessary to perform the procedure to identify the tire pressure warning valve and transmitter that
+is malfunctioning because it cannot be identified by the output DTC.
+• DTC 2169/69 is used only when the vehicle is equipped with ground spare tire.
+INSPECTION PROCEDURE
+NOTICE:
+• When replacing the tire pressure warning ECU, read the IDs stored in the ECU using the
+intelligent tester and note them down before removal.
+• It is necessary to perform initialization (See page TW-18) after registration (See page TW-15) of
+the transmitter IDs into the tire pressure warning ECU after the ECU and/or valve and
+transmitter has been replaced.
+HINT:
+Set the tire pressure to the specified value.
+1 CHECK TIRES
+(a) Check the tire is not flat, and there is no indication of air
+pressure drop.
+OK:
+Tire is normal.
+HINT:
+If a tire is damaged, the tire pressure warning valve and
+transmitter may also have been damaged at the same
+time.
+NG REPLACE TIRE AND TIRE PRESSURE
+WARNING VALVE AND TRANSMITTER

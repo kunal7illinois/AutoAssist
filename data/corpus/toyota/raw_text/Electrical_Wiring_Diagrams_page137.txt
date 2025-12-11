@@ -1,0 +1,48 @@
+Engine Control for 2AZ–FE
+2. Control System
+∗ SFI system
+The SFI system monitors the engine condition through the signals input from each sensor to the engine control module.
+And the control signal is output to TERMINALS #10, #20, #30, #40 of the engine control module to operate the fuel
+injector (Inject the fuel). The SFI system controls the fuel injection operation by the engine control module in response to
+the driving conditions.
+∗ ESA system
+The ESA system monitors the engine condition through the signals input to the engine control module from each sensor.
+The best ignition timing is decided according to this data and the memorized data in the engine control module and the
+control signal is output to TERMINALS IGT1, IGT2, IGT3, IGT4. This signal controls the igniter to provide the best
+ignition timing for the driving conditions.
+∗ Heated oxygen sensor heater control system
+The heated oxygen sensor heater control system turns the heater on when the intake air volume is low (Temp. of
+exhaust emissions is low), and warms up the heated oxygen sensor to improve detection performance of the sensor.
+The engine control module evaluates the signals from each sensor, and outputs current to TERMINAL HT1B to control
+the heater.
+3. Diagnosis System
+With the diagnosis system, when there is a malfunction in the engine control module signal system, the malfunctioning
+system is recorded in the memory. The malfunctioning system can be found by reading the code displayed by the
+malfunction indicator lamp.
+4. Fail–Safe System
+When a malfunction has occurred in any system, if there is a possibility of engine trouble being caused by continued control
+based on the signals from that system, the fail–safe system either controls the system by using data (Standard values)
+recorded in the engine control module memory or else stops the engine.
+: Parts Location
+Code See Page Code See Page Code See Page
+A17 59 C7 54 (2AZ–FE) C32 55 (2AZ–FE)
+A19 59 C8 54 (2AZ–FE) C33 55 (2AZ–FE)
+A22 59 C9 54 (2AZ–FE) E10 56
+A24 A 52 (2AZ–FE) C10 54 (2AZ–FE) E15 56
+A25 C 52 (2AZ–FE) C11 54 (2AZ–FE) E23 56
+A26 A 52 (2AZ–FE) C12 54 (2AZ–FE) E40 B 57
+A40 A 59 C13 54 (2AZ–FE) E41 B 57
+A41 A 59 C14 54 (2AZ–FE) E42 A 57
+A42 B 59 C15 54 (2AZ–FE) E43 B 57
+A58 A 59 C17 54 (2AZ–FE) E62 G 57
+A60 B 53 (2AZ–FE) C18 B 54 (2AZ–FE) F1 A 58
+C1 B 54 (2AZ–FE) C20 55 (2AZ–FE) F2 B 58
+C2 54 (2AZ–FE) C22 55 (2AZ–FE) N10 60
+C4 54 (2AZ–FE) C24 B 55 (2AZ–FE) N17 60
+C5 54 (2AZ–FE) C30 55 (2AZ–FE)
+C6 54 (2AZ–FE) C31 55 (2AZ–FE)
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+136
+CAMRY (EM0250U)

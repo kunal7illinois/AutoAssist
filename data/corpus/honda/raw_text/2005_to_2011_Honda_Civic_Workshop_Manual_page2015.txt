@@ -1,0 +1,32 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+back-and-forth with the vehicle stopped, causes an increase of power consumption
+in the EPS motor. The increase of electric current causes the motor to heat up.
+Because this heat adversely affects the system, the control unit monitors the electric
+current of the motor.
+When the control unit detects heat build-up in the motor, it reduces the electric
+current to the motor gradually to protect the system, and it restricts the power assist
+operation. The EPS indicator does not come on during this function.
+When steering torque is not applied to the steering wheel, or when the ignition is
+turned off and the motor cools, the control unit will restore the power assist
+gradually until it's fully restored (after about 8 minutes).
+TORQUE SENSOR NEUTRAL POSITION
+The EPS control unit stores the torque sensor neutral position in the EEPROM. The
+torque sensor neutral position must be memorized whenever the gearbox, the motor,
+or the EPS control unit is replaced.
+NOTE: The torque sensor neutral position is not effected when
+erasing the DTCs.
+HOW TO TROUBLESHOOT DTCS
+The troubleshooting procedures assume that the cause of the problem is still present
+and the EPS indicator is still on. Following the procedure when the EPS indicator
+does not come on can result in incorrect diagnosis.
+1. Question the customer about the conditions when the problem occured, and try
+to reproduce the same conditions for troubleshooting. Find out when the EPS
+indicator came on, such as during EPS control, after EPS control, when the
+vehicle was at a certain speed, etc.
+2. When the EPS indicator does not come on during the test-drive, but
+troubleshooting is done based on the DTC, check for loose connectors, poor
+terminal contact, etc., in the affected circuit before you start troubleshooting.
+3. After troubleshooting, clear the DTC and test-drive the vehicle. Be sure the
+EPS indicator does not come on.

@@ -1,0 +1,10 @@
+NS–156
+NAVIGATION – NAVIGATION SYSTEM
+Steering Pad Switch Circuit
+DESCRIPTION
+This circuit sends an operation signal from the steering pad switch to the radio and navigation assembly.
+If there is an open in the circuit, the navigation system cannot be operated using the steering pad switch.
+If there is a short in the circuit, the resulting condition is the same as if the switch were continuously
+depressed. Therefore, the radio and navigation assembly cannot be operated using the steering pad
+switch, and the radio and navigation assembly itself cannot function.
+NS

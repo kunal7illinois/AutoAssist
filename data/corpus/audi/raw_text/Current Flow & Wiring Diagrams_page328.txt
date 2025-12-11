@@ -1,0 +1,48 @@
+Audi TT No. 42 / 8
+Current Flow Diagram
+Engine control unit
+E45 Cruise control system switch
+J527 Steering column electronics control unit
+J533 Data bus diagnostic interface
+J623 Engine control unit
+J743 Mechatronic unit for dual clutch gearbox
+T20c 20-pin connector, black, connector A, on steering column
+electronics control unit
+T20d 20-pin connector, black, on data bus diagnostic interface
+T20e 20-pin connector, on mechatronic unit for dual clutch gearbox
+T60 60-pin connector, on engine control unit
+T94 94-pin connector, on engine control unit
+B351 Positive connection 2 (87a), in main wiring harness
+B383 Connection 1 (drive train CAN bus, high), in main wiring harness
+B390 Connection 1 (drive train CAN bus, low), in main wiring harness
+• CAN bus (data wire)
+J623
+* models with direct shift gearbox 02E
+** models with cruise control system
+T94/3 T94/5 T94/6 T60/15 T94/45 T94/64 T94/65 T94/67 T94/68
+✱✱ • •
+2,5 2,5 2,5 1,0 0,5 0,35 0,35 0,35 0,35
+ro/gn ro/gn ro/gn sw/br ro/sw sw/ws bl/ws or/br or/sw
+B351 4466 3399 1188 B390 B383
+✱ ✱
+• • • • • •
+2,5 0,35 0,35 0,35 0,35 0,35 0,35
+ro/gn or/br or/br or/br or/sw or/sw or/sw
+5533 T20c/13 T20d T20e T20d T20e
+J527 /6 /15 /16 /10
+E45
+J533 J743 J533 J743
+✱✱
+227744 227766 ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+85 86 87 88 89 90 91 92 93 94 95 96 97 98 or = orange
+8J0-042080409
+rs = pink
+Edition 09.2009

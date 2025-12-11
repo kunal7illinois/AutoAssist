@@ -1,0 +1,24 @@
+BC–298
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+Symptom Suspected area See page
+1. Check for the DTC again and make sure that the normal BC-302
+system code is output.
+2. TC and CG terminal circuit BC-418
+VSC sensor DTC check cannot be done
+3. If the symptoms still occur even after the above circuits in BC-432
+suspected areas have been inspected and proved to be
+normal, replace the brake actuator assembly (skid control
+ECU).
+1. TS and CG terminal circuit BC-421
+Sensor signal check cannot be done
+2. Brake actuator assembly (skid control ECU) BC-432
+ABS warning light abnormal (Remains on) ABS warning light circuit BC-380
+ABS warning light abnormal (Does not come on) ABS warning light circuit BC-385
+VSC warning light abnormal (Remains on) VSC warning light circuit BC-388
+VSC warning light abnormal (Does not come on) VSC warning light circuit BC-392
+Brake warning light abnormal (Remains on) Brake warning light circuit BC-395
+Brake warning light abnormal (Does not come on) Brake warning light circuit BC-404
+SLIP indicator light abnormal (Remains on) SLIP indicator light circuit BC-408
+SLIP indicator light abnormal (Does not come on) SLIP indicator light circuit BC-412
+BC
+Skid control buzzer abnormal Skid control buzzer circuit BC-415

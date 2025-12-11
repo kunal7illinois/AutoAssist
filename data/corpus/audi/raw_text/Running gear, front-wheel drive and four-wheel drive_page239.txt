@@ -1,0 +1,55 @@
+Audi TT 2007 ➤
+Running gear, front-wheel drive and four-wheel drive - Edition 08.2010
+2 Tyre monitor display (TMD+)
+⇒ „2.1 General notes:“, page 233
+⇒ „2.2 Removing and installing tyre pressure monitoring control
+unit 2 J793 “, page 233
+2.1 General notes:
+The tyre monitor display is a system designed to detect gradual
+or very slow losses of tyre pressure at one wheel. Using the sig‐
+nals from the ABS sensors, the TMD+ compares the wheel
+speeds and thus the rolling circumference of the individual
+wheels. The tyre monitor display in the instrument cluster lights
+up and an acoustic warning is given if the rolling circumference
+of one of the wheels changes. On vehicles with central display in
+the instrument cluster, the display also indicates which tyre is af‐
+fected.
+The control unit must be re-coded if a vehicle equipped with run-
+flat tyres (SST) is subsequently fitted with conventional tyres, or
+vice versa.
+The rolling circumference of the wheels can change due to the
+following circumstances:
+♦ If the tyre pressure is too low.
+♦ If the tyre is damaged.
+♦ If the vehicle is loaded unevenly.
+♦ If the wheels of one axle are subjected to a greater load (e.g.
+when pulling a trailer or when driving uphill and downhill).
+♦ When driving with the temporary spare wheel.
+♦ If one wheel per axle was changed. (Also if the wheels were
+changed from front to rear or vice versa.)
+System fault in the TMD+ system
+A system fault is stored in the fault memory of the tyre pressure
+monitoring control unit 2 -J793- ; the yellow TMD+ warning lamp
+in the instrument cluster will then light up continuously. The TMD
++ warning lamp cannot be switched off by pressing the TMD+
+button. If a system fault has been detected, connect -VAS 5051-
+and select „Guided Fault Finding“ ⇒ Vehicle diagnostic, testing
+and information system VAS 5051.
+Performing calibration: (re-adaption of tyre pressure)
+After any change affecting the wheels, the tyre pressure monitor
+button in the centre console must be pressed and held (with the
+vehicle stationary and the ignition on) until the TMD+ lamp in the
+instrument cluster flashes several times. The successful calibra‐
+tion (i.e. the re-adaption of the tyre pressures) is confirmed when
+the warning lamp flashes several times.
+2.2 Removing and installing tyre pressure
+monitoring control unit 2 -J793-
+Removing
+The tyre pressure monitoring control unit 2 -J793- is located be‐
+hind the instrument cluster.
+Before removing the control unit, read out the coding via Guided
+Fault Finding using the function „Replace control unit“.
+– Remove instrument cluster (dash panel insert.) ⇒ Rep. gr.
+90 .
+233
+2. Tyre monitor display (TMD+)

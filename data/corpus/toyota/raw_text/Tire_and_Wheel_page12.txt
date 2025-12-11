@@ -1,0 +1,52 @@
+TW–12
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+• A radio device of similar frequency is used in the
+vehicle.
+• A large amount of snow or ice is stuck to the
+vehicle, especially onto the wheels and around
+the wheel houses.
+• The battery of the sensor has been depleted.
+• The tires without tire pressure warning valve and
+transmitter are used.
+• Tire chains are used.
+• When the ground spare tire is not within the
+receivable range of the electric wave, a signal
+may not be received because the ground spare
+tire is fixed. Accordingly, the system may not
+function properly. If there is a possibility that the
+tire pressure warning system does not receive a
+signal from the grounde spare tire, rotate the tire
+TW 90°.
+• If any wheels other than the specified ones are
+used, the system may not function properly
+because interference may prevent the radio
+waves from being correctly transmitted from the
+tire pressure sensor.
+• Depending on the tire type, the system may not
+function properly even though the specified
+wheels are used.
+(c) The average usage life of the grommet of the tire
+pressure warning valve and transmitter is
+approximately 5 years, at which time it must be
+replaced.
+Re-tighten the valve nut if the valve is leaking air,
+although it is less than 5 years old and there is no
+problem with grommets.
+(d) After removing and installing the ECU or a sensor,
+check for a diagnostic code and verify that it is a
+normal code.
+3. FUNCTION OF COMPONENTS
+Components Function
+Combined as a single unit with a disc wheel air valve, it measures tire pressure and
+Tire pressure warning valve and transmitter temperature and transmits an ID number for measurement value and identification.
+Built-in the battery.
+Receives and transmits a necessary signal from the transmitter to the tire pressure
+Tire pressure warning antenna and receiver
+warning ECU.
+Receives the signal from the receiver and identifies it as vehicle's own signal. If the
+Tire pressure warning ECU measured value is equal to or lower than the specified value, it transmits a signal so
+that the air pressure warning light on the combination meter comes on.
+Located in the combination meter, it informs the driver of lowered tire air pressure
+Tire pressure warning light
+and system failure.
+Tire pressure warning reset switch Enters the initialization mode for tire or wheel replacement.

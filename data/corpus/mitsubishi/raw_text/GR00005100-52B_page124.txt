@@ -1,0 +1,24 @@
+52B-124 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+DTC 92: Left Hand Side-Impact Sensor System for Fault 1
+DTC 95: Right Hand Side-Impact Sensor System for Fault 1
+DTC SET CONDITIONS • Analog G-sensor output is abnormal.
+• These DTC are set if the following are detected
+TROUBLESHOOTING HINTS
+from the analog G-sensor output.
+• Malfunction of side impact sensor <LH> (for DTC
+• Analog G-sensor is not operating.
+92) and side impact sensor <RH> (for DTC 95)
+• Analog G-sensor characteristics are abnor-
+mal.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-ll)
+STEP 1. Check for DTC.
+Replace side impact sensor <LH> (for DTC 92) and side impact
+sensor <RH> (for DTC 95). Refer to P.52B-153.
+Q:Is any of DTC 92 or 95 output?
+YES : Replace the SRS-ECU. Refer to P.52B-142.
+NO : This diagnosis is complete.
+TSB Revision

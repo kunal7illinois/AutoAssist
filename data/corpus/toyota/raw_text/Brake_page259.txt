@@ -1,0 +1,28 @@
+BC–253
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+7 CHECK HARNESS AND CONNECTOR (MAIN BODY ECU - PARKING BRAKE SWITCH)
+(a) Disconnect the main body ECU connector.
+Main Body ECU Harness Side (b) Measure the resistance according to the value(s) in the
+Connector Front View table below.
+Standard resistance:
+A/T
+A/T:
+Tester Connection Condition Specified Condition
+IC-14 (PKB) - A18-1 Always Below 1 Ω
+IC-14 (PKB) - Body ground Always 10 kΩ or higher
+IC
+M/T
+Tester Connection Condition Specified Condition
+IM-2 (PKB) - E33-1 Always Below 1 Ω
+IM-2 (PKB) - Body ground Always 10 kΩ or higher
+M/T:
+BC
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+IM
+Parking Brake Switch Harness Side
+Connector Front View:
+A18 : A/T
+E33 : M/T
+C136418E01
+OK

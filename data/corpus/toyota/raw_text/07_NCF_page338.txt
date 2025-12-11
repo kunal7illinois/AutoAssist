@@ -1,0 +1,40 @@
+BE-4 BODY ELECTRICAL - MULTIPLEX COMMUNICATION
+BODY ELECTRICAL
+MULTIPLEX COMMUNICATION
+(cid:4)DESCRIPTION
+(cid:3) The multiplex communication system of the ’07 Camry uses the 2 communication protocols described
+below in order to achieve a streamlined wiring harness configuration.
+- CAN (Controller Area Network): Classified into two types according to communication speed, the HS
+(High Speed)-CAN is used for the power train, chassis and body electrical systems, and the MS
+(Medium Speed)-CAN is used for the body electrical system.
+- AVC-LAN (Audio Visual Communication - Local Area Network): Used for communication only
+between the audio-visual systems.
+(cid:3) The HS-CAN consists of the CAN No.1 bus and the MS-CAN consists of the MS bus. The main body ECU
+with gateway function is used to transmit data between the buses.
+(cid:3) Due to the introduction of the CAN system for the power train, chassis and body electrical systems, the
+BEAN (Body Electronics Area Network) that is used for the body electrical system on some conventional
+models is not used on this model.
+(cid:3) A customized body electronics system is used, enabling the control functions of the ECUs to be set using
+a hand-held tester. For details, see page BE-13.
+(cid:1) System Diagram (cid:2)
+Skid
+ECM A/C ECU Meter ECU
+Control ECU
+DLC3
+Main CAN No.1 Bus
+Body
+ECU Yaw Rate & Airbag Sensor Steering Option
+Deceleration Sensor*1 Assembly Angle Sensor*1 Connector*2
+MS Bus
+Certification
+ECU*1
+Audio
+Stereo
+Head Amplifier*1
+: CAN
+Unit
+: AVC-LAN
+025BE01P
+*1:Optional equipment
+*2:The option connector is provided for connecting the bus buffer, which is designed for use with dealer
+option parts, to the CAN No.1 bus. When no dealer option parts are installed, it is not used.

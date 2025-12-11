@@ -1,0 +1,35 @@
+BE-82 BODY ELECTRICAL - DOOR LOCK CONTROL SYSTEM
+(cid:1) System Diagram (cid:2)
+Courtesy Switch
+Driver
+Door Lock Assembly
+(Driver)
+(cid:3) Door Lock Motor
+(cid:3) Door Position Switch
+Front Passenger
+Door Lock Assembly
+(Front Passenger)
+(cid:3) Door Lock Motor
+(cid:3) Door Position Switch
+Rear RH Door Lock Assembly
+(Rear LH)
+(cid:3) Door Lock Motor
+(cid:3) Door Position Switch
+Rear LH Main Body Door Lock Assembly
+(Rear RH)
+ECU
+(cid:3) Door Lock Motor
+(cid:3) Door Position Switch
+Key Unlock *
+Warning Switch* Driver Side Key-linked
+Door Lock Position
+Switch
+Front Passenger Side
+Key-linked Door Lock
+Position Switch
+Driver Side
+Manual Door Lock Switch
+Front Passenger Side
+Manual Door Lock Switch
+025BE78TE
+*: Models without smart key system

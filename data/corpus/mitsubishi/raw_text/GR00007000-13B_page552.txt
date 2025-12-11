@@ -1,0 +1,44 @@
+13B-552 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Check the right bank injector.
+(1) Remove the intake manifold.
+CONNECTORS : B-01, B-05, B-26
+(2) Disconnect the right bank injector connector, which
+deviates from the standard value at Step 9.
+B-05 B-26
+B-01
+AK000210AB
+(3) Measure the resistance between injector side connector
+INJECTOR SIDE terminals 1 and 2.
+CONNECTOR Standard value: 13 − 16 ohm [at 20°C (68°F)]
+Q:Is the resistance standard value?
+1 2
+YES : Go to Step 11.
+NO : Replace the injector. Then confirm that the
+malfunction symptom is eliminated.
+AK000559AB
+STEP 11. Check connector B-01 or B-05 or B-26 at right
+bank injector for damage.
+(1) Check the injector connector, which deviates from the
+CONNECTORS : B-01, B-05, B-26
+standard value at Step 9.
+Q:Is the connector in good condition?
+B-05 B-26
+YES : Repair harness wire between injector intermediate
+connector and right bank injector connector because
+of harness damage. Then confirm that the
+malfunction symptom is eliminated.
+B-01 NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK000210AB
+STEP 12. Check connector B-48 at injector intermediate
+connector for damage.
+Q:Is the connector in good condition?
+CONNECTOR:B-48
+YES : Go to Step 13.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK000209AC
+TSB Revision

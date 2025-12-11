@@ -1,0 +1,485 @@
+PS C:\Users\Kunal\Documents\CS 410 Project\autoassist\src> python .\evaluate.py
+
+AutoAssist Manual Evaluation (Interactive Mode — P@5)
+-----------------------------------------------------
+For each query, top-5 results are shown AND opened.
+Mark which ones are relevant (e.g., '1 4 5') or 'none'.
+
+
+=============================================
+QUERY: Mitsubishi Eclipse idle speed adjustment and idle mixture inspection procedure
+=============================================
+
+Opening all PDFs for inspection...
+
+---- Result 1 ----
+doc_id:   mitsubishi_GR00007000-13B.pdf_p1_132064
+Manual:   GR00007000-13B.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     1
+Excerpt:  . . . . . . . . 13B-3 BASIC IDLE SPEED ADJUSTMENT .
+
+---- Result 2 ----
+doc_id:   mitsubishi_GR00006800-13A.pdf_p462_128854
+Manual:   GR00006800-13A.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     462
+Excerpt:  INSPECTION PROCEDURE 9: Idle speed is high (improper idle speed).
+
+---- Result 3 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p3121_86398
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     3121
+Excerpt:  6. Check the idle speed (see IDLE SPEED INSPECTION ).
+
+---- Result 4 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p3133_86491
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     3133
+Excerpt:  6. Check the idle speed (see IDLE SPEED INSPECTION ).
+
+---- Result 5 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p2181_77920
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     2181
+Excerpt:  62. Inspect the idle speed (see IDLE SPEED INSPECTION ).
+
+Which results are relevant? ('1 2 5', or 'none'): 1 2
+
+Precision@5: 0.400
+Recall@5:    1.000
+F1@5:        0.571
+
+=============================================
+QUERY: Mitsubishi Eclipse EVAP system inspection for fuel vapor leakage and fuel smell
+=============================================
+
+Opening all PDFs for inspection...
+
+---- Result 1 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p2441_80294
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     2441
+Excerpt:  Replace the EVAP canister purge valve (see EVAP CANISTER PURGE VALVE REPLACEMENT ).
+
+---- Result 2 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p2465_80607
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     2465
+Excerpt:  5. Replace the EVAP canister purge valve (see EVAP CANISTER PURGE VALVE REPLACEMENT ).
+
+---- Result 3 ----
+doc_id:   mitsubishi_GR00001200-17.pdf_p97_109490
+Manual:   GR00001200-17.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     97
+Excerpt:  idle, for example), the engine control module brings Fuel vapors from the fuel tank flow through the vapor the EVAP purge solenoid into the OFF state to shut pipe/hose to be stored temporarily in the evaporative off the fuel vapor flow to the intake manifold plenum.
+
+---- Result 4 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p2486_80846
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     2486
+Excerpt:  Remove the EVAP canister purge valve (C).
+
+---- Result 5 ----
+doc_id:   audi_Generic_Scan_Tool.pdf_p6_53538
+Manual:   Generic_Scan_Tool.pdf
+Make:     audi  |  Model: mk2
+Page:     6
+Excerpt:  Testing of the EVAP and ORVR systems can result in the es‐ cape of explosive fuel vapor.
+
+Which results are relevant? ('1 2 5', or 'none'): 2 3
+
+Precision@5: 0.400
+Recall@5:    1.000
+F1@5:        0.571
+
+=============================================
+QUERY: Toyota Camry drive shaft noise or vibration while turning or accelerating
+=============================================
+
+Opening all PDFs for inspection...
+
+---- Result 1 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p1276_71367
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     1276
+Excerpt:  Axle Shaft Noise
+
+---- Result 2 ----
+doc_id:   toyota_U660E_Automatic_Transaxle.pdf_p14_213341
+Manual:   U660E_Automatic_Transaxle.pdf
+Make:     toyota  |  Model: camry
+Page:     14
+Excerpt:  (3) Check for abnormal noise and vibration.
+
+---- Result 3 ----
+doc_id:   mitsubishi_GR00004100-22A.pdf_p7_116978
+Manual:   GR00004100-22A.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     7
+Excerpt:  Q:Is the noise or vibration still there? YES : Return to Step 1.
+
+---- Result 4 ----
+doc_id:   toyota_07_Collision.pdf_p1_163008
+Manual:   07_Collision.pdf
+Make:     toyota  |  Model: camry
+Page:     1
+Excerpt:  For the repair procedures and specifications other than collision- damaged body components of the TOYOTA CAMRY refer to the repair manuals.
+
+---- Result 5 ----
+doc_id:   toyota_Drive_Shaft.pdf_p31_192624
+Manual:   Drive_Shaft.pdf
+Make:     toyota  |  Model: camry
+Page:     31
+Excerpt:  DS–31 DRIVE SHAFT – FRONT DRIVE SHAFT (for TMMK Made) 5.
+
+Which results are relevant? ('1 2 5', or 'none'): 1 2 3 5
+
+Precision@5: 0.800
+Recall@5:    1.000
+F1@5:        0.889
+
+=============================================
+QUERY: Toyota Camry SRS airbag system warning light on — need airbag precaution and connector diagrams
+=============================================
+
+Opening all PDFs for inspection...
+
+---- Result 1 ----
+doc_id:   audi_Body_Collision_Repair.pdf_p3_28746
+Manual:   Body_Collision_Repair.pdf
+Make:     audi  |  Model: mk2
+Page:     3
+Excerpt:  . . . . . . . . . . . . . 2 1.7 Airbag System .
+
+---- Result 2 ----
+doc_id:   audi_General_Body_Repairs.pdf_p3_50301
+Manual:   General Body Repairs.pdf
+Make:     audi  |  Model: mk2
+Page:     3
+Excerpt:  . . . . . . . . . . . . . . . 5 2.8 Airbag system .
+
+---- Result 3 ----
+doc_id:   subaru_2012-brz-wiring-diagrams.pdf_p233_155719
+Manual:   2012-brz-wiring-diagrams.pdf
+Make:     subaru  |  Model: brz
+Page:     233
+Excerpt:  *Driver’s Airbag Module *Passenger’s Airbag Module *Side airbag Module *Curtain Airbag Module *Pretensioner *Airbag Control Module *Front Sub Sensor *Side Airbag Sensor *Curtain Airbag Sensor *Front Door Impact Sensor 233 BRZ (G4400BE)
+
+---- Result 4 ----
+doc_id:   toyota_07_NCF.pdf_p474_166912
+Manual:   07_NCF.pdf
+Make:     toyota  |  Model: camry
+Page:     474
+Excerpt:  BE-140 BODY ELECTRICAL - SRS AIRBAG SYSTEM (cid:2)LAYOUT OF MAIN COMPONENTS Front Airbag Sensor Front Passenger Indicator (cid:1) AIRBAG ON/OFF Indicator Light Front Passenger Airbag Airbag Sensor Assembly Driver Airbag Front Passenger Side Airbag DLC3 Knee Airbag Seat Belt Buckle Switch Driver Side...
+
+---- Result 5 ----
+doc_id:   toyota_07_Collision.pdf_p12_163119
+Manual:   07_Collision.pdf
+Make:     toyota  |  Model: camry
+Page:     12
+Excerpt:  IN-10 INTRODUCTION DAMAGED VEHICLE DISPOSAL PRECAUTION (SRS AIRBAG SYSTEM) For SRS airbag system adjustment methods, refer to the TOYOTA Repair Manual.
+
+Which results are relevant? ('1 2 5', or 'none'): 3 4 5
+
+Precision@5: 0.600
+Recall@5:    1.000
+F1@5:        0.750
+
+=============================================
+QUERY: Honda Civic no-start condition — check starter circuit, ignition switch, and battery
+=============================================
+
+Opening all PDFs for inspection...
+
+---- Result 1 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p4200_95708
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     4200
+Excerpt:  3. Check the starter (see STARTER CIRCUIT TROUBLESHOOTING ).
+
+---- Result 2 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p4202_95735
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     4202
+Excerpt:  3. Check the starter, refer to the STARTER CIRCUIT TROUBLESHOOTING .
+
+---- Result 3 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p4176_95481
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     4176
+Excerpt:  Engine does not 3. Check the starter (see STARTER CIRCUIT Poor start (does not TROUBLESHOOTING ).
+
+---- Result 4 ----
+doc_id:   mitsubishi_GR00000400-54A.pdf_p240_106511
+Manual:   GR00000400-54A.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     240
+Excerpt:  TECHNICAL DESCRIPTION (COMMENT) CIRCUIT OPERATION The ground circuit, the battery circuit, the ignition The multi-center display is energized by the battery switch (ACC) circuit or the ignition switch (IG1) circuit through the ignition switch (ACC) and (IG1).
+
+---- Result 5 ----
+doc_id:   mitsubishi_GR00001600-16.pdf_p23_109675
+Manual:   GR00001600-16.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     23
+Excerpt:  • Check the starter (coil). • Check for poor contact at the battery terminals and starter.
+
+Which results are relevant? ('1 2 5', or 'none'): 1 2 3 5
+
+Precision@5: 0.800
+Recall@5:    1.000
+F1@5:        0.889
+
+=============================================
+QUERY: Audi TT diagnostic scan tool cannot communicate with vehicle modules — CAN bus inspection
+=============================================
+
+Opening all PDFs for inspection...
+
+---- Result 1 ----
+doc_id:   mitsubishi_GR00005100-52B.pdf_p131_120340
+Manual:   GR00005100-52B.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     131
+Excerpt:  Q:Can the scan tool communicate with the other systems?
+
+---- Result 2 ----
+doc_id:   mitsubishi_GR00005100-52B.pdf_p131_120339
+Manual:   GR00005100-52B.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     131
+Excerpt:  Check that the scan tool can communicate with the other systems.
+
+---- Result 3 ----
+doc_id:   mitsubishi_GR00004900-35B.pdf_p31_119294
+Manual:   GR00004900-35B.pdf♪◙Make:     mitsubishi  |  Model: eclipse
+Page:     31
+Excerpt:  Q:Does the scan tool communicate with the ABS system?
+
+---- Result 4 ----
+doc_id:   mitsubishi_GR00005000-35C.pdf_p15_119681
+Manual:   GR00005000-35C.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     15
+Excerpt:  Check symptom. Q:Does the scan tool communicate with the TCL system?
+
+---- Result 5 ----
+doc_id:   mitsubishi_GR00005100-52B.pdf_p135_120389
+Manual:   GR00005100-52B.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     135
+Excerpt:  Check symptoms. Q:Does the scan tool communicate normally with the SRS system?
+
+Which results are relevant? ('1 2 5', or 'none'): 2
+
+Precision@5: 0.200
+Recall@5:    1.000
+F1@5:        0.333
+
+=============================================
+QUERY: engine hesitation or stumble during light acceleration, feels like misfire or poor fuel delivery
+=============================================
+
+Opening all PDFs for inspection...
+
+---- Result 1 ----
+doc_id:   audi_Fuel_supply_system,_petrol_engines.pdf_p36_43221
+Manual:   Fuel supply system, petrol engines.pdf
+Make:     audi  |  Model: mk2
+Page:     36
+Excerpt:  – Insert fuel delivery unit into fuel tank.
+
+---- Result 2 ----
+doc_id:   audi_Fuel_supply_system,_diesel_engines.pdf_p22_42359
+Manual:   Fuel supply system, diesel engines.pdf
+Make:     audi  |  Model: mk2
+Page:     22
+Excerpt:  Renew fuel delivery unit. – Install fuel delivery unit ⇒ page 20 .
+
+---- Result 3 ----
+doc_id:   audi_Fuel_supply_system,_diesel_engines.pdf_p38_42610
+Manual:   Fuel supply system, diesel engines.pdf
+Make:     audi  |  Model: mk2
+Page:     38
+Excerpt:  – Detach fuel supply pipe -2- from fuel delivery unit.
+
+---- Result 4 ----
+doc_id:   audi_Fuel_supply_system,_diesel_engines.pdf_p24_42384
+Manual:   Fuel supply system, diesel engines.pdf
+Make:     audi  |  Model: mk2
+Page:     24
+Excerpt:  – Detach fuel supply pipe -2- from fuel delivery unit.
+
+---- Result 5 ----
+doc_id:   audi_Fuel_supply_system,_petrol_engines.pdf_p36_43216
+Manual:   Fuel supply system, petrol engines.pdf
+Make:     audi  |  Model: mk2
+Page:     36
+Excerpt:  – Pull fuel delivery unit with seal out of opening in fuel tank.
+
+Which results are relevant? ('1 2 5', or 'none'): 1 2 3 4 5
+
+Precision@5: 1.000
+Recall@5:    1.000
+F1@5:        1.000
+
+=============================================
+QUERY: air conditioning blows weak airflow and cabin does not cool properly
+=============================================
+
+Opening all PDFs for inspection...
+
+---- Result 1 ----
+doc_id:   mitsubishi_GR00006700-55.pdf_p5_123319
+Manual:   GR00006700-55.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     5
+Excerpt:  P.55-19 conditioning does not cool sufficiently.
+
+---- Result 2 ----
+doc_id:   audi_Body_Collision_Repair.pdf_p3_28743
+Manual:   Body_Collision_Repair.pdf
+Make:     audi  |  Model: mk2
+Page:     3
+Excerpt:  . . . . . . . 2 1.6 Air Conditioning . . .
+
+---- Result 3 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p4161_95436
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     4161
+Excerpt:  in.) AIR CONDITIONING
+
+---- Result 4 ----
+doc_id:   audi_Self-Study_Programme_391.pdf_p43_66074
+Manual:   Self-Study Programme 391.pdf
+Make:     audi  |  Model: mk2
+Page:     43
+Excerpt:  the air conditioning system is not required.
+
+---- Result 5 ----
+doc_id:   mitsubishi_GR00006700-55.pdf_p19_122974
+Manual:   GR00006700-55.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     19
+Excerpt:  INSPACTION PROCEDURE 8: When the Heater Control Knob is Set to the "MAX COOL" Position, the Air-Conditioning ◙
+Which results are relevant? ('1 2 5', or 'none'): 1 3 5
+
+Precision@5: 0.600
+Recall@5:    1.000
+F1@5:        0.750
+
+=============================================
+QUERY: transmission slipping when accelerating from a stop, RPM rises but vehicle is slow
+=============================================
+
+Opening all PDFs for inspection...
+
+---- Result 1 ----
+doc_id:   audi_General_Body_Repairs.pdf_p44_50670
+Manual:   General Body Repairs.pdf
+Make:     audi  |  Model: mk2
+Page:     44
+Excerpt:  – Hold injector when unfastening to stop it slipping.
+
+---- Result 2 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p3597_90258
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     3597
+Excerpt:  (cid:2) Any time you call Tech Line regarding a navigation system issue.
+
+---- Result 3 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p3597_90259
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     3597
+Excerpt:  (cid:2) To answer customer inquires concerning update or coverage issue.
+
+---- Result 4 ----
+doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p689_100959
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     689
+Excerpt:  When you accelerate, the transmission will then return to a higher gear.
+
+---- Result 5 ----♪◙doc_id:   honda_2005_to_2011_Honda_Civic_Workshop_Manual.pdf_p3635_90705
+Manual:   2005_to_2011_Honda_Civic_Workshop_Manual.pdf
+Make:     honda  |  Model: civic
+Page:     3635
+Excerpt:  Make sure you are on the correct screen when trying to issue a voice command.
+
+Which results are relevant? ('1 2 5', or 'none'): 4
+
+Precision@5: 0.200
+Recall@5:    1.000
+F1@5:        0.333
+
+=============================================
+QUERY: diagnostic scan tool cannot communicate with vehicle modules, no response from ECU
+=============================================
+
+Opening all PDFs for inspection...
+
+---- Result 1 ----
+doc_id:   mitsubishi_GR00005100-52B.pdf_p131_120340
+Manual:   GR00005100-52B.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     131
+Excerpt:  Q:Can the scan tool communicate with the other systems?
+
+---- Result 2 ----
+doc_id:   mitsubishi_GR00005100-52B.pdf_p131_120339
+Manual:   GR00005100-52B.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     131
+Excerpt:  Check that the scan tool can communicate with the other systems.
+
+---- Result 3 ----
+doc_id:   mitsubishi_GR00004900-35B.pdf_p31_119294
+Manual:   GR00004900-35B.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     31
+Excerpt:  Q:Does the scan tool communicate with the ABS system?
+
+---- Result 4 ----
+doc_id:   mitsubishi_GR00005000-35C.pdf_p15_119681
+Manual:   GR00005000-35C.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     15
+Excerpt:  Check symptom. Q:Does the scan tool communicate with the TCL system?
+
+---- Result 5 ----
+doc_id:   mitsubishi_GR00005100-52B.pdf_p135_120389
+Manual:   GR00005100-52B.pdf
+Make:     mitsubishi  |  Model: eclipse
+Page:     135
+Excerpt:  Check symptoms. Q:Does the scan tool communicate normally with the SRS system?
+
+Which results are relevant? ('1 2 5', or 'none'): 1 2 3 4 5
+
+Precision@5: 1.000
+Recall@5:    1.000
+F1@5:        1.000
+
+=====================================
+   Macro-Averaged Evaluation (k=5)
+=====================================
+Mean Precision@5: 0.600
+Mean Recall@5:    1.000
+Mean F1@5:        0.709
+
+Saved → human_judgments.json
+
+PS C:\Users\Kunal\Documents\CS 410 Project\autoassist\src>

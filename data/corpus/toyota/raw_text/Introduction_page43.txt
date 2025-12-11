@@ -1,0 +1,62 @@
+IN–43
+INTRODUCTION – HOW TO TROUBLESHOOT ECU CONTROLLED SYSTEMS
+(b) Check the resistance.
+Fig. 2
+(1) Disconnect connectors A and C and measure
+ECU the resistance between the terminals of the
+connectors.
+Standard resistance (Fig. 2)
+1 1 1
+2 2 2 Tester Connection Specified Condition IN
+Connector A terminal 1 - Connector 10 kΩ or higher
+SENSOR C B A C terminal 1
+Connector A terminal 2 - Connector Below 1 Ω
+Z017005E02 C terminal 2
+HINT:
+Measure the resistance while lightly shaking the
+wire harness vertically and horizontally. If the
+results match the examples above, an open
+circuit exists between terminal 1 of connector A
+and terminal 1 of connector C.
+(2) Disconnect connector B and measure the
+Fig. 3
+resistance between the terminals of the
+ECU
+connectors.
+SENSOR Standard resistance (Fig. 3)
+Tester Connection Specified Condition
+Connector A terminal 1 - Connector Below 1 Ω
+1 1 1 1 B1 terminal 1
+2 2 2 2 Connector B2 terminal 2 - Connector 10 kΩ or higher
+C terminal 2
+C B2 B1 A
+B004722E03
+If the results match the examples above, an
+open circuit exists between terminal 1 of
+connector B2 and terminal 1 of connector C.
+(c) Check the voltage.
+Fig. 4
+(1) In a circuit in which voltage is applied to the ECU
+connector terminal, an open circuit can be
+ECU
+checked by conducting a voltage check.
+5 V
+SENSOR 0 V With each connector still connected, measure
+1 5 V 1 1 the voltage between the body ground and these
+2 2 2 2 terminals (in this order): 1) terminal 1 of
+connector A, 2) terminal 1 of connector B, and 3)
+C B A
+terminal 1 of connector C.
+Standard voltage (Fig. 4)
+Z017007E02
+Tester Connection Specified Condition
+Connector A terminal 1 - Body 5 V
+ground
+Connector B terminal 1 - Body 5 V
+ground
+Connector C terminal 1 - Body Below 1 V
+ground
+If the results match the examples above, an
+open circuit exists in the wire harness between
+terminal 1 of connector B and terminal 1 of
+connector C.

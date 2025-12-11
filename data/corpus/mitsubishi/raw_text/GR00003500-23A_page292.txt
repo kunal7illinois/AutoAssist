@@ -1,0 +1,31 @@
+23A-292 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 2. Check the auto-cruise system.
+Check the auto-cruise system. Refer to GROUP 17, Auto-
+cruise Control System Diagnostic Troubleshooting Strategy
+P.17-8.
+Q:Is the auto-cruise system operating properly?
+YES : Go to Step 3.
+NO : Repair it, then check the symptom.
+STEP 3. Check the signal voltage at PCM connector C-57
+<2.4L Engine> or C-59 <3.0L Engine> by backprobing.
+(1) Do not disconnect connector C-57 <2.4L Engine> or C-59
+CONNECTOR: C-57 <2.4L ENGINE> OR
+<3.0L Engine>.
+C-59 <3.0L ENGINE>
+(2) Turn the ignition switch to the "ON" position.
+PCM
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+(3) Measure the voltage between terminal 75 and ground by
+backprobing.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 5.
+C-57 <2.4L ENGINE> OR NO : Go to Step 4.
+C-59 <3.0L ENGINE>
+CONNECTOR HARNESS
+SIDE VIEW
+AC002097AE
+TSB Revision

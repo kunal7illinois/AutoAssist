@@ -1,0 +1,41 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-505
+SYMPTOM PROCEDURES
+STEP 2. Check the driver’s door switch.
+Remove the driver’s door switch.Then check the continuity
+CONNECTOR <ECLIPSE>: D-11
+between the switch terminal and the switch body.
+SWITCH POSITION TESTER SPECIFIED
+CONNECTIO CONDITION
+N
+Released 1 − 2 Less than 2 ohm
+Pressed 1 − 2 Open circuit
+Q:Is the driver’s door switch in good condition?
+AC106483AH
+YES : Go to Step 3.
+CONNECTOR <ECLIPSE SPYDER>: D-11 NO : Replace the driver’s door switch. If the functions,
+which are described in "CIRCUIT OPERATION", work
+normally, the input signal from the driver’s door switch
+should be normal.
+AC106485AG
+ON
+OFF
+1 2 3
+ACX01865AC
+STEP 3. Measure at the lower metal part of the driver’s
+door switch in order to check the ground circuit to the
+driver’s door switch.
+NOTE: Check that the driver’s door switch is grounded to the
+vehicle body by means of its mounting screw.
+Remove the cap, and measure the resistance value between
+the lower metal part and the ground.
+• The measured value should be 2 ohm or less.
+METAL PART
+Q:Does the measured resistance value correspond with
+this range?
+YES : Go to Step 4.
+NO : Check the fit of the switch, and repair if necessary. If
+the functions, which are described in "CIRCUIT
+OPERATION", work normally, the input signal from
+CUP
+ACX01600AB the driver’s door switch should be normal.
+TSB Revision

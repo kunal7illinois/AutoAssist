@@ -1,0 +1,30 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-217
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Check the input signal (by using the Pulse check).
+Check the input of the vehicle speed signal:
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Operate the MUT-II according to the procedure below to
+display "PULSE CHECK."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+(3) Check that scan tool MB991502 sounds when the vehicle
+16 PIN speed exceeds 10 km/h (6.2 mph).
+Q:Does scan tool MB991502 sound when the vehicle
+MB991502
+AC001252AD speed exceeds 10 km/h (6.2 mph)?
+YES : Go to Step 2.
+NO : Refer to Inspection Procedure P-11 "vehicle speed
+signal is not input to ETACS-ECU <M/T>" P.54B-599,
+or Inspection Procedure P-12 "vehicle speed signal is
+not input to ETACS-ECU <A/T>" P.54B-605.
+TSB Revision

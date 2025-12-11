@@ -1,0 +1,33 @@
+BC–367
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC C1246/46 Master Cylinder Pressure Sensor Malfunction
+DESCRIPTION
+The master cylinder pressure sensor is connected to the skid control ECU in the brake actuator assembly.
+Brake Actuator Assembly
+Skid Control ECU
+From Battery
+IG1 VCM
+Master Cylinder
+BC
+Pressure Sensor
+From Stop Light
+STP PMC
+Switch
+To Body ground GND E2
+VCM: Power Supply for Master Cylinder Pressure Sensor
+PMC: Master Cylinder Pressure Sensor Input
+E2: Master Cylinder Pressure Sensor Ground
+C106656E03
+DTC No. DTC Detection Condition Trouble Area
+When any of the following is detected:
+• The voltage of the sensor signal is out of range
+(less than 0.3 V, more than 4.86 V). • Master cylinder pressure sensor
+• The sensor supply voltage is out of range (above • Master cylinder pressure sensor circuit
+C1246/46
+5.3 V, below 4.7 V). • Stop light switch circuit
+• The sensor signal offset value is out of range. • Brake actuator assembly (skid control ECU)
+• The sum of signal 1 and signal 2 is out of range
+(above 5.5 V, below 4.5 V).
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).

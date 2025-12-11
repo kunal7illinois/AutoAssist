@@ -1,0 +1,29 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-511
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE O-7: Column Switch: ETACS-ECU does not Receive Any Signal from the
+Taillight Switch, the Headlight Switch, the Passing Light Switch, the Dimmer Switch, the Turn-signal
+Light Switch or Switch.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+Turn-signal Light and Lighting Switch Input Circuit
+AC004262
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the signal is not normal, the equipment or func-
+The ETACS-ECU operates the following equipment
+tions, which are described in "CIRCUIT OPERA-
+or functions according to signal from the column
+TION", do not work normally. If the signal is not
+switch (turn-signal light and lighting switch):
+• Light reminder tone alarm function normal, the column switch (turn-signal light and light-
+• Headlight ing switch) or the ETACS-ECU may be defective.
+• Turn-signal light
+.
+TROUBLESHOOTING HINTS
+. • Malfunction of column switch (turn-signal light
+and lighting switch)
+• Malfunction of the ETACS-ECU
+• Damaged harness wipes or connectors
+TSB Revision

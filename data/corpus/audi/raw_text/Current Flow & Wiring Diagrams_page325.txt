@@ -1,0 +1,51 @@
+Audi TT No. 42 / 5
+Current Flow Diagram
+Relay for supplementary fuel pump, supplementary fuel
+pump, fuses
+J832 Relay for supplementary fuel pump
+SB5 Fuse 5 on fuse holder B
+SB6 Fuse 6 on fuse holder B
+SB7 Fuse 7 on fuse holder B
+SB8 Fuse 8 on fuse holder B
+SB9 Fuse 9 on fuse holder B
+SB10 Fuse 10 on fuse holder B
+SB11 Fuse 11 on fuse holder B
+SB12 Fuse 12 on fuse holder B
+T10 10-pin connector, black, in front left engine compartment
+V393 Supplementary fuel pump
+B352 Positive connection 3 (87a), in main wiring harness
+2211 7744
+* Relay and fuse carrier in electronics box engine compartment
+6,0 6,0
+ro ro/ge
+7 8 5 6 7 8 9 10 11 12
+ST1 SB7 SB8 ST2 SB5 SB6 SB7 SB8 SB9 SB10 SB11 SB12
+15A 30A 5A 10A 10A 5A 30A 10A 5A 20A
+7a 8a 5a 6a 7a 8a 9a 10a 11a 12a
+223355
+1,5 0,5 0,5 0,5 1,0 1,0 1,0 0,5 2,5 1,0 0,5 1,5
+ro/gr ro/bl ro/bl sw/ge sw/gn ge/sw bl/ro ro/gn ro/gn li/ro ro/gn bl/ro
+6600 119922 222288 221155 8855 116677 220099 117744
+ 3/30 1/86
+2.1
+J832
+5/87 4/87a 2/85
+2,5 0,5
+li/bl sw/br
+2
+M T10/1 B352
+V393
+1/31 ws = white
+sw = black
+ro = red
+2,5 1,0 1,0 1,0 br = brown
+br sw/br ge/sw ge/sw gn = green
+bl = blue
+223333 8888 116622 116644
+gr = grey
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-042050909
+rs = pink
+Edition 09.2009

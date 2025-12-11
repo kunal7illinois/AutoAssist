@@ -1,0 +1,31 @@
+ES–442
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+INSPECTION PROCEDURE
+1 CHECK HARNESS AND CONNECTOR (ECM - BODY GROUND)
+(a) Disconnect the C55 ECM connector.
+Wire Harness Side:
+(b) Measure the resistance between the terminals.
+Standard resistance
+Tester Connection Specified Condition
+C55ECM Connector E1 (C55-81) - Body ground Below 1 Ω
+(c) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+ES
+E1
+A137016E01
+OK
+2 CHECK ENGINE ROOM JUNCTION BLOCK (EFI RELAY VOLTAGE)
+(a) Remove the engine room junction block from the engine
+Wire Harness Side:
+room R/B.
+(b) Turn the ignition switch on (IG).
+Engine Room Junction Block
+(c) Measure the voltage between the terminals.
+Standard voltage
+Tester Connection Specified Condition
+1E-6 - Body ground 9 to 14 V
+OK Go to step 5
+1E
+Engine Room Relay Block
+A138922E03

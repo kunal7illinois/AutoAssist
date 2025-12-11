@@ -1,0 +1,54 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-655
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+MUT-II SCAN ITEM INSPECTION DRIVE INSPECTION REQUIREMENT NORMAL INSPECTION REFERENCE
+TOOL NO. ITEM CONTENTS CONDITION PROCEDURE PAGE
+DISPLAY NO.
+NO. 1 01 Injectors Cut fuel to No. Engine: warm, idle (cut the fuel Idling Code No. P.13B-
+INJECTOR 1 injector supply to each injector in turn condition P0201 283
+and check cylinders which becomes
+NO. 2 02 Cut fuel to No. Code No. P.13B-
+don’t affect idling.) different
+INJECTOR 2 injector P0202 292
+(becomes
+NO. 3 03 Cut fuel to No. unstable) Code No. P.13B-
+INJECTOR 3 injector P0203 283
+NO. 4 04 Cut fuel to No. Code No. P.13B-
+INJECTOR 4 injector P0204 292
+NO. 5 05 Cut fuel to No. Code No. P.13B-
+INJECTOR 5 injector P0205 283
+NO. 6 06 Cut fuel to No. Code No. P.13B-
+INJECTOR 6 injector P0206 292
+RADIAT. 21 Fan Drive the fan Ignition switch: "ON" Radiator fan Procedure P.13B-
+FAN LO controller motor and A/C No. 27 604
+condenser
+fan rotate at
+high speed
+VIC 11 Variable Solenoid valve Ignition switch: "ON" Clicks when Code No. P.13B-
+SOLENOID induction turns from solenoid P0660 510
+control OFF to ON. valve is
+solenoid driven
+CHECK AT THE ENGINE CONTROL MODULE (ECU) <M/T> OR POWERTRAIN
+CONTROL MODULE (PCM) <A/T>
+M1131153700027
+TERMINAL VOLTAGE CHECK CHART
+ECM <M/T> or PCM <A/T> Connector Terminal Arrangement
+<M/T>
+1 2 3 4 5 6 7 8 41424344 45 46 47 7172 7374 75 76 77
+9 10 1112 13141516171819 20212223 48495051525354555657 58 59 7879808182838485868788 89 90
+24 25 26272829 3031 3233 3435 6061 626364 6566 67 68 919293 9495 969798 99 100
+<A/T>
+1 2 3 4 5 6 7 8 41 42 43 444546 71727374 75 76 77 101102 103104 105106 107
+9 10 1112 13141516171819 20212223 47 48 495051525354555657 78798081828384858687 88 89 108109110111112113114115116117118119 120
+24 25 26272829 3031 3233 3435 58 59 60616263 646566 9091 929394 9596 97 98 121122123 124125 126127128 129 130
+AK000057AB
+TERMINAL TERMINAL INSPECTION ITEM INSPECTION CONDITION (ENGINE CONDITION) NORMAL CONDITION
+NO. <M/T> NO. <A/T>
+1 1 No.1 injector • Engine: warming up, idling From 11 − 14 V
+• Suddenly depress the accelerator pedal momentarily
+9 9 No.2 injector
+drops slightly
+24 24 No.3 injector
+2 2 No.4 injector
+10 10 No.5 injector
+25 25 No.6 injector
+TSB Revision

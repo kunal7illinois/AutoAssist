@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 HVAC Heating/Air Conditioning - Civic (All Except Hybrid)
+Is there continuity?
+YES - Check for loose wires or poor connections at the HVAC control unit
+24P connector and at the evaporator temperature sensor 2P connector. If the
+connections are good, substitute a known-good HVAC control unit, and
+recheck. If the symptom/indication goes away, replace the original HVAC
+control unit.
+NO - Repair open in the wire between the HVAC control unit and the
+evaporator temperature sensor.
+DTC INDICATOR 9: A SHORT IN THE EVAPORATOR TEMPERATURE SENSOR CIRCUIT
+1. Clear the DTC (see CLEAR THE DTCS ).
+2. Turn the ignition switch to LOCK (0), and then ON (II).
+3. Do the self-diagnostic with the HVAC control unit (see HOW TO USE THE
+SELF-DIAGNOSTIC FUNCTION ).
+4. Check for DTCs.
+Is DTC 9 indicated?
+YES - Go to step 4.
+NO - Intermittent failure.
+5. Turn the ignition switch to LOCK (0).
+6. Remove the evaporator temperature sensor (see EVAPORATOR CORE
+REPLACEMENT ) and test it (see EVAPORATOR TEMPERATURE
+SENSOR TEST ).
+Is the evaporator temperature sensor OK?
+YES - Go to step 7.
+NO - Replace the evaporator temperature sensor (see EVAPORATOR CORE
+REPLACEMENT ).

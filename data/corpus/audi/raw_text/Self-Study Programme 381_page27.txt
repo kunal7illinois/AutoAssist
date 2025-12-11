@@ -1,0 +1,29 @@
+Vehicle level senders G76-78, G289
+The vehicle level senders are identical in design and
+function to those used in the Audi A6 and Audi A8.
+The sampling rate is 800 Hz. Design and function
+are described in detail in SSP 343. Measured data is
+read in by control unit J250 across discrete lines,
+processed and relayed to the headlight range con-
+trol, control unit via the CAN bus.
+381_037
+Shock absorber damping adjustment button E387
+Warning lamp K189
+The button is used to select a damper setting. In
+standard operation the dampers are configured for
+comfort. A sport damping characteristic can be acti-
+vated pressing the button. The LED indicator inte-
+grated in the button indicates that the sport setting
+is active. Depending on dash panel variant, an addi-
+tional text message may appear.The signal from the
+button is read in by the control unit across a dis-
+crete line.
+381_038
+Warning lamp
+System faults are indicated by a warning lamp in
+the dash panel insert.The warning lamp is checked
+whenever the ignition is turned on.
+The warning lamp also comes on if the dash panel
+insert has been coded incorrectly.
+381_039
+27

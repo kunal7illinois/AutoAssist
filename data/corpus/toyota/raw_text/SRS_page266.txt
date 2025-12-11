@@ -1,0 +1,56 @@
+RS–264
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+6 CHECK WIRE HARNESS (SHORT TO GROUND)
+(a) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+for Power seat
+D A Tester connection Condition Specified condition
+C B T10-9 (BSW) - Body
+Always 1 MΩ or Higher
+Front Seat Inner ground
+Belt Assembly RH Occupant T10-5 (BGND) - Body
+Always 1 MΩ or Higher
+ground
+Classification
+ECU
+for Manual seat
+Tester connection Condition Specified condition
+O4-9 (BSW) - Body
+Always 1 MΩ or Higher
+ground
+Connector B O4-5 (BGND) - Body
+Always 1 MΩ or Higher
+ground
+BGND
+Result
+T10 (*1)
+*1: for Power Seat
+O4 (*2) Result Proceed to
+*2: for Manual Seat
+NG (for Power seat) A
+BSW NG (for Manual seat) B
+C123747E01
+OK C
+A REPAIR OR REPLACE FRONT SEAT WIRE
+RH
+RS
+B REPAIR OR REPLACE FLOOR WIRE NO. 2
+C
+7 CHECK DTC
+(a) Connect the connectors to the occupant classification
+ECU and the front seat inner belt assembly RH.
+(b) Connect the negative (-) terminal cable to the battery.
+(c) Turn the ignition switch on (IG).
+(d) Clear the DTCs stored in the center airbag sensor
+assembly (See page RS-41).
+(e) Clear the DTCs stored in the occupant classification
+ECU (See page RS-251).
+(f) Turn the ignition switch off.
+(g) Turn the ignition switch on (IG).
+(h) Check the DTCs (See page RS-251).
+OK:
+DTC B1771 is not output.
+HINT:
+Codes other than DTC B1771 may be output at this time,
+but they are not related to this check.

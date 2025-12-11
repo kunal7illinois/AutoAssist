@@ -1,0 +1,26 @@
+CHASSIS - U250E AUTOMATIC TRANSAXLE CH-19
+2. Solenoid Valves
+Solenoid Valves SL1, SL2, SL3 and SLT
+(cid:3) In order to provide a hydraulic pressure that is proportion to current that flows to the solenoid coil, the
+solenoid valves SL1, SL2, SL3, and SLT linearly control the line pressure and clutch and brake
+engagement pressure based on the signals received from the ECM.
+(cid:3) The solenoid valves SL1, SL2, SL3, and SLT have the same basic structure.
+Solenoid Coil
+Sleeve
+Hydraulic
+Pressure
+Spool Valve
+Current
+275CA51
+(cid:1) Function of Solenoid Valves (cid:2)
+Solenoid Valve Function
+SL1 B brake pressure control
+1
+(cid:3) C clutch pressure control
+SL2 0
+(cid:3) Lock-up clutch pressure control
+SL3 C clutch pressure control
+1
+(cid:3) Line pressure control
+SLT
+(cid:3) Secondary pressure control

@@ -1,0 +1,31 @@
+AC–56
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+4 CHECK HARNESS AND CONNECTOR (AMBIENT TEMPERATURE SENSOR - A/C
+AMPLIFIER)
+(a) Disconnect the ambient temperature sensor connector.
+Ambient Temperature Sensor
+Connector Front View:
+A2
+E124473E02
+(b) Disconnect the A/C amplifier connector.
+Air Conditioning Amplifier
+(c) Measure the resistance according to the value(s) in the
+Connector Wire Harness View:
+table below.
+Standard resistance
+E38 Tester Connection Condition Specified Condition
+A2-2 - E38-5 (TAM) Always Below 1 Ω
+AC
+A2-1 - E38-13 (SG-2) Always Below 1 Ω
+E38-5 (TAM) - Body
+Always 10 kΩ or higher
+ground
+E38-13 (SG-2) - Body
+Always 10 kΩ or higher
+ground
+NG REPAIR OR REPLACE HARNESS OR
+SG-2 TAM
+CONNECTOR
+E124470E03
+OK
+REPLACE AIR CONDITIONING AMPLIFIER

@@ -1,0 +1,42 @@
+ENGINE - 2GR-FE ENGINE EG-121
+6. Dual VVT-i (Variable Valve Timing-intelligent) System
+General
+(cid:3) The dual VVT-i system is designed to control the intake and exhaust camshafts within a range of 40(cid:4) and
+35(cid:4) respectively (of Crankshaft Angle) to provide valve timing that is optimally suited to the engine
+condition. This improves torque in all the speed ranges as well as increasing fuel economy, and reducing
+exhaust emissions.
+Exhaust Camshaft Timing OCV* (RH)
+Intake Camshaft Timing OCV* (RH)
+Exhaust VVT Sensor (RH)
+Engine Coolant Temp. Sensor
+Intake Camshaft
+Timing OCV* (LH)
+Exhaust VVT
+Sensor (LH)
+Exhaust Camshaft
+Timing OCV* (LH)
+ECM
+Intake VVT Sensor (LH)
+Crankshaft Position Sensor (cid:3) Mass Air Flow Meter
+(cid:3) Throttle Position Sensor
+(cid:3) Vehicle Speed Signal
+Intake VVT Sensor (RH)
+285EG57
+*: Oil Control Valve
+(cid:3) By using the engine speed, intake air volume, throttle position and engine coolant temperature, the ECM
+calculates optimal valve timing for each driving condition and controls the camshaft timing oil control
+valve. In addition, the ECM uses signals from the camshaft position sensor and the crankshaft position
+sensor to detect the actual valve timing, thus providing feedback control to achieve the target valve
+timing.
+ECM
+Camshaft
+Crankshaft Position Sensor Timing
+Target Valve Timing
+Duty-cycle Oil Control
+Valve
+Mass Air Flow Meter Control
+Throttle Position Sensor Feedback
+Engine Coolant Temp. Sensor Correction
+Intake and Exhaust VVT Sensors Actual Valve Timing
+Vehicle Speed Signal
+221EG16

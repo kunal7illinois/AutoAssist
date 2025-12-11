@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+NO -Intermittent failure, the system is OK at this time. Check for loose
+terminals at the VSA modulator-control unit 37P connector. Refer to
+INTERMITTENT FAILURES TROUBLESHOOTING (see ).
+5. Check and note BATTERY voltage in the VSA DATA LIST with the H DS. If
+the voltage listed is 0 V, go to step 8, otherwise go to step 6.
+6. Using a voltmeter, measure and note the voltage between the battery terminals.
+NOTE: If the voltage is below 9.5 V, check the battery (see
+BATTERY TEST ), and troubleshoot the alternator
+regulator circuit (see ALTERNATOR AND REGULATOR
+CIRCUIT TROUBLESHOOTING ).
+7. Compare the voltage noted in step 5 to the voltage in step 6.
+Is the difference between the two voltage readings less then 3 V?
+YES -Intermittent failure, the system is OK at this time. Check for loose
+terminals at the VSA modulator-control unit 37P connector. Refer to
+INTERMITTENT FAILURES TROUBLESHOOTING (see ). If the code
+resets after clearing, replace the VSA modulator-control unit (see VSA
+MODULATOR-CONTROL UNIT REMOVAL AND INSTALLATION ).
+NO -Check for loose terminals in the VSA modulator-control unit 37P
+connector. If necessary, substitute a known-good VSA modulator-control unit
+(see VSA MODULATOR-CONTROL UNIT REMOVAL AND
+INSTALLATION ), and retest.
+8. Turn the ignition switch to LOCK (0).
+9. Disconnect the VSA modulator-control unit 37P connector.
+10. Measure voltage between VSA modulator-control unit 37P connector terminal
+No. 13 and body ground.

@@ -1,0 +1,41 @@
+DL–28
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Rear Door UNLOCK Detection Switch LH Circuit
+DESCRIPTION
+The rear left door unlock detection switch is built into the rear left door lock assembly. The switch turns on
+when the rear left door is locked and turns off when the door is unlocked.
+The main body ECU is connected to the rear left door lock assembly via terminal LSWL (w/ Smart key
+system) or LSR (w/o Smart key system) and rear left door lock/unlock state signals are input to the ECU.
+The main body ECU applies voltage to the door unlock detection switch via terminal LSWL (w/ Smart key
+system) or LSR (w/o Smart key system). When the door unlock detection switch is on (there is continuity
+between the switch terminals), a lock state signal is input to the ECU. When the switch is off (there is no
+continuity between the switch terminals), an unlock state signal is input.
+WIRING DIAGRAM
+Main Body ECU
+K5
+Instrument Panel J/B
+Rear Door Lock Assembly LH
+5
+9 E LSSR 6 20 LSWL (*1)
+IP
+LSR (*2)
+*1: w/ Smart Key System
+*2: w/o Smart Key System
+B109775E08
+INSPECTION PROCEDURE
+HINT:
+Start the inspection from step 1 when w/ smart key system or w/o smart key system and w/ theft deterrent
+system, and start from step 2 when w/o smart key system and w/o theft deterrent system.
+DL
+1 READ VALUE OF DATA LIST (UNLOCK DETECTION SWITCH)
+(a) Check the DATA LIST to ensure proper function of the
+door unlock detection switch.
+MAIN BODY:
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Rear left door lock is in
+Rear left door lock position switch UNLOCK position
+RL LOCK POS SW -
+signal / ON or OFF OFF: Rear left door lock is in
+LOCK position

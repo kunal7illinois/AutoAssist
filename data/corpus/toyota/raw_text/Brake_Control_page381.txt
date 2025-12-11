@@ -1,0 +1,17 @@
+BC–370
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC C1249/49 Open in Stop Light Switch Circuit
+DESCRIPTION
+This circuit recognizes brake operation by sending a stop light signal to the skid control ECU.
+The skid control ECU has an open detection circuit, which outputs this DTC when detecting an open in the
+stop light signal input line (STP terminal) or the ground line of the stop light circuit with the stop light switch
+off (brake pedal not depressed).
+DTC No. DTC Detection Condition Trouble Area
+When either of the following is detected:
+• After the ignition switch is turned on (IG), the STP
+terminal voltage of the ECU is 40% to 67% of its • Stop light switch
+C1249/49 supplied voltage for 0.5 seconds. • Stop light switch circuit
+• When STP signal is OFF (release the brake pedal), • Brake actuator assembly (skid control ECU)
+the pressure sensor value exceeds 725 bar for 1
+second.
+BC

@@ -1,0 +1,47 @@
+CAN data exchange
+J793 Tyre pressure monitor control unit 2 J220 Motronic control unit (1)
+System status (all) CCS status
+Activation of warning lamp, text display (7,6) Clutch switch
+Coolant temperature
+Engine torque
+Engine speed
+Gearbox variant
+J104 ESP control unit (2)
+ESP system status
+ABS active
+J533 Diagnostic interface (7)
+EBD, EDL and ESP intervention
+Date, time
+TCS and EBC request
+Terminal 15 -counter
+TCS shift control
+Mileage (km)
+Brake light sensor
+Reversing light switch
+Lateral acceleration
+Trailer detected
+Yaw rate
+J527 Steering column electronics control unit (3)
+G85 Wheel angle sender
+max. steering angle
+J285 Control unit with display in dash panel
+insert (6)
+Displayed vehicle speed
+Handbrake activated
+Error status, ambient temperature
+J217 Automatic gearbox control unit (4)
+Selector mechanism active
+Target gear or selected gear
+Selector lever position/driving program
+Torque converter lock-up clutch
+J492 Four-wheel drive control unit (5)
+Error status
+Clutch open
+Clutch torque
+Clutch stiffness
+381_058
+Information sent by control unit J793 Powertrain CAN bus
+Dash panel insert CAN bus
+Information received and evaluated by
+control unit J793
+43

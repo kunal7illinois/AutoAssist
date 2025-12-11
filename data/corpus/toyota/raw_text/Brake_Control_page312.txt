@@ -1,0 +1,46 @@
+BC–301
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DIAGNOSIS SYSTEM
+1. DIAGNOSIS SYSTEM
+(a) Inspect the battery voltage.
+Standard voltage:
+11 to 14 V
+If the voltage is below 11 V, recharge the battery
+before proceeding.
+(b) The vehicle's ECU uses the ISO 15765-4 for
+communication protocol. The terminal arrangement
+CG SG CANH of the DLC3 complies with SAE J1962 and matches
+the ISO 15765-4 format.
+HINT:
+1 2 3 4 5 6 7 8 Connect the cable of the intelligent tester to the
+DLC3, turn the ignition switch on (IG) and attempt to
+910111213141516 use the intelligent tester. If the screen displays a
+communication error message, a problem exists on
+CANL BAT either the vehicle side or the tester side.
+A082779E65
+BC
+If the communication is normal when the tester is
+connected to another vehicle, inspect the DLC3 on
+the original vehicle.
+If the communication is still impossible when the
+tester is connected to another vehicle, the problem
+is probably in the tester itself. Consult the Service
+Department listed in the tester's instruction manual.
+Symbols (Terminal No.) Terminal Description Condition Specified Condition
+CG (4) - Body ground Chassis ground Always Below 1 Ω
+SG (5) - Body ground Signal ground Always Below 1 Ω
+BAT (16) - Body ground Battery positive Always 9 to 14 V
+CANH (6) - CANL (14) HIGH-level CAN bus line Ignition switch OFF* 54 to 69 Ω
+CANH (6) - Battery positive HIGH-level CAN bus line Ignition switch OFF* 6 kΩ or higher
+CANH (6) - CG (4) HIGH-level CAN bus line Ignition switch OFF* 200 Ω or higher
+CANL (14) - Battery positive LOW-level CAN bus line Ignition switch OFF* 6 kΩ or higher
+CANL (14) - CG (4) LOW-level CAN bus line Ignition switch OFF* 200 Ω or higher
+NOTICE:
+*: Before measuring the resistance, leave the
+vehicle as is for at least 1 minute and do not
+operate the ignition switch, any other switches
+or the doors.
+2. DESCRIPTION
+NOTICE:
+When releasing the parking brake, set chocks to
+hold the vehicle for safety.

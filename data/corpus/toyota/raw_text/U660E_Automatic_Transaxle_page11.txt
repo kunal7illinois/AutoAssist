@@ -1,0 +1,36 @@
+AX–11
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+8 PROBLEM SYMPTOM CONFIRMATION
+(a) Refer to the ROAD TEST (See page AX-12).
+Result
+AX
+Result Proceed to
+Symptom does not occur A
+Symptom occurs B
+B GO TO STEP 10
+A
+9 SYMPTOM SIMULATION
+(a) Refer to the ELECTRONIC CIRCUIT INSPECTION
+PROCEDURE (See page IN-40).
+NEXT
+10 DTC CHECK*
+(a) Refer to the DTC CHECK / CLEAR (See page AX-38).
+Result
+Result Proceed to
+DTC is not output A
+DTC is output B
+B GO TO STEP 18
+A
+11 BASIC INSPECTION
+(a) Refer to the AUTOMATIC TRANSMISSION FLUID (See
+page AX-164).
+(b) Refer to the PARK/NEUTRAL POSITION SWITCH (See
+page AX-174).
+(c) Refer to the SHIFT LEVER ASSEMBLY (See page AX-
+224).
+NG GO TO STEP 21
+OK
+12 MECHANICAL SYSTEM TEST
+(a) Refer to the MECHANICAL SYSTEM TEST (See page
+AX-15).
+NG GO TO STEP 17

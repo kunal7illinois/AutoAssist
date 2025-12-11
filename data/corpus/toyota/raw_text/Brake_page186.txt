@@ -1,0 +1,38 @@
+BC–180
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC C0273/13 Open in ABS Motor Relay Circuit
+DTC C0274/14 Short to B+ in ABS Motor Relay Circuit
+Short Circuit in ABS Motor Fail Safe Relay Cir-
+DTC C1361/91
+cuit
+DESCRIPTION
+If a DTC of the motor line is stored, the VSC NO. 1 (fail safe) relay cuts off the power supply to the VSC
+NO. 2 relay and performs fail safe.
+While any of the ABS, TRAC, VSC, or BA is operating, the skid control ECU (housed in the actuator
+assembly) turns the VSC NO. 2 relay on and activates the pump motor in the brake actuator.
+This code may be stored if the motor relay (BM) voltage becomes lower than the DTC detecting condition
+due to insufficient output from the battery or alternator.
+DTC No. DTC Detection Condition Trouble Area
+BC When any of the following (1 or 2) is detected:
+1. All of the following conditions continue for 0.12 seconds or
+more.
+• The IG1 terminal voltage is between 9.5 and 17.2 V. • ABS NO. 1 fuse
+• During initial check and ABS, BA, TRAC, or VSC are • VSC NO. 2 relay
+C0273/13
+operating. • VSC NO. 2 relay circuit
+• Relay contact is open when the relay is ON. • Brake actuator assembly
+2. All of the following conditions continue for 0.12 seconds.
+• The IG1 terminal voltage is 9.5 V or less.
+• Relay contact remains open when the relay is ON.
+• ABS NO. 1 fuse
+When the motor relay is OFF, the VSC NO. 2 relay remains • VSC NO. 2 relay
+C0274/14
+closed for 4 seconds or more. • VSC NO. 2 relay circuit
+• Brake actuator assembly
+• ABS NO. 1 fuse
+Immediately after the ignition switch is turned on (IG), the
+• VSC NO. 1 (fail safe) relay
+C1361/91 relay contact is closed for 4 seconds when the VSC NO. 1
+• VSC NO. 1 (fail safe) relay circuit
+(fail safe) relay is OFF.
+• Brake actuator assembly

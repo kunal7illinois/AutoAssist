@@ -1,0 +1,48 @@
+23A-254 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 4. Check the reverse clutch system and low-reverse
+brake system.
+(1) Remove the valve body cover and valve body. Refer to
+P.23A-366, Transaxle Assembly and GROUP 23B,
+Transaxle P.23B-10.
+(2) Blow 108 kPa (15 psi) compressed air into the reverse
+clutch oil orifice of the transaxle case. Then check if the
+REVERSE CLUTCH
+reverse clutch piston moves and air pressures are
+OIL ORIFICE
+maintained in that condition. Repeat for the low-reverse
+brake.
+Q:Are the reverse clutch, low-reverse brake or both air
+LOW-REVERSE
+BRAKE OIL ORIFICE pressures maintained?
+YES : Go to Step 7.
+NO : Go to Step 6.
+AC001862AB
+STEP 5. Disassemble and clean the valve body.
+Check the O-ring installation bolts for looseness and valve
+VALVE body for damage. Repair or replace the faulty parts. Refer to
+BODY
+GROUP 23B, Valve Body P.23B-74.
+ASSEMBLY
+Q:Is the repair possible and the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Go to Step 7.
+AC001860AB
+STEP 6. Check the reverse clutch, low-reverse brake or
+both. Remove the transaxle.
+Check the facing for seizure and the piston seal ring for dam-
+age and interference with the retainer. Repair or replace the
+faulty parts. Refer to GROUP 23B, Transaxle P.23B-10,
+LOW-REVERSE BRAKE
+Reverse and Overdrive Clutch P.23B-59. Then check the
+symptom.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Go to Step 7.
+REVERSE CLUTCH
+AC001863AB
+STEP 7. Replace the PCM.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Start over at Step 1.
+TSB Revision

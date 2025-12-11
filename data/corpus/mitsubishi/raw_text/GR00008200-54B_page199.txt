@@ -1,0 +1,52 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-199
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+Use scan tool to select "ECU COMM CHECK" on the SWS
+monitor display.
+Check the following ECUs:
+• Column-ECU
+• Front-ECU
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502. Also con-
+nect SWS Monitor Kit MB991862 after turning on scan tool
+MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+COLUMN SWITCH (2) Connect SWS Monitor Kit MB991862 to the column switch
+CONNECTOR
+connector.
+MB991502 (3) Turn the ignition switch to the "ON" position.
+(4) Operate the MUT-II according to the procedure below to
+display "ECU COMM CHECK."
+1. Select "SYSTEM SELECT."
+DATA LINK 2. Select "SWS."
+CONNECTOR
+3. Select "SWS MONITOR."
+AC101571AB 4. Select "ECU COMM CHECK."
+(5) Scan tool MB991502 should show "OK" on the "ECU
+COLUMN SWITCH COMM CHECK" menu.
+CONNECTOR
+Q:Are "OK" displayed on the "COLUMN ECU" and
+"FRONT ECU" menu?
+SWS MONITOR "OK" are displayed for all the items : Replace the front-
+HARNESS (FOR
+ECU.Check that the windshield wiper works normally.
+COLUMN-ECU)
+"NG" is displayed on the "COLUMN ECU" menu : "NG"
+COLUMN SWITCH is displayed on the "COLUMN ECU" menu: Refer to
+CONNECTOR AT
+Inspection Procedure A-2 "Communication with
+HARNESS SIDE
+column switch (column-ECU) is impossible P.54B-
+AC101421AB
+28."
+"NG" is displayed on the "FRONT ECU" menu : "NG" is
+displayed on the "FRONT ECU" menu: Refer to
+Inspection procedure A-4 "Communication with front-
+ECU is impossible P.54B-46."
+TSB Revision

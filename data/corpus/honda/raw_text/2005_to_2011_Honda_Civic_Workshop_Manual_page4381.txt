@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+4. Check for DTCs with the HDS.
+Is 86-31 DTC indicated?
+YES -If the DTC 86-01 is indicated at the same time, do the DTC 86-01
+troubleshooting (see DTC 86-01: F-CAN Bus-off Malfunction ). If 86-01 is
+not indicated, go to step 5.
+NO -If any DTCs are indicated, go to the indicated DTCs troubleshooting. If
+DTCs are not indicated, intermittent failure, the system is OK at this time.
+Check for loose terminals between the gauge control module (tach) 36P
+connector and the VSA modulator-control unit 37P connector. Refer to
+INTERMITTENT FAILURES TROUBLESHOOTING (see ).
+5. Turn the ignition switch ON (II).
+Do the gauge indicators come on?
+YES -Go to step 6.
+NO -Do the gauge control module troubleshooting (see SELF-DIAGNOSTIC
+FUNCTION ).
+6. Turn the ignition switch to LOCK (0).
+7. Disconnect the gauge control module (tach) 36P connector.
+8. Disconnect the VSA modulator-control unit 37P connector.
+9. Check for continuity between the VSA modulator-control unit 37P connector
+terminal and gauge control module (tach) 36P connector terminal (see table).
+CONNECTOR TERMINAL DESCRIPTION
+Connector Terminal No.
+Sign
+VSA Modulator-control UnitGauge Control Module (Tach)
+CAN-L 1 19
+CAN-H 15 1

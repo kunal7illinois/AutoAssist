@@ -1,0 +1,40 @@
+13A-140 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0131 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0132: Heated Oxygen Sensor Circuit High Voltage (sensor 1)
+1 2
+3 4
+AK000657
+TSB Revision
+KCALB ETIHW
+KCALB
+Heated Oxygen Sensor (front) Circuit
+B-17
+MU802605
+HEATED OXYGEN
+SENSOR (FRONT)
+1 3 2 4
+FROM MFI RELAY
+TO ECM
+OR PCM
+92 <M/T> 76 <M/T>
+57 <A/T>*1 71 <A/T>*2
+ENGINE CONTROL
+MODULE (ECM) <M/T>
+OR
+POWERTRAIN CONTROL
+MODULE (PCM) <A/T>
+C-60 <M/T> C-54 <A/T> C-57 <A/T>
+(MU803772) (MU803781) (MU803782)
+41 42 43 444546 71727374 7576 77
+7172737475767778798081 47 48 495051525354555657 7879808182838485868788 89
+8283848586878889909192 58 59 60616263 646566 9091 929394 9596 97 98
+NOTE
+*1:PCM connector C-54 <A/T>
+*2:PCM connector C-57 <A/T>

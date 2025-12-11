@@ -1,0 +1,33 @@
+54B-124 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 10. Check at power window main switch connector
+E-12 in order to check the power window main switch
+ground circuit.
+(1) Disconnect power window main switch connector E-12, and
+CONNECTOR: E-12 E-12
+measure at the harness side.
+DOOR (LH) HARNESS SIDE
+4 3 2 1
+10 9 8 7 6 5
+AC106233AE
+(2) Measure the resistance value between terminal 9 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR E-12
+(HARNESS SIDE) Q:Does the measured resistance value correspond with
+this range?
+4 3 2 1
+10 9 8 7 6 5 YES : Go to Step 13.
+NO : Go to Step 11.
+AC002176AB
+STEP 11. Check power window main switch connector E-
+12 for damage.
+Q:Is power window main switch connector E-12 in good
+CONNECTOR: E-12
+DOOR (LH) E-12 condition?
+1 2 3 4 YES : Go to Step 12.
+5 6 7 8 9 10 NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. Check
+that the power windows work normally.
+AC106233AD
+TSB Revision

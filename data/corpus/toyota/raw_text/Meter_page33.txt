@@ -1,0 +1,60 @@
+ME–33
+METER – METER / GAUGE SYSTEM
+FAIL-SAFE CHART
+ENGINE COOLANT TEMPERATURE GAUGE:
+Condition Response Recovery
+Engine coolant temperature data is
+The gauge needle indicates between / and C. Engine coolant temperature data is received.
+interrupted for 3.1 seconds.
+SHIFT INDICATOR:
+Condition Response Recovery
+Shift position data is interrupted for 3.1
+All indicator light go off. Normal data is received.
+seconds.
+Gear position data is interrupted for 3
+The gear position indicator light goes off. Normal data is received.
+seconds.
+ABS & BRAKE:
+Condition Response Recovery
+ABS & brake data is interrupted for 1 second. The warning light comes on. Normal data is received.
+DOOR:
+Condition Response Recovery
+Each door condition data is interrupted for 10 The data received most recently remains
+Normal data is received.
+seconds. indicated.
+DRIVER SIDE SEAT BELT:
+Condition Response Recovery
+Driver side front seat inner belt assembly data The data received most recently remains
+Normal data is received.
+is interrupted for 10 seconds. indicated.
+TIRE PRESSURE:
+Condition Response Recovery
+Tire pressure data is interrupted for 10 The tire pressure indicator light blinks for 60
+Normal data is received.
+seconds. to 64 seconds, then comes on.
+OIL MAINTENANCE (*1):
+Condition Response Recovery
+The running distance after performing oil
+maintenance reminder light resetting Oil change reminder light comes on. Normal data is received.
+procedure.
+HEAD (*1)/TAIL (*2):
+Condition Response Recovery
+The data received most recently remains
+Regular data is interrupted for 10 seconds. Normal data is received.
+indicated.
+BEAM:
+Condition Response Recovery
+The data received most recently remains
+Regular data is interrupted for 10 seconds. Normal data is received. ME
+indicated.
+AIRBAG:
+Condition Response Recovery
+Airbag data is interrupted for 10 seconds.
+Turn the ignition switch on (IG), then the The warning light comes on. Normal data is received.
+combination meter (meter CPU) can't detect
+the voltage of 9 V or more for 60 seconds.
+FRONT PASSENGER SIDE SEAT BELT:
+Condition Response Recovery
+The data received most recently remains
+Regular data is interrupted for 10 seconds. Normal data is received.
+indicated.

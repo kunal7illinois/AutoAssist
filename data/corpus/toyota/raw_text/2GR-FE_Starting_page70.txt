@@ -1,0 +1,31 @@
+ST–70
+2GR-FE STARTING – SMART KEY SYSTEM
+6 INSPECT MAIN BODY ECU (SPEED SIGNAL)
+(a) Check the input signal waveform.
+(1) Reconnect the connectors.
+(2) Remove the combination meter assembly with the
+connector(s) still connected.
+Main Body ECU
+(3) Connect an oscilloscope to terminal E8-9 (SPD) and
+body ground.
+E8
+(4) Turn the engine switch on (IG).
+(5) Turn the wheel slowly.
+SPD
+B137984E01
+(6) Check the signal waveform according to the
+condition(s) in the table below.
+Item Condition
+Tool setting 5 V/DIV., 10 ms./DIV.
+Vehicle condition Driving at approx. 20 km/h (12 mph)
+GND
+OK:
+The waveform is displayed as shown in the
+illustration.
+I042329E01 HINT:
+As the vehicle speed increases, the cycle of the
+signal waveform narrows.
+NG REPLACE COMBINATION METER
+OK
+REPLACE MAIN BODY ECU
+ST

@@ -1,0 +1,55 @@
+ES–249
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Tester Connection Specified Condition
+C12-4 - Body ground Below 1 Ω
+C14-4 - Body ground Below 1 Ω
+C38-4 - Body ground Below 1 Ω
+C39-4 - Body ground Below 1 Ω
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+2 CHECK HARNESS AND CONNECTOR (IGNITION COIL ASSEMBLY - ECM (IGT SIGNAL
+TERMINAL))
+ES
+(a) Disconnect the C11, C13, C12, C14, C38 or C39 ignition
+Wire Harness Side Front View:
+(cid:2071)(cid:2083)(cid:2110)(cid:2102)(cid:2090)(cid:2138)(cid:2150)(cid:2086)(cid:2071)(cid:2142)(cid:35)(cid:53)(cid:53)(cid:59)(cid:12446)(cid:2580)(cid:2981)(cid:2086)(cid:2112)(cid:2082)(cid:2098) coil connector.
+(b) Disconnect the ECM C55 connectors.
+Ignition Coil with Igniter Connector
+(c) Measure the resistance according to the value(s) in the
+table below.
+C11 C12 Standard resistance (Check for open)
+C13 C14 IGT1 Tester Connection Specified Condition
+C38 C39 IGT2 IGT1 (C11-3) - IGT1 (C55-40) Below 1 Ω
+IGT3
+IGF IGT2 (C13-3) - IGT2 (C55-39) Below 1 Ω
+IGT4
+IGT3 (C12-3) - IGT3 (C55-38) Below 1 Ω
+ECM Connector
+(cid:2075)(cid:2150)(cid:2091)(cid:2150)(cid:2086)(cid:2150)(cid:2107)(cid:2144)(cid:2159)(cid:2142)(cid:2086)(cid:2150)(cid:2119)(cid:2136)(cid:2159)(cid:2098)(cid:12446)(cid:2580)(cid:2981)(cid:2086)(cid:2112)(cid:2082)(cid:2098) IGT4 (C14-3) - IGT4 (C55-37) Below 1 Ω
+C55 IGT3 IGT2 IGT1 IGT5 (C38-3) - IGT5 (C55-36) Below 1 Ω
+IGT6 (C39-3) - IGT6 (C55-35) Below 1 Ω
+Standard resistance (Check for short)
+Tester Connection Specified Condition
+IGT1 (C11-3) or IGT1 (C55-40) - Body ground 10 kΩ or higher
+IGT2 (C13-3) or IGT2 (C55-39) - Body ground 10 kΩ or higher
+IGT6 IGT5 IGT4
+IGF1 IGT3 (C12-3) or IGT3 (C55-38) - Body ground 10 kΩ or higher
+IGT4 (C14-3) or IGT4 (C55-37) - Body ground 10 kΩ or higher
+A105983E07
+IGT5 (C38-3) or IGT5 (C55-36) - Body ground 10 kΩ or higher
+IGT6 (C39-3) or IGT6 (C55-35) - Body ground 10 kΩ or higher
+Standard resistance (Check for open)
+Tester Connection Specified Condition
+IGF (C11-2) - IGF1 (C55-106) Below 1 Ω
+IGF (C13-2) - IGF1 (C55-106) Below 1 Ω
+IGF (C12-2) - IGF1 (C55-106) Below 1 Ω
+IGF (C14-2) - IGF1 (C55-106) Below 1 Ω
+IGF (C38-2) - IGF1 (C55-106) Below 1 Ω
+IGF (C39-2) - IGF1 (C55-106) Below 1 Ω
+Standard resistance (Check for short)
+Tester Connection Specified Condition
+IGF (C11-2) or IGF1 (C55-106) - Body ground 10 kΩ or higher
+IGF (C13-2) or IGF1 (C55-106) - Body ground 10 kΩ or higher
+IGF (C12-2) or IGF1 (C55-106)- Body ground 10 kΩ or higher
+IGF (C14-2) or IGF1 (C55-106) - Body ground 10 kΩ or higher

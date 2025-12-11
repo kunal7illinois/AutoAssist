@@ -1,0 +1,51 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-579
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Using scan tool MB991502, check data list.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Check the following items in the data list. Refer to, Data List
+Reference Table P.13B-640.
+16 PIN a. Item 13: Intake Air Temperature Sensor.
+b. Item 25: Barometric pressure Sensor.
+MB991502
+AKX01177AB c. Item 21: Engine Coolant Temperature Sensor.
+d. Item 14: Throttle Position Sensor.
+e. Item 69: Right Bank Heated Oxygen Sensor (rear).
+f. Item 39: Right Bank Heated Oxygen Sensor (front).
+g. Item 59: Left Bank Heated Oxygen Sensor (rear).
+h. Item 11: Left Bank Heated Oxygen Sensor (front).
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Are they operating properly?
+YES : Go to Step 5.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+STEP 5. Using scan tool MB991502, check actuator test.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items in the actuator test. Refer to,
+Actuator Test Reference Table P.13B-654.
+a. Item 10: EGR Solenoid.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the actuator operating properly?
+YES : Go to Step 6.
+16 PIN
+NO : Repair or replace. Then confirm that the malfunction
+MB991502 symptom is eliminated.
+AKX01177AB
+STEP 6. Using scan tool MB991502, check data list.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items of data list. Refer to, Data List
+Reference Table P.13B-640.
+a. Item 39: Right Bank Heated Oxygen Sensor (front).
+b. Item 11: Left Bank Heated Oxygen Sensor (front).
+• Voltage should fluctuate between 0 − 0.4 volt and 0.6 −
+1.0 volt while idling after the engine has warmed-up.
+16 PIN (3) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 Q:Is the sensor operating properly?
+AKX01177AB
+YES : Go to Step 8.
+NO : Go to Step 7.
+TSB Revision

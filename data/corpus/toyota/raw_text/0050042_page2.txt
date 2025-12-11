@@ -1,0 +1,46 @@
+ES–251
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+INSPECTION PROCEDURE
+1 INSPECT BATTERY CURRENT SENSOR
+(a) Disconnect the B29 battery current sensor connector.
+Component Side: Battery
+(b) Measure the resistance.
+Current
+Sensor Standard resistance
+Tester Connection Condition Specified Condition
+1 (THB) - 4 (E2) 24 to 26°C (75.2 to 1.91 to 2.065 kΩ
+78.8°F)
+NG REPLACE BATTERY CURRENT SENSOR
+ES
+VC5 THB
+2 1
+4 3
+E2 IB
+A124656E02
+OK
+2 CHECK HARNESS AND CONNECTOR (BATTERY CURRENT SENSOR - ECM)
+(a) Disconnect the B29 battery current sensor connector.
+Wire Harness Side:
+(b) Disconnect the B30 ECM connectors.
+(c) Measure the resistance of the wire harness side
+Battery Current Sensor Connector
+connectors.
+Standard resistance (Check for open)
+THB
+Tester Connection Specified Condition
+B29 B29-1 (THB) - B30-120 (THB) Below 1 Ω
+B29-4 (E2) - B30-92 (EIB) Below 1 Ω
+E2
+Standard resistance (Check for short)
+Tester Connection Specified Condition
+EIB THB
+B29-1 (THB) or B30-120 (THB) - Body
+10 kΩ or higher
+ground
+NG REPAIR OR REPLACE HARNESS AND
+CONNECTOR
+ECM Connector
+B30
+A127962E03
+OK
+REPLACE ECM

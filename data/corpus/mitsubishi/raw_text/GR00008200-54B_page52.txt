@@ -1,0 +1,40 @@
+54B-52 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 9. Check the wiring harness between front-ECU
+connector A-11X (terminal 22) and ETACS-ECU connector
+C-118 (terminal 59).
+NOTE: Also check joint connector C-78 and intermediate con-
+CONNECTOR: A-11X
+nector C-89. If joint connector C-78 or intermediate connectors
+FRONT-ECU C-89 is damaged, repair or replace the connector as described
+in GROUP 00E, Harness Connector Inspection P.00E-2.
+DEVICE SIDEA-11X
+2122232425262728293031
+AC106535AF
+CONNECTOR: C-118
+DEVICE SIDE
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+Q:Is the wiring harness between front-ECU connector A-
+CONNECTOR: C-78
+11X (terminal 22) and ETACS-ECU connector C-118
+(terminal 59) in good condition?
+YES : Go to Step 10.
+NO : Repair the wiring harness. The system should
+communicate with the front-ECU normally.
+DEVICE SIDE
+1 2 3 4 5 6 7 8 91011
+1213141516171819202122
+2324252627282930313233
+AC106473AM
+CONNECTOR: C-89
+CONNECTOR BLOCK (LH)
+1 2 3 4 5 6 7 8 910 111213
+141516171819202122232425
+262728 29 30 31 38
+3233 34 35 36 37
+AC106477AC
+TSB Revision

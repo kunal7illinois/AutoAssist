@@ -1,0 +1,55 @@
+AX–148
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Pressure Control Solenoid "D" Performance or
+DTC P2808
+Stuck OFF (Shift Solenoid Valve SL4)
+DESCRIPTION
+The TCM uses the vehicle speed signal to determine the actual gear position (1st, 2nd, 3rd, 4th, 5th or 6th
+AX
+gear).
+Then the TCM compares the actual gear with the shift schedule in the TCM memory to detect shift
+solenoid valves and valve body mechanical problems.
+DTC No. DTC Detecting Condition Trouble Area
+The engine revs freely when 3rd or 5th gear is
+requested. (2-trip detection logic)
+When any of the following is detected. In addition, the
+• Shift solenoid valve SL4 remains open or closed
+condition that 4th gear is engaged when 4th gear is
+P2808 • Valve body is blocked
+requested occurs twice. (2-trip detection logic)
+• Automatic transaxle (clutch, brake or gear etc.)
+• When 1st gear is requested, 4th gear is engaged.
+• When 2nd gear is requested, 4th gear is engaged.
+• When 6th gear is requested, 4th gear is engaged.
+MONITOR DESCRIPTION
+The TCM commands gear shifts by turning the shift solenoid valves on or off. According to the input shaft
+revolution, intermediate (counter) shaft revolution and output shaft revolution, the TCM detects the actual
+gear position (1st, 2nd, 3rd, 4th or 5th gear position). When the gear position commanded by the TCM
+and the actual gear position are not the same, the TCM illuminates the MIL and stores the DTC.
+MONITOR STRATEGY
+P2808:
+Related DTCs Shift solenoid valve SL4/OFF malfunction
+Shift solenoid valve SL4/ON malfunction
+Shift solenoid valve SL4, Speed sensor (NT), Speed sensor (NC), Crankshaft
+Required sensors/Components
+position sensor (NE)
+Frequency of operation Continuous
+OFF malfunction (A): 0.5 sec.
+Duration OFF malfunction (B): 0.8 sec.
+ON malfunction: 0.8 sec.
+MIL operation 2 driving cycles
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+All:
+Turbine speed sensor circuit Circuit is not malfunctioning
+Intermediate shaft speed sensor circuit Circuit is not malfunctioning
+Shift solenoid valve SL1 circuit Circuit is not malfunctioning
+Shift solenoid valve SL2 circuit Circuit is not malfunctioning
+Shift solenoid valve SL3 circuit Circuit is not malfunctioning
+Shift solenoid valve SL4 circuit Circuit is not malfunctioning
+ETC (Engine coolant temperature) sensor circuit Circuit is not malfunctioning
+Knock control sensor circuit Circuit is not malfunctioning
+Electronic throttle system Circuit is not malfunctioning
+CAN communication system Circuit is not malfunctioning
+Transmission range "D"
+Transmission fluid temperature Above -10°C (5°F)

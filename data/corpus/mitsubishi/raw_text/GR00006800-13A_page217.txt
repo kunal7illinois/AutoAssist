@@ -1,0 +1,46 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-217
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR : B-01, B-02, B-05, B-06 CONNECTORS:C-49<M/T>,C-50<A/T>
+B-01 B-02 B-05B-06
+ECM<M/T>
+OR
+PCM<A/T>
+C-49,C-50
+AAKK000000227733AB AK000280BC
+CONNECTOR: A-18X
+MFI RELAY
+AK101363AB
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+• The injector power is supplied from the MFI relay Check Conditions
+(terminal 4). • Engine speed is lower than 1,000 r/min.
+• The ECM <M/T> or PCM <A/T> controls the • Throttle position sensor output voltage is lower
+injector by turning the power transistor in the than 1.16 volts.
+ECM <M/T> or PCM <A/T> "ON" and "OFF".
+Judgment Criteria
+• Injector coil surge voltage (battery positive volt-
+.
+TECHNICAL DESCRIPTION
+age +2 volts) has not been detected for 2 sec-
+• The amount of fuel injected by the injector is con-
+onds.
+trolled by the amount of continuity time the coil is
+grounded by the ECM <M/T> or PCM <A/T>. .
+TROUBLESHOOTING HINTS (The most likely
+• A surge voltage is generated when the injectors
+causes for this code to be set are: )
+are driven and the current flowing to the injector
+• Injector failed.
+coil is shut off.
+• Open or shorted injector circuit, or loose connec-
+• The ECM <M/T> or PCM <A/T> checks this
+tor.
+surge voltage.
+• ECM failed. <M/T>
+• PCM failed. <A/T>
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991348: Test Harness Set
+TSB Revision

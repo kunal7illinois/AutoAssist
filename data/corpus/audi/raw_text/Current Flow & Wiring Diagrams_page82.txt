@@ -1,0 +1,58 @@
+Audi TT No. 5 / 5
+Current Flow Diagram
+Airbag control unit, driver side belt switch, side airbag crash
+sensor on driver side and front passenger, crash sensor for
+front airbag
+E24 Driver side belt switch
+G179 Side airbag crash sensor on driver side
+G180 Side airbag crash sensor on front passenger side
+G190 Crash sensor for front airbag
+J234 Airbag control unit
+T2p 2-pin connector, yellow, front engine compartment, centre
+5555 T2q 2-pin connector, yellow, in driver door
+T2r 2-pin connector, yellow, in front passenger door
+0,5
+T2aa 2-pin connector, in driver seat
+gn
+T10h 10-pin connector, black, under driver seat
+T20a 20-pin connector, black, in the front left door
+T10h/6 T20b 20-pin connector, black, in the front right door
+T75 75-pin connector, yellow, on airbag control unit
+0,5 383 Earth connection 18, in main wiring harness
+0,35
+gn/sw * up to May 2009
+** from June 2009
+J234
+T75/55
+T75/46 T75/68 T75/69 T75/70 T75/71 T75/72
+5555
+0,5 0,5 0,5 0,5 0,5 0,5 0,5
+br ge br ro li br gn
+T20a T20a/5 T20b T20b/6 T2aa/2
+/6 /5
+0,5 0,5 0,5 0,5
+br ro li br
+0,350,35 0,350,35 0,350,35
+br or br ws li gr/sw
+T2p/2 T2p/1 T2q/2 T2q/1 T2r/1 T2r/2
+E24
+G190 G179 G180
+T2aa/1
+ws = white
+0,5 sw = black
+br
+ro = red
+6655
+T10h/5 br = brown
+gn = green
+0,35 0,5
+br br bl = blue
+383
+gr = grey
+383
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-005050909
+rs = pink
+Edition 09.2009

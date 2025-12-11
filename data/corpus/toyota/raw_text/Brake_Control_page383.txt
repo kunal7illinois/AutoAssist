@@ -1,0 +1,31 @@
+BC–372
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+1 CHECK STOP LIGHT SWITCH OPERATION (STOP LIGHT SWITCH CIRCUIT)
+(a) Check that the stop lights come on when the brake pedal
+is depressed and go off when the brake pedal is
+released.
+OK
+Pedal Condition Illumination Condition
+Brake pedal depressed ON
+Brake pedal released OFF
+NG Go to step 5
+OK
+2 INSPECT SKID CONTROL ECU (STP TERMINAL)
+BC
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Harness Side
+(b) Measure the voltage according to the value(s) in the
+Connector Front View):
+table below.
+Standard voltage
+Tester Connection Switch Condition Specified Condition
+A60 A60-30 (STP1) - Body
+Brake pedal depressed 8 to 14 V
+ground
+A60-30 (STP1) - Body
+Brake pedal released Below 4.0 V
+ground
+NG Go to step 7
+STP1
+C136493E06
+OK

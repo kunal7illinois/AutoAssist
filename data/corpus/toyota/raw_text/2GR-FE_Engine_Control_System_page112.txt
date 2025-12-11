@@ -1,0 +1,53 @@
+ES–112
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Crankshaft Position - Camshaft Position Corre-
+DTC P0016
+lation (Bank 1 Sensor A)
+Crankshaft Position - Camshaft Position Corre-
+DTC P0017
+lation (Bank 1 Sensor B)
+Crankshaft Position - Camshaft Position Corre-
+DTC P0018
+lation (Bank 2 Sensor A)
+Crankshaft Position - Camshaft Position Corre-
+DTC P0019
+lation (Bank 2 Sensor B)
+ES
+DESCRIPTION
+In the VVT system, the appropriate intake and exhaust valve open and close timings are controlled by the
+ECM. The ECM performs intake and exhaust valve control by performing the following: 1) controlling the
+camshaft and camshaft oil control valve, and operating the camshaft timing gear; and 2) changing the
+relative positions of the gaps between the camshaft and crankshaft.
+DTC No. DTC Detection Condition Trouble Area
+Deviation in crankshaft position sensor signal and VVT • Mechanical system (Timing chain has jumped teeth
+P0016 sensor 1 (for intake camshaft (bank 1)) signal (2 trip or chain stretched)
+detection logic) • ECM
+Deviation in crankshaft position sensor signal and VVT • Mechanical system (Timing chain has jumped teeth
+P0017 sensor 1 (for exhaust camshaft (bank 1)) signal (2 trip or chain stretched)
+detection logic) • ECM
+Deviation in crankshaft position sensor signal and VVT • Mechanical system (Timing chain has jumped teeth
+P0018 sensor 2 (for intake camshaft (bank 2)) signal (2 trip or chain stretched)
+detection logic) • ECM
+Deviation in crankshaft position sensor signal and VVT • Mechanical system (Timing chain has jumped teeth
+P0019 sensor 2 (for exhaust camshaft (bank 2)) signal (2 trip or chain stretched)
+detection logic) • ECM
+MONITOR DESCRIPTION
+To monitor the correlation of the intake camshaft position and crankshaft position, the ECM checks the
+VVT learning value while the engine is idling. The VVT learning value is calibrated based on the camshaft
+position and crankshaft position. The intake valve timing is set to the most retarded angle while the engine
+is idling. If the VVT learning value is out of the specified range in consecutive driving cycles, the ECM
+illuminates the MIL and sets the DTC P0016 (Bank 1) or P0018 (Bank 2).
+To monitor the correlation of the exhaust camshaft position and crankshaft position, the ECM checks the
+VVT learning value while the engine is idling. The VVT learning value is calibrated based on the camshaft
+position and crankshaft position. The exhaust valve timing is set to the most advanced angle while the
+engine is idling. If the VVT learning value is out of the specified range in consecutive driving cycles, the
+ECM illuminates the MIL and sets the DTC P0017 (Bank 1) or P0019 (Bank 2).
+MONITOR STRATEGY
+P0016: Camshaft timing misalignment at idle (intake camshaft bank 1)
+P0017: Camshaft timing misalignment at idle (exhaust camshaft bank
+1)
+Related DTCs
+P0018: Camshaft timing misalignment at idle (intake camshaft bank 2)
+P0019: Camshaft timing misalignment at idle (exhaust camshaft bank
+2)
+Required sensors/components (Main) VVT actuator

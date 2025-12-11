@@ -1,0 +1,44 @@
+35C-18 TRACTION CONTROL SYSTEM (TCL)
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+.
+STEP 1. Check the TCL indicator light circuit at the ABS-
+ECU connector A-02.
+(1) Disconnect the ABS-ECU connector A-02 and measure at
+the harness side.
+(2) Ground the terminal 13.
+A-02 (HARNESS SIDE)
+(3) Turn the ignition switch to the "ON" position.
+Q:Does the TCL indicator light illuminate?
+YES : Replace the hydraulic unit (integrated with ABS-ECU)
+(Refer to GROUP 35B, Hydraulic Unit P.35B-52.) and
+then go to Step 9.
+NO : Go to Step 2.
+AC000968AB
+STEP 2. Check the TCL indicator light bulb.
+(1) Remove the combination meter. (Refer to GROUP 54A,
+Combination Meter P.54A-105 and P.54A-107.)
+(2) Check the TCL indicator light bulb.
+Q:Is the TCL indicator light bulb burned out?
+YES : Replace the bulb and then go to Step 9.
+NO : Go to Step 3.
+STEP 3. Check the combination meter for the continuity.
+(1) Remove the combination meter. (Refer to GROUP 54A,
+Combination Meter P.54A-105.)
+(2) Remove the TCL indicator light bulb. (Refer to GROUP
+54A, Combination Meter P.54A-107.) Then measure the
+resistance between the bulb terminals.
+(3) Install the TCL indicator light bulb to the combination meter,
+CONNECTOR C-41 and then measure the resistance between the connector C-
+41 terminals 43 and 52. The resistance reading at this time
+should be much the same as the resistance measured at
+step (2).
+Q:Are the two resistance values extremely different each
+other?
+YES : Replace the combination meter (printed circuit board)
+and then go to Step 9.
+AC004564AB NO (much the same) : Go to Step 4.
+TSB Revision

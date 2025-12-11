@@ -1,0 +1,55 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-89
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TECHNICAL DESCRIPTION Judgement Criteria
+• The engine coolant temperature sensor converts • Engine coolant temperature sensor output volt-
+the engine coolant temperature to a voltage and age has continued to be 0.1 volt or lower [corre-
+output it. sponding to a coolant temperature of 140°C
+• The ECM <M/T> or PCM <A/T> checks whether (284°F) or higher] for 2 seconds.
+this voltage is within a specified range.
+.
+TROUBLESHOOTING HINTS (The most likely
+.
+DTC SET CONDITIONS causes for this code to be set are:)
+• Engine coolant temperature sensor failed.
+Check Conditions
+• Open or shorted engine coolant temperature sen-
+• 2 seconds or more have passed since the staring
+sor circuit, or loose connector.
+sequence was completed.
+• ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 21:
+Engine Coolant Temperature Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the data reading mode for item
+21, Engine Coolant Temperature Sensor.
+16 PIN • The engine coolant temperature and temperature
+shown with the scan tool should approximately match.
+MB991502
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+AKX01177AB
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+STEP 2. Check connector B-11 at the engine coolant
+temperature sensor for damage.
+Q:Is the connector in good condition?
+CONNECTOR : B-11
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 6.
+ENGINE COOLANT
+TEMPERATURE
+SENSOR
+ACX02478AD
+TSB Revision

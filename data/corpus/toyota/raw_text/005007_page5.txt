@@ -1,0 +1,69 @@
+ES–35
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+5. WAVEFORM 5
+5 V/DIV
+Crankshaft position sensor and Camshaft position
+sensor
+CH1 GND
+ECM Terminal Names CH1: Between G2+ and G2-
+(G2)
+CH2: Between NE+ and NE-
+Tester Ranges 5 V/DIV., 20 msec./DIV.
+CH2 Conditions Idling
+GND
+(NE+)
+HINT:
+20 msec./DIV The wavelength becomes shorter as the engine rpm
+A063955E07
+increases.
+6. WAVEFORM 6
+2 V/DIV. Igniter IGT signal (from ECM to igniter) and Igniter
+ES
+IGF signal (from igniter to ECM)
+IGT ECM Terminal Names Between IGT (1 to 4) and E1
+Between IGF1 and E1
+Ground
+Tester Ranges 2 V/DIV., 20 msec./DIV.
+IGF
+Conditions Idling
+Ground
+HINT:
+20 msec./DIV. The wavelength becomes shorter as the engine rpm
+A093278E12
+increases.
+7. WAVEFORM 7
+Purge VSV
+5 V/DIV.
+ECM Terminal Names Between PRG and E1
+Tester Ranges 5 V/DIV., 50 msec./DIV.
+Conditions Idling
+GND
+HINT:
+If the waveform is not similar to the illustration, check the
+waveform again after idling for 10 minutes or more.
+50 msec./DIV.
+A093230E01
+8. WAVEFORM 8
+Vehicle speed signal
+2 V/DIV.
+ECM Terminal Names Between SPD and E1
+Tester Ranges 2 V/DIV., 20 msec./DIV.
+Conditions Driving at 20 km/h (12 mph)
+GND
+HINT:
+The wavelength becomes shorter as the vehicle speed
+increases.
+20 msec./DIV.
+A093224E01
+9. WAVEFORM 9
+Throttle actuator positive terminal
+5 V/DIV.
+ECM Terminal Names Between M+ and ME01
+Tester Ranges 5 V/DIV., 1 msec./DIV.
+Conditions Idling with warm engine
+HINT:
+GND
+The duty ratio varies depending on the throttle actuator
+operation.
+1 msec./DIV.
+A093274E03

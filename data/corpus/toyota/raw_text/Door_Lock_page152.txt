@@ -1,0 +1,69 @@
+DL–142
+DOOR LOCK – SMART KEY SYSTEM
+Possible Effects without Warning Engine cannot be restarted
+Warning:
+Information below is displayed on combination meter:
+• "Key is not Detected"
+Combination Meter
+Warning is stopped when one of following conditions is met:
+• Multi-information Display
+• Engine switch is off
+• Vehicle speed is above 0 km/h (0 mph)
+• Electrical key is in cabin or luggage compartment
+Warning:
+Sounds 3 times
+Warning is stopped when one of following conditions is met:
+Wireless Door Lock Buzzer
+• Engine switch is off
+• Vehicle speed is above 0 km/h (0 mph)
+• Electrical key is in cabin or luggage compartment
+(e) Situation D
+In this situation, the following control is performed:
+Possible Effects without Warning Confuses the user
+Certification ECU gives warning when both following conditions are
+satisfied:
+Warning Condition
+• Engine switch is not off
+• Electrical key is not in cabin
+Combination Meter Warning:
+• Buzzer Sounds once
+Warning:
+Combination Meter Information below is displayed on combination meter for 8 seconds
+• Multi-information Display (disappears after 8 seconds):
+• "Key is not Detected"
+Wireless Door Lock Buzzer -
+(f) Situation E
+In this situation, the following control is performed:
+Possible Effects without Warning Vehicle theft
+Certification ECU gives warning when all following conditions are
+satisfied:
+• Engine switch is off
+Warning Condition
+• All doors are closed
+• Lock switch is "ON"
+• Electrical key is in cabin or luggage compartment
+Combination Meter
+-
+• Buzzer
+Combination Meter
+-
+• Multi-information Display
+Warning:
+Wireless Door Lock Buzzer
+Sounds for 2 seconds
+(g) Situation F
+DL
+In this situation, the following control is performed:
+Possible Effects without Warning Smart key system does not function
+Certification ECU gives warning when all following conditions are
+satisfied:
+• Engine switch is turned off after being left on (IG) for over 20
+Warning Condition
+minutes
+• Electrical key battery voltage is low
+• Electrical key is in cabin
+Combination Meter Warning:
+• Buzzer Sounds once
+Combination Meter Information below is displayed on combination meter:
+• Multi-information Display • "Low Key Battery"
+Wireless Door Lock Buzzer -

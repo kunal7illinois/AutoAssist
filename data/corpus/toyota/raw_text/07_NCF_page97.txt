@@ -1,0 +1,38 @@
+EG-70 ENGINE - 2AZ-FE ENGINE
+e. Purge VSV Monitor
+1)After completing an EVAP leak check, the ECM turns ON (open) the purge VSV with the leak
+detection pump actuated, and introduces the atmospheric pressure from the intake manifold to the
+canister.
+2)If the pressure change at this time is within the normal range, the ECM determines the condition to
+be normal.
+3)If the pressure is out of the normal range, the ECM will stop the purge VSV monitor and store DTC
+P0441 in its memory.
+Atmosphere
+Atmosphere
+Purge VSV
+(ON)
+Canister Pump Module
+Vent Valve
+(ON)
+M
+Leak Detection Pump
+ECM & Pump Motor
+P
+Canister Pressure
+Sensor 060XA25C
+ON (Open)
+Purge VSV
+OFF (Close)
+ON
+Vent Valve
+OFF (Vent)
+ON
+Pump Motor
+OFF
+Atmospheric Pressure
+System Pressure
+Normal
+0.02 in. Pressure
+P0441
+Purge VSV Monitor
+060XA26C

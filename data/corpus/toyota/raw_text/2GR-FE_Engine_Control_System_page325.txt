@@ -1,0 +1,32 @@
+ES–325
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+6 CHECK HARNESS AND CONNECTOR
+(a) Disconnect the transmission control switch connector of
+the shift lock control unit assembly.
+Wire Harness Side:
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage between the terminals.
+Standard voltage
+Transmission Control Switch
+Tester Connection Specified Condition
+3 - Body ground 10 to 14 V
+(d) Reconnect the transmission control switch connector.
+E31
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR ES
+C110345E20
+OK
+7 INSPECT TRANSMISSION CONTROL SWITCH
+(a) Measure the resistance according to the value(s) in the
+Component Side: table below when the shift lever is moved to each
+position.
+Standard resistance
+Transmission Control Switch Shift Position Tester Connection Specified Condition
+S, ''+'' and ''-'' Below 1 Ω
+3 - 7
+Except S, ''+'' and ''-'' 10 kΩ or higher
+E31
+NG REPLACE TRANSMISSION CONTROL
+SWITCH
+C136860E03
+OK

@@ -1,0 +1,36 @@
+AC–90
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+3 CHECK HARNESS AND CONNECTOR (A/C COMPRESSOR - A/C AMPLIFIER)
+(a) Disconnect the A/C compressor connector.
+A/C Compressor Connector
+Front View:
+C21
+SOL+
+E116971E03
+(b) Disconnect the A/C amplifier connector.
+Air Conditioning Amplifier
+(c) Measure the resistance according to the value(s) in the
+Connector Wire Harness View:
+table below.
+Standard resistance
+E38 Tester Connection Condition Specified Condition
+E38-2 (SOL+) - C21-2
+Always Below 1 Ω
+(SOL+)
+AC
+E38-2 (SOL+) - Body
+Always 10 kΩ or higher
+ground
+Result
+Result Proceed to
+NG A
+SOL+
+OK (When troubleshooting according to the
+B
+PROBLEM SYMPTOMS TABLE)
+E124470E10 OK (When troubleshooting according to the DTC) C
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+C REPLACE AIR CONDITIONING AMPLIFIER
+A
+REPAIR OR REPLACE HARNESS OR CONNECTOR

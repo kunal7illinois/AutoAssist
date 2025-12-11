@@ -1,0 +1,58 @@
+AUTOMATIC TRANSAXLE 23A-231
+AUTOMATIC TRANSAXLE DIAGNOSIS
+DTC 53: Torque Converter Clutch is Stuck on
+. .
+DTC SET CONDITIONS TROUBLESHOOTING HINTS (The most likely
+If the torque converter clutch remains engaged for a causes for this code to be set:)
+continuous period of ten seconds when the PCM is • Malfunction of the torque converter clutch sole-
+attempting to disengage the torque converter clutch, noid valve
+it is judged that the torque converter clutch is stuck • Damaged harness, connector
+on and diagnostic trouble code number "53" is out- • Malfunction of the PCM
+put.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Using scan tool MB991502, check data list item 52:
+Amount of Torque Converter Clutch Slippage.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+. (1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at constant speed of 50km/h
+(31mph). (Gear range: 3rd gear)
+(3) Set scan tool MB991502 to data reading mode for item 52:
+Amount of Torque Converter Clutch Slippage.
+• Driving at constant speed of 50 km/h (31 mph), the dis-
+play should be "−10 to 10 r/min."
+• If the accelerator pedal is released, the display on the
+16 PIN
+scan tool changes.(50 km/h (31 mph) and less).
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AC001252AB
+Q:Is the sensor operating properly?
+YES : . This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : . Go to Step 2.
+STEP 2. Using scan tool MB991502, carry out the actuator
+test item 06: Torque Converter Clutch Solenoid Valve.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to actuator test mode for item 06:
+Torque Converter Clutch Solenoid Valve.
+• An operation sound should be heard from solenoid
+valve when the torque converter clutch solenoid valve is
+operated.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the solenoid valve operating properly?
+MB991502
+AC001252AB YES : Go to Step 3.
+NO : Replace the torque converter clutch solenoid valve.
+Refer to GROUP 23B, Valve Body P.23B-74.
+TSB Revision

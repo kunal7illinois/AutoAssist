@@ -1,0 +1,23 @@
+BC–363
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+Low Battery Positive Voltage or Abnormally
+DTC C1241/41
+High Battery Positive Voltage
+DESCRIPTION
+If a malfunction is detected in the power supply circuit of the brake actuator assembly (skid control ECU),
+the skid control ECU (housed in the actuator assembly) stores this DTC and the fail-safe function prohibits
+ABS operation.
+This DTC is output when the IG1 terminal voltage deviates from the normal condition due to a malfunction
+in the power supply or charging circuit such as the battery or alternator circuit.
+This DTC is cancelled when the IG1 terminal voltage returns to normal (only when the voltage returns to
+normal from a voltage lower than the specified value).
+DTC No. DTC Detection Condition Trouble Area
+• Battery
+• ECU-IG No. 2 fuse
+When either of the following is detected:
+• Charging system
+C1241/41 • Battery voltage is 16.8 V or more.
+• Power source circuit
+• Battery voltage is 9.2 V or less.
+• Brake actuator assembly (internal power source
+circuit) BC

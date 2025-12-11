@@ -1,0 +1,44 @@
+52B-10 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+GENERAL DESCRIPTION
+.
+SQUIB CIRCUIT CONNECTOR LOCK SWITCH
+The switch is a mechanism that shorts the power supply terminal to the ground terminal automatically in the
+air bag squib circuit when the connector is disconnected. A "short" spring is integrated inside the connector.
+This spring prevents static electricity from flowing to the squib by shorting the power supply terminal to the
+ground terminal (i.e. there is no potential difference between the two terminals).
+CAUTION
+When the connector is disconnected, there will be short circuit between the terminals. This is not a
+fault.
+CONNECTOR CONNECTED CONNECTOR DISCONNECTED
+OFF
+OFF
+ON
+ON
+SQUIB SQUIB
+SRS-ECU SRS-ECU
+OFF OFF
+ON
+ON
+<CONNECTOR SHORTING PREVENTION MECHANISM (E.G. SRS-ECU CONNECTOR)>
+ECU-SIDE CONNECTOR WIRING HARNESS-SIDE CONNECTOR
+A B
+TERMINAL
+TERMINAL (FEMALE)
+(MALE)
+CONNECTOR CONNECTED
+PARTION PANEL
+A B TERMINAL
+SHORT SPRING
+(FEMALE)
+TERMINAL
+SECTION A - A SECTION B - B
+(MALE)
+TERMINAL TERMINAL
+(MALE) (FEMALE)
+PARTION PANEL
+SHORT SHORT SPRING
+PARTION PANEL
+SPRING
+AC006197AB
+.
+TSB Revision

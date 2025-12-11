@@ -1,0 +1,59 @@
+EI–13
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+*1: Repeat this process for each key which is to be
+registered for the vehicle. Finish the procedure for
+each key within 30 seconds. If the procedure for any
+of the keys has not been finished within the
+specified time, perform registration procedures from
+process 1 again. Make sure that only 1 key is in the
+cabin during registration procedures. If 2 or more
+keys are in the cabin simultaneously, electric waves
+will interfere with each other, preventing normal
+registration.
+(b) PROCEDURE "B"
+New key ID registration (when replacing certification
+ECU)
+Process Procedure
+1. Start of registration 1. Connect intelligent tester (with CAN VIM) to DLC3
+2. Turn engine switch on (IG)
+3. Select "SMART ACCESS / ID UTILITY / SMART CODE REG"
+from tester menu
+HINT:
+The engine switch cannot be turned on (IG) more than 10 times. After
+connecting tester, turn tester on while turning driver's side door
+courtesy light switch on and off repeatedly at 1.5-second intervals or
+less to continue key registration procedure
+2. Confirmation of ECU code Perform operation according to prompts on tester screen
+HINT:
+The mode is automatically selected by tester, new registration mode
+or add mode
+3. Confirmation of all registered keys *1 Hold unregistered key close to engine switch (For details, refer to
+PROCEDURE "1")
+Confirm that wireless door lock buzzer sounds
+4. Confirmation of ECU code Perform operation according to prompts on tester screen
+5. Verification of unregistered key *2 Hold unregistered key close to engine switch (For details, refer to
+PROCEDURE "1")
+Confirm that wireless door lock buzzer sounds. Place unregistered
+key on front passenger side seat
+Confirm that wireless door lock buzzer sounds
+EI
+5. Registration of ID code Perform operation according to prompts on tester screen
+6. End of registration Finish new key ID code registration
+*1: Repeat this process for each key registered for
+the vehicle. Finish the procedure for each key within
+30 seconds. If the procedure for any of the keys has
+not been finished within the specified time, perform
+registration procedures from process 1 again. If
+performing the key confirmation procedure for a key,
+the security indicator comes on and remains on until
+all the keys are confirmed.
+*2: Repeat this process for each key which is to be
+registered for the vehicle. Finish the procedure for
+each key within 30 seconds. If the procedure for any
+of the keys has not been finished within the
+specified time, perform registration procedures from
+1 again. Make sure that only 1 key is in the cabin
+during registration procedures. If 2 or more keys are
+in the cabin simultaneously, electric waves will
+interfere with each other, preventing normal
+registration.

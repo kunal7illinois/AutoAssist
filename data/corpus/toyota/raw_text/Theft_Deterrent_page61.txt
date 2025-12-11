@@ -1,0 +1,73 @@
+TD–59
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/o Smart Key System)
+DATA LIST / ACTIVE TEST
+1. DATA LIST
+HINT:
+Using the intelligent tester DATA LIST allows switch,
+sensor, actuator and other item values to be read without
+removing any parts. Reading the DATA LIST early in
+troubleshooting is one way to shorten labor time.
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the ignition switch on ON.
+(c) Enter the following menus: DIAGNOSIS / OBD/
+MOBD / MAIN BODY / DATA LIST.
+(d) Read the DATA LIST according to the display on the
+tester.
+MAIN BODY (Main body ECU):
+Diagnostic
+Item Measurement Item / Display (Range) Normal Condition
+Note
+KEY UNLK WRN Unlock warning switch signal / ON or ON: Key is inserted in the ignition key cylinder
+-
+SW OFF OFF: Key is removed from the ignition key cylinder
+ON: Ignition switch is ACC
+ACC SW Ignition switch signal / ON or OFF -
+OFF: Ignition switch is OFF
+ON: Ignition switch is ON
+IG SW Ignition switch signal / ON or OFF -
+OFF: Ignition switch is OFF
+ON: Driver side door is OPEN
+D DOOR CTY SW D door courtesy switch / ON or OFF -
+OFF: Driver side door is CLOSED
+ON: Front passenger side door is OPEN
+P DOOR CTY SW P door courtesy switch / ON or OFF -
+OFF: Front passenger side door is CLOSED
+Rear right door courtesy switch / ON or ON: Rear right door is OPEN
+RR DOR CTY SW -
+OFF OFF: Rear right door is CLOSED
+Rear left door courtesy switch / ON or ON: Rear left door is OPEN
+RL DOR CTY SW -
+OFF OFF: Rear left door is CLOSED
+LUGG COURTSY Luggage compartment door courtesy ON: Luggage compartment door is OPEN
+-
+SW switch / ON or OFF OFF: Luggage compartment door is CLOSED
+TD
+Driver's door lock position switch / ON or ON: Driver's door is UNLOCKED
+D LOCK POS SW -
+OFF OFF: Driver's door is LOCKED
+Passenger door lock position switch / ON ON: Passenger door is UNLOCKED
+P LOCK POS SW -
+or OFF OFF: Passenger door is LOCKED
+HOOD Engine hood courtesy switch signal / ON ON: Engine hood is OPEN
+-
+COURTESY SW or OFF OFF: Engine hood is CLOSED
+ON: Passive mode ON
+PASSIVE MODE Passive mode/ON or OFF -
+OFF: Passive mode OFF
+ON: Vehicle horns sound during alarm sounding state
+WARN BY HORN Warning by horn/ON or OFF -
+OFF: Vehicle horns do not sound during alarm sounding state
+0s: Entry delay time is 0 sec.
+ENTRY DELAY Entry delay time during passive mode 14s: Entry delay time is 14 sec. -
+30s: Entry delay time is 30 sec.
+2. ACTIVE TEST
+HINT:
+Performing the intelligent tester ACTIVE TEST allows
+relay, VSV, actuator and other items to be operated
+without removing any parts. Performing the ACTIVE
+TEST early in troubleshooting is one way to shorten the
+labor time. The DATA LIST can be displayed during the
+ACTIVE TEST.
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.

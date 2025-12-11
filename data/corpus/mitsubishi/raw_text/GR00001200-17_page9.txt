@@ -1,0 +1,44 @@
+ENGINE AND EMISSION CONTROL 17-9
+AUTO-CRUISE CONTROL
+DIAGNOSTIC RESULT DISPLAY METHOD WHEN USING THE AUTO-CRUISE
+CONTROL INDICATOR LIGHT
+WHEN THE DIAGNOSTIC TROUBLE CODE NO.14 IS WHEN NO DIAGNOSTIC TROUBLE
+OUTPUT CODE IS OUTPUT
+0.5 s
+0.5 s
+1 s
+12V
+12V
+0V
+0V
+CONTINUOUS ON AND OFF
+SIGNALS AT INTERVALS OF 0.5 s
+PAUSE TEN- DIGIT FIRST DIGIT
+TIME: 3 s DIGIT DIVISION: ACX01174AB
+2 s
+ACX01173AB
+NOTE: Other on-board diagnostic items are also out-
+put as voltage waveforms corresponding to diagnos-
+tic trouble code numbers.
+Erasing Diagnostic Trouble Codes
+The diagnostic trouble codes can be erased by the following
+procedure.
+NOTE: The diagnostic trouble code will not be erased even if
+the negative battery terminal is disconnected.
+Using scan tool MB991502
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+1. Connect scan tool MB991502 to the data link connector.
+2. Turn the ignition switch to the "ON" position.
+3. Use scan tool MB991502 to check for auto-cruise control
+system diagnostic trouble codes.
+4. Turn the ignition switch to the "LOCK" (OFF) position.
+5. Disconnect scan tool MB991502.
+16 PIN
+MB991502
+AC001252AB
+TSB Revision

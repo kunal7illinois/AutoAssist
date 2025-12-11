@@ -1,0 +1,30 @@
+EI–38
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+DTC B2789 No Response from ID BOX
+DESCRIPTION
+This DTC is output when the certification ECU does not receive LIN communication from the ID code box
+for 10 seconds.
+DTC No. DTC Detection Condition Trouble Area
+Certification ECU does not receive LIN communication • Wire harness
+B2789 from ID code box • Certification ECU
+• Open or short in wire harness between ECUs • ID code box
+WIRING DIAGRAM
+ID Code BOX Certification ECU
+No. 4 J/B
+3 8 7 10
+O O
+LIN1 E50 4F 4F E58 LIN
+B128333E02
+EI
+INSPECTION PROCEDURE
+NOTICE:
+If the certification ECU or ID code box is replaced, register the key and ECU communication ID
+(See page EI-8).
+1 CHECK DTC OUTPUT
+(a) Delete the DTCs (See page EI-24).
+(b) Recheck for DTCs (See page EI-24).
+Result
+Result Proceed to
+B2789 output reoccurs A
+B2789 output does not reoccur B
+B END

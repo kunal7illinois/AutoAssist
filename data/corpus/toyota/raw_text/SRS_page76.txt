@@ -1,0 +1,24 @@
+RS–76
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DTC B1615/14 Front Airbag Sensor LH Malfunction
+DESCRIPTION
+The front airbag sensor LH consists of the diagnostic circuit and the frontal deceleration sensor, etc.
+If the center airbag sensor assembly receives signals from the frontal deceleration sensor, it determines
+whether the SRS should be activated.
+DTC B1615/14 is recorded when a malfunction is detected in the front airbag sensor LH circuit.
+DTC No. DTC Detection Condition Trouble Area
+• Front airbag sensor LH malfunction • Front airbag sensor LH
+B1615/14
+• Center airbag sensor assembly malfunction • Center airbag sensor assembly
+WIRING DIAGRAM
+Center Airbag
+A1 Sensor Assembly
+Front Airbag Sensor LH
+2 30
++SL IA2 I34 +SL
+2
+RS
+1 28
+-SL IA2 I34 -SL
+1
+H016901E09

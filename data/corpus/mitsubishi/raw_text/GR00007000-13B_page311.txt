@@ -1,0 +1,39 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-311
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Check connector B-35 at the knock sensor for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-35 <WITHOUT VARIABLE
+INDUCTION SYSTEM> YES : Go to Step 2.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 6.
+AK103512AB
+CONNECTOR: B-35 <WITH VARIABLE
+INDUCTION SYSTEM>
+AK103513AB
+STEP 2. Check the continuity at knock sensor harness
+side connector B-35.
+(1) Disconnect the connector B-35 and measure at the harness
+side.
+(2) Check for the continuity between terminal 2 and ground.
+• Should be less than 2 ohm.
+B-35 HARNESS
+Q:Is the continuity normal?
+SIDE CONNECTOR
+YES : Go to Step 3.
+2 1
+NO : Repair harness wire between knock sensor connector
+B-35 terminal 2 and ground because of open circuit or
+harness damage. Then go to Step 6.
+AKX01415AE
+STEP 3. Check connector C-62 at ECM <M/T> or connector
+C-59 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-62<M/T>, C-59<A/T>
+YES : Go to Step 4.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 6.
+C-59 C-62
+AK000225AL
+TSB Revision

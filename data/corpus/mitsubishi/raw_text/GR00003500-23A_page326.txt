@@ -1,0 +1,52 @@
+23A-326 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+MUT-II SCAN ITEM INSPECTION ITEM INSPECTION REQUIREMENT NORMAL
+TOOL NO. CONDITION
+DISPLAY
+SHIFT SW 69 Shift switch (Down) Ignition switch: ON Selector lever OFF
+DOWN <Vehicles with sport position: D
+mode>
+Selector lever OFF
+operation: Select
+sport mode
+Selector lever OFF
+operation: Upshift
+and hold the selector
+lever
+Selector lever ON
+operation: Downshift
+and hold the selector
+lever
+SHIFT SW 68 Shift switch (Up) Ignition switch: ON Selector lever OFF
+UP <Vehicles with sport position: D
+mode>
+Selector lever OFF
+operation: Select
+sport mode
+Selector lever ON
+operation: Upshift
+and hold the selector
+lever
+Selector lever OFF
+operation: Downshift
+and hold the selector
+lever
+STOPLIGHT 26 Stoplight switch Ignition switch: ON Brake pedal: ON
+SW Depressed
+Brake pedal: OFF
+Released
+TCC 52 Torque converter Warming up Driving at constant −10 to 10 r/min
+SLIPPAGE clutch amount of Selector lever speed of 50 km/h (31
+slippage position: 3 mph)
+<Vehicles without
+Release accelerator The value
+sport mode> or
+pedal [at less than changes
+Sport mode
+50 km/h (31 mph)]
+<Vehicles with
+sport mode>
+Driving at speed of
+50 km/h (31 mph)
+in 3rd gear
+TSB Revision

@@ -1,0 +1,50 @@
+RF–32
+SLIDING ROOF – SLIDING ROOF SYSTEM
+Sliding Roof ECU Power Source Circuit
+DESCRIPTION
+The sliding roof drive gear sub-assembly (sliding roof control ECU) receives signals from the sliding roof
+switch and activates the sliding roof. However, malfunctions in the fuse, wire harness or sliding roof drive
+gear sub-assembly (sliding roof control ECU) may cause the sliding roof system to stop operating.
+WIRING DIAGRAM
+Sliding Roof Control
+ECU and Motor
+E8
+Main Body ECU
+4 4
+LIN2 Q13 R1 MPX1
+RF 10
+(*1) (*2)
+Q6
+Overhead J/B
+10 9
+UP Q13 R1 UP
+5
+(*1) (*2)
+8 7
+DOWN Q13 R1 DWN
+4
+(*1) (*2)
+9 8
+CLS Q13 R1 CLS
+1
+(*1) (*2)
+7 10
+OPN Q13 R1 OPN
+2
+(*1) (*2)
+2 2
+GND Q13 R1 E
+3
+(*1) (*2)
+ECU IG No. 1 5 5
+From Ignition
+Q13 R1 IG
+Switch
+(*1) (*2)
+S / ROOF 1 1
+From Battery Q13 R1 B
+(*1) (*2)
+*1: TMC Made
+M
+*2: TMMK Made
+B146417E01

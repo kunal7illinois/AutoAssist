@@ -1,0 +1,41 @@
+ES–242
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(d) IAC flow rate learning value 1.3 L/sec. or less, or 6 L/sec. or more
+INSPECTION PROCEDURE
+HINT:
+• The following conditions may also cause DTC P0505 to be set:
+(a)The floor carpet overlapping slightly onto the accelerator pedal, causing the accelerator pedal to be
+slightly depressed and therefore the throttle valve position to be slightly open.
+(b)The accelerator pedal being not fully released.
+• Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition
+when malfunctions are detected. When troubleshooting, freeze frame data can help determine if the
+vehicle was moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or
+rich, and other data from the time the malfunction occurred.
+ES
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P0505)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Select the following the menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(e) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+P0505 A
+P0505 and other DTCs B
+HINT:
+If any DTCs other than P0505 are output, troubleshoot
+those DTCs first.
+B GO TO DTC CHART
+A
+2 CHECK PCV HOSE CONNECTIONS
+OK:
+PCV hose is connected correctly and is not damaged.
+NG REPAIR OR REPLACE PCV HOSE
+OK
+3 CHECK AIR INDUCTION SYSTEM
+(a) Check the air induction system for vacuum leakage.
+OK:
+No leakage from air induction system.
+NG REPAIR OR REPLACE AIR INDUCTION
+SYSTEM

@@ -1,0 +1,51 @@
+CH-140 CHASSIS - TIRE PRESSURE WARNING SYSTEM
+(cid:4)LAYOUT OF MAIN COMPONENTS
+Tire Pressure
+Warning System
+Tire Pressure
+Reset Switch
+Warning System ECU
+Tire Pressure Warning System
+Antenna & Receiver
+Combination Meter
+(cid:3) Tire Pressure Warning Light
+Tire Pressure Warning System
+Valve & Transmitter Front RH
+Tire Pressure Warning System
+Valve & Transmitter Front LH
+Tire Pressure Warning System
+Valve & Transmitter Rear LH
+Tire Pressure Warning System
+Tire Pressure Warning System Valve & Transmitter Rear RH
+Valve & Transmitter
+(With Standard Type Spare Tire)
+025CH60TE
+(cid:4)FUNCTION OF MAIN COMPONENTS
+Component Outline
+Transmits the vehicle speed signal to the tire pressure warning system
+Combination Meter
+ECU for vehicle speed correction
+(cid:3) Turns ON or blinks to warn the driver in accordance with the signal
+Tire Pressure
+from the tire pressure warning system ECU.
+Warning Light
+(cid:3) Displays the 2-digit DTC (Diagnostic Trouble Code).
+The appropriate air pressures of the tires currently mounted on the
+Tire Pressure Warning System
+vehicle are stored in the tire pressure warning system ECU by operating
+Reset Switch
+the tire pressure warning system reset switch.
+Detects the inflation pressure and internal temperature of the tire and
+Tire Pressure Warning System
+transmits the measured value and the ID number to the tire pressure
+Valve & Transmitter
+warning antenna & receiver.
+Tire Pressure Warning System Receives the tire pressure warning system valve & transmitter signal
+Antenna & Receiver and transmits this data to the tire pressure warning system ECU.
+(cid:3) Receives the data from the tire pressure warning system antenna &
+receiver and monitors the tire inflation pressure.
+Tire Pressure Warning System
+(cid:3) When the tire pressure warning system ECU detects a drop in the tire
+ECU
+inflation pressure or a system malfunction, it outputs the respective
+signal to the combination meter.

@@ -1,0 +1,57 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-17
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+PROCEDURE 3
+CATALYTIC CONVERTER MONITOR
+DTC P0421, P0431
+Drive cycle This monitor [from start to ignition switch to the "LOCK" (OFF) position] will be completed
+pattern while traveling with the following drive cycle pattern. It will take 20 minutes. You must
+complete this drive twice.
+NOTE: . Vehicle speed and throttle opening angle should be within the shaded range.
+300 SECONDS OR MORE
+72 - 97 km/h (45 - 60 mph)
+M/T: 5TH SPEED
+90 SECONDS OR MORE
+56 - 64 km/h (35 - 40 mph)
+97 (3) M/T: 4TH SPEED
+(60)
+64 (5) (5) (5) (5)
+(40) PREPARATION
+VEHICLE (2) PERIOD (4) (6) (6) (6)
+SPEED
+km/h (mph) 32 1 ST 2 ND 6 TH (7)
+(20) MON- MON- MON-
+ITOR ITOR ITOR
+(1)
+0
+ENGINE IGNITION
+START SWITCH:
+100 "LOCK"
+(OFF) position
+CALCULATED
+LOAD (%)
+50
+0
+FULL FULL FULL
+DECEL- DECEL- DECEL-
+ERATION ERATION ERATION
+AAKKXX0011334477AC
+Inspection • Atmospheric temperature: −10°C (14°F) or more
+conditions • A/C switch: OFF
+• Condition of A/T: Selector lever D range
+Test 1.Engine: start
+procedure 2.Accelerate until the vehicle speed is 72 km/h (45 mph).
+3.Travel for 300 seconds or more while keeping the vehicle speed at 72 − 97 km/h (45 - 60
+mph). (M/T = 5ht speed)
+4.Decelerate until the vehicle speed is within 56 − 64 km/h (35 − 40 mph).
+5.While keeping the accelerator pedal opening degree constant, keep the vehicle speed at
+56 − 64 km/h (35 − 40 mph) and travel for 90 seconds or more. (During monitor)
+6.Fully close the throttle and decelerate, and keep the deceleration state for 10 seconds.
+Then, quickly accelerate until the vehicle speed reaches 56 − 64 km/h (35 − 40 mph).
+Then, repeat steps 5 and 6, and complete six monitoring sessions.
+7.Return the vehicle to the shop, then turn the ignition switch to the "LOCK" (OFF) position.
+8.Confirm that the diagnostic trouble code (DTC) is not output.
+9.9. If DTC P0421 is output, refer to DTC P0421 − Warm Up Catalyst Efficiency Below
+Threshold (Bank 1) P.13B-346.
+If DTC P0431 is output, refer to DTC P0431 − Warm Up Catalyst Efficiency Below
+Threshold (Bank 2) P.13B-348.
+TSB Revision

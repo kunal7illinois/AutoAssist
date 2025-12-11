@@ -1,0 +1,37 @@
+ES–159
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 READ VALUE USING INTELLIGENT TESTER (COOLANT TEMP)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY /
+COOLANT TEMP.
+(d) Read the COOLANT TEMP twice, when the engine is
+both cold and warmed up.
+Standard:
+With cold engine: Same as ambient air
+temperature. ES
+With warm engine: Between 75°C and 100°C (167°F
+and 212°F).
+NG REPLACE ENGINE COOLANT
+TEMPERATURE SENSOR
+OK
+5 CHECK PCV HOSE CONNECTIONS
+(a) Check for PCV hose connections.
+OK:
+PCV hose is connected correctly and is not
+damaged.
+NG REPAIR OR REPLACE PCV HOSE
+OK
+6 CHECK AIR INDUCTION SYSTEM
+(a) Check the air induction system for vacuum leakage.
+OK:
+No leakage from air induction system.
+NG REPAIR OR REPLACE AIR INDUCTION
+SYSTEM
+OK
+7 CHECK FOR SPARKS AND IGNITION (See page ES-171)
+NG REPAIR OR REPLACE IGNITION SYSTEM
+OK
+8 CHECK FOR EXHAUST GAS LEAK
+(a) Check for exhaust gas leakage.

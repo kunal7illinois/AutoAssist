@@ -1,0 +1,33 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 HVAC Heating/Air Conditioning - Civic (All Except Hybrid)
+INSTALLATION ).
+NO - Replace A/C diode B.
+A/C COMPRESSOR CLUTCH CIRCUIT TROUBLESHOOTING
+NOTE:
+It is normal for the A/C compressor to turn off under
+(cid:1)
+certain conditions, such as low idle, high engine
+coolant temperature, or hard acceleration.
+Do not use this troubleshooting procedure if the fans
+(cid:1)
+are also inoperative with the A/C on. Refer to the
+SYMPTOM TROUBLESHOOTING INDEX.
+Before doing any symptom troubleshooting, check for
+(cid:1)
+powertrain DTCs, R18A1 engine (see GENERAL
+TROUBLESHOOTING INFORMATION ), K20Z3 engine
+(see GENERAL TROUBLESHOOTING INFORMATION ).
+1. Check the No. 20 (7.5 A) fuse in the under-hood fuse/relay box, and the No. 36
+(10 A) fuse in the under-dash fuse/relay box.
+Are the fuses OK?
+YES - Go to step 2.
+NO - Replace the fuses and recheck. If the fuses blow again, check for a short
+in the No. 20 (7.5 A) and No. 36 (10 A) fuses circuit.
+2. Connect the HDS to the DLC.
+3. Start the engine.
+4. Turn on the A/C on the HVAC control unit.
+5. Check the A/C CLUTCH in the PGM-FI Data List with the HDS at idle.
+HDS A/C VALUES
+ECT sensor 2 176-212 °F (80-100 °C)
+TP sensor About 0.5 V at idle

@@ -1,0 +1,29 @@
+BC–108
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+(1) Operation description
+The skid control ECU detects wheel lock based
+on speed signals it receives from the wheel
+speed sensors. Based on this information, the
+skid control ECU controls the pump motor and
+solenoid valves. The pump motor and solenoid
+valves are used to prevent wheel lock by
+controlling the hydraulic pressure applied to the
+brakes at each wheel. The ABS warning light will
+come on when the system is malfunctioning.
+(b) EBD (Electronic Brake force Distribution)
+The EBD control utilizes ABS, and performs proper
+brake force distribution between the front and rear
+wheels in accordance with driving conditions.
+When braking while cornering, it also controls the
+brake forces of the right and left wheels, helping to
+maintain vehicle behavior.
+BC
+Brake Actuator Assembly
+Skid Control ECU
+Each Speed Sensor Solenoid Valves
+Each Wheel Cylinder
+Combination Meter
+BRAKE Warning Light
+: CAN Communication System
+: Hydraulic Pressure
+C109468E02

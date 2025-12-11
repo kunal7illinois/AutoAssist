@@ -1,0 +1,38 @@
+CC–22
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+DTC P0571 Brake Switch "A" Circuit
+DESCRIPTION
+When the brake pedal is depressed, the stop light switch sends a signal to the ECM. When the ECM
+receives this signal, it cancels the cruise control. The fail-safe function operates to enable normal driving
+even if there is a malfunction in the stop light signal circuit. The cancellation condition occurs when
+voltage is applied to terminal STP. When the brake is applied, voltage is normally applied to terminal STP
+of the ECM through the STOP SW fuse and the stop light switch, and the ECM turns the cruise control off.
+DTC No. DTC Detection Condition Trouble Area
+• Stop light switch
+When voltage of STP terminal and that of ST1- terminal
+P0571 • Stop light switch circuit
+of ECM are less than 1 V for 0.5 sec. or more
+• ECM
+WIRING DIAGRAM
+Without Smart Key System:
+A19
+Stop Light Switch
+ECM
+36 36
+STOP
+2 1
+A24 A55 STP
+*2 *1
+Ignition Switch
+35 35
+5 AM2 IG2 6 IGN 3 4
+A24 A55 ST1-
+*2 *1
+ST2
+ST/AM2
+ALT FL MAIN
+CC
+Battery
+*1: 2GR-FE
+*2: 2AZ-FE
+E129952E01

@@ -1,0 +1,69 @@
+ES–53
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+LABEL
+Measurement Item/Range Diagnostic Note
+(Intelligent Tester Display)
+KNOCK FB VAL Feedback value of knocking -
+Absolute Accelerator Pedal Position (APP)
+ACCEL POS #1 -
+No. 1
+ACCEL POS #2 Absolute APP No. 2 -
+Read value with ignition switch on (IG) (Do
+THROTTLE POS Throttle position
+not start engine)
+Read value with ignition switch on (IG) (Do
+THROTTLE POS Throttle sensor positioning
+not start engine)
+THROTTLE POS #2 Throttle sensor positioning #2 -
+THROTTLE MOT Throttle motor -
+Performing INJ VOL or A/F CONTROL
+O2S B1 S2 Heated oxygen sensor output function of ACTIVE TEST enables technician
+to check output voltage of sensor
+ES
+Performing INJ VOL or A/F CONTROL
+O2S B2 S2 Heated oxygen sensor output function of ACTIVE TEST enables technician
+to check output voltage of sensor
+Performing INJ VOL or A/F CONTROL
+AFS B1 S1 A/F sensor output function of ACTIVE TEST enables technician
+to check output voltage of sensor
+Performing INJ VOL or A/F CONTROL
+AFS B2 S1 A/F sensor output function of ACTIVE TEST enables technician
+to check output voltage of sensor
+TOTAL FT #1 Total fuel trim -
+TOTAL FT #2 Total fuel trim -
+Short-term fuel compensation used to
+SHORT FT #1 Short-term fuel trim maintain air-fuel ratio at stoichiometric air-fuel
+ratio
+Overall fuel compensation carried out in long-
+LONG FT #1 Long-term fuel trim term to compensate for a continual deviation
+of short-term fuel trim from central valve
+Short-term fuel compensation used to
+SHORT FT #2 Short-term fuel trim maintain air-fuel ratio at stoichiometric air-fuel
+ratio
+Overall fuel compensation carried out in long-
+LONG FT #2 Long-term fuel trim term to compensate for a continual deviation
+of short-term fuel trim from central valve
+• OL (Open Loop): Has not yet satisfied
+conditions to go closed loop
+• CL (Closed Loop): Using heated oxygen
+sensor as feedback for fuel control
+• OL DRIVE: Open loop due to driving
+FUEL SYS #1 Fuel system status (Bank 1) conditions (fuel enrichment)
+• OL FAULT: Open loop due to detected
+system fault
+• CL FAULT: Closed loop but heated
+oxygen sensor, which used for fuel control
+malfunctioning
+• OL (Open Loop): Has not yet satisfied
+conditions to go closed loop
+• CL (Closed Loop): Using heated oxygen
+sensor as feedback for fuel control
+• OL DRIVE: Open loop due to driving
+FUEL SYS #2 Fuel system status (Bank 2) conditions (fuel enrichment)
+• OL FAULT: Open loop due to detected
+system fault
+• CL FAULT: Closed loop but heated
+oxygen sensor, which used for fuel control
+malfunctioning
+O2FT B1 S2 Fuel trim at heated oxygen sensor Same as SHORT FT #1
+O2FT B2 S2 Fuel trim at heated oxygen sensor Same as SHORT FT #1

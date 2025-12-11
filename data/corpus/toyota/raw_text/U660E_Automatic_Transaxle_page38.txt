@@ -1,0 +1,64 @@
+AX–38
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+TERMINALS OF ECU
+1. TCM
+C56
+AX
+7 6 5 4 3 2 1
+9 8
+1716151413121110
+2625242322212019 18
+C133222E01
+HINT:
+Each TCM terminal's standard voltage is shown in the
+table below.
+In the table, first follow the information under "Condition".
+Look under "Symbols (Terminals No.)" for the terminals
+to be inspected. The standard voltage between the
+terminals is shown under "Specified Condition".
+Use the illustration above as a reference for the TCM
+terminals.
+Symbols (Terminals No.) Wiring Color Terminal Description Condition Specified Condition
+IG switch ON (IG) and
+10 to 14 V
+shift lever in R position
+R shift position switch
+R (C56-15) - E1 (C56-8) W - B-W IG switch ON (IG) and
+signal
+shift lever in any position Below 1 V
+except R position
+IG switch ON (IG) and
+shift lever in D or 3 10 to 14 V
+D shift position switch position
+D (C56-16) - E1 (C56-8) R - B-W
+signal IG switch ON (IG) and
+shift lever in any position Below 1 V
+except D and 3 position
+Brake pedal is depressed 7.5 to 14 V
+STP (C56-12) - E1 (C56-8) B - B-W Stop light switch signal
+Brake pedal is released Below 1.5 V
+IG switch ON (IG) and
+shift lever in P or N Below 2 V
+position
+NSW (C56-11) - E1 (C56-8) L - B-W Park/neutral switch signal
+IG switch ON (IG) and
+shift lever in any position 10 to 14 V
+except P or N position
+Cranking (shift lever
+position in P or N position, 10 to 14 V
+ignition switch START)
+STA (C56-10) - E1 (C56-8) Y - B-W Starter signal
+IG switch ON (IG) and
+shift lever in any position Below 2 V
+except P or N position
+Speed signal from Vehicle speed 12 mph (20 Pulse generation
+SPD1 (C56-3) - E1 (C56-8) BR - B-W
+combination meter km/h) (See waveform 1)
+Battery (for measuring
+BATT (C56-1) - E1 (C56-8) W-L - B-W battery voltage and for Always 9 to 14 V
+TCM memory)
+IG2 (C56-13) - E1 (C56-8) L-B - B-W Ignition switch Ignition switch ON (IG) 9 to 14 V
++B (C56-18) - E1 (C56-8) W-L - B-W Power source of TCM Ignition switch ON (IG) 9 to 14 V
+Pulse generation
+CAN+ (C56-6) - E1 (C56-8) B - B-W CAN communication line Ignition switch ON (IG)
+(See waveform 2)

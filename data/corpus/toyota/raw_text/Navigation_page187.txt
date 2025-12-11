@@ -1,0 +1,26 @@
+NS–187
+NAVIGATION – NAVIGATION SYSTEM
+Microphone Circuit between Microphone and Radio and Navigation
+Assembly
+DESCRIPTION
+This circuit sends a microphone signal from the microphone to the radio and navigation assembly.
+It also supplies power from the radio and navigation assembly to the microphone.
+WIRING DIAGRAM
+Microphone Radio and Navigation Assembly
+1 2 17
+ACC Q5 Q12 F12 MACC
+(*1) (*2)
+5 3 9
+MIC- Q5 Q12 F12 MIC-
+(*1) (*2)
+3 1 19
+MI1+ Q5 Q12 F12 MIC+
+(*1) (*2)
+12
+(Shielded) (Shielded) (Shielded) F12 TSW-
+18
+F12 SGND
+*1: TMC Made
+*2: TMMK Made
+E129785E02
+NS

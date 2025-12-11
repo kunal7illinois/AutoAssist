@@ -1,0 +1,46 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-551
+SYMPTOM PROCEDURES
+STEP 2. Check the driver’s door lock actuator switch.
+Disconnect driver’s door lock actuator switch connector E-13.
+CONNECTOR: E-13 Then check continuity between the switch terminals.
+FRONT DOOR (LH)
+LEVER POSITION TESTER SPECIFIED
+CONNECTION CONDITION
+DEVICE SIDE
+E-13 LOCK 1 − 3 Less than 2 ohm
+1 2 3 UNLOCK 1 − 2 Less than 2 ohm
+4 5 6
+Q:Is the driver’s door lock actuator switch in good
+condition?
+YES : Go to Step 3.
+NO : Replace the driver’s door lock actuator switch. If the
+LOCK functions, which are described in "CIRCUIT
+VIEW A UNLOCK OPERATION", work normally, the input signal from
+the driver’s door lock actuator switch should be
+normal.
+LEVER
+A AC106613AB
+STEP 3. Measure at driver’s door lock actuator switch
+connector E-13 in order to check the ground circuit to the
+driver’s door lock actuator switch.
+(1) Disconnect driver’s door lock actuator switch connector E-
+CONNECTOR: E-13 13, and measure at the harness side.
+FRONT DOOR (LH)
+DEVICE SIDE
+E-13
+1 2 3
+4 5 6
+AC106556AF
+(2) Measure the resistance value between terminal 1 and
+ground.
+• The measured value should be 2 ohm or less.
+Q:Does the measured resistance value correspond with
+CONNECTOR E-13
+this range?
+(HARNESS SIDE)
+YES : Go to Step 6.
+NO : Go to Step 4.
+3 2 1
+6 5 4
+ACX01603AG
+TSB Revision

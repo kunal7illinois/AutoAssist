@@ -1,0 +1,47 @@
+RS–114
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+22 CHECK FLOOR WIRE NO. 2 (OPEN)
+(a) Using a service wire, connect terminals 8 (BBP+) and 11
+Floor Wire No. 2 (BBP-) of connector B.
+NOTICE:
+Do not forcibly insert a service wire into the
+D A terminals of the connector when connecting.
+C B (b) Measure the resistance according to the value(s) in the
+Center Airbag
+table below.
+Side Airbag Sensor Assembly
+Sensor RH Standard resistance
+Tester connection Condition Specified condition
+O7-4 (BBR+) - O7-3
+Always Below 1 Ω
+Connector B (BBR-)
+Connector C
+O1
+NG REPAIR OR REPLACE FLOOR WIRE NO. 2
+O7
+5 4 3 2 1
+4321 109 8 7 6
+1514131211
+BBR+ BBR- BBP+ BBP-
+Service Wire
+C114846E06
+OK
+RS 23 CHECK FLOOR WIRE NO. 2 (SHORT)
+(a) Disconnect the service wire from connector B.
+(b) Measure the resistance according to the value(s) in the
+Floor Wire No. 2
+table below.
+Standard resistance
+D A Tester connection Condition Specified condition
+C B Center Airbag O7-4 (BBR+) - O7-3 Always 1 MΩ or higher
+(BBR-)
+Side Airbag Sensor Assembly
+Sensor RH
+NG REPAIR OR REPLACE FLOOR WIRE NO. 2
+Connector C
+O7
+4321
+BBR+ BBR-
+C
+C114847E07
+OK

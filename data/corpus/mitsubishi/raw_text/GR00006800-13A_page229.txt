@@ -1,0 +1,43 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-229
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the injector.
+(1) Disconnect the injector connector B-01 <No. 1 cylinder>, B-
+CONNECTOR : B-01, B-02, B-05, B-06
+02 <No. 2 cylinder>, B-05 <No. 3 cylinder>, B-06 <No. 4
+B-01 B-02 B-05B-06
+cylinder>.
+AAKK000000227733AB
+(2) Measure the resistance between injector side connector
+INJECTOR SIDE terminal 1 and 2.
+CONNECTOR Standard value: 13 − 16 ohm [at 20°C (68°F)]
+Q:Is the resistance standard value?
+1 2
+YES : Go to Step 4.
+NO : Replace the injector. Then go to Step 9.
+AK000559AB
+STEP 4. Check connector at injector for damage.
+a. Check the connector B-01 when checking No. 1 cylinder.
+CONNECTOR : B-01, B-02, B-05, B-06
+b. Check the connector B-02 when checking No. 2 cylinder.
+B-01 B-02 B-05B-06
+c. Check the connector B-05 when checking No. 3 cylinder.
+d. Check the connector B-06 when checking No. 4 cylinder.
+Q:Is the connector in good condition?
+YES : Go to Step 5.
+NO : Repair or replace the injector. Refer to GROUP 00E,
+Harness Connector Inspection P.00E-2. Then go to
+Step 9.
+AAKK000000227733AB
+STEP 5. Check connector C-49 at ECM <M/T> or connector
+C-50 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-49<M/T>,C-50<A/T>
+YES : Go to Step 6.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 9.
+OR
+PCM<A/T>
+C-49,C-50
+AK000280BC
+TSB Revision

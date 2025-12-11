@@ -1,0 +1,58 @@
+GENERAL <ELECTRICAL> 00E-13
+HOW TO DIAGNOSE
+GENERAL ELECTRICAL SYSTEM CHECK
+M1001005300045
+A circuit consists of the power supply, switch, relay, load,
+ground, etc. There are various methods to check a circuit
+including an overall check, voltage check, short-circuit check,
+and continuity check. Each of the methods briefly described
+below apply only to circuits similar to the illustration.
+1. VOLTAGE CHECK
+POWER SUPPLY (1) Ground one lead wire of the test light. If a voltmeter is
+used instead of the test light, ground the grounding side
+lead wire.
+FUSE
+(2) Connect the other lead wire of the test light to the power
+side terminal of the switch connector. The test light
+should come on or the voltmeter should indicate a
+ON (2)
+voltage.
+SWITCH
+(3) Then, connect the test light or voltmeter to the motor
+connector. The test light should not come on, or the
+voltmeter should indicate no voltage. When the switch is
+turned ON in this state, the test light should come on, or
+OFF the voltmeter should indicate a voltage, with the motor
+(3)
+starting to run.
+MOTOR (4) The circuit illustrated here is normal. If there is any
+problem, such as the motor failing to run, check voltages
+beginning at the connector nearest to the motor until the
+TEST LIGHT
+(OR faulty part is identified.
+VOLTMETER)
+(1) 2. SHORT-CIRCUIT CHECK
+Because the fuse has blown, it is probable that there is a
+ACX00956AB short circuit. Follow the procedures below to narrow down
+the short-circuit location.
+STEP 1. Remove the blown fuse and connect the test light
+across the fuse terminals (Circuit switch: OFF).
+Q:Does the test light illuminate?
+YES : Short-circuit exists between the fuse block and the
+POWER SUPPLY
+switch. Repair the harness between the fuse block
+and the switch.
+FUSE BLOCK
+NO : Go to Step 2.
+(REMOVE
+THE FUSE)
+SHORT-CIRCUIT
+TEST
+LOCATION
+LIGHT
+SWITCH
+OFF
+ILLUMINATION
+LIGHT
+ACX00957AB
+TSB Revision

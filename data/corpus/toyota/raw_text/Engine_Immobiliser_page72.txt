@@ -1,0 +1,36 @@
+EI–68
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+(3) Waveform 3 (Reference)
+Terminal EFIO (E15-13) - GND (E15-16)
+Tool Setting 2 V/DIV., 1 s./DIV.
+Condition Ignition switch ON
+GND
+Tool Setting: 2 V/DIV., 1 s./DIV.
+B139206E01
+(4) Waveform 4 (Reference)
+Terminal EFII (E15-12) - GND (E15-16)
+Tool Setting 2 V/DIV., 1 s./DIV.
+Condition Ignition switch ON
+3. CHECK ECM
+(a) Disconnect the C24*1 or C55*2 ECM connector and
+measure the resistance between the terminal of the
+wire harness side connector and body ground.
+GND
+Tool Setting: 2 V/DIV., 1 s./DIV.
+B139207E01
+EI *1: for 2AZ-FE C24 *1 A24 *1
+*2: for 2GR-FE
+C55 *2 A55 *2
+(cid:20)(cid:21) (cid:20)(cid:20) (cid:20)(cid:19) (cid:20)(cid:18) (cid:19)(cid:27) (cid:19)(cid:26) (cid:19)(cid:25) (cid:19)(cid:24) (cid:19)(cid:23) (cid:19)(cid:22) (cid:19)(cid:21) (cid:19)(cid:20) (cid:19)(cid:19) (cid:19)(cid:18) (cid:27) (cid:26) (cid:25) (cid:24) (cid:23) (cid:22) (cid:21) (cid:20) (cid:19) (cid:19)(cid:19) (cid:19)(cid:18) (cid:27) (cid:26) (cid:25) (cid:24) (cid:23) (cid:22) (cid:21) (cid:20) (cid:19)
+(cid:22)(cid:18) (cid:21)(cid:27) (cid:21)(cid:26) (cid:21)(cid:25) (cid:21)(cid:24) (cid:21)(cid:23) (cid:21)(cid:22) (cid:21)(cid:21) (cid:21)(cid:20) (cid:21)(cid:19) (cid:21)(cid:18) (cid:20)(cid:27) (cid:20)(cid:26) (cid:20)(cid:25) (cid:20)(cid:24) (cid:20)(cid:23) (cid:20)(cid:22) (cid:19)(cid:27) (cid:19)(cid:26) (cid:19)(cid:25) (cid:19)(cid:24) (cid:19)(cid:23) (cid:19)(cid:22) (cid:19)(cid:21) (cid:19)(cid:20)
+(cid:22)(cid:24) (cid:22)(cid:23) (cid:22)(cid:22) (cid:22)(cid:21) (cid:22)(cid:20) (cid:22)(cid:19) (cid:24)(cid:21) (cid:24)(cid:20) (cid:24)(cid:19) (cid:24)(cid:18) (cid:23)(cid:27) (cid:23)(cid:26) (cid:23)(cid:25) (cid:23)(cid:24) (cid:23)(cid:23) (cid:23)(cid:22) (cid:23)(cid:21) (cid:23)(cid:20) (cid:23)(cid:19) (cid:23)(cid:18) (cid:22)(cid:27) (cid:22)(cid:26) (cid:22)(cid:25) (cid:21)(cid:18) (cid:20)(cid:27) (cid:20)(cid:26) (cid:20)(cid:25) (cid:20)(cid:24) (cid:20)(cid:23) (cid:20)(cid:22) (cid:20)(cid:21) (cid:20)(cid:20) (cid:20)(cid:19) (cid:20)(cid:18)
+(cid:26)(cid:24) (cid:26)(cid:23) (cid:26)(cid:22) (cid:26)(cid:21) (cid:26)(cid:20) (cid:26)(cid:19) (cid:26)(cid:18) (cid:25)(cid:27) (cid:25)(cid:26) (cid:25)(cid:25) (cid:25)(cid:24) (cid:25)(cid:23) (cid:25)(cid:22) (cid:25)(cid:21) (cid:25)(cid:20) (cid:25)(cid:19) (cid:25)(cid:18) (cid:24)(cid:27) (cid:24)(cid:26) (cid:24)(cid:25) (cid:24)(cid:24) (cid:24)(cid:23) (cid:24)(cid:22) (cid:22)(cid:19) (cid:22)(cid:18) (cid:21)(cid:27) (cid:21)(cid:26) (cid:21)(cid:25) (cid:21)(cid:24) (cid:21)(cid:23) (cid:21)(cid:22) (cid:21)(cid:21) (cid:21)(cid:20) (cid:21)(cid:19)
+(cid:19)(cid:18)(cid:21)(cid:19)(cid:18)(cid:20)(cid:19)(cid:18)(cid:19)(cid:19)(cid:18)(cid:18) (cid:27)(cid:27) (cid:27)(cid:26) (cid:27)(cid:25) (cid:27)(cid:24) (cid:27)(cid:23) (cid:27)(cid:22) (cid:27)(cid:21) (cid:27)(cid:20) (cid:27)(cid:19) (cid:27)(cid:18) (cid:26)(cid:27) (cid:26)(cid:26) (cid:26)(cid:25) (cid:22)(cid:27) (cid:22)(cid:26) (cid:22)(cid:25) (cid:22)(cid:24) (cid:22)(cid:23) (cid:22)(cid:22) (cid:22)(cid:21) (cid:22)(cid:20)
+(cid:19)(cid:18)(cid:27) (cid:19)(cid:18)(cid:26) (cid:19)(cid:18)(cid:25) (cid:19)(cid:18)(cid:24) (cid:19)(cid:18)(cid:23) (cid:19)(cid:18)(cid:22) (cid:19)(cid:20)(cid:24)(cid:19)(cid:20)(cid:23)(cid:19)(cid:20)(cid:22)(cid:19)(cid:20)(cid:21)(cid:19)(cid:20)(cid:20)(cid:19)(cid:20)(cid:19)(cid:19)(cid:20)(cid:18)(cid:19)(cid:19)(cid:27)(cid:19)(cid:19)(cid:26)(cid:19)(cid:19)(cid:25)(cid:19)(cid:19)(cid:24)(cid:19)(cid:19)(cid:23)(cid:19)(cid:19)(cid:22)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)(cid:20)(cid:19)(cid:19)(cid:19)(cid:19)(cid:19)(cid:18) (cid:24)(cid:18) (cid:23)(cid:27) (cid:23)(cid:26) (cid:23)(cid:25) (cid:23)(cid:24) (cid:23)(cid:23) (cid:23)(cid:22) (cid:23)(cid:21) (cid:23)(cid:20) (cid:23)(cid:19) (cid:23)(cid:18)
+A107881E15
+Terminal
+Symbols (Terminal No.) Wiring Color Condition Specified Condition
+Description
+E1 (C24-104)*1 - Body ground W-B - Body
+Ground Always Below 1 Ω
+E1 (C55-81)*2 - Body ground ground

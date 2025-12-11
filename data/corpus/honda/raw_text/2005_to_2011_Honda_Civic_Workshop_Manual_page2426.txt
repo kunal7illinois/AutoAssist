@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (K20Z3) - Civic (Except GX & Si)
+21. Turn the ignition switch ON (II).
+22. Check the FTP SENSOR in the DATA LIST with the HDS.
+Is it between - 0.67 kPa and 0.67 kPa (- 0.2 and 0.2 in.Hg, - 5 and 5 mmHg),
+or 2.4 and 2.6 V?
+YES - Check for debris or clogging at the EVAP canister and the FTP sensor
+port, then go to step 23.
+NO - Replace the FTP sensor (see FTP SENSOR REPLACEMENT ), then
+go to step 23.
+23. Turn the ignition switch ON (II).
+24. Reset the ECM with the HDS.
+25. Do the ECM idle learn procedure (see ECM IDLE LEARN PROCEDURE ).
+26. Start the engine. Hold the engine speed at 3,000 rpm without load (in neutral)
+until the radiator fan comes on, then let it idle.
+27. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P1454 and/or P2422 indicated?
+YES - Check for poor connections or loose terminals at the FTP sensor, the
+EVAP canister vent shut valve, and the ECM, then go to step 1.
+NO - Go to step 28.
+28. Monitor the OBD STATUS for DTC PI 454 in the DTCs MENU with the
+HDS.
+Does the screen indicate PASSED?
+YES - Troubleshooting is complete. If any other Temporary DTCs or DTCs
+were indicated in step 27, go to the indicated DTC's troubleshooting.
+NO - If the screen indicates FAILED, check for poor connections or loose
+terminals at the FTP sensor, the EVAP canister vent shut valve, and the ECM,
+then go to step 1. If the screen indicates NOT COMPLETED, keep idling until

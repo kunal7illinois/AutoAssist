@@ -1,0 +1,40 @@
+13A-104 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Check connector C-60 at ECM <M/T> or
+connector C-54, C-57 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-60<M/T>,C-54,C-57<A/T>
+YES : Go to Step 11.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 14.
+OR
+PCM<A/T>
+C-54 C-60
+C-57
+AK000280BD
+STEP 11. Check for harness damage between throttle
+position sensor connector B-07 (terminal 1) and ECM
+connector C-60 (terminal 84) <M/T> or PCM connector C-57
+(terminal 78) <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-07
+YES : Go to Step 12.
+NO : Repair it. Then go to Step 14.
+THROTTLE
+POSITION
+SENSOR
+ACX02472AE
+CONNECTORS:C-60<M/T>,C-57<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-60
+C-57
+AK000280BE
+STEP 12. Check the maladjusted throttle position sensor.
+Refer to, Throttle Position Sensor Adjustment P.13A-576.
+Q:Is the output voltage normal?
+YES : Go to Step 13.
+NO : Adjust it. Then go to Step 14.
+TSB Revision

@@ -1,0 +1,33 @@
+AX–3
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+DEFINITION OF TERMS
+Term Definition
+Monitor description Description of what the TCM monitors and how it detects malfunctions (monitoring purpose and its details).
+Related DTCs Diagnostic code
+Preconditions that allow the TCM to detect malfunctions.
+AX
+Typical enabling condition With all preconditions satisfied, the TCM sets the DTC when the monitored value(s) exceeds the
+malfunction threshold(s).
+The priority order that is applied to monitoring, if multiple sensors and components are used to detect the
+malfunction.
+Sequence of operation
+While another sensor is being monitored, the next sensor or component will not be monitored until the
+previous monitoring has concluded.
+Required sensor/components The sensors and components that are used by the TCM to detect malfunctions.
+The number of times that the TCM checks for malfunctions per driving cycle.
+"Once per driving cycle" means that the TCM detects malfunction only one time during a single driving
+Frequency of operation
+cycle.
+"Continuous" means that the TCM detects malfunction every time when the enabling conditions are met.
+The minimum time that the TCM must sense a continuous deviation in the monitored value(s) before
+Duration
+setting a DTC. This timing begins after the "typical enabling conditions" are met.
+Malfunction thresholds Beyond this value, the TCM will conclude that there is a malfunction and set a DTC.
+MIL illumination timing after a defect is detected.
+"Immediately" means that the TCM illuminates MIL the instant the TCM determines that there is a
+MIL operation malfunction.
+"2 driving cycle" means that the TCM illuminates MIL if the same malfunction is detected again in the 2nd
+driving cycle.
+Normal operation range of sensors and solenoids under normal driving conditions.
+Component operating range Use these ranges as a reference.
+They cannot be used to judge if a sensor or solenoid is defective.

@@ -1,0 +1,24 @@
+23A-90 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 6. Check the sensor output voltage at crankshaft
+position sensor connector B-20.
+(1) Disconnect connector B-20 and measure at the harness
+CONNECTOR: B-20
+side.
+<2.4L ENGINE>
+(2) Turn the ignition switch to the "ON" position.
+B-20
+AC004926AC
+CONNECTOR: B-20
+<3.0L ENGINE>
+B-20
+AC004927AC
+(3) Measure the voltage between terminal 2 and ground.
+• Voltage should be between 4.9 and 5.1 volts.
+HARNESS
+CONNECTOR: B-20 (4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 11.
+NO : Go to Step 7.
+ACX02114AC
+TSB Revision

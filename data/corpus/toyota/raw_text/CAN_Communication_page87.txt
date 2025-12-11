@@ -1,0 +1,36 @@
+CA–87
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+9 CHECK FOR SHORT IN CAN BUS WIRES (A/C AMPLIFIER BRANCH WIRE)
+(a) Reconnect the No. 2 CAN J/C connector (A40) (front of
+No. 2 CAN J/C Connector (Rear of the
+the vehicle).
+Vehicle) Wire Harness Side View:
+(b) Disconnect the No. 2 CAN J/C connector (E41) (rear of
+the vehicle).
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Front Tester Connection Condition Specified Value
+E41-1 (CANH) - E41-7 (CANL) Ignition switch off 1 MΩ or higher
+NG Go to step 11
+E41 CANH
+CA
+CANL
+C133246E05
+OK
+10 CHECK FOR SHORT IN CAN BUS WIRES (ACCESSORY GATEWAY BRANCH WIRE)
+(a) Disconnect the No. 2 CAN J/C connector (E41) (rear of
+No. 2 CAN J/C Connector (Rear of the
+the vehicle).
+Vehicle) Wire Harness Side View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Value
+E41-2 (CANH) - E41-8 (CANL) Ignition switch off 1 MΩ or higher
+Front
+NG REPAIR OR REPLACE ACCESSORY
+GATEWAY BRANCH WIRE OR CONNECTOR
+E41 CANH
+CANL
+C133246E03

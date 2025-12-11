@@ -1,0 +1,37 @@
+NS–44
+NAVIGATION – NAVIGATION SYSTEM
+(e) DVD Player Information Screen
+*2
+*1
+*3 *5
+*4
+E120078E01
+Screen Description:
+Display Contents
+Each code corresponding to the malfunctions is displayed. For details,
+Trouble code/*1
+refer to "Trouble Code Description".
+• The date (year, month, day) and time (hour, minute, second) when
+the trouble code was detected are displayed as a time stamp.
+Occurrence time/*2
+(Greenwich mean time)
+• The time data to be displayed are received from the GPS receiver.
+All code data being displayed are cleared by pushing this switch for 3
+Trouble code clear switch/*3
+seconds.
+The previous page is displayed. If the current displayed page is the
+Returning switch/*4
+first page, this switch cannot be operated.
+The next page is displayed. If the current displayed page is the last
+Proceeding switch/*5
+page, this switch cannot be operated.
+Trouble Code Description:
+Code Malfunction Countermeasure
+01 Cannot be recognized Replace radio and navigation assembly.
+Follow the inspection procedure for DTC 58-42 (See
+03 Cannot be read
+page NS-83).
+HINT:
+This is a DVD player check function in the radio and
+navigation assembly (built-in navigation ECU).
+NS

@@ -1,0 +1,52 @@
+ES–134
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Engine Coolant Temperature (ECT) sensor, Intake Air Temperature (IAT)
+Required Sensors/Components (Related)
+sensor, Vehicle speed sensor
+Frequency of Operation Once per driving cycle
+Duration 900 seconds
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+P0010 (VVT OCV )
+P0011 (VVT System 1 - Advance)
+P0012 (VVT System 1 - Retard)
+P0031, P0032 (A/F sensor heater - Sensor 1)
+ES P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0125 (Insufficient ECT for Closed Loop)
+Monitor runs whenever following DTCs not present
+P0171, P0172 (Fuel system)
+P0300 - P0304 (Misfire)
+P0335 (CKP sensor)
+P0340 (CMP sensor)
+P0351 - P0354 (Igniter)
+P0500 (VSS)
+P2196 (A/F sensor - rationality)
+P2A00 (A/F sensor - slow response)
+Battery voltage 11 V or more
+Either of following conditions 1 or 2 met: -
+1. All of following conditions met: -
+• ECT at engine start - IAT at engine start -15°C to 7°C (-27°F to 12.6°F)
+• ECT at engine start -10°C to 56°C (14°F to 133°F)
+• IAT at engine start -10°C to 56°C (14°F to 133°F)
+2. All of following conditions met: -
+• ECT at engine start - IAT at engine start More than 7°C (12.6 °F)
+• ECT at engine start 56°C (133°F) or less
+• IAT at engine start -10°C (14°F) or more
+Accumulated time at 128 km/h (80 mph) or more of vehicle speed Less than 20 seconds
+TYPICAL MALFUNCTION THRESHOLDS
+Duration that both following conditions (a) and (b) met 5 seconds or more
+(a) Estimated ECT 75°C (167°F) or more
+(b) ECT sensor output Below 75°C (167°F)
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P0128)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.

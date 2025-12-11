@@ -1,0 +1,74 @@
+ES–67
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Measurement Item: Range
+Intelligent Tester Display Normal Condition*1 Diagnostic Note
+(Display)
+O2S (A/FS) heater monitor:
+HTR CMPL - -
+COMPL or INCMPL
+O2S (A/FS) monitor:
+O2S (A/FS) ENA - -
+UNABLE or ENABLE
+O2S (A/FS) monitor:
+O2S (A/FS) CMPL - -
+COMPL or INCMPL
+A/C monitor:
+ACRF ENA - -
+UNABLE or ENABLE
+A/C monitor:
+ACRF CMPL - -
+COMPL or INCMPL
+2nd Air monitor:
+AIR ENA - -
+UNABLE or ENABLE
+2nd Air monitor:
+AIR CMPL - -
+COMPL or INCMPL
+ES
+EVAP monitor:
+EVAP ENA - -
+UNABLE or ENABLE
+EVAP monitor:
+EVAP CMPL - -
+COMPL or INCMPL
+Heated catalyst monitor:
+HCAT ENA - -
+UNABLE or ENABLE
+Heated catalyst monitor:
+HCAT CMPL - -
+COMPL or INCMPL
+Catalyst monitor:
+CAT ENA - -
+UNABLE or ENABLE
+Catalyst monitor:
+CAT CMPL - -
+COMPL or INCMPL
+Identifying model code:
+MODEL CODE Model code information -
+GSA3#
+Identifying engine type:
+ENGINE TYPE Engine type information -
+2GRFE
+Cylinder number: Identifying cylinder number:
+CYLINDER NUMBER -
+Min.: 0, Max.: 255 6
+Identifying transmission type:
+TRANSMISSION Transmission type information -
+5AT
+Identifying destination:
+DESTINATION Destination information -
+A (America)
+Model year: Identifying model year:
+MODEL YEAR -
+Min.: 1900, Max.: 2155 200#
+Identifying engine system:
+SYSTEM Engine system information -
+GASLIN (gasoline engine)
+HINT:
+• *1: If no idling conditions are specified, the transmission
+gear selector lever should be in the N or P position, and
+the A/C switch and all accessory switches should be OFF.
+• *2: DATA LIST values are displayed only when performing
+the following ACTIVE TESTs: VVT B1, VVT B2, VVT EX
+B1 and VVT EX B2. For other ACTIVE TESTs, the DATA
+LIST value will be 0.

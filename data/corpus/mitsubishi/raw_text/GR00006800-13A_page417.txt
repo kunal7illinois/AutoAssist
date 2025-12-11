@@ -1,0 +1,34 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-417
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check connector B-13 at generator intermediate
+connector for damage.
+CONNECTOR:B-13 Q:Is the connector in good condition?
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 11.
+AK101752AB
+STEP 3. Check the trouble symptoms.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P1500 is output?
+YES : Replace the ECM or PCM. Then go to Step 11.
+NO : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+STEP 4. Check connector B-13 at generator intermediate
+connector for damage.
+CONNECTOR:B-13 Q:Is the connector in good condition?
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 11.
+AK101752AB
+STEP 5. Check connector B-45 at generator connector for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR:B-45
+YES : Go to Step 6.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 11.
+AK000546AC
+TSB Revision

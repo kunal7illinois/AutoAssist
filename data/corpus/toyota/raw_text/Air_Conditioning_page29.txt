@@ -1,0 +1,61 @@
+AC–29
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+Symptom Suspected area See page
+1. Refrigerant volume AC-120
+2. Refrigerant pressure AC-120
+3. Pressure switch circuit AC-65
+4. Air conditioning compressor magnetic clutch circuit (for
+AC-100
+2GR-FSE)
+5. Compressor lock sensor circuit (for 2GR-FSE) AC-61
+6. Compressor solenoid circuit AC-84
+7. Air mix control servo motor circuit (Driver side) AC-82
+8. Air mix control servo motor circuit (Passenger side) AC-74
+Temperature Control: No cool air comes out 9. Evaporator temperature sensor circuit AC-53
+10. Room temperature sensor circuit AC-45
+11. Ambient temperature sensor circuit AC-49
+12. Heater control panel power source circuit AC-98
+13. LIN communication circuit AC-118
+14. Expansion valve AC-159
+15. A/C control assembly AC-255
+16. A/C amplifier AC-258
+17. ECM (for 2AZ-FE) ES-432
+18. ECM (for 2GR-FSE) ES-518
+1. Air mix control servo motor circuit (Driver side) AC-82
+2. Air mix control servo motor circuit (Passenger side) AC-74
+3. Evaporator temperature sensor circuit AC-53
+Temperature Control: No warm air comes out
+4. Room temperature sensor circuit AC-45
+5. Ambient temperature sensor circuit AC-49
+AC
+6. A/C amplifier AC-258
+1. Refrigerant volume AC-120
+2. Refrigerant pressure AC-120
+3. Solar sensor circuit (Driver side) AC-69
+4. Solar sensor circuit (Passenger side) AC-56
+5. Room temperature sensor circuit AC-45
+Temperature Control: Output air is warmer or cooler
+6. Ambient temperature sensor circuit AC-49
+than the set temperature or response is slow.
+7. Air mix control servo motor circuit (Driver side) AC-82
+8. Air mix control servo motor circuit (Passenger side) AC-74
+9. Radiator unit sub-assembly AC-159
+10. Expansion valve AC-159
+11. A/C amplifier AC-258
+1. Air mix control servo motor circuit (Driver side) AC-82
+2. Air mix control servo motor circuit (Passenger side) AC-74
+3. Room temperature sensor circuit AC-45
+4. Ambient temperature sensor circuit AC-49
+Temperature control: No temperature control (only
+5. Evaporator temperature sensor circuit AC-53
+Max. cool or Max. warm)
+6. Solar sensor circuit (Driver side) AC-69
+7. Solar sensor circuit (Passenger side) AC-56
+8. A/C control assembly AC-255
+9. A/C amplifier AC-258
+1. Air inlet control servo motor circuit AC-77
+No air inlet control
+2. A/C amplifier AC-258
+1. Air outlet control servo motor circuit AC-79
+No air flow mode control
+2. A/C amplifier AC-258

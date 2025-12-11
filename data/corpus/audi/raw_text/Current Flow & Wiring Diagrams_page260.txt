@@ -1,0 +1,59 @@
+Audi TT No. 32 / 11
+Current Flow Diagram
+Navigation system with CD drive control unit, CD changer
+J401 Navigation system with CD drive control unit
+R41 CD changer
+R199 Connection for external audio source
+T12a 12-pin connector, black, on CD changer
+T12f 12-pin connector, blue, radio connector B
+T12t 12-pin connector, black, behind the dash panel on right
+T32b 32-pin connector, connector E, on navigation system with CD
+drive control unit
+R199 ✱ 280 Earth connection, in communications wiring harness
+T12t T12t T12t T12t T12t T12t T12t
+• CAN bus (data wire)
+/1 /7 /8 /2 /4 /9 /10
+* models with connection for external audio source, AMI - Audi
+Music Interface (UF7)
+0,35
+sw
+0,35 0,5 0,35
+•
+0,35
+•
+0,35 0,35 0,35 0,35
+br ro/ws or/li or/br gr gn ge br
+99 117788 2211 2288 1100
+J401 T
+/6
+32b T
+/2
+3
+2
+2b T
+/2
+3
+1
+2b
+T12f/11 T12f/12 T12f/6 T12f/4 T12f/10
+111177 114411
+0,5 0,35 0,35 0,35 0,35 0,35 0,35
+br sw li ws bl ro/bl li/ro
+280
+0,35 0,35
+br sw
+ws = white
+sw = black
+ro = red
+T12a/3 T12a/1 T12a/2 T12a/4 T12a/6 T12a/8
+br = brown
+gn = green
+bl = blue
+R41
+gr = grey
+li = purple
+ge = yellow
+127 128 129 130 131 132 133 134 135 136 137 138 139 140 or = orange
+8J0-032110409
+rs = pink
+Edition 04.2009

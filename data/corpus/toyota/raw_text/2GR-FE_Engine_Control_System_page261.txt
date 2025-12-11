@@ -1,0 +1,70 @@
+ES–261
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• Each sensor reacts in accordance with increases and
+decreases in the fuel injection volume.
+Tester Display
+Injection Volume Status Voltage
+(Sensor)
+AFS B1 S1 or AFS B2 S1
++25 % Rich Less than 3.0 V
+(A/F)
+AFS B1 S1 or AFS B2 S1
+-12.5 % Lean More than 3.35 V
+(A/F)
+O2S B1 S2 or O2S B2 S2
++25 % Rich More than 0.55 V
+(HO2)
+O2S B1 S2 or O2S B2 S2
+-12.5 % Lean Less than 0.4 V
+(HO2)
+Result
+Status Status A/F Condition
+AFS B1 S1 O2S B1 S2 and A/F and ES
+Misfire Main Suspected Trouble Areas Proceed to
+or or HO2 Sensor
+AFS B2 S1 O2S B2 S2 Conditions
+• Three-Way Catalytic
+Converter (TWC)
+Lean/Rich Lean/Rich Normal - A
+• Gas leakage from exhaust
+system
+A/F sensor
+Lean Lean/Rich - • A/F sensor B
+malfunction
+A/F sensor
+Rich Lean/Rich May occur • A/F sensor B
+malfunction
+• HO2 sensor
+HO2 sensor
+Lean/Rich Lean - • Gas leakage from exhaust C
+malfunction
+system
+• HO2 sensor
+HO2 sensor
+Lean/Rich Rich - • Gas leakage from exhaust C
+malfunction
+system
+• Extremely rich or lean
+Actual air-fuel actual air-fuel ratio
+Lean Lean May occur A
+ratio lean • Gas leakage from exhaust
+system
+• Extremely rich or lean
+Actual air-fuel actual air-fuel ratio
+Rich Rich - A
+ratio lean • Gas leakage from exhaust
+system
+Lean:
+During A/F CONTROL, the A/F sensor (AFS) output
+voltage is consistently more than 3.35 V, and the HO2
+sensor output voltage (O2S) is consistently less than
+0.4 V.
+Rich:
+During A/F CONTROL, the AFS is consistently less
+than 3.0 V, and the O2S is consistently more than
+0.55 V.
+Lean/Rich:
+During A/F CONTROL of the ACTIVE TEST, the
+output voltage of the HO2 sensor alternates correctly.
+B CHECK AND REPLACE AIR FUEL RATIO
+SENSOR

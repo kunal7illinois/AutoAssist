@@ -1,0 +1,49 @@
+WS–17
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+If the result is not as specified, the DLC3 may have
+a malfunction. Repair or replace the harness and
+connector.
+HINT:
+Connect the cable of the intelligent tester to the
+DLC3, turn the ignition switch on (IG) and attempt to
+WS
+use the tester. If the display indicates that a
+communication error has occurred, there is a
+problem either with the vehicle or with the tester.
+• If communication is normal when the tester is
+connected to another vehicle, inspect the DLC3
+of the original vehicle.
+• If communication is still not possible when the
+tester is connected to another vehicle, the
+problem may be in the tester itself. Consult the
+Service Department listed in the tester's
+instruction manual.
+3. CHECK DIAGNOSIS (WITH JAM PROTECTION)
+HINT:
+If there is a malfunction in the pulse sensor, manually
+operating the power window switch will cause the power
+window switch light to blink.
+(a) Turn the ignition switch on (IG).
+(b) Manually operate the power window master switch
+or power window switch on each door.
+(c) Check the blinking pattern of the AUTO light as
+shown in the illustration.
+B140750
+Brinking Pattern of Light:
+- Initial fail (Window position)
+(A): LIN communication fail (B): Normal
+- Palse sensor fail
+ON
+OFF
+1.5
+0.5
+(Light)
+(sec.) (sec.)
+2.0 1.0
+B145472E01
+(1) If pattern (A) is displayed, check the wire
+harness or power window ECU.
+(2) If pattern (B) is displayed, check the power
+window regulator motor or power window ECU.
+(3) If the normal pattern is displayed, replace the
+power window regulator master switch.

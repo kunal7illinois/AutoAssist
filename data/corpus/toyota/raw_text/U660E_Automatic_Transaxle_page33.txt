@@ -1,0 +1,60 @@
+AX–33
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+PROBLEM SYMPTOMS TABLE
+HINT:
+If a normal code is displayed during the diagnostic trouble
+code check although the problem or symptom still occurs,
+check the electrical circuits for each symptom in the order
+given in the charts on the following pages. Proceed to the AX
+page given in the chart and perform troubleshooting.
+The Matrix Chart is divided into 2 chapters.
+Chapter 1:
+Refer to the table below when the trouble cause is considered
+to be electrical.
+If the instruction "Proceed to next circuit inspection shown on
+matrix chart" is given in the flow chart of each circuit, proceed
+to the circuit with the next highest number in the table to
+continue the check.
+If the trouble still occurs even though there are no
+abnormalities in any of the other circuits, check and replace
+the TCM.
+Chapter 2:
+Chapter 2 covers on and off vehicle repair of the transaxle.
+Contents specified in the table below may not match while
+fail-safe control is operating.
+1. Chapter 1: Electronic Circuit Matrix Chart
+Symptom Suspected area See page
+1. Shift solenoid valve (SL3) circuit *1 AX-105
+No up-shift (1st to 2nd)
+2. TCM IN-40
+1. Shift solenoid valve (SL4) circuit *1 AX-148
+No up-shift (2nd to 3rd)
+2. TCM IN-40
+1. Shift solenoid valve (SL2) circuit *1 AX-92
+No up-shift (3rd to 4th) 2. Engine coolant temp. sensor circuit *1 ES-145
+3. TCM IN-40
+1. Shift solenoid valve (SL1) circuit *1 AX-84
+2. Shift solenoid valve (SL4) circuit *1 AX-148
+No up-shift (4th to 5th)
+3. Engine coolant temp. sensor circuit ES-145
+4. TCM IN-40
+1. Engine coolant temp. sensor circuit *1 ES-145
+2. Shift solenoid valve (SL3) circuit *1 AX-105
+No up-shift (5th to 6th)
+3. Shift solenoid valve (SL4) circuit *1 AX-148
+4. TCM IN-40
+1. Shift solenoid valve (SL4) circuit *1 AX-148
+No down-shift (6th to 5th)
+2. TCM IN-40
+1. Shift solenoid valve (SL1) circuit *1 AX-84
+No down-shift (5th to 4th)
+2. TCM IN-40
+1. Shift solenoid valve (SL2) circuit *1 AX-92
+No down-shift (4th to 3rd) 2. Shift solenoid valve (SL4) circuit *1 AX-148
+3. TCM IN-40
+1. Shift solenoid valve (SL4) circuit *1 AX-148
+No down-shift (3rd to 2nd) 2. Shift solenoid valve (SL3) circuit *1 AX-105
+3. TCM IN-40
+1. Shift solenoid valve (SL3) circuit *1 AX-100
+No down-shift (2nd to 1st)
+2. TCM IN-40

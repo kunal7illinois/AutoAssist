@@ -1,0 +1,52 @@
+RS–338
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+NG REPLACE FUSE
+OK
+3 CHECK WIRE HARNESS (SOURCE VOLTAGE)
+(a) Turn the ignition switch off.
+T10 (*1) (b) Disconnect the negative (-) terminal cable from the
+O4 (*2) battery, and wait for at least 90 seconds.
+GND (c) Disconnect the connector from the occupant
++B
+classification ECU.
+(d) Connect the negative (-) terminal cable to the battery.
+(e) Turn the ignition switch on (IG).
+*1: for Power Seat (f) Measure the voltage and resistance according to the
+IG
+*2: for Manual Seat value(s) in the table below.
+Standard voltage and resistance:
+H043112E21
+for Power seat
+Tester connection Condition Specified condition
+T10-1 (+B) - Body
+Always 10 to 14 V
+ground
+T10-3 (GND) - Body
+Always Below 1 Ω
+ground
+T10-7 (IG) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+for Manual seat
+Tester connection Condition Specified condition
+RS O4-1 (+B) - Body Always 10 to 14 V
+ground
+O4-3 (GND) - Body
+Always Below 1 Ω
+ground
+O4-7 (IG) - Body ground Ignition switch on (IG) 10 to 14 V
+NG REPAIR OR REPLACE WIRE HARNESS
+OK
+4 CHECK DTC
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery.
+(c) Connect the connector to the occupant classification
+ECU.
+(d) Connect the intelligent tester to the DLC3.
+(e) Connect the negative (-) terminal cable to the battery.
+(f) Turn the ignition switch on (IG).
+(g) Clear the DTCs stored in the center airbag sensor
+assembly (See page RS-41).
+(h) Clear the DTCs stored in the occupant classification
+ECU (See page RS-251).

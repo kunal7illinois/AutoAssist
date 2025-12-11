@@ -1,0 +1,48 @@
+AC–74
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+WIRING DIAGRAM
+E11
+Automatic Light Control Sensor
+(Built-in Solar Sensor)
+Main Body ECU
+20
+6
+CLTB E6 CLTB
+18
+3
+CLTE E6 CLTE
+A/C Amplifier
+33
+1
+TSL E38 TSD
+C E109253E12
+INSPECTION PROCEDURE
+HINT:
+• If DTC B1244 is output at the same time, troubleshoot DTC B1244 first (See page LI-23).
+AC
+• If the check is performed in a dark place, DTC B1421/21 or B1424/24 (solar sensor circuit abnormal)
+may be output even though the system is normal.
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Expose the sensing portion of the solar sensor to light.
+HINT:
+Use an incandescent light for inspection.
+(d) Select the item below in the DATA LIST, and read the
+display on the intelligent tester.
+DATA LIST / AIR CONDITIONER:
+Item Measure Item / Display (Range) Normal Condition Diagnostic Note
+Driver side solar sensor value
+SOLAR SENS-D Driver side solar sensor / Min.: 0,
+increases as brightness -
+(Solar sensor (D side)) Max.: 255
+increases
+OK:
+The display is as specified in the normal condition
+column.
+Result
+Result Proceed to
+NG A
+OK (When troubleshooting according to the PROBLEM SYMPTOMS TABLE) B
+OK (When troubleshooting according to the DTC) C

@@ -1,0 +1,55 @@
+13B-498 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check the power supply voltage at power steering
+pressure switch connector B-19 by backprobing.
+(1) Do not disconnect the connector B-19.
+(2) Start the engine and run at idle.
+(3) Measure the voltage between terminal 1 and ground by
+backprobing.
+B-19 CONNECTOR • When steering wheel is stationary, voltage should be
+HARNESS
+battery positive voltage.
+SIDE VIEW
+• When steering wheel is turned, voltage should be 1 volt
+1
+or less.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 3.
+NO : Go to Step 5.
+AK000259AB
+STEP 3. Check connector B-19 at power steering pressure
+switch for damage.
+Q:Is the connector in good condition?
+CONNECTOR : B-19
+POWER YES : Go to Step 4.
+STEERING NO : Repair or replace it. Refer to GROUP 00E, Harness
+PRESSURE
+Connector Inspection P.00E-2. Then go to Step 14.
+SWITCH
+POWER STEERING
+OIL PUMP
+ACX02522AC
+STEP 4. Using scan tool MB991502, check data list item 27:
+Power Steering Pressure Switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+27, Power Steering Pressure Switch.
+16 PIN • If the steering wheel is stopped while idling, "OFF" will
+be displayed.
+MB991502
+• If the steering wheel is steered while idling, "ON" will be
+AKX01177AB
+displayed.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Replace the ECM or PCM. Then go to Step 14.
+TSB Revision

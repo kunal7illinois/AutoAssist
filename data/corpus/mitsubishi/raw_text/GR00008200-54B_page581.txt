@@ -1,0 +1,25 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-581
+SYMPTOM PROCEDURES
+CONNECTORS <ECLIPSE>: F-13, F-16 CONNECTORS<ECLIPSE SPYDER>:
+F-13, F-16
+F-16 F-13
+F-13
+F-16
+AC106489AL AC106491AI
+. .
+CIRCUIT OPERATION TROUBLESHOOTING HINTS
+The ETACS-ECU uses the input signal from the lift- • Malfunction of the liftgate latch <ECLIPSE>
+gate latch switch <ECLIPSE> or the trunk lid latch • Malfunction of the trunk lid latch <ECLIPSE SPY-
+switch <ECLIPSE SPYDER> to operate the following DER>
+functions. • Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+.
+TECHNICAL DESCRIPTION (COMMENT)
+The liftgate latch switch <ECLIPSE> or the trunk lid
+latch switch <ECLIPSE SPYDER> input signal is
+used to operate the theft-alarm system, luggage
+compartment light <ECLIPSE> and trunk light
+<ECLIPSE SPYDER>. If the signal fails, these func-
+tion will not work normally.
+.
+TSB Revision

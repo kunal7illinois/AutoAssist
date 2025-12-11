@@ -1,0 +1,36 @@
+WS–100
+WINDSHIELD / WINDOWGLASS – WINDOW DEFOGGER SYSTEM
+8 CHECK WIRE HARNESS (RR DEF RELAY - A/C AMPLIFIER ASSEMBLY)
+(a) Disconnect the RR DEF relay and A/C amplifier
+Engine Room R/B, J/B:
+assembly connector.
+WS (b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+2 - E38-38 Always Below 1 Ω
+2 - Body ground Always 10 kΩ or higher
+A/C Amplifier Assembly: NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E38
+RDEF
+B140724E02
+OK
+REPLACE A/C AMPLIFIER ASSEMBLY
+9 INSPECT RR DEF RELAY
+See page WS-100.
+NG REPLACE RR DEF RELAY
+OK
+10 CHECK WIRE HARNESS (RR DEF RELAY - BATTERY POSITIVE AND BODY GROUND)
+(a) Disconnect the RR DEF relay.
+(b) Measure the voltage and resistance according to the
+value(s) in the table below.
+Standard resistance:
+Engine room R/B, J/B
+Tester Connection Condition Specified Condition
+4 - Body ground Always Below 1 Ω
+Standard voltage:
+Engine room R/B, J/B
+B137052E01
+Tester Connection Condition Specified Condition
+5 - Body ground Always 10 to 14 V

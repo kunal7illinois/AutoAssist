@@ -1,0 +1,51 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-577
+ON-VEHICLE SERVICE
+4. If not within the standard value range, adjust by loosening
+throttle position sensor mounting bolts and turning the
+throttle position sensor body. After adjusting, tighten the
+bolts securely.
+5. Turn the ignition switch to the "LOCK" (OFF) position.
+6. Disconnect scan tool MB991502. When the scan tool is not
+used, remove special tool MB991348, and connect the
+throttle position sensor connector.
+AK000113AB
+BASIC IDLE SPEED ADJUSTMENT
+M1131001800219
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+NOTE: The standard idle speed has been adjusted with the
+speed adjusting screw (SAS), by the manufacturer, and there
+should be no need for readjustment.
+NOTE: If the adjustment has been changed by mistake, the idle
+speed may become too high or the idle speed may drop too low
+when loads A/C, defogger, etc. are placed on the engine. If this
+occurs, adjust by the following procedure.
+NOTE: The adjustment, if made, should be made after first
+confirming that the spark plugs, the injectors, the idle air control
+motor, compression, etc., are all normal.
+1. The vehicle should be prepared as follows before the
+inspection and adjustment.
+• Engine coolant temperature: 80 − 95° C(176 − 203°F)
+• Lights, electric cooling fan and accessories: OFF
+• Transaxle: Neutral (A/T for "P" range)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+16 PIN
+ignition switch to the "LOCK" (OFF) position before con-
+MB991502 necting or disconnecting scan tool MB991502.
+AKX01177AB 2. Connect scan tool MB991502 to the data link connector (16-
+pin).
+3. Start the engine and run at idle.
+4. Select the item number 30 of the scan tool Actuator test.
+NOTE: Use the scan tool to hold the IAC motor at the basic
+step to adjust the basic idle speed.
+5. Check the idle speed.
+Standard value: 700 ± 50 r/min
+NOTE: The engine speed may be 20 to 100 r/min lower than
+indicated above for a new vehicle [driven approximately 500
+km (300 mile) or less], but no adjustment is necessary.
+NOTE: If the engine stalls or the engine speed is low even
+though the vehicle has been driven approximately 500 km
+(300 mile) or more, it is probable that deposits are adhered
+to the throttle valve, so clean it. (Refer to P.13A-575)
+TSB Revision

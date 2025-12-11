@@ -1,0 +1,36 @@
+DL–197
+DOOR LOCK – KEY REMINDER WARNING SYSTEM
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+HINT:
+• Use the following procedures to troubleshoot the key
+reminder warning system.
+• The intelligent tester should be used in steps 3 and 5.
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 INSPECT BATTERY VOLTAGE
+(a) Measure the battery voltage.
+Standard voltage:
+10 to 14 V
+If the voltage is below 10 V, recharge or replace the
+battery before proceeding to the next step.
+NEXT
+3 INSPECT COMMUNICATION FUNCTION OF CAN COMMUNICATION SYSTEM (CAN)
+(a) Use the intelligent tester to check if the CAN
+communication system (CAN) is functioning normally.
+(1) (ECU connected, communication line
+malfunctioning) If no code is output, proceed to A.
+(2) (ECU connected, communication line
+malfunctioning) If any code is output, proceed to B.
+B GO TO CAN COMMUNICATION SYSTEM
+A
+4 PROBLEM SYMPTOMS TABLE
+(a) If the fault is not listed in the problem symptoms table,
+proceed to A. DL
+(b) If the fault is listed in the problem symptoms table,
+proceed to B.
+B Go to step 6
+A
+5 OVERALL ANALYSIS AND TROUBLESHOOTING
+(a) Inspection with the intelligent tester (DATA LIST)
+(b) TERMINALS OF ECU (See page DL-198)

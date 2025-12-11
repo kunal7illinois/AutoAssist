@@ -1,0 +1,32 @@
+BC–273
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+(c) In order to enable CAN communication, a specific
+type of wiring is used for the CAN communication
+lines. The wiring used for each communication line
+is a twisted pair of wires that have an equal length.
+A bypass wire should not be used, because the data
+being transmitted will be corrupted.
+4. DTC PRECAUTION
+(a) Warnings for some DTCs cannot be cleared by only
+repairing the malfunctioning parts. If the warning is
+displayed after repair work, the DTC should be
+cleared after turning the ignition switch off.
+NOTICE:
+If a DTC for a malfunctioning part reappears
+after it was cleared, then it has been stored
+again.
+5. CHASSIS DYNAMOMETER PRECAUTION
+(a) Enter Test Mode to disable TRAC and VSC control
+when using a chassis dynamometer.
+BC
+HINT:
+The vehicle may move unexpectedly out of the
+dynamometer because of TRAC and VSC
+operations.
+NOTICE:
+• Make sure that the VSC warning (multi
+information display and master caution
+indicator light) light is blinking (TEST Mode is
+achieved).
+• Secure the vehicle with the lock chain for
+safety.

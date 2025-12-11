@@ -1,0 +1,42 @@
+AC–51
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+A
+3 INSPECT A/C ROOM TEMPERATURE SENSOR
+(a) Remove the A/C room temperature sensor.
+A/C Room Temperature Sensor
+(b) Measure the resistance according to the value(s) in the
+Connector Front View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E27 E27-1 - E27-2 10°C (50°F) 3.00 to 3.73 kΩ
+E27-1 - E27-2 15°C (59°F) 2.45 to 2.88 kΩ
+E27-1 - E27-2 20°C (68°F) 1.95 to 2.30 kΩ
+E27-1 - E27-2 25°C (77°F) 1.60 to 1.80 kΩ
+E27-1 - E27-2 30°C (86°F) 1.28 to 1.47 kΩ
+E27-1 - E27-2 35°C (95°F) 1.00 to 1.22 kΩ
+Resistance (kΩ)
+E27-1 - E27-2 40°C (104°F) 0.80 to 1.00 kΩ
+4.0 E27-1 - E27-2 45°C (113°F) 0.65 to 0.85 kΩ
+3.5 E27-1 - E27-2 50°C (122°F) 0.50 to 0.70 kΩ
+E27-1 - E27-2 55°C (131°F) 0.44 to 0.60 kΩ
+3.0
+E27-1 - E27-2 60°C (140°F) 0.36 to 0.50 kΩ
+2.5
+NOTICE:
+2.0
+• Hold the sensor only by its connector. Touching
+1.5
+the sensor may change the resistance value.
+1.0 • When measuring, the sensor temperature must be
+AC
+0.5 the same as the ambient temperature.
+0.0 HINT:
+(°C) 10 20 30 40 50 60 As the temperature increases, the resistance decreases
+(°F) 50 68 86 104 122 140
+(see the graph).
+Temperature
+E110805E04
+NG REPLACE A/C ROOM TEMPERATURE
+SENSOR
+OK

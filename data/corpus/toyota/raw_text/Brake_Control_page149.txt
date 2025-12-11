@@ -1,0 +1,37 @@
+BC–143
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+• If communication is normal when the tester is
+connected to another vehicle, inspect the DLC3
+on the original vehicle.
+• If communication is still not possible when the
+tester is connected to another vehicle, the
+problem may be in the tester itself. Consult the
+Service Department listed in the tester's
+operator's manual.
+2. DIAGNOSIS
+(a) If the skid control ECU detects a malfunction, the
+ABS Warning BRAKE Warning ABS, BRAKE, and VSC (models without multi
+Light: Light:
+information display) warning lights, and SLIP
+indicator light will come on and the multi information
+display (models with multi information display)
+shows warning messages in order to warn the
+driver.
+The table below indicates which lights will come on
+when there is a malfunction in a particular function.
+BC
+VSC Warning SLIP Indicator
+Light (*1): Light:
+Master Caution Indicator Light:
+(*1): Models without Multi Information Display
+C140885E01
+Item / Trouble Area ABS EBD BA TRAC VSC
+ABS warning light (cid:123) (cid:123) (cid:123) - -
+BRAKE warning light - (cid:123) - - -
+VSC warning light
+(cid:123) (cid:123) (cid:123) (cid:123) (cid:123)
+(*1)
+Multi information
+(cid:123) (cid:123) (cid:123) (cid:123) (cid:123)
+display (*2)
+SLIP indicator light (cid:123) (cid:123) (cid:123) (cid:123) (cid:123)

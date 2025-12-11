@@ -1,0 +1,50 @@
+AUTOMATIC TRANSAXLE 23A-251
+AUTOMATIC TRANSAXLE DIAGNOSIS
+INSPECTION PROCEDURE 2: Does not Move Forward
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+causes for this case:)
+If the vehicle does not move forward when the selec-
+• Abnormal line pressure
+tor lever is shifted from "N" to "D," "2" or "L" range
+• Malfunction of the underdrive solenoid valve
+while the engine is idling, the cause is probably
+• Malfunction of the underdrive clutch
+abnormal line pressure or a malfunction of the under-
+• Malfunction of the valve body
+drive clutch or valve body.
+• Malfunction of the PCM
+.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Using scan tool MB991502, carry out the actuator
+test item 02: Underdrive Solenoid Valve.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to actuator test mode for item 02:
+Underdrive Solenoid Valve.
+• An operation sound should be heard from solenoid
+valve when solenoid valve is operated.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN Q:Is the solenoid valve operating properly?
+YES : Go to Step 2.
+MB991502
+AC001252AB NO : Repair or replace the underdrive solenoid valve.
+Refer to GROUP 23B, Valve Body P.23B-74. Then
+confirm that the symptom is eliminated.
+STEP 2. Check the hydraulic pressure.
+Measure the hydraulic pressure of each element when the
+selector lever is at the "L" range, and check if each hydraulic
+pressure is within the standard value. Refer to P.23A-26,
+Hydraulic Pressure Test.
+Q:Is the hydraulic pressure within the standard value?
+YES : Go to Step 3.
+NO : Go to Step 4.
+TSB Revision

@@ -1,0 +1,57 @@
+AC–27
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+PROBLEM SYMPTOMS TABLE
+MANUAL A/C:
+Symptom Suspected area See page
+1. IG power source circuit AC-113
+2. Back-up power source circuit AC-116
+3. Heater control panel power source circuit AC-98
+All functions of the A/C system do not operate
+4. LIN communication circuit AC-118
+5. A/C control assembly AC-255
+6. A/C amplifier AC-258
+1. Blower motor circuit AC-91
+2. Heater control panel power source circuit AC-98
+Air Flow Control: No blower operation 3. LIN communication circuit AC-118
+4. A/C control assembly AC-255
+5. A/C amplifier AC-258
+1. Blower motor circuit AC-91
+2. Heater control panel power source circuit AC-98
+Air Flow Control: No blower control 3. LIN communication circuit AC-118
+4. A/C control assembly AC-255
+5. A/C amplifier AC-258
+1. Blower motor circuit AC-91
+Air Flow Control: Insufficient air flow
+2. A/C amplifier AC-258
+1. Refrigerant volume AC-120
+2. Refrigerant pressure AC-120
+3. Pressure switch circuit AC-65
+4. Air conditioning compressor magnetic clutch circuit (for AC
+AC-100
+2GR-FSE)
+5. Compressor lock sensor circuit (for 2GR-FSE) AC-61
+6. Compressor solenoid circuit AC-84
+7. Air mix control servo motor circuit AC-74
+Temperature Control: No cool air comes out 8. Evaporator temperature sensor circuit AC-53
+9. Ambient temperature sensor circuit AC-49
+10. Heater control panel power source circuit AC-98
+11. LIN communication circuit AC-118
+12. Expansion valve AC-159
+13. A/C control assembly AC-255
+14. A/C amplifier AC-258
+15. ECM (for 2AZ-FE) ES-432
+16. ECM (for 2GR-FSE) ES-518
+1. Air mix control servo motor circuit AC-74
+2. Evaporator temperature sensor circuit AC-53
+Temperature Control: No warm air comes out
+3. Ambient temperature sensor circuit AC-49
+4. A/C amplifier AC-258
+1. Refrigerant volume AC-120
+2. Refrigerant pressure AC-120
+3. Ambient temperature sensor circuit AC-49
+Temperature Control: Output air is warmer or cooler
+4. Air mix control servo motor circuit AC-74
+than the set temperature or response is slow.
+5. Radiator unit sub-assembly AC-159
+6. Expansion valve AC-159
+7. A/C amplifier AC-258

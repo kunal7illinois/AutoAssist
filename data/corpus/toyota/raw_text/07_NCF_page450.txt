@@ -1,0 +1,31 @@
+BE-116 BODY ELECTRICAL - SMART KEY SYSTEM
+Trunk Open Function
+a) This signal is transmitted to the certification ECU when the driver (who has the key in their possession)
+pushes the trunk open switch on the outside of the trunk lid.
+b)The certification ECU transmits a request signal for all the room, trunk inner and outer oscillators to form
+actuation areas.
+c) The key receives this signal and returns the ID code to the tuner.
+d)The certification ECU judges and certifies the ID code, and checks the location of the key. The ECU
+transmits a trunk open signal to the main body ECU.
+e) The main body ECU receives this signal and actuates the luggage door unlock motor to open the trunk.
+a)
+Trunk Open
+Switch
+b)
+Trunk Inner
+Oscillator
+All Door b) Certification
+Oscillators ECU b)
+b) Key
+Trunk Outer
+Oscillator
+d)
+Tuner
+c)
+CAN
+d)
+(MS Bus)
+d)
+Main Body Luggage Door
+ECU Unlock Motor
+025BE96P

@@ -1,0 +1,61 @@
+Audi TT No. 4 / 2
+Current Flow Diagram
+Mechatronic unit for dual clutch gearbox, solenoid valves,
+fuses
+J519 Onboard supply control unit
+J533 Data bus diagnostic interface
+J681 Terminal 15 voltage supply relay 2
+J743 Mechatronic unit for dual clutch gearbox
+N88 Solenoid valve 1
+N89 Solenoid valve 2
+N90 Solenoid valve 3
+SD3 ✱
+N91 Solenoid valve 4
+B163 110A B300 N92 Solenoid valve 5
+E1
+SC1 Fuse 1 on fuse holder C
+4,0 # 4,0 ## 16,0 10,0 6,0 SC6 Fuse 6 on fuse holder C
+sw sw ro ro ro SC22 Fuse 22 on fuse holder C
+B299 SC24 Fuse 24 on fuse holder C
+T2t/2 8/87
+J519 J681 4466 SD3 Fuse 3 on fuse holder D
+✱✱ T2t 2-pin connector, black connector L, on onboard supply control
+unit
+4,0 6,0
+sw ro T20d 20-pin connector, black, on data bus diagnostic interface
+T20e 20-pin connector, on mechatronic unit for dual clutch gearbox
+1 6 22 24
+N88 N89 N90 N91 N92
+B163 Positive connection 1 (15), in interior wiring harness
+SC1 SC6 SC22 SC24 J743
+10A 5A 30A 15A
+1a 6a 22a 24a B279 Positive connection 3 (15a), in main wiring harness
+B299 Positive connection 3 (30), in main wiring harness
+T20e/18 T20e T20e/13
+30 /11 15
+30
+B300 Positive connection 4 (30), in main wiring harness
+0,5 2,5 1,0 1,0 0,5
+sw/bl ro/ge ro/ge ro/ge sw/bl
+B317 Positive connection 3 (30a), in main wiring harness
+B317
+* main fuse box, in luggage compartment, rear right, on the battery
+B279 ** Relay carrier on onboard power supply control unit
+# up to May 2009
+## from June 2009
+0,5 0,5
+sw/bl sw/bl
+ws = white
+T20d/14 4455
+J533 sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-004020409
+rs = pink
+Edition 04.2009

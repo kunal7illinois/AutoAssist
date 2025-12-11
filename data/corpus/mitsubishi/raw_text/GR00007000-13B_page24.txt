@@ -1,0 +1,44 @@
+13B-24 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC CODE DIAGNOSTIC ITEMS REFERENCE
+PAGE
+P0335 Crankshaft position sensor circuit P.13B-315
+P0340 Camshaft position sensor circuit P.13B-327
+P0401 Exhaust gas recirculation flow insufficient detected P.13B-336
+P0403 Exhaust gas recirculation control circuit P.13B-338
+P0421 Warm up catalyst efficiency below threshold (bank 1) P.13B-346
+P0431 Warm up catalyst efficiency below threshold (bank 2) P.13B-348
+P0441 Evaporative emission control system incorrect purge flow P.13B-351
+P0442 Evaporative emission control system leak detected (Small leak) P.13B-353
+P0443 Evaporative emission control system purge control valve circuit P.13B-367
+P0446 Evaporative emission control system vent control circuit P.13B-375
+P0451 Evaporative emission control system pressure sensor range/performance P.13B-383
+P0452 Evaporative emission control system pressure sensor low input P.13B-400
+P0453 Evaporative emission control system pressure sensor high input P.13B-416
+P0455 Evaporative emission control system leak detected (Gross leak) P.13B-432
+P0456 Evaporative emission control system leak detected (Very small leak) P.13B-451
+P0461 Fuel level sensor circuit range/performance P.13B-465
+P0500 Vehicle speed signal malfunction <M/T> P.13B-469
+P0506 Idle control system RPM lower than expected P.13B-478
+P0507 Idle control system RPM higher than expected P.13B-487
+P0513 Immobilizer malfunction P.13B-495
+P0551 Power steering pressure sensor circuit range/performance P.13B-496
+P0622 Generator FR terminal circuit malfunction P.13B-504
+P0660 Variable induction control circuit malfunction P.13B-510
+P0705 Transmission range • A/T DTC No. 27 (Park/Neutral position P.23A-40
+sensor circuit switch system: Open circuit)
+malfunction (PRNDL • A/T DTC No. 28 (Park/Neutral position
+input) switch system: Short circuit)
+P0712 Transmission fluid • A/T DTC No. 16 (Oil temperature sensor P.23A-40
+temperature sensor system: Short circuit)
+circuit low input
+P0713 Transmission fluid • A/T DTC No.15 (Oil temperature sensor P.23A-40
+temperature sensor system: Open circuit)
+circuit high input
+P0715 Input/turbine speed • A/T DTC No. 22 (Input shaft speed sensor P.23A-40
+sensor circuit system: Short circuit/Open circuit)
+P0720 Output speed sensor • A/T DTC No. 23 (Output shaft speed sensor P.23A-40
+circuit system: Short circuit/Open circuit)
+P0731 Gear 1 incorrect ratio • A/T DTC No. 41 (1st gear incorrect ratio) P.23A-40
+P0732 Gear 2 incorrect ratio • A/T DTC No. 42 (2nd gear incorrect ratio) P.23A-40
+TSB Revision

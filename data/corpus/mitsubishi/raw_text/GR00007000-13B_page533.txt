@@ -1,0 +1,35 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-533
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR : C-62<M/T>, C-59<A/T> CONNECTOR:C-28
+PCM<A/T> ECM<M/T>
+C-59 C-62
+AK000225AL
+AK000733AC
+. • Improper communication line between ECM <M/
+CIRCUIT OPERATION
+• A diagnostic output is made from the ECM (termi- T> or PCM <A/T> and scan tool.
+nal 85) <M/T> or PCM (terminal 85) <A/T> to the
+.
+diagnostic output terminal (terminal 7) of the data TROUBLESHOOTING HINTS (The most likely
+link connector. causes for this case:)
+• Malfunction of ECM <M/T> or PCM <A/T> power
+. supply circuit.
+COMMENT
+• No power supply to ECM <M/T> or PCM <A/T>. • Malfunction of the ECM <M/T> or PCM <A/T>.
+• Defective ground circuit of ECM <M/T> or PCM • Open circuit between ECM <M/T> or PCM <A/T>
+and data link connector.
+<A/T>.
+• Defective ECM <M/T> or PCM <A/T>.
+DIAGNOSIS
+STEP 1. Check connector C-62 at ECM <M/T> or connector
+C-59 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-62<M/T>, C-59<A/T>
+YES : Go to Step 2.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+C-59 C-62
+AK000225AL
+TSB Revision

@@ -1,0 +1,56 @@
+Audi TT No. 37 / 2
+Current Flow Diagram
+Interface for special functions:
+J533 Data bus diagnostic interface
+SD2 Fuse 2 on fuse holder D
+SF5 Fuse 5 on fuse holder F
+SF8 Fuse 8 on fuse holder F
+T12m 12-pin connector, brown, in luggage compartment, rear right
+T20d 20-pin connector, black, on data bus diagnostic interface
+51 Earth point, on right in luggage compartment
+✱
+S
+11
+D
+0A
+2 J533 J533
+395 Earth connection 30, in main wiring harness
+D1 T20d/15 T20d/5
+• •
+16,0 0,35 0,35 B301 Positive connection 5 (30), in main wiring harness
+ro or/gn or/br
+B301 B397 B406 Connection 1 (convenience CAN bus, high), in main wiring
+B397
+• •
+harness
+6,0 0,35 0,35
+ro or/gn or/br Connection 2 (convenience CAN bus, high), in main wiring
+B398
+harness
+5 8 Connection 1 (convenience CAN bus, low), in main wiring
+B406
+SF5 SF8 B398 B407 harness
+5A 20A
+5a 8a Connection 2 (convenience CAN bus, low), in main wiring
+B407
+harness
+• •
+0,5 0,35 0,35 • CAN bus (data wire)
+li or/gn or/br * main fuse box, in luggage compartment, rear right, on the battery
+T12m/3 T12m/7 T12m/8
+T12m/6
+0,5
+br
+ws = white
+395 sw = black
+ro = red
+1,5 br = brown
+br gn = green
+bl = blue
+gr = grey
+51 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-037020409
+rs = pink
+Edition 04.2009

@@ -1,0 +1,10 @@
+BC–390
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+VSC Warning Light Remains ON
+DESCRIPTION
+The skid control ECU communicates with the combination meter assembly via CAN communication. If the
+ECU stores a DTC, the master caution indicator light will illuminate, and the DTC will be displayed on the
+multi-information display in the combination meter (models with multi-information display). On models
+without a multi-information display, the VSC warning light will come on when the skid control ECU stores a
+DTC.
+BC

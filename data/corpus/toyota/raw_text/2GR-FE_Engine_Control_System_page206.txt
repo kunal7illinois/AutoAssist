@@ -1,0 +1,29 @@
+ES–206
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK
+8 CHECK FOR EXHAUST GAS LEAKS
+OK:
+No gas leakage.
+NG REPAIR OR REPLACE EXHAUST SYSTEM
+OK
+9 CHECK FOR SPARKS AND IGNITION
+ES (a) Check for sparks and ignition (See page IG-3).
+HINT:
+If the spark plugs or ignition system malfunctions, engine
+misfire may occur. The misfire count can be read using
+the intelligent tester. Select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / DATA LIST /
+PRIMARY / CYL #1 (to CYL #6).
+NG REPAIR OR REPLACE IGNITION SYSTEM
+OK
+10 INSPECT FUEL INJECTOR ASSEMBLY (INJECTION AND VOLUME)
+(a) Inspect the fuel injector assembly (See page FU-15).
+HINT:
+If the injectors malfunction, engine misfire may occur.
+The misfire count can be read using the intelligent tester.
+Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY / CYL #1
+(to CYL #6).
+NG REPLACE FUEL INJECTOR ASSEMBLY (See
+page FU-13)
+OK

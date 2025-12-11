@@ -1,0 +1,57 @@
+Audi TT No. 51 / 5
+Current Flow Diagram
+Convertible roof actuation control unit, convertible roof
+stowed switch, heated rear window
+F171 Convertible roof stowed switch
+J9 Heated rear window relay
+J256 Convertible roof actuation control unit
+J519 Onboard supply control unit
+T2y 2-pin connector, left side panel
+T2am 2-pin connector, black, rear left side panel
+T10c 10-pin connector, black, rear left side panel
+T20v 20-pin connector, red, connector B, on convertible roof actuation
+B323
+2,5 1,5 4,0 control unit
+li/ws li/ws li/sw
+T52a 52-pin connector, black, on onboard supply control unit
+4 2 T52b 52-pin connector, yellow, on onboard supply control unit
+7777 2 ✱✱ Z1 Heated rear window
+J9
+6 8 202 Earth connection, in convertible roof wiring harness
+0,35 2,5 2,5
+br/li ws/sw ws/sw 398 Earth connection 33, in main wiring harness
+T52b/22 5511 5533
+J519
+J256 399 Earth connection 34, in main wiring harness
+676 Earth point 2, on left in luggage compartment
+T20v/11
+J519
+T52a/38 5511 5533 B323 Positive connection 9 (30a), in main wiring harness
+✱ ✱ * manual convertible roof actuation
+0,35 2,5 2,5
+ro/gn ws/sw ws/sw ** Relay carrier on onboard power supply control unit
+T2am/1 T2y/1 T10c/1
+✱
+0,5 2,5 2,5
+sw sw sw
+1
+✱
+F171 Z1 Z1
+2/31
+✱
+0,5 2,5 2,5
+sw br br
+ws = white
+2255
+T10c T2am/2 T2y/2 T10c/4 sw = black
+/3 ro = red
+0,5 0,35 0,5 0,35 0,5 ✱ 2,5 ✱ 2,5 2,5 br = brown
+br br br br br br br br gn = green
+bl = blue
+202 399 398 gr = grey
+202 676 li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-051050409
+rs = pink
+Edition 10.2010

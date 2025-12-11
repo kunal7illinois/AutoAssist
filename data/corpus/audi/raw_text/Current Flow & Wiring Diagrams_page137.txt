@@ -1,0 +1,69 @@
+Audi TT No. 14 / 2
+Current Flow Diagram
+Climatronic control unit, heated driver seat regulator,
+heated front passenger seat regulator, fuses
+E94 Heated driver seat regulator
+E95 Heated front passenger seat regulator
+J255 Climatronic control unit
+SA4 Fuse 4 on fuse holder A
+SB8 Fuse 8 on fuse holder B
+SB9 Fuse 9 on fuse holder B
+SC12 Fuse 12 on fuse holder C
+✱
+B299
+SA4 SC16 Fuse 16 on fuse holder C
+110A SD3 Fuse 3 on fuse holder D
+T3ae 3-pin connector, black, connector E, on Climatronic control unit
+10,0 16,0 16,0 T16d 16-pin connector, black, connector D, on Climatronic control unit
+ro ro ro
+44 Earth point, lower part of left A-pillar
+B300 B272
+SD3
+6,0 110A 6,0 376 Earth connection 11, in main wiring harness
+ro ro
+✱✱
+✱✱✱ B272 Positive connection (30), in main wiring harness
+12 16 8 9
+J255
+S
+10
+C
+A
+12 S
+10
+C
+A
+16 ST1 S
+30
+B
+A
+8 S
+25
+B
+A
+9 E94 E95 B299 Positive connection 3 (30), in main wiring harness
+12a 16a 8a 9a T16d/15 T3ae/2 T3ae/1 T3ae
+30 /3
+B300 Positive connection 4 (30), in main wiring harness
+1,0 1,0 2,5 1,5 1,5
+ro/gn ro/gn ro/bl sw/gn sw/ge * Main fuse holder, electronics box, in front left engine
+compartment
+** main fuse box, in luggage compartment, rear right, on the battery
+88 22 2200 2266 *** air conditioning system operating unit
+2222
+1,5
+br
+ws = white
+376 sw = black
+ro = red
+4,0 br = brown
+br
+gn = green
+bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-014020409
+rs = pink
+Edition 04.2009

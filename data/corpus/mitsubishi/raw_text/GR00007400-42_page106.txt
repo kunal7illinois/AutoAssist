@@ -1,0 +1,34 @@
+42-106 BODY
+CONVERTIBLE TOP
+CONNECTOR:C-78 CONNECTOR:C-28
+AC004114AB AC004115AB
+CONNECTORS:C-101,C-104 CONNECTOR:F-34
+C-101
+C-104
+AC004116AB AC004117AB
+<2.4L ENGINE>CONNECTOR:B-39 CONNECTOR:C-77
+<M/T>
+<A/T> HEADLIGHT(LH)
+AC004111AB AC004118AB
+<2.4L ENGINE>CONNECTOR:B-36 CONNECTOR:C-90
+HEADLIGHT(LH)
+AC004113AB AC004119AB
+. lower the quarter windows and simultaneously drives
+CIRCUIT OPERATION
+the topstack drive motor assembly to operate the
+When the convertible top switch is operated, a signal
+electric convertible top.
+is sent to the convertible top control module. The
+convertible top control module sends convertible top
+.TECHNICAL DESCRIPTION (COMMENT)
+switch "ON" signal to the power window main switch
+The cause may be a malfunction of the vehicle
+to lower the door windows automatically. The power
+speed sensor.
+window main switch lowers the door windows and
+simultaneously sends the "AUTO DOWN" signal to
+the convertible top control module. When the "AUTO .TROUBLESHOOTING HINTS
+DOWN" signal is received, the convertible top control • Malfunction of the vehicle speed sensor
+module drives the quarter window regulator motor to • Damaged harness wires or connectors
+.
+TSB Revision

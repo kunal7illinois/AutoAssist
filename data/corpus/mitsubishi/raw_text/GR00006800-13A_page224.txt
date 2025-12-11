@@ -1,0 +1,43 @@
+13A-224 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Using scan tool MB991502, check data list item 81:
+Long-Term Fuel Compensation (trim).
+(1) Start the engine and run at idle.
+(2) Set scan tool MB991502 to the data reading mode for item
+81, Long-Term Fuel Compensation (trim).
+• The fuel trim should be between −12.5 and +12.5 when
+the load is 2,500 r/min (during closed loop) after the
+engine is warmed.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the specification normal?
+MB991502 YES : Go to Step 3.
+AKX01177AB NO : Refer to, DTC P0171 − System too Lean P.13A-188,
+DTC P0172 − System too Rich P.13A-194.
+STEP 3. Using scan tool MB991502, check data list item 82:
+Short-Term Fuel Compensation (trim).
+(1) Start the engine and run at idle.
+(2) Set scan tool MB991502 to the data reading mode for item
+82, Short-Term Fuel Compensation (trim).
+• The fuel trim should be between −25 and +25 when the
+load is 2,500 r/min (during closed loop) after the engine
+is warmed.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the specification normal?
+MB991502 YES : Go to Step 4.
+AKX01177AB NO : Refer to, DTC P0171 − System too Lean P.13A-188,
+DTC P0172 − System too Rich P.13A-194.
+STEP 4. Check the ignition coil spark.
+(1) Check each ignition coil spark.
+(2) Remove the intake manifold.
+(3) Remove the spark plug and connect to the spark plug
+cable.
+(4) Ground the spark plug side electrode securely.
+• When the engine is cranked, the spark plug should
+spark.
+Q:Did it spark?
+YES : Go to Step 7.
+SPARK PLUG NO : Go to Step 5.
+AKX00432AB
+TSB Revision

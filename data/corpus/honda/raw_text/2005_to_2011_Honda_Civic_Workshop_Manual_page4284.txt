@@ -1,0 +1,38 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+(pulse missing)
+24 -11 Left-rear ON (1) ON ON
+ON/OFF
+magnetic
+encoder
+malfunction
+(pulse missing)
+25 -11 Yaw rate OFF OFF ON ON
+sensor internal
+circuit
+malfunction
+(initial)
+-12 Yaw rate OFF OFF ON ON
+sensor internal
+circuit
+malfunction
+(open, short)
+-13 Yaw rate OFF OFF ON ON
+sensor
+communication
+error
+-14 Yaw OFF OFF ON ON
+rate/lateral
+acceleration
+sensor circuit
+high voltage
+-15 Yaw OFF OFF ON ON
+rate/lateral
+acceleration
+sensor circuit
+low voltage
+-16 Yaw OFF OFF ON ON
+rate/lateral
+acceleration
+sensor internal

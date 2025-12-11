@@ -1,0 +1,36 @@
+RS–168
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DTC B1805/52 Short in Front Passenger Side Squib Circuit
+DTC B1806/52 Open in Front Passenger Side Squib Circuit
+Short to GND in Front Passenger Side Squib
+DTC B1807/52
+Circuit
+Short to B+ in Front Passenger Side Squib Cir-
+DTC B1808/52
+cuit
+DESCRIPTION
+The front passenger side squib circuit consists of the center airbag sensor assembly and the front
+passenger airbag assembly.
+The circuit instructs the SRS to deploy when deployment conditions are met.
+These DTCs are recorded when a malfunction is detected in the front passenger side squib circuit.
+DTC No. DTC Detection Condition Trouble Area
+• The center airbag sensor assembly receives a line • Instrument panel wire
+short circuit signal 5 times in the front passenger • Instrument panel wire assembly
+B1805/52 side squib circuit during primary check. • Front passenger airbag assembly (Front passenger
+• Front passenger side squib malfunction side squib)
+• Center airbag sensor assembly malfunction • Center airbag sensor assembly
+• The center airbag sensor assembly receives an • Instrument panel wire
+open circuit signal in the front passenger side squib • Instrument panel wire assembly
+B1806/52 circuit for 2 seconds. • Front passenger airbag assembly (Front passenger
+• Front passenger side squib malfunction side squib)
+• Center airbag sensor assembly malfunction • Center airbag sensor assembly
+RS • The center airbag sensor assembly receives a • Instrument panel wire
+short circuit to ground signal in the front passenger • Instrument panel wire assembly
+B1807/52 side squib circuit for 0.5 seconds. • Front passenger airbag assembly (Front passenger
+• Front passenger side squib malfunction side squib)
+• Center airbag sensor assembly malfunction • Center airbag sensor assembly
+• The center airbag sensor assembly receives a • Instrument panel wire
+short circuit to B+ signal in the front passenger side • Instrument panel wire assembly
+B1808/52 squib circuit for 0.5 seconds. • Front passenger airbag assembly (Front passenger
+• Front passenger side squib malfunction side squib)
+• Center airbag sensor assembly malfunction • Center airbag sensor assembly

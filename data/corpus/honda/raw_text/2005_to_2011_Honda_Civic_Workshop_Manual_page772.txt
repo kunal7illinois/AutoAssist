@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Fig. 91: Checking Continuity Between PCM Connector Terminal B27 And
+Shift Solenoid Harness Connector Terminal No. 6
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES -Go to step 27.
+NO -Repair open in the wire between PCM connector terminal B27 and the
+ATF temperature sensor, then go to step 21.
+21. Reconnect all connectors.
+22. Turn the ignition switch to ON (II).
+23. Clear the DTC with the HDS.
+24. Start the engine with the shift lever in P, and wait for at least 20 seconds.
+25. Check for DTCs with the HDS.
+Is DTC P0713 indicated?
+YES -Check for poor connections or loose terminals between the ATF
+temperature sensor and the PCM, then go to step 1.
+NO -Go to step 26.
+26. Monitor the OBD STATUS for P0713 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step

@@ -1,0 +1,43 @@
+BC–355
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+2 INSPECT STEERING ANGLE SENSOR (POWER SOURCE TERMINAL)
+(a) Remove the column cover lower.
+Steering Angle Sensor
+(b) Disconnect the steering angle sensor connector.
+Wire Harness View:
+(c) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+E17
+Tester Connection Condition Specified Condition
+E17-1 (IG) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+E17-3 (BAT) - Body
+Always 10 to 14 V
+ground
+IG
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (POWER SOURCE CIRCUIT)
+BATT
+BC
+G030156E17
+OK
+3 INSPECT STEERING ANGLE SENSOR (GROUND TERMINAL)
+(a) Measure the resistance according to the value(s) in the
+Steering Angle Sensor
+table below.
+Wire Harness View:
+Standard resistance
+Tester Connection Condition Specified Condition
+E17-2 (ESS) - Body
+E17 Always Below 1 Ω
+ground
+(b) Connect the connector.
+(c) Install the column cover lower.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (GROUND CIRCUIT)
+ESS
+G030156E18
+OK
+REPLACE STEERING ANGLE SENSOR (See page BC-450)

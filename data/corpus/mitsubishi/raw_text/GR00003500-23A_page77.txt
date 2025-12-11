@@ -1,0 +1,43 @@
+AUTOMATIC TRANSAXLE 23A-77
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 11. Check harness for damage between A/T control
+solenoid valve assembly connector B-40 terminal 1 and
+PCM connector C-54 <2.4L Engine> or C-55 <3.0L Engine>
+terminal 124.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-40
+YES : Repair harness damage between A/T control solenoid
+valve assembly connector B-40 terminal 2 and PCM
+connector C-64 <2.4L Engine> or C-65 <3.0L
+Engine> terminal 57.
+NO : Repair it.
+B-40
+ACX02479AK
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE>
+PCM
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+DTC 16: A/T Fluid Tenperature Sensor System (Short Circuit)
+. .
+A/T Fluid Temperature Sensor System Circuit TROUBLESHOOTING HINTS (The most likely
+Refer to P.23A-70. causes for this code to be set:)
+• Malfunction of the A/T fluid temperature sensor
+CIRCUIT OPERATION
+circuit
+Refer to P.23A-70.
+• Damaged harness, connector
+• Malfunction of the PCM
+.
+DTC SET CONDITIONS
+If the A/T fluid temperature sensor output detects the
+voltage which corresponds to 0 volt for more than
+one second, there is a short in the A/T fluid tempera-
+ture sensor circuit and diagnostic trouble code num-
+ber "16" is output.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+TSB Revision

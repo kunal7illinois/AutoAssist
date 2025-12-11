@@ -1,0 +1,46 @@
+TW–60
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+1 CHECK TIRE PRESSURE WARNING ECU
+(a) Measure the voltage according to the value(s) in the
+Tire Pressure Warning ECU
+table below.
+Standard voltage
+Tester Connection Switch Condition Specified Condition
+E60-6 (RF5V) - E60-11
+E60 Ignition switch ON (IG) 4.5 to 5.5 V
+(GND2)
+RF5V NG Go to step 5
+GND2
+E133090E01
+OK
+TW
+2 CHECK WIRE HARNESS (ECU - RECEIVER)
+(a) Disconnect the E60 ECU connector.
+Wire Harness Side Connector Front View:
+(b) Disconnect the N20 receiver connector.*1
+Tire Pressure Warning ECU (c) Disconnect the N34 receiver connector.*2
+(d) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+RDA
+E60 Tester Connection Specified Condition
+E60-12 (RDA) - N20-1 (RDA)*1
+Below 1 Ω
+E60-12 (RDA) - N34-1 (RDA)*2
+HINT:
+Tire Pressure Warning Antenna
+• *1: TMC Made
+and Receiver
+• *2: TMMK Made
+NG REPAIR OR REPLACE HARNESS OR
+*1 N20 CONNECTOR
+*2 N34
+RDA
+E129461E01
+OK
+3 REPLACE TIRE PRESSURE WARNING ANTENNA AND RECEIVER
+NEXT
+4 CHECK DTC
+(a) Check for DTC (See page TW-28).
+OK:
+DTC is not output.

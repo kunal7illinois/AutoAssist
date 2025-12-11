@@ -1,0 +1,34 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-231
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 9. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0301, P0302, P0303, P0304 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0325: Knock Sensor Circuit
+1 2
+AK000662
+TSB Revision
+KCALB
+ETIHW
+KCALB KCALB
+Knock Sensor Circuit
+C-60 <M/T>
+(MU803772)
+7172737475767778798081
+8283848586878889909192
+ENGINE CONTROL
+C-57 <A/T> MODULE (ECM) <M/T>
+(MU803782) OR
+POWERTRAIN CONTROL
+MODULE (PCM) <A/T>
+71727374 7576 77
+7879808182838485868788 89
+78 <M/T>
+9091 929394 9596 97 98
+90 <A/T>
+B-35 2 1
+MU802661
+KNOCK SENSOR

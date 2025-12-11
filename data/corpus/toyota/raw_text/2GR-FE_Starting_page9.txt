@@ -1,0 +1,35 @@
+ST–9
+2GR-FE STARTING – SMART KEY SYSTEM
+A B
+STR
+STSW
+Park / Neutral
+Position Switch
+GND1 TACH
+GND2
+ACCR
+Transmission
+Control ECU
+MAIN BODY ECU
+STA
+NSW ECM
+NSW
+ST
+STAR
+ACCR
+STA
+TACH
+STSW
+Starter
+Crankshaft Position Sensor
+NE+
+NE-
+Battery
+ST
+B137970E01
+Communication table:
+Transmitting ECU Receiving ECU
+Signal Communication method
+(Transmitter) (Receiver)
+Combination meter Main body ECU Vehicle speed signal CAN/Local communication
+Steering lock ECU Main body ECU Steering lock/unlock signal LIN/Local communication

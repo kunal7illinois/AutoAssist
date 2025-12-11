@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+1. Turn the ignition switch to ON (II).
+2. Clear the DTC with the HDS.
+3. Start the engine, and warm it up to normal operating temperature (the radiator
+fan comes on).
+4. Drive the vehicle in 3rd gear with the shift lever in D3, and check that the
+SHIFT COMMAND indicates 3rd in the DATA LIST with the HDS.
+5. Check the 3rd PRESSURE SWITCH in the DATA LIST with the HDS.
+Is the 3rd PRESSURE SWITCH ON?
+YES -Go to step 6.
+NO -Go to step 8.
+6. Test-drive the vehicle in 3rd gear with the shift lever in D3, for at least 2
+seconds.
+7. Monitor the OBD STATUS for P0848 in the DTCs MENU with the HDS.
+Does the HDS indicate FAILED?
+YES -Go to step 8.
+NO -If the HDS indicates PASSED, intermittent failure, the system is OK at
+this time. Check for poor connections or loose terminals between the 3rd clutch
+transmission fluid pressure switch and the PCM. If the HDS indicates NOT
+COMPLETED, go to step 6.
+8. Turn the ignition switch to LOCK (0).
+9. Disconnect the 3rd clutch transmission fluid pressure switch connector.
+10. Turn the ignition switch to ON (II).
+11. Measure the voltage between the 3rd clutch transmission fluid pressure switch
+connector terminal and body ground.

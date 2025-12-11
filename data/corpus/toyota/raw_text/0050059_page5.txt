@@ -1,0 +1,62 @@
+ES–337
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• The sensors react in accordance with increases and decreases in the fuel injection volume.
+Standard
+Tester Display
+Injection Volumes Status Voltages
+(Sensor)
+AFS B1 S1 +25 % Rich Less than 3.0
+(A/F) -12.5 % Lean More than 3.35
+O2S B1 S2 +25 % Rich More than 0.5
+(HO2) -12.5 % Lean Less than 0.4
+NOTICE:
+The A/F sensor has an output delay of a few seconds and the HO2 sensor has a maximum output
+delay of approximately 20 seconds.
+A/F Sensor (Sensor 1) HO2 Sensor (Sensor 2) Main Suspected ES
+Case
+Output Voltage Output Voltage Trouble Areas
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 %
+1 -
+Output Voltage Output Voltage
+More than 3.35 V More than 0.5 V
+Less than 3.0 V Less than 0.4 V
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 % • A/F sensor
+2 • A/F sensor heater
+Output Voltage Output Voltage • A/F sensor circuit
+Almost More than 0.5 V
+no reaction Less than 0.4 V
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 % • HO2 sensor
+3 • HO2 sensor heater
+Output Voltage Output Voltage • HO2 sensor circuit
+More than 3.35 V Almost
+Less than 3.0 V no reaction
+Injection volume Injection Volume
+• Injector
++25 % +25 %
+• Fuel pressure
+-12.5 % -12.5 %
+• Gas leakage from
+4
+exhaust system
+Output Voltage Output voltage
+(Air-fuel ratio extremely
+Almost Almost
+lean or rich)
+no reaction no reaction
+Following the A/F CONTROL procedure enables technicians to check and graph the voltage outputs of
+both the A/F and HO2 sensors.
+To display the graph, select the following menu items on the tester: DIAGNOSIS / ENHANCED OBD II /
+ACTIVE TEST / A/F CONTROL / USER DATA / AFS B1 S1 and O2S B1 S2; and press the YES button
+and then the ENTER button followed by the F4 button.
+HINT:
+• DTC P2A00 may be set when the air-fuel ratio is stuck rich or lean.
+• A low A/F sensor voltage could be caused by a rich air-fuel mixture. Check for conditions that would
+cause the engine to run rich.
+• A high A/F sensor voltage could be caused by a lean air-fuel mixture. Check for conditions that would
+cause the engine to run lean.

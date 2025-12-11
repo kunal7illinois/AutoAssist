@@ -1,0 +1,46 @@
+13A-430 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS:C-60<M/T>,C-54<A/T> CONNECTOR:C-07
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB AK000312AJ
+. Judgement Criteria
+TECHNICAL DESCRIPTION
+• The ECM <M/T> or PCM <A/T> is checks the • Battery backup line voltage has continued to be 6
+volts or lower for 2 seconds.
+open circuit of battery backup line.
+NOTE: When the system detects an open circuit in
+.
+TROUBLESHOOTING HINTS (The most likely
+the battery backup line, it makes 1 failure judgment
+causes for this code to be set are: )
+of other diagnostic trouble codes (DTCs).
+• Open or shorted battery backup line, or loose
+connector.
+.
+DTC SET CONDITIONS • ECM failed. <M/T>
+Check Conditions • PCM failed. <A/T>
+• Starting sequence was completed.
+• Battery positive voltage is higher than 10 volts.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Erase the DTC.
+(4) Start the engine and run it at idle.
+16 PIN (5) Read the DTC.
+(6) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AKX01177AB Q:Is the DTC P1603 is output?
+YES : Go to Step 2.
+NO : The inspection is complete.
+TSB Revision

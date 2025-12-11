@@ -1,0 +1,51 @@
+BE-120 BODY ELECTRICAL - SMART KEY SYSTEM
+2) Situation: A
+There are two patterns for situation A.
+(cid:3) Pattern 1: When the engine is left running and the shift lever is in a position other than P, the driver
+opens the door and attempts to get out of the vehicle.
+(cid:3) Pattern 2: Under the conditions of pattern 1, the driver closes the door and attempts to leave the vehicle
+holding the key.
+In these situations, the following control is performed:
+Pattern 1.
+Possible Effects without Warning Sudden vehicle start, Vehicle theft, Vehicle roll-away
+The warning is activated when all of the following conditions
+are met:
+Warning Condition (cid:3) Power source is in a mode other than OFF.
+(cid:3) Shift lever is in any position except P.
+(cid:3) Vehicle speed is 0 mph (0 km/h).
+Buzzer Continuous sound
+Multi-information
+Combination —
+Display
+MMeetteerr
+Master Warning
+—
+Light
+Wireless Door Lock Buzzer —
+Engine Switch Indicator Light —
+The warning is stopped when one of the following conditions
+is met:
+Warning Stop Condition (cid:3) Power source is OFF.
+(cid:3) Shift lever is in the P position.
+(cid:3) Vehicle speed is above 0 mph (0 km/h).
+Pattern 2.
+Possible Effects without Warning Sudden vehicle start, Vehicle theft, Vehicle roll-away
+The warning is activated when all of the following conditions
+are met:
+(cid:3) Shift lever is in any position except P.
+Warning Condition (cid:3) Power source is in a mode other than OFF.
+(cid:3) Vehicle speed is 0 mph (0 km/h).
+(cid:3) Key is not in the vehicle.
+(cid:3) Driver door is opened (cid:1) closed.
+Buzzer Continuous sound
+The following warnings are alternately displayed:
+Multi-information
+Combination
+Display
+Meter
+025BE99P 025BE100P
+Master Warning
+Flash
+Light
+Wireless Door Lock Buzzer Sounds continuously
+Engine Switch Indicator Light —

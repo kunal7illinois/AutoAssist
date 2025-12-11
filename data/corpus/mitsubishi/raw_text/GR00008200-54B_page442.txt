@@ -1,0 +1,30 @@
+54B-442 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check at ETACS-ECU connector C-118 in order to
+check the theft-alarm indicator light circuit.
+(1) Disconnect ETACS-ECU connector C-118, and measure at
+CONNECTOR: C-118
+the wiring harness side.
+DEVICE SIDE
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+(2) The theft-alarm indicator light should illuminate when
+terminal 74 is grounded.
+Q:Does the theft-alarm indicator light illuminate?
+YES : Go to Step 10.
+59 58 57565554535251
+NO : Go to Step 3.
+68 67 66656463626160 CONNECTOR C-118
+74 73 72 717069 (HARNESS SIDE)
+AC101938AD
+STEP 3. Check the theft-alarm indicator light.
+SECURITY INDICATOR LIGHT Q:Is the theft-alarm indicator light bulb in good condition?
+YES : Go to Step 4.
+NO : Replace the bulb. The theft-alarm indicator light
+should illuminate, and the theft-alarm system should
+be set normally.
+AC003655AD
+TSB Revision

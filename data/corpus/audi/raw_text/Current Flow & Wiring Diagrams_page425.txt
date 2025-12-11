@@ -1,0 +1,55 @@
+Audi TT No. 47 / 25
+Current Flow Diagram
+Onboard supply control unit, vanity mirror contact switch,
+glove compartment light, illuminated vanity mirror
+E26 Glove compartment light switch
+F147 Driver vanity mirror contact switch
+F148 Front passenger side vanity mirror contact switch
+J519 Onboard supply control unit
+L151 Front left footwell illumination bulb
+L152 Front right footwell illumination bulb
+T8k 8-pin connector, black, behind right dash panel
+T52b 52-pin connector, yellow, on onboard supply control unit
+T52c 52-pin connector, brown, on onboard supply control unit
+W6 Glove compartment light
+W14 Front passenger side illuminated vanity mirror
+W20 Driver side illuminated vanity mirror
+T8k/4
+334433 44 Earth point, lower part of left A-pillar
+0,5 0,5 0,5
+ro/ws ro/ws ro/ws 370 Earth connection 5, in main wiring harness
+J519
+2
+388 Earth connection 23, in main wiring harness
+T52c T52b/50 T52b/43 B320
+W6
+1 B320 Positive connection 6 (30a), in main wiring harness
+/10
+* Models with LED equipment (QQ1)
+332255
+0,5 0,5 0,5 0,5 0,35 0,35 0,5 0,5
+bl/gr ws/gr ws/gr ro/ws ro/ws ro/ws ws/gr br/ge
+333399 2 2 2 2 2
+✱ ✱
+L151 T8k/3 W20 W14 L152 E26
+1/31 1 1 1/31 1
+0,5 0,5 0,35 0,35 0,5 0,5
+br ws/gr br/bl br/bl br br
+112266 333344
+1 1
+T8k/7
+F147 F148
+225500 333377 2/31 335500 2/31 336622 220066 ws = white
+sw = black
+ro = red
+1,0 0,5 0,5 0,35 0,35 0,35 0,35 1,0 0,5
+br br br br br br br br br br = brown
+gn = green
+370 388 bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+323 324 325 326 327 328 329 330 331 332 333 334 335 336 or = orange
+8J0-047250409
+rs = pink
+Edition 04.2010

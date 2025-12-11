@@ -1,0 +1,37 @@
+ES–432
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(d) Reconnect the ECM connector.
+(e) Reconnect the canister pump module connector.
+A Go to step 34
+B Go to step 31
+22 PERFORM ACTIVE TEST USING INTELLIGENT TESTER (VACUUM PUMP (ALONE))
+(a) Turn the ignition switch off.
+(b) Disconnect the N17 canister pump module connector.
+(c) Turn the ignition switch on (IG).
+(d) On the intelligent tester, select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST /
+ES VACUUM PUMP.
+(e) Measure the voltage between MTRB terminal 1 of the
+canister pump module connector and body ground when
+the leak detection pump is turned ON and OFF using the
+N17
+tester.
+Wire Harness Side:
+Canister Pump Module Connector
+1 2 3 4 5
+N17
+6 7 8 9 10
+MTRB
+A136176E03
+Result
+Test Results Suspected Trouble Areas Proceed to
+1. Wire harness between leak detection pump and
+Below 3 V when OFF
+body ground A
+9 to 14 V when ON
+2. Leak detection pump
+1. Wire harness between leak detection pump and
+Below 3 V when OFF and ON ECM B
+2. ECM
+B Go to step 24
+A

@@ -1,0 +1,41 @@
+CHASSIS ELECTRICAL 54A-209
+RADIO AND TAPE PLAYER
+Q:Are the wiring harness between motor antenna
+CONNECTORS: C-111, C-112
+connector F-35 (terminal 6) and ignition switch (IG1) in
+JUNCTION BLOCK
+(FRONT VIEW) good condition?
+YES : There is no action to be taken.
+NO : Repair the wiring harness. Refer to GROUP 00E,
+Harness Connector Inspection P.00E-2.
+C-112
+C-111
+DEVICE SIDE
+C-111
+1 2
+3 4 5 6
+C-112
+1 2 3 4 5 6
+7 8 91011121314
+AC106480AG
+STEP 13. Check the motor antenna assembly power
+supply circuit (battery) by backprobing
+(1) Do not disconnect motor antenna F-35 connector.
+CONNECTOR
+<ECLIPSE SPYDER>: F-35
+DEVICE SIDE
+1 2 3 4
+5 6 7 8
+AC106491AQ
+(2) Measure the voltage between terminal number 8 and
+HARNESS SIDE
+ground by backprobing.
+F-35
+Q:Are the voltages proximately 12 volts (battery positive
+1 2 3 4
+voltage)?
+5 6 7 8
+YES : Replace the motor antenna assembly.
+NO : Go to Step 14.
+AC106903AB
+TSB Revision

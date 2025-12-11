@@ -1,0 +1,23 @@
+ES–250
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Tester Connection Specified Condition
+IGF (C38-2) or IGF1 (C55-106) - Body ground 10 kΩ or higher
+IGF (C39-2) or IGF1 (C55-106) - Body ground 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+3 PERFORM SIMULATION TEST
+(a) Clear the DTC(s) (See page ES-45).
+(b) Change the arrangement of the ignition coils (with
+igniters).
+ES
+NOTICE:
+Do not change the location of the connectors.
+(c) Reform a simulation test.
+Result
+Display (DTC Output) Proceed to
+Same DTCs (that have been erased) A
+Other DTCs B
+B REPLACE IGNITION COIL ASSEMBLY
+A
+REPLACE ECM (See page ES-518)

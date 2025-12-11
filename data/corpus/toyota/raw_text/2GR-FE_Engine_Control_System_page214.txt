@@ -1,0 +1,56 @@
+ES–214
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR STRATEGY
+P0300: Multiple cylinder misfire
+P0301: Cylinder 1 misfire
+P0302: Cylinder 2 misfire
+Related DTCs P0303: Cylinder 3 misfire
+P0304: Cylinder 4 misfire
+P0305: Cylinder 5 misfire
+P0306: Cylinder 6 misfire
+Required Sensors/Components (Main) Injector, Ignition coil, Spark plug
+Crankshaft, Camshaft, Engine coolant temperature and intake air
+Required Sensors/Components (Related)
+temperature sensors and Mass air flow meter
+Frequency of Operation Continuous
+1,000 to 4,000 crankshaft revolutions: Emission related misfire
+Duration
+200 to 600 crankshaft revolutions: Catalyst damaged misfire
+2 driving cycles: Emission related misfire
+MIL Operation
+MIL flashes immediately: Catalyst damaged misfire
+ES
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Misfire:
+P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+Monitor runs whenever following DTCs are not present P0125 (Insufficient ECT for Closed Loop)
+P0327 - P0333 (Knock sensor)
+P0335 (CKP sensor)
+P0340, P0341 (CMP sensor)
+P0500 (VSS)
+Battery voltage 8 V or more
+VVT system Not operated by scan tool
+Engine RPM 450 to 6,500 rpm
+Either of following conditions (a) or (b) is met: -
+(a) ECT at engine start More than -7°C (19°F)
+(b) ECT More than 20°C (68°F)
+Fuel cut OFF
+Monitor period of emission-related-misfire:
+First 1,000 revolutions after engine start, or Check Mode Crankshaft 1,000 revolutions
+Except above Crankshaft 1,000 revolutions x 4
+Monitor period of catalyst-damaged-misfire (MIL blinks):
+All of following conditions 1, 2 and 3 are met: Crankshaft 200 revolutions
+1. Driving cycles 1st
+2. Check mode OFF
+3. Engine RPM Less than 2,500 rpm
+Except above Crankshaft 200 revolutions x 3
+TYPICAL MALFUNCTION THRESHOLDS
+Monitor period of emission-related-misfire:
+Misfire rate 1 % or more
+Monitor period of catalyst-damage-misfire (MIL blinks):
+Number of misfire per 200 revolutions 94 or more (varies with intake air amount and RPM)
+Paired cylinders misfire (MIL blinks immeditately) Detected

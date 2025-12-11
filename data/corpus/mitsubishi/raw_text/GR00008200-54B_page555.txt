@@ -1,0 +1,50 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-555
+SYMPTOM PROCEDURES
+STEP 8. Check the front passenger’s door lock actuator
+switch.
+Disconnect front passenger’s door lock actuator switch connec-
+CONNECTOR: E-07
+tor E-07. Then check continuity between the switch terminals.
+FRONT DOOR (RH)
+LEVER POSITION TESTER SPECIFIED
+DEVICE SIDE
+CONNECTION CONDITION
+E-07
+UNLOCK 2 − 3 Less than 2 ohm
+1 2 3
+4 5 6
+Q:Is the front passenger’s door lock actuator switch in
+good condition?
+YES : Go to Step 9.
+NO : Replace the front passenger’s seat door lock actuator
+switch. If the functions, which are described in
+UNLOCK "CIRCUIT OPERATION", work normally, the input
+VIEW A LOCK signal from the front passenger’s door lock actuator
+switch should be normal.
+LEVER
+A AC106614AB
+STEP 9. Measure at front passenger’s door lock actuator
+switch connector E-07 in order to check the ground circuit
+to the front passenger’s door lock actuator switch.
+(1) Disconnect front passenger’s door lock actuator switch
+CONNECTOR: E-07
+connector E-07, and measure at the harness side.
+FRONT DOOR (RH)
+DEVICE SIDE
+E-07
+1 2 3
+4 5 6
+AC106487AF
+(2) Measure the resistance value between terminal 3 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR E-07
+Q:Does the measured resistance value correspond with
+(HARNESS SIDE)
+this range?
+YES : Go to Step 12.
+NO : Go to Step 10.
+3 2 1
+6 5 4
+ACX01604AC
+TSB Revision

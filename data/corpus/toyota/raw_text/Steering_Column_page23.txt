@@ -1,0 +1,21 @@
+SR–21
+STEERING COLUMN – ELECTRIC STEERING LOCK
+DTC B2781 Open / Short in Steering Lock ECU
+DESCRIPTION
+If the steering lock ECU determines that there is a malfunction inside the ECU, it outputs this DTC. The
+steering lock ECU diagnosis information cannot be read directly from the steering lock ECU by the tester.
+The diagnosis information from the steering lock ECU is transmitted to the tester via the certification ECU
+to the tester using the controller area network (CAN).
+DTC No. DTC Detecting Condition Trouble Area
+• Steering lock motor drive circuit is defective.
+B2781 Steering lock actuator assembly (Steering lock ECU)
+• Both lock and unlock position sensors detect "ON".
+INSPECTION PROCEDURE
+1 REPLACE STEERING LOCK ACTUATOR ASSEMBLY (STEERING LOCK ECU)
+HINT:
+The steering lock ECU and steering lock actuator assembly
+are supplied as a unit.
+(a) Replace the steering lock actuator assembly (See page
+SR-42).
+NEXT SR
+END

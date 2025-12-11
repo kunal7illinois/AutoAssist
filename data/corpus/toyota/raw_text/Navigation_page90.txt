@@ -1,0 +1,34 @@
+NS–90
+NAVIGATION – NAVIGATION SYSTEM
+DTC 58-43 SPD Signal Error
+DTC 80-43 SPD Signal Error
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+A difference between the GPS speed and SPD pulse is
+58-43
+detected. • Speed signal circuit
+A difference between the GPS speed and SPD pulse is • Radio and navigation assembly
+80-43
+detected.
+INSPECTION PROCEDURE
+HINT:
+After the inspection is completed, clear the DTCs.
+1 CHECK VEHICLE SENSOR (NAVIGATION CHECK MODE)
+(a) Enter the "Navigation Check" mode (Vehicle Sensors)
+(See page NS-27).
+(b) While driving the vehicle, compare the "SPD" indicator to
+the reading on the speedometer. Check if these readings
+are almost equal.
+OK:
+The readings are almost equal.
+OK REPLACE RADIO AND NAVIGATION
+ASSEMBLY
+E120089
+NG
+2 PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+Refer to "Speed signal does not change in the navigation
+check mode" in the problem symptoms table (See page NS-
+41).
+NEXT
+END
+NS

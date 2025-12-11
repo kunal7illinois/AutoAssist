@@ -1,0 +1,43 @@
+ES–119
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Battery voltage 10.5 V or more
+Engine Running
+Soak time 5 hours or more
+Either (a) or (b) condition met -
+(a) ECT 60°C (140°F) or more
+(b) Accumulated MAF 1128.55 g or more
+TYPICAL MALFUNCTION THRESHOLDS
+ECT Sensor cold start monitor:
+ECT sensor value change Less than 5°C (9°F)
+ECT Sensor soak monitor:
+ES
+Difference between current ECT sensor value and previous ECT
+Less than 5°C (9°F)
+sensor value when engine stopped
+COMPONENT OPERATING RANGE
+ECT ECT sensor value changes in accordance with actual ECT
+INSPECTION PROCEDURE
+HINT:
+• If any of DTCs P0115, P0117, P0118 or P0125 are set simultaneously with DTC P0116, the ECT
+sensor may have an open or a short circuit. Troubleshoot those DTCs first.
+• Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition
+when malfunctions are detected. When troubleshooting, freeze frame data can help determine if the
+vehicle was moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or
+rich, and other data from the time the malfunction occurred.
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P0116)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED II / DTC INFO / CURRENT CODES.
+(e) Read the DTC.
+Result
+Display (DTC Output) Proceed To
+P0116 A
+P0116 and other DTCs B
+B GO TO DTC CHART
+A
+2 INSPECT THERMOSTAT
+(a) Remove the thermostat (see page CO-15).
+(b) Measure the valve opening temperature of the
+thermostat.

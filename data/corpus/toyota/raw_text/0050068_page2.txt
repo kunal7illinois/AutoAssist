@@ -1,0 +1,48 @@
+ES–407
+2AZ-FE ENGINE CONTROL SYSTEM – ENGINE COOLANT TEMPERATURE SENSOR
+INSPECTION
+1. INSPECT ENGINE COOLANT TEMPERATURE
+SENSOR
+(a) Measure the resistance of the sensor.
+Resistance kΩ
+30
+20
+10
+Acceptable
+5
+3
+2
+1
+ES
+0.5
+0.3
+0.2
+0.1
+Temperature °C (°F) -20 0 20 40 60 80 100
+(-4) (32) (68)(104)(140)(176)(212)
+A108624E06
+Standard resistance
+Tester Connection Specified Condition
+1 (E2) - 2 (THW) 2.32 to 2.59 kΩ at 20°C (68°F)
+1 (E2) - 2 (THW) 0.310 to 0.326 kΩ at 80°C (176°F)
+NOTICE:
+If checking the sensor in water, be careful not to
+allow water to contact the terminals. After
+checking, wipe the water off the sensor.
+If the result is not as specified, replace the sensor.
+INSTALLATION
+1. INSTALL ENGINE COOLANT TEMPERATURE
+SENSOR
+(a) Install a new gasket onto the sensor.
+New Gasket (b) Using SST, install the sensor.
+SST 09817-33190
+Torque:19.6 N*m (200 kgf*cm, 14 ft.*lbf)
+(c) Connect the sensor connector.
+2. INSTALL AIR CLEANER CASE (See page ES-431)
+3. INSTALL AIR CLEANER CAP (See page ES-413)
+4. CONNECT CABLE TO NEGATIVE BATTERY
+TERMINAL
+SST
+5. ADD ENGINE COOLANT (See page CO-6)
+A095412E02
+6. CHECK FOR COOLANT LEAKAGE (See page CO-1)

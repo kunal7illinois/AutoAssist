@@ -1,0 +1,35 @@
+AX–164
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Park / Neutral Position Switch Circuit
+DESCRIPTION
+The park/neutral position switch detects the shift lever position and sends signals to the TCM.
+AX
+WIRING DIAGRAM
+TCM
+GAUGE No. 1 16
+C56 D
+To IG1 Relay 15
+C56 R
+11
+To ST Relay C56 NSW
+C1 Park/Neutral
+Position Switch
+10
+C56 STA
+C133257E01
+INSPECTION PROCEDURE
+1. DATA LIST
+HINT:
+According to the DATA LIST displayed on the intelligent tester, you can read the value of switches,
+sensors, actuators and other items without removing any parts. Reading the DATA LIST as the first
+step in troubleshooting is one method to save labor time.
+NOTICE:
+In the table below, the values listed under "Normal Condition" are reference values. Do not
+depend solely on these reference values when deciding whether a part is faulty.
+(a) Warm up the engine.
+(b) Turn the ignition switch off.
+(c) Connect the intelligent tester together with the CAN VIM (Controller Area Network Vehicle
+Interface Module) to the DLC3.
+(d) Turn the ignition switch on (IG).
+(e) Turn on the tester.
+(f) Enter the following items: "DIAGNOSIS / OBD/MOBD / ECT / DATA LIST".

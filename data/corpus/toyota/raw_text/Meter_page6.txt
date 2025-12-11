@@ -1,0 +1,56 @@
+ME–6
+METER – METER / GAUGE SYSTEM
+INPUT AND OUTPUT SIGNALS OF THE COMBINATION METER ASSEMBLY:
+Sender Receiver Communication Signal Communication Line
+• ECM
+• A/C Control Amplifier
+• Center Airbag Sensor CAN (CAN No. 1 Bus)
+Vehicle speed signal
+Assembly
+• Main Body ECU
+Certification ECU CAN (CAN MS Bus)
+• Main Body ECU Rheostat duty signal
+CAN (CAN No. 1 Bus)
+Combination Meter Assembly • A/C Control Amplifier Tail cancel signal
+Main Body ECU Lounge illumination signal CAN (CAN No. 1 Bus)
+• Center Airbag Sensor
+Vehicle specification signal
+Assembly CAN (CAN No. 1 Bus)
+(Destination/Handle code)
+• ECM
+Certification ECU Odometer signal CAN (CAN MS Bus)
+Passenger seat belt warning light
+Clock assembly Direct Line
+signal
+Starter signal
+Test mode signal
+Cruise operation indicator
+Cruise control warning
+Charge light indicator
+TM oil temperature range
+Engine coolant temperature
+ECM Combination Meter Assembly CAN (CAN No. 1 Bus)
+signal
+Engine type information
+Shift position signal (*1)
+Reject buzzer signal
+Gear position signal
+Sports mode indicator (*1)
+Engine RPM data
+Illuminance data
+Auto dimmer signal
+ACC switch signal
+Key switch signal
+Each door courtesy switch signal
+Slide roof signal (*2)
+Main Body ECU Combination Meter Assembly Smart key signal (*3) CAN (CAN No. 1 Bus)
+Driver side seat belt switch signal
+Parking brake switch signal
+High beam indicator light signal
+Head (*4)/Tail (*5) indicator light
+ME
+signal
+Front fog indicator light signal
+• Main Body ECU
+Combination Meter Assembly Hood courtesy switch signal CAN (CAN MS Bus)
+• Certification ECU

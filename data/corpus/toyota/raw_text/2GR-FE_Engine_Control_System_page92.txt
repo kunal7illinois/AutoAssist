@@ -1,0 +1,61 @@
+ES–92
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Camshaft Position "A" - Timing Over-Advanced
+DTC P0011
+or System Performance (Bank 1)
+Camshaft Position "A" - Timing Over-Retarded
+DTC P0012
+(Bank 1)
+Camshaft Position "A" - Timing Over-Advanced
+DTC P0021
+or System Performance (Bank 2)
+Camshaft Position "A" - Timing Over-Retarded
+DTC P0022
+(Bank 2)
+ES
+DESCRIPTION
+The Variable Valve Timing (VVT) system includes the ECM, Oil Control Valve (OCV) and VVT controller.
+The ECM sends a target duty-cycle control signal to the OCV. This control signal regulates the oil
+pressure supplied to the VVT controller. Camshaft timing control is performed according to engine
+operating conditions such as intake air volume, throttle valve position and engine coolant temperature.
+The ECM controls the OCV, based on the signals transmitted by several sensors. The VVT controller
+regulates the intake camshaft angle using oil pressure through the OCV. As a result, the relative positions
+of the camshaft and crankshaft are optimized, the engine torque and fuel economy improve, and the
+exhaust emissions decrease under overall driving conditions. The ECM detects the actual intake valve
+timing using signals from the camshaft and crankshaft position sensors, and performs feedback control.
+This is how the target intake valve timing is verified by the ECM.
+DTC No. DTC Detection Condition Trouble Area
+Advanced cam timing:
+With warm engine and engine speed of between 500
+rpm and 4,000 rpm, all conditions (1), (2) and (3) are
+• Valve timing
+met (1 trip detection logic):
+• Oil Control valve (OCV) for intake camshaft (bank
+1. Difference between target and actual intake valve
+P0011 1)
+timing is more than 5°CA (Crankshaft Angle) for 4.5
+P0021 • OCV filter (bank 1)
+seconds
+• Intake camshaft (bank 1) timing gear assembly
+2. Current intake valve timing is fixed (timing changes
+• ECM
+less than 5°CA in 5 seconds)
+3. Variations in VVT controller timing is more than
+19°CA of maximum delayed timing (advance)
+Retarded cam timing:
+With warm engine and engine speed of between 500
+rpm and 4,000 rpm, all conditions (1), (2) and (3) are
+met (2 trip detection logic): • Valve timing
+1. Difference between target and actual intake valve • OCV for intake camshaft (bank 2)
+P0012
+timing is more than 5°CA (Crankshaft Angle) for 4.5 • OCV filter (bank 2)
+P0022
+seconds • Intake camshaft (bank 2) timing gear assembly
+2. Current intake valve timing is fixed (timing changes • ECM
+less than 5°CA in 5 seconds)
+3. Variations in VVT controller timing is 19°CA or less of
+maximum delayed timing (retarded)
+MONITOR DESCRIPTION
+1. The ECM optimizes the intake valve timing using the VVT (Variable Valve Timing) system to control the
+intake camshaft. The VVT system includes the ECM, the Oil Control Valve (OCV) and the VVT
+controller.

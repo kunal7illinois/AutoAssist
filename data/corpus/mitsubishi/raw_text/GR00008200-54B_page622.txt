@@ -1,0 +1,46 @@
+54B-622 SIMPLIFIED WIRING SYSTEM (SWS)
+CHECK AT ECU TERMINAL
+TERMINAL INSPECTION ITEMS INSPECTION CONDITIONS NORMAL VALUE
+55 Input of hazard warning light switch Hazard warning light switch: 0 V
+signal ON (When the switch is
+depressed)
+56 Ground (for sensor) Always 0 V
+59 SWS communication line Always 0 − 12 V (pulse signal)
+62 Input of liftgate latch switch signal liftgate latch switch: ON 0 V
+<ECLIPSE-vehicles with theft-alarm
+system>
+Input of liftgate light switch signal liftgate light switch: ON 0 V
+<ECLIPSE-vehicles without theft-
+alarm system>
+63 Input of vehicle speed signal When the vehicle is being 0 − 12 V (pulse signal)
+driven
+65 Input of front passengers’s door Front passenger’s door switch: 0 V
+switch signal ON (front passenger’s door
+open)
+66 Input of signal from windshield Ignition switch: "ACC," 0 → 2.5 V
+intermittent wiper interval adjusting Windshield intermittent wiper
+knob interval adjusting knob: "FAST"
+→ "SLOW"
+67 Input of diagnosis indication When scan tool is connected 0 V
+selection
+68 Output of data request signal Always 0 − 12 V (pulse signal)
+69 − − −
+71 Interior light (door-ajar indicator Always (when interior light Battery positive voltage
+light) power supply shutoff function is not
+operating)
+72 Output to hi-beam indicator light When the hi-beam indicator 2V or less
+light is illuminating
+73 Output to seat belt warning light When seat belt warning light is 2V or less
+on
+74 Output to the theft-alarm indicator When the theft-alarm indicator 2V or less
+light light is on
+2. COLUMN SWITCH
+1 2 3 4 5
+6 7 8 9 10
+ACX01512
+TERMINAL INSPECTION ITEMS INSPECTION CONDITIONS NORMAL VALUE
+1 Battery power supply Always Battery positive voltage
+2 Input of data request signal Always 0 − 12 V (pulse signal)
+3 SWS communication line Always 0 − 12 V (pulse signal)
+4 Ground Always 0 V
+TSB Revision

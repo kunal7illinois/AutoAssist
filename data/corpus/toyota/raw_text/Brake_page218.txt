@@ -1,0 +1,51 @@
+BC–212
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC C1241/41 Low Battery Positive Voltage
+DESCRIPTION
+If a malfunction is detected in the power supply circuit, the skid control ECU (housed in the actuator
+assembly) stores this DTC and the fail safe function prohibits ABS operation.
+This DTC is stored when the IG1 terminal voltage deviates from the DTC detection condition due to a
+malfunction in the power supply or charging circuit such as the battery or alternator circuit, etc.
+The DTC is cancelled when the IG1 terminal voltage returns to normal.
+DTC No. DTC Detection Condition Trouble Area
+When any of the following is detected:
+1. At a vehicle speed of 2 mph (3 km/h) or more, the IG1
+terminal voltage is 9.5 V or less for 10 seconds or more.
+• ECU-IG NO. 2 fuse
+2. When the solenoid relay remains ON and the IG1
+• Battery
+terminal voltage is 9.5 V or less, the relay contact is open
+C1241/41 • Charging system
+for 0.2 seconds or more.
+• Power source circuit
+3. While the VSC NO. 1 (fail safe) relay is ON after VSC
+• Internal power supply circuit of the skid control ECU
+NO. 2 relay ON, the IG1 terminal voltage is 9.5 V or less
+and the actuator pump drive motor is OFF for 0.1 second
+or more.
+BC
+WIRING DIAGRAM
+Brake Actuator Assembly
+- Skid Control ECU
+IG1
+Ignition Switch
+ECU-IG NO. 2
+IG1
+5 3 46
+(*1) AM1 (*1)
+4 AM1 IG1 1
+2 1
+ALT (*2) Main Body ECU
+(*2)
+IG1D AM1
+FL MAIN 3 6
+GND1
+32
+AM2
+1 2
+GND2
+1
+Battery
+(*1): without Smart Key System
+(*2): with Smart Key System
+C136029E03

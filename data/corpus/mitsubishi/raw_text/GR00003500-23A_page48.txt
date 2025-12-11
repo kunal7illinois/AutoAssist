@@ -1,0 +1,28 @@
+23A-48 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 12. Check connector C-54 <2.4L Engine> or C-55
+<3.0L Engine> at PCM for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE> YES : Go to Step 13.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM Connector Inspection P.00E-2.
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+STEP 13. Check harness for damage between throttle
+position sensor connector B-07 terminal 4 and PCM
+connector C-54 <2.4L Engine> or C-55 <3.0L Engine>
+terminal 46.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> YES : Go to Step 5.
+B-07
+NO : Repair it.
+B-07
+AC001831AF
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE>
+PCM
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+TSB Revision

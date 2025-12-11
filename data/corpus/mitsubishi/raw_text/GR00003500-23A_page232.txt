@@ -1,0 +1,44 @@
+23A-232 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 3. Using scan tool MB991502, check data list item 52:
+Amount of Torque Converter Clutch Slippage. (Second
+check)
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at constant speed of 50km/h
+(31mph). (Gear range: 3rd gear)
+(3) Set scan tool MB991502 to data reading mode for item 52:
+Amount of Torque Converter Clutch Slippage.
+• Driving at constant speed of 50km/h (31mph), the dis-
+play should be "−10 to 10 r/min."
+• The display should be "−300 to −100 r/min" or "100 to
+16 PIN
+300 r/min" when the accelerator pedal is released (50
+MB991502 km/h (31 mph) and less).
+AC001252AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Go to Step 4.
+STEP 4. Replace the PCM.
+(1) Replace the PCM.
+(2) Test drive the vehicle.
+(3) Check for A/T diagnostic trouble code (DTC).
+Q:Is the A/T diagnostic trouble code "53" is output?
+YES : Go to Step 5.
+NO : The inspection is complete.
+STEP 5. Replace the valve body.
+(1) Replace the valve body. Refer to GROUP 23B, Transaxle
+VALVE P.23B-10.
+BODY
+(2) Test drive the vehicle.
+ASSEMBLY
+(3) Check for A/T diagnostic trouble code.
+Q:Is the A/T diagnostic trouble code "53" is output?
+YES : Replace the Torque Converter. Refer to GROUP 23B,
+Transaxle P.23B-10.
+NO : The inspection is complete.
+AC001860AB
+TSB Revision

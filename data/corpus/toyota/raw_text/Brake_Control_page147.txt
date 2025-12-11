@@ -1,0 +1,53 @@
+BC–137
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+(c) After performing the check, disconnect the SST
+from terminals TS and CG, and TC and CG of the
+DLC3 and turn the ignition switch off.
+(d) Turn the ignition switch on (IG).
+HINT:
+• If the ignition switch is not turned on (IG) after the
+SST is removed from the DLC3, the previous
+Test Mode will continue.
+• If the ignition switch is turned on (IG) with
+terminals TS and CG shorted, the previous Test
+Mode will continue.
+16. DTC OF TEST MODE (SIGNAL CHECK) FUNCTION
+(Procedure "A")
+ABS sensor:
+Code No. Diagnosis Trouble Area
+• Front speed sensor RH
+C1271/71 Low output signal of front speed sensor RH • Sensor installation
+• Speed sensor rotor
+• Front speed sensor LH BC
+C1272/72 Low output signal of front speed sensor LH • Sensor installation
+• Speed sensor rotor
+• Rear speed sensor RH
+C1273/73 Low output signal of rear speed sensor RH • Sensor installation
+• Speed sensor rotor
+• Rear speed sensor LH
+C1274/74 Low output signal of rear speed sensor LH • Sensor installation
+• Speed sensor rotor
+Abnormal change in output signal of front speed sensor
+C1275/75 Speed sensor rotor
+RH
+Abnormal change in output signal of front speed sensor
+C1276/76 Speed sensor rotor
+LH
+Abnormal change in output signal of rear speed sensor
+C1277/77 Speed sensor rotor
+RH
+Abnormal change in output signal of rear speed sensor
+C1278/78 Speed sensor rotor
+LH
+• Yaw rate and acceleration sensor
+C1279/79 Acceleration sensor output voltage malfunction
+• Sensor installation
+• Stop light switch
+C1281/81 Master cylinder pressure sensor output malfunction
+• Master cylinder pressure sensor
+VSC sensor:
+Code No. Diagnosis Trouble Area
+C0371/71 Yaw rate sensor Yaw rate and acceleration sensor
+HINT:
+The codes in this table are output only in Test Mode
+(signal check).

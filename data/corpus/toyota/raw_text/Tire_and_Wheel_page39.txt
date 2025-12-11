@@ -1,0 +1,28 @@
+TW–38
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+DTC C2111/11 Transmitter ID1 Operation Stop
+DTC C2112/12 Transmitter ID2 Operation Stop
+DTC C2113/13 Transmitter ID3 Operation Stop
+DTC C2114/14 Transmitter ID4 Operation Stop
+DTC C2115/15 Transmitter ID5 Operation Stop
+DESCRIPTION
+The tire pressure warning valve and transmitters that are installed in the tire and wheel assemblies
+measure the air pressures of the tires. The measured values are transmitted to the tire pressure warning
+TW antenna and receiver on the body as radio waves and then sent to the tire pressure warning ECU. The
+ECU compares the measured air pressure values with the air pressure threshold. When the measured air
+pressure value is less than this threshold, the warning light in the combination meter comes on. The tire
+pressure warning ECU stores a DTC when the tire pressure warning valve and transmitter stops
+transmitting signals. At this time, forcibly transmit the signals by releasing the tire pressure rapidly. The
+stored DTC is cleared when the signal transmission is resumed.
+DTC No. DTC Detecting Condition Trouble Area
+C2111/11
+C2112/12 • Tire pressure warning valve and
+Tire pressure warning valve and transmitters
+C2113/13 transmitter
+stop transmitting signals
+C2114/14 • Tire pressure warning ECU
+C2115/15
+HINT:
+• It is necessary to perform the procedure to identify the tire pressure warning valve and transmitter that
+is malfunctioning because it cannot be identified by the output DTC.
+• DTC C2115/15 are used only when the vehicle is equipped with a ground spare tire.

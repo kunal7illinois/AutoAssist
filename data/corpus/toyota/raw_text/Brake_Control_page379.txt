@@ -1,0 +1,46 @@
+BC–368
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+1 CHECK STOP LIGHT OPERATION
+(a) Check that the stop light comes on when the brake pedal
+is depressed, and goes off when the brake pedal is
+released.
+OK
+Condition Illumination Condition
+Brake pedal depressed ON
+Brake pedal released OFF
+NG INSPECT STOP LIGHT CIRCUIT
+OK
+2 READ VALUE OF INTELLIGENT TESTER (MASTER CYLINDER PRESSURE SENSOR)
+BC
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine.
+(c) Select the "DATA LIST" mode on the intelligent tester
+(See page BC-307).
+DATA LIST: ABS/TRAC/VSC
+Item (Display) Measurement Item / Range (Display) Normal Condition
+Master cylinder pressure sensor 1 reading / min.: 0 V,
+MAS CYL PRESS 1 When brake pedal is released: 0.3 to 0.5 V
+max.: 5 V
+(d) Check that the hydraulic pressure value of the master
+cylinder pressure sensor observed on the intelligent
+tester changes when the brake pedal is depressed.
+OK:
+When the pedal is depressed, voltage displayed on
+the intelligent tester increases.
+NG REPLACE BRAKE ACTUATOR ASSEMBLY
+(See page BC-432)
+OK
+3 READ VALUE OF INTELLIGENT TESTER (STOP LIGHT SWITCH)
+(a) Select the "DATA LIST" mode on the intelligent tester
+(See page BC-307).
+DATA LIST: ABS/TRAC/VSC
+Item (Display) Measurement Item / Range (Display) Normal Condition
+ON: Brake pedal depressed
+STOP LAMP SW Stop light switch / ON or OFF
+OFF: Brake pedal released
+(b) Check that the stop light condition observed on the
+intelligent tester changes when the brake pedal is
+depressed.
+OK:
+When the brake pedal is depressed, the intelligent
+tester displays "ON".

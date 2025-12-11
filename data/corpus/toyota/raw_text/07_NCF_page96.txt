@@ -1,0 +1,41 @@
+ENGINE - 2AZ-FE ENGINE EG-69
+d. EVAP Leak Check
+1)While actuating the leak detection pump, the ECM turns ON the vent valve in order to introduce a
+vacuum into the canister.
+2)When the pressure in the system stabilizes, the ECM compares this pressure and the 0.02 in. pressure
+in order to check for a leakage.
+3)If the detection value is below the 0.02 in. pressure, the ECM determines that there is no leakage.
+4)If the detection value is above the 0.02 in. pressure and near atmospheric pressure, the ECM
+determines that there is a gross leakage (large hole) and stores DTC P0455 in its memory.
+5)If the detection value is above the 0.02 in. pressure, the ECM determines that there is a small leakage
+and stores DTC P0456 in its memory.
+Atmosphere
+Purge VSV
+(OFF)
+Canister Pump Module
+Vacuum
+Vent Valve
+(ON)
+M
+ECM Leak Detection Pump
+& Pump Motor
+P
+Canister Pressure
+Sensor Reference Orifice
+060XA23C
+ON (Open)
+Purge VSV
+OFF (Close)
+ON
+Vent Valve
+OFF (Vent)
+ON
+Pump Motor
+OFF
+Atmospheric Pressure P0455
+System Pressure
+P0456
+0.02 in. Pressure
+Normal
+EVAP Leak Check
+060XA24C

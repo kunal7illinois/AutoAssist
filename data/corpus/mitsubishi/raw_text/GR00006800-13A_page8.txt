@@ -1,0 +1,45 @@
+13A-8 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC NO. ITEMS
+P0768 Shift solenoid "D" electrical
+P1400 Manifold differential pressure sensor circuit malfunction
+P1603* Battery backup circuit malfunction
+P1751 A/T control relay malfunction
+NOTE: If the Service Engine Soon/Malfunction Indicator Lamp illuminates because of a malfunction of the
+engine control module (ECM) <M/T> or powertrain control module (PCM) <A/T>, transmission between scan
+tool MUT-II (MB991502) and the ECM <M/T> or PCM <A/T> is impossible. In this case, the diagnostic trouble
+code (DTC) cannot be read.
+NOTE: After the ECM <M/T> or PCM <A/T> has detected a malfunction, the Service Engine Soon/Malfunc-
+tion Indicator Lamp illuminates when the engine is next turned on and the same malfunction is re-detected.
+However, for items marked with a "*" in the DTC NO column, the Service Engine Soon/Malfunction Indicator
+Lamp illuminates on the first detection of the malfunction.
+NOTE: After the Service Engine Soon/Malfunction Indicator Lamp illuminates, it will be switched off under the
+following conditions.
+.
+• When the ECM <M/T> or PCM <A/T> monitored the power train malfunction three times* it met set condi-
+tion requirements, it detected no malfunction. *: In this case, "one time" indicates from engine start to stop.
+• For misfiring or a fuel trim malfunction, when driving conditions (engine speed, engine coolant tempera-
+ture, etc.) are similar to those when the malfunction was first recorded.
+NOTE: Sensor 1 indicates the sensor mounted at a position closest to the engine, and sensor 2 indicates the
+sensor mounted at the position second closest to the engine.
+HOW TO READ AND ERASE DIAGNOSTIC
+TROUBLE CODE
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+NOTE: If Battery positive voltage is low, diagnostic trouble
+codes may not be output. Be sure to check the battery and
+charging system before continuing.
+NOTE: If battery cable is disconnected or if the engine control
+module (ECM) connector <M/T> or powertrain control module
+(PCM) connector <A/T> is disconnected, the diagnostic trouble
+codes will be erased. Do not disconnect the battery cable or
+ECM <M/T> or PCM <A/T> connector until the diagnostic trou-
+ble codes have been recorded.
+NOTE: If a DTC is erased, its "freeze frame" data will be also
+erased and the readiness test status will be reset. If necessary,
+store the "freeze frame" data before erasing the DTC.
+TSB Revision

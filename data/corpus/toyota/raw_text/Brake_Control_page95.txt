@@ -1,0 +1,41 @@
+BC–95
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+10 CHECK HARNESS AND CONNECTOR (BRAKE FLUID LEVEL WARNING SWITCH TO
+COMBINATION METER)
+(a) Disconnect the combination meter assembly connector.
+(b) Measure the resistance according to the value(s) in the
+Combination Meter Wire
+Harness View: table below.
+Standard resistance
+Tester Connection Specified Condition
+A16-1 - F2-6 (B/LE) Below 1 Ω
+F2-6 (B/LE) - Body ground 10 kΩ or higher
+A16-2 - Body ground Below 1 Ω
+(c) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (BRAKE FLUID LEVEL
+WARNING SWITCH TO COMBINATION
+BC
+METER)
+F2-6 (B/LE)
+Brake Fluid Level Warning Switch
+Harness Side Connector Front View:
+A16
+C136033E01
+OK
+11 INSPECT COMBINATION METER ASSEMBLY
+(a) Connect the intelligent tester to the DLC3.
+(b) Select the "ACTIVE TEST" on the tester (See page BC-
+25).
+ACTIVE TEST: ABS
+Item Vehicle Condition / Test Details Diagnostic Note
+BRAKE WARN LIGHT Turn brake warning light ON / OFF Observe combination meter
+(c) Check the ABS warning light operation.
+OK:
+The BRAKE warning light turns on or off in
+accordance with the intelligent tester.
+Result
+Condition Proceed to
+OK A
+OK (When troubleshooting in accordance with the PROBLEM SYMPTOMS TABLE) B
+NG C

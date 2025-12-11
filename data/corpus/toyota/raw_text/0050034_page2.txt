@@ -1,0 +1,38 @@
+ES–191
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+ECM From Battery No. 1 Ignition Coil
+with Igniter
+Igniter
+Crankshaft Position Sensor IGT1
+IGF1
+No. 1 Spark Plug
+Ignition Coil
+ES
+IGT2 No. 2 Ignition Coil
+with Igniter
+No. 2 Spark Plug
+Camshaft Position Sensor
+No. 3 Ignition Coil
+IGT3
+with Igniter
+No. 3 Spark Plug
+Other Sensors (Engine
+Coolant Temperature Sensor,
+Mass Air Flow Meter, Throttle
+Position Sensor, etc.)
+No. 4 Ignition Coil
+IGT4
+with Igniter
+TACH No. 4 Spark Plug
+To Tachometer
+A112570E01
+DTC No. DTC Detection Conditions Trouble Areas
+• Ignition system
+P0351
+• Open or short in IGF1 or IGT circuit (1 to 4) between
+P0352 No IGF signal to ECM while engine running
+ignition coil with igniter and ECM
+P0353 (1 trip detection logic)
+• No. 1 to No. 4 ignition coils with igniters
+P0354
+• ECM

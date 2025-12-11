@@ -1,0 +1,50 @@
+13A-260 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR:B-31 CONNECTOR: A-18X
+EGR
+SOLENOID
+VALVE MFI RELAY
+ACX02513AI AK101363AB
+CONNECTORS:C-49<M/T>,C-50<A/T> CONNECTOR:B-13
+ECM<M/T>
+OR
+PCM<A/T>
+C-49,C-50
+AK000280BC AK101752AB
+. • The ECM<M/T> or PCM<A/T> monitors for this
+CIRCUIT OPERATION
+• The EGR solenoid power is supplied from the condition once during the drive cycle.
+MFI relay (terminal 4). Check Conditions
+• The ECM <M/T> or PCM <A/T> controls the EGR • Battery positive voltage is at between 10 and 16
+solenoid ground by turning the power transistor in volts.
+the ECM <M/T> or PCM <A/T> "ON" and "OFF". • ON duty cycle of the EGR solenoid is between 10
+and 90 percent.
+. TECHNICAL DESCRIPTION • ON duty cycle of the evaporative emission purge
+• To judge if there is open circuit in the EGR sole- solenoid is 0 percent.
+noid drive circuit, ECM <M/T> or PCM <A/T> • Evaporative emission ventilation solenoid is OFF.
+measures the surge voltage of the EGR solenoid • More than 1 second has elapsed after the above
+coil. mentioned conditions have been met.
+• The ECM <M/T> or PCM <A/T> drives the EGR
+Judgment Criteria
+solenoid. After the solenoid is turned off, the ECM • The EGR solenoid coil surge voltage (battery
+<M/T> or PCM <A/T> will check if the solenoid
+positive voltage + 2 volts) is not detected for 1
+coil produces a surge voltage of 2 V or more.
+second. When the EGR solenoid is turned OFF.
+.
+DTC SET CONDITIONS .
+TROUBLESHOOTING HINTS (The most likely
+Check Conditions causes for this code to be set are: )
+• Engine is being cranked. • EGR solenoid failed.
+• Battery positive voltage is at between 10 and 16 • Open or shorted EGR solenoid circuit, or loose
+volts. connector.
+• ECM failed. <M/T>
+Judgment Criteria
+• PCM failed. <A/T>
+• The EGR solenoid coil surge voltage (battery
+positive voltage + 2 volts) is not detected for 0.2
+second.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

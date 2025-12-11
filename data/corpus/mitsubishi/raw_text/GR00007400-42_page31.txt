@@ -1,0 +1,31 @@
+BODY 42-31
+QUARTER WINDOW GLASS AND REGULATOR ASSEMBLY
+DIAGNOSIS
+STEP 1. Check harness wires between convertible top
+control module connector F-34 (terminal 12) and power
+window main switch connector E-12 (terminal 2).
+Q:Are there any damaged wires between convertible top
+CONNECTOR: F-34
+control module connector F-34(terminal 12) and power
+main switch connector E-12 (terminal 2)?
+YES : Repair then, go to Step 3.
+NO : Go to Step 2.
+AC003848AB
+CONNECTOR: E-12
+<DRIVER'S SIDE>
+E-12
+AC001794AC
+STEP 2. Check the power window main switch.
+(1) Exchange the power window main switch with one in good
+condition to check that the quarter window glass operates
+properly. (Refer to P.42-54.)
+(2) If normal operates can not be seen, replace the convertible
+top control module. (Refer to P.42-138.)
+Q:Is the power window main switch damaged?
+YES : Replace it, then go to Step 3.
+NO : Go to Step 3.
+STEP 3. Check symptoms.
+Q:Does the quarter windows open and close normally?
+YES : This diagnosis is complete.
+NO : Return to Step 1.
+TSB Revision

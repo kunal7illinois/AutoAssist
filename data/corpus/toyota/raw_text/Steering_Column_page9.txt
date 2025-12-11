@@ -1,0 +1,24 @@
+SR–7
+STEERING COLUMN – ELECTRIC STEERING LOCK
+Transmitting ECU (transmitter) Receiving ECU Signals Communication Method
+• Certification ECU
+Power supply malfunction
+Steering Lock ECU • Main Body ECU LIN
+(to steering lock motor)
+• ID Code Box
+• Certification ECU
+Steering Lock ECU • Main Body ECU Motor driver malfunction LIN
+• ID Code Box
+• Certification ECU
+Steering Lock ECU • Main Body ECU Lock bar (stuck) status LIN
+• ID Code Box
+• Certification ECU
+Steering Lock ECU • Main Body ECU Push start status LIN
+• ID Code Box
+• Certification ECU
+Steering Lock ECU • Main Body ECU Lock / Unlock relay drive status LIN
+• ID Code Box
+• Certification ECU
+Steering Lock ECU • Main Body ECU Engine start control status LIN
+• ID Code Box
+SR

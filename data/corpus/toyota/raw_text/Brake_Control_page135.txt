@@ -1,0 +1,39 @@
+BC–125
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+NOTICE:
+If the ignition switch is turned on (IG) for
+more than 15 seconds with the shift lever in
+the P position (A/T) or the parking brake
+applied (M/T) after zero point of the yaw rate
+and acceleration sensor has been cleared,
+only the zero point of the yaw rate sensor will
+be stored. If the vehicle is driven under these
+conditions, the skid control ECU will store
+the zero point calibration for the acceleration
+sensor as not being completed. The skid
+control ECU will then also indicate this as a
+malfunction of the VSC system using the
+indicator lights (models without multi
+information display) or multi information
+display (models with multi information
+display).
+(b) Perform zero point calibration of the yaw rate and
+acceleration sensor. BC
+(1) Turn the ignition switch off.
+(2) Check that the steering wheel is centered and
+move the shift lever to the P position (A/T) or
+apply the parking brake (M/T).
+NOTICE:
+DTCs C1210/36 and C1336/39 will be
+recorded if the shift lever is not in the P
+position (A/T) or the parking brake is not
+applied (M/T) (See page BC-188).
+(3) Using SST, connect terminals TS and CG of the
+DLC3:
+CG DLC3.
+SST 09843-18040
+(4) Turn the ignition switch on (IG).
+(5) Keep the vehicle stationary on a level surface for
+2 seconds or more.
+TS
+G022987E07

@@ -1,0 +1,57 @@
+ES–125
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. DTC Detection Condition Trouble Area
+P0141 Cumulative heater resistance correction value exceeds • HO2 sensor heater
+P0161 the acceptable threshold. (2 trip detection logic) • ECM
+HINT:
+• Bank 1 refers to the bank that includes cylinder No. 1.
+• Bank 2 refers to the bank that does not include cylinder No. 1.
+• Sensor 1 refers to the sensor closest to the engine assembly.
+• Sensor 2 refers to the sensor farthest away from the engine assembly.
+MONITOR DESCRIPTION
+The sensing position of the Heated Oxygen (HO2) sensor has a zirconia element which is used to detect
+the oxygen concentration in the exhaust gas. If the zirconia element is at the appropriate temperature,
+and the difference between the oxygen concentrations surrounding the inside and outside surfaces of the
+sensor is large, the zirconia element generates voltage signals. In order to increase the oxygen
+ES
+concentration detecting capacity of the zirconia element, the ECM supplements the heat from the exhaust
+with heat from a heating element inside the sensor.
+Heated oxygen sensor heater range check (P0037,P0038, P0057 and P0058):
+The ECM monitors the current applied to the O2 sensor heater to check the heater for malfunctions. If the
+current is below the threshold value, the ECM will determine that there is an open circuit in the heater. If
+the current is above the threshold value, the ECM will determine that there is a short circuit in the heater.
+Example:
+The ECM sets DTC P0038 or P0058 when the current in the HO2 sensor heater is more than 2 A.
+Conversely, when the heater current is less than 0.3 A, DTC P0037 or P0057 is set.
+Heated oxygen sensor heater performance (P0141 and P0161):
+After the accumulated heater ON time exceeds 100 seconds, the ECM calculates the heater resistance
+using the battery voltage and the current applied to the heater. If the resistance is above the threshold
+value, the ECM will determine that there is a malfunction in the HO2S heater and set DTC P0141 and
+P0161.
+MONITOR STRATEGY
+P0037: Heated oxygen sensor heater (bank 1 sensor 2) open/short
+(Low electrical current)
+P0038: Heated oxygen sensor heater (bank 1 sensor 2) open/short
+(High electrical current)
+P0057: Heated oxygen sensor heater (bank 2 sensor 2) open/short
+Related DTCs
+(Low electrical current)
+P0058: Heated oxygen sensor heater (bank 2 sensor 2) open/short
+(High electrical current)
+P0141: Heated oxygen sensor heater performance (bank 1 sensor 2)
+P0161: Heated oxygen sensor heater performance (bank 2 sensor 2)
+Heated oxygen sensor heater (bank 1 sensor 2)
+Required sensors / components (Main)
+Heated oxygen sensor heater (bank 2 sensor 2)
+Required sensors / components (Sub) Vehicle speed sensor
+Frequency of operation Continuous
+1 second: P0037, P0038, P0057 and P0058
+Duration
+10 seconds: P0141 and P0161
+Immediate: P0037, P0038, P0057 and P0058
+MIL operation
+2 driving cycles: P0141 and P0161
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+All:
+Monitor runs whenever following DTCs are not present None

@@ -1,0 +1,34 @@
+ST–34
+2GR-FE STARTING – SMART KEY SYSTEM
+OK:
+No DTC is output.
+NG Go to step 2
+OK
+CHECK INTERMITTENT PROBLEMS
+2 INSPECT FUSE (AM2)
+(a) Remove the AM2 fuse from the engine room J/B.
+(b) Measure the resistance of the fuse.
+Standard resistance:
+Below 1 Ω
+NG REPLACE FUSE
+OK
+3 CHECK WIRE HARNESS (MAIN BODY ECU - BATTERY)
+(a) Disconnect the E6 and E7 ECU connectors.
+Wire Harness Side: (b) Measure the voltage according to the value(s) in the
+table below.
+E7
+Standard voltage
+Main Body ECU Terminal No. (Symbol) Condition Specified Condition
+E7-6 (AM1) - Body
+Always 10 to 14 V
+ground
+E6-1 (AM2) - Body
+Always 10 to 14 V
+ground
+AM1
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E6
+ST
+AM2
+B138000E01

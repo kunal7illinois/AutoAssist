@@ -1,0 +1,46 @@
+AX–144
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+INSPECTION PROCEDURE
+1 INSPECT TRANSMISSION WIRE (SLU)
+(a) Remove the TCM from the transaxle.
+AX (b) Measure the resistance according to the value(s) in the
+SLU-
+table below.
+Standard resistance
+Specified Condition
+Tester Connection
+20°C (68°F)
+SLU+
+11 (SLU+) - 5 (SLU-) 5.0 to 5.6 Ω
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+Check for short
+Tester Connection Specified Condition
+11 (SLU+) - Body ground 10 kΩ or higher
+5 (SLU-) - Body ground 10 kΩ or higher
+C133212E07
+OK REPLACE TCM
+NG
+2 INSPECT SHIFT SOLENOID VALVE SLU
+(a) Remove the shift solenoid valve SLU.
+Shift Solenoid Valve SLU:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+1 2 Specified Condition
+Tester Connection
+20°C (68°F)
+1 - 2 5.0 to 5.6 Ω
+(c) Connect a positive (+) lead through a 21 W bulb to
+terminal 2 and a negative (-) lead to terminal 1 of the
+solenoid valve connector, then check the movement of
+the valve.
+OK:
+2
+1 The solenoid makes an operating sound.
+NG REPLACE SHIFT SOLENOID VALVE SLU
+(-) (+)
+G020767E09
+OK
+REPLACE TRANSMISSION WIRE

@@ -1,0 +1,60 @@
+DL–163
+DOOR LOCK – SMART KEY SYSTEM
+Measurement Item / Range
+Item Normal Condition Diagnostic Note
+(Display)
+ON: Engine switch is on (IG)
+IG SW Engine switch / ON or OFF -
+OFF: Engine switch is off
+METER (Combination Meter):
+Measurement Item / Range
+Item Normal Condition Diagnostic Note
+(Display)
+Key reminder buzzer volume LARGE: Volume is large
+KEY REMND VOLUM condition / LARGE, MEDIUM, MEDIUM: Volume is medium -
+SMALL SMALL: Volume is small
+Key reminder buzzer sound FAST: Buzz pattern is fast
+KEY REMND SOUND condition / FAST, NORMAL, NORMAL: Buzz pattern is normal -
+SLOW SLOW: Buzz pattern is slow
+2. PERFORM ACTIVE TEST
+HINT:
+Performing the intelligent tester's ACTIVE TEST allows
+relay, VSV, actuator and other items to be operated
+without removing any parts. Performing the ACTIVE
+TEST early in troubleshooting is one way to save time.
+The DATA LIST can be displayed during the ACTIVE
+TEST.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the engine switch on (IG).
+(c) Enter the following menus: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST.
+(d) Perform the ACTIVE TEST according to the display
+on the tester.
+SMART ACCESS (Certification ECU):
+Item Test Details Diagnostic Note
+OVERHEAD TUNER Entry door control receiver ON / OFF -
+IN LUG TUNER Luggage receiver ON / OFF -
+D TRANSMITTER Driver side electrical key oscillator ON / OFF -
+Front passenger side electrical key oscillator
+P TRANSMITTER -
+ON / OFF
+Indoor electrical key oscillator (console) ON /
+FR TRANSMITTER -
+OFF
+Indoor electrical key oscillator (rear seat) ON /
+RR TRANSMITTER -
+OFF
+Luggage compartment door inner oscillator
+IN_BDR TRNSMTTR -
+ON / OFF
+Luggage compartment door outer oscillator
+BDOOR TRNSMTTR -
+ON / OFF DL
+D SELECT SIG Driver side select ON / OFF -
+P SELECT SIG Front passenger side select ON / OFF -
+WIRELESS BUZZER Wireless buzzer ON / OFF -
+MAIN BODY:
+Item Test Details Diagnostic Note
+Luggage compartment open switch signal ON
+TRNK/BDOR OPEN -
+/ OFF

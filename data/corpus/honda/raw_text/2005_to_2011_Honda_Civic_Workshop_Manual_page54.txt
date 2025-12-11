@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+hood fuse/relay box and the ABS modulator-control unit.
+11. Turn the ignition switch ON (II).
+12. Measure voltage between ABS modulator-control unit 25P connector terminal
+No. 16 and body ground.
+Fig. 26: Measuring Voltage Between ABS Modulator-Control Unit 25P
+Connector Terminal No. 16 And Body Ground
+Is there battery voltage?
+YES - Check for loose terminals in the ABS modulator-control unit 25P
+connector. If necessary, substitute a known-good ABS modulator-control unit:
+Except Si model (see REMOVAL - EXCEPT SI MODEL ), Si model (see
+REMOVAL - SI MODEL ), and retest.
+NO - Repair open in the wire between the No. 4 (7.5 A) fuse in the under-dash
+fuse/relay box and the ABS modulator-control unit.
+DTC 62-21: MODULATOR-CONTROL UNIT IG HIGH VOLTAGE
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then start the engine.
+4. Check for DTCs with the HDS.
+Is DTC 62-21 indicated?
+YES - Go to step 5.

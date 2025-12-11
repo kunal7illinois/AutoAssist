@@ -1,0 +1,54 @@
+Audi TT 2007 ➤
+Brake system - Edition 04.2009
+Contents
+00 - Technical data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1 Technical data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.1 Production code (PR No.) allocation: brakes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.2 Brakes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.3 Front brakes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.4 Front brakes (TT RS) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.5 Rear wheel brakes, front-wheel drive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+1.6 Rear wheel brakes, four-wheel drive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+1.7 Rear brakes (TT RS) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2 Brake test . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.1 General notes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.2 Vehicles with front-wheel drive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.3 Four-wheel drive vehicles with Haldex coupling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.4 Testing four-wheel drive vehicles with Haldex coupling on a conventional brake
+dynamometer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+3 Brake fluid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3.1 General notes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+45 - Anti-lock brake system . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+1 General information on the anti-lock brake system . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+1.1 Notes for repair work on ABS Mark 60 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2 Connecting VAS 505x and selecting functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+3 Components and fitting locations on brake system ABS/ESP Mark 60 . . . . . . . . . . . . . . . . 10
+4 Removing and installing parts of ABS/ESP system . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+4.1 Removing and installing brake light switch . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+4.2 Removing and installing brake light switch (TT RS) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+4.3 Removing and installing ESP sensor unit G419 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+4.4 Removing and installing steering angle sender G85 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+4.5 Removing and installing brake servo vacuum sender G483 . Only on vehicles with (OHBV)
+optimised hydraulic brake assistance/vacuum sender . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+5 ABS/ESP Mark 60 control unit -J104- and hydraulic unit -N55- . . . . . . . . . . . . . . . . . . . . . . 19
+5.1 Exploded view . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+5.2 Removing and installing ABS control unit -J104- and ABS hydraulic unit -N55- . . . . . . . . 20
+6 TFSI engine: ABS control unit -J104- and ABS hydraulic unit -N55- . . . . . . . . . . . . . . . . . . 25
+6.1 Removing and installing control unit -J104- with hydraulic unit -N55- (TFSI) . . . . . . . . . . . . 25
+6.2 Removing and installing control unit -J104- with hydraulic unit -N55- (TT RS) . . . . . . . . . . 29
+7 Vehicles with diesel particulate filter: Control unit -J104- with hydraulic unit -N55- . . . . . . 34
+7.1 Removing and installing control unit -J104- with hydraulic unit -N55- (TDI) . . . . . . . . . . . . 34
+7.2 Basic setting of inlet valves and separating valves (Mark 60EC) . . . . . . . . . . . . . . . . . . . . 39
+8 ABS/ESP system components on front axle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+8.1 Exploded view . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+8.2 Removing and installing speed sensor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+9 ABS/ESP system components on rear axle (front-wheel drive vehicles) . . . . . . . . . . . . . . 42
+9.1 Exploded view . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+9.2 Removing and installing rear speed sensor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+10 ABS/ESP system components on rear axle (four-wheel drive vehicles) . . . . . . . . . . . . . . 44
+10.1 Exploded view . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+10.2 Removing and installing rear speed sensor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+46 - Brakes - mechanism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+1 Servicing front brakes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+i
+Contents

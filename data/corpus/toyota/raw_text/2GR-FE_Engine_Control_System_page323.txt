@@ -1,0 +1,41 @@
+ES–323
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK
+3 CHECK HARNESS AND CONNECTOR (PARK/NEUTRAL POSITION SWITCH - BODY
+GROUND)
+(a) Disconnect the C1 park/neutral position switch
+Wire Harness Side: connector.
+(b) Measure the resistance between the terminals.
+Standard resistance
+Park / Neutral Position SW
+Tester Connection Specified Condition
+L (C1-9) - Body ground Below 1 Ω
+(c) Reconnect the park/neutral position switch connector.
+C1 1 2 3 4
+5 6 7 8 9 NG REPAIR OR REPLACE HARNESS OR ES
+CONNECTOR
+C117645E10
+OK
+4 INSPECT PARK / NEUTRAL POSITION SWITCH ASSEMBLY
+(a) Measure the resistance according to the value(s) in the
+Component Side:
+table below when the shift lever is moved to each
+position.
+Standard resistance
+Park / Neutral Position SW Shift Position Tester Connection Specified Condition
+P Below 1 Ω
+1 - 3 and 4 - 9
+Except P 10 kΩ or higher
+R Below 1 Ω
+C1 1 - 2
+Except R 10 kΩ or higher
+N Below 1 Ω
+1 - 8and 4 - 9
+Except N 10 kΩ or higher
+D, S, ''+'' and ''-'' Below 1 Ω
+1 - 7
+Except D, S, ''+'' and ''-'' 10 kΩ or higher
+C110340E45
+NG REPLACE PARK/NEUTRAL POSITION
+SWITCH ASSEMBLY
+OK

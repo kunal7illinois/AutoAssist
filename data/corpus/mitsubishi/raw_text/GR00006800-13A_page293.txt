@@ -1,0 +1,45 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-293
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+• More than 1 second has elapsed after the above .
+TROUBLESHOOTING HINTS (The most likely
+mentioned conditions have been met.
+causes for this code to be set are: )
+Judgment Criteria • Evaporative emission ventilation solenoid failed.
+• The evaporative emission ventilation solenoid • Open or shorted evaporative emission ventilation
+coil surge voltage (battery positive voltage + 2 solenoid circuit, or loose connector.
+volts) is not detected for 1 second. When the • ECM failed. <M/T>
+evaporative emission ventilation solenoid is • PCM failed. <A/T>
+turned OFF.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check actuator test
+item 29: Evaporative Emission Ventilation Solenoid.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the actuator test mode for item
+29, Evaporative emission ventilation solenoid.
+16 PIN • An operation sound should be heard and vibration
+should be felt when the evaporative emission ventilation
+MB991502
+solenoid is operated.
+AKX01177AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the solenoid operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+STEP 2. Check connector D-10 at the evaporative emission
+ventilation solenoid for damage.
+Q:Is the connector in good condition?
+CONNECTOR:D-10
+EVAPORATIVE EMISSION YES : Go to Step 3.
+VENTILATION SOLENOID NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+ACX02516AJ
+TSB Revision

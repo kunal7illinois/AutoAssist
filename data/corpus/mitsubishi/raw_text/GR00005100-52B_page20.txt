@@ -1,0 +1,52 @@
+52B-20 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+SRS AIR BAG DIAGNOSIS
+INTRODUCTION TO DIAGNOSIS
+M1524005000136
+The SRS system is controlled by the SRS-ECU. The • The SRS warning light does not go off within
+SRS-ECU judges how severe a collision is by detect- approximately 7 seconds after the ignition switch
+ing signals from the analog G-sensor. If the impact is has been turned "ON."
+over a predetermined level, the SRS-ECU outputs an • The SRS warning light does not illuminate when
+ignition signal. At this time, if the safing G-sensor is the ignition switch is turned "ON."
+on, the SRS air bag will inflate. The SRS warning Refer to the Post-collision Diagnosis when inspecting
+light in the combination meter alerts a malfunction of and servicing the vehicle that has been in a collision.
+the SRS system. If the following symptoms occur (Refer to P.52B-138.)
+even when the vehicle has not been in a collided,
+there may be a malfunction in the SRS system.
+TROUBLESHOOTING STRATEGY
+M1524003100159
+Use these steps to plan your diagnostic strategy. If 5. If there is a SRS DTC, record the code number,
+you follow them carefully, you will be sure that you then erase the code from vehicle memory using
+have exhausted all of the possible ways to find a scan tool MB991502.
+SRS fault.
+6. Recreate the SRS DTC set conditions to see if the
+1. Gather information about the problem from the same SRS DTC will set again.
+customer. • If the same SRS DTC sets again, follow the
+2. Verify that the condition described by the Inspection Chart for DTC and find the fault.
+customer exists. • If you cannot get the same SRS DTC to set
+3. Check the vehicle for any SRS DTC. again, the malfunction is intermittent. Refer to
+GROUP 00, How to use Troubleshooting −
+4. If you cannot verify the condition but there are no
+Inspection Service Points − How to Cope with
+SRS DTCs, the malfunction is intermittent. Refer
+to GROUP 00, How to use Troubleshooting − Intermittent Malfunctions P.00-6.
+Inspection Service Points − How to Cope with
+Intermittent Malfunctions P.00-6.
+SRS DTC DIAGNOSIS
+M1524003200134
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+16PIN
+MB991502
+AC000356AB
+RETRIEVING SRS DTC
+Connect scan tool MB991502 to the data link connector, and
+then check DTC.
+ERASING SRS DTC
+Connect scan tool MB991502 to the data link connector, and
+then erase the DTC.
+TSB Revision

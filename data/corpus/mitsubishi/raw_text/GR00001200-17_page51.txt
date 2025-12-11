@@ -1,0 +1,40 @@
+ENGINE AND EMISSION CONTROL 17-51
+AUTO-CRUISE CONTROL
+CONNECTOR: C-89
+CONNECTOR
+BLOCK (LH)
+AC103104AD
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+The cause is probably a malfunction of the stoplight
+This is the stoplight switch input signal circuit.
+switch circuit.
+The signal is sent to the stoplight switch from dedi-
+cated fuse 5, and is then sent to the auto-cruise con-
+.
+trol-ECU. TROUBLESHOOTING HINTS
+• Malfunction of the stoplight switch.
+. • Damaged harness or connector.
+• Malfunction of the auto-cruise control-ECU.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+STEP 1. Check if the stoplight illuminates.
+Q:Is the stoplight illuminated?
+YES : Go to Step 8.
+NO : Go to Step 2.
+STEP 2. Check the 12-Volt supply circuit voltage at
+stoplight switch connector C-03 (terminal number 2).
+(1) Disconnect stoplight switch connector C-03 and measure at
+the harness side.
+(2) Measure the voltage between terminal 2 and ground.
+Q:Is the voltage approximately battery positive voltage?
+YES : Go to Step 5.
+NO : Go to Step 3.
+2 1
+4 3
+STOPLIGHT SWITCH
+CONNECTOR: C-03
+ACX01922AC
+TSB Revision

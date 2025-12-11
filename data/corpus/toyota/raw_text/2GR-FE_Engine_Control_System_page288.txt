@@ -1,0 +1,33 @@
+ES–288
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Engine speed 2,000 to 5,000 rpm
+Engine load 30.37 % or more
+Fuel cut high engine speed Not executing
+Battery voltage 8 V or more
+Engine switch ON
+ETC sensor circuit fail Not detected
+MAF sensor circuit fail Not detected
+Starter OFF
+TYPICAL MALFUNCTION THRESHOLDS
+Vehicle speed sensor signal No pulse input
+ES WIRING DIAGRAM
+F2 ECM
+Combination Meter
+8
++S SPD
+A55
+12
+A135032E01
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester or the OBD II scan tool. The ECM records vehicle and
+driving condition information as freeze frame data the moment a DTC is stored. When troubleshooting,
+freeze frame data can be helpful in determining whether the vehicle was running or stopped, whether the
+engine was warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at
+the time of a malfunction (See page ES-45).
+1 CHECK SPEEDOMETER
+(a) Drive the vehicle and check whether the operation of the
+speedometer in the combination meter is normal.
+HINT:
+• The vehicle speed sensor is operating normally if the
+speedometer reading is normal.

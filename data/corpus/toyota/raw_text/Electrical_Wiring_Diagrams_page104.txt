@@ -1,0 +1,96 @@
+1 4 1 4
++B GND GND
+IGT2 IGT4
+3 3
+103
+CAMRY (EM0250U)
+W–B
+R–G
+B
+1 4
++B GND
+IGT3
+3
+L
+G
+W RB
+GL
+W
++B
+31C 21C 41C
+1 4
+GND
+IGT5
+3
+RB
+P
+B–W
++B
+83C
+1 4
+GND
+IGT6
+3
+B
+B–L
+B–W
++B
+93C IGF
+2
+C7
+L–W
+IGF
+2
+L–W
+IGF
+2
+R
+IGF
+2
+R
+IGF
+2
+L
+B–W
+2 CA3
+B
+W–B
+W–B
+L W–L
+BR W–L
+W–B
+B
+)2
+.oN(
+lioC
+noitingI
+B–W
+)3
+.oN(
+lioC
+noitingI
+)4
+.oN(
+lioC
+noitingI
+)5
+.oN(
+lioC
+noitingI
+)6
+.oN(
+lioC
+noitingI
+∗ 1 : w/ Smart Key System
+∗ 2 : w/o Smart Key System
+B
+BR
+L
+BR
+B W
+L
+BR
+39 B 38 B 37 B 36 B 35 B
+IGT2 IGT3 IGT4 IGT5 IGT6
+C55(B)
+Engine Control Module

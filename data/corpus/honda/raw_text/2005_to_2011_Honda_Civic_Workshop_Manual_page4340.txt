@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+NOTE: While doing this troubleshooting, avoid vibration or
+shaking of the vehicle.
+1. Park the vehicle on a flat and level surface.
+2. Turn the ignition switch ON (II).
+3. Clear the DTC with the HDS.
+4. Do the VSA sensor neutral position memorization (see VSA SENSOR
+NEUTRAL POSITION MEMORIZATION ).
+5. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+6. Wait 15 seconds or more.
+7. Check for DTCs with the HDS.
+Is DTC 26-11, 26-12, 26-13, 26-21, or 26-23 indicated?
+YES -Replace the yaw rate-lateral acceleration sensor (see YAW RATE-
+LATERAL ACCELERATION SENSOR REPLACEMENT ).
+NO -Intermittent failure, the system is OK at this time.
+DTC 26-22: ACCELERATION SENSOR STUCK
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+4. Check for DTCs with the HDS.
+Is DTC 26-22 indicated?
+YES -Go to step 5.
+NO -If any DTCs are indicated, go to the indicated DTCs troubleshooting. If
+DTCs are not indicated, intermittent failure, the system is OK at this time.
+5. Check the LATERAL ACCELERATION SENSOR and YAW RATE S in the
+VSA DATA LIST with the HDS.

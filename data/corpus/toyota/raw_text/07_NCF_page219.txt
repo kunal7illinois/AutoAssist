@@ -1,0 +1,37 @@
+CHASSIS - U660E AUTOMATIC TRANSAXLE CH-55
+2. Solenoid Valves
+Solenoid Valves SL1, SL2, SL3, SL4, SLU and SLT
+(cid:3) In order to provide a hydraulic pressure that is proportional to the current that flows to the solenoid coil,
+solenoid valves SL1, SL2, SL3, SL4, SLU and SLT linearly control the line pressure and clutch and brake
+engagement pressure based on the signals from the ECT ECU.
+(cid:3) Solenoid valves SL1, SL2, SL3 and SL4 are large flow linear solenoid valves that can supply more
+pressure than conventional ones. These solenoid valves control engagement elements by directly
+regulating the line pressure without using the pressure regulation valve (control valve) or the pressure
+reduction valve (solenoid modulator valve). Thus, the number of valves and the length of the valve body
+fluid passage have been reduced, the shifting response has been increased and the shift shock has been
+minimized.
+Pressure Reduction Valve
+(Solenoid Modulator Valve)
+Solenoid
+Pressure Valve
+Regulation Valve
+Solenoid Valve (Control Valve)
+SL1, SL2, SL3, SL4 Signal
+Pressure
+Control Control
+Clutch or Pressure Clutch or Pressure
+Brake Brake
+Line Pressure
+Line Pressure
+U660E U151E
+01YCH41TE
+Spool Valve
+Sleeve
+Solenoid Valve SL2 and SL4
+Hydraulic
+Pressure
+Spool Valve
+Current
+Sleeve
+01YCH19Y
+Solenoid Valve SL1 and SL3

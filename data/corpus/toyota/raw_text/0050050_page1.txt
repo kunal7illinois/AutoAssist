@@ -1,0 +1,51 @@
+ES–276
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P2111 Throttle Actuator Control System - Stuck Open
+Throttle Actuator Control System - Stuck
+DTC P2112
+Closed
+DESCRIPTION
+The throttle actuator is operated by the ECM, and opens and closes the throttle valve using gears. The
+opening angle of the throttle valve is detected by the Throttle Position (TP) sensor, which is mounted on
+the throttle body. The TP sensor provides feedback to the ECM in order that it can control the throttle
+actuator, and therefore the throttle valve, appropriately in response to driver inputs.
+HINT:
+ES
+This ETCS (Electronic Throttle Control System) does not use a throttle cable.
+DTC No. DTC Detection Conditions Trouble Areas
+• Throttle actuator
+Throttle actuator does not close when signaled by ECM
+P2111 • Throttle body assembly
+(1 trip detection logic)
+• Throttle valve
+• Throttle actuator
+Throttle actuator does not open when signaled by ECM
+P2112 • Throttle body assembly
+(1 trip detection logic)
+• Throttle valve
+MONITOR DESCRIPTION
+The ECM determines that there is a malfunction in the ETCS when the throttle valve remains at a fixed
+angle despite a high drive current from the ECM. The ECM illuminates the MIL and sets a DTC.
+If the malfunction is not repaired successfully, a DTC is set when the accelerator pedal is fully depressed
+and released quickly (to fully open and close the throttle valve) after the engine is next started.
+MONITOR STRATEGY
+P2111: Throttle actuator stuck open
+Related DTCs
+P2112: Throttle actuator stuck closed
+Required Sensors/Components (Main) Throttle actuator
+Required Sensors/Components (Related) -
+Frequency of Operation Continuous
+Duration 0.5 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+All:
+Monitor runs whenever following DTCs not present None
+P2111 (Throttle actuator stuck open):
+All of following conditions met -
+Throttle actuator current 2 A or more
+Duty cycle to close throttle 80 % or more
+P2112 (Throttle actuator stuck closed):
+All of following conditions met -
+Throttle actuator current 2 A or more
+Duty cycle to open throttle 80 % or more

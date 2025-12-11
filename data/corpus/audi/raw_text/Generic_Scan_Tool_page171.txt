@@ -1,0 +1,53 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Multimeter RED lead still connected to terminal 1 of the Engine
+Speed (RPM) Sensor -G28- and the BLACK meter lead to ter‐
+minal 3 for resistance.
+Specified value: 11.4 MΩ (+/- 1.4 M)
+If any of the specified values are not obtained:
+– Replace the Engine Speed (RPM) Sensor -G28- .
+If the specified value was obtained:
+Checking wiring
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Using a multimeter, check the Engine Speed (RPM) Sensor -
+G28- electrical harness connector terminals to the Engine
+Control Module (ECM) -J623- electrical harness connector
+T60 terminals for an open circuit. Refer to Wiring Diagrams for
+pin locations.
+Engine Speed (RPM) Sensor - Engine Control Module
+G28- electrical harness connector (ECM) -J623- electrical con‐
+terminals nector T60 terminals or test
+box socket
+1 28
+2 36
+3 51
+Specified value: 1.5 Ω Max.
+If the specified value was Not obtained:
+– Check the wiring for an open, high resistance or short to
+ground.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is detected in the wiring:
+– Remove the Engine Speed (RPM) Sensor -G28- and check
+the sensor wheel for proper seating, damage and runout Refer
+to the Repair Manual .
+If the sensor wheel is OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.27 Fuel Injectors, Checking
+The following test procedure is used to diagnose all fuel injectors.
+167
+3. Diagnosis and Testing

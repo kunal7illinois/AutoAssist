@@ -1,0 +1,43 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-525
+SYMPTOM PROCEDURES
+. • Malfunction of the ETACS-ECU
+TROUBLESHOOTING HINTS
+• Malfunction of the key reminder switch • Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the key reminder switch.
+Disconnect key reminder switch connector C-88. Then check
+CONNECTOR: C-88
+continuity between terminals.
+COLUMN SWITCH IGNITION KEY TESTER SPECIFIED
+CONNECTION CONDITION
+Removed 4 − 6 Less than 2 ohm
+Inserted 4 − 6 Open circuit
+Q:Is the key reminder switch in good condition?
+AC106518AB YES : Go to Step 2.
+NO : Replace the key reminder switch. If the functions,
+which are described in "CIRCUIT OPERATION", work
+normally, the input signal from the key reminder
+switch should be normal.
+STEP 2. Measure at key reminder switch connector C-88 in
+order to the ground circuit to the key reminder switch.
+(1) Disconnect key reminder switch connector C-88, and
+CONNECTOR: C-88
+measure at the wiring harness side.
+1 2
+DEVICE SIDE 3 4 5 6 7
+AC106475AD
+(2) Measure the resistance value between terminal 4 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR: C-88
+Q:Does the measured resistance value correspond with
+(HARNESS SIDE)
+this range?
+2 1
+7 6 5 4 3 YES : Go to Step 5.
+NO : Go to Step 3.
+ACX01595AF
+TSB Revision

@@ -1,0 +1,54 @@
+ES–118
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Engine Coolant Temperature Circuit Range /
+DTC P0116
+Performance Problem
+DESCRIPTION
+Refer to DTC P0115 (see page ES-105).
+DTC No. DTC Detection Conditions Trouble Areas
+When either of following conditions met (2 trip detection
+logic):
+• When cold engine started and engine warmed up, Engine
+Coolant Temperature (ECT) sensor value does not • Thermostat
+P0116
+change. • ECT sensor
+• After warmed up engine started, ECT sensor value does
+ES not change when engine stopped and then next cold
+engine start performed.
+MONITOR DESCRIPTION
+Engine coolant temperature (ECT) sensor cold start monitor
+When a cold engine start is performed and then the engine is warmed up, if the ECT sensor value does
+not change, it is determined that a malfunction has occurred. If this is detected in 2 consecutive driving
+cycles, the MIL is illuminated and a DTC is set.
+ECT sensor soak monitor
+After a warmed up engine is started, if the ECT sensor value does not change when the engine is stopped
+and then the next cold engine start is performed, it is determined that a malfunction has occurred. If this is
+detected in 2 consecutive driving cycles, the MIL is illuminated and a DTC is set.
+MONITOR STRATEGY
+P0116: Engine coolant temperature (ECT) sensor cold start monitor
+Related DTCs
+P0116: ECT sensor soak monitor
+Required Sensors/Components (Main) ECT sensor
+Required Sensors/Components (Related) None
+Frequency of Operation Once per driving cycle
+Duration 5 hours or more
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+ECT Sensor cold start monitor:
+P0100 to P0103: Mass Air Flow (MAF) meter
+Monitor runs whenever following DTCs not present
+P0110 to P0113: Intake Air Temperature (IAT) sensor
+Battery voltage 10.5 V or more
+Time after engine start 1 second or more
+ECT at engine start Less than 60°C (140°F)
+IAT sensor circuit OK
+Soak time 5 hours or more
+Accumulated MAF 604.75 g or more
+Engine Running
+Fuel cut OFF
+Difference between ECT at engine start and IAT Less than 40°C (72°F)
+ECT Sensor soak monitor:
+P0100 to P0103: MAF meter
+Monitor runs whenever following DTCs not present
+P0110 to P0113: IAT sensor

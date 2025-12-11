@@ -1,0 +1,50 @@
+ES–127
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1 INSPECT HEATED OXYGEN SENSOR (HEATER RESISTANCE)
+(a) Disconnect the C52 heated oxygen sensor connector
+Component Side:
+(Bank 1 Sensor 2) or C51 heated oxygen sensor
+connector (Bank 2 Sensor 2).
+(b) Measure the resistance according to the value(s) in the
+Heated Oxygen Sensor table below.
+Standard resistance (Bank 1 sensor 2)
++B HT1B
+Tester Connection Condition Specified Condition
+C52
+HT1B (1) - +B (2) 20°C (68°F) 11 to 16 Ω
+Bank 1 HT1B (1) - E2 (4) Always 10 kΩ or higher
+E2 OX1B Standard resistance (Bank 2 sensor 2)
+ES
+Tester Connection Condition Specified Condition
+HT2B (1) - +B (2) 20°C (68°F) 11 to 16 Ω
+HT2B (1) - E2 (4) Always 10 kΩ or higher
++B HT2B
+(c) Reconnect the HO2 sensor connector.
+C51
+NG REPLACE HEATED OXYGEN SENSOR (See
+Bank 2
+page EC-20)
+E2
+OX2B
+A137614E06
+OK
+2 CHECK TERMINAL VOLTAGE (+B OF HO2 SENSOR)
+(a) Disconnect the C52 heated oxygen sensor connector
+Wire Harness Side: (Bank 1 Sensor 2) or C51 heated oxygen sensor
+connector (Bank 2 Sensor 2).
+(b) Turn the ignition switch on (IG).
+Heated Oxygen Sensor Connector
+(c) Measure the voltage between the terminals.
+Standard voltage
++B Tester Connection Specified Condition
+C52
++B (C52-2) - Body ground 9 to 11 V
+Bank 1
++B (C51-2) - Body ground 9 to 11 V
+(d) Reconnect the HO2 sensor connector.
+OK Go to step 7
++B
+C51
+Bank 2
+A137619E01
+NG

@@ -1,0 +1,43 @@
+Audi TT No. 29 / 7
+Current Flow Diagram
+Roadster, control unit with display for radio and navigation
+system, aerial amplifier, navigation system aerial
+J503 Control unit with display for radio and navigation system
+R11 Aerial
+R24 Aerial amplifier
+R50 Navigation system aerial
+R93 Radio aerial 2
+R111 Aerial amplifier 2
+* on centre windscreen
+** rear right
+*** rod aerial rear left
+R50 ✱
+A1 A2
+0,4
+8833
+J503
+E1 E2 E3 E4 F1 F2
+0,5 0,5 0,5
+sw sw sw
+R24
+0,4 0,4 0,4
+A1 A2 8833
+0,5
+sw
+R93
+0,4
+R11
+✱✱✱ ws = white
+0,5 0,5 0,5 sw = black
+sw sw sw
+ro = red
+A1 A2 B1 B2 C1 C2 br = brown
+gn = green
+bl = blue
+R111 ✱✱ gr = grey
+li = purple
+ge = yellow
+71 72 73 74 75 76 77 78 79 80 81 82 83 84 or = orange
+8J0-029070407
+rs = pink
+Edition 04.2009

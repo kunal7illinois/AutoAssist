@@ -1,0 +1,54 @@
+ES–146
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+A/F Sensor (Sensor 1) HO2 Sensor (Sensor 2) Main Suspected
+Case
+Output Voltage Output Voltage Trouble Areas
+Injection volume Injection Volume
+• Injector
++25 % +25 %
+• Fuel pressure
+-12.5 % -12.5 %
+• Gas leakage from
+4 exhaust system
+Output Voltage Output Voltage
+(Air-fuel ratio
+Almost Almost
+extremely lean or
+no reaction no reaction
+rich)
+Following the A/F CONTROL procedure enables technicians to check and graph the voltage outputs of
+both the A/F and HO2 sensors.
+To display the graph, select the following menu items on the tester: DIAGNOSIS / ENHANCED OBD II /
+ACTIVE TEST / A/F CONTROL / USER DATA / AFS B1 S1 and O2S B1 S2; then press the YES button
+ES
+and then the ENTER button followed by the F4 button.
+HINT:
+• Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition
+when malfunctions are detected. When troubleshooting, freeze frame data can help determine if the
+vehicle was moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or
+rich, and other data from the time the malfunction occurred.
+• If the OX1B wire from the ECM connector is short-circuited to the +B wire, DTC P0138 will be set.
+1 READ OUTPUT DTC
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(d) Read DTCs.
+Result
+Display (DTC output) Proceed To
+P0138 A
+P0137 B
+P0136 C
+B Go to step 14
+C Go to step 7
+A
+2 READ VALUE USING INTELLIGENT TESTER (OUTPUT VOLTAGE OF HEATED OXYGEN
+SENSOR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY / O2S B1
+S2.
+(d) Allow the engine to idle.
+(e) Read the Heated Oxygen (HO2) sensor output voltage
+while idling.

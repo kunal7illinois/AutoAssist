@@ -1,0 +1,27 @@
+ST–75
+2GR-FE STARTING – SMART KEY SYSTEM
+WIRING DIAGRAM
+Main Body ECU
+A19 Instrument Panel J/B
+Stop Light Switch
+7
+IL STP
+2 1 23
+To ECM From Battery
+4 3
+Instrument Panel J/B
+8 STOP SW 10
+IC IF From Battery
+ECM
+CAN CAN
+CAN Line
+B137985E01
+ST
+INSPECTION PROCEDURE
+1. EMERGENCY ENGINE START CONTROL
+(a) If there is a malfunction in the stop light switch or STOP fuse, their signals may not be correctly
+transmitted to the main body ECU. This may result in the engine not starting even if the engine
+switch is pressed while the brake pedal is depressed and the shift lever is in the P position.
+To activate the starter:
+(1) Turn the engine switch from off to on (ACC).
+(2) Press and hold the engine switch for 15 seconds.

@@ -1,0 +1,58 @@
+AX–109
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+HINT:
+Because the torque converter clutch has not engaged, it
+may be difficult to obtain the speeds specified in 4th, 5th,
+and 6th gear, however a difference of speed should still
+be evident following each gear change.
+Standard
+AX
+1st 2nd 3rd 4th 5th 6th
+5 to 7.5 mph (8 to 12 9.3 to 11.8 mph (15 13.0 to 15.5 mph (21 19.3 to 21.7 mph (31 27.3 to 29.8 mph (44 32.3 to 34.8 mph (52
+km/h) to 19 km/h) to 25 km/h) to 35 km/h) to 48 km/h) to 56 km/h)
+(e) Compare the TCM gear shift command and the actual
+gear position.
+Result
+Actuator gear position under TCM gear shift command
+Proceed to
+malfunction 1st 2nd 3rd 4th 5th 6th
+Stuck ON 1st 2nd 3rd 4th 4th 4th
+Shift solenoid SL1 A
+Stuck OFF N*1 N*1 N*1 N*1 5th 6th
+Stuck ON 4th 4th 4th 4th 5th 6th
+Shift solenoid SL2 B
+Stuck OFF 1st 2nd 3rd 1st N*1 N*1
+Stuck ON 2nd 2nd 3rd 4th 5th 6th
+Shift solenoid SL3 C
+Stuck OFF 1st 1st 3rd 4th 5th N*1
+Stuck
+3rd 3rd 3rd 4th 5th 5th
+Shift solenoid SL4
+ON*3
+D
+Stuck OFF 1st 2nd 1st 4th N*1 6th
+Stuck ON N*2 N*2 N*2 N*2 N*2 N*2
+Shift solenoid SLT Stuck E
+1st 2nd 3rd 4th 5th 6th
+OFF*3
+HINT:
+• *1: Neutral
+• *2: If the shift solenoid SLT is stuck on, the line
+pressure will be low. Therefore, the amount of torque
+that can be transmitted by each gear is lower than the
+normal limit. When the engine power exceeds this
+lowered limit, the engine speed will increase freely.
+• *3: When shift solenoid SLT is stuck OFF, gear
+shifting is normal.
+A GO TO DTC CHART (RELATED SHIFT
+SOLENOID VALVE (SL1) PERFORMANCE
+DTC P0746)
+B GO TO DTC CHART (RELATED SHIFT
+SOLENOID VAVLE (SL2) PERFORMANCE
+DTC P0776)
+D GO TO DTC CHART (RELATED SHIFT
+SOLENOID VALVE (SL4) PERFORMANCE
+DTC P2808)
+E GO TO DTC CHART (RELATED SHIFT
+SOLENOID VAVLE (SLT) PERFORMANCE
+DTC P2714)

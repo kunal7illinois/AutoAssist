@@ -1,0 +1,35 @@
+13A-456 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the ignition timing.
+(1) Check the ignition timing at cranking.
+Standard value: 5° BTDC ± 3°
+Q:Is the ignition timing normal?
+YES : Go to Step 6.
+NO : Check that the crankshaft position sensor and timing
+belt cover are in the correct position. Then confirm
+that the malfunction symptom is eliminated.
+STEP 6. Check harness connector B-01 or B-02 or B-05 or
+B-06 at injector for damage.
+Q:Is the harness connector in good condition?
+CONNECTOR : B-01, B-02, B-05, B-06
+YES : Go to Step 7.
+B-01 B-02 B-05B-06
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AAKK000000227733AB
+STEP 7. Check the injector.
+(1) Disconnect the injector connector B-01, B-02, B-05, B-06.
+CONNECTOR : B-01, B-02, B-05, B-06
+B-01 B-02 B-05B-06
+AAKK000000227733AB
+(2) Measure the resistance between each injector side
+INJECTOR SIDE connector terminal 1 and 2.
+CONNECTOR Standard value: 13 − 16 ohm [at 20°C (68°F)]
+Q:Is the resistance standard value?
+1 2
+YES : Go to Step 8.
+NO : Repair the injector. Then confirm that the malfunction
+symptom is eliminated.
+AK000559AB
+TSB Revision

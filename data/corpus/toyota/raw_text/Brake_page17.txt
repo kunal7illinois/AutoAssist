@@ -1,0 +1,44 @@
+BC–17
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+(5) Check that the ABS warning light comes on for
+TEST MODE: several seconds and then blinks in Test Mode.
+HINT:
+Blinking Pattern:
+If the ABS warning light does not blink, inspect
+the TS and CG terminal circuit, and ABS
+0.13 sec. 0.13 sec.
+warning light circuit.
+ON Trouble Area See procedure
+TS and CG terminal circuit BC-97
+OFF ABS warning light circuit (Does not come on) BC-78
+(b) Check the sensor signal.
+Display:
+(1) Drive the vehicle straight ahead.
+Accelerate the vehicle to a speed of 28 mph (45
+km/h) or more for several seconds and check
+that the ABS warning light goes off when the
+brake pedal is depressed.
+HINT:
+• The sensor check may not be completed if
+wheel spin occurs, or if the steering wheel is BC
+USA: turned during this check.
+• The ABS warning light goes off when the
+Canada: sensor signal check has been completed and
+the brake pedal is depressed.
+• The ABS warning light comes on immediately
+after a malfunction has been detected during
+the speed sensor signal check.
+C132874E01 (c) Stop the vehicle.
+NOTICE:
+• The speed sensor check may not be
+completed if the speed sensor check is
+started while turning the steering wheel or
+spinning the wheels.
+• If the signal check has not been completed,
+the ABS warning light will blink while driving
+and the ABS system will not operate.
+(d) Using SST, connect terminals TC and CG of the
+DLC3: CG DLC3.
+SST 09843-18040
+TS TC
+G022988E01

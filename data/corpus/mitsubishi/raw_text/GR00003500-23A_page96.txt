@@ -1,0 +1,23 @@
+23A-96 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 17. Check harness for short circuit to ground
+between crankshaft position sensor connector B-20
+terminal 1 and PCM connector C-50 <2.4L Engine> or C-52
+<3.0L Engine> terminal 16.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-20
+YES : Go to Step 4.
+<2.4L ENGINE>
+NO : Repair it.
+B-20
+AC004926AC
+CONNECTOR: B-20
+<3.0L ENGINE>
+B-20
+AC004927AC
+CONNECTOR: C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE>
+PCM
+C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE> AC001657BE
+TSB Revision

@@ -1,0 +1,47 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-43
+SRS AIR BAG DIAGNOSIS
+DTC 34: Connector Lock System Detects Connector Unlocked.
+DTC SET CONDITIONS TROUBLESHOOTING HINTS
+• This DTC is set if a poor connection at the SRS- • Damaged connectors
+ECU is detected. However, if the vehicle condi- • Malfunction of the SRS-ECU
+tion returns to normal, DTC number 34 will be
+automatically erased, and the SRS warning light
+will go out.
+.
+DIAGNOSIS
+STEP 1. Check the SRS-ECU connector C-72 <Vehicles
+without SRS side air bag>/C-72 and C-74 <Vehicles with
+SRS side air bag>.
+Q:Are connectors correctly engaged?
+CONNECTORS: C-72, C-74
+YES : Go to Step 2.
+NO : Engage the connectors correctly. Then go to Step 3.
+C-72, C-74
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH)AC000358AG
+STEP 2. Check SRS-ECU connector C-72 <Vehicles without
+SRS side air bag>/C-72 and C-74 <Vehicles with SRS side
+air bag> for damage. If SRS-ECU connectors C-72 and C-74
+are damaged, repair or replace them.
+(1) Disconnect SRS-ECU connectors C-72 and C-74.
+CONNECTORS: C-72, C-74
+(2) Check the connector lock switch terminal inside the harness
+side connector for improper contact or deformation.
+Q:Are SRS-ECU connectors C-72 and C-74 in good
+condition?
+YES : Eras the DTC memory, and recheck if any DTC sets.
+C-72, C-74
+If DTC 34 sets, replace the SRS-ECU. Refer to
+SRS-ECU
+P.52B-142. Then go to Step 3.
+ACCELERATOR PEDAL NO : Repair or replace the SRS-ECU connector C-72, C-
+CENTER REINFORCEMENT(LH)AC000358AG
+74. Refer to GROUP 00E, Harness Connector
+Inspection P.00E-2. Then go to Step 3.
+SRS-ECU CONNECTOR
+(HARNESS SIDE) FRONT VIEW
+CONNECTOR LOCK
+SWITCH TERMINAL
+AC006249AB
+TSB Revision

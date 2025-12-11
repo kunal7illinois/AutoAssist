@@ -1,0 +1,56 @@
+42-82 BODY
+KEYLESS ENTRY SYSTEM
+ENABLING/DISABLING THE ANSWERBACK
+FUNCTION
+M1428003200043
+If the keyless entry system locks or unlocks the doors, the
+dome light flashes or illuminates, the hazard warning light
+flashes (hazard answerback function) and the horn sounds
+(horn answerback function). The hazard and horn answerback
+functions can be enabled or disabled according to the following
+procedure:
+ENABLING/DISABLING THE HAZARD
+ANSWERBACK FUNCTION
+The hazard answerback function can be enabled or disabled by
+one of the two following procedures.
+.
+<When the transmitter is used after connecting scan tool
+MB991502 to the data link connector or grounding data
+link connector terminal (1)>
+1. Enter the hazard answerback customize mode by observing
+one of the following steps. If the ETACS-ECU enters the
+customize mode, its tone alarm will sound once.
+16 PIN
+MB991502
+AC000510AB
+(1) Connect scan tool MB991502 to the data link connector
+terminal (1).
+(2) Turn the ignition switch to "LOCK" (OFF) position.
+(3) Close the driver’s side door.
+(4) Leave the windshield washer switch on for at least ten
+seconds. Then the ETACS-ECU tone alarm will sound
+GROUND
+once.
+2. If the transmitter "LOCK" switch is pushed consecutively
+DATALINK
+twice (within two seconds), the ETACS-ECU tone alarm will
+CONNECTOR
+AC000511AB sound, indicating that the hazard answerback function can
+be enabled or disabled when the doors are locked.
+• Enable the hazard answerback function when the
+doors are locked: The ETACS-ECU tone alarm will
+sound once.
+• Disable the hazard answerback function when the
+doors are locked: The ETACS-ECU tone alarm will
+sound twice.
+3. If the transmitter "UNLOCK" switch is pushed consecutively
+twice (within two seconds), the ETACS-ECU tone alarm will
+sound, indicating that the hazard answerback function can
+be enabled or disabled when the doors are unlocked.
+• Enable the hazard answerback function when the
+doors are unlocked: The ETACS-ECU tone alarm
+will sound once.
+• Disable the hazard answerback function when the
+doors are unlocked: The ETACS-ECU tone alarm
+will sound twice.
+TSB Revision

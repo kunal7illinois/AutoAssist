@@ -1,0 +1,64 @@
+ES–43
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+LABEL
+Measurement Item Diagnostic Note
+(Intelligent Tester Display)
+KNOCK FB VAL Feedback value of knocking -
+Absolute Accelerator Pedal Position (APP) -
+ACCEL POS #1
+No.1
+ACCEL POS #2 Absolute APP No. 2 -
+THROTTLE POS Throttle sensor positioning -
+THROTTLE POS Throttle position -
+THROTTLE POS #2 Throttle sensor positioning #2 -
+THROTTLE MOT Throttle motor -
+Performing INJ VOL or A/F CONTROL
+O2S B1 S2 Heated oxygen sensor output function of ACTIVE TEST enables technician
+to check output voltage of sensor
+ES
+Performing INJ VOL or A/F CONTROL
+AFS B1 S1 A/F sensor output function of ACTIVE TEST enables technician
+to check output voltage of sensor
+TOTAL FT #1 Total fuel trim -
+Short-term fuel compensation used to
+SHORT FT #1 Short-term fuel trim maintain air-fuel ratio at stoichiometric air-fuel
+ratio
+Overall fuel compensation carried out in long-
+LONG FT #1 Long-term fuel trim term to compensate a continual deviation of
+short-term fuel trim from central valve
+• OL (Open Loop): Has not yet satisfied
+conditions to go closed loop
+• CL (Closed Loop): Using A/F sensor as
+feedback for fuel control
+• OL DRIVE: Open loop due to driving
+FUEL SYS #1 Fuel system status
+conditions (fuel enrichment)
+• OL FAULT: Open loop due to detected
+system fault
+• CL FAULT: Closed loop but A/F sensor,
+which used for fuel control malfunctioning
+O2FT B1 S2 Fuel trim at heated oxygen sensor -
+AF FT B1 S1 Fuel trim at A/F sensor -
+AFS B1 S1 A/F sensor current -
+CAT TEMP B1S1 Estimated catalyst temperature (sensor 1) -
+CAT TEMP B1S2 Estimated catalyst temperature (sensor 2) -
+Sub heated oxygen sensor impedance -
+S O2S B1S2
+(sensor 2)
+INI COOL TEMP Engine coolant temperature at engine start -
+INI INTAKE TEMP Intake air temperature at engine start -
+INJ VOL Injection volume -
+STARTER SIG Starter switch (STSW) signal -
+PS SW Power steering signal -
+Signal status usually ON until ignition switch
+PS SIGNAL Power steering signal (history)
+turned OFF
+CTP SW Closed throttle position switch -
+A/C SIGNAL A/C signal -
+PNP SW (NSW) Park/Neutral Position (PNP) switch signal -
+ELECT LOAD SIG Electrical load signal -
+STOP LIGHT SW Stop light switch -
+BATTERY VOLTAGE Battery voltage -
+ATM PRESSURE Atmosphere pressure -
+EVAP (Purge) VSV EVAP Purge VSV -
+FUEL PUMP/SPD Fuel pump/speed status -

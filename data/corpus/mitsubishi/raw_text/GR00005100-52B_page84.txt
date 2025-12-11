@@ -1,0 +1,42 @@
+52B-84 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+STEP 3. Check SRS-ECU connector C-74 and side-air bag
+module (RH) connector D-19.
+(1) Disconnection connectors C-74 and D-19, and then
+CONNECTOR: C-74
+reconnect them.
+(2) Connect the negative battery terminal.
+(3) Erase the DTC memory, and then recheck the DTC.
+Q:Is DTC 71 output?
+YES : Go to Step 4.
+NO : The inspection is complete. (It is assumed that DTC
+SRS-ECU
+71 set as connector C-74 or D-19 was engaged
+ACCELERATOR PEDAL improperly.)
+CENTER REINFORCEMENT (LH) AC000358AF
+CONNECTOR: D-19
+AC002976AB
+STEP 4. Check the side-airbag module.
+(1) Connect special tool MB991865 to special tool MB991866.
+MB991866
+MB991865
+CAUTION
+INSTURMENT PANEL Do not insert a test probe into the terminal from its front
+WIRING HARNESS
+side directly as the connector contact pressure may be
+weakened.
+SIDE AIR BAG
+(2) Disconnect the side-airbag module (RH) connector D-19,
+MODULE (RH)
+and insert special tool MB991866 into the harness side
+CONNECTOR
+connector by backprobing.
+(3) Connect the negative battery terminal.
+(4) Erase the DTC memory, and then recheck the DTC.
+AC006042AE
+Q:Is DTC 71 output?
+YES : Go to Step 5.
+NO : Replace the seat back assembly of the front seat
+(RH). Refer to GROUP 52A, Front Seat P.52A-16.
+Then go to Step 7.
+TSB Revision

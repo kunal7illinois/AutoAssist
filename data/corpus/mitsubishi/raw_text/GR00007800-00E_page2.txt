@@ -1,0 +1,45 @@
+00E-2 GENERAL <ELECTRICAL>
+HARNESS CONNECTOR INSPECTION
+HARNESS CONNECTOR INSPECTION
+.
+M1001003900104
+CONNECTOR CONTINUITY AND VOLTAGE TEST
+Required Special Tools:
+• MB991219: Test Harness Set
+• MD998459: Test Harness
+Follow the steps below to avoid causing poor connector contact
+and/or reduced waterproof performance of connectors when
+checking continuity and/or voltage at connectors of waterproof
+connectors.
+CAUTION
+Never backprobing a waterproof connector. Backprobing a
+MD998459
+connector may cause the terminals to corrode, deteriorat-
+ing circuit performance.
+1. If the circuit is to be checked in the closed state of use a
+special tool like MD998459.
+AC000014AB
+CAUTION
+Forcing the probe into the terminal may open the terminal,
+causing intermittent or poor contact and creating an open
+circuit.
+2. If the connector is disconnected for checking and the facing
+part is the female pin side, use an appropriate male terminal
+for checking the contact pressure of connector pins (like
+MB991219).
+MB991219
+CAUTION
+Do not simultaneously contact more than one terminal
+AC000015 AB with the probe. Contacting two or more terminals at the
+same time may damage a circuit, possibly to the point of
+starting an electrical fire.
+3. If the facing part is the male pin side, either carefully touch
+the probe to the pin so it does not accidently contact other
+pins, or use an appropriate female terminal.
+IMPROPER TERMINAL ENGAGEMENT CHECK
+Terminals inside a connector may not engage properly even if
+the connectors engage. Make sure that each terminal does not
+come out of the connector when gently pulling each harness
+wire. If it does, repair or replace the terminal and/or connector.
+AC000016
+TSB Revision

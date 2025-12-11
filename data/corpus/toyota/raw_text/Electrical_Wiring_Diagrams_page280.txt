@@ -1,0 +1,49 @@
+System Outline
+∗ The system reaches an ignition judgment to deploy the following device based on the signals received from the front
+airbag sensor and deceleration sensor.
+– Driver Airbag
+– Front Passenger Airbag
+– Knee Airbag
+– Seat Belt Pretensioner
+∗ The system reaches an ignition judgment to deploy the following device based on the signals received from the side
+airbag sensors.
+– Side Airbags
+– Curtain Shield Airbags
+∗ The dual–stage SRS airbag system has been used for the driver and front passenger airbags. This system controls the
+optimal airbag inflation by judging the extent of impact, seat position (driver seat) and whether or not the seat belt is
+fastened(driver seat) and infomation from the Front Passenger Occupant Classification System.
+∗ The front passenger occupant classification system judges whether the front passenger seat is occupied by an adult or
+child (with child seat) or is unoccupied, according to the load applied to the front passenger seat and whether the seat belt
+is buckled. Based on the results, it restricts the deployment of the front passenger airbag, front passenger side airbag, and
+front passenger seat belt pretensioner. In addition, the system informs the driver of the result of the judgment through the
+use of the AIRBAG ON/OFF indicator lights.
+: Parts Location
+Code See Page Code See Page Code See Page
+48 (2GR–FE) 62 (*1) T14 A 62 (*1)
+AA1133 NN33
+52 (2AZ–FE) 63 (*2) T15 A 62 (*1)
+48 (2GR–FE) N7 60 T16 A 62 (*1)
+AA2288
+52 (2AZ–FE) N8 60 T17 A 62 (*1)
+A41 A 59 N12 60 T18 B 62 (*1)
+A42 B 59 N21 60 62 (*1)
+YY11
+C57 51 (2GR–FE) O1 C 59 63 (*2)
+E10 56 O3 B 63 (*2) 62 (*1)
+ZZ11
+E16 56 O4 C 63 (*2) 63 (*2)
+E30 A 56 O7 60 c1 A 59
+E43 B 57 O8 60 c2 B 59
+E45 D 57 O9 60 d1 D 63 (*2)
+E49 57 O16 60 d2 B 63 (*2)
+E54 57 O20 A 62 (*1) d3 B 63 (*2)
+E62 G 57 O21 60 d4 B 63 (*2)
+F1 A 58 T7 A 62 (*1) d5 B 63 (*2)
+F3 58 T10 A 62 (*1)
+N1 B 59 T11 B 62 (*1)
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+* 1 : w/ Power Seat * 2 : w/o Power Seat
+279
+CAMRY (EM0250U)

@@ -1,0 +1,45 @@
+BC–46
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+2 PERFORM TEST MODE INSPECTION (SIGNAL CHECK)
+(a) Check if test mode (signal check) DTCs are detected
+(See page BC-11).
+Result
+Condition Proceed to
+Test mode (signal check) DTC is not output A
+Test mode (signal check) DTC is output B
+B Go to step 5
+A
+3 INSPECT SPEED SENSOR SIGNAL WAVEFORM
+BC (a) Lift up the vehicle.
+(b) Perform the inspection using an oscilloscope.
+Skid Control ECU (Harness Side
+(1) Disconnect the skid control ECU connector.
+Connector Front View):
+(2) Connect the oscilloscope to terminals of the skid
+control ECU.
+(3) Check that a waveform is output when the tires are
+rotated.
+RL- RL+ RR- RR+ OK:
+The same waveform is output from rear wheels
+and there is no noise or interference in the
+waveform.
+HINT:
+• As vehicle speed (wheel rotation speed)
+increases, the width of the waveform narrows
+Normal Signal Waveform:
+and the output voltage becomes greater.
+• When noise is identified in the waveform on the
+oscilloscope, the erratic signals are generated
+due to rotor scratches, looseness or foreign
+matter attached to the speed sensor.
+GND
+(4) Connect the connector.
+NG CLEAN OR REPLACE SPEED SENSOR AND
+SENSOR ROTOR
+1 V/Division, 2 ms./Division
+C132907E02
+OK
+4 RECONFIRM DTC
+(a) Clear the DTCs (See page BC-21).
+(b) Drive the vehicle at a speed of approximately 25 mph (40
+km/h) or more for 60 seconds or more.

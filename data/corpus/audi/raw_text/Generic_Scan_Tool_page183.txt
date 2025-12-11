@@ -1,0 +1,47 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+3.5.34 Secondary Air Injection Solenoid Valve,
+Checking
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Wiring diagram.
+Test requirements
+• The Secondary Air Injection (SAI) Solenoid Valve --N112--
+fuse OK.
+• The Engine Control Module (ECM) Power Supply Relay -
+J271- and the Fuel Pump Relay -J17- fuse OK.
+• Battery voltage at least 12.5 V.
+• All electrical consumers switched off (radiator fan must NOT
+run during test).
+• A/C switched off.
+• The ignition switched OFF.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8 .
+Start diagnosis
+Note
+Voltage is supplied to the Secondary Air Injection (SAI) Solenoid
+Valve --N112-- from the Engine Control Module (ECM) Power
+Supply Relay -J271- on early models, or the Fuel Pump Relay -
+J17- on later models. Refer to Wiring Diagrams for circuit/pin
+locations.
+Procedure
+– Disconnect the Secondary Air Injection (SAI) Solenoid Valve
+--N112-- electrical harness connector.
+Checking internal resistance
+– Using a multimeter, check the Secondary Air Injection (SAI)
+Solenoid Valve --N112-- terminals 1 to 2 for resistance.
+Specified value: 3.5 - 8.5 Ω (at approx. 20° C)
+If the specified value was Not obtained:
+– Replace the Secondary Air Injection (SAI) Solenoid Valve --
+N112-- .
+If the specified value was obtained:
+Checking voltage supply
+Start the engine.
+– Using a multimeter, check the Secondary Air Injection (SAI)
+Solenoid Valve --N112-- electrical connector terminal 1 to
+Ground for voltage.
+Specified value: Battery voltage.
+Switch the ignition OFF.
+179
+3. Diagnosis and Testing

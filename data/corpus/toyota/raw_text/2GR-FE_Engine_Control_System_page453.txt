@@ -1,0 +1,40 @@
+ES–453
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK GO TO MIL CIRCUIT (See page ES-471)
+NG
+2 CHECK CONNECTION BETWEEN INTELLIGENT TESTER AND ECM
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and tester on.
+(c) Check the communication between the tester and ECM.
+Result
+Result Proceed to
+Communication is possible A
+Communication is not possible B
+ES
+A GO TO MIL CIRCUIT (See page ES-471)
+B
+3 CHECK THROTTLE BODY ASSEMBLY (CHECK MIL ILLUMINATED)
+(a) Disconnect the throttle body connector.
+(b) Turn the ignition switch on (IG).
+(c) Check the MIL.
+Result
+Result Proceed to
+MIL illuminates A
+MIL does not illuminate B
+(d) Reconnect the throttle body connector.
+A REPLACE THROTTLE BODY ASSEMBLY
+(See page ES-503)
+B
+4 CHECK ACCELERATOR PEDAL ASSEMBLY (CHECK MIL ILLUMINATED)
+(a) Disconnect the accelerator pedal position sensor
+connector.
+(b) Turn the ignition switch on (IG).
+(c) Check the MIL.
+Result
+Result Proceed to
+MIL illuminates A
+MIL does not illuminate B
+(d) Reconnect the accelerator pedal position sensor
+connector.
+A REPLACE ACCELERATOR PEDAL
+ASSEMBLY (See page ES-521)

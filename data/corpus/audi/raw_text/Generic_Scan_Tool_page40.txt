@@ -1,0 +1,60 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0116 Engine – Check the En‐ • delta ECT < Driving condition 1 65 Sec. • Once/
+Coolant gine Coolant 2.25 .. 3.75 K • ECT at start 50 to DCY
+Tempera‐ Temperature 140 °C
+ture Sensor (ECT) Sensor • 2 DCY
+1 Circuit -G62 - . Refer • driving condition 1
+Range/Per‐ to 2 x > 10 Sec
+formance ⇒ “3.5.24 En‐
+• Cold start detected
+gine Coolant
+Temperature • Substitute ECT >
+Sensor 1 or 2, -45 °C
+Checking”,
+page 160 . • Vehicle speed, 0 -
+2 mph
+– Check the
+• Mass air flow, > 4 -
+coolant ther‐
+200 kg/h
+mostat stuck
+open or and Driving condition
+closed. Refer 2
+to the Repair • > 32 - 52 sec.
+Manual.
+• Vehicle speed, 20
+- 75 mph
+• Mass air flow, <20
+to 304 kg/h
+• check after ignition
+off 480 Sec
+P0117 Engine – Check the En‐ • ECT < -45° C --- 2 Sec. • Continu‐
+Coolant gine Coolant ous
+Tempera‐ Temperature
+ture Sensor (ECT) Sensor • 2 DCY
+1 Circuit -G62 - . Refer
+Low Input to
+⇒ “3.5.24 En‐
+gine Coolant
+Temperature
+Sensor 1 or 2,
+Checking”,
+page 160 .
+P0118 Engine – Check the En‐ ECT > 141° C --- 2 Sec. • Continu‐
+Coolant gine Coolant ous
+Tempera‐ Temperature
+ture Sensor (ECT) Sensor • 2 DCY
+1 Circuit -G62 - . Refer
+High Input to
+⇒ “3.5.24 En‐
+gine Coolant
+Temperature
+Sensor 1 or 2,
+Checking”,
+page 160 .
+36
+Rep. Gr.ST - Generic Scan Tool

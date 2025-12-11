@@ -1,0 +1,47 @@
+54B-588 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+Q:Are liftgate latch switch connector F-16 <ECLIPSE-
+CONNECTORS <ECLIPSE>: F-13, F-16
+Vehicle with theft-alarm system>, liftgate light switch
+DEVICE SIDE
+F-16 connector F-13 <ECLIPSE-Vehicle without theft-alarm
+system>, trunk lid latch switch connector F-16
+1
+2 <ECLIPSE SPYDER-Vehicle with theft-alarm system> or
+1
+trunk light switch connector F-13 <ECLIPSE SPYDER-
+F-13
+F-16 Vehicle with theft-alarm system> and ETACS-ECU
+connector C-118 or C-117 in good condition?
+YES : Go to Step 6.
+NO : Repair or replace them. Refer to GROUP 00E,
+AC106489AM Harness Connector Inspection P.00E-2. The input
+signal from the liftgate latch switch <ECLIPSE> or the
+CONNECTORS <ECLIPSE SPYDER>: trunk lid latch switch <ECLIPSE SPYDER> should be
+F-13, F-16
+able to be checked and the functions, which are
+DEVICE SIDE
+described in the "Technical Description (comment),"
+F-16
+should work normally.
+1
+1
+2
+F-16 F-13
+AC106491AJ
+CONNECTOR: C-117, C-118
+JUNCTION BLOCK
+(REAR VIEW)
+C-117
+C-118
+DEVICE SIDE
+C-117
+21 22 23242526272829
+30 31 32333435363738
+39 40 41 424344
+C-118
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+AC106482AD
+TSB Revision

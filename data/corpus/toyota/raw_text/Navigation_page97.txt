@@ -1,0 +1,29 @@
+NS–97
+NAVIGATION – NAVIGATION SYSTEM
+DTC 63-44 CD Abnormal
+DTC 63-48 Excess Current
+DTC 63-50 Tray Insertion / Ejection Error
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+63-44 Operation error in the CD mechanism
+63-48 Excess current is present in the CD changer. Radio and navigation assembly
+63-50 Malfunction in insertion/ejection system
+INSPECTION PROCEDURE
+HINT:
+After the inspection is completed, clear the DTCs.
+1 CLEAR DTC
+(a) Clear the DTCs (See page NS-46).
+NEXT
+2 RECHECK DTC
+(a) Recheck for DTCs and check if the same trouble occurs
+again.
+HINT:
+If DTCs are detected frequently, replace the radio and
+navigation assembly.
+OK:
+Malfunction disappears.
+NG REPLACE RADIO AND NAVIGATION
+ASSEMBLY
+OK
+END
+NS

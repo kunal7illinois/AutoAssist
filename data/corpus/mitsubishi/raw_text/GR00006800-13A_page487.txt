@@ -1,0 +1,50 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-487
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using the scan tool MB991502, read the
+diagnostic trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC is output?
+MB991502 YES : Refer to, Diagnostic Trouble Code Chart P.13A-22.
+AKX01177AB NO : Go to Step 2.
+STEP 2. Check the ignition timing.
+(1) The ignition timing should retard more when knock sensor
+CONNECTOR:B-35
+KNOCK SENSOR connector B-35 is disconnected than when it is connected.
+Q:When the knock sensor connector B-35 was
+disconnected, was the ignition timing delayed?
+YES : Check the following items, and repair or replace the
+defective items.
+a. Check the spark plugs.
+b. Fuel quality, octane level.
+c. Check if the foreign materials (water,
+ACX02470AE
+kerosene, etc.) got into fuel.
+Then confirm that the malfunction symptom is
+eliminated.
+NO : Refer to, DTC P0325 − Knock Sensor Circuit
+Malfunction P.13A-231.
+INSPECTION PROCEDURE 21: Dieseling.
+. .
+COMMENT TROUBLESHOOTING HINTS (The most likely
+• Fuel leakage from injectors is suspected, or car- causes for this case: )
+bon build up. • Fuel leakage from injectors.
+DIAGNOSIS
+STEP 1. Check the injectors for fuel leakage.
+Replace the leaking injector. Then confirm that the malfunction
+symptom is eliminated.
+INSPECTION PROCEDURE 22: Too high CO and HC concentration when idling
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+• Abnormal air/fuel ratio is suspected. causes for this case: )
+• Malfunction of air/fuel ratio control system.
+• Deteriorated catalyst.
+.
+TSB Revision

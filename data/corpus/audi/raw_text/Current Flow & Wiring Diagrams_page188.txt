@@ -1,0 +1,54 @@
+Audi TT No. 24 / 2
+Current Flow Diagram
+Preparation for radio supply
+J519 Onboard supply control unit
+R24 Aerial amplifier
+SC32 Fuse 32 on fuse holder C
+SC34 Fuse 34 on fuse holder C
+SD3 Fuse 3 on fuse holder D
+T2d 2-pin connector, white, on rear right roof frame
+T8c 8-connector, black, preparation for radio supply
+T12c 12-pin connector, black, connector B, on onboard power supply
+B299 R24 control unit
+A1 A2 380 Earth connection 15, in main wiring harness
+6,0
+ro 0,5
+sw 610 Earth point (audio), under centre console, front
+B340
+B300
+B299 Positive connection 3 (30), in main wiring harness
+16,0 6,0 0,5 0,5 0,14
+ro ro gr/bl gr/bl
+B300 Positive connection 4 (30), in main wiring harness
+58s
+E1 32 34 T12c/12
+SD3 SC32 SC34 J519 s 0 w ,5 B340 Connection 1 (58s), in main wiring harness
+110A 5A 15A B341
+✱ 32a 34a
+T2d T2d/2
+B341 Connection 2 (58s), in main wiring harness
+/1
+1,5 0,5 0,5 * main fuse box, in luggage compartment, rear right, on the battery
+ro/ws gr/bl sw
+30 58s
+T8c/7 T8c/6
+0,4
+T8c/8
+31
+1,5 0,5
+br sw
+C1 C2
+380
+ws = white
+sw = black
+ro = red
+2,5 br = brown
+br gn = green
+bl = blue
+gr = grey
+610 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-024020806
+rs = pink
+Edition 08.2006

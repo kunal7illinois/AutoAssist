@@ -1,0 +1,45 @@
+AUTOMATIC TRANSAXLE 23A-353
+ON-VEHICLE SERVICE
+AUTOMATIC TRANSAXLE CONTROL
+COMPONENT CHECK
+CRANKSHAFT POSITION SENSOR CHECK
+M1231009000151
+Refer to GROUP 13A <2.4L Engine>, Diagnosis − Inspection
+Procedure Using an Oscilloscope P.13A-560.
+Refer to GROUP 13B <3.0L Engine>, Diagnosis − Inspection
+Procedure Using an Oscilloscope P.13B-661.
+THROTTLE POSITION SENSOR CHECK
+M1231003900123
+Refer to GROUP 13A <2.4L Engine>, On-vehicle Service −
+Throttle Position Sensor Check P.13A-584.
+Refer to GROUP 13B <3.0L Engine>, On-vehicle Service −
+Throttle Position Sensor Check P.13B-683.
+A/T FLUID TEMPERATURE SENSOR CONTINUITY
+CHECK
+M1231004500139
+1. Remove the A/T fluid temperature sensor.
+2. Measure the resistance between terminals 1 and 2 of the A/
+T fluid temperature sensor connector.
+Standard value:
+A/T FLUID TEMPERATURE RESISTANCE
+0°C (32°F) 16.7 − 20.5 kΩ
+20°C (68°F) 7.3 − 8.9 kΩ
+ATF 40°C (104°F) 3.4 − 4.2 kΩ
+AC101016AB 60°C (140°F) 1.9 − 2.2 kΩ
+80°C (176°F) 1.0 − 1.2 kΩ
+100°C (212°F) 0.57 − 0.69 kΩ
+3. If the A/T fluid temperature sensor resistance is not
+consistent with the fluid temperature, replace A/T fluid
+temperature sensor.
+NOTE: The N range indicator light on the combination meter
+flashes when the temperature reaches approximately 125°C
+(257°F) or higher, and then stops flashing when the temper-
+ature drops below approximately 115°C (239°F).
+PARK/NEUTRAL POSITION SWITCH CHECK
+M1231001400263
+Refer to P.23A-351.
+STOPLIGHT SWITCH CHECK
+M1231009100114
+Refer to GROUP 35A, On-vehicle Service − Stoplight Switch
+Check P.35A-18.
+TSB Revision

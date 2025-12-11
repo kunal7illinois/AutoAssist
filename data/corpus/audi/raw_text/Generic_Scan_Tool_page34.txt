@@ -1,0 +1,73 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0030 HO2S – Check the • heater voltage • engine start com‐ 10.7 • Continu‐
+Heater Oxygen Sen‐ 4.4..5.6 V pleted Sec. ous
+Control Cir‐ sor (O2S)
+cuit Bank 1 Heater -G39- . • engine speed > 40 • 2 DCY
+Sensor 1 Refer to rpm
+⇒ “3.5.21 Oxy‐
+• heater control ac‐
+gen Sensor
+tive for 10 Sec
+Heater,
+Checking”, • heater comman‐
+page 154 . ded off
+P0031 HO2S – Check the • heater voltage • engine start com‐ 10.7 • Continu‐
+Heater Oxygen Sen‐ < 2,15 ... 3,25 V pleted Sec. ous
+Control Cir‐ sor (O2S)
+cuit Low Heater -G39- . • engine speed > 40 • 2 DCY
+Bank 1 Sen‐ Refer to rpm
+sor 1 ⇒ “3.5.21 Oxy‐
+• heater control ac‐
+gen Sensor
+tive for 10 Sec
+Heater,
+Checking”, • heater comman‐
+page 154 . ded off
+P0032 HO2S – Check the Heater current > • engine start com‐ 10.7 • Continu‐
+Heater Oxygen Sen‐ 2.2 A pleted Sec. ous
+Control Cir‐ sor (O2S)
+cuit High Heater -G39- . • engine speed > 40 • 2 DCY
+Bank 1 Sen‐ Refer to rpm
+sor 1 ⇒ “3.5.21 Oxy‐
+• heater control ac‐
+gen Sensor
+tive for 10 Sec
+Heater,
+Checking”, • heater comman‐
+page 154 . ded on
+P0036 HO2S – Check the Heater voltage • Heater, ready for 10.7Sec • Continu‐
+Heater Oxygen Sen‐ 4.40 to 5.60 V 10 [s] since O2S . ous
+Control Cir‐ sor (O2S) rear dewpoint ex‐
+cuit Bank 1 Heater - ceeded • 2 DCY
+Sensor 2 G130- . Refer
+to • Time after engine
+⇒ “3.5.23 Oxy‐ start > 5 Sec.
+gen Sensor 1
+• heater comman‐
+after Catalytic
+ded off
+Converter
+Heater, • Engine speed > 40
+Checking ”, RPM
+page 158 .
+P0037 HO2S – Check the heater voltage < • Heater, ready for 10.7 • Continu‐
+Heater Oxygen Sen‐ 2.15 ..3.25 V 10 [s] since O2S Sec. ous
+Control Cir‐ sor (O2S) rear dewpoint ex‐
+cuit Low Heater - ceeded • 2 DCY
+(Bank 1, G130- . Refer
+Sensor 2) to • Time after engine
+⇒ “3.5.23 Oxy‐ start > 5 Sec.
+gen Sensor 1
+• heater comman‐
+after Catalytic
+ded off
+Converter
+Heater, • Engine speed > 40
+Checking ”, RPM
+page 158 .
+30
+Rep. Gr.ST - Generic Scan Tool

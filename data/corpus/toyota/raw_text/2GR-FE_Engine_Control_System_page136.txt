@@ -1,0 +1,42 @@
+ES–136
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Result
+Mass Air Flow Rate (gm/s) Proceed to
+0.0 A
+271.0 or more B
+Between 1.0 and 270.0 (*1) C
+*1: The value must be changed when the throttle valve is
+open or closed.
+B Go to step 8
+C CHECK FOR INTERMITTENT PROBLEMS
+(See page ES-33)
+A
+ES
+2 INSPECT MASS AIR FLOW METER (POWER SOURCE VOLTAGE)
+(a) Disconnect the C2 mass air flow (MAF) meter connector.
+Wire Harness Side Front View:
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
++B (+)
+table below.
+Standard voltage
+Tester Connection Specified Condition
++B (C2-3) - Body ground 9 to 14 V
+C2 MAF Meter Connector
+(d) Reconnect the MAF meter connector.
+A127724E07
+NG Go to step 5
+OK
+3 INSPECT MASS AIR FLOW METER (VG VOLTAGE)
+(a) Inspect the output voltage.
+MAF Meter
+(1) Apply battery voltage across terminals +B and E2G.
+(2) Connect the positive (+) tester probe to terminal VG,
+VG E2G +B and negative (-) tester probe to terminal E2G.
+(3) Measure the voltage between the terminals.
+Standard voltage
+5 4 3 2 1 Tester Connection Specified Condition
+5 (VG) - 4 (E2G) 0.2 to 4.9 V
+A127786E02
+NG REPLACE MASS AIR FLOW METER
+OK

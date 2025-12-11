@@ -1,0 +1,33 @@
+BC–38
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+(c) Select "DATA LIST" and read the value displayed on the
+intelligent tester (See page BC-25).
+DATA LIST: ABS
+Measurement Item /
+Item Normal Condition
+Range (Display)
+Wheel speed sensor (FR) reading / min.: 0 MPH (0
+FR WHEEL SPD Actual wheel speed
+km/h), max.: 202 MPH (326 km/h)
+Wheel speed sensor (FL) reading / min.: 0 MPH (0
+FL WHEEL SPD Actual wheel speed
+km/h), max.: 202 MPH (326 km/h)
+(d) Check that there is no difference between the speed
+value output from the speed sensor displayed on the
+intelligent tester and the speed value displayed on the
+speedometer when driving the vehicle.
+OK:
+The speed value output from the speed sensor
+displayed on the intelligent tester is the same as
+the actual vehicle speed.
+BC NG Go to step 5
+OK
+2 PERFORM TEST MODE INSPECTION (SIGNAL CHECK)
+(a) Check if test mode (signal check) DTCs are detected
+(See page BC-11).
+Result
+Condition Proceed to
+Test mode (signal check) DTC is not output A
+Test mode (signal check) DTC is output B
+B Go to step 5
+A

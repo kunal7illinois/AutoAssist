@@ -1,0 +1,68 @@
+ES–31
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+HO2S Bank 2 Sensor 2:
+Monitor ID Test ID Scaling Unit Description
+$06 $07 Multiply by 0.001 V Minimum sensor voltage
+$06 $08 Multiply by 0.001 V Maximum sensor voltage
+$06 $8F Multiply by 0.003 g Maximum oxygen storage capacity
+Catalyst-Bank 1:
+Monitor ID Test ID Scaling Unit Description
+$21 $A9 Multiply by 0.003 No dimension Oxygen storage capacity of catalyst-bank 1
+Catalyst-Bank 2:
+Monitor ID Test ID Scaling Unit Description
+$22 $A9 Multiply by 0.003 No dimension Oxygen storage capacity of catalyst-bank 2
+EVAP:
+ES
+Monitor ID Test ID Scaling Unit Description
+$3D $C9 Multiply by 0.001 kPa Test value for small leak (P0456)
+$3D $CA Multiply by 0.001 kPa Test value for gross leak (P0455)
+$3D $CB Multiply by 0.001 kPa Test value for leak detection pump OFF stuck (P2401)
+$3D $CD Multiply by 0.001 kPa Test value for leak detection pump ON stuck (P2402)
+$3D $CE Multiply by 0.001 kPa Test value for vent valve OFF stuck (P2420)
+$3D $CF Multiply by 0.001 kPa Test value for vent valve ON stuck (P2419)
+$3D $D0 Multiply by 0.001 kPa Test value for reference orifice low flow (P043E)
+$3D $D1 Multiply by 0.001 kPa Test value for reference orifice high flow (P043F)
+$3D $D4 Multiply by 0.001 kPa Test value for purge VSV close stuck (P0441)
+$3D $D5 Multiply by 0.001 kPa Test value for purge VSV open stuck (P0441)
+$3D $D7 Multiply by 0.001 kPa Test value for purge flow insufficient (P0441)
+Misfire:
+Monitor ID Test ID Scaling Unit Description
+Exponential Weighted Moving Average (EWMA) misfire for all
+$A1 $0B Multiply by 1 Time
+cylinders: Misfire counts for last ten driving cycles-Total
+Misfire rate for all cylinders: Misfire counts for last/current driving
+$A1 $0C Multiply by 1 Time
+cycles-Total
+EWMA misfire for cylinder 1: Misfire counts for last ten driving cycles-
+$A2 $0B Multiply by 1 Time
+Total
+Misfire rate for cylinder 1: Misfire counts for last/current driving cycle-
+$A2 $0C Multiply by 1 Time
+Total
+EWMA misfire for cylinder 2: Misfire counts for last ten driving cycles-
+$A3 $0B Multiply by 1 Time
+Total
+Misfire rate for cylinder 2: Misfire counts for last/current driving cycle-
+$A3 $0C Multiply by 1 Time
+Total
+EWMA misfire for cylinder 3: Misfire counts for last ten driving cycles-
+$A4 $0B Multiply by 1 Time
+Total
+Misfire rate for cylinder 3: Misfire counts for last/current driving cycle-
+$A4 $0C Multiply by 1 Time
+Total
+EWMA misfire for cylinder 4: Misfire counts for last ten driving cycles-
+$A5 $0B Multiply by 1 Time
+Total
+Misfire rate for cylinder 4: Misfire counts for last/current driving cycle-
+$A5 $0C Multiply by 1 Time
+Total
+EWMA misfire for cylinder 5: Misfire counts for last ten driving cycles-
+$A6 $0B Multiply by 1 Time
+Total
+Misfire rate for cylinder 5: Misfire counts for last/current driving cycle-
+$A6 $0C Multiply by 1 Time
+Total
+EWMA misfire for cylinder 6: Misfire counts for last ten driving cycles-
+$A7 $0B Multiply by 1 Time
+Total

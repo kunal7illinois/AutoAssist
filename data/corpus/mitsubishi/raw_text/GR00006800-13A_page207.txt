@@ -1,0 +1,37 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-207
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, check data list item
+4A: Fuel Temperature Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the data reading mode for item
+4A, Fuel Temperature Sensor.
+16 PIN • Approximately the same as the outside temperature
+when the engine is cooled.
+MB991502
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+AKX01177AB
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+STEP 2. Check the fuel temperature sensor.
+(1) Disconnect the fuel temperature sensor connector D-17
+(2) Measure the resistance between terminal 1 and 3 of the fuel
+FUEL TEMPERATURE SENSOR
+temperature sensor.
+SIDE CONNECTOR
+Standard value:
+11 22 33 0.5 − 12.0 kΩ
+44 55
+Q:Is the resistance at the standard value?
+YES : Go to Step 3.
+NO : Replace the fuel temperature sensor. Then go to Step
+5.
+AK101374AB
+TSB Revision

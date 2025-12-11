@@ -1,0 +1,69 @@
+ES–74
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. DTC Detection Conditions Trouble Areas
+Advanced camshaft timing:
+With warm engine and engine speed of between 550 rpm and
+4,000 rpm, all conditions (1), (2) and (3) met (1 trip detection
+• Valve timing
+logic):
+• OCV
+1. Difference between target and actual intake valve timings
+P0011 • OCV filter
+more than 5°CA (Crankshaft Angle) for 4.5 seconds
+• Camshaft timing gear assembly
+2. Current intake valve timing fixed (timing changes less than
+• ECM
+5°CA in 5 seconds)
+3. Variations in VVT controller timing more than 19°CA of
+maximum delayed timing (malfunction in advance timing)
+Retarded camshaft timing:
+With warm engine and engine speed of between 550 rpm and
+4,000 rpm, all conditions (1), (2) and (3) met (2 trip detection
+• Valve timing
+logic):
+• OCV
+ES 1. Difference between target and actual intake valve timings
+P0012 • OCV filter
+more than 5°CA (Crankshaft Angle) for 4.5 seconds
+• Camshaft timing gear assembly
+2. Current intake valve timing fixed (timing changes less than
+• ECM
+5°CA in 5 seconds)
+3. Variations in VVT controller timing 19°CA or less of
+maximum delayed timing (malfunction in retarded timing)
+MONITOR DESCRIPTION
+The ECM optimizes the intake valve timing using the VVT (Variable Valve Timing) system to control the
+intake camshaft. The VVT system includes the ECM, the Oil Control Valve (OCV) and the VVT controller.
+The ECM sends a target duty-cycle control signal to the OCV. This control signal regulates the oil
+pressure supplied to the VVT controller. The VVT controller can advance or retard the intake camshaft.
+If the difference between the target and actual intake valve timings is large, and changes in the actual
+intake valve timing are small, the ECM interprets this as the VVT controller stuck malfunction and sets a
+DTC.
+Example:
+A DTC is set when the following conditions 1, 2 and 3 are met:
+1. The difference between the target and actual intake valve timing is more than 5°CA (Crankshaft
+Angle) and the condition continues for more than 4.5 seconds.
+2. It takes 5 seconds or more to change the valve timing by 5°CA.
+3. After above conditions 1 and 2 are met, the OCV is forcibly activated 63 times or more.
+DTC P0011 (Advanced Cam Timing) is subject to 1 trip detection logic.
+DTC P0012 (Retarded Cam Timing) is subject to 2 trip detection logic.
+These DTCs indicate that the VVT controller cannot operate properly due to OCV malfunctions or the
+presence of foreign objects in the OCV.
+The monitor will run if all of the following conditions are met:
+– The engine is warm (the engine coolant temperature is 75°C [167°F] or more).
+– The vehicle has been driven at more than 64 km/h (40 mph) for 3 minutes.
+– The engine has idled for 3 minutes.
+MONITOR STRATEGY
+P0011: Advanced camshaft timing
+Related DTCs
+P0012: Retarded camshaft timing
+Required Sensors/Components (Main) VVT OCV and VVT Actuator
+Crankshaft position sensor, camshaft position sensor and Engine
+Required Sensors/Components (Related)
+coolant temperature sensor
+Frequency of Operation Once per driving cycle
+Duration Within 10 seconds
+Advanced camshaft timing: Immediate
+MIL Operation
+Retarded camshaft timing: 2 driving cycles
+Sequence of Operation None

@@ -1,0 +1,35 @@
+35B-44 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+CHECK AT ABS-ECU
+M1352011800286
+. 2. The terminal layouts are shown in the illustrations
+TERMINAL VOLTAGE CHECK CHART
+below.
+1. Measure the voltages between terminals (16) and
+(19) (ground terminals) and each respective
+terminal.
+AC002089AB
+NOTE: Do not measure terminal voltage for approximately three seconds after the ignition switch is turned to
+the "ON" position. The ABS-ECU performs the initial check during that period.
+CONNECTOR SIGNAL CHECKING REQUIREMENT NORMAL CONDITION
+TERMINAL NO
+14 Input from stoplight switch Stoplight switch: ON Battery positive voltage
+Stoplight switch: OFF Approximately 0 V
+15 ABS-ECU power supply Ignition switch: "ON" Battery positive voltage
+17 Motor power supply Always Battery positive voltage
+18 Solenoid valve power supply Always Battery positive voltage
+. 2. Check between the terminals indicated in the
+RESISTANCE AND CONTINUITY BETWEEN
+table below.
+HARNESS-SIDE CONNECTOR TERMINALS
+1. Turn the ignition switch to the "LOCK" (OFF) 3. The terminal layouts are shown in the illustration
+position and disconnect the ABS-ECU connector below.
+before checking resistance and continuity.
+AC002090AB
+CONNECTOR TERMINAL NO. SIGNAL NORMAL CONDITION
+6 − 7 Front-left wheel speed sensor 1.28 − 1.92 kΩ
+1 − 3 Rear-right wheel speed sensor 1.28 − 1.92 kΩ
+4 − 5 Front-right wheel speed sensor 1.28 − 1.92 kΩ
+8 − 9 Rear-left wheel speed sensor 1.28 − 1.92 kΩ
+16 − body ground Solenoid valve ground Less than 2 ohms
+TSB Revision

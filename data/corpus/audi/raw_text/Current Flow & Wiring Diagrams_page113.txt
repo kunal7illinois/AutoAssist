@@ -1,0 +1,46 @@
+Audi TT No. 8 / 15
+Current Flow Diagram
+Onboard supply control unit, bonnet contact switch
+F266 Bonnet contact switch
+J519 Onboard supply control unit
+T6h 6-pin connector, connector J, on onboard supply control unit
+T8h 8-pin connector, black, connector F, on onboard supply control
+unit
+T11b 11-pin connector, black, connector A, on onboard power supply
+control unit
+T11c 11-pin connector, brown, connector D, on onboard power supply
+control unit
+T12e 12-pin connector, black, connector G, on onboard power supply
+control unit
+42 Earth point, next to steering column
+44 Earth point, lower part of left A-pillar
+374 Earth connection 9, in main wiring harness
+J519
+376 Earth connection 11, in main wiring harness
+• CAN bus (data wire)
+T11b/1 T11c/1 T8h/7 T6h/5 T8h/8 T11b T11c/5 T12e/8 T12e/7 T8h/5
+30 30 30 31 31 /9 31
+31
+• •
+4,0 4,0 0,5 1,5 1,5 1,0 1,0 0,35 0,35 0,35
+ro/li ro/gn ro/li br br br br or/gn or/br br/ro
+112288 113300 112277 220011 1155 1188
+1,0
+br
+376 374
+1
+F266
+2 ws = white
+sw = black
+ro = red
+4,0 2,5 2,5 0,35 br = brown
+br br br br
+gn = green
+bl = blue
+2244 gr = grey
+44 44 42 li = purple
+ge = yellow
+183 184 185 186 187 188 189 190 191 192 193 194 195 196 or = orange
+8J0-008150806
+rs = pink
+Edition 04.2008

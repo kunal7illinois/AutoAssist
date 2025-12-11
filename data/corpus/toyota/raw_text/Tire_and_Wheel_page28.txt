@@ -1,0 +1,48 @@
+TW–28
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+DIAGNOSIS SYSTEM
+1. CHECK BATTERY VOLTAGE
+Standard voltage:
+11 to 14 V
+If the voltage is below 11 V, recharge the battery before
+proceeding.
+2. CHECK DLC3
+(a) The ECU uses the ISO 15765-4 for communication
+CG SG CANH SIL protocol. The terminal arrangement of the DLC3
+complies with SAE J1962 and matches the ISO
+15765-4 format.
+CANL BAT
+TW
+H100769E16
+Symbols (Terminal NO. ) Terminal Description Condition Specified Condition
+SIL (7) - SG (5) Bus "+" line During transmission Pulse generation
+CG (4) - Body ground Chassis ground Always Below 1 Ω
+SG (5) - Body ground Signal ground Always Below 1 Ω
+BAT (16) - Body ground Battery positive Always 11 to 14 V
+CANH (6) - CANL (14) CAN bus line Ignition switch off* 54 to 69 Ω
+CANH (6) - CG (4) HIGH-level CAN bus line Ignition switch off* 200 Ω or higher
+CANL (14) - CG (4) LOW-level CAN bus line Ignition switch off* 200 Ω or higher
+CANH (6) - BAT (16) HIGH-level CAN bus line Ignition switch off* 6 kΩ or higher
+CANL (14) - BAT (16) LOW-level CAN bus line Ignition switch off* 6 kΩ or higher
+NOTICE:
+*Before measuring the resistance, leave the
+vehicle as is for at least 1 minute and do not
+operate the power switch, or any other switches
+or the doors.
+(b) If the result is not as specified, DLC3 may have a
+malfunction. Repair or replace the harness and
+connector.
+HINT:
+Connect the cable of the intelligent tester to DLC3,
+turn the ignition switch on (IG) and attempt to use
+the tester. If the display indicates that a
+communication error has occurred, there is a
+problem either with the vehicle or with the tester.
+• If communication is normal when the tester is
+connected to another vehicle, inspect DLC3 of
+the original vehicle.
+• If communication is still not possible when the
+tester is connected to another vehicle, the
+problem may be in the tester itself. Consult the
+Service Department listed in the tester's
+instruction manual.

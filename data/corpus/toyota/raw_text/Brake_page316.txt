@@ -1,0 +1,42 @@
+BC–305
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+(3) Observe the blinking pattern of the ABS and
+VSC (without multi-information display) warning
+lights or read the multi information display (with
+multi-information display) in order to identify the
+DTC.
+with Multi-Information Display
+Normal System Code of ABS and VSC: Trouble Code of ABS and VSC (Example Codes 11 and 21):
+0.25 sec. 0.5 sec.
+1.5 sec.
+0.25 sec. 0.5 sec.
+2 sec. 4 sec. 2.5 sec.
+4 sec.
+Repeat
+ON ON
+OFF
+OFF
+BC
+with Multi-Information Display Code 11 Code 21
+Normal System Code of VSC: Trouble Code of VSC (Example Code 43):
+C137468E03
+HINT:
+If no code appears, inspect the TC and CG
+terminal circuit, the ABS warning light circuit,
+and the VSC warning light circuit.
+Trouble Area See procedure
+ABS warning light (Remains on) BC-380
+ABS warning light (Does not come on) BC-385
+VSC warning light (Remains on) BC-388
+VSC warning light (Does not come on) BC-392
+TC and CG Terminal Circuit BC-418
+• As an example, the blinking patterns for a
+normal system code and trouble codes 11
+and 21 are shown in the illustration.
+(4) Codes are explained in the code table (See
+page BC-311).
+(5) After completing the check, disconnect terminals
+TC and CG of the DLC3, and turn off the display.
+If 2 or more DTCs are detected at the same
+time, the DTCs will be displayed in ascending
+order.

@@ -1,0 +1,46 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+♦ Assembly tool -T10118-
+Note
+♦ The cooling output cannot be checked with the high-pressure
+sender -G65- removed; the air conditioner operating unit, Cli‐
+matronic control unit -J255- does not switch on the air condi‐
+tioner compressor.
+♦ The refrigerant circuit remains closed (connection with valve).
+♦ Checking operation of high-pressure sender -G65- and signal
+supplied ⇒ page 37 .
+♦ Removal and installation are described in the following on the
+basis of a vehicle with a 2.0 l TFSI engine and one with a 3.2
+l MPI engine. The procedure may differ for vehicles with a dif‐
+ferent engine (4, 5 or 6-cylinder engine).
+♦ After switching off the air conditioner compressor, a relatively
+long period may elapse with this vehicle before the pressure
+on the high-pressure end decreases (the expansion valve is
+cold and the pressure on the low-pressure end increases rap‐
+idly after switch-off, the expansion valve closes and the refrig‐
+erant can only flow slowly to the low-pressure end).
+♦ Depending on the version of the high-pressure sender -G65- ,
+the measured value for the pressure in the refrigerant circuit
+transmitted by the high-pressure sender -G65- may be too low
+at low ambient temperatures (ambient temperature less than
+5 °C) although the air conditioner is OK and the refrigerant
+circuit has been properly charged. With air conditioner oper‐
+ating units, Climatronic control unit -J255- with part number
+“8J0 820 043” up to index “AJ”, this may therefore erroneously
+lead to a fault memory entry at ambient temperatures below
+5 °C (fault memory entry: High-pressure sender -G65- “Lower
+limit value not reached”). If the fault is only displayed as a
+sporadic fault at ambient temperatures calculated by the air
+conditioner of above 5 °C and the air conditioner is functioning
+properly, the fault memory entry can be erased (no further ac‐
+tion is necessary). This fault no longer occurs with air condi‐
+tioner operating units, Climatronic control unit -J255- with part
+number “8J0 820 043” as of index “AK”.
+Removing
+The high-pressure sender -G65- is located at the bottom right of
+the condenser.
+Note
+Depending on the version, it is fitted directly at the condenser or
+at the refrigerant pipe.
+34
+Rep. Gr.87 - Air conditioning system

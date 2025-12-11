@@ -1,0 +1,43 @@
+ES–89
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+ECM
+C43
+OCV for Intake Camshaft (Bank 1)
+58
+1 OC1+
+C55
+57
+2 OC1-
+C55
+ES
+C47
+OCV for Intake Camshaft (Bank 2)
+52
+1 OC2+
+C55
+51
+2 OC2-
+C55
+A133849E01
+INSPECTION PROCEDURE
+HINT:
+• If DTC P0010 is displayed, check the intake camshaft circuit for the right bank VVT system.
+• Bank 1 refers to the bank that includes cylinder No. 1.
+• If DTC P0020 is displayed, check the intake camshaft circuit for the left bank VVT system.
+• Bank 2 refers to the bank that does not include cylinder No. 1.
+• Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame
+data can be helpful in determining whether the vehicle was running or stopped, whether the engine
+was warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the
+time of a malfunction (See page ES-45).
+1 PERFORM ACTIVE TEST BY CAMSHAFT TIMING OIL CONTROL VALVE ASSEMBLY
+(OCV)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the tester on.
+(c) Warm up the engine.
+(d) On the tester, enter the following menus: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST / VVT CTRL B1 or
+VVT CTRL B2.
+(e) Check the engine speed while operating the Oil Control
+Valve (OCV) using the tester.

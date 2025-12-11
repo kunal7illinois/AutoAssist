@@ -1,0 +1,61 @@
+DL–134
+DOOR LOCK – SMART KEY SYSTEM
+(b)Any facilities that generate strong radio
+waves, such as a TV tower, power plant,
+broadcast station, or gas station, are located
+near the inspection site.
+(c)A wireless device, such as a cellular phone, is
+carried with the electrical key.
+(d)The electrical key is in contact with or covered
+with metal.
+(e)Another wireless door lock control function is
+operated near the vehicle.
+(f) The electrical key is located near a device that
+generates high voltage or noise.
+• The electrical key may be difficult to operate for a
+reason relating to the vehicle body shape.
+• The electrical key may not be detected correctly
+if it is around the vehicle's windows, the door
+handle, or the center of the bumper even when it
+is in the detection area outside the vehicle.
+• The electrical key may not be detected correctly
+if it is on the instrument panel, auxiliary box of the
+driver's side instrument panel, rear package tray,
+floor, or in the glove box even when it is in the
+detection area inside the vehicle.
+• The engine cannot be started even when the
+electrical key is in the detection area inside the
+luggage compartment.
+• The electrical key may not operate if the
+electrical key is not held properly.
+• The smart key system does not operate in the
+following conditions:
+(a)The smart key system is canceled.
+(b)The electrical key battery is completely
+depleted (the indicator does not blink when
+pushing any of the buttons on the electrical
+key).
+3. FUNCTION OF MAIN COMPONENTS
+Component Function
+Consists of mechanical key, transmitter for wireless door lock control,
+Electrical Key
+and transceiver for smart key system
+Controls smart key system in accordance with signals from each
+DL oscillator, various switches, ECUs, and electrical key
+Certification ECU • Judges and certifies ID code from entry door control receiver
+• Transmits engine immobiliser unset signal to ID code box
+• Transmits steering unlock signals to steering lock ECU
+Controls push button start function in accordance with signals from
+various switches, ECUs, and combination meter
+• Transmits electrical key verification request signal to certification
+ECU in accordance with engine switch signal, and turns relays ON
+Main Body ECU (Instrument Panel J/B)
+and OFF
+• Receives request signal from certification ECU and actuates door
+lock motor to unlock or lock door
+• Transmits each door condition signal to certification ECU
+Receives steering unlock or engine immobiliser unset signals from
+ID Code ECU certification ECU, certifies them, and transmits unset signals to
+steering lock ECU or ECM
+Outside Door Handle (driver and passenger doors) (antenna) Transmits request signals
+Outside Door Handle (driver and passenger doors) (touch sensor) Detects that person touches inside of outside handle

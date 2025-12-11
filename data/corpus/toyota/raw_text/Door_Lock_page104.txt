@@ -1,0 +1,36 @@
+DL–98
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/o Smart Key System)
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+HINT:
+The wireless door lock control system troubleshooting
+procedures are based on the premise that the power door
+lock control system is operating normally. Check the power
+door lock control system first before troubleshooting the
+wireless door lock control system.
+Use this procedure to troubleshoot the wireless door lock
+control system.
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 CUSTOMER PROBLEM ANALYSIS
+(a) Interview the customer to confirm the trouble (See page
+IN-45).
+NEXT
+3 INSPECT COMMUNICATION FUNCTION OF CAN COMMUNICATION SYSTEM
+(a) Use the intelligent tester to check for normal function of
+the multiplex communication system.
+(1) (ECU unconnected, communication line
+malfunctioning) If no code is output, proceed to A.
+(2) (ECU unconnected, communication line
+malfunctioning) If any code is output, proceed to B.
+B Go To CAN COMMUNICATION SECTION
+A
+4 DTC CHECK
+DL (a) Check for a DTC and note any codes that are output.
+(b) Delete the DTC.
+(c) Recheck for DTCs. Try to prompt the DTC by simulating
+the original symptom that the DTC suggests.
+(1) If the DTC does not reoccur, proceed to A.
+(2) If the DTC reoccurs, proceed to B.
+B Go To DTC chart
+A

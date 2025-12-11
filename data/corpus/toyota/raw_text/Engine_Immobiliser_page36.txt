@@ -1,0 +1,33 @@
+EI–36
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+DTC B2786 No Response from Steering Lock ECU
+DESCRIPTION
+This DTC is output when the certification ECU does not receive LIN communication from the steering lock
+ECU for 10 seconds.
+DTC No. DTC Detection Condition Trouble Area
+• Wire harness
+Certification ECU does not receive LIN communication
+B2786 • Certification ECU
+from steering lock ECU for 10 seconds
+• Steering lock ECU
+WIRING DIAGRAM
+Steering Lock ECU Certification ECU
+No. 4 J/B
+5 8 7 10
+O O
+LIN E51 4A 4F E58 LIN
+B128333E01
+EI
+INSPECTION PROCEDURE
+NOTICE:
+• If the certification ECU is replaced, register the key and ECU communication ID (See page EI-8).
+• If the steering lock ECU is replaced, register the ECU code and ECU communication ID (See
+page EI-8).
+1 CHECK DTC OUTPUT
+(a) Delete the DTCs (See page EI-24).
+(b) Recheck for DTCs (See page EI-24).
+Result
+Result Proceed to
+B2786 output reoccurs A
+B2786 output does not reoccur B
+B END

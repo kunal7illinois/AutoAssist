@@ -1,0 +1,35 @@
+BC–389
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+1 CHECK CAN COMMUNICATION SYSTEM
+(a) Check if a CAN communication system DTC is output
+(See page BC-302).
+Result
+Condition Proceed to
+CAN communication system DTC is not output A
+CAN communication system DTC is output B
+B INSPECT CAN COMMUNICATION SYSTEM
+(See page CA-8)
+A
+2 CHECK ABS WARNING LIGHT
+BC
+(a) Disconnect the skid control ECU connector.
+(b) Turn the ignition switch on (IG).
+(c) Check that the ABS warning light comes on.
+OK:
+The ABS warning light comes on.
+(d) Connect the connector.
+OK REPLACE BRAKE ACTUATOR ASSEMBLY
+(See page BC-432)
+NG
+3 INSPECT COMBINATION METER ASSEMBLY
+(a) Connect the intelligent tester to the DLC3.
+(b) Perform "ACTIVE TEST" of the combination meter
+assembly using the intelligent tester (See page ME-32).
+(c) Check ABS warning light operation.
+OK:
+The ABS warning light turns on or off in
+accordance with the intelligent tester.
+NG REPLACE COMBINATION METER
+ASSEMBLY (See page ME-63)
+OK
+REPLACE BRAKE ACTUATOR ASSEMBLY (See page BC-432)

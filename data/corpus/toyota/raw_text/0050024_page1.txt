@@ -1,0 +1,38 @@
+ES–121
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Throttle / Pedal Position Sensor / Switch "A"
+DTC P0120
+Circuit Malfunction
+Throttle / Pedal Position Sensor / Switch "A"
+DTC P0122
+Circuit Low Input
+Throttle / Pedal Position Sensor / Switch "A"
+DTC P0123
+Circuit High Input
+Throttle / Pedal Position Sensor / Switch "B"
+ES
+DTC P0220
+Circuit
+Throttle / Pedal Position Sensor / Switch "B"
+DTC P0222
+Circuit Low Input
+Throttle / Pedal Position Sensor / Switch "B"
+DTC P0223
+Circuit High Input
+Throttle / Pedal Position Sensor / Switch "A" /
+DTC P2135
+"B" Voltage Correlation
+HINT:
+These DTCs relate to the Throttle Position (TP) sensor.
+DESCRIPTION
+The TP sensor is mounted on the throttle body, and detects the opening angle of the throttle valve. This
+sensor is a non-contact type. It uses Hall-effect elements in order to yield accurate signals even in
+extreme driving conditions, such as at high speeds as well as very low speeds.
+The TP sensor has two sensor circuits which each transmits a signal, VTA1 and VTA2. VTA1 is used to
+detect the throttle valve angle and VTA2 is used to detect malfunctions in VTA1. The sensor signal
+voltages vary between 0 V and 5 V in proportion to the throttle valve opening angle, and are transmitted to
+the VTA terminals of the ECM.
+As the valve closes, the sensor output voltage decreases and as the valve opens, the sensor output
+voltage increases. The ECM calculates the throttle valve opening angle according to these signals and
+controls the throttle actuator in response to driver inputs. These signals are also used in calculations such
+as air-fuel ratio correction, power increase correction and fuel-cut control.

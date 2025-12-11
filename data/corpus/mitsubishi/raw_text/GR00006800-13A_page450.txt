@@ -1,0 +1,56 @@
+13A-450 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Check for harness damage between injector
+connector and ECM <M/T> or PCM <A/T> connector.
+a. Check the harness wire between injector connector B-01
+CONNECTOR : B-01, B-02, B-05, B-06
+terminal 2 and ECM connector C-49 terminal 1 <M/T> or
+B-01 B-02 B-05B-06
+PCM connector C-50 terminal 1 <A/T> when checking No. 1
+cylinder.
+b. Check the harness wire between injector connector B-02
+terminal 2 and ECM connector C-49 terminal 14 <M/T> or
+PCM connector C-50 terminal 9 <A/T> when checking No. 2
+cylinder.
+c. Check the harness wire between injector connector B-05
+terminal 2 and ECM connector C-49 terminal 2 <M/T> or
+AAKK000000227733AB
+PCM connector C-50 terminal 24 <A/T> when checking No.
+CONNECTORS:C-49<M/T>,C-50<A/T> 3 cylinder.
+d. Check the harness wire between injector connector B-06
+terminal 2 and ECM connector C-49 terminal 15 <M/T> or
+ECM<M/T>
+OR PCM connector C-50 terminal 2 <A/T> when checking No. 4
+PCM<A/T>
+cylinder.
+Q:Is the harness wire in good condition?
+YES : Check the following items, and repair or replace the
+defective items.
+C-49,C-50
+a. Check the ignition coil, spark plugs, spark plug
+AK000280BC
+cables.
+b. Check if the injectors are clogged.
+c. Check if fuel is contaminated.
+d. Check compression.
+Then confirm that the malfunction symptom is
+eliminated.
+NO : Repair it. Then confirm that the malfunction symptom
+is eliminated.
+INSPECTION PROCEDURE 6: Fires Up and Dies.
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+• In such cases as the above, the cause is usually causes for this case: )
+• Malfunction of the ignition system.
+improper air/fuel mixture. It is possible, though
+• Malfunction of the injector system.
+less likely, that the spark plugs are generating
+• Contaminated fuel.
+sparks but the sparks are weak.
+• Poor compression.
+• Malfunction of the ECM <M/T> or PCM <A/T>.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

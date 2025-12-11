@@ -1,0 +1,41 @@
+AC–106
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+4 INSPECT RELAY (MG CLT)
+(a) Remove the MG CLT relay from the engine room R/B
+and J/B.
+1 2
+(b) Measure the resistance according to the value(s) in the
+table below.
+3 5 Standard resistance
+5
+Tester Connection Specified Condition
+2 1
+3 - 5 10 kΩ or higher
+3 Below 1 Ω
+3 - 5
+(when battery voltage is applied to terminals 1 and 2)
+B060778E04
+(c) Install the MG CLT relay to the engine room R/B and J/B.
+NG REPLACE RELAY (MG CLT)
+OK
+5 CHECK HARNESS AND CONNECTOR (A/C AMPLIFIER - BATTERY)
+(a) Disconnect the connector from the A/C amplifier.
+Air Conditioning Amplifier
+(b) Measure the voltage according to the value(s) in the
+Connector Wire Harness View:
+table below.
+Standard voltage
+E38 Tester Connection
+AC Condition Specified Condition
+(Symbols)
+E38-20 (MGC) - Body
+Ignition switch off Below 1 V
+ground
+E38-20 (MGC) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+MGC
+E124470E13
+OK

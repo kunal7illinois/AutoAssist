@@ -1,0 +1,63 @@
+Audi TT No. 8 / 9
+Current Flow Diagram
+Front passenger door control unit, front passenger side
+central locking lock unit, front passenger side interior
+locking button for central locking system, front passenger
+door contact switch
+E309 Front passenger side interior locking button
+F3 Front passenger door contact switch
+F133 Front right central locking actuator
+F221 Front passenger side central locking lock unit
+J387 Front passenger door control unit
+0,35 0,35 R53 0,35 0,35 L147 Front passenger side door inner handle illumination bulb
+ro/sw ro/sw ro/sw ro/ws L156 Switch illumination bulb
+T20g 20-pin connector, connector A, on front passenger door control
+2 2 2
+unit
+### ### ###
+W36 W32 L147 T32g 32-pin connector, connector C, on front passenger door control
+1/31 1/31 1/31 unit
+V57 Front passenger door central locking motor
+V162 Front passenger door central locking deadlock function motor
+0,35 0,35 0,35 W32 Front right entry light
+br br br
+W36 Front passenger side door warning lamp
+110011 110033 110088
+J387
+T32g/18 T32g/17
+304 Earth connection 3, in front passenger side door wiring harness
+R53 Connection (58s), in front passenger side door wiring harness
+T20g T20g T20g/2 T20g/3 T20g T20g/7 T32g/7 T32g/2 T32g/6 T32g
+/11 ✱ /16 ✱ /15 ✱ ✱ ✱ ✱ ✱ /31 ✱
+T20g T20g T20g T20g T32g T32g T32g T32g * up to May 2007
+/12✱✱ /13✱✱ /7 ✱✱ /6 ✱✱ /32✱✱ /19✱✱ /24✱✱ /1 ✱✱
+** from June 2007
+###
+0,5 0,5 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 # not USA
+gr/gn br/bl gr/bl bl gr/li br li/bl br br bl/br br/bl ## only USA
+111111 ### Models with LED equipment (QQ1)
+110099
+###
+0,35
+br
+1 2 7
+F221
+3 4 6 2 1/31 3/58s 4/58d
+M M
+L156
+ws = white
+V57 V162 F133 F3 E309
+sw = black
+# ##
+ro = red
+110011 110033 110088 110099 110099 br = brown
+0,35 0,35 0,35 0,35 0,35 gn = green
+br br br br br bl = blue
+304
+gr = grey
+li = purple
+ge = yellow
+99 100 101 102 103 104 105 106 107 108 109 110 111 112 or = orange
+8J0-008090408
+rs = pink
+Edition 04.2008

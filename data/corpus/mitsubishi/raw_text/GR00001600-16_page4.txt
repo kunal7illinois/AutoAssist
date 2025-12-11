@@ -1,0 +1,40 @@
+16-4 ENGINE ELECTRICAL
+CHARGING SYSTEM
+SPECIAL TOOL
+M1161000600055
+TOOL TOOL NUMBER AND SUPERSESSION APPLICATION
+NAME
+MB991502 MB991496-OD Checking of engine idle
+Scan tool (MUT-II) speed
+B991502
+MB991519 Tool not available Checking of generator (S
+Generator harness terminal voltage)
+connector
+CHARGING SYSTEM DIAGNOSIS
+M1161000700085
+TROUBLESHOOTING HINTS
+1. Charging warning light does not go on when the ignition
+switch is turned to ON, before the engine starts.
+• Check the bulb.
+2. Charging warning light does not switch off after the engine
+starts.
+• Check the IC voltage regulator inside the generator.
+3. Discharged or overcharged battery.
+• Check the IC voltage regulator inside the generator.
+4. The charging warning light illuminates dimly.
+• Check the diode (inside the combination meter) for a short-
+circuit.
+TROUBLESHOOTING GUIDE
+The charging system troubleshooting guide is shown in the fol-
+lowing chart.
+STEP 1.
+Q:Is the battery in good condition? (Refer to GROUP 54A,
+Battery − On-vehicle Service − Battery Check P.54A-5.)
+YES : Go to Step 2.
+NO : Charge or replace the battery.
+STEP 2.
+Q:Is the generator drive belt in good condition? (Refer to
+GROUP 00, Maintenance Service − Drive Belts P.00-44.)
+YES : Go to Step 3.
+NO : Adjust the belt tension or replace the belt.
+TSB Revision

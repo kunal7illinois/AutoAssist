@@ -1,0 +1,52 @@
+AX–81
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+TYPICAL ENABLING CONDITIONS
+ALL:
+P0115 - P0118 (ECT sensor)
+P0125 (Insufficient ECT for closed loop)
+The monitor will run whenever this DTC is not present.
+P0500 (VSS)
+P0748, P0778, P0798 (Shift solenoid valve (range))
+ECT (Engine coolant temperature) 40°C (104°F) or more AX
+Transmission range "D"
+TFT (Transmission fluid temperature) -10°C (-14°F) or more
+TFT sensor circuit No circuit malfunction
+ECT sensor circuit No circuit malfunction
+Turbine speed sensor circuit No circuit malfunction
+Intermediate shaft speed sensor circuit No circuit malfunction
+Torque converter clutch circuit No circuit malfunction
+Knock control sensor circuit No circuit malfunction
+Shift solenoid valve SL1 circuit No circuit malfunction
+Shift solenoid valve SL2 circuit No circuit malfunction
+Shift solenoid valve SL3 circuit No circuit malfunction
+Shift solenoid valve SL4 circuit No circuit malfunction
+Shift solenoid valve SLU circuit No circuit malfunction
+CAN communication circuit No circuit malfunction
+Electronic throttle system No circuit malfunction
+TCM selected gear No 1st
+Vehicle speed 15.5 miles (25 km)
+Turbine speed/Output speed (NT/NO) with 1st 3.304 to 7.724
+Turbine speed/Output speed (NT/NO) with 2nd 1.901 to 2.340
+Turbine speed/Output speed (NT/NO) with 3rd 1.399 to 1.649
+Turbine speed/Output speed (NT/NO) with 4th 0.998 to 1.138
+Turbine speed/Output speed (NT/NO) with 5th 0.705 to 0.836
+Turbine speed/Output speed (NT/NO) with 6th 0.568 to 0.695
+TYPICAL MALFUNCTION THRESHOLDS
+OFF malfunction:
+Following conditions are met (a) and (b)
+(a) Engine Speed - Turbine speed 70 rpm or more
+(b) Transmission fluid pressure switch ON
+INSPECTION PROCEDURE
+HINT:
+Performing the ACTIVE TEST using the intelligent tester allows relays, VSVs, actuators and so on to
+operate without removing any parts. Performing the ACTIVE TEST as the first step in troubleshooting is
+one method to save labor time.
+It is possible to display the DATA LIST during the ACTIVE TEST.
+1. PERFORM ACTIVE TEST
+(a) Warm up the engine.
+(b) Turn the ignition switch off.
+(c) Connect the intelligent tester to the DLC3.
+(d) Turn the ignition switch on (IG).
+(e) Turn the intelligent tester on.
+(f) When using the intelligent tester:
+Enter the following items: "DIAGNOSIS / OBD/MOBD / ECT / ACTIVE TEST".

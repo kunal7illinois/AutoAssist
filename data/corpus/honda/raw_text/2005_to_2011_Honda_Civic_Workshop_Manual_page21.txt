@@ -1,0 +1,37 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+Fig. 4: Identifying ABS Modulator-Control Unit Inputs And Outputs For 25P
+Connector
+ABS MODULATOR-CONTROL UNIT INPUTS AND OUTPUTS FOR 25P
+CONNECTOR
+Measurement (Disconnect the
+Terminal Wire Terminal ABS modulator-control unit
+Description
+number color sign 25P connector)
+Terminal Conditions Results
+F-CAN
+1 WHT CAN-H communication - - -
+circuit
+Detects right-
+2 GRN FR+B front wheel - - -
+sensor signal
+Detects left-
+3 GRY FL-GND front wheel - - -
+sensor signal
+Detects left-rear
+5 PUR RL-GND wheel sensor - - -
+signal
+Detects right-
+LT
+6 RR+B rear wheel - - -
+GRN
+sensor signal
+Power source
+Battery
+8 WHT FSR+B for the fail-safe 8-GND At all times
+voltage
+relay
+Power source
+9 RED MR+B 9-GND At all times
+for the motor Battery

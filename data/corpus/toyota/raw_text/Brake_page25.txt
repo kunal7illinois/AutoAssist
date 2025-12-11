@@ -1,0 +1,58 @@
+BC–25
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+4. SYMPTOM SIMULATION
+HINT:
+The most difficult case in troubleshooting is when no
+symptoms occur. In such cases, a thorough customer
+problem analysis must be carried out. Then the same or
+similar conditions and environment in which the problem
+occurred in the customer's vehicle should be
+reproduced. No matter how experienced or skilled a
+technician may be, if he proceeds to troubleshoot without
+confirming the problem symptoms, he will likely overlook
+something important and make a wrong guess at some
+points in the repair operation. This leads to a standstill in
+troubleshooting.
+(a) Vibration method: When vibration seems to be the
+Vibrate Slightly
+major cause.
+HINT:
+Perform the simulation method only during the
+primary check period (for approximately 6 seconds
+BC
+after the ignition switch is turned on (IG)).
+(1) Slightly vibrate the part of the sensor considered
+to be the problem cause with your fingers and
+check whether the malfunction occurs.
+(2) Slightly shake the connector vertically and
+horizontally.
+HINT:
+Shaking the relays too strongly may result in
+Shake Slightly
+open relays.
+(3) Slightly shake the wire harness vertically and
+horizontally. The connector joint and fulcrum of
+the vibration are the major areas to be checked
+thoroughly.
+Vibrate Slightly
+D025083E13
+DTC CHECK / CLEAR
+DLC3:
+CG
+1. DTC CHECK / CLEAR (SST CHECK WIRE)
+(a) DTC check
+(1) Using SST, connect terminals TC and CG of the
+DLC3.
+SST 09843-18040
+(2) Turn the ignition switch on (IG).
+(3) Read the DTCs from the ABS warning light on
+TC
+the combination meter.
+G022986E01
+HINT:
+If no code appears, inspect the TC and CG
+terminal circuit and the ABS warning light circuit.
+Trouble Area See procedure
+TC and CG terminal circuit BC-94
+ABS warning light circuit (Remains on) BC-74
+ABS warning light circuit (Does not come on) BC-78

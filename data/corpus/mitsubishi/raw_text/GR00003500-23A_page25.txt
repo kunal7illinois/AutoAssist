@@ -1,0 +1,62 @@
+AUTOMATIC TRANSAXLE 23A-25
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP CONDITION BEFORE TEST/OPERATION STANDARD INSPECTION DTC INSPECTION
+TEST/OPERATION ITEM PROCEDURE
+PAGE
+9 Selector lever Monitor data list No. 22 The ratio Does not 22 Input shaft
+position: N (on a and No. 23 with the scan between data list match speed sensor
+flat and straight tool (MUT-II) No. 22 and No. system (P.23A-
+road) (1) Move selector lever to 23 should be the 101.)
+R range, drive at constant same as the gear
+speed of 10 km/h (6.2 ratio when
+mph) reversing.
+23 Output shaft
+speed sensor
+system (P.23A-
+115.)
+46 Reverse gear
+incorrect ratio
+(P.23A-217.)
+TORQUE CONVERTER STALL TEST
+M1231005400157
+This test measures the maximum engine speed when the
+selector lever is at the "D" or "R" position and the torque con-
+ONE-WAY
+verter stalls. This tests the operation of the torque converter,
+REVERSE CLUTCH TORQUE
+CLUTCH CONVERTER stator and one-way clutch operation and the holding perfor-
+LOW-
+UNDER- mance of the clutches and brakes in the transaxle.
+REVERSE
+DRIVE
+BRAKE
+CLUTCH WARNING
+Do not let anybody stand in front of or behind the
+vehicle while this test is being carried out.
+1. Check the A/T fluid level and temperature. Check the engine
+coolant temperature.
+• A/T fluid level: At the "HOT" mark on the dipstick
+• A/T fluid temperature: 70 − 80 °C (158 − 176 °F)
+• Engine coolant temperature: 80 − 100 °C (176 − 212 °F)
+NOTE: It measures A/T fluid temperature in scan tool (MUT-II).
+2. Check both rear wheels.
+OVERDRIVE 3. Connect a tachometer.
+CLUTCH
+4. Apply the parking and service brakes fully.
+SECOND
+BRAKE 5. Start the engine.
+6. Move the selector lever to the "D" position. Fully depress the
+AC001824AB accelerator pedal and read the maximum engine speed.
+CAUTION
+• The throttle should not be left fully open for any more
+than five seconds.
+• If you repeat the stall test when the fluid temperature is
+80°C (176°F) or more, move the selector lever to the "N"
+range and let the engine run at approximately 1,000 r/
+min for at least one minute and then wait until the ATF
+temperature returns to 80°C (176°F) or lower.
+Standard value: Stall speed: 2,100 − 2,600 r/min
+7. Move the selector lever to the "R" position and repeat step
+6.
+Standard value: Stall speed: 2,100 − 2,600 r/min
+TSB Revision

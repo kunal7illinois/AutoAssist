@@ -1,0 +1,25 @@
+ME–47
+METER – METER / GAUGE SYSTEM
+Speedometer Malfunction
+DESCRIPTION
+The meter CPU receives vehicle speed signals from the skid control ECU via the CAN communication
+lines (CAN No. 1 Bus). The vehicle speed sensor detects the voltage that varies according to the vehicle
+speed. The skid control ECU supplies power to the vehicle speed sensor. The skid control ECU detects
+vehicle speed signals based on the pulses of the voltage.
+WIRING DIAGRAM
+Skid Control ECU Combination Meter Assembly
+CAN Communication Line (CAN No. 1 Bus)
+C E128084E02
+INSPECTION PROCEDURE
+1 CHECK CAN COMMUNICATION SYSTEM
+(a) Check if CAN communication DTC is output (See page
+CA-25).
+Result
+Result Proceed to
+CAN communication DTC is not output. A ME
+CAN communication DTC is output. B (See page CA-31)
+B GO TO CAN COMMUNICATION SYSTEM
+A
+2 PERFORM ACTIVE TEST BY INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).

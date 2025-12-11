@@ -1,0 +1,35 @@
+ST–107
+2GR-FE STARTING – SMART KEY SYSTEM
+Wire Harness Side:
+ECM
+C1
+PNP Switch
+C55
+NSW
+B138010E01
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection
+Condition Specified Condition
+(Symbols)
+C55-62 (NSW) - C1-4 Always Below 1 Ω
+C55-62 (NSW) - Body
+Always 10 kΩ or higher
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+17 INSPECT RELAY (ST)
+(a) Remove the starter relay from the engine room R/B.
+(b) Measure the resistance of the starter relay.
+Standard resistance
+Tester Connection Specified Condition
+3 - 5 10 kΩ or higher
+Below 1 Ω
+3 - 5
+(when battery voltage is applied to terminals 1 and 2)
+ST
+NG REPLACE RELAY
+B016200E23
+OK

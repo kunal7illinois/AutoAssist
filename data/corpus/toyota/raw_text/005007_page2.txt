@@ -1,0 +1,87 @@
+ES–32
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Specified
+Symbols (Terminal No.) Wiring Colors Terminal Descriptions Conditions
+Conditions
+Ignition switch ON,
+0.5 to 1.1 V
+Accelerator pedal position Accelerator pedal released
+VPA (A9-55) - EPA (A9-59) W - Y
+sensor (for engine control) Ignition switch ON,
+2.6 to 4.5 V
+Accelerator pedal fully depressed
+Ignition switch ON,
+Accelerator pedal position Accelerator pedal released 1.2 to 2.0 V
+VPA2 (A9-56) - EPA2 (A9-60) R - O sensor (for sensor
+Ignition switch ON,
+malfunctioning detection) 3.4 to 5.0 V
+Accelerator pedal fully depressed
+Power source of
+VCPA (A9-57) - EPA (A9-59) B - Y accelerator pedal position Ignition switch ON 4.5 to 5.5 V
+sensor (for VPA)
+Power source of
+ES
+VCP2 (A9-58) - EPA2 (A9-60) L - O accelerator pedal position Ignition switch ON 4.5 to 5.5 V
+sensor (for VPA2)
+Idling Below 3.0 V
+HA1A (B30-109) - E04 (B30-46) L - W-B A/F sensor heater
+Ignition switch ON 9 to 14 V
+A1A+ (B30-112) - E1 (B30-104) B -BR A/F sensor Ignition switch ON 3.3 V*
+A1A- (B30-113) - E1 (B30-104) R - BR A/F sensor Ignition switch ON 3.0 V*
+Heated oxygen sensor Idling Below 3.0 V
+HT1B (B30-47) - E03 (B30-86) R - W-B
+heater Ignition switch ON 9 to 14 V
+Engine speed maintained at 2,500
+Pulse generation (see
+OX1B (B30-64) - EX1B (B30-87) B - BR Heated oxygen sensor rpm for 2 minutes after warming up
+waveform 2)
+sensor
+#10 (B30-108) - E01 (B30-45) L - W-B Ignition switch ON 9 to 14 V
+#20 (B30-107) - E01 (B30-45) G - W-B
+Injector Pulse generation (see
+#30 (B30-106) - E01 (B30-45) B - W-B Idling
+waveform 3)
+#40 (B30-105) - E01 (B30-45) W - W-B
+KNK1 (B30-110) - EKNK (B30- Engine speed maintained at 4,000 Pulse generation (see
+B - W Knock sensor
+111) after warming up engine waveform 4)
+Pulse generation (see
+G2+ (B30-99) - G2- (B30-98) L - Y Camshaft position sensor Idling
+waveform 5)
+Pulse generation (see
+NE+ (B30-122) - NE- (B30-121) W - B Crankshaft position sensor Idling
+waveform 5)
+IGT1 (B30-85) - E1 (B30-104) R - BR
+IGT2 (B30-84) - E1 (B30-104) P - BR Ignition coil (ignition Pulse generation (see
+Idling
+IGT3 (B30-83) - E1 (B30-104) G - BR signal) waveform 6)
+IGT4 (B30-82) - E1 (B30-104) L - BR
+Ignition switch ON 4.5 to 5.5 V
+Ignition coil (ignition
+IGF1 (B30-81) - E1 (B30-104) W - BR Pulse generation (see
+confirmation signal) Idling
+waveform 6)
+Ignition switch ON 9 to 14 V
+PRG (B30-49) - E1 (B30-104) G - BR Purge VSV Pulse generation (see
+Idling
+waveform 7)
+Speed signal from Pulse generation (see
+SPD (A9-8) - E1 (B30-104) V - BR Driving at 20 km/h (12 mph)
+combination meter waveform 8)
+STA (A9-48) - E1 (B30-104) LG - BR Starter signal Cranking 5.5 V or more
+Ignition switch ON Below 1.5 V
+STAR (B30-52) - E1 (B30-104) W - BR Starter relay control
+Cranking 6.0 V or more
+Brake pedal depressed 7.5 to 14 V
+STP (A9-36) - E1 (B30-104) L - BR Stop light switch
+Brake pedal released Below 1.5 V
+Ignition switch ON,
+Below 1.5 V
+Stop light switch Brake pedal depressed
+ST1- (A9-35) - E1 (B30-104) GR - BR
+(opposite to STP terminal) Ignition switch ON,
+7.5 to 14 V
+Brake pedal released
+Pulse generation (see
+M+ (B30-42) - ME01 (B30-43) B - W-B Throttle actuator Idling with warm engine
+waveform 9)

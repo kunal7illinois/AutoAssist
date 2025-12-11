@@ -1,0 +1,35 @@
+ME–57
+METER – METER / GAUGE SYSTEM
+Engine Coolant Temperature Receiver Gauge Malfunction
+DESCRIPTION
+The meter CPU receives engine coolant temperature signals from the ECM via the CAN communication
+lines (CAN No. 1 Bus). The meter CPU displays engine coolant temperature that is calculated based on
+the data received from the ECM.
+WIRING DIAGRAM
+ECM Combination Meter Assembly
+CAN Communication Line (CAN No. 1 Bus)
+C4
+E.F.I. Engine Coolant Temperature Sensor
+97 79
+THW C24 C55
+2 1
+(*1) (*2)
+96 78 *1: for 2AZ-FE
+ETHW C24 C55
+*2: for 2GR-FE
+(*1) (*2)
+C E128087E02
+INSPECTION PROCEDURE
+HINT:
+If there is an open or short in the engine coolant temperature sensor circuit, the ECM outputs the DTCs.
+Perform troubleshooting with the "SFI System" (See page ES-38 for 2AZ-FE, ES-63 for 2GR-FE).
+1 CHECK CAN COMMUNICATION SYSTEM
+(a) Check if CAN communication DTC is output (See page
+CA-25).
+Result
+ME
+Result Proceed to
+CAN communication DTC is not output. A
+CAN communication DTC is output. B (See page CA-31)
+B GO TO CAN COMMUNICATION SYSTEM
+A

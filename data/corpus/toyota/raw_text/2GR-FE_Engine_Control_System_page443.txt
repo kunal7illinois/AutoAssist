@@ -1,0 +1,38 @@
+ES–443
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+NG
+3 INSPECT EFI MAIN FUSE
+(a) Remove the EFI MAIN fuse from the engine room R/B.
+(b) Measure the EFI MAIN fuse resistance.
+Engine Room
+Standard resistance:
+Relay Block
+Below 1 Ω
+(c) Reinstall the EFI MAIN fuse.
+NG REPLACE EFI MAIN FUSE
+EFI MAIN
+ES
+A137020E01
+OK
+4 CHECK HARNESS AND CONNECTOR (ENGINE ROOM RELAY BLOCK - BATTERY)
+(a) Disconnect the negative battery terminal.
+Component Side: (b) Disconnect the positive battery terminal.
+(c) Remove the engine room junction block from the engine
+room R/B.
+(d) Measure the resistance between the terminals.
+Engine Room Relay Block
+Standard resistance (Check for open)
+Tester Connection Specified Condition
+1G-1 - Positive battery terminal Below 1 Ω
+Standard resistance (Check for short)
+1G
+Tester Connection Specified Condition
+1G-1 or Positive battery terminal - Body ground 10 kΩ or higher
+(e) Reinstall the engine room junction block.
+(f) Reconnect the positive battery terminal.
+A140659E03 (g) Reconnect the negative battery terminal.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE (See page
+ES-33)

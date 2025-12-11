@@ -1,0 +1,34 @@
+13A-508 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check the MFI relay.
+(1) Remove the MFI relay.
+CONNECTOR: A-18X
+MFI RELAY
+AK101363AB
+(2) Check for continuity between the MFI relay terminals 2 and
+3.
+• There should be continuity. (approximately 70 Ω)
+1 2
+3 4
+MFI RELAY
+SIDE
+CONNECTOR
+AK101234AB
+(3) Use jumper wires to connect MFI relay terminal 2 to the
+MFI RELAY SIDE positive battery terminal and terminal 3 to the negative
+CONNECTOR
+battery terminal.
+1 2 (4) Check the continuity between the MFI relay terminals 1 and
+3 4 4 while connecting and disconnecting the jumper wire at the
+negative battery terminal.
+• Should be less than 2 ohm. (Negative battery terminal
+connected)
+• Should be open loop. (Negative battery terminal discon-
+nected)
+AK101235AB
+(5) Install the MFI relay.
+Q:Is the voltage normal?
+YES : Go to Step 3.
+NO : Replace the MFI relay. Then confirm that the
+malfunction symptom is eliminated.
+TSB Revision

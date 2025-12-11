@@ -1,0 +1,54 @@
+Audi TT No. 42 / 7
+Current Flow Diagram
+Engine control unit, terminal 30 voltage supply relay,
+suppression filter
+C24 Suppression filter
+J317 Terminal 30 voltage supply relay
+J623 Engine control unit
+SC32 Fuse 32 on fuse holder C
+SC36 Fuse 36 on fuse holder C
+T94 94-pin connector, on engine control unit
+88
+366 Earth connection 1, in main wiring harness
+6,0
+ro
+B298
+32 36 372 Earth connection 7, in main wiring harness
+SC32 SC36
+5A 10A
+32a 36a 379 Earth connection 14, in main wiring harness
+6,0 2,5 6,0 6,0 1,0 0,5
+ro ro ro ro ro/sw ro/sw 672 Earth point 2, on front of left longitudinal member
+2222 5588
+✱ 2/30 4/86 T
+30
+94/92
+J623 B298 Positive connection 2 (30), in main wiring harness
+4 * Relay and fuse carrier in electronics box engine compartment
+J317
+8/87 6/85 T94/69 T94/20 T94/61 T94/87 T94/1 T94/2 T94/4
+15 31 31 31
+6,0 0,5 0,35 0,35 0,5 2,5 2,5 2,5
+ro/ge sw/gr li/gr li/ge sw/bl br br br
+2 5522 6622 6633 379
+✱
+C24
+1/31
+2,5 1,0 2,5
+br sw/bl br
+2299
+366
+ws = white
+sw = black
+5588 220022 220077
+ro = red
+0,5 2,5 0,5 0,5 6,0 br = brown
+br br br br br gn = green
+372 bl = blue
+gr = grey
+672 li = purple
+ge = yellow
+71 72 73 74 75 76 77 78 79 80 81 82 83 84 or = orange
+8J0-042070409
+rs = pink
+Edition 09.2009

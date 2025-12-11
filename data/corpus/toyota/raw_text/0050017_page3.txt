@@ -1,0 +1,41 @@
+ES–89
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Accumulated heater ON time 100 seconds or more
+TYPICAL MALFUNCTION THRESHOLDS
+P0037:
+Heater current Less than 0.3 A
+P0038:
+Heater current More than 2 A
+P0141 (Heater performance monitor check):
+Accumulated heater resistance Varies with sensor element temperature (Example: More than 23 Ω)
+ES
+COMPONENT OPERATING RANGE
+0.4 to 1 A (when engine idles, HO2 sensor warmed up and battery
+Heated Oxygen (HO2) sensor heater current
+voltage 11 to 14 V)
+WIRING DIAGRAM
+Refer to DTC P0136 (see page ES-136).
+CONFIRMATION DRIVING PATTERN
+These DTCs are detected when the engine idles for 110 seconds or more.
+INSPECTION PROCEDURE
+HINT:
+Sensor 2 refers to the sensor mounted behind the Three-Way Catalytic Converter (TWC) and located far
+from the engine assembly.
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 INSPECT HEATED OXYGEN SENSOR (HEATER RESISTANCE)
+(a) Disconnect the B19 Heated Oxygen (HO2) sensor
+Component Side : connector.
+(b) Measure the resistance of the HO2 sensor connector.
+Standard resistance
++B HT1B Tester Connections Specified Conditions
+Sensor 2 2 1 Front View 1 (HT1B) - 2 (+B) 11 to 16 Ω at 20°C (68°F)
+4 3
+1 (HT1B) - 4 (E2) 10 kΩ or higher
+E2 OX1B
+HO2 Sensor (c) Reconnect the HO2 sensor connector.
+A115661E02
+NG REPLACE HEATED OXYGEN SENSOR
+OK

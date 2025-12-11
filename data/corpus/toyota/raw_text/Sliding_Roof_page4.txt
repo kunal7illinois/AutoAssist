@@ -1,0 +1,37 @@
+RF–4
+SLIDING ROOF – SLIDING ROOF SYSTEM
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+HINT:
+• Use the following procedures to troubleshoot the sliding
+roof system.
+• *: Use the intelligent tester.
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 INSPECT BATTERY VOLTAGE
+Standard voltage:
+11 to 14 V
+RF
+If the voltage is below 11 V, recharge or replace the battery
+before proceeding to the next step.
+NEXT
+3 INSPECT COMMUNICATION FUNCTION OF CAN COMMUNICATION SYSTEM*
+(a) Using the intelligent tester, check if the CAN
+communication system is functioning normally.
+Result
+Result Proceed to
+DTC is not output A
+DTC is output B
+B Go to CAN COMMUNICATION SYSTEM
+A
+4 PROBLEM SYMPTOMS TABLE
+Result
+Result Proceed to
+Fault is not listed in problem symptoms table A
+Fault is listed in problem symptoms table B
+B Go to step 6
+A
+5 OVERALL ANALYSIS AND TROUBLESHOOTING*
+1. Data List / Active Test (See page RF-9)
+2. Terminals of ECU (See page RF-5)
+3. On-vehicle Inspection (See page RF-11)

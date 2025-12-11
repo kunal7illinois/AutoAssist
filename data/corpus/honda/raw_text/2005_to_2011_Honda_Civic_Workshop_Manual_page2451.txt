@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (R18A1) - Civic (All Except Hybrid)
+Does the screen indicate FAILED?
+YES - Go to step 10.
+NO - If the screen indicates PASSED, intermittent failure, the system is OK at
+this time. Check for poor connections or loose terminals at the FTP sensor and
+the ECM/PCM. If the screen indicates NOT COMPLETED, go to step 6 and
+recheck.
+10. Turn the ignition switch OFF.
+11. Disconnect the FTP sensor 3P connector.
+12. Connect FTP sensor 3P connector terminals No. 2 and No. 3 with a jumper
+wire.
+Fig. 12: Connecting FTP Sensor 3P Connector Terminals No. 2 And 3
+With Jumper Wire
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+13. Turn the ignition switch ON (II).
+14. Check the FTP SENSOR in the DATA LIST with the HDS.
+Is about 7.3 kPa (2.16 in.Hg, 55 mmHg), or 4.7 V or more indicated?
+YES - Go to step 15.
+NO - Go to step 26.
+15. Measure voltage between FTP sensor 3P connector terminals No. 1 and No. 3.

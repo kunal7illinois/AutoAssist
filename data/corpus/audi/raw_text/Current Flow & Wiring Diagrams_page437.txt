@@ -1,0 +1,66 @@
+Audi TT No. 48 / 4
+Current Flow Diagram
+Driver door control unit, driver side central locking lock unit,
+driver door contact switch, alarm system off switch, interior
+monitoring deactivation switch
+E183 Interior monitoring deactivation switch
+E217 Alarm system off switch
+F2 Driver door contact switch
+F131 Front left central locking actuator
+F220 Driver side central locking lock unit
+F241 Driver side contact switch in lock cylinder
+J386 Driver door control unit
+L156 Switch illumination bulb
+T20f 20-pin connector, connector A, on driver door control unit
+T32f 32-pin connector, connector C, on driver door control unit
+V56 Driver door central locking motor
+V161 Driver door central locking deadlock function motor
+205 Earth connection, in driver door wiring harness
+* up to May 2010
+** from June 2010
+# not USA
+J386
+T20f T20f T20f/2 T20f/3 T20f/7 T20f T20f/6 T32f/4 T32f T32f/5 T32f/10
+/12 /13 /16 ✱✱ /27 ✱✱
+T32f/5 T32f
+✱✱ /10✱✱
+✱✱
+0,5 0,5 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+gr/gn br/bl gr/bl bl gr/li bl/ws br ro/ge bl bl/ws ro/li
+5511
+0,35
+bl/br
+4 6 2
+F220
+3 7 1 5/31 1 3 2 4
+L156
+1
+5
+0
+8s
+M M
+V56 V161 F131 F2 F241 E183 E217 5/31 w
+sw
+s =
+=
+w
+bl
+h
+a
+i
+c
+te
+k
+# #
+ro = red
+0,35 br = brown
+br gn = green
+bl = blue
+205 gr = grey
+205 li = purple
+ge = yellow
+29 30 31 32 33 34 35 36 37 38 39 40 41 42
+or = orange
+8J0-048040410
+rs = pink
+Edition 04.2010

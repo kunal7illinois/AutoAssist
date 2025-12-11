@@ -1,0 +1,34 @@
+LI–42
+LIGHTING – LIGHTING SYSTEM
+Headlight (HI-BEAM) Circuit
+DESCRIPTION
+The main body ECU receives dimmer switch HIGH signal and light control switch HEAD signal from the
+headlight dimmer switch assembly, and turns the high beam headlights on.
+HINT:
+When a short circuit occurs between the power distributor (engine room J/B assembly) and high beam
+headlight, the power distributor stops the DRL relay operation (Fail-safe function).
+WIRING DIAGRAM
+Light Control Circuit Main Body ECU
+Power Distributor (Engine Room J/B) Instrument Panel J/B
+8 9
+1D ID DRL
+11
+9 3
+1D ID HRLY
+8
+11
+1E
+DRL H-LP (LH) 2
+1B
+H-LP (RH) 3
+1B
+1
+1G
+A29
+LI Headlight (RH High)
+2 1
+FL MAIN A8
+Headlight (LH High)
+2 1
+Battery
+E121490E01

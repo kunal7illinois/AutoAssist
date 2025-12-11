@@ -1,0 +1,44 @@
+AC–107
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+6 INSPECT AIR CONDITIONING AMPLIFIER
+(a) Reconnect the connector to the A/C amplifier.
+Air Conditioning Amplifier
+(b) Measure the voltage according to the value(s) in the
+Connector Wire Harness View:
+table below.
+Standard voltage
+E38 Tester Connection
+Condition Specified Condition
+(Symbols)
+E38-20 (MGC) - Body Ignition switch on (IG)
+10 to 14 V
+ground A/C switch: OFF
+E38-20 (MGC) - Body Ignition switch on (IG)
+Below 1 V
+ground A/C switch: ON
+MGC NG REPLACE AIR CONDITIONING AMPLIFIER
+E124471E11
+OK
+7 INSPECT A/C COMPRESSOR
+(a) Disconnect the connector from the A/C compressor.
+A/C Compressor Connector Front View:
+AC
+C53
+MG+
+E005280E15
+(b) Disconnect the connector from the magnetic clutch.
+Magnetic Clutch
+(c) Measure the resistance according to the value(s) in the
+Connector Front View:
+table below.
+Standard resistance
+Tester Connection
+Condition Specified Condition
+(Symbols)
+A C53-3 (MG+) - A-1 Always Below 1 Ω
+C53-3 (MG+) - Body
+Always 10 kΩ or higher
+ground
+E124482E01
+NG REPLACE A/C COMPRESSOR
+OK

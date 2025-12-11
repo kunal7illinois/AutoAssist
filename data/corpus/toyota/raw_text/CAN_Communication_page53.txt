@@ -1,0 +1,47 @@
+CA–53
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+• Before measuring the resistance, leave the vehicle as is for at least 1 minute and do not operate
+the ignition switch, any other switches or the doors. If doors need to be opened in order to
+check connectors, open the doors and leave them open.
+HINT:
+Operating the ignition switch, any other switches or any triggers related ECU and sensor communication
+on the CAN, which would cause resistance reading variations.
+1 CHECK OPEN IN CAN BUS WIRE (STEERING ANGLE SENSOR BRANCH LINE)
+(a) Turn the ignition switch off.
+Steering Angle Sensor Connector (b) Disconnect the steering angle sensor connector.
+(Wire Harness View): (c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Value
+E17-10 (CANH) - E17-9
+Ignition switch off 54 to 69 Ω
+(CANL)
+NG REPAIR OR REPLACE STEERING ANGLE
+CA
+SENSOR BRANCH WIRE OR CONNECTOR
+CANH
+(CANH, CANL)
+E17
+CANL
+G030155E40
+OK
+2 CHECK WIRE HARNESS (IG, ESS)
+(a) Measure the resistance according to the value(s) in the
+Steering Angle Sensor Connector table below.
+(Wire Harness View): Standard resistance
+Tester Connection Condition Specified Value
+E17-2 (ESS) - Body
+ESS Always Below 1 Ω
+ground
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Tester Connection Condition Specified Value
+E17-1 (IG) - Body
+E17 Ignition switch on (IG) 10 to 14 V
+IG ground
+NG REPAIR OR REPLACE HARNESS OR
+G030155E41
+CONNECTOR
+OK
+REPLACE STEERING ANGLE SENSOR

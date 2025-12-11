@@ -1,0 +1,35 @@
+ST–103
+2GR-FE STARTING – SMART KEY SYSTEM
+HINT:
+If the result is not as specified, perform troubleshooting
+for DTCs B2285 and B2288 first (See page ST-28).
+NG GO TO DTC B2285
+OK
+9 CHECK STEERING LOCK
+(a) Check if the steering lock is released when turning the
+engine switch on (ACC).
+OK:
+The steering lock is released.
+NG GO TO STEERING LOCK SYSTEM
+OK
+10 INSPECT MAIN BODY ECU (STSW VOLTAGE)
+(a) Disconnect the A55 ECM connector.
+(b) Measure the voltage according to the value(s) in the
+table below.
+Main Body ECU Standard voltage
+E9
+Tester Connection
+Condition Specified Condition
+(Symbols)
+Brake pedal depressed, Output voltage at
+E9-4 (STSW) - Body
+engine switch held on terminal AM1 or AM2 is -
+ground
+(ST) 2 V or more.
+STSW HINT:
+If the result is not as specified, perform troubleshooting
+for DTC B2275 first (See page ST-48).
+NG GO TO DTC B2275
+B138004E01
+OK
+ST

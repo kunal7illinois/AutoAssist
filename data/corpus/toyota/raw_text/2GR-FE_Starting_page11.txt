@@ -1,0 +1,67 @@
+ST–11
+2GR-FE STARTING – SMART KEY SYSTEM
+SYSTEM DESCRIPTION
+1. PUSH-BUTTON START FUNCTION DESCRIPTION
+(a) The push-button start function uses a push-type
+engine switch, which the driver can operate by
+merely carrying the electrical key. This system
+consists primarily of the main body ECU, engine
+switch, ID code box, steering lock ECU, electrical
+key, ACC relay, IG1 relay, IG2 relay and certification
+ECU. The main body ECU controls the function.
+This function operates in cooperation with the smart
+key system.
+2. FUNCTION OF COMPONENT
+Component Function
+• Transmits engine switch signal to main body ECU.
+• Informs driver of power source mode or system abnormality with
+Engine Switch
+illumination of indicator light.
+• Transponder Key Amplifier
+• Receives ID code and transmits it to certification ECU when key
+battery is low.
+Receives signals from oscillators and returns ID code to entry door
+Electrical Key
+control receiver.
+Electrical Key Oscillator Receives request signals from certification ECU and forms detection
+• Console and Rear Seat area in vehicle interior.
+Receives lock/unlock request signals from certification ECU and main
+Steering Lock ECU
+body ECU.
+Receives ID code from electrical key and transmits it to certification
+Entry Door Control Receiver
+ECU.
+• Changes power source mode in 4 stages (off, on (ACC), on (IG),
+start) in accordance with shift position and state of stop light
+Main body ECU switch.
+• Controls push-button start function in accordance with signals
+received from switches and each ECU.
+Certifies ID code received from entry door control receiver and
+Certification ECU
+transmits certification results to ID code ECU and steering lock ECU.
+Stop Light Switch Outputs state of brake pedal to main body ECU.
+Receives steering unlock or engine immobiliser unset signals from
+ID Code Box certification ECU, certifies them, and transmits each unset signal to
+steering lock ECU or ECM.
+• Receives engine start request signal from main body ECU, turns
+ON ST relay, and starts engine.
+ECM
+• Receives signal from ID code ECU and performs engine ignition
+and injection.
+3. SYSTEM FUNCTION
+The electric controls of the push-button start function are
+described below:
+Control Outline
+• When driver operates engine switch with electrical key in driver's
+possession, certification ECU starts indoor electrical key oscillator,
+which transmits request signal to electrical key. Upon receiving
+ST
+this signal, the electrical key transmits ID code signal to main body
+Engine switch control
+ECU.
+• ID code box verifies check results received from certification ECU
+via LIN and sends them to main body ECU. Based on these
+results, main body ECU authorizes operation of engine switch.
+When main body ECU detects malfunction, main body ECU
+Diagnosis
+diagnoses and memorizes failed section.

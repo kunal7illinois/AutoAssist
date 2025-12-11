@@ -1,0 +1,43 @@
+ES–301
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+A/F Sensor Current Monitor:
+Cumulative Time "t" = t1 + t2 =3 seconds or more
+ON
+Fuel-Cut
+OFF
+Delay (3 seconds) Delay (3 seconds) Delay (3 seconds)
+Sensor Current (mA) ES
+High Side Threshold
+Low Side Threshold
+3 seconds or more t1 t2
+Normal Sensor Output Abnormal Sensor Output Time
+A107165E03
+MONITOR STRATEGY
+P2195: A/F sensor signal stuck lean
+Related DTCs
+P2196: A/F sensor signal stuck rich
+Required Sensors/Components (Main) A/F sensor
+Required Sensors/Components (Related) HO2 sensor
+Frequency of Operation Continuous
+10 seconds: Sensor voltage detection monitor
+Duration
+3 seconds: Sensor current detection monitor
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+All
+P0031, P0032 (A/F sensor heater - Sensor 1)
+P0037, P0038 (O2 sensor heater - Sensor 2)
+P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+P0125 (Insufficient ECT for Closed Loop)
+Monitor runs whenever following DTCs not present
+P0136 (O2 Sensor - Sensor 2)
+P0171, P0172 (Fuel system)
+P0300 - P0304 (Misfire)
+P0335 (CKP sensor)
+P0340 (CMP sensor)
+P0455, P0456 (EVAP system)
+P0500 (VSS)

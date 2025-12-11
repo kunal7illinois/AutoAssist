@@ -1,0 +1,45 @@
+13A-524 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 12. Check for open circuit and short circuit to
+ground and harness damage between fuel pump relay 2
+connector C-105 (terminal 4) and fuel pump connector D-
+17 (terminal 5).
+NOTE: Check harness after checking intermediate connector
+C-101. If intermediate connectors are damaged, repair or
+replace them. After to GROUP 00E, Harness Connector
+Inspection P.00E-2. Then check that the malfunction is elimi-
+nated.
+Q:Is the harness wire in good condition?
+YES : Go to Step 13.
+NO : Repair it. Then confirm that the malfunction symptom
+is eliminated.
+AK103836
+STEP 13. Check connector C-49 at ECM <M/T> or
+connector C-50 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+YES : Go to Step 14.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+TSB Revision
+44
+33
+44
+33
+22
+11
+22
+11
+CONNECTOR: C-105
+JUNCTION BLOCK
+HARNESS SIDE C-105
+CONNECTOR
+AD
+CONNECTOR:D-17
+AK000734AC
+CONNECTORS:C-49<M/T>,C-50<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-49,C-50
+AK000280BC

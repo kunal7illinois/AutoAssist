@@ -1,0 +1,55 @@
+Audi TT 2007 ➤
+Fuel supply system, petrol engines - Edition 11.2010
+9.5 Tank leak diagnostic system
+Function
+The tank leak diagnostic system detects leaks in the entire fuel
+system, including the fuel tank, activated charcoal filter and acti‐
+vated charcoal filter solenoid valve 1 -N80- .
+The mechanical components of the tank leak diagnostic system
+consist primarily of a vacuum-driven diaphragm pump, with a reed
+contact located on the operating rod of the pump diaphragm. The
+vacuum required is supplied to the pump from the mechanical
+vacuum pump or from the engine intake.
+♦ The diaphragm pump delivers a pressure of 20 ... 30 mbar to
+the fuel system when the tank leak diagnostic system starts
+up. In this condition the pump diaphragm is extended, so the
+reed contact located on the operating rod is in the „open“ po‐
+sition.
+♦ The diagnostic system detects whether the reed contact re‐
+mains open for 15 seconds. In this case the fuel system is free
+of leaks.
+♦ If the pressure drops (indicating a leak), the diaphragm returns
+and the reed contact closes.
+♦ If the reed contact closes within 15 seconds, a further test is
+performed. The diaphragm pump is then activated for another
+4 strokes. For each of these strokes the engine control unit
+measures the period of time it takes for the reed contact to
+close again after pressure delivery. In this way the control unit
+can distinguish between a „small leak“ (smaller than 1 mm di‐
+ameter) and a „large leak“.
+The automatic diagnosis function is activated shortly after every
+cold start (below 35°C) when the vehicle reaches a constant
+speed above 10 km/h. Any faults detected are stored in the mem‐
+ory. A fault message is displayed in the instrument cluster if the
+fault is detected during two consecutive road trips. The diagnosis
+function can also be activated with the vehicle diagnostic, testing
+and information system -VAS 5051B- ⇒ page 102 .
+Note
+♦ The diagnosis can be repeated up to 10 times during the first
+20 minutes after a cold start.
+♦ By selecting measured value block 071 with vehicle diagnos‐
+tic, testing and information system -VAS 5051B- connected,
+you can see whether the automatic tank leak diagnosis is be‐
+ing performed ⇒ page 102 .
+9.6 Performing tank leak diagnosis
+Check the fuel tank leak diagnosis system using the „Guided Fault
+Finding“ function ⇒ Vehicle diagnostic, testing and information
+system VAS 5051.
+Checking fuel tank system and tank breather system for leaks
+Note
+The following locations/components must be checked when
+checking the fuel tank system and tank breather system for leaks.
+Initiate a tank leak diagnosis after eliminating a suspected leak to
+make sure the diagnosed leak has been eliminated.
+102
+Rep. gr.20 - Fuel supply system

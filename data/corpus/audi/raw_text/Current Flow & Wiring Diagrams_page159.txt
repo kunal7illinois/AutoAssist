@@ -1,0 +1,46 @@
+Audi TT No. 18 / 9
+Current Flow Diagram
+Infotainment CAN bus, low 1
+J401 Navigation system with CD drive control unit
+J503 Control unit with display for radio and navigation system
+J525 Digital sound package control unit
+J533 Data bus diagnostic interface
+R Radio
+R36 Telephone transmitter and receiver unit
+R78 TV tuner
+R146 Satellite radio
+T2l 2-pin connector, black, connector CAN, on navigation system
+with CD drive control unit
+T8a 8-pin connector, black, radio pin connector D
+T8m 8-pin connector, on satellite radio
+T20d 20-pin connector, black, on data bus diagnostic interface
+B421
+T32a 32-pin connector, black, on digital sound package control unit
+T38 38-pin connector, black, on digital sound package control unit
+# T54 54-pin connector, connector A, on telephone transmitter and
+0,35 0,35 ## 0,35 ✱ 0,35 ♦ 0,35 ♦♦ 0,35 ✱✱ 0,35 ✱✱✱ 0,35 # 0,35 ✱✱✱ 0,35 ### receiver unit
+or/br or/br or/br or/br or/br or/br or/br or/br or/br or/br T54a 54-pin connector, on TV tuner
+B421 Connection 1 (infotainment CAN bus, low), in main wiring harness
+T38/23✱✱✱✱ * Navigation system RNS-low (7Q9)
+T20d/10 T54/18 T8a/10 T54a/2 T2l/2 T8a/10 T8a/10 T32a/32 T32a/11 T8m/1
+J533 R36 J503 R78 J401 J401 R J525 J525 R146 ** Navigation system RNS-E (7Q2)
+*** radio with standard soundsystem (9VD)
+**** from February 2009
+# radio with BOSE soundsystem (8RY)
+## models with preparation for mobile telephone (9ZF)
+### only USA
+♦ models with TV tuner
+♦♦ models with navigation system Japan (7Q4)
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+99 100 101 102 103 104 105 106 107 108 109 110 111 112 or = orange
+8J0-018090409
+rs = pink
+Edition 04.2009

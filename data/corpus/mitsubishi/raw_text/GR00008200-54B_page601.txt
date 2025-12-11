@@ -1,0 +1,34 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-601
+SYMPTOM PROCEDURES
+STEP 2. Check ETACS-ECU connector C-118 and vehicle
+speed sensor connector B-39 for damage.
+Q:Are ETACS-ECU connector C-118 and vehicles speed
+CONNECTOR<2.4L ENGINE>: B-39
+sensor connector B-39 in good condition?
+YES : Go to Step 3.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. If the
+wiper interval can be adjusted normally, it indicates
+that the windshield intermittent wiper interval
+adjusting knob should send a signal to the ECU.
+DEVICE SIDE
+1 2 3
+AC106467AC
+CONNECTOR<3.0L ENGINE WITH OUT
+VARIABLE INDUCTION SYSTEM>: B-39
+DEVICE SIDE
+1 2 3
+AC106469AC
+CONNECTOR<3.0L ENGINE WITH
+VARIABLE INDUCTION SYSTEM>: B-39
+DEVICE SIDE
+1 2 3
+AC106471AC
+CONNECTOR: C-118
+DEVICE SIDE
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+TSB Revision

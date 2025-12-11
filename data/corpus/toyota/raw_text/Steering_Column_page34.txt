@@ -1,0 +1,36 @@
+SR–32
+STEERING COLUMN – ELECTRIC STEERING LOCK
+Unlock Position Sensor Signal Circuit
+DESCRIPTION
+The unlock position sensor is one of the components in the steering lock actuator. The sensor switch
+contact closes when the steering lock is released. The steering lock release signal is then sent to the main
+body ECU. Receiving the signal, the ECU permits engine start. (This prevents the engine from being
+started with the steering locked.)
+WIRING DIAGRAM
+Steering Lock Actuator Assembly (Steering Lock ECU) Main Body ECU
+Steering Lock Unlock
+4 18
+Lock Position Position
+SLP1 E51 E7 SLP
+Motor Sensor Sensor
+SR 2
+SGND E51
+C113485E04
+INSPECTION PROCEDURE
+1 INSPECT STEERING LOCK ACTUATOR ASSEMBLY (STEERING LOCK ECU)
+(a) Measure the voltage according to the value(s) in the
+Steering Lock Actuator Assembly:
+table below.
+Standard voltage
+SGND Tester connection
+Condition Specified condition
+(Symbols)
+E51
+1. Engine switch off
+E51-4 (SLP1) - E51-2
+2. Turn the engine Below 1 V
+(SGND)
+SLP1 switch on (ACC or IG)
+OK CHECK PUSH BUTTON START FUNCTION
+C106483E23
+NG

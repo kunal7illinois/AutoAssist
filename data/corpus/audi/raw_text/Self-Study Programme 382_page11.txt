@@ -1,0 +1,39 @@
+Function diagram Wake-up line
+The function diagram is identical to that of data bus
+diagnostic interface as featured on the AudiA3´04.
+The dash panel insert J285 and the data bus
+diagnostic interface J533 can wake each other from
+idle via the bidirectional wake-up line. The dash
+panel insert CAN between the dash panel insert and
+the data bus diagnostic interface is a highspeed
+CAN and, unlike the convenience CAN bus, is not
+wake-up capable via the CAN line.
+Onboard voltage is applied to the wake-up line
+when terminal 15 is "on".
+This wake-up function is required to wake up the
+dash panel insert CAN without "terminal 15 on" after
+the CAN bus has been in idle state.
+For example, to be able to display date, time and
+mileage in the dash panel insert after opening the
+driver's door, but before turning on the ignition.
+382_062
+Transport mode
+The Transport mode, which keeps power Vehicle self-diagnostics
+consumption to a minimum while the vehicle is Services
+being transported, is implemented in the gateway Select diagnostic function
+on the Audi TTCoupé ´07.
+Transport mode can be activated and deactivated Query fault memory - overall system
+Clear fault memory - overall system
+using the diagnostic testers. This can be done both
+Activate Transport mode
+using the Services function in the vehicle self- Deactivate Transport mode
+diagnostics and using the gateway test plan in the
+Guided Functions mode or in the Guided Fault
+Finding mode.
+Goto Print Help
+382_060
+Reference
+For further information on the
+Transport mode, refer to Self-Study
+Programme 312.
+11

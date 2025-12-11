@@ -1,0 +1,28 @@
+BC–93
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+8 CHECK HARNESS AND CONNECTOR (MAIN BODY ECU TO PARKING BRAKE SWITCH)
+(a) Disconnect the main body ECU connector.
+Main Body ECU (b) Measure the resistance according to the value(s) in the
+Wire Harness View: table below.
+Standard resistance:
+Automatic Transaxle
+IC : Automatic Transaxle Tester Connection Specified Condition
+IC-14 - A18-1 (PKB) Below 1 Ω
+A18-1 (PKB) - Body ground 10 kΩ or higher
+Manual Transaxle
+Tester Connection Specified Condition
+IM-2 (PKB) - E33-1 (PKB) Below 1 Ω
+E33-1 (PKB) - Body ground 10 kΩ or higher
+IM : Manual Transaxle
+(c) Connect the connector. BC
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (MAIN BODY ECU TO
+PARKING BRAKE SWITCH)
+Parking Brake Switch Harness Side
+Connector Front View:
+A18 : Automatic
+Transaxle
+E33 : Manual
+Transaxle
+C136418E03
+OK

@@ -1,0 +1,33 @@
+54B-178 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 13. Check the sunroof switch.
+SWITCH TESTER SPECIFIED
+POSITION CONNECTION CONDITION
+OFF 3 − 4 − 5 Open circuit
+UP 3 − 4 Less than 2 ohm
+OPEN 4 − 5 Less than 2 ohm
+CLOSE/DOWN 4 − 6 Less than 2 ohm
+Q:Does the check above meet the table?
+YES : Go to Step 14.
+UP NO : Replace the sunroof switch. The sunroof should work
+normally.
+OPEN
+CLOSE/
+DOWN
+1 2 3 4 5 6
+AC106685AB
+STEP 14. Check the sunroof switch ground circuit at the
+sunroof switch connector D-05.
+(1) Disconnect the sunroof switch connector D-05 and measure
+CONNECTOR: D-05 D-05
+HARNESS SIDE at the harness side.
+6 5 4 3 2 1
+AC106231AF
+(2) Measure the resistance between terminal 4 and ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR D-05 Q:Does the measured resistance value correspond with
+(HARNESS SIDE) this range?
+YES : Go to Step 17.
+6 5 4 3 2 1 NO : Go to Step 15.
+AC102943AB
+TSB Revision

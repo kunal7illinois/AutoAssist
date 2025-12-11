@@ -1,0 +1,44 @@
+ES–172
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+NG
+CHECK ENGINE TO DETERMINE CAUSE OF LOW COMPRESSION
+9 CHANGE NORMAL SPARK PLUG AND CHECK SPARK OF MISFIRING CYLINDER
+(a) Change the installed spark plug to a spark plug that
+functions normally.
+(b) Perform a spark test.
+CAUTION:
+ES Always disconnect all injector connectors.
+NOTICE:
+Do not crank the engine for more than 2 seconds.
+(1) Install the spark plug to the ignition coil and connect
+the ignition coil connector.
+(2) Disconnect the injector connector.
+(3) Ground the spark plug.
+(4) Check if sparks occur while the engine is being
+cranked.
+OK:
+Sparks jump across electrode gap.
+NG REPLACE IGNITION COIL ASSEMBLY THEN
+CONFIRM THAT THERE IS NO MISFIRE
+OK
+REPLACE SPARK PLUG
+10 INSPECT ECM TERMINAL OF MISFIRING CYLINDER (#10, #20, #30, AND /OR #40
+VOLTAGE)
+(a) Disconnect the B30 ECM connector.
+Wire Harness Side:
+(b) Turn the ignition switch ON.
+(c) Measure the voltage between the terminals of the ECM
+connector.
+B30 ECM Connector
+E01 Standard voltage
+Tester Connections Specified Conditions
+B30-108 (#10) - B30-45 (E01) 9 to 14 V
+B30-107 (#20) - B30-45 (E01) 9 to 14 V
+B30-106 (#30) - B30-45 (E01) 9 to 14 V
+B30-105 (#40) - B30-45 (E01) 9 to 14 V
+Front View
+OK Go to step 12
+#30
+#40 #20 #10
+A107892E42
+NG

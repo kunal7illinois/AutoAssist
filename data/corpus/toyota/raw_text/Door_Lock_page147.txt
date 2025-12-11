@@ -1,0 +1,72 @@
+DL–137
+DOOR LOCK – SMART KEY SYSTEM
+5. ENTRY FUNCTION OPERATION
+(a) The smart key system has the following functions:
+Function Outline
+Mechanical Key Operation is same as conventional mechanical key.
+This function remotely locks and unlocks all doors or luggage
+compartment. Operation is same as wireless door lock control system.
+Wireless Door Lock Control
+However, receiver in certification ECU uses entry door control receiver
+to control locking and unlocking.
+When person carrying electrical key enters detection area, door will
+Entry Illumination
+enter unlock standby mode and front map light will illuminate.
+When electrical key is located in detection area of door oscillator, door
+Entry Unlock
+will unlock by touching inside of outside door handle.
+Changes doors that can be unlocked with entry unlock function
+between 2 modes.
+Entry Unlock Mode Switching (See page DL-145)
+• Driver door mode
+• All door mode
+When electrical key is located in detection area of door oscillator and
+Entry Lock engine switch is off, door can be locked by pressing lock switch on
+outside door handle.
+When electrical key is in detection area of luggage compartment outer
+Entry Luggage Compartment Open oscillator, luggage compartment opens by pressing luggage
+compartment open switch.
+This function operates driving position memory system in accordance
+Memory Call
+with electrical key ID code.
+• Prevents confinement of electrical key if door is locked using
+outside door handle while electrical key is still inside vehicle.
+• If all doors are locked and luggage compartment door is closed
+Electrical Key Lock-in Prevention
+while electrical key is still in luggage compartment, warning
+buzzer sounds. If luggage compartment open switch is operated,
+luggage compartment door can be opened.
+When any of situations below occur, smart key system causes
+certification ECU to sound buzzer in combination meter and wireless
+door lock buzzer, and display information in order to alert driver.
+• Exit warning if shift lever position is not P and power source mode
+is not off.
+• Exit warning if shift lever position is P and power source mode is
+Warning not off.
+• Warning if occupant leaves with electrical key.
+• Warning if engine switch is operated while electrical key is outside
+actuation area.
+• Warning if entry lock is operated while electrical key is inside
+vehicle.
+• Warning if electrical key battery is weak.
+If electrical key is constantly located within actuation area of door
+oscillator, system maintains periodic communication with electrical
+Battery Saving
+key. Therefore, if vehicle remains parked in that state for a long time,
+electrical key battery and vehicle battery could be drained.
+DL
+Following electrical key functions can be cancelled by performing
+certain operations:
+• Entry Unlock/Lock
+Key Cancel (See page DL-145) • Memory Call
+• Entry Luggage Compartment Open
+• Electrical key Lock-in Prevention
+• Warning
+The total number of electrical keys that can be registered is seven.
+Electrical Key Code Registration Enables the registration (writing and storing) of transmitter recognition
+codes in the EEPROM that is contained in the certification ECU.
+6. WIRELESS DOOR LOCK AND UNLOCK AND
+LUGGAGE COMPARTMENT OPEN FUNCTION
+Push the LOCK/UNLOCK/PANIC/LUGGAGE
+COMPARTMENT switch on the electrical key to operate
+each function. For details, (See page DL-69).

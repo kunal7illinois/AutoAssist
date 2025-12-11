@@ -1,0 +1,26 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Gauges - Civic (All Except Hybrid)
+2. Turn the ignition switch OFF, and then back ON (II).
+3. Start and run the engine for at least 5 seconds then turn the engine off.
+4. Check for DTCs with the HDS.
+Is DTC B1168, B1169, B1170, B1178, and/or B1187 indicated?
+YES - Go to step 5.
+NO - Intermittent failure, the F-CAN communication line is OK at this time.
+Check for loose or poor connections. If the connections are good, check the
+battery condition (see BATTERY TEST ), and the charging system.
+5. Check for DTCs in the ECM/PCM or ABS/VSA.
+Are any DTCs indicated?
+YES - Troubleshoot the ECM/PCM or ABS/VSA.
+NO - Go to step 6.
+6. Do the Gauge Control Module Input Test (see GAUGE CONTROL
+MODULE (TACH) INPUT TEST ).
+Are all inputs OK?
+YES - Go to step 7.
+NO - Repair the faulty input then recheck for DTCs.
+7. Substitute a known-good gauge control module (tach).
+8. Clear the DTCs with the HDS.
+9. Turn the ignition switch OFF, and then back ON (II).
+10. Start and run the engine for at least 5 seconds then turn the engine off.
+11. Check for DTCs with the HDS.
+Is DTC B1168, B1169, B1170, B1178, and/or B1187 indicated?

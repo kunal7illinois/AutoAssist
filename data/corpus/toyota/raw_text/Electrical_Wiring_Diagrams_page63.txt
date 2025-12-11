@@ -1,0 +1,31 @@
+G ELECTRICAL WIRING ROUTING
+Position of Parts in Seat
+[w/ Power Seat]
+U11 N27 N3 U3 U6 U4 U5 T7 T1 T11 T6 O20 T18 T8 Y1
+U1
+U2
+Z1
+U7
+U8
+T14 T15 T10 T16 T17 T3
+N 3 Front Seat Inner Belt (Driver’s Side) U 1 Power Seat Motor (Driver’s Seat Slide Control)
+N27 Junction Connector U 2 Power Seat Motor (Driver’s Seat Front Vertical Control)
+U 3 Power Seat Motor (Driver’s Seat Reclining Control)
+O20 Junction Connector U 4 Power Seat Motor (Driver’s Seat Lifter Control)
+U 5 Power Seat Motor
+T 1 Power Seat Motor (Driver’s Seat Lumbar Support Control)
+(Front Passenger’s Seat Slide Control) U 6 Seat Heater (LH)
+T 3 Power Seat Motor U 7 Power Seat SW (Driver’s Seat)
+(Front Passenger’s Seat Reclining Control) U 8 Power Seat SW (Driver’s Seat Lumbar Support Control)
+T 6 Seat Heater (RH) U11 Junction Connector
+T 7 Front Seat Inner Belt (Front Passenger’s Side)
+T 8 Power Seat SW (Front Passenger’s Seat) Y 1 Side Airbag Squib (RH)
+T10 Occupant Classification ECU
+T11 Occupant Classification ECU Z 1 Side Airbag Squib (LH)
+T14 Occupant Classification Sensor (Front LH)
+T15 Occupant Classification Sensor (Rear LH)
+T16 Occupant Classification Sensor (Front RH)
+T17 Occupant Classification Sensor (Rear RH)
+T18 Junction Connector
+62
+CAMRY (EM0250U)

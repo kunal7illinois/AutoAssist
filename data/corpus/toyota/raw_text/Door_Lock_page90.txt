@@ -1,0 +1,70 @@
+DL–87
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/ Smart Key System)
+INSPECTION PROCEDURE
+1 CHECK HARNESS AND CONNECTOR (CERTIFICATION ECU - DOOR CONTROL
+RECEIVER)
+(a) Disconnect the E58 certification ECU connector and O18
+Connector Wire Harness Side:
+door control receiver connector.
+(b) Measure the resistance according to the value(s) in the
+Certification ECU
+table below.
+E58
+Standard resistance
+Symbol
+Condition Specified Condition
+(Tester Connection)
+RSSI (E58-39) - RSSI
+Always Below 1 Ω
+(O18-5)
+RDA (E58-38) - DATA
+Always Below 1 Ω
+(O18-3)
+RSSI RDA
+RSSI (E58-39) - RDA
+Always 10 kΩ or higher
+(E58-38)
+Door Control Receiver RSSI (E58-39) - Body
+Always 10 kΩ or higher
+ground
+O18 RDA (E58-38) - Body
+Always 10 kΩ or higher
+ground
+NG REPAIR OR REPLACE HARNESS OR
+DATA
+CONNECTOR
+RSSI
+B139429E02
+OK
+2 INSPECT CERTIFICATION ECU
+(a) Reconnect the E58 ECU connector.
+Connector Wire Harness Side:
+(b) Measure the voltage according to the value(s) in the
+table below.
+Certification ECU
+Standard voltage
+Symbol
+E58 Condition Specified Condition
+(Tester Connection)
+Engine switch OFF, all
+doors closed, the
+Below 1 V
+electrical key is not in DL
+RSSI (E58-39) - E (E58- the actuation area
+17) Engine switch OFF, all
+doors closed, the
+4.6 to 5.4 V
+electrical key is in the
+E RSSI RDA actuation area
+Engine switch OFF, all
+doors closed and
+Below 1 V
+transmitter switch not
+B139430E04
+RDA (E58-38) - E (E58- pressed
+17) Engine switch OFF, all
+doors closed and
+4.6 to 5.4 V
+transmitter switch
+pressed
+NG REPLACE CERTIFICATION ECU

@@ -1,0 +1,27 @@
+13A-44 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the continuity at barometric pressure
+sensor harness side connector B-14.
+(1) Disconnect the connector B-14 and measure at the harness
+B-14 HARNESS
+side.
+SIDE CONNECTOR
+(2) Check for the continuity between terminal 5 and ground.
+7 6 5 4 3 2 1 • Should be less than 2 ohm.
+Q:Is the continuity normal?
+YES : Go to Step 6.
+NO : Go to Step 4.
+AKX01409AC
+STEP 4. Check connector C-53 at ECM <M/T> or connector
+C-50 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-53<M/T>,C-50<A/T>
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 9.
+OR
+PCM<A/T>
+C-50 C-53
+AK000280BK
+TSB Revision

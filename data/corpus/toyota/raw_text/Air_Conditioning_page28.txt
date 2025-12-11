@@ -1,0 +1,53 @@
+AC–28
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+Symptom Suspected area See page
+1. Air mix control servo motor circuit AC-74
+2. Ambient temperature sensor circuit AC-49
+Temperature control: No temperature control (only
+3. Evaporator temperature sensor circuit AC-53
+Max. cool or Max. warm)
+4. A/C control assembly AC-255
+5. A/C amplifier AC-258
+1. Air inlet control servo motor circuit AC-77
+No air inlet control
+2. A/C amplifier AC-258
+1. Air outlet control servo motor circuit AC-79
+No air flow mode control
+2. A/C amplifier AC-258
+1. Air conditioning compressor magnetic clutch circuit (for
+AC-100
+2GR-FSE)
+2. Compressor lock sensor circuit (for 2GR-FSE) AC-61
+3. Compressor solenoid circuit AC-84
+4. Heater control panel power source circuit AC-98
+Engine idle up does not occur, or is continuous
+5. LIN communication circuit AC-118
+6. A/C control assembly AC-255
+7. A/C amplifier AC-258
+8. ECM (for 2AZ-FE) ES-432
+9. ECM (for 2GR-FSE) ES-518
+Diagnostic trouble codes are not recorded. Set mode 1. Back-up power source circuit AC-116
+is cleared when ignition switch is turned OFF. 2. A/C amplifier AC-258
+AUTO A/C:
+Symptom Suspected area See page
+1. IG power source circuit AC-113
+AC
+2. Back-up power source circuit AC-116
+3. Heater control panel power source circuit AC-98
+All functions of the A/C system do not operate 4. LIN communication circuit AC-118
+5. Steering pad switch circuit AC-108
+6. A/C control assembly AC-255
+7. A/C amplifier AC-258
+1. Blower motor circuit AC-91
+2. Heater control panel power source circuit AC-98
+Air Flow Control: No blower operation 3. LIN communication circuit AC-118
+4. A/C control assembly AC-255
+5. A/C amplifier AC-258
+1. Blower motor circuit AC-91
+2. Heater control panel power source circuit AC-98
+Air Flow Control: No blower control 3. LIN communication circuit AC-118
+4. A/C control assembly AC-255
+5. A/C amplifier AC-258
+1. Blower motor circuit AC-91
+Air Flow Control: Insufficient air flow
+2. A/C amplifier AC-258

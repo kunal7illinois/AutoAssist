@@ -1,0 +1,21 @@
+ES–127
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 REPLACE THROTTLE BODY ASSEMBLY
+NEXT
+5 CHECK WHETHER DTC OUTPUT RECURS (THROTTLE POSITION SENSOR DTCS)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Clear DTCs (see page ES-35).
+(d) Start the engine.
+ES
+(e) Allow the engine to idle for 15 seconds or more.
+(f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(g) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+P0120, P0122, P0123, P0220, P0222, P0223, and/or P2135 A
+No output B
+B SYSTEM OK
+A
+REPLACE ECM

@@ -1,0 +1,42 @@
+CA–75
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+4 CHECK FOR OPEN IN CAN BUS MAIN WIRE (NO. 1 CAN J/C - NO. 2 CAN J/C)
+(a) Reconnect the CAN main bus wire connector (E42) to
+No. 2 CAN J/C Connector (Rear of the
+the No. 1 CAN J/C "A" side (with earth terminal).
+Vehicle) Wire Harness Side View:
+(b) Disconnect the CAN main bus wire connector (E41) from
+the No. 2 CAN J/C (rear of the vehicle).
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Front Tester Connection Condition Specified Value
+E42-4 (CANH) - E42-10
+Ignition switch off 108 to 132 Ω
+(CANL)
+NG REPAIR OR REPLACE CAN BUS MAIN WIRE
+OR CONNECTOR (NO. 1 CAN J/C - NO. 2
+CAN J/C)
+E41 CANH
+CA
+CANL
+C133246E01
+OK
+5 CHECK FOR OPEN IN CAN BUS MAIN WIRE (NO. 2 CAN J/C)
+(a) Reconnect the CAN main bus wire connector (E41) to
+No. 2 CAN J/C Connector (Front of the the No. 2 CAN J/C (rear of the vehicle).
+Vehicle) Wire Harness Side View:
+(b) Disconnect the CAN main bus wire connector (A40) from
+the No. 2 CAN J/C (front of the vehicle).
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Value
+A40-1 (CANH) - A40-7 (CANL) Ignition switch off 108 to 132 Ω
+OK REPLACE NO. 2 CAN J/C
+Front
+CANH
+A40
+CANL
+C133245E04
+NG

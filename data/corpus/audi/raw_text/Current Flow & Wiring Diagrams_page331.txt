@@ -1,0 +1,41 @@
+Audi TT No. 42 / 11
+Current Flow Diagram
+Engine control unit, engine speed sender, exhaust gas
+recirculation potentiometer, position sender for charge
+pressure positioner
+G28 Engine speed sender
+G212 Exhaust gas recirculation potentiometer
+G581 Position sender for charge pressure positioner
+J623 Engine control unit
+N18 Exhaust gas recirculation valve
+T6s 6-pin connector, grey, on exhaust gas recirculation
+potentiometer
+T60 60-pin connector, on engine control unit
+220 Earth connection (sender earth), in engine wiring harness
+D174 Connection 2 (5V), in engine wiring harness
+J623
+T60/53 T60/52 T60/4 T60/57 T60/19 T60/58
+0,35 0,35 1,0 0,35 1,0 0,5
+br/ge ge/ro br/ws li/gn bl/ws bl/gr
+D174
+D174
+220
+220
+0,35 0,35 0,35 0,35 0,5 0,5
+ge/sw br/ge sw br/ge br/ge sw
++ M-- -- S M+
+1/+ 2/S 3/-- T6s/1 T6s/2 T6s/3 T6s/5 T6s/6 1/-- 2/S 3/+
+ws = white
+G28 G212 N18 G581
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+127 128 129 130 131 132 133 134 135 136 137 138 139 140 or = orange
+8J0-042110409
+rs = pink
+Edition 09.2009

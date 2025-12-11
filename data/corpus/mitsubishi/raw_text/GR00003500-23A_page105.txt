@@ -1,0 +1,39 @@
+AUTOMATIC TRANSAXLE 23A-105
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 5. Check the sensor output voltage at PCM
+connector C-61 <2.4L Engine> or C-63 <3.0L Engine> by
+backprobing.
+(1) Do not disconnect connector C-61 <2.4L Engine> or C-63
+CONNECTOR: C-61 <2.4L ENGINE> OR
+<3.0L Engine>.
+C-63 <3.0L ENGINE>
+(2) Disconnect connector B-42 at the input shaft speed sensor.
+PCM (3) Turn the ignition switch to the "ON" position.
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+(4) Measure the voltage between terminal 103 and ground by
+backprobing.
+• Voltage should be between 4.5 and 4.9 volts.
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 8.
+NO : Go to Step 6.
+C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE>
+CONNECTOR HARNESS
+SIDE VIEW
+AC001810AD
+STEP 6. Check connectors C-61 <2.4L Engine> or C-63
+<3.0L Engine> at PCM and B-42 at input shaft speed
+sensor for damage.
+Q:Are the connectors in good condition?
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE> YES : Go to Step 7.
+NO : Repair or replace the defective connector(s). Refer to
+PCM GROUP 00E, Harness Connector Inspection P.00E-
+2.
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+CONNECTOR: B-42 B-42
+AC001835AH
+TSB Revision

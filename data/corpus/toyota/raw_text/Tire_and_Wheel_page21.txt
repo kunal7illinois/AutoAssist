@@ -1,0 +1,44 @@
+TW–21
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+(d) Wait for 2 or 3 minutes with the ignition switch on
+DLC3:
+CG (IG).
+NOTICE:
+• The initialization is normally completed
+1 2 3 4 5 6 7 8 within 2 to 3 minutes.
+• If the initialization has not been completed
+9 10 11 12 13 14 15 16 successfully, DTC C2177/77 is set
+approximately 20 minutes.
+• The initialization can be terminated by
+TC
+making a short circuit between terminals TC
+F100115E55
+and CG of the DLC3 connector.
+(e) Confirm that the initialization has been completed
+using the intelligent tester.
+(1) Change the mode to test mode using intelligent
+tester and check that test DTCs have been
+stored.
+• The test DTCs will not be indicated until the TW
+system initialization is complete.
+• After the initialization has been completed
+successfully, the test DTCs (C2181/81 to
+C2191/91) are indicated.
+NOTICE:
+The following operations can be used
+instead of above procedure
+1. Turn the ignition switch from off to on (IG).
+2. Monitor the tire pressure values of all the
+wheels using intelligent tester.
+3. If the tire pressure values cannot be
+displayed on the intelligent tester screen,
+the initialization has failed.
+4. It takes 2 to 3 minutes to display the tire
+pressure data.
+HINT:
+• In winter, as the tire pressure may decrease
+depending on the ambient temperature,
+increase the tire pressure by 20 to 30 kPa
+(0.2 to 0.3 kgf/cm2, 2.9 to 4.3 psi) above the
+specified value after confirmation that the
+initialization has been completed.

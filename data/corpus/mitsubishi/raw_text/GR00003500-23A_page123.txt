@@ -1,0 +1,38 @@
+AUTOMATIC TRANSAXLE 23A-123
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 12. Check the sensor output voltage at output shaft
+speed sensor connector B-38.
+(1) Disconnect connector B-38 and measure at the harness
+CONNECTOR: B-38
+side.
+(2) Turn the ignition switch to the "ON" position.
+B-38
+AC001837AI
+(3) Measure the voltage between terminal 2 and ground.
+• Voltage should be between 4.5 and 4.9 volts.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+HARNESS
+CONNECTOR: B-38 Q:Is the voltage normal?
+YES : Go to Step 13.
+NO : Repair harness open circuit between output shaft
+speed sensor connector B-38 terminal 2 and PCM
+connector C-61 <2.4L Engine> or C-63 <3.0L
+Engine> terminal 104.
+ACX02135AE
+STEP 13. Check the power supply voltage at output shaft
+speed sensor connector B-38.
+(1) Disconnect connector B-38 and measure at the harness
+CONNECTOR: B-38
+side.
+(2) Turn the ignition switch to the "ON" position.
+B-38
+AC001837AI
+(3) Measure the voltage between terminal 3 and ground.
+• Voltage should be battery positive voltage.
+HARNESS (4) Turn the ignition switch to the "LOCK" (OFF) position.
+CONNECTOR: B-38
+Q:Is the voltage normal?
+YES : Go to Step 15.
+NO : Go to Step 14.
+ACX02134AE
+TSB Revision

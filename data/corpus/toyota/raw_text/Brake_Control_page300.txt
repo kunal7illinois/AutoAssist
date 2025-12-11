@@ -1,0 +1,39 @@
+BC–289
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 CUSTOMER PROBLEM ANALYSIS
+(a) Interview the customer to confirm the trouble.
+NEXT
+3 CHECK CAN COMMUNICATION SYSTEM
+BC
+(a) Check for DTCs (See page BC-302).
+HINT:
+The skid control ECU is connected to the CAN
+communication system.
+Therefore, before starting troubleshooting, make sure to
+check that there is no trouble in the CAN communication
+system.
+Result
+Result Proceed to
+DTC is not output A
+DTC is output B
+B CHECK CAN COMMUNICATION CIRCUIT
+A
+4 CHECK DTC AND FREEZE FRAME DATA
+(a) Check for DTCs and Freeze Frame Data (See page BC-
+302 for DTC Check / Clear, BC-305 for Freeze Frame
+Data).
+(1) Record the DTCs and Freeze Frame Data.
+(b) Clear the DTCs.
+(c) Recheck for DTCs.
+(1) Reproduce the malfunction and check if the DTCs
+are output again.
+Result
+Result Proceed to
+DTC is output A
+DTC is not output (Problem symptom does not occur) B
+DTC is not output (Problem symptom occurs) C
+B GO TO STEP 9

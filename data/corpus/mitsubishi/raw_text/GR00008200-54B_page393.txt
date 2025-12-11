@@ -1,0 +1,38 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-393
+SYMPTOM PROCEDURES
+STEP 13. Check the wiring harness between fog light relay
+connector A-04X (terminal 4) and fog light (RH) connector
+A-31 (terminal 1).
+NOTE: Also check intermediate connector C-06. If intermediate
+CONNECTOR: A-04X
+connectors C-06 is damaged, repair or replace the connector
+as described in GROUP 00E, Harness Connector Inspection
+FRONT-ECU P.00E-2.
+DEVICE SIDE
+A-04X
+1 2
+X
+3 4
+AC106537AG
+CONNECTOR: A-31
+DEVICE SIDE
+1 2
+AC106465AH
+Q:Is the wiring harness between fog light relay connector
+CONNECTOR: C-06
+A-04X (terminal 4) and fog light (RH) connector A-31
+HARNESS SIDE
+(terminal 1) in good condition?
+1 2 3 4 5 6 7 8
+9101112131415161718 YES : No action to be taken.
+NO : Repair the wiring harness. Check that the fog lights
+illuminate normally.
+AC106473AF
+STEP 14. Check the fog light indicator light bulb.
+(1) Remove the fog light indicator light bulb.
+(2) Check that the fog light indicator light bulb is not broken.
+Q:Is the fog light indicator light bulb in good condition?
+YES : Go to Step 15.
+NO : Replace the fog light indicator light bulb. Check that
+the fog light indicator light illuminates normally.
+TSB Revision

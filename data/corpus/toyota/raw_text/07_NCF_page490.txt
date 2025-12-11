@@ -1,0 +1,30 @@
+BE-156 BODY ELECTRICAL - SRS AIRBAG SYSTEM
+(cid:3)IMPROPER CONNECTION PREVENTION LOCK MECHANISM
+(cid:1) This improper connection prevention lock mechanism consists of the airbag sensor assembly and the
+holder.
+(cid:1) The airbag sensor assembly has a connector lock pin.
+(cid:1) The holder has a lever with a lock groove. The holder and the connectors are locked via a retainer and a
+lance.
+Lever
+Holder
+Lance
+Retainer
+264BE45
+(cid:1) When connecting the holder and connectors to the airbag sensor assembly, the lever is pushed into position
+end by rotating it around the axis of the connector lock pin in order to lock the holder securely.
+Axis
+Lever
+264BE46
+(cid:3)AIRBAG SENSOR ASSEMBLY
+(cid:1) It reaches a deploy judgment to deploy the dual stage driver’s and front passenger’s airbags, driver’s knee
+airbag, and pretensioners based on the signals received from the front airbag sensor and the airbag sensor
+assembly. In addition, it can reach a deploy judgment to deploy the SRS side airbags and SRS curtain shield
+airbags based on signals received from the side & curtain shield airbag sensors and curtain shield airbag
+sensors. Furthermore, it is equipped with a diagnosis function to perform self-diagnosis in case of system
+malfunctions.
+(cid:1) Each signal is transmitted as follows:
+Target ECU Signal Communication path
+ECM Fuel Cut Signal CAN communication circuit
+SRS Warning Light ON Demand Signal
+Combination Meter Driver Seat Belt Remainder Light ON Demand CAN communication circuit
+Signal

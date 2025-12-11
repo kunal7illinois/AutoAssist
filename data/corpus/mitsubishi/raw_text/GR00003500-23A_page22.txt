@@ -1,0 +1,65 @@
+23A-22 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP CONDITION BEFORE TEST/OPERATION STANDARD INSPECTION DTC INSPECTION
+TEST/OPERATION ITEM PROCEDURE
+PAGE
+6 Selector lever Selector lever position and Data list No. 63 Shift - -
+position: N vehicle speed (Each (2) 1st, (3) 2nd, position
+<Vehicles condition should be (4) 3rd, (5) 4th
+without sport maintained for 10 seconds
+Data list No. 31 Low- 31 Low-reverse
+mode>, Sport or more.)
+(2) 0 %, (3) 100 reverse solenoid valve
+mode <Vehicles (1) Idling in 1st gear
+%, (4) 100 %, (5) solenoid system (P.23A-
+with sport (Vehicle stopped)
+100 % valve duty 180.)
+mode> (on a flat (2) Driving at constant
+%
+and straight speed of 10 km/h (6.2
+Data list No. 32 Underdrive 32 Underdrive
+road) mph) in 1st gear
+(2) 0 %, (3) 0 %, solenoid solenoid valve
+(3) Driving at constant
+(4) 0 %, (5) 100 valve duty system (P.23A-
+speed of 30 km/h (19 mph)
+% % 188.)
+in 2nd gear
+(4) Driving at constant Data list No. 33 Second 33 Second
+speed of 50 km/h (31 mph) (2)100 %, (3) 0 solenoid solenoid valve
+in 3rd gear %, (4) 100 %, (5) valve duty system (P.23A-
+(5) Driving at constant 0 % % 195.)
+speed of 50 km/h (31 mph) Data list No. 34 Overdrive 34 Overdrive
+in 4th gear (2) 100 %, (3) solenoid solenoid valve
+100 %, (4) 0 %, valve duty system (P.23A-
+(5) 0 % % 202.)
+Data list No. 29 Vehicle - Vehicle speed
+(1) 0 km/h (0 speed signal system
+mph) signal (P.23A-295.)
+(4) 50 km/h (31
+mph)
+Data list No. 22 Input shaft 22 Input shaft
+(4) 1,600 − 1,900 speed speed sensor
+r/min <2.4L sensor system (P.23A-
+Engine> 101.)
+1,300 − 1,600 r/
+min <3.0L
+Engine>
+Data list No. 23 Output 23 Output shaft
+(4) 1,600 − 1,900 shaft speed speed sensor
+r/min <2.4L sensor system (P.23A-
+Engine> 115.)
+1,300 − 1,600 r/
+min <3.0L
+Engine>
+7 Selector lever Selector lever position and Data list No. 36 Torque 36, Torque
+position: 3 vehicle speed (2) 70 − 90 % converter 52, converter
+<Vehicles (1) Driving at speed of 50 (3) 70 − 90 % → clutch 53 clutch solenoid
+without sport km/h (31 mph) in 3rd gear 0 % solenoid system (P.23A-
+mode>, sport (2) Driving at constant valve duty 209, P.23A-
+mode <Vehicles speed of 50 km/h (31 mph) % 226, P.23A-
+without sport (3) Release accelerator 231.)
+mode> (on a flat pedal (Speed under 50 km/
+and straight h (31 mph)
+road)
+TSB Revision

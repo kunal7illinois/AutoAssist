@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+Does the screen indicate PASSED?
+YES -Troubleshooting is complete. If any other Temporary DTCs or DTCs
+were indicated in step 25, go to the indicated DTC's troubleshooting.
+NO -If the screen indicates FAILED, check for poor connections or loose
+terminals at the fuel rail pressure sensor and the PCM, then go to step 1. If the
+screen indicates EXECUTING, keep driving until a result comes on. If the
+screen indicates OUT OF CONDITION, go to step 23.
+DTC P0192: FUEL RAIL PRESSURE SENSOR CIRCUIT LOW VOLTAGE
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Turn the ignition switch ON (II).
+2. Check the FUEL RAIL PRESSURE SENSOR in the DATA LIST with the
+HDS.
+Is there about 0.23 V or less?
+YES -Go to step 3.
+NO -Intermittent failure, the system is OK at this time. Check for poor
+connections or loose terminals at the fuel rail pressure sensor and the PCM.
+3. Turn the ignition switch OFF.
+4. Disconnect the fuel rail pressure sensor 3P connector.
+5. Turn the ignition switch ON (II).
+6. Check the FUEL RAIL PRESSURE SENSOR in the DATA LIST with the
+HDS.
+Is there about 0.23 V or less?
+YES -Go to step 8.

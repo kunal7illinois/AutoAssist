@@ -1,0 +1,41 @@
+13B-596 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 11. Using scan tool MB991502, check data list item
+69: Right Bank Heated oxygen sensor (rear).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+69, Right Bank Heated Oxygen Sensor (rear).
+16 PIN • Average voltage should be 0.6 volt or less, when idling.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AKX01177AB Q:Is the sensor operating properly?
+YES : Go to Step 16.
+NO : Replace the right bank heated oxygen sensor (front).
+Then confirm that the malfunction symptom is
+eliminated.
+STEP 12. Using scan tool MB991502, check data list item
+11: Left Bank Heated oxygen sensor (front).
+(1) Start the engine and run at idle.
+(2) Set scan tool MB991502 to the data reading mode for item
+11, Left Bank Heated Oxygen Sensor (front).
+• Warm up the engine. When the engine is decelerated
+suddenly from 4,000 r/min, the output voltage should
+increase from 200 mV or less to 600 − 1,000 mV in a
+few seconds.
+16 PIN (3) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 Q:Is the sensor operating properly?
+AKX01177AB YES : Go to Step 13.
+NO : Go to Step 15.
+STEP 13. Check the EGR system.
+Refer to GROUP 17, Emission Control System − EGR System
+Check P.17-106.
+Q:Is the EGR system normal?
+YES : Go to Step 14.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+TSB Revision

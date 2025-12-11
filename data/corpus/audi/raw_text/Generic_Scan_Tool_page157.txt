@@ -1,0 +1,49 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Dynamic test Specified value
+min. max.
+Reduced threshold upon suspicion of malfunction in catalytic con‐ 0.399 V ---
+verter
+If the specified value was obtained:
+– Switch the ignition OFF. Generate the readiness code.
+If the specified value was Not obtained:
+Checking primary voltage
+– Disconnect the Heated Oxygen Sensor (HO2S) -G39- electri‐
+cal harness connector.
+– Using a multimeter, connect the negative lead to engine
+ground. Check the Heated Oxygen Sensor (HO2S) -G39-
+electrical harness connector terminals 1,2,5, and 6 for voltage.
+Specified value: 2.40 V - 3.10 V
+– Switch the ignition OFF.
+If the specified value was obtained:
+– Replace the Heated Oxygen Sensor (HO2S) -G39- .
+If the specified value was Not obtained:
+Checking wiring
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Using a multimeter, check the Heated Oxygen Sensor (HO2S)
+-G39- electrical harness connector terminals to the Engine
+Control Module (ECM) -J623- electrical harness connector
+T94 terminals for an open circuit. Refer to Wiring Diagrams for
+pin locations.
+Heated Oxygen Sensor Engine Control Module (ECM) -J623-
+(HO2S) -G39- electrical electrical connector T94 terminals or
+harness connector ter‐ test box sockets
+minals
+1 60
+2 61
+5 81
+6 82
+Specified value: 1.5 Ω Max.
+If the specified value was Not obtained:
+– Check the wiring for an open, high resistance, short circuit to
+each other, Battery (+) or Ground.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken termin als.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is found in the wiring and the voltage was Not
+OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual .
+153
+3. Diagnosis and Testing

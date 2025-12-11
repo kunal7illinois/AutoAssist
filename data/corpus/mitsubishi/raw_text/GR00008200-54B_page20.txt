@@ -1,0 +1,44 @@
+54B-20 SIMPLIFIED WIRING SYSTEM (SWS)
+DEFECTS FOUND DURING INPUT SIGNAL CHECK
+SYSTEM SYMPTOM INSPECTION REFERENCE
+PROCEDURE PAGE
+Fog light General description concerning the foglights − P.54B-375
+Fog lights do not illuminate when the fog light L-1 P.54B-377
+switch is turned on.
+The fog lights does not go out when the L-2 P.54B-385
+headlight switch is turned off.
+One of the fog lights does not illuminate. L-3 P.54B-386
+Interior light General description concerning the interior light − P.54B-397
+The dome light and luggage compartment light M-1 P.54B-400
+do not illuminate or turn off normally.
+The dome light or luggage compartment light do M-2 P.54B-404
+not illuminate or turn off normally.
+Dome light dimming function does not work M-3 P.54B-428
+normally.
+Interior light automatic shutoff function does not M-4 P.54B-431
+work normally.
+Theft-alarm system General description concerning the theft-alarm − P.54B-435
+system
+Theft-alarm system is not armed (theft-alarm N-1 P.54B-439
+indicator light does not illuminate).
+Horn does not sound when the theft-alarm is N-2 P.54B-449
+triggered.
+Headlights (high-beam) do not flash when the N-3 P.54B-464
+theft-alarm system is triggered.
+Panic alarm function does not work. N-4 P.54B-464
+DEFECTS FOUND DURING INPUT SIGNAL CHECK
+M1549017700162
+<SWS monitor>
+If a problem is found in the Service Data inspection,
+observe the table below.
+SYMPTOM INSPECTION REFERENCE
+PROCEDURE PAGE
+ETACS-ECU does not receive a signal from the ignition switch (ACC). O-1 P.54B-466
+ETACS-ECU does not receive a signal from the ignition switch (IG1). O-2 P.54B-469
+ETACS-ECU does not receive a signal from the fog light switch. O-3 P.54B-472
+The backup light switch signal is not sent to the ETACS-ECU. <M/T> O-4 P.54B-476
+ETACS-ECU does not receive "R" position signal from the park/neutral O-5 P.54B-486
+position switch. <A/T>
+ETACS-ECU does not receive a signal from the driver’s or front O-6 P.54B-502
+passenger’s door switch.
+TSB Revision

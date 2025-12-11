@@ -1,0 +1,23 @@
+EG-58 ENGINE - 2AZ-FE ENGINE
+9. Fuel Pump Control
+A fuel cut control is used to stop the fuel pump once when any of the SRS airbags is deployed. In this system,
+the airbag deployment signal from the airbag sensor assembly is detected by the ECM, and it turns OFF the
+circuit opening relay. After the fuel cut control has been activated, turning the ignition switch from OFF to
+ON cancels the fuel cut control, and the engine can be restarted.
+Side and
+Curtain Shield
+Airbag Sensor
+(RH or LH) EFI Main
+Ignition Switch
+Relay
+Circuit
+CAN
+Front Airbag Airbag (CAN No.1 Bus) Opening
+Sensors Sensor ECM Relay
+(RH and LH) Assembly
+Fuel Pump
+Motor
+Curtain Shield
+Airbag Sensor
+(RH or LH)
+01YEG13TE

@@ -1,0 +1,39 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Navigation System - Civic (Except Hybrid)
+shows the vehicle position on the map. Touch this icon to
+VP show the latitude, longitude, and elevation of your current
+position.
+Voice Recognition. This allows voice control of many of the
+navigation functions. The hardware consists of the
+VR
+microphone, steering wheel (TALK/BACK) buttons, and the
+front speakers. See the overview for more information.
+Vehicle Speed Pulse. This pulse signal coming from the
+ECM/PCM is used to update the Vehicle position on the
+map. These pulses do not indicate direction (forward or
+VSP
+backward). When in reverse, the navigation receives a signal
+from the MICU and directs the VP to move backwards on the
+map.
+Vehicle Speed Signal. The counter shaft speed sensor reads
+the output shaft speed at the transmission and provides a
+VSS
+speed pulse to the ECM/PCM. The ECM/PCM sends this
+pulse to the navigation system.
+XM Satellite A satellite band radio system where signals are received from
+Radio either a satellite or land based transmitters.
+This device is located in the navigation system control unit
+and senses the side-to-side twisting force generated when the
+Yaw Sensor
+vehicle turns. See a detailed description of how this sensor
+works in this article.
+Diagnostic System Diagram
+This diagram below shows an overview of the navigation diagnostic features
+starting at the center and working outward in layers. The diagram starts with "Key
+On." Next the diagram shows two ways to get the diagnostic main menu:
+From any of the navigation Map or Menu screens, press and simultaneously hold
+the keys Menu Map Cancel.
+Finally, the diagram shows the available diagnostic menu choices, starting at the
+bottom left, and moving clockwise. In most cases, do not clear or change settings in
+any diagnostic screen unless instructed to do so in the explanation, or by the

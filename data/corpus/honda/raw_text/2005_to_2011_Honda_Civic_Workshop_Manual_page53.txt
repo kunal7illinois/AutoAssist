@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+7. Compare the voltage noted in step 5 to the voltage in step 6.
+Is the difference between the two voltage readings less then 3 V?
+YES - Intermittent failure, the system is OK at this time. Check for loose
+terminals at the ABS modulator-control unit 25P connector. Refer to
+INTERMITTENT FAILURES TROUBLESHOOTING . If the code resets
+after clearing, replace the ABS modulator-control unit: Except Si model (see
+REMOVAL - EXCEPT SI MODEL ), Si model (see REMOVAL - SI
+MODEL ).
+NO - Check for loose terminals in the ABS modulator-control unit 25P
+connector. If necessary, substitute a known-good ABS modulator-control unit:
+Except Si model (see REMOVAL - EXCEPT SI MODEL ), Si model (see
+REMOVAL - SI MODEL ), and retest.
+8. Turn the ignition switch to LOCK (0).
+9. Disconnect the ABS modulator-control unit 25P connector.
+10. Measure voltage between ABS modulator-control unit 25P connector terminal
+No. 8 and body ground.
+Fig. 25: Measuring Voltage Between ABS Modulator-Control Unit 25P
+Connector Terminal No. 8 And Body Ground
+Is there battery voltage?
+YES - Go to step 11.
+NO - Repair open in the wire between the No. 3 FSR (30 A) fuse in the under-

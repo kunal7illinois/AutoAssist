@@ -1,0 +1,32 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-201
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Check the continuity at fuel temperature sensor
+harness side connector D-17.
+(1) Disconnect the connector D-17 and measure at the harness
+side.
+(2) Check for the continuity between terminal 1 and ground.
+D-17 HARNESS • Should be less than 2 ohm.
+SIDE CONNECTOR
+Q:Is the continuity normal?
+33 22 11
+55 44 YES : Go to Step 5.
+NO : Repair harness wire between fuel temperature sensor
+connector D-17 terminal 1 and ground because of
+open circuit or harness damage. Then go to Step 12.
+AK101375AB
+STEP 5. Check the sensor supply voltage at fuel
+temperature sensor harness side connector D-17.
+(1) Disconnect the connector D-17 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 3 and ground.
+D-17 HARNESS • Voltage should be between 4.5 and 4.9 volts
+SIDE CONNECTOR
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+33 22 11
+Q:Is the voltage normal?
+55 44
+YES : Go to Step 6.
+NO : Go to Step 10.
+AK101376AB
+TSB Revision

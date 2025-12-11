@@ -1,0 +1,40 @@
+13B-242 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Check connector A-18X at the MFI relay for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-18X
+YES : Repair harness wire between MFI relay connector A-
+MFI RELAY 18X terminal 4 and left bank heated oxygen sensor
+(rear) connector B-23 terminal 1 because of open
+circuit or short circuit to ground. Then go to Step 12.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+AK101363AB
+STEP 5. Check the power supply voltage at ECM connector
+C-51 <M/T> or PCM connector C-52 <A/T> by backprobing.
+(1) Do not disconnect the connector C-51 <M/T> or C-52 <A/
+T>.
+(2) Turn the ignition switch to the "ON" position.
+C-51<M/T>, C-52<A/T> (3) Measure the voltage between terminal 26 and ground by
+CONNECTOR HARNESS backprobing.
+SIDE VIEW
+• Voltage should be battery positive voltage.
+1 2 3 4 5 6 7 8
+9 10 11121314151617181920212223 (4) Turn the ignition switch to the "LOCK" (OFF) position.
+24 25 26272829 30313233 3435
+Q:Is the voltage normal?
+YES : Go to Step 8.
+NO : Go to Step 6.
+AAKKXX0011554433AF
+STEP 6. Check connector C-51 at ECM <M/T> or connector
+C-52 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-51<M/T>, C-52<A/T>
+YES : Go to Step 7.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 12.
+C-52 C-51
+AK000225AJ
+TSB Revision

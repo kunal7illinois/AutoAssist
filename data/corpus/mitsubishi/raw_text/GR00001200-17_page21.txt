@@ -1,0 +1,36 @@
+ENGINE AND EMISSION CONTROL 17-21
+AUTO-CRUISE CONTROL
+CIRCUIT OPERATION .
+TROUBLESHOOTING HINTS
+This circuit checks the vehicle speed signal. When
+The most likely causes for this code to be set are:
+the vehicle moves forward and reverses, the sensor • Malfunction of the output shaft speed sensor.
+turns ON and OFF repeatedly. • Damaged harness or connector.
+• Malfunction of the PCM.
+.
+DTC SET CONDITIONS • Malfunction of the auto-cruise control-ECU.
+The vehicle speed signals from the PCM are not
+input to the auto-cruise control-ECU when the vehi-
+cle speed is 40 km/h (25 mph) or more.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+STEP 1. Check the speedometer.
+Q:Does the speedometer work normally?
+YES : Go to Step 2.
+NO : Check the speedometer circuit and repair or replace
+as required.
+(Refer to GROUP 54A, Combination Meter Assembly
+and Vehicle Speed Sensor P.54A-40.)
+STEP 2. Check joint connector (1) C-77.
+Q:Is the connector damaged?
+CONNECTOR: C-77
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that diagnostic trouble code 12 is not
+output.
+NO : Go to Step 3.
+AC101196AC
+TSB Revision

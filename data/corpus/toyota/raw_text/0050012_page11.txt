@@ -1,0 +1,51 @@
+ES–68
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Trouble Areas MIL Memory See page
+P2401 Evaporative Emission - Canister pump Comes on DTC stored ES-312
+Leak Detection Pump module (Reference
+Stuck OFF orifice, leak detection
+pump, vent valve)
+- Connector/wire
+harness (Canister
+pump module - ECM)
+- EVAP system hose
+(pipe from air inlet
+port to canister pump
+module, canister
+filter, fuel tank vent
+hose)
+- ECM
+ES P2402 Evaporative Emission - Same as DTC Comes on DTC stored ES-312
+Leak Detection Pump P2401
+Stuck ON
+P2419 Evaporative Emission - Canister pump Comes on DTC stored ES-318
+System Switching module (Reference
+Valve Control Circuit orifice, leak detection
+Low pump, vent valve)
+- Connector/wire
+harness (Canister
+pump module - ECM)
+- EVAP system hose
+(pipe from air inlet
+port to canister pump
+module, canister
+filter, fuel tank vent
+hose)
+- ECM
+P2420 Evaporative Emission - Canister pump Comes on DTC stored ES-318
+System Switching module (Reference
+Valve Control Circuit orifice, leak detection
+High pump, vent valve)
+- Connector/wire
+harness (Canister
+pump module - ECM)
+- ECM
+P2610 ECM / PCM Internal - ECM Comes on DTC stored ES-324
+Engine Off Timer
+Performance
+P2A00 A/F Sensor Circuit - Open or short in A/F Comes on DTC stored ES-326
+Slow Response sensor circuit
+(Bank 1 Sensor 1) - A/F sensor
+- ECM
+HINT:
+*: MIL flashes when a catalyst damaged misfire is detected.

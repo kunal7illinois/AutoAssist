@@ -1,0 +1,47 @@
+BC–101
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+4. DTC PRECAUTION
+(a) Warnings for some DTCs cannot be cleared only by
+repairing the malfunctioning parts. If the warning is
+displayed after repair work, the DTC should be
+cleared after turning the ignition switch off.
+NOTICE:
+If a DTC for a malfunctioning part reappears
+after it was cleared, then it has been stored
+again.
+5. CHASSIS DYNAMOMETER PRECAUTION
+(a) Enter Test Mode to disable TRAC and VSC control
+when using a chassis dynamometer.
+HINT:
+The vehicle may move unexpectedly out of the
+dynamometer because of TRAC and VSC
+operations.
+NOTICE:
+• Make sure that the VSC warning light is
+BC
+blinking (for vehicles without the multi
+information display) or "CHECK VSC
+SYSTEM" is displayed on the multi
+information display (for vehicles with the
+multi information display) (Test Mode is
+achieved).
+• Secure the vehicle with the lock chain for
+safety.
+6. CAN COMMUNICATION SYSTEM PRECAUTIONS
+(a) The CAN communication system is used for the
+data communication between the skid control ECU,
+the steering angle sensor, the yaw rate sensor
+(acceleration sensor included) and other ECUs. If
+there is trouble in the CAN communication line,
+corresponding DTCs in the communication line are
+output.
+(b) If the DTC in the CAN communication line is output,
+repair the malfunction in the communication line and
+troubleshoot the VSC system while data
+communication is normal.
+(c) In order to enable CAN communication, a specific
+type of wiring is used for the CAN communication
+lines. The wiring used for each communication line
+is a twisted pair of wires that have an equal length.
+A bypass wire should not be used, because the data
+being transmitted will be corrupted.

@@ -1,0 +1,27 @@
+ES–140
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+9 CHECK HARNESS AND CONNECTOR (MASS AIR FLOW METER - ECM)
+(a) Disconnect the C2 MAF meter connector.
+Wire Harness Side:
+(b) Disconnect the C55 ECM connector.
+(c) Measure the resistance between the terminals.
+MAF Meter Connector Standard resistance (Check for open)
+Tester Connection Specified Condition
+C2
+VG (C55-72) - VG (C2-5) Below 1 Ω
+E2G (C55-73) - E2G (C2-4) Below 1 Ω
+Standard resistance (Check for short)
+E2G VG
+Tester Connection Specified Condition
+ES VG (C55-72) or VG (C2-5) - Body ground 10 kΩ or higher
+ECM Connector
+C55
+E2G (C55-73) or E2G (C2-4) - Body ground 10 kΩ or higher
+(d) Reconnect the MAF meter connector.
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+VG E2G
+A127959E13
+OK
+REPLACE ECM (See page ES-518)

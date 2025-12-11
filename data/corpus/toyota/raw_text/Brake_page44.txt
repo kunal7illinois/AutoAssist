@@ -1,0 +1,56 @@
+BC–44
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+Right Rear Wheel Speed Sensor Signal Mal-
+DTC C0210/33
+function
+Left Rear Wheel Speed Sensor Signal Malfunc-
+DTC C0215/34
+tion
+Low Output Signal of Rear Speed Sensor RH
+DTC C1273/73
+(Test Mode DTC)
+Low Output Signal of Rear Speed Sensor LH
+DTC C1274/74
+(Test Mode DTC)
+Abnormal Change in Output Signal of Rear
+DTC C1277/77
+BC Speed Sensor RH (Test Mode DTC)
+Abnormal Change in Output Signal of Rear
+DTC C1278/78
+Speed Sensor LH (Test Mode DTC)
+DTC C1332/38 Right Rear Speed Sensor Circuit
+DTC C1333/39 Left Rear Speed Sensor Circuit
+DESCRIPTION
+Refer to DTCs C0200/31, C0205/32, C1330/35, and C1331/36 (See page BC-30).
+DTCs from C1273/73 to C1278/78 can be deleted when the speed sensor sends a vehicle speed signal or
+the test mode ends. DTCs from C1273/73 to C1278/78 are output only in the test mode.
+DTC No. DTC Detecting Condition Trouble Area
+When either of the following is detected:
+• Rear speed sensor RH and/or LH
+• Vehicle speed is more than 25 mph (40 km/h), and
+• Rear speed sensor circuit RH and/or LH
+C0210/33 pulses are not input for 0.03 sec.
+• Rear speed sensor rotor RH and/or LH
+C0215/34 • When the vehicle speed has reached 8 mph (12
+• Sensor installation
+km/h), after the initial start or restart a wheel speed
+• Brake actuator assembly (skid control ECU)
+of 0 mph (0 km/h) is detected.
+• Rear speed sensor RH and/or LH
+C1332/38 Abnormality in the resistance value of each speed
+• Rear speed sensor circuit RH and/or LH
+C1333/39 sensor is detected.
+• Sensor installation
+• Rear speed sensor
+C1273/73
+Detected only during test mode. • Sensor installation
+C1274/74
+• Sensor rotor
+• Rear speed sensor
+C1277/77
+Detected only during test mode. • Sensor installation
+C1278/78
+• Sensor rotor
+HINT:
+DTC No. C0210/33 and C1332/38 are for the rear speed sensor RH.
+DTC No. C0215/34 and C1333/39 are for the rear speed sensor LH.

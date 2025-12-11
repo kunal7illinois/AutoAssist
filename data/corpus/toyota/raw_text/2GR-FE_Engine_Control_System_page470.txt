@@ -1,0 +1,32 @@
+ES–470
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+ACIS Control Circuit
+DESCRIPTION
+This circuit opens and closes the Intake Air Control Valve (IACV) in response to changes in the engine
+load in order to increase the intake efficiency (ACIS: Acoustic Control Induction System).
+When the engine speed is between 0 and 4,450 rpm and the throttle valve opening angle is 60° or more,
+the ECM supplies current to the VSV (ON status), to close the IACV. Under other conditions, the VSV is
+usually OFF and the IACV is open.
+Engine Speed
+Throttle Valve Opening Angle
+ECM
+ES
+ACIS
+6 4 2
+Actuator Throttle Sensor
+IACV Closed (VSV: ON)
+VSV
+IACV
+Throttle Valve
+Opening Angle
+Engine Speed 5 3 1 60°
+Throttle Valve Opening Angle
+ECM
+ACIS 0 rpm 4,450 rpm
+6 4 2
+Actuator
+VSV Throttle Sensor Engine Speed
+IACV Open (VSV: OFF)
+IACV
+5 3 1
+G041080E04

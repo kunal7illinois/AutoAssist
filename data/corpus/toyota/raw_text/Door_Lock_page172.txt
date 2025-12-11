@@ -1,0 +1,91 @@
+DL–162
+DOOR LOCK – SMART KEY SYSTEM
+Measurement Item / Range
+Item Normal Condition Diagnostic Note
+(Display)
+YES: Key rolling code matches
+Rolling code difference / YES or
+WRONG ROL CODE NO: Key rolling code does not -
+NO
+match
+Door unlock mode / ALL,
+DOOR UNLOCK MOD Mode status is displayed -
+D_DOOR
+Entry door lock function cancel /
+FUNCTION CANCEL Mode status is displayed -
+ON or OFF
+MATCH: Key code is sent
+Master key / MATCH or NO
+MASTER KEY NO MATCH: Unmatched key -
+MATCH
+code
+MATCH: Key code is sent
+SUB KEY Sub key / MATCH or NO MATCH NO MATCH: Unmatched key -
+code
+Transponder chip data / OK or OK: Correct data sensing
+BCC -
+NG NG: Incorrect data sensing
+Transponder chip data / OK or OK: Data OK
+STATUS -
+NG NG: Data error
+Transponder chip data / OK or OK: Data OK
+ENCRYPT CODE -
+NG NG: Data error
+Transponder chip data / OK or OK: Data OK
+SERIAL NUMBER -
+NG NG: Data error
+Transponder chip data / OK or OK: Data OK
+FRAME -
+NG NG: Data error
+Transponder chip data / OK or OK: With no response
+RESPONSE -
+NG NG: Those with a response
+Diagnostic trouble code / Min.: 0,
+#CODE - -
+Max.: 255
+Ignition available area / FRONT Customization status is
+IGNITION AREA -
+or ALL displayed
+Parking wait time / 0.5s, 1.5s, Customization status is
+PARK WAIT TIME -
+2.5s, 5s displayed
+Luggage compartment door open
+Customization status is
+TRUNK OPEN MODE mode with vehicle locked / ON or -
+displayed
+OFF
+Key low battery warning / ON or Customization status is
+KEY LO-BATT WRN -
+OFF displayed
+MAIN BODY:
+Measurement Item / Range
+Item Normal Condition Diagnostic Note
+(Display)
+ON: Luggage compartment door
+Luggage compartment door
+open
+LUGG COURTESY SW courtesy light switch signal / ON -
+OFF: Luggage compartment door
+or OFF
+DL closed
+Driver side door courtesy light ON: Driver side door open
+D DOR CTY SW -
+switch signal / ON or OFF OFF: Driver side door closed
+ON: Front passenger side door
+Front passenger side door
+open
+P DOR CTY SW courtesy light switch signal / ON -
+OFF: Front passenger side door
+or OFF
+closed
+Rear door courtesy light switch ON: Rear door open
+RL DOR CTY SW -
+LH signal / ON or OFF OFF: Rear door closed
+Rear door courtesy light switch ON: Rear door open
+RR DOR CTY SW -
+RH signal / ON or OFF OFF: Rear door closed
+ON: Luggage compartment door
+Luggage compartment door lock/ lock switch is pushed
+TRUNK KEY UNLOCK -
+unlock switch / ON or OFF OFF: Luggage compartment door
+lock switch is not pushed

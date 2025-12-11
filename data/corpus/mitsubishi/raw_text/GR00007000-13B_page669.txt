@@ -1,0 +1,57 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-669
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+IGNITION COIL AND IGNITION POWER
+TRANSISTOR
+Required Special Tool:
+• MB991348: Test Harness Set
+.
+Measurement Method
+1. Disconnect the connector, and connect test harness special
+OSCILLOSCOPE
+DISTRIBUTOR
+tool, (MB991348), in between. (All terminals should be
+CONNECTOR
+connected.)
+1 2 3 4 5 6 7
+2. Connect the oscilloscope probe to ignition coil connector
+MB991348 terminal 3.
+.
+Alternate method (Test harness not available)
+1. Connect the oscilloscope probe to ECM <M/T> or PCM <A/
+T> terminal 11.
+AK102985AB
+Standard Wave Pattern
+Observation conditions
+Function Special pattern
+Pattern height Low
+Pattern selector Display
+Engine r/min Approximately 1,200 r/min
+Standard wave pattern
+T T : CRANKSHAFT ANGLE (120˚)
+(V)
+COMPRESSION
+TOP DEAD CENTER
+6
+CRANKSHAFT
+POSITION 4
+SENSOR OUTPUT
+WAVE PATTERN
+(REFERENCE) 2
+0
+θ
+POINT:
+6 WAVE BUILD-UP θ : SPARK ADVANCE ANGLE
+SECTION
+4
+IGNITION POWER
+TRANSISTOR 2
+CONTROL SIGNAL
+WAVE PATTERN
+0
+OFF ON
+DWELL SECTION TIME
+AK000069
+Wave Pattern Observation Points
+Point: Condition of wave pattern build-up section and maximum
+voltage (Refer to abnormal wave pattern examples 1 and 2.
+TSB Revision

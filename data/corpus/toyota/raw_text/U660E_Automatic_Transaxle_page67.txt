@@ -1,0 +1,50 @@
+AX–67
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+MONITOR STRATEGY
+Related DTCs P0711: ATF temperature sensor/Rationality check
+Required sensors/Components ATF temperature sensor (TFT sensor)
+Frequency of operation Continuous
+Duration 3 sec.
+AX
+MIL operation 2 driving cycles
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+ALL:
+The monitor will run whenever this DTC is not present None
+TFT (Transmission fluid temperature) sensor circuit Circuit is not malfunctioning
+ECT (Engine coolant temperature) sensor circuit Circuit is not malfunctioning
+IAT (Intake air temperature) sensor circuit Circuit is not malfunctioning
+Turbine speed sensor circuit Circuit is not malfunctioning
+Intermediate shaft speed sensor Circuit is not malfunctioning
+Shift solenoid valve SL1 circuit Circuit is not malfunctioning
+Shift solenoid valve SL2 circuit Circuit is not malfunctioning
+Shift solenoid valve SL3 circuit Circuit is not malfunctioning
+Shift solenoid valve SL4 circuit Circuit is not malfunctioning
+Knock control sensor circuit Circuit is not malfunctioning
+CAN communication system Circuit is not malfunctioning
+Electronic throttle system Circuit is not malfunctioning
+Time after engine start 16 min. and 40 sec. or more
+ECT (Engine coolant temperature) Above -15°C (5°F)
+Condition A:
+Time after engine start 18 min. and 20 sec.
+Driving distance after engine start 5 miles (8 km) or more
+IAT (12 sec. after engine start) Above -10°C (14°F)
+ECT (12 sec. after engine start) Above -10°C (14°F)
+Accumulated driving time *1 200 sec. or more
+*1: Following conditions are met
+Engine speed - Turbine speed 50 rpm or more
+Output speed 400 rpm or more
+Throttle valve opening angle 3% or more
+TFT (Transmission fluid temperature) Less than 20°C (68°F)
+Shift position Not "N" or "P"
+Condition B:
+Time after engine start 30 min.
+Driving distance after engine start 9.3 miles (15 km)
+IAT (12 sec. after engine start) -15°C (5°F) or more
+ECT (12 sec. after engine start) -15°C (5°F) or more
+TFT (Transmission fluid temperature) Less than 20°C (68°F)
+Accumulated driving time *1 400 sec. or more
+Condition C:
+Time after engine start 40 min.
+Driving distance after engine start 12.4 miles (20 km)
+TFT (Transmission fluid temperature) Less than 20°C (68°F)

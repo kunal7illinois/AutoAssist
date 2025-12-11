@@ -1,0 +1,38 @@
+EI–100
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+1 CHECK HARNESS AND CONNECTOR (TRANSPONDER KEY ECU - BATTERY)
+(a) Disconnect the E15 ECU connector.
+Wire Harness Side Connector Rear View:
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+E15
+Tester Connection Condition Specified Condition
+Transponder Key ECU Assembly
+E15-1 (+B) - Body
+Always 10 to 14 V
+ground
+E15-2 (IG) - Body Ignition switch OFF Below 1 V
+ground Ignition switch ON 10 to 14 V
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR, OR REPLACE FUSE
++B
+IG
+B128337E02
+OK
+2 CHECK HARNESS AND CONNECTOR (TRANSPONDER KEY ECU - BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+Wire Harness Side Connector Rear View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E15
+E15-16 (GND) - Body
+Transponder Key ECU Assembly Always Below 1 Ω
+ground
+NG REPAIR OR REPLACE HARNESS OR
+EI CONNECTOR
+GND
+B128337E03
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

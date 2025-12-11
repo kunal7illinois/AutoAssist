@@ -1,0 +1,46 @@
+ENGINE AND EMISSION CONTROL 17-29
+AUTO-CRUISE CONTROL
+STEP 10. Check auto-cruise control vacuum pump
+connector A-01.
+Q:Is the connector damaged?
+CONNECTOR: A-01
+YES : Repair or replace connector.
+RESERVE Refer to GROUP 00E, Harness Connector Inspection
+TANK
+P.00E-2.
+Then check that diagnostic trouble code 14 is not
+output.
+NO : Go to Step 11.
+AC001449AB
+STEP 11. Check the auto-cruise vacuum pump.
+(1) Disconnect the vacuum hose from the auto-cruise vacuum
+pump and connect a vacuum gauge to the vacuum pump.
+(2) Disconnect the vacuum pump connector.
+(3) Check the auto-cruise vacuum pump and valves according
+VACUUM to the following procedure:
+GAUGE • Connect the positive battery terminal to auto-cruise vac-
+uum pump connector terminal 1, and the negative bat-
+tery terminal to terminals 2, 3, and 4.
+The vacuum gauge should read 27 kPa (8.0 in Hg) or
+more.
+• The vacuum should be maintained when terminal 4 is
+disconnected from the negative battery terminal while
+terminals 1, 2, and 3 remain connected.
+Then the vacuum gauge should read 0 kPa (0 in Hg)
+when terminal 2 is disconnected from the negative bat-
+tery terminal while terminals 1, and 3 remain connected.
+• The vacuum should be maintained when terminal 4 is
+disconnected from the negative battery terminal while
+terminals 1, 2, and 3 remain connected.
+CONTROL RELEASE
+VALVE VALVE Then the vacuum gauge should read 0 kPa (0 in Hg)
+when terminal 3 is disconnected from the negative bat-
+tery terminal while terminals 1, and 2 remain connected.
+Q:Are all of the above values satisfied?
+ACX01181AB
+YES : Go to Step 12.
+NO : Replace the auto-cruise vacuum pump. (Refer to
+P.17-86.)
+Then check that diagnostic trouble code 14 is not
+output.
+TSB Revision

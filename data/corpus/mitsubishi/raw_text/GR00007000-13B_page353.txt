@@ -1,0 +1,31 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-353
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4 Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 1 − Evaporative Emission Control System Leak
+Monitor P.13B-6.
+(2) Read the diagnostic trouble code.
+Q:Is diagnostic trouble code P0441 set?
+YES : Retry the troubleshooting.
+NO : This diagnosis is complete.
+DTC P0442: Evaporative Emission Control System Leak Detected (Small Leak)
+SYSTEM DIAGRAM <VEHICLE WITHOUT VARIABLE INDUCTION SYSTEM>
+INTAKE MANIFOLD
+CHECK VALVE A
+L
+A
+N
+B
+O
+C D E
+EVAPORATIVE EMISSION I
+PURGE SOLENOID J CHECK M
+G F VALVE B
+H
+R K P
+FUEL TANK
+Q EVAPORATIVE EVAPORATIVE
+EMISSION EMISSION CANISTER
+VENTILATION
+SOLENOID AACC000011994444AD
+TSB Revision

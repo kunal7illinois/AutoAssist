@@ -1,0 +1,37 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+-21 Fail-safe relay 1 ON ON
+stuck OFF (main)
+61 -01 Modulator- ON ON
+control unit
+initial IG low
+voltage
+-21 Modulator- ON ON
+control unit
+power source low
+voltage 1
+-22 Modulator- ON OFF
+control unit
+power source low
+voltage 2
+-23 Modulator- ON ON
+control unit
+power source low
+voltage 3
+62 -21 Modulator- ON ON
+control unit IG
+high voltage
+71 -21 Right-front or ON ON
+left-rear different
+diameter tire
+malfunction
+-22 Left-front or ON ON
+right-rear
+different diameter
+tire malfunction
+-23 Right-front and ON ON
+right-rear
+different diameter
+tire malfunction
+-24 Left-front and ON ON

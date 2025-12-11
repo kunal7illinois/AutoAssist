@@ -1,0 +1,44 @@
+Audi TT No. 47 / 12
+Current Flow Diagram
+Onboard supply control unit, light switch, headlight range
+control regulator, daytime running lights switch
+E1 Light switch
+E20 Switches and instruments illumination regulator
+E102 Headlight range control regulator
+E579 Switch for day driving lights switch off
+J519 Onboard supply control unit
+T7 7-pin connector, black, connector B, on light switch
+T52b 52-pin connector, yellow, on onboard supply control unit
+T52c 52-pin connector, brown, on onboard supply control unit
+B570 Connection 37, in main wiring harness
+* models with manual headlight range control
+** models with day driving light
+*** from September 2009
+J519
+T52c T52b T52b
+/35 /30 /15 3377
+
+0,35 0,35 0,35 1,5
+gr/bl gr/gn gr gr/ge
+E1 E579
+T7/7 T7/2 T7/1 T7/4
+E20 E102
+T7/6 T7/5 T7/3 T7/4 T7/6 T7/5
+31 31
+1,0
+ ro/ge
+B570
+ws = white
+sw = black
+0,35  0,35  0,5  0,5  1,5  0,35  0,35  ro = red
+gr/bl br ro/ge ro/ge gr/ge gr/bl br br = brown
+gn = green
+bl = blue
+113355 112222 119955 220000 3388 113388 112255
+gr = grey
+li = purple
+ge = yellow
+141 142 143 144 145 146 147 148 149 150 151 152 153 154 or = orange
+8J0-047120909
+rs = pink
+Edition 04.2010

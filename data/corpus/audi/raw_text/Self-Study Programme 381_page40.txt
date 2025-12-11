@@ -1,0 +1,40 @@
+Wheels and tyres
+Operation and displays
+The teach-in process is performed once after the
+SET key is pressed for the low tyre pressure indica-
+tor. During the next trip, the control unit saves the
+measured wheel speeds and the vibration charac-
+teristics of the wheels in various vehicle operating
+states. The vehicle operating states are basically
+defined by the following parameters: vehicle speed,
+steering angle, transverse acceleration and yaw
+velocity. These teach-in values subsequently make
+up the target data which is used for monitoring.
+After approximately 10 minutes of driving, it is
+already possible to detect a breakdown (rapid loss
+of pressure) . Approximately 60 minutes of driving
+are required to detect diffusion loss (slow loss of
+pressure).
+381_061
+Service work
+Address
+The system can be addressed in the Vehicle self-diagnostics 4C - Tyre pressure monitor II
+8J0907274 8J0907274
+diagnostic tester under the address:
+J793 TPM+ H03 --- 0100
+4C Tyre pressure monitor II. Select diagnostic Coding 614100
+function Dealership number 98765
+Display all diagnostic functions
+02 - Query fault memory
+05 - Clear fault memory
+06 - End of output
+07 - Encode control unit
+Encoding the subbus system
+08 - Read data block
+16 - Access authorisation
+Read out Challenge immobiliser IV
+Activate immobiliser IV
+Identification services
+Goto Print
+381_056
+40

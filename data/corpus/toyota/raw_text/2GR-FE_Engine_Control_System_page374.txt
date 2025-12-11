@@ -1,0 +1,54 @@
+ES–374
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+The Air-Fuel Ratio (A/F) sensor varies its output voltage in proportion to the air-fuel ratio. If the A/F sensor
+impedance (alternating current resistance) or output voltage deviates greatly from the standard range, the
+ECM determines that there is an open or short malfunction in the A/F sensor circuit.
+MONITOR STRATEGY
+P2238: A/F sensor (Bank 1) open circuit between AF+ and AF-
+P2238: A/F sensor (Bank 1) short circuit between AF+ and AF-
+P2238: A/F sensor (Bank 1) short circuit between AF+ and GND
+P2239: A/F sensor (Bank 1) short circuit between AF+ and +B
+P2241: A/F sensor (Bank 2) open circuit between AF+ and AF-
+P2241: A/F sensor (Bank 2) short circuit between AF+ and AF-
+Related DTCs
+P2241: A/F sensor (Bank 2) short circuit between AF+ and GND
+P2242: A/F sensor (Bank 2) short circuit between AF+ and +B
+P2252: A/F sensor (Bank 1) short circuit between AF- and GND
+P2253: A/F sensor (Bank 1) short circuit between AF- and +B
+ES
+P2255: A/F sensor (Bank 2) short circuit between AF- and GND
+P2256: A/F sensor (Bank 2) short circuit between AF- and +B
+Required Sensors/Components (Main) A/F sensor
+Required Sensors/Components (Sub) Engine Coolant Temperature (ECT) sensor, Crankshaft position sensor
+Frequency of Operation Once per driving cycle
+Duration 10 seconds
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+P0031, P0032, P0051, P0052 (A/F sensor heater - Sensor 1)
+P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+Monitor runs whenever following DTCs are not present
+P0125 (Insufficient ECT for Closed Loop)
+P0171, P0172 (Fuel system)
+P0300 - P0308 (Misfire)
+P0335 (CKP sensor)
+P0500 (VSS)
+P2238 and P2241 (open circuit between AF+ and AF-):
+AF+ terminal voltage 0.5 to 4.5 V
+AF- terminal voltage 0.5 to 4.5 V
+Difference between AF+ and AF- terminal voltages 0.1 to 0.8 V
+ECT 5°C (41°F) or more (Varies with ECT at engine start)
+Engine condition Running
+Fuel-cut OFF
+Time after engine start 10 seconds or more
+A/F sensor heater duty-cycle ON
+Time after A/F sensor heating 5 seconds or more
+Battery voltage 11 V or more
+Ignition switch ON
+Others:
+Battery voltage 10.5 V or more
+Ignition switch ON

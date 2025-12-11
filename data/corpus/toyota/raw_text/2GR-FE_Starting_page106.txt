@@ -1,0 +1,31 @@
+ST–106
+2GR-FE STARTING – SMART KEY SYSTEM
+14 INSPECT RELAY (ST CUT)
+(a) Measure the resistance of the ST CUT relay.
+Standard resistance
+Tester Connection Specified Condition
+3 - 5 10 kΩ or higher
+Below 1 Ω
+3 - 5
+(when battery voltage is applied to terminals 1 and 2)
+NG REPLACE RELAY
+B016200E23
+OK
+15 INSPECT PARK/NEUTRAL POSITION SWITCH
+(a) Disconnect the park/neutral position (PNP) switch
+Component Side: connector.
+(b) Measure the resistance according the the value(s) in the
+table below.
+Standard resistance
+PNP Switch
+Shift Position Tester Connection Specified Condition
+P 4 - 9 Below 1 Ω
+N 4 - 9 Below 1 Ω
+Except P and N 4 - 9 10 kΩ or higher
+NG REPLACE PARK/NEUTRAL POSITION
+SWITCH
+B138018E01
+OK
+16 CHECK HARNESS AND CONNECTOR (PARK/NEUTRAL POSITION SWITCH - ECM)
+(a) Disconnect the C55 ECM connector.
+ST

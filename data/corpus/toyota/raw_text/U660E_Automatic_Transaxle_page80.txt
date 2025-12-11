@@ -1,0 +1,59 @@
+AX–80
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Torque Converter Clutch Solenoid Performance
+DTC P0741
+(Shift Solenoid Valve SL)
+SYSTEM DESCRIPTION
+The TCM uses signals from the throttle position sensor, air-flow meter, turbine (input) speed sensor,
+AX
+intermediate (counter) speed sensor and crankshaft position sensor to help determine the engagement
+timing of the lock-up clutch. The TCM monitors the engagement of the clutch using the turbine (input)
+speed sensor, intermediate (counter) speed sensor and crankshaft position sensor.
+Then the TCM compares the engagement condition of the lock-up clutch with the lock-up schedule in the
+TCM memory to detect shift solenoid valve SL, valve body and torque converter clutch mechanical
+problems.
+DTC No. DTC Detection Condition Trouble Area
+• Shift solenoid valve SL remains closed
+When both of the following are detected (2-trip
+• Valve body is blocked
+detection logic):
+P0741 • Torque converter clutch
+• Lock-up does not occur when requested.
+• Automatic transaxle (clutch, brake or gear etc.)
+• Transmission fluid pressure switch No. 3 is ON.
+• Line pressure is too low
+MONITOR DESCRIPTION
+Torque converter lock-up is controlled by the TCM based on the speed sensor (NT), speed sensor (NC),
+engine rpm, engine load, engine temperature, vehicle speed, transmission fluid temperature, and gear
+selection. The TCM determines the lock-up status of the torque converter by comparing the engine rpm
+(NE) to the input turbine rpm (NT). The TCM calculates the actual transmission gear by comparing the
+input turbine rpm (NT) to the counter gear rpm (NC). When conditions are appropriate, the TCM requests
+"lock-up" by applying control voltage to the shift solenoid SL. When the SL is turned on, it applies pressure
+to the lock-up relay valve and locks the torque converter clutch.
+If the TCM detects no lock-up after lock-up has been requested or if it detects lock-up when it is not
+requested, the TCM interprets this as a fault in the shift solenoid valve SL or lock-up system performance.
+The TCM will turn on the MIL and store the DTC.
+HINT:
+Example:
+When any of the following is met, the system judges it as a malfunction.
+• There is a difference in rotation between the input side (engine speed) and output side (input turbine
+speed) of the torque converter when the TCM commands lock-up.
+(Engine speed is at least 70 rpm greater than the input turbine speed.)
+• There is no difference in rotation between the input side (engine speed) and output side (input turbine
+speed) of the torque converter when the TCM commands lock-up off.
+(The difference between the engine speed and input turbine speed is less than 20 rpm.)
+MONITOR STRATEGY
+P0741:
+Related DTCs Shift solenoid valve SL OFF malfunction
+Shift solenoid valve SL ON malfunction
+Shift solenoid valve SL, Speed sensor (NT), Speed sensor (NC), Crankshaft
+position sensor (NE), Throttle position sensor (VPA1), Mass air flow sensor
+Required sensors/Components
+(MAF), Transmission temperature sensor (THO1), Engine coolant temperature
+sensor (ECT)
+Frequency of operation Continuous
+OFF malfunction
+Duration
+3.5 sec.
+MIL operation 2 driving cycles
+Sequence of operation None

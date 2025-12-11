@@ -1,0 +1,19 @@
+ES–298
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK WHETHER DTC OUTPUT RECURS (DTC P2121)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch o ON and turn the tester ON.
+(c) Clear DTCs (see page ES-35).
+(d) Start the engine.
+(e) Allow the engine to idle for 15 seconds.
+(f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(g) Read DTCs.
+Result
+ES
+Display (DTC Output) Proceed To
+P2121 A
+No output B
+B SYSTEM OK
+A
+REPLACE ECM

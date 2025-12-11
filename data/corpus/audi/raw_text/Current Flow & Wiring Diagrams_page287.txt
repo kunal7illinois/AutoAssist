@@ -1,0 +1,55 @@
+Audi TT No. 35 / 5
+Current Flow Diagram
+Convertible roof actuation control unit, convertible roof
+stowed switch, heated rear window
+F171 Convertible roof stowed switch
+J256 Convertible roof actuation control unit
+J393 Convenience system central control unit
+J519 Onboard supply control unit
+T2y 2-pin connector, left side panel
+T2am 2-pin connector, black, rear left side panel
+T10c 10-pin connector, black, rear left side panel
+T10d 10-pin connector, black, connector K, on onboard power supply
+control unit
+T18g 18-pin connector, brown, connector A, on convenience system
+central control unit
+T20v 20-pin connector, red, connector B, on convertible roof actuation
+control unit
+Z1 Heated rear window
+202 Earth connection, in convertible roof wiring harness
+398 Earth connection 33, in main wiring harness
+J256
+399 Earth connection 34, in main wiring harness
+T20v/11
+J393 J519
+676 Earth point 2, on left in luggage compartment
+T18g/13 T10d/1
+* manual convertible roof actuation
+✱ ✱
+0,35 2,5 2,5
+ro/gn ws/sw ws/sw
+T2am/1 T2y/1 T10c/1
+✱
+0,5 2,5 2,5
+sw sw sw
+1
+✱
+F171 Z1 Z1
+2/31
+✱
+0,5 2,5 2,5
+sw br br
+ws = white
+2255
+T10c T2am/2 T2y/2 T10c/4 sw = black
+/3 ro = red
+0,5 0,35 0,5 0,35 0,5 ✱ 2,5 ✱ 2,5 2,5 br = brown
+br br br br br br br br gn = green
+bl = blue
+202 399 398 gr = grey
+202 676 li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-035050906
+rs = pink
+Edition 10.2010

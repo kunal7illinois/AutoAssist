@@ -1,0 +1,50 @@
+BE-164 BODY ELECTRICAL - CRUISE CONTROL SYSTEM
+Control Outline
+ECT ECU incorporated into ECM (U250E Automatic Transaxle):
+When the vehicle is cruising uphill, shift-down control may be performed by the
+ECT (Electronic Control Transmission). When the ECM judges the end of cruising
+uphill based on the throttle valve angle, the shift-down control will turn on again.
+There is a case where the shift-down control turns off during ACC or RES switch
+control.
+SShhiifftt DDoowwnn
+ECT ECU isolated from ECM (U660E Automatic Transaxle):
+Control
+When the vehicle is cruising uphill, shift-down control may be performed by the
+ECT (Electronic Control Transmission). The ECM transmits the shift up request
+signal to the ECT ECU when the ECM judges the end of cruising uphill based on
+the throttle valve angle. If shift-down control is performed during ACC or RES
+switch control, the ECM transmits the shift up request signal to the ECT ECU after
+ACC or RES switch control is completed.
+If any of the following signals is sent to the ECM, the cruise control is cancelled
+accordingly.
+Manual Cancel (cid:3) Clutch switch ON signal/Depress the clutch pedal. (for M/T)
+Control (cid:3) Stop light switch ON signal/Depress the brake pedal. (for A/T)
+(cid:3) CANCEL switch ON signal (cruise control switch moved to CANCEL side)
+(cid:3) Cruise control switch (ON-OFF button) OFF signal.
+When any of the following conditions occur during cruise control operation, the
+speed that is set in the memory is cleared and the cruise control is cancelled.
+(cid:3) Stop light switch open or short circuit
+(cid:3) The vehicle speed signal is not input for a predetermined period of time.
+(cid:3) ETCS-i malfunction
+Furthermore, the cruise MAIN indicator light will blink until the ON-OFF button
+on the cruise control switch is used to turn the system off, and the operation of the
+cruise control will be disabled until the ON-OFF button is turned ON again.
+When any of the following conditions occur during cruise control driving, the speed
+Automatic Cancel that is set in the memory is cleared and the cruise control is cancelled.
+Control (cid:3) Stop light switch input signal is abnormal.
+(cid:3) Cruise control switch input signal is abnormal.
+Furthermore, the cruise MAIN indicator light will blink until the ON-OFF button
+on the cruise control switch is used to turn the system off, and the operation of the
+cruise control will be disabled until the power source* is turned IG-ON again.
+When any of the following conditions occur during cruise control driving, the cruise
+control is cancelled.
+(cid:3) Vehicle speed is below the low speed limit (approx. 40 km/h [25 mph]) or less.
+(cid:3) Vehicle speed decreases by 16 km/h (10 mph) or more below the speed at which
+the cruise control was set.
+When the ECM does not receive a vehicle speed signal for a predetermined period
+of time during cruising, or when cruise control is cancelled (automatic cancel) due
+Diagnosis to a malfunction of the cruise control, stop light switch or vehicle speed signal, the
+ECM immediately blinks the cruise MAIN indicator light due to the malfunction.
+The contents relating to the malfunction will be stored in the ECM.
+*: Power source conditions can be changed by pressing the engine switch on models with the smart key
+system and by operating the ignition switch on models without smart key system.

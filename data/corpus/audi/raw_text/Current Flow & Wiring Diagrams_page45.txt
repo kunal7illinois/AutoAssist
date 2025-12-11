@@ -1,0 +1,54 @@
+Audi TT No. 2 / 14
+Current Flow Diagram
+Engine control unit, activated charcoal filter solenoid valve
+1, inlet camshaft control valve 1, turbocharger air
+recirculation valve, fuel pressure regulating valve, charge
+pressure control solenoid valve
+J623 Engine control unit
+N75 Charge pressure control solenoid valve
+N80 Activated charcoal filter system solenoid valve 1
+N205 Inlet camshaft control valve 1
+5533 N249 Turbocharger air recirculation valve
+N276 Fuel pressure regulating valve
+0,5
+bl/ro N335 Variable intake manifold change-over valve
+T14 14-pin connector, black, on front left in engine compartment
+1
+T60 60-pin connector, on engine control unit
+✱
+N335 T94 94-pin connector, on engine control unit
+2
+D106 Connection 4, in engine compartment wiring harness
+0,5 * only 2.0 l engine, engine code CDMA, CDLB
+br/li
+J623
+T94/11
+T60/4 T60/5 T60/21 T60/19 T60/20
+5566 4433 5500
+1,0 1,0 1,0 0,5 1,0 1,0 1,0 1,0
+ro/ws ws/li bl/ge gr/br li/br ro/gn li/ws bl/ro
+T14/7 T14/11 T14/6
+1,0 1,0
+ro/gn bl/ro
+2 2 2 2 2
+1
+N75
+1
+N80
+1
+N249 N276
+1
+N205
+1 ws = white
+sw = black
+ro = red
+1,0 1,0 1,0 1,0 br = brown
+ro/ws ro/ws ro/ws ro/ws gn = green
+D106 bl = blue
+gr = grey
+li = purple
+ge = yellow
+169 170 171 172 173 174 175 176 177 178 179 180 181 182 or = orange
+8J0-002140408
+rs = pink
+Edition 04.2010

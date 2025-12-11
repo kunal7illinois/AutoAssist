@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+NO -Replace the EPS control unit (see EPS CONTROL UNIT
+REMOVAL/INSTALLATION ).
+DTC 35-03: EPS CONTROL UNIT INTERNAL CIRCUIT (EPS CPU) (INITIAL DIAGNOSIS); DTC
+35-05: EPS CONTROL UNIT INTERNAL CIRCUIT (MOTOR/EPS CPU) (INITIAL DIAGNOSIS)
+1. Clear the DTC with the HDS.
+2. Turn the ignition switch to LOCK (0).
+3. Turn the ignition switch ON (II).
+Does the EPS indicator come on?
+YES -Go to step 4.
+NO -Check for loose terminals or poor connections. If the connections are
+good, the system is OK at this time.
+4. Start the engine.
+5. Wait 10 seconds or more.
+6. Check for DTCs with the HDS.
+Is DTC 35-03 or DTC 35-05 indicated?
+YES -Check for loose terminals in the EPS control unit connectors, and repair
+if necessary. If no poor connections are found, replace the EPS control unit
+(see EPS CONTROL UNIT REMOVAL/INSTALLATION ).
+NO -Troubleshoot the indicated DTC. If there are no DTCs, the system is OK
+at this time.
+DTC 51-01: LOW/HIGH VOLTAGE FOR THE TORQUE SENSOR (VT1 AND VT2) (REGULAR
+DIAGNOSIS)
+1. Turn the ignition switch to LOCK (0).
+2. Connect the HDS to the data link connector (DLC).
+3. Turn the ignition switch ON (II).
+4. Check the ADVT1 in the DATA LIST with the HDS.

@@ -1,0 +1,53 @@
+Audi 100 1991 ➤ , Audi 80 1992 ➤ , Audi A1 2011 ➤ , Audi A2 2001 ➤ , A ...
+Air conditioner with refrigerant R134a - Edition 06.2010
+2.5.7 Refrigerant pressure and temperature
+sender -G395-
+The refrigerant pressure and temperature sender -G395- is fitted
+instead of the high-pressure sender -G65- .
+The refrigerant pressure and temperature sender -G395- ( „grey“
+housing at present) and the high-pressure sender -G65- ( „black“
+housing at present) currently only differ outwardly in terms of the
+housing colour and attention is therefore to be paid to the correct
+assignment on replacement (part number ⇒ Electronic parts
+catalogue ). As these two senders emit different signals, the rel‐
+evant control unit can only evaluate the signal to which it has been
+matched ⇒ Heating, air conditioning; Rep. gr. 87 or ⇒ Air con‐
+ditioning; Rep. gr. 87 (vehicle-specific workshop manual).
+When voltage is applied, the refrigerant pressure and tempera‐
+ture sender -G395- exchanges information via the air conditioner
+data bus ( „Lin bus“) with the corresponding control unit. The rel‐
+evant control unit uses this information to calculate the pressure
+and temperature in the refrigerant circuit and any faults detected
+are signalled to the control unit.
+The temperature measured by the refrigerant pressure and tem‐
+perature sender -G395- differs on account of the design of -G395-
+and the fitting location from the actual temperature of the
+refrigerant in the refrigerant circuit. It is therefore not evaluated at
+present by all control units and used for air conditioner control ⇒
+Heating, air conditioning; Rep. gr. 87 or ⇒ Air conditioning; Rep.
+gr. 87 (vehicle-specific workshop manual).
+This information is used for example by the operating and display
+unit, Climatronic control unit -J255- to calculate the pressure in
+the refrigerant circuit and to actuate the downstream control units
+(radiator fan control unit, engine control unit etc.) by way of the
+data bus. These control units then regulate, for example, the ra‐
+diator fans and engine accordingly ⇒ Heating, air conditioning;
+Rep. gr. 87 or ⇒ Air conditioning; Rep. gr. 87 (vehicle-specific
+workshop manual).
+2.5.8 Air conditioner compressor regulating
+valve -N280-
+The regulating valve is installed in the air conditioner compressor.
+It is actuated by the operating and display unit for Climatronic air
+conditioning system -E87- or the Climatronic control unit -J255-
+(possibly via the data bus and an additional control unit depending
+on the vehicle) ⇒ Heating, air conditioning; Rep. gr. 87 or ⇒ Air
+conditioning; Rep. gr. 87 (vehicle-specific workshop manual).
+The pressure in the low-pressure side is influenced by way of the
+regulating valve, thus regulating the temperature in the evapora‐
+tor.
+Note
+The air conditioner compressor regulating valve -N280- is part of
+the air conditioner compressor and cannot be replaced separate‐
+ly.
+31
+2. General information on refrigerant circuit

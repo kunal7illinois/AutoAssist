@@ -1,0 +1,30 @@
+AX–157
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+DTC U0100 Lost Communication with ECM/PCM "A"
+DESCRIPTION
+The engine control unit intercommunicates with the TCM with the Controller Area Network (CAN).
+If there is a problem in this intercommunication, the TCM sets a DTC.
+AX
+DTC No. DTC Detection Condition Trouble Area
+Following conditions are met for 1.25 seconds (1 trip
+detection logic):
+• Ignition switch ON (IG)
+U0100 TCM
+• Battery voltage is 10.5 V or more
+• No intercommunication between the engine control
+ECU and TCM
+MONITOR STRATEGY
+Related DTCs U0100: Verify communication
+Required Sensors/Components (Main) TCM
+Required Sensors/Components (Related) -
+Frequency of Operation Continuous
+Duration 1.25 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+Battery Voltage 10.5 V or more
+Ignition Switch ON
+Starter OFF
+TYPICAL MALFUNCTION THRESHOLDS
+Communication between TCM and ECM No communication

@@ -1,0 +1,37 @@
+ANTI-LOCK BRAKING SYSTEM (ABS) 35B-29
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+.
+STEP 1. Check the power supply circuit at ABS-ECU
+connector A-02.
+(1) Disconnect connector A-02 and measure at the harness
+side.
+(2) Start the engine.
+(3) Measure the voltage between terminal 15 and ground. It
+A-02 (HARNESS SIDE)
+should be approximately 12 volts (battery positive voltage).
+Q:Is voltage approximately 12 volts (battery positive
+voltage)?
+YES : Go to Step 3.
+NO : Go to Step 2.
+AC000947AB
+STEP 2. Check the harness wire between the ignition
+switch (IG2) and the ABS-ECU connector A-02 (terminal
+15).
+NOTE: After inspecting the intermediate connectors C-94, C-
+CONNECTOR: C-94
+111, and C-112, inspect the wire. If the intermediate connector
+C-94, C-111, or C-112 is damaged, repair or replace it. Refer to
+GROUP 00E, Harness Connector Inspection P.00E-2. If the
+connector has been repaired or replaced, go to Step 5.
+AC004410AD
+CONNECTORS: C-111, C-112
+JUNCTION BLOCK
+(FRONT VIEW)
+C-111
+C-112
+AC102149AC
+TSB Revision

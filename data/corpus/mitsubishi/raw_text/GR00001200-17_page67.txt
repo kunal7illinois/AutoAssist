@@ -1,0 +1,51 @@
+ENGINE AND EMISSION CONTROL 17-67
+AUTO-CRUISE CONTROL
+STEP 3.Using scan tool MB991502, check data list.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Using scan tool MB991502.
+(2) Connect scan tool MB991502 to the data link connector.
+(3) Check the following items in the data list.
+Refer to P.17-77, Data List Reference Table.
+• Item 04: Auto-cruise control "CANCEL" switch.
+16 PIN
+• Item 05: Stoplight switch.
+MB991502 • Item 14: Clutch pedal position switch. <M/T>.
+AC001252AB
+• Item 14: Park/neutral position switch. <A/T>
+(4) Turn the ignition switch to the "ON" position.
+Q:Is the check above meet the specifications?
+YES : Check that the malfunction is eliminated.
+If the malfunction is not eliminated, replace the auto-
+cruise control-ECU. (Refer to P.17-86.)
+Then that the malfunction is eliminated.
+NO : Follow the diagnostic trouble code procedures and
+the symptom procedures below.
+• Item 04: Refer to Diagnostic Trouble Code
+Procedures number 15 P.17-32.
+• Item 05: Refer to Symptom Procedures number 2
+P.17-50.
+• Item 14: Refer to Symptom Procedures number 3
+<M/T>P.17-56.
+• Item 14: Refer to Symptom Procedures number 4
+<A/T>P.17-61.
+INSPECTION PROSEDURE 7:Hunting (Repeated Acceleration and Deceleration) Occurs at the Set
+Vehicle Speed. <M/T>
+. TROUBLESHOOTING HINTS
+TECHNICAL DESCRIPTION (COMMENT)
+• Malfunction of the vehicle speed sensor.
+The cause is probably the malfunction of the vehicle
+• Malfunction of the auto-cruise control vacuum
+speed sensor or incorrect vacuum in the auto-cruise
+pump.
+control vacuum pump or actuator.
+• Malfunction of the actuator.
+• Malfunction of the auto-cruise control-ECU.
+.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+TSB Revision

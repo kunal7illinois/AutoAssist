@@ -1,0 +1,44 @@
+ES–378
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK
+6 INSPECT IGNITION SWITCH (See page ES-261)
+NG REPLACE IGNITION SWITCH
+OK
+7 CHECK HARNESS AND CONNECTOR (INTEGRATION RELAY - ECM, BATTERY, BODY
+GROUND)
+ES
+(a) Disconnect the A9 ECM connector.
+Wire Harness Side:
+A9 ECM Connector
++B2
+MREL
++B
+Front View
+A115671E09
+(b) Remove the integration relay from the engine room No. 1
+Wire Harness Side:
+relay block.
+(c) Disconnect the integration relay connector.
+Integration Relay
+(d) Remove the P/I fuse from the engine room No. 1 relay
+1C 1 1A block.
+(e) Check the resistance between the terminals.
+Standard resistance (Check for open)
+Tester Connections Specified Conditions
+4 3 2
+A9-2 (+B) - 1A-4 Below 1 Ω
+A9-1 (+B2) - 1A-4 Below 1 Ω
+A9-44 (MREL) - 1A-2 Below 1 Ω
+Engine room relay block No. 1 P/I Below 1 Ω
+fuse terminal 2 - 1C-1
+1A-3 - Body ground Below 1 Ω
+Standard resistance (Check for short)
+Tester Connections Specified Conditions
+A9-2 (+B) or 1A-4 - Body ground 10 kΩ or higher
+A9-1 (+B2) or 1A-4 - Body ground 10 kΩ or higher
+A9-44 (MREL) or 1A-2 - Body ground 10 kΩ or higher
+A127769E03
+Engine room No. 1 relay block P/I 10 kΩ or higher
+fuse terminal 2 or 1C-1 - Body
+ground
+(f) Reconnect the connectors.

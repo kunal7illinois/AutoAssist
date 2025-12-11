@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+8. Turn the ignition switch OFF, and wait for 10 seconds.
+9. Turn the ignition switch ON (II) again. If the SRS indicator comes on for 6
+seconds, and then goes off, the system is OK.
+TROUBLESHOOTING INTERMITTENT FAILURES
+If there was a malfunction, but it does not recur, it will be stored in the memory as
+an intermittent failure, and the SRS indicator may come on depending on this
+malfunction detected.
+NOTE: Check the condition of the battery (see BATTERY (EXCEPT
+HYBRID) ) and the charging system (see CHARGING
+SYSTEM INDICATOR CIRCUIT TROUBLESHOOTING ). Low
+battery voltage may cause some intermittent failures.
+After checking the DTC, troubleshoot as follows:
+1. Make sure the ignition switch is OFF:
+2. Connect the HDS to the data link connector (DLC) (A).
+3. Turn the ignition switch ON (II).
+4. Make sure the HDS communicates with the vehicle and the SRS unit. If it does
+not communicate, troubleshoot the DLC circuit (see DLC CIRCUIT
+TROUBLESHOOTING ).
+5. In the SRS MENU on the HDS, select SRS, then DTC to clear DTC(s).
+6. Read the DTC (see "READING THE DTC").
+7. Clear the DTC memory (see "CLEAR THE DTC MEMORY").
+8. Set the parking brake, then start the engine, and let it idle.
+9. The SRS indicator comes on for about 6 seconds and then goes off.
+10. Shake the related wire harnesses and the connectors, and look for loose
+connections, poor pinfits, and poor grounds.
+11. Take a test-drive (quick acceleration, quick braking, and cornering), turn the
+steering wheel fully left and right, and hold it there for 5 to 10 seconds. If the
+problem recurs, the SRS indicator will come on.

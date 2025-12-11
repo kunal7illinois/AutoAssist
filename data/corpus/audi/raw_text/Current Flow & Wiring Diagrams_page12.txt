@@ -1,0 +1,136 @@
+Audi TT No. 1 / 12
+Current Flow Diagram
+Onboard supply control unit, horn relay, light switch,
+headlight range control regulator, treble tone horn, bass
+tone horn, switch for day driving lights switch off
+E1 Light switch
+E102 Headlight range control regulator
+E579 Switch for day driving lights switch off
+H2 Treble tone horn
+H7 Bass tone horn
+99 J413 Horn relay
+J519 Onboard supply control unit
+6,0
+B6 ✱ ro SC22 Fuse 22 on fuse holder C
+4/85
+J413
+1/30 22 23 25
+S
+S
+C
+C
+2
+2
+3
+5
+F
+F
+u
+u
+s
+s
+e
+e
+2
+2
+3
+5
+o
+o
+n
+n
+f
+f
+u
+u
+s
+s
+e
+e
+h
+h
+o
+o
+l
+l
+d
+d
+e
+e
+r
+r
+C
+C
+SC22 SC23 SC25
+T6h 6-pin connector, connector J, on onboard supply control unit
+30A 20A 30A
+T7 7-pin connector, black, connector B, on light switch
+3/86 2/87 22a 23a 25a
+T10d 10-pin connector, black, connector K, on onboard power
+supply control unit
+2,5 2,5 T16a 16-pin connector, black, connector E, on onboard power
+ro/br li/ws supply control unit
+43 Earth point, lower part of right A-pillar
+J519
+T6h/3 T10d/6
+391 Earth connection 26, in main wiring harness
+T16a/10 T6h/6
+* Relay carrier on onboard power supply control unit, under left
+✱✱✱ dash panel
+0,5 1,5 1,5
+** models with manual headlight range control
+gr/ge sw/ge sw/ge
+*** models with day driving light
+E1 E579
+T7/4
+1
+2#
+##
+2
+1
+#
+##
+#
+#
+#
+u
+fr
+p
+o m
+to
+J
+M
+un
+a
+e
+y 2
+2
+0
+0
+0
+0
+7
+7
+H2 H7
+E102 1/31# 1/31#
+2/31## 2/31##
+T7/6 T7/5 T7/3 T7/4 T7/6 T7/5
+31 31
+✱✱
+1,0#
+0,35 ✱✱ 0,35 ✱✱ 0,5 ✱✱ 0,5 ✱✱ 0,5 ✱✱ 1,5## 0,35 ✱✱✱ 0,5 ✱✱✱ 1,5 1,5
+gr/bl br ro/ge ro/ge gr/ge gr/ge gr/bl br br br
+391 ws = white
+113355 112222 119955 220000 119933 3388 113388 112255 sw = black
+ro = red
+4,0 br = brown
+br
+gn = green
+bl = blue
+gr = grey
+43 li = purple
+ge = yellow
+141 142 143 144 145 146 147 148 149 150 151 152 153 154 or = orange
+8J0-001120407
+rs = pink
+Edition 04.2008

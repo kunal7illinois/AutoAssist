@@ -1,0 +1,27 @@
+ST–85
+2GR-FE STARTING – SMART KEY SYSTEM
+OK
+2 CHECK DTC OUTPUT (CAN COMMUNICATION SYSTEM)
+(a) Delete the DTCs (See page ST-26).
+(b) Check for CAN communication system DTC U0146.
+HINT:
+If the DTCs for the CAN communication system
+malfunction are output, inspect those DTCs first (See
+page CA-31).
+OK:
+No DTC is output.
+NG GO TO CAN COMMUNICATION SYSTEM
+OK
+3 CHECK WIRE HARNESS (MAIN BODY ECU - ECM)
+(a) Disconnect the A55 ECM connector.
+Wire Harness Side:
+E8 ECM
+Main Body ECU
+TACH
+A55
+TACH
+ST
+B138064E01
+(b) Disconnect the E8 ECU connector.
+(c) Measure the resistance according to the value(s) in the
+table below.

@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (K20Z3) - Civic (Except GX & Si)
+good ECM (see SUBSTITUTING THE ECM ), then go to step 27. If the
+ECM was substituted, go to step 1.
+NO - Go to step 29.
+29. Monitor the OBD STATUS for DTC P0498 in the DTCs MENU with the
+HDS.
+Does the screen indicate PASSED?
+YES - If the ECM was updated, troubleshooting is complete. If the ECM was
+substituted, replace the original ECM (see ECM REPLACEMENT ). If any
+other Temporary DTCs or DTCs were indicated in step 28, go to the indicated
+DTC's troubleshooting.
+NO - If the screen indicates FAILED, check for poor connections or loose
+terminals at the EVAP canister vent shut valve and the ECM. If the ECM was
+updated, substitute a known-good ECM (see SUBSTITUTING THE ECM ),
+then go to step 27. If the ECM was substituted, go to step 1. If the screen
+indicates NOT COMPLETED, go to step 27.
+DTC P0499: EVAP CANISTER VENT SHUT VALVE CIRCUIT HIGH VOLTAGE
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Select EVAP CVS ON in the INSPECTION MENU with the HDS.
+4. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0499 indicated?
+YES - Go to step 5.

@@ -1,0 +1,29 @@
+ENGINE - 2AZ-FE ENGINE EG-53
+Construction
+1) VVT-i Controller
+(cid:1) This controller consists of the housing driven from the timing chain and the vane coupled with the
+intake camshaft.
+(cid:1) The oil pressure sent from the advance or retard side path at the intake camshaft causes rotation in the
+VVT-i- controller vane circumferential direction to vary the intake valve timing continuously.
+When the engine is stopped, the intake camshaft will be in the most retarded state to ensure startability.
+When hydraulic pressure is not applied to the VVT-i controller immediately after the engine has been
+started, the lock pin locks the movement of the VVT-i controller to prevent a knocking noise.
+Lock Pin
+Housing Intake Camshaft
+Vane (Fixed on Intake Camshaft)
+Oil Pressure
+At a Stop In Operation
+169EG36
+Lock Pin
+2) Camshaft Timing Oil Control Valve
+The camshaft timing oil control valve controls the spool valve position in accordance with the duty
+control from the ECM thus allocating the hydraulic pressure that is applied to the VVT-i controller to the
+advance and the retard side. When the engine is stopped, the camshaft timing oil control valve is in the
+most retarded state.
+To VVT-i Controller To VVT-i Controller
+(Advance Side) (Retard Side)
+Sleeve
+Spring
+Drain Drain Coil
+Oil Pressure Spool Valve Plunger
+221EG17

@@ -1,0 +1,49 @@
+BC–321
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+3 INSPECT SPEED SENSOR SIGNAL WAVEFORM
+(a) Lift up the vehicle.
+(b) Perform the inspection using an oscilloscope.
+(1) Disconnect the front speed sensor connector.
+(2) Connect the oscilloscope to terminals 1 and 2 of the
+front speed sensor.
+A14 :LH A35 :RH
+(3) Check that a waveform is output when the tires are
+rotated.
+OK:
+The same waveform is output from front
+wheels and there is no noise or interference in
+the waveform.
+FL+ FL- FR+ FR- HINT:
+• As vehicle speed (wheel rotation speed)
+Normal Signal Waveform:
+increases, the width of the waveform narrows
+and the output voltage becomes greater.
+BC
+• When noise is identified in the waveform on the
+oscilloscope, the erratic signals are generated
+due to rotor scratches, looseness or foreign
+GND
+matter attached to the speed sensor.
+(4) Connect the connector.
+NG Go to step 11
+1 V/Division, 2 ms./Division
+C136488E02
+OK
+4 RECONFIRM DTC
+(a) Clear the DTCs (See page BC-302).
+(b) Drive the vehicle at a speed of approximately 25 mph (40
+km/h) or more for 60 seconds or more.
+(c) Check if the same DTCs are recorded (See page BC-
+302).
+HINT:
+Reinstall the sensors, connectors, etc. and restore the
+vehicle to its prior condition before rechecking for DTCs.
+Result
+Condition Proceed to
+DTCs (C0200/31, C0205/32, C1330/35 and C1331/36) are output A
+DTCs (C0200/31, C0205/32, C1330/35 and C1331/36) are output (When
+B
+troubleshooting in accordance with the PROBLEM SYMPTOMS TABLE)
+DTCs (C0200/31, C0205/32, C1330/35 and C1331/36) are not output (When
+C
+troubleshooting in accordance with the DTC CHART)

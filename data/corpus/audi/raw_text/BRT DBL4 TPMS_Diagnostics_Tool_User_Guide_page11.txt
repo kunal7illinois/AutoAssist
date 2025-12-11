@@ -1,0 +1,51 @@
+V1.2 User Guide 3/19/09 V1.2 User Guide 3/19/09
+DISPLAY AREA (continued) Diagnostics
+Prior to servicing any TPM vehicle’s wheels and tires, use
+6 Battery Indicator the BRT-DBL4 to insure the operating condition of the
+The Battery Indicator provides an estimate of the remaining power
+TPM sensors. A quick scan of a vehicle during the “walk
+of the battery in the tool.
+around” or during service allows the technician to
+accurately diagnose sensor status.
+There is plenty of power in the Battery
+There is a moderate amount of AUDIT FUNCTIONS
+power in the battery
+There is little power left in the battery Audit
+The BRT-DBL4 has a powerful feature known as “AUDIT
+The battery has almost run out
+MODE.” After a sensor(s) are read, the data stored on
+the tool can be saved and printed, even attached to
+When there is an insufficient amount of power remaining in the
+the customer’s records.
+battery then the Bartec BRT-DBL4 will flash its battery icon for two
+seconds, save all of the TPM Data and then power itself down.
+Audit Mode
+The BRT-DBL4 is capable of presenting all of its stored data within
+7 Test Indicator
+one or more computer files when connected to a PC via an USB
+The Test Indicator becomes visible when a new TPM Type can be
+lead. This is the same ‘Mass Storage Mode’ such as used in USB
+read. When the indicator is visible, pressing the Test Button will
+memory devices. No extra drivers or software have to be loaded
+initiate the reading of the n ew TPM Type. If the indicator is not
+onto the pc (as long as he specified operating systems are used).
+visible then pressing the Test Button will read the last TPM Type
+read.
+The files and the stored TPM Data enable the BRT-DBL4 to be used
+as part of an Auditing System.
+8 Data Available Indicator
+The TPM Data Indicator becomes visible when there is TPM Data
+The tool automatically goes into Mass Storage Device (MSD) mode
+available for viewing either by the display (See View TPM Data
+when connected to an active USB port on the pc.
+menu) or via the PC when the Bartec BRT-DBL4 is in its Mass
+It is not necessary to power up the tool prior to connecting to the
+Storage Device mode (See Audit Mode).
+pc- it will power up automatically.
+It is important not to accidentally press the enter key on the BRT-
+When there is no data present, the TPM Data Indicator will not be
+DBL4 at the same time as connecting to the pc, as this will put the
+visible.
+tool in Program mode which will not allow you access to the Audit
+File.
+10 19

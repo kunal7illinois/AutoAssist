@@ -1,0 +1,52 @@
+Audi 100 1991 ➤ , Audi 80 1992 ➤ , Audi A1 2011 ➤ , Audi A2 2001 ➤ , A ...
+Air conditioner with refrigerant R134a - Edition 06.2010
+Possible deviation from speci‐ Possible causes of fault Fault elimination
+fication
+• High pressure normal ♦ Actuation of air conditioner compres‐ – Check actuation of -N280- .
+sor regulating valve -N280- not OK
+• Low pressure too low (see – Clean refrigerant circuit
+graph) ♦ Expansion valve or air conditioner (flush with refrigerant R134a
+compressor defective. ⇒ page 59 or blow out with
+• Required cooling output is
+compressed air and nitrogen
+attained ♦ Air conditioner compressor defective.
+⇒ page 55 ) (not always nec‐
+essary, refer to notes).
+– Renew expansion valve and
+receiver.
+– Re-charge refrigerant circuit.
+– Repeat the test, if the func‐
+tion is not OK:
+– Replace the air conditioner
+compressor.
+– Re-charge refrigerant circuit.
+– Repeat test.
+Note
+♦ Heed the following in the event of the fault „High pressure nor‐
+mal, low pressure too low“: With this fault, the evaporator may
+ice up although the quantity of refrigerant in the circuit is OK.
+♦ If the problem is with -N280- (the regulating valve is not actu‐
+ated but the air conditioner compressor operates neverthe‐
+less), the refrigerant circuit does not have to be cleaned (flush
+with refrigerant R134a ⇒ page 59 or blow out with compressed
+air and nitrogen ⇒ page 55 ). It is sufficient in this case to re‐
+p lace the air conditioner compressor (heed quantity of refrig‐
+erant oil in air conditioner compressor).
+♦ If the expansion valve is defective (permanently closed or
+does not open sufficiently), -N280- is actuated to maximum
+output and the low pressure drops to the value in the graph or
+below (the air conditioner compressor draws off refrigerant
+from the low-pressure end). As refrigerant cannot however
+flow via expansion valve, cooling output is not attained and
+high pressure may either not increase or only slightly due to
+the absence of energy conversion.
+♦ Check the measured values of the evaporator output temper‐
+ature sender -G263- and actuation of -N280- . If the measured
+value of the evaporator output temperature sender -G263- is
+incorrect, the evaporator may ice up or the cooling output is
+not attained ⇒ Vehicle diagnostic tester ( „self-diagnosis“ or
+„guided fault-finding“ function for air conditioner) and ⇒ Heat‐
+ing, air conditioning; Rep. gr. 87 or ⇒ Air conditioning; Rep.
+gr. 87 (vehicle-specific workshop manual).
+133
+7. Checking pressures

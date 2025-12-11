@@ -1,0 +1,35 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-33
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the reset signal voltage at volume air flow
+sensor connector B-14 by backprobing.
+(1) Do not disconnect the connector B-14.
+(2) Start the engine and run at idle.
+(3) Measure the voltage between terminal 7 and ground by
+backprobing.
+• When the engine idling, voltage should be 1.0 volt or
+less.
+B-14 CONNECTOR • When the engine speed is 3,000 r/min, voltage should
+HARNESS
+be between 6.0 and 9.0 volts.
+SIDE VIEW
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+1 2 3 4 5 6 7
+Q:Is the voltage normal?
+YES : Go to Step 8.
+AKX01515AC NO : Go to Step 6.
+STEP 6. Check connector B-14 at volume air flow sensor
+and connector C-51 at ECM <M/T> or connector C-52 at
+PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : B-14
+YES : Go to Step 7.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 9.
+VOLUME AIR
+FLOW SENSOR
+ACX02480AC
+CONNECTOR : C-51<M/T>, C-52<A/T>
+PCM<A/T> ECM<M/T>
+C-52 C-51
+AK000225AJ
+TSB Revision

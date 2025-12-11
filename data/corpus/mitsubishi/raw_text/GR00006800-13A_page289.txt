@@ -1,0 +1,34 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-289
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Check for harness damage between MFI relay
+connector A-18X (terminal 4) and evaporative emission
+purge solenoid connector B-33 (terminal 2).
+Q:Is the harness wire in good condition?
+CONNECTOR: A-18X
+YES : Go to Step 11.
+MFI RELAY NO : Repair it. Then go to Step 12.
+AK101363AB
+CONNECTOR:B-33
+EVAPORATIVE
+EMISSION PURGE
+SOLENOID VALVE
+ACX02513AJ
+STEP 11. Check for harness damage between evaporative
+emission purge solenoid connector B-33 (terminal 1) and
+ECM connector C-49 (terminal 9) <M/T> or PCM connector
+C-50 (terminal 34) <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR:B-33
+YES : Replace the ECM or PCM. Then go to Step 12.
+NO : Repair it. Then go to Step 12.
+EVAPORATIVE
+EMISSION PURGE
+SOLENOID VALVE
+ACX02513AJ
+CONNECTORS:C-49<M/T>,C-50<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-49,C-50
+AK000280BC
+TSB Revision

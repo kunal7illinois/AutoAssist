@@ -1,0 +1,61 @@
+ES–283
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Sequence Operation Description Duration
+In order to determine 0.02 inch leak pressure standard,
+First 0.02 inch leak pressure vacuum pump creates negative pressure (vacuum)
+B 60 seconds
+measurement through 0.02 inch orifice and then ECM checks if
+vacuum pump and vent valve operate normally.
+Vent valve turned ON (closed) to shut EVAP system.
+Negative pressure (vacuum) created in EVAP system,
+and EVAP system pressure then measured.
+EVAP system pressure
+C Write down measured value as they will be used in leak 15 minutes*
+measurement
+check.
+If EVAP pressure does not stabilize within 15 minutes,
+ECM cancels EVAP system monitor.
+EVAP VSV opened and then EVAP system pressure
+D EVAP VSV monitor measured by ECM. 10 seconds
+Large increase indicates normal.
+After second 0.02 inch leak pressure measurement,
+leak check performed by comparing first and second
+ES
+Second 0.02 inch leak pressure 0.02 inch leak pressure standards.
+E 60 seconds
+measurement If stabilized system pressure higher than second 0.02
+inch leak pressure standard, ECM determines that
+EVAP system leaking.
+Atmospheric pressure measured and then monitoring
+F Final check -
+result recorded by ECM.
+HINT:
+*: If only a small amount of fuel is in the fuel tank, it takes longer for the EVAP pressure to stabilize.
+Operation B, E:
+Operation A: Atmospheric Pressure Measurement
+0.02 Inch Leak Pressure Measurement
+Purge VSV: OFF
+Canister
+Fuel tank
+OFF
+OFF (vent)
+Vent Valve: OFF (vent)
+0.02 Inch
+Orifice Pump Module
+Air Filter
+Vacuum ON
+Pump: OFF
+Operation C: EVAP System Pressure Measurement Operation D: Purge VSV Monitor
+ON (closed)
+OFF ON
+Atmospheric ON (closed)
+Pressure
+Negative
+Pressure
+ON ON
+A106055E15
+1. P0455: EVAP (Evaporative Emission ) gross leak
+In operation C, the vacuum pump creates negative pressure (vacuum) in the EVAP system and the
+EVAP system pressure is measured. If the stabilized system pressure is higher than [second 0.02 inch
+leak pressure standard x 0.2] (near atmospheric pressure), the ECM determines that the EVAP system
+has a large leak, illuminates the MIL and sets the DTC (2 trip detection logic).

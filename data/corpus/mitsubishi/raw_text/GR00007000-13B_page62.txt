@@ -1,0 +1,48 @@
+13B-62 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 12. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0108 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0111: Intake Air Temperature Circuit Range/Performance Problem
+1 2 3 4 5 6 7
+AK101593
+.
+TSB Revision
+NWORB
+EULB-DER
+Intake Air Temperature Sensor Circuit
+B-14
+INTAKE AIR TEMPERATURE SENSOR
+(INCORPORATED IN VOLUME AIR
+FLOW SENSOR)
+5 6
+C-58 <M/T>
+34 <M/T>*1 62 <M/T>*2 (MU803782)
+16 <A/T>*3 64 <A/T>*4
+41424344 45 46 47
+C-51 <M/T>, C-52 <A/T> 48495051525354555657 58 59
+(MU803784) 6061 626364 6566 67 68
+1 2 3 4 5 6 7 8 C-55 <A/T>
+9 10 11121314151617181920212223
+(MU803781)
+24 25 26272829 30313233 3435
+5 V 41 42 43 444546
+47 48 495051525354555657
+NOTE 58 59 60616263 646566
+*1: ECM connector C-51 <M/T> ENGINE CONTROL MODULE (ECM) <M/T>
+*2: ECM connector C-58 <M/T> OR
+*3: PCM connector C-52 <A/T> POWERTRAIN CONTROL MODULE (PCM) <A/T>
+*4: PCM connector C-55 <A/T>
+CONNECTOR : B-14 CONNECTORS:C-51,C-58<M/T>
+C-52,C-55<A/T>
+PCM<A/T> ECM<M/T>
+INTAKE AIR
+TEMPERATURE
+SENSOR
+C-52
+C-55 C-51 C-58
+ACX02480AG AK000225AH

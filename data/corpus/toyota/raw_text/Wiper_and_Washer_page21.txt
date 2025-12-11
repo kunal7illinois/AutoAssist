@@ -1,0 +1,45 @@
+WW–22
+WIPER AND WASHER – WIPER SWITCH
+REMOVAL
+1. REMOVE STEERING COLUMN COVER (See page
+SR-39)
+2. REMOVE WINDSHIELD WIPER SWITCH ASSEMBLY
+(a) Disconnect the 2 connectors.
+(b) Disengage the claw and remove the windshield
+wiper switch assembly as shown in the illustration.
+NOTICE:
+If the claw is pushed with excessive force, it
+may break.
+E128824
+INSPECTION
+Connector Front View:
+1. INSPECT WINDSHIELD WIPER SWITCH ASSEMBLY
+E20 E19
+(a) Check the continuity of the windshield wiper switch
+assembly.
+(1) Measure the resistance according to the
+value(s) in the table below.
+Standard resistance:
+Front Wiper Switch
+Switch Position Tester Connection Specified Resistance
+E069286E04
+MIST E20-2 (+B) - E20-3 (+1) Below 1 Ω
+OFF E20-1 (+S) - E20-3 (+1) Below 1 Ω
+INT E20-1 (+S) - E20-3 (+1) Below 1 Ω
+LO E20-2 (+B) - E20-3 (+1) Below 1 Ω
+HI E20-2 (+B) - E20-4 (+2) Below 1 Ω
+Front Washer Switch
+Switch Position Tester Connection Specified Resistance
+WW OFF E19-3 (WF) - E19-2 (EW) 10 kΩ or higher
+ON E19-3 (WF) - E19-2 (EW) Below 1 Ω
+(b) Intermittent Operation Check
+(1) Connect the voltmeter (+) terminal to terminal
+E20-3 (+1) of the connector and the voltmeter
+(-) terminal to terminal E19-2 (EW).
+(2) Connect a positive (+) battery lead to terminal
+E20-2 (+B) of the connector and a negative (-)
+battery lead to terminals E19-2 (EW) and E20-1
+(+S).
+(3) Turn the wiper switch to the INT position.
+(4) Connect a positive (+) battery lead to terminal
+E20-1 (+S) of the connector for 5 seconds.

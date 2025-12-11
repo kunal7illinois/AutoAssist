@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+17. Start the engine.
+18. Check the MAP SENSOR in the DATA LIST with the HDS while snapping
+the throttle to fuel cut engine speed.
+Is about 36.9 kPa (10.9 in.Hg, 277 mmHg), or 1.51 V or less indicated?
+YES -Check for poor connections or loose terminals at the fuel rail pressure
+sensor and the PCM. Also check for a loose or damage fuel pressure regulator
+P1 vacuum line. Then go to step 19.
+NO -Replace the MAP sensor, refer to the MAP SENSOR
+REPLACEMENT , then go to step 19.
+19. Turn the ignition switch OFF.
+20. Reconnect all connectors.
+21. Turn the ignition switch ON (II).
+22. Reset the PCM with the HDS.
+23. Do the PCM idle learn procedure, refer to the ECM/PCM IDLE LEARN
+PROCEDURE .
+24. Test-drive the vehicle for several minutes in the range of these recorded on-
+board snapshot parameters:
+ENGINE SPEED
+(cid:1)
+MAP SENSOR
+(cid:1)
+25. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0191 indicated?
+YES -Check for poor connections or loose terminals at the fuel rail pressure
+sensor and the PCM, then go to step 1.
+NO -Go to step 26.
+26. Monitor the OBD STATUS for DTC P0191 in the DTCs MENU with the
+HDS.

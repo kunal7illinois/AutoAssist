@@ -1,0 +1,38 @@
+BC–295
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+(d) Using SST, connect terminals TC and CG of the
+DLC3: CG DLC3.
+SST 09843-18040
+(e) Count the number of blinks of the ABS warning light.
+TS TC
+G022988E01
+Blinking Pattern of Normal System Code:
+0.25 sec. 0.25 sec.
+ON
+BC
+OFF
+Blinking Pattern of Trouble Code (Example Codes 71 and 72):
+0.5 sec. 2.5 sec.
+1.5 sec.
+4 sec.
+0.5 sec.
+Repeat
+ON
+OFF
+Code 71 Code 72
+C132876E01
+NOTICE:
+• If only the DTCs are displayed, repair the
+malfunction area and clear the DTCs.
+• If the DTCs or Test Mode codes (DTC of
+signal check function) are displayed, repair
+the malfunction area, clear the DTCs and
+perform the Test Mode inspection.
+HINT:
+• If more than 1 malfunction is detected at the
+same time, the lowest numbered code will be
+displayed first.
+• See the list of DTCs (See procedure "A").
+(f) After performing the check, disconnect the SST
+from terminals TS and CG, and TC and CG of the
+DLC3, and turn the ignition switch off.

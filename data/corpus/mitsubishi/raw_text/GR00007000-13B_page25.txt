@@ -1,0 +1,38 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-25
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC CODE DIAGNOSTIC ITEMS REFERENCE
+PAGE
+P0733 Gear 3 incorrect ratio • A/T DTC No. 43 (3rd gear incorrect ratio) P.23A-40
+P0734 Gear 4 incorrect ratio • A/T DTC No. 44 (4th gear incorrect ratio) P.23A-40
+P0736 Gear R incorrect ratio • A/T DTC No. 46 (Reverse gear incorrect P.23A-40
+ratio)
+P0741 Torque converter clutch • A/T DTC No. 52 (Torque converter clutch P.23A-40
+circuit performance or solenoid system: Defective system)
+stuck off
+P0742 Torque converter clutch • A/T DTC No. 53 (Torque converter clutch P.23A-40
+circuit stuck on solenoid system: Lock-up stuck on)
+P0743 Torque converter clutch • A/T DTC No. 36 (Torque converter clutch P.23A-40
+circuit electrical solenoid system: Short circuit/Open circuit)
+P0753 Shift solenoid "A" • A/T DTC No. 31 (Low and reverse solenoid P.23A-40
+electrical valve system: Short circuit/Open circuit)
+P0758 Shift solenoid "B" • A/T DTC No. 32 (Underdrive solenoid valve P.23A-40
+electrical system: Short circuit/Open circuit)
+P0763 Shift solenoid "C" • A/T DTC No. 33 (Second solenoid valve P.23A-40
+electrical system: Short circuit/Open circuit)
+P0768 Shift solenoid "D" • A/T DTC No. 34 (Overdrive solenoid valve P.23A-40
+electrical system: Short circuit/Open circuit)
+P1400 Manifold differential pressure sensor circuit malfunction P.13B-518
+P1603* Battery backup circuit malfunction P.13B-525
+P1751 A/T control relay • A/T DTC No. 54 (A/T control relay system: P.23A-40
+malfunction Short circuit to ground /open circuit)
+NOTE: Do not replace the engine control module (ECM) <M/T> or powertrain control module (PCM) <A/T>
+until a through terminal check reveals there are no short/open circuits.
+NOTE: Check that the ECM <M/T> or PCM <A/T> ground circuit is normal before checking for the cause of
+the problem.
+NOTE: After the ECM <M/T> or PCM <A/T> detects a malfunction, a diagnostic trouble code is recorded the
+next time the engine is started and the same malfunction is re-detected. However, for items marked with a "*",
+the diagnostic trouble code is recorded on the first detection of the malfunction.
+NOTE: Sensor 1 indicates the sensor mounted at a position closest to the engine, and sensor 2 indicates the
+sensor mounted at the position second closest to the engine.
+NOTE: Bank 1 indicates the right bank side cylinder, and Bank 2 indicates the left bank side cylinder.
+TSB Revision

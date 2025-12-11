@@ -1,0 +1,49 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Secondary Air Injection Engine Control Module (ECM) -
+Sensor 1 -G609- electrical J623- electrical connector T60 ter‐
+harness connector termi‐ minals or test box socket
+nals
+1 13
+3 44
+4 55
+Specified value: 1.5 Ω Max.
+If the specified value was Not obtained:
+– Check the wiring for an open, high resistance or short to
+ground.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is detected in the wiring:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Install the engine cover with air filter. Refer to the Repair Man‐
+ual.
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.36 Camshaft Position Sensor, Checking
+Note
+Use only gold-plated terminals when servicing terminals in har‐
+ness connector of Camshaft Position (CMP) Sensor -G40- .
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Wiring diagram.
+Test requirements
+• The Engine Control Module (ECM) - J623- fuses OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• Vehicles with automatic transmission, shift selector lever into
+position “P” or “N”.
+• A/C switched off.
+182
+Rep. Gr.ST - Generic Scan Tool

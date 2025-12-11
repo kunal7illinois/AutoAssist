@@ -1,0 +1,34 @@
+AX–140
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+(h) Lightly depress the accelerator pedal and check that the engine speed does not change
+abruptly.
+AX
+Accelerator Pedal
+Opening Angle
+Accelerator Pedal
+Lock-up OFF
+Fully Released
+Engine speed Lock-up ON
+time
+G029214E09
+HINT:
+• When changing the accelerator pedal opening angle while driving, if the engine speed does
+not change, lock-up is on.
+• Slowly release, but not fully, the accelerator pedal in order to decelerate. (Fully releasing the
+pedal will close the throttle valve and lock-up may be turned off automatically.)
+1 CHECK OTHER DTCS OUTPUT (IN ADDITION TO DTC P2757)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester on.
+(c) Enter the following items: "DIAGNOSIS / OBD/MOBD /
+ECT / DTC INFO / CURRENT CODES".
+(d) Read the DTCs using the intelligent tester.
+Result
+Display (DTC output) Proceed to
+Only "P2757" is output A
+"P2757" and other DTCs B
+HINT:
+If any other codes besides "P2757" are output, perform
+troubleshooting for those DTCs first.
+B GO TO DTC CHART
+A

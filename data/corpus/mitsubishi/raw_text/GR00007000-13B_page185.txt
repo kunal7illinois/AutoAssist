@@ -1,0 +1,54 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-185
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS : C-58, C-62<M/T>,
+C-55, C-59<A/T>
+PCM<A/T> ECM<M/T>
+C-55 C-59 C-58 C-62
+AK000225AK
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+• A voltage corresponding to the oxygen concen- Check Conditions
+tration in the exhaust gas is sent to the ECM (ter- • 3 minutes or more have passed since the starting
+minal 71) <M/T> or PCM (terminal 71) <A/T> sequence was completed.
+from the output terminal (terminal 4) of the left • Left bank heated oxygen sensor (front) signal
+bank heated oxygen sensor (front). voltage has continued to be 0.2 volt or lower.
+• Terminal 2 of the left bank heated oxygen sensor • Engine coolant temperature is higher than 76°C
+(front) is grounded with ECM (terminal 49) <M/T> (169°F).
+or PCM (terminal 57) <A/T>. • Engine speed is higher than 1,200 r/min.
+• Volumetric efficiency is higher than 25 percent.
+. TECHNICAL DESCRIPTION • Monitoring time: 7 seconds.
+• The left bank heated oxygen sensor (front)
+Judgment Criteria
+detects the concentration of oxygen in the • Input voltage supplied to the ECM <M/T> or PCM
+exhaust gas; it converts that data to voltage, and
+<A/T> interface circuit is higher than 4.5 volts
+sends it to the ECM <M/T> or PCM <A/T>.
+when 5 volts is applied to the left bank heated
+• When the left bank heated oxygen sensor (front)
+oxygen sensor (front) output line via a resistor.
+begins to deteriorate, the heated oxygen sensor • The ECM <M/T> or PCM <A/T> monitors for this
+signal response deteriorates also.
+condition once during the drive cycle.
+• The ECM <M/T> or PCM <A/T> varies the air/fuel
+mixture to make it leaner and richer, and checks .
+TROUBLESHOOTING HINTS (The most likely
+the response speed of the left bank heated oxy-
+causes for this code to be set are: )
+gen sensor (front). In addition, the ECM <M/T> or
+• Left bank heated oxygen sensor (front) deterio-
+PCM <A/T> also checks for an open circuit in the
+rated.
+left bank heated oxygen sensor (front) output
+• Open circuit in left bank heated oxygen sensor
+line.
+(front) output line.
+• Open circuit in left bank heated oxygen sensor
+.
+(front) ground line.
+• ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MD998464: Test Harness
+TSB Revision

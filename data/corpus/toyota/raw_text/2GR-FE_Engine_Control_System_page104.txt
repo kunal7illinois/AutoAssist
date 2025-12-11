@@ -1,0 +1,28 @@
+ES–104
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Camshaft Position "B" - Timing Over-Advanced
+DTC P0014
+or System Performance (Bank 1)
+Camshaft Position "B" - Timing Over-Retarded
+DTC P0015
+(Bank 1)
+Camshaft Position "B" - Timing Over-Advanced
+DTC P0024
+or System Performance (Bank 2)
+Camshaft Position "B" - Timing Over-Retarded
+DTC P0025
+(Bank 2)
+ES
+DESCRIPTION
+HINT:
+If DTC P0014, P0015, P0024 or P0025 is present, check the VVT (Variable Valve Timing) system.
+The Variable Valve Timing (VVT) system includes the ECM, OCV and VVT controller. The ECM sends a
+target duty-cycle control signal to the OCV. This control signal regulates the oil pressure supplied to the
+VVT controller. Camshaft timing control is performed according to engine operating conditions such as the
+intake air volume, throttle valve position and engine coolant temperature. The ECM controls the OCV,
+based on the signals transmitted by several sensors. The VVT controller regulates the exhaust camshaft
+angle using oil pressure through the OCV. As a result, the relative positions of the camshaft and
+crankshaft are optimized, the engine torque and fuel economy improve, and the exhaust emissions
+decrease under overall driving conditions. The ECM detects the actual exhaust valve timing using signals
+from the camshaft and crankshaft position sensors, and performs feedback control. This is how the target
+intake valve timing is verified by the ECM.

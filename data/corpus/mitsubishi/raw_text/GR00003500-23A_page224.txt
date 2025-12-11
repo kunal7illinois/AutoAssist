@@ -1,0 +1,34 @@
+23A-224 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 9. Check connectors B-38 at output shaft speed
+sensor and C-61 <2.4L Engine> or C-63 <3.0L Engine> at
+PCM for damage.
+Q:Are the connectors in good condition?
+CONNECTOR: B-38
+YES : Go to Step 10.
+NO : Repair or replace the defective connector(s). Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2.
+B-38
+AC001837AI
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE>
+PCM
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+STEP 10. Check harness for damage between output shaft
+speed sensor connector B-38 terminal 2 and PCM
+connector C-61 <2.4L Engine> or C-63 <3.0L Engine>
+terminal 104.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-38
+YES : Go to Step 11.
+NO : Repair it.
+B-38
+AC001837AI
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE>
+PCM
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+TSB Revision

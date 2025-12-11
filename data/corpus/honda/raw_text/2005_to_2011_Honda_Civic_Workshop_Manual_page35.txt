@@ -1,0 +1,33 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+Is there 0.1 V or more?
+YES - Repair short to power in the wire between the appropriate wheel sensor
+and the ABS modulator-control unit.
+NO - Check for loose terminals in the ABS modulator-control unit 25P
+connector. If necessary, substitute a known-good ABS modulator-control unit:
+Except Si model (see REMOVAL - EXCEPT SI MODEL ), Si model (see
+REMOVAL - SI MODEL ), and retest.
+DTC 12-11: RIGHT-FRONT WHEEL SENSOR ELECTRICAL NOISE OR INTERMITTENT
+INTERRUPTION; DTC 14-11: LEFT-FRONT WHEEL SENSOR ELECTRICAL NOISE OR
+INTERMITTENT INTERRUPTION; DTC 16-11: RIGHT-REAR WHEEL SENSOR ELECTRICAL
+NOISE OR INTERMITTENT INTERRUPTION; DTC 18-11: LEFT-REAR WHEEL SENSOR
+ELECTRICAL NOISE OR INTERMITTENT INTERRUPTION
+NOTE: These DTCs may be caused by electrical interference.
+Check for aftermarket devices installed in the vehicle when
+these DTCs are indicated.
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Test-drive the vehicle.
+4. Check for DTCs with the HDS.
+Is DTC 12-11, 14-11, 16-11, and/or 18-11 indicated?
+YES - If the DTC 12-12,14-12,16-12 or 18-12 is indicated at same time, do the
+DTC 12-12,14-12, 16-12 or 18-12 troubleshooting (see DTC 12-12: RIGHT-
+FRONT WHEEL SENSOR SHORT TO THE OTHER SENSOR
+CIRCUIT; DTC 14-12: LEFT-FRONT WHEEL SENSOR SHORT TO
+THE OTHER SENSOR CIRCUIT; DTC 16-12: RIGHT-REAR WHEEL
+SENSOR SHORT TO THE OTHER SENSOR CIRCUIT; DTC 18-12:
+LEFT-REAR WHEEL SENSOR SHORT TO THE OTHER SENSOR
+CIRCUIT ). If DTC 12-12,14-12,16-12 or 18-12 is not indicated, go to step 5.
+NO - Troubleshoot the indicated DTC. If there are no DTCs indicated, there
+may be an intermittent failure, the system is OK at this time. Check for loose

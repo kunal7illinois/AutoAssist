@@ -1,0 +1,50 @@
+BC–151
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+FAIL-SAFE CHART
+1. FAIL SAFE OPERATION
+• If there is a problem with sensor signals or actuator
+systems, the skid control ECU prohibits power supply
+to the brake actuator assembly and informs the ECM
+of VSC system failure.
+The brake actuator assembly turns off each solenoid
+and the ECM shuts off VSC control (traction control
+signal) from the skid control ECU accordingly, which
+turns out to be as if the ABS, TRAC and VSC systems
+were not installed.
+The ABS control will be prohibited, but EBD control
+continues as much as possible. If EBD control is
+impossible, the BRAKE warning light comes on to
+warn the driver (See page BC-138).
+• If system components have any malfunction before
+starting control, immediately stop the operation. If
+system components have any malfunction during BC
+control, gradually stop the control so as not to trigger
+a sudden change in vehicle conditions.
+If it is impossible to control the systems, the warning
+light comes on to inform the driver of termination of
+the systems (See page BC-138).
+HINT:
+If the hydraulic brake booster encounters a malfunction,
+brake performance is gradually lost and ABS, BA, TRAC
+and VSC systems are prohibited.
+ABS, EBD and BA system:
+Malfunction Area Control Method
+ABS system ABS, BA, TRAC and VSC control prohibited
+BA system ABS, BA, TRAC and VSC control prohibited
+EBD system ABS, EBD, BA, TRAC and VSC control prohibited
+HINT:
+A malfunction in either the ABS or BA system will result
+in an identical operation, with ABS, BA, TRAC and VSC
+system control prohibited.
+TRAC and VSC system:
+Malfunction Area Control Method
+Engine control system Before control: Disables control
+(TRAC and VSC systems) During control: Uses only the brakes to effect control
+Brake control system Before control: Disables control
+(VSC system) During control: Uses only the engine to effect control
+Brake control system Before control: Disables control
+(TRAC system) During control: Disables control (by gradually ending control)
+HINT:
+As for the TRAC and VSC systems, different systems
+prohibit different controls depending on a malfunctioning
+part.

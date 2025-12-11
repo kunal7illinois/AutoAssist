@@ -1,0 +1,67 @@
+AC–31
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+TERMINALS OF ECU
+1. A/C AMPLIFIER
+E38 e1
+E124486E01
+HINT:
+Check from the rear of the connector while it is
+connected to the A/C amplifier.
+Terminal No. Specified
+Wiring Color Terminal Description Condition
+(Symbols) Condition
+E38-1 (IG+) - E38-14 (GND) V - W-B Power source (IG) Ignition switch on (IG) 10 to 14 V
+E38-1 (IG+) - E38-14 (GND) V - W-B Power source (IG) Ignition switch off Below 1 V
+Engine is running
+A/C compressor operation Pulse generation
+E38-2 (SOL+) - E38-14 (GND) W - W-B A/C switch: ON
+signal (See waveform 1)
+Blower switch: LO
+A/C ambient temperature Ignition switch on (IG) at 25°C
+E38-5 (TAM) - E38-14 (GND) P - W-B 1.35 to 1.75 V
+sensor signal (77°F)
+A/C ambient temperature Ignition switch on (IG) at 40°C
+E38-5 (TAM) - E38-14 (GND) P - W-B 0.9 to 1.2 V
+sensor signal (104°F)
+AC
+Engine is running
+A/C compressor lock Pulse generation
+E38-8 (LOCK)*1 - E38-14 (GND) G - W-B Blower switch: LO
+sensor signal (See waveform 2)
+A/C switch: ON
+Start engine, Operate A/C
+system, Refrigerant pressure:
+A/C pressure sensor
+E38-9 (PRE) - E38-13 (SG-2) V - L Abnormal pressure (more than 4.74 V or higher
+signal
+3,140 kPa (32.0 kgf/cm2, 455
+psi))
+Start engine, Operate A/C
+A/C pressure sensor system, Refrigerant pressure:
+E38-9 (PRE) - E38-13 (SG-2) V - L Below 0.76 V
+signal Abnormal pressure (less than 196
+kPa (2.0 kgf/cm2, 28 psi))
+Start engine, Operate A/C
+system, Refrigerant pressure:
+A/C pressure sensor Abnormal pressure (more than
+E38-9 (PRE) - E38-13 (SG-2) V - L 0.76 to 4.74 V
+signal 3,140 kPa (32.0 kgf/cm2, 455 psi)
+and less than 196 kPa (2.0 kgf/
+cm2, 28 psi))
+Power supply for A/C Ignition switch on (IG)
+E38-10 (S5-3) - E38-13 (SG-2) BR - L 4.5 to 5.5 V
+pressure sensor A/C switch: ON
+Power supply for A/C Ignition switch on (IG)
+E38-10 (S5-3) - E38-13 (SG-2) BR - L Below 1 V
+pressure sensor A/C switch: OFF
+CAN communication
+E38-11 (CANH) - E38-12 (CANL) B - W CAN communication circuit Pulse generation
+system
+Ground for A/C pressure
+sensor, A/C ambient
+E38-13 (SG-2) - Body ground L - Body ground Always Below 1 V
+temperature sensor, A/C
+lock sensor
+Ground for main power
+E38-14 (GND) - Body ground W-B - Body ground Always Below 1 V
+supply

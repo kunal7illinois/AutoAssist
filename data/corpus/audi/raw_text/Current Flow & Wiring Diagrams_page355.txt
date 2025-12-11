@@ -1,0 +1,46 @@
+Audi TT No. 43 / 14
+Current Flow Diagram
+Engine control unit
+J623 Engine control unit
+N75 Charge pressure control solenoid valve
+N80 Activated charcoal filter system solenoid valve 1
+N205 Inlet camshaft control valve 1
+N249 Turbocharger air recirculation valve
+N316 Intake manifold flap valve
+N428 Valve for oil pressure control
+T14 14-pin connector, black, on front left in engine compartment
+T60 60-pin connector, on engine control unit
+D180 Connection (87a), in engine compartment wiring harness
+* not for USA
+J623
+T60/3 T60/35 T60/5 T60/50 T60/20 T60/1
+5522
+1,0 1,0 1,0 1,0 1,0 1,0 1,0
+bl/ro li bl/li li/ws gn/ro li/ws gr/li
+T14/6
+2 2 2 2 2 1
+✱
+N75
+1
+N80
+1
+N205
+1
+N249
+1
+N316
+1
+N428
+2 ws = white
+sw = black
+ro = red
+1,0 1,0 1,0 1,0 1,0 1,0 1,0 br = brown
+bl/ro ro/bl ro/bl ro/bl ro/bl ro/bl ro/bl gn = green
+D180 bl = blue
+gr = grey
+li = purple
+ge = yellow
+169 170 171 172 173 174 175 176 177 178 179 180 181 182 or = orange
+8J0-043141008
+rs = pink
+Edition 04.2009

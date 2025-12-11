@@ -1,0 +1,40 @@
+54B-424 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 19. Measure at trunk light connector F-21 in order to
+check the ETACS-ECU line of the power supply to the
+trunk light.
+(1) Disconnect trunk light connector F-21, and measure at the
+CONNECTOR <ECLIPSE SPYDER>: F-21
+wiring harness side.
+1
+DEVICE SIDE
+2
+AC106491AP
+(2) Measure the voltage between terminal 1 and ground.
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 22.
+1 NO : Go to Step 20.
+2
+CONNECTOR: F-21
+(HARNESS SIDE)
+AC102055AC
+STEP 20. Check trunk light connector F-21 and ETACS-
+ECU connector C-119 for damage.
+Q:Are trunk light connector F-21 and ETACS-ECU
+CONNECTOR <ECLIPSE SPYDER>: F-21
+connector C-119 in good condition?
+YES : Go to Step 21.
+1 DEVICE SIDE NO : Repair or replace the connector. Refer to GROUP
+2
+00E, Harness Connector Inspection P.00E-2. Check
+that the trunk lights illuminate normally.
+AC106491AP
+CONNECTOR: C-119
+DEVICE SIDE
+1 2 3 4 5 6 7 8 91011121314151617181920
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+TSB Revision

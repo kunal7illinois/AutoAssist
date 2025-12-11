@@ -1,0 +1,26 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+switch is turned ON (II).
+Does the indicator come on then go off?
+YES -Intermittent failure, the system is OK at this time. Check for loose
+terminals between the VSA OFF switch 5P connector, the gauge control
+module (tach) 36P connector, and the VSA modulator-control unit 37P
+connector. Refer to INTERMITTENT FAILURES TROUBLESHOOTING
+(see ).
+NO -Go to step 3.
+3. Check the VSA OFF SWITCH in the VSA DATA LIST with the HDS while
+pushing the VSA OFF switch.
+Does the indicator change from ON (OFF) to OFF (ON)?
+YES -Do the gauge control module troubleshooting (see SELF-
+DIAGNOSTIC FUNCTION ).
+NO -Go to step 4.
+4. Turn the ignition switch to LOCK (0).
+5. Check the VSA OFF switch (see VSA OFF SWITCH TEST ).
+Is the VSA off switch OK?
+YES -Go to step 6.
+NO -Replace the VSA OFF switch (see VSA OFF SWITCH TEST ).
+6. Disconnect the gauge control module (tach) 36P connector.
+7. Disconnect the VSA OFF switch 5P connector.
+8. Check for continuity between VSA OFF switch 5P connector terminal No. 2
+and body ground.

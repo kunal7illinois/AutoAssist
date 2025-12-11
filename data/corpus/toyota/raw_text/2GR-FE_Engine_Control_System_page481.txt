@@ -1,0 +1,34 @@
+ES–481
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK HARNESS AND CONNECTOR (COMBINATION METER - ECM)
+(a) Disconnect the A55 ECM connector.
+Wire Harness Side:
+(b) Disconnect the F2 combination meter connector.
+(c) Measure the resistance.
+Combination Meter Connector Standard resistance (Check for short)
+Tester Connection Specified Condition
+A55-24 (W) or F2-4 (CHK) - Body ground 10 kΩ or higher
+(d) Reconnect the ECM connector.
+F2
+(e) Reconnect the combination meter connector.
+OK REPAIR OR REPLACE COMBINATION
+METER ASSEMBLY ES
+A55 ECM Connector
+W
+A132305E02
+NG
+REPAIR OR REPLACE HARNESS OR CONNECTOR
+5 CHECK THAT MIL IS ILLUMINATED
+(a) Check if the MIL is illuminated when the ignition switch is
+turned on (IG).
+OK:
+MIL is illuminated.
+OK SYSTEM OK
+NG
+6 CHECK THAT ENGINE STARTS
+(a) Turn the ignition switch on (IG).
+(b) Start the engine.
+Result
+Result Proceed to
+Engine starts A
+Engine does not start* B

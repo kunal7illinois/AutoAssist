@@ -1,0 +1,45 @@
+ES–34
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1. WAVEFORM 1
+5 V/DIV. Camshaft timing oil control valve (OCV)
+ECM Terminal Names Between OC1+ and OC1-
+Tester Ranges 5 V/DIV., 1 msec./DIV.
+Conditions Idling
+GND
+1 msec./DIV.
+A093229E02
+2. WAVEFORM 2
+0.2 V/DIV. Heated oxygen sensor
+ES
+ECM Terminal Names Between OX1B and EX1B
+Tester Ranges 0.2 V/DIV., 200 msec./DIV.
+Conditions Engine speed maintained at 2,500 rpm
+for 2 minutes after warming up sensor
+GND HINT:
+In DATA LIST, item O2S B1 S2 shows the ECM input
+200 msec./DIV. values from the heated oxygen sensor.
+A088863E05
+3. WAVEFORM 3
+20 V/DIV. Injector No. 1 (to No. 4) injection signal
+ECM Terminal Names Between #10 (to #40) and E01
+Tester Ranges 20 V/DIV., 20 msec./DIV.
+Conditions Idling
+HINT:
+The wavelength becomes shorter as the engine rpm
+GND
+increases.
+20 msec./DIV.
+A093279E04
+4. WAVEFORM 4
+Knock sensor
+1 V/DIV. ECM Terminal Names Between KNK1 and EKNK
+Tester Ranges 1 V/DIV., 1 msec./DIV.
+Conditions Engine speed maintained at 4,000 rpm
+GND
+after warming up engine
+HINT:
+• The wavelength becomes shorter as the engine rpm
+1 msec./DIV. increases.
+A085286E03
+• The waveforms and amplitudes displayed differ
+slightly depending on the vehicle.

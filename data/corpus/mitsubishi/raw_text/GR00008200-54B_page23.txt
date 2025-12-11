@@ -1,0 +1,41 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-23
+SYMPTOM PROCEDURES
+CONNECTOR: C-29 CONNECTOR: C-77
+AC106557AF AC106473AV
+CONNECTOR: C-108 CONNECTORS: C-118, C-119
+JUNCTION BLOCK
+JUNCTION BLOCK
+(FRONT VIEW)
+(REAR VIEW)
+C-118
+C-119
+AC106479AE AC106481AL
+. TROUBLESHOOTING HINTS
+TECHNICAL DESCRIPTION (COMMENT)
+• Malfunction of the SWS monitor body (I/F car-
+The SWS monitor kit may be connected improperly.
+tridge)
+• Malfunction of the SWS monitor harness
+.
+• Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Check SWS monitor kit MB991862 for proper
+connection.
+Q:Is SWS monitor kit MB991862 connected with the
+column switch properly?
+YES : Go to Step 2.
+NO : Connect SWS monitor kit MB991862 to the column
+switch securely.
+STEP 2. Check the power supply circuit to the ETACS-ECU.
+Q:Does the system communicate with scan tool
+MB991502 when the ignition switch is turned to the
+"ON" position?
+YES : Go to Step 3.
+NO : Refer to Inspection Procedure A-3 "Communication
+with the ETACS-ECU is impossible P.54B-39."
+TSB Revision

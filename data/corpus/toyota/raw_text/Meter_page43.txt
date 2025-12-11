@@ -1,0 +1,34 @@
+ME–43
+METER – METER / GAUGE SYSTEM
+DTC U0129 Lost Communication with Skid Control ECU
+DESCRIPTION
+The combination meter assembly communicates with the ABS and traction actuator (skid control ECU) via
+the CAN communication lines (CAN No. 1 Bus).
+DTC No. DTC Detection Conditions Trouble Areas
+When either of following conditions detected:
+1. 15 seconds have elapsed since engine started and
+IG voltage 10.5 V or more • ABS and traction actuator assembly (Skid control
+U0129 2. No communication with ABS and traction actuator ECU)
+(skid control ECU) continues for 3 seconds or more • CAN communication system
+(No communication with ECM or skid control ECU
+continues for 60 seconds or more)
+WIRING DIAGRAM
+Skid Control ECU Combination Meter Assembly
+CANH CANH
+CAN Line (CAN No. 1 Bus)
+CANL CANL
+CAN Line (CAN No. 1 Bus)
+E124226E07
+INSPECTION PROCEDURE
+1 CONFIRM DTC OUTPUT
+ME
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Clear the stored DTCs by selecting the following menu
+items on the tester: DIAGNOSIS / OBD / MOBD /
+METER / DTC INFO / CLEAR CODES.
+(e) Drive the vehicle at more than 5 km/h (3.1 mph) for at
+least 60 seconds.
+(f) Stop the vehicle.
+(g) Check for DTCs (See page CA-25).

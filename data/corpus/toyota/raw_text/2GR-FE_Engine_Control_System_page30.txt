@@ -1,0 +1,54 @@
+ES–30
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2. ACCESS MONITOR RESULT
+(a) Select the following menus on the intelligent tester:
+DIAGNOSIS, ENHANCED OBDII, MONITOR INFO
+and MONITOR RESULT. The monitor status
+appears after the component name.
+• INCMP: The component has not been monitored
+yet.
+• PASS: The component is functioning normally.
+• FAIL: The component is malfunctioning.
+(b) Confirm that the component is either PASS or FAIL.
+(c) Select the component and press ENTER. The
+accuracy test value appears if the monitor status is
+either PASS or FAIL.
+HINT:
+The monitor result might be PASS on rare
+ES
+occasions even if the Malfunction Indicator Lamp
+(MIL) is illuminated. This indicates that the system
+was malfunctioning in the previous driving cycle.
+This might be caused by an intermittent problem.
+3. CHECK COMPONENT STATUS
+(a) Compare the test value with the minimum test limit
+(MIN LIMIT) and maximum test limit (MAX LIMIT).
+(b) If the test value is between the minimum test limit
+and maximum test limit, the component is
+functioning normally. If not, the component is
+malfunctioning. The test value is usually significantly
+higher or lower than the test limit. If the test value is
+on the borderline of the test limit, the component will
+malfunction in the near future.
+HINT:
+The monitor result might be PASS on rare occasions even if
+the Malfunction Indicator Lamp (MIL) is illuminated. This
+indicates that the system was malfunctioning in the previous
+driving cycle. This might be caused by an intermittent
+problem.
+4. MONITOR RESULT INFORMATION
+If you use a generic scan tool, multiply the test value by
+the scaling value listed below.
+A/F Sensor Bank 1:
+Monitor ID Test ID Scaling Unit Description
+$01 $8E Multiply by 0.0003 No dimension A/F sensor deterioration level
+$01 $91 Multiply by 0.004 mA A/F sensor current
+HO2S Bank 1 Sensor 2:
+Monitor ID Test ID Scaling Unit Description
+$02 $07 Multiply by 0.001 V Minimum sensor voltage
+$02 $08 Multiply by 0.001 V Maximum sensor voltage
+$02 $8F Multiply by 0.003 g Maximum oxygen storage capacity
+A/F Sensor Bank 2:
+Monitor ID Test ID Scaling Unit Description
+$05 $8E Multiply by 0.0003 No dimension A/F sensor deterioration level
+$05 $91 Multiply by 0.004 mA A/F sensor current

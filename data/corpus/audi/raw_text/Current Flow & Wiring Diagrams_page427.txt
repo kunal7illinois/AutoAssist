@@ -1,0 +1,52 @@
+Audi TT No. 47 / 27
+Current Flow Diagram
+Automatic anti-dazzle interior mirror with and without main
+beam assist
+J386 Driver door control unit
+J387 Front passenger side door control unit
+T6n 6-pin connector, black, on interior mirror
+T8p 8-pin connector, black, on interior mirror
+T20a 20-pin connector, black, in front left door
+T20b 20-pin connector, black, in the front right door
+T20f 20-pin connector, black, connector A, on driver door control unit
+T20g 20-pin connector, connector A, on front passenger door control
+unit
+Y7 Automatic anti-dazzle interior mirror
+B427 Connection 1 (mirror signal), in main wiring harness
+334411 9944 8866 334422
+B428 Connection 2 (mirror signal), in main wiring harness
+• •
+0,35 0,35 0,35 0,35 • CAN bus (data wire)
+li/bl or/sw or/br li/bl
+* models with automatic anti-dazzle interior mirror only
+# ## # models without main beam assistant
+Y7 ✱
+T6n/6 T8p/3 T8p/8
+Y7 ✱
+T8p/6
+## models with main beam assistant
+T6n/3 T6n/4 T6n/5 T8p/5 T8p/4 T8p/1 T8p/2
+31
+0,35 0,35 0,35 0,35 0,35 0,35 0,35
+sw/bl li/sw li li li/sw sw/ge br
+B428
+221188 226655 333333
+B427
+0,35 0,35 0,35 0,35
+li/sw li/sw li li
+T20a T20b/19 T20a T20b/9
+/19 /9
+ws = white
+sw = black
+0,35 0,35 0,35 0,35 ro = red
+li/sw li/sw li li br = brown
+gn = green
+T20f/1 T20g/1 T20f T20g/10 bl = blue
+J386 J387 J38 / 6 10 J387 gr = grey
+li = purple
+ge = yellow
+351 352 353 354 355 356 357 358 359 360 361 362 363 364
+or = orange
+8J0-047270409
+rs = pink
+Edition 04.2010

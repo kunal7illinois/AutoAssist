@@ -1,0 +1,49 @@
+BC–42
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+OK
+9 READ VALUE OF INTELLIGENT TESTER (FRONT SPEED SENSOR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine.
+(c) Select "DATA LIST" and read the value displayed on the
+intelligent tester (See page BC-25).
+DATA LIST: ABS
+Measurement Item /
+Item Normal Condition
+Range (Display)
+Wheel speed sensor (FR) reading / min.: 0 MPH (0
+FR WHEEL SPD Actual wheel speed
+km/h), max.: 202 MPH (326 km/h)
+Wheel speed sensor (FL) reading / min.: 0 MPH (0
+FL WHEEL SPD Actual wheel speed
+km/h), max.: 202 MPH (326 km/h)
+(d) Check that there is no difference between the speed
+value output from the speed sensor displayed on the
+BC
+intelligent tester and the speed value displayed on the
+speedometer when driving the vehicle.
+OK:
+The speed value output from the speed sensor
+displayed on the intelligent tester is the same as
+the actual vehicle speed.
+HINT:
+If troubleshooting has been carried out according to the
+"PROBLEM SYMPTOMS TABLE", refer back to the table
+and proceed to the next step before replacing the part
+(See page BC-16).
+NG REPLACE BRAKE ACTUATOR ASSEMBLY
+(See page BC-432)
+OK
+10 RECONFIRM DTC
+(a) Clear the DTCs (See page BC-21).
+(b) Drive the vehicle at a speed of approximately 25 mph (40
+km/h) or more for 60 seconds or more.
+(c) Check if the same DTCs are recorded (See page BC-
+21).
+HINT:
+Reinstall the sensors, connectors, etc. and restore the
+vehicle to its prior condition before rechecking for DTCs.
+Result
+Condition Proceed to
+DTCs (C0200/31, C0205/32, C1330/35 and C1331/36) are output A
+DTCs (C0200/31, C0205/32, C1330/35 and C1331/36) are not output B
+B END

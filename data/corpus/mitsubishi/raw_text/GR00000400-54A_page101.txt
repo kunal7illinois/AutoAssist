@@ -1,0 +1,39 @@
+CHASSIS ELECTRICAL 54A-101
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 5. Check the engine coolant temperature gauge unit.
+(1) Drain the engine coolant. (Refer to GROUP 00,
+Maintenance Service − Engine Coolant P.00-56.)
+(2) Remove the engine coolant temperature gauge unit.
+(3) Immerse the unit in 70°C (158° F) water to measure the
+resistance.
+Q:Is the resistance 104 ± 13.5 ohms?
+YES : Repair or replace the combination meter (printed-
+circuit board or engine coolant temperature gauge
+assembly). The engine coolant temperature gauge
+should work normally.
+NO : Replace the engine coolant temperature gauge unit.
+The engine coolant temperature gauge should work
+ACX01789AB
+normally.
+SPECIAL TOOLS
+M1543000600637
+TOOL TOOL NUMBER SUPERSESSION APPLICATION
+AND NAME
+MB991502 Scan tool MB991496-OD Reading MFI system
+(MUT-II) diagnostic trouble code
+B991502
+MB991223 MB991223 Making voltage and resistance
+A: MB991219 measurements during
+A
+B: MB991220 troubleshooting
+C: MB991221 A: Connect pin contact
+D: MB991222 pressure inspection
+B Harness set B: Power circuit inspection
+A: Test harness C: Power circuit inspection
+B: LED harness D: Commercial tester
+C: LED harness connection
+adapter
+C D: Probe
+D
+MB991223AC
+TSB Revision

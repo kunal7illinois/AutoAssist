@@ -1,0 +1,38 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-113
+Entry Unlock
+a) When a key enters any actuation area of the door oscillators, the certification ECU judges and certifies
+the key ID code received from the tuner.
+b)After the key certification OK is confirmed, the certification ECU transmits an unlock stand-by signal
+to the touch sensor of the relevant door.
+c) At the same time, the certification ECU transmits the lighting signals to the foot light on the outside rear
+view mirror and interior lights (engine switch illumination and interior light), and turns ON these
+illuminations (Entry Illumination Function).
+d)If the touch sensor is touched during this condition, the certification ECU transmits a door unlock signal
+to the main body ECU, and unlocks the door.
+e) The certification ECU sounds the wireless door lock buzzer twice and main body ECU blinks the hazard
+warning light twice as an answerback for entry unlock.
+Outside Handle
+(cid:3) Touch Sensor
+b) d)
+b)
+Any Door
+Oscillator Key
+d)
+Certification
+ECU
+Tuner
+a) a)
+Wireless Door
+e) Lock Buzzer
+c)
+Interior Light
+c)
+CAN Engine Switch Illumination
+Main Body
+(MS Bus)
+ECU
+d)
+Door Lock Motor
+e)
+Hazard Warning Lights
+025BE93P

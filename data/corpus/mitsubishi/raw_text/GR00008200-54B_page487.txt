@@ -1,0 +1,38 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-487
+SYMPTOM PROCEDURES
+CONNECTOR<3.0L ENGINE WITH CONNECTOR: C-28
+VARIABLE INDUCTION SYSTEM>: B-41
+AC106471AG AC106557AD
+CONNECTORS: C-111, C-112
+CONNECTOR: C-117
+JUNCTION BLOCK
+JUNCTION BLOCK
+(FRONT VIEW)
+(REAR VIEW)
+C-112
+C-111 AC106479AP AC106481AC
+. NOTE: The park/neutral position switch is shared
+CIRCUIT OPERATION
+with the automatic transmission control system. If
+The ETACS-ECU operates the rear wiper according
+this problem is not solved, carry out the troubleshoot-
+to signal from the park/neutral position switch.
+ing regarding the automatic transmission control sys-
+tem. Refer to GROUP 23A, A/T Diagnosis P.23A-14.
+.
+TECHNICAL DESCRIPTION (COMMENT)
+If the signal is not normal, the rear wiper does not
+.
+TROUBLESHOOTING HINTS
+operate consecutively twice when the selector lever
+• Malfunction of the park/neutral position switch
+is moved to the "R" position with the rear wiper on. If
+• Malfunction of the ETACS-ECU
+the signal is not normal, the park/neutral position
+• Damaged harness wires or connectors
+switch or the ETACS-ECU may be defective.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

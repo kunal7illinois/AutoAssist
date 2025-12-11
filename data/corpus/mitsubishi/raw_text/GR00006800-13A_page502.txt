@@ -1,0 +1,35 @@
+13A-502 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR : A-30
+FAN
+CONTROLLER
+ACX02501AE
+. TROUBLESHOOTING HINTS (The most likely
+CIRCUIT OPERATION
+• The ECM <M/T> or PCM <A/T> sends a duty sig- causes for this code to be set are: )
+• Malfunction of the fan motor relay.
+nal to the fan controller according to engine cool-
+• Malfunction of the fan motor.
+ant temperature, vehicle speed, and the condition
+• Malfunction of the fan controller.
+of the A/C switch. (The closer the average volt-
+• Improper connector contact, open or short-cir-
+age at the terminal comes to five volts, the higher
+cuited harness wire.
+the fan speed becomes.)
+• ECM <M/T> or PCM <A/T> failed.
+.
+DIAGNOSIS
+STEP 1. Check connector C-49 at ECM <M/T> or connector
+C-50 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-49<M/T>,C-50<A/T>
+YES : Go to Step 2.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then confirm that the
+OR
+PCM<A/T> malfunction symptom is eliminated.
+C-49,C-50
+AK000280BC
+TSB Revision

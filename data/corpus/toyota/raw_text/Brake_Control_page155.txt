@@ -1,0 +1,60 @@
+BC–149
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+FREEZE FRAME DATA
+1. FREEZE FRAME DATA
+(a) Whenever an ABS DTC is detected, the skid control
+ECU stores the current vehicle (sensor) state as
+Freeze Frame Data.
+The skid control ECU stores the number of times
+(maximum: 31) the ignition switch has been turned
+from off to on (IG) since the last time the ABS was
+activated.
+HINT:
+• However, if the vehicle is stopped or at a low
+speed (4.3 mph (7 km/h) or less), or if a DTC is
+detected, the skid control ECU will stop counting
+the number.
+• Freeze Frame Data at the time the ABS
+operates:
+The skid control ECU stores and updates data
+whenever the ABS system operates. BC
+When the ECU stores data at the time a DTC is
+detected, the data stored during ABS operation is
+erased.
+• Freeze Frame Data at the time a DTC is
+detected:
+When the skid control ECU stores data at the
+time a DTC is detected, no updates will be
+performed until the data is cleared.
+(b) Connect the intelligent tester to the DLC3.
+(c) Turn the ignition switch on (IG).
+(d) On the tester display, select the Freeze Frame Data.
+Item (Display) Measurement Item Reference Value
+Min.: 0 mph (0 km/h), Max.: 202 mph (326.4 km/
+VEHICLE SPD Vehicle speed reading
+h)
+STOP LAMP SW Stop light switch signal Stop light switch ON: ON, OFF: OFF
+Number of operations of ignition switch on (IG)
+#IG ON 0 to 31
+after storing Freeze Frame Data
+MAS CYL PRESS 1 Master cylinder pressure sensor reading Brake pedal released: 0.3 to 0.5 V
+M/C PRESS GRADE Master cylinder pressure sensor change Min.: -30 MPa/s, Max.: 225 MPa/s
+YAW RATE Yaw rate sensor reading Min.: -128 deg/s, Max.: 127 deg/s
+Left turn: Increase
+STEERING SEN Steering angle sensor reading
+Right turn: Decrease
+FORWARD & REA G Forward and backward G Min.: -25.11 m/s2, Max.: 24.91 m/s2
+SPD GRADE Vehicle speed grade Min.: -25.11 m/s2, Max.: 24.91 m/s2
+BUZZER Skid control buzzer signal Skid control buzzer ON: ON, OFF: OFF
+ACCELERATOR % Accelerator opening angle % Min.: 0 %, Max.: 128 %
+PARKING BRAKE SW Parking brake switch signal Parking brake switch ON: ON, OFF: OFF
+ENGINE TORQUE Real engine torque Min.: -1,024 Nm, Max.: 1,023 Nm
+Min.: 0 mph (0 km/h), Max.: 202 mph (326.4 km/
+FR WHEEL SPD FR wheel speed
+h)
+Min.: 0 mph (0 km/h), Max.: 202 mph (326.4 km/
+FL WHEEL SPD FL wheel speed
+h)
+Min.: 0 mph (0 km/h), Max.: 202 mph (326.4 km/
+RR WHEEL SPD RR wheel speed
+h)

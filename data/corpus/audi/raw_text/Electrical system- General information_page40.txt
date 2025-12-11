@@ -1,0 +1,23 @@
+Audi A1 2011 ➤ , Audi A2 2001 ➤ , Audi A3 2004 ➤ , Audi A4 2001 ➤ , Au ...
+Electrical system; General information - Edition 10.2010
+Procedure
+The following test can only be performed if the transport mode is
+activated in the battery monitor control unit -J367- or the energy
+management control unit -J644- . If the transport mode is activa‐
+ted later, for example when storing used vehicles, the SOC can
+only be determined after the systems have switched to „data bus
+rest mode“ once.
+– Open driver's door.
+– Switch on ignition.
+– Read SOC in % off trip recorder.
+Note
+Depending on version, the value can be preceded by „TRA“.
+• Specification: 50 % or above, charge state of battery is OK.
+– If charge state of battery is below 50 %, battery must be charg‐
+ed ⇒ page 35 .
+– Current draw must be measured after a charging period of
+5 minutes ⇒ page 30 .
+– If charge state of battery is 0 %, battery is totally discharged
+⇒ page 38 .
+34
+Rep. gr.27 - Starter, current supply, CCS

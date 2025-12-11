@@ -1,0 +1,41 @@
+54B-574 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 7. Check the wiring harness between rear wiper
+motor connector F-07 (terminal 2) and ETACS-ECU
+connector C-119 (terminal 17).
+NOTE: Also check intermediate connector F-24 and junction
+CONNECTOR <ECLIOSE>: F-07
+block connector C-101. If intermediate connector F-24 or junc-
+tion block connector C-101 is damaged, repair or replace the
+connector as described in GROUP 00E, Harness Connector
+1 2 3
+Inspection P.00E-2.
+DEVICE SIDE
+AC106489AH
+CONNECTOR: C-119
+DEVICE SIDE
+1 2 3 4 5 6 7 8 91011121314151617181920
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+Q:Is the wiring harness between rear wiper motor
+CONNECTOR <ECLIPSE>: F-24
+connector F-07 (terminal 2) and ETACS-ECU connector
+C-119 (terminal 17) in good condition?
+F-24
+YES : Replace the ETACS-ECU. If the rear wiper operates
+1 2
+normally, it indicates that a correct auto-stop signal is
+3 4 5 6
+sent from the rear wiper motor.
+NO : Repair the wiring harness. If the rear wiper operates
+normally, it indicates that a correct auto-stop signal is
+sent from the rear wiper motor.
+AC106489AT
+CONNECTOR: C-101
+DEVICE SIDE
+1 2 3 4 5 6 7
+8 91011 12 131415
+JUNCTION BLOCK
+(FRONT VIEW) AC106479AB
+TSB Revision

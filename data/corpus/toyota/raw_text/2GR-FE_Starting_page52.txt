@@ -1,0 +1,26 @@
+ST–52
+2GR-FE STARTING – SMART KEY SYSTEM
+3 INSPECT MAIN BODY ECU
+(a) Reconnect the connectors.
+(b) Measure the voltage according to the value(s) in the
+table below.
+Main Body ECU Standard voltage
+E9
+Terminal No. (Symbol) Condition Specified Condition
+Brake pedal depressed, Output voltage at
+E9-4 (STSW) - Body
+Engine switch hold on terminal AM1 or AM2 is
+ground
+(ST) -2 V or more.
+STSW NG REPLACE MAIN BODY ECU
+B138004E01
+OK
+4 CHECK MAIN BODY ECU OPERATION
+(a) After replacing the main body ECU with a normally
+functioning ECU, check that the engine can start.
+OK:
+Engine can start normally.
+NG GO TO ENGINE CONTROL SYSTEM
+OK
+END (MAIN BODY ECU DEFECTIVE)
+ST

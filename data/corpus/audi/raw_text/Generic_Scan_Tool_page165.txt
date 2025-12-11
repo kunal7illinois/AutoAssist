@@ -1,0 +1,50 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Indicated Cause Test
+approx. - Open circuit or short circuit ⇒ page 162
+40.0° C to (B+)
+approx. Short circuit to Ground ⇒ page 163
+140.0° C
+If the specified value was obtained:
+– Start the engine and let it run at idle.
+The temperature value must increase uniformly in increments of
+1.0° C.
+If the engine shows problems in certain temperature ranges, if the
+temperature does not climb uniformly or the temperature signal is
+intermittent.
+– Switch the ignition OFF.
+– Replace the the Engine Coolant Temperature (ECT) Sensor -
+G62 or G83- .
+Checking internal resistance
+– Disconnect the Engine Coolant Temperature (ECT) Sensor -
+G62 or G83- electrical harness connector.
+– Using a multimeter, check the Engine Coolant Temperature
+(ECT) Sensor -G62 or G83- terminals 1 to 2 for resistance.
+Use the chart below for the specified values:
+ECT Temperature vs Resistance
+Temp (C) min. value ohms max value ohms
+- 40 36816 43714
+- 35 28840 33978
+- 25 17680 20530
+- 15 10940 12534
+- 5 6897 7804
+0 5535 6226
+5 4443 4970
+15 2923 3235
+25 1978 2167
+35 1369 1486
+45 965 1039
+55 692 738
+65 503 533
+75 372 392
+85 279 292
+95 213 223
+105 164 172
+115 127 134
+125 99 106
+135 78 84
+If the specified value was Not obtained:
+– Replace the Engine Coolant Temperature (ECT) Sensor -G62
+or G83- .
+161
+3. Diagnosis and Testing

@@ -1,0 +1,51 @@
+RS–171
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+OK:
+The lock button is not disengaged, or the claw of
+the lock is not deformed or damaged.
+NG REPAIR OR REPLACE INSTRUMENT PANEL
+WIRE ASSEMBLY
+OK
+3 CHECK FRONT PASSENGER SIDE SQUIB CIRCUIT
+(a) Disconnect the connectors from the center airbag sensor
+Front Passenger Side Squib assembly.
+(b) Check for a short to B+ in the circuit.
+(1) Connect the negative (-) terminal cable to the
+battery, and wait for at least 2 seconds.
+F E DC
+(2) Turn the ignition switch on (IG).
+(3) Measure the voltage according to the value(s) in the
+Center Airbag table below.
+Sensor Assembly Standard voltage
+Tester Connection Condition Specified Condition
+c2-1 (P+) - Body ground Ignition switch on (IG) Below 1 V
+Connector E
+c2-2 (P-) - Body ground Ignition switch on (IG) Below 1 V
+(c) Check for an open in the circuit.
+c2
+(1) Turn the ignition switch off.
+P+ P-
+(2) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+Color: Orange
+(3) Measure the resistance according to the value(s) in RS
+the table below.
+Standard resistance
+C C114810E04 Tester Connection Condition Specified Condition
+c2-1 (P+) - c2-2 (P-) Always Below 1 Ω
+(d) Check for a short to ground in the circuit.
+(1) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+c2-1 (P+) - Body ground Always 1 MΩ or higher
+c2-2 (P-) - Body ground Always 1 MΩ or higher
+(e) Check for a short in the circuit.
+(1) Release the activation prevention mechanism built
+into connector B (See page RS-32).
+(2) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+c2-1 (P+) - c2-2 (P-) Always 1 MΩ or higher
+NG Go to step 5

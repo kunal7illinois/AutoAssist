@@ -1,0 +1,45 @@
+AUTOMATIC TRANSAXLE 23A-225
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 11. Replace the output shaft speed sensor.
+(1) Replace the output shaft speed sensor. Refer to GROUP
+23B, Transaxle P.23B-10.
+(2) Test drive the vehicle.
+(3) Check for A/T diagnostic trouble code (DTC).
+Q:Is the A/T diagnostic trouble code output?
+YES : Go to Step 12.
+OUTPUT SHAFT
+SPEED SENSOR NO : The inspection is complete.
+AC001837AD
+STEP 12. Replace the transfer drive gear or driven gear.
+(1) Replace the transfer drive gear or driven gear. Refer to
+GROUP 23B, Transaxle P.23B-10, Output Shaft P.23B-68.
+(2) Test drive the vehicle.
+(3) Check for A/T diagnostic trouble code.
+Q:Is the A/T diagnostic trouble code output?
+TRANSFER
+DRIVE GEAR YES : The A/T diagnostic trouble code may have set due to
+external radio frequency (RFI), possibly caused by
+TRANSFER
+cellular phone activity, after market components
+DRIVEN GEAR
+installed on the vehicle, etc.
+AC002221AC NO : The inspection is complete.
+STEP 13. Replace the PCM.
+(1) Replace the PCM.
+(2) Test drive the vehicle.
+(3) Check for A/T diagnostic trouble code.
+Q:Is the A/T diagnostic trouble code output?
+YES : Go to Step 14.
+NO : The inspection is complete.
+STEP 14. Replace the valve body.
+(1) Replace the valve body. Refer to GROUP 23B, Transaxle
+VALVE P.23B-10.
+BODY
+(2) Test drive the vehicle.
+ASSEMBLY
+(3) Check for A/T diagnostic trouble code.
+Q:Is the A/T diagnostic trouble code output?
+YES : Go to Step 15.
+NO : The inspection is complete.
+AC001860AB
+TSB Revision

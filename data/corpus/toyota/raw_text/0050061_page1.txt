@@ -1,0 +1,22 @@
+ES–373
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+ECM Power Source Circuit
+DESCRIPTION
+When the ignition switch is turned ON, the battery voltage is applied to the IGSW of the ECM. The output
+signal from the MREL terminal of the ECM causes a current to flow to the coil, closing the contacts of the
+integration relay (EFI MAIN relay) and supplying power to either terminal +B or +B2 of the ECM.
+WIRING DIAGRAM
+Ignition Switch ES
+ECM
+AM2
+IG2
+IG2 IGN
+IGSW
+FL MAIN
+P/I
+EFI MAIN
+EFI MAIN +B
++B2
+Battery MREL
+E1
+A127273E01

@@ -1,0 +1,51 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+35 629 676
+45 419 455
+55 286 314
+65 195 217
+75 136 155
+If the specified value was Not obtained:
+– Replace the Ambient Air Temperature Sensor -G17- . Refer to
+the Repair Manual.
+If the specified values are obtained, continue the test according
+to the following table:
+Checking wiring
+– Turn the ignition switch ON.
+– Connect a multimeter to terminals 1 and 2 of the Ambient Air
+Temperature Sensor -G17- electrical harness connector.
+Specified value: near 5.02 V
+– Turn the ignition switch OFF.
+If the specified value was Not obtained:
+– Remove the Instrument Cluster. Refer to the Repair Manual.
+– Disconnect the Instrument Cluster harness.
+– Using a multimeter, check the Ambient Air Temperature Sen‐
+sor -G17- electrical harness connector terminals 1 and 2 to the
+Instrument Cluster electrical harness connector for an open
+circuit or a short, refer to the wiring diagram. Refer to Wiring
+Diagrams for pin locations.
+Ambient Air Temperature Instrument Cluster -J285- electri‐
+Sensor -G17- electrical har‐ cal connector T32 terminals
+ness connector terminals
+1 20
+2 19
+Specified value: 1.5 Ω max.
+If the specified value was Not obtained:
+– Check the wiring for an open, high resistance or short circuit
+to Battery (+) or ground.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If the specified value was obtained:
+Replace the Instrument Cluster. Refer to the Repair Manual.
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+165
+3. Diagnosis and Testing

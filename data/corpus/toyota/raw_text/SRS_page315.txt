@@ -1,0 +1,40 @@
+RS–313
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+7 CHECK DTC
+(a) Turn the ignition switch on (IG).
+(b) Clear the DTCs stored in the center airbag sensor
+assembly (See page RS-41).
+(c) Clear the DTCs stored in the occupant classification
+ECU (See page RS-251).
+(d) Turn the ignition switch off.
+(e) Turn the ignition switch on (IG).
+(f) Check the DTCs (See page RS-251).
+OK:
+DTC B1788 is not output.
+HINT:
+Codes other than DTC B1788 may be output at this time,
+but they are not related to this check.
+OK END
+NG
+8 REPLACE OCCUPANT CLASSIFICATION ECU
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery.
+(c) Replace the occupant classification ECU (See page RS-
+469).
+RS
+NEXT
+9 PERFORM ZERO POINT CALIBRATION
+(a) Connect the negative (-) terminal cable to the battery.
+(b) Connect the intelligent tester to the DLC3.
+(c) Turn the ignition switch on (IG).
+(d) Using the intelligent tester, perform "zero point
+calibration" (See page RS-242).
+OK:
+"COMPLETED" is displayed.
+NEXT
+10 PERFORM SENSITIVITY CHECK
+(a) Using the intelligent tester, perform "sensitivity check"
+(See page RS-242).
+Standard value:
+27 to 33 kg (59.52 to 72.75 lb)

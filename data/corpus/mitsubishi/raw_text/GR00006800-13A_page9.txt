@@ -1,0 +1,32 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-9
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+1. Connect scan tool MB991502 to the data link connector.
+2. Turn the ignition switch to the "ON" position.
+3. Read the diagnostic trouble codes for MFI.
+4. Refer to the DIAGNOSTIC TROUBLE CODE CHART
+P.13A-22.
+5. Turn the ignition switch to the "LOCK" (OFF) position and
+16 PIN then back to "ON" again.
+6. Erase the diagnostic trouble code(s) using MUT-II screen
+MB991502
+prompts.
+AKX01177AB
+7. Confirm that the diagnostic trouble code output is normal.
+8. Turn the ignition switch to the "LOCK" (OFF) position.
+9. Disconnect scan tool MB991502 from the data link
+connector.
+PROVISIONAL DTCs [MUT-II OBD-II Test Mode −
+Results (Mode 5)]
+The MUT-II will display the Provisional DTCs reported by
+engine control module (ECM) <M/T> or powertrain control
+module (PCM) <A/T> if the ECM <M/T> or PCM <A/T> detects
+some malfunction for "Misfire", "Fuel System" and "Compre-
+hensive" monitoring during a SINGLE Driving Cycle. The
+intended use of this data is to assist the technician after a vehi-
+cle repair, and after clearing diagnostic information, by report-
+ing test result after a SINGLE Driving Cycle. Note that the test
+results reported by this mode do not necessarily indicate a
+faulty component/system. If test results indicate a failure after
+ADDITIONAL (consecutive) driving, then the MIL will be illumi-
+nated and a DTC will set.
+TSB Revision

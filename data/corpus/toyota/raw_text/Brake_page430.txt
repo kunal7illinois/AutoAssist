@@ -1,0 +1,38 @@
+BC–419
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+3 INSPECT SKID CONTROL BUZZER
+(a) Apply battery negative voltage to terminal 1, and battery
+Skid Control Buzzer: positive voltage to terminal 2 of the skid control buzzer,
+and then check that the buzzer sounds.
+OK:
+The skid control buzzer sounds.
+NG REPLACE SKID CONTROL BUZZER (See
+page BC-453)
+(+) (-)
+1 2
+BC
+C125130E01
+OK
+4 CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU TO SKID CONTROL
+BUZZER)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Harness Side (b) Measure the resistance according to the value(s) in the
+Connector Front View):
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+BZ
+A60 A60-23 (BZ) - E13-1 Always Below 1 Ω
+A60-23 (BZ) - Body
+Always 10 kΩ or higher
+ground
+(c) Connect the connectors.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (SKID CONTROL ECU TO
+Skid Control Buzzer (Harness Side
+SKID CONTROL BUZZER)
+Connector Front View):
+E13
+C139149E01
+OK
+REPLACE BRAKE ACTUATOR ASSEMBLY (See page BC-432)

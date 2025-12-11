@@ -1,0 +1,19 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+Fig. 36: Checking Continuity Between ABS Modulator-Control Unit 25P
+Connector Terminals No. 1 And No. 17
+Is there continuity?
+YES - Repair short in the wire between ABS modulator-control unit 25P
+connector terminals No. 1 (CAN-H line) and No. 17 (CAN-L line).
+NO - Go to step 15.
+15. Check for continuity between ABS modulator-control unit 25P connector
+terminal and gauge control module (tach) 36P connector terminal (see table).
+ABS MODULATOR-CONTROL UNIT 25P CONNECTOR TERMINAL
+AND GAUGE CONTROL MODULE (TACH) 36P CONNECTOR
+TERMINAL
+Connector Terminal No.
+Sign
+ABS Modulator-control UnitGauge Control Module (Tach)
+CAN-L 17 19
+CAN-H 1 1

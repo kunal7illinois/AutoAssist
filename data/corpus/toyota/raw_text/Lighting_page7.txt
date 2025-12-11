@@ -1,0 +1,56 @@
+LI–7
+LIGHTING – LIGHTING SYSTEM
+SYSTEM DESCRIPTION
+1. MANUAL LIGHT CONTROL SYSTEM
+This system functions if the lights such as the headlights
+and taillights come on by manual operation of the light
+control switch.
+(a) The main body ECU controls this system based on
+the signals listed below.
+Input Output Lights that illuminate
+• Taillights
+• License plate lights
+Light control switch TAIL signal Taillight relay drive signal
+• Side marker lights
+• Parking lights
+Light control switch HEAD signal Headlight relay drive signal Low beam headlights
+2. AUTOMATIC LIGHT CONTROL SYSTEM
+When the light control switch is in the AUTO position, the
+automatic light control sensor detects ambient light,
+converts it into an electrical signal, and outputs it to the
+main body ECU. The main body ECU automatically turns
+the headlights and taillights on or off according to the
+signal.
+(a) The main body ECU controls this system based on
+the signals listed below.
+Input Output Lights that illuminate
+• Low beam headlights
+• Taillights
+• Light control switch AUTO signal • Headlight relay drive signal
+• License plate lights
+• Automatic light control sensor signal • Taillight relay drive signal
+• Side marker lights
+• Parking lights
+3. LIGHT AUTO TURN OFF SYSTEM
+When the headlights and taillights are on through the
+operation of the automatic light control system or through
+the light control switch, if the ignition switch is turned off
+and all doors are closed, this system continues to
+illuminate the headlights and taillights for approximately
+30 seconds, and then turns off the headlights and
+taillights.
+However, if the ignition switch is turned off and all doors LI
+are locked, this system turns off the headlights and
+taillights immediately.
+(a) The main body ECU controls this system based on
+the signals listed below.
+Input Output Lights that operate
+• Low beam headlights
+• Headlight relay OFF demand
+• Taillights, license plate lights, parking
+• Door courtesy switch signal • Taillight relay OFF demand
+lights, and side marker lights
+• Ignition switch or engine switch signal • DRL relay OFF demand
+• High beam headlights
+• FOG light relay OFF demand
+• Front fog lights

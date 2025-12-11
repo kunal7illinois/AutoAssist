@@ -1,0 +1,34 @@
+ST–91
+2GR-FE STARTING – SMART KEY SYSTEM
+OK:
+DTC B2785, DTC B2287 and DTC B2781 are not
+output.
+HINT:
+• If DTC B2785 is output (See page EI-29).
+• If DTC B2287 is output (See page ST-85).
+• If DTC B2271 is output (See page ST-31).
+NG GO TO DTC CHART
+OK
+2 CHECK WIRE HARNESS (MAIN BODY ECU - STEERING LOCK ECU)
+(a) Disconnect the E7 and E51 ECU connectors
+Wire Harness Side:
+E7
+Main Body ECU
+SLP
+E51
+Steering Lock ECU
+SLP1
+B137999E01
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+ST
+Tester Connection Condition Specified Condition
+E7-18 (SLP) - E51-4
+Always Below 1 Ω
+(SLP1)
+E7-18 (SLP) or E51-4
+Always 10 kΩ or higher
+(SLP1) - Body ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR

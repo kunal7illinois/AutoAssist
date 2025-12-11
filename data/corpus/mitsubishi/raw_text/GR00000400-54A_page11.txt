@@ -1,0 +1,48 @@
+CHASSIS ELECTRICAL 54A-11
+IGNITION SWITCH
+4. If you cannot verify the condition and there are no 7. Recreate the immobilizer system DTC set
+immobilizer system DTCs, the malfunction is conditions to see if the same immobilizer system
+intermittent. Refer to GROUP 00, How to Use DTC will set again.
+Troubleshooting/inspection Service Points − How • If the same immobilize system DTC sets again,
+to Cope with Intermittent Malfunctions P.00-6. perform the diagnostic procedures for the DTC.
+5. If you can verify the condition but there are no Refer to Diagnostic Trouble Code Chart.
+immobilizer system DTCs, or the system cannot • If you cannot get the same immobilizer system
+communicate with scan tool MB991502, refer to DTC to set again, the malfunction is intermittent.
+Symptom Chart P.54A-15 and find the fault. Refer to GROUP 00, How to Use Troubleshoot-
+ing/inspection Service Points − How to Cope with
+6. If there is an immobilizer system DTC, record the
+Intermittent Malfunctions P.00-6.
+number of the DTC, then erase the DTC from the
+memory using scan tool MB991502.
+IMMOBILIZER SYSTEM TROUBLE CODE
+DIAGNOSIS
+M1543007000227
+Retrieving and Erasing Immobilizer System
+Diagnostic Trouble Codes
+Required Special Tool:
+MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+1. Connect scan tool MB991502 to data link connector (16
+pin).
+2. Turn the ignition switch to the "ON" position.
+3. Use scan tool MB991502 to check or erase immobilizer
+system diagnostic trouble codes.
+4. Turn the ignition switch to the "LOCK" (OFF) position.
+5. Disconnect scan tool MB991502.
+16 PIN
+MB991502
+AC001252AB
+DIAGNOSTIC TROUBLE CODE CHART
+M1543007100235
+Follow the inspection chart that is appropriate for the
+diagnostic trouble code.
+DIAGNOSTIC DESCRIPTION REFERENCE PAGE
+TROUBLE CODE NO.
+11 Transponder communication system or radio P.54A-12
+interference of encrypted code
+12 Encrypted codes are not the same or are not registered P.54A-15
+NOTE: Diagnostic trouble code is not recorded.
+TSB Revision

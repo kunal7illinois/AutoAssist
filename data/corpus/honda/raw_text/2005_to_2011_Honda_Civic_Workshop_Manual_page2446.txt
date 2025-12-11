@@ -1,0 +1,20 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (R18A1) - Civic (All Except Hybrid)
+13. Check the FTP SENSOR in the DATA LIST with the HDS.
+Is about 7.3 kPa (2.15 in.Hg, 54.7 mmHg) or 4.90 V indicated?
+YES - Go to step 24.
+NO - Go to step 14.
+14. Measure voltage between FTP sensor 3P connector terminal No. 1 and body
+ground.
+Fig. 8: Measuring Voltage Between FTP Sensor 3P Connector Terminal
+No. 1 And Body Ground
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there about 5 V?
+YES - Go to step 20.
+NO - Go to step 15.
+15. Turn the ignition switch OFF.
+16. Jump the SCS line with the HDS.
+17. Disconnect ECM/PCM connector A (44P).
+18. Connect FTP sensor 3P connector terminal No. 1 to body ground with a jumper
+wire.

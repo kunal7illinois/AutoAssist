@@ -1,0 +1,47 @@
+AUTOMATIC TRANSAXLE 23A-261
+AUTOMATIC TRANSAXLE DIAGNOSIS
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, carry out the actuator
+test item 01: Low-Reverse Solenoid Valve.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to actuator test mode for item 01:
+Low-Reverse Solenoid Valve.
+• An operation sound should be heard from solenoid
+valve when solenoid valve is operated.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN Q:Is the solenoid valve operating properly?
+YES : Go to Step 2.
+MB991502
+AC001252AD NO : Repair or replace the low-reverse solenoid valve.
+Refer to GROUP 23B, Valve Body P.23B-74. Then
+confirm that the symptom is eliminated.
+STEP 2. Check when shock occurs.
+Q:When does the shock occur?
+When engaging from N to R : Go to Step 3.
+When the vehicle starts moving : Go to Step 7.
+STEP 3. Check the hydraulic pressure (for reverse clutch).
+Measure the hydraulic pressure for reverse clutch when the
+selector lever is at the "R" range. Check if the hydraulic pres-
+sure is within the standard value. Refer to P.23A-26, Hydraulic
+Pressure Test.
+Q:Is the hydraulic pressure within the standard value?
+YES : Go to Step 4.
+NO : Go to Step 9.
+STEP 4. Check the hydraulic pressure (for low-reverse
+brake).
+Measure the hydraulic pressure for low-reverse brake when the
+selector lever is at the "R" range. Check if the hydraulic pres-
+sure is within the standard value. Refer to P.23A-26, Hydraulic
+Pressure Test.
+Q:Is the hydraulic pressure within the standard value?
+YES : Go to Step 5.
+NO : Go to Step 9.
+TSB Revision

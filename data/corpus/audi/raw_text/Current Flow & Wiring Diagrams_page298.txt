@@ -1,0 +1,52 @@
+Audi TT No. 38 / 2
+Current Flow Diagram
+Radio, fuses
+J533 Data bus diagnostic interface
+R Radio
+SC32 Fuse 32 on fuse holder C
+SC34 Fuse 34 on fuse holder C
+SD3 Fuse 3 on fuse holder D
+T8a 8-pin connector, black, radio pin connector D
+T12f 12-pin connector, blue, radio connector B
+T20d 20-pin connector, black, on data bus diagnostic interface
+B299 380 Earth connection 15, in main wiring harness
+J533 J533
+T20d/20 T20d/10
+385 Earth connection 20, in main wiring harness
+• •
+10,0 0,35 0,35
+ro or/li or/br
+610 Earth point (audio), under centre console, front
+B300 B415 B421
+• •
+16,0 6,0 0,35 0,35 B299 Positive connection 3 (30), in main wiring harness
+ro ro or/li or/br
+R
+E1 32 34 T8a/9 T8a/10 B300 Positive connection 4 (30), in main wiring harness
+SD3 SC32 SC34
+110A 5A 15A Connection 1 (infotainment CAN bus, high), in main wiring
+✱ 32a 34a T8 3 a 0 /15 T 30 8a/16 T 31 8a/12 B415 harness
+Connection 1 (infotainment CAN bus, low), in main wiring
+1,5 1,0 1,5 B421
+ro/ws ro/ws br harness
+• CAN bus (data wire)
+* main fuse box, in luggage compartment, rear right, on the battery
+380
+2,5 1,5
+br br
+385
+ws = white
+0,5 0,5
+br br sw = black
+ro = red
+br = brown
+2299 2299
+gn = green
+bl = blue
+gr = grey
+610 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-038020409
+rs = pink
+Edition 04.2009

@@ -1,0 +1,39 @@
+AX–52
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Item Test Details Diagnostic Note
+[Test Details]
+Operate the shift solenoid S1
+SOLENOID (SL4) [Vehicle Condition] -
+• Vehicle Stopped
+• Shift lever in P or N position
+AX [Test Details]
+Operate the shift solenoid S2
+SOLENOID (SL) [Vehicle Condition] -
+• Vehicle Stopped
+• Shift lever in P or N position
+[Test Details]
+Operate the shift solenoid SLT and raise the line pressure.
+[Vehicle Condition]
+• Vehicle Stopped
+SOLENOID (SLT) • IDL: ON -
+HINT:
+OFF: Line pressure up (When the active test of "SOLENOID (SLT)"
+is performed, the ECM commands the SLT solenoid to turn off).
+ON: No action (normal operation)
+[Test Details]
+Operate the shift solenoid SLU and raise the line pressure.
+[Vehicle Condition]
+• Vehicle Stopped.
+SOLENOID (SLU) • IDL: ON -
+HINT:
+OFF: Line pressure up (When the active test of "SOLENOID (SLU)"
+is performed, the ECM commands the SLU solenoid to turn off).
+ON: No action (normal operation)
+*: "SOLENOID (SLT)" in the ACTIVE TEST is
+performed to check the line pressure changes by
+connecting the SST to the automatic transaxle. The
+same SST is used for the HYDRAULIC TEST (See
+page AX-17) as well.
+HINT:
+The pressure values in ACTIVE TEST and
+HYDRAULIC TEST will be different from each other.

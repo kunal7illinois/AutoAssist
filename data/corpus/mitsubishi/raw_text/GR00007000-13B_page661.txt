@@ -1,0 +1,46 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-661
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TERMINAL TERMINAL INSPECTION ITEM NORMAL CONDITION (INSPECTION CONDITION)
+NO. <M/T> NO. <A/T>
+62 − 49 64 − 57 Intake air temperature sensor 13 − 17 kΩ [when intake air temperature is −
+20°C (−4°F)]
+5.3 − 6.7 kΩ [when intake air temperature is
+0°C (32°F)]
+2.3 − 3.0 kΩ [when intake air temperature is
+20°C (68°F)]
+1.0 − 1.5 kΩ [when intake air temperature is
+40°C (104°F)]
+0.56 − 0.76 kΩ [when intake air temperature is
+60°C (140°F)]
+0.30 − 0.42 kΩ [when intake air temperature is
+80°C (176°F)]
+INSPECTION PROCEDURE USING AN OSCILLOSCOPE
+M1131154500156
+VOLUME AIR FLOW SENSOR
+Required Special Tool:
+• MB991709: Test Harness
+.
+Measurement Method
+1. Disconnect the volume air flow sensor connector, and
+AIR FLOW SENSOR OSCILLOSCOPE
+connect the test harness special tool (MB991709) in
+CONNECTOR
+between. (All terminals should be connected.)
+1 2 3 4 5 6 7
+2. Connect the oscilloscope probe to volume air flow sensor
+connector terminal 3.
+MB991709
+.
+Alternate method (Test harness not available)
+<M/T>
+1. Connect the oscilloscope probe to ECM terminal 61.
+AK102975AB
+<A/T>
+1. Connect the oscilloscope probe to PCM terminal 65.
+Standard Wave Pattern
+Observation conditions
+Function Special pattern
+Pattern height Low
+Pattern selector Display
+Engine r/min Idle speed
+TSB Revision

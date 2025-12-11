@@ -1,0 +1,22 @@
+AX–147
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+INSPECTION PROCEDURE
+1 INSPECT TRANSMISSION WIRE (SHIFT SOLENOID VALVE SL)
+(a) Remove the TCM from the transaxle.
+(b) Measure the resistance of the transmission wire. AX
+SL Standard resistance
+Tester Connection Condition Specified Condition
+6 (SL) - Body ground 20°C (68°F) 11 to 15 Ω
+OK REPLACE TCM
+C133212E09
+NG
+2 INSPECT SHIFT SOLENOID VALVE SL (RESISTANCE)
+(a) Remove the shift solenoid valve SL.
+(b) Measure the resistance between the solenoid valve
+terminal and solenoid valve body.
+Standard resistance:
+11 to 15 Ω at 20°C (68°F)
+NG REPLACE SHIFT SOLENOID VALVE SL
+C133217
+OK
+REPLACE TRANSMISSION WIRE

@@ -1,0 +1,69 @@
+EI–11
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+2. PART REPLACEMENT KEY REGISTRATION
+(a) The following table shows ECU replacement and
+key registration procedures in case the
+malfunctioning ECU has been identified after
+troubleshooting the smart access system with push-
+button start.
+HINT:
+• The following procedures indicated in the table
+below require the use of the intelligent tester:
+New key ID registration
+Additional key ID registration
+Key ID erasure
+ECU code registration
+• If all of the registered keys are not available,
+replacement of the ID code box is also required.
+• A maximum of 7 keys can be registered.
+Part to be replaced Condition Procedure Reference
+1. Replace certification ECU -
+Customer has brought all keys 2. Reregister all keys (new key ID
+PROCEDURE "B"
+registration)
+1. Erase key codes (key ID erasure) PROCEDURE "D"
+2. Perform additional key registration
+PROCEDURE "C"
+procedure (additional key ID registration)
+3. Replace certification ECU -
+Key ID codes can be
+4. Reregister all keys (new key ID
+registered and erased
+registration)
+HINT:
+PROCEDURE "B"
+If some keys are not registered during above
+steps, they will be disabled because they
+cannot be registered later
+Certification ECU
+1. Replace certification ECU -
+Some keys are lost
+2. Replace ID code box -
+3. Reregister all keys (new key ID
+registration)
+HINT:
+Key ID codes cannot If key codes cannot be erased or additional EI
+be either registered or keys cannot be registered due to a
+PROCEDURE "A"
+erased malfunction in certification ECU, replace ID
+code box and certification ECU. If some keys
+are not registered during above steps, they
+will be disabled because they cannot be
+registered later
+4. ECU communication ID registration PROCEDURE "F"
+1. Replace ID code box -
+2. Register recognition codes in ECUs (ECU
+At least 1 key is available PROCEDURE "E"
+code registration)
+3. ECU communication ID registration PROCEDURE "F"
+1. Replace ID code box -
+2. Replace certification ECU -
+ID code box
+3. Reregister all keys (new key ID
+registration)
+All keys are lost HINT:
+PROCEDURE "A"
+If some keys are not registered during above
+steps, they will be disabled because they
+cannot be registered later
+4. ECU communication ID registration PROCEDURE "F"

@@ -1,0 +1,29 @@
+Audi TT 2007 ➤
+Communication - Edition 02.2009
+17 Steering column electronics control
+unit -J527-
+17.1 General notes
+Description
+The steering column electronics control unit -J527- forms part of
+the “steering column switch module”. The “steering column switch
+module” comprises the following:
+♦ Left and right steering column switch
+♦ Coil connector
+♦ Steering angle sender -G85-
+♦ Ignition/starter switch -D-
+♦ Steering column electronics control unit -J527-
+The steering column electronics control unit -J527- is responsible
+for the exchange of data between the vehicle control units ( on‐
+board supply control unit -J519- ), the steering column modules
+(steering column switches) and the steering wheel modules (air‐
+bag).
+In addition, the signals from the multi-function steering wheel but‐
+tons are processed and relayed via the CAN bus.
+Fault finding is performed via the “Guided Fault Finding” ⇒ Vehicle
+diagnosis, testing and information system VAS 5051.
+Removing and installing steering column switch module ⇒ Elec‐
+trical system; Rep. Gr. 94 ; Steering column switch module .
+CAN bus wire repairs ⇒ Electrical system; Rep. Gr. 97 ; Wiring
+harness and connector repairs .
+146
+Rep. Gr.91 - Radio, telephone, navigation

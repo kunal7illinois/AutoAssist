@@ -1,0 +1,45 @@
+LI–8
+LIGHTING – LIGHTING SYSTEM
+4. DAYTIME RUNNING LIGHT SYSTEM
+The daytime running light system is designed to
+automatically illuminate the headlights (dimmed HI
+beams), during the daytime to make the car more visible
+to other vehicle.
+(a) The main body ECU controls this system.
+The daytime running light system starts operating
+when all of the following conditions are met:
+Items Conditions
+Ignition switch or engine switch On (IG)
+Engine Running
+OFF, TAIL or AUTO position (if headlight-on control is not being performed by the automatic light
+Light control switch position
+control)
+Parking brake switch Released (OFF)
+5. ILLUMINATED ENTRY SYSTEM
+When a door is unlocked through a key or transmitter
+operation, or if a door is opened, the illuminated entry
+system turns on the interior light and the ignition key
+cylinder light.
+(a) The main body ECU controls this system. The
+operation and condition of the illuminated entry
+system are described below.
+Operation Condition
+When any of the following conditions is met, the interior light and ignition key cylinder light fade in.
+• Any door is opened.
+Fade in
+• Any door is unlocked when the ignition switch is off and all doors are closed.
+• Ignition switch is turned from on (ACC) to off when all doors are closed.
+When either of the following conditions is met, the interior light and ignition key cylinder light fade
+out immediately.
+Fade out immediately
+• Ignition switch is turned from off to on (ACC or IG) when all doors are closed.
+• All doors are locked when the ignition switch is off.
+Illuminate for approximately 15 seconds,
+All doors are closed when the ignition switch is off.
+and then fade out
+When the following conditions are met, the interior light and ignition key cylinder light fade out.
+• A key is not in the actuation area (with smart key system).
+Fade out (Battery saving)
+• A key is not inserted in the ignition key cylinder (without smart key system).
+• There are no changes in the condition of the doors for 20 minutes.
+LI

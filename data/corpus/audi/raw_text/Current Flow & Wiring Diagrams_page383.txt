@@ -1,0 +1,69 @@
+Audi TT No. 46 / 6
+Current Flow Diagram
+Engine control unit, Motronic current supply relay,
+suppression filter
+C Alternator
+C24 Suppression filter
+J271 Motronic current supply relay
+J623 Engine control unit
+SC32 Fuse 32 on fuse holder C
+SC36 Fuse 36 on fuse holder C
+T4a 4-pin connector, black, in front left engine compartment
+88 1199
+T94 94-pin connector, on engine control unit
+6,0 0,5
+ro bl/ws
+366 Earth connection 1, in main wiring harness
+B298
+32 36
+S
+5A
+C32 S
+10
+C
+A
+36 T4a/1
+378 Earth connection 13, in main wiring harness
+32a 36a
+6,0 2,5 4,0 6,0 1,0 0,5 0,35 672 Earth point 2, on front of left longitudinal member
+ro ro ro ro ro/sw ro/sw bl/ws
+2233 118844 B298 Positive connection 2 (30), in main wiring harness
+ 2/30 4/86
+3
+T
+0
+94/92 T
+D
+9
+F
+4/42
+J623
+* Relay and fuse carrier in electronics box engine compartment
+44 ** models with recuperation (7L7) ⇒ applicable recuperation
+J271
+Current Flow Diagram
+8/87 6/85 T94/69 T94/1 T94/2 T94/4
+31 31 31
+6,0 0,35 2,5 2,5 2,5
+ro/ge sw/gr br br br
+2 4477 378
+
+C24
+1/31
+2,5 2,5 0,5 0,5 2,5
+br br br br br
+8833 221100 220099
+366
+ws = white
+sw = black
+ro = red
+2,5 6,0 br = brown
+br br gn = green
+bl = blue
+223311 gr = grey
+672 li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 or = orange
+8J0-046060909
+rs = pink
+Edition 04.2010

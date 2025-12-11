@@ -1,0 +1,50 @@
+SR–12
+STEERING COLUMN – ELECTRIC STEERING LOCK
+PROBLEM SYMPTOMS TABLE
+Inspect the suspected areas in numerical order by referring to
+the corresponding pages when any of the following
+symptoms occurs:
+ELECTRIC STEERING LOCK FUNCTION:
+Symptom Suspected area See page
+1. Initialization SR-9
+2. Check for DTCs in the smart access system with push- ST-26
+button start.
+3. Check for DTCs in the engine immobiliser system. EI-24
+4. Check that the LCK/UNLCK REC item in the DATA LIST of SR-14
+Steering wheel cannot be unlocked (the engine cannot the certification ECU displays YES within 10 seconds after
+be started). starting the engine. (If it displays NO, see "No steering unlock"
+command in this table.)
+5. Check the input signal from the IGE terminal of the steering SR-24
+lock ECU.
+6. Steering lock ECU power source circuit. SR-30
+7. Replace the steering lock ECU. SR-42
+1. Check that the S CODE MACH item in the DATA LIST of the -
+certification ECU displays OK. (If it displays NG, replace the ID
+code box.)
+Steering wheel cannot be unlocked (no steering unlock
+2. Check that the L CODE MACH item in the DATA LIST of the -
+command).
+certification ECU displays OK. (If it displays NG, replace the ID
+code box.)
+SR
+3. Replace the certification ECU. -
+1. Check for DTCs in the smart access system with push- ST-26
+button start.
+2. Check for DTCs in the engine immobiliser system. EI-24
+3. With the engine switch off and the shift in the P position, SR-14
+open and close the driver's door. After that, check that the
+LCK/UNLCK REC item in the DATA LIST of the certification
+Steering wheel cannot be locked. ECU displays YES within 10 seconds. (If it displays NO, see
+"No steering lock" command in this table.)
+4. Check the input signal from the IGE terminal of the steering SR-24
+lock ECU.
+5. Steering lock ECU power source circuit. SR-30
+6. Replace the steering lock ECU. SR-42
+1. Courtesy light switch circuit LI-52
+2. Check that the S CODE MACH item in the DATA LIST of the -
+certification ECU displays OK. (If it displays NG, replace the ID
+Steering wheel cannot be locked (no steering lock code box.)
+command). 3. Check that the L CODE MACH item in the DATA LIST of the -
+certification ECU displays OK. (If it displays NG, replace the ID
+code box.)
+4. Replace the certification ECU. -

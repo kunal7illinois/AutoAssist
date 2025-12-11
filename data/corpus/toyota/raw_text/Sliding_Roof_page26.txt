@@ -1,0 +1,38 @@
+RF–26
+SLIDING ROOF – SLIDING ROOF SYSTEM
+DTC B2343 Position Initialization Incomplete
+DESCRIPTION
+This DTC is output when the sliding roof drive gear sub-assembly (sliding roof control ECU) has not been
+initialized.
+DTC No. DTC Detection Condition Trouble Area
+• Sliding roof drive gear sub-assembly (sliding roof
+control ECU)
+Sliding roof drive gear sub-assembly (sliding roof
+B2343 • Roof console box assembly (sliding roof control
+control ECU) has not been initialized
+switch)
+• Wire harness
+WIRING DIAGRAM
+Refer to DTC B2341 (See page RF-14).
+INSPECTION PROCEDURE
+RF
+1 INITIALIZE SLIDING ROOF DRIVE GEAR SUB-ASSEMBLY (SLIDING ROOF CONTROL
+ECU)
+(a) Check that the sliding roof drive gear sub-assembly can
+be initialized (See page RF-4).
+OK:
+Sliding roof drive gear sub-assembly can be
+initialized.
+NG Go to step 3
+OK
+2 CHECK SLIDING ROOF FUNCTION
+(a) Check the auto operation with the OPEN, CLOSE, UP
+and DOWN switches (See page RF-11).
+OK:
+Auto operation operates normally with OPEN,
+CLOSE, UP and DOWN switches.
+NG REPLACE SLIDING ROOF DRIVE GEAR
+SUB-ASSEMBLY (SLIDING ROOF CONTROL
+ECU)
+OK
+END

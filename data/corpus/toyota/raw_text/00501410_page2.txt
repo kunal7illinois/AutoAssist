@@ -1,0 +1,28 @@
+ES–433
+2AZ-FE ENGINE CONTROL SYSTEM – ACCELERATOR PEDAL ROD
+ON-VEHICLE INSPECTION
+Intelligent Tester
+1. CHECK ACCELERATOR PEDAL ROD
+(a) Check the voltage.
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch ON.
+(3) Turn the intelligent tester ON.
+(4) Select the menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / ALL /
+ACCEL POS #1, ACCEL POS #2.
+(5) Operate the accelerator pedal, and then check
+DLC3
+that the ACCEL POS #1 and ACCEL POS #2
+values are within the specifications.
+Standard voltage (ACCEL POS #1) ES
+CAN VIM
+Accelerator Pedal Condition Specified Condition
+B127989E01
+Released 0.5 to 1.1 V
+Depressed 2.5 to 4.5 V
+Standard voltage (ACCEL POS #2)
+Accelerator Pedal Condition Specified Condition
+Released 1.2 to 2.0 V
+Depressed 3.4 to 5.0 V
+If the result is not as specified, check the
+accelerator pedal rod, wire harness or ECM.

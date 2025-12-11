@@ -1,0 +1,46 @@
+ST–114
+2GR-FE STARTING – SMART KEY SYSTEM
+Indicator Light
+INDS GND COM
+START
+STOP
+7 6 5 4 3 2 1
+14 13 12 11 10 9 8
+Illumination
+INDW SWIL
+A109252E10
+(b) Apply battery voltage between the terminals of the
+switch, and check the illumination condition of the switch.
+NOTICE:
+• If the positive (+) lead and the negative (-) lead are
+incorrectly connected, the engine switch indicator
+will not illuminate.
+• If the voltage is too low, the indicator will not
+illuminate.
+OK
+Measurement Condition Specified Condition
+Battery positive (+) → Terminal 11 (SWIL)
+Illuminates
+Battery negative (-) → Terminal 4 (COM) or 5 (GND)
+Battery positive (+) → Terminal 12 (INDS)
+Illuminates
+Battery negative (-) → Terminal 4 (COM) or 5 (GND)
+Battery positive (+) → Terminal 13 (INDW)
+Illuminates
+Battery negative (-) → Terminal 4 (COM) or 5 (GND)
+NG REPLACE ENGINE SWITCH
+OK
+2 CHECK WIRE HARNESS (ENGINE SWITCH - MAIN BODY ECU AND BODY GROUND)
+(a) Disconnect the E52 switch connector.
+Wire Harness Side:
+E7 E52
+Main Body ECU Engine Switch
+SWIL
+COM GND
+ST
+SWIL INDS INDW
+INDS INDW
+B137980E02
+(b) Disconnect the E7 ECU connector.
+(c) Measure the resistance according to the value(s) in the
+table below.

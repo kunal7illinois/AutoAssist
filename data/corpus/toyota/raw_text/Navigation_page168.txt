@@ -1,0 +1,39 @@
+NS–168
+NAVIGATION – NAVIGATION SYSTEM
+Speaker Circuit
+DESCRIPTION
+The sound signal that has been amplified by the stereo component amplifier is sent to the speakers from
+the stereo component amplifier through this circuit.
+If there is a short in this circuit, the stereo component amplifier detects it and stops output to the speakers.
+Thus sound cannot be heard from the speakers even if there is no malfunction in the stereo component
+amplifier or speakers.
+WIRING DIAGRAM
+Stereo Component
+Amplifier
+8
+F21 F18 FL+
+1
+Front No. 2 Speaker LH
+7
+2
+F18 FL-
+2
+F18 FR+
+F23 1
+Front No. 2 Speaker RH 6
+2
+F18 FR-
+2
+F20 WFL+
+I1 1
+Front No. 1 Speaker LH 1
+2
+F20 WFL-
+9
+F20 WFR+
+H1 1
+Front No. 1 Speaker RH 3
+2
+F20 WFR-
+E126150E08
+NS

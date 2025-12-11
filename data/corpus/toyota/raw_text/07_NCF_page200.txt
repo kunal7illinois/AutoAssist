@@ -1,0 +1,27 @@
+CH-36 CHASSIS - U250E AUTOMATIC TRANSAXLE
+Layout of Main Components
+Key Interlock Solenoid
+Stop Light Switch
+Shift Lock Override
+Button
+Shift Lock Solenoid Assembly
+Shift Lock ECU
+(cid:3) Shift Lock Solenoid
+025CH17TE
+(cid:3) P Detection Switch
+Key Interlock Solenoid
+The activation of the key interlock solenoid that
+is mounted on the upper column bracket moves Key Interlock
+Solenoid
+the lock pin to restrict the movement of the key
+Lock Pin
+cylinder. Therefore, if the shift lever is shifted to
+any position other than “P”, the ignition key
+cannot be moved from “ACC” to the “LOCK”
+position.
+025CH19TE
+System Operation
+(cid:3) The shift lock ECU uses the P detection switch to detect the shift lever position, and receives inputs from
+the stop light switch and the ignition switch. Upon receiving these signals, the shift lock ECU turns ON
+the key interlock solenoid and the shift lock solenoid in order to release the key interlock and shift lock.
+(cid:3) A shift lock override button, which manually overrides the shift lock mechanism, is used.

@@ -1,0 +1,64 @@
+ES–71
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DIAGNOSTIC TROUBLE CODE CHART
+HINT:
+The parameters listed in the chart may not conform exactly to
+those read during the DTC check due to the type of
+instrument or other factors.
+If a trouble code is displayed during the DTC check in the
+check mode, check the circuit for the code listed in the table
+below. For details of each code, refer to the "See page"
+column in the DTC chart.
+SFI SYSTEM:
+DTC No. Detection Item Suspected Trouble MIL Memory See page
+Area
+P0010 Camshaft Position 1. Open or short in Comes on DTC stored ES-79
+"A" Actuator Circuit Oil Control Valve
+(Bank 1) (OCV) for intake ES
+camshaft circuit
+2. OCV for intake
+camshaft (bank 1)
+3. ECM
+P0011 Camshaft Position 1. Valve timing Comes on DTC stored ES-84
+"A" - Timing Over- 2. OCV for intake
+Advanced or System camshaft
+Performance (Bank 3. OCV filter
+1) 4. Intake camshaft
+timing gear assembly
+5. ECM
+P0012 Camshaft Position Same as DTC P0011 Comes on DTC stored ES-84
+"A" - Timing Over-
+Retarded (Bank 1)
+P0013 Camshaft Position 1. Open or short in Comes on DTC stored ES-91
+"B" Actuator Circuit / Oil Control Valve
+Open (Bank 1) (OCV) for exhaust
+camshaft circuit
+2. OCV for exhaust
+camshaft (bank 1)
+3. ECM
+P0014 Camshaft Position 1. Valve timing Comes on DTC stored ES-96
+"B" - Timing Over- 2. OCV for exhaust
+Advanced or System camshaft
+Performance (Bank 3. OCV filter
+1) 4. Exhaust camshaft
+5. ECM
+P0015 Camshaft Position Same as DTC P0014 Comes on DTC stored ES-96
+"B" - Timing Over-
+Retarded (Bank 1)
+P0016 Crankshaft Position - 1. Mechanical system Comes on DTC stored ES-104
+Camshaft Position (Timing chain has
+Correlation (Bank 1 jumped teeth or chain
+Sensor A) is stretched)
+2. ECM
+P0017 Crankshaft Position - Same as DTC P0016 Comes on DTC stored ES-104
+Camshaft Position
+Correlation (Bank 1
+Sensor B)
+P0018 Crankshaft Position - Same as DTC P0016 Comes on DTC stored ES-104
+Camshaft Position
+Correlation (Bank 2
+Sensor A)
+P0019 Crankshaft Position - Same as DTC P0016 Comes on DTC stored ES-104
+Camshaft Position
+Correlation (Bank 2
+Sensor B)

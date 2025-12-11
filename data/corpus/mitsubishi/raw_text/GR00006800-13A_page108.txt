@@ -1,0 +1,39 @@
+13A-108 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check connector B-07 at throttle position sensor
+for damage.
+Q:Is the connector in good condition?
+CONNECTOR : B-07
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+THROTTLE
+POSITION Connector Inspection P.00E-2. Then go to Step 11.
+SENSOR
+ACX02472AE
+STEP 3. Check the sensor supply voltage at throttle
+position sensor harness side connector B-07.
+(1) Disconnect the connector B-07 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 4 and ground.
+• Voltage should be between 4.8 and 5.2 volts.
+B-07 HARNESS
+SIDE CONNECTOR (4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+4 3 2 1
+YES : Go to Step 6.
+NO : Go to Step 4.
+AK000236AB
+STEP 4. Check connector C-60 at ECM <M/T> or connector
+C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-60<M/T>,C-54<A/T>
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 11.
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+TSB Revision

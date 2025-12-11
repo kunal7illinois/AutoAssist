@@ -1,0 +1,42 @@
+ST–60
+2GR-FE STARTING – SMART KEY SYSTEM
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection
+Switch Condition Specified Condition
+(Symbols)
+7 (SS1) - 5 (GND) Pushed Below 1 Ω
+2 (SS2) - 5 (GND) Pushed Below 1 Ω
+7 (SS1) - 5 (GND) Not pushed 10 kΩ or higher
+2 (SS2) - 5 (GND) Not pushed 10 kΩ or higher
+HINT:
+This switch is a momentary type switch.
+NG REPLACE ENGINE SWITCH
+OK
+4 CHECK WIRE HARNESS (ENGINE SWITCH - MAIN BODY ECU AND BODY GROUND)
+(a) Disconnect the E7 ECU connector.
+Wire Harness Side:
+E7 E52
+Main Body ECU Engine Switch
+SS1
+SS2 GND
+SSW1
+SSW2
+B137980E01
+(b) Disconnect the E52 switch connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection (Symbols) Condition Specified Condition
+E52-7 (SS1) - E7-17 (SSW1) Always Below 1 Ω
+E52-2 (SS2) - E7-16 (SSW2) Always Below 1 Ω
+E52-5 (GND) - Body ground Always Below 1 Ω
+E52-7 (SS1) or E7-17 (SSW1)
+ST Always 10 kΩ or higher
+- Body ground
+E52-2 (SS2) or E7-16 (SSW2)
+Always 10 kΩ or higher
+- Body ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR

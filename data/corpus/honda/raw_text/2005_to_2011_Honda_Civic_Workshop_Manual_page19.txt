@@ -1,0 +1,34 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+(CPU) internal
+circuit
+malfunction
+-71 Central ON OFF
+processing unit
+(CPU) internal
+circuit
+malfunction
+86 -01 F-CAN bus-off OFF OFF
+malfunction
+-24 F-CAN OFF OFF
+communication
+with engine
+malfunction
+-25 F-CAN OFF OFF
+communication
+with engine
+malfunction
+-FF F-CAN OFF OFF
+communication
+with ABS
+malfunction
+(1) Brake system indicator turns ON when 2 or more wheel sensors fail.
+SYMPTOM TROUBLESHOOTING INDEX
+When the vehicle has one of these symptoms, check for a diagnostic trouble code
+(DTC) with the HDS. If there is no DTC, do the diagnostic procedure for the
+symptom, in the sequence listed, until you find the cause.
+SYMPTOM TROUBLESHOOTING INDEX
+Symptom Diagnostic procedure
+HDS does not
+communicate with Troubleshoot the DLC circuit: Except Si model (see

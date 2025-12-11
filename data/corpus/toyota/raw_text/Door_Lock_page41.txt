@@ -1,0 +1,21 @@
+DL–41
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Rear Door Lock Motor LH Circuit
+DESCRIPTION
+The rear left door lock motor is built into the rear left door lock assembly.
+The main body ECU controls the rear left door lock motor to lock/unlock the rear left door. This ECU
+applies current from terminal ACT+ to terminal ACT- to operate the motor to lock the door. It reverses the
+direction of the current flow to operate the motor to unlock the door.
+WIRING DIAGRAM
+Main Body ECU
+K5
+Rear Door Lock Assembly LH
+Instrument Panel J/B
+11
+L 4 1
+IP ACT+
+6
+UL 1 3
+IP ACT-
+B109771E17
+DL

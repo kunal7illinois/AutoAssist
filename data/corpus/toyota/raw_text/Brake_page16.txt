@@ -1,0 +1,40 @@
+BC–16
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+(c) Stop the vehicle.
+NOTICE:
+• The speed sensor check may not be
+completed if the speed sensor check is
+started while turning the steering wheel or
+spinning the wheels.
+• If the signal check has not been completed,
+the ABS warning light will blink while driving
+and the ABS system will not operate.
+(d) Read the DTC(s) by following the tester screen.
+NOTICE:
+• If only the DTCs are displayed, repair the
+malfunction area and clear the DTCs.
+• If the DTCs or Test Mode codes (DTC of
+signal check function) are displayed, repair
+the malfunction area, clear the DTCs and
+perform the Test Mode inspection.
+HINT:
+BC See the list of DTCs (See procedure "A").
+3. SENSOR SIGNAL CHECK BY TEST MODE (SIGNAL
+CHECK) (SST CHECK WIRE)
+HINT:
+If the ignition switch is turned from on (IG) to on (ACC) or
+off during Test Mode (signal check), DTCs recorded
+during the signal check will be erased.
+(a) Procedure for Test Mode.
+(1) Turn the ignition switch off.
+(2) Check that the steering wheel is centered and
+move the shift lever to the P position (Automatic
+Transaxle) or apply the parking brake (Manual
+Transaxle).
+(3) Using SST, connect terminals TS and CG of the
+DLC3:
+CG DLC3.
+SST 09843-18040
+(4) Turn the ignition switch on (IG).
+TS
+G022987E07

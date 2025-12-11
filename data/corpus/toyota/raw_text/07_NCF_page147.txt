@@ -1,0 +1,36 @@
+EG-120 ENGINE - 2GR-FE ENGINE
+3) Operation
+The knocking vibration is transmitted to the
+steel weight and its inertia applies pressure to
+the piezoelectric element. The action Steel Weight
+generates electromotive force.
+Inertia
+Piezoelectric
+Element
+214CE08
+4) Open/Short Circuit Detection Resistor
+During the ignition is ON, the open/short circuit detection resistor in the knock sensor and the resistor
+in the ECM keep the voltage at the terminal KNK1 of engine constant.
+An IC (Integrated Circuit) in the ECM is always monitoring the voltage of the terminal KNK1. If the
+open/short circuit occurs between the knock sensor and the ECM, the voltage of the terminal KNK1 will
+change and the ECM detects the open/short circuit and stores DTC (Diagnostic Trouble Code).
+Open/Short Circuit
+Piezoelectric
+Detection Resistor 5 V
+Element
+200 kW
+KNK1
+IC
+200 kW
+EKNK
+Flat Type Knock Sensor ECM
+214CE06
+Service Tip
+These knock sensors are mounted in the specific directions and angles as illustrated. To prevent
+the right and left bank connectors from being interchanged, make sure to install each sensor in
+its prescribed direction.
+Knock Sensor RH
+Engine
+Front
+Knock Sensor LH
+285EG55

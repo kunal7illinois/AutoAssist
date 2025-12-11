@@ -1,0 +1,52 @@
+BC–100
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+VEHICLE STABILITY CONTROL
+SYSTEM (for ADVICS Made)
+PRECAUTION
+1. EXPRESSIONS OF IGNITION SWITCH
+The type of ignition switch used on this model differs
+according to the specifications of the vehicle.
+The expressions listed in the table below are used in this
+section.
+Switch Type
+Expression
+Ignition Switch (Position) Engine Switch (Condition)
+Ignition switch off LOCK off
+Ignition switch on (IG) ON on (IG)
+Ignition switch on (ACC) ACC on (ACC)
+Engine start START start
+BC
+2. TROUBLESHOOTING PRECAUTIONS
+(a) When there is a malfunction with terminal contact
+points or part installation problems, removal and
+installation of the suspected problem parts may
+return the system to the normal condition either
+completely or temporarily.
+(b) In order to determine the malfunctioning area, be
+sure to check the conditions at the time the
+malfunction occurred, such as DTC output and the
+Freeze Frame Data, and record it before
+disconnecting each connector or removing and
+installing parts.
+(c) Since the system may be influenced by
+malfunctions in systems other than the brake control
+system, be sure to check for DTCs in other systems.
+3. HANDLING PRECAUTIONS
+(a) Do not remove or install VSC parts such as the
+steering angle sensor or yaw rate sensor
+(acceleration sensor included) except when
+required, as they cannot be adjusted correctly after
+removal or installation.
+(b) Be sure to perform preparation before work and
+confirmation after work is completed by following
+the direction in the repair manual when working on
+the VSC system.
+(c) Be sure to remove and install the ECU, actuator,
+each sensor, etc. with the ignition switch off unless it
+is not specified in the inspection procedure.
+(d) If the ECU, brake actuator, or a sensor has been
+removed and installed, it is necessary to check the
+system for problems after the parts have been
+reassembled. Check for DTCs using the intelligent
+tester, also check that system functions and signals
+received by the ECU are normal using Test Mode.

@@ -1,0 +1,25 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-311
+SYMPTOM PROCEDURES
+STEP 40. Check rear side marker light (LH) connector F-20
+and front-ECU connector A-10X for damage.
+Q:Are rear side marker light (LH) connector F-20 and front-
+CONNECTOR <ECLIPSE>: F-20
+ECU connector A-10X in good condition?
+YES : Go to Step 41.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness connector Inspection P.00E-2. Check
+that the rear side marker light (LH) illuminate
+normally.
+DEVICE SIDE
+1 2
+AC106489AR
+CONNECTOR <ECLIPSE SPYDER>: F-20
+DEVICE SIDE
+1 2
+AC106491AO
+CONNECTOR: A-10X
+FRONT-ECU
+DEVICE SIDE A-10X
+1 2 3 4 5 6 7 8 91011
+AC106535AE
+TSB Revision

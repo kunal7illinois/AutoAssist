@@ -1,0 +1,43 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-461
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 9. Using scan tool MB991502, check data list.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items in the data list. Refer to, Data List
+Reference Table P.13A-544.
+a. Item 45: Idle Air Control Motor Position.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the actuator operating properly?
+YES : Go to Step 10.
+16 PIN
+NO : Adjust the basic idle speed. Refer to, Basic Idle
+MB991502 Speed Adjustment P.13A-577. After adjusting,
+AKX01177AB confirm.
+STEP 10. Using scan tool MB991502, check data list.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items of the data list. Refer to, Data List
+Reference Table P.13A-544.
+a. Item 11: Heated Oxygen Sensor (front).
+• Voltage should fluctuate between 0 − 0.4 volts and 0.6 −
+1.0 volts while idling after the engine has been warmed.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the sensor operating properly?
+MB991502 YES : Go to Step 12.
+AKX01177AB NO : Go to Step 11.
+STEP 11. Check the fuel pressure.
+Refer to, Fuel Pressure Test P.13A-578.
+Q:Is the fuel pressure normal?
+YES : a. Check the following items, and repair or replace
+the defective items.
+• Vacuum leak.
+• Broken intake manifold gasket.
+• Broken air intake hose.
+• Broken vacuum hose.
+• Positive crankcase ventilation valve does not
+operate.
+b. Injector clogged.
+Then confirm that the malfunction symptom is
+eliminated.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+TSB Revision

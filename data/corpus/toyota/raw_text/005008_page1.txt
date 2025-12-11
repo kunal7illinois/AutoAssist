@@ -1,0 +1,55 @@
+ES–38
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DIAGNOSIS SYSTEM
+1. DESCRIPTION
+When troubleshooting OBD II (On-Board Diagnostics)
+vehicles, the intelligent tester (complying with SAE
+J1987) must be connected to the DLC3 (Data Link
+Connector 3) of the vehicle. Various data in the vehicle's
+ECM (Engine Control Module) can be then read.
+OBD II regulations require that the vehicle's on-board
+computer illuminate the MIL (Malfunction Indicator
+Lamp) on the instrument panel when the computer
+detects a malfunction in:
+(a)The emission control system components.
+ES (b)The powertrain control components (which affect
+vehicle emissions).
+(c)The computer itself.
+In addition, if the applicable DTCs (Diagnostic Trouble
+Codes) prescribed by SAE J2012 are not recorded on 3
+FI00534
+consecutive trips, the MIL turns off automatically but the
+DTCs remain recorded in the ECM memory.
+To check DTCs, connect the intelligent tester to the
+Intelligent Tester
+DLC3. The tester displays DTCs, freeze frame data, and
+a variety of the engine data. The DTCs and freeze frame
+data can be erased with the tester (see page ES-35).
+In order to enhance OBD function on vehicles and
+develop the Off-Board diagnosis system, CAN
+(Controller Area Network) communication is introduced
+in this system. It minimizes the gap between technician
+skills and vehicle technology. CAN is a network, which
+uses a pair of data transmission lines, spanning multiple
+DLC3 computers and sensors. It allows high speed
+communication between the systems and simplifies the
+wire harness connection.
+CAN VIM Since this system is equipped with the CAN
+communication, connecting the CAN VIM (Vehicle
+B127989E01 Interface Module) to the intelligent tester is necessary to
+display any information from the ECM. (Also the
+communication between the intelligent tester and the
+ECM uses CAN communication signals.) When
+confirming the DTCs and any data of the ECM, connect
+the CAN VIM between the DLC3 and the intelligent
+tester.
+2. NORMAL MODE AND CHECK MODE
+The diagnosis system operates in normal mode during
+normal vehicle use. In normal mode, 2 trip detection
+logic is used to ensure accurate detection of
+malfunctions. Check mode is also available as an option
+for technicians. In check mode, 1 trip detection logic is
+used for simulating malfunction symptoms and
+increasing the system's ability to detect malfunctions,
+including intermittent problems (intelligent tester only)
+(see page ES-38).

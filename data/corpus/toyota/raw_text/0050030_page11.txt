@@ -1,0 +1,47 @@
+ES–173
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+11 CHECK HARNESS AND CONNECTOR (INJECTOR - ECM)
+(a) Disconnect the injector connector (of the misfiring
+Wire Harness Side:
+cylinder).
+Injector Connector (b) Disconnect the B30 ECM connector.
+(c) Turn the ignition switch ON.
+B13 B14 (d) Measure the resistance and voltage between the injector
+and the ECM connector terminals.
+B15 B16
+Standard voltage
+Cylinder Tester Connections Specified Conditions
+Front View
+No. 1 B16-1 - Ground 9 to 14 V
+ES
+No. 2 B15-1 - Ground 9 to 14 V
+No. 3 B14-1 - Ground 9 to 14 V
+B30 ECM Connector No. 4 B13-1 - Ground 9 to 14 V
+Standard resistance
+Cylinder Tester Connections Specified Conditions
+B16-2 - Ground 10 kΩ or higher
+No. 1
+B16-2 - B30-108 (#10) Below 1 Ω
+B15-2 - Ground 10 kΩ or higher
+No. 2
+#40 #30 #20 #10 B15-2 - B30-107 (#20) Below 1 Ω
+Front View
+B14-2 - Ground 10 kΩ or higher
+A106388E05 No. 3
+B14-2 - B30-106 (#30) Below 1 Ω
+B13-2 - Ground 10 kΩ or higher
+No. 4
+B13-2 - B30-105 (#40) Below 1 Ω
+(e) Reconnect the injector connector.
+(f) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+12 CHECK FUEL INJECTOR OF MISFIRING CYLINDER
+(a) Check the injector injection (whether fuel volume is high
+or low, and whether injection pattern is poor).
+NG REPLACE FUEL INJECTOR ASSEMBLY
+OK
+13 CHECK VALVE CLEARANCE OF MISFIRING CYLINDER
+NG ADJUST VALVE CLEARANCE
+OK

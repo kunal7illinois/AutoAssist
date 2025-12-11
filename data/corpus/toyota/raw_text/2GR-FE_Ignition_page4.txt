@@ -1,0 +1,53 @@
+IG–4
+2GR-FE IGNITION – IGNITION SYSTEM
+(7) Ground the spark plugs.
+(8) Check if a spark occurs at each spark plug
+while the engine is being cranked.
+NOTICE:
+• Be sure to ground the spark plugs when
+checking.
+• Replace the ignition coil if it receives an
+impact.
+• Do not crank the engine for more than 2
+seconds.
+A133897
+(c) Perform the spark test according to the flowchart
+below.
+(1) Check that the ignition coil connector is
+securely connected.
+Result
+Result Proceed to
+NG Connect securely
+OK Go to next step
+(2) Perform a speak test on each ignition coil.
+1. Replace the ignition coil with a normal one.
+2. Perform the spark test again.
+Result
+Result Proceed to
+OK Replace ignition coil
+NG Go to next step
+(3) Check the power supply to the ignition coil.
+1. Turn the ignition switch on (IG).
+2. Check that there is battery voltage at the
+ignition coil positive (+) terminal.
+Result
+Result Proceed to
+NG Check wiring between ignition
+switch and ignition coil
+OK Go to next step
+(4) Check the VVT sensor output voltage.
+Result
+Result Proceed to
+NG Check that there is resistance
+between ECM and VVT sensor. If
+IG there is no resistance, replace VVT
+sensor. If there is resistance, repair
+wiring between VVT sensor and
+ECM.
+OK Go to next step
+(5) Measure the resistance of the crankshaft
+position sensor.
+Standard resistance
+Temperature Specified Condition
+Cold 1,630 to 2,740 Ω
+Hot 2,065 to 3,225 Ω

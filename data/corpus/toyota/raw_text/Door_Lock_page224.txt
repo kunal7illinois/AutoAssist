@@ -1,0 +1,47 @@
+DL–209
+DOOR LOCK – KEY REMINDER WARNING SYSTEM
+Unlock Warning Switch Circuit
+DESCRIPTION
+The unlock warning switch detects if the key is in the ignition key cylinder.
+The unlock warning switch turns on when the key is inserted into the ignition key cylinder and turns off
+when the key is removed from the cylinder.
+The main body ECU is connected to the unlock warning switch via terminal KSW and key detection status
+signals are input to the main body ECU.
+The main body ECU applies voltage to the unlock warning switch via terminal KSW. When the unlock
+warning switch is on (there is continuity between the switch terminals), a signal indicating that the key is in
+the ignition key cylinder is input to the main body ECU. When the switch is off (there is no continuity
+between the switch terminals), a signal indicating that the key is not in the cylinder is input.
+WIRING DIAGRAM
+E22 Main Body ECU
+Unlock Warning
+Switch Assembly No. 3 J/B
+7 5 5
+2 1 L L
+3A 3J E9 KSW
+E49
+2 3 J/C 8
+W-B W-B W-B W-B
+3A 3C FE3
+9 12
+2
+W-B
+E2 F1
+B128326E02
+INSPECTION PROCEDURE
+DL
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the ignition switch to the ON position and turn the
+intelligent tester main switch on.
+(c) Select KEY UNLK WRN SW in the DATA LIST and read
+the value displayed on the tester.
+BODY:
+Measurement Item /
+Item Normal Condition Diagnostic Note
+Display (Range)
+ON: Key is in ignition key cylinder
+Unlock warning switch signal
+KEY UNLK WRN SW OFF: No key is in ignition key -
+/ON or OFF
+cylinder

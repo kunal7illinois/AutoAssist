@@ -1,0 +1,51 @@
+ES–273
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+In order to ensure reliable malfunction detection, the
+variation between the atmospheric pressure, before
+and after conduction of the purge flow monitor, is
+measured by the ECM.
+OBD II MONITOR SPECIFICATIONS
+1. Key-off Monitor
+Monitor Strategy:
+Required Sensors/Components EVAP VSV and pump module
+Frequency of Operation Once per driving cycle
+Duration Within 15 minutes
+MIL Operation 2 driving cycles
+Sequence of Operation None
+Typical Enabling Conditions: ES
+EVAP key-off monitor runs when all of following conditions are met: -
+Atmospheric pressure 70 to 110 kPa (525 to 825 mmHg)
+Battery voltage 10.5 V or more
+Vehicle speed Below 2.5 mph (4 km/h)
+Engine switch OFF
+Time after key off 5, 7 or 9.5 hours
+EVAP pressure sensor malfunction (P0450, P0451, P0452 and/or
+Not detected
+P0453)
+EVAP VSV Not operated by scan tool
+Vent valve Not operated by scan tool
+Leak detection pump Not operated by scan tool
+Both of following conditions are met before key off: Conditions 1 and 2
+1. Duration that vehicle is being driven 5 minutes or more
+2. EVAP purge operation Performed
+ECT 4.4 to 35°C (40 to 95°F)
+IAT 4.4 to 35°C (40 to 95°F)
+(a) Key-off monitor sequence 1 to 8
+1. Atmospheric pressure
+Next sequence is run if following condition is met: -
+Atmospheric pressure change Less than 0.3 kPa (2.25 mmHg) for 1 second
+2. First reference pressure
+Next sequence is run if all of following conditions are met: Conditions 1, 2 and 3
+1. EVAP pressure when 4 seconds. after reference pressure
+-1 kPa (-7.5 mmHg) or less
+measurement
+2. Reference pressure -4.85 to -1.05 kPa (-36.38 to -7.87 mmHg)
+3. Reference pressure Saturated within 1 minute
+3. Vent valve stuck closed check
+Next sequence is run if following condition is met: -
+EVAP pressure change after vent valve is ON 0.3 kPa (2.25 mmHg) or more
+4. Vacuum introduction and leak
+Next sequence is run if both of following condition is met: -
+Vacuum introduction time 15 minutes or less
+5. EVAP VSV stuck closed check
+Next sequence is run if following condition is met: -

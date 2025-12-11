@@ -1,0 +1,8 @@
+EG-34 ENGINE - 2AZ-FE ENGINE
+System Outline
+Engine Immobilizer Prohibits fuel delivery and ignition if an attempt is made to start the engine
+with an invalid key.
+Diagnosis When the ECM detects a malfunction, the ECM diagnoses and memorizes
+[See page EG-72] the failed section.
+Fail-Safe When the ECM detects a malfunction, the ECM stops or controls the engine
+[See page EG-73] according to the data already stored in the memory.

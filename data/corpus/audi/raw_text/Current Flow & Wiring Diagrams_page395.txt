@@ -1,0 +1,56 @@
+Audi TT No. 46 / 18
+Current Flow Diagram
+Engine control unit, brake light switch, brake pedal switch,
+cutch position sender
+F Brake light switch
+F47 Brake pedal switch
+G476 Clutch position sender
+J104 ABS control unit
+J519 Onboard supply control unit
+J623 Engine control unit
+T4t 4-pin connector, black, on brake light switch
+223322 T5h 5-pin connector, black, on clutch position sender
+T14 14-pin connector, black, on front left in engine compartment
+0,35
+ws/gn T16a 16-pin connector, black, connector E, on onboard power supply
+control unit
+T47 47-pin connector, on ABS control unit
+T52c 52-pin connector, brown, on onboard supply control unit
+T14/4
+T60 60-pin connector, on engine control unit
+223377
+T94 94-pin connector, on engine control unit
+0,35 0,35
+ws/gn li/sw 372 Earth connection 7, in main wiring harness
+J623 T60/13 T94/39 B335 Connection 1 (54), in main wiring harness
+T94/24 T94/41 B566 Connection 33, in main wiring harness
+3322 223322 5500
+* models with manual gearbox
+0,35 0,5 0,35 0,35 0,5 # up to May 2009
+sw/ge ge/sw ws/gn gn/bl ro/gn ## from June 2009
+T4t/4 T4t/1 T5h/2 T5h/5
+✱
+J104 J519 F F47 G476
+T47/4 T16a/2# T4t/3 T4t/2 T5h/1 T5h/4
+T52c/17## 31
+0,35 0,35 0,35 0,5 0,5 0,35
+sw/ge sw/ge sw/ge br br li/sw
+B335 B566
+ws = white
+6644 119944 119966
+sw = black
+2,5 0,5 0,5 0,35 0,35 ro = red
+br br br li/sw li/sw
+br = brown
+T52c
+gn = green
+/30##
+372 223377 T16a bl = blue
+/7# gr = grey
+J519
+li = purple
+ge = yellow
+225 226 227 228 229 230 231 232 233 234 235 236 237 238 or = orange
+8J0-046180409
+rs = pink
+Edition 04.2010

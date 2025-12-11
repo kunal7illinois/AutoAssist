@@ -1,0 +1,43 @@
+ES–310
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+9 INSPECT AIR-FUEL RATIO SENSOR (HEATER RESISTANCE) (See page ES-83)
+NG REPLACE AIR-FUEL RATIO SENSOR
+OK
+10 INSPECT INTEGRATION RELAY (EFI MAIN RELAY) (See page ES-84)
+NG REPLACE INTEGRATION RELAY (EFI MAIN
+ES RELAY)
+OK
+11 CHECK HARNESS AND CONNECTOR (A/F SENSOR - ECM)
+(a) Disconnect the B7 A/F sensor connector.
+Wire Harness Side: (b) Turn the ignition switch ON.
+(c) Measure the voltage between the +B terminal of the A/F
+sensor connector and body ground.
+A/F Sensor Connector
+Standard voltage
+Tester Connections Specified Conditions
+HA1A +B
+B7-2 (+B) - Body ground 9 to 14 V
+B7
+(d) Turn the ignition switch OFF.
+(e) Disconnect the B30 ECM connector.
+A1A+ A1A- (f) Measure the resistance.
+Standard resistance (Check for open)
+ECM Connector
+B30 Tester Connections Specified Conditions
+B7-1 (HA1A) - B30-109 (HA1A) Below 1 Ω
+B7-3 (A1A+) - B30-112 (A1A+) Below 1 Ω
+B7-4 (A1A-) - B30-113 (A1A-) Below 1 Ω
+Standard resistance (Check for short)
+Tester Connections Specified Conditions
+HA1A
+A1A+ A1A- B7-1 (HA1A) or B30-109 (HA1A) -
+10 kΩ or higher
+A127715E03 Body ground
+B7-3 (A1A+) or B30-112 (A1A+) -
+10 kΩ or higher
+Body ground
+B7-4 (A1A-) or B30-113 (A1A-) - Body
+10 kΩ or higher
+ground
+(g) Reconnect the ECM connector.
+(h) Reconnect the A/F sensor connector.

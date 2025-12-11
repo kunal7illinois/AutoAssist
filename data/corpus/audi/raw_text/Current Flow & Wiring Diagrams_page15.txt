@@ -1,0 +1,54 @@
+Audi TT No. 1 / 15
+Current Flow Diagram
+Onboard supply control unit, left fog light bulb, left side light
+bulb, front left turn signal bulb, left headlight range control
+motor, left dipped beam bulb, left main beam bulb
+J519 Onboard supply control unit
+L22 Left fog light bulb
+L123 Left dipped beam bulb
+L125 Left main beam bulb
+M1 Left side light bulb
+M5 Front left turn signal bulb
+T10a 10-pin connector, on left of headlight
+T11b 11-pin connector, black, connector A, on onboard power supply
+control unit
+T11c 11-pin connector, brown, connector D, on onboard power supply
+control unit
+V48 Left headlight range control motor
+366 Earth connection 1, in main wiring harness
+372 Earth connection 7, in main wiring harness
+J519 * up to May 2007
+** from June 2007
+T11c/2 T11c/11 T11b T11c/3 T11c/4
+/7
+2,5 0,5 0,5 1,5 1,0
+ws/li sw/ws gr/sw ws/sw ge/sw
+114466 3399 114444
+✱ ✱✱
+0,5 0,5 0,5
+gr/ge gr/ge ro/ge
+58L
+BL T10a 56a 56b
+T10a/9 /10 T10a/8 T10a/6 T10a/1 T10a/2
+1 2
+2
+M5 M1 L125 L123
+M
+V48
+3
+L22
+1/31 T10a/7 T10a/5 T10a/3 ws = white
+31 31 31 sw = black
+226644 226666 227700 227766 227722 ro = red
+✱✱ ✱✱ ✱✱ ✱✱ br = brown
+2,5 2,5 0,5 0,5 0,5 1,0 1,0 0,35 1,0 1,5
+gn = green
+br br br br br br br br br br
+bl = blue
+366 372 gr = grey
+366 li = purple
+ge = yellow
+183 184 185 186 187 188 189 190 191 192 193 194 195 196 or = orange
+8J0-001150407
+rs = pink
+Edition 04.2008

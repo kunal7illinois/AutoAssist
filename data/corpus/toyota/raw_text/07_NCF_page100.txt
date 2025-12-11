@@ -1,0 +1,39 @@
+ENGINE - 2AZ-FE ENGINE EG-73
+13. Fail-Safe
+When the ECM detects a malfunction, the ECM stops or controls the engine according to the date already
+stored in the memory.
+(cid:1) Fail-Safe Chart (cid:2)
+DTC No. Fail-Safe Operation Fail-Safe Deactivation Conditions
+P0031, P0032, The heater circuit in which an abnormality is
+Ignition switch OFF.
+P0037, P0038 detected is turned off.
+P0100, P0102, Ignition timing is calculated from an engine
+Return to normal condition.
+P0103 speed and a throttle angle.
+P0110, P0112,
+Intake air temp. is fixed at 20(cid:4)C (68(cid:4)F). Return to normal condition.
+P0113
+P0115, P0117, Engine coolant temp. is fixed at 80(cid:4)C
+Return to normal condition.
+P0118 (176(cid:4)F).
+P0120, P0122,
+P0123, P0220, Return to normal condition and
+Fuel cut intermittently when idle.
+P0222, P0223, ignition switch OFF.
+P2135
+Return to normal condition and
+P0121 Fuel cut intermittently when idle.
+ignition switch OFF.
+P0327, P0328 Max. timing retardation. Ignition switch OFF.
+P0351, P0352,
+Fuel cut. Return to normal condition.
+P0353, P0354
+Return to normal condition and
+P2102, P2103 Fuel cut intermittently when idle.
+ignition switch OFF.
+Return to normal condition and
+P2111, P2112 Fuel cut intermittently when idle.
+ignition switch OFF.
+Return to normal condition and
+P2119 Fuel cut intermittently when idle.
+ignition switch OFF.

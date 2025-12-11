@@ -1,0 +1,59 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+Note
+♦ If the required values are not attained, compare the measured
+values for -G261- and -G262- to one another.
+♦ If the measured value of one of the two vent temperature
+senders -G261- or -G262- is OK, check actuation and opera‐
+tion of the left temperature flap control motor -V158- and the
+right temperature flap control motor -V159- ⇒ page 137 ,
+⇒ page 140 and ⇒ "Guided fault-finding" function of vehicle
+diagnostic, testing and information system VAS 5051.
+♦ If the measured value for -G261- and / or -G262- is lower than
+the measured value of the evaporator output temperature
+sender -G263- , check -G263- , -G261- and -G262- for proper
+installation and contact resistance in the electrical connec‐
+tions. Replace the defective sender if applicable ⇒ "Guided
+fault-finding" function of vehicle diagnostic, testing and infor‐
+mation system VAS 5051 .
+♦ If no fault is found at the left footwell vent temperature sender
+-G261- , the right footwell vent temperature sender -G262- ,
+the evaporator output temperature sender -G263- , the left
+temperature flap control motor -V158- and the right tempera‐
+ture flap control motor -V159- , perform the measures to be
+taken in the event of temperature increase downstream of the
+evaporator ⇒ page 137 .
+♦ The temperature of the air flowing out of the “Centre” dash
+panel vents can also be measured using a commercially avail‐
+able thermometer for example.
+♦ Problems relating to differences between the temperature of
+the air emitted from the vents with an identical setting in air
+conditioner control mode may be due to the following: Tem‐
+perature flaps in air distributor housing not closing fully or not
+attaining end position ⇒ page 124 and ⇒ "Guided fault-finding"
+function of vehicle diagnostic, testing and information system
+VAS 5051. Air in heat exchanger, fluctuating flow through heat
+exchanger and thus uneven heat distribution ⇒ page 140 .
+Detachment of foam seal on heat exchanger ins t a l lation, al‐
+lowing air to flow past heat exchanger Air conditioner refriger‐
+ant circuit not filled with the correct amount of refrigerant.
+10.1.3 Measures to be taken if readout does
+not match specification
+The cooling output required is not attained in the cooling output
+test ⇒ page 131 .
+– Select the “Reading measured value block” function ⇒ "Guided fault-finding" function of vehicle diag‐
+nostic, testing and information system VAS 5051.
+– Repeat cooling output test ⇒ page 130 .
+– During the cooling output test observe the displays for actuation of the air conditioner compressor reg‐
+ulating valve -N280- and the pressure in the refrigerant circuit.
+– -N280- deactivated during cooling output test (control current dropped below 0.50 A) ?
+↓ ↓
+yes no
+↓ ↓
+– Interrogate fault memory, eliminate • Increase in pressure in refrigerant circuit (measured value of
+faults displayed and erase fault high-pressure sender -G65- ) during cooling output test?
+memory. ⇒ "Guided fault-finding"
+function of vehicle diagnostic, testing
+and information system VAS 5051
+135
+10. Checking cooling output of air conditioner

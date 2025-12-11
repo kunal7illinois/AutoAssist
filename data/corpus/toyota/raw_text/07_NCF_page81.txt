@@ -1,0 +1,27 @@
+EG-54 ENGINE - 2AZ-FE ENGINE
+Operation
+1) Advance
+When the camshaft timing oil control valve is positioned as illustrated below by the advance signal from
+the ECM, the resultant oil pressure is applied to the timing advance side vane chamber to rotate the
+camshaft in the timing advance direction.
+Vane
+ECM
+Oil Pressure
+Rotation Direction
+IN Drain
+198EG35
+2) Retard
+When the camshaft timing oil control valve is positioned as illustrated below by the retard signal from
+the ECM, the resultant oil pressure is applied to the timing retard side vane chamber to rotate the camshaft
+in the timing retard direction.
+Vane
+ECM
+Oil Pressure
+Rotation Direction
+Drain IN
+198EG36
+3) Hold
+After reaching the target timing, the valve timing is held by keeping the camshaft timing oil control valve
+in the neutral position unless the traveling state changes.
+This adjusts the valve timing at the desired target position and prevents the engine oil from running out
+when it is unnecessary.

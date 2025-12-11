@@ -1,0 +1,36 @@
+ST–79
+2GR-FE STARTING – SMART KEY SYSTEM
+Steering Lock Position Signal Circuit Malfunc-
+DTC B2285
+tion
+DESCRIPTION
+This DTC is output when serial communication signals and LIN communication signals in the circuit
+between the main body ECU and steering lock actuator (steering lock ECU) are inconsistent.
+HINT:
+When the main body ECU is replaced with a new one and the negative (-) battery terminal is connected,
+the power source mode becomes the IG-ON mode. When the battery is removed and reinstalled, the
+power source mode that was selected when the battery was removed is restored.
+After the main body ECU or steering lock ECU is replaced, perform the registration procedures for the
+engine immobiliser system (See page EI-8).
+DTC No. DTC Detection Condition Trouble Area
+• Main body ECU
+Cable and LIN information between the main body ECU
+B2285 • Steering lock ECU
+and the steering lock ECU are inconsistent
+• Wire harness or connector
+WIRING DIAGRAM
+E51
+Steering Lock ECU Main Body ECU
+18
+SLP1 E7 SLP
+4
+Instrument Panel J/B
+9
+LIN LIN Line IR LIN1
+14
+5
+ST
+B137987E01
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.

@@ -1,0 +1,41 @@
+DL–118
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/o Smart Key System)
+INSPECTION PROCEDURE
+1 CHECK HARNESS AND CONNECTOR (MAIN BODY ECU - DOOR CONTROL RECEIVER)
+(a) Disconnect the E6 main body ECU connector and the
+Connector Wire Harness Side: O17 door control receiver connector.
+(b) Measure the resistance according to the value(s) in the
+Main Body ECU
+table below.
+Standard resistance
+E6
+Symbol
+Condition Specified Condition
+(Tester Connection)
+RDA (E6-12) - RDA (O17-2) Always Below 1 Ω
+RDA (E6-12) - Body ground Always 10 kΩ or higher
+PRG (E6-10) - PRG (O17-3) Always Below 1 Ω
+PRG (E6-10) - Body ground Always 10 kΩ or higher
+PRG RDA
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Door Control Receiver
+O17
+PRG RDA
+B139427E01
+OK
+2 CHECK HARNESS AND CONNECTOR (BATTERY, BODY GROUND)
+(a) Measure the voltage and resistance according to the
+Connector Wire Harness View:
+value(s) in the table below.
+Standard
+Door Control Receiver
+DL Symbol
+Condition Specified Condition
+(Tester Connection)
+GND (O17-1) - Body ground Always Below 1 Ω
++B (O17-5) - Body ground Always 10 - 14 V
+NG REPAIR OR REPLACE HARNESS OR
+O17 CONNECTOR
++B GND
+B113637E02

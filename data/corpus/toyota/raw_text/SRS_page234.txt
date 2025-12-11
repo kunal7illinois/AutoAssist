@@ -1,0 +1,58 @@
+RS–234
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+WIRING DIAGRAM
+Center Airbag
+Sensor Assembly
+Certification ECU Main Body ECU
+J/C
+28 15 6 2 2 22
+CANL E58 E8 CANN CANL E8 E44 E45 E30 CANL
+(*5)
+27 16 5 1 1 13
+CANH E58 E8 CANP CANH E8 E44 E45 E30 CANH
+(*5)
+E60 E17
+Tire Pressure Yaw Rate Sensor Steering Angle Sensor
+Warning ECU
+2 3 2 2
+(*6) (*6) 9
+CANL E34 E65 E46 E63 CANL
+(*3) (*4)
+3 2 1 1
+(*6) (*6) 10
+10 CANH E34 E65 E46 E63 CANH
+TC
+(*3) (*4)
+E10
+Combination Meter
+ECM DLC3
+RS C56 27 27 2 2 18
+Transmission 13 14
+TCA55 A24 TC CANL E62 E43 F1 CANL
+Control ECU
+(*1) (*2)
+1 1 17
+4 6
+CG CANH E62 E43 F1 CANH
+2
+6
+CAN+ (*1) C55 CAN+ 41 2
+CANH A55 E42
+(*1)
+1
+7
+CAN- (*1) C55 CAN- 49 1
+CANL A55 E42
+(*1)
+41
+*1: 2GR-FE
+CANH A24
+(*2)
+*2: 2AZ-FE
+49
+*3: TMC Made
+CANL A24
+(*2)
+*4: TMMK Made
+*5: with Smart Key System
+C C123740E01

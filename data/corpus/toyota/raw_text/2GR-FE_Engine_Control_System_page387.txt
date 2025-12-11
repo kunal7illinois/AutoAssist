@@ -1,0 +1,15 @@
+ES–387
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2 CHECK WHETHER DTC OUTPUT RECURS
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the engine switch on.
+(c) Clear the DTCs (See page ES-45).
+(d) Start the engine and wait for 10 minutes or more.
+(e) On the tester, enter the following menu items:
+DIAGNOSIS / ENHANCED OBD II / DTC / INFO /
+PENDING CODEs.
+(f) If no pending DTC is displayed, the repair has been
+successfully completed.
+NEXT
+ES
+END

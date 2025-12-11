@@ -1,0 +1,46 @@
+AX–31
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+MONITOR DRIVE PATTERN
+1. MONITOR DRIVE PATTERN FOR ECT TEST
+(a) Perform this drive pattern as one method to
+simulate the detection conditions of the ECT
+malfunctions. (The DTCs may not be detected due
+to differences from the actual driving conditions. AX
+Some codes may not be detected using this drive
+pattern.)
+HINT:
+Preparation for driving
+• Warm up the engine sufficiently. (Engine coolant
+temperature should be 60°C (140°F) or higher)
+• Drive the vehicle when the atmospheric
+temperature is -10°C (14°F) or higher.
+(Malfunction may not be detected when the
+atmospheric temperature is less than -10°C
+(14°F))
+Notice on driving
+• Drive the vehicle through all gears.
+Stop to 1st to 2nd to 3rd to 4th to 5th to 6th (lock-
+up ON).
+• Confirm engine braking using the S position.
+While driving in the 6 (S) position and 6th gear
+lock-up, shift to the "-" position to down-shift from
+6th to 5th, 5th to 4th, 4th to 3rd, 3rd to 2nd, 2nd
+to 1st.
+Check that proper engine braking occurs
+whenever down-shift takes place.
+• Repeat the above driving pattern three times or
+more.
+NOTICE:
+• The monitor status can be checked using the
+intelligent tester. When using the intelligent
+tester, monitor status can be found in "OBD/
+MOBD / ECT / DATA LIST".
+• In the event that the drive pattern must be
+interrupted (possibly due to traffic conditions
+or other factors), the drive pattern can be
+resumed and, in most cases, the monitor can
+be completed.
+• Perform this drive pattern on a road with the
+fewest hills possible and strictly observe the
+posted speed limits and traffic laws while
+driving.

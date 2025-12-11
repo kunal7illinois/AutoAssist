@@ -1,0 +1,113 @@
+Audi TT No. 3 / 5
+Current Flow Diagram
+Engine control unit, Motronic current supply relay,
+suppression filter
+C24 Suppression filter
+J271 Motronic current supply relay
+J623 Engine control unit
+SC32 Fuse 32 on fuse holder C
+SC36 Fuse 36 on fuse holder C
+T4a 4-pin connector, black, on front left in engine compartment
+T81 81-pin connector, black, on engine control unit
+88 2200 5511
+6,0 0,5 0,5
+ro bl/ws ro/sw 366 Earth connection 1, in main wiring harness
+B298
+32 36
+S
+5A
+C32 S
+10
+C
+A
+36 T4a/1 378 Earth connection 13, in main wiring harness
+32a 36a
+672 Earth point 2, on front of left longitudinal member
+6,0 2,5 4,0 6,0 1,0 0,5 0,35 0,35
+ro ro ro ro ro/sw ro/sw bl/ws ro/sw
+B298 Positive connection 2 (30), in main wiring harness
+22 33 224455 5555
+✱ 1
+2
+/
+/
+3
+3
+0
+0
+♦
+♦♦
+3
+4
+/
+/
+8
+8
+6
+6
+♦
+♦♦ J623
+T
+D
+8
+F
+1
+D
+/2
+F
+8
+DF 3
+T
+0
+81/62 ♦
+* R
+up
+e l
+t
+a
+o
+y
+M
+a
+a
+n
+y
+d
+2
+fu
+0
+s
+0
+e
+8
+carrier in electronics box engine compartment
+4 ♦♦ from June 2008
+J271
+# up to May 2009
+2/87♦ 4/85♦ T81/23 T81/1 T81/2
+8/87 6/85♦♦ 31 31 ## from June 2009
+♦♦
+# # ##
+6,0 0,5 0,35 0,35 2,5 2,5
+ro/ge sw/gr sw/gr sw/ge br br
+2 118888 378
+✱
+C24
+1/31
+221111 8833
+2,5 2,5 2,5 2,5
+br br br br
+366
+ws = white
+sw = black
+ro = red
+6,0 br = brown
+br gn = green
+bl = blue
+gr = grey
+672 li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-003050409
+rs = pink
+Edition 10.2010

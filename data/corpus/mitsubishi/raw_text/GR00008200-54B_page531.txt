@@ -1,0 +1,38 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-531
+SYMPTOM PROCEDURES
+STEP 4. Check the wiring harness between hazard warning
+light switch connector C-10 (terminal 2) and ground.
+Q:Is the wiring harness between hazard warning light
+CONNECTOR: C-10
+switch connector C-10 (terminal 2) and ground in good
+condition?
+YES : No action to be taken.
+NO : Repair the wiring harness. If the equipment, which are
+described in "CIRCUIT OPERATION", work normally,
+the input signal from the hazard warning light switch
+should be normal.
+DEVICE SIDE
+1 2 3 4
+AC106557AB
+STEP 5. Check hazard warning light switch connector C-10
+and ETACS-ECU connector C-118 for damage.
+Q:Are hazard warning light switch connector C-10 and
+CONNECTOR: C-10
+ETACS-ECU connector C-118 in good condition?
+YES : Go to Step 6.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. If the
+equipment, which are described in "CIRCUIT
+OPERATION", work normally, the input signal from
+the hazard warning light switch should be normal.
+DEVICE SIDE
+1 2 3 4
+AC106557AB
+CONNECTOR: C-118
+DEVICE SIDE
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+TSB Revision

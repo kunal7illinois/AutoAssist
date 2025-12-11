@@ -1,0 +1,28 @@
+ESP
+System components
+ESP unit
+The Audi TT features a new ESP generation by Conti- In the ESP control unit has the same integrated
+nental-Teves with the designation Mk60E1. functions as in the Mk60 control unit on the Audi
+A3, however these functions have been adapted to
+As with the Mk25E1 in the current Audi Q7, the the Audi TT. The hill hold assist (hha) and driver
+Mk60E1 has analogised switch valves steering recommendation (dsr) functions will be
+(4 intake valves and 2 block valves) and an inte- implemented at a later date. The Audi A3 system
+grated pressure sensor. In the case of analogised has been modified with regard to the operation of
+switch valves, the port cross-section is determined the ESP Off key.
+by the activation current. Unlike systems with con-
+ventional switch valves with the valve positions
+open and closed, more precise brake control is pos-
+sible.
+Note
+381_022
+Due to the use of linearised switch valves, it is
+no longer possible to disconnect the con t rol
+unit from the hydraulic unit in the service work-
+shop.
+Block valve
+Inlet valve
+ESP hydraulic unit
+Linearised switch valves (excerpt showing the hydraulic
+control device for a wheel brake)
+381_023
+18

@@ -1,0 +1,84 @@
+ES–42
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Symbols (Terminal No.) Wiring Colors Terminal Descriptions Conditions STD Voltages
+#10 (C55-45) - E01 (C55-22) B - W-B
+#20 (C55-85) - E01 (C55-22) R - W-B
+#30 (C55-44) - E01 (C55-22) Y - W-B Fuel injector operation
+Ignition switch on (IG) 9 to 14 V
+#40 (C55-84) - E01 (C55-22) L - W-B signal
+#50 (C55-43) - E01 (C55-22) W-L - W-B
+#60 (C55-83) - E01 (C55-20) BR - W-B
+#10 (C55-45) - E01 (C55-22) B - W-B
+#20 (C55-85) - E01 (C55-22) R - W-B
+#30 (C55-44) - E01 (C55-22) Y - W-B Fuel injector operation Pulse generation
+Idling
+#40 (C55-84) - E01 (C55-22) L - W-B signal (see waveform 3)
+#50 (C55-43) - E01 (C55-22) W-L - W-B
+#60 (C55-83) - E01 (C55-20) BR - W-B
+PSW (C55-810) - E1 (C55-81) B - W-B P/S pressure switch signal Ignition switch on (IG) 9 to 14 V
+Starter relay operation
+STA (A55-48) - E1 (C55-81) V - W-B Cranking 9 to 14 V
+signal
+ES STSW*2 (A55-14) - E1 (C55-81) R - W-B Starter relay operation Cranking 9 to 14 V
+signal
+Camshaft timing Oil
+Control Valve (OCV) Pulse generation
+OC2- (C55-51) - OC2+ (C55-52) R - BR Ignition switch on (IG)
+operation signal (Intake (see waveform 1)
+side)
+Camshaft timing Oil
+Control Valve (OCV) Pulse generation
+OC2+ (C55-52) - OC2- (C55-51) BR - R Ignition switch on (IG)
+operation signal (Intake (see waveform 1)
+side)
+Camshaft timing Oil
+Control Valve (OCV) Pulse generation
+OC1- (C55-57) - OC1+ (C55-58) B - W Ignition switch on (IG)
+operation signal (Intake (see waveform 1)
+side)
+Camshaft timing Oil
+Control Valve (OCV) Pulse generation
+OC1+ (C55-58) - OC1- (C55-57) W - B Ignition switch on (IG)
+operation signal (Intake (see waveform 1)
+side)
+Variable Valve Timing
+Pulse generation
+VV2+ (C55-67) - VV2- (C55-90) W - B (VVT) sensor signal Idling
+(see waveform 5)
+(Intake side)
+Variable Valve Timing
+Pulse generation
+VV1+ (C55-69) - VV1- (C55-92) L - LG (VVT) sensor signal Idling
+(see waveform 5)
+(Intake side)
+Crankshaft position sensor Pulse generation
+NE- (C55-111) - NE+ (C55-110) R - G Idling
+signal (see waveform 5)
+Crankshaft position sensor Pulse generation
+NE+ (C55-110) - NE- (C55-111) G - R Idling
+signal (see waveform 5)
+Variable Valve Timing
+Pulse generation
+EV2- (C55-89) - EV2+ (C55-66) L - G-R (VVT) sensor signal Idling
+(see waveform 5)
+(Exhaust side)
+Variable Valve Timing
+Pulse generation
+EV2+ (C55-66) - EV2- (C55-89) G-R - L (VVT) sensor signal Idling
+(see waveform 5)
+(Exhaust side)
+Variable Valve Timing
+Pulse generation
+EV1- (C55-91) - EV1+ (C55-68) B - Y (VVT) sensor signal Idling
+(see waveform 5)
+(Exhaust side)
+Variable Valve Timing
+Pulse generation
+EV1+ (C55-68) - EV1- (C55-91) Y - B (VVT) sensor signal Idling
+(see waveform 5)
+(Exhaust side)
+Camshaft timing Oil
+Control Valve (OCV) Pulse generation
+OE1+ (C55-16) - OE1- (C55-17) L - LG Ignition switch on (IG)
+operation signal (Exhaust (see waveform 1)
+side)

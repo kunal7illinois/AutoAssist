@@ -1,0 +1,38 @@
+ES–113
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Required sensors/components (Sub) Camshaft position sensor, Crankshaft position sensor
+Frequency of operation Once per drive cycle
+Duration Within 1 minute
+MIL operation 2 driving cycles
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+All:
+P0011 (VVT system 1 - advance)
+P0012 (VVT system 1 - retard)
+Monitor runs whenever following DTCs are not present
+P0021 (VVT system 2 - advance)
+P0115 - P0118 (ECT sensor)
+Intake side:
+Engine speed 500 to 1,000 rpm ES
+Exhaust side:
+VVT feedback mode Executing
+VVT Maximum advanced position
+Engine speed 500 to 1,000 rpm
+TYPICAL MALFUNCTION THRESHOLDS
+Intake side:
+One of the following conditions is met: Condition 1 or 2
+1. VVT leaning value at maximum retarded valve timing Less than 18.5°CA
+2. VVT leaning valve at maximum retarded valve timing More than 43.5°CA
+Exhaust side:
+One of the following conditions is met: Condition 1 or 2
+1. VVT leaning value Less than 77°CA
+2. VVT leaning value More than 102°CA
+WIRING DIAGRAM
+Refer to DTC P0335 (See page ES-224).
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).

@@ -1,0 +1,23 @@
+CA–121
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+13 CHECK FOR SHORT TO GND IN CAN BUS WIRE (SKID CONTROL ECU)
+(a) Disconnect the skid control ECU connector (A25, A26 or
+No. 2 CAN J/C Connector (Front of the A60).
+Vehicle) Wire Harness Side View:
+Front
+CANH
+A40
+CA
+CANL
+C133245E05
+(b) Measure the resistance according to the value(s) in the
+DLC3: E10 table below.
+Standard resistance
+Tester Connection Condition Specified Value
+A40-2 (CANH) - E10-4 (CG) Ignition switch off 200 Ω or higher
+A40-8 (CANL) - E10-4 (CG) Ignition switch off 200 Ω or higher
+OK REPLACE BRAKE ACTUATOR ASSEMBLY
+CG
+C126231E15
+NG
+REPAIR OR REPLACE SKID CONTROL ECU BRANCH WIRE OR CONNECTOR

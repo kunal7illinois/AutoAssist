@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+Is there continuity?
+YES -Go to step 29.
+NO -Repair open in the wire between the PCM (A9) and the FTP sensor, then
+go to step 24.
+22. Turn the ignition switch OFF.
+23. Replace the FTP sensor (see FTP SENSOR REPLACEMENT ).
+24. Reconnect all connectors.
+25. Turn the ignition switch ON (II).
+26. Reset the PCM with the HDS.
+27. Do the PCM idle learn procedure, refer to the ECM/PCM IDLE LEARN
+PROCEDURE .
+28. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P1193 indicated?
+YES -Check for poor connections or loose terminals at the FTP sensor and the
+PCM, then go to step 1.
+NO -Troubleshooting is complete. If any other Temporary DTCs or DTCs are
+indicated, go to the indicated DTC's troubleshooting.
+29. Reconnect all connectors.
+30. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+31. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P1193 indicated?
+YES -Check for poor connections or loose terminals at the FTP sensor and the
+PCM. If the PCM was updated, substitute a known-good PCM (see
+SUBSTITUTING THE PCM ), then recheck. If the PCM was substituted, go
+to step 1.

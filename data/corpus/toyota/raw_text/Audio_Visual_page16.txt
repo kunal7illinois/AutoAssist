@@ -1,0 +1,73 @@
+AV–16
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+TERMINALS OF ECU
+1. RADIO RECEIVER (PREMIUM MODEL)
+F26 F8 F11
+E129787E03
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specification
+B (F26-1) - GND (F26-20) L-Y - BR Battery Always 10 to 14 V
+Light control switch OFF
+ILL+ (F26-2) - GND (F26-20) G - BR Illumination signal Below 1 V → 10 to 14 V
+→ TAIL
+AVC-LAN communication Turn ignition switch on
+ATX+ (F26-5) - GND (F26-20) R - BR 2 to 3 V
+signal (ACC)
+Audio system is playing →
+MUTE (F26-7) - GND (F26-20) O - BR MUTE signal Above 3.5 V → Below 1 V
+Changing
+A waveform synchronized
+R+ (F26-8) - GND (F26-20) R - BR Sound signal (Right) Audio system is playing
+with sounds is output
+A waveform synchronized
+L+ (F26-9) - GND (F26-20) B - BR Sound signal (Left) Audio system is playing
+with sounds is output
+Shielded - Body
+SLD (F26-10) - Body ground Shield ground Always Below 1 V
+ground
+Turn ignition switch on
+ACC (F26-11) - GND (F26-20) GR - BR Accessory (ON) 10 to14 V
+(ACC)
+Illumination (rheostat) Light control switch OFF Below 1 V → Pulse
+ILL- (F26-12) - GND (F26-20) W-B - BR
+signal → TAIL generation
+Radio switch ON and AM
+ANT (F26-13) - GND (F26-20) O - BR Power source of antenna 10 to 14 V
+or FM
+AVC-LAN communication Turn ignition switch on
+ATX- (F26-15) - GND (F26-20) G - BR 2 to 3 V
+signal (ACC)
+A waveform synchronized
+R- (F26-18) - GND (F26-20) G - BR Sound signal (Right) Audio system is playing
+with sounds is output
+A waveform synchronized
+L- (F26-19) - GND (F26-20) W - BR Sound signal (Left) Audio system is playing
+with sounds is output
+GND (F26-20) - Body ground BR - Body ground Ground Always Below 1 V
+Steering pad switch
+SWG (F8-6) - GND (F26-20) P - BR Always Below 1 V
+ground
+Steering pad switch not
+4 V or more
+operated
+→ Approx. 0.5 V
+→ SEEK+ switch pushed
+SW1 (F8-7) - GND (F26-20) O - BR Steering pad switch signal → Approx. 0.9 V
+→ SEEK- switch pushed
+AV → Approx. 2.0 V
+→ VOL+ switch pushed
+→ Approx. 3.4 V
+→ VOL- switch pushed
+Steering pad switch not
+operated
+4 V or more
+→ MODE switch pushed
+→ Approx. 0.5 V
+SW2 (F8-8) - GND (F26-20) Y - BR Steering pad switch signal → ON HOOK switch
+→ Approx. 0.9 V
+pushed
+→ Approx. 2.0 V
+→ OFF HOOK switch
+pushed
+"Bluetooth" handsfree A waveform synchronized
+IVO+ (F8-11) - GND (F26-20) R - BR Voice signal
+voice signal is playing with sounds is output

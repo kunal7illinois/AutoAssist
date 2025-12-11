@@ -1,0 +1,27 @@
+BC–292
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+2. SENSOR SIGNAL CHECK BY TEST MODE (SIGNAL
+CHECK) (INTELLIGENT TESTER)
+HINT:
+If the ignition switch is turned from on (IG) to on (ACC) or
+off during Test Mode (signal check), DTCs recorded
+during the signal check function will be erased.
+(a) Procedure to enter Test Mode.
+Intelligent Tester
+(1) Turn the ignition switch off.
+(2) Connect the intelligent tester to the DLC3.
+(3) Check that the steering wheel is centered and
+move the shift lever to the P position (Automatic
+Transaxle) or apply the parking brake (Manual
+Transaxle).
+(4) Turn the ignition switch on (IG).
+BC
+DLC3
+CAN VIM
+C131977E05
+(5) Set the intelligent tester to Test Mode (select
+"SIGNAL CHECK").
+HINT:
+Refer to the intelligent tester operator's manual
+for further details.
+C106533

@@ -1,0 +1,53 @@
+NS–49
+NAVIGATION – NAVIGATION SYSTEM
+TERMINALS OF ECU
+1. RADIO AND NAVIGATION ASSEMBLY
+F9 F10 F13
+F12 F14
+E126216E01
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specification
+Speed signal from See "Vehicle Signal
+SPD (F13-3) - GND (F9-20) V - BR -
+combination meter Check" (See page NS-22)
+See "Vehicle Signal
+REV (F13-5) - GND (F9-20) R - BR Reverse signal -
+Check" (See page NS-22)
+Steering pad switch
+SWG (F10-6) - Body ground P - Body ground Always Below 1 V
+ground
+No switch is pushed 4 V or more
+→ SEEK+ switch pushed → Approx. 0.5 V
+SW1 (F10-7) - SWG (F10-6) O - P Steering pad switch signal → SEEK- switch pushed → Approx. 0.9 V
+→ VOL+ switch pushed → Approx. 2.0 V
+→ VOL- switch pushed → Approx. 3.4 V
+No switch is pushed
+→ MODE switch pushed 4 V or more
+→ ON HOOK switch → Approx. 0.5 V
+SW2 (F10-8) - SWG (F10-6) Y - P Steering pad switch signal pushed → Approx. 0.9 V
+→ OFF HOOK switch → Approx. 2.0 V
+pushed → Approx. 3.4 V
+→ VOICE switch pushed
+A waveform
+IVO+ (F10-11) - GND (F9-20) R - BR Voice guidance signal Voice guidance is playing synchronized with
+sounds is output
+A waveform
+IVO- (F10-12) - GND (F9-20) G - BR Voice guidance signal Voice guidance is playing synchronized with
+sounds is output
+Shielded - Body Voice sound signal
+SLD1 (F10-13) - Body ground Always Below 1 V
+ground shielded ground
+B (F9-1) - GND (F9-20) L-Y - BR Battery Always 10 to 14 V
+Turn ignition switch on
+(IG)
+ILL+ (F9-2) - GND (F9-20) G - BR Illumination signal Below 1V → 10 to 14 V
+Light control switch OFF NS
+→ TAIL or ON
+AVC-LAN communication Turn ignition switch on
+ATX+ (F9-5) - GND (F9-20) R - BR 2 to 3 V
+signal (ACC)
+Audio system is playing → Above 3.5 V → Below 1
+MUTE (F9-7) - GND (F9-20) O - BR Mute signal
+Changing V
+A waveform
+R+ (F9-8) - GND (F9-20) R - BR Sound signal (Right) Audio system is playing synchronized with
+sounds is output

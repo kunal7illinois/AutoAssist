@@ -1,0 +1,40 @@
+BC–380
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+WIRING DIAGRAM
+A60
+Brake Actuator Assembly
+E38
+(Skid Control ECU)
+A/C Amplifier
+CANH CANH
+11 35
+CANL CANL
+12 14
+E61
+A55
+Option Connector (Bus Buffer)
+ECM
+BC
+CAN+ CANH
+1 (*1) 41
+CAN- CANL
+2 (*1) 49
+E30
+A24
+Airbag Sensor Assembly Center
+ECM
+CANH CANH
+13 (*2) 41
+CANL CANL
+22 (*2) 49
+E17
+E65
+Steering Sensor
+Yaw Rate Sensor
+CANH CANH
+2 10
+CANL CANL
+3 9
+*1: 2GR-FE
+*2: 2AZ-FE
+C136509E01

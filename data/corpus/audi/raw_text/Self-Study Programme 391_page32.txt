@@ -1,0 +1,34 @@
+Electrical convertible top control system
+Data exchange Convertible top operation control unit J256
+To ensure smooth operation of the convertible top,
+the convertible top operation control unit J256
+requires various information.
+In addition to the information received from the
+system's sensors, the control unit requires
+information from other automotive systems,
+e.g. ESP.
+Other control units are also dependent on the
+information supplied by the convertible top
+operation control unit. This information is
+exchanged across the CAN data bus.
+The convertible top operation control unit is
+integrated in the convenience CAN bus and sends
+and receives data across this CAN bus.
+391_054
+Data bus diagnostic interface J533
+Data exchange between the individual CAN data
+bus systems is effected via the data bus diagnostic
+interface J533.
+There is an intensive and continuous exchange of
+data between the individual automotive systems.
+The data bus diagnostic interface is located below
+the dash panel adjacent the pedal bracket. The
+control unit is accessible from the driver footwell.
+391_076
+Reference
+For information on the CAN data bus,
+refer to Self-Study Programme 238
+"Data exchange across CAN data bus I"
+and 269 "Data exchange across CAN data
+bus II".
+32

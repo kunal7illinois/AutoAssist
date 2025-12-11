@@ -1,0 +1,44 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-561
+SYMPTOM PROCEDURES
+STEP 2. Check the door lock switch (power window main
+switch).
+Remove the power window main switch. Refer to GROUP 42,
+CONNECTOR: E-12 Door − Door Trim and Waterproof Film P.42-54. Then check
+FRONT DOOR (LH) continuity between the switch terminals.
+SWITCH POSITION TESTER SPECIFIED
+E-12 CONNECTION CONDITION
+1 2 3 4 LOCK 3 − 9 Less than 2 ohm
+5 6 7 8 910
+OFF 3 − 9 − 10 Open circuit
+UNLOCK 9 − 10 Less than 2 ohm
+Q:Is the door lock switch (power window main switch) in
+good condition?
+YES : Go to Step 3.
+NO : Replace the power window main switch. If the central
+door locking system works normally, input signal from
+the door lock switch should be normal.
+1 2 3 4
+5 6 7 8 9 10
+AC106608AB
+STEP 3. Check at power window main switch connector E-
+12 in order to check the power window main switch ground
+circuit.
+(1) Disconnect power window main switch connector E-12, and
+CONNECTOR: E-12 measure at the harness side.
+FRONT DOOR (LH)
+DEVICE SIDE
+E-12
+1 2 3 4
+5 6 7 8 910
+AC106556AE
+(2) Measure the resistance value between terminal 9 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR E-12
+(HARNESS SIDE) Q:Does the measured resistance value correspond with
+this range?
+4 3 2 1
+10 9 8 7 6 5 YES : Go to Step 6.
+NO : Go to Step 4.
+AC002176AB
+TSB Revision

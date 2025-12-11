@@ -1,0 +1,29 @@
+RS–136
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+16 CHECK FLOOR WIRE NO. 2 (SHORT TO B+)
+(a) Turn the ignition switch off.
+Front Seat Wire RH (b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Disconnect the front seat wire RH connector from the
+floor wire No. 2.
+F A (d) Connect the negative (-) terminal cable to the battery,
+E D C B and wait for at least 2 seconds.
+Center Airbag (e) Turn the ignition switch on (IG).
+Occupant
+Sensor Assembly
+Classification (f) Measure the voltage according to the value(s) in the
+ECU table below.
+Standard voltage
+Floor Wire No. 2
+Tester Connection Condition Specified Condition
+OT1-1 (FSR+) - Body
+Connector C ground Ignition switch on (IG) Below 1 V
+OT1-4 (FSR-) - Body
+OT1 ground Ignition switch on (IG) Below 1 V
+FSR+
+NG REPAIR OR REPLACE FLOOR WIRE NO. 2
+FSR-
+C C110464E18
+OK
+RS
+REPAIR OR REPLACE FRONT SEAT WIRE RH

@@ -1,0 +1,37 @@
+TD–31
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/ Smart Key System)
+3 CHECK HARNESS AND CONNECTOR (CERTIFICATION ECU - ENGINE ROOM J/B)
+(a) Disconnect the E59 ECU connector and 1D J/B
+Connector Wire Harness View:
+connector.
+Certification ECU (b) Measure the resistance according to the value(s) in the
+table below.
+E59
+Standard resistance
+Symbol (Terminal Connection) Specified Condition
+SH- (E59-20) - (1D-11) Below 1 Ω
+SH- (E59-20) - Body ground 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+SH-
+CONNECTOR
+Wire Harness Side Connector
+Front View:
+Engine Room J/B
+1D
+B139453E01
+OK
+4 CHECK HARNESS AND CONNECTOR (ENGINE ROOM J/B - BATTERY)
+(a) Disconnect the 1G J/B connector.
+Wire Harness Side: (b) Measure the voltage according to the value(s) in the
+TD
+table below.
+Standard voltage
+Engine
+Room J/B 1 Terminal Connection Specified Condition
+1G-1 - Body ground 10 to 14 V
+1G
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+B074501E16
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

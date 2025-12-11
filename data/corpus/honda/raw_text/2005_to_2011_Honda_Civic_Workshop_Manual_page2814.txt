@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Gauges - Civic (All Except Hybrid)
+Fig. 17: Checking Continuity Between Gauge Control Module (Tach) 36P
+Connector No. 32 And No. 33 Terminals And Body Ground
+Is there continuity?
+YES - Go to step 9.
+NO - Repair an open in the wire between the gauge control module (tach) and
+the fuel tank unit.
+9. Do the fuel gauge sending unit test (see FUEL GAUGE SENDING UNIT
+TEST for R18A1 engine or FUEL GAUGE SENDING UNIT TEST for
+R20Z3 engine ) .
+Is the fuel gauge sending unit OK?
+YES - Replace the gauge control module (tach).
+NO - Replace the fuel tank unit.
+DTC B1176: FUEL LEVEL SENSOR (FUEL GAUGE SENDING UNIT) CIRCUIT SHORT
+NOTE: If you are troubleshooting multiple DTCs, be sure to follow
+the instructions in B-CAN System Diagnosis Test Mode A
+(see TROUBLESHOOTING - B-CAN SYSTEM DIAGNOSIS
+TEST MODE A ).
+1. Clear the DTCs with the HDS.
+2. Turn the ignition switch OFF, and then back ON (II).
+3. Wait for 30 seconds.
+4. Check for DTCs with the HDS.
+Is DTC B1176 indicated?
+YES - Go to step 5.
+NO - Intermittent failure, the fuel level sensor circuit is OK at this time. Check
+for loose or poor connections.

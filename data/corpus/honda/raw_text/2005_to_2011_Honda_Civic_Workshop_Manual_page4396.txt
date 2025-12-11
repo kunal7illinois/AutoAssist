@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+FAILURES TROUBLESHOOTING (see ).
+NO -Go to step 4.
+4. Turn the ignition switch to LOCK (0).
+5. Short the SCS line with the HDS.
+6. Disconnect ECM connector A (44P).
+7. Disconnect the HDS from the data link connector (DLC).
+8. Disconnect the gauge control module (tach) 36P connector.
+9. Disconnect SRS unit connector A (28P).
+10. Disconnect EPS control unit connector D (28P).
+11. With TPMS: Disconnect the TPMS control unit 20P connector.
+12. Disconnect the yaw rate-lateral acceleration sensor 5P connector.
+13. Disconnect the VSA modulator-control unit 37P connector.
+14. Check for continuity between VSA modulator-control unit 37P connector
+terminals No. 1 and No. 15 and body ground individually.
+Fig. 61: Checking Continuity Between VSA Modulator-Control Unit And
+Body Ground
+Is there continuity?
+YES -Repair short to body ground in the wire between the ECM/PCM, the
+gauge control module (tach), the data link connector (DLC), the SRS unit, the
+EPS control unit (if equipped), the TPMS control unit (if equipped), and the
+yaw rate-lateral acceleration sensor, and the VSA modulator-control unit.

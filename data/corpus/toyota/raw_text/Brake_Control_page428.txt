@@ -1,0 +1,41 @@
+BC–417
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+Skid Control Buzzer Circuit
+DESCRIPTION
+The skid control buzzer sounds and the SLIP indicator light blinks during VSC operation.
+WIRING DIAGRAM
+Brake Actuator Assembly
+(Skid Control ECU)
+E13
+VSC Warning Buzzer
+IG1
+ECU IG No. 2 23
+Buzzer A60 BZ
+5 3 2 1
+28
+BC
+A60 IG1
+2 1
+E23
+Ignition SW
+AM1
+(*2) (*2)
+4 AM1 IG1 1
+Main Body ECU
+ALT
+(*1)
+6
+E7 AM1
+3
+IG1D E7
+AM2 1
+(*1)
+E6 AM2
+4
+A60 GND1
+FL MAIN
+1
+*1: with Smart Key System
+A60 GND2
+Battery *2: without Smart Key System
+C136511E01

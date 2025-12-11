@@ -1,0 +1,17 @@
+ST–57
+2GR-FE STARTING – SMART KEY SYSTEM
+DTC B2278 Engine Switch Circuit Malfunction
+DESCRIPTION
+This DTC is output when 1) a malfunction is detected between the main body ECU and the engine switch;
+or 2) either of the switches inside the engine switch is malfunctioning.
+HINT:
+When the main body ECU is replaced with a new one and the negative (-) battery terminal is connected,
+the power source mode becomes the IG-ON mode. When the battery is removed and reinstalled, the
+power source mode that was selected when the battery was removed is restored.
+After the main body ECU is replaced, perform the registration procedures for the engine immobiliser
+system (See page EI-8).
+DTC No. DTC Detection Condition Trouble Area
+Communication is abnormal between the main body • Engine switch
+B2278 ECU and engine switch or the engine switch is • Main body ECU
+defective • Wire harness or connector
+ST

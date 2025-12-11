@@ -1,0 +1,43 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+3. Turn the ignition switch to LOCK (0), and disconnect the HDS from the DLC.
+4. Do the PCM idle learn procedure (see ECM/PCM IDLE LEARN
+PROCEDURE ).
+5. Start the engine with the shift lever in P or N, and warm it up to normal
+operating temperature (the radiator fan comes on).
+6. To verify that the problem is repaired, test-drive the vehicle for several minutes
+at speeds over 31 mph (50 km/h) or under the same conditions as those
+indicated by the freeze data.
+Updating the PCM
+Special Tools Required
+Honda diagnostic system (HDS) tablet tester
+(cid:1)
+Honda interface module (HIM) and an iN workstation with HDS and CM
+(cid:1)
+update software
+HDS pocket tester
+(cid:1)
+GNA600 and an iN workstation with HDS and CM update software
+(cid:1)
+NOTE:
+Use this procedure when you need to update the PCM
+(cid:1)
+during troubleshooting procedures.
+Make sure HDS/HIM has the latest software version
+(cid:1)
+downloaded from the iN (interactive network).
+To ensure the latest program is installed, do a PCM
+(cid:1)
+update whenever the PCM is substituted or replaced.
+You cannot update a PCM with the program it already
+(cid:1)
+has. It will only accept a new program.
+Before you update the PCM, make sure the battery is
+(cid:1)
+fully charged, and connect a jumper battery (not a
+battery charger) to maintain system voltage.
+Never turn the ignition switch to LOCK (0) while
+(cid:1)
+updating the PCM. If you turn the ignition switch to
+LOCK (0) before completion, the PCM can be damaged.

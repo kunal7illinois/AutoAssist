@@ -1,0 +1,63 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P2450 Evaporative – Check the • EVAP pump • ECT > 60 °C 21.5 Sec. • 2 DCY
+Emission Leak Detec‐ current differ‐
+System tion Pump ence between • ECT at start < 60 °
+Switching (LDP) - reference C
+Valve Per‐ V144- . Refer measurement
+• AAT > 4 and < 35 °
+formance/ to to idle < 3 mA
+C
+Stuck Open ⇒
+“3.5.13 Leak • Altitude <= 2700 m
+Detection
+Pump, • Time since engine
+Checking ”, start >= 600 Sec.
+page 136
+• Integrated EVAP
+purge flow since
+last purge stop > 2
+g
+• Integrated EVAP
+purge flow since
+last monitoring run
+> 0 g
+• Intake manifold
+vacuum > 100 hPa
+• Vehicle speed <
+120 km/h
+• Fuel volume flow
+<= 5 ml/s
+• Change in battery
+voltage during
+monitoring < 1.50
+V
+• Engine speed not
+at idle and above
+20 RPM
+• O2S front ready
+P2539 Fuel Sys‐ – Check the • "signal range --- 1 Sec • Continu‐
+tem Fuel Pres‐ check out of ous
+sure Sensor - range high" sig‐
+G247- . Re‐ nal voltage "> • 2 DCY
+fer to 4.9 >4,8" V
+⇒ “3.5.5 Fuel
+Pressure
+Sensor,
+Checking”,
+page 119 .
+P2541 Fuel Sys‐ – Check the • "signal range --- 1 Sec • Continu‐
+tem Fuel Pres‐ check out of ous
+sure Sensor - range low" sig‐
+G247- . Re‐ nal voltage "< • 2 DCY
+fer to 0.2 <0,2" V
+⇒ “3.5.5 Fuel
+Pressure
+Sensor,
+Checking”,
+page 119 .
+106
+Rep. Gr.ST - Generic Scan Tool

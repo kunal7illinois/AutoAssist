@@ -1,0 +1,34 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (R18A1) - Civic (All Except Hybrid)
+NO - Go to step 34.
+34. Monitor the OBD STATUS for DTC P0443 in the DTCs MENU with the
+HDS.
+Does the screen indicate PASSED?
+YES - If the ECM/PCM was updated, troubleshooting is complete. If the
+ECM/PCM was substituted, replace the original ECM/PCM (see ECM/PCM
+REPLACEMENT ). If any other Temporary DTCs or DTCs were indicated in
+step 33, go to the indicated DTCs troubleshooting.
+NO - If the screen indicates FAILED, check for poor connections or loose
+terminals at the EVAP canister purge valve and the ECM/PCM. If the
+ECM/PCM was updated, substitute a known-good ECM/PCM (see
+SUBSTITUTING THE ECM/PCM ), then go to step 32. If the ECM/PCM
+was substituted, go to step 1. If the screen indicates EXECUTING or OUT OF
+CONDITION, keep idling until a result comes on.
+DTC P0451: FTP SENSOR CIRCUIT RANGE/PERFORMANCE PROBLEM
+NOTE:
+Before you troubleshoot, record all freeze data and any
+(cid:1)
+on-board snapshot, and review the general
+troubleshooting information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+If DTC P2422 is stored at the same time as DTC P0451,
+(cid:1)
+troubleshoot DTC P2422 first, then recheck for DTC
+P0451.
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Start the engine, and let it idle 1 minute.
+4. Monitor the OBD STATUS for DTC P0451 in the DTCs MENU with the
+HDS.
+Does the screen indicate FAILED?

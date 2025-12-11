@@ -1,0 +1,34 @@
+BASIC BRAKE SYSTEM 35A-19
+ON-VEHICLE SERVICE
+BRAKE BOOSTER OPERATING TEST
+M1351001000190
+1. For simple checking of the brake booster operation, carry
+out the following tests:
+(1) Run the engine for one or two minutes, and then stop it. If
+GOOD NO GOOD
+the pedal depresses fully the first time but gradually
+becomes higher when depressed succeeding times, the
+booster is operating properly. If the pedal height remains
+unchanged, the booster is defective. Go to step 2.
+AC000870AB
+(2) With the engine stopped, step on the brake pedal several
+WHEN ENGINE WHEN ENGINE times. Then step on the brake pedal and start the engine.
+IS STOPPED IS STARTED
+If the pedal moves downward slightly, the booster is in
+good condition. If there is no change, the booster is
+defective. Go to step 3.
+AC000871AB
+(3) With the engine running, step on the brake pedal and
+GOOD NO GOOD then stop the engine. Hold the pedal depressed for 30
+seconds. If the pedal height does not change, the booster
+is in good condition, if the pedal rises, the booster is
+defective.
+AC000872AB
+2. If the above three tests are okay, the booster is OK. If one of
+the above three tests is not okay, the check valve, vacuum
+hose, or booster is defective. Check the check valve (Refer
+to P.35A-20.), vacuum hose for leaks, high volume engine
+vacuum applied to booster. Repair or replace as necessary.
+If these are OK, replace booster and repeat this test starting
+at Step 1.
+TSB Revision

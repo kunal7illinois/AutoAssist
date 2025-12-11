@@ -1,0 +1,33 @@
+CA–12
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+PROBLEM SYMPTOMS TABLE
+RESULT LIST OF HOW TO PROCEED WITH TROUBLESHOOTING:
+Symptom Suspected area See page
+The result of "HOW TO PROCEED WITH Open in CAN Main Bus Wire CA-69
+TROUBLESHOOTING" is "Open in CAN Main Bus
+Line"
+The result of "HOW TO PROCEED WITH Short in CAN Bus Wires CA-74
+TROUBLESHOOTING" is "Short in CAN Bus Line"
+The result of "HOW TO PROCEED WITH Short to B+ in CAN Bus Wire CA-89
+TROUBLESHOOTING" is "Short to +B in CAN Bus
+Line"
+The result of "HOW TO PROCEED WITH Short to GND in CAN Bus Wire CA-104
+TROUBLESHOOTING" is "Short to GND in CAN Bus
+Line"
+The result of "HOW TO PROCEED WITH Open in One Side of CAN Branch Wire CA-119
+TROUBLESHOOTING" is "Open in One Side of CAN
+Sub Bus Line"
+COMMUNICATION STOP MODE TABLE:
+Symptom Suspected area See page
+"ABS/VSC/TRAC" is not displayed on the intelligent Skid Control ECU Communication Stop Mode CA-42
+CA tester (with VSC)
+"A/C " is not displayed on the intelligent tester Air Conditioning Amplifier Communication Stop Mode CA-46
+"Body/Gateway" is not displayed on the intelligent Main Body ECU Communication Stop Mode CA-57
+tester
+"Steering Angle Sensor" is not displayed on the Steering Angle Sensor Communication Stop Mode CA-49
+intelligent tester
+"Yaw Rate/Deceleration Sensor" is not displayed on Yaw Rate Sensor Communication Stop Mode CA-51
+the intelligent tester
+"Engine" are not displayed on the intelligent tester ECM Communication Stop Mode CA-54
+"Meter " is not displayed on the intelligent tester Combination Meter Communication Stop Mode CA-61
+"SRS Airbag" is not displayed on the intelligent tester Center Airbag Sensor Communication Stop Mode CA-63

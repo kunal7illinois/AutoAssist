@@ -1,0 +1,48 @@
+ES–422
+2AZ-FE ENGINE CONTROL SYSTEM – INTEGRATION RELAY
+INTEGRATION RELAY
+ON-VEHICLE INSPECTION
+1. DISCONNECT CABLE FROM NEGATIVE BATTERY
+TERMINAL
+CAUTION:
+Wait at least 90 seconds after disconnecting the
+cable from the negative (-) battery terminal to
+prevent airbag and seat belt pretensioner activation.
+2. INSPECT INTEGRATION RELAY
+NOTICE:
+• The EFI relay is built into the integration relay
+ES
+(unit A: EFI MAIN).
+• Some relays are built into the integration relay.
+The integration relay cannot be disassembled. If
+there is a malfunction in the circuit of the
+integration relay, replace the integration relay.
+(a) Using a screwdriver, detach the 2 claws and
+disconnect the integration relay from the No. 1
+engine room junction block.
+HINT:
+Tape the screwdriver tip before use.
+(b) Disconnect the 3 connectors from the integration
+relay.
+A124574
+(c) Inspect the EFI relay.
+Integration Relay
+(1) Check the resistance of the EFI MAIN fuse.
+If the result is not as specified, replace the EFI
+Fuse Side EFI MAIN
+MAIN fuse.
+(2) Measure the resistance of the integration relay.
+1
+Standard resistance
+2
+Tester Connection Specified Condition
+Connector Side 1A-4 - 1C-1 10 kΩ or higher
+1A-4 - 1A-1
+1C 1A 1A-4 - 1C-1 Below 1 Ω (when battery voltage is
+applied to terminals 1A-3 and 1A-2)
+1A-4 - 1A-1
+8 76 5 4 32 1 8 76 5 4 32 1 If the result is not as specified, replace the
+1
+integration relay.
+A107921E22 3. CONNECT CABLE TO NEGATIVE BATTERY
+TERMINAL

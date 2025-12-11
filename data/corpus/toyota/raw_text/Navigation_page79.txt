@@ -1,0 +1,24 @@
+NS–79
+NAVIGATION – NAVIGATION SYSTEM
+DTC 01-E0 Registration Complete Indication Error
+DTC 01-E3 Registration Demand Transmission
+DTC 01-E4 Multiple Frame Incomplete
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+"Registration complete" signal from the master device
+01-E0 -
+cannot be received.
+The registration demand signal from the slave device is
+output. Or the registration demand signal is output by
+01-E3 -
+receiving connection confirmation signal from the sub-
+master device.
+01-E4 The multiple frame transmission is incomplete. -
+HINT:
+Even if no fault is present, this trouble code may be stored depending on the battery condition or engine
+start voltage.
+INSPECTION PROCEDURE
+HINT:
+• After the inspection is completed, clear the DTCs.
+• These DTCs do not indicate a malfunction.
+NS

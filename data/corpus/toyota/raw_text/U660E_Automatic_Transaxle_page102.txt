@@ -1,0 +1,26 @@
+AX–102
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Duration 5 sec.
+MIL operation Immediate
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+AX
+P0500 (VSS)
+The monitor will run whenever this DTC is not present.
+P0748, P0778, P0798 (Shift solenoid valve (range))
+Vehicle speed 15.5 mph (25 km/h) or more
+Battery voltage 8 V or more
+Ignition switch ON
+Starter OFF
+TYPICAL MALFUNCTION THRESHOLDS
+P0791:
+Sensor voltage Less than 0.1 V or more than 1.9 V
+P0793:
+Sensor signal rpm Less than 300 rpm
+WIRING DIAGRAM
+TCM
+NCB
+NCO
+Speed Sensor (NT)
+Transaxle Assembly
+C133260E06

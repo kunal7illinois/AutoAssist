@@ -1,0 +1,32 @@
+GENERAL <BODY AND CHASSIS> 00-11
+HOW TO USE TROUBLESHOOTING/INSPECTION SERVICE POINTS
+• From back side of the connector (SRS-ECU harness side
+connector)
+MB991219
+ACX00865AB
+Since the SRS-ECU harness connector is plated to
+SRS-ECU HARNESS
+improve conductivity, observe the warning below when
+CONNECTOR
+checking this connector.
+WARNING
+Insert the backprobing tool into the connector from
+the harness side, and connect the tester to the back-
+probing tool. If any tool other than the backprobing
+tool is used, it may cause damage to the harness and
+other components. Furthermore, measurement
+AC001607AB
+should not be carried out by touching the backprob-
+ing tool directly against the terminals from the front
+of the connector. The terminals are plated to increase
+their conductivity, so that if they are touched directly
+by the backprobing tool, the plating may break, which
+will decrease reliability.
+<When Inspecting a Male Pin>
+CAUTION
+At this time, be careful not to short the connector pins with
+the test probes. To do so may damage the circuits inside
+the ECU.
+Touch the pin directly with the test probe.
+ACX00867AB
+TSB Revision

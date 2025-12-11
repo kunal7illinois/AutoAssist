@@ -1,0 +1,52 @@
+AUTOMATIC TRANSAXLE 23A-333
+AUTOMATIC TRANSAXLE DIAGNOSIS
+TERMINAL INSPECTION ITEM NORMAL CONDITION (CHECK CONDITION)
+NO.
+57 − 124 A/T fluid temperature sensor 16.7 − 20.5 kΩ [at 0 °C (32 °F)]
+7.3 − 8.9 kΩ [at 20 °C (68 °F)]
+3.4 − 4.2 kΩ [at 40 °C (104 °F)]
+1.9 − 2.2 kΩ [at 60 °C (140 °F)]
+1.0 − 1.2 kΩ [at 80 °C (176 °F)]
+0.57 − 0.69 kΩ [at 100 °C (212 °F)]
+INSPECTION PROCEDURE USING AN OSCILLOSCOPE
+M1231008500131
+TERMINAL INSPECTION ITEM INSPECTION REQUIREMENT NORMAL
+NO. CONDITION
+(WAVEFORM
+SAMPLE)
+45 Crankshaft position Selector lever position: Idling (Vehicle stopped) Waveform A
+sensor N
+103 Input shaft speed Selector lever position: Driving at constant speed of Waveform B
+sensor 3 <Vehicles without 50 km/h (31 mph) in 3rd
+sport mode>, Sport gear (2.4L Engine: 1,600 −
+104 Output shaft speed
+mode <Vehicles with 1,900 r/min, 3.0L Engine:
+sensor
+sport mode> 1,300 − 1,600 r/min)
+80 Vehicle speed signal Waveform C
+129 Low-reverse solenoid • Ignition switch: ON Force drive each solenoid Waveform D
+valve • Selector lever valve (Actuator test)
+position: P
+120 Underdrive solenoid
+• Engine: Stopped
+valve
+• Throttle
+106 Second solenoid valve
+(Accelerator)
+130 Overdrive solenoid opening angle: Less
+valve than 1 Volt
+107 Torque converter clutch
+control solenoid
+Waveform sample
+WAVEFORM B WAVEFORM D
+WAVEFORM A (V) WAVEFORM C (V)
+(V) (V)
+5 60
+5 12
+40
+20
+0
+0 0 0
+(ms) (ms) (ms) (ms)
+AC001872AE AC001873AD AC001872AF AC001875AD
+TSB Revision

@@ -1,0 +1,48 @@
+AX–111
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Pressure Control Solenoid "C" Electrical (Shift
+DTC P0798
+Solenoid Valve SL3)
+DESCRIPTION
+Shifting gears from 1st through 5th is performed in combination with "ON" and "OFF" operation of the shift
+AX
+solenoid valves SL1, SL2, SL3 and SL4 which are controlled by the TCM. If an open or short circuit occurs
+in any of the shift solenoid valves, the TCM controls the remaining normal shift solenoid valves to allow
+the vehicle to be operated smoothly (Fail safe function).
+DTC No. DTC Detecting Condition Trouble Area
+The TCM checks for an open or short in the shift
+solenoid valve SL3 circuit while driving and shifting
+• Open or short in shift solenoid valve SL3 circuit
+gears. (1-trip detection logic)
+P0798 • Shift solenoid valve SL3
+• Output signal duty equals to 100%.
+• TCM
+(NOTE: SL3 output signal duty is less than 100%
+under normal condition.)
+MONITOR DESCRIPTION
+The TCM commands gear shifts by turning the shift solenoid valves on or off. When there is an open or
+short circuit in any shift solenoid valve circuit, the TCM detects the problem and illuminates the MIL and
+stores the DTC. And the TCM performs the fail-safe function and turns the other normal shift solenoid
+valves on or off (In case of an open or short circuit, the TCM stops sending current to the circuit.)
+(See page AX-39).
+MONITOR STRATEGY
+Related DTCs P0798: Shift solenoid valve SL3/Range check
+Required sensors/Components Shift solenoid valve SL3
+Frequency of operation Continuous
+Duration 1 sec.
+MIL operation Immediate
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+ALL:
+The monitor will run whenever this DTC is not present None
+Ignition switch ON
+Starter OFF
+Malfunction (A):
+Battery voltage 12 V or more
+Malfunction (B):
+Battery voltage 10 V or more and less than 12 V
+CPU commanded duty Less than 75%
+TYPICAL MALFUNCTION THRESHOLDS
+Output signal duty 100%
+COMPONENT OPERATING RANGE
+Output signal duty Less than 100%

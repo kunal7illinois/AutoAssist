@@ -1,0 +1,46 @@
+ES–215
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR RESULT
+Refer to CHECKING MONITOR STATUS (See page ES-25).
+WIRING DIAGRAM
+ECM
+C7
+E6 No. 1 Fuel Injector
+Main Body ECU
+45
+C55 #10
+C9
+AM2
+No. 2 Fuel Injector
+1
+85 ES
+C55 #20
+IG2D C8
+11 No. 3 Fuel Injector
+44
+C55 #30
+C10
+No. 4 Fuel Injector
+84
+C55 #40
+C36
+No. 5 Fuel Injector
+43
+C55 #50
+C37
+No. 6 Fuel Injector
+83
+C55 #60
+AM2 22
+C55 E01
+E23
+Ignition SW
+IG2
+ST/AM2
+5 6
+AM2 IG2 2 1
+IG2
+5 3
+FL MAIN
+Battery
+A134880E01

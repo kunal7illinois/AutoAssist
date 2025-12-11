@@ -1,0 +1,57 @@
+EI–80
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+(c) Select ANTENNA COIL in the DATA LIST and read the
+value displayed on the intelligent tester.
+IMMOBILISER:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+NORMAL: Antenna coil is normal
+Transponder key amplifier coil
+ANTENNA COIL FAIL: Antenna coil is -
+condition/NORMAL or FAIL
+malfunctioning
+OK:
+NORMAL (Antenna coil is normal) appears on the
+screen.
+OK REPLACE TRANSPONDER KEY ECU
+ASSEMBLY
+NG
+2 CHECK HARNESS AND CONNECTOR (TRANSPONDER KEY ECU - TRANSPONDER KEY
+AMPLIFIER)
+(a) Disconnect the E15 ECU and E25 amplifier connectors.
+Wire Harness Side Connector Rear View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+E15
+Standard resistance
+Transponder Key ECU Assembly
+Tester Connection Condition Specified Condition
+E15-4 (TXCT) - E25-5
+(TXCT)
+E15-5 (AGND) - E25-7
+(AGND)
+Below 1 Ω
+AGND E15-14 (VC5) - E25-1
+(VC5)
+E15-15 (CODE) - E25-4
+(CODE)
+TXCT
+Always
+VC5 E15-4 (TXCT) - Body
+EI CODE ground
+E15-5 (AGND) - Body
+ground
+E25 10 kΩ or higher
+E15-14 (VC5) - Body
+Transponder Key Amplifier
+ground
+E15-15 (CODE) - Body
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+AGND
+VC5
+TXCT CODE
+B124193E03
+OK

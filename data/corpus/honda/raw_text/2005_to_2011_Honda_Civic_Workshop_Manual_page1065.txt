@@ -1,0 +1,21 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+15. Press the brake pedal.
+Are the brake lights ON?
+YES -Go to step 16.
+NO -Repair faulty brake light circuit.
+16. Turn the ignition switch to LOCK (0).
+17. Jump the SCS line with the HDS.
+18. Disconnect PCM connector A (44P).
+19. Measure the voltage between PCM connector terminal A40 and body ground
+while pressing the brake pedal and when the brake pedal is released.
+Fig. 338: Measuring Voltage Between PCM Connector Terminal A40 And
+Body Ground
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there battery voltage while the brake pedal is pressed, and no voltage when
+the pedal is released?
+YES -Go to step 21.
+NO -Go to step 20.
+20. Check for continuity between PCM connector terminal A40 and brake pedal
+position switch 4P connector terminal No. 2.

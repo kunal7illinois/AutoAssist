@@ -1,0 +1,43 @@
+ES–201
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(b) Start the engine and warm it up with all the accessories switched OFF, until the engine coolant
+temperature stabilizes.
+(c) Run the engine at an engine speed of between 2,500 rpm and 3,000 rpm for at least 3 minutes.
+(d) While running the engine at 3,000 rpm and 2,000 rpm alternating at 2 second intervals, check the
+waveforms of the A/F and HO2 sensors using the tester.
+HINT:
+• If either voltage output of the Air-Fuel Ratio (A/F) or Heated Oxygen (HO2) sensor does not fluctuate,
+or there is a noise in the waveform of either sensor, the sensor may be malfunctioning.
+• If the voltage outputs of both the sensors remain lean or rich, the air-fuel ratio may be extremely lean or
+rich. In such cases, perform the following A/F CONTROL using the intelligent tester.
+• If the Three-Way Catalytic Converter (TWC) has deteriorated, the HO2 sensor (located behind the
+TWC) voltage output fluctuates up and down frequently, even under normal driving conditions (active
+air-fuel ratio control is not performed).
+ES
+Voltage output when active air-fuel ratio control not performed:
+Normal Catalyst Deteriorated Catalyst
+Waveform of
+A/F Sensor in 3.5 V
+front of TWC
+3.0 V
+Waveform of 1.0 V
+HO2 Sensor
+behind TWC
+0 V
+10 seconds 10 seconds
+A121610E02
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P0420)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(d) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+P0420 A

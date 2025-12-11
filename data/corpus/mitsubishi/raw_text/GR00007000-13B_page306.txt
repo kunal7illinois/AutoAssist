@@ -1,0 +1,46 @@
+13B-306 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the injector.
+(1) Disconnect the injector connector B-01 <No. 1 cylinder>, B-
+CONNECTORS : B-01, B-02, B-05, B-06,
+B-25, B-26 02 <No. 2 cylinder>, B-05 <No. 3 cylinder>, B-06 <No. 4
+cylinder>, B-26 <No. 5 cylinder>, B-25 <No. 6 cylinder>.
+B-01B-05 B-26
+B-02 B-06 B-25
+AAKK000000221155AB
+(2) Measure the resistance between injector side connector
+terminal 1 and 2.
+INJECTOR SIDE Standard value: 13 − 16 ohm [at 20°C (68°F)]
+CONNECTOR
+Q:Is the resistance standard value?
+1 2 YES : Go to Step 4.
+NO : Replace the injector. Then go to Step 9.
+AK000241AB
+STEP 4. Check connector at injector and injector
+intermediate connector for damage.
+a. Check the connector B-01 at injector and connector B-48 at
+CONNECTORS : B-01, B-02, B-05, B-06,
+B-25, B-26 injector intermediate connector when checking No. 1 cylin-
+der.
+b. Check the connector B-02 at injector when checking No. 2
+B-01B-05 B-26
+cylinder.
+c. Check the connector B-05 at injector and connector B-48 at
+injector intermediate connector when checking No. 3 cylin-
+der.
+d. Check the connector B-06 at injector when checking No. 4
+B-02 B-06 B-25
+cylinder.
+AAKK000000221155AB
+e. Check the connector B-26 at injector and connector B-48 at
+CONNECTOR:B-48 injector intermediate connector when checking No. 5 cylin-
+der.
+f. Check the connector B-25 at injector when checking No. 6
+cylinder.
+Q:Is the connector in good condition?
+YES : Go to Step 5.
+NO : Repair or replace the injector. Refer to GROUP 00E,
+Harness Connector Inspection P.00E-2. Then go to
+Step 9.
+AK000209AC
+TSB Revision

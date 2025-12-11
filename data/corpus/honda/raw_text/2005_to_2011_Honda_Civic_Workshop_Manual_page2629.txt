@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Turn the ignition switch ON (II).
+2. Note the ambient temperature.
+3. Check the IAT SENSOR in the DATA LIST with the HDS.
+4. Compare the value of the IAT SENSOR and the ambient temperature.
+Is the value of the IAT SENSOR and the ambient temperature same?
+YES -Go to step 5.
+NO -Allow the IAT SENSOR to cool to ambient temperature, then go to step
+5.
+5. Note the value of the FUEL TEMPERATURE SENSOR in the DATA LIST
+with the HDS.
+6. Compare the value of the IAT SENSOR and the value of the FUEL
+TEMPERATURE SENSOR.
+Does the value of the FUEL TEMPERATURE SENSOR differ 45 °F (25 °C) or
+more?
+YES -Go to step 7.
+NO -Intermittent failure, the system is OK at this time. Check for poor
+connections or loose terminals at the fuel temperature sensor and the PCM.
+7. Replace the fuel temperature sensor (see FUEL TEMPERATURE SENSOR
+REPLACEMENT ).
+8. Reset the PCM with the HDS.
+9. Do the PCM idle learn procedure, refer to the ECM/PCM IDLE LEARN
+PROCEDURE .
+10. Allow the IAT SENSOR to cool to ambient temperature.

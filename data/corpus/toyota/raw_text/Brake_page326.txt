@@ -1,0 +1,66 @@
+BC–315
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC No. Detection Item Trouble Area See page
+C1237/37 Tires of Different Size 1. Brake actuator assembly (skid BC-354
+control ECU)
+2. Speed sensor
+3. Speed sensor rotor (front)
+4. Rear axle hub and bearing
+assembly
+5. Speed sensor circuit
+6. Tire and wheel circuit
+7. Tire deformation
+C1241/41 Low Battery Positive Voltage or 1. Battery BC-361
+Abnormally High Battery Positive 2. ECU-IG No. 2 fuse
+Voltage 3. Charging system
+4. Power source circuit
+5. Brake actuator assembly
+(internal power source circuit)
+C1246/46 Master Cylinder Pressure Sensor 1. Master cylinder pressure BC-365
+Malfunction sensor
+2. Master cylinder pressure
+sensor circuit
+3. Stop light switch circuit
+4. Brake actuator assembly (skid
+BC
+control ECU)
+C1249/49 Open in Stop Light Switch Circuit 1. Stop light switch BC-368
+2. Stop light switch circuit
+3. Brake actuator assembly (skid
+control ECU)
+C1271/71 Low Output Signal of Front Speed 1. Front speed sensor RH BC-316
+Sensor RH (Test Mode DTC) 2. Sensor installation
+3. Speed sensor rotor
+C1272/72 Low Output Signal of Front Speed 1. Front speed sensor LH BC-316
+Sensor LH (Test Mode DTC) 2. Sensor installation
+3. Speed sensor rotor
+C1273/73 Low Output Signal of Rear Speed 1. Rear speed sensor RH BC-324
+Sensor RH (Test Mode DTC) 2. Sensor installation
+3. Speed sensor rotor
+C1274/74 Low Output Signal of Rear Speed 1. Rear speed sensor LH BC-324
+Sensor LH (Test Mode DTC) 2. Sensor installation
+3. Speed sensor rotor
+C1275/75 Abnormal Change in Output 1. Front speed sensosr RH BC-316
+Signal of Front Speed Sensor RH 2. Sensor installation
+(Test Mode DTC) 3. Sensor rotor
+C1276/76 Abnormal Change in Output 1. Front speed sensosr LH BC-316
+Signal of Front Speed Sensor LH 2. Sensor installation
+(Test Mode DTC) 3. Sensor rotor
+C1277/77 Abnormal Change in Output 1. Rear speed sensosr RH BC-324
+Signal of Rear Speed Sensor RH 2. Sensor installation
+(Test Mode DTC) 3. Sensor rotor
+C1278/78 Abnormal Change in Output 1. Rear speed sensosr LH BC-324
+Signal of Rear Speed Sensor LH 2. Sensor installation
+(Test Mode DTC) 3. Sensor rotor
+C1288/88 ECU Version Miss Match ECM BC-374
+C1300/62 Skid Control ECU Malfunction Brake actuator assembly (skid BC-375
+control ECU)
+C1330/35 Right Front Speed Sensor Circuit 1. Front speed sensor RH BC-316
+2. Front speed sensor circuit RH
+3. Sensor installation
+C1331/36 Left Front Speed Sensor Circuit 1. Front speed sensor LH BC-316
+2. Front speed sensor circuit LH
+3. Sensor installation
+C1332/38 Right Rear Speed Sensor Circuit 1. Rear speed sensor RH BC-324
+2. Rear speed sensor circuit RH
+3. Sensor installation

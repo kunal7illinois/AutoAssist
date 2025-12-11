@@ -1,0 +1,53 @@
+TW–47
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+3 CHECK HARNESS AND CONNECTOR (ECU - RECEIVER)
+(a) Disconnect the E60 ECU connector.
+Wire Harness Side Connector Front View:
+(b) Disconnect the N20 receiver connector.*1
+Tire Pressure Warning ECU (c) Disconnect the N34 receiver connector.*2
+(d) Measure the resistance according to the value(s) in the
+table below.
+RF5V Standard resistance
+E60 Tester Connection Specified Condition
+RDA
+E60-12 (RDA) - N20-1 (RDA)*1
+GND2 E60-12 (RDA) - N34-1 (RDA)*2
+E60-11 (GND2) - N20-4 (GND)*1
+Below 1 Ω
+Tire Pressure Warning Receiver E60-11 (GND2) - N34-4 (GND)*2
+with Antenna
+E60-6 (RF5V) - N20-5 (+5V)*1 TW
+E60-6 (RF5V) - N34-5 (+5V)
+HINT:
+*1 N20
+• *1: TMC Made
+*2 N34 +5V • *2: TMMK Made
+NG REPAIR OR REPLACE HARNESS OR
+RDA
+CONNECTOR
+GND
+E129461E03
+OK
+4 INSPECT TIRE PRESSURE WARNING VALVE AND TRANSMITTER
+(a) Select REGIT ID CODE by following the prompts
+displayed on the intelligent tester.
+Measurement Item/Range
+Item Normal Condition Diagnostic Note
+(Display)
+Registered ID1 code/ The ID No. registered in the *: Displayed only when the ID
+REGIT ID1 CODE
+min.: 0, max.: FFFFFF* transmitter ID1 is displayed No. is not registered.
+Registered ID2 code/ The ID No. registered in the *: Displayed only when the ID
+REGIT ID2 CODE
+min.: 0, max.: FFFFFF* transmitter ID2 is displayed No. is not registered.
+Registered ID3 code/ The ID No. registered in the *: Displayed only when the ID
+REGIT ID3 CODE
+min.: 0, max.: FFFFFF* transmitter ID3 is displayed No. is not registered.
+Registered ID4 code/ The ID No. registered in the *: Displayed only when the ID
+REGIT ID4 CODE
+min.: 0, max.: FFFFFF* transmitter ID4 is displayed No. is not registered.
+Registered ID5 code/ The ID No. registered in the *: Displayed only when the ID
+REGIT ID5 CODE
+min.: 0, max.: FFFFFF* transmitter ID5 is displayed No. is not registered.
+(b) Check the ID number on the identified transmitter by
+removing it from the tire and wheel.

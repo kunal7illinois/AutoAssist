@@ -1,0 +1,14 @@
+ES–246
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+C. Both of the following conditions are met: -
+(a) Engine speed 500 rpm or less
+(b) Battery voltage 6 V or more
+D. All of the following conditions are met: -
+(a) Engine speed More than 500 rpm
+(b) Battery voltage 10 V or more
+(c) Number of sparks after CPU reset 5 sparks or more
+TYPICAL MALFUNCTION THRESHOLDS
+Ignition signal fail count More than 2 times
+Ignition signal fail count No ignition confirmation signal from ignitor
+ES COMPONENT OPERATING RANGE
+IGF signal Igniter transmits IGF signal when it receives IGT signal from ECM

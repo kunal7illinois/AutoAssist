@@ -1,0 +1,41 @@
+ES–395
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK HARNESS AND CONNECTOR (COMBINATION METER - ECM)
+(a) Disconnect the A9 ECM connector.
+Wire Harness Side:
+(b) Disconnect the E19 combination meter connector.
+(c) Measure the resistance.
+Standard resistance (Check for short)
+E19 Combination Meter Connector
+Tester Connections Specified Conditions
+A9-24 (W) or E19-8 (combination
+10 kΩ or higher
+meter) - Body ground
+(d) Reconnect the ECM connector.
+(e) Reconnect the combination meter connector.
+ES
+Front View
+EFI OK REPAIR OR REPLACE COMBINATION
+METER ASSEMBLY
+A9 ECM Connector
+Front View
+W
+A127855E04
+NG
+REPAIR OR REPLACE HARNESS OR CONNECTOR
+5 CHECK THAT MIL IS ILLUMINATED
+(a) Check if the MIL is illuminated when the ignition switch is
+turned ON.
+OK:
+MIL should be illuminated.
+OK SYSTEM OK
+NG
+6 CHECK THAT ENGINE STARTS
+(a) Turn the ignition switch ON.
+(b) Start the engine.
+Result Proceed To
+Engine starts A
+Engine does not start* B
+HINT:
+*: The intelligent tester cannot communicate with the
+ECM.

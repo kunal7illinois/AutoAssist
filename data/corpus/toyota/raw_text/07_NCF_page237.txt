@@ -1,0 +1,33 @@
+CHASSIS - U660E AUTOMATIC TRANSAXLE CH-73
+12. Multi-Mode Automatic Transmission
+General
+By moving the shift lever to the front (“+” position) or to the rear (“-” position), the driver can select the
+desired shift range position. Thus, the driver is able to shift gears with a manual-like feel.
+(cid:3) This Multi-mode automatic transmission is designed to allow the driver to switch the gear ranges; not
+for manually selecting single gears.
+(cid:3) An S mode indicator light, which illuminates when the S mode position is selected and a shift range
+indicator light, which indicates the range position, have been provided in the combination meter.
+(cid:3) When the vehicle is being driven at a prescribed speed or higher, any attempt to shift down the range by
+through the operation of the shift lever will not be executed, in order to protect the mechanism of the
+automatic transaxle. In this case, the ECM sounds the buzzer in the combination meter twice to alert the
+driver.
+Combination Meter
+Shift Range Indicator Light
+S Mode Indicator Light
+CAN
+(CAN No.1 Bus) Buzzer
+Shift-up Signal
+Shift-down Signal Transmission
+ECM
+Control Switch
+S Mode Position Signal
+Local
+CAN
+Ignition
+Advance
+Signal ECT ECU
+Solenoid Valve
+Control Signal
+Engine
+A/T
+01YCH35Y

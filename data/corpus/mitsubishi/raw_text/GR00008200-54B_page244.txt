@@ -1,0 +1,34 @@
+54B-244 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTOR: C-117
+JUNCTION BLOCK
+(REAR VIEW)
+AC102793AB
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the rear washer does not work normally, the rear
+The rear washer switch sends a signal through the
+washer motor, the column switch (windshield wiper
+column-ECU (incorporated in the column switch) to
+and washer switch) or the front-ECU may be defec-
+the ETACS-ECU. If the column-ECU sends a rear
+tive.
+washer switch "ON" signal to the ETACS-ECU, the
+ETACS-ECU turns on the relay (incorporated in the
+.
+ETACS-ECU), thus causing the rear washer motor to TROUBLESHOOTING HINTS
+be turned on. • Malfunction of the rear washer motor
+• Malfunction of the column switch (windshield
+. wiper and washer switch)
+• Malfunction of the ETACS-ECU
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Check the rear wiper.
+Q:Does the rear wiper operate?
+YES : Go to Step 2.
+NO : Refer to Inspection Procedure H-1 "Rear wiper does
+not work at all P.54B-231."
+TSB Revision

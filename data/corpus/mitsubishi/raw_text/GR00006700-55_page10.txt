@@ -1,0 +1,45 @@
+55-10 HEATING AND AIR CONDITIONING
+MANUAL A/C DIAGNOSIS
+STEP 2. Check each A/C part.
+Refer to Inspection Procedure 1.
+Q:Is the A/C operating properly?
+YES : This diagnosis is complete. (If no malfunctions are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to GROUP 00, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+NO : Go to Step 1.
+INSPECTION PROCEDURE 3: When the A/C is Operating, Temperature Inside the Passenger
+Compartment does not Decrease (Cool Air not Emitted).
+DIAGNOSIS
+STEP 1. Check for refrigerant leaks.
+Q:Is the refrigerant leaking?
+YES : Repair. Then go to Step 6.
+NO : Go to Step 2.
+STEP 2. Check the dual pressure switch operation.
+(1) Remove the dual pressure switch connector and connect
+HIGH/LOW the high/low pressure side terminals located on the harness
+PRESSURE SIDE
+side as shown in the illustration.
+(2) Install a gauge manifold to the high-pressure side service
+valve of the refrigerant line. (Refer to P.55-26.)
+(3) When the high/low pressure sides of the dual pressure
+switch are at operation pressure (ON) and there is
+continuity between the respective terminals.
+ITEMS SWITCH POSITION
+being turned being turned
+on off
+Low-pressure side kPa 221 (32.1) 196 (28.4)
+LOW-PRESSURE HIGH-PRESSURE (psi)
+SIDE SIDE
+High-pressure side 2,354 (341.4) 2,942 (426.7)
+ON ON
+kPa (psi)
+OFF OFF
+Q:When the high/low pressure sides of the dual pressure
+switch are at operation pressure (ON), is there
+AC001368AB
+continuity between the respective terminals?
+YES : Go to Step 3.
+NO : Replace the switch. Then go to Step 6.
+TSB Revision

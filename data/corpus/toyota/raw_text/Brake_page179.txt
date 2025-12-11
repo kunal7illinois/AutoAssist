@@ -1,0 +1,37 @@
+BC–173
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+NOTICE:
+Check the speed sensor signal after replacement
+(See page BC-123).
+NG REPLACE REAR SPEED SENSOR
+OK
+7 CHECK HARNESS AND CONNECTOR (SKID CONTROL SENSOR WIRE)
+(a) Disconnect the skid control sensor wire.
+Skid Control Sensor Wire:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Vehicle Side Connector "B"
+Standard resistance:
+f1 :RH
+RH
+g1 :LH
+Tester Connection Condition Specified Condition
+f1 ("A"-1) - f1 ("B"-2) Always Below 1 Ω
+f1 ("A"-1) - f1 ("B"-1) Always 10 kΩ or higher BC
+f1 ("A"-1) - Body ground Always 10 kΩ or higher
+f1 ("A"-2) - f1 ("B"-1) Always Below 1 Ω
+f1 ("A"-2) - f1 ("B"-2) Always 10 kΩ or higher
+Sensor Side Connector "A" f1 ("A"-2) - Body ground Always 10 kΩ or higher
+LH
+C136026E01 Tester Connection Condition Specified Condition
+g1 ("A"-1) - g1 ("B"-2) Always Below 1 Ω
+g1 ("A"-1) - g1 ("B"-1) Always 10 kΩ or higher
+g1 ("A"-1) - Body ground Always 10 kΩ or higher
+g1 ("A"-2) - g1 ("B"-1) Always Below 1 Ω
+g1 ("A"-2) - g1 ("B"-2) Always 10 kΩ or higher
+g1 ("A"-2) - Body ground Always 10 kΩ or higher
+NOTICE:
+Check the speed sensor signal after replacement
+(See page BC-123).
+NG REPLACE SKID CONTROL SENSOR WIRE
+OK

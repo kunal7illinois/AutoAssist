@@ -1,0 +1,49 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Using a Multimeter , check the following wiring connection for
+resistance.
+Engine Component Engine Control Module (ECM) electri‐
+Power Supply Relay - cal harness connector T94 or test box
+J757- socket socket
+6/85 32
+Specified value: 1.5 Ω.
+If the specified value was not obtained:
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the wiring connection.
+If no malfunctions are found in the wiring and the voltage supply
+was OK:
+– Replace the Engine Component Power Supply Relay -J757 -
+Refer to appropriate service manual.
+– Perform a road test to verify repair.
+If the fault does not return:
+Repair complete, Generate readiness code. Refer to
+⇒ “3.2 Readiness Code”, page 8 .
+If the fault does return and no malfunction is detected in the wiring
+and the voltage supply was OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+appropriate service manual.
+– Assembly is performed in the reverse of the removal.
+Final procedures
+After repair work, the following work steps must be performed in
+the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to If necessary,
+erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 ..
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.30 Catalytic Converter, Checking
+Test requirements
+• Battery voltage at least 12.5 volts.
+• Oxygen Sensors OK.
+• No leaks or damage to exhaust system.
+Note
+If ANY Fuel Trim, misfire, or sensor faults are set, repair those
+faults BEFORE replacing the Catalytic Converter. Failure to do so
+will damage the replacement converter.
+173
+3. Diagnosis and Testing

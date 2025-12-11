@@ -1,0 +1,39 @@
+13B-668 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONTRAST WITH PROBABLE CAUSE
+STANDARD WAVE
+PATTERN
+Induced electromotive force Malfunction of motor
+does not appear or is
+extremely small
+Point B:
+Height of coil back electromotive force
+CONTRAST WITH PROBABLE CAUSE
+STANDARD WAVE
+PATTERN
+Coil reverse electromotive Short in the coil
+force does not appear or is
+extremely small
+.
+Examples of Abnormal Wave Patterns
+Example 1
+• Cause of problem
+Malfunction of motor. (Motor is not operating.)
+• Wave pattern characteristics
+Induced electromotive force from the motor turning does not
+appear.
+AKX01608AB
+Example 2
+OPEN • Cause of problem
+CIRCUIT
+Open circuit in the line between the idle air control motor
+SIDE
+and the ECM <M/T> or PCM <A/T>.
+• Wave pattern characteristics
+Current is not supplied to the motor coil on the open circuit
+side. (Voltage does not drop to 0 volt.) Furthermore, the
+induced electromotive force wave pattern at the normal side
+NORMAL
+SIDE is slightly different from the normal wave pattern.
+AKX01609AB
+TSB Revision

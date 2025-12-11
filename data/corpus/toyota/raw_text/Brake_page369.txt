@@ -1,0 +1,52 @@
+BC–358
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+2 INSPECT SPEED SENSOR AND SENSOR ROTOR SERRATIONS
+(a) Lift up the vehicle.
+Skid Control ECU (Harness Side
+(b) Disconnect the skid control ECU connector.
+Connector Front View):
+(c) Connect the oscilloscope to each speed sensor terminal
+of the skid control ECU connector.
+A60
+Terminals
+RR-
+FL- RL+ FR- Connector Circuit
+FL+ FR+
+A60-5 (FL+) - A60-6 (FL-) Front left speed sensor
+A60-10 (FR+) - A60-9 (FR-) Front right speed sensor
+A60-7 (RL+) - A60-27 (RL-) Rear left speed sensor
+A60-29 (RR+) - A60-8 (RR-) Rear right speed sensor
+RL- RR+
+BC
+C136493E04
+(d) Check that a waveform is output when the tires are
+Normal Signal Waveform: rotated (by the sensor circuit).
+OK:
+A waveform as shown in the figure is output.
+HINT:
+• Each sensor circuit outputs the same waveform
+without noise.
+• As vehicle speed (wheel rotation speed) increases,
+GND the width of the waveform narrows and the fluctuation
+in the output voltage becomes greater.
+• When noise is identified in the waveform on the
+oscilloscope, the erratic signals are generated due to
+rotor scratches, looseness or foreign matter attached
+1 V/Division, 2 ms./Division
+to the speed sensor.
+(e) Make sure that the waveform does not change while
+C140980E03 jiggling a connector or a wire harness.
+OK:
+The waveform does not change.
+HINT:
+If the waveform changes while jiggling a connector or a
+wire harness, there may be a malfunction in the
+connector or the wire harness.
+(f) Connect the connector.
+NG Go to step 4
+OK
+3 RECONFIRM DTC
+(a) Clear the DTC (See page BC-302).
+(b) Start the engine.
+(c) Drive the vehicle at a speed of 20 mph (32 km/h) or more
+for 60 seconds or more.

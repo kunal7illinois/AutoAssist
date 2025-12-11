@@ -1,0 +1,49 @@
+BC–225
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+INSPECTION PROCEDURE
+NOTICE:
+When replacing the brake actuator assembly, perform zero point calibration (See page BC-119).
+1 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (ABS MOTOR RELAY)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine.
+(c) Select the Active Test mode on the intelligent tester.
+ABS / VSC:
+Item (Display) Vehicle Condition / Test Details Diagnostic Note
+Operating sound of relay (clicking sound) and
+MOTOR RELAY Turns ABS motor relay ON / OFF
+motor can be heard
+(d) Check the operating sound of the ABS motor relay and
+motor when operating it with the intelligent tester.
+OK:
+BC
+The operating sound of the ABS motor relay and
+motor can be heard.
+OK Go to step 3
+NG
+2 INSPECT SKID CONTROL ECU (GND2 TERMINAL)
+(a) Turn the ignition switch off.
+Skid Control ECU Harness Side
+(b) Disconnect the skid control ECU connector.
+Connector Front View:
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+A26-1 (GND2) - Body ground Always Below 1 Ω
+A26
+GND2
+NG REPAIR OR REPLACE HARNESS OR
+C141143E01
+CONNECTOR (GND2 CIRCUIT)
+OK
+3 RECONFIRM DTC
+(a) Reconnect the skid control ECU connector.
+(b) Clear the DTC (See page BC-141).
+(c) Start the engine.
+(d) Drive the vehicle at the speed of 4.3 mph (7 km/h) or
+more.
+(e) Check if the same DTC is recorded (See page BC-141).
+Result
+Condition Proceed to
+DTC (C1251/51) is not output A
+DTC (C1251/51) is output B

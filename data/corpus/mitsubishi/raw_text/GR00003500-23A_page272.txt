@@ -1,0 +1,25 @@
+23A-272 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+INSPECTION PROCEDURE 12: No Diagnostic Trouble Codes (Does not Shift)
+Backup Power Supply System Circuit
+AC106638AB
+CONNECTOR: C-07 CONNECTOR: C-54 <2.4L ENGINE> OR
+C-07 C-55 <3.0L ENGINE>
+PCM
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001729AY AC001657BA
+. .
+CIRCUIT OPERATION TROUBLESHOOTING HINTS (The most likely
+PCM (terminal number 66) receives battery positive causes for this case:)
+voltage from the battery. • Malfunction of Park/Neutral position switch
+• Damaged harness, connector
+. COMMENT • Malfunction of the PCM
+If shifting does not occur while driving and no diag-
+nostic trouble codes are output, a malfunction of the
+Park/Neutral position switch, or PCM may exist.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+TSB Revision

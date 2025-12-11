@@ -1,0 +1,45 @@
+Audi TT No. 38 / 5
+Current Flow Diagram
+Aerial amplifier, rear window aerial
+R24 Aerial amplifier
+R111 Aerial amplifier 2
+R130 Rear window aerial 1
+R131 Rear window aerial 2
+T2d 2-pin connector, white, on rear right roof frame
+T2e 2-pin connector, yellow, on rear right roof frame
+* rear window upper right
+** rear window bottom right
+2233 2266
+0,4 0,4
+0,5 0,5
+sw sw
+T2d T2d/2 T2e T2e/1
+/1 /2
+0,5 0,5
+sw sw
+R130
+0,14
+0,5
+sw
+A1 A2
+✱
+R24
+R131
+0,14
+0,5
+sw
+A2 A1
+ws = white
+✱✱
+R111 sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-038051007
+rs = pink
+Edition 04.2009

@@ -1,0 +1,53 @@
+J POWER SOURCE (Current Flow Chart)
+The chart below shows the route by which current flows from the battery to each electrical source
+(Fusible Link, Circuit Breaker, Fuse, etc.) and other Parts.
+(*2) Ignition SW (*2)
+30A ST/AM2 1 E23
+(AM2)
+(*1) (*1) IG2 Relay (*1)
+20A IG2 1 1
+(Point Side)
+ACC Relay
+2
+(Point Side)
+7.5A ALT-S 50A RR DEF 1
+7.5A AM2
+10A EFI NO.1
+10A ETCS
+10A MPX-B 1
+15A HAZ
+20A STR LOCK
+25A AMP
+25A DOOR NO.1
+TAIL Relay
+2
+(Point Side)
+IG1 Relay
+2
+(Point Side)
+PWR Relay
+Battery FL MAIN 3.0W 120A ALT 1 (Point Side) 2
+15A H-LP (LH)
+DRL Relay 1 1
+15A H-LP (RH)
+HORN Relay
+1 10A HORN 1
+(Point Side)
+EFI Relay
+30A EFI MAIN 1 1
+(Point Side)
+H-LP (RL) Relay
+1 15A H-LP (RL) 1
+(Point Side)
+H-LP (LL) Relay
+1 15A H-LP (LL) 1
+(Point Side)
+A/F Relay
+1 20A A/F 1
+(Point Side)
+SHORT 1
+S-HORN Relay
+1 7.5A S-HORN 1
+(Point Side)
+404
+CAMRY (EM0250U)

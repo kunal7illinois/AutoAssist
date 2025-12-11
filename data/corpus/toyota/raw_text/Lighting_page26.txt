@@ -1,0 +1,44 @@
+LI–26
+LIGHTING – LIGHTING SYSTEM
+DTC B1244 Light Sensor Circuit Malfunction
+DESCRIPTION
+The automatic light control sensor detects ambient light, converts it into an electrical signal, and outputs it
+to the main body ECU. The main body ECU turns on or off the headlights and taillights according to the
+signal.
+DTC No. DTC Detecting Condition Trouble Area
+• Malfunction in automatic light control sensor • Automatic light control sensor
+B1244 • Open or short in automatic light control sensor • Harness or connector
+circuit • Main body ECU (Instrument panel J/B)
+WIRING DIAGRAM
+E6
+E11
+Main Body ECU
+Automatic Light Control Sensor
+3 (*1)
+CLTB CLTB
+6 (*2) 20
+4 (*1)
+CLTS CLTS
+5 (*2) 19
+6 (*1)
+CLTE CLTE
+3 (*2) 18
+*1: Manual A/C *2: Automatic A/C
+E124321E04
+INSPECTION PROCEDURE
+LI
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Select the item below in the DATA LIST, and read the
+display on the intelligent tester.
+MAIN BODY (MAIN BODY ECU):
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Illumination rate information / 0 0.8 ms to 22.0 ms (Value is output
+ILLUMINATE RATE -
+ms to 99.99 ms according to ambient illuminance)
+OK:
+Normal condition listed above is displayed.

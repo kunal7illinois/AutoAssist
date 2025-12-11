@@ -1,0 +1,39 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-73
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Check for short circuit to ground between intake
+air temperature sensor connector B-14 and ECM
+connector C-60 <M/T> or PCM connector C-54 <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-14
+YES : Go to Step 5.
+NO : Repair it. Then go to Step 6.
+INTAKE AIR
+TEMPERATURE
+SENSOR
+ACX02480AG
+CONNECTORS:C-60<M/T>,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+STEP 5. Check connector C-60 at ECM <M/T> or connector
+C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-60<M/T>,C-54<A/T>
+YES : Replace the ECM or PCM. Then go to Step 6.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 6.
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+STEP 6. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0112 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+TSB Revision

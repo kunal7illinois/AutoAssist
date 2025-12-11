@@ -1,0 +1,51 @@
+ES–39
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3. 2 TRIP DETECTION LOGIC
+When a malfunction is first detected, the malfunction is
+temporarily stored in the ECM memory (1st trip). If the
+same malfunction is detected during the next
+subsequent drive cycle, the MIL is illuminated (2nd trip).
+4. FREEZE FRAME DATA
+Freeze frame data records the engine conditions (fuel
+system, calculated engine load, engine coolant
+temperature, fuel trim, engine speed, vehicle speed,
+etc.) when malfunctions are detected. When
+troubleshooting, freeze frame data can help determine if
+the vehicle was moving or stationary, if the engine was
+warmed up or not, if the air-fuel ratio was lean or rich,
+ES
+and other data from the time the malfunction occurred.
+5. DLC3 (Data Link Connector 3)
+CG SG CANH
+1 2 3 4 5 6 7 8
+910111213141516
+CANL BAT
+A082779E83
+Symbols Terminal No. Names Reference terminal Results Condition
+SIL 7 Bus "+" line 5 - Signal ground Pulse generation During transmission
+CG 4 Chassis ground Body ground 1 Ω or less Always
+SG 5 Signal ground Body ground 1 Ω or less Always
+BAT 16 Battery positive Body ground 9 to 14 V Always
+14 - CANL 54 to 69 Ω Ignition switch OFF*
+CANH 6 CAN "High" line Battery positive 6 kΩ or higher Ignition switch OFF*
+4 - CG 200 Ω or higher Ignition switch OFF*
+Battery positive 6 kΩ or higher Ignition switch OFF*
+CANL 14 CAN "Low" line
+4 - CG 200 Ω or higher Ignition switch OFF*
+CAUTION:
+*: Before measuring the resistance, leave the vehicle
+as is for at least 1 minute and do not operate the
+ignition switch, any other switches or the doors.
+If the result is not as specified, the DLC3 may have a
+malfunction. Repair or replace the harness and
+connector.
+HINT:
+The DLC3 is the interface prepared for reading various
+data from the vehicle's ECM. After connecting the cable
+of the intelligent tester to the CAN VIM, turn the ignition
+switch ON and turn the tester ON. If a communication
+failure message is displayed on the tester screen (on the
+tester: UNABLE TO CONNECT TO VEHICLE), a
+problem exists in either the vehicle or tester. In order to
+identify the location of the problem, connect the tester to
+another vehicle.

@@ -1,0 +1,19 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+Fig. 21: Checking Continuity Between Following Terminals Of Motor 1P
+And Motor 2P Connector
+Is there continuity?
+YES -Repair open in the wire harness between the EPS control unit and motor.
+NO -Open in the motor wire harness, or motor internal circuit, replace the
+motor (see MOTOR REMOVAL AND INSTALLATION ).
+DTC 33-01: LOWER FET STUCK ON (INITIAL DIAGNOSIS); DTC 33-06: LOWER FET STUCK ON
+(REGULAR DIAGNOSIS)
+1. Clear the DTC with the HDS.
+2. Turn the ignition switch to LOCK (0).
+3. Start the engine.
+Does the EPS indicator come on?
+YES -Go to step 4.
+NO -Check for loose terminals or poor connections. If the connections are
+good, the system is OK at this time.
+4. Check for DTCs with the HDS.

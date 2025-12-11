@@ -1,0 +1,23 @@
+ES–102
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK
+Tester Operation Specified Condition
+OCV OFF Normal engine speed
+OCV ON Engine idles roughly or stalls (soon after OCV switched from OFF to ON)
+NG Go to step 2
+OK
+CHECK FOR INTERMITTENT PROBLEMS
+2 INSPECT CAMSHAFT TIMING OIL CONTROL VALVE ASSEMBLY
+ES
+(a) Disconnect the C42 or C46 OCV connector.
+(b) Measure the resistance between the terminals of the
+Valve Moves
+OCV.
+Standard resistance
+Tester Connection Condition Specified Condition
+1 - 2 20°C (68°F) 6.9 to 7.9 Ω
+(c) Reconnect the OCV connector.
+NG Go to step 3
+A097066E01
+OK
+REPLACE CAMSHAFT TIMING OIL CONTROL VALVE ASSEMBLY (See page ES-481)

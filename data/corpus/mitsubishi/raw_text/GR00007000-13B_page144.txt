@@ -1,0 +1,43 @@
+13B-144 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, check data list item 69:
+Heated Oxygen Sensor Bank 1, Sensor 2 (right rear).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+69, Heated Oxygen Sensor Bank 1, Sensor 2 (right rear).
+16 PIN • Warming up the engine. When the engine is revved, the
+output voltage should repeat 0 volt and 0.6 to 1.0 volt
+MB991502
+alternately.
+AKX01177AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : Go to Step 2.
+NO : Refer to, DTC P0137 − Heated Oxygen Sensor Circuit
+Low Voltage (bank 1, sensor 2) P.13B-166, DTC
+P0138 − Heated Oxygen Sensor Circuit High Voltage
+(bank 1, sensor 2) P.13B-171, DTC P0139 − Heated
+Oxygen Sensor Circuit Slow Response (bank 1,
+sensor 2) P.13B-174.
+STEP 2. Check the exhaust leaks.
+Q:Are there any abnormalities?
+YES : Go to Step 3.
+NO : Repair it. Then go to Step 14.
+STEP 3. Check the intake system vacuum leak.
+Q:Are there any abnormalities?
+YES : Go to Step 4.
+NO : Repair it. Then go to Step 14.
+STEP 4. Check connector B-27 at the right bank heated
+oxygen sensor (front) for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-27
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 14.
+AAKK110033550077AB
+TSB Revision

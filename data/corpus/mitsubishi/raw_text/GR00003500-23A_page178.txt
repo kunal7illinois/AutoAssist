@@ -1,0 +1,57 @@
+23A-178 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 18. Check the switch output voltage at PCM
+connector C-61 by backprobing. ("2" position) <Vehicles
+without sport mode>
+Measure the voltage between terminal 122 and ground by
+backprobing.
+C-61 CONNECTOR • When selector lever position is "P," voltage should be 0.5
+HARNESS SIDE VIEW
+volt or less.
+• When selector lever position is "R," voltage should be 0.5
+volt or less.
+• When selector lever position is "N," voltage should be 0.5
+volt or less.
+• When selector lever position is "D," voltage should be 0.5
+volt or less.
+AC001908AI
+• When selector lever position is "3," voltage should be 0.5
+volt or less.
+• When selector lever position is "2," voltage should be bat-
+tery positive voltage.
+• When selector lever position is "L," voltage should be 0.5
+volt or less.
+Q:Is the voltage normal?
+YES : Go to Step 19.
+NO : Tern the ignition switch to the "LOCK" (OFF) position.
+Repair harness damage between the Park/Neutral
+position switch connector B-41 terminal 2 and PCM
+connector C-61 <2.4L Engine> or C-63 <3.0L
+Engine> terminal 122.
+STEP 19. Check the switch output voltage at PCM
+connector C-61 by backprobing. ("L" position) <Vehicles
+without sport mode>
+Measure the voltage between terminal 110 and ground by
+backprobing.
+• When selector lever position is "P," voltage should be 0.5
+volt or less.
+• When selector lever position is "R," voltage should be 0.5
+volt or less.
+• When selector lever position is "N," voltage should be 0.5
+C-61 CONNECTOR volt or less.
+HARNESS SIDE VIEW • When selector lever position is "D," voltage should be 0.5
+volt or less.
+AC001946AI
+• When selector lever position is "3," voltage should be 0.5
+volt or less.
+• When selector lever position is "2," voltage should be 0.5
+volt or less.
+• When selector lever position is "L," voltage should be bat-
+tery positive voltage.
+Q:Is the voltage normal?
+YES : Go to Step 20.
+NO : Tern the ignition switch to the "LOCK" (OFF) position.
+Repair harness damage between the Park/Neutral
+position switch connector B-41 terminal 6 and PCM
+connector C-61 terminal 110.
+TSB Revision

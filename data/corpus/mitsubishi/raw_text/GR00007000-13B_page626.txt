@@ -1,0 +1,44 @@
+13B-626 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DIAGNOSIS
+STEP 1. Check connector A-13X at starter relay for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-13X
+YES : Go to Step 2.
+STARTER RELAY NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK101399AB
+STEP 2. Check the starter relay.
+Refer to GROUP 16, Starting system − On-vehicle Service −
+Starter relay check P.16-24.
+Q:Are there any abnormalities?
+YES : Go to Step 3.
+NO : Repair or replace it. Then confirm that the malfunction
+symptom is eliminated.
+STEP 3. Check the power supply voltage at starter relay
+connector A-13X.
+(1) Disconnect the connector A-13X and measure at the
+harness side.
+(2) Turn the ignition switch to the "START" position.
+(3) Measure the voltage between terminal 3, 5 and ground.
+• Voltage should be battery positive voltage.
+A-13X HARNESS
+SIDE CONNECTOR (4) Turn the ignition switch to the "LOCK" (OFF) position.
+332211 Q:Is the voltage normal?
+44 YES : Go to Step 4.
+55
+NO : Repair harness wire between ignition switch
+connector C-87 terminal 5 and starter relay connector
+A-13X terminal 3, 5 because of open circuit. Then
+confirm that the malfunction symptom is eliminated.
+AK101400AB
+STEP 4. Check connector C-58 at ECM for damage.
+CONNECTOR:C-58 Q:Is the connector in good condition?
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK000357AD
+TSB Revision

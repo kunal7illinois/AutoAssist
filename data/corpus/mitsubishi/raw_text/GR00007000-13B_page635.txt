@@ -1,0 +1,49 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-635
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DIAGNOSIS
+STEP 1. Check connector B-22 at distributor for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-22
+YES : Go to Step 2.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AAKK000000221177AB
+STEP 2. Check the ignition coil.
+Refer to GROUP 16, Ignition System − On-vehicle service −
+Ignition coil check P.16-37.
+Q:Are there any abnormalities?
+YES : Go to Step 3.
+NO : Repair the ignition coil. Then confirm that the
+malfunction symptom is eliminated.
+STEP 3. Check the ignition power transistor.
+Refer to GROUP 16, Ignition System − On-vehicle service −
+Power transistor check P.16-37.
+Q:Are there any abnormalities?
+YES : Go to Step 4.
+NO : Repair the ignition power transistor. Then confirm that
+the malfunction symptom is eliminated.
+STEP 4. Check the power supply voltage at distributor
+connector B-22.
+(1) Disconnect the connector B-22 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+B-22 HARNESS
+SIDE CONNECTOR
+Q:Is the voltage normal?
+YES : Go to Step 5.
+7 6 5 4 3 2 1
+NO : Check connector C-07, C-89, C-108 and C-111 at
+intermediate connectors for damage, and repair or
+replace as required. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. If intermediate
+connectors are in good condition, repair harness wire
+AK000387AB
+between ignition switch connector C-87 terminal 2
+and distributor connector B-22 terminal 1 because of
+open circuit. Then confirm that the malfunction
+symptom is eliminated.
+TSB Revision

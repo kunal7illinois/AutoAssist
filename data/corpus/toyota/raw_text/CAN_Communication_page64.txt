@@ -1,0 +1,44 @@
+CA–64
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+Combination Meter ECU Communication Stop Mode
+DESCRIPTION
+Detection Item Symptom Trouble Area
+• "Combination Meter" not displayed on
+• Power source circuit of the combination
+"Communication Bus Check" screen of
+meter
+Combination Meter ECU Communication Stop intelligent tester
+• Combination meter main bus wire or
+Mode • Applies to "Combination Meter ECU
+connector
+Communication Stop Mode" in "DTC
+• Combination meter
+combination table"
+WIRING DIAGRAM
+: CAN Main Bus Wire (CANH)
+: CAN Main Bus Wire (CANL)
+CA : CAN Branch Wire (CANH)
+: CAN Branch Wire (CANL)
+Trouble Area
+DLC3
+F1
+Combination Meter
+ECM
+GAUGE No. 2
+13
+IG+
+MPX-B 1
+B
+DOME
+2
+B2
+120 Ω No. 1 CAN J/C No. 2 CAN J/C 120 Ω
+24
+ES
+C126214E03
+INSPECTION PROCEDURE
+NOTICE:
+• Turn the ignition switch off before measuring the resistance of the CAN main wire and CAN
+branch wires.
+• After the ignition switch is turned off, check that the key reminder warning system and light
+reminder warning system are not operating.

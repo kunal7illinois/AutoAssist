@@ -1,0 +1,32 @@
+BC–160
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC 43 ABS Control System Malfunction
+DESCRIPTION
+This DTC is output when the VSC system detects a malfunction in the ABS control system.
+DTC No. DTC Detection Condition Trouble Area
+43 Malfunction in the ABS control system. ABS control system
+INSPECTION PROCEDURE
+NOTICE:
+When replacing the brake actuator assembly, perform zero point calibration (See page BC-119).
+1 CHECK ABS CONTROL SYSTEM
+(a) Clear the DTC (See page BC-141).
+(b) Turn the ignition switch on (IG).
+BC (c) Check if the same DTC is recorded (See page BC-141).
+Result
+Condition Proceed to
+DTC (ABS control system DTC) is not output A
+DTC (ABS control system DTC) is output B
+B REPAIR CIRCUIT INDICATED BY OUTPUT
+DTC (See page BC-151)
+A
+2 RECONFIRM DTC
+(a) Clear the DTC (See page BC-141).
+(b) Turn the ignition switch on (IG).
+(c) Check if the same DTC is recorded (See page BC-141).
+Result
+Condition Proceed to
+DTC (43) is not output A
+DTC (43) is output B
+B REPLACE BRAKE ACTUATOR ASSEMBLY
+A
+USE SIMULATION METHOD TO CHECK

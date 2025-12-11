@@ -1,0 +1,39 @@
+SE–88
+SEAT – POWER SEAT SWITCH
+Tester Connection Switch Condition Specified Condition
+U7-4 (E) - U7-10 (FUP) OFF Below 1 Ω
+U7-1 (B) - U7- 5 (FDWN) OFF 10 kΩ or higher
+U7-1 (B) - U7-10 (FUP) OFF 10 kΩ or higher
+U7-1 (B) - U7-5 (FDWN) DOWN Below 1 Ω
+U7-4 (E) - U7-10 (FUP) DOWN Below 1 Ω
+U7-1 (B) - U7-10 (FUP) DOWN 10 kΩ or higher
+U7-4 (E) - U7-5 (FDWN) DOWN 10 kΩ or higher
+Standard resistance (Lifter switch)
+SE Tester Connection Switch Condition Specified Condition
+U7-1 (B) - U7-7 (LUP) UP Below 1 Ω
+U7-4 (E) - U7-8 (LDWN) UP Below 1 Ω
+U7-1 (B) - U7-8 (LDWN) UP 10 kΩ or higher
+U7-4 (E) - U7-7 (LUP) UP 10 kΩ or higher
+U7-4 (E) - U7-7 (LUP) OFF Below 1 Ω
+U7-4 (E) - U7-8 (LDWN) OFF Below 1 Ω
+U7-1 (B) - U7-7 (LUP) OFF 10 kΩ or higher
+U7-1 (B) - U7-8 (LDWN) OFF 10 kΩ or higher
+U7-1 (B) - U7-8 (LDWN) DOWN Below 1 Ω
+U7-4 (E) - U7-7 (LUP) DOWN Below 1 Ω
+U7-1 (B) - U7-7 (LUP) DOWN 10 kΩ or higher
+U7-4 (E) - U7-8 (LDWN) DOWN 10 kΩ or higher
+Standard resistance (Reclining switch)
+Tester Connection Switch Condition Specified Condition
+U7-1 (B) - U7-3 (RCLF) FRONT Below 1 Ω
+U7-4 (E) - U7-2 (RCLR) FRONT Below 1 Ω
+U7-1 (B) - U7-2 (RCLR) FRONT 10 kΩ or higher
+U7-4 (E) -U7-3 (RCLF) FRONT 10 kΩ or higher
+U7-4 (E) - U7-2 (RCLR) OFF Below 1 Ω
+U7-4 (E) - U7-3 (RCLF) OFF Below 1 Ω
+U7-1 (B) - U7-3 (RCLF) OFF 10 kΩ or higher
+U7-1 (B) - U7-2 (RCLR) OFF 10 kΩ or higher
+U7-1 (B) - U7-2 (RCLR) REAR Below 1 Ω
+U7-4 (E) - U7-3 (RCLF) REAR Below 1 Ω
+U7-1 (B) - U7-3 (RCLF) REAR 10 kΩ or higher
+U7-4 (E) - U7-2 (RCLR) REAR 10 kΩ or higher
+If the result is not as specified, replace the switch.

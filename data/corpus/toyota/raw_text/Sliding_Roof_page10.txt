@@ -1,0 +1,26 @@
+RF–10
+SLIDING ROOF – SLIDING ROOF SYSTEM
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Ignition switch on (IG),
+OPN (R1-10) - E (R1-2) BR - W-B Sliding roof motor open sliding roof closed, OPEN 10 to 14 V
+switch ON
+Ignition switch on (IG),
+CLS (R1-8) - E (R1-2) L - W-B Sliding roof motor closed sliding roof open, CLOSE Below 1 V
+switch OFF
+Ignition switch on (IG),
+CLS (R1-8) - E (R1-2) L - W-B Sliding roof motor closed sliding roof open, CLOSE 10 to 14 V
+switch ON
+Ignition switch on (IG),
+UP (R1-9) - E (R1-2) W - W-B Sliding roof motor up sliding roof tilted Below 1 V
+downward, UP switch OFF
+Ignition switch on (IG),
+UP (R1-9) - E (R1-2) W - W-B Sliding roof motor up sliding roof tilted 10 to 14 V
+downward, UP switch ON
+Ignition switch on (IG),
+DWN (R1-7) - E (R1-2) G - W-B Sliding roof motor down sliding roof tilted upward, Below 1 V
+DOWN switch OFF
+Ignition switch on (IG),
+RF DWN (R1-7) - E (R1-2) G - W-B Sliding roof motor down sliding roof tilted upward, 10 to 14 V
+DOWN switch ON
+If the result is not as specified, the ECU may have a
+malfunction.

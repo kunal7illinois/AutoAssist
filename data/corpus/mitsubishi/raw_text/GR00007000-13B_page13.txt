@@ -1,0 +1,50 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-13
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+NOTE: If the ECM <M/T> or PCM <A/T> detects multiple malfunctions, the ECM <M/T> or PCM <A/T> stores
+the data for only the first item that was detected.
+However, if the ECM <M/T> or PCM <A/T> detects a misfire or a fuel system malfunction, ECM <M/T> or
+PCM <A/T> stores the data by giving priority to the misfire or fuel system malfunction, regardless of the order
+in which the malfunction was detected.
+NOTE: As for diagnostic trouble code P1603, "freeze frame" data is not memorized.
+MUT-II SCAN TOOL ITEM DATA ITEM UNIT or STATE
+DISPLAY NO.
+ECT SENSOR 21 Engine coolant temperature sensor °C or °F
+ENGINE LOAD 87 Calculation load value %
+ENGINE SPEED 22 Crankshaft position sensor r/min
+IAT SENSOR 13 Intake air temperature sensor °C or °F
+IG. TIMING ADV 44 Ignition coils and ignition power deg
+transistor
+LONG TRIM B1 81 Long-term fuel compensation %
+LONG TRIM B2 83 Long-term fuel compensation %
+SHORT TRIM B1 82 Short-term fuel compensation %
+SHORT TRIM B2 84 Short-term fuel compensation %
+SYS. STATUS B1 88 Fuel control condition (right bank) • Open loop
+• Closed loop
+• Open loop-drive
+condition
+• Open loop-DTC set
+• Closed loop-O (rear)
+2
+failed
+SYS. STATUS B2 89 Fuel control condition (left bank) • Open loop
+• Closed loop
+• Open loop-drive
+condition
+• Open loop-DTC set
+• Closed loop-O (rear)
+2
+failed
+TP SENSOR 8A Throttle position sensor %
+VAF SENSOR 12 Volume air flow sensor (mass air flow gm/s
+rate)
+VSS 24 Vehicle speed sensor km/h or mph
+OBD- II DRIVE CYCLE
+All kinds of diagnostic trouble codes (DTCs) can be monitored by carrying out a test drive according to the fol-
+lowing six drive cycle pattern. In other words, doing such a drive regenerates any kind of trouble which
+involves illuminating the Service Engine Soon/Malfunction Indicator Lamp and verifies the repair procedure
+has eliminated the trouble (the Service Engine Soon/Malfunction Indicator Lamp is no longer illuminated).
+CAUTION
+Two technicians should always be in the vehicle when carrying out a test drive.
+NOTE: Check that the diagnosis trouble code (DTC) is not output before traveling in the drive cycle pattern.
+Erase the DTC if it has been output.
+TSB Revision

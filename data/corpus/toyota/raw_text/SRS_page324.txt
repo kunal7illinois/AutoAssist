@@ -1,0 +1,49 @@
+RS–322
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+14 CHECK OCCUPANT CLASSIFICATION SYSTEM CIRCUIT (OPEN)
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery.
+(c) Using a service wire, connect terminals 12 (FSP+) and
+13 (FSP-) of connector B.
+NOTICE:
+E DC B
+Center Airbag Do not forcibly insert a service wire into the
+Occupant
+Classification Sensor Assembly terminals of the connector when connecting.
+ECU (d) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Connector B
+Tester connection Condition Specified condition
+Connector E
+O1 T10-8 (FSR+) - T10-4
+Always Below 1 Ω
+T10 (FSR-)
+FSR-
+5 4 3 2 1 NG Go to step 23
+109 8 7 6
+1514131211
+FSP-
+FSR+
+FSP+
+Service Wire
+C123726E01
+OK
+RS 15 CHECK OCCUPANT CLASSIFICATION SYSTEM CIRCUIT (SHORT)
+(a) Disconnect the service wire from connector B.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+F A Tester connection Condition Specified condition
+E DC B Center Airbag T10-8 (FSR+) - T10-4
+Always 1 MΩ or Higher
+Occupant Sensor (FSR-)
+Classification Assembly
+ECU NG Go to step 24
+Connector E
+T10
+FSR-
+FSR+
+C C110462E29
+OK

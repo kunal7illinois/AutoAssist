@@ -1,0 +1,37 @@
+TW–59
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+DTC C2176/76 Receiver Error
+DESCRIPTION
+The signals are transmitted to the tire pressure warning antenna and receiver on the body as radio waves
+and then sent to the tire pressure warning ECU.
+DTC No. DTC Detection Condition Trouble Area
+DTC is stored when any of the following is detected:
+• Malfunction in the tire pressure warning ECU internal
+• Tire pressure warning antenna and receiver
+circuit.
+C2176/76 • Wire harness or connector
+• Terminal RF5V is shorted to ground.
+• Tire pressure warning ECU
+• Malfunction in the tire pressure warning antenna and
+receiver internal circuit.
+WIRING DIAGRAM
+TW
+Tire Pressure Warning
+Antenna and Receiver Tire Pressure Warning ECU
+5 5 6
++5V N20 N34 E60 RF5V
+*1 *2
+1 1 12
+RDA N20 N34 E60 RDA
+*1 *2
+4 4 11
+GND N20 N34 E60 GND2
+*1 *2
+*1: TMC Made *2: TMMK Made
+E131610E01
+INSPECTION PROCEDURE
+NOTICE:
+• When replacing the tire pressure warning ECU, read the IDs stored in the ECU using the
+intelligent tester and write them down before removal.
+• It is necessary to perform initialization (See page TW-18) after registration (See page TW-15) of
+the transmitter IDs into the tire pressure warning ECU after the ECU have been replaced.

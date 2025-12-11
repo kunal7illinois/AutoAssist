@@ -1,0 +1,53 @@
+Audi TT No. 42 / 14
+Current Flow Diagram
+Engine control unit, charge air pressure sender, intake air
+temperature sender, exhaust gas pressure sensor 1, fuel
+pressure regulating valve, fuel metering valve
+G31 Charge air pressure sender
+G42 Intake air temperature sender
+G450 Exhaust gas pressure sensor 1
+J623 Engine control unit
+N276 Fuel pressure regulating valve
+N290 Fuel metering valve
+T4s 4-pin connector, black, in front left engine compartment
+T14 14-pin connector, black, on front left in engine compartment
+T60 60-pin connector, on engine control unit
+T94 94-pin connector, on engine control unit
+D101 Connection 1, in engine compartment wiring harness
+J623
+T94/66 T94/30 T94/17 T94/83 T60/45 T60/60 T94/14 T94/79 T94/34
+0,5 0,5 0,5 0,5 1,0 1,0 0,35 0,35 0,35
+br/bl ge/bl bl/li li gn/sw bl/sw ro bl gn
+1/+ 2/-- 3/S
+T4s/1 T4s/2 T4s/3 T4s/4
+5566
+G450
+0,5 0,5 0,5 0,5 1,5
+br ge li/sw li bl/ro
+1 2 3 4 1 1
+ϑ T14/10
+N276 N290
+G42 G31 2 2 w
+sw
+s =
+=
+w
+bl
+h
+a
+i
+c
+te
+k
+ro = red
+1,5 1,0 1,0
+bl/ro bl/ro bl/ro br = brown
+gn = green
+D101 bl = blue
+gr = grey
+li = purple
+ge = yellow
+169 170 171 172 173 174 175 176 177 178 179 180 181 182 or = orange
+8J0-042140808
+rs = pink
+Edition 09.2009

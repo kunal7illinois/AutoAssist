@@ -1,0 +1,43 @@
+COOLING SYSTEM 14-11
+ENGINE COOLING DIAGNOSIS
+STEP 7. Check the circuit at fan controller connector A-30
+(terminal number 1).
+(1) Disconnect fan controller connector A-30 (terminal number
+1), and measure at the harness side connector.
+CONNECTOR: A-30
+(2) Measure the resistance between terminal number 1 and
+ground.
+Q:Is the resistance less than 2 ohm?
+YES : Go to Step 9.
+NO : Go to Step 8.
+AC000252AB
+STEP 8. Check the harness wire between fan controller
+connector A-30 (terminal number 1) and ground.
+Q:Are the harness wires between fan controller connector
+CONNECTOR: A-30
+A-30 (terminal number 1) and ground damaged?
+YES : Repair or replace them, then go to Step 12.
+NO : Go to Step 9.
+RADIATOR
+FAN
+AC000270AB
+STEP 9. Check the circuit at ECM connector C-49 (terminal
+number 21) <2.4L-M/T>, C-51 (terminal number 18) <3.0L-
+M/T>or PCM connector C-50 (terminal number 18) <2.4L-A/
+T>, C-52 (terminal number 18) <3.0L-A/T>.
+(1) Connect ECM connector C-49 (terminal number 21) <2.4L-
+<2.4L-M/T> M/T>, C-51 (terminal number 18) <3.0L-M/T> or PCM
+CONNECTOR C-49 connector C-50 (terminal number 18) <2.4L-A/T>, C-52
+(terminal number 18) <3.0L-A/T>.
+(2) Start the engine and allow it to idle.
+(3) Measure the voltage between terminal number 21 <2.4L-M/
+T> or 18 <2.4L-A/T, 3.0L> and ground.
+Q:Is the voltage 0.7 volt or more when the radiator fan is
+operating?
+YES : Go to Step 11.
+<2.4L-A/T, 3.0L>
+NO : Go to Step 10.
+CONNECTOR
+C-50, C-51, C-52
+AC000254AC
+TSB Revision

@@ -1,0 +1,37 @@
+ST–95
+2GR-FE STARTING – SMART KEY SYSTEM
+Wire Harness Side:
+E58
+Certification ECU
+IR
+Main Body ECU
+LIN
+LIN1
+B137998E01
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection
+Condition Specified Condition
+(Symbols)
+IR-9 (LIN1) - E58-10
+Always Below 1 Ω
+(LIN)
+IR-9 (LIN1) or E58-10
+Always 10 kΩ or higher
+(LIN) - Body ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+3 CHECK MAIN BODY ECU OPERATION
+(a) After replacing the main body ECU with a normally
+functioning ECU, check that the engine starts.
+OK:
+Engine can start normally.
+HINT:
+If the engine does not start, refer to PROBLEM
+SYMPTOMS TABLE of the smart key system (entry)
+ST
+(matching for the inside of the cabin cannot be
+performed) (See page DL-147).
+NG GO TO SMART KEY SYSTEM (ENTRY)

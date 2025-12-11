@@ -1,0 +1,41 @@
+Audi TT 2007 ➤
+Brake system - Edition 04.2009
+♦ 03 - Brake electronics ABS/ESP Mark 60
+– Select the function you require on the display.
+♦ Calibrate lateral acceleration sender -G200-
+♦ Calibrate longitudinal acceleration sender -G251- (only on
+four-wheel drive vehicles)
+– Carry out ESP road test and system test.
+4.4 Removing and installing steering angle
+sender -G85-
+Removing
+– Turn wheels to straight ahead position.
+– Remove airbag unit and steering wheel ⇒ Rep. Gr. 48 .
+Item -1-: Return ring with slip ring
+- Clipped to switch for turn signal indicator, main beam, dipped
+beam and headlight flasher
+Item -2- Steering angle sender -G85-
+- Clipped to return ring with slip ring
+WARNING
+The return ring with slip ring must not be rotated following re‐
+moval.
+– Remove driver's storage compartment ⇒ Rep. Gr. 68 .
+– Remove steering column switch module ⇒ Rep. Gr. 94 .
+Installing
+Installation is carried out in the reverse sequence.
+– Install airbag unit and steering wheel. ⇒ Rep. Gr. 48
+Calibrate steering angle sender -G85.
+To do this, use vehicle diagnosis, testing and information system
+-VAS 505x- .
+– Select on the display:
+♦ Running gear
+♦ Brake system (Repair group 01; 45)
+♦ 01 - Self-diagnosis compatible systems
+♦ 03 - Brake electronics ABS/ESP Mark 60
+– Select the function you require on the display.
+♦ J104 - Control unit for ABS/TCS/ESP, Functions
+♦ G-85 - Calibrate steering angle sensor ⇒ Vehicle diagnosis,
+testing and information system -VAS 505x- .
+– Carry out ESP road test and system test.
+16
+Rep. Gr.45 - Anti-lock brake system

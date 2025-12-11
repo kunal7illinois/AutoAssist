@@ -1,0 +1,46 @@
+CHASSIS ELECTRICAL 54A-45
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 6. Check the wiring harness between combination
+meter connector C-41 (terminal 52) and ignition switch
+(IG1).
+NOTE: After checking junction block connectors C-111 and C-
+CONNECTOR: C-41
+108, check the wires. If junction block connectors C-111 and C-
+108 are damaged, repair or replace the wiring harness. Refer
+to GROUP 00E, Harness Connector Inspection P.00E-2.
+DEVICE SIDE
+41424344454647 484950515253545556
+AC106473AH
+Q:Is the wiring harness between combination meter
+CONNECTORS: C-108, C-111
+connector C-41 (terminal 52) and ignition switch (IG1) in
+JUNCTION BLOCK
+(FRONT VIEW) good condition?
+YES : There is no action to be taken.
+NO : Repair the wiring harness. The speedometer should
+work normally.
+C-108
+C-111
+DEVICE SIDE
+C-108
+1 2 3 4 5 6 7 8 91011121314
+1516171819202122232425262728
+C-111
+1 2
+3 4 5 6
+AC106480AO
+STEP 7. Check the combination meter (speedometer)
+ground circuit at the combination meter connector C-42.
+(1) Disconnect the combination meter connector C-42.
+(2) Measure the resistance between terminal 34 and ground.
+CONNECTOR C-42 • The measured value should be 2 ohm or less.
+(HARNESS SIDE)
+Q:Does the measured resistance value correspond with
+this range?
+YES : Repair or replace the combination meter (printed-
+circuit board or speedometer and tachometer). The
+speedometer should work normally.
+NO : Go to Step 8.
+343332313029 2827262524232221
+AC002052AC
+TSB Revision

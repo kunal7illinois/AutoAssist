@@ -1,0 +1,39 @@
+CA–56
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+2 CHECK WIRE HARNESS (IG, GND)
+(a) Measure the resistance according to the value(s) in the
+Yaw Rate Sensor Connector (Front View):
+table below.
+Standard resistance:
+TMC Made: TMC made
+Tester Connection Condition Specified Value
+E34
+E34-1 (GND) - Body
+Always Below 1 Ω
+ground
+TMMK made
+Tester Connection Condition Specified Value
+GND IG
+E65-4 (GND) - Body
+Always Below 1 Ω
+ground
+TMMK Made:
+(b) Measure the voltage according to the value(s) in the
+table below.
+E65
+Standard voltage:
+TMC made
+CA
+Tester Connection Condition Specified Value
+E34-5 (IG) - Body
+Ignition switch on (IG) 10 to 14 V
+IG1 GND ground
+C133237E02 TMMK made
+Tester Connection Condition Specified Value
+E65-1 (IG1) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE YAW RATE AND ACCELERATION SENSOR

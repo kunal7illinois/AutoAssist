@@ -1,0 +1,27 @@
+ES–408
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+EVAP System
+RELATED DTCS
+DTCs Monitoring Items See page
+P043E Reference orifice clogged (built into canister pump module)
+ES-255
+P043F Reference orifice high-flow (built into canister pump module)
+• Purge VSV (Vacuum Switching Valve) stuck closed
+P0441 • Purge VSV stuck open ES-260
+• Purge flow
+P0450 Canister pressure sensor (built into canister pump module) voltage abnormal fluctuation
+• Canister pressure sensor (built into canister pump module) noise
+P0451
+• Canister pressure sensor (built into canister pump module) signal becomes fixed/flat ES-267
+P0452 Canister pressure sensor (built into canister pump module) voltage low
+ES P0453 Canister pressure sensor (built into canister pump module) voltage high
+P0455 EVAP gross leak
+ES-274
+P0456 EVAP small leak
+P2401 Leak detection pump stuck OFF (built into canister pump module)
+ES-255
+P2402 Leak detection pump stuck ON (built into canister pump module)
+P2419 Vent valve stuck closed (built into canister pump module) ES-255
+P2420 Vent valve stuck open (vent) (built into canister pump module) ES-373
+P2610 Soak timer (built into ECM) ES-377
+If any EVAP system DTCs are set, the malfunctioning area can be determined using the table below.

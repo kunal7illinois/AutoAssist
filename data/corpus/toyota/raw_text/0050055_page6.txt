@@ -1,0 +1,48 @@
+ES–304
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Driving Pattern Detail for (h) through (k):
+Cumulative Detection Period "t" = t1 + t2 + t3 = 3 seconds or more
+Reference Engine RPM
+Delay Detection Period t1
+(i) (j)
+(k)
+2,500 rpm
+ES 1,000 rpm
+Idling t2 t3
+(h)
+Time
+Idling
+4 seconds 4 seconds 4 seconds
+or more or more or more
+A107163E06
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Clear DTCs (see page ES-35).
+(e) Start the engine, and warm it up until the ECT reaches 75°C (167°F) or higher.
+(f) On the intelligent tester, select the following menu items to check the fuel-cut status: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / USER DATA / FC IDL.
+(g) Drive the vehicle at between 60 km/h (38 mph) and 120 km/h (75 mph) for at least 10 minutes.
+(h) Change the transmission to 2nd gear.
+(i) Drive the vehicle at proper vehicle speed to perform fuel-cut operation.
+HINT:
+Fuel-cut is performed when the following conditions are met:
+• Accelerator pedal fully released.
+• Engine speed is 2,500 rpm or more (fuel injection returns at 1,000 rpm).
+(j) Accelerate the vehicle to 64 km/h (40 mph) or more by depressing the accelerator pedal for at least 10
+seconds.
+(k) Soon after performing step (j) above, release the accelerator pedal for at least 4 seconds without
+depressing the brake pedal, in order to execute fuel-cut control.
+(l) Allow the vehicle to decelerate until the vehicle speed declines to less than 10 km/h (6 mph).
+(m) Repeat steps from (h) through (k) above at least 3 times in one driving cycle.
+HINT:
+Completion of all A/F sensor monitors is required to change the value in TEST RESULT.
+CAUTION:
+Strictly observe posted speed limits, traffic laws, and road conditions when performing these
+drive patterns.
+INSPECTION PROCEDURE
+HINT:
+Intelligent tester only:
+Malfunctioning areas can be identified by performing the A/F CONTROL function provided in the ACTIVE
+TEST. The A/F CONTROL function can help to determine whether the Air-fuel Ratio (A/F) sensor, Heated
+Oxygen (HO2) sensor and other potential trouble areas are malfunctioning.

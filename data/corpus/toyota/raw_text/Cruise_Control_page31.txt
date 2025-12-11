@@ -1,0 +1,56 @@
+CC–31
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+INSPECTION PROCEDURE
+1 READ VALUE ON INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
++ (ACCEL)/RES
+(b) Turn the ignition switch on (IG) and turn the intelligent
+(RESUME)
+tester main switch on.
+(c) Check the DATA LIST for proper functioning of the cruise
+control main switch.
+ON/OFF
+CANCEL
+- (COAST)/SET
+E107091E05
+ECM (Cruise control):
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Cruise control main switch
+Main switch signal (Main CPU)/ on
+MAIN SW (MAIN) -
+ON or OFF OFF: Cruise control main switch
+off
+CANCEL switch signal/ON or ON: CANCEL switch on
+CANCEL SW -
+OFF OFF: CANCEL switch off
+SET / COAST switch signal/ON ON: - (COAST)/SET switch on
+SET / COAST SW -
+or OFF OFF: - (COAST)/SET switch off
+ON: + (ACCEL)/RES (RESUME)
+RES / ACC switch signal/ON or switch on
+RES / ACC SW -
+OFF OFF: + (ACCEL)/RES (RESUME)
+switch off
+ON: Cruise control main switch
+Main switch signal (Sub CPU) / ON
+MAIN SW (SUB) -
+ON or OFF OFF: Cruise control main switch
+OFF
+OK:
+When the cruise control main switch is operated,
+the display changes as shown above.
+CC
+Result
+Result Proceed to
+OK A
+NG (All items are defective) B
+NG (1 to 4 items are defective) C
+A PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+C REPLACE CRUISE CONTROL MAIN SWITCH
+B
+2 INSPECT CRUISE CONTROL MAIN SWITCH
+(a) Remove the cruise control main switch (See page CC-
+38).

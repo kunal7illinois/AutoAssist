@@ -1,0 +1,46 @@
+System Outline
+∗ ABS system
+This system controls the respective brake fluid pressures acting on the disc brake cylinders of the right front wheel, left front
+wheel and rear wheels when the brakes are applied in a panic stop so that the wheels do not lock. This results in improved
+directional stability and steerability during panic braking.
+∗ Front and rear braking force distribution system
+Using the hydraulic controlling device, this system distributes the braking force to the front and rear wheel in appropriately
+according to the running condition of the vehicle.
+1. Input Signals
+(1)Speed sensor signal
+The speed of the wheels is detected and input to TERMINALS 5, 7, 10 and 19 of the skid control ECU with actuator.
+(2)Stop light SW signal
+A signal is input to TERMINAL 20 of the skid control ECU with actuator when the brake pedal is depressed.
+2. System Operation
+During sudden braking the skid control ECU with actuator has signals input from each sensor, which controls the current to
+the solenoid inside the actuator and lets the hydraulic pressure acting on each wheel cylinder escape to the reservoir. The
+pump inside the actuator is also operating at this time and it returns the brake fluid from the reservoir to the master cylinder,
+thus preventing locking of the vehicle wheels.
+If the skid control ECU with actuator judges that the hydraulic pressure acting on the wheel cylinder is insufficient, the current
+on the solenoid is controlled and the hydraulic pressure is increased. Holding of the hydraulic pressure is also controlled by
+the skid control ECU with actuator, by the same method as above. Pressure reduction, holding and increase are repeated to
+maintain vehicle stability and to improve steerability during sudden braking.
+: Parts Location
+Code See Page Code See Page Code See Page
+48 (2GR–FE) A55 A 49 (2GR–FE) E10 56
+AA1144
+52 (2AZ–FE) A58 A 59 E33 56
+A18 59 A 50 (2GR–FE) E40 B 57
+CC11
+A19 59 B 54 (2AZ–FE) E41 B 57
+A24 A 52 (2AZ–FE) 50 (2GR–FE) E42 A 57
+CC55
+48 (2GR–FE) 54 (2AZ–FE) E43 B 57
+AA2255
+52 (2AZ–FE) C20 55 (2AZ–FE) E44 C 57
+48 (2GR–FE) C24 B 55 (2AZ–FE) E62 G 57
+AA3355
+52 (2AZ–FE) C50 51 (2GR–FE) F1 A 58
+A40 A 59 C55 B 51 (2GR–FE) F2 B 58
+A41 A 59 C57 51 (2GR–FE) f1 61
+A42 B 59 E8 C 56 g1 61
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+267
+CAMRY (EM0250U)

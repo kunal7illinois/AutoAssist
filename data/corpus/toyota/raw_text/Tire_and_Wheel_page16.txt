@@ -1,0 +1,42 @@
+TW–16
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+REGISTRATION
+1. READ TRANSMITTER ID
+Prepare the all transmitter ID data before starting
+registration.
+HINT:
+• Read the registered transmitter IDs that are stored in
+the ECU using the intelligent tester and note them
+down.
+• If reading stored transmitter IDs is impossible due to
+malfunctions of components such as the tire pressure
+warning antenna and receiver, remove the tires from
+the wheels and check the IDs located on the tire
+pressure warning valves and transmitters (See page
+TW-6).
+• When replacing the tire pressure warning ECU, read
+the IDs stored in the old ECU using the intelligent
+TW
+tester.
+• When replacing the tire pressure warning valves and
+transmitters, note down the IDs written on the tire
+pressure warning valves and transmitters.
+2. REGISTER TRANSMITTER ID
+NOTICE:
+It is necessary to register the transmitter ID in the
+tire pressure warning ECU when replacing the tire
+pressure warning valve and transmitter and/or tire
+pressure warning ECU.
+(a) Connect the intelligent tester to DLC3 (Procedure
+"A").
+(b) Turn the ignition switch on (IG) (Procedure "B").
+(c) Select the REGIST TIRE following the intelligent
+tester screen (UTILITY - REGIST TIRE) (Procedure
+"C").
+DLC3
+Intelligent Tester
+C131977E09
+(d) Input the IDs (ID1 to ID4 or ID5) using the intelligent
+tester and transmit them to the tire pressure warning
+ECU (Procedure "D").
+F100622

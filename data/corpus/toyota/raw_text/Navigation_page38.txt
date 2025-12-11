@@ -1,0 +1,21 @@
+NS–38
+NAVIGATION – NAVIGATION SYSTEM
+(e) LAN Monitor (Individual) Screen
+*1
+*2
+*3 *4 *5 *6 *7
+E120072E01
+Screen Description:
+Display Contents
+Device name/*1 Target device
+Segment/*2 Target logical address
+DTC/*3 DTC (Diagnostic Trouble Code)
+Physical address stored with DTC (If there is no address, nothing is
+Sub-code (device address)/*4
+displayed.)
+Connection check No./*5 Connection check number stored with DTC
+DTC occurrence/*6 Number of times the same DTC has been recorded
+Pushing this switch for 3 seconds clears the diagnostic memory data
+Diagnosis clear switch/*7 of the target device. (Both response to diagnostic system check result
+and the displayed data are cleared.)
+NS

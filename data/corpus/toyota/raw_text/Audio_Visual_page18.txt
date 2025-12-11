@@ -1,0 +1,75 @@
+AV–18
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specification
+A waveform synchronized
+RR- (F7-3) - GND (F6-7) W - BR Sound signal (Rear Right) Audio system is playing
+with sounds is output
+Illumination (rheostat) Light control switch OFF Below 1 V → Pulse
+ILL- (F7-5) - GND (F6-7) W-B - BR
+signal → TAIL or HEAD generation
+A waveform synchronized
+RL- (F7-6) - GND (F6-7) Y - BR Sound signal (Rear Left) Audio system is playing
+with sounds is output
+Turn ignition switch on
+Speed signal from
+SPD (F8-3) - GND (F6-7) V - BR (IG). Pulse generation
+combination meter
+Turn drive wheels slowly.
+Steering pad switch
+SWG (F8-6) - GND (F6-7) P - BR Always Below 1 V
+ground
+Steering pad switch not
+4 V or more
+operated
+→ Approx. 0.5 V
+→ SEEK+ switch pushed
+SW1 (F8-7) - GND (F6-7)) O - BR Steering pad switch signal → Approx. 0.9 V
+→ SEEK- switch pushed
+→ Approx. 2.0 V
+→ VOL+ switch pushed
+→ Approx. 3.4 V
+→ VOL- switch pushed
+Steering pad switch not
+4 V or more → Below 2.5
+SW2 (F8-8) - GND (F6-7) Y - BR Steering pad switch signal operated → MODE switch
+V
+pushed
+External device is playing A waveform synchronized
+ARI (F8-15) - GND (F6-7) O - BR Sound signal (Right)
+(When stereo jack is used) with sounds is output
+ASGN (F8-16) - GND (F6-7) BR - BR Shield ground Always Below 1 V
+External device is playing A waveform synchronized
+ALI (F8-17) - GND (F6-7) R - BR Sound signal (Left)
+(When stereo jack is used) with sounds is output
+External device
+External device is
+AUXI (F8-19) - GND (F6-7) G - BR connection detection Below 1 V
+connected
+signal
+3. STEREO COMPONENT AMPLIFIER (PREMIUM
+MODEL)
+F20 F18 F19
+E126133E02
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specification
+Mute signal from radio Audio system is playing →
+MUTE (F19-1) - GND (F20-6) O - BR Above 3.5 V → Below 1 V
+receiver Changing
+A waveform synchronized
+L- (F19-2) - GND (F20-6) W - BR Sound signal (Left) Audio system is playing
+with sounds is output
+AV
+A waveform synchronized
+L+ (F19-3) - GND (F20-6) B - BR Sound signal (Left) Audio system is playing
+with sounds is output
+A waveform synchronized
+R- (F19-4) - GND (F20-6) G - BR Sound signal (Right) Audio system is playing
+with sounds is output
+A waveform synchronized
+R+ (F19-5) - GND (F20-6) R - BR Sound signal (Right) Audio system is playing
+with sounds is output
+Shielded - Body
+SLD (F19-6) - Body ground Shield ground Always Blow 1 V
+ground
+AVC-LAN communication Turn ignition switch on
+TX- (F19-7) - GND (F20-6) G - BR 2 to 3 V
+signal (ACC)

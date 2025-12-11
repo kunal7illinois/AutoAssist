@@ -1,0 +1,44 @@
+Audi TT No. 48 / 15
+Current Flow Diagram
+Onboard supply control unit, tank filler flap locking motor,
+rear lid contact switch for anti-theft alarm, rear lid central
+locking motor, glass breakage sensor for rear window
+F123 Rear lid contact switch for anti-theft alarm system
+G304 Glass breakage sensor for rear window
+J519 Onboard supply control unit
+T8e 8-pin connector, brown, in left side panel, to rear lid
+T52a 52-pin connector, black, on onboard supply control unit
+T52b 52-pin connector, yellow, on onboard supply control unit
+V53 Rear lid central locking motor
+V155 Tank filler flap locking motor
+218 Earth connection 1, in rear lid wiring harness
+662 Earth point, rear left side panel
+* with anti-theft alarm system only
+** Coupé only
+J519
+T52b/5 T52a/46 T52b/11 T52a/29 T52a/36
+0,5 0,5 0,35 0,35 0,35
+gn/li gn/gr ge/ro sw/ro bl
+T8e/7 T8e/4 T8e/5
+0,35 0,35 0,35
+ge/ro sw/ro bl
+✱
+✱✱
+1 3 2 1
+G304
+M V53 M
+2 ws = white
+2 1/31 F123
+sw = black
+V155
+ro = red
+0,5 1,5 0,5 br = brown
+br br br gn = green
+218 bl = blue
+gr = grey
+662 li = purple
+ge = yellow
+183 184 185 186 187 188 189 190 191 192 193 194 195 196 or = orange
+8J0-048150409
+rs = pink
+Edition 04.2010

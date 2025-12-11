@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (K20Z3) - Civic (Except GX & Si)
+YES - Troubleshooting is complete.
+NO - Check for poor connections or loose terminals at the FTP sensor and the
+ECM, then go to step 1.
+DTC P0498: EVAP CANISTER VENT SHUT VALVE CIRCUIT LOW VOLTAGE
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0498 indicated?
+YES - Go to step 6.
+NO - Go to step 4.
+4. Select EVAP CVS ON in the INSPECTION MENU with the HDS.
+5. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0498 indicated?
+YES - Go to step 6.
+NO - Intermittent failure, the system is OK at this time. Check for poor
+connections or loose terminals at the EVAP canister vent shut valve and the
+ECM.
+6. Turn the ignition switch OFF.
+7. Disconnect the EVAP canister vent shut valve 2P connector.
+8. Turn the ignition switch ON (II).
+9. Measure voltage between EVAP canister vent shut valve 2P connector terminal

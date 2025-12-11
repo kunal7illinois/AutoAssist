@@ -1,0 +1,37 @@
+ST–122
+2GR-FE STARTING – SMART KEY SYSTEM
+MAIN BODY:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Engine switch on (IG)
+STSW1 Start Switch 1/ON or OFF -
+OFF: Engine switch off
+ON: Engine switch on (IG)
+START SW2 Start Switch 2/ON or OFF -
+OFF: Engine switch off
+OK:
+ON (engine switch on (IG)) and OFF (engine switch
+off) appear on the screen.
+OK REPLACE MAIN BODY ECU
+NG
+8 INSPECT ENGINE SWITCH
+(a) Remove the engine switch.
+SS1 GND SS2
+START
+STOP
+7 6 5 4 3 2 1
+14 13 12 11 10 9 8
+A109252E14
+(b) Measure the resistance of the switch.
+Standard resistance
+Tester Connection Switch Condition Specified Condition
+7 (SS1) - 5 (GND) Pushed Below 1 Ω
+2 (SS2) - 5 (GND) Pushed Below 1 Ω
+7 (SS1) - 5 (GND) Not pushed 10 kΩ or higher
+2 (SS2) - 5 (GND) Not pushed 10 kΩ or higher
+NG REPLACE ENGINE SWITCH
+OK
+9 CHECK WIRE HARNESS (MAIN BODY ECU AND BODY GROUND - ENGINE SWITCH)
+(a) Disconnect the E7 ECU connector.
+ST

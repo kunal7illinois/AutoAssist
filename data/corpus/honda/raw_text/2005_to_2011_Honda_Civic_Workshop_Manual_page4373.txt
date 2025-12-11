@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+3. Test-drive the vehicle.
+4. Check for DTCs with the HDS.
+Is DTC 81-51, 81-53, 81-55, or 81-57 indicated?
+YES -Go to step 5.
+NO -Intermittent failure, the system is OK at this time.
+5. Turn the ignition switch to LOCK (0).
+6. Disconnect the VSA modulator-control unit 37P connector.
+7. Turn the ignition switch ON (II).
+8. Measure voltage between body ground and the appropriate VSA modulator-
+control unit 37P connector terminals (see table).
+DTC REFERENCE
+DTC VSA Modulator-control Unit 37P Connector Terminals No.
+81-51 No. 19
+81-53 No. 22
+81-55 No. 9
+81-57 No. 20
+Fig. 45: Measuring Voltage Between Body Ground And Appropriate VSA
+Modulator-Control Unit 37P Connector Terminals
+Is there 0.1 V or more?

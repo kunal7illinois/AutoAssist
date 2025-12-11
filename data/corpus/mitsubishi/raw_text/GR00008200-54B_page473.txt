@@ -1,0 +1,38 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-473
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the fog light switch.
+Remove the fog light switch.Then check continuity between the
+CONNECTOR: C-76 switch terminals.
+SWITCH TESTER SPECIFIED
+POSITION CONNECTION CONDITION
+Released 6 − 7 Open circuit
+Pressed 6 − 7 Less than 2 ohm
+Q:Is the fog light switch in good condition?
+C-76 YES : Go to Step 2.
+NO : Repair the fog light switch. If the for light switch
+operates normally, it indicates that a correct signal is
+sent from the fog light switch.
+AC106474AT
+STEP 2. Measure at fog light switch connector C-76 in
+order to check the ground circuit to the fog light switch.
+(1) Disconnect fog light switch connector C-76, and measure at
+CONNECTOR: C-76
+the wiring harness side.
+1 2
+DEVICE SIDE 3 4 5 6 7
+AC106473AK
+(2) Measure the resistance value between terminal 7 and
+ground.
+CONNECTOR C-76 • The measured value should be 2 ohm or less.
+(HARNESS SIDE)
+Q:Does the measured resistance value correspond with
+2 1 this range?
+7 6 5 4 3
+YES : Go to Step 5.
+NO : Go to Step 3.
+AC002152AC
+TSB Revision

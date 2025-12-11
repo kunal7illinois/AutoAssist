@@ -1,0 +1,22 @@
+ES–262
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+8 REPAIR OR REPLACE HARNESS OR CONNECTOR (PNP SWITCH - STA TERMINAL OF
+ECM)
+NEXT
+9 CHECK WHETHER DTC OUTPUT RECURS
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+ES (d) Clear DTCs (see page ES-35).
+(e) Drive the vehicle at more than 20 km/h (12.43 mph) for
+over 20 seconds.
+(f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(g) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+P0617 A
+No DTC B
+B SYSTEM OK
+A
+REPLACE ECM

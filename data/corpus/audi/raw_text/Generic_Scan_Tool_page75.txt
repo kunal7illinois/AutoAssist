@@ -1,0 +1,35 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0447 Evaporative For Model Year • Signal voltage • EVAP pump sole‐ 0.5 Sec. • 2 DCY
+Emission 2011 > > 4.70 - 5.40 V noid valve com‐
+System – Check the manded off
+Vent Con‐ Leak Detec‐
+trol Circuit tion Pump
+Open (LDP) -
+V144- . Refer
+to
+⇒
+“3.5.13 Leak
+Detection
+Pump,
+Checking ”,
+page 136
+P0448 Evaporative For Model Year • Signal current • EVAP pump sole‐ 0.5 Sec. • 2 DCY
+Emission 2011 > > 2.2 to 4 A noid valve com‐
+System – Check the manded on
+Vent Con‐ Leak Detec‐ OR
+trol Circuit tion Pump • Signal voltage OR
+Shorted (LDP) - < 2.74 to 3.26 V • EVAP pump sole‐
+V144- . Refer noid valve com‐
+to manded off
+⇒
+“3.5.13 Leak
+Detection
+Pump,
+Checking ”,
+page 136
+71
+3. Diagnosis and Testing

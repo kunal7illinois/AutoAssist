@@ -1,0 +1,53 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-11
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TEST MONITORING SIMPLE TECHNICAL INDICATION OF SCAN CONVERSION
+ID ITEM DESCRIPTION TOOL COEFFICIENT IN
+USING
+GENERAL SCAN
+TOOL
+08 Evaporation ECM <M/T> or PCM <A/T> EVAP Leak Mon. 0.5 × 0.032 kPa
+leak monitor monitors the leak of fuel mm Pressure Value
+(Very small evaporation gas by the reduction of Test Result and Limit
+leak) vacuum in tank after appointed time Value (max.) kPa
+using the fuel tank differential
+pressure sensor after making the
+fuel tank and the fuel line vacuum.
+09 Heated oxygen ECM <M/T> or PCM <A/T> HO2S B1 SENSOR1 × 1count
+sensor (front) monitors the deteriorated condition Rich/Lean switching
+monitor (Rich/ of the heated oxygen sensor (front) Count
+Lean switching) by checking the lean/rich switching Test Result and Limit
+frequency of the heated oxygen Value (min.)
+sensor (front).
+0B Heated oxygen ECM <M/T> or PCM <A/T> checks HO2S B1 SENSOR2 × 19.5 mV
+sensor (rear) the output voltage of the heated Change in Volt
+monitor oxygen sensor (rear) in order to Test Result and Limit
+(Voltage) monitor whether the heated oxygen Value (min.)
+sensor (rear) output is stuck.
+NOTE: .
+*1: The test fails if test value is less than this value.
+*2: The test fails if test value is greater than this value.
+DIAGNOSTIC BY DIAGNOSTIC TEST MODE II
+(INCREASED SENSITIVITY)
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+NOTE: When mode II is selected with MUT-II, the Service
+Engine Soon/Malfunction Indicator Lamp will light when the
+engine control module (ECM) <M/T> or powertrain control
+module (PCM) <A/T> first detects the trouble (Note that this is
+only for emission-related trouble). At the same time, the rele-
+vant diagnostic trouble codes will be registered. In respect to
+the comprehensive component electrical faults (opens/shorts),
+the time for the diagnostic trouble code to be registered after
+the fault occurrence is four seconds → one second. Therefore,
+the confirmation of the trouble symptom and the confirmation
+after completing repairs can be reduced. To return to the nor-
+mal mode I after mode II has been selected once, the ignition
+switch must be turned "OFF" once or mode I must be rese-
+lected with MUT-II. The diagnostic trouble code, readiness test
+status and freeze frame data, etc., will be erased when mode I
+is returned to, so record these before returning to mode I.
+TSB Revision

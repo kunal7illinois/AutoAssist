@@ -1,0 +1,37 @@
+EG-50 ENGINE - 2AZ-FE ENGINE
+2) Normal Throttle Control (non-linear control)
+Controls the throttle to an optimal throttle valve angle that is appropriate for the driving condition such
+as the amount of the accelerator pedal effort and the engine speed in order to realize excellent throttle
+control and comfort in all operating ranges.
+(cid:1) Conceptual Diagrams of Engine Control During Acceleration and Deceleration (cid:2)
+: With Control
+: Without Control
+(cid:2)
+Vehicle’s
+Longitudinal G
+0
+(cid:2)
+Ignition Timing
+0
+(cid:2)
+Throttle Valve
+Opening Angle
+0
+(cid:2)
+Accelerator Pedal
+Depressed Angle
+0
+Time (cid:1)
+00MEG38Y
+3) Idle Speed Control
+The ECM controls the throttle valve in order to constantly maintain an ideal idle speed.
+4) TRAC Throttle Control
+As part of the TRAC system, the throttle valve is closed by a demand signal from the skid control ECU
+if an excessive amount of slippage is created at a driving wheel, thus facilitating the vehicle in ensuring
+excellent vehicle stability and driving force.
+5) VSC Coordination Control
+In order to bring the effectiveness of the VSC system control into full play, the throttle valve angle is
+controlled by effecting a coordination control with the skid control ECU.
+6) Cruise Control
+An ECM with an integrated cruise control ECU directly actuates the throttle valve for operation of the
+cruise control.

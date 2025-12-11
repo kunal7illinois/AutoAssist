@@ -1,0 +1,30 @@
+52B-74 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+DTC 64:Passenger(cid:146)s (Front) Air Bag Module (Squib) System Fault for Power Supply Circuit (Short-
+Circuit to Power Supply)
+Driver's Air Bag Module (Squib) Circuit
+NOTE
+: CONNECTOR LOCK SWITCH
+AC106623AB
+CONNECTOR: C-72 CONNECTOR: C-11 PASSENGER'S (FRONT)
+AIR BAG
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH)AC000358AD
+AC000363AE
+CIRCUIT OPERATION DTC SET CONDITIONS
+• The SRS-ECU judges how severe a collision is • This DTC is set if there is abnormal resistance
+by detecting signals from the front air bag analog between the input terminals of the passenger’s
+G-sensor. If the impact is over a predetermined air bag module (squib). However, if no DTC
+level, the SRS-ECU outputs an ignition signal. At resets, the SRS warning light will be switched off
+this time, if the front air bag safing G-sensor is on, (DTC will be retained).
+the SRS air bag will inflate.
+TROUBLESHOOTING HINTS
+• The ignition signal is input to the air bag module
+• Damaged harness wires and connectors
+via the clock spring to inflate the air bag.
+• Short to the power supply in the passenger’s air
+bag module (squib) harness
+• Malfunction of the SRS-ECU
+.
+TSB Revision

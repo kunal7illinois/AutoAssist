@@ -1,0 +1,45 @@
+BE-136 BODY ELECTRICAL - THEFT DETERRENT SYSTEM
+(cid:4)SYSTEM OPERATION
+The states of the theft deterrent system are as follows:
+Theft
+State Description
+detection
+Disarmed State The theft deterrent system is not set by the user. —
+The standby state before the theft deterrent system activates
+Armed Preparation State —
+when the system has already set.
+The theft deterrent system is being activated. (Theft can be
+Armed State (cid:5)
+detected.)
+Alarm State Theft has been detected and the warning operation activates. (cid:5)
+Disarmed State
+(3) (1)
+Armed Preparation State
+(2)
+(5)
+Armed State
+(6) (4)
+(5)
+Alarm State
+187BE40
+The theft deterrent system activates as described in the diagram below when one of items in the chart occurs
+in order to cause the system to enter the respective state.
+Condition Item
+(cid:3) There is no ignition key in the ignition key cylinder.*1
+(cid:3) Key is in the actuation area.*2
+(1) (cid:3) All doors, engine hood and trunk lid are closed.
+(cid:3) All doors are locked using the transmitter lock button, the smart key system, or
+mechanical key.
+The system state is switched when the doors, engine hood, and trunk lid are all closed and
+(2)
+locked, and 30 seconds have elapsed.
+The system state is switched when one of the following conditions is met.
+(cid:3) Any door, engine hood, or trunk lid is opened.
+(cid:3) Any door is unlocked.
+(3)
+(cid:3) The ignition key is inserted in the ignition key cylinder.*1
+(cid:3) The engine switch is pushed.*2
+(cid:3) A terminal is disconnected from the battery and reconnected.
+*1: Models without smart key system
+*2: Models with smart key system
+(Continued)

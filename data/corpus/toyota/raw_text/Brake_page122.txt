@@ -1,0 +1,69 @@
+BC–116
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+4. INITIAL CHECK
+(a) When the vehicle speed first becomes
+approximately 4 mph (6 km/h) or more after the
+ignition switch is turned on (IG), each solenoid valve
+and motor of the brake actuator is sequentially
+activated to perform an electrical check. During the
+initial check, the operating sound of solenoid valve
+and motor can be heard from the engine
+compartment, but this is not a malfunction.
+5. INSPECTION MODE
+(a) VSC operation can be disabled by operating the
+intelligent tester.
+HINT:
+Refer to the intelligent tester operator's manual for
+further details.
+6. FUNCTION OF COMPONENTS
+Components Function
+BC Speed sensor Detects the wheel speed and sends the signal to the skid control ECU.
+• Processes the signals sent from each sensor to control the ABS, BA, TRAC,
+and VSC.
+Skid control ECU
+• Sends and receives the control signals to or from the ECM, yaw rate and
+(housed in brake actuator assembly)
+acceleration sensor, and steering angle sensor, etc. via CAN
+communication.
+• Consists of the master cylinder cut solenoid valve, retention solenoid valve,
+pressure reduction solenoid valve, pump motor, and reservoir, and adjusts
+Brake actuator assembly
+the brake fluid pressure applied to each wheel cylinder.
+• Houses the skid control ECU.
+• Supplies power to each solenoid.
+Solenoid relay
+• Housed in the skid control ECU.
+Motor relay (VSC NO. 2 relay) Supplies power to the pump motor.
+Fail safe relay (VSC NO. 1 relay) Cuts off power to the motor when the pump motor circuit malfunctions.
+• Installed in the combination switch.
+• Detects the steering amount and direction and sends the signals to the skid
+control ECU via CAN communication.
+Steering angle sensor
+• Has the magnetic resistance element which detects the rotation of the
+magnet housed in the detection gear in order to detect the changes of
+magnetic resistance and the steering amount and direction.
+• Acceleration sensor measures the capacity of the condenser that changes
+the distance between the electrodes depending on G force, which occurs
+when the vehicle is accelerated, and converts the measured value into
+electrical signals.
+Yaw rate and acceleration sensor
+• Yaw rate sensor detects the vehicle's angular velocity (yaw rate) in the
+vertical direction based on the amount and direction of the piezoelectric
+ceramics deflection.
+• Sends signals to the skid control ECU via CAN communication.
+• Detects the fluid pressure in the master cylinder.
+Master cylinder pressure sensor
+• Housed in the brake actuator assembly.
+Detects the brake operating conditions and inputs the results to the skid control
+Stop light switch
+ECU.
+Controls the engine output when TRAC and VSC are operating with the skid
+ECM
+control ECU via CAN communication.
+Skid control buzzer Intermittently sounds to inform the driver that the VSC is operating.
+• Comes on to inform the driver that a malfunction in the ABS or BA has
+ABS warning light occurred.
+• Blinks to output DTC.
+• Comes on to inform the driver that the parking brake is ON when the system
+BRAKE warning light is normal, or the brake fluid has decreased.
+• Comes on to inform the driver that a malfunction in the EBD has occurred.

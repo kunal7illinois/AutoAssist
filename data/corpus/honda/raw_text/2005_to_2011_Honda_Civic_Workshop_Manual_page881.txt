@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+20, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals between A/T clutch pressure control solenoid valve C and the PCM,
+then go to step 1. If the HDS indicates NOT COMPLETED, go to step 19.
+22. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+23. Start the engine, and wait for at least 1 second.
+24. Check for DTCs with the HDS.
+Is DTC P0970 indicated?
+YES -Check for poor connections or loose terminals between A/T clutch
+pressure control solenoid valve C and the PCM. If the PCM was updated,
+substitute a known-good PCM (see SUBSTITUTING THE PCM ), then go to
+step 23. If the PCM was substituted, go to step 1.
+NO -Go to step 25.
+25. Monitor the OBD STATUS for P0970 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM (see ECM/PCM REPLACEMENT ). If
+any other DTCs were indicated in step 24, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals between A/T clutch pressure control solenoid valve C and the PCM.
+If the PCM was updated, substitute a known-good PCM (see
+SUBSTITUTING THE PCM ), then go to step 23. If the PCM was
+substituted, go to step 1. If the HDS indicates NOT COMPLETED, go to step
+23.

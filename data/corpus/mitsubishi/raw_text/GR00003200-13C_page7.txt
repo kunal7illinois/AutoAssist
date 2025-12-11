@@ -1,0 +1,44 @@
+FUEL SUPPLY 13C-7
+FUEL SUPPLY DIAGNOSIS
+STEP 4. Check the fuel pump module operation.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Check the operating of the fuel pump by using scan tool
+MB991502 to force-drive the fuel pump.
+16 PIN
+MB991502
+AC000077AB
+(2) If the fuel pump will not operate, check by using the
+following procedure. If normal, check the fuel pump drive
+circuit.
+a. Turn the ignition switch to the "LOCK" (OFF) position.
+b. Remove the fuel pump relay, and apply battery voltage
+to harness-side connector terminal number 2. Check
+that an operating sound can be heard from the fuel
+pump.
+NOTE: As the fuel pump is an in-tank type, the fuel
+FUEL PUMP RELAY
+pump sound is hard to hear. Remove the fuel tank filler
+AC000230AB
+tube cap and check from the tank inlet.
+c. Check for fuel pressure by pinching the fuel hose with
+fingertips.
+d. Install the fuel pump relay.
+Q:Is the fuel pump module operation in good condition?
+YES : Then go to Step 5.
+NO : Replace. Then go to Step 6.
+STEP 5. Check the inside of the fuel tank for contamination
+and rust.
+(1) Draining fuel.
+(2) Fuel tank removal. (Refer to P.13C-11.)
+Q:Is the fuel tank in good condition?
+YES : Go to Step 6.
+NO : Replace the fuel filter, and clean the fuel tank and fuel
+line. Then go to Step 6 .
+STEP 6. Check symptoms.
+Q:Is the engine malfunction eliminated?
+YES : Finish.
+NO : Return to Step 1.
+TSB Revision

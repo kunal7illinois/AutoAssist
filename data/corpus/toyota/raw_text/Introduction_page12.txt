@@ -1,0 +1,43 @@
+IN–12
+INTRODUCTION – REPAIR INSTRUCTION
+(1) Use the formula below to calculate special
+L1 L2
+torque values for situations where SST or an
+extension tool is combined with the torque
+wrench.
+Formula:
+T' = L2/(L1 + L2) * T
+IN
+T' Reading of torque wrench {N*m
+(kgf*cm, ft.*lbf)}
+T Torque {N*m (kgf*cm, ft.*lbf)}
+D001201E01 L1 Length of SST or extension tool {cm
+(in.)}
+L2 Length of torque wrench {cm (in.)}
+NOTICE:
+If an extension tool or SST is combined with
+a torque wrench and the wrench is used to
+tighten to a torque specification in this
+manual, the actual torque will be excessive
+and parts will be damaged.
+2. FOR VEHICLES EQUIPPED WITH SRS AIRBAG AND
+SEAT BELT PRETENSIONER
+The CAMRY is equipped with a Supplemental Restraint
+System (SRS).
+CAUTION:
+Failure to carry out the service operations in the
+correct sequence could cause the SRS to
+unexpectedly deploy during servicing and lead to
+serious injury. Furthermore, if a mistake is made
+when servicing SRS, it is possible that the SRS may
+fail to operate properly. Before servicing (including
+removal or installation of parts, inspection or
+replacement), be sure to read the following section
+carefully.
+(a) GENERAL NOTICE
+(1) As malfunctions of the SRS are difficult to
+confirm, the Diagnostic Trouble Codes (DTCs)
+become the most important source of
+information when troubleshooting. When
+troubleshooting the SRS, always check the
+DTCs before disconnecting the battery.

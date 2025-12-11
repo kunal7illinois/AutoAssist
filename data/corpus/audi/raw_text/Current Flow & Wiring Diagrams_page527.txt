@@ -1,0 +1,56 @@
+Audi TT No. 61 / 6
+Current Flow Diagram
+Suppression filter, Main relay, Engine control unit
+88
+C24 Suppression filter
+J271 Main relay
+6.0
+J623 Engine control unit
+rt
+SC32 Fuse 32 on fuse holder C
+SC36 Fuse 36 on fuse holder C
+32 36 T94 94-pin connector
+SC32 SC36
+366 Earth connection 1, in main wiring harness
+32a 3366aa
+379 Earth connection 14, in main wiring harness
+4466 0.5
+rt/sw
+6.0 1.0 T94 672 Earth point 2, on front of left longitudinal member
+/92
+rt/ge rt/sw
+J623
+B298 Positive connection 2 (30), in main wiring harness
+T94 T94 T94 T94 T94 T94
+8 4 /69 /28 /87 /1 /2 /4 * Relay and fuse carrier, in E-box in engine compartment
+87 86 85 85 15 31 31 31
+*
+J271
+2 6
+30 85 0.5 0.5 2.5 2.5 2.5
+sw/ge sw/bl br br br
+6.0 0.5
+rt sw/gr
+5522 3300
+B298 379
+2.5
+rt
+6.0
+rt
+2233 2
+C24
+1
+31 110000 223333
+ws = white
+2.5 2.5 2.5 2.5 sw = black
+br br br br
+ro = red
+366 br = brown
+gn = green
+6.0 bl = blue
+br gr = grey
+672 li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 or = orange
+8J0-061060410 rs = pink
+04.2010

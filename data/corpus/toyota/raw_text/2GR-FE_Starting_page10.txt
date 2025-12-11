@@ -1,0 +1,37 @@
+ST–10
+2GR-FE STARTING – SMART KEY SYSTEM
+Transmitting ECU Receiving ECU
+Signal Communication method
+(Transmitter) (Receiver)
+Starter signal
+ECM Main body ECU Shift position signal CAN
+Engine revolution speed signal
+Engine switch position signal
+Courtesy light switch signal
+Main body ECU Certification ECU CAN
+Wireless door lock buzzer
+request signal
+Main body ECU Combination meter Entry start key signal CAN
+Wireless door lock buzzer
+Main body ECU Combination meter CAN
+request signal
+Certification ECU Main body ECU Illumination light request signal CAN
+Certification ECU Driver seat ECU Memory call replay request signal CAN
+Certification ECU Main body ECU Light answer back signal CAN
+Meter buzzer single-shot request
+signal
+Meter buzzer intermittence
+request signal
+Meter buzzer continuation
+request signal
+Certification ECU Combination meter Door open display signal CAN
+Key loss warning signal
+Low key battery warning signal
+Shift position warning signal
+Steering lock abnormal warning
+Steering lock unlock warning
+Combination meter Certification ECU/Main body ECU Vehicle speed signal CAN
+Shift lock control ECU Main body ECU Shift position signal CAN/Local communication
+Certification ECU Main body ECU Key ID matching request signal LIN
+Main body ECU Certification ECU ID required signal LIN
+ST

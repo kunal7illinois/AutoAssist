@@ -1,0 +1,40 @@
+ST–137
+2GR-FE STARTING – SMART KEY SYSTEM
+4 CHECK WIRE HARNESS (MAIN BODY ECU - BODY GROUND)
+(a) Disconnect the IF and IM ECU connectors.
+Wire Harness Side:
+(b) Measure the resistance according to the value(s) in the
+IM
+table below.
+Standard resistance
+Main Body ECU
+Tester Connection
+Condition Specified Condition
+(Symbols)
+GND2 IF-10 (GND1) - Body
+Always Below 1 Ω
+ground
+IM-9 (GND2) - Body
+Always Below 1 Ω
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+IF
+GND1
+B138008E01
+OK
+5 INSPECT RELAY (ACC RELAY)
+(a) Remove the ACC relay from the instrument panel J/B.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Specified Condition
+3 - 5 10 kΩ or higher
+Below 1 Ω (when battery voltage is applied to
+3 - 5
+terminals 1 and 2)
+A092673 NG REPLACE RELAY
+OK
+6 CHECK WIRE HARNESS (INSTRUMENT PANEL J/B - MAIN BODY ECU)
+ST
+(a) Disconnect the E7 ECU connector.

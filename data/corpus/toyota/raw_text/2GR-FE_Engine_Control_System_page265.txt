@@ -1,0 +1,56 @@
+ES–265
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+EVAP pressure during EVAP key-off monitor
+ON
+ON: Open
+Purge VSV
+OFF: Closed
+ON
+ON: Closed
+Vent Valve
+ON ON: Vent
+Pump
+EVAP Pressure
+(mmHg)
+760
+752
+OK
+Malfunction
+ES
+724
+Sequence A B C D E
+Time 10 seconds 60 Within 15 minutes 10 60
+seconds seconds seconds
+A138478E01
+The leak detection pump creates negative pressure through the reference orifice. When the system is
+normal, the EVAP pressure is in 724 to 752 mmHg* and saturated within a minute.
+If not, the ECM interprets this as a malfunction. The ECM will illuminate the MIL and set DTC if this
+malfunction is detected in consecutive drive cycle.
+*: Typical valve
+MONITOR STRATEGY
+P043E: 0.02 inch orifice clog (built-in pump module)
+P043F: 0.02 inch orifice high-flow (built-in pump module)
+Related DTCs P2401: Vacuum pump stuck OFF
+P2402: Vacuum pump stuck ON
+P2419: Vent valve stuck open (vent)
+Required Sensors / Components Pump module
+Frequency of Operation Once per driving cycle
+Duration Within 2 minutes
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+The monitor will run whenever these DTCs are not
+None
+present
+EVAP key-off monitor is run when all of the following
+-
+conditions are met
+Atmospheric pressure 70 to 110 kPa (525 to 825 mmHg)
+Battery voltage 10.5 V or more
+Vehicle speed Below 2.5 mph (4 km/h)
+Ignition switch OFF
+Time after key-off 5 or 7 or 9.5 hours
+EVAP pressure sensor malfunction (P0450, P0451,
+Not detected
+P0452, P0453)
+EVAP canister purge valve Not operated by scan tool

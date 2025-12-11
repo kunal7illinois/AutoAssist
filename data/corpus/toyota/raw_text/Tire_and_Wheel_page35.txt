@@ -1,0 +1,48 @@
+TW–34
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+Measurement item/
+Item Normal Condition Diagnostic Note
+Range (Display)
+ID5 temperature in tire/
+TIRE TEMP5 min.: -40°C (-40°F), Actual tire temperature -
+max.: 215°C (419°F)
+ID1 battery voltage/
+BATT VOLT1 OVER -
+OVER or LESS
+ID2 battery voltage/
+BATT VOLT2 OVER -
+OVER or LESS
+ID3 battery voltage/
+BATT VOLT3 OVER -
+OVER or LESS
+ID4 battery voltage/
+BATT VOLT4 OVER -
+OVER or LESS
+ID5 battery voltage/
+BATT VOLT5 OVER -
+OVER or LESS
+Select switch setting information/
+SELECT SW INFO WITH or WITHOUT -
+WITH or WITHOUT
+Tire pressure warning reset switch setting
+TW
+INITIAL SW INFO information/ WITH or WITHOUT -
+WITH or WITHOUT
+ID1 initial threshold of low-pressure/
+INIT THRESHOLD1 min.: 0 kPa (0 kgf/cm2, 0 psi), Tire pressure after initialization -
+max.: 637.5 kpa (6.48 kgf/cm2, 92.2 psi)
+ID2 initial threshold of low-pressure/
+INIT THRESHOLD2 min.: 0 kpa (0 kgf/cm2, 0 psi), Tire pressure after initialization -
+max.: 637.5 kpa (6.48 kgf/cm2, 92.2 psi)
+ID3 initial threshold of low-pressure/
+INIT THRESHOLD3 min.: 0 kpa (0 kgf/cm2, 0 psi), Tire pressure after initialization -
+max.: 637.5 kpa (6.48 kgf/cm2, 92.2 psi)
+ID4 initial threshold of low-pressure/
+INIT THRESHOLD4 min.: 0 kpa (0 kgf/cm2, 0 psi), Tire pressure after initialization -
+max.: 637.5 kpa (6.48 kgf/cm2, 92.2 psi)
+ID5 initial threshold of low-pressure/
+INIT THRESHOLD5 min.: 0 kpa (0 kgf/cm2, 0 psi), Tire pressure after initialization -
+max.: 637.5 kpa (6.48 kgf/cm2, 92.2 psi)
+Number of DTC recorded/
+# CODES Min.: 0, Max.: - -
+min.: 0, max.: 255

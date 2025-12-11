@@ -1,0 +1,25 @@
+ES–396
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Result
+Display (DTC Output) Proceed to
+P2A00 and/or P2A03 A
+No output B
+B REPLACE ECM (See page ES-518)
+A
+6 REPLACE AIR FUEL RATIO SENSOR
+(a) Replace the air fuel ratio sensor (See page EC-19).
+NEXT
+ES
+7 PERFORM CONFIRMATION DRIVING PATTERN
+NEXT
+8 CHECK WHETHER DTC OUTPUT RECURS (DTC P2A00 AND/OR P2A03)
+(a) Read the DTCs using the intelligent tester.
+(b) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DTC INFO / CURRENT CODES.
+Result
+Display (DTC Output) Proceed to
+No output A
+P2A00 and/or P2A03 B
+B REPLACE ECM (See page ES-518)
+A
+END

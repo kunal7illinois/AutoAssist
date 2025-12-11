@@ -1,0 +1,90 @@
+BC–153
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Measurement Item / Range
+Item (Display) Normal Condition Diagnostic Note
+(Display)
+ABS solenoid (SRLR) / ON or
+SRLR ON: Operates -
+OFF
+ABS solenoid (SRLH) / ON or
+SRLH ON: Operates -
+OFF
+Master cut solenoid (SM1) / ON
+SM1 ON: Operates -
+or OFF
+Master cut solenoid (SM2) / ON
+SM2 ON: Operates -
+or OFF
+Maximum wheel speed sensor
+VEHICLE SPD reading / min.: 0 mph (0 km/h), Actual vehicle speed Speed indicated on speedometer
+max.: 202 mph (326 km/h)
+Yaw rate sensor 1 / min.: -128 Min.: -128 deg/s
+YAW RATE SENS 1 -
+deg/s, max.: 127 deg/s Max.: 127 deg/s
+Memorized zero value / min.: - Min.: -128 deg/s
+ZERO YAW RATE -
+128 deg/s, max.: 127 deg/s Max.: 127 deg/s
+Steering angle sensor / min.: - Left turn: Increase
+STEERING SEN -
+3,276.8 deg, max.: 3,276.7 deg Right turn: Decrease
+Master cylinder pressure sensor When brake pedal is released: Reading increases when brake BC
+MAS CYL PRESS 1
+1 reading / min.: 0 V, max.: 5 V 0.3 to 0.5 V pedal is depressed
+The difference of a present
+ACCELERATOR % accelerator / min.: 0%, max.: - -
+128%
+Real engine torque / min.: -1,024
+ENGINE TORQUE - -
+N*m, max.: 1,023 N*m
+FR speed sensor open detection / ERROR: Momentary interruption
+FR SPD OPN -
+ERROR or NORMAL NORMAL: Normal
+FL speed sensor open detection / ERROR: Momentary interruption
+FL SPD OPN -
+ERROR or NORMAL NORMAL: Normal
+RR speed sensor open detection ERROR: Momentary interruption
+RR SPD OPN -
+/ ERROR or NORMAL NORMAL: Normal
+RL speed sensor open detection / ERROR: Momentary interruption
+RL SPD OPN -
+ERROR or NORMAL NORMAL: Normal
+Yaw rate sensor open detection / ERROR: Momentary interruption
+YAW RATE OPN -
+ERROR or NORMAL NORMAL: Normal
+Acceleration sensor open ERROR: Momentary interruption
+DECELERAT OPN -
+detection / ERROR or NORMAL NORMAL: Normal
+Steering angle sensor open ERROR: Momentary interruption
+STEERING OPN -
+detection / ERROR or NORMAL NORMAL: Normal
+Master cylinder pressure sensor
+ERROR: Momentary interruption
+M/C OPN open detection / ERROR or -
+NORMAL: Normal
+NORMAL
+EFI communication open ERROR: Momentary interruption
+EFI COM OPN -
+detection / ERROR or NORMAL NORMAL: Normal
+Number of DTC / min.: 0, max.:
+#DTC - -
+255
+ON: Warning light ON
+ABS WARN LAMP ABS warning light / ON or OFF -
+OFF: Warning light OFF
+ON: Warning light ON
+BRAKE WARN LAMP BRAKE warning light / ON or OFF -
+OFF: Warning light OFF
+ON: Indicator light ON
+SLIP INDI LAMP SLIP indicator light / ON or OFF -
+OFF: Indicator light OFF
+ON: Buzzer ON
+BUZZER Skid control buzzer / ON or OFF -
+OFF: Buzzer OFF
+VSC warning light (*1) or multi
+ON: Indicator ON
+VSC WARN LAMP information display (*2) / ON or -
+OFF: Indicator OFF
+OFF
+Memorized zero value / min.: - Min.: -12.5 MPa
+ZERO M/C SEN -
+12.5 MPa, max.: 12.4 MPa Max.: 12.4 MPa

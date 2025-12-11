@@ -1,0 +1,13 @@
+TW–62
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+DTC C2177/77 Initialization not Completed
+DESCRIPTION
+Initialization is necessary after replacing any of the ECU, tires with different tire pressure, or tire pressure
+warning valve and transmitter, after rotating the tires or when a new vehicle is delivered.
+DTC No. DTC Detection Condition Trouble Area
+• Tire pressure warning valve and transmitter
+Initialization is not completed after vehicle speed of 5 • Tire pressure warning ECU
+C2177/77 mph (8 km/h) or more continues for 20 minutes or more • Tire pressure warning antenna and receiver
+(total). • Tire pressure warning reset switch
+• Wire harness or connector
+TW

@@ -1,0 +1,31 @@
+ES–211
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Engine Speed
+“F”
+Between 1,400 rpm
+and 3,200 rpm Between 38 mph and
+75 mph (60 km/h and
+120 km/h)
+Idling “E”
+Ignition Switch off 2 minutes 3 to 5 minutes
+Time
+“A”, “B”, “C”, “D” ES
+A079199E68
+HINT:
+If the system is still malfunctioning, the MIL will be
+illuminated during procedure "F".
+NOTICE:
+If the conditions in this test are not strictly followed,
+no malfunction will be detected.
+NEXT
+16 CHECK WHETHER DTC OUTPUT RECURS (DTC P0171, P0172, P0174 OR P0175)
+(a) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / PENDING CODES.
+(b) Read the DTCs.
+Result
+Display (DTC Output) Proceed to
+No output A
+P0171, P0172, P0174 or P0175 B
+B Go to step 5
+A
+END

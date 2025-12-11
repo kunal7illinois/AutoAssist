@@ -1,0 +1,39 @@
+AV–8
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+• If the audio system has a navigation system
+installed, the multi-display unit acts as the
+master unit. If the navigation system is not
+installed, the audio head unit acts as the
+master unit instead. If the radio and
+navigation assembly is installed, it is the
+master unit.
+• The radio receiver contains a resistor that is
+necessary to enable communication on the
+different AVC-LAN circuits.
+• The car audio system with an AVC-LAN
+circuit has a diagnostic function.
+• Each component has a specified number (3-
+digit) called a physical address. Each function
+has a number (2-digit) called a logical
+address.
+4. COMMUNICATION SYSTEM OUTLINE
+(a) Components of the audio system communicate with
+each other via the AVC-LAN.
+(b) The master component of the AVC-LAN is a radio
+receiver with a 60 to 80 Ω resistor. This is essential
+for communication.
+(c) If a short circuit or open circuit occurs in the AVC-
+LAN circuit, communication is interrupted and the
+audio system will stop functioning.
+5. DIAGNOSTIC FUNCTION OUTLINE
+(a) The audio system has a diagnostic function (the
+result is indicated on the master unit).
+(b) A 3-digit hexadecimal component code (physical
+address) is allocated to each component on the
+AVC-LAN. Using this code, the component in the
+diagnostic function can be displayed.
+6. "BLUETOOTH" OUTLINE
+(a) "Bluetooth" is a trademark owned by Bluetooth SIG.
+Inc.
+E100921
+AV

@@ -1,0 +1,47 @@
+CC–23
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+With Smart Key System:
+A19
+Stop Light Switch
+ECM
+36 36
+STOP SW 2 1
+A24 A55 STP
+*2 *1
+IG
+35 35
+IGN
+3 4
+A24 A55 ST1-
+*2 *1
+IG2 MAIN
+RHJ/B-AM ALT
+Battery
+*1: 2GR-FE
+*2: 2AZ-FE
+E129951E01
+INSPECTION PROCEDURE
+1 READ VALUE ON INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG), and turn the intelligent
+tester main switch on. CC
+(c) Check the DATA LIST for proper functioning of the stop
+light switch.
+ECM (Cruise control):
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Stop light switch signal (Main ON: Brake pedal depressed
+STP LIGHT SW M (STP) -
+CPU) / ON or OFF OFF: Brake pedal released
+Stop light switch signal (Sub ON: Brake pedal depressed
+STP LIGHT SW S2 (STP) -
+CPU) / ON or OFF OFF: Brake pedal released
+Stop light switch signal (Sub ON: Brake pedal depressed
+STP LIGHT SW S1 (ST1-) -
+CPU) / ON or OFF OFF: Brake pedal released
+OK:
+When the brake pedal is operated, the display
+changes as shown above.
+OK REPLACE ECM
+NG

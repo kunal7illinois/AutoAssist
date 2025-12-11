@@ -1,0 +1,36 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+5 - Ambient temperature sensor -G17-
+❑ The measured value of the ambient temperature sensor -G17- is not used by the heater operating unit,
+Climatronic control unit -J255- for heater regulation. Its measured value is however used to calculate the
+permissible ON time for the heated rear window -Z1- .
+❑ The measured value of the ambient temperature sensor -G17- is evaluated by the control unit with display
+in dash panel insert -J285- and transmitted by way of the convenience data bus system to the heater
+operating unit, Climatronic control unit -J255- ⇒ "Guided fault-finding" function of vehicle diagnostic,
+testing and information system VAS 5051 .
+Removing and installing:
+– Remove the bumper cover ⇒ General body repairs, exterior; Rep. Gr. 50 .
+– Unplug the connector at the temperature sensor and unclip the temperature sensor from the mount in
+the air duct.
+6 - Connections for coolant hoses to heating system heat exchanger
+❑ Detaching coolant hoses from connections to heating system heat exchanger/attaching ⇒ page 114
+(removing and installing air conditioner heat exchanger)
+❑ For incorporation of heating system heat exchanger into engine coolant circuit, refer to ⇒ Engine, me‐
+chanics; Rep. Gr. 19 .
+7 - Plenum chamber water drains
+❑ One water drain each is fitted on the left and right in the plenum chamber.
+❑ Removing/installing grommet, checking and cleaning ⇒ page 67 .
+8 - Heated rear window -Z1-
+❑ The rear window heating request is transmitted by the heater operating unit, Climatronic control unit -
+J255- via the convenience data bus. The heated rear window -Z1- is actuated by way of the onboard
+supply control unit -J519- ⇒ "Guided fault-finding" function of vehicle diagnostic, testing and information
+system VAS 5051 and ⇒ Current flow diagrams, Electrical fault finding and Fitting locations.
+❑ Notes on operation of heated rear window ⇒ page 27
+❑ Removing and installing rear window ⇒ General body repairs, exterior; Rep. Gr. 64 .
+2 .2 Components located in passenger com‐
+partment
+♦ Component group “1” (components on left side) ⇒ page 6
+♦ Component group “2” (components on right side)
+⇒ page 8
+5
+2. Components for control and regulation of heater

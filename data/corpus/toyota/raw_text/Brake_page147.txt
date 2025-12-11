@@ -1,0 +1,37 @@
+BC–141
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+2. Terminal Inspection
+(a) Disconnect the connector and measure the voltage
+or resistance on the wire harness side.
+Skid Control ECU Harness
+Side Connector Front View:
+A26
+F049377E11
+HINT:
+Voltage cannot be measured with the connector
+connected to the skid control ECU because the
+connector is watertight.
+Standard BC
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+GND2 (A26-1) - Body
+W-B - Body ground Pump motor ground Ignition switch off Below 1 Ω
+ground
+Stop light switch ON →
+STP (A26-27) - Body
+P - Body ground Stop light switch input OFF (Brake pedal 8 to 14 V → Below 1.5 V
+ground
+depressed → released)
+Ignition switch on (IG),
+BZ (A26-30) - Body
+R - Body ground Buzzer output when buzzer not 6 to 10 V
+ground
+sounding
++BS (A26-31) - Body Solenoid relay power
+L - Body ground Always 10 to 14 V
+ground supply
+GND1 (A26-32) - Body Skid control ECU
+W-B - Body ground Always Below 1 Ω
+ground ground
+IG1 (A26-46) - Body
+P - Body ground IG1 power supply Ignition switch on (IG) 10 to 14 V
+ground

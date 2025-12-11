@@ -1,0 +1,59 @@
+CA–23
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+(3) Measure the resistance according to the
+ECM Wire Harness View:
+value(s) in the table below.
+A55 CANH C55
+BATT
+CANL E1
+C136709E06
+Standard resistance
+Terminals Wiring Color Terminal Description Condition Specified Condition
+HIGH-level CAN bus wire -
+A55-41 (CANH) - A55-49 (CANL) B - W Ignition Switch off 108 to 132 Ω
+LOW-level CAN bus wire
+HIGH-level CAN bus wire -
+A55-41 (CANH) - C55-81 (EC) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+LOW-level CAN bus wire -
+A55-49 (CANL) - C55-81 (EC) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+HIGH-level CAN bus wire -
+A55-41 (CANH) - A55-20 (BATT) B - Y Ignition Switch off 6 kΩ or higher
+Battery positive CA
+LOW-level CAN bus wire -
+A55-49 (CANL) - A55-20 (BATT) W - Y Ignition Switch off 6 kΩ or higher
+Battery positive
+9. AIR CONDITIONING AMPLIFIER
+Air Conditioning Amplifier (Wire Harness
+(a) Check the harness side connector (E38) of the air
+Side):
+conditioning amplifier.
+(1) Disconnect the connector (E38) from the air
+E38
+conditioning amplifier.
+(2) Measure the resistance according to the
+value(s) in the table below.
+B
+GND CANL CANH
+E124470E20
+Standard resistance
+Terminals Wiring Color Terminal Description Condition Specified Condition
+HIGH-level CAN bus wire -
+E38-11 (CANH) - E38-12 (CANL) B - W Ignition Switch off 54 to 69 Ω
+LOW-level CAN bus wire
+HIGH-level CAN bus wire -
+E38-11 (CANH) - E38-14 (GND) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+LOW-level CAN bus wire -
+E38-12 (CANL) - E38-14 (GND) W - W-B Ignition Switch off 200 Ω or higher
+Ground
+HIGH-level CAN bus wire -
+E38-11 (CANH) - E38-21 (B) B - GR Ignition Switch off 6 kΩ or higher
+Battery positive
+LOW-level CAN bus wire -
+E38-12 (CANL) - E38-21 (B) W - GR Ignition Switch off 6 kΩ or higher
+Battery positive
+10. COMBINATION METER ECU
+(a) Disconnect the F1 connector from the combination
+meter.

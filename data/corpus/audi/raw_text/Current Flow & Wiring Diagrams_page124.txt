@@ -1,0 +1,57 @@
+Audi TT No. 10 / 4
+Current Flow Diagram
+Tyre pressure monitor control unit 2, tyre pressure monitor
+button, tyre pressure monitor warning lamp
+E226 Tyre pressure monitor button
+E461 Operating unit in front of centre console
+J285 Control unit in dash panel insert
+J519 Onboard supply control unit
+J533 Data bus diagnostic interface
+J793 Tyre pressure monitor control unit 2
+K220 Tyre pressure monitor warning lamp
+L156 Switch illumination bulb
+T12c 12-pin connector, black, connector B, on onboard power supply
+control unit
+T16b 16-pin connector, brown, on switch module centre console
+T18c 18-pin connector, black, on tyre pressure monitor control unit 2
+T20d 20-pin connector, black, on data bus diagnostic interface
+T32 32-pin connector, blue, on control unit in dash panel insert
+T52b 52-pin connector, yellow, on onboard supply control unit
+44 Earth point, lower part of left A-pillar
+J793 384 Earth connection 19, in main wiring harness
+B340 K220 J285
+T18c/8 394 Earth connection 29, in main wiring harness
+0,5 0,5 T32/29 T32/30 B340 Connection 1 (58s), in main wiring harness
+gr/bl gr/bl
+58s
+B341 T52b/51✱✱ B341 Connection 2 (58s), in main wiring harness
+T12c/12✱
+J519 • • • CAN bus (data wire)
+0,35 0,35 0,35 0,35 * up to May 2009
+ge/bl gr/bl or/bl or/br
+** from June 2009
+58s
+E461
+T16b/13 T16b/1
+E226 L156 T
+/1
+2
+8
+0d
+T20d/8
+384 J533
+T16b/2 T16b/8 T20d/6 T20d/16 ws = white
+31 31 sw = black
+• • ro = red
+0,35 0,35 1,0 1,5 0,35 0,35
+br br br br or/br or/sw br = brown
+gn = green
+394 bl = blue
+2233 2288
+gr = grey
+44 li = purple
+ge = yellow
+29 30 31 32 33 34 35 36 37 38 39 40 41 42 or = orange
+8J0-010040409
+rs = pink
+Edition 04.2009

@@ -1,0 +1,40 @@
+13A-60 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check the sensor output voltage at barometric
+pressure sensor connector B-14 by backprobing.
+(1) Do not disconnect the connector B-14.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 2 and ground by
+backprobing.
+• When altitude is 0 m (0 foot), voltage should be 3.7 and
+4.3 volts.
+B-14 CONNECTOR • When altitude is 600 m (1,969 feet), voltage should be
+HARNESS 3.4 and 4.0 volts.
+SIDE VIEW • When altitude is 1,200 m (3,937 feet), voltage should be
+1 2 3 4 5 6 7 3.2 and 3.8 volts.
+• When altitude is 1,800 m (5,906 feet), voltage should be
+2.9 and 3.5 volts.
+AKX01520AC
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 3.
+NO : Go to Step 5.
+STEP 3. Check connector B-14 at the barometric pressure
+sensor and connector C-60 at ECM <M/T> or connector C-
+54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : B-14
+YES : Go to Step 4.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+BAROMETRIC
+PRESSURE
+SENSOR
+ACX02480AF
+CONNECTORS:C-60<M/T>,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+TSB Revision

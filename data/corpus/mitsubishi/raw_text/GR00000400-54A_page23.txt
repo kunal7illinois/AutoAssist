@@ -1,0 +1,48 @@
+CHASSIS ELECTRICAL 54A-23
+IGNITION SWITCH
+INSPECTION PROCEDURE 3: Engine does not Start (Cranking but no Initial Combustion).
+. .
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINTS
+If the fuel injectors are not operating, there might be • Malfunction of MFI system
+a problem with the MFI system in addition to a mal- • Malfunction of immobilizer-ECU
+function of the immobilizer system. It is normal for
+this to occur if an attempt is made to start the engine
+using a key that has not been properly registered.
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Harness Set
+• MB991502: Scan Tool
+STEP 1. Check the battery positive voltage.
+Measure the battery positive voltage during cranking.
+Q:Is the voltage 8 volts or more?
+YES : Go to Step 2.
+NO : Check the battery. Refer to P.54A-5. The engine
+should start.
+STEP 2. Check the immobilizer system DTC and MFI
+system DTC.
+Q:Which DTC resets, the immobilizer system DTC or the
+MFI system DTC?
+Immobilizer system DTC : Refer to P.54A-11.
+MFI system DTC : Refer to GROUP 13A − Diagnosis
+<2.4L> P.13A-22 or GROUP 13B − Diagnosis <3.0L>
+P.13B-22.
+No DTC : Go to Step 3.
+STEP 3. Check the starting system.
+Q:Does the engine start?
+YES : Go to Step 4.
+NO : Refer to GROUP 13A − Diagnosis − Symptom Chart
+<2.4L> P.13A-25 or GROUP 13B − Diagnosis −
+Symptom Chart <3.0L> P.13B-26. If a malfunction is
+not resolved, replace the immobilizer-ECU. Then
+register the password (secret code) and encrypted
+code. (Refer to P.54A-28.) The engine should start.
+STEP 4. Recheck for malfunction.
+Q:Is a malfunction eliminated?
+YES : This diagnosis is complete. (If no malfunction are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to INTRODUCTION, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+NO : Replace the immobilizer-ECU.
+TSB Revision

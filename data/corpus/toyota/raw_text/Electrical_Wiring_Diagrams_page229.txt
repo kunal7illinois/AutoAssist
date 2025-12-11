@@ -1,0 +1,58 @@
+Wireless Door Lock Control without Smart Key System
+System Outline
+Door lock control (Lock and unlock) and panic control (Theft alarm and flash) is performed by remote control, without the
+ignition key inserted in the door key cylinder, using low–power electrical waves emitted by a transmitter.
+1. Wireless Door Lock or Unlock Normal Operation
+With the ignition key not inserted into the ignition key cylinder (Unlock warning SW off) and all the doors completely closed,
+when the lock or unlock button (Transmitter) is pushed, the door control receiver receives the electrical waves from the
+transmitter, and sends a signal to the main body ECU, causing it to operate.
+As a result, the main body ECU judges whether the door is locked or unlocked based on the signal from the door lock motor
+and door unlock detection SW, and sends a signal to switch the condition from lock to unlock or vice versa, causing the door
+lock motor to operate.
+2. Visual Confirmation of Lock or Unlock
+If all doors indicate that they are locked after the lock command, turn signal light will flash once. If any door indicates that it is
+open after the unlock command, turn signal light will flash twice.
+3. Buzzer Sound Function
+If all doors indicate that they are locked after the lock command, the keyless buzzer goes on once. If any door indicates that
+it is open after the unlock command, the keyless buzzer goes on twice.
+4. Illuminated Entry Function
+When the main body ECU detects the unlock state after the unlock operation has been made, it turns on the lights, such as
+the ignition key cylinder light and interior light for approx. 15 sec. If all the doors are locked during this operation, lighting is
+cancelled and the lights immediately fade out.
+5. Wireless Door Unlock Operation
+Pushing the unlock button (Transmitter) once, driver’s door is unlocked. Furthermore, pushing the button again within 3
+seconds, the other doors are unlocked.
+6. Automatic Lock Operation
+With the ignition key not inserted into the ignition key cylinder (Unlock warning SW off) and all the doors completely closed,
+after pushing the button (Transmitter) to unlock all the doors, if a door is not opened within 30 seconds, all the doors will be
+automatically relocked.
+7. Wireless Control Stop Function
+If a door is open (Door courtesy SW on), a signal is input from the door courtesy SW to the main body ECU stopping
+wireless door lock or unlock.
+If the ignition key is in the ignition key cylinder (Unlock warning SW on), the unlock warning SW inputs a signal to the main
+body ECU stopping wireless door lock or unlock.
+8. Repeat Function
+If the door lock or unlock condition does not change after wireless door lock or unlock operation, 2 seconds later, the main
+body ECU sends current again to the door lock motor.
+9. Remote Panic Operation
+Panic will function when doors are locked or unlocked, open or closed. When the panic button (Transmitter) is pushed once,
+theft alarm and horn sounds and turn signal light, headlights and taillight flash. Then, the panic or the unlock button
+(Transmitter) is pushed once more, sounding and flashing will stop. Panic will not function when ignition key is in ignition key
+cylinder.
+: Parts Location
+Code See Page Code See Page Code See Page
+A42 B 59 E49 57 N29 60
+49 (2GR–FE) H8 61 O6 60
+AA4488
+53 (2AZ–FE) I7 61 O10 60
+E6 A 56 J5 61 O17 60
+E7 B 56 K5 61 O21 60
+E8 C 56 A 60 Q6 61
+NN66
+E9 D 56 B 60 Q9 61
+E14 56 A 60 S5 61
+NN1133
+E22 56 B 60 S15 61
+E25 56 N28 60
+228
+CAMRY (EM0250U)

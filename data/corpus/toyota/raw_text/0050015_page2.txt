@@ -1,0 +1,37 @@
+ES–80
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+Refer to DTC P0335 (see page ES-172).
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 CHECK VALVE TIMING (CHECK FOR LOOSE AND JUMPED TOOTH OF TIMING CHAIN)
+ES
+(See page ES-77)
+NG Go to step 3
+OK
+2 REPLACE ECM
+NEXT Go to step 4
+3 ADJUST VALVE TIMING
+NEXT
+4 CHECK WHETHER DTC OUTPUT RECURS
+NOTICE:
+After replacing the ECM or adjusting intake valve timing,
+confirm that the DTC output does not recur.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Clear DTCs (see page ES-35).
+(e) Switch the ECM from normal mode to check mode using
+the tester (see page ES-38).
+(f) Start the engine and warm it up.
+(g) Allow the engine to idle for 1 minute or more, and then
+drive the vehicle for 1 minute or more.
+(h) Confirm that no DTC is set, using the tester.
+OK:
+No DTC output
+NEXT
+END

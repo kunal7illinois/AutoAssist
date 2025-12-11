@@ -1,0 +1,36 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-69
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the intake air temperature sensor.
+(1) Disconnect the intake air temperature sensor connector B-
+CONNECTOR : B-14
+14.
+INTAKE AIR
+TEMPERATURE
+SENSOR
+ACX02480AG
+(2) Measure the resistance between intake air temperature
+sensor side connector terminal 5 and 6.
+INTAKE AIR TEMPERATURE
+SENSOR SIDE CONNECTOR • There should be continuity. (0.30 − 1.0 kΩ)
+Q:Is the resistance normal?
+1 2 3 4 5 6 7
+YES : Go to Step 4.
+NO : Replace the volume air flow sensor. Then go to Step
+6.
+AK000319AB
+STEP 4. Check for short circuit to ground between intake
+air temperature sensor connector B-14 and ECM
+connector C-58 <M/T> or PCM connector C-55 <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-14
+YES : Go to Step 5.
+NO : Repair it. Then go to Step 6.
+INTAKE AIR
+TEMPERATURE
+SENSOR
+ACX02480AG
+CONNECTOR : C-58<M/T>, C-55<A/T>
+PCM<A/T> ECM<M/T>
+C-55 C-58
+AK000225AI
+TSB Revision

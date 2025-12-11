@@ -1,0 +1,86 @@
+ES–63
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Measurement Item: Range
+Intelligent Tester Display Normal Condition*1 Diagnostic Note
+(Display)
+Estimated catalyst temperature
+CAT TEMP B2S2 (bank 2 sensor 2): - -
+Min.: -40°C, Max.: 6,513.5°C
+Sub heated oxygen sensor
+S O2S B1S2 impedance (bank 1 sensor 2): - -
+Min.: 0 Ω, Max.: 21,247.68 Ω
+Sub heated oxygen sensor
+S O2S B2S2 impedance (bank 2 sensor 2): - -
+Min.: 0 Ω, Max.: 21,247.68 Ω
+Engine coolant temperature at
+Close to ambient air
+INI COOL TEMP engine start: -
+temperature
+Min.: -40°C, Max.: 120°C
+Intake air temperature at engine
+Close to ambient air
+INI INTAKE TEMP start: -
+temperature
+Min.: -40°C, Max.: 120°C ES
+Injection volume (cylinder 1): Fuel volume injected over 10
+INJ VOL Max.: 0.5 ml
+Min.: 0 ml, Max.: 2.048 ml injections
+Starter signal:
+STARTER SIG ON: Cranking -
+ON or OFF
+Power steering signal:
+PS SW ON: Power steering operation -
+ON or OFF
+ON: When steering wheel is first
+Power steering signal (history): Signal status usually ON until
+PS SIGNAL turned after battery terminals
+ON or OFF battery terminals disconnected
+connected
+Closed throttle position switch: • ON: Throttle fully closed
+CTP SW -
+ON or OFF • OFF: Throttle open
+A/C signal:
+A/C SIGNAL ON: A/C ON -
+ON or OFF
+PNP switch status:
+PNP SW [NSW] ON: P or N position -
+ON or OFF
+Electrical load signal: ON: Headlights or defogger
+ELECT LOAD SIG -
+ON or OFF turned ON
+Stop light switch:
+STOP LIGHT SW ON: Brake pedal depressed -
+ON or OFF
+Whether or not electric throttle
++BM control system power input: ON: Idling -
+ON or OFF
++BM voltage:
++BM VOLTAGE 10 to 15 V: Idling ETCS service data
+Min.: 0, Max.: 19.922
+Battery voltage:
+BATTERY VOLTAGE 9 to 14 V: Idling -
+Min.: 0 V, Max.: 65.535 V
+Actuator power supply:
+ACTUATOR POWER ON: Idling ETCS service data
+ON or OFF
+Atmospheric pressure: Equivalent to atmospheric
+ATM PRESSURE -
+Min.: 0 kPa, Max.: 255 kPa pressure (absolute pressure)
+Battery current:
+BATTERY CURRENT - -
+Min.: -100 A, Max.: 100 A
+Battery temperature:
+BATTERY TEMP - -
+Min.: -45 °C, Max.: 156.4 °C
+Generator output duty ratio:
+ALT OUTPUT DUTY - During charge control
+Min.: 0%, Max.: 100%
+Request output voltage: Not during alternator forced
+ALT V NORMAL 9 to 14 V
+Min.: 0 V, Max.: 20 V activation
+Request output voltage:
+ALT V ACT TST - During alternator forced activation
+Min.: 0 V, Max.: 20 V
+Fuel pump speed control status:
+FUEL PMP SP CTL Idling: ON Active Test support data
+ON or OFF

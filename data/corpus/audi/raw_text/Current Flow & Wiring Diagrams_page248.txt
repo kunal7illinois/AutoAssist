@@ -1,0 +1,46 @@
+Audi TT No. 31 / 9
+Current Flow Diagram
+Roadster, navigation system with CD drive control unit,
+navigation system aerial, TV aerial 3
+J401 Navigation system with CD drive control unit
+R38 Telephone microphone
+R50 Navigation system aerial
+R57 TV aerial 3
+R164 Microphone unit in front roof module
+T4g 4-pin connector, black, on microphone unit in front roof module
+T4x 4-pin connector, black, connector L, on navigation system with
+R50 ✱✱
+CD drive control unit
+* on left windscreen
+** on centre windscreen
+# from June 2008
+A1 A2
+0,5
+sw
+0,4
+J401
+110099
+J1 J2 T4x/1 T4x/2 G1 G2
+0,5 0,35 0,5
+sw sw sw
+0,4 0,35 0,4
+gn
+110099
+0,5 0,35
+sw sw
+B1 B2 T4g/1 T4g/2
+✱
+R57 R38
+ws = white
+sw = black
+R164 # ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+99 100 101 102 103 104 105 106 107 108 109 110 111 112 or = orange
+8J0-031090408
+rs = pink
+Edition 04.2009

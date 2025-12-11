@@ -1,0 +1,48 @@
+IG–6
+2AZ-FE IGNITION – IGNITION SYSTEM
+(9) Install the ignition coil with the bolt.
+Torque:9.0 N*m (92 kgf*cm, 80 in.*lbf)
+(10) Connect the 4 fuel injector connectors.
+(11) Install the No. 1 engine cover.
+(c) Spark test flow chart.
+(1) Check that the ignition coil connector is
+securely connected.
+Result
+Result Proceed to
+NG Connect securely
+OK Go to next step
+(2) Perform the spark test on each ignition coil.
+1. Replace the ignition coil with a normal one.
+2. Perform the spark test again.
+Result
+Result Proceed to
+OK Replace ignition coil
+NG Go to next step
+(3) Check the power supply to the ignition coil.
+1. Disconnect the ignition coil connector.
+2. Turn the ignition switch ON.
+3. Measure the voltage of the wire harness
+side connector.
+Standard voltage
+Tester Connection Specified Condition
+1 (+B) - 4 (GND) 9 to 14 V
+Result
+Result Proceed to
+NG Check wire harness and connector
+OK Go to next step
+(4) Check the resistance of the camshaft position
+A124397 sensor.
+Standard resistance
+Temperature Condition Specified Condition
+IG Cold 835 to 1,400 Ω
+Hot 1,060 to 1,645 Ω
+Result
+Result Proceed to
+NG Replace camshaft position sensor
+OK Go to next step
+(5) Check the resistance of the crankshaft position
+sensor.
+Standard resistance
+Temperature Condition Specified Condition
+Cold 985 to 1,600 Ω
+Hot 1,265 to 1,890 Ω

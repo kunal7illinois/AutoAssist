@@ -1,0 +1,34 @@
+CHASSIS ELECTRICAL 54A-73
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 43. Check each equipment.
+Disconnect auto-cruise control-ECU connector C-20 and com-
+CONNECTOR: C-20
+bination meter connector C-42 in that order one by one. Then
+CENTER REINFORCEMENT check that MFI system DTC P0500 does not reset under any
+conditions.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to "LOCK" (OFF) position before connect-
+AUTO-CRUISE CONTROL-ECU ing or disconnecting scan tool MB991502.
+(1) Connect scan tool to the data link connector.
+(2) Turn the ignition switch to "ON" position.
+AC001687AC
+(3) Read the MFI system diagnostic trouble code.
+CONNECTOR: C-42
+Q:Does MFI system DTC P0500 reset when one of auto-
+cruise control-ECU or combination meter, ECM <M/T> or
+PCM <A/T> is disconnected?
+YES : Go to Step 44.
+NO : Replace the auto-cruise control-ECU, combination
+meter or ECM <M/T> or PCM <A/T> where
+applicable. The speedometer should work normally.
+AC003552AD
+STEP 44. Recheck for malfunction.
+Q:Is a malfunction eliminated?
+YES : This diagnosis is complete. (If no malfunctions are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to GROUP 00, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+NO : Replace the speedometer
+TSB Revision

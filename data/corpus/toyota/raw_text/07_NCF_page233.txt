@@ -1,0 +1,56 @@
+CHASSIS - U660E AUTOMATIC TRANSAXLE CH-69
+9. Flex Lock-up Clutch Control
+(cid:3) In addition to the conventional lock-up timing control, flex lock-up clutch control is used.
+(cid:3) This flex lock-up clutch control regulates solenoid valve SLU as an intermediate mode between the ON
+and OFF operations of the lock-up clutch.
+(cid:3) During acceleration, flex lock-up clutch control operates when the gear position is the 2nd or higher and
+the shift lever is in the D, S6, S5 or S4 range position. During deceleration, it operates when the gear
+position is the 4th or higher and the shift lever is in the D, S6, S5 or S4 range position.
+(cid:3) During acceleration, the partition control of the power transmission between the lock-up clutch and torque
+converter greatly boosts the transmission efficiency in accordance with the driving conditions, improving
+the fuel economy.
+(cid:3) During deceleration, the lock-up clutch is made to operate. Therefore the fuel-cut area is expanded and
+fuel economy is improved.
+(cid:3) By allowing flex lock-up clutch control to continue operating during gearshift, the smooth torque
+transmission has been obtained. As a result, the fuel economy and drivability have been improved.
+ECM ECT ECU
+Engine Speed
+Engine Signal
+Speed
+Input Turbine
+Speed Signal
+Vehicle Speed Current Linear
+Solenoid
+Signal
+Engine
+Time
+Throttle Position Sensor Speed
+Signal
+Input Turbine
+Speed Sensor
+Engine Coolant
+Temp. Sensor
+Lock-up ATF Temperature Sensor
+Control Valve
+Solenoid Valve SLU
+01YCH32Y
+(cid:1) Flex Lock-up Operation (cid:2)
+Position or
+Lock-up
+Range DD,, SS66 SS55 SS44
+Large Operating Range
+Gear
+Flex Lock-up Operating
+Range (Acceleration) 1st X X X
+Throttle
+Opening 2nd (cid:5) (cid:5) (cid:5)
+Angle 3rd (cid:5) (cid:5) (cid:5)
+4th (cid:5)* (cid:5)* (cid:5)*
+5th (cid:5)* (cid:5)* —
+Vehicle High
+Speed Flex Lock-up Operating 6th (cid:5)* — —
+Range (Deceleration)
+(cid:5): Operates X: Does not operate —: Not applicable
+Flex Lock-Up Timing in 6th Gear *: Flex Lock-up Clutch Control also operates when the
+vehicle is decelerated.
+01YCH33Y

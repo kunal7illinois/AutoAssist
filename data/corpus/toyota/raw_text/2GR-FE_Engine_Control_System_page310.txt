@@ -1,0 +1,49 @@
+ES–310
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Internal Control Module Random Access Mem-
+DTC P0604
+ory (RAM) Error
+DTC P0606 ECM / PCM Processor
+DTC P0607 Control Module Performance
+DTC P0657 Actuator Supply Voltage Circuit / Open
+DESCRIPTION
+The ECM continuously monitors its internal memory status, internal circuits, and output signals sent to the
+throttle actuator. This self-check ensures that the ECM is functioning properly. If any malfunction is
+ES
+detected, the ECM will set the appropriate DTC and illuminate the MIL.
+The ECM memory status is diagnosed by internal "mirroring" of the main CPU and the sub CPU to detect
+Random Access Memory (RAM) errors. The 2 CPUs also perform continuous mutual monitoring. The
+ECM illuminates the MIL and sets a DTC if: 1) outputs from the 2 CPUs are different and deviate from the
+standards, 2) the signals sent to the throttle actuator deviate from the standards, 3) a malfunction is found
+in the throttle actuator supply voltage, and 4) any other ECM malfunction is found.
+DTC No. DTC Detection Condition Trouble Area
+P0604
+P0606
+ECM internal error (1 trip detection logic) ECM
+P0607
+P0657
+MONITOR STRATEGY
+P0604: ECM RAM error
+P0606: ECM range check
+Related DTCs
+P0607: ECM CPU malfunction
+P0657: ETCS power supply
+Required Sensors/Components (Main) ECM
+Required Sensors/Components (Sub) -
+Frequency of Operation Continuous
+Duration Within 1 second
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs are not present None
+TYPICAL MALFUNCTION THRESHOLDS
+ECM RAM errors (P0604):
+RAM mirror check Fail
+ECM CPU range check (P0606):
+Either of following conditions is met: -
+Difference between throttle valve position of main CPU and throttle
+0.3 V or more
+valve position of sub CPU
+Difference between accelerator pedal position of main CPU and
+0.3 V or more
+accelerator pedal position of sub CPU

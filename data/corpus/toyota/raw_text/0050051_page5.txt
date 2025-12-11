@@ -1,0 +1,47 @@
+ES–283
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 CHECK HARNESS AND CONNECTOR (ECM - ETCS FUSE, ETCS FUSE - BATTERY)
+(a) Check the harness and connector between the ETCS
+Engine Room No. 1 Relay Block:
+fuse and ECM.
+(1) Remove the ETCS fuse from the engine room No. 1
+relay block.
+(2) Disconnect the A9 ECM connector.
+2 1
+(3) Measure the resistance.
+Standard resistance (Check for open)
+ETCS
+Tester Connections Specified Conditions
+2 (ETCS fuse) - A9-3 (+BM) Below 1 Ω
+ES
+Standard resistance (Check for short)
+Tester Connections Specified Conditions
+2 (ETCS fuse) or A9-3 (+BM) - Body
+10 kΩ or higher
+ground
+(4) Reinstall the ETCS fuse.
+(5) Reconnect the ECM connector.
+Wire Harness Side:
+(b) Check the harness and connector between the ETCS
+ECM Connector fuse and positive battery cable.
+(1) Remove the ETCS fuse from the engine room No. 1
+relay block.
+(2) Disconnect the cable from the positive (+) battery
+A9 terminal.
++BM
+(3) Check the resistance.
+Standard resistance (Check for open)
+Tester Connections Specified Conditions
+A127766E01
+Positive battery cable - 1 (ETCS fuse) Below 1 Ω
+Standard resistance (Check for short)
+Tester Connections Specified Conditions
+Positive battery cable or 1 (ETCS
+10 kΩ or higher
+fuse) - Body ground
+(4) Reinstall the ETCS fuse.
+(5) Reconnect the cable to the positive (+) battery
+terminal.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK

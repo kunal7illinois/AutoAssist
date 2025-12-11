@@ -1,0 +1,38 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+(TRANSMISSION transmission V
+RANGE SWITCH D) range switch In any position
+D position other than D:
+signal Battery voltage
+B22 YEL ATP RVS Detects In R: About 0
+(TRANSMISSION transmission V
+RANGE SWITCH range switch In any position
+RVS) R position other than R:
+signal Battery voltage
+B25 BLU/WHT LS C (A/T CLUTCH Drives A/T With ignition
+PRESSURE clutch switch ON (II)
+CONTROL pressure Current
+SOLENOID VALVE control controlled
+C) solenoid
+valve C
+B26 GRN/WHT SH B (SHIFT Drives shift With engine
+SOLENOID VALVE solenoid running in R,
+B) valve B 1, D3 (in 1st
+gear), and D
+(in 1st gear)
+Battery voltage
+With engine
+running in P,
+N, 2, D3 (in
+2nd and 3rd
+gears), and D
+(in 2nd, 3rd,
+4th, and 5th
+gears): About 0
+V
+B27 BRN/RED ATFT (ATF Detects ATF With igniting
+TEMPERATURE temperature switch ON (II):
+SENSOR) sensor signal 0.2-4.8 V
+(about 1.8 V at
+operating

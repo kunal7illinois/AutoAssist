@@ -1,0 +1,65 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-21
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+READINESS TEST STATUS When the monitors run and complete, the MUT II will
+record the Readiness Code as "Complete" (General
+.Purpose
+Scan Tools record as "Ready"). If the monitor did not
+The Readiness function also referred as I/M Readi-
+run completely, the system then reads as "Incom-
+ness or I/M Flags indicate if a full diagnostic check
+plete" (General Scan Tools record as "Not Ready").
+has been "Completed" (is "Ready") for each non-
+When the vehicle is operating normally and the OBD
+continuous monitor. Enhanced I/M State Emission
+II Drive Cycle is carried out, Readiness Code will set
+Programs will use the Readiness status (Codes) to
+as "Complete" on the first drive cycle. If during the
+see if the vehicle is ready for OBD II testing. "Incom-
+first drive cycle a fault is detected then, a second
+plete" (Not Ready) codes will be one of the triggers
+drive is required before the Readiness Code will
+for I/M failure.
+"Complete". If the fault is still there, then a DTC will
+set.
+. Overview • Catalyst: P0421, P0431
+The engine control module (ECM) <M/T> or power- • Evaporative system: P0442, P0455, P0456
+train control module (PCM) <A/T> monitors the fol- • Heated oxygen sensor: P0133, P0153
+lowing main diagnosis items and records whether the • Heated oxygen sensor heater: P0135, P0141,
+evaluation was completed or is incomplete. The P0155, P0161
+Readiness codes were established for the I/M pro- • EGR system: P0401
+grams, thereby confirming that the vehicle was not After the Readiness is "Complete", the technician is
+tampered with by erasing the DTC’s before I/M test- assured that any DTC’s associated with that monitor
+ing. The Readiness and DTC codes can be reset by will be displayed if the system has a problem. That is
+disconnecting the battery or by erasing the codes why some State’s I/M programs require the Readi-
+with a scan tool. For this reason all Readiness codes ness Code as "Complete" before they check for
+must read "Complete" before I/M testing. When the DTC’s.
+monitors run and complete, the MUT II will record the
+NOTE: After a repair is mode for a DTC the techni-
+Readiness Code as "Complete" (General Scan Tools
+cian should drive the OBD II drive cycle checking
+record as "Ready"). If the monitor did not run com-
+that the MUT II records all Readiness as "Complete".
+pletely, the system then reads as "Incomplete" (Gen-
+eral Scan Tools record as "Not Ready").
+FAIL-SAFE FUNCTION REFERENCE TABLE
+M1131153000028
+When the main sensor malfunctions are detected by the diagnostic test mode, the vehicle is controlled by
+means of the following defaults.
+MALFUNCTION ITEM CONTROL CONTENTS DURING MALFUNCTION
+Volume air flow sensor 1.Uses the throttle position sensor signal and engine speed signal (crankshaft
+position sensor signal) for basic injector drive time and basic ignition timing
+from the pre-set mapping.
+2.Fixes the IAC motor in the appointed position so idle air control is not
+performed.
+Intake air temperature Controls as if the intake air temperature is 25°C (77°F).
+sensor
+Throttle position sensor No increase in fuel injection amount during acceleration due to the unreliable
+throttle position sensor signal.
+Engine coolant Controls as if the engine coolant temperature is 80°C (176°F). (This control will
+temperature sensor be continued until the ignition switch is turned to the "LOCK" (OFF) position
+even though the sensor signal returns to normal.)
+Camshaft position sensor Injects fuel simultaneously into all cylinders. (After the ignition switch is turned to
+the "ON" position, the No.1 cylinder top dead center is not detected at all.)
+Barometric pressure Controls as if the barometric pressure is 101 kPa (30 in Hg).
+sensor
+TSB Revision

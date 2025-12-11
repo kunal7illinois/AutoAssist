@@ -1,0 +1,42 @@
+Starting without Smart Key System
+: Parts Location
+Code See Page Code See Page Code See Page
+A22 59 C1 B 54 (2AZ–FE) C56 51 (2GR–FE)
+A24 C 52 (2AZ–FE) 50 (2GR–FE) 51 (2GR–FE)
+CC33 AA DD11 CC
+A41 A 59 54 (2AZ–FE) 55 (2AZ–FE)
+A42 B 59 C24 D 55 (2AZ–FE) E23 56
+A55 A 49 (2GR–FE) C29 B 55 (2AZ–FE)
+C1 A 50 (2GR–FE) C55 B 51 (2GR–FE)
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+1F
+2222 EEnnggiinnee RRoooomm MMaaiinn WWiirree aanndd EEnnggiinnee RRoooomm JJ//BB ((EEnnggiinnee CCoommppaarrttmmeenntt LLeefftt))
+1G
+3E
+3366 IInnssttrruummeenntt PPaanneell WWiirree aanndd JJ//BB NNoo..33 ((BBeehhiinndd tthhee CCoommbbiinnaattiioonn MMeetteerr))
+3F
+IA 30 Engine Room Main Wire and Instrument Panel J/B (Cowl Side Left)
+II 31 Instrument Panel Wire and Instrument Panel J/B (Cowl Side Left)
+: Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+AE7 66 Engine Room Main Wire and Instrument Panel Wire (Right Side of the Instrument Panel J/B)
+64 (2GR–FE)
+CCAA11
+65 (2AZ–FE)
+64 (2GR–FE) EEEEnnnnggggiiiinnnneeee WWWWiiiirrrreeee aaaannnndddd EEEEnnnnggggiiiinnnneeee RRRRoooooooommmm MMMMaaaaiiiinnnn WWWWiiiirrrreeee ((((IIIInnnnssssiiiiddddeeee ooooffff tttthhhheeee EEEEnnnnggggiiiinnnneeee RRRRoooooooommmm RRRR////BBBB aaaannnndddd EEEEnnnnggggiiiinnnneeee RRRRoooooooommmm JJJJ////BBBB))))
+CCAA22
+65 (2AZ–FE)
+CA3 65 (2AZ–FE)
+EA1 66 Instrument Panel Wire and Engine Room Main Wire (Left Kick Panel)
+: Ground Points
+Code See Page Ground Points Location
+64 (2GR–FE)
+AA11 FFrroonntt LLeefftt FFeennddeerr
+65 (2AZ–FE)
+A3 66 Left Cowl Side Panel
+98
+CAMRY (EM0250U)

@@ -1,0 +1,42 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-415
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 21. Using scan tool MB991502, check data list item
+73: Fuel Tank Differential Pressure Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+16 PIN
+MB991502
+AC001252AB
+(2) Disconnect hose I from the evaporative emission canister
+HOSE I side, and plug the hose from which the pipes have been
+disconnected.
+(3) Turn the ignition switch to the "ON" position.
+(4) Remove the fuel cap.
+(5) Set scan tool MB991502 to the data reading mode for item
+73, Fuel Tank Differential Pressure Sensor.
+• The fuel tank pressures should be −1.5 to 1.5kPa (−285
+to 285 inHg.)
+AC002072AB
+(6) Connect an evaporative emission system pressure pump to
+the fuel filler neck, and apply pressure.
+• The scan tool reading should increase.
+(7) Turn the ignition switch to the "LOCK" (OFF) position. Then
+disconnect scan tool MB991502.
+Q:Is the scan tool reading within the specified value?
+YES : This malfunction is intermittent malfunction. Refer to
+GROUP 00, How to Use Troubleshooting/Inspection
+Service Points P.00-6. Then go to Step 22.
+AC000186 NO : Replace the ECM <M/T> or PCM <A/T>. Then go to
+Step 22.
+STEP 22. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 1 - Evaporative Emission Control System Leak
+Monitor P.13B-6.
+(2) Read the diagnostic trouble code.
+Q:Is diagnostic trouble code P0452 set?
+YES : Go to Step 2.
+NO : This diagnosis is complete.
+TSB Revision

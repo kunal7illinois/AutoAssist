@@ -1,0 +1,40 @@
+BC–366
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+4 INSPECT SKID CONTROL ECU (GND TERMINAL CONTINUITY)
+(a) Measure the resistance according to the value(s) in the
+Skid Control ECU (Harness Side
+table below.
+Connector Front View):
+Standard resistance
+Tester Connection Specified Condition
+A60-4 (GND1) - Body ground Below 1 Ω
+A60
+A60-1 (GND2) - Body ground Below 1 Ω
+(b) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (GND CIRCUIT)
+GND2 GND1
+BC
+C136493E02
+OK
+5 RECONFIRM DTC
+(a) Clear the DTC (See page BC-302).
+(b) Start the engine.
+(c) Check if the same DTC is recorded (See page BC-302).
+HINT:
+Reinstall the sensors, connectors, etc. and restore the
+vehicle to its prior condition before rechecking for DTCs.
+Result
+Condition Proceed to
+DTC is not output A
+DTC is output (When troubleshooting in accordance with the PROBLEM
+B
+SYMPTOMS TABLE)
+DTC is output (When troubleshooting in accordance with the DTC CHART) C
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+(See page BC-295)
+C REPLACE BRAKE ACTUATOR ASSEMBLY
+(See page BC-432)
+A
+CHECK FOR INTERMITTENT PROBLEMS (SYMPTOM SIMULATION) (See page BC-298)

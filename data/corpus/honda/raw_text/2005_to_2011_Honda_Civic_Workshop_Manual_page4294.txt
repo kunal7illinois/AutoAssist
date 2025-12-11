@@ -1,0 +1,37 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+control unit
+initial IG low
+voltage
+-21 VSA ON ON ON ON
+modulator-
+control unit
+power source
+low voltage 1
+-22 VSA ON OFF ON ON
+modulator-
+control unit
+power source
+low voltage 2
+-23 VSA ON ON ON ON
+modulator-
+control unit
+power source
+low voltage 3
+62 -21 VSA ON ON ON ON
+modulator-
+control unit IG
+high voltage
+64 -11 Steering angle OFF OFF ON ON
+sensor power
+circuit short
+-12 Steering angle OFF OFF ON ON
+sensor power
+circuit open
+65 -21 Brake fluid OFF OFF ON ON
+level stuck ON
+66 -11 Pressure sensor OFF OFF ON ON
+(inside of VSA
+modulator-
+control unit)

@@ -1,0 +1,58 @@
+Audi TT No. 46 / 8
+Current Flow Diagram
+Engine control unit, ignition coil 4 and 5 with output stage,
+oil pressure switch, oil pressure switch for reduced oil
+pressure
+F22 Oil pressure switch
+F378 Oil pressure switch for reduced oil pressure
+J623 Engine control unit
+N292 Ignition coil 4 with output stage
+N323 Ignition coil 5 with output stage
+P Spark plug connector
+Q Spark plugs
+T4l 4-pin connector, black, on ignition coil 4 with output stage
+4488 T4m 4-pin connector, black, on ignition coil 5 with output stage
+T14 14-pin connector, black, on front left in engine compartment
+2,5
+ro/gn T60 60-pin connector, on engine control unit
+B351 T94 94-pin connector, on engine control unit
+281 Earth connection 1, in engine harness
+2,5 2,5 2,5
+ro/gn ro/gn ro/gn
+283 Earth connection 2, in engine harness
+J623
+T94/3 T94/5 T94/6
+B351 Positive connection 2 (87a), in main wiring harness
+T60/56 T60/41 T94/37
+D101 Connection 1, in engine compartment wiring harness
+0,35 0,35 0,35
+gn/bl li/ge D101 sw
+D101 229988 T14/3 * 0.7 bar
+** up to May 2010
+1,5 1,5 0,35 0,35
+ro ro sw sw *** from June 2010
+T4l/3 T4l/1 T4m/3 T4m/1 1 1 ✱
+✱✱ ✱✱✱
+N292 N323 F22 F378
+T4l/2 T4l/4 IV T4m/2 T4m/4 V 2 2
+31 31 31 31
+1,5 1,5 1,5 1,5 1,0 0,35
+br br/gn br br/gn br/gn br
+P P
+Q Q
+ws = white
+283
+sw = black
+283
+ro = red
+281 br = brown
+281 gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+85 86 87 88 89 90 91 92 93 94 95 96 97 98
+or = orange
+8J0-046080410
+rs = pink
+Edition 04.2010

@@ -1,0 +1,37 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+-59 Central ON ON ON ON
+processing unit
+(CPU) internal
+circuit
+malfunction
+-61 Central ON ON ON ON
+processing unit
+(CPU) internal
+circuit
+malfunction
+-71 Central ON OFF ON ON
+processing unit
+(CPU) internal
+circuit
+malfunction
+-80 Central ON ON ON ON
+processing unit
+(CPU) internal
+circuit
+malfunction
+83 -13 ECM OFF OFF ON ON
+communication
+error
+-14 ECM OFF OFF ON ON
+communication
+error
+84 -21 VSA sensor OFF OFF ON ON
+neutral
+position not
+writing
+86 -01 F-CAN bus-off OFF OFF ON ON
+malfunction
+-11 F-CAN OFF OFF ON ON
+communication

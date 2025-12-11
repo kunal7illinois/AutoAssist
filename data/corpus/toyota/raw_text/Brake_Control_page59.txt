@@ -1,0 +1,34 @@
+BC–59
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+Open or Short Circuit in ABS Solenoid Relay
+DTC C0278/11
+Circuit
+DESCRIPTION
+This relay supplies power to each ABS solenoid. If the ABS initial check is OK after the ignition switch is
+turned on (IG), the skid control ECU will turn the ABS solenoid relay on.
+DTC No. DTC Detecting Condition Trouble Area
+When any of the following is detected:
+• 3 or more solenoid valves are found faulty and
+simultaneously valve supply voltage is detected to • Wire harness (+BS circuit)
+C0278/11 be abnormal. • ABS No. 2 fuse (Fusible link)
+• Solenoid valve relay is not switched off. • Brake actuator assembly (Solenoid relay)
+• Valve relay is stuck open even through the valve
+relay supply voltage is high.
+WIRING DIAGRAM
+BC
+Brake Actuator Assembly
+(Skid Control ECU)
+ALT ABS No. 2 3
+A25 +BS
+4
+A25 GND1
+FL MAIN
+1
+A25 GND2
+Battery
+C131988E01
+INSPECTION PROCEDURE
+HINT:
+• When C1241/41 is output together with C0278/11, inspect and repair the trouble areas indicated by
+C1241/41 (See page BC-63).
+• Check the condition of each related circuit before troubleshooting (See page IN-40).

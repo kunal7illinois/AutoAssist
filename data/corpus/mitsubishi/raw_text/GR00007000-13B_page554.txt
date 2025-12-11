@@ -1,0 +1,59 @@
+13B-554 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 15. Check for harness damage between injector
+connector and ECM connector <M/T> or PCM connector
+<A/T>.
+a. Check the harness wire between injector connector B-
+CONNECTORS : B-01, B-02, B-05, B-06,
+B-25, B-26 01 terminal 2 and ECM connector C-51 terminal 1 <M/
+T> or PCM connector C-52 terminal 1 <A/T> when
+checking No. 1 cylinder injector.
+B-01B-05 B-26
+b. Check the harness wire between injector connector B-
+02 terminal 2 and ECM connector C-51 terminal 9 <M/
+T> or PCM connector C-52 terminal 9 <A/T> when
+checking No. 2 cylinder injector.
+c. Check the harness wire between injector connector B-
+B-02 B-06 B-25
+05 terminal 2 and ECM connector C-51 terminal 24 <M/
+AAKK000000221155AB
+T> or PCM connector C-52 terminal 24 <A/T> when
+CONNECTOR : C-51<M/T>, C-52<A/T> checking No. 3 cylinder injector.
+d. Check the harness wire between injector connector B-
+PCM<A/T> ECM<M/T> 06 terminal 2 and ECM connector C-51 terminal 2 <M/
+T> or PCM connector C-52 terminal 2 <A/T> when
+checking No. 4 cylinder injector.
+e. Check the harness wire between injector connector B-
+26 terminal 2 and ECM connector C-51 terminal 10 <M/
+T> or PCM connector C-52 terminal 10 <A/T> when
+C-52 C-51 checking No. 5 cylinder injector.
+AK000225AJ f. Check the harness wire between injector connector B-
+25 terminal 2 and ECM connector C-51 terminal 25 <M/
+T> or PCM connector C-52 terminal 25 <A/T> when
+checking No. 6 cylinder injector.
+Q:Is the harness wire in good condition?
+YES : Check the following items, and repair or replace the
+defective items.
+a. Check the ignition coil, spark plugs, spark plug
+cables.
+b. Check if the injectors are clogged.
+c. Check compression pressure.
+d. Check fuel lines for clogging.
+e. Check if the foreign materials (water,
+kerosene, etc.) got into fuel.
+Then confirm that the malfunction symptom is
+eliminated.
+NO : Repair it. Then confirm that the malfunction symptom
+is eliminated.
+INSPECTION PROCEDURE 7: Hard Starting
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+• In cases such as the above, the cause is usually causes for this case:)
+• Malfunction of the ignition system.
+either weak spark, improper air-fuel mixture or
+• Malfunction of the injector system.
+low compression.
+• Poor fuel quality. (Contamination)
+• Poor compression.
+.
+TSB Revision

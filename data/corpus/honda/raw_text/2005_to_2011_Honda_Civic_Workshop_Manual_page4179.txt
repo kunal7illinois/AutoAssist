@@ -1,0 +1,25 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE Starting System (K20Z3) - Civic (All Except Si)
+during this procedure.
+After this inspection, you must reset the engine control
+(cid:1)
+module (ECM), otherwise the ECM will continue to stop
+the fuel injectors from functioning.
+The battery must be in good condition and fully
+(cid:1)
+charged.
+1. Hook up the following equipment:
+Ammeter, 0-400 A
+(cid:1)
+Voltmeter, 0-20 V (accurate within 0.1 V)
+(cid:1)
+Fig. 3: Hooking Up Ammeter & Voltmeter
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+2. Connect the HDS to the data link connector (DLC) (see step 2 on HOW TO
+USE THE HDS (HONDA DIAGNOSTIC SYSTEM) ).
+3. Turn the ignition switch ON (II).
+4. Make sure the HDS communicates with the vehicle and the ECM. If it doesn't,
+troubleshoot the DLC circuit (see DLC CIRCUIT TROUBLESHOOTING ).
+5. Select PGM-FI, INSPECTION, then ALL INJECTORS OFF on the HDS.
+6. Set the parking brake, then with the clutch pedal pressed, turn the ignition

@@ -1,0 +1,37 @@
+52B-58 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+CONNECTOR: C-72
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH)AC000358AD
+CIRCUIT OPERATION DTC SET CONDITIONS
+• Power for the SRS warning light is supplied from • This DTC is set when an open circuit is detected
+the ignition switch (IG1) circuit. for a continuous period of five seconds while the
+• The SRS warning light illuminates when the igni- SRS-ECU is monitoring the SRS warning light
+tion switch is turned "ON" and goes out after and the light is OFF. (transistor OFF.) However, if
+approximately seven seconds if there is not a the vehicle condition returns to normal, DTC 43
+malfunction in the SRS system. will be automatically erased, and the SRS warn-
+ing light will go out.
+TROUBLESHOOTING HINTS
+• Damaged wiring harnesses of connectors
+• Blown bulb
+• Malfunction of the SRS-ECU
+• Malfunction of the combination meter
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-ll)
+STEP 1. Check the SRS warning light.
+(1) Connect the negative battery terminal.
+(2) Disconnected the SRS-ECU connector C-72.
+CONNECTOR: C-72
+(3) Turn the ignition switch to the "ON" position.
+Q:Does the warning light illuminate?
+YES : Erase the DTC memory, and recheck if any DTC sets.
+If DTC 43 sets, replace the SRS-ECU. Refer to
+P.52B-142. Then go to Step 6.
+NO : Go to Step 2.
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH)AC000358AD
+TSB Revision

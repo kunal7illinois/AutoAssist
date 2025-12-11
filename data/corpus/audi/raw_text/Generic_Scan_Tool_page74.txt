@@ -1,0 +1,70 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0442 Evaporative – Check the • time for pres‐ • evap purge valve 150 Sec. • Once
+Emission EVAP Sys‐ sure drop < closed
+System tem, for 1.95 ... 2.15 • 2 DCY
+Leak Detec‐ Leaks. Refer Sec (depend‐ • ECT at start >=
+ted (Small to ing on altitude 4...35° C
+Leak) ⇒ and IAT)
+• LDP activated, Se‐
+“3.5.7 EVAP
+lected gear = any
+System,
+drive
+Checking for
+Leaks”, • ambient pressure
+page 123 . > 743.5 hPa
+– Check the • number of diagno‐
+Evaporative sis attempts <=15
+Emission
+• IAT > 4° C
+(EVAP) Can‐
+ister Purge • delta ambient
+Regulator pressure < 300 Pa
+Valve -N80- .
+Refer to • IAT drop after en‐
+⇒ gine start, < 7°K
+“3.5.8 EVAP
+• Time after engine
+Canister
+start > 175 - 1200
+Purge Regu‐
+Sec.
+lator Valve 1,
+Checking”, • ECT 4 .. 115° C
+page 124 .
+• Vehicle speed >=
+For Model Year 19 mph
+2011 >
+– Check the • selected gear any
+Leak Detec‐ drive
+tion Pump
+(LDP) -
+V144- . Refer
+to
+⇒
+“3.5.13 Leak
+Detection
+Pump,
+Checking ”,
+page 136
+P0444 Evaporative – Check the • Signal voltage • EVAP purge valve, 0.5 Sec. • Continu‐
+Emission Evaporative 4.4 - 5.6 V commanded OFF ous
+System Emission
+Purge Con‐ (EVAP) Can‐ • Engine speed, > • 2 DCY
+trol Valve ister Purge 40 RPM
+Circuit Regulator
+Open Valve -N80- .
+Refer to
+⇒
+“3.5.8 EVAP
+Canister
+Purge Regu‐
+lator Valve 1,
+Checking”,
+page 124 .
+70
+Rep. Gr.ST - Generic Scan Tool

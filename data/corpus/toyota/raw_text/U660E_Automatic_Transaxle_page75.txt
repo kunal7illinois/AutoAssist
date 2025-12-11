@@ -1,0 +1,36 @@
+AX–75
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+HINT:
+• SPD (NT) is always 0 while driving: Open or short in the sensor or circuit.
+• SPD (NT) is always more than 0 and less than 300 rpm while driving the vehicle at 31 mph
+(50 km/h) or more: Sensor trouble, improper installation, or intermittent connection trouble of
+the circuit.
+AX
+1 INSPECT SPEED SENSOR (SENSOR INSTALLATION)
+(a) Make sure that the connector is properly connected, and
+check the speed sensor installation.
+OK:
+The installation bolt is tightened properly and there
+is no clearance between the sensor and transaxle
+case.
+NG REPAIR OR REPLACE SPEED SENSOR
+C133219
+OK
+2 CHECK TRANSMISSION WIRE
+(a) Remove the TCM.
+(b) Disconnect the speed sensor connector from the
+TCM Side Connector
+transmission wire.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Condition Specified Condition
+NTO - NTO Below 1 Ω
+NTB - NTB Below 1 Ω
+NTO NTB NTO - NTB 10 kΩ or higher
+Sensor Side Connector NG REPLACE TRANSMISSION WIRE
+NTO NTB
+C133270E01
+OK
+3 REPLACE SPEED SENSOR
+NEXT

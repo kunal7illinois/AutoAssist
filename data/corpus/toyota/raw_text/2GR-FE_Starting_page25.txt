@@ -1,0 +1,42 @@
+ST–25
+2GR-FE STARTING – SMART KEY SYSTEM
+If the result is not as specified, the ECM may have a
+malfunction.
+(e) Using an oscilloscope, check the signal waveform of
+the ECM.
+Waveform 1 (Reference):
+Terminal No. A55-15 (TACH) - C55-81 (E1)
+Tool Setting 5 V/DIV., 10 ms./DIV.
+Vehicle Condition Engine idling
+GND
+HINT:
+As the vehicle speed increases, the wavelength
+shortens.
+I042330E01
+4. CHECK STEERING LOCK ECU
+E51
+7 6 5 4 3 2 1
+B106649E13
+(a) Disconnect the E51 ECU connector.
+(b) Measure the voltage and resistance of the wire
+harness side connector.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+B (E51-7) - Body ground P - Body ground +B power supply Always 10 to 14 V
+IG2 (E51-6) - Body ground B - Body ground Ignition power supply Engine switch on (IG) 10 to 14 V
+IG2 (E51-6) - Body ground B - Body ground Ignition power supply Engine switch off Below 1 V
+GND (E51-1) - Body ground W-B - Body ground Ground Always Below 1 Ω
+SGND (E51-2) - Body ground W-B - Body ground Ground Always Below 1 Ω
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the E51 ECU connector.
+(d) Measure the voltage of the connector.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Steering lock actuator
+SLP1 (E51-4) - GND (E51-1) P - W-B Steering is locked 10 to 14 V
+position signal
+Steering lock actuator
+SLP1 (E51-4) - GND (E51-1) P - W-B Steering is released Below 1 V
+position signal
+If the result is not as specified, the ECU may have a
+malfunction.
+ST

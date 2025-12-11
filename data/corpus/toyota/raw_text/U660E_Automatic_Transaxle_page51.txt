@@ -1,0 +1,64 @@
+AX–51
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Measurement Item/
+Item Normal Condition Diagnostic Note
+Range (display)
+Identifying transmission type:
+TRANSMISSION Transmission type -
+6 speed
+Identifying engine type:
+SYSTEM System identification -
+GASOLINE (gasoline engine)
+AX
+2. ACTIVE TEST
+HINT:
+Performing the ACTIVE TEST using the intelligent tester
+allows relays, VSVs, actuators and other items to be
+operated without removing any parts. Performing the
+ACTIVE TEST as the first step in troubleshooting is one
+method to save labor time.
+It is possible to display the DATA LIST during the
+ACTIVE TEST.
+(a) Warm up the engine.
+(b) Turn the ignition switch off.
+(c) Connect the intelligent tester together with the CAN
+VIM (Controller Area Network Vehicle Interface
+Module) to the DLC3.
+(d) Turn the ignition switch on (IG).
+(e) Turn the intelligent tester on.
+(f) Enter the following items: "DIAGNOSIS / OBD/
+MOBD / ECT / ACTIVE TEST".
+(g) According to the display on tester, perform "ACTIVE
+TEST".
+Item Test Details Diagnostic Note
+[Test Details] Possible to check the operation of
+Operate the shift solenoid valve and set each shift position by the shift solenoid valves.
+yourself. Upshifts and downshifts should be
+[Vehicle Condition] performed consecutively. A 10-
+SHIFT • IDL: ON second interval is required
+[Others] between gear changes.
+• Press "→" button: Shift up Do not downshift at high speeds.
+• Press "←" button: Shift down Doing so will damage the
+automatic transaxle.
+[Test Details]
+Control the shift solenoid SLU to set the automatic transaxle to the
+lock-up condition. Possible to check the SLU solenoid
+LOCK UP
+[Vehicle Condition] operation.
+• Throttle valve opening angle: Less than 35%
+• Vehicle speed: 37 mph (60 km/h) or more, and 6th gear
+[Test Details]
+Operate the shift solenoid SL1
+SOLENOID (SL1) [Vehicle Condition] -
+• Vehicle Stopped
+• Shift lever in P or N position
+[Test Details]
+Operate the shift solenoid SL2
+SOLENOID (SL2) [Vehicle Condition] -
+• Vehicle Stopped
+• Shift lever in P or N position
+[Test Details]
+Operate the shift solenoid SLU
+SOLENOID (SL3) [Vehicle Condition] -
+• Vehicle Stopped
+• Shift lever in P or N position

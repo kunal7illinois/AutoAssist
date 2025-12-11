@@ -1,0 +1,58 @@
+CC–14
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+TERMINALS OF ECM
+1. CHECK ECM
+C24 *2 A24 *2
+C55 *1 A55 *1
+(cid:20)(cid:21) (cid:20)(cid:20) (cid:20)(cid:19) (cid:20)(cid:18) (cid:19)(cid:27) (cid:19)(cid:26) (cid:19)(cid:25) (cid:19)(cid:24) (cid:19)(cid:23) (cid:19)(cid:22) (cid:19)(cid:21) (cid:19)(cid:20) (cid:19)(cid:19) (cid:19)(cid:18) (cid:27) (cid:26) (cid:25) (cid:24) (cid:23) (cid:22) (cid:21) (cid:20) (cid:19) (cid:19)(cid:19) (cid:19)(cid:18) (cid:27) (cid:26) (cid:25) (cid:24) (cid:23) (cid:22) (cid:21) (cid:20) (cid:19)
+(cid:22)(cid:18) (cid:21)(cid:27) (cid:21)(cid:26) (cid:21)(cid:25) (cid:21)(cid:24) (cid:21)(cid:23) (cid:21)(cid:22) (cid:21)(cid:21) (cid:21)(cid:20) (cid:21)(cid:19) (cid:21)(cid:18) (cid:20)(cid:27) (cid:20)(cid:26) (cid:20)(cid:25) (cid:20)(cid:24) (cid:20)(cid:23) (cid:20)(cid:22) (cid:19)(cid:27) (cid:19)(cid:26) (cid:19)(cid:25) (cid:19)(cid:24) (cid:19)(cid:23) (cid:19)(cid:22) (cid:19)(cid:21) (cid:19)(cid:20)
+(cid:22)(cid:24) (cid:22)(cid:23) (cid:22)(cid:22) (cid:22)(cid:21) (cid:22)(cid:20) (cid:22)(cid:19) (cid:24)(cid:21) (cid:24)(cid:20) (cid:24)(cid:19) (cid:24)(cid:18) (cid:23)(cid:27) (cid:23)(cid:26) (cid:23)(cid:25) (cid:23)(cid:24) (cid:23)(cid:23) (cid:23)(cid:22) (cid:23)(cid:21) (cid:23)(cid:20) (cid:23)(cid:19) (cid:23)(cid:18) (cid:22)(cid:27) (cid:22)(cid:26) (cid:22)(cid:25) (cid:21)(cid:18) (cid:20)(cid:27) (cid:20)(cid:26) (cid:20)(cid:25) (cid:20)(cid:24) (cid:20)(cid:23) (cid:20)(cid:22) (cid:20)(cid:21) (cid:20)(cid:20) (cid:20)(cid:19) (cid:20)(cid:18)
+(cid:26)(cid:24) (cid:26)(cid:23) (cid:26)(cid:22) (cid:26)(cid:21) (cid:26)(cid:20) (cid:26)(cid:19) (cid:26)(cid:18) (cid:25)(cid:27) (cid:25)(cid:26) (cid:25)(cid:25) (cid:25)(cid:24) (cid:25)(cid:23) (cid:25)(cid:22) (cid:25)(cid:21) (cid:25)(cid:20) (cid:25)(cid:19) (cid:25)(cid:18) (cid:24)(cid:27) (cid:24)(cid:26) (cid:24)(cid:25) (cid:24)(cid:24) (cid:24)(cid:23) (cid:24)(cid:22) (cid:22)(cid:19) (cid:22)(cid:18) (cid:21)(cid:27) (cid:21)(cid:26) (cid:21)(cid:25) (cid:21)(cid:24) (cid:21)(cid:23) (cid:21)(cid:22) (cid:21)(cid:21) (cid:21)(cid:20) (cid:21)(cid:19)
+(cid:19)(cid:18)(cid:21)(cid:19)(cid:18)(cid:20)(cid:19)(cid:18)(cid:19)(cid:19)(cid:18)(cid:18) (cid:27)(cid:27) (cid:27)(cid:26) (cid:27)(cid:25) (cid:27)(cid:24) (cid:27)(cid:23) (cid:27)(cid:22) (cid:27)(cid:21) (cid:27)(cid:20) (cid:27)(cid:19) (cid:27)(cid:18) (cid:26)(cid:27) (cid:26)(cid:26) (cid:26)(cid:25) (cid:22)(cid:27) (cid:22)(cid:26) (cid:22)(cid:25) (cid:22)(cid:24) (cid:22)(cid:23) (cid:22)(cid:22) (cid:22)(cid:21) (cid:22)(cid:20)
+(cid:19)(cid:18)(cid:27) (cid:19)(cid:18)(cid:26) (cid:19)(cid:18)(cid:25) (cid:19)(cid:18)(cid:24) (cid:19)(cid:18)(cid:23) (cid:19)(cid:18)(cid:22) (cid:19)(cid:20)(cid:24)(cid:19)(cid:20)(cid:23)(cid:19)(cid:20)(cid:22)(cid:19)(cid:20)(cid:21)(cid:19)(cid:20)(cid:20)(cid:19)(cid:20)(cid:19)(cid:19)(cid:20)(cid:18)(cid:19)(cid:19)(cid:27)(cid:19)(cid:19)(cid:26)(cid:19)(cid:19)(cid:25)(cid:19)(cid:19)(cid:24)(cid:19)(cid:19)(cid:23)(cid:19)(cid:19)(cid:22)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)(cid:20)(cid:19)(cid:19)(cid:19)(cid:19)(cid:19)(cid:18) (cid:24)(cid:18) (cid:23)(cid:27) (cid:23)(cid:26) (cid:23)(cid:25) (cid:23)(cid:24) (cid:23)(cid:23) (cid:23)(cid:22) (cid:23)(cid:21) (cid:23)(cid:20) (cid:23)(cid:19) (cid:23)(cid:18)
+*1: 2GR-FE *2: 2AZ-FE
+A107881E45
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+A55-27 (TC) - C55-81 (E1)*1
+P - W-B Ground Ignition switch on (IG) 10 to 14 V
+A24-27 (TC) - C24-104 (E1)*2
+A55-27 (TC) - C55-81 (E1)*1 Connect terminals TC and
+P - W-B Ground Below 1 V
+A24-27 (TC) - C24-104 (E1)*2 CG of DLC3
+A55-36 (STP) - C55-81 (E1)*1 Ignition switch on (IG),
+W - W-B Stop light signal 10 to 14 V
+A24-36 (STP) - C24-104 (E1)*2 Depress brake pedal
+A55-36 (STP) - C55-81 (E1)*1 Ignition switch on (IG),
+W - W-B Stop light signal Below 1 V
+A24-36 (STP) - C24-104 (E1)*2 Release brake pedal
+A55-40 (CCS) - C55-81 (E1)*1 Cruise control main switch
+W - W-B Ignition switch on (IG) 10 to 14 V
+A24-40 (CCS) - C24-104 (E1)*2 circuit
+A55-40 (CCS) - C55-81 (E1)*1 Cruise control main switch
+W - W-B CANCEL switch ON 6.6 to 10.1 V
+A24-40 (CCS) - C24-104 (E1)*2 circuit
+A55-40 (CCS) - C55-81 (E1)*1 Cruise control main switch
+W - W-B SET/COAST switch ON 4.5 to 7.1 V
+A24-40 (CCS) - C24-104 (E1)*2 circuit
+CC
+A55-40 (CCS) - C55-81 (E1)*1 Cruise control main switch
+W - W-B RES/ACC switch ON 2.3 to 4.0 V
+A24-40 (CCS) - C24-104 (E1)*2 circuit
+A55-40 (CCS) - C55-81 (E1)*1 Cruise control main switch
+W - W-B MAIN switch ON Below 1 V
+A24-40 (CCS) - C24-104 (E1)*2 circuit
+A55-35 (ST1-) - C55-81 (E1)*1 Ignition switch on (IG),
+GR - W-B Stop light signal Below 1 V
+A24-35 (ST1-) - C24-104 (E1)*2 Depress brake pedal
+A55-35 (ST1-) - C55-81 (E1)*1 Ignition switch on (IG),
+GR - W-B Stop light signal 10 to 14 V
+A24-35 (ST1-) - C24-104 (E1)*2 Release brake pedal
+C24-56 (D) - C55-81 (E1)*1 Ignition switch on (IG),
+C - W-B Clutch signal Below 1 V
+C24-56 (D) - C24-104 (E1)*2 Depress clutch pedal
+C24-56 (D) - C55-81 (E1)*1 Ignition switch on (IG),
+C - W-B Clutch signal 10 to 14 V
+C24-56 (D) - C24-104 (E1)*2 Release brake pedal
+HINT:
+*1: 2GR-FE
+*2: 2AZ-FE

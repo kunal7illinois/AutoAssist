@@ -1,0 +1,37 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-135
+SRS AIR BAG DIAGNOSIS
+STEP 7. Check the harness wires between SRS-ECU
+connector C-72 (terminal No.9 and 12) and ignition switch
+(IG1).
+NOTE: After inspecting intermediate connector C-108, C-111
+CONNECTOR: C-72
+inspect the wiring harness.
+If the intermediate connector C-108, C-111 is damaged, repair
+HARNESS SIDE
+(REAR VIEW) or replace it. Refer to GROUP 00E, Harness Connector Inspec-
+tion P.00E-2.
+1 2 3 4 5 6 7 8 Go to Step 8.
+9 10111213141516
+Q:Are the harness wires between SRS-ECU connector C-
+SRS-ECU 72 (terminal No.9 and 12) and ignition switch (IG1) in
+ACCELERATOR PEDAL good condition?
+CENTER REINFORCEMENT(LH) AC000358AH YES : Go to Step 8.
+NO : Repair the harness wires between SRS-ECU
+CONNECTORS: C-108, C-111
+connector C-72 and ignition switch (IG1). Then go to
+JUNCTION BLOCK
+Step 8.
+(FRONT VIEW)
+C-108
+C-111
+AC102831AC
+STEP 8. Check symptoms.
+Q:Does the scan tool communicate normally with the SRS
+system?
+YES : This diagnosis is complete. (If no malfunctions are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to GROUP 00, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+NO : There is no action to be taken.
+TSB Revision

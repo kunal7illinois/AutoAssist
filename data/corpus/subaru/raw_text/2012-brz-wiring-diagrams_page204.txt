@@ -1,0 +1,38 @@
+A73(A), D5(B), D6(C)
+Main Body ECU
+7 3C
+G W–R
+2
+10 3D
+)3∗( RB )3∗( W )2∗(
+2
+35D
+1
+G
+22 B 9
+(BAT) (ACC)
+15A 10A
+HAZ ECU ACC
+2 2
+1
+28 3B
+UN–
+UN+
+∗ 2 : w/ Smart Entry & Start System
+∗ 3 : w/o Smart Entry & Start System
+gninraW
+kcoL–nU
+ylbmessA
+hctiwS
+hctiwS
+noitingI(
+)ylbmessA
+rednilyC
+kcoL
+Automatic Light Control and Light Auto Turn Off System
+ACC(∗2)
+KSWB KSW(∗3) ACC
+∗ 4 : w/ Tire Pressure Warning System
+∗ 5 : w/o Tire Pressure Warning System
+204
+BRZ (G4400BE)

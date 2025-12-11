@@ -1,0 +1,73 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-619
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+eliminated.
+STEP 6. Check the continuity at fuel pump relay 1 harness
+side connector C-107.
+(1) Disconnect the connector C-107 and measure at the
+harness side.
+AK103836
+(2) Check for the continuity between terminal 2 and ground.
+• Should be less than 2 ohm.
+Q:Is the continuity normal?
+YES : Go to Step 7.
+NO : Check harness connectors C-108 at intermediate
+connector for damage, and repair or replace as
+required. Refer to, GROUP 00E, Harness Connector
+Inspection P.00E-2. If intermediate connectors are in
+good condition, repair harness wire between fuel
+pump relay 1 connector C-107 terminal 2 and ground
+because of open circuit. Then confirm that the
+malfunction symptom is eliminated.
+STEP 7. Check the power supply voltage at fuel pump relay
+2 harness side connector C-105.
+(1) Disconnect the connector C-105 and measure at the
+harness side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground.
+• Voltage should be battery positive voltage.
+Q:Is the voltage normal?
+YES : Go to Step 8.
+NO : Repair harness wire between fuel pump relay 1
+connector C-107 terminal 1 and fuel pump relay 2
+connector C-105 terminal 1 because of open circuit.
+Then confirm that the malfunction symptom is
+eliminated.
+TSB Revision
+44
+33
+44
+33
+22
+11
+22
+11
+CONNECTOR: C-107
+JUNCTION BLOCK
+C-107
+HARNESS SIDE
+CONNECTOR
+AB
+22 11
+44 33
+C-107 HARNESS
+SIDE CONNECTOR
+AK103839AB
+AK103836
+44
+33
+44
+33
+22
+11
+22
+11
+CONNECTOR: C-105
+JUNCTION BLOCK
+HARNESS SIDE C-105
+CONNECTOR
+AD
+22 11
+44 33
+C-105 HARNESS
+SIDE CONNECTOR
+AK101349AH

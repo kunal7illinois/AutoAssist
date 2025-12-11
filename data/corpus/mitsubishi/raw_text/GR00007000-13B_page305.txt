@@ -1,0 +1,34 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-305
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TROUBLESHOOTING HINTS (The most likely • Injector failed.
+causes for this code to be set are: ) • ECM failed. <M/T>
+• Ignition system related part (s) failed. • PCM failed. <A/T>
+• Low compression pressure.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the spark plugs.
+CAUTION
+Do not attempt to adjust the gap of the platinum plug.
+Cleaning of the platinum plug may result in damage to the
+platinum tips. Therefore, if carbon deposits must be
+removed, use a plug cleaner and complete cleaning within
+20 seconds to protect the electrode. Do not use a wire
+brush.
+(1) For the right bank cylinder, remove the intake manifold.
+PLATINUM
+TIPS (2) Check the plug gap and replace if the limit is exceeded.
+Standard value: 1.0 − 1.1 mm (0.039 − 0.043 inch)
+AAKKXX0000338833AB Limit: 1.3 mm (0.051 inch)
+Q:Is the plug gap at the standard value?
+YES : Go to Step 2.
+NO : Replace the spark plug. Then go to Step 9.
+STEP 2. Check the spark plug cable.
+(1) Check the cap and coating for cracks.
+(2) Measure the resistance.
+Limit: maximum 22 kΩ
+Q:Is the resistance normal?
+YES : Go to Step 3.
+NO : Replace the spark plug cable. Then go to Step 9.
+AKX00382
+TSB Revision

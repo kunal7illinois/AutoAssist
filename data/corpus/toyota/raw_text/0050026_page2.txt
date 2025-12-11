@@ -1,0 +1,41 @@
+ES–131
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+Refer to DTC P0115 (see page ES-106).
+INSPECTION PROCEDURE
+HINT:
+• If any of DTCs P0115, P0116, P0117 or P0118 are set simultaneously with DTC P0125, the Engine
+Coolant Temperature (ECT) sensor may have an open or a short circuit. Troubleshoot those DTCs first.
+• Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition
+when malfunctions are detected. When troubleshooting, freeze frame data can help determine if the
+vehicle was moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or
+rich, and other data from the time the malfunction occurred.
+ES
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P0125)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(e) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+P0125 A
+P0125 and other DTCs B
+HINT:
+If any DTCs other than P0125 are output, troubleshoot
+those DTCs first.
+B GO TO DTC CHART
+A
+2 INSPECT THERMOSTAT
+(a) Remove the thermostat (see page CO-15).
+(b) Check the valve opening temperature of the thermostat.
+Standard value:
+80 to 84°C (176 to 183°F)
+HINT:
+In addition to the above check, confirm that the valve is
+completely closed when the temperature is below the
+standard.
+(c) Reinstall the thermostat (see page CO-15).
+NG REPLACE THERMOSTAT
+OK

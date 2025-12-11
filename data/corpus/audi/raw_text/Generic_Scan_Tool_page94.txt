@@ -1,0 +1,59 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Pa‐ Monitoring Frequency of
+sage cedure ria and Threshold rameters with En‐ Time checks, MIL
+Value able Conditions Length Illum
+P2181 Cooling – Check the • ECT too low af‐ • ECT at start -7 < 1000 • Once
+System Cooling sys‐ ter sufficient to 60° C Sec
+Perform‐ tem thermo‐ mass air flow • 2 DCY
+ance stat. Refer to interval = 76.5° • ECT > 35° C
+the Repair C
+• IAT > -7° C
+Manual .
+• AND
+• accum. fuel cut
+– Check Engine • mass air inte‐ off < 40...220
+Coolant Tem‐ gral 4.0 .. 17.0 Sec
+perature
+kg
+(ECT) Sensor • delta ambient
+-G62 or G83- . pressure < 1.2
+Refer to kPa
+⇒ “3.5.24 En‐
+• vehicle speed >
+gine Coolant
+22 mph
+Temperature
+Sensor 1 or 2, • vehicle speed <
+Checking”, 75 mph
+page 160 .
+• mass air flow >
+(33 .. 89) kg/h
+• mass air flow <
+(96 .. 220) kg/h
+P2184 Engine – Check Engine • ECT outlet > --- 2 Sec. • 2 DCY
+Coolant Coolant Tem‐ 140° C
+Tempera‐ perature
+ture Sensor (ECT) Sensor
+2 Circuit - G83- . Refer
+Low to
+⇒ “3.5.24 En‐
+gine Coolant
+Temperature
+Sensor 1 or 2,
+Checking”,
+page 160 .
+P2185 Engine – Check Engine • ECT outlet < --- 2 Sec. • 2 DCY
+Coolant Coolant Tem‐ -40° C
+Tempera‐ perature
+ture Sensor (ECT) Sensor
+2 Circuit -G83- . Refer
+High to
+⇒ “3.5.24 En‐
+gine Coolant
+Temperature
+Sensor 1 or 2,
+Checking”,
+page 160 .
+90
+Rep. Gr.ST - Generic Scan Tool

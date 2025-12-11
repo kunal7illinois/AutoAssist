@@ -1,0 +1,23 @@
+CC–37
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+TC and CG Terminal Circuit
+DESCRIPTION
+Connecting terminals TC and CG of the DLC3 causes the system to enter self-diagnostic mode. If a
+malfunction is present, DTCs will be output.
+HINT:
+When a particular warning light remains blinking, a ground short in the wiring of terminal TC of the DLC3
+or an internal ground short in the relevant ECU is suspected.
+WIRING DIAGRAM
+E10
+DLC3 ECM
+27 27
+TC A24 A55 TC
+13
+*2 *1
+To Other Systems
+CG
+4
+*1: 2GR-FE
+*2: 2AZ-FE
+E129954E01
+CC

@@ -1,0 +1,36 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-639
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DIAGNOSIS
+STEP 1. Check connector C-51, C-62 at ECM <M/T> or
+connector C-52, C-59 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS : C-51, C-62<M/T>,
+C-52, C-59<A/T> YES : Go to Step 2.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+C-52 C-59 C-51 C-62
+AK000225AM
+STEP 2. Check the circuit at ECM connector C-51 <M/T> or
+PCM connector C-52 <A/T>.
+(1) Disconnect the connectors C-51 <M/T> or C-52 <A/T> and
+measure at the harness side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 20 and ground.
+• Voltage should be battery positive voltage.
+(4) Using a jumper wire, connect terminal 20 to ground.
+8 7 6 5 4 3 2 1
+2322192021181716151413121110 9 • A/C compressor relay should turn "ON".
+3635 34333231 30292826 25 24
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+C-51<M/T>,C-52<A/T>
+HARNESS SIDE Q:Is the voltage and A/C compressor relay condition
+CONNECTOR
+normal?
+YES : Go to Step 3.
+NO : Refer to GROUP 55, Diagnosis − Introduction To
+AKX01448AH Heater, Air Conditioning And Ventilation Diagnosis
+P.55-5. Then confirm that the malfunction symptom is
+eliminated.
+TSB Revision

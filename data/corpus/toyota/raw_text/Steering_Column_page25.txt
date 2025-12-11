@@ -1,0 +1,43 @@
+SR–23
+STEERING COLUMN – ELECTRIC STEERING LOCK
+Tester connection
+Condition Specified condition
+(Symbols)
+The specified condition
+should be checked after
+performing the following:
+• Motor activated:
+1. Move the shift lever
+E51-3 (IGE) - E51-1 Below 1 V
+to the P position
+(GND) • Motor not activated:
+2. Turn the engine
+10 to 12 V
+switch off
+3. Open the driver's
+door
+HINT:
+The steering lock ECU and steering lock actuator
+assembly are supplied as a unit.
+OK REPLACE STEERING LOCK ACTUATOR
+ASSEMBLY (STEERING LOCK ECU)
+NG
+2 CHECK HARNESS AND CONNECTOR (STEERING LOCK ACTUATOR ASSEMBLY - BODY
+GROUND)
+(a) Disconnect the E51 connector from the steering lock
+Steering Lock Actuator Assembly:
+actuator assembly.
+SR
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+E51 GND Tester connection
+Condition Specified condition
+(Symbols)
+E51-1 (GND) - Body
+Always Below 1 Ω
+ground
+C106484E28
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK

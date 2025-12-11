@@ -1,0 +1,24 @@
+ES–341
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(f) Securely apply the parking brake and move the gear
+selector lever to the D position (Procedure "A").
+(g) While depressing the brake pedal securely, fully depress
+the accelerator pedal for 5 seconds (Procedure "B").
+(h) On the tester, enter the following menus: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(i) Read the DTCs.
+HINT:
+The output voltage of the throttle position sensor can be
+checked during procedure "B" using the intelligent tester.
+Variations in the output voltage indicate that the throttle
+actuator is in operation. To check the output voltage
+using the intelligent tester, enter the following menus:
+DIAGNOSIS / ENHANCED OBD II / DATA LIST /
+PRIMARY / THROTTLE POS #1.
+ES
+OK:
+No DTC output.
+NG REPLACE THROTTLE BODY ASSEMBLY
+(See page ES-503)
+OK
+END

@@ -1,0 +1,30 @@
+Legend:
+E137 Convertible top switch
+F170 Convertible top right latch switch
+F171 Convertible top stowed switch
+F172 Convertible top front latch switch
+F202 Convertible top front switch
+F294 Convertible top lock open switch
+F295 2x convertible top lock closed switch
+(left/right)
+G596 Left convertible top cover sender
+G597 Right convertible top cover sender
+J256 Convertible top operation control unit
+J393 Convenience system central control unit
+J519 Onboard power supply control unit
+L72 Convertible top operating switch illumination
+V118 Convertible top operation hydraulic pump
+V223 Convertible top lock motor
+V381 Right convertible top cover motor
+V383 Left convertible top cover motor
+Z1 Heated rear window
+1 Convenience CAN bus (high)
+2 Convenience CAN bus (low)
+3 Terminal 58s
+4 to J393 (manual convertible top only)
+* Hall sensors are used with the automatic
+convertible top
+** a microswitch is used with the manual
+convertible top
+391_003
+35

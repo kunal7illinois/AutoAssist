@@ -1,0 +1,32 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-637
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 7. Check for open circuit between distributor
+connector B-22 terminal 3 and ECM connector C-51
+terminal 11 <M/T> or PCM connector C-52 terminal 11 <A/
+T>.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-22
+YES : Go to Step 8.
+NO : Repair it. Then confirm that the malfunction symptom
+is eliminated.
+AAKK000000221177AB
+CONNECTOR : C-51<M/T>, C-52<A/T>
+PCM<A/T> ECM<M/T>
+C-52 C-51
+AK000225AJ
+STEP 8. Check for open circuit between distributor
+connector B-22 terminal 2 and engine speed detection
+connector A-12X terminal 1.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-22
+YES : Replace the ECM or PCM. Then confirm that the
+malfunction symptom is eliminated.
+NO : Repair it. Then confirm that the malfunction symptom
+is eliminated.
+AAKK000000221177AB
+CONNECTOR: A-12X AC101133
+ENGINE SPEED
+DETECTION
+CONNECTOR
+AC101151AC
+TSB Revision

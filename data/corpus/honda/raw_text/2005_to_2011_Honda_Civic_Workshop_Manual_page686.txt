@@ -1,0 +1,34 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Shift Control
+The PCM instantly determines which gear should be selected by various signals
+sent from the sensors and the switches, and actuates shift solenoid valves A, B, C,
+and D to control gear selection.
+The shift solenoid valves are a normally closed type. When a shift solenoid valve is
+turned ON by the PCM, its port opens and the pressure from the shift solenoid valve
+(s) moves to the shift valves. When a shift solenoid valve is turned OFF by the
+PCM, its port closes, cutting off the pressure to the shift valves.
+The combination of driving signals to shift solenoid valves A, B, C, and D and their
+respective gear position are shown in the table.
+SHIFT LEVER GEAR POSITION
+Shift lever Gear Shift Solenoid Valves
+Position Position A B C D
+D, D3 Shifting from OFF OFF OFF OFF
+N
+Stays in 1st OFF ON OFF ON or OFF
+Shifting ON ON OFF ON or OFF
+gears
+between 1st
+and 2nd
+Stays in 2nd ON OFF OFF ON or OFF
+Shifting OFF OFF OFF ON or OFF
+gears
+between 2nd
+and 3rd
+Stays in 3rd OFF OFF ON ON or OFF
+D Shifting ON OFF ON ON or OFF
+gears
+between 3rd
+and 4th

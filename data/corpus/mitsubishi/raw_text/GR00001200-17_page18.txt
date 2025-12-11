@@ -1,0 +1,35 @@
+17-18 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+CONNECTORS: B-36, B-39 CONNECTOR: C-20
+BB--3366
+B-39
+AC103107AB AC001451AB
+CONNECTOR: C-28 CONNECTOR: C-77
+AC101201AB AC101196AC
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+The vehicle speed signals from the vehicle speed
+This circuit checks the operation of the vehicle speed
+sensor are not input to the auto-cruise control-ECU
+sensor.
+when the vehicle speed is 40 km/h (25 mph) or more.
+When the vehicle moves forward and reverses, the
+sensor turns ON and OFF repeatedly.
+.
+TROUBLESHOOTING HINTS
+. The most likely causes for this code to be set are:
+• Malfunction of the vehicle speed sensor.
+• Damaged harness or connector.
+• Malfunction of the auto-cruise control-ECU.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+STEP 1. Check the speedometer.
+Q:Does the speedometer work normally?
+YES : Go to Step 2.
+NO : Check the speedometer circuit and repair or replace
+as required.
+(Refer to GROUP 54A, Combination Meter Assembly
+and Vehicle Speed Sensor P.54A-40.)
+TSB Revision

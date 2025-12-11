@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+11. Start the engine. Hold the engine speed at 3,000 rpm without load (in Park or
+neutral) until the radiator fan comes on, then let it idle.
+12. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0181 indicated?
+YES -Check for poor connections or loose terminals at the fuel temperature
+sensor and the PCM, then go to step 1.
+NO -Go to step 13.
+13. Monitor the OBD STATUS for DTC P0181 in the DTCs MENU with the
+HDS.
+Does the screen indicate PASSED?
+YES -Troubleshooting is complete. If any other Temporary DTCs or DTCs
+were indicated in step 12, go to the indicated DTC's troubleshooting.
+NO -If the screen indicates FAILED, check for poor connections or loose
+terminals at the fuel temperature sensor and the PCM, then go to step 1. If the
+screen indicates NOT COMPLETED, go to step 10.
+DTC P0182: FUEL TEMPERATURE SENSOR CIRCUIT LOW VOLTAGE
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Turn the ignition switch ON (II).
+2. Check the FUEL TEMPERATURE SENSOR in the DATA LIST with the
+HDS.
+Is about 356 °F (180 °C) or more, or 0.08 V or less indicated?
+YES -Go to step 3.

@@ -1,0 +1,32 @@
+RS–122
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Front Passenger Side Rear Airbag Sensor Mal-
+DTC B1635/24
+function
+DESCRIPTION
+The rear airbag sensor RH consists of the safing sensor, the diagnostic circuit, the lateral deceleration
+sensor, etc.
+If the center airbag sensor assembly receives signals from the lateral deceleration sensor, it determines
+whether the SRS should be activated.
+DTC B1635/24 is recorded when a malfunction is detected in the front passenger side rear airbag sensor
+circuit.
+DTC No. DTC Detection Condition Trouble Area
+• Rear airbag sensor RH malfunction • Rear airbag sensor RH
+B1635/24
+• Center airbag sensor assembly malfunction • Center airbag sensor assembly
+WIRING DIAGRAM
+O7
+Side Airbag Sensor RH Center Airbag Sensor Assembly
+8
+BBR+ O1 BBP+
+4
+RS 11
+BBR- O1 BBP-
+3
+O9
+Rear Airbag Sensor RH
+BCR+ BCR+
+1 2
+BCR- BCR-
+2 1
+H045218E09

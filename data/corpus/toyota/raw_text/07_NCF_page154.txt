@@ -1,0 +1,28 @@
+ENGINE - 2GR-FE ENGINE EG-127
+7. ACIS (Acoustic Control Induction System)
+General
+The ACIS is realized by using a bulkhead to divide the intake manifold into 2 stages, with an intake air
+control valve in the bulkhead being opened and closed to vary the effective length of the intake manifold
+in accordance with the engine speed and throttle valve opening angle. This increases the power output in
+all ranges from low to high speed.
+(cid:1) System Diagram (cid:2)
+Engine
+Speed Throttle Opening Angle
+Throttle Position
+Sensor
+Throttle Valve
+ECM
+Actuator
+Intake Air Control Valve
+285EG58
+Construction
+1) Intake Air Control Valve
+The intake air control valve, which is Intake Air
+provided in the intake air chamber, open Control Valve
+and close to change the effective length of
+the intake manifold in 2 stages.
+2) Actuator (Motor)
+The actuator activates the intake air control
+valve based on signals from the ECM.
+Actuator
+285EG64

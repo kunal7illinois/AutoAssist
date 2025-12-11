@@ -1,0 +1,53 @@
+DL–203
+DOOR LOCK – KEY REMINDER WARNING SYSTEM
+(c) Measure the resistance and voltage according to
+the value(s) in the table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+GND1 (IF-10) - Body ground
+W-B - Body ground Ground Always Below 1 Ω
+GND2 (IM-9) - Body ground
+BECU*1 (ID-10) - Body ground O*1 - Body ground
+Power source Always 10 to 14 V
+BATB*2 (IA-1) - Body ground B*2 - Body ground
+Switch pushed (Door
+DCTY (E7-24) - Body ground L - Body ground Driver door courtesy light closed) Below 1 Ω
+switch signal
+Switch free (Door opened) 10 kΩ or higher
+No key is in ignition key
+10 kΩ or higher
+Key unlock warning switch cylinder
+KSW (E9-5) - Body ground L - Body ground
+signal Key is in ignition key
+Below 1 Ω
+cylinder
+*1: for TMC Made
+*2: for TMMK Made
+HINT:
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+DIAGNOSIS SYSTEM
+CG SG CANH SIL 1. CHECK DLC3
+(a) The vehicle's ECU uses ISO 15765-4 for
+communication protocol. The terminal arrangement
+of the DLC3 complies with SAE J1962 and matches
+the ISO 15765-4 format.
+CANL BAT
+H100769E16
+Symbols (Terminal No.) Terminal Description Condition Specified Condition
+SIL (7) - SG (5) Bus "+" line During transmission Pulse generation
+CG (4) - Body ground Chassis ground Always Below 1 Ω
+SG (5) - Body ground Signal ground Always Below 1 Ω
+BAT (16) - Body ground Battery positive Always 10 to 14 V
+CANH (6) - CANL (14) CAN bus line Ignition switch OFF* 54 to 69 Ω
+CANH (6) - CG (4) HIGH-level CAN bus line Ignition switch OFF* 200 Ω or higher
+CANL (14) - CG (4) LOW-level CAN bus line Ignition switch OFF* 200 Ω or higher
+CANH (6) - BAT (16) HIGH-level CAN bus line Ignition switch OFF* 6 kΩ or higher DL
+CANL (14) - BAT (16) LOW-level CAN bus line Ignition switch OFF* 6 kΩ or higher
+NOTICE:
+*: Before measuring the resistance, leave the
+vehicle as is for at least 1 minute and do not
+operate the ignition switch, any other switches
+or the doors.
+If the result is not as specified, the DLC3 may have
+a malfunction. Repair or replace the harness and
+connector.

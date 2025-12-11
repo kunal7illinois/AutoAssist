@@ -1,0 +1,44 @@
+EI–89
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+DTC B2799 Engine Immobiliser System
+DESCRIPTION
+This DTC is output when the ECM detects errors in communication with the transponder key ECU, and in
+the communication lines.
+This DTC is also output when an engine start is attempted while the ECU communication ID between the
+transponder key ECU and the ECM is different.
+Before troubleshooting for this DTC, make sure that there is no DTC detected in the transponder key
+ECU. If there is any key code related DTC detected in the transponder key ECU, repair it first.
+DTC No. DTC Detection Condition Trouble Area
+Error in communication between ECM and transponder
+• Wire harness
+key ECU assembly, and in communication line
+B2799 • Transponder key ECU assembly
+Communication ID is different during communication
+• ECM
+with transponder key ECU
+WIRING DIAGRAM
+E15
+Transponder Key
+ECU Assembly
+ECM
+10 10 13
+G G 12
+IMO A55*2 A24*1 AE5 EFII
+11 11 7
+Y L 13
+IMI A55*2 A24*1 AE5 EFIO
+EI
+*1: for 2AZ-FE
+*2: for 2GR-FE
+B128330E05
+INSPECTION PROCEDURE
+NOTICE:
+• If the transponder key ECU assembly is replaced, register the key and ECU communication ID
+(See page EI-57).
+• If the ECM is replaced, register the ECU communication ID (See page EI-57).
+1 RE-REGISTER ECU COMMUNICATION ID
+(a) Re-register the ECU communication ID (See page EI-57)
+between the transponder key ECU assembly and ECM.
+(b) Check that the engine starts.
+OK:
+The engine starts.

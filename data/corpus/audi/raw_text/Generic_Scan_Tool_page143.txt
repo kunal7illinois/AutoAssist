@@ -1,0 +1,53 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Checking voltage
+– Disconnect the Low Fuel Pressure Sensor -G410- electrical
+harness connector -2-.
+– Switch the ignition on.
+– Using a multimeter, check the Low Fuel Pressure Sensor -
+G410- electrical harness connector for voltage.
+Low Fuel Pressure Sensor -G410- Specified value
+electrical harness connector ter‐
+minals
+1 to Battery positive (+) Battery voltage
+2 to Ground (GND) Near 0 volts
+3 to Ground (GND) 5 V
+– Switch the ignition off.
+If the specified value was obtained:
+– Replace the Low Fuel Pressure Sensor -G410- . Refer to ap‐
+propriate service manual.
+If the specified value was Not obtained:
+Checking wiring
+If the manufacturers test box is being used, perform the following
+step.
+– Install the test box.
+If the manufacturers test box is not being used, perform the fol‐
+lowing step.
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+appropriate service manual.
+– Using a multimeter, check the Low Fuel Pressure Sensor -
+G410- electrical harness connector terminals to the Engine
+Control Module (ECM) -J623- electrical harness connector
+T94 terminals for an open circuit according to the wiring dia‐
+gram.
+Low Fuel Pressure Sensor - Engine Control Module
+G410- electrical harness connec‐ (ECM) -J623- electrical con‐
+tor terminals nector T94 terminals or test
+box socket
+1 53
+2 35
+3 19
+Specified value: 1.5 Ω Max.
+If the specified value was Not obtained:
+– Check the wiring for an open, high resistance, short to Battery
+(+) or Ground (GND).
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is detected in the wiring :
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+appropriate service manual.
+– Install the engine cover with air filter. Refer to appropriate
+service manual.
+139
+3. Diagnosis and Testing

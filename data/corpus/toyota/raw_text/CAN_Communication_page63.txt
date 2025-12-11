@@ -1,0 +1,37 @@
+CA–63
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+(b) with Smart Key System
+Main Body ECU Connector (Front View):
+(1) Disconnect the E8 main body ECU connector.
+(2) Measure the resistance according to the value(s) in
+E8 the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E8-4 (GND3) - Body
+Always Below 1 Ω
+ground
+GND3
+CA
+B137983E03
+(3) Disconnect the E6 and E7 main body ECU
+Wire Harness Side: connectors.
+(4) Measure the voltage according to the value(s) in the
+E7
+table below.
+Main Body ECU Standard voltage
+Tester Connection Condition Specified Condition
+E7-6 (AM1) - Body
+Always 10 to 14 V
+ground
+E6-1 (AM2) - Body
+AM1 Always 10 to 14 V
+ground
+*: TMC Made only
+(5) Reconnect the main body ECU connectors.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E6
+AM2
+B138000E01
+OK
+REPLACE MAIN BODY ECU

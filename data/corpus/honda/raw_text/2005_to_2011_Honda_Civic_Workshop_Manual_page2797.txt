@@ -1,0 +1,25 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Gauges - Civic (All Except Hybrid)
+Fig. 5: Checking Gauge Drive Circuit Blinking Pattern
+If the needle fails to sweep, or the beeper does not sound, replace the gauge control
+module (tach).
+THE COMMUNICATION LINE CHECK
+While in the self-diagnostic mode, the Communication Line Check starts after the
+LCD Segments Check.
+If all segments come on, the communication line is OK. If faulty, the word "Error"
+will be indicated on the odometer display followed by number(s).
+4-DOOR ERROR CODE LIST
+Error code Type of communication line(s) error
+Error 1 F-CAN communication
+Error 2 B-CAN communication
+Error 3 UART communication
+Error 12 F-CAN and B-CAN communication
+Error 13 F-CAN and UART communication
+Error 23 B-CAN and UART communication
+Error 123 F-CAN, B-CAN and UART communication
+2-DOOR ERROR CODE LIST
+Error code Type of communication line(s) error
+Error 1 F-CAN communication
+Error 2 B-CAN communication
+Error 3 F-CAN and B-CAN communication

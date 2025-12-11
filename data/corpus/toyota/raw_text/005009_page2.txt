@@ -1,0 +1,60 @@
+ES–42
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+FREEZE FRAME DATA
+1. DESCRIPTION
+Freeze frame data records the engine conditions (fuel
+system, calculated load, engine coolant temperature,
+fuel trim, engine speed, vehicle speed, etc.) when a
+malfunction is detected. When troubleshooting, it can
+help determine if the vehicle was running or stopped, the
+engine was warmed up or not, the air-fuel ratio was Lean
+or Rich, and other data from the time the malfunction
+occurred.
+HINT:
+If it is impossible to duplicate the problem even though a
+ES DTC is detected, confirm the freeze frame data.
+The ECM records engine conditions in the form of freeze
+frame data every 0.5 seconds. Using the intelligent
+DTC set.
+tester, 5 separate sets of freeze frame data can be
+checked.
+– 3 data sets before the DTC was set.
+0.5 seconds0.5 seconds0.5 seconds
+– 1 data set when the DTC was set.
+– 1 data set after the DTC was set.
+These data sets can be used to simulate the condition
+of the vehicle around the time of the occurrence of the
+malfunction. The data may assist in identifying the
+cause of the malfunction, and in judging whether it
+was temporary or not.
+Freeze frame data which can be read 2. LIST OF FREEZE FRAME DATA
+A103809E11
+LABEL
+Measurement Item Diagnostic Note
+(Intelligent Tester Display)
+INJECTOR Injection period of No. 1 cylinder -
+IGN ADVANCE Ignition advance -
+CALC LOAD Calculated load Calculated load by ECM
+VEHICLE LOAD Vehicle load -
+If approximately 0.0 g/sec.:
+• Mass air flow meter power source circuit
+open or short
+MAF Mass air flow volume
+• VG circuit open or short
+If 160.0 g/sec. or more:
+• E2G circuit open
+ENGINE SPD Engine speed -
+VEHICLE SPD Vehicle speed Speed indicated on speedometer
+If -40°C (-40°F), sensor circuit open
+COOLANT TEMP Engine coolant temperature If 140°C (284°F) or more, sensor circuit
+shorted
+If -40°C (-40°F), sensor circuit open
+INTAKE AIR Intake air temperature If 140°C (284°F) or more, sensor circuit
+shorted
+AIR-FUEL RATIO Ratio compared to stoichiometric level -
+PURGE DENSITY Learning value of purge density -
+Ratio of evaporative purge flow to intake air -
+EVAP PURGE FLOW
+volume
+EVAP PURGE VSV EVAP purge VSV duty ratio -
+KNOCK CRRT VAL Correction learning value of knocking -

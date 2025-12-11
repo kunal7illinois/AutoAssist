@@ -1,0 +1,41 @@
+AV–35
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+Example:
+Service Check Mode
+(*1) (*2)
+(*1) (*2) Detailed Information Mode
+Component which has stored this code
+(*1) (*2)
+(*1) (*2) (*3)
+(*1) (*2) (*4)
+(*2)
+(*1) (*2)
+Continues to display check result when
+more components are installed.
+(*1) (*2)
+(*1) (*2)
+(*1) (*2) DTC
+(*1) (*2)
+Continues to display detailed information of
+(*1)
+the first code.
+*1: SEEK TRACK DOWN (*1) (*2)
+*2: SEEK TRACK UP Continues to display detailed information when
+more DTCs are detected.
+*3: PRESET SWITCH “2”
+*4: PRESET SWITCH “3”
+(*1) (*2)
+E110915E04
+(b) Press the preset switch "3" to change to "Detailed
+Information Mode".
+(c) Identify the component which has stored this code.
+Component Table:
+Component Physical address
+Stereo component amplifier 440 AV
+"Bluetooth" handsfree module 19D
+HINT:
+• "440 (stereo component amplifier)" is the component
+which has stored this code in the example shown in the
+illustration.
+• For details of the DTC display, refer to "DTC CHECK/
+CLEAR" (See page AV-19).

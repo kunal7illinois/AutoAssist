@@ -1,0 +1,52 @@
+BC–28
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+FREEZE FRAME DATA
+1. FREEZE FRAME DATA
+(a) Whenever a DTC is detected or the ABS operates,
+the skid control ECU stores the current vehicle
+(sensor) status as Freeze Frame Data.
+(b) The skid control ECU stores the number of times
+(maximum: 31) the ignition switch has been turned
+from off to on (IG) since the last time the ABS was
+activated.
+HINT:
+• Freeze frame data at the time the ABS operates:
+The skid control ECU stores and updates data
+whenever the ABS system operates.
+When the skid control ECU stores data at the
+time a DTC is detected, the data stored during
+ABS operation is erased.
+• Freeze frame data at the time a DTC is detected:
+BC When the skid control ECU stores data at the
+time a DTC is detected, no updates will be
+performed until the data is cleared.
+(c) Connect the intelligent tester to the DLC3.
+Intelligent Tester
+(d) Turn the ignition switch on (IG).
+(e) Select "DTC INFO" on the tester display.
+(f) On the DTC data display screen, select the DTC
+data display with "*".
+DLC3
+CAN VIM
+C131977E05
+Intelligent Tester Display Measurement Item Reference Value
+TROUBLE CODE Freeze DTC min.: 0, max.: 65535
+#DTC Number of trouble codes min.: 0, max.: 255
+FREEZE TIME Elapsed time after freeze trigger Min.: 0 ms, Max.: 500 ms
+Number of operations of ignition switch on
+#IG ON 0 to 31
+(IG) after storing freeze frame data
+STOP LAMP SW Stop light switch signal Stop light switch ON: ON, OFF: OFF
+ON: Parking brake on
+PARKING BRAKE SW Parking brake condition
+OFF: Parking brake off
+OPERATED SYSTEM Operated system ABS operated: ABS
+Min.: 0 MPH (0 km/h), Max.: 202 MPH (326
+FR WHEEL SPD Front right wheel speed
+km/h)
+Min.: 0 MPH (0 km/h), Max.: 202 MPH (326
+FL WHEEL SPD Front left wheel speed
+km/h)
+Min.: 0 MPH (0 km/h), Max.: 202 MPH (326
+RR WHEEL SPD Rear right wheel speed
+km/h)

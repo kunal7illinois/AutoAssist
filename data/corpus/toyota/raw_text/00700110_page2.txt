@@ -1,0 +1,55 @@
+EM–2
+2AZ-FE ENGINE MECHANICAL – ENGINE
+(2) Open the ignition cover located to the right of
+the No. 4 ignition coil.
+(3) Pull out the wire harness from the IG cover.
+(4) Connect a timing light to the wire harness.
+NOTICE:
+Use a timing light that detects the first
+signal.
+A112264
+(5) Using SST, connect terminals 13 (TC) and 4
+(CG) of the DLC3.
+CG SST 09843-18040
+(6) Allow the engine to idle and check the ignition
+timing.
+EM Standard ignition timing:
+8 to 12° BTDC @ idle
+HINT:
+DLC3 TC Run the engine at 1,000 to 1,300 rpm for 5
+seconds, then check that the engine speed
+H100769E05
+returns to the idling speed.
+(7) Remove SST from the DLC3.
+(8) Allow the engine to idle and check the ignition
+timing.
+Standard ignition timing:
+5 to 15° BTDC
+(9) Check that the ignition timing advances
+immediately when the engine speed is
+increased.
+(10) Turn the ignition switch OFF.
+(11) Remove the timing light.
+(12) Close the IG cover.
+(13) Install the No. 1 engine cover (see page EM-
+43).
+8. INSPECT ENGINE IDLE SPEED
+Intelligent Tester
+(a) When using intelligent tester:
+(1) Turn OFF all the accessories and air
+conditioning.
+(2) Move the shift lever to P or neutral.
+(3) Connect the intelligent tester to the DLC3.
+(4) Warm up the engine.
+(5) Select the tester menus:
+DIAGNOSIS / ENHANCED OBD II / DATA LIST
+/ PRIMARY / ENGINE SPD.
+DLC3 (6) Read ENGINE SPEED to check the idle speed
+while the radiator-cooling fan is not rotating.
+Standard idle speed:
+CAN VIM 600 to 700 rpm
+(7) Turn the ignition switch OFF.
+B127989E03 (8) Disconnect the tester from the DLC3.
+(b) When not using intelligent tester:
+(1) Turn OFF all the accessories and air
+conditioning.

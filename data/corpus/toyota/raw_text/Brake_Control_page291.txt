@@ -1,0 +1,30 @@
+BC–280
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+2. FUNCTION DESCRIPTION
+(a) ABS (Anti-lock Brake System)
+The ABS helps prevent the wheels from locking
+when the brakes are applied firmly or when braking
+on a slippery surface.
+Brake Actuator Assembly
+Pump Motor
+Each Speed Each Wheel
+Sensor Cylinder
+Skid Control ECU
+Solenoid Valves
+BC
+Combination Meter
+ABS Warning
+Light
+CAN Communication System
+Hydraulic Pressure
+C132008E02
+(1) Operation description
+The skid control ECU detects wheel lock
+condition by receiving vehicle speed signals
+from each speed sensor, and sends control
+signals to the pump motor and solenoid valves.
+The pump motor and solenoid valves avoid
+wheel lock by controlling the hydraulic pressure
+of each wheel cylinder.
+The ABS warning light comes on when the ABS
+system is malfunctioning.

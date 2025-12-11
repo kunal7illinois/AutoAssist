@@ -1,0 +1,45 @@
+Audi A1 2011 ➤ , Audi A2 2001 ➤ , Audi A3 2004 ➤ , Audi A4 2001 ➤ , Au ...
+Electrical system; General information - Edition 10.2010
+Note
+♦ When charging with battery charger -VAS 5095A- , current
+draw of battery must be measured using e.g. trigger clamp,
+100A -VAS 5051B/7- . Battery chargers -VAS 5900- , -VAS
+5903- , -VAS 5904- and -VAS 5906- indicate the current draw
+on the unit.
+♦ Information on battery chargers ⇒ Operating instructions for
+appropriate battery charger.
+Procedure
+• Battery temperature must be at least +10 °C.
+• The battery charger must be capable of supplying a charging
+current of at least 30 A, as is the case for example with the
+battery chargers -VAS 5095A- , -VAS 5900- , -VAS 5903- , -
+VAS 5904- and -VAS 5906- .
+• Battery charger connected and switched on
+– Measure battery charging current after a charging period of 5
+minutes.
+• Specification: Charging current must be greater than 10 % of
+rated capacity.
+• Example: Charging current for a 60 Ah battery after 5 minute
+charging period: greater than 6 A.
+– If reading matches specification, continue with charging proc‐
+ess until battery is fully charged.
+– Then check battery using vehicle diagnostic tester
+⇒ page 29 .
+– If reading is below specification, renew battery ⇒ Electrical
+system; Rep. gr. 27 .
+Note
+Observe disposal regulations if battery has to be renewed
+⇒ page 4 .
+5.3 Measuring no-load voltage - vehicles
+with battery monitor control unit -J367-
+or energy management control unit -
+J644- „transport mode not active“
+Note
+No-load voltage measurement for assessment of battery condi‐
+tion is only advisable if it is not possible to test the battery with a
+vehicle diagnostic tester and if transport mode is not active in
+battery monitor control unit -J367- or energy management control
+unit -J644- .
+Special tools and workshop equipment required
+32
+Rep. gr.27 - Starter, current supply, CCS

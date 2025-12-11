@@ -1,0 +1,29 @@
+ST–93
+2GR-FE STARTING – SMART KEY SYSTEM
+DTC B2289 Key Collation Waiting Time Over
+DESCRIPTION
+This DTC is output when there is a LIN communication problem between the main body ECU and
+certification ECU or when there is a problem in the engine immobiliser system.
+HINT:
+After the main body ECU is replaced, perform the registration procedures for the engine immobiliser
+system (See page EI-8).
+DTC No. DTC Detection Condition Trouble Area
+Either condition below is met: • Main body ECU
+• Cable and CAN are abnormal between the main • Engine immobiliser system
+B2289
+body ECU and the engine immobiliser system • Wire harness or connector
+• The engine immobiliser system is malfunctioning • Certification ECU
+B2785 Detection Area
+Main Body ECU
+CAN
+CAN Line
+B2289 Detection Area
+Certification ECU
+MPX1
+LIN Line
+Steering Lock ECU
+ID Code ECU
+SSW1
+SSW2
+Engine Switch
+B137997E02 ST

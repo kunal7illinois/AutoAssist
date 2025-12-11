@@ -1,0 +1,26 @@
+ES–476
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+INSPECTION PROCEDURE
+1 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (VSV FOR AICV)
+(a) Turn the ignition switch on (IG) and turn the intelligent
+VSV is ON VSV is OFF
+tester ON.
+(b) Select the following menu items: DIAGNOSIS /
+Air
+Air ENHANCED OBD II / ACTIVE TEST / INTAKE CTL
+VSV1 and operate the VSV for AICV.
+(c) Check the operation of the VSV when the VSV is
+operated by the intelligent tester.
+Standard
+Port F Port F
+Port E Port E Tester Operation Specified Condition
+ES A067588E07 VSV is ON Air from port E flows out through port F
+VSV is OFF Air from port E flows out through the air filter
+OK Go to step 4
+NG
+2 CHECK VSV (FOR AICV)
+(a) Inspect the intake air control valve assembly (See page
+IT-5).
+NG REPLACE INTAKE AIR CONTROL VALVE
+ASSEMBLY
+OK

@@ -1,0 +1,46 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-581
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC is output?
+MB991502 YES : Refer to, Diagnostic Trouble Code Chart P.13B-22.
+AKX01177AB NO : Check the following items, and repair or replace the
+defective items.
+a. Check the ignition coil, spark plugs, spark plug
+cables.
+b. Check for occurrence of ignition leak.
+Then confirm that the malfunction symptom is
+eliminated.
+INSPECTION PROCEDURE 17: Deceleration Shock
+. .
+COMMENT TROUBLESHOOTING HINTS (The most likely
+• There may be a sudden change in air flow causes for this case:)
+through the IAC, causing the vehicle to deceler- • Malfunction of the IAC system.
+ate rapidly for an instant.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC is output?
+MB991502 YES : Refer to, Diagnostic Trouble Code Chart P.13B-22.
+AKX01177AB NO : Go To Step 2.
+TSB Revision

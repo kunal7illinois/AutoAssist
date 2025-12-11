@@ -1,0 +1,39 @@
+ES–125
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+Throttle Position Sensor (Built into Throttle Body)
+ECM
+VTA VTA1
+IC
+VC VCTA
+ES
+IC VTA2 VTA2
+E2 ETA
+A127253E01
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 READ VALUE USING INTELLIGENT TESTER (THROTTLE POS #1 AND THROTTLE POS
+#2)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / ETCS / THROTTLE
+POS #1 and THROTTLE POS #2.
+(d) Check the values displayed on the tester.
+Result
+TP#1 (VTA1) TP#2 (VTA2) TP#1 (VTA1) TP#2 (VTA2)
+When Accelerator When Accelerator When Accelerator When Accelerator Trouble Areas Proceed To
+Pedal Released Pedal Released Pedal Depressed Pedal Depressed
+0 V to 0.2 V 0 V to 0.2 V 0 V to 0.2 V 0 V to 0.2 V VC circuit open
+4.5 V to 5.0 V 4.5 V to 5.0 V 4.5 V to 5.0 V 4.5 V to 5.0 V E2 circuit open
+0 V to 0.2 V, 2.4 V to 3.4 V 0 V to 0.2 V, 2.4 V to 3.4 V VTA1 circuit open or A
+or 4.5 V to 5.0 V (Fail-safe) or 4.5 V to 5.0 V (Fail-safe) ground short
+0.7 V to 1.3 V 0 V to 0.2 V, 0.7 V to 1.3 V 0 V to 0.2 V, VTA2 circuit open or
+(Fail-safe) or 4.5 V to 5.0 V (Fail-safe) or 4.5 V to 5.0 V ground short
+3.3 V to 4.9 V 4.6 V to 5.0 V TP sensor circuit
+0.5 V to 1.1 V 2.1 V to 3.1 V B
+(Not fail-safe) (Not fail-safe) normal

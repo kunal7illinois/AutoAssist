@@ -1,0 +1,32 @@
+13A-392 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502, read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the diagnostic trouble code other than P0506 output?
+MB991502 YES : Refer to, Diagnostic Trouble Code Chart P.13A-22.
+AKX01177AB NO : Go to Step 2.
+STEP 2. Check the throttle body. (throttle valve area)
+Q:Is the throttle valve area dirty?
+YES : Perform cleaning. Refer to, Throttle body (throttle
+valve area) cleaning P.13A-575. Then go to Step 14.
+NO : Go to Step 3.
+STEP 3. Check connector B-34 at idle air control motor for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR:B-34
+YES : Go to Step 4.
+IDLE AIR
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+CONTROL MOTOR
+Connector Inspection P.00E-2. Then go to Step 14.
+ACX02519AI
+TSB Revision

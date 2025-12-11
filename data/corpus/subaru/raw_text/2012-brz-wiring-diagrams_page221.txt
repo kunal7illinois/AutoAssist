@@ -1,0 +1,39 @@
+A12
+Front Speed Sensor LH
+1 2
+4 16 32
+W B
+A42
+Front Speed Sensor RH
+1 2
+B–G
+L
+O–G
+G GL
+B–GL
+2 1 2 1
+G9 H12
+L G GL
+B–GL
+9 GD1 10 GD1
+Y P
+16 HD1 17 HD1
+GL RB
+13 A5
+Rear Speed Sensor RH
+B
+19
+GND2
+17 29 31 18
+19 AD1 20 AD1 37 AD1 38 AD1
+Rear Speed Sensor LH
+A1
+B W B W
+FR– FR+ FL– FL+
+W B W B
+FR– FR+ FL– FL+
+RR+ RR– RL+ RL–
+VSC (VDC) Control Module
+RR+ RR– RL+ RL–
+221
+BRZ (G4400BE)

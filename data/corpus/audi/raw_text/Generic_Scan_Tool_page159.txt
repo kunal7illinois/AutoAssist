@@ -1,0 +1,53 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+If the specified value was obtained:
+Checking voltage supply
+– Turn the ignition switch ON
+– Using a multimeter, check the Oxygen Sensor (O2S) Heater -
+Z19- electrical harness connector terminal 4 to engine ground
+for voltage.
+Specified value: Battery voltage.
+– Switch the ignition OFF.
+If the specified value was Not obtained:
+– Check the wiring for an open, high resistance or short to
+Ground and replace any open fuse.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If the specified value was obtained:
+Checking Ground activation
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual .
+– Using a multimeter, check the Oxygen Sensor (O2S) Heater -
+Z19- electrical harness connector terminal 3 to the Engine
+Control Module (ECM) -J623- electrical harness connector
+T94 terminal 51 for an open circuit. Refer to Wiring Diagrams
+for pin locations.
+Heated Oxygen Sensor Engine Control Module (ECM) -
+(HO2S) -G39- electrical har‐ J623- electrical connector T94
+ness connector terminal terminal or test box socket
+3 51
+Specified value: 1.5 Ω max.
+If the specified value was Not obtained:
+– Check the wiring for an open, high resistance, short circuit to
+each other, Battery (+) or Ground.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is detected in the wiring and if the voltage supply
+was OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual .
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+155
+3. Diagnosis and Testing

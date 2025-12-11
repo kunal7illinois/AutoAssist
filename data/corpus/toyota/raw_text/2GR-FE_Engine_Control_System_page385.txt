@@ -1,0 +1,47 @@
+ES–385
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+ECM / PCM Internal Engine Off Timer Perfor-
+DTC P2610
+mance
+DTC SUMMARY
+Detection
+DTC No. Monitoring Item DTC Detection Condition Trouble Area Detection Timing
+Logic
+Soak timer (built
+P2610 ECM internal malfunction ECM Engine running 2 trip
+into ECM)
+DESCRIPTION
+To ensure the accuracy of the EVAP (Evaporative Emission) monitor values, the soak timer, which is built
+into the ECM, measures 5 hours (+/- 15 minutes) from when the ignition switch is turned off, before the
+monitor is run. This allows the fuel to cool down, which stabilizes the Fuel Tank Pressure (FTP). When 5 ES
+hours have elapsed, the ECM turns on.
+Soak Timer Circuit (fig. 3):
+ECM
+IG2
+IGN IGSW
+Soak Timer
+IC
+IG2
+Ignition Switch
+Main Body
+ST/AM2 ECU
+IG2D
+Power
++B
+Source IC
+EFI
+EFI MAIN EFI No. 2
+FL MAIN
+Main Relay
+MREL
+Control IC
+Battery
+A136968E01
+MONITOR DESCRIPTION
+5 hours after the ignition switch is turned off, the soak timer activates the ECM to begin the EVAP system
+monitor. While the engine is running, the ECM monitors the synchronization of the soak timer and the
+CPU clock. If these two are not synchronized, the ECM interprets this as a malfunction, illuminates the
+MIL and sets the DTC (2 trip detection logic).
+MONITOR STRATEGY
+Required Sensors/Components ECM
+Frequency of Operation Once per driving cycle

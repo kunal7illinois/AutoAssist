@@ -1,0 +1,38 @@
+Audi TT No. 2 / 12
+Current Flow Diagram
+Engine control unit, intake air temperature sender, coolant
+temperature sender, fuel pressure sender, Hall sender
+G40 Hall sender
+G42 Intake air temperature sender
+G62 Coolant temperature sender
+G247 Fuel pressure sender
+J623 Engine control unit
+T6p 6-pin connector, black, on front of engine
+T60 60-pin connector, on engine control unit
+220 Earth connection (sender earth), in engine wiring harness
+D102 Connection 2, in engine compartment wiring harness
+J623
+T60/10 T60/13 T60/25 T60/26 T60/44
+0,5 0,5 0,35 0,5 0,35
+ge ws/ro gr/bl sw/gr gn/li
+1 1
+G247 G40
+ϑ ϑ
+G62 G42
+2 2 2/S 1/-- 3/+ 1/+ 3/-- 2/S
+0,5 0,5 0,35 0,35 0,35 0,35 0,35 0,35
+br/bl br/bl gr/bl br/bl sw/gr sw/gr br/bl gn/li
+T6p/2 T6p/1 T6p/3 T6p/4 T6p/6 T6p/5
+0,35 0,35 0,35 0,35 ws = white
+br/bl sw/gr sw/gr br/bl sw = black
+D102 ro = red
+br = br own
+gn = gr e en
+220 bl = blue
+220 gr = grey
+li = purple
+ge = yellow
+141 142 143 144 145 146 147 148 149 150 151 152 153 154 or = orange
+8J0-002120806
+rs = pink
+Edition 04.2010

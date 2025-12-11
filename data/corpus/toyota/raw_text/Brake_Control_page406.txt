@@ -1,0 +1,47 @@
+BC–395
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+WIRING DIAGRAM
+Brake Actuator Assembly
+F1
+(Skid Control ECU)
+Combination Meter
+35
+A60 CANH
+CANH 17
+(*3)
+VSC 14
+Multi-display MICRO
+IG+ A60 CANL
+(*4) COMPUTER CANL 18
+IG1
+BC
+ECU IG No. 2 28
+A60 IG1
+5 3
+2 1
+E23
+Ignition SW
+AM1
+(*2) (*2)
+4 AM1 IG1 1
+Main Body ECU
+(*1)
+ALT 6
+E7 AM1 3
+IG1D E7
+AM2 1
+(*1)
+E6 AM2
+4
+A60 GND1
+FL MAIN
+1
+*1: with Smart Key System
+A60 GND2
+Battery *2: without Smart Key System
+*3: without Multi-Information Display
+*4: with Multi-Information Display
+C136510E03
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).

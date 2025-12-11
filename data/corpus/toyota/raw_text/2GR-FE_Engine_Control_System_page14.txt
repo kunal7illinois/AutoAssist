@@ -1,0 +1,41 @@
+ES–14
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+B Canister Pump Module ECM
+KNK1
+VPMP
+EPPM EKNK
+Knock Sensor (Bank 1)
+PPMP
+VCPP
+KNK2
+ES MPMP
+EKN2
+Knock Sensor (Bank 2)
+VVT Sensor VV1+
+(Bank 1 Intake Side) #10
+VV1-
+VCV1 No. 1 Fuel Injector
+#20
+VVT Sensor VV2+ No. 2 Fuel Injector
+(Bank 2 Intake Side)
+VV2-
+VCV2
+#30
+No. 3 Fuel Injector
+VVT Sensor EV1+
+(Bank 1 Exhaust Side) #40
+EV1-
+No. 4 Fuel Injector
+VCE1
+#50
+VVT Sensor EV2+ No. 5 Fuel Injector
+(Bank 2 Exhaust Side)
+EV2-
+VCE2
+#60
+No. 6 Fuel Injector
+CANH
+To Main Body ECU
+To IG2 Relay
+CANL
+A137632E02

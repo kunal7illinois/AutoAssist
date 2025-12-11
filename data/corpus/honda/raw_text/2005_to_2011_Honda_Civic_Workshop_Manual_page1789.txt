@@ -1,0 +1,32 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EGR System (R18A1) - Civic (All Except Hybrid)
+A/T in D position (M/T in 4th gear)
+(cid:1)
+Vehicle speed at 25 mph (40 km/h) for 5 minutes or more
+(cid:1)
+Maintain the vehicle speed at 32 mph (50 km/h) for 5 minutes or more
+(cid:1)
+with cruise control set
+11. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0400 indicated?
+YES - Check for poor connections or loose terminals at the EGR valve and the
+ECM/PCM, then go to step 1.
+NO - Go to step 12.
+12. Monitor the OBD STATUS for DTC P0400 in the DTCs MENU with the
+HDS.
+Does the screen indicate PASSED?
+YES - Troubleshooting is complete. If any other Temporary DTCs or DTCs
+were indicated in step 11, go to the indicated DTCs troubleshooting.
+NO - If the screen indicates FAILED, check for poor connections or loose
+terminals at the EGR valve and the ECM/PCM, then go to step 1. If the screen
+indicates NOT COMPLETED, go to step 10.
+DTC P0401: EGR INSUFFICIENT FLOW
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Start the engine. Hold the engine speed at 3,000 rpm without load (in Park or
+neutral) until the radiator fan comes on, then let it idle.

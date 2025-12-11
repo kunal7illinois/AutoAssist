@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Navigation System - Civic (Except Hybrid)
+Fig. 61: Diagnostic Menu Screen Display - Yaw Rate
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+YAW RATE TUNING
+This diagnostic allows you to graphically display problems with the yaw rate
+sensor.
+The ANG-Disp value accumulates any differences between the offset, and
+(cid:1)
+sensor voltages (see Yaw Rate diagnostic). When the sensor is healthy, the
+random changes in these two voltages generally cancels out, so the value is 0.
+However if one voltage is consistently higher than the other, then the ANG-
+Disp value accumulates the constant change.
+The Reset button temporarily clears the angular accumulation (ANG-Disp),
+(cid:1)
+and clears the display dots.
+Do not touch the CCW or CW, or Set buttons. These are used for factory setup
+(cid:1)
+only.
+For serious problems with the sensor, the stationary test usually confirms whether
+the sensor is defective. For yaw rate issues related to driving, perform the road test
+described below.
+1. Stationary test: If the-VP icon spins in place and the ANG-Disp value slowly
+increases or decreases in value, the yaw rate sensor is defective. Replace the
+Navigation unit.
+2. Road test: Drive the vehicle on a very straight road. Enter the diagnostic mode,
+select Yaw rate, and touch the Tuning button. While driving down a straight
+road, the white dots should trace a straight line across the screen. However, if
+you are driving on a straight road, and you notice the dots constantly dropping
+down or heading up as you drive, the navigation unit's yaw sensor is defective.

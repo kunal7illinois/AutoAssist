@@ -1,0 +1,29 @@
+23A-70 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+DTC 15: A/T Fruid Tempeature Sensor System (Open Circuit)
+A/T Fluid Temperature Sensor System Circuit
+AC102446AB
+CONNECTOR: B-40 CONNECTORS: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE>, C-61 <2.4L ENGINE>
+OR C-63 <3.0L ENGINE>
+PCM
+B-40 C-61 <2.4L ENGINE>
+OR
+C-63 <3.0L ENGINE>
+C-54 <2.4L ENGINE> OR
+ACX02479AK C-55 <3.0L ENGINE> AC001657BD
+. .
+CIRCUIT OPERATION DTC SET CONDITIONS
+• The PCM (terminal 124) applies 5 volts to the A/T If the A/T fluid temperature sensor output voltage is
+fluid temperature sensor output terminal (terminal 4.5 volts or more after driving for 10 minutes or more
+1). (if the A/T fluid temperature does not increase), there
+• Ground terminal (terminal 2) is grounded to the is an open circuit in the A/T fluid temperature sensor
+PCM (terminal 57). and diagnostic trouble code number "15" is output.
+• The A/T fluid temperature sensor is an NTC (neg-
+ative temperature coefficient) type of resistor. . TROUBLESHOOTING HINTS (The most likely
+When the A/T fluid temperature rises, the resis- causes for this code to be set:)
+tance decreases. • Malfunction of the A/T fluid temperature sensor
+• The A/T fluid temperature sensor output voltage circuit
+rises when the resistance increases (cools), and • Damaged harness, connector
+drops when the resistance decreases (heats up). • Malfunction of the PCM
+TSB Revision

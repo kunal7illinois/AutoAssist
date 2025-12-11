@@ -1,0 +1,62 @@
+EG-106 ENGINE - 2GR-FE ENGINE
+(cid:2)ENGINE CONTROL SYSTEM
+1. General
+The engine control system of the 2GR-FE engine has the following features.
+System Outline
+(cid:1) An L-type SFI system directly detects the intake air mass with a hot wire
+type air flow meter.
+(cid:1) The fuel injection system is a sequential multiport fuel injection system.
+(cid:1) Fuel injection takes two forms:
+Synchronous injection, which always takes place with the same timing
+SFI
+in accordance with the basic injection duration and an additional
+ Sequential Multiport
+correction based on the signals provided by the sensors.
+Fuel Injection 
+Non-synchronous injection, which takes place at the time an injection
+request based on the signals provided by the sensors is detected,
+regardless of the crankshaft position.
+(cid:1) Synchronous injection is further divided into group injection during a
+cold start, and independent injection after the engine is started.
+(cid:1) Ignition timing is determined by the ECM based on signals from various
+ESA sensors. The ECM corrects ignition timing in response to engine knocking.
+ Electronic Spark (cid:1) This system selects the optimal ignition timing in accordance with the
+ Advance  signals received from the sensors and sends the (IGT) ignition signal to
+the igniter.
+ETCS-i
+ Electronic  Optimally controls the throttle valve opening in accordance with the
+ Throttle Control  amount of accelerator pedal effort and the condition of the engine and the
+ System-intelligent vehicle.
+[See page EG-49]
+Dual VVT-i System
+ Dual Variable Valve  Controls the intake and exhaust camshafts to an optimal valve timing in
+ Timing-intelligent System accordance with the engine condition.
+[See page EG-121]
+ACIS
+The intake air passages are switched according to the engine speed and
+ Acoustic Control
+throttle valve opening angle to provided high performance in all speed
+ Induction System
+ranges.
+[See page EG-127]
+Air Intake Control The intake air duct is divided into two areas, and the ECM controls the air
+System intake control valve and the actuator that are provided in one of the areas
+[See page EG-129] to reduce the amount of engine noise.
+(cid:1) Fuel pump operation is controlled by signals from the ECM.
+Fuel Pump Control
+(cid:1) The fuel pump is stopped, when the SRS airbag is deployed in a frontal,
+[See page EG-58]
+side, and rear of side collision.
+Air Conditioning By turning the air conditioning compressor ON or OFF in accordance with
+Cut-off Control the engine condition, drivability is maintained.
+The Cooling Fan ECU steplessly controls the speed of the fans in
+Cooling Fan Control accordance with the engine coolant temperature, vehicle speed, engine
+[See page EG-130] speed, and air conditioning operating conditions. As a result, the cooling
+performance is improved.
+Starter Control
+ 
+Cranking Hold Once the engine switch is pushed, while the brake pedal is depressed, this
+ 
+Function control continues to operate the starter until the engine started.
+[See page EG-132]
+(Continued)

@@ -1,0 +1,32 @@
+RS–138
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Seat Position Airbag Sensor Circuit Malfunc-
+DTC B1653/35
+tion
+DESCRIPTION
+The seat position airbag sensor circuit consists of the center airbag sensor assembly and the seat
+position airbag sensor.
+DTC B1653/35 is recorded when a malfunction is detected in the seat position airbag sensor circuit.
+DTC No. DTC Detecting Condition Trouble Area
+• The center airbag sensor assembly receives a line
+short circuit signal, an open circuit signal, a short
+circuit to ground signal or a short circuit to B+ signal • Floor wire
+B1653/35 in the seat position airbag sensor circuit for 2 • Seat position airbag sensor
+seconds. • Center airbag sensor assembly
+• Seat position airbag sensor malfunction
+• Center airbag sensor assembly malfunction
+WIRING DIAGRAM
+Center Airbag
+N3 Sensor Assembly
+Front Seat Inner Belt Assembly LH
+Seat Position Airbag Sensor
+RS
+14
+LSP+
+N1 DSP+
+2
+13
+LSP-
+N1 DSP-
+4
+C C123731E01

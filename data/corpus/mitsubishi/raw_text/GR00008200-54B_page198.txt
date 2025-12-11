@@ -1,0 +1,23 @@
+54B-198 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE G-2: Windshield Wiper and Washer: The Windshield Wipers do not Work
+When the Windshield Wiper Switch is at "INT" or "MIST" Position or the Windshield Washer Switch is
+at "ON" Position. However, the Wipers Work at Low Speed when the Windshield Wiper Switch is at
+"LO" or "HI."
+NOTE: This troubleshooting requires use of scan tool If the system can not receive any signal from the col-
+MB991502 and SWS monitor kit MB991862. For umn switch (windshield wiper and washer switch)
+details of how to use the SWS monitor, refer to "How due to a open circuit in the SWS communication line
+to use SWS monitor P.54B-8." or other reasons, the system will enter the fail-safe
+mode when the ignition switch is at the "ACC" posi-
+.
+TECHNICAL DESCRIPTION (COMMENT)
+tion.
+The system may be at fail-safe mode as the SWS
+communication line is defective.
+.
+TROUBLESHOOTING HINTS
+• Malfunction of the column switch (windshield
+wiper and washer switch)
+• Malfunction of the front-ECU
+• Damaged harness wires or connectors
+TSB Revision

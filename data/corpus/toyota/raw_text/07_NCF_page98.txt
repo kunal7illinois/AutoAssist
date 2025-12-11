@@ -1,0 +1,39 @@
+ENGINE - 2AZ-FE ENGINE EG-71
+f. Repeat 0.02 in. Leak Pressure Measurement
+1)While the ECM operates the leak detection pump, the purge VSV and vent valve turns off and a repeat
+0.02 in. leak pressure measurement is performed.
+2)The ECM compares the measured pressure with the pressure during EVAP leak check.
+3)If the pressure during the EVAP leak check is below the measured value, the ECM determines that
+there is no leakage.
+4)If the pressure during the EVAP leak check is above the measured value, the ECM determines that
+there is a small leak and stores DTC P0456 in its memory.
+Atmosphere
+Purge VSV
+(OFF)
+Pump Module
+Vent Valve
+(OFF)
+M
+Leak Detection Pump
+ECM & Pump Motor
+P
+Canister Pressure
+Sensor
+Reference Orifice
+060XA27C
+ON (Open)
+Purge VSV
+OFF (Close)
+ON
+Vent Valve
+OFF (Vent)
+ON
+Pump Motor
+OFF
+Atmospheric Pressure
+System Pressure
+P0456
+0.02 in. Pressure
+Normal
+Repeat 0.02 in. Pressure Measurement
+060XA28C

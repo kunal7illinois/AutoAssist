@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+EBD FEATURES
+The electronic brake distribution (EBD) feature helps control vehicle braking by
+adjusting the rear brake force in accordance with the rear wheel load before the
+ABS operates. Based on the wheel sensor signals, the control unit uses the
+modulator to control the rear brakes individually. When the rear wheel speed is less
+than the front wheel speed, the ABS modulator-control unit retains the current rear
+brake fluid pressure by closing the inlet valve in the modulator. As the rear wheel
+speed increases and approaches the front wheel speed, the ABS modulator-control
+unit increases the rear brake fluid pressure by momentarily opening the inlet valve.
+This whole process is repeated very rapidly. While this is happening, there is
+kickback at the brake pedal.
+Fig. 8: Identifying Rear Wheel Brake Pressure
+MODULATOR UNIT
+The ABS modulator consists of the inlet solenoid valve, the outlet solenoid valve,
+the reservoir, the pump, the pump motor, and the damping chamber. The modulator
+reduces the caliper fluid pressure directly. It is a circulating-type modulator because
+the brake fluid circulates through the caliper, the reservoir, and the master cylinder.
+The hydraulic control has three modes; pressure intensifying, pressure retaining,
+and pressure reducing. The hydraulic circuit is an independent four channel type;
+one channel for each wheel.

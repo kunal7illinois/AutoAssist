@@ -1,0 +1,35 @@
+54B-342 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+• The scan tool does not show the respective
+normal condition for item "IG SW (IG1)." Refer to
+Inspection Procedure O-2 "ETACS-ECU does not
+receive a signal from the ignition switch (IG1)
+P.54B-469."
+• The scan tool does not show the respective
+normal condition for item "FRONT DOOR SW."
+Refer to Inspection Procedure O-6 "ETACS-ECU
+does not receive a signal from the driver’s or the
+front passenger’s door switch P.54B-502."
+• The scan tool does not show the respective
+normal condition for item "H/L AUTO-CUT."
+Replace the front-ECU. Check that the headlight
+automatic shutdown function works normally.
+INSPECTION PROCEDURE J-10: Headlight, Tail Light: Headlight Dimmer Switch Automatic Resetting
+Function does not Work Normally.
+Headlight (Dimmer/Passing) Input Signal
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the headlight dimmer switch automatic resetting
+The headlight dimmer switch automatic resetting
+function does not work normally, the front-ECU may
+function is controlled by the front-ECU.
+be defective.
+.
+.
+TROUBLESHOOTING HINT
+Malfunction of the front-ECU
+DIAGNOSIS
+Replace the front-ECU.
+Check that the headlight dimmer switch automatic resetting
+function works normally.
+TSB Revision

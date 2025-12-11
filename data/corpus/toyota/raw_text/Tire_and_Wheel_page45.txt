@@ -1,0 +1,34 @@
+TW–44
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+WIRING DIAGRAM
+Tire Pressure Warning Valve Tire Pressure
+and Transmitter (Front RH) Warning ECU
+Tire Pressure Warning Valve
+and Transmitter (Front LH)
+Tire Pressure Warning Valve
+and Transmitter (Rear RH)
+TW
+Tire Pressure Warning Valve
+and Transmitter (Rear LH)
+Tire Pressure Warning Valve and
+Transmitter (Ground Spear Tire)
+5 5 6
+N20 N34 E60 RF5V
+*1 *2
+1 1 12
+Tire Pressure Warning
+N20 N34 E60 RDA
+Antenna and Receiver
+*1 *2
+4 4 11
+N20 N34 E60 GND2
+*1 *2
+9
+E60 GND
+E53
+Tire Pressure Warning Reset Switch
+1
+2 1
+E60 CLSW
+*1: TMC Made *2: TMMK Made
+E130159E01

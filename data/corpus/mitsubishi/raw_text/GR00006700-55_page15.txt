@@ -1,0 +1,46 @@
+HEATING AND AIR CONDITIONING 55-15
+MANUAL A/C DIAGNOSIS
+STEP 2. Check the blower relay continuity.
+Follow the table below to check the blower relay for continuity.
+BATTERY VOLTAGE TESTER SPECIFIED
+BLOWER RELAY
+CONNECTION CONDITION
+Not applied 4 − 5 Open circuit
+• Connect terminal 3 to 4 − 5 Less than 2 ohm
+the positive battery
+terminal
+• Connect terminal 1 to
+the negative battery
+terminal
+Q:Is the blower relay continuity in good condition?
+JUNCTION BLOCK
+YES : Go to Step 3.
+NO : Replace. Then go to Step 4.
+5
+1 2 3
+4
+4
+5 1 3
+AC102399AB
+STEP 3. Check the blower switch continuity.
+Follow the table below to check the blower switch for continuity.
+BLOWER SWITCH SWITCH TESTER CONNECTION SPECIFIED
+ASSEMBLY POSITION (CONNECTOR A) CONDITION
+0 (OFF) 1 − 3, 3 − 4, 3 − 5, 3 − 6 Open circuit
+1 (LO) 3 − 5 Less than 2 ohm
+2 (ML) 1 − 3 Less than 2 ohm
+3 (MH) 3 − 6 Less than 2 ohm
+AC001381AB
+4 (HI) 3 − 4 Less than 2 ohm
+Q:Is the blower switch continuity in good condition?
+YES : Go to Step 4.
+NO : Replace. Then go to Step 4.
+STEP 4. Check symptoms.
+Q:Does the blower motor stop turning?
+YES : This diagnosis is complete. (If no malfunctions are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to GROUP 00, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+NO : Go to Step 1.
+TSB Revision

@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Is there continuity?
+YES -Go to step 32.
+NO -Repair open in the wire between PCM connector terminal C13 and the
+output shaft (countershaft) speed sensor, then go to step 32.
+32. Reconnect all connectors.
+33. Turn the ignition switch to ON (II).
+34. Clear the DTC with the HDS.
+35. Test-drive the vehicle with the shift lever in D, and let the transmission shift
+through all five gears at speeds over 12 mph (20 km/h).
+36. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 35, then go
+to step 37.
+37. Check for DTCs with the HDS.
+Is DTC P0723 indicated?
+YES -Check for poor connections or loose terminals between the output shaft
+(countershaft) speed sensor and the PCM, then go to step 1.
+NO -Go to step 38.
+38. Monitor the OBD STATUS for P0723 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+37, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals between the output shaft (countershaft) speed sensor and the PCM,
+then go to step 1. If the HDS indicates NOT COMPLETED, go to step 35.
+39. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).

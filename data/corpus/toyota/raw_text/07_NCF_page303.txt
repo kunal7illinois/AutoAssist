@@ -1,0 +1,32 @@
+CHASSIS - TIRE PRESSURE WARNING SYSTEM CH-139
+TIRE PRESSURE WARNING SYSTEM
+(cid:4)DESCRIPTION
+(cid:3) A direct-sensing type tire pressure warning system is used on U.S.A. model.
+(cid:3) If the vehicle continues to be driven with 1 or more of the 5 tires (which includes the standard type spare
+tire*) inflated to a low air pressure that could cause problems during driving, this system will illuminate
+the tire pressure warning light to inform the driver of the low air pressure.
+(cid:3) Furthermore, this system directly senses the air pressure of each tire through tire pressure warning system
+valve & transmitter that are attached to each wheel.
+(cid:3) After tire replacement, firstly register tire pressure warning system valve & transmitter IDs into the tire
+pressure warning system ECU, and then store the appropriate tire pressure in the ECU using the tire
+pressure warning system reset switch.
+*: Optional Equipment
+(cid:1) System Diagram (cid:2)
+Tire Pressure Warning System Valve & Transmitter
+Tire Pressure Warning System
+Valve and Transmitter
+(With Standard Type Spare Tire)
+Tire Pressure
+Warning
+System ECU
+Tire Pressure
+Tire Pressure
+Warning System
+Warning System
+Reset Switch
+DLC3 Antenna &
+Receiver
+Tire Pressure
+Warning Light
+Tire Pressure Warning System Valve & Transmitter
+275TU34

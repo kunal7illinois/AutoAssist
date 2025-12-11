@@ -1,0 +1,50 @@
+23A-218 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+CONNECTOR: C-28
+CONNECTORS: C-111, C-112
+JUNCTION BLOCK
+(FRONT VIEW)
+C-112
+C-111
+C-28 C-111
+C-112
+AC106611AB
+AC106814AB
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+• A coil built into the input shaft speed sensor gen- If the output from the output shaft speed sensor mul-
+erates pulse signal of 0 ⇔ 5 volts at both ends of tiplied by the 1st gear ratio is not the same as the
+output from the input shaft speed sensor after shift-
+this coil when the input shaft rotates. The pulse
+ing to 1st gear has been completed, diagnostic trou-
+signal frequency increases with the rise in input
+ble code number "41" is output. If diagnostic trouble
+shaft speed.
+• Both ends of the coil are connected to the PCM code number "41" is output four times, the transmis-
+sion is locked into 3rd gear as a fail-safe measure,
+(terminals 16 and 103) via the input shaft speed
+and the "N" range light flashes once per second.
+sensor connector (terminals 1 and 2).
+• The PCM detects the input shaft speed with the
+.
+signal input to terminal (terminal 103). TROUBLESHOOTING HINTS (The most likely
+• A coil built into the output shaft speed sensor causes for this code to be set:)
+generates pulse signal of 0 ⇔ 5 volts at both • Malfunction of the input shaft speed sensor
+ends of this coil when the output shaft rotates. • Malfunction of the output shaft speed sensor
+The pulse signal frequency increases with the • Malfunction of the PCM
+rise in output shaft speed. • Malfunction of the underdrive clutch retainer
+• Both ends of the coil are connected to the PCM • Malfunction of the transfer drive gear or driven
+(terminals 16 and 104) via the output shaft speed gear
+sensor connector (terminals 1 and 2). • Malfunction of the low-reverse brake system (for
+• The PCM detects the output shaft speed with the code number "41," "46")
+signal input to terminal (terminal 104). • Malfunction of the underdrive clutch system (for
+code number "41," "42," "43")
+. • Malfunction of the second brake system (for code
+number "42," "44")
+• Malfunction of the overdrive clutch system (for
+code number "43," "44")
+• Malfunction of the reverse clutch system (for
+code number "46")
+• Noise generated
+.
+TSB Revision

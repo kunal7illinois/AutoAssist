@@ -1,0 +1,38 @@
+BC–337
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+Open or Short Circuit in ABS Motor Relay Cir-
+DTC C0273/13
+cuit
+DESCRIPTION
+The ABS motor relay supplies power to the ABS pump motor. While the ABS is activated, the ECU
+switches the motor relay on and operates the ABS pump motor.
+If the voltage supplied to the motor relay (+BM) is below the DTCs detection threshold due to low voltage
+from the battery or alternator, the DTC may be stored.
+DTC No. DTC Detection Condition Trouble Area
+When any of the following is detected:
+• When the motor relay is actuated, voltage is not
+supplied to the pump motor within 0.1 seconds.
+• For 30 to 125 ms after the motor relay is turned
+from ON to OFF, the remaining high voltage is out • ABS No. 1 fuse (Fusible link)
+C0273/13 of range. The motor relay is turned from ON to OFF • Brake actuator assembly (skid control ECU)
+3 times. If the voltage is still out of range in the 3rd • Motor relay circuit
+operation, this failure is detected.
+• When the motor relay is changed from ON to OFF,
+the remaining high voltage is more than 2 V for 1 BC
+second.
+WIRING DIAGRAM
+Brake Actuator Assembly
+(Skid Control ECU)
+ALT ABS No. 1 2
+A60 +BM
+4
+A60 GND1
+FL MAIN
+1
+A60 GND2
+Battery
+C131988E05
+INSPECTION PROCEDURE
+HINT:
+• When C1241/41 is output together with C0273/13, inspect and repair the trouble areas indicated by
+C1241/41 (See page BC-361).

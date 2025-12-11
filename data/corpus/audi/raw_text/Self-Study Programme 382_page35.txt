@@ -1,0 +1,30 @@
+System overview
+The following lines lead to the acoustic parking system control unit:
+● 2 lines from the convenience CAN bus
+● 3 lines to the power supply
+● 2 lines for the rear parking aid warning buzzer H15
+● 3 lines to each of the 4 acoustic parking sensors (2 lines for power supply and one digital signal line
+for data exchange)
+Rear parking aid
+warning buzzer
+H15
+Acoustic parking system control unit
+J446
+382_006
+35
+hgiH
+sub
+NAC
+ecneinevnoC
+woL
+sub
+NAC
+ecneinevnoC
+03
+lanimreT
+51
+lanimreT
+13
+lanimreT
+G203 G204 G205 G206
+Acoustic parking sensor in rear bumper cover

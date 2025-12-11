@@ -1,0 +1,35 @@
+ES–101
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Engine coolant temperature 70°C (158°F) or more
+IAT sensor circuit OK
+ECT sensor circuit OK
+CKP sensor circuit OK
+TP sensor circuit OK
+Canister pressure sensor circuit OK
+EVAP leak detection pump OK
+EVAP vent valve OK
+TYPICAL MALFUNCTION THRESHOLDS
+Both of following conditions 1 and 2 met -
+ES
+1. Averaged engine load value ratio Less than 0.85, or more than 1.15 (varies with estimated engine load)
+2. Averaged air-fuel ratio Less than -20 %, or more than 20 %
+WIRING DIAGRAM
+Refer to DTC P0100 (see page ES-88).
+CONFIRMATION DRIVING PATTERN
+HINT:
+Performing this confirmation pattern will activate the mass air flow performance monitor.
+Vehicle Speed
+Approximately 100 km/h
+(62 mph)
+Idling
+Time
+Warming Up 20 seconds or more
+A112632E02
+1. Connect the intelligent tester to the DLC3.
+2. Turn the ignition switch ON.
+3. Turn the tester ON.
+4. Clear DTCs (see page ES-35).
+5. Start the engine, and warm it up until the engine coolant temperature reaches 70°C (158°F) or higher.
+6. Drive the vehicle at approximately 100 km/h (62 mph) for 20 seconds or more.
+7. On the tester, select the following menu items: DIAGNOSIS / ENHANCED OBD II / DTC INFO /
+PENDING CODES and check if any DTCs (any pending DTCs) are set.

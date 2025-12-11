@@ -1,0 +1,40 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-581
+ON-VEHICLE SERVICE
+FUEL PUMP OPERATION CHECK
+M1131002000368
+Required Special Tool:
+MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+1. Check the operating of the fuel pump by using scan tool
+MB991502 to force-drive the fuel pump.
+2. If the fuel pump will not operate, check by using the
+following procedure. If normal, check the fuel pump drive
+16 PIN circuit.
+(1) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AC000077AB (2) Remove the instrument panel side cover (driver(cid:146)s side).
+(3) Remove the fuel pump relay (2), and apply battery
+voltage to junction block side connector terminal number
+4. Check that an operating sound can be heard from the
+fuel pump.
+FUEL
+PUMP NOTE: As the fuel pump is an in-tank type, the fuel pump
+RELAY (2)
+sound is hard to hear. Remove the fuel tank filler tube cap
+and check from the tank inlet.
+INSTRUMENT (4) Check for fuel pressure by pinching the fuel hose with
+PANEL fingertips.
+(DRIVER'S SIDE)
+(5) Install the fuel pump relay (2) and instrument panel side
+cover (driver(cid:146)s side).
+JUNCTION
+BLOCK
+4 2
+3 1
+FUEL PUMP RELAY (2)
+CONNECTOR
+AC107314AB
+TSB Revision

@@ -1,0 +1,30 @@
+ST–63
+2GR-FE STARTING – SMART KEY SYSTEM
+OK:
+"ON" (P signal is ON) and "OFF" (P signal is OFF)
+appear on the screen.
+NG Go to step 2
+OK
+GO TO SHIFT CONTROL SYSTEM
+2 CHECK WIRE HARNESS (MAIN BODY ECU - SHIFT LOCK CONTROL ECU)
+(a) Disconnect the E9 and E57 ECU connectors.
+Wire Harness Side:
+E9 E57
+Main Body ECU Shift Lock Control ECU
+P
+P2
+B138006E01
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Terminal No. (Symbol) Condition Specified Condition
+E9-2 (P) - E57-11 (P2) Always Below 1 Ω
+E9-2 (P) - Body ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+ST
+OK
+3 CHECK MAIN BODY ECU OPERATION
+(a) After replacing the main body ECU with a normally
+functioning ECU, check that the engine can start
+normally.

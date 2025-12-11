@@ -1,0 +1,38 @@
+ME–60
+METER – METER / GAUGE SYSTEM
+Meter Illumination is Always Dark
+DESCRIPTION
+The meter CPU receives auto dimmer signals from the main body ECU via the CAN communication lines
+(CAN No. 1 Bus). When the meter CPU receives an auto dimmer signal, it dims the meter illumination.
+The main body ECU determines whether it is daytime, twilight, or nighttime based on the waveform
+transmitted from the automatic light control sensor. If the main body ECU determines that it is daytime, the
+ECU does not send auto dimmer signals. Therefore, the meter illumination (warning and indicator lights)
+will not dim even if the driver accidentally turns the light control switch to the TAIL or HEAD position in
+daytime.
+WIRING DIAGRAM
+Main Body ECU Combination Meter Assembly
+CAN Communication Line (CAN No. 1 Bus)
+Automatic Light Control Sensor
+20 3 6
+CLTB E6 E11 E11 CLTB
+(*1) (*2)
+18 6 3
+CLTE E6 E11 E11 CLTE
+(*1) (*2)
+19 4 5
+CLTS E6 E11 E11 CLTS
+(*1) (*2)
+*1: with Manual A/C
+*2: with Automatic A/C
+C E128112E02
+INSPECTION PROCEDURE
+1 CHECK CAN COMMUNICATION SYSTEM
+(a) Check if CAN communication DTC is output (See page
+CA-25).
+ME
+Result
+Result Proceed to
+CAN communication DTC is not output. A
+CAN communication DTC is output. B (See page CA-31)
+B GO TO CAN COMMUNICATION SYSTEM
+A

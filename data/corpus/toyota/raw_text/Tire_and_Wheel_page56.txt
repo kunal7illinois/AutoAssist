@@ -1,0 +1,42 @@
+TW–55
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+(f) When all of the "TIREPRESS" data (ID1 to ID4 or ID5)
+has changed, identify the malfunctioning tire pressure
+warning valve and transmitter based on the recorded ID
+numbers and output DTC.
+NEXT
+3 REPLACE TIRE PRESSURE WARNING VALVE AND TRANSMITTER
+(a) Replace the identified tire pressure warning valve and
+transmitter with a new one.
+HINT:
+• Before installing a new tire pressure warning valve and
+transmitter, read and write down its transmitter ID.
+• The IDs for the tire pressure warning valve and transmitter
+not be replaced should be checked using tester and
+recorded. TW
+NEXT
+4 CHECK REGISTRATION OF TRANSMITTER ID
+(a) Register the transmitter ID for 4 or 5 wheels (See page
+TW-15).
+(b) Set the tire pressure of all wheels to the specified value.
+Cold tire inflation pressure
+Tire size Front kPa (kgf/cm2, psi) Rear kPa (kgf/cm2, psi)
+P215/60R16 94W 210 (2.1, 31) *1 240 (2.4, 35)*2 210 (2.1, 31) *1 240 (2.4, 35)*2
+P215/55R17 93V 220 (2.2, 32) *1 240 (2.4, 35)*2 220 (2.2, 32) *1 240 (2.4, 35)*2
+*1: For driving under 100 mph (160 km/h)
+*2: For driving at 100 mph (160 km/h) or over
+NEXT
+5 PERFORM INITIALIZATION
+(a) Perform initialization (See page TW-18).
+NEXT
+6 CHECK DTC
+(a) Check for a DTC (See page TW-18).
+Result
+Condition Proceed to
+Any of the DTCs from C2165/65 to C2168/68 or C2169/69 are
+A
+output.
+Any of the DTCs from C2165/65 to C2168/68 or C2169/69 are not
+B
+output.
+B END

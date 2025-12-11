@@ -1,0 +1,50 @@
+AX–108
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+INSPECTION PROCEDURE
+1 CHECK OTHER DTCS OUTPUT (IN ADDITION TO DTC P0796)
+(a) Connect the intelligent tester to the DLC3.
+AX (b) Turn the ignition switch on (IG) and turn the intelligent
+tester on.
+(c) Enter the following items: "DIAGNOSIS / OBD/MOBD /
+ECT / DTC INFO / CURRENT CODES".
+(d) Read the DTCs using the intelligent tester.
+Result
+Display (DTC output) Proceed to
+Only "P0796" is output A
+"P0796" and other DTCs B
+HINT:
+If a solenoid is stuck OFF , DTCs for several solenoids
+including the malfunctioning solenoid will be detected.
+A Go to step 3
+B
+2 PERFORM ACTIVE TEST BY INTELLIGENT TESTER
+NOTICE:
+This test should always be performed with at least 2
+people.
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the intelligent tester on.
+(c) Enter the following items: "DIAGNOSIS / OBD/MOBD /
+ECT / ACTIVE TEST / SHIFT".
+HINT:
+Comparing the shift position commanded by the ACTIVE
+TEST with the actual shift position enables you to
+confirm the problem (See page AX-39).
+Item Test Details Diagnostic Note
+[Test Details]
+Operate the shift solenoid valve and set each shift position by
+yourself. Possible to check the operation of
+SHIFT
+[Others] the shift solenoid valves.
+• Press "←" button: Shift up
+• Press "→" button: Shift down
+NOTICE:
+• This test can be conducted when the vehicle is
+stopped.
+• When shifting gears using the Active Test
+function, do not operate the accelerator pedal for
+2 seconds before and after shifting gears.
+HINT:
+The shift position commanded by the TCM is shown in
+the DATA LIST/SHIFT display on the intelligent tester.
+(d) Check the vehicle speed and the gear position when the
+engine speed is 1,000 rpm.

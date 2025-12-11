@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+1. Turn the ignition switch to ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then turn it to ON (II) again.
+4. Check for Temporary DTCs or DTCs in the PGM-FI SYSTEM with the HDS.
+Is DTC P0107 or P0108 indicated in the PGM-FI SYSTEM?
+YES -Go to the INDICATED DTC'S TROUBLESHOOTING in the PGM-
+FI system:
+P0107 (see DTC P0107: MAP SENSOR CIRCUIT LOW VOLTAGE )
+(cid:1)
+P0108 (see DTC P0108: MAP SENSOR CIRCUIT HIGH
+(cid:1)
+VOLTAGE )
+NO -Go to step 5.
+5. Check for DTCs in the A/T SYSTEM with the HDS.
+Is DTC P0107 or P0108 indicated in the A/T SYSTEM?
+YES -Go to step 6.
+NO -Intermittent failure, the system is OK at this time. If any other DTCs were
+indicated, go to the INDICATED DTC'S TROUBLESHOOTING.
+6. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+7. Start the engine, and wait for at least 2 minutes.
+8. Check for DTCs in the A/T SYSTEM with the HDS.

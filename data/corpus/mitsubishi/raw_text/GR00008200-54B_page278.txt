@@ -1,0 +1,58 @@
+54B-278 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal by using "DATA LIST" of
+the SWS monitor.
+Tun the passing switch to the "ON" position before checking
+input signals from the passing switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502. Also con-
+nect SWS monitor kit MB991862 after turning on scan tool
+MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+COLUMN SWITCH (2) Connect SWS monitor kit MB991862 to the column switch
+CONNECTOR
+connector.
+MB991502 (3) Operate the MUT-II according to the procedure below to
+display "COLUMN ECU."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+DATA LINK 3. Select "SWS MONITOR."
+CONNECTOR
+4. Select "DATA LIST."
+AC101571AB 5. Select "COLUMN ECU."
+(4) Check that normal conditions are displayed on the items
+COLUMN SWITCH
+described in the table below.
+CONNECTOR
+ITEM No. ITEM NAME NORMAL CONDITIONS
+ITEM PASSING SW ON
+SWS MONITOR
+HARNESS (FOR No.03
+COLUMN-ECU)
+COLUMN SWITCH Q:Does the scan tool display "PASSING SW" as normal
+CONNECTOR AT condition?
+HARNESS SIDE
+YES : Replace the front-ECU. When the passing switch is
+AC101421AB
+turned "ON", the headlights (low-beam and high-
+beam) should illuminate normally.
+NO : Refer to Inspection Procedure O-7 "ETACS-ECU
+does not receive a signal from the passing switch
+P.54B-511."
+INSPECTION PROCEDURE J-5: Headlight, Tail Light: Headlights do not Illuminate When the Lighting
+Switch is at "AUTO," "TAIL," and "PASSING" Position, but Illuminate at Low-beam when the Switch is
+at "HEAD" Position. At this Position, the Headlights cannot be Changed into High Beam by Operating
+the Dimmer Switch.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+. .
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINTS
+If the headlights illuminate at low-beam regardless of • Malfunction of the column switch
+the lighting switch positions, the headlight operation • Malfunction of the front-ECU
+is in fail-safe mode. • Malfunction of the ETACS-ECU
+• Damaged harness wires and connectors
+TSB Revision

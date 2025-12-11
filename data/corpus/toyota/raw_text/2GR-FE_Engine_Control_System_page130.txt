@@ -1,0 +1,28 @@
+ES–130
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+6 CHECK HARNESS AND CONNECTOR (HO2 SENSOR - EFI RELAY)
+(a) Disconnect the C52 or C51 HO2 sensor connector.
+Wire Harness Side: (b) Remove the engine room junction block from the engine
+room R/B.
+Heated Oxygen Sensor Connector
+(c) Measure the resistance between the terminals.
+Standard resistance (Check for open)
++B
+C52 Tester Connection Specified Condition
++B (C52-2) - 1E-6 (Engine room R/B) Below 1 Ω
+Bank 1
++B (C51-2) - 1E-6 (Engine room R/B) Below 1 Ω
+Standard resistance (Check for short)
+ES Tester Connection Specified Condition
++B +B (C52-2) or 1E-6 (Engine room R/B) - Body ground 10 kΩ or higher
+C51 +B (C51-2) or 1E-6 (Engine room R/B) - Body ground 10 kΩ or higher
+Bank 2 (d) Reinstall the engine room junction block.
+(e) Reconnect the HO2 sensor connector.
+NG REPAIR OR REPLACE HARNESS OR
+Engine Room Junction Block
+CONNECTOR
+1E
+Engine Room Rlay Block
+A140656E01
+OK
+CHECK ECM POWER SOURCE CIRCUIT

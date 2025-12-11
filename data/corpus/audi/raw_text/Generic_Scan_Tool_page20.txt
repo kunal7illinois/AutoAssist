@@ -1,0 +1,49 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Procedure
+– Connect the scan tool.
+– Switch the ignition on.
+– Select Diagnostic Mode 03: Interrogating fault memory.
+– Then select Mode 4: Reset/delete diagnostic data.
+The scan tool will display: Diagnostic data are being erased.
+– Switch the ignition OFF.
+3.3.5 Diagnostic Mode 05 - Read Oxygen
+Sensor Monitoring Test Results
+Note
+Mode 05 may not be supported on all systems. On systems where
+Diagnostic Mode 05 is not supported, refer to Diagnostic Mode 6
+for oxygen sensor Monitoring Test Results.
+Test requirement
+Procedure
+3.3.6 Diagnostic Mode 06 - Read Test Results
+for Specific Diagnostic Functions
+Diagnostic Mode 06 makes it possible to retrieve test results for
+special components and systems which are continuously or not
+continuously monitored. If the diagnosis of a system is complete,
+the diagnostic result and the corresponding thresholds are saved
+and displayed in mode 06. This data remains saved (even with
+the ignition off) until either new diagnostic results becom e avail‐
+able or the DTC memory is erased.
+The min & max values for each individual test in Mode 06 repre‐
+sent the min & max operating values for a properly operating
+system. This data is provided to the individual aftermarket scan
+tool companies for development of their scan tool. Depending on
+the scan tool being used, the min & max values shown may vary,
+or be rounded up or down to the nearest decimal point depending
+on the aftermarket scan tool company's development process.
+e.g.:
+Minimum Value
+GST manual documentation 0.3499
+Aftermarket scan tool display 0.35
+Note
+Depending on the scan tool and protocol used, the information
+displayed in diagnostic mode 06 may be referred to by different
+names such as Test-ID (TID), Hex-ID, Component-ID (CID), or
+On-Board Diagnostic Monitor Identifier (OBDMID).
+Test requirements
+• Exhaust system must be properly sealed between the catalytic
+converter and the cylinder heads.
+• No DTCs stored in the DTC memory.
+• Coolant temperature at least 80° C.
+16
+Rep. Gr.ST - Generic Scan Tool

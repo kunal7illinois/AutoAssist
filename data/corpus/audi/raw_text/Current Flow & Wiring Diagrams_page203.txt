@@ -1,0 +1,40 @@
+Audi TT No. 26 / 6
+Current Flow Diagram
+Radio, digital sound package control unit, rear left treble
+loudspeaker, front right treble loudspeaker, front right mid-
+range loudspeaker, rear left mid-range and bass
+loudspeaker
+J525 Digital sound package control unit
+R Radio
+R14 Rear left treble loudspeaker
+R22 Front right treble loudspeaker
+R104 Front right mid-range loudspeaker
+R159 Rear left mid-range and bass loudspeaker
+T20b 20-pin connector, black, in the front right door
+T32a 32-pin connector, black, on digital sound package control unit
+B481 Connection 17 in main wiring harness
+B482 Connection 18 in main wiring harness
+R
+R104 R22 R159 R14
+1/-- 2/+ 1/-- 2/+ 1/-- 2/+ 1/-- 2/+
+0,5 0,5 0,5 0,5 1,0 1,0 0,5 0,5
+br sw br ws br ro br ro
+B482
+T20b/14 T20b/15
+0,5 0,5 1,0 1,0 B481
+br sw br/gn ro/gn
+T32a/18 T32a/6 T32a/11 T32a/12
+ws = white
+J525
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 or = orange
+8J0-026060806
+rs = pink
+Edition 04.2009

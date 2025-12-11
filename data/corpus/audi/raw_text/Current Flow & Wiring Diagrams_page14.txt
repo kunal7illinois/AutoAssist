@@ -1,0 +1,67 @@
+Audi TT No. 1 / 14
+Current Flow Diagram
+Onboard supply control unit, headlight washer system
+relay, wiper motor control unit, rain and light sensor
+G397 Rain and light detector sensor
+J39 Headlight washer system relay
+J126 Fresh air blower control unit
+J400 Wiper motor control unit
+J519 Onboard supply control unit
+J576 Washer pump relay
+SB6 Fuse 6 on fuse holder B
+2200
+SB8 Fuse 8 on fuse holder B
+6,0 ##
+ro SB12 Fuse 12 on fuse holder B
+B8
+T6h 6-pin connector, connector J, on onboard supply control unit
+6 8 12 4/85
+J576
+1/30 T8h 8-pin connector, black, connector F, on onboard supply control
+ST1 SB6 SB8 SB12 unit
+30A 30A 40A T11c 11-pin connector, brown, connector D, on onboard power supply
+6a 8a 12a 3/86 2/87
+control unit
+V Windscreen wiper motor
+V5 Washer pump
+2,5 2,5 4,0
+ro/li ro/ge ro/bl V11 Headlight washer system pump
+117722 117744 J126 J519 366 Earth connection 1, in main wiring harness
+672 Earth point 2, on front of left longitudinal member
+T11c/8 T8h/3 T6h/4
+117700
+B549 Connection 2 (LIN bus), in main wiring harness
+✱✱✱
+0,35 1,5 2,5 0,35 1,5
+bl/sw ro/li ro/li li gn/ro * Relay and fuse carrier in electronics box engine compartment
+** models without rain and light detector sensor
+1/86♦♦ 3/30♦♦ *** models with rain and light detector sensor
+4/86♦ 2/30♦
+B549 # models with headlight washer system
+1 ✱
+## Relay carrier on onboard power supply control unit, under left
+J39 #
+dash panel
+6/85♦ 8/87♦
+2/85♦♦ 5/87♦♦ 117711 4466 ♦ up to May 2008
+♦♦ from June 2008
+✱✱ ✱✱✱ ✱✱✱ ✱✱✱
+2,5 2,5 0,35 0,35 0,35 0,5
+ro/gn ro/ge li li li ro/ws
+2 4 1 3 1 2
+M # M V ✱✱✱ M
+V11 G397 V5
+1/31 3/31 J400 2/31 1 ws = white
+sw = black
+ro = red
+6,0 2,5 2,5 0,5 1,5 br = brown
+br br br br gn/ws
+gn = green
+bl = blue
+366 228844 4499 gr = grey
+672 366 li = purple
+ge = yellow
+169 170 171 172 173 174 175 176 177 178 179 180 181 182 or = orange
+8J0-001140408
+rs = pink
+Edition 04.2008

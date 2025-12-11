@@ -1,0 +1,62 @@
+ES–46
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(d) WAVEFORM 4
+(1) Knock sensor signal
+1 V/DIV
+ECM Terminal Names Between KNK1 and EKNK, or KNK2 and EKN2
+Tester Ranges 0.01 to 10 V/DIV, 0.01 to 10 ms./DIV
+Ground Engine speed is maintained at 4,000 rpm after engine
+Conditions
+is warmed up
+HINT:
+• The wavelength becomes shorter as the
+1 ms./DIV
+engine rpm increases.
+A085286E41
+• The waveforms and amplitudes displayed
+differ slightly depending on the vehicle.
+(e) WAVEFORM 5
+5 V/DIV
+(1) Variable Valve Timing (VVT) sensor signal (1)
+ES (2) Crankshaft position sensor signal (2)
+(2) NE GND
+(1) Between VV1+ and VV1- , VV2+ and VV2-, EV1+
+(1) VV1 ECM Terminal Names and EV1-, or EV2+ and EV2-
+or EV1 (2) Between NE+ and NE-
+GND
+Tester Ranges 5 V/DIV, 20 ms./DIV
+VV2 or
+EV2 GND Conditions Idling
+20 ms./DIV (Idling) HINT:
+G035795E23
+The wavelength becomes shorter as the engine
+rpm increases.
+(f) WAVEFORM 6
+(1) Igniter IGT signal (from ECM to igniter) (1)
+2 V/DIV
+(2) Igniter IGF signal (from igniter to ECM) (2)
+(1) (1) Between IGT (1 to 6) and E1
+ECM Terminal Names
+(2) Between IGF1 and E1
+Ground
+Tester Ranges 2 V/DIV, 20 ms./DIV
+Conditions Idling
+(2)
+HINT:
+Ground
+20 ms./DIV The wavelength becomes shorter as the engine
+G035664E08
+rpm increases.
+(g) WAVEFORM 7
+(1) Purge VSV for EVAP system operation signal
+10 V/DIV
+ECM Terminal Names Between PRG and E1
+Tester Ranges 10 V/DIV, 50 ms./DIV
+Conditions Idling
+Ground
+HINT:
+If the waveform is not similar to that shown in the
+illustration, check the waveform again after idling
+50 ms./DIV
+for 10 minutes or more.
+G042964E02

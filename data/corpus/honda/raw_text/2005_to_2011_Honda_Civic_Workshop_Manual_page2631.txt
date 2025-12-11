@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+NO -Intermittent failure, the system is OK at this time. Check for poor
+connections or loose terminals at the fuel temperature sensor and the PCM.
+3. Turn the ignition switch OFF.
+4. Disconnect the fuel temperature sensor 2P connector.
+5. Turn the ignition switch ON (II).
+6. Check the FUEL TEMPERATURE SENSOR in the DATA LIST with the
+HDS.
+Is about 356 °F (180 °C) or more, or 0.08 V or less indicated?
+YES -Go to step 7.
+NO -Go to step 11 11.
+7. Turn the ignition switch OFF.
+8. Jump the SCS line with the HDS.
+9. Disconnect PCM connector B (44P).
+10. Check for continuity between fuel temperature sensor 2P connector terminal
+No. 2 and body ground.
+Fig. 3: Checking Continuity Between Fuel Temperature Sensor 2P
+Connector Terminal No. 2 And Body Ground
+Is there continuity?
+YES -Repair short in the wire between the PCM (B5) and the fuel temperature
+sensor, then go to step 13.

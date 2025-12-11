@@ -1,0 +1,47 @@
+ANTI-LOCK BRAKING SYSTEM (ABS) 35B-49
+ON-VEHICLE SERVICE
+7. If the result of inspection is abnormal, repair according to the
+Diagnosis Table below.
+DIAGNOSIS TABLE
+NO. OPERATION TEST JUDGMENT PROBABLE REMEDY
+RESULTS CAUSE
+01 1.Depress brake pedal Brake force Normal − −
+02 to lock wheel. released for
+03 2.Using scan tool three locking.
+04 MB991502, select the Wheel does not Abnormal Clogged brake line Check and clean
+wheel to be checked
+lock when other than hydraulic brake line
+and force the actuator
+brake pedal is unit
+to operate. depressed.
+Clogged hydraulic Replace hydraulic
+3.Turn the selected
+circuit in hydraulic unit
+wheel manually to
+unit
+check the change of
+brake force. Brake force is Incorrect hydraulic Connect correctly
+not released unit brake tube
+connection
+Hydraulic unit Replace hydraulic
+solenoid valve not unit
+functioning
+correctly
+8. After inspection, disconnect the scan tool immediately after
+turning the ignition switch to the "LOCK" (OFF) position.
+DISCHARGED BATTERY
+M1352003500257
+The ABS system consumes a large amount of battery current
+for its self-check function. If the battery is completely dis-
+charged and booster cables are used to start the engine, the
+engine must be allowed to idle for a few minutes to recharge. If
+the battery does not recharge, the engine may misfire or stall.
+FUSIBLE LINK
+To prevent this condition, allow the engine to idle for a few min-
+utes before driving the vehicle, or temporarily disable the ABS
+BATTERY system by removing the fusible link for the ABS circuit. The
+ABS warning light will illuminate when the ABS fusible link is
+removed. After the battery is recharged, reinstall the ABS fus-
+AC101134AF
+ible link and check that the ABS warning light is not illuminated.
+TSB Revision

@@ -1,0 +1,54 @@
+52B-32 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+CIRCUIT OPERATION TROUBLESHOOTING HINTS
+• The SRS-ECU judges how severe a collision is • Open circuit in the clock spring
+by detecting signals from the front air bag analog • Open circuit due to improper neutral position of
+G-sensor. If the impact is over a predetermined the clock spring
+level, the SRS-ECU outputs an ignition signal. At • Open circuit in the driver’s air bag module (squib)
+this time, if the front air bag safing G-sensor is on, circuit
+the SRS air bag will inflate. • Disengaged driver’s air bag module (squib) con-
+• The ignition signal is input to the air bag module nector
+via the clock spring to inflate the air bag. • Improper connector contact
+• Malfunction of the SRS-ECU
+DTC SET CONDITIONS
+• These DTC are output if there is abnormal resis-
+tance between the input terminals of the driver’s
+side air bag module (squib). The most likely
+causes for this code to be set are shown in the
+table below: However, if no DTC resets, the SRS
+warning light will be switched off (DTC will be
+retained).
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991613: SRS Check Harness
+• MB991865: Dummy resister
+• MB991866 Resister harness
+STEP 1. Check the driver’s air bag module.
+(1) Disconnect the negative battery terminal.
+(2) Remove the driver(cid:146)s air bag module. (Refer to P.52B-144.)
+(3) Connect connector (4) of special tool MB991613 to clock
+spring connector C-81.special tool MB991613 to special
+MB991613 tool MB991866.
+(4) Connect connector (1) of special tool MB991613 to
+RESISTANCE (3Ω) connector (2).
+(5) Connect terminals 22 to 24, and terminals 23 to 25 of
+1
+5
+special tool MB991613 to connector (5).
+4
+(6) Connect the clock spring to the body wiring harness.
+C-81
+A (7) Connect the negative battery terminal.
+2
+(8) Erase the DTC memory, and then recheck the DTC.
+Q: Is DTC 22 out put?
+YES : Go to Step 2.
+NO : Replace the driver(cid:146)s air bag module. Then go to Step
+CLOCK SPRING 4.
+VIEW A
+CONNECT
+RESPECTIVELY
+AC000360AD
+TSB Revision

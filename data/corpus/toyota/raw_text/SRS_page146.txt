@@ -1,0 +1,55 @@
+RS–146
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+4 CHECK FLOOR WIRE (OPEN)
+(a) Using a service wire, connect terminals 11 (DBE+) and
+Floor Wire
+12 (DBE-) of connector B.
+NOTICE:
+Do not forcibly insert a service wire into the
+D A terminals of the connector when connecting.
+(b) Measure the resistance according to the value(s) in the
+C B
+table below.
+Front Seat Inner
+Center Airbag Standard resistance
+Belt Assembly LH
+Sensor Assembly
+Tester Connection Condition Specified Condition
+N3-1 (LBE+) - N3-3
+Always Below 1 Ω
+Connector C Connector B (LBE-)
+DBE+
+N3 N1 NG REPAIR OR REPLACE FLOOR WIRE
+5 4 3 2 1
+1 2
+109 8 7 6
+3 4
+1514131211
+LBE+ LBE- DBE-
+Service Wire
+C C114803E04
+OK
+RS 5 CHECK FLOOR WIRE (SHORT)
+(a) Disconnect the service wire from connector B.
+Floor Wire
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+D A
+Tester Connection Condition Specified Condition
+C B
+N3-1 (LBE+) - N3-3
+Always 1 MΩ or higher
+Front Seat Inner (LBE-)
+Center Airbag
+Belt Assembly LH
+Sensor Assembly
+NG REPAIR OR REPLACE FLOOR WIRE
+Connector C
+N3
+LBE+
+1 2
+3 4
+LBE-
+C C114799E09
+OK

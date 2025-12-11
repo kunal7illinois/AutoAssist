@@ -1,0 +1,32 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-99
+Step System Operation
+i) The main body ECU turns ON the ACC relay, and then turns ON the IG relays.
+The certification ECU checks that the power source has switched from OFF to IG-ON, and
+j)
+transmits a steering unlock signal to the main body ECU and ID code box.
+k) The main body ECU receives this signal and supplies power to the steering lock ECU.
+The steering lock ECU receives the steering unlock signal via the ID code box, and releases
+l)
+the steering lock.
+After checking the steering unlock condition, the certification ECU transmits an engine
+m)
+immobilizer disengage signal to the ID code box.
+The ID code box certifies the disengage signal of the certification ECU, transmits the engine
+n)
+immobilizer disengage signal to the ECM, and disengages the engine immobilizer.
+i)
+ACC Relay
+i)
+Main Body IG Relays
+ECU
+k)
+Steering Lock
+ECU
+j) l)
+Local Communication
+i), m) j), m)
+n)
+ID Code Box ECM
+Certification ECU
+0140BE133C
+(Continued)

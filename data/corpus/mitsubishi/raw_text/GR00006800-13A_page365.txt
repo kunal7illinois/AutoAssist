@@ -1,0 +1,55 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-365
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+EVAPORATIVE EMISSION CANISTER EVAPORATIVE EMISSION
+PURGE SOLENOID
+FUEL TANK
+AC000183AB AC000182AB
+EVAPORATIVE EMISSION
+VENTILATION SOLENOID
+AC002035AB
+. Test Conditions B: For Test to Run
+TECHNICAL DESCRIPTION
+• To judge if there is leak in the fuel system, ECM • Barometric pressure is above 76 kPa (11 psi).
+• The fuel temperature is 33°C (91°F) or less
+<M/T> or PCM <A/T> measure the change of the
+• Fuel tank differential pressure sensor output volt-
+pressure inside the fuel tank.
+• The ECM <M/T > or PCM <A/T> turns on the age is 1 to 4 volts.
+evaporative emission ventilation solenoid valve to Test Conditions C: For Test to Stop
+shot off the evaporative emission canister outlet • Engine coolant temperature is less than 20°C
+port. (68°F).
+• Then the evaporative emission purge solenoid • Intake air temperature is less than −10°C (14°F).
+valve is driven to set the fuel system into a nega- • When the evaporative emission purge solenoid
+tive pressure. and evaporative emission ventilation solenoid are
+• When the fuel system develops a vacuum of 2 closed, the pressure rises higher 324 Pa (0.047
+kPa (0.29 psi), the evaporative emission purge psi).
+solenoid valve is turned "off" and the fuel system
+Judgment Criteria
+vacuum is maintained at 2 kPa (0.29 psi).
+• Internal pressure of the fuel tank fluctuate 1177 −
+• The ECM <M/T> or PCM <A/T> determines if
+1373 Pa (0.171 − 0.199 psi) or more in 10 sec-
+there is leak in the fuel system by measuring the
+onds after the tank and vapor line were closed.
+change of vacuum inside the fuel tank.
+• The test is stopped when fuel vapor pressure is NOTE: The monitoring time depends on the fuel
+level and the temperature in the fuel tank (10 − 14
+judged as too high.
+minutes.)
+.
+DTC SET CONDITIONS
+.
+TROUBLESHOOTING HINTS
+Test Conditions A: At Start up
+• The fuel level sensor output voltage is 2.4 − 3.7 The most likely causes for this code to be set
+are:
+volts when the engine starts (i.e. the amount of
+remaining fuel is 40 − 85 percent) • Loose fuel cap.
+• Intake air temperature is 36°C (97°F) or less • Fuel cap relief pressure is incorrect.
+• Evaporative emission canister seal is faulty.
+when the engine is started.
+• The engine coolant temperature 36°C (97°F) or • Fuel tank, purge line or vapor line seal failed.
+• Evaporative emission ventilation solenoid valve
+less when the engine is started.
+failed.
+TSB Revision

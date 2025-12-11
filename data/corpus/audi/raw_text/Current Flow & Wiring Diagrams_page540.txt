@@ -1,0 +1,62 @@
+Audi TT No. 61 / 19
+Current Flow Diagram
+Oil pressure switch for reduced oil pressure, Continued
+coolant circulation relay, Engine control unit
+F378 Oil pressure switch for reduced oil pressure
+J151 Continued coolant circulation relay
+J623 Engine control unit
+T2av 2-pin connector, front left in engine compartment
+T14 14-pin connector, front left in engine compartment
+T94 94-pin connector
+V51 Continued coolant circulation pump
+* Not for American markets
+*2 Relay and fuse carrier, in E-box in engine compartment
+J623
+T94 T94
+/40 /27
+86
+0.5 0.35 1.0
+sw/gn gr/sw vi/rt
+1
+T
+/
+T
+/22
+1144 T
+/
+T
+/11
+22aavv
+M
+V51
+2
+31
+0.5 1.0
+sw/gn vi/rt
+1.0
+br
+12 52
+1 86 42 87
+F * 378 J *2 151 T / T /22 22aavv
+2
+8
+2
+5
+3
+3
+2
+0
+1.0
+br ws = white
+0.5 1.0 sw = black
+ws/rt ws/rt
+ro = red
+br = brown
+4499 4488 223344 gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+239 240 241 242 243 244 245 246 247 248 249 250 251 252 or = orange
+8J0-061190410 rs = pink
+04.2010

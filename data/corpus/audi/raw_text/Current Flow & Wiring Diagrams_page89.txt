@@ -1,0 +1,62 @@
+Audi TT No. 6 / 6
+Current Flow Diagram
+Airbag control unit, driver side belt switch, side airbag crash
+sensor on driver side and front passenger, driver side and
+front passenger belt force limiter
+E24 Driver side belt switch
+G179 Side airbag crash sensor on driver side
+G180 Side airbag crash sensor on front passenger side
+G551 Driver side belt force limiter
+G552 Front passenger side belt force limiter
+G553 Driver side seat position sensor
+6699 J234 Airbag control unit
+T2q 2-pin connector, yellow, in driver door
+0,5
+T2r 2-pin connector, yellow, in front passenger door
+gn
+T2aa 2-pin connector, in driver seat
+T2ah 2-pin connector, purple, on driver side belt force limiter
+T10h/6 T2ai 2-pin connector, purple, on front passenger side belt force limiter
+T10h 10-pin connector, black, under driver seat
+T20a 20-pin connector, black, in the front left door
+0,5 ✱ T20b 20-pin connector, black, in the front right door
+0,35✱✱ T75 75-pin connector, yellow, on airbag control unit
+gn/sw
+J234
+T75/55
+109 Earth connection, in airbag wiring harness
+383 Earth connection 18, in main wiring harness
+T75/69 T75/70 T75/71 T75/72 T75/2 T75/3 T75/4 T75/5 T75/11#
+T75/21## 6699
+* up to May 2009
+0,5 ** from June 2009
+0 b , r 5 0 ro ,5 0 l , i 5 0 b , r 5 w 0, s 5 s 0 w ,5 0 g , e 5 0 ro ,5 sw 0 / , b 5 r gn # up to May 2010
+## from June 2010
+T20a T20a T20b T20b T10h T2aa/2
+/6 /5 /5 /6 /8
+✱ ✱ ✱ ✱
+0,5 0,5 0,5 0,5
+br ro li br
+0,35✱✱0,35✱✱ 0,35✱✱ 0,35✱✱ 0,5 0,5
+br ws li gr/sw ro br E24
++ --
+T2q/2 T2q/1 T2r/1 T2r/2 T2ai/1 T2ai/2 T2ah/2 T2ah/1 T2aa/1
+0,5
+br
+G179 G180 G552 G551 G553 ws = white
+sw = black
+109 0,5
+br ro = red
+br = brown
+T10h/5
+gn = green
+0,5 bl = blue
+383 br
+gr = grey
+383 383
+li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 or = orange
+8J0-006061010
+rs = pink
+Edition 10.2010

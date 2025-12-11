@@ -1,0 +1,47 @@
+Audi TT No. 61 / 13
+Current Flow Diagram
+Engine control unit, Fuel pressure regulating valve, Fuel
+system diagnostic pump
+J623 Engine control unit
+N112 Secondary air inlet valve
+N249 Turbocharger air recirculation valve
+N276 Fuel pressure regulating valve
+N316 Intake manifold flap valve
+N428 Valve for oil pressure control
+T14 14-pin connector, front left in engine compartment
+T60 60-pin connector
+T94 94-pin connector
+V144 Fuel system diagnostic pump
+D102 Connection 2 in engine compartment wiring harness
+* Only models with fuel system diagnostic pump
+J623
+T60 T60 T60 T94 T60 T94 T94
+/50 /45 /36 /30 /15 /44 /49
+S -
+1.0 1.0 0.5 0.5 1.0 0.35 0.5
+gn/rt gr/vi vi/ws br/vi vi/br bl/vi bl/br
+2 1 2 2 2
+N249 N428 N112 N316 N276 4455
+1 2 1 1 1
+1.0 1.0 1.0 0.5 1.0 1.0
+bl/rt bl/rt bl/rt bl/rt rt/gn bl/rt
+TT1144
+//88
+4444
+1 2 3
+S - +
+1.5
+D102 rt/gn ws = white
+sw = black
+V144
+ro = red
+5544
+* br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+155 156 157 158 159 160 161 162 163 164 165 166 167 168 or = orange
+8J0-061130410 rs = pink
+04.2010

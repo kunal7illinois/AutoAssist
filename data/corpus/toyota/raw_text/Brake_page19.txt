@@ -1,0 +1,41 @@
+BC–19
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+4. DTC OF TEST MODE (SIGNAL CHECK) FUNCTION
+(Procedure "A")
+DTC of Test Mode (Signal Check):
+Code No. Diagnosis Trouble Area
+• Front speed sensor RH
+C1271/71 Low output signal of front speed sensor RH • Sensor installation
+• Speed sensor rotor
+• Front speed sensor LH
+C1272/72 Low output signal of front speed sensor LH • Sensor installation
+• Speed sensor rotor
+• Rear speed sensor RH
+C1273/73 Low output signal of rear speed sensor RH • Sensor installation
+• Speed sensor rotor
+• Rear speed sensor LH
+C1274/74 Low output signal of rear speed sensor LH • Sensor installation
+• Speed sensor rotor
+• Front speed sensor RH
+Abnormal change in output signal of front speed sensor
+C1275/75 • Front speed sensor circuit RH
+RH
+• Sensor installation
+• Front speed sensor LH
+Abnormal change in output signal of front speed sensor BC
+C1276/76 • Front speed sensor circuit LH
+LH
+• Sensor installation
+• Rear speed sensor RH
+Abnormal change in output signal of rear speed sensor
+C1277/77 • Rear speed sensor circuit RH
+RH
+• Sensor installation
+• Rear speed sensor LH
+Abnormal change in output signal of rear speed sensor
+C1278/78 • Rear speed sensor circuit LH
+LH
+• Sensor installation
+HINT:
+The codes in this table are output only in Test Mode
+(signal check).

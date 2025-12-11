@@ -1,0 +1,70 @@
+RF–30
+SLIDING ROOF – SLIDING ROOF SYSTEM
+The intelligent tester displays as shown in the
+table according to the operation of each switch.
+OK REPLACE SLIDING ROOF DRIVE GEAR
+SUB-ASSEMBLY (SLIDING ROOF CONTROL
+ECU)
+NG
+3 CHECK WIRE HARNESS (SLIDING ROOF CONTROL ECU - ROOF CONSOLE BOX
+ASSEMBLY)
+(a) Disconnect the Q13 (*1) or R1 (*2) and Q6 connectors.
+(b) Measure the resistance according to the value(s) in the
+Sliding Roof Control ECU Connector:
+table below.
+(*1) (*2)
+Standard resistance
+Q13 R1
+Tester Connection Condition Specified Condition
+RF Q13-2 (E) - Q6-3 (GND)
+Always Below 1 Ω
+(*1)
+Q13-7 (OPN) - Q6-2
+(OPN) Always Below 1 Ω
+(*1)
+(*1) - E OPN DWN CLS UP
+Q13-8 (DWN) - Q6-4
+(*2) - E DWN CLS UP OPN
+(DOWN) Always Below 1 Ω
+(*1)
+Roof Console Box Assembly Connector:
+Q13-9 (CLS) - Q6-1
+(CLS) Always Below 1 Ω
+(*1)
+Q6 Q13-10 (UP) - Q6-5 (UP)
+Always Below 1 Ω
+(*1)
+R1-2 (E) - Q6-3 (GND)
+Always Below 1 Ω
+CLS OPN GND DOWN UP (*2)
+R1-7 (DWN) - Q6-4
+B131169E02
+(DOWN) Always Below 1 Ω
+(*2)
+R1-8 (CLS) - Q6-1 (CLS)
+Always Below 1 Ω
+(*2)
+R1-9 (UP) - Q6-5 (UP)
+Always Below 1 Ω
+(*2)
+R1-10 (OPN) - Q6-2
+(OPN) Always Below 1 Ω
+(*2)
+Q6-1 (CLS) - Body
+Always 10 kΩ or higher
+ground
+Q6-2 (OPN) - Body
+Always 10 kΩ or higher
+ground
+Q6-3 (GND) - Body
+Always Below 1 Ω
+ground
+Q6-4 (DOWN) - Body
+Always 10 kΩ or higher
+ground
+Q6-5 (UP) - Body
+Always 10 kΩ or higher
+ground
+HINT:
+• *1: TMC made
+• *2: TMMK made

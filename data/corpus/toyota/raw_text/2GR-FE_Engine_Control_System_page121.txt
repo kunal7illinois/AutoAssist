@@ -1,0 +1,28 @@
+ES–121
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK
+6 CHECK HARNESS AND CONNECTOR (A/F SENSOR - A/F RELAY)
+(a) Disconnect the C15 or C35 A/F sensor connector.
+Wire Harness Side:
+(b) Remove the engine room junction block from the engine
+room R/B.
+A/F Sensor Connector
+(c) Measure the resistance between the terminals.
+Standard resistance (Check for open)
+C15: Bank 1 Tester Connection Specified Condition
++B (C15-2) - 1A-4 (Engine room R/B) Below 1 Ω
+C35: Bank 2
++B (C35-2) - 1A-4 (Engine room R/B) Below 1 Ω
+Standard resistance (Check for short) ES
+Tester Connection Specified Condition
+Engine Room Junction Block
++B (C15-2) or 1A-4 (Engine room R/B) - Body ground 10 kΩ or higher
++B (C35-2) or 1A-4 (Engine room R/B) - Body ground 10 kΩ or higher
+(d) Reinstall the engine room junction block.
+(e) Reconnect the A/F sensor connector.
+A1 NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Engine Room Relay Block
+A141109E01
+OK
+CHECK ECM POWER SOURCE CIRCUIT (See page ES-432)

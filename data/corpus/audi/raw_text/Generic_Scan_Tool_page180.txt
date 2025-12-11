@@ -1,0 +1,50 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Checking voltage
+Note
+The engine MUST be at ambient temperature and have at least
+8 hours off time for the ECM to operate the Secondary Air Injection
+(SAI) system. The SAI system may operate for as little as 10 sec‐
+onds, up to 55 seconds depending on ambient temperature.
+– Ignition switch Off.
+– Using a multimeter, check the Secondary Air In jection (SAI)
+Pump Motor --V101-- electrical harness connector terminal 2
+to ground for voltage. When ready, start the engine while mon‐
+itoring the reading.
+– Start the engine.
+Specified value: Battery voltage.
+– Switch the ignition OFF.
+If the specified value was Not obtained:
+– Check the wiring connection from the Secondary Air Injection
+(SAI) Pump Relay --J299-- socket 2 (relay terminal 87) to the
+Secondary Air Injection (SAI) Pump Motor --V101-- electrical
+harness connector terminal 2 for an open circuit or a short cir‐
+cuit.
+– Check the wiring connections for damage, corrosion, loose or
+broken terminals or an open fuse. Refer to the wiring diagram.
+– If necessary, repair the faulty wiring connection, replace fuse
+if needed.
+If the wiring has no fault, the fuse is not open and voltage is Not
+present at the pump:
+– Perform the Secondary Air Injection (SAI) Pump Relay --
+J299-- test.
+If the specified value was obtained:
+Checking Ground
+– Using a multimeter, check the Secondary Air Injection (SAI)
+Pump Motor --V101-- electrical harness connector terminal 1
+to Ground for resistance.
+Specified value: 1.5 Ω Max.
+If the specified value was Not obtained:
+– Check the wiring for an open or high resistance.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is found in the wiring and voltage supply was
+OK:
+– Replace Secondary Air Injection (SAI) Pump Motor --V101-- .
+– Erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+– Perform a road test to verify repair.
+176
+Rep. Gr.ST - Generic Scan Tool

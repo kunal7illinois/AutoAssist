@@ -1,0 +1,43 @@
+AX–56
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+DTC P0500 Vehicle Speed Sensor "A"
+DESCRIPTION
+The speed sensors detect the wheel speed and sends the appropriate signals to the skid control ECU.
+The skid control ECU converts these wheel speed signals into a 4-pulse signal and outputs it to the TCM
+AX
+via the combination meter. The TCM determines the vehicle speed based on the frequency of these pulse
+signals.
+4-Pulse 4-Pulse
+Skid Control
+From
+ECU TCM
+Speed Sensor
+Combination Meter
+A079413E20
+DTC No. DTC Detection Condition Trouble Area
+• Vehicle speed sensor
+When the ECT sensor is normal and the counter gear
+• Vehicle speed sensor signal circuit
+P0500 speed is 300 rpm or more, the vehicle speed signal is
+• Combination meter
+not input for 2 seconds or more.
+• TCM
+MONITOR DESCRIPTION
+The TCM assumes that the vehicle is being driven when the transmission counter gear indicates more
+than 300 rpm and over 30 seconds have passed since the park/neutral position switch was turned off. If
+there is no signal from the vehicle speed sensor with these conditions satisfied, the TCM concludes that
+the vehicle speed sensor is malfunctioning. The TCM will turn on the MIL and a DTC will be set.
+MONITOR STRATEGY
+Related DTCs P0500: Vehicle Speed Sensor Circuit
+Required sensors/components (Main) Vehicle speed sensor, Combination meter, ABS ECU
+Required sensors/components (Sub) Counter gear Speed (CS) sensor, ECT sensor
+Frequency of operation Continuous
+Duration 2 seconds
+MIL operation Immediately
+Sequence operation None
+TYPICAL ENABLING CONDITIONS
+Engine Running
+Transmission counter gear revolution 300 rpm or more
+Battery voltage 8 V or more
+Ignition switch ON
+Starter OFF

@@ -1,0 +1,30 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-511
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Check the backup power supply voltage at ECM
+harness side connector C-60 <M/T> or PCM harness side
+connector C-54 <A/T>.
+(1) Disconnect the connector C-60 <M/T> or C-54 <A/T> and
+measure at the harness side.
+(2) Measure the voltage between terminal 80 <M/T> or 66 <A/
+<M/T>
+T> and ground.
+• Voltage should be battery positive voltage.
+Q:Is the voltage normal?
+YES : Go to Step 7.
+8180797877767574737271
+9291908988878685848382 NO : Check harness connector C-07 at intermediate
+connector for damage, and repair or replace as
+C-60 HARNESS
+SIDE CONNECTOR required. Refer to, GROUP 00E, Harness Connector
+Inspection P.00E-2. If intermediate connectors are in
+AK000403AC good condition, repair harness wire between relay
+box (9) and ECM connector C-60 (terminal 80) <M/T>
+<A/T>
+or PCM connector C-54 (terminal 66) <A/T> because
+C-54 HARNESS of open circuit. Then confirm that the malfunction
+SIDE CONNECTOR symptom is eliminated.
+464544 43 42 41
+575655545352515049 48 47
+666564 63626160 59 58
+AKX01436AF
+TSB Revision

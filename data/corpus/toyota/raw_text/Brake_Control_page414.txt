@@ -1,0 +1,24 @@
+BC–403
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+8 INSPECT BRAKE FLUID LEVEL WARNING SWITCH
+(a) Remove the reservoir tank cap and strainer.
+Brake Fluid Level A16 (b) Disconnect the brake fluid level warning switch
+Warning Switch connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+HINT:
+MAX Level A float is located inside the reservoir. Its position can be
+changed by increasing or decreasing the level of brake
+fluid.
+Standard resistance
+Tester Connection Condition Specified Condition
+MIN Level
+1 - 2 Float up (Switch OFF) 1.9 to 2.1 kΩ
+1 - 2 Float down (Switch ON) Below 1 Ω
+HINT: BC
+C139740E01 If there is no problem after finishing the above check,
+adjust the brake fluid level to the MAX level.
+NG REPLACE BRAKE MASTER CYLINDER
+RESERVOIR SUB-ASSEMBLY (BRAKE
+FLUID LEVEL WARNING SWITCH)
+OK

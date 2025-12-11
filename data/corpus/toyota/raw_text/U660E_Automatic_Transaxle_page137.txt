@@ -1,0 +1,46 @@
+AX–137
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Torque Converter Clutch Pressure Control
+DTC P2757 Solenoid Performance (Shift Solenoid Valve
+SLU)
+SYSTEM DESCRIPTION AX
+The TCM uses the signals from the throttle position sensor, air-flow meter, turbine (input) speed sensor,
+output speed sensor and crankshaft position sensor to monitor the engagement condition of the lock-up
+clutch.
+Hydraulic
+Spool Valve Pressure
+Sleeve
+Solenoid Coil Current
+C133226E01
+The TCM compares the engagement condition of the lock-up clutch with the lock-up schedule in the TCM
+memory to detect shift solenoid valve SLU, valve body and torque converter clutch mechanical problems.
+DTC No. DTC Detection Condition Trouble Area
+When both of the following are detected (2-trip
+detection logic):
+• Lock-up does not occur when requested.
+• Shift solenoid valve SLU remains open or closed
+• Transmission fluid pressure switch No. 3 is OFF.
+• Valve body is blocked
+When both of the following are detected (2-trip
+P2757 • Torque converter clutch
+detection logic):
+• Automatic transaxle (clutch, brake or gear, etc.)
+• Transmission fluid pressure switch No. 3 is ON
+• Line pressure is too low
+when lock-up does not occur.
+• Lock-up occurs when the shift solenoid valve SLU
+is requested to turn on in the lock-up range.
+MONITOR DESCRIPTION
+Torque converter lock-up is controlled by the TCM based on the turbine (input) speed sensor NT, output
+speed sensor NC, engine rpm, engine load, engine temperature, vehicle speed, transmission fluid
+temperature, and gear selection. The TCM determines the lock-up status of the torque converter by
+comparing the engine rpm (NE) to the input turbine rpm (NT). The TCM calculates the actual transmission
+gear by comparing input turbine rpm (NT) to output shaft rpm (NC). When conditions are appropriate, the
+TCM requests "lock-up" by applying control voltage to the shift solenoid SLU. When the SLU is turned on,
+it applies pressure to the lock-up relay valve and locks the torque converter clutch.
+If the TCM detects no lock-up after lock-up has been requested or if it detects lock-up when it is not
+requested, the TCM interprets this as a fault in the shift solenoid valve SLU or lock-up system
+performance.
+The TCM will turn on the MIL and store the DTC.
+Example:
+When any of the following is met, the system judges it as a malfunction.

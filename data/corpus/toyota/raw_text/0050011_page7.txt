@@ -1,0 +1,78 @@
+ES–53
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Intelligent Tester Display Measurement: Range (Display) Normal Condition*1 Diagnostic Note
+Check mode result for vehicle
+SPD TEST speed sensor: - -
+COMPL or INCMPL
+Check mode result for misfire
+MISFIRE TEST monitor: - -
+COMPL or INCMPL
+Check mode result for HO2
+OXS1 TEST sensor: - -
+COMPL or INCMPL
+Check mode result for air-fuel
+A/F SSR TEST B1 ratio sensor: - -
+COMPL or INCMPL
+MIL status:
+MIL ON: MIL ON -
+ON or OFF ES
+MIL ON run distance:
+MIL ON RUN DIST Distance after DTC detected -
+Min.: 0 km, Max.: 65,535 km
+Running time from MIL ON:
+Equivalent to running time after
+MIL ON RUN TIME Min.: 0 minutes, -
+MIL ON
+Max.: 65,535 minutes
+Engine run time:
+ENG RUN TIME Min.: 0 seconds, Time after engine start -
+Max.: 65,535 seconds
+Time after DTC cleared:
+Equivalent to time after DTCs
+TIME DTC CLEAR Min.: 0 minutes, -
+erased
+Max.: 65,535 minutes
+Distance after DTC cleared: Equivalent to drive distance
+DIST DTC CLEAR -
+Min.: 0 km, Max.: 65,535 km after DTCs erased
+Warm-up cycle after DTC cleared: Number of warm-up cycles after
+WU CYC DTC CLEAR -
+Min.: 0, Max.: 255 DTC cleared
+OBD CERT OBD requirement OBD2 -
+#CARB CODES Emission related DTCs - Number of emission related DTCs
+Comprehensive component
+COMP MON monitor: - -
+NOT AVL or AVAIL
+Fuel system monitor:
+FUEL MON - -
+NOT AVL or AVAIL
+Misfire monitor:
+MISFIRE MON - -
+NOT AVL or AVAIL
+O2S (A/FS ) heater monitor:
+O2S (A/FS) HTR - -
+NOT AVL or AVAIL
+O2S (A/FS ) heater monitor:
+O2S (A/FS) HTR - -
+COMPL or INCMPL
+O2S (A/FS ) monitor:
+O2S (A/FS) MON - -
+NOT AVL or AVAIL
+O2S (A/FS ) monitor:
+O2S (A/FS) MON - -
+COMPL or INCMPL
+EVAP monitor:
+EVAP MON - -
+NOT AVL or AVAIL
+EVAP monitor:
+EVAP MON - -
+COMPL or INCMPL
+Catalyst monitor:
+CAT MON - -
+NOT AVL or AVAIL
+Catalyst monitor:
+CAT MON - -
+COMPL or INCMPL
+Comprehensive component
+CCM ENA monitor: - -
+UNABLE or ENABLE

@@ -1,0 +1,56 @@
+IN–44
+INTRODUCTION – HOW TO TROUBLESHOOT ECU CONTROLLED SYSTEMS
+3. CHECK FOR SHORT CIRCUIT
+Fig. 5 ECU
+SHORT (a) If the wire harness is ground shorted (Fig. 5), locate
+the section by conducting a resistance check with
+1 1 the body ground (below).
+1
+2 2 2
+IN C B A
+Z017008E02
+(b) Check the resistance with the body ground.
+Fig. 6
+(1) Disconnect connectors A and C and measure
+the resistance.
+ECU
+Standard resistance (Fig. 6)
+SENSOR
+Tester Connection Specified Condition
+1 1 1
+Connector A terminal 1 - Body Below 1 Ω
+2 2 2 ground
+C B A Connector A terminal 2 - Body 10 kΩ or higher
+ground
+Z017009E02
+HINT:
+Measure the resistance while lightly shaking the
+wire harness vertically and horizontally. If your
+results match the examples above, an open
+circuit exists between terminal 1 of connector A
+and terminal 1 of connector C.
+(2) Disconnect connector B and measure the
+Fig. 7
+resistance.
+Standard resistance (Fig. 7)
+ECU Tester Connection Specified Condition
+SENSOR Connector A terminal 1 - Body 10 kΩ or higher
+1 1 1 1 ground
+2 2 2 2 Connector B2 terminal 2 - Body Below 1 Ω
+ground
+C B2 B1 A
+If the results match the examples above, a short
+Z017808E02
+circuit exists between terminal 1 of connector B2
+and terminal 1 of connector C.
+4. CHECK AND REPLACE ECU
+NOTICE:
+• The connector should not be disconnected from
+the ECU. Perform the inspection from the
+backside of the connector on the wire harness
+side.
+• When no measuring condition is specified,
+perform the inspection with the engine stopped
+and the ignition switch on.
+• Check that the connectors are fully seated. Check
+for loose, corroded or broken wires.

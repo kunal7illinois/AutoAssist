@@ -1,0 +1,48 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-133
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+STEP 1. Check the power window main switch.
+(1) Remove the power window main switch. Refer to GROUP
+42, Door − Door Trim and Waterproof Film P.42-54.
+(2) Check continuity while power window main switch is moved
+<ECLIPSE>
+to "UP" and "DOWN" position.
+FRONT (LH) TESTER SPECIFIED
+SWITCH POSITION CONNECTION CONDITION
+UP 1 − 6, 5 − 9 Less than 2 ohm
+OFF 1 − 5 − 9 Less than 2 ohm
+1 2 3 4
+DOWN 1 − 9, 5 − 6 Less than 2 ohm
+5 6 7 8 9 10
+AC000463AB
+Q:Is the power window main switch in good condition?
+<ECLIPSE SPYDER> YES : Go to Step 2.
+NO : Replace the power window main switch. When the
+power window main switch is operated, the front
+power window (LH) should open and close normally.
+1 2 3 4
+5 6 7 8 9 10
+AC003390AB
+STEP 2. Check the front power window motor (LH).
+(1) Remove the front power window motor (LH). Refer to
+GROUP 42, Door − Door Glass and Regulator P.42-57.
+(2) Follow the table below to check the front power window
+motor (LH) for correct operation.
+TESTER CONNECTION SLIDER POSITION
+• Connect terminal 1 to the The slider moves up
+positive battery terminal
+1 • Connect terminal 2 to the
+2
+SLIDER negative battery terminal
+• Connect terminal 2 to the The slider moves down
+AC000798AB positive battery terminal
+• Connect terminal 1 to the
+negative battery terminal
+Q:Is the power window motor (LH) in good condition?
+YES : Go to Step 3.
+NO : Replace the front power window motor (LH). When
+the power window main switch is operated, the front
+power window (LH) should open and close normally.
+TSB Revision

@@ -1,0 +1,35 @@
+EI–32
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+2 CHECK HARNESS AND CONNECTOR (CERTIFICATION ECU - ENGINE SWITCH)
+(a) Disconnect the E58 ECU and E52 switch connectors.
+Wire Harness Side Connector Front View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+E58 Standard resistance
+Certification ECU
+Tester Connection Specified Condition
+E58-9 (CODE) - E52-10 (CODE)
+Below 1 Ω
+E58-8 (TXCT) - E52-9 (TXCT)
+1 2 3 4 5 6 7 8 9 1011121314151617
+1819202122232425262728293031323334353637383940 E58-9 (CODE) - Body ground
+10 kΩ or higher
+E58-8 (TXCT) - Body ground
+TXCT CODE
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E52
+Engine Switch
+1 2 3 4 5 6 7
+TXCT 8 9 1011121314
+CODE
+B119109E06
+OK
+3 CHECK ENGINE SWITCH
+(a) After replacing the engine switch (See page ST-152) with
+a normal one, check that the engine starts.
+OK:
+EI The engine starts.
+NG REPLACE CERTIFICATION ECU
+OK
+END

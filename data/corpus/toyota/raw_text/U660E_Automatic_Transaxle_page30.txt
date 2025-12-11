@@ -1,0 +1,36 @@
+AX–30
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+3. RESET MEMORY
+NOTICE:
+• Perform the RESET MEMORY (AT initialization)
+when replacing the engine assembly.
+• The RESET MEMORY can be performed only with
+the intelligent tester.
+AX
+HINT:
+The ECM memorizes the condition that the ECT controls
+the automatic transmission assembly and engine
+assembly according to those characteristics. Therefore,
+when the automatic transmission assembly, engine
+assembly, or ECM has been replaced, it is necessary to
+reset the memory so that the ECM can memorize the
+new information.
+(a) Reset procedure is as follows.
+(1) Turn the engine switch off.
+(2) Connect the intelligent tester to the DLC3.
+(3) Turn the ignition switch on (IG) position.
+(4) Turn the intelligent tester main switch on.
+(5) Select the item "DIAGNOSIS / OBD/MOBD /
+M-OBD / OBD(cid:932)MENU ECT / RESET MEMORY".
+[Name of system]
+NOTICE:
+1 : DATA LIST
+1 : DTC INFO After performing the RESET MEMORY, be
+3 : ACTIVE TEST
+sure to perform the ROAD TEST (See page
+4 : SNAPSHOT
+AX-12) described previously.
+6 : RESET MEMORY
+8 : CHECK MODE
+9 : AT CODE UTILITY
+C133193

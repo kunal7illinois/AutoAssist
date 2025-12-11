@@ -1,0 +1,38 @@
+17-54 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+STEP 8. Check the output circuit voltage at auto-cruise
+control-ECU connector C-20 (terminal number 4) by
+backprobing.
+(1) Do not disconnect auto-cruise control switch connector C-
+20.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 4 and ground by
+backprobing.
+• Voltage should be battery positive volts.
+(When brake pedal is depressed.)
+1 2 3 4 5 6 7 8 • Voltage should be 0.5 volts or less.
+9 10111213141516
+(When brake pedal is not depressed.)
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+C-20 CONNECTOR
+HARNESS SIDE VIEW Q:Is the voltage within specifications?
+YES : Check that the malfunction is eliminated.
+AC103175AB If the malfunction is not eliminated, replace the auto-
+cruise control-ECU. (Refer to P.17-86.)
+Then check that the malfunction is eliminated.
+NO : Go to Step 9.
+STEP 9. Check auto-cruise control-ECU connector C-20
+and intermediate connector C-89.
+Q:Is the connector damaged?
+CONNECTOR: C-20
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that the malfunction is eliminated.
+NO : Go to Step 10.
+AC001451AB
+CONNECTOR: C-89
+CONNECTOR
+BLOCK (LH)
+AC103104AD
+TSB Revision

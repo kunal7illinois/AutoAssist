@@ -1,0 +1,45 @@
+RS–316
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+INSPECTION PROCEDURE
+HINT:
+• If troubleshooting (wire harness inspection) is difficult to perform, remove the front passenger seat
+installation bolts to see the under surface of seat cushion.
+• In the above case, hold the seat so that it does not fall down. Holding the seat for a long period of time
+may cause a problem, such as seat rail deformation. Hold the seat only as necessary.
+1 CHECK DTC
+(a) Turn the ignition switch on (IG).
+(b) Clear the DTCs stored in the center airbag sensor
+assembly (See page RS-41).
+(c) Clear the DTCs stored in the occupant classification
+ECU (See page RS-251).
+(d) Turn the ignition switch off.
+(e) Turn the ignition switch on (IG).
+(f) Check the DTCs (See page RS-251).
+OK:
+DTC B1790 is not output.
+HINT:
+Codes other than DTC B1790 may be output at this time,
+but they are not related to this check.
+OK USE SIMULATION METHOD TO CHECK (See
+page RS-248)
+NG
+RS
+2 CHECK CONNECTION OF CONNECTORS
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery.
+(c) Check that the connectors are properly connected to the
+occupant classification ECU and the center airbag
+sensor assembly.
+OK:
+The connectors are properly connected.
+NG CONNECT CONNECTORS PROPERLY, THEN
+GO TO STEP 1
+OK
+3 CHECK VEHICLE CONDITION
+(a) Check the passenger seat type.
+Result:
+A:
+for Manual seat
+B:
+for Power seat

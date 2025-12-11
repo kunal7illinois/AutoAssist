@@ -1,0 +1,41 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-35
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR: A-18X CONNECTORS:C-49,C-53,C-60<M/T>,
+C-50,C-54<A/T>
+MFI RELAY
+ECM<M/T>
+OR
+PCM<A/T>
+C-49,
+C-50 C-53, C-60
+C-54
+AK101363AB
+AK000280BU
+CONNECTOR : B-14
+VOLUME AIR
+FLOW SENSOR
+ACX02480AC
+. .
+CIRCUIT OPERATION DTC SET CONDITIONS
+• The volume air flow sensor power is supplied
+Check Conditions
+from the MFI relay (terminal 4), and the ground is
+• Engine speed is higher than 500 r/min.
+provided on the ECM (terminal 40) <M/T> or
+PCM (terminal 16) <A/T>. Judgement Criteria
+• 5-volt power is applied to the volume air flow sen- • Volume air flow sensor output frequency has con-
+sor output terminal (terminal 3) from the ECM tinued to be 3.3 Hz or lower for 2 seconds.
+(terminal 90) <M/T> or PCM (terminal 65) <A/T>.
+The volume air flow sensor generates a pulse . TROUBLESHOOTING HINTS (The most likely
+signal when the output terminal and ground are causes for this code to be set are:)
+opened/closed (opened/short). • Volume air flow sensor failed.
+• Open or shorted volume air flow sensor circuit, or
+. TECHNICAL DESCRIPTION loose connector.
+• While the engine is running, the volume air flow • ECM failed. <M/T>
+sensor outputs a pulse signal which corresponds • PCM failed. <A/T>
+to the volume of air flow. • Air leak between volume air flow sensor and
+• The ECM <M/T> or PCM <A/T> checks whether throttle body.
+the frequency of this signal output by the volume
+air flow sensor while the engine is running is at or
+above the set value.
+TSB Revision

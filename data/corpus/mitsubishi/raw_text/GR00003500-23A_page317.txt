@@ -1,0 +1,27 @@
+AUTOMATIC TRANSAXLE 23A-317
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 19. Check connector C-61 <2.4L Engine> or C-63
+<3.0L Engine> at PCM connector for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE> YES : Go to Step 20.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM Connector Inspection P.00E-2.
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+STEP 20. Check harness for short circuit to ground
+between Park/Neutral position switch connector B-41
+terminal 1 and PCM connector C-61 <2.4L Engine> or C-63
+<3.0L Engine> terminal 102.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-41
+B-41 YES : Go to Step 21.
+NO : Repair it.
+DIPSTICK
+AC001844AK
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE>
+PCM
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+TSB Revision

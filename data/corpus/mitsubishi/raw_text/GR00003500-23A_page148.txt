@@ -1,0 +1,34 @@
+23A-148 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 10. Check harness for open circuit or short circuit to
+ground between Park/Neutral position switch connector B-
+41 terminal 3 and PCM connector C-61 <2.4L Engine> or C-
+63 <3.0L Engine> terminal 101 <Vehicles with sport mode>.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-41
+B-41 YES : Go to Step 11.
+NO : Repair it.
+DIPSTICK
+AC001844AK
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE>
+PCM
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+STEP 11. Check connectors C-27 at intermediate
+connector and C-43 at combination meter for damage
+<Vehicles with sport mode>.
+Q:Are the connectors in good condition?
+CONNECTOR: C-27
+YES : Repair harness short circuit to ground between Park/
+Neutral position switch connector B-41 terminal 3 and
+combination meter connector C-43 terminal 11.
+NO : Repair or replace the defective connector(s). Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2.
+C-27
+AC001741AR
+CONNECTOR: C-43
+C-43
+AC001729AW
+TSB Revision

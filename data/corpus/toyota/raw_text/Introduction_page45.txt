@@ -1,0 +1,24 @@
+IN–45
+INTRODUCTION – HOW TO TROUBLESHOOT ECU CONTROLLED SYSTEMS
+(a) First, check the ECU ground circuit. If it is faulty,
+Example:
+repair it. If it is normal, the ECU could be faulty.
+Temporarily replace the ECU with a normally
+Ground functioning one and check if the symptoms occur. If
+the trouble symptoms disappear, replace the
+original ECU.
+IN
+(1) Measure the resistance between the ECU
+ground terminal and body ground.
+Standard resistance:
+Below 1 Ω
+IN00383E02
+(2) Disconnect the ECU connector. Check the
+ECU Side
+ground terminal on the ECU side and wire
+harness side for bending, corrosion or foreign
+matter. Lastly, check the contact pressure of the
+Wire Harness Side Ground female terminals.
+W/H Side
+Ground
+IN00384E03

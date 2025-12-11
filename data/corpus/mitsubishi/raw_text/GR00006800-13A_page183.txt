@@ -1,0 +1,29 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-183
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Check connector C-23 at the heated oxygen
+sensor (rear) for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-23
+YES : Go to Step 2.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+AK103527AB
+STEP 2. Check the heated oxygen sensor (rear).
+(1) Disconnect heated oxygen sensor (rear) connector C-23
+and connect test harness special tool, MB991658, to the
+connector on the heated oxygen (rear) sensor side.
+(2) Measure the resistance between heated oxygen sensor
+connector terminal 5 and terminal 6.
+HEATED OXYGEN
+SENSOR (REAR) Standard value: 11 − 18 ohm [at 20°C (68°F)]
+Q:Is the resistance normal?
+YES : Go to Step 3.
+NO : Replace the heated oxygen sensor (rear). Then go to
+ACX02495AF Step 12.
+CONNECTOR: C-23
+AK103527AB
+HEATED OXYGEN SENSOR
+EQUIPMENT SIDE CONNECTOR
+MB991658
+AK000121AB
+TSB Revision

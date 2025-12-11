@@ -1,0 +1,36 @@
+23A-56 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 10. Check connectors B-07 at throttle position
+sensor and C-54 <2.4L Engine> or C-55 <3.0L Engine> at
+PCM for damage.
+Q:Are the connectors in good condition?
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> YES : Go to Step 11.
+B-07
+NO : Repair or replace the defective connector(s). Refer to
+B-07
+GROUP 00E, Harness Connector Inspection P.00E-
+2.
+AC001831AF
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE>
+PCM
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+STEP 11. Check harness for short circuit to ground
+between throttle position sensor connector B-07 terminal 4
+and PCM connector C-54 <2.4L Engine> or C-55 <3.0L
+Engine> terminal 46.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> YES : Go to Step 5.
+B-07
+NO : Repair it.
+B-07
+AC001831AF
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE>
+PCM
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+TSB Revision

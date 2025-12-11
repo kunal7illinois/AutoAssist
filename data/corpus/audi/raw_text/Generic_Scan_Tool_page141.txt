@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Using a multimeter, check the Leak Detection Pump (LDP) --
+V144-- electrical harness connector terminal 3 for voltage.
+Connect the negative lead to engine ground.
+– Start the engine.
+Specified value: Battery voltage.
+– Switch the ignition Off.
+If the specified value was Not obtained:
+– Using a multimeter, check the Leak Detection Pump (LDP) --
+V144-- wiring from termin a l 3 to Fuse SB7. Refer to Wiring
+Diagrams for pin locations .
+Specified value: 1.0 Ω max.
+If the specified value was Not obtained:
+– Check the wiring for high resistance, short to ground or an
+open circuit.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If the specified voltage was obtained:
+Checking wiring
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Using a multimeter, check the Leak Detection Pump (LDP) --
+V144-- electrical connector terminals to Engine Control Mod‐
+ule (ECM) -J623- electrical connector terminals for an open
+circuit or high resistance. Refer to Wiring Diagrams for pin lo‐
+cations.
+Leak Detection Pump (LDP) Engine Control Module (ECM) -
+--V144-- electrical harness J623- electrical connector T94
+connector terminal terminal or test box socket
+1 40
+2 10
+Specified value: 1.0 Ω max.
+If the specified value was Not obtained:
+– Check the wiring for high resistance or an open circuit.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is found in wiring and the voltage supply was
+OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+Assembly is performed in the reverse order of the removal, note
+the following:
+– Install the right rear wheel housing liner. Refer to the Repair
+Manual.
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+137
+3. Diagnosis and Testing

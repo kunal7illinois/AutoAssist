@@ -1,0 +1,33 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+21. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+22. Start the engine with the shift lever in P, and wait for at least 1 second. Then
+drive the vehicle in 3rd gear in D, for at least 1 second.
+23. Check for DTCs with the HDS.
+Is DTC P0979 indicated?
+YES -Check for intermittent short to body ground in the wire between shift
+solenoid valve C and the PCM. If the PCM was updated, substitute a known-
+good PCM (see SUBSTITUTING THE PCM ), then go to step 22. If the
+PCM was substituted, go to step 1.
+NO -Go to step 24.
+24. Monitor the OBD STATUS for P0979 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM (see ECM/PCM REPLACEMENT ). If
+any other DTCs were indicated in step 23, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for intermittent short to body ground
+in the wire between shift solenoid valve C and the PCM. If the PCM was
+updated, substitute a known-good PCM (see SUBSTITUTING THE PCM ),
+then go to step 22. If the PCM was substituted, go to step 1. If the HDS
+indicates NOT COMPLETED, go to step 22.
+DTC P0980: Open in Shift Solenoid Valve C Circuit
+NOTE:
+Before you troubleshoot, record all freeze data and any
+(cid:1)
+on-board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).

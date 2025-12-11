@@ -1,0 +1,71 @@
+EG-136 ENGINE - 2GR-FE ENGINE
+13. Fail-Safe
+When the ECM detects a malfunction, the ECM stops or controls the engine according to the date already
+stored in the memory.
+(cid:1) Fail-Safe Chart (cid:2)
+DTC No. Fail-Safe Operation Fail-Safe Deactivation Conditions
+P0031, P0032,
+ECM turns off air fuel ratio sensor heater. Engine switch*1 or ignition switch*2 OFF.
+P0051, P0052
+P0037, P0038
+ECM turns off heated oxygen sensor heater. Engine switch*1 or ignition switch*2 OFF.
+P0057, P0058
+P0100, P0102, Ignition timing is calculated from engine
+“Pass” condition detected.
+P0103 speed and throttle angle.
+P0110, P0112, Intake air temperature is fixed at 20(cid:4)C
+“Pass” condition detected.
+P0113 (68(cid:4)F).
+P0115, P0117, Engine coolant temperature is fixed at 80(cid:4)C
+“Pass” condition detected.
+P0118 (176(cid:4)F).
+If ETCS-i (Electronic Throttle Control
+System-intelligent) has a malfunction,
+ECM cuts off current to throttle control
+motor. Throttle control valve returns to
+P0120, P0121,
+predetermined opening angle
+P0122, P0123,
+(approximately 6.5(cid:4)) by force of return
+P0220, P0222, If “Pass” condition is detected and then the
+spring. ECM then adjusts engine output by
+P0223, P0604, engine switch*1 or ignition switch*2 is
+controlling fuel injection (intermittent
+P0606, P0607, turned OFF, fail-safe operation will stop and
+fuel-cut) and ignition timing in accordance
+P0657, P2102, system will return to normal operating
+with accelerator pedal opening angel to
+P2103, P2111, conditions.
+enable vehicle to continue at minimal speed.
+P2112, P2118,
+If accelerator pedal is depressed firmly and
+P2119, P2135
+slowly, vehicle can be driven slowly. If
+accelerator pedal is depressed quickly,
+vehicle may speed up and slow down
+erratically.
+P0327, P0328,
+Max. timing retardation. Engine switch*1 or ignition switch*2 OFF.
+P0332, P0333
+P0351, P0352,
+P0353, P0354, Fuel is cut. “Pass” condition detected.
+P0355, P0356
+Accelerator pedal position sensor has two
+(main and sub) sensor circuits.
+If a malfunction occurs in either of sensor
+circuits, ECM detects abnormal signal
+voltage difference between two sensor If “Pass” condition is detected and then the
+P2120, P2121,
+circuits and switches into limp mode. In engine switch*1 or ignition switch*2 is
+P2122, P2123,
+limp mode, remaining circuit is used to turned OFF, fail-safe operation will stop and
+P2125, P2127,
+calculate accelerator pedal opening to allow system will return to normal operating
+P2128, P2138
+vehicle to continue driving. conditions.
+If both circuits malfunction, ECM regards
+opening angle of accelerator pedal to be
+fully closed. In this case, throttle valve will
+remain closed as if engine is idling.
+*1: With smart key system
+*2: Without smart key system

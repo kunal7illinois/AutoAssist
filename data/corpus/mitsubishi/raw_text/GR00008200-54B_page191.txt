@@ -1,0 +1,43 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-191
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal by using "FUNCTION
+DIAG." of the SWS monitor.
+Check the input signals from the following switches:
+• Ignition switch: ACC
+• Windshield wiper switch: INT
+Operate the MUT-II according to the procedure below to dis-
+COLUMN SWITCH play "F.WIPER HI."
+CONNECTOR
+1. Select "SYSTEM SELECT."
+MB991502 2. Select "SWS."
+3. Select "SWS MONITOR."
+4. Select "FUNCTION DIAG."
+5. Select "WIPER."
+DATA LINK
+6. Select "F.WIPER HI."
+CONNECTOR
+Check that normal conditions are displayed on the items
+AC101571AB described in the table below.
+COLUMN SWITCH ITEM No. ITEM NAME NORMAL
+CONNECTOR CONDITIONS
+ITEM No.05 INT WIPER SW ON
+SWS MONITOR
+ITEM No.70 FRONT ECU NORMAL ACK or
+HARNESS (FOR
+ACK HI-BEAM ACK
+COLUMN-ECU)
+COLUMN SWITCH
+Q:Does the scan tool display the items "INT WIPER" and
+CONNECTOR AT
+"FRONT ECU ACK" as normal condition?
+HARNESS SIDE
+AC101421AB YES : Go to Step 3.
+NO : • The scan tool does not show the respective
+normal condition for item "INT WIPER SW."
+Replace the column switch. Check that the
+windshield wiper works normally.
+• The scan tool does not show the respective
+normal condition for item "FRONT ECU SW."
+Replace the front-ECU. Check that the windshield
+wiper works normally.
+TSB Revision

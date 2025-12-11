@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Does the HDS indicate FAILED?
+YES -Go to step 22.
+NO -If the HDS indicates PASSED, intermittent failure, the system is OK at
+this time. Check for poor connections or loose terminals between the
+transmission range switch and the PCM. If the HDS indicates NOT
+COMPLETED, go to step 19.
+22. Turn the ignition switch to LOCK (0).
+23. Disconnect the transmission range switch connector.
+24. Check for continuity between transmission range switch connector terminal
+No. 10 and body ground.
+Fig. 80: Checking Continuity Between Transmission Range Switch
+Connector Terminal No. 10 And Body Ground
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES -Go to step 25.
+NO -Repair open in the wire between the transmission range switch and
+ground (G101) (see CONNECTOR TO HARNESS INDEX ), or repair poor
+ground (G101), then go to step 30.
+25. Turn the ignition switch to ON (II).
+26. Measure the voltage between transmission range switch connector terminals
+No. 5 and No. 10.

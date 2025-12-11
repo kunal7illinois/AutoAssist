@@ -1,0 +1,40 @@
+NS–182
+NAVIGATION – NAVIGATION SYSTEM
+Reverse Signal Circuit
+DESCRIPTION
+The radio and navigation assembly receives a reverse signal from the park/neutral position switch and
+information about the GPS antenna, and then adjusts vehicle position.
+WIRING DIAGRAM
+Radio and Navigation Assembly
+Park/Neutral
+Position Switch
+1 2 2 1 5
+(A/T) (A/T)
+C1 C1 C1 C1 F13 REV
+RB RL
+(*1) (*2) (*1) (*2)
+C28Back-up Light Switch
+(M/T) (M/T)
+2 1
+From GAUGE No. 1 Fuse
+*1: 2GR-FE *2: 2AZ-FE
+E129828E03
+INSPECTION PROCEDURE
+1 INSPECT RADIO AND NAVIGATION ASSEMBLY
+(a) Disconnect the radio and navigation assembly connector
+Wire Harness View:
+F13.
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+REV Tester connection Condition Specified condition
+Ignition switch on (IG).
+REV - Body ground Shift lever is moved to 10 to 14 V
+R position.
+Ignition switch on (IG).
+NS REV - Body ground Shift lever is moved to Below 1 V
+F13 any position except R.
+OK REPLACE RADIO AND NAVIGATION
+ASSEMBLY
+E113510E06
+NG

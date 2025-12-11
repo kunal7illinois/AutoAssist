@@ -1,0 +1,38 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-525
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 12. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 6 − Other Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P1400 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P1603: Battery Backup Circuit Malfunction
+AK103041
+TSB Revision
+ETIHW
+ETIHW-DER
+ETIHW-DER
+ETIHW
+Battery Backup Circuit
+BATTERY
+RELAY
+9 20A
+BOX
+C-07
+MU801333
+1 2 3
+8 4 5 6 7 8
+C-58 <M/T>
+(MU803782)
+60 <M/T>
+66 <A/T>
+41424344 45 46 47
+48495051525354555657 58 59
+6061 626364 6566 67 68 ENGINE CONTROL
+C-55 <A/T> BATTERY MODULE (ECM) <M/T>
+(MU803781) BACKUP OR
+POWERTRAIN CONTROL
+41 42 43 444546 MODULE (PCM) <A/T>
+47 48 495051525354555657
+58 59 60616263 646566

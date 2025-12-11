@@ -1,0 +1,65 @@
+J
+Example
+Starter S1
+Parts Code or Location
+7.5A DRL 4
+Location
+Electrical Source
+(*2)
+7.5A HEATER-S 3
+10A FR FOG LH
+FR FOG Relay
+3 3
+(Point Side)
+10A FR FOG RH
+7.5A ALT-S 10A PANEL
+TAIL Relay
+3 3
+(Point Side)
+20A F/PMP 10A TAIL
+15A HAZ
+15A P/POINT NO.2
+ACC1 Relay
+15A ETCS 3 3
+(Point Side)
+10A ECU ACC
+7.5A MPX-B
+20A D/L 15A P/POINT NO.1
+ACC2 Relay
+3 3
+(Point Side)
+7.5A STR LOCK 7.5A RADIO
+7.5A AM2 NO.2
+1 10A ECU IG1
+IG1 NO.1 Relay
+7.5A EFI (+B) 3 3
+(Point Side)
+7.5A BK/UP LP
+15A EFI (IGN)
+IG1 NO.2 Relay
+15A EFI (HTR) 3 10A DRL 3
+(Point Side)
+15A EFI (CTRL)
+IG1 NO.3 Relay
+3 10A HEATER 3
+(Point Side)
+7.5A AT+B
+80A EPS 10A SEAT HTR LH
+IG1 NO.4 Relay
+3 3
+(Point Side)
+30A INJ 10A SEAT HTR RH
+(*1 A/T)
+30A H-LP WASHER 7.5A PUSH-AT 1
+(*1) ST CUT Relay (*1) ST Relay
+1 1 7.5A ST 1
+(Point Side) (Point Side)
+(*3) (*3)
+7.5A GAUGE
+IG2 Relay
+1 10A ECU IG2 3
+(Point Side)
+15A AT UNIT
+7.5A IG2 1 15A A/B MAIN 1
+379
+BRZ (G4400BE)

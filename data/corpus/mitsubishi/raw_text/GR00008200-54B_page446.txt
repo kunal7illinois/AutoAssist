@@ -1,0 +1,54 @@
+54B-446 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 10. Check the input signal by using "DATA LIST" of
+the SWS monitor.
+Satisfy the following conditions to check the driver’s and front
+passenger’s door switches.
+• Driver’s door: Open (driver’s door switch is on)
+However, the door should be closed when checking the
+front passenger’s door switch.
+• Front passenger’s door: Open (front passenger’s door
+switch is on)
+However, the door should be closed when checking the
+driver’s door switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502. Also con-
+nect SWS monitor kit MB991862 after turning on scan tool
+MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+COLUMN SWITCH (2) Connect SWS monitor kit MB991862 to the column switch
+CONNECTOR
+connector.
+MB991502 (3) Operate the MUT-II according to the procedure below to
+display "ETACS ECU."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+DATA LINK 3. Select "SWS MONITOR."
+CONNECTOR
+4. Select "DATA LIST."
+AC101571AB 5. Select "ETACS ECU."
+(4) The scan tool should show the following values when each
+COLUMN SWITCH
+switch is operated.
+CONNECTOR
+NOTE: The scan tool display changes when the driver’s or
+the front passenger’s door is opened. If any of the doors is
+SWS MONITOR open, the system can not be checked correctly.
+HARNESS (FOR
+ITEM No. ITEM NAME NORMAL
+COLUMN-ECU)
+CONDITIONS
+COLUMN SWITCH
+CONNECTOR AT ITEM No.32 FRONT DOOR ON
+HARNESS SIDE
+SW
+AC101421AB
+Q:The scan tool shows the respective normal condition
+for item "FRONT DOOR SW."
+YES : Go to Step 11.
+NO : Refer to Inspection Procedure O-6 "ETACS-ECU
+does not receive a signal from the driver’s or front
+passenger’s door switch P.54B-502."
+TSB Revision

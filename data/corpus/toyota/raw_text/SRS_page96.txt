@@ -1,0 +1,49 @@
+RS–96
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+26 CONFIRM PART NUMBER OF SIDE AIRBAG SENSOR
+(a) Check that the part number of the side airbag sensor LH
+is equal to the number of the other side.
+OK:
+Those numbers are the same.
+(b) Connect the connectors to the center airbag sensor
+assembly and the side airbag sensor LH.
+NG Go to step 28
+OK
+27 CHECK SIDE AIRBAG SENSOR LH
+(a) Interchange the side airbag sensor RH with LH and
+connect the connectors to them.
+(b) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+(c) Turn the ignition switch on (IG), and wait for at least 60
+Side Airbag Center Airbag seconds.
+Sensor RH
+Sensor Assembly (d) Clear the DTCs stored in the memory (See page RS-41).
+(e) Turn the ignition switch off.
+DTC 81 (f) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+DLC3 (g) Check the DTCs (See page RS-41).
+Result
+RS DTC 82
+Result Proceed to
+DTC B1623, B1633, B1643, or 81 is output. A
+CG TC
+DTC B1628, B1638, B1648, or 82 is output. B
+C123724E02
+DTC B1623, B1633, B1643, or 81 and B1628, B1638,
+C
+B1648, or 82 are not output.
+(h) Turn the ignition switch off.
+(i) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(j) Return the side airbag sensor RH and LH to their original
+positions and connect the connectors to them.
+B REPLACE SIDE AIRBAG SENSOR LH (See
+page RS-449)
+C USE SIMULATION METHOD TO CHECK (See
+page RS-32)
+A
+28 CHECK CENTER AIRBAG SENSOR ASSEMBLY
+(a) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+(b) Turn the ignition switch on (IG), and wait for at least 60
+seconds.

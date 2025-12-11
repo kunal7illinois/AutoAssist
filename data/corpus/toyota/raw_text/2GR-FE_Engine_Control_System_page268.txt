@@ -1,0 +1,63 @@
+ES–268
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Evaporative Emission Control System Incorrect
+DTC P0441
+Purge Flow
+DTC SUMMARY
+Detection
+DTC No. Monitoring Item DTC Detection Condition Trouble Area Detection Timing
+Logic
+Vacuum pump creates negative
+pressure (vacuum) in EVAP
+system and EVAP system • EVAP VSV
+pressure measured. 0.02 inch • Connector/wire harness
+EVAP VSV
+leak pressure standard measured (EVAP VSV - ECM) While engine
+P0441 (Vacuum Switching 2 trip
+at start and at end of leak check. • ECM switch off
+Valve) stuck open
+If stabilized pressure higher than • Pump module
+[second 0.02 inch leak pressure • Leakage from EVAP system
+standard x 0.2], ECM determines
+ES
+that EVAP VSV stuck open
+After EVAP leak check
+performed, EVAP VSV turned ON
+(open), and atmospheric air
+• EVAP VSV
+introduced into EVAP system.
+• Connector/wire harness
+0.02 inch leak pressure standard
+EVAP VSV stuck (EVAP VSV - ECM) While engine
+P0441 measured at start and at end of 2 trip
+closed • ECM switch off
+the check.
+• Pump module
+If pressure does not return to
+• Leakage from EVAP system
+near atmospheric pressure, ECM
+determines that purge valve stuck
+closed
+While engine running, following
+conditions are successively met:
+• Negative pressure not
+created in EVAP system
+when EVAP VSV turned ON • EVAP VSV
+(open) • Connector/wire harness
+• EVAP system pressure (EVAP VSV - ECM) While engine
+P0441 Purge flow 2 trip
+change less than 0.5 kPa • Leakage from EVAP line running
+(3.75 mmHg) when vent (EVAP VSV - Intake manifold)
+valve turned ON (closed) • ECM
+• Atmospheric pressure
+change before and after
+purge flow monitor less than
+0.1 kPa (0.75 mmHg)
+DESCRIPTION
+The circuit description can be found in the EVAP (Evaporative Emission) System (See page ES-400).
+INSPECTION PROCEDURE
+Refer to the EVAP System (See page ES-400).
+MONITOR DESCRIPTION
+The two monitors, Key-off and Purge Flow, are used to detect malfunctions relating to DTC P0441. The
+key-off monitor is initiated by the ECM internal timer, known as the soak timer, 5 hours* after the engine
+switch is turned off. The purge flow monitor runs while the engine is running.

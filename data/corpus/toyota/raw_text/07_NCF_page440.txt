@@ -1,0 +1,26 @@
+BE-106 BODY ELECTRICAL - SMART KEY SYSTEM
+(cid:4)ENTRY FUNCTION
+1. System Diagram
+The certification ECU controls the entry function. The system diagram below shows the main components
+that relate to the function.
+ID Code Box
+Local
+Communication
+Outside Handle Outside Handle
+(cid:3) Antenna Main Body (cid:3) Antenna
+Certification ECU
+(cid:3) Touch Sensor ECU (cid:3) Touch Sensor
+(cid:3) Lock Switch CAN (cid:3) Lock Switch
+(cid:3) Door Oscillator (MS Bus) (cid:3) Door Oscillator
+Front Room
+Oscillator
+Rear Room
+Oscillator
+Tuner
+Key
+Trunk Oscillator
+Trunk
+Trunk Open Switch Antenna
+Trunk Oscillator
+(Outer)
+025BE87TE

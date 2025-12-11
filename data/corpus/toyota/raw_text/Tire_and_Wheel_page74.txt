@@ -1,0 +1,23 @@
+TW–73
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+TC and CG Terminal Circuit
+DESCRIPTION
+DTC output mode is set by connecting terminals 13 (TC) and 4 (CG) of the DLC3. The DTCs are indicated
+by the blinking of the tire pressure warning light.
+WIRING DIAGRAM
+E60
+Tire Pressure Warning ECU
+E10
+DLC3 TW
+13 3
+TC TC
+4
+CG
+E110507E13
+HINT:
+When each warning light blinks continuously, a ground short in the wiring of terminal TC of the DLC3 or an
+internal ground short in an ECU connected to this circuit may have occurred.
+INSPECTION PROCEDURE
+NOTICE:
+It is necessary to register an ID code after replacing the tire pressure warning valve and
+transmitter and/or the tire pressure warning ECU (See page TW-15).

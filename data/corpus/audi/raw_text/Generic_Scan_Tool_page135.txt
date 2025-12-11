@@ -1,0 +1,50 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Note
+♦ The Intake Air Temperature (IAT) Sensor -G42- is part of the
+Manifold Absolute Pressure (MAP) Sensor -G71- and cannot
+be replaced separately
+♦ Use only gold-plated terminals when servicing terminals in
+harness connector of Manifold Absolute Pressure (MAP) Sen‐
+sor -G71- / Intake Air Temperature (IAT) Sensor -G42- .
+Special tools and workshop equipment required
+♦ multimeter.
+♦ Wiring diagram.
+Test requirements
+• The Engine Control Module (ECM) -J623- fuse OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• Vehicles with automatic transmission, shift selector lever into
+position “P” or “N”.
+• A/C switched off.
+• Ground (GND) connections between engine/transmission/
+chassis OK.
+• Coolant Temperature at least 80° C.
+• Ignition switched off.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8 .
+Start diagnosis
+– Connect the scan tool.
+– Start engine and let it run at idle.
+– Using the scan tool, Check the temperature of the Manifold
+Absolute Pressure (MAP) Sensor -G71- and Intake Air Tem‐
+perature (IAT) Sensor -G42- at idle:
+Diagnostic text Specified value
+Intake air temperature sensor
+• Engine running at idle approx. ambient temper‐
+ature
+– End diagnosis and switch ignition off.
+If the specified value was obtained, but the DTC memory has a
+DTC indicating a Manifold Absolute Pressure (MAP) Sensor -
+G71- / Intake Air Temperature (IAT) Sensor -G42- fault:
+– Check the voltage supply of the Manifold Absolute Pressure
+(MAP) Sensor -G71- / Intake Air Temperature (IAT) Sensor -
+G42- ⇒ page 132 .
+If specified value was not obtained:
+– Check the wiring of the Manifold Absolute Pressure (MAP)
+Sensor -G71- / Intake Air Temperature (IAT) Sensor -G42-
+⇒ page 132 .
+131
+3. Diagnosis and Testing

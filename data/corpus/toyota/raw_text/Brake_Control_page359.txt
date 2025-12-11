@@ -1,0 +1,45 @@
+BC–348
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+OK
+4 INSPECT YAW RATE AND ACCELERATION SENSOR (GND TERMINAL)
+(a) Turn the ignition switch off.
+Yaw Rate and Acceleration Sensor
+(b) Measure the resistance according to the value(s) in the
+(Harness Side Connector Front View):
+table below.
+Standard resistance
+E65
+Tester Connection Condition Specified Condition
+E65-4 (GND) - Body
+Always Below 1 Ω
+ground
+GND NG REPAIR OR REPLACE HARNESS OR
+F048983E12 CONNECTOR (GND CIRCUIT)
+OK
+BC
+5 RECONFIRM DTC
+(a) Clear the DTCs (See page BC-302).
+(b) Start the engine.
+(c) At a speed of 18 mph (30 km/h) or more, drive the
+vehicle, turn the steering wheel, and decelerate (depress
+the brake pedal) the vehicle.
+(d) Turn the ignition switch on (IG) again and check that no
+CAN communication system DTC is output (See page
+BC-302).
+HINT:
+Reinstall the sensors, connectors, etc. and restore the
+vehicle to its prior condition before rechecking for DTCs.
+Result
+Condition Proceed to
+DTC is output A
+DTC is output (When troubleshooting in accordance with the PROBLEM
+B
+SYMPTOMS TABLE)
+DTC is not output (When troubleshooting in accordance with the DTC CHART) C
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+(See page BC-295)
+C CHECK FOR INTERMITTENT PROBLEMS
+(SYMPTOM SIMULATION) (See page BC-298)
+A
+REPLACE YAW RATE AND ACCELERATION SENSOR (See page BC-447)

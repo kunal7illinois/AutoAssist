@@ -1,0 +1,43 @@
+CA–74
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+2 CHECK FOR OPEN IN CAN BUS MAIN WIRE (COMBINATION METER MAIN BUS LINE)
+(a) Disconnect the CAN main bus wire white connector
+No. 1 CAN “B” J/C Side (without
+(E43) from the No. 1 CAN J/C "B" side (without earth
+Earth Terminal) Wire Harness Side
+terminal).
+NOTICE:
+• Before disconnecting the connector, make a note
+E43 CANH
+of where it is connected.
+• Reconnect the connector to its original position.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Value
+E43-1 (CANH) - E43-2 (CANL) Ignition switch off 108 to 132 Ω
+CANL
+NG Go to step 7
+C133231E01
+CA
+OK
+3 CHECK FOR OPEN IN CAN BUS MAIN WIRE (NO. 1 CAN J/C)
+(a) Reconnect the CAN main bus wire connector (E43) to
+No. 1 CAN J/C “A” Side (with Earth the No. 1 CAN J/C "B" side (without earth terminal).
+Terminal) : (b) Disconnect the CAN main bus wire white connector
+(E42) from the No. 1 CAN J/C "A" side (with earth
+terminal).
+CANH E42
+NOTICE:
+• Before disconnecting the connector, make a note
+of where it is connected.
+• Reconnect the connector to its original position.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+CANL
+Tester Connection Condition Specified Value
+E41-1 (CANH) - E41-2 (CANL) Ignition switch off 108 to 132 Ω
+C133228E02
+OK REPLACE NO. 1 CAN J/C
+NG

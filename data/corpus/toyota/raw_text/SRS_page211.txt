@@ -1,0 +1,56 @@
+RS–211
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+1 CHECK DRIVER SIDE KNEE AIRBAG ASSEMBLY (DRIVER SIDE KNEE AIRBAG SQUIB)
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+D C (c) Disconnect the connector from the driver side knee
+airbag assembly.
+Driver Side Knee
+(d) Connect the white wire side of SST (resistance 2.1 Ω) to
+Airbag Squib
+Center Airbag
+connector C.
+Sensor Assembly
+CAUTION:
+Never connect the tester to the driver side knee
+airbag assembly (driver side knee airbag squib) for
+Connector C measurement, as this may lead to a serious injury
+due to airbag deployment.
+E54 NOTICE:
+• Do not forcibly insert the SST into the terminals of
+the connector when connecting.
+SST
+• Insert straight the SST into the terminals of the
+connector.
+SST 09843-18060
+(e) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+DLC3 DTC 64 (f) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+(g) Clear the DTCs stored in the memory (See page RS-41).
+(h) Turn the ignition switch off.
+(i) Turn the ignition switch on (IG), and wait for at least 60
+CG TC RS
+seconds.
+C123732E01 (j) Check the DTCs (See page RS-41).
+OK:
+DTC B1860, B1861, B1862, B1863, or 64 is not
+output.
+HINT:
+Codes other than DTC B1860, B1861, B1862, B1863,
+and 64 may be output at this time, but they are not
+related to this check.
+OK REPLACE DRIVER SIDE KNEE AIRBAG
+ASSEMBLY (See page RS-369)
+NG
+2 CHECK CONNECTOR
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Disconnect the SST from connector C.
+(d) Check that the instrument panel wire connector (on the
+driver side knee airbag assembly side) is not damaged.
+OK:
+The lock button is not disengaged, or the claw of
+the lock is not deformed or damaged.

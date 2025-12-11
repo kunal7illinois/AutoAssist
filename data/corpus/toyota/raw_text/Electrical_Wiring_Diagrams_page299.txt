@@ -1,0 +1,54 @@
+Cruise Control for 2AZ–FE
+System Outline
+The cruise control system is a constant vehicle speed controller which controls the opening angle of the engine throttle valve
+by the SW, and allows driving at a constant speed without depressing the accelerator pedal.
+Set Operation
+When the ON–OFF SW is turned on, the systems starts preparations for cruise control and turns on the indicator light in the
+combination meter.
+Set Speed Control
+When the – SET SW is operated with the ON–OFF SW turned on during driving, the speed is controlled at a constant speed.
+Coast Control
+When the – SET SW is kept turned on during cruise control driving, the engine control module controls the throttle valve to
+decelerate the vehicle speed.
+Every time the – SET SW is turned on instantaneously, the vehicle speed is decelerated by approx. 1.6 km/h.
+Accel Control
+When the + RES SW is kept turned on during cruise control driving, the engine control module controls the throttle valve to
+accelerate the vehicle speed.
+Every time the + RES SW is turned on instantaneously, the vehicle speed is accelerated by approx. 1.6 km/h.
+Resume Control
+If the vehicle speed is within the low speed limit (Approx. 40 km/h, 25 mph) when canceling the cruise control, operation of
+the + RES SW accelerates the vehicle speed and resumes the level before canceling the cruise control.
+Manual Cancel Mechanism
+If any one of the following signals is input during cruise control driving, the cruise control is canceled.
+∗ The stop light SW is on
+∗ The CANCEL SW is turned on
+∗ The ON–OFF SW is turned off
+∗ Gear is shifted D position to other positions than D. (A/T)
+∗ The clutch pedal is depressed. (M/T)
+Auto Cancel Function
+If any of the following conditions are detected, the cruise control is canceled:
+∗ Failure in the stop light SW wiring
+∗ Abnormality in the vehicle speed signal
+∗ Malfunction in the electronically controlled throttle parts
+∗ When the vehicle speed gets slower than the low speed limit.
+∗ When the vehicle speed falls to 16 km/h less than the set speed.
+Overdrive Function
+The overdrive may be canceled if the vehicle travels on a upward slope during cruise control driving. When the throttle
+opening information indicates the hill climbing is finished after the overdrive is canceled, the vehicle returns to overdrive
+mode again as the overdrive return timer is completed.
+: Parts Location
+Code See Page Code See Page Code See Page
+A17 59 A58 A 59 E40 B 57
+A19 59 A60 B 53 (2AZ–FE) E41 B 57
+A21 59 C1 B 54 (2AZ–FE) E42 A 57
+A24 A 52 (2AZ–FE) C5 54 (2AZ–FE) E43 B 57
+A25 C 52 (2AZ–FE) C24 B 55 (2AZ–FE) E62 G 57
+A26 A 52 (2AZ–FE) C25 55 (2AZ–FE) F1 A 58
+A40 A 59 E10 56 F2 B 58
+A41 A 59 E18 A 56 b1 C 59
+A42 B 59 E31 56
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+298
+CAMRY (EM0250U)

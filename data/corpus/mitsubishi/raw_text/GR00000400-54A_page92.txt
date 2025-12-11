@@ -1,0 +1,38 @@
+54A-92 CHASSIS ELECTRICAL
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 4. Check the wiring harness between fuel pump
+module connector D-17 (terminal 2) and combination
+meter connector C-41 (terminal 53).
+NOTE: After checking intermediate connector C-90, check the
+CONNECTOR: C-41
+wire. If intermediate connector C-90 is damaged, repair or
+replace it. Refer to GROUP 00E, Harness Connector Inspec-
+tion P.00E-2.
+DEVICE SIDE
+41424344454647 484950515253545556
+AC106473AH
+CONNECTOR <ECLIPSE> : D-17
+DEVICE SIDE
+1 2 3
+4 5
+AC106483AI
+CONNECTOR <ECLIPSE SPYDER> : D-17
+DEVICE SIDE
+1 2 3
+4 5
+AC106485AI
+Q:Are the wiring harness between fuel pump module
+CONNECTOR: C-90
+connector D-17 (terminal 2) and combination meter
+CONNECTOR BLOCK (LH)
+connector C-41 (terminal 53) in good condition?
+YES : Repair or replace the combination meter (printed-
+circuit board or fuel gauge assembly). The fuel gauge
+should work normally.
+NO : Repair or replace the connector. The fuel gauge
+1 2 3 4 5 6 7 8 9 should work normally.
+1011121314 15 161718192021
+2223242526 27 2829 30313233
+34353637 38 3940 414243
+AC106477AE
+TSB Revision

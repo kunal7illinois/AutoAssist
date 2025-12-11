@@ -1,0 +1,43 @@
+RS–344
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+Sleep Operation Failure of Occupant Classifica-
+DTC B1796
+tion ECU
+DESCRIPTION
+During sleep mode, the occupant classification ECU reads the condition of each sensor while the ignition
+switch is off.
+In this mode, if occupant classification ECU detects an internal malfunction, DTC B1796 is output.
+DTC No. DTC Detecting Condition Trouble Area
+B1796 • Occupant classification ECU malfunction • Occupant classification ECU
+INSPECTION PROCEDURE
+1 CHECK DTC
+(a) Turn the ignition switch on (IG).
+(b) Clear the DTCs stored in the memory (See page RS-
+251).
+HINT:
+First clear DTCs stored in the occupant classification
+ECU and then in the center airbag sensor assembly.
+(c) Turn the ignition switch off, and wait for at least 10
+seconds.
+(d) Turn the ignition switch on (IG).
+(e) Check the DTCs (See page RS-251).
+OK:
+RS DTC B1796 is not output.
+HINT:
+Codes other than DTC B1796 may be output at this time,
+but they are not related to this check.
+OK USE SIMULATION METHOD TO CHECK
+NG
+2 REPLACE OCCUPANT CLASSIFICATION ECU
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery.
+(c) Replace the occupant classification ECU (See page RS-
+469).
+HINT:
+Perform the inspection using parts from a normal vehicle
+if possible.
+NEXT
+3 PERFORM ZERO POINT CALIBRATION
+(a) Connect the negative (-) terminal cable to the battery.
+(b) Connect the intelligent tester to the DLC3.

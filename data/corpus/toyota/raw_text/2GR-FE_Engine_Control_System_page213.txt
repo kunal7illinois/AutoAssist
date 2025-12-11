@@ -1,0 +1,40 @@
+ES–213
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. DTC Detection Condition Trouble Area
+• Open or short in engine wire harness
+• Connector connection
+• Vacuum hose connections
+• Ignition system
+• Injector for direct injector
+P0301 • Injector for port injector
+P0302 • Fuel pressure
+P0303 Misfiring of specific cylinder detected • Mass Air Flow (MAF) meter
+P0304 (2 trip detection logic) • Engine Coolant Temperature (ECT) sensor
+P0305 • Compression pressure
+P0306 • Valve clearance
+• Valve timing
+• PCV valve and hose
+• PCV hose connections
+• Air induction system
+• ECM
+If DTCs that indicate misfires are set for different cylinders, but DTC P0300 is not set, it indicates that ES
+misfires have been detected in different cylinders at different times. DTC P0300 is only set when several
+misfiring cylinders are detected at the same time.
+MONITOR DESCRIPTION
+Intake Camshaft Position Sensor
+Exhaust Camshaft Position Sensor
+ECM
+Crankshaft Position Sensor (36-2 teeth)
+A107734E02
+The ECM illuminates the MIL and sets a DTC when either one of the following conditions, which could
+cause emission deterioration, is detected (2 trip detection logic):
+• Within the first 1,000 crankshaft revolutions of the engine starting, an excessive misfiring rate
+(approximately 20 to 50 misfires per 1, 000 crankshaft revolutions) occurs once.
+• After the first 1,000 crankshaft revolutions, an excessive misfiring rate (approximately 20 to 60 misfires
+per 1, 000 crankshaft revolutions) occurs 4 times in sequential crankshaft revolutions.
+The ECM flashes the MIL and sets a DTC when either one of the following conditions, which could cause
+the Three-Way Catalytic Converter (TWC) damage, is detected (2 trip detection logic):
+• In every 200 crankshaft revolutions at a high engine rpm, the threshold misfiring percentage is
+recorded once.
+• In every 200 crankshaft revolutions at a normal engine rpm, the threshold misfiring percentage is
+recorded 3 times.

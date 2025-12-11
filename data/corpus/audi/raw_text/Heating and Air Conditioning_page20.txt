@@ -1,0 +1,53 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+– Set the rotary temperature control -A- of the heater operating
+unit, Climatronic control unit -J255- to the “cold” stop.
+– Set the rotary air distribution control -C- of the heater operating
+unit, Climatronic control unit -J255- such that air emerges from
+the dash panel vents.
+– Set the rotary fresh air blower speed control -B- of the heater
+operating unit, Climatronic control unit -J255- to the “maximum
+fresh air blower speed” stop.
+Note
+♦ The heater operates in fresh air mode, the indicator lamp in
+the recirculated air button -D- does not light.
+♦ The fresh air blower runs at maximum speed.
+– Select the “Reading measured value block” function ⇒ "Gui‐
+ded fault-finding" function of vehicle diagnostic, testing and
+information system VAS 5051.
+– Read out the measured value block with the display for the
+position of the left temperature flap control motor -V158- ⇒
+"Guided fault-finding" function of vehicle diagnostic, testing
+and information system VAS 5051.
+– Measure the temperature of the air emerging from the dash
+panel vents on the left and right.
+Specifications:
+♦ The display shows that the left temperature flap control motor
+-V158- is set to the “bottom” stop (“cold” stop).
+♦ The temperature of the air emerging from the dash panel vents
+on the left and right is max. 15 °C higher than the ambient
+temperature previously measured (temperature increase in
+heater less than 16 °C).
+♦ The difference in the temperature of the air emerging from the
+dash panel vents on the left and right is less than 8 °C.
+– Set the rotary temperature control -A- of the heater operating
+unit, Climatronic control unit -J255- to the “warm” stop.
+– Read out the measured value block with the display for the
+position of -V158- ⇒ "Guided fault-finding" function of vehicle
+diagnostic, testing and information system VAS 5051.
+– Measure the temperature of the air emerging from the dash
+panel vents on the left and right.
+Specifications:
+♦ The display shows that the left temperature flap control motor
+-V158- is set to the “top” stop (“warm” stop).
+♦ The temperature of the air emerging from the dash panel vents
+on the left and right increases to a value above 55 °C (at an
+engine temperature of approx. 90 °C, depending on the in‐
+stantaneous engine temperature).
+♦ The difference in the temperature of the air emerging from the
+dash panel vents on the left and right is less than 8 °C.
+Note
+The coolant flow through the heat exchanger (and thus the heat
+output) is also governed by the engine speed.
+14
+Rep. Gr.80 - Heating

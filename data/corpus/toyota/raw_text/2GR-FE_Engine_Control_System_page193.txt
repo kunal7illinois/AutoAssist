@@ -1,0 +1,48 @@
+ES–193
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+11 PERFORM CONFIRMATION DRIVING PATTERN
+NEXT
+12 CHECK WHETHER DTC OUTPUT RECURS (DTC P0136 or P0156)
+(a) On the intelligent tester, enter the following menus:
+DIAGNOSIS / ENHANCED OBD II / DTC INFO /
+CURRENT CODES.
+(b) Read the DTCs.
+Result
+Display (DTC Output) Proceed to ES
+P0136 or P0156 A
+No output B
+B END
+A
+13 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (INJECTION VOLUME)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the tester on.
+(c) Warm up the engine.
+(d) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II /ACTIVE TEST / INJ VOL.
+(e) Change the fuel injection volume using the tester, while
+monitoring the output voltage of Air-Fuel Ratio (A/F) and
+HO2 sensor displayed on the tester.
+HINT:
+• Change the fuel injection volume within the range of -12 %
+and +12 %. The injection volume can be changed in 1 %
+graduations within the range.
+• The A/F sensor is displayed as AFS B1S1 or AFS B2S1,
+and the HO2 sensor is displayed as O2S B1S2 or O2S
+B2S2, on the intelligent tester.
+Result
+Tester Display (Sensor) Voltage Variation Proceed to
+AFS B1S1 (A/F)
+Alternates between more and less than 3.3 V OK
+AFS B2S1 (A/F)
+AFS B1S1 (A/F)
+Remains more than 3.3 V NG
+AFS B2S1 (A/F)
+AFS B1S1 (A/F)
+Remains less than 3.3 V NG
+AFS B2S1 (A/F)
+HINT:
+A normal HO2 sensor voltage (O2S B1S2 or O2S B2S2)
+reacts in accordance with increases and decreases in fuel
+injection volumes. When the A/F sensor voltage remains
+either less or more than 3.3 V despite the HO2 sensor
+indicating a normal reaction, the A/F sensor is malfunctioning.

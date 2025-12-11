@@ -1,0 +1,56 @@
+RS–255
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+DATA LIST / ACTIVE TEST
+HINT:
+By accessing the DATA LIST displayed on the intelligent
+tester, you can perform such functions as reading the values
+of switches and sensors without removing any parts. Reading
+the DATA LIST is the first step in troubleshooting is one
+method to save labor time.
+1. DATA LIST FOR OCCUPANT CLASSIFICATION ECU
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester ON.
+(d) Enter the following menus: DIAGNOSIS / OBD/
+MOBD / OCCUPANT DETECT / DATA LIST.
+(e) Check the values by referring to the table below.
+DLC3
+Intelligent Tester
+C131977E01
+Measurement Item/
+Item Normal Condition Diagnostic Note
+Range (Display)
+Ignition switch condition/
+IG SW ON: Ignition switch on (IG) ON/OFF -
+OFF: Ignition switch off
+RS
+Buckle switch (Passenger side)/
+SET: The seat belt is fastened
+P BUCKLE SW UNSET: The seat belt is not SET/UNSET -
+fastened
+NG: Data is not determined
+Passenger classification/
+AM50: Adult (more than 54 kg
+(119.05 lb)) is seated
+AF05: Adult (36 to 54 kg (79.37 to
+119.05 lb)) is seated
+CHILD: Child (less than 36 kg
+PASSENGER CLASS (79.37 lb)) is seated AM50/AF05/CHILD/CRS/OFF -
+CRS: Child restraint system (less
+than 7 kg (15.43 lb)) and
+passenger side buckle switch is
+ON, then 7 to 36 kg (15.43 to
+79.37 lb) is set
+OFF: Vacant
+Sensor range information/
+OK: The value of a sensor is
+SENS RANGE INF within the range OK -
+NG: The value of a sensor is over
+the range
+Front left sensor range
+information/
+OK: Sensor range is -17 to 27 kg
+FL SENS RANGE OK -
+(-37.48 to 59.52 lb)
+Min.: Less than -17 kg (-37.48 lb)
+Max.: More than 27 kg (59.52 lb)

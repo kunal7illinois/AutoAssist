@@ -1,0 +1,43 @@
+Air conditioning
+Overview
+The air conditioning system of the The system has an air recirculation function, which
+AudiTTCoupé‘07 is an improved version of the can be activated either by the occupants or
+system used in the Audi A3’04. The automatic air automatically as soon as the "on" conditions for air
+conditioning system is configured as a single-zone recirculation have been met.
+air conditioning system. The TT Coupé has only one
+climate zone with no temperature differential The automatic air recirculation function by means of
+between the driver and front passenger sides. an air quality sensor G238 was not implemented;
+no air quality sensor G238 is fitted.
+The TT Roadster is available with a heating-only
+system, in addition to the automatic air The fresh air intake duct temperature sensor G89 is
+conditioning system. not fitted. Information on ambient temperature is
+supplied only by the ambient temperature sensor
+The TT vehicles with petrol engine have no auxiliary G17 via CAN data bus from the dash panel insert.
+heater and, therefore, no electrical PTC heater
+element.
+The Climatronic control unit J255 has a rotary knob
+for temperature selection, but no digital display.
+Air conditioner in Audi TT Coupé ‘07
+Fresh air/ ram air flap
+Air recirculation flap
+Air flow flap control motor
+V71
+Air recirculation flap control motor
+V113
+Defroster flap
+Temperature flap
+control motor,
+right
+V159
+Chest vent
+right
+Chest vent
+centre
+Defroster flap control motor Chest vent
+V107 left
+Temperature flap control motor, left
+V158
+Central flap control motor
+V70
+380_036
+42

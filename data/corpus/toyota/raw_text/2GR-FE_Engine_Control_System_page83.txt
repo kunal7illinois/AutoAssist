@@ -1,0 +1,65 @@
+ES–83
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Suspected Trouble MIL Memory See page
+Area
+P0607 Control Module ECM Comes on (except DTC stored ES-302
+Performance when there is a
+malfunction in the
+cruise control
+switch circuit)
+P0617 Starter Relay Circuit 1. Park / Neutral Comes on DTC stored ES-304
+High Position (PNP) switch
+2. Starter relay circuit
+3. Cranking holding
+function circuit
+4. Ignition switch
+5. ECM
+P0630 VIN not Programmed ECM Comes on DTC stored ES-309
+or Mismatch - ECM /
+PCM
+ES
+P0657 Actuator Supply ECM Comes on DTC stored ES-302
+Voltage Circuit /
+Open
+P0705 Transmission Range 1. Short in park / Comes on DTC stored ES-311
+Sensor Circuit neutral position
+Malfunction (PRNDL switch circuit
+Input) 2. Park / neutral
+position switch
+3. ECM
+P0724 Brake Switch "B" 1. Short in stop light Comes on DTC stored ES-284
+Circuit High switch signal circuit
+2. Stop light switch
+3. ECM
+P2102 Throttle Actuator 1. Open in throttle Comes on DTC stored ES-320
+Control Motor Circuit actuator circuit
+Low 2. Throttle actuator
+3. ECM
+P2103 Throttle Actuator 1. Short in throttle Comes on DTC stored ES-320
+Control Motor Circuit actuator circuit
+High 2. Throttle actuator
+3. Throttle valve
+4. Throttle body
+assembly
+5. ECM
+P2111 Throttle Actuator 1. Throttle actuator Comes on DTC stored ES-324
+Control System - 2. Throttle body
+Stuck Open 3. Throttle valve
+P2112 Throttle Actuator Same as DTC P2111 Comes on DTC stored ES-324
+Control System -
+Stuck Closed
+P2118 Throttle Actuator 1. Open in ETCS Comes on DTC stored ES-327
+Control Motor Current power source circuit
+Range / Performance 2. ETCS fuse
+3. ECM
+P2119 Throttle Actuator 1. ETCS Comes on DTC stored ES-331
+Control Throttle Body 2. ECM
+Range / Performance
+P2120 Throttle / Pedal 1. Accelerator Pedal Comes on DTC stored ES-334
+Position Sensor / Position (APP)
+Switch "D" Circuit sensor
+2. ECM
+P2121 Throttle / Pedal 1. Accelerator Pedal Comes on DTC stored ES-341
+Position Sensor / Position (APP)
+Switch "D" Circuit sensor
+Range / Performance 2. ECM

@@ -1,0 +1,31 @@
+BODY ELECTRICAL - MULTIPLEX COMMUNICATION BE-7
+2. Communication Wire
+A twisted-pair wire is used for CAN and AVC-LAN communication. A single, AV (Automobile Vinyl) wire
+is used for BEAN* communication.
+*: The BEAN is used in the body electrical system of the ’06 Camry and some other TOYOTA models, but
+is not used on the ’07 Camry.
+Communication Wire Outline
+Twisted-pair Wire for CAN This communication wire is a pair of twisted lines.
+Communication is driven by applying 1.5 to 2.5 V and 2.5
+to 3.5 V of voltage to the two lines in order to send a single
+signal.
+This system, which is called a “Differential Voltage Drive”,
+241BE168 reduces noise.
+Twisted-pair Wire for AVC-LAN This communication wire is a pair of twisted lines.
+Communication is driven by applying positive (+) and
+negative (-) voltages to the two lines in order to send a
+single signal. This system, which is called a “Differential
+241BE168 Voltage Drive”, reduces noise.
+AV Single Wire This is a lightweight single communication wire that
+consists of a single core line surrounded by insulation.
+Voltage is applied to this line in order to drive
+communication, and this system is called a “Single Wire
+240BE09 Voltage Drive”.
++ +
+ECU ECU ECU
+ECU
+AV Single Wire
+- -
+Twisted-pair Wire
+240BE11 240BE12
+Single Wire Voltage Drive Differential Voltage Drive

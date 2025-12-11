@@ -1,0 +1,21 @@
+Wheels and tyres
+Tyre pressure monitoring system (US spec)
+Overview
+The Audi TT for the North American market uses an
+improved version of the tyre pressure monitoring
+system as featured previously in the Audi A6 (USA)
+.It is a direct measuring system with tyre pressure
+sensors in the wheels.
+J285
+J533
+J502
+E492
+G222 G223 G224 G225
+381_059
+J285 Control unit with display in dash panel insert
+Dash panel insert CAN
+J533 Data bus diagnostic interface
+J502 Tyre pressure monitor control unit
+E492 Tyre pressure monitor display button Powertrain CAN bus
+G222-225 Tyre pressure sensors
+44

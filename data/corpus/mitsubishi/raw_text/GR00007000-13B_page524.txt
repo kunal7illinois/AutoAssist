@@ -1,0 +1,39 @@
+13B-524 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Check for harness damage between manifold
+differential pressure sensor connector B-04 terminal 3 and
+ECM connector C-58 terminal 42 <M/T> or PCM connector
+C-55 terminal 46 <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-04
+YES : Go to Step 11.
+NO : Repair it. Then go to Step 12.
+MANIFOLD
+DIFFRENTIAL
+PRESSURE
+SENSOR
+ACX02483AC
+CONNECTOR : C-58<M/T>, C-55<A/T>
+PCM<A/T> ECM<M/T>
+C-55 C-58
+AK000225AI
+STEP 11. Check for open circuit and short circuit to ground
+and harness damage between manifold differential
+pressure sensor connector B-04 terminal 1 and ECM
+connector C-62 terminal 92 <M/T> or PCM connector C-59
+terminal 91 <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-04
+YES : Replace the manifold differential pressure sensor.
+Then go to Step 12.
+NO : Repair it. Then go to Step 12.
+MANIFOLD
+DIFFRENTIAL
+PRESSURE
+SENSOR
+ACX02483AC
+CONNECTOR : C-62<M/T>, C-59<A/T>
+PCM<A/T> ECM<M/T>
+C-59 C-62
+AK000225AL
+TSB Revision

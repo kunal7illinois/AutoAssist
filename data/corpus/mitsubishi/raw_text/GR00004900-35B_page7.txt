@@ -1,0 +1,46 @@
+ANTI-LOCK BRAKING SYSTEM (ABS) 35B-7
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+DIAGNOSTIC TROUBLE CODE CHART
+M1352011300281
+Follow the inspection chart that is appropriate for the
+diagnostic trouble code.
+DIAGNOSTIC INSPECTION ITEM DIAGNOSTIC CONTENT REFERENCE PAGE
+TROUBLE
+CODE NO.
+11 Front right wheel speed sensor Open circuit or short circuit P.35B-8
+12 Front left wheel speed sensor
+13 Rear right wheel speed sensor
+14 Rear left wheel speed sensor
+15 Wheel speed sensor Abnormal output signal P.35B-14
+16 Power supply system ABS-ECU power supply Check the battery. (Refer
+voltage below or above the to GROUP 54A, Battery −
+standard value. Not On-vehicle Service −
+displayed if the voltage Battery Check P.54A-5.)
+recovers.
+21 Front right wheel speed sensor P.35B-8
+22 Front left wheel speed sensor
+23 Rear right wheel speed sensor
+24 Rear left wheel speed sensor
+31* TCL front left solenoid valve (IN) Refer to GROUP 35C,
+Diagnostic Trouble Code
+32* TCL front left solenoid valve (OUT)
+Chart P.35C-7.)
+33* TCL front right solenoid valve (IN)
+34* TCL front right solenoid valve (OUT)
+38 Stoplight switch system P.35B-19
+41 ABS front right solenoid valve (IN) P.35B-24
+42 ABS front left solenoid valve (IN)
+43 ABS rear right solenoid valve (IN)
+44 ABS rear left solenoid valve (IN)
+45 ABS front right solenoid valve (OUT)
+46 ABS front left solenoid valve (OUT)
+47 ABS rear right solenoid valve (OUT)
+48 ABS rear left solenoid valve (OUT)
+51 Valve power supply
+53 Pump motor
+63 ABS-ECU Replace the hydraulic unit
+(Integrated with ABS-
+ECU).
+NOTE: .
+*: Vehicles with TCL
+TSB Revision

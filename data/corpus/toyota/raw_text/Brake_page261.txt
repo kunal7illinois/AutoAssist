@@ -1,0 +1,38 @@
+BC–255
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+9 CHECK HARNESS AND CONNECTOR (COMBINATION METER - BRAKE FLUID LEVEL
+WARNING SWITCH)
+(a) Disconnect the combination meter connector.
+(b) Measure the resistance according to the value(s) in the
+Combination Meter Wire
+Harness View: table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+F2-6 (B/LE) - A16-1 Always Below 1 Ω
+F2-6 (B/LE) - Body ground Always 10 kΩ or higher
+A16-2 - Body ground Always Below 1 Ω
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+BC
+F2-6 (B/LE)
+Brake Fluid Level Warning Switch
+Harness Side Connector Front View:
+A16
+C136033E01
+OK
+10 INSPECT COMBINATION METER ASSEMBLY
+(a) Perform Active Test of the combination meter (meter
+CPU) using the intelligent tester (See page ME-32).
+OK:
+The BRAKE warning light turns on or off in
+accordance with the intelligent tester.
+HINT:
+• Reinstall the connectors and restore the vehicle to its
+prior condition before checking the combination
+meter.
+• If troubleshooting has been carried out according to
+the Problem Symptoms Table, refer back to the table
+and proceed to the next step before replacing the part
+(See page BC-134).
+NG REPLACE COMBINATION METER
+ASSEMBLY

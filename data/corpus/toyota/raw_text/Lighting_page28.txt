@@ -1,0 +1,49 @@
+LI–28
+LIGHTING – LIGHTING SYSTEM
+(b) Measure the voltage and resistance according to the
+Wire Harness Side:
+value(s) in the table below.
+Standard voltage
+Automatic Light Control Sensor
+Tester Connection Condition Specified Condition
+E11-3 (CLTB) - E11-6 Ignition switch off Below 1 V
+(CLTE) Ignition switch on (IG) 10 to 14 V
+E11
+CLTS
+Standard resistance
+CLTE
+CLTB
+Specified
+Tester Connection Condition
+B109993E15 Condition
+E11-6 (CLTE) - Body ground Always Below 1 Ω
+NG REPLACE INSTRUMENT PANEL JUNCTION
+BLOCK ASSEMBLY
+OK
+5 INSPECT AUTOMATIC LIGHT CONTROL SENSOR
+(a) Reconnect the automatic light control sensor connector.
+Automatic Light Control Sensor (b) Connect an oscilloscope to the automatic light control
+sensor connector.
+E11
+CLTS
+CLTE
+E121468E03
+(c) Check the waveform.
+OK
+Tester Specified
+Tool Setting Condition
+Connection Condition
+Ignition switch
+GND E11-6 (CLTE) - 5 V/DIV., 5 ms./ on (IG), light Correct
+A waveform is as
+E11-4 (CLTS) DIV. control switch in
+shown
+LI AUTO
+HINT:
+If the ambient light becomes brighter, width A becomes
+B113714E01
+narrower.
+NG REPLACE AUTOMATIC LIGHT CONTROL
+SENSOR
+OK
+REPLACE INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY

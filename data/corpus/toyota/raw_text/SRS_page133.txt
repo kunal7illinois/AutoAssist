@@ -1,0 +1,32 @@
+RS–133
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+13 CHECK OCCUPANT CLASSIFICATION SYSTEM CIRCUIT (SHORT TO GROUND)
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Measure the resistance according to the value(s) in the
+table below.
+F A
+Standard resistance
+E DC B Center Airbag
+Occupant Sensor Tester Connection Condition Specified Condition
+Classification Assembly T10-8 (FSR+) - Body
+Always 1 MΩ or higher
+ECU ground
+T10-4 (FSR-) - Body
+Always 1 MΩ or higher
+ground
+HINT:
+After replacing the center airbag sensor assembly, check
+Connector E for DTCs of the center airbag sensor assembly. If the
+DTC B1650/32 is detected, replace the occupant
+T10
+FSR- classification ECU (See page RS-469) and perform "zero
+point calibration" and "sensitivity check" of the occupant
+classification system (See page RS-242).
+NG Go to step 17
+FSR+
+C C110462E29
+OK
+RS
+REPLACE CENTER AIRBAG SENSOR ASSEMBLY (See page RS-441)

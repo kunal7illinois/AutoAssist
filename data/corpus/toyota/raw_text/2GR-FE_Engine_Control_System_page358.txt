@@ -1,0 +1,40 @@
+ES–358
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+C15 Air Fuel Ratio Sensor ECM
+A/F
+A/F +B HA1A 86 HA1A
+C55
+2 1
+*
+A1A- A1A+ 93
+A1A+
+C55
+4 3
+116
+A1A-
+C55
+C35 Air Fuel Ratio Sensor
+ES
+109
++B HA2A HA2A
+EFI C55
+2 1
+*
+A2A- A2A+ 120
+A2A+
+C55
+4 3
+119
+A2A-
+C55
+EFI MAIN
+44
+A55 MREL
+FL MAIN
+*: Shielded
+Battery
+A133861E01
+CONFIRMATION DRIVING PATTERN
+This confirmation driving pattern is used in steps 2, 4, 7, 17 and 21 of the following diagnostic
+troubleshooting procedure when using an intelligent tester.

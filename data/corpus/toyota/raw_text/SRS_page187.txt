@@ -1,0 +1,59 @@
+RS–187
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+5 CHECK INSTRUMENT PANEL WIRE
+(a) Check for a short to B+ in the circuit.
+Instrument Panel Wire Assembly (1) Restore the released activation prevention
+mechanism of connector B to the original condition.
+(2) Disconnect the instrument panel wire connector
+A
+from the instrument panel wire assembly.
+F E D C B
+(3) Connect the negative (-) terminal cable to the
+Front Passenger Side
+battery, and wait for at least 2 seconds.
+Squib 2nd Step
+Center Airbag (4) Turn the ignition switch on (IG).
+Sensor Assembly (5) Measure the voltage according to the value(s) in the
+table below.
+Instrument Panel Wire
+Standard voltage
+Tester connection Condition Specified condition
+Ec1-3 (P2+) - Body ground Ignition switch on (IG) Below 1 V
+Connector C Ec1-4 (P2-) - Body ground Ignition switch on (IG) Below 1 V
+P2+ (b) Check for an open in the circuit.
+Ec1
+(1) Turn the ignition switch off.
+P2- (2) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(3) Measure the resistance according to the value(s) in
+C C114812E08 the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+Ec1-3 (P2+) - Ec1-4 (P2-
+Always Below 1 Ω
+)
+RS
+(c) Check for a short to ground in the circuit.
+(1) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+Ec1-3 (P2+) - Body
+Always 1 MΩ or higher
+ground
+Ec1-4 (P2-) - Body
+Always 1 MΩ or higher
+ground
+(d) Check for a short in the circuit.
+(1) Release the activation prevention mechanism built
+into connector B (See page RS-32).
+(2) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+Ec1-3 (P2+) - Ec1-4 (P2-
+Always 1 MΩ or higher
+)
+NG REPAIR OR REPLACE INSTRUMENT PANEL
+WIRE
+OK

@@ -1,0 +1,49 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Diode test lamp (12 V).
+♦ Wiring diagram.
+Test requirements
+• The Fuel Pump relay is operational.
+• The Engine Speed (RPM) Sensor -G28- OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• Vehicles with automatic transmission, shift selector lever into
+position “P” or “N”.
+• A/C switched off.
+• Ground connections between engine/transmission/chassis
+OK.
+• Ignition switched Off.
+– Observe safety precautions.
+– Observe rules for cleanliness.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the engine cover with air filter. Refer to the Repair
+Manual.
+– Disconnect the Fuel Injector electrical harness connectors
+from Fuel Injectors -N30, N31, N32, N33, N83- .
+Checking internal resistance
+– Using a multimeter, check the Fuel Injector electrical terminals
+1 to 2 for resistance.
+Specified value: 10.0 to 18.5 Ω (at approx. 20° C)
+If the specified value was Not obtained:
+– Replace the malfunctioning Fuel Injector Refer to the Repair
+Manual.
+If the specified value was obtained:
+Checking activation and wiring
+– Connect a Diode test lamp (12 V) to the electrical harness
+connector terminals 1 and 2 of the Fuel Injector to be tested.
+– Operate the starter and test the activation of the Fuel Injector .
+LED should flicker.
+– Switch the ignition OFF.
+If LED does not flicker:
+– Remove the Fuel Pump Relay -J17- .
+– Connect a jumper between the Fuel pump relay terminals 30
+and 87
+– Turn the ignition switch ON.
+168
+Rep. Gr.ST - Generic Scan Tool

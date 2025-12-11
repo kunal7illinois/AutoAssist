@@ -1,0 +1,70 @@
+ES–167
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(c) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DATA LIST / ETCS / THROTTLE POS and
+THROTTLE POS #2.
+(d) Check the values displayed on the tester.
+Result
+TP#1 (VTA1) TP#2 (VTA2)
+TP#1 (VTA1) TP#2 (VTA2)
+When AP When AP Trouble Area Proceed to
+When AP Released When AP Released
+Depressed Depressed
+Between Between
+0 % 0 % VC circuit open A
+0 V and 0.2 V 0 V and 0.2 V
+Between Between
+100 % 100 % E2 circuit open A
+4.5 V and 5.0 V 4.5 V and 5.0 V
+Between Between
+VTA1 circuit open or
+0 % or 100 % 2.1 V and 3.1 V 0 % or 100 % 2.1 V and 3.1 V A
+ground short
+(Fail-safe) (Fail-safe)
+Between Between Between ES
+Approx. 19 % VTA2 circuit open or
+0 V and 0.2 V, 10 % and 24 % 0 V and 0.2 V, A
+(Fail-safe) ground short
+or 4.5 V and 5.0 V (Fail-safe) or 4.5 V and 5.0 V
+Between Between
+Between Between TP sensor circuit
+64 % and 96 % 4.5 V and 5.0 V B
+10 % and 24 % 2.1 V and 3.1 V normal
+(Not fail-safe) (Not fail-safe)
+HINT:
+• TP#1 denotes THROTTLE POS, and TP#2 denotes
+THROTTLE POS#2.
+• AP denotes Accelerator Pedal.
+• VTA1 is expressed as percentages, and VTA2 is
+expressed as voltages.
+B Go to step 5
+A
+2 CHECK HARNESS AND CONNECTOR (THROTTLE POSITION SENSOR - ECM)
+(a) Disconnect the C5 throttle body connector.
+Wire Harness Side Front View:
+(b) Disconnect the C55 ECM connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+C5 Throttle Body Connector
+Standard resistance (Check for open)
+VTA2
+E2 Tester Connection Specified Condition
+VTA
+VC (C5-5) - VCTA (C55-96) Below 1 Ω
+1 2 3 4 5 6
+VTA (C5-6) - VTA1 (C55-98) Below 1 Ω
+VC
+VTA2 (C5-4) - VTA2 (C55-99) Below 1 Ω
+E2 (C5-3) - ETA (C55-97) Below 1 Ω
+C55 ECM Connector
+Standard resistance (Check for short)
+VTA1
+VTA2
+Tester Connection Specified Condition
+VC (C5-5) or VCTA (C55-96) - Body ground 10 kΩ or higher
+VTA (C5-6) or VTA1 (C55-98) - Body ground 10 kΩ or higher
+VTA2 (C5-4) or VTA2 (C55-99) - Body ground 10 kΩ or higher
+(d) Reconnect the throttle body connector.
+(e) Reconnect the ECM connector.
+VCTA ETA
+A107944E08

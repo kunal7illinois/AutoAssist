@@ -1,0 +1,27 @@
+CA–38
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+5 CHECK SHORT TO +B IN CAN MS BUS WIRE (CERTIFICATION ECU)
+(a) Turn the ignition switch off.
+Certification ECU Connector
+(b) Disconnect the E58 certification ECU connector.
+(Wire Harness Side):
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E58-27 (CANH) - E58-1
+E58 (+B) Ignition switch off 6 kΩ or higher
+E58-28 (CANL) - E58-1
+Ignition switch off 6 kΩ or higher
+(+B)
++B
+OK REPLACE CERTIFICATION ECU
+CANL CANH
+C136713E02
+CA
+NG
+6 CHECK SHORT TO +B IN CAN MS BUS WIRE (CERTIFICATION ECU - MAIN BODY ECU)
+(a) Turn the ignition switch off.
+Main Body ECU: (b) Disconnect the E8 main body ECU connector.
+E8
+C140857E01

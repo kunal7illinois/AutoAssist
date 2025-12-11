@@ -1,0 +1,26 @@
+BODY ELECTRICAL - SRS AIRBAG SYSTEM BE-143
+2. Dual-stage SRS Airbag System
+General
+In this system, when the front airbag sensors and airbag sensor assembly detect a front collision, the airbag
+sensor assembly judges the extent of impact, seat position and whether or not the seat belts are fastened,
+thus optimizing the airbag inflating output by delaying the inflation timing of the 2nd initiator and the 1st
+initiator.
+Seat Position Sensor
+1) General
+The seat position sensor is mounted on the upper rail portion of the driver seat rail, and includes a Hall
+IC and a magnet. This sensor is used to detect the sliding position of the driver seat.
+Seat Position Sensor
+01YBE111Y
+2) Operation
+When the seat is in the rearward position, the lower rail portion of the seat rail is close to the seat position
+sensor. When it is in the forward position, the distance between the lower rail portion and the sensor
+becomes larger.
+Thus, the magnetic flux of the magnet inside the seat position sensor varies depending on the seat
+position. The Hall IC detects this variation and outputs signals to the airbag sensor assembly.
+Seat Position Sensor
+Seat Rail
+(Upper Rail)
+Seat Rail
+(Lower Rail)
+01YBE93Y
+Seat position is rearward Seat position is forward

@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Gauges - Civic (All Except Hybrid)
+NOTE: If you are troubleshooting multiple DTCs, be sure to follow
+the instructions in B-CAN System Diagnosis Test Mode A
+(see TROUBLESHOOTING - B-CAN SYSTEM DIAGNOSIS
+TEST MODE A ).
+1. Clear the DTCs with the HDS.
+2. Turn the ignition switch OFF, and then back ON (II).
+3. Check for DTCs with the HDS.
+Is DTC B1160 indicated?
+YES - Go to step 5.
+NO - Intermittent failure. The gauge control module is OK at this time. Check
+for loose or poor connections. If the connections are good, check the battery
+condition (see BATTERY TEST ), and the charging system.
+4. Check for DTCs with the HDS.
+Are DTCs B1160 or B1905 also indicated?
+YES - Faulty MICU; replace the under-dash fuse/relay box.
+NO - Replace the gauge control module (tach).
+DTC B1168: GAUGE CONTROL MODULE LOST COMMUNICATION WITH ECM/PCM (ENGINE
+MESSAGES); DTC B1169: GAUGE CONTROL MODULE LOST COMMUNICATION WITH THE
+PCM (A/T MESSAGES); DTC B1170: GAUGE CONTROL MODULE LOST COMMUNICATION
+WITH THE ABS/VSA MODULATOR-CONTROL UNIT (ABS/VSA MESSAGE); DTC B1178: F-CAN
+COMMUNICATION LINE ERROR; DTC B1187: GAUGE CONTROL MODULE LOST
+COMMUNICATION WITH THE SRS UNIT (SRS MESSAGE)
+NOTE: If you are troubleshooting multiple DTCs, be sure to follow
+the instructions in B-CAN System Diagnosis Test Mode A
+(see TROUBLESHOOTING - B-CAN SYSTEM DIAGNOSIS
+TEST MODE A ).
+1. Clear the DTCs using the HDS.

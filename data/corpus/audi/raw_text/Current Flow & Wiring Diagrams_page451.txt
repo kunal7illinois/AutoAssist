@@ -1,0 +1,56 @@
+Audi TT No. 49 / 2
+Current Flow Diagram
+Climatronic control unit, fuses
+J255 Climatronic control unit
+J519 Onboard supply control unit
+J681 Terminal 15 voltage supply relay 2
+SA4 Fuse 4 on fuse holder A
+SC1 Fuse 1 on fuse holder C
+SC4 Fuse 4 on fuse holder C
+SC12 Fuse 12 on fuse holder C
+SC16 Fuse 16 on fuse holder C
+B272 SD3 Fuse 3 on fuse holder D
+B299 B272 T16d 16-pin connector, black, connector D, on Climatronic control unit
+10,0 16,0 16,0
+ro ro ro T52b 52-pin connector, yellow, on onboard supply control unit
+B300 E1 E1 44 Earth point, lower part of left A-pillar
+SD3 SA4
+J519 22 110A 110A
+374 Earth connection 9, in main wiring harness
+T52b ✱✱ #
+/12
+4,0 0,35 4,0 6,0
+ro sw/ws sw ro 375 Earth connection 10, in main wiring harness
+2 6 1 4 12 16
+J255 ✱
+384 Earth connection 19, in main wiring harness
+## 1 SC1 SC4 SC12 SC16
+J681 10A 5A 10A 10A
+8 4 1a 4a 12a 16a T16d T16d B163 Positive connection 1 (15), in interior wiring harness
+/15 /16
+30 31
+4,0 0,35 0,5 1,0 1,0 B272 Positive connection (30), in main wiring harness
+sw br sw/ro ro/gn br
+B278 Positive connection 2 (15a), in main wiring harness
+B163 375 B278 384
+B299 Positive connection 3 (30), in main wiring harness
+B300 Positive connection 4 (30), in main wiring harness
+4,0 1,0 0,5 1,5
+sw br sw/ro br * Operating unit for air conditioning
+** main fuse box, in luggage compartment, rear right, on the battery
+55 3300 # Main fuse holder, electronics box, in front left engine
+compartment
+## Relay carrier on onboard power supply control unit
+374 ws = white
+sw = black
+ro = red
+2,5 br = brown
+br gn = green
+bl = blue
+gr = grey
+44 44 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-049020409
+rs = pink
+Edition 04.2009

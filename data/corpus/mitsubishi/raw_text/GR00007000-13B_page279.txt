@@ -1,0 +1,40 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-279
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check connector D-17 at the fuel temperature
+sensor for damage.
+Q:Is the connector in good condition?
+CONNECTOR:D-17
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 11.
+AK000734AC
+STEP 3. Check the fuel temperature sensor.
+(1) Disconnect the fuel temperature sensor connector D-17
+(2) Measure the resistance between terminal 1 and 3 of the fuel
+FUEL TEMPERATURE SENSOR
+temperature sensor.
+SIDE CONNECTOR
+Standard value:
+11 22 33 0.5 − 12.0 kΩ
+44 55
+Q:Is the resistance at the standard value?
+YES : Go to Step 4.
+NO : Replace the fuel temperature sensor. Then go to Step
+11.
+AK101374AB
+STEP 4. Check the sensor supply voltage at fuel
+temperature sensor harness side connector D-17.
+(1) Disconnect the connector D-17 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 3 and ground.
+D-17 HARNESS • Voltage should be between 4.5 and 4.9 volts
+SIDE CONNECTOR
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+33 22 11
+Q:Is the voltage normal?
+55 44
+YES : Go to Step 8.
+NO : Go to Step 5.
+AK101376AB
+TSB Revision

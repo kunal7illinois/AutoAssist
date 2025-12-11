@@ -1,0 +1,36 @@
+AUTOMATIC TRANSAXLE 23A-109
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 12. Check the sensor output voltage at input shaft
+speed sensor connector B-42.
+(1) Disconnect connector B-42 and measure at the harness
+CONNECTOR: B-42 B-42
+side.
+(2) Turn the ignition switch to the "ON" position.
+AC001835AH
+(3) Measure the voltage between terminal 2 and ground.
+• Voltage should be between 4.5 and 4.9 volts.
+HARNESS (4) Turn the ignition switch to the "LOCK" (OFF) position.
+CONNECTOR: B-42
+Q:Is the voltage normal?
+YES : Go to Step 13.
+NO : Repair harness open circuit or damage between input
+shaft speed sensor connector B-42 terminal 2 and
+PCM connector C-61 <2.4L Engine> or C-63 <3.0L
+Engine> terminal 103.
+ACX02127AE
+STEP 13. Check the power supply voltage at input shaft
+speed sensor connector B-42.
+(1) Disconnect connector B-42 and measure at the harness
+CONNECTOR: B-42 B-42
+side.
+(2) Turn the ignition switch to the "ON" position.
+AC001835AH
+(3) Measure the voltage between terminal 3 and ground.
+• Voltage should be battery positive voltage.
+HARNESS (4) Turn the ignition switch to the "LOCK" (OFF) position.
+CONNECTOR: B-42
+Q:Is the voltage normal?
+YES : Go to Step 15.
+NO : Go to Step 14.
+ACX02126AE
+TSB Revision

@@ -1,0 +1,52 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-447
+SYMPTOM PROCEDURES
+STEP 11. Check the input signal (by using the Pulse
+Check).
+Check the input signals from the following switches:
+• Key reminder switch
+• Driver(cid:146)s and front passenger(cid:146)s door lock actuator switch
+• Driver(cid:146)s and front passenger(cid:146)s door lock key cylinder switch
+• Hood switch
+• Liftgate latch switch <ECLIPSE>
+• Liftgate lock key cylinder switch <ECLIPSE>
+• Trunk lid latch switch <ECLIPSE SPYDER>
+16 PIN
+• Trunk lid lock key cylinder switch <ECLIPSE SPYDER>
+MB991502 Operate the MUT-II according to the procedure below to dis-
+AC001252AD
+play "PULSE CHECK."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+Check if scan tool MB991502 sounds or not.
+ITEM NAME CONDITIONS
+Key reminder switch Remove and reinsert the
+ignition key
+Driver’s and front passenger’s Lock or unlock each door
+door lock actuator switches
+Driver’s and front passenger’s Operate the door lock key
+door lock key cylinder cylinder at each door
+switches
+Hood switch Open and close the hood
+Liftgate latch switch Open and close the liftgate
+<ECLIPSE>
+Liftgate lock key cylinder Operate the liftgate lock
+switch <ECLIPSE> key cylinder
+Trunk lid latch switch Open and close the trunk
+<ECLIPSE SPYDER> lid
+Trunk lid lock key cylinder Operate the trunk lid lock
+switch <ECLIPSE SPYDER> key cylinder
+Q:When the key reminder switch, driver(cid:146)s and front
+passenger(cid:146)s door lock actuator switches, driver(cid:146)s and
+front passenger(cid:146)s door look key cylinder switches, hood
+switch, liftgate latch switch <ECLIPSE>, liftgate lock key
+cylinder <ECLIPSE>, trunk lid latch switch <ECLIPSE
+SPYDER> and trunk lid lock key cylinder switch
+<ECLIPSE SPYDER> are operated, does scan tool
+MB991502 sound in all cases?
+YES : Replace the ETACS-ECU. The theft-alarm indicator
+light should illuminate, and the theft-alarm system
+should be set normally.
+NO : • Scan tool MB991502 does not sound when the
+key reminder switch is operated: Refer to
+TSB Revision

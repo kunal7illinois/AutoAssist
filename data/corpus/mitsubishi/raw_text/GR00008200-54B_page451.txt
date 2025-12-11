@@ -1,0 +1,31 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-451
+SYMPTOM PROCEDURES
+CONNECTOR: C-89 CONNECTOR: C-117
+CONNECTOR BLOCK (LH)
+JUNCTION BLOCK
+(REAR VIEW)
+AC106477AD AC106481AC
+. .
+CIRCUIT OPERATION TROUBLESHOOTING HINTS
+When the theft-alarm system is triggered, the • Malfunction of the theft-alarm horn
+ETACS-ECU sounds the theft-alarm horn and all the • Malfunction of the horn
+vehicle horns. • Malfunction of the theft-alarm horn relay
+• Malfunction of the horn relay
+. TECHNICAL DESCRIPTION (COMMENT) • Malfunction of the ETACS-ECU
+If the theft-alarm horn and the vehicle horns do not • Damaged harness wires or connectors
+sound when the theft-alarm system is triggered, the
+ETACS-ECU may be defective.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Test Harness Set
+STEP 1. Check which horn is defective.
+Check which horn does not sound when the theft-alarm system
+is triggered.
+Q:Which horn does not sound?
+theft-alarm horn : Go to Step 2.
+horn : Go to Step 12.
+theft-alarm horn and all vehicle horns : Replace the
+ETACS-ECU. All the vehicle horn (including the theft-
+alarm horn) should sound when the theft-alarm
+system is triggered.
+TSB Revision

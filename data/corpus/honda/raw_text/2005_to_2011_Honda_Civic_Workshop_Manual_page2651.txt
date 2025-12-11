@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Turn the ignition switch ON (II).
+2. Check the FTT SENSOR in the DATA LIST with the HDS.
+Is about 356 °F (180 °C) or more, or 0.08 V or less indicated?
+YES -Go to step 3.
+NO -Intermittent failure, the system is OK at this time. Check for poor
+connections or loose terminals at the FTT sensor and the PCM.
+3. Turn the ignition switch OFF.
+4. Disconnect the FTT sensor 2P connector (see FTP SENSOR
+REPLACEMENT ).
+5. Turn the ignition switch ON (II).
+6. Check the FTT SENSOR in the DATA LIST with the HDS.
+Is about 356 °F (180 °C) or more, or 0.08 V or less indicated?
+YES -Go to step 7.
+NO -Go to step 11.
+7. Turn the ignition switch OFF.
+8. Jump the SCS line with the HDS.
+9. Disconnect PCM connector A (44P).
+10. Check for continuity between FTT sensor 2P connector terminal No. 2 and
+body ground.

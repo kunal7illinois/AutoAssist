@@ -1,0 +1,31 @@
+AUTOMATIC TRANSAXLE 23A-259
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 4. Check the underdrive clutch system.
+(1) Remove the valve body cover and valve body. Refer to
+P.23A-366, Transaxle Assembly and GROUP 23B,
+Transaxle P.23B-10.
+(2) Blow 108 kPa (15 psi) compressed air into the underdrive
+clutch oil orifice of the transaxle case, and check if the
+underdrive clutch piston moves and air pressure is
+maintained in that condition.
+UNDERDRIVE Q:Is the air pressure maintained?
+CLUTCH OIL
+ORIFICE YES : Go to Step 9.
+NO : Go to Step 5.
+AC001859AB
+STEP 5. Check the underdrive clutch.
+(1) Remove the transaxle assembly.
+(2) Check the facing for seizure and the piston seal ring for
+damage and interference with the retainer. Repair or
+replace the faulty parts. Refer to GROUP 23B P.23B-57,
+Underdrive Clutch and Input Shaft. Then check the
+symptom.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Go to Step 9.
+AC001861
+STEP 6. Check shock.
+Q:Does shock occur sometimes?
+YES : Go to Step 7.
+NO : Go to Step 8.
+TSB Revision

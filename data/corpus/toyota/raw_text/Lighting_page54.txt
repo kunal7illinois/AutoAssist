@@ -1,0 +1,34 @@
+LI–50
+LIGHTING – LIGHTING SYSTEM
+7 INSPECT INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY
+(a) Disconnect the II instrument panel J/B assembly
+Instrument Panel J/B Assembly connector.
+(b) Measure the voltage according to the value(s) in the
+II table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+Light control switch
+II-8 - Body ground Below 1 V → 10 to 14 V
+OFF → TAIL
+E121526E01 NG REPLACE INSTRUMENT PANEL JUNCTION
+BLOCK ASSEMBLY
+OK
+8 CHECK HARNESS AND CONNECTOR (BODY ECU - INSTRUMENT PANEL JUNCTION
+BLOCK ASSEMBLY)
+(a) Disconnect the E7 main body ECU connector.
+Wire Harness Side:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Instrument Panel J/B Assembly
+Standard resistance
+Tester Connection Condition Specified Condition
+E7-4 - II-8 Always Below 1 Ω
+II
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Main Body ECU
+FFGO
+LI E7
+E121484E01
+OK
+REPLACE INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY

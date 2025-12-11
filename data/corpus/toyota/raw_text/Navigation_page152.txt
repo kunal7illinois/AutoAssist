@@ -1,0 +1,30 @@
+NS–152
+NAVIGATION – NAVIGATION SYSTEM
+Vehicle Speed Signal Circuit between Radio and Navigation Assembly
+and Combination Meter
+DESCRIPTION
+The radio and navigation assembly receives a vehicle speed signal from the combination meter and
+information about the GPS antenna, and then adjusts vehicle position.
+HINT:
+• A voltage of 12 V or 5 V is output from each ECU and then input to the combination meter. The signal
+is changed to a pulse signal at the transistor in the combination meter. Each ECU controls the
+respective system based on the pulse signal.
+• If a short occurs in an ECU, all systems in the diagram below will not operate normally.
+WIRING DIAGRAM
+Radio and Navigation Assembly
+3
+(*1)
+From Main Body ECU F13 SPD
+From Stereo Component From Transmission
+Amplifier (*2) Control ECU
+From Engine Control
+Module
+12
++S F2 From Tire Pressure
+Warning ECU
+Combination Meter
+From Speed Sensor
+*1: with Smart Key System
+*2: 2GR-FE
+NS
+E129780E01

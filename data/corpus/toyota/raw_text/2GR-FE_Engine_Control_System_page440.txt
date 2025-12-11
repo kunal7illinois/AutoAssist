@@ -1,0 +1,13 @@
+ES–440
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+ECM Power Source Circuit
+DESCRIPTION
+When the ignition switch is turned on (IG), the battery voltage is applied to terminal IGSW of the ECM.
+The ECM MREL output signal causes a current to flow to the coil, closing the contacts of the EFI MAIN
+relay and supplying power to terminal +B of the ECM.
+If the ignition switch is turned off, the ECM holds the EFI MAIN relay ON for a maximum of 2 seconds to
+allow for the initial setting of the throttle valve.
+When the ignition switch is turned on (IG), voltage from the ECM's MREL terminal applies to the engine
+room junction block (EFI relay). This causes the contacts of the engine room junction block (EFI relay) to
+close, which supplies power to terminal +B or +B1 of the ECM.
+ES

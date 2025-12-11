@@ -1,0 +1,23 @@
+BC–270
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+4 CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU - SKID CONTROL BUZZER)
+(a) Turn the ignition switch off.
+Skid Control ECU Harness Side (b) Disconnect the skid control ECU connector.
+Connector Front View: (c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+A26-30 (BZ) - E13-1 Always Below 1 Ω
+A26-30 (BZ) - Body ground Always 10 kΩ or higher
+A26 HINT:
+BZ If troubleshooting has been carried out according to the
+Skid Control Buzzer Harness Side Problem Symptoms Table, refer back to the table and
+Connector Front View: proceed to the next step before replacing the part (See
+page BC-134).
+BC
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E13
+I045407E11
+OK
+REPLACE BRAKE ACTUATOR ASSEMBLY

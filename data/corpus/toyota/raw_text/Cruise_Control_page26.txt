@@ -1,0 +1,19 @@
+CC–26
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+DTC P0607 Control Module Performance
+DESCRIPTION
+This DTC indicates the internal abnormalities of the ECM.
+DTC No. DTC Detection Condition Trouble Area
+When both of the following conditions are met:
+• STP signals input to the ECM supervisory CPU and
+P0607 control ECU are different for 0.15 sec. or more ECM
+• 0.4 sec. have passed after cruise cancel input
+signal (STP input) is input to the ECM
+HINT:
+The ECM receives signals from each sensor to control all functions of the cruise control system. When a
+trouble code is detected, the fail-safe function remains on until the ignition switch is turned off.
+INSPECTION PROCEDURE
+1 REPLACE ECM
+NEXT
+END
+CC

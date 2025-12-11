@@ -1,0 +1,45 @@
+16-22 ENGINE ELECTRICAL
+STARTING SYSTEM
+STARTING SYSTEM
+GENERAL DESCRIPTION
+M1162000100042
+If the ignition switch is turned to the "START" posi- When the ignition switch is returned to the "ON" posi-
+tion, current flows in the coil provided inside mag- tion after starting the engine, the starter clutch is dis-
+netic switch, attracting the plunger. When the plunger engaged from the ring gear.
+is attracted, the lever connected to the plunger is An overrunning clutch is provided between the pinion
+actuated to engage the starter clutch. and the armature shaft, to prevent damage to the
+On the other hand, attracting the plunger will turn on starter.
+the magnetic switch, allowing the B terminal and M
+terminal to conduct. Thus, current flows to engage
+the starter motor.
+HOLDING
+COIL
+PLUNGER
+PULL-IN COIL
+LEVER
+PINION SHAFT
+IGNITION
+SWITCH
+OVERRUNNING
+CLUTCH
++ ARMATURE
+BATTERY
+–
+BRUSH
+YOKE
+AKX00196AB
+OPERATION NOTE: If the ignition switch is switched to the
+• For models equipped with M/T, the clutch pedal "ST" position without the clutch pedal being
+depressed, electricity flows to the starter relay
+position switch contact is switched OFF when the
+(coil), the clutch pedal position switch (contacts)
+clutch pedal is depressed. When the ignition
+and to ground, with the result that the contacts of
+switch is then switched to the "ST" position, elec-
+the starter relay are switched OFF, and because
+tricity flows to the starter relay and the starter
+the power to the starter motor is thereby inter-
+motor, the contact (magnetic switch) of the starter
+rupted, the starter motor in not activated.
+is switched ON and the starter motor is activated.
+TSB Revision

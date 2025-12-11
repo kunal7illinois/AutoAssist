@@ -1,0 +1,54 @@
+RS–216
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+1 CHECK FRONT SEAT OUTER BELT ASSEMBLY LH (DRIVER SIDE FRONT
+PRETENSIONER SQUIB)
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Disconnect the connectors from the front seat outer belt
+assembly LH.
+D C
+(d) Connect the white wire side of SST (resistance 2.1 Ω) to
+Driver Side Front
+Pretensioner Squib Center Airbag connector C.
+Sensor Assembly CAUTION:
+Never connect the tester to the front seat outer belt
+assembly LH (driver side front pretensioner squib)
+for measurement, as this may lead to a serious
+Connector C injury due to airbag deployment.
+NOTICE:
+• Do not forcibly insert the SST into the terminals of
+the connector when connecting.
+N8 SST
+• Insert straight the SST into the terminals of the
+connector.
+SST 09843-18060
+(e) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+(f) Turn the ignition switch on (IG), and wait for at least 60
+DLC3 DTC 73
+seconds.
+(g) Clear the DTCs stored in the memory (See page RS-41).
+(h) Turn the ignition switch off.
+RS (i) Turn the ignition switch on (IG), and wait for at least 60
+CG TC
+seconds.
+C
+C114829E06 (j) Check the DTCs (See page RS-41).
+OK:
+DTC B1900, B1901, B1902, B1903, or 73 is not
+output.
+HINT:
+Codes other than DTC B1900, B1901, B1902, B1903,
+and 73 may be output at this time, but they are not
+related to this check.
+OK REPLACE FRONT SEAT OUTER BELT
+ASSEMBLY LH (See page SB-20)
+NG
+2 CHECK CONNECTOR
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Disconnect the SST from connector C.
+(d) Check that the floor wire connector (on the front seat
+outer belt assembly LH side) is not damaged.

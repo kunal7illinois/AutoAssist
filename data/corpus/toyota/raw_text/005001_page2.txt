@@ -1,0 +1,30 @@
+ES–10
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+8 CONFIRM PROBLEM SYMPTOMS
+HINT:
+If the engine does not start, first perform the "CHECK DTC"
+procedures and "CONDUCT BASIC INSPECTION"
+procedures below.
+Result Proceed to
+Malfunction does not occur A
+Malfunction occurs B
+B GO TO STEP 10
+ES
+A
+9 SIMULATE SYMPTOMS
+NEXT
+10 CHECK DTC*
+Result Proceed to
+Malfunction code A
+No code B
+B GO TO STEP 12
+A
+11 REFER TO DTC CHART
+NEXT
+GO TO STEP 14
+12 CONDUCT BASIC INSPECTION
+Result Proceed to
+Malfunctioning parts not confirmed A
+Malfunctioning parts confirmed B
+B GO TO STEP 17
+A

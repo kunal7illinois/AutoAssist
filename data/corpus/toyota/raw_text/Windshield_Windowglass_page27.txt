@@ -1,0 +1,45 @@
+WS–27
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+DTC B2313 Glass Position Initialization Incomplete
+DESCRIPTION
+The portion of the power window control system that is located in the driver door consists of a power
+window master switch, regulator, and a motor with an integrated ECU. The driver door power window
+WS
+regulator motor is controlled by the ECU when the power window master switch is operated (models with
+jam protection).
+When the ECU determines that the driver's door power window regulator motor assembly has not been
+initialized, DTC B2313 is set.
+NOTICE:
+The power window control system uses a serial communication protocol (LIN) to communicate
+with the main body ECU. Inspect the communication function by following HOW TO PROCEED
+WITH TROUBLESHOOTING. Troubleshoot the power window control system after confirming that
+the communication system is functioning properly.
+HINT:
+• Replacing the door glass or door glass run may cause a difference to exist between the current door
+glass position and the position memorized in the ECU. In this case, the jam protection function may
+work improperly. Return the system to the pre-initialized condition and reinitialize the system.
+• To return the system to the pre-initialized condition:
+Disconnect the power window regulator motor connector during power window operation. This will
+return the motor to the pre-initialized condition.
+DTC No. DTC Detection Condition Trouble Area
+• The power window regulator motor (on • Power window regulator motor (on driver
+driver side) is not initialized side)
+B2313
+• The power window regulator motor (on • Power window regulator motor (on driver
+driver side) malfunctions side) not initialized
+INSPECTION PROCEDURE
+NOTICE:
+When using the intelligent tester to troubleshoot the LIN communication line: Connect the
+intelligent tester to the vehicle, and turn the courtesy light switch on and off at 1.5 second
+intervals until communication between the tester and vehicle begins.
+1 CHECK DTC OUTPUT
+(a) Turn the ignition switch off.
+(b) Wait for at least 10 seconds, and then turn the ignition
+switch on (IG).
+(c) Check whether the DTC output recurs.
+Result
+Display (DTC Output) Proceed to
+B2313 A
+No output B
+B END
+A

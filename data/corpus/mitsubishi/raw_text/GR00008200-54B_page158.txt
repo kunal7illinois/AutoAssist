@@ -1,0 +1,49 @@
+54B-158 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 7. Check the input signal (by using the Pulse check).
+Check the input signals from the transmitter.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Operate the MUT-II as follows:
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+(3) Push the transmitter "TRUNK" switch.
+(4) Check that scan tool MB991502 sounds
+16 PIN
+Q:When the transmitter "TRUNK" switch is pushed, does
+scan tool MB991502 sound?
+MB991502
+AC001252AD
+YES : Replace the ETACS-ECU.Trunk lid can be opened by
+means of the transmitter.
+NO : Refer to Inspection Procedure P-13 "The ETACS-
+ECU does not receive signal from lock, unlock, panic
+or trunk switch P.54B-609".
+STEP 8. Check the trunk lid opener actuator assembly.
+(1) Remove the trunk lid opener actuator assembly.Refer to
+GROUP 42,Trunk Lid Lock Release Handle and Cable
+Removal and Installation P.42-78.
+(2) Check that the trunk lid opener actuator assembly lever
+function.
+TRUNK LID OPENER ACTUATOR ASSEMBLY
+BATTERY CONNECTION LEVER FUNCTION
+• Connect terminal 2 to the The lever moves
+LEVER
+negative battery terminal toward the arrow
+• Connect terminal 1 to the direction momentarily
+positive battery terminal
+Not applied The lever does not
+move
+1 2
+AC106575AD
+Q:Is the trunk lid opener actuator assembly in good
+condition?
+YES : Replace the trunk lid opener actuator assembly P.42-
+78.Check that the trunk lid opener actuator assembly
+works normally.
+NO : Go to Step 9.
+TSB Revision

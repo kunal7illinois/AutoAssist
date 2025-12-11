@@ -1,0 +1,43 @@
+ES–293
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+TYPICAL MALFUNCTION THRESHOLDS
+Brake switch Remain ON during GO and STOP 5 times
+WIRING DIAGRAM
+E6
+Main Body ECU
+ECM
+IG2D
+11
+ES
+IG2 Relay A19 Stop Light SW
+IGN 35
+A55 ST1-
+5 3 3 4
+*1
+36
+STP
+1 2 A55
+2 1
+*2
+IG2
+STOP
+ALT
+E23
+Ignition SW
+ST/AM2
+*2 *2
+5 AM2 IG2 6
+FL MAIN
+81
+C55 E1
+*1: with Smart Key System
+Battery
+*2: without Smart Key System
+A133857E01
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).

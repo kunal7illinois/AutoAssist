@@ -1,0 +1,51 @@
+RF–34
+SLIDING ROOF – SLIDING ROOF SYSTEM
+3 CHECK WIRE HARNESS (SLIDING ROOF CONTROL ECU - BATTERY AND BODY
+GROUND)
+(a) Disconnect the Q13 (*1) or R1 (*2) connectors.
+Sliding Roof Control ECU Connector:
+(b) Measure the voltage and resistance according to the
+value(s) in the table below.
+Standard voltage
+(*1) (*2)
+Tester Connection Condition Specified Condition
+Q13 R1
+B (Q13-1) - Body
+ground Always 10 to 14 V
+(*1)
+IG (Q13-5) - Body
+1 2 3 4
+ground Ignition switch on (IG) 10 to 14 V
+(*1)
+5 6 7 8 9 10
+IG (Q13-5) - Body
+ground Ignition switch off Below 1 V
+(*1)
+RF IG B E
+B (R1-1) - Body ground
+Always 10 to 14 V
+B130117E05 (*2)
+IG (R1-5) - Body ground
+Ignition switch on (IG) 10 to 14 V
+(*2)
+IG (R1-5) - Body ground
+Ignition switch off Below 1 V
+(*2)
+HINT:
+• *1: TMC made
+• *2: TMMK made
+Standard resistance
+Tester Connection Specified Condition
+E (Q13-2) - Body ground
+Below 1 Ω
+(*1)
+E (R1-2) - Body ground
+Below 1 Ω
+(*2)
+HINT:
+• *1: TMC made
+• *2: TMMK made
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE SLIDING ROOF DRIVE GEAR SUB-ASSEMBLY (SLIDING ROOF CONTROL ECU)

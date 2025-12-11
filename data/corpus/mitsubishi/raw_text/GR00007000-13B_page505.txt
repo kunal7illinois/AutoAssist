@@ -1,0 +1,45 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-505
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR : C-58<M/T>, C-55<A/T>
+PCM<A/T> ECM<M/T>
+C-55 C-58
+AK000225AI
+. .
+CIRCUIT OPERATION DTC SET CONDITIONS
+• The ECM (terminal 52) <M/T> or PCM (terminal
+Check Conditions
+54) <A/T> apply a battery positive voltage into the
+• Engine speed is higher than 50 r/min.
+generator FR terminal 4 via resistance inside the
+unit. Judgement Criteria
+• Input voltage from the generator FR terminal has
+. continued to be approximately battery positive
+TECHNICAL DESCRIPTION
+• When the generator field coils are controlled, the voltage for 20 seconds.
+generator FR terminal inputs signal to the ECM
+.
+<M/T> or PCM <A/T>. TROUBLESHOOTING HINTS (The most likely
+• The ECM <M/T> or PCM <A/T> detects the gen- causes for this code to be set area:)
+erator output with the input signal, and controls • Open circuit in generator FR terminal circuit.
+the idle air control motor according to the genera- • ECM failed. <M/T>
+tor output. • PCM failed. <A/T>
+DIAGNOSIS
+STEP 1. Check the voltage at generator connector B-45 by
+backprobing.
+(1) Do not disconnect the connector B-45.
+(2) Start the engine and run at idle.
+(3) Measure the voltage between terminal 4 and ground by
+B-45 CONNECTOR backprobing.
+HARNESS
+a. Engine: warming up
+SIDE VIEW
+b. Radiator fan: stopped
+1 2 3 4 c. Headlight switch: OFF to ON
+d. Rear defogger switch: OFF to ON
+e. Stoplight switch: OFF to ON
+• Voltage should be drops.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+AK103518AB Q:Is the voltage normal?
+YES : Go to Step 2.
+NO : Go to Step 4.
+TSB Revision

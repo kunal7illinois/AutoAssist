@@ -1,0 +1,52 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+Note
+♦ The pressure in the refrigerant circuit is governed by various
+factors of influence. As a general rule, however, the pressure
+should not exceed 20 bar at an ambient temperature of 20 to
+25 °C. Under extreme usage conditions (e.g. in hot countries
+with high ambient temperatures, “stop and go traffic” and high
+relative humidity), the extremely high cooling output involved
+may also result in pressures of up to 31 bar.
+♦ At ambient temperatures below 25 °C the pressure in the re‐
+frigerant circuit does not usually rise above 16 bar (the radiator
+fan(s) run(s) and cool(s) the condenser).
+♦ The signal ratio of the high-pressure sender -G65- (display in
+measured value block) is used by the air conditioner operating
+unit, Climatronic control unit -J255- to calculate the pressure
+in the refrigerant circuit. If the duty cycle is less than 10 %
+(corresponding to approx. 1.2 bar absolute pressure) and
+greater than 78 % (corresponding to approx. 32 bar absolute
+pressure), the air conditioner operating unit, Climatronic con‐
+trol unit -J255- does not switch on the air conditioner com‐
+pressor (the air conditioner compressor regulating valve -
+N280- is not actuated). The air conditioner compressor is only
+re-activated once the duty cycle exceeds 12 % (corresponding
+to absolute pressure of 1.8 bar) or drops below 74 % (corre‐
+sponding to absolute pressure of 29 bar).
+♦ To prevent abrupt air conditioner compressor shutoff on ac‐
+count of excessive pressure in the refrigerant circuit or exces‐
+sive coolant temperature, the compressor output is reduced
+by the air conditioner operating unit, Climatronic control unit -
+J255- as soon as the pressure in the refrigerant circuit exceeds
+30 bar (absolute) (full compressor output is not released again
+until the pressure has dropped below 27 bar) or the coolant
+temperature exceeds 115 °C (complete shutdown at 118 °C).
+♦ If the pressure in the refrigerant circuit had been in excess of
+32 bar (duty cycle greater than 78 %), the air conditioner op‐
+erating unit, Climatronic control unit -J255- does not re-acti‐
+vate the air conditioner compressor until the pressure has
+dropped below 29 bar (duty cycle less than 74 %).
+♦ For further information on the pressure in the refrigerant cir‐
+cuit, refer to ⇒ page 35 (checking pressure signal from high-
+pressure sender -G65- ) and ⇒ "Guided fault-finding" function
+of vehicle diagnostic, testing and information system
+VAS 5051.
+10.1.4 Measures to be taken in the event of
+temperature increase downstream of
+evaporator
+The cooling output required is attained in the cooling output test,
+but the air is found to heat up excessively after leaving the evap‐
+orator ⇒ page 131
+137
+10. Checking cooling output of air conditioner

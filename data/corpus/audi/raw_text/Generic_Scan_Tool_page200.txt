@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Test requirement
+• A CAN-Bus malfunction was recognized.
+• The Engine Control Module (ECM) - J623- fuses OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• Vehicles with automatic transmission, shift selector lever into
+position “P” or “N”.
+• A/C switched off.
+• Ground connections between engine/transmission/chassis
+OK.
+• Ignition switched OFF.
+Function
+The Engine Control Module (ECM) -J623- communicates with
+other CAN-Bus capable control modules.
+The control modules are connected by two data bus wires refer‐
+red to as CAN High and CAN Low. The CAN bus allows the
+exchange of information (messages) between the connected
+modules. Messages that are missing data on the CAN bus are
+recognized as a malfunction by the control module connected to
+the CAN bus that received the invalid data .
+Trouble-free operation of the CAN Bus requires that it have a
+Terminal Resistance. This central Terminal Resistance is located
+in the Engine Control Module (ECM) -J623- .
+Test Procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8 .
+– Disconnect the Data Bus On Board Diagnostic Interface -
+J533- electrical harness connector.
+Note
+The Engine Control Module (ECM) -J623- must remain connected
+for the following step.
+– Disconnect the Data Bus On Board Diagnostic Interface -
+J533- electrical harness connector.
+– Using a multimeter, check the Data Bus On Board Diagnostic
+Interface -J533- electrical harness connector terminals 6 to 16
+for the correct Terminal Resistance. Refer to Wiring Diagrams
+for pin locations.
+Specified value: 60 to 72 Ω (at approx. 20° C)
+If the specified value was Not obtained:
+Checking wiring
+If the manufacturers test box is being used, perform the following
+step.
+– Install the test box.
+If the manufacturers test box is not being used, perform the fol‐
+lowing step.
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+196
+Rep. Gr.ST - Generic Scan Tool

@@ -1,0 +1,52 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-647
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+MUT-II SCAN ITEM INSPECTION ITEM INSPECTION REQUIREMENT NORMAL INSPECTION REFERENCE
+TOOL NO. CONDITION PROCEDURE PAGE
+DISPLAY NO.
+HO2S A3*6 Heated oxygen Engine: Warm When the 0.2 V or less Code No. P.13B-
+BANK2 S1 sensor (bank (air/fuel engine is P0150, 184,
+2, sensor 1) mixture is running at P0151, P.13B-
+made leaner 4,000 r/min, P0152, 194,
+when decelerated P0153,
+P.13B-
+decelerating, suddenly. P0154
+199,
+and is made When engine 0.6 − 1 V P.13B-
+richer when
+is suddenly 202,
+revving.)
+raced
+P.13B-
+Engine: Warm Engine is idling Voltage 205
+(the heated alternates
+2,500 r/min
+oxygen sensor between
+signal is used 0.4 V or less
+to check the and 0.6 −
+air/fuel mixture 1 V.
+ratio, and
+control
+condition is
+also checked
+by the PCM
+<A/T> or ECM
+<M/T>)
+HO2S 59 Heated oxygen Engine: Revving 0 and 600 − Code No. P.13B-
+BANK2 S2 sensor (bank warming up 1,000 mV P0156, 218,
+2, sensor 2) alternate. P0157, P.13B-
+P0158, 228,
+P0159
+P.13B-
+233,
+P.13B-
+236
+HO2S A4*6 Heated oxygen Engine: Revving 0 and 0.6 − Code No. P.13B-
+BANK2 S2 sensor (bank warming up 1 V alternate. P0156, 218,
+2, sensor 2) P0157, P.13B-
+P0158, 228,
+P0159
+P.13B-
+233,
+P.13B-
+236
+TSB Revision

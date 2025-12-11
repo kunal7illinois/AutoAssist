@@ -1,0 +1,26 @@
+BC–203
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Speed Sensor
+Rotor N S Magnet
+Coil
+To ECU
+Low speed
+High speed
++V
+-V
+F000010E04
+DTC No. DTC Detection Condition Trouble Area
+• Speed sensor BC
+C1235/35
+At a vehicle speed of 12 mph (20 km/h) or more, noise • Speed sensor rotor
+C1236/36
+occurs in the sensor signal from the abnormal wheel for 5 • Sensor installation
+C1238/38
+seconds or more. • Brake actuator assembly
+C1239/39
+(Skid control ECU)
+HINT:
+• DTC C1235/35 is for the front speed sensor RH.
+• DTC C1236/36 is for the front speed sensor LH.
+• DTC C1238/38 is for the rear speed sensor RH.
+• DTC C1239/39 is for the rear speed sensor LH.

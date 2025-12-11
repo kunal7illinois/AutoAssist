@@ -1,0 +1,32 @@
+AC–57
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+DTC B1413/13 Evaporator Temperature Sensor Circuit
+DESCRIPTION
+The evaporator temperature sensor (A/C thermistor) is installed on the evaporator in the air conditioning
+unit. It detects the temperature of the cooled air that has passed through the evaporator and its signal is
+used to control the air conditioning. It sends a signal to the A/C amplifier. The resistance of the evaporator
+temperature sensor (A/C thermistor) changes in accordance with the temperature of the cooled air that
+has passed through the evaporator. As the temperature decreases, the resistance increases. As the
+temperature increases, the resistance decreases.
+The A/C amplifier applies voltage (5 V) to the evaporator temperature sensor (A/C thermistor) and reads
+voltage changes as the resistance of the evaporator temperature sensor (A/C thermistor) changes. This
+sensor is used to prevent the evaporator from freezing.
+DTC No. DTC Detection Condition Trouble Area
+• Air conditioning harness (evaporator temperature
+B1413/13 Open or short in evaporator temperature sensor circuit sensor)
+• A/C amplifier
+WIRING DIAGRAM
+Air Conditioning Harness A/C Amplifier
+AC
+6
+e1 TEA
+Evaporator Temperature Sensor
+(A/C Thermistor)
+5
+e1 SGA
+E118397E03
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.

@@ -1,0 +1,36 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-371
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check connector A-18X at MFI relay for damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-18X
+YES : Repair harness wire between MFI relay connector A-
+MFI RELAY 18X terminal 4 and evaporative emission purge
+solenoid connector B-33 terminal 2 because of open
+circuit or short circuit to ground. Then go to Step 12.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+AK101363AB
+STEP 6. Check the power supply voltage at ECM connector
+C-51 <M/T> or PCM connector <A/T> C-52 by backprobing.
+(1) Do not disconnect the connector C-51 <M/T> or C-52 <A/
+T>.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 16 <M/T> or 34 <A/
+<M/T>
+T> and ground by backprobing.
+C-51 CONNECTOR • Voltage should be battery positive voltage.
+HARNESS SIDE VIEW
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+1 2 3 4 5 6 7 8 Q:Is the voltage normal?
+9 10 11121314151617181920212223
+24 25 26272829 30313233 3435 YES : Go to Step 9.
+NO : Go to Step 7.
+AAKK000000225566AC
+<A/T>
+1 2 3 4 5 6 7 8
+9 10 11121314151617181920212223
+24 25 26272829 30313233 3435
+C-52 CONNECTOR
+HARNESS SIDE VIEW
+AKX01547AE
+TSB Revision

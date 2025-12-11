@@ -1,0 +1,34 @@
+WS–97
+WINDSHIELD / WINDOWGLASS – WINDOW DEFOGGER SYSTEM
+Rear Window Defogger System does not Operate
+DESCRIPTION
+When the rear window defogger switch, which is built into the heater control assembly, is operated, the
+operation signals are transmitted to the A/C amplifier assembly through LIN. When the A/C amplifier
+WS
+assembly receives the signals, it turns on the DEFOG relay to operate the rear window defogger.
+WIRING DIAGRAM
+Engine Room R/B, J/B
+A/C Amplifier Assembly
+RR DEF Relay
+38
+1 2
+from A/C No. 2 fuse 1 1 E38 RDFG
+5
+from RR DEF fuse 1
+3
+1
+4
+1
+N18
+Defogger Wire Noise Filter
+1 1
+1 2
+P1 N19
+F16
+A/C Controller Assembly
+37
+4
+TX+ E38 LIN1
+14
+: LIN Communication Line E38 GND
+B137053E01

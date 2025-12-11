@@ -1,0 +1,57 @@
+ES–232
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+ECM
+115
+C55 VCV1
+C41 VVT Sensor (for Intake Camshaft (bank 1))
+69
+VVR+ C55 VV1+
+1
+VC
+92
+3
+VVR- C55 VV1-
+2
+114
+C55 VCE1
+ES
+C40 VVT Sensor (for Exhaust Camshaft (bank 1))
+68
+EX+ C55 EV1+
+1
+VC2 91
+3
+EX- C55 EV1-
+2
+*
+C50 110
+Crankshaft Position Sensor C55 NE+
+1
+111
+C55 NE-
+2
+112
+C55 VCE2
+C44 VVT Sensor (for Exhaust Camshaft (bank 2))
+66
+EX+ C55 EV2+
+1
+VC2
+89
+3
+EX- C55 EV2-
+2
+113
+C55 VCV2
+C45 VVT Sensor (for Intake Camshaft (bank 2))
+67
+VVL+ C55 VV2+
+1
+VC
+90
+3
+VVL- C55 VV2-
+2
+*: Shielded
+A122758E03

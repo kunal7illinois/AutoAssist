@@ -1,0 +1,27 @@
+13A-512 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 7. Check the continuity at ECM harness side
+connector C-49 <M/T> or PCM harness side connector C-
+54 <A/T>.
+(1) Disconnect the connector C-49 <M/T> or C-54 <A/T> and
+measure at the harness side.
+(2) Check for the continuity between terminal (13, 26) <M/T> or
+<M/T>
+(42, 48) <A/T> and ground.
+C-49 HARNESS • Should be less than 2 ohm.
+SIDE CONNECTOR
+Q:Is the continuity normal?
+13121110 9 8 7 6 5 4 3 2 1 YES : Go to Step 8.
+26252423222120191817161514 NO : Repair harness wire between ECM connector C-49
+(terminal 13, 26) <M/T> or PCM connector C-54
+(terminal 42, 48) <A/T> and ground because of open
+circuit. Then confirm that the malfunction symptom is
+AK000404AC eliminated.
+<A/T>
+C-54 HARNESS
+SIDE CONNECTOR
+464544 43 42 41
+575655545352515049 48 47
+666564 63626160 59 58
+AKX01437AG
+TSB Revision

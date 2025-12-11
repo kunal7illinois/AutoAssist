@@ -1,0 +1,67 @@
+ES–62
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Trouble Areas MIL Memory See page
+P0300 Random / Multiple - Open or short in Comes on/Blinks* DTC stored ES-156
+Cylinder Misfire engine wire harness
+Detected - Connector
+connection
+- Vacuum hose
+connection
+- Ignition system
+- Injector
+- Fuel pressure
+- MAF meter
+- ECT sensor
+- Compression
+pressure
+- Valve clearance
+- Valve timing
+ES
+- PCV valve and hose
+- PCV hose
+connections
+- Air induction system
+- ECM
+P0301 Cylinder 1 Misfire - Same as DTC Comes on/Blinks* DTC stored ES-156
+Detected P0300
+P0302 Cylinder 2 Misfire - Same as DTC Comes on/Blinks* DTC stored ES-156
+Detected P0300
+P0303 Cylinder 3 Misfire - Same as DTC Comes on/Blinks* DTC stored ES-156
+Detected P0300
+P0304 Cylinder 4 Misfire - Same as DTC Comes on/Blinks* DTC stored ES-156
+Detected P0300
+P0327 Knock Sensor 1 - Short in knock Comes on DTC stored ES-168
+Circuit Low Input sensor circuit
+(Bank 1 or Single - Knock sensor
+Sensor) - ECM
+P0328 Knock Sensor 1 - Open in knock Comes on DTC stored ES-168
+Circuit High Input sensor circuit
+(Bank 1 or Single - Knock sensor
+Sensor) - ECM
+P0335 Crankshaft Position - Open or short in Comes on DTC stored ES-172
+Sensor "A" Circuit Crankshaft Position
+(CKP) sensor circuit
+- CKP sensor
+- CKP sensor plate
+- ECM
+P0339 Crankshaft Position - Same as DTC - DTC stored ES-172
+Sensor "A" Circuit P0335
+Intermittent
+P0340 Camshaft Position - Open or short in Comes on DTC stored ES-178
+Sensor "A" Circuit Camshaft Position
+(Bank 1 or Single (CMP) sensor circuit
+Sensor) - CMP sensor
+- Camshaft
+- Jumped tooth of
+timing chain
+- ECM
+P0351 Ignition Coil "A" - Ignition system Comes on DTC stored ES-183
+Primary / Secondary - Open or short in
+Circuit IGF1 or IGT circuit (1
+to 4) between ignition
+coil with igniter and
+ECM
+- No. 1 to No. 4
+ignition coils with
+igniters
+- ECM

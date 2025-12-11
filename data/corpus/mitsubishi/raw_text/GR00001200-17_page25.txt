@@ -1,0 +1,50 @@
+ENGINE AND EMISSION CONTROL 17-25
+AUTO-CRUISE CONTROL
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+STEP 1. Check the output circuit voltage at stoplight
+switch connector C-03 (terminal number 3) by
+backprobing.
+(1) Do not disconnect stoplight switch connector C-03.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 3 and ground by
+backprobing.
+C-03 CONNECTOR
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+HARNESS SIDE VIEW
+Q:Is the voltage approximately battery positive voltage?
+1 2
+YES : Go to Step 3.
+3 4
+NO : Go to Step 2.
+ACX01910AC
+STEP 2. Check stoplight switch connector C-03.
+Q:Is the connector damaged?
+CONNECTOR: C-03
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that diagnostic trouble code 14 is not
+output.
+NO : Go to Step 13.
+AC101196AE
+STEP 3. Check the output circuit voltage at stoplight
+switch connector C-03 (terminal number 4) by
+backprobing.
+(1) Do not disconnect stoplight switch connector C-03.
+(2) Turn the ignition switch to the "ON" position and the auto-
+cruise control main switch to the "ON" position.
+(3) Measure the voltage between terminal 4 and ground by
+backprobing.
+C-03 CONNECTOR
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+HARNESS SIDE VIEW
+Q:Is the voltage approximately battery positive voltage?
+1 2
+YES : Go to Step 6.
+3 4
+NO : Go to Step 4.
+ACX01911AC
+TSB Revision

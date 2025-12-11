@@ -1,0 +1,51 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-67
+SRS AIR BAG DIAGNOSIS
+CIRCUIT OPERATION DTC SET CONDITIONS
+• The SRS-ECU judges how severe a collision is • This DTC is set if there is abnormal resistance
+by detecting signals from the front air bag analog between the input terminals of the driver’s side air
+G-sensor. If the impact is over a predetermined bag module (squib). However, if no DTC resets,
+level, the SRS-ECU outputs an ignition signal. At the SRS warning light will be switched off (DTC
+this time, if the front air bag safing G-sensor is on, will be retained).
+the SRS air bag will inflate.
+TROUBLESHOOTING HINTS
+• The ignition signal is input to the air bag module
+• Malfunction of the clock spring
+via the clock spring to inflate the air bag.
+• Damaged harness wires and connectors
+• Short to the power supply in the driver’s air bag
+module (squib) harness
+• Malfunction of the SRS-ECU
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991613: SRS Check Harness
+• MB991865: Dummy resister
+• MB991866: Resister harness
+STEP 1. Check the driver’s air bag module.
+(1) Disconnect the negative battery terminal.
+(2) Remove the driver(cid:146)s air bag module. (Refer to P.52B-144.)
+(3) Connect connector (4) of special tool MB991613 to clock
+spring connector C-81.
+MB991613 (4) Connect connector (1) of special tool MB991613 to
+connector (2).
+RESISTANCE (3Ω) (5) Connect terminals 22 to 24, and terminals 23 to 25 of
+special tool MB991613 to connector (5).
+1
+5
+(6) Connect the clock spring to the body wiring harness.
+4
+(7) Connect the negative battery terminal.
+C-81
+A (8) Erase the DTC memory, and then recheck the DTC.
+2
+Q: Is DTC 61 set?
+YES : Go to Step 2.
+NO : Replace the driver(cid:146)s air bag module. Then go to Step
+5.
+CLOCK SPRING
+VIEW A
+CONNECT
+RESPECTIVELY
+AC000360AD
+TSB Revision

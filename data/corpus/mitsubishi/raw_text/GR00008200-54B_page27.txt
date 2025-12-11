@@ -1,0 +1,23 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-27
+SYMPTOM PROCEDURES
+STEP 6. Check ETACS-ECU connector C-118 and data link
+connector C-29 for damage.
+Q:Are ETACS-ECU connector C-118 and data link
+CONNECTOR: C-118
+connector C-29 in good condition?
+DEVICE SIDE
+YES : Go to Step 7.
+51 52 53545556575859 NO : Repair or replace the connector. Refer to GROUP
+60 61 62636465666768 00E, Harness Connector Inspection P.00E-2. The
+69 70 71 727374
+system should communicate with the SWS monitor kit
+normally.
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+CONNECTOR: C-29
+HARNESS
+SIDE
+1 2 3 4 5 6 7 8
+910111213141516
+AC106557AE
+TSB Revision

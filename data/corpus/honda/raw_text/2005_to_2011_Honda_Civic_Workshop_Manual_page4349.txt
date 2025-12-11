@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+NO -Replace the steering angle sensor (see STEERING ANGLE SENSOR
+REPLACEMENT ).
+DTC 27-23: STEERING ANGLE SENSOR COUNTER MALFUNCTION
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+4. Turn the steering wheel from lock to lock.
+5. Check for DTCs with the HDS.
+Is DTC 27-23 indicated?
+YES -Replace the steering angle sensor (see STEERING ANGLE SENSOR
+REPLACEMENT ).
+NO -Intermittent failure, the system is OK at this time.
+DTC 27-24: STEERING ANGLE SENSOR EXCHANGE MALFUNCTION
+1. Turn the ignition switch ON (II).
+2. Turn the steering wheel 1 turn. Check the STEERING ANGLE in the VSA
+DATA LIST with the HDS.
+Is there about 288-432 °?
+YES -Intermittent failure, the system is OK at this time.
+NO -Replace the steering angle sensor (see STEERING ANGLE SENSOR
+REPLACEMENT ).
+DTC 31-XX*: ABS RIGHT-FRONT INLET SOLENOID VALVE MALFUNCTION; DTC 32-XX*: ABS
+RIGHT-FRONT OUTLET SOLENOID VALVE MALFUNCTION; DTC 33-XX*: ABS LEFT-FRONT
+INLET SOLENOID VALVE MALFUNCTION; DTC 34-XX*: ABS LEFT-FRONT OUTLET
+SOLENOID VALVE MALFUNCTION; DTC 35-XX*: ABS RIGHT-REAR INLET SOLENOID
+VALVE MALFUNCTION; DTC 36-XX*: ABS RIGHT-REAR OUTLET SOLENOID VALVE
+MALFUNCTION; DTC 37-XX*: ABS LEFT-REAR INLET SOLENOID VALVE MALFUNCTION;
+DTC 38-XX*: ABS LEFT-REAR OUTLET SOLENOID VALVE MALFUNCTION

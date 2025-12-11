@@ -1,0 +1,50 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-199
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS:C-60<M/T>,C-54<A/T> CONNECTOR:D-17
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB AK000734AC
+CONNECTOR:C-28 CONNECTOR:C-90
+AK000733AC AK000345AD
+. • Engine coolant temperature sensor is higher than
+CIRCUIT OPERATION
+• 5-volt voltage is applied to the fuel temperature
+60°C (140°F).
+• Maximum vehicle speed is higher than 30 km/h
+sensor output terminal (terminal 3) from the ECM
+(17 mph) after the starting sequence has been
+(terminal 77) <M/T> or PCM (terminal 51) <A/T>
+completed.
+via the resistor in the ECM <M/T> or PCM <A/T>.
+• The fuel temperature sensor output voltage Judgement Criteria
+increases when the resistance increases and • The fuel temperature − engine coolant tempera-
+decreases when the resistance decreases. The ture is 15° C (27° F) or more when the engine is
+ground terminal (terminal 1) is grounded to the started.
+vehicle body.
+.
+TROUBLESHOOTING HINTS (The most likely
+.
+TECHNICAL DESCRIPTION causes for this code to be set are: )
+• The fuel temperature sensor converts the fuel • Fuel temperature sensor failed.
+temperature to a voltage. • Open or shorted fuel temperature sensor circuit,
+• The ECM <M/T> or PCM<A/T> detects the fuel or loose connector.
+temperature in the fuel tank with this output volt- • ECM failed. <M/T>
+age. • PCM failed. <A/T>
+NOTE: A diagnostic trouble code (DTC) could be
+.
+DTC SET CONDITIONS output if the engine coolant is changed as indicated
+below. Because this is not a failure, the DTC must be
+Check Conditions
+• The engine coolant temperature − intake air tem- erased.
+perature is 5°C (9°F) or less when the engine is Make sure to test drive the vehicle in accordance
+with the drive cycle pattern in order to verify that a
+started.
+• The engine coolant temperature is between − DTC will not be output.
+10°C (14°F) and 36°C (97°F) when the engine is .
+• The engine and the radiator have been flushed
+started.
+repeatedly when the engine coolant temperature
+was high (or the fuel temperature was high).
+TSB Revision

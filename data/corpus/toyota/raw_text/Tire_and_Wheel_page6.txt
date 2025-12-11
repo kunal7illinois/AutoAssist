@@ -1,0 +1,45 @@
+TW–6
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+TIRE PRESSURE WARNING
+SYSTEM
+PRECAUTION
+1. EXPRESSIONS OF IGNITION SWITCH
+(a) The type of ignition switch used on this model differs
+according to the specification of the valves
+Switch Type Ignition Switch (position) Engine Switch (condition)
+Ignition switch off LOCK Off
+Expression Ignition switch on (IG) ON On (IG)
+Ignition switch on (ACC) ACC On (ACC)
+Engine start START Start
+2. TIRE PRESSURE WARNING SYSTEM PRECAUTION
+TW (a) When the tire pressure warning light comes on,
+immediately check the tire pressure of the tire and
+adjust it to the specified value. (The tire pressure
+warning light will blink (come on after blinking for 1
+minute) if there is an open in the tire pressure
+warning light circuit.)
+Tire Pressure
+Warning Light NOTICE:
+Check the ground spare tire as well since this
+system monitors pressure of all tires including
+E129450E01
+the ground spare tire.
+Cold tire inflation pressure
+Tire size Front kPa (kgf/cm2, psi) Rear kPa (kgf/cm2, psi)
+P215/60R16 94W 210 (2.1, 31) *1 240 (2.4, 35)*2 210 (2.1, 31) *1 240 (2.4, 35)*2
+P215/55R17 93V 220 (2.2, 32) *1 240 (2.4, 35)*2 220 (2.2, 32) *1 240 (2.4, 35)*2
+*1: For driving under 100 mph (160 km/h)
+*2: For driving at 100 mph (160 km/h) or over
+(b) When the tire pressure warning light blinks (comes
+on after blinking for 1 minute), there is a malfunction
+in the system. Check for DTCs.
+(c) It is necessary to register the transmitter ID in the
+tire pressure warning ECU after replacing the tire
+pressure warning valve and transmitter and/or tire
+pressure warning ECU (See page TW-15).
+(d) When replacing the tire pressure warning ECU;
+(1) Using the DATA LIST, read the transmitter IDs
+registered in the ECU and make a note of them
+before removing the tire pressure warning ECU.
+(2) Register the transmitter IDs after installing a new
+tire pressure warning ECU.

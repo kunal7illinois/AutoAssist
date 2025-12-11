@@ -1,0 +1,31 @@
+ES–389
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Ideal Air-Fuel Mixture
+Output Voltage
+Heater
+Solid electrolyte
+(Zirconia Element)
+Element
+Cover Platinum electrode
+ES
+Air
+Rich - Air Fuel Ratio - Lean
+A A
+Exhaust Gas A-A Section
+A107164E13
+DTC No. DTC Detection Conditions Trouble Area
+• Open or short in A/F sensor circuit
+P2A00 Calculated value for air-fuel ratio (A/F) sensor response
+• A/F sensor
+P2A03 rate deterioration level is less than threshold
+• ECM
+MONITOR DESCRIPTION
+After the engine is warmed up, the ECM performs air-fuel ratio feedback control to maintain the air-fuel
+ratio at the stoichiometric level. In addition, active A/F ratio control is performed for approximately 10
+seconds after preconditions are met in order to measure the A/F sensor response rate. During active A/F
+ratio control, the ECM forcibly increases and decreases the injection volume by a certain amount, based
+on the stoichiometric air-fuel ratio learned during normal air-fuel ratio control, and measures the A/F
+sensor response rate. The ECM receives a signal from the A/F sensor while performing active A/F ratio
+control and uses it to calculate the A/F sensor response rate deterioration level.
+If the value for A/F sensor response rate deterioration level is less than the threshold, the ECM interprets
+this as a malfunction and sets the DTC.

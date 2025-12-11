@@ -1,0 +1,28 @@
+54B-214 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+Q:Is the wiring harness between windshield wiper motor
+CONNECTOR: C-06
+connector A-03 (terminal 2) and front-ECU connector A-
+11X (terminal 23) in good condition?
+YES : Replace the front-ECU. The windshield wiper should
+stop at the predetermined park position.
+NO : Repair the wiring harness. The windshield wiper
+should stop at the predetermined park position.
+C-06
+AB
+AC106686
+INSPECTION PROCEDURE G-5: Windshield Wiper and Washer: Windshield Intermittent Wiper Interval
+can not be Adjusted by Means of Windshield Intermittent Wiper Interval Adjusting Knob.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+Windshield Intermittent Wiper Interval Adjusting Knob Input Signal
+. .
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINTS
+If the windshield intermittent wiper interval is not • Malfunction of the column switch (windshield
+changed by operating the windshield intermittent wiper and washer switch)
+wiper interval adjusting knob or according to the • Malfunction of the ETACS-ECU
+vehicle speed, the column switch, the ETACS-ECU • Malfunction of the front-ECU
+or the front-ECU may be defective. • Damaged harness wires or connectors
+TSB Revision

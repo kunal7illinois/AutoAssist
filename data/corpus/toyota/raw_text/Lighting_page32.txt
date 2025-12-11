@@ -1,0 +1,41 @@
+LI–32
+LIGHTING – LIGHTING SYSTEM
+with Smart Key System:
+Main Body ECU
+Instrument Panel J/B
+ACC
+1 ECU-ACC
+5 3 22
+IA ACC
+3
+2 1
+II
+10
+IF
+IG1
+ECU-IG No. 1
+5 3 15
+ALT IG
+9
+2 1
+II
+AM2 6
+E7 AM1
+22
+E7 ACCD
+3
+FL MAIN E7 IG1D
+E52 Engine SW
+17
+5 7
+GND SS1 E7 SSW1
+16
+Battery 4 2
+EOM SS2 E7 SSW2
+LI
+E121498E01
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.

@@ -1,0 +1,56 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-141
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS : C-58, C-62<M/T>,
+C-55, C-59<A/T>
+RIGHT BANK
+HEATED OXYGEN PCM<A/T> ECM<M/T>
+SENSOR (FRONT)
+C-55 C-59 C-58 C-62
+AACCXX0022448811AH AK000225AK
+CONNECTOR: B-27
+AAKK110033550077AB
+. • Engine speed is at between 1,250 and 3,000 r/
+CIRCUIT OPERATION
+• A voltage corresponding to the oxygen concen- min.
+• Volumetric efficiency is at between 20 and 60
+tration in the exhaust gas is sent to the ECM (ter-
+percent.
+minal 72) <M/T> or PCM (terminal 72) <A/T>
+• Under the closed loop air/fuel control.
+from the output terminal (terminal 4) of the right
+• The throttle valve is open.
+bank heated oxygen sensor (front).
+• Terminal 2 of the right bank heated oxygen sen- • Short-term fuel trim is higher than −30 and lower
+than +25 percent.
+sor (front) is grounded with ECM (terminal 49)
+• More than 3 seconds have elapsed after the
+<M/T> or PCM (terminal 57) <A/T>.
+abovementioned conditions have been met.
+• The ECM <M/T> or PCM <A/T> monitors for this
+.
+TECHNICAL DESCRIPTION
+condition for 7 cycles of 12 second each during
+• The right bank heated oxygen sensor (front)
+the drive cycle.
+detects the concentration of oxygen in the
+exhaust gas; it converts those data to voltage, Judgment Criteria
+and inputs the resulting signals to the ECM <M/ • The right bank heated oxygen sensor (front)
+T> or PCM <A/T>. sends "lean" and "rich" signals alternately 11
+• When the right bank heated oxygen sensor times or less for 12 seconds.
+(front) begins to deteriorate, the heated oxygen NOTE: If the sensor switch time is longer than the
+sensor signal response becomes poor. Judgment Criteria due to the MUT-II OBD-II test
+• The ECM <M/T> or PCM <A/T> forcibly varies Mode − H02S Test Results, it is assumed that the
+the air/fuel mixture to make it leaner and richer, heated oxygen sensor has deteriorated. If it is
+and checks the response speed of the right bank short, it is assumed that the harness is damaged
+heated oxygen sensor (front). In addition, the or has a short circuit.
+ECM <M/T> or PCM <A/T> also checks for an If the heated oxygen sensor signal voltage has
+open circuit in the right bank heated oxygen sen- not changed even once (lean/rich) after the DTC
+sor (front) output line. was erased, the sensor switch time will display as
+0 seconds.
+.
+DTC SET CONDITIONS
+.
+Check Conditions
+• Engine coolant temperature is higher than 50°C
+(122°F).
+TSB Revision

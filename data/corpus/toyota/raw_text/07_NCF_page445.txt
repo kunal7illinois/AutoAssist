@@ -1,0 +1,68 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-111
+5. Entry Function Operation
+General
+The entry function has the following functions.
+Function Outline
+The key consists of a mechanical key, a transmitter for the wireless door lock remote
+Mechanical Key
+control and a transceiver for the smart key system, and a transponder chip for the
+[See page BE-110]
+engine immobilizer control.
+Wireless Door Lock
+This function is a convenient system for locking and unlocking all the doors or trunk,
+Remote Control
+at a distance. The operation is same as wireless door lock remote control system.
+[See page BE-112]
+Entry Illumination When a key enters the actuation area of front door oscillators, the front interior light,
+[See page BE-112] and engine switch illumination illuminate.
+Entry Unlock When a key is located in the actuation area front door oscillators, the door will unlock
+[See page BE-113] after the inside of an outside door handle is touched.
+Allows selection of one of two modes that can be operated with the entry unlock
+Entry Unlock
+function.
+Mode Switching
+(cid:3) Driver Door Mode
+[See page BE-114]
+(cid:3) All Door Mode
+When a key is located in the actuation area of either front door oscillator and the
+Entry Lock
+power source is OFF, the door can be locked by merely pressing the lock switch on
+[See page BE-115]
+the outside door handle.
+Trunk Open When a key is in the actuation area of the trunk outer oscillator, the trunk can be
+[See page BE-116] opened by merely pressing the trunk open switch.
+(cid:3) Prevents the confinement of the key in the vehicle by the door being locked with
+Prevention of Key the outside door handle while the key is still inside the vehicle.
+Confinement (cid:3) If the trunk lid is closed while the key is still in the luggage compartment, the
+[See page BE-117] warning buzzer sounds. If the trunk open switch is operated for 2 seconds during
+this period, the trunk lid can be opened.
+When any of the situations below occur, the smart key system causes the certification
+ECU to sound the buzzer in the combination meter and the wireless door lock buzzer,
+and indicate a warning on the multi-information display in order to the alert the driver.
+(cid:3) An exit warning if the shift lever is in a position other than P and the power source
+is a mode other than OFF.
+(cid:3) An exit warning if the shift lever is in P and the power source is a mode other than
+Warning
+OFF.
+[See page BE-119]
+(cid:3) A warning if the occupant leaves with the key in inappropriate circumstances.
+(cid:3) A warning if the engine switch is operated while the key is outside the actuation
+area.
+(cid:3) A warning if the entry lock button on the door handle is operated while the key is
+inside the vehicle.
+(cid:3) A warning if the key battery is weak.
+If the key remains within the actuation area of the front door oscillators, the system
+Battery Saving
+maintains periodic communication with key. Therefore, if the vehicle remains parked
+[See page BE-129]
+in that state for a long time, the key battery and the vehicle battery could be drained.
+The following key functions can be cancelled by following certain procedures.
+(cid:3) Entry unlock/lock
+Key Cancel
+(cid:3) Trunk open
+[See page BE-130]
+(cid:3) Prevention of key confinement
+(cid:3) Warning
+Key Code A total of four keys can be registered.
+Registration Enables the registering (writing and storing) of transmitter recognition codes in the
+[See page BE-130] EEPROM that is contained in the certification ECU.

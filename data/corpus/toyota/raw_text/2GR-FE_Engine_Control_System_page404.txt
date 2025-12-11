@@ -1,0 +1,45 @@
+ES–404
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+5 INSPECT ENGINE MOUNTING INSULATOR ASSEMBLY FRONT
+(a) Disconnect the vacuum hose from the front engine
+mount insulator.
+(b) Using a vacuum pump, apply vacuum of 80 kPa (600
+mmHg, 25 in.Hg) and wait for 1 minute.
+(c) Check that there is no change in the needle movement
+of the vacuum pump gauge.
+(d) Check that there is no fluid leakage caused by a break in
+the diaphragm.
+OK:
+Vacuum pressure exists.
+A051989
+(e) Reconnect the vacuum hose.
+ES
+NG REPLACE FRONT ENGINE MOUNTING
+INSULATOR ASSEMBLY
+OK
+6 CHECK HARNESS AND CONNECTOR (VSV FOR ACM - ECM)
+(a) Check the wire harness between the VSV for ACM
+Wire Harness Side: connector and the ECM connector.
+(1) Disconnect the C34 VSV for ACM connector.
+(2) Disconnect the C55 ECM connector.
+(3) Measure the resistance between the wire harness
+VSV for ACM Connector
+side connectors.
+Standard resistance (Check for open)
+Tester Connections Specified Conditions
+C34 1 2
+VSV for ACM (C34-2) - ACM (C55-42) Below 1 Ω
+Standard resistance (Check for open)
+Front View
+Tester Connections Specified Conditions
+VSV for ACM (C34-2) or ACM (C55-42) - Body
+10 kΩ or higher
+ground
+C55 ECM Connector
+(4) Reconnect the ECM connector.
+(5) Reconnect the VSV connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+ACM
+A135959E01
+OK

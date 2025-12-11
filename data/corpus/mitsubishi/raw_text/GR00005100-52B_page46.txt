@@ -1,0 +1,40 @@
+52B-46 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+DTC SET CONDITIONS TROUBLESHOOTING HINTS
+• This DTC is set if the voltage between the IG1 • Damaged wiring harnesses or connectors
+terminals (fuse No.23 circuit) and ground is lower • Malfunction of the SRS-ECU
+than a predetermined value for a continuous
+period of five second or more. However, if the
+vehicle condition returns to normal, DTC num-
+bers 41 will be automatically erased, and the
+SRS warning light will switch off.
+.
+DIAGNOSIS
+STEP 1. Check junction block multi-purpose fuse number
+23.
+Q:Is the fuse burned out?
+NO : Go to Step 2.
+YES : Go to Step 4.
+STEP 2. Check the circuit between the SRS-ECU and the
+ignition switch (IG1).
+(1) Disconnect SRS-ECU connector C-72.
+CONNECTOR: C-72
+(2) Connect the negative battery terminal.
+(3) Turn the ignition switch to the "ON" position.
+(4) Measure at the wiring harness side.
+CAUTION
+Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+SRS-ECU weakened.
+ACCELERATOR PEDAL (5) Measure the Voltage between terminal 12 and body ground
+CENTER REINFORCEMENT(LH)AC000358AD • Voltage should be 9 volts or more
+Q:Is the voltage normal?
+C-72 CONNECTOR
+(HARNESS SIDE) REAR VIEW YES : Erase the DTC memory, and recheck if any DTC sets.
+If DTC 41 sets, replace the SRS-ECU. Refer to
+1 2 3 4 5 6 7 8
+P.52B-142. Then go to Step 10.
+9 10111213141516
+NO : Go to Step 3.
+AC106652AB
+TSB Revision

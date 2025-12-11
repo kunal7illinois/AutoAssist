@@ -1,0 +1,23 @@
+CH-62 CHASSIS - U660E AUTOMATIC TRANSAXLE
+ATF Temperature Sensor
+(cid:3) The ATF temperature sensor is installed in the valve body for direct detection of the fluid temperature.
+(cid:3) The ATF temperature sensor is used for the revision of clutch and brake pressures to maintain a smooth
+shift quality every time.
+ATF Temperature
+Sensor
+Lower Valve Body 01YCH44TE
+ATF Pressure Switch
+(cid:3) The ATF pressure switches are located in the output fluid passages of SL1, SL2 and SLU, and turn
+ON/OFF in accordance with the solenoid valve output fluid pressure.
+(cid:3) The ECT ECU detects malfunctions in solenoid valves SLU and SL used in lock-up control in accordance
+with the ON/OFF signals from ATF pressure switch 3 located in the SLU output fluid passage.
+(cid:3) When any of SL1 to SL4 malfunctions, the ECT ECU determines the appropriate fail-safe operation to
+be actuated in accordance with the ON/OFF signals from ATF pressure switches 1 and 2 located in the
+SL1 and SL2 output fluid passages.
+ATF Pressure Switch
+ATF Pressure
+Switch
+ATF Pressure Switch
+Cross-Section
+Lower Valve Body
+01YCH45TE

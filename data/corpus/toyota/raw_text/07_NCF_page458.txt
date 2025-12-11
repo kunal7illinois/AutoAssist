@@ -1,0 +1,55 @@
+BE-124 BODY ELECTRICAL - SMART KEY SYSTEM
+6) Situation: E
+When the engine is left running, a passenger leaves the vehicle holding the key.
+In this situation, the following control is performed:
+Possible Effects without Warning Engine cannot be restarted
+The warning is activated when all of the following conditions
+are met:
+(cid:3) Power source is in a mode other than OFF.
+Warning Condition
+(cid:3) Door except driver door is opened (cid:1) closed.
+(cid:3) Vehicle speed is 0 mph (0 km/h).
+(cid:3) Key is not in the vehicle.
+Buzzer Sounds once
+Multi-information
+Combination
+Display
+Meter
+025BE100P
+Master Warning
+Flash
+Light
+Wireless Door Lock Buzzer Sounds 3 times
+Engine Switch Indicator Light —
+The warning is stopped when one of the following conditions
+is met:
+Warning Stop Condition (cid:3) Power source is OFF.
+(cid:3) Vehicle speed is above 0 mph (0 km/h).
+(cid:3) Key is in the vehicle.
+7) Situation: F
+When the key is not in the cabin or the key battery is dead, the driver attempts to start the engine or change
+the power mode to ON.
+In this situation, the following control is performed:
+Possible Effects without Warning Confuses the user
+The warning is activated when all of the following conditions
+are met:
+Warning Condition
+(cid:3) Engine switch is pushed.
+(cid:3) Key is not in the vehicle.
+Buzzer Sounds once
+Multi-information
+Combination
+Display
+Meter
+025BE100P
+Displayed for 8 seconds (and then automatically turned off)
+Master Warning
+Flash
+Light
+Wireless Door Lock Buzzer —
+Engine Switch Indicator Light —
+Check if the key is in the detection area.
+If the key is in the detection area, press the wireless door lock
+Warning Stop Condition switch and confirm that the indicator comes on. If the
+indicator does not come on, replace the key battery with a new
+one.

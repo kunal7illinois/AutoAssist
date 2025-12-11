@@ -1,0 +1,43 @@
+DL–136
+DOOR LOCK – SMART KEY SYSTEM
+A total of 7 electrical keys can be registered.
+LUGGAGE COMPARTMENT Switch
+LOCK Switch
+UNLOCK Switch
+PANIC Switch
+Mechanical Key
+Mechanical Key Electrical Key
+B137961E01
+(b) Oscillator (front door oscillator, front and rear indoor
+oscillator, luggage compartment inner oscillator,
+luggage compartment outer oscillator)
+Each oscillator transmits the request signal received
+from the certification ECU, and forms an electrical
+key detection area to detect the presence of an
+electrical key. The detection area formed by front
+door oscillator and luggage compartment outer
+oscillator is approximately 0.7 to 1.0 m (2.3 to 3.3 ft)
+from the outside handle of front door or the center of
+the rear bumper.
+• The detection area of front door oscillator is
+formed by transmitting a request signal every
+0.25 seconds while the engine switch is off and
+each door is locked. In this way, it detects the
+proximity of an electrical key. During entry lock,
+the detection area is formed with the lock switch
+on.
+• The detection area of the luggage compartment
+outer oscillator is formed when the power
+luggage door open switch is on.
+• The detection area of the indoor oscillator (front
+and rear) is formed when the driver door is
+DL opened or closed, entry luggage compartment
+open, electrical key lock-in prevention during
+start ignition, when a warning is activated, or
+when the lock switch is on.
+• The detection area of the luggage compartment
+inner oscillator is formed when the luggage
+compartment door is closed, entry luggage
+compartment open, electrical key lock-in
+prevention, the luggage compartment open
+switch or lock switch is pressed.

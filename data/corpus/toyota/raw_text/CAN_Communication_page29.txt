@@ -1,0 +1,51 @@
+CA–29
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+• *: The ECM is malfunctioning if only U0100 is
+output. Refer to Automatic Transaxle system
+(See page AX-151).
+(e) SKID CONTROL ECU (with VSC)
+DTC No. Detection Item
+U0073 Control Module Communication Bus Off
+U0100 Lost Communication With ECM/PCM "A"
+U0123 Lost Communication With Yaw Rate Sensor Module
+U0124* Lost Communication With Lateral Acceleration Sensor Module
+U0126 Lost Communication With Steering Angle Sensor Module
+HINT:
+• DTC communication is via the CAN
+communication system.
+• *: TMC made only
+(f) SKID CONTROL ECU (without VSC)
+DTC No. Detection Item
+U0073 Control Module Communication Bus Off
+HINT:
+CA
+DTC communication is via the CAN communication
+system.
+(g) COMBINATION METER ECU
+DTC No. Detection Item
+U0100 Lost Communication With ECM/PCM "A"
+U0129 Lost Communication with Brake System Control Mode
+HINT:
+DTC communication is via the CAN communication
+system.
+(h) AIR CONDITIONER AMPLIFIER
+DTC No. Detection Item
+B1499 Multiplex Communication Circuit
+HINT:
+DTC communication is via the CAN communication
+system.
+(i) MAIN BODY ECU (with smart key system)
+DTC No. Detection Item
+B1207* Certification ECU Communication Malfunction
+B2326* CAN MS Bus Line Communication Malfunction
+HINT:
+• DTC communication is via the CAN
+communication system.
+• *: The main body ECU is malfunctioning if B1207
+and/or B2326 are output alone. Refer to DTC
+chart (See page AX-46).
+(j) MAIN BODY ECU (without smart key system)
+HINT:
+Although the center airbag sensor is connected to
+the CAN communication system, CAN
+communication DTCs are not output.

@@ -1,0 +1,26 @@
+54B-220 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTOR: A-11X CONNECTOR: A-33
+FRONT-ECU
+AC101880AC AC102767AD
+CONNECTOR: C-06
+AC102787AB
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the windshield washer does not work normally, the
+The windshield washer switch sends a signal
+windshield washer motor, the column switch (wind-
+through the column-ECU (incorporated in the column
+shield wiper and washer switch) or the front-ECU
+switch) to the front-ECU. If the column-ECU sends a
+may be defective.
+windshield washer switch "ON" signal to the front-
+ECU, the front-ECU turns on the relay (incorporated
+.
+in the front-ECU), thus causing the windshield TROUBLESHOOTING HINTS
+washer motor to be turned on. • Malfunction of the windshield washer motor
+• Malfunction of the column switch (windshield
+. wiper and washer switch)
+• Malfunction of the front-ECU
+• Damaged harness wires or connectors
+TSB Revision

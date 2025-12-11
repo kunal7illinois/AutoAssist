@@ -1,0 +1,53 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-113
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+• When the throttle valve shaft is turned from the DTC SET CONDITIONS
+idle position to the fully opened position, the
+Check Conditions
+resistor between the throttle position sensor out-
+• 2 seconds or more have passed since the start-
+put terminal (terminal 3) and ground terminal will
+ing sequence was completed.
+increase according to the rotation.
+• Engine speed is lower than 1,000 r/min.
+• Volumetric efficiency is lower than 60 percent.
+.
+TECHNICAL DESCRIPTION
+• The throttle position sensor outputs voltage which Judgement Criteria
+• TPS output voltage has continued to be 2 volts or
+corresponds to the throttle valve opening angle.
+• The ECM <M/T> or PCM <A/T> checks whether higher for 2 seconds.
+the voltage is within a specified range. In addi-
+.
+tion, it checks that the voltage output does not TROUBLESHOOTING HINTS (The most likely
+become too high while the engine is at idle. causes for this code to be set are: )
+• Throttle position sensor failed or maladjusted.
+. • Open or shorted throttle position sensor circuit, or
+loose connector.
+• ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 14:
+Throttle Position Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the data reading mode for item
+14, Throttle Position Sensor.
+16 PIN • With the throttle valve in the idle position, voltage should
+be between 0.535 and 0.735 volt.
+MB991502
+• With the throttle valve in the full-open position, voltage
+AKX01177AB
+should be between 4.5 and 5.5 volts.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+TSB Revision

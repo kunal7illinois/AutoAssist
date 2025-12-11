@@ -1,0 +1,37 @@
+13A-218 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, check actuator test
+item 01, 02, 03, 04: Injectors.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the actuator testing mode for
+item 01, 02, 03, 04 Injectors.
+16 PIN (4) Warm up the engine to normal operating temperature: 80°C
+to 96°C (176°F to 205°F).
+MB991502
+• Does the idle state worsen when the injector is cut off.
+AKX01177AB
+(Does idling become unstable or does the engine stall.)
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the actuator operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+STEP 2. Check the connector at injector for damage.
+a. Check the connector B-01 when checking No. 1 cylinder.
+CONNECTOR : B-01, B-02, B-05, B-06
+b. Check the connector B-02 when checking No. 2 cylinder.
+B-01 B-02 B-05B-06
+c. Check the connector B-05 when checking No. 3 cylinder.
+d. Check the connector B-06 when checking No. 4 cylinder.
+Q:Is the connector in good condition?
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 10.
+AAKK000000227733AB
+TSB Revision

@@ -1,0 +1,43 @@
+CHASSIS - BRAKE CH-93
+(cid:4)BRAKE CONTROL SYSTEM (ABS with EBD)
+1. General
+The brake control system (ABS with EBD) of ’07 Camry has the following functions:
+Function Outline
+ABS The ABS helps prevent the wheels from locking when the brakes are applied
+(Anti-lock Brake System) firmly or when braking on a slippery surface.
+The EBD control utilizes ABS, realizing the proper brake force distribution
+EBD
+between front and rear wheels in accordance with the driving conditions.
+(Electronic Brake
+In addition, during cornering braking, it also controls the brake forces of right
+force Distribution)
+and left wheels, helping to maintain the vehicle behavior.
+The primary purpose of the Brake Assist system is to provide an auxiliary brake
+Brake Assist
+force to assist the driver who cannot generate a large brake force during
+(Mechanical Type)
+emergency braking, thus helping draw the vehicle’s brake performance.
+Service Tip
+When the brake control system is activated, the brake pedal could shudder, which is a normal
+occurrence of the system in operation, and should not be considered to be a malfunction.
+(cid:1) System Diagram (cid:2)
+Solenoid Relay
+Solenoid Valve (8)
+Speed Sensor (4)
+Pump Motor
+Stop Light Switch
+Skid Control
+Motor Relay
+ECU
+Combination Meter
+From Battery
+Speedometer
+DLC3
+Parking Brake Switch
+Main Body ECU
+CAN
+(CAN No.1 Bus)
+Combination Meter
+ABS Warning Light
+Brake System Warning Light
+025CH37P

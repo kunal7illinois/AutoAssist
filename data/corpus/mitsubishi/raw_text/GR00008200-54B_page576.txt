@@ -1,0 +1,24 @@
+54B-576 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+TROUBLESHOOTING HINTS • Malfunction of the ETACS-ECU
+• Malfunction of the hood switch • Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the hood switch.
+Remove the hood switch.Refer to GROUP 42, Hood P.42-7.
+Then check continuity between the switch terminals.
+CONNECTOR: A-23
+SWITCH POSITION TESTER SPECIFIED
+CONNECTION CONDITION
+Released 1 − 2 Less than 2 ohm
+Pressed 1 − 2 Open circuit
+Q:Is the hood switch in good condition?
+DEVICE SIDE
+YES : Go to Step 2.
+1 2 NO : Replace the hood switch. If the theft-alarm system
+operates normally, it indicates that a correct signal is
+sent from the hood switch.
+AC106607AB
+TSB Revision

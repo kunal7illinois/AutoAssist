@@ -1,0 +1,47 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-175
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS : C-58, C-62<M/T>,
+RIGHT BANK C-55, C-59<A/T>
+HEATED OXYGEN
+SENSOR (REAR) PCM<A/T> ECM<M/T>
+C-55 C-59 C-58 C-62
+ACX02493AJ AK000225AK
+CONNECTOR: B-28
+AAKK110033550088AB
+. CIRCUIT OPERATION • Repeat 3 or more times: drive*1, stop*2.
+• A voltage corresponding to the oxygen concen- Drive*1:
+tration in the exhaust gas is sent to the ECM (ter- • Engine speed is higher than 1,500 r/min.
+minal 74) <M/T> or PCM (terminal 74) <A/T> • Volumetric efficiency is higher than 40 per-
+from the output terminal (terminal 4) of the right cent.
+bank heated oxygen sensor (rear). • Vehicle speed is higher than 30 km/h (18.7
+• Terminal 2 of the heated oxygen sensor (rear) is mph).
+grounded with ECM (terminal 49) <M/T> or PCM • A total of more than 10 seconds have
+(terminal 57) <A/T>. elapsed with the above mentioned condi-
+tions, and more than 2 seconds have
+. TECHNICAL DESCRIPTION elapsed with the fuel shut off.
+• The output signal of the right bank heated oxygen Stop*2:
+sensor (front) is compensated by the output sig- • Vehicle speed is lower than 1.5 km/h (0.9
+nal of the right bank heated oxygen sensor (rear). mph).
+• The ECM <M/T> or PCM <A/T> checks for an
+Judgement Criteria
+open circuit in the right bank heated oxygen sen-
+• Change in the output voltage of the right bank
+sor (rear) output line.
+heated oxygen sensor (rear) is lower than 0.312
+volt.
+.
+DTC SET CONDITIONS
+NOTE: Monitoring stops after fuel has been shut
+Check Conditions off for more than 38 seconds.
+• Engine coolant temperature is higher than 76°C
+(169°F). .
+TROUBLESHOOTING HINTS (The most likely
+• The right bank heated oxygen sensor (front) is
+causes for this code to be set are: )
+active. • Right bank heated oxygen sensor (rear) failed.
+• The cumulative volume air flow sensor output fre- • ECM failed. <M/T>
+quency is higher than 4,000 Hz. • PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

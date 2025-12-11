@@ -1,0 +1,19 @@
+BC–226
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+HINT:
+• If a speed signal of 4 mph (6 km/h) or more is input to
+the skid control ECU, with the ignition switch on (IG)
+and the stop light switch off, the ECU performs self
+diagnosis of the motor and solenoid circuits.
+• If a normal system code is output (the trouble code is
+not output), slightly jiggle the connectors, wire
+harness, and fuses of the brake actuator assembly.
+Make sure that no DTCs are output.
+• If any DTCs are output while jiggling a connector or
+wire harness of the brake actuator assembly (skid
+control ECU), inspect and repair the connector or wire
+harness.
+B REPLACE BRAKE ACTUATOR ASSEMBLY
+A
+BC
+USE SIMULATION METHOD TO CHECK

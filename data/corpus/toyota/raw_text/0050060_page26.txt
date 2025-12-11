@@ -1,0 +1,31 @@
+ES–365
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+22 PERFORM ACTIVE TEST USING INTELLIGENT TESTER (VACUUM PUMP (ALONE))
+(a) Turn the ignition switch OFF.
+(b) Disconnect the S3 canister pump module connector.
+(c) Turn the ignition switch ON.
+(d) On the intelligent tester, select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST /
+VACUUM PUMP.
+(e) Measure the voltage between MTRB terminal 1 of the
+canister pump module connector and the body ground
+when the leak detection pump is turned ON and OFF
+using the tester. ES
+Wire Harness Side:
+MTRB
+S3 1 2 3 4 5
+6 7 8 910
+Canister Pump Module Connector
+A127718E03
+Result
+Test Results Suspected Trouble Areas Proceed To
+1. Wire harness between leak detection pump and
+Below 3 V when OFF
+body ground A
+9 to 14 V when ON
+2. Leak detection pump
+1. Wire harness between leak detection pump and
+Below 3 V when OFF and ON ECM B
+2. ECM
+B Go to step 24
+A

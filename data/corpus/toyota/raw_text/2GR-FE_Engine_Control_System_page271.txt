@@ -1,0 +1,35 @@
+ES–271
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(a) EVAP VSV stuck open
+In operation C, the vacuum pump creates negative pressure (vacuum) in the EVAP (Evaporative
+Emission) system. The EVAP system pressure is then measured by the ECM using the pressure
+sensor. If the stabilized system pressure is higher than [second 0.02 inch leak pressure standard
+x 0.2], the ECM interprets this as the EVAP VSV (Vacuum Switching Valve) being stuck open.
+The ECM illuminates the MIL and sets the DTC (2 trip detection logic).
+EVAP Pressure when VSV (for EVAP) Stuck Open:
+ON: Open
+ON
+VSV (for EVAP)
+OFF: Closed
+ON: Closed
+ON
+Vent Valve
+ON: Vent
+ES
+ON
+Vacuum Pump
+EVAP Pressure
+Malfunction
+Positive
+Negative
+First 0.02 Inch [Second 0.02
+Leak Pressure Inch Leak
+OK
+Standard Pressure
+Standard] x 0.2
+Sequence
+A B C D E
+Time
+10 seconds 60 Within 15 minutes 10 60
+seconds seconds seconds
+A108008E11

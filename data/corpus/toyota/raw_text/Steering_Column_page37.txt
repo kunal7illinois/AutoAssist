@@ -1,0 +1,47 @@
+SR–35
+STEERING COLUMN – ELECTRIC STEERING LOCK
+INSPECTION PROCEDURE
+1 CHECK HARNESS AND CONNECTOR (STEERING LOCK ACTUATOR ASSEMBLY - BODY
+GROUND)
+(a) Disconnect the E51 connector from the steering lock
+Steering Lock Actuator Assembly:
+actuator assembly.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+GND
+E51
+Tester connection
+Condition Specified condition
+(Symbols)
+E51-1 (GND) - Body
+Always Below 1 Ω
+SGND ground
+C106484E29 E51-2 (SGND) - Body Always Below 1 Ω
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+2 CHECK HARNESS AND CONNECTOR (STEERING LOCK ACTUATOR ASSEMBLY - SR
+BATTERY)
+(a) Measure the voltage according to the value(s) in the
+Steering Lock Actuator Assembly:
+table below.
+Standard voltage
+Tester connection
+Condition Specified condition
+(Symbols)
+GND
+E51
+E51-7 (B) - E51-1
+Always 10 to 14 V
+(GND)
+E51-7 (B) - E51-2
+Always 10 to 14 V
+B SGND (SGND)
+C106484E31
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+NG
+REPAIR OR REPLACE HARNESS OR CONNECTOR (STEERING LOCK ACTUATOR ASSEMBLY -
+BATTERY)

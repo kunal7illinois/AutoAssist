@@ -1,0 +1,22 @@
+CC–32
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+(b) Measure the resistance according to the value(s) in the
+table below.
+Cruise Control Main Switch: + (ACCEL)/RES
+(RESUME)
+ON/OFF
+CANCEL
+- (COAST)/SET
+A
+E106137E06
+Standard resistance
+Tester Connection Switch Condition Specified Condition
+A-1 (CCS) - A-3 (ECC) Neutral 10 kΩ or higher
+A-1 (CCS) - A-3 (ECC) + (ACCEL)/RES (RESUME) 216 to 264 Ω
+A-1 (CCS) - A-3 (ECC) - (COAST)/SET 567 to 693 Ω
+A-1 (CCS) - A-3 (ECC) CANCEL 1,386 to 1,694 Ω
+A-1 (CCS) - A-3 (ECC) Main Switch off 10 kΩ or higher
+A-1 (CCS) - A-3 (ECC) Main Switch on Below 1 Ω
+NG REPLACE CRUISE CONTROL MAIN SWITCH
+CC
+OK

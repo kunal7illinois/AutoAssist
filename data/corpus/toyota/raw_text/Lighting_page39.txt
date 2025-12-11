@@ -1,0 +1,45 @@
+LI–39
+LIGHTING – LIGHTING SYSTEM
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Select the item below in the ACTIVE TEST and then
+check that the relay operates.
+MAIN BODY (MAIN BODY ECU):
+Item Test Details Diagnostic Note
+HEAD RELAY Headlight Relay ON / OFF -
+OK:
+Headlight relay operates. (Low beam headlights
+illuminate.)
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+NG
+2 INSPECT INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY
+(a) Measure the voltage according to the value(s) in the
+Instrument Panel J/B Assembly table below.
+Standard voltage
+ID
+Tester Connection Condition Specified Condition
+ID-3 (HRLY) - Body Light control switch
+10 to 14 V → Below 1 V
+ground OFF → HEAD
+OK Go to step 6
+HRLY
+E121528E01
+NG
+3 CHECK HARNESS AND CONNECTOR (BATTERY - ENGINE ROOM J/B ASSEMBLY)
+(a) Disconnect the 1G engine room J/B assembly connector.
+Wire Harness Side:
+(b) Measure the voltage according to the value(s) in the
+table below.
+LI
+Standard voltage
+Engine Room
+1 1G Tester Connector Condition Specified Condition
+J/B Assembly
+1G - Body ground Always 10 to 14 V
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+B074501E17
+OK
+4 INSPECT ENGINE ROOM J/B BLOCK ASSEMBLY
+(a) Reconnect the 1G engine room J/B assembly connector.

@@ -1,0 +1,55 @@
+Audi TT No. 18 / 6
+Current Flow Diagram
+Convenience CAN bus, high 2, convenience CAN bus, low
+2
+J255 Climatronic control unit
+J387 Front passenger door control unit
+J393 Convenience system central control unit
+J446 Parking aid control unit
+J502 Tyre pressure monitor control unit
+T12m 12-pin connector, brown, in luggage compartment, rear right
+T16c 16-pin connector, brown, connector C, on Climatronic control
+unit
+T16e 16-pin connector, brown, connector A, on parking aid control
+unit
+T18g 18-pin connector, brown, connector A, on convenience system
+B398 B407 central control unit
+T20b 20-pin connector, black, in the front right door
+T20g 20-pin connector, connector A, on front passenger door control
+# #
+✱✱ ✱✱✱ ✱ ✱✱ ✱✱✱ ✱ unit
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+T20h 20-pin connector, red, on tyre pressure monitor control unit 2
+or/gn or/gn or/gn or/gn or/gn or/gn or/gn or/br or/br or/br or/br or/br or/br or/br
+Connection 2 (convenience CAN bus, high), in main wiring
+B398
+4499 5566 harness
+T20h/5 T18g T12m T16e T16c T20h/6 T18g T12m T16e T16c B407 Connection 2 (convenience CAN bus, low), in main wiring
+/9 /7 /14 /13 /10 /8 /7 /12 harness
+J502 J393 J446 J255 J502 J393 J446 J255
+* models with parking aid
+✱✱ ✱ ✱✱ ✱
+** only USA
+*** for models with interface for special functions
+T20b/3 T20b
+# Is dropped from June 2009
+/20
+0,35 0,35
+or/gn or/br
+T20g/8 T20g
+/9
+J387 J387
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70
+or = orange
+8J0-018060409
+rs = pink
+Edition 04.2009

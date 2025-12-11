@@ -1,0 +1,51 @@
+EI–66
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+(2) Waveform 2 (Reference)
+Terminal TXCT (E25-5) - AGND (E25-7)
+Tool Setting 2 V/DIV., 10 ms./DIV.
+Condition Key is in ignition key cylinder
+2. CHECK TRANSPONDER KEY ECU ASSEMBLY
+(a) Disconnect the E15 ECU connector and measure
+the resistance and voltage between each terminal of
+the wire harness side connector.
+GND
+Tool Setting: 2 V/DIV., 10 ms./DIV.
+B139205E01
+E15
+B088367E04
+Terminal
+Symbols (Terminal No.) Wiring Color Condition Specified Condition
+Description
+W-B - Body
+GND (E15-16) - Body ground Ground Always Below 1 Ω
+ground
++B (E15-1) - GND (E15-16) W - W-B Battery Always 10 to 14 V
+Ignition switch OFF Below 1 V
+IG (E15-2) - GND (E15-16) LG - W-B Ignition switch signal
+Ignition switch ON 10 to 14 V
+EI
+Unlock warning No key is in ignition key cylinder 10 kΩ or higher
+KSW (E15-3) - GND (E15-16) B - W-B
+switch signal Key is in ignition key cylinder Below 1 Ω
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(b) Reconnect the E15 ECU connector and measure
+the voltage of each terminal of the connector.
+Terminal
+Symbols (Terminal No.) Wiring Color Condition Specified Condition
+Description
+AGND (E15-5) - Body ground V - Body ground Ground Always Below 1 Ω
+Unlock warning No key is in ignition key cylinder 10 to 14 V
+KSW (E15-3) - GND (E15-16) B - W-B
+switch signal Key is in ignition key cylinder Below 1 V
+No key is in ignition key cylinder Below 1 V
+VC5 (E15-14) - AGND (E15-5) O - V Power source
+Key is in ignition key cylinder 4.6 to 5.4 V
+Transponder key No key is in ignition key cylinder Below 1 V
+TXCT (E15-4) - AGND (E15-5) R - V amplifier
+Key is in ignition key cylinder Waveform 1
+communication signal
+Transponder key No key is in ignition key cylinder Below 1 V
+CODE (E15-15) - AGND (E15-5) BR - V amplifier
+Key is in ignition key cylinder Waveform 2
+communication signal

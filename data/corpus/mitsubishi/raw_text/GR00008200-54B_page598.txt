@@ -1,0 +1,45 @@
+54B-598 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 6. Check the harness wires between the liftgate lock
+key cylinder switch connector F-10 (terminal 1) <ECLIPSE>
+or the trunk lid lock key cylinder switch connector F-10
+(terminal 1) <ECLIPSE SPYDER> and ETACS-ECU
+connector C-117 (terminal 27).
+NOTE: After checking intermediate connector C-90, check the
+CONNECTOR <ECLIPSE>: F-10
+wires. If intermediate connector C-90 is damaged, repair or
+replace it. Refer to GROUP 00E, Harness Connector Inspec-
+tion P.00E-2.
+DEVICE SIDE
+1 2
+AC106489AJ
+CONNECTOR <ECLIPSE SPYDER>: F-10
+DEVICE SIDE
+1 2
+AC106491AG
+CONNECTOR: C-117
+DEVICE SIDE
+21 22 23242526272829
+30 31 32333435363738
+39 40 41 424344
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AB
+Q:Are the harness wires between the liftgate lock key
+CONNECTOR: C-90
+cylinder switch connector F-10 (terminal 1) <ECLIPSE>
+CONNECTOR BLOCK (LH)
+or the trunk lid lock key cylinder switch connector F-10
+(terminal 1) <ECLIPSE SPYDER> and ETACS-ECU
+connector C-117 (terminal 27) in good condition?
+YES : Replace the ETACS-ECU. When the theft-alarm
+system operates normally, check that the signal is
+1 2 3 4 5 6 7 8 9 input normally from the liftgate lock key cylinder
+1011121314 15 161718192021
+switch <ECLIPSE> or the trunk lid lock key cylinder
+2223242526 27 2829 30313233
+34353637 38 3940 414243 switch <ECLIPSE SPYDER>.
+AC106477AE NO : Repair them.When the theft-alarm system operates
+normally, check that the signal is input normally from
+the liftgate lock key cylinder switch <ECLIPSE> or the
+TSB Revision

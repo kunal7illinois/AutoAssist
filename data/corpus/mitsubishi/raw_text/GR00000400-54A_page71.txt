@@ -1,0 +1,40 @@
+CHASSIS ELECTRICAL 54A-71
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 39. Check the sensor output voltage at output shaft
+speed sensor connector B-38.
+(1) Disconnect connector B-38 and measure at the harness
+CONNECTOR: B-38
+side.
+(2) Turn the ignition switch to "ON" position.
+AC101972AC
+(3) Measure the voltage between terminal 2 and ground.
+HARNESS
+• The measured value should be between 4.9 and 5.1
+CONNECTOR: B-38
+volts.
+(4) Turn the ignition switch to "LOCK" (OFF) position.
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 40.
+NO : Repair it because of harness open circuit between
+output shaft speed sensor connector B-38 terminal 2
+and PCM connector C-61 <2.4L-A/T>, C-63 <3.0L-A/
+T> terminal 104.
+AC101974AC
+STEP 40. Check the power supply voltage at output shaft
+speed sensor connector B-38.
+(1) Disconnect connector B-38 and measure at the harness
+CONNECTOR: B-38
+side.
+(2) Turn the ignition switch to "ON" position.
+AC101972AC
+(3) Measure the voltage between terminal 3 and ground.
+HARNESS
+• The measured value should be 12 volts (battery positive
+CONNECTOR: B-38
+voltage).
+(4) Turn the ignition switch to "LOCK" (OFF) position.
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 43.
+NO : Go to Step 41.
+AC101975AC
+TSB Revision

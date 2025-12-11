@@ -1,0 +1,26 @@
+Sound systems
+Basic sound (standard equipment with chorus radio)
+The Audi TT Coupé ’07 is equipped as standard with a two-way loudspeaker system.
+The treble loudspeakers are installed in the dash panel, while the bass loudspeakers are installed the front
+doors. This variant is only available in combination with the standard chorus radio.
+The 2x 20 watt amplifier is also integrated in the chorus radio.
+The loudspeakers are diagnosed via the radio, i.e. via address word 56.
+R22
+R23
+R20
+R21
+382_050
+R
+R20 R21 R22 R23
+382_057
+Legend
+J525 Digital sound package control unit R104 Front right mid-range loudspeaker
+R Radio R105 Rear left mid-range loudspeaker
+R14 Rear left treble loudspeaker R106 Rear right mid-range loudspeaker
+R16 Rear right treble loudspeaker R148 Centre loudspeaker (subwoofer)
+R20 Front left treble loudspeaker R158 Mid-range/treble loudspeaker, centre
+R21 Bass loudspeaker, front left R159 Mid-range/treble loudspeaker, rear left
+R22 Front right left treble loudspeaker R160 Mid-range/treble loudspeaker, rear right
+R23 Bass loudspeaker, front right R164 Microphone unit in front roof module
+R103 Front left mid-range loudspeaker
+47

@@ -1,0 +1,37 @@
+BC–147
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+(4) As an example, the illustration below shows the
+blinking patterns of the normal system code and
+trouble codes 11 and 21 for ABS and VSC
+(models without multi information display)
+warning lights or display of the normal system
+code and trouble code 43 for the VSC on the
+multi information display (models with multi
+information display).
+Blinking Pattern in Normal System Code: Blinking Pattern in Trouble Code
+(Example Codes 11 and 21):
+0.25 sec. 2.5 sec. 0.5 sec.
+0.25 sec. 1.5 sec. 0.5 sec.
+2 sec. 4 sec.
+4 sec. Repeat
+ON ON
+BC
+OFF OFF
+Code 11 Code 21
+Display of Normal System Code: Display of Trouble Code (Example Code 43):
+C135804E02
+(5) The codes are explained in the code table (See
+page BC-151).
+(6) After completing the check, disconnect terminals
+TC and CG of the DLC3, and turn off the display.
+If 2 or more DTCs are detected at the same
+time, the DTCs will be displayed in ascending
+order.
+(b) Clear the DTC.
+DLC3:
+CG (1) Using SST, connect terminals TC and CG of the
+DLC3.
+SST 09843-18040
+(2) Turn the ignition switch on (IG).
+TC
+G022986E01

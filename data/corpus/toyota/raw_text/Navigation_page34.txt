@@ -1,0 +1,36 @@
+NS–34
+NAVIGATION – NAVIGATION SYSTEM
+DIAGNOSIS DISPLAY DETAILED
+DESCRIPTION
+HINT:
+• This section contains a detailed description of displays
+within diagnostic mode.
+• Illustrations may differ from the actual vehicle depending
+on the device settings and options. Therefore, some
+detailed areas may not be shown exactly the same as on
+the actual vehicle.
+1. SYSTEM CHECK
+(a) System Check Mode Screen
+*2
+*1 *2 *3 *1 *4
+I100055E08
+(1) Device Names and Hardware Address/*1
+HINT:
+• Registered device names are displayed.
+• If a device name is unknown to the system,
+its physical address is shown instead.
+Address No. Name Address No. Name
+110 EMV 120 AVX
+128 1DIN TV 140 AVN
+144 G-BOOK 178 NAVI
+17C MONET 190 AUDIO H/U
+1AC CAMERA-C 1B0 Rr-TV
+NS
+1C0 Rr-CONT 19D BT-HF
+1C4 PANEL 1C6 G/W
+1C8 FM-M-LCD 1D8 CONT-SW
+1EC Body 118 EMVN
+1F1 XM 1F2 SIRIUS
+230 TV-TUNER 240 CD-CH2
+250 DVD-CH 280 CAMERA
+360 CD-CH1 3A0 MD-CH

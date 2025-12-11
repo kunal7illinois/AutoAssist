@@ -1,0 +1,34 @@
+DL–145
+DOOR LOCK – SMART KEY SYSTEM
+4 INSPECT COMMUNICATION FUNCTION OF CAN COMMUNICATION SYSTEM
+(a) Use the intelligent tester to check if the CAN
+Communication System is functioning normally (See
+page CA-8).
+Result
+Result Proceed to
+CAN DTC is not output A
+CAN DTC is output B
+B GO TO CAN COMMUNICATION SYSTEM
+A
+5 CHECK FOR DTC
+(a) Check for DTCs and note any codes that are output (See
+page DL-156).
+(b) Delete the DTCs.
+(c) Recheck for DTCs.
+Result
+Result Proceed to
+DTC does not reoccur A
+DTC reoccurs B
+B GO TO DIAGNOSTIC TROUBLE CODE
+CHART
+A
+6 PROBLEM SYMPTOMS TABLE
+NEXT
+7 OVERALL ANALYSIS AND TROUBLESHOOTING
+DL
+(a) On-vehicle inspection (See page DL-160)
+(b) DATA LIST/ACTIVE TEST (See page DL-156)
+(c) Terminals of ECU (See page DL-150)
+NEXT
+8 REPAIR OR REPLACEMENT
+NEXT

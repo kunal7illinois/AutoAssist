@@ -1,0 +1,38 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-263
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Check the power supply voltage at ECM connector
+C-49 <M/T> or PCM connector C-50 <A/T> by backprobing.
+(1) Do not disconnect the connector C-49 <M/T> or C-50 <A/
+T>.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 6 and ground by
+<M/T>
+backprobing.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+1 2 3 4 5 6 7 8 910111213 Q:Is the voltage normal?
+14151617181920212223242526
+YES : Go to Step 9.
+C-49 CONNECTOR NO : Go to Step 7.
+HARNESS SIDE VIEW
+AK000298AC
+<A/T>
+1 2 3 4 5 6 7 8
+9 1011121314151617181920212223
+24 25 26272829 30313233 3435
+C-50 CONNECTOR
+HARNESS SIDE VIEW
+AK000299AD
+STEP 7. Check connector C-49 at ECM <M/T> or connector
+C-50 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-49<M/T>,C-50<A/T>
+YES : Go to Step 8.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 12.
+OR
+PCM<A/T>
+C-49,C-50
+AK000280BC
+TSB Revision

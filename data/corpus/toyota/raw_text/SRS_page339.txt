@@ -1,0 +1,39 @@
+RS–337
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+WIRING DIAGRAM
+Occupant Classification ECU
+(*2)
+3 5 1 1
+(*1) (*1)
+EO2 OT1 T10 O4 B+
+(*1) (*2)
+2 6 7 7
+(*1) (*1)
+EO2 OT1 T10 O4 IG
+(*1) (*2)
+(*2)
+IGN
+From Ignition Switch
+ECU-B No. 1
+From Battery
+J/C
+10 5 3 3 3
+(*1)
+EO2 O20 T18 T10 O4 GND
+(*2) (*1) (*2)
+3
+O21
+*1: for Power Seat J/C RS
+*2: for Manual Seat
+C123750E01
+INSPECTION PROCEDURE
+1 CHECK BATTERY
+(a) Measure the voltage of the battery.
+Standard voltage:
+11 to 14 V
+NG REPLACE BATTERY
+OK
+2 CHECK FUSE
+(a) Check the ECU-B fuse.
+Standard resistance:
+Below 1 Ω

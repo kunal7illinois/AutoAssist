@@ -1,0 +1,38 @@
+ES–289
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• If the speedometer does not operate, check it by
+following the procedure described in speedometer
+malfunction.
+NG GO TO SPEEDOMETER CIRCUIT
+OK
+2 READ VALUE OF INTELLIGENT TESTER (VEHICLE SPEED)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY / VEHICLE
+ES
+SPD.
+(e) Drive the vehicle.
+(f) Read the value displayed on the tester.
+OK:
+Vehicle speeds displayed on tester and
+speedometer display are equal.
+NG CHECK INTERMITTENT PROBLEMS
+OK
+3 CHECK COMBINATION METER ASSEMBLY (+S VOLTAGE)
+(a) Disconnect the F2 combination meter connector.
+Wire Harness Side:
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage between the terminal of the
+combination meter and body ground.
+Standard voltage
+F2
+Tester Connection Specified Condition
+F2-12 (+S) - Body ground 4.5 to 5.5 V
++S
+Combination Meter Connector
+(d) Reconnect the combination meter connector.
+A132286E01
+NG Go to step 5
+OK

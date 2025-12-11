@@ -1,0 +1,42 @@
+ES–100
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+The ECM optimizes the valve timing using the VVT system to control the exhaust camshaft. The VVT
+system includes the ECM, the OCV and the VVT controller. The ECM sends a target duty-cycle control
+signal to the OCV. This control signal regulates the oil pressure supplied to the VVT controller. The VVT
+controller can advance or retard the exhaust camshaft.
+After the ECM sends the target duty-cycle signal to the OCV, the ECM monitors the OCV current to
+establish an actual duty-cycle. The ECM determines the existence of a malfunction and sets the DTC
+when the actual duty-cycle ratio varies from the target duty-cycle ratio.
+MONITOR STRATEGY
+P0013: VVT OCV (bank 1) open/short
+Related DTCs
+P0023: VVT OCV (bank 2) open/short
+Required sensors / components (Main) VVT OCV (Variable Valve Timing oil control valve)
+ES
+Required sensors / components (Sub) -
+Frequency of operation Continuous
+Duration 1 second
+MIL operation Immediate
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs are not present None
+All of the following conditions are met: -
+Starter OFF
+Engine switch ON
+Time after engine switch off to on 0.5 seconds or more
+TYPICAL MALFUNCTION THRESHOLDS
+One of the following conditions is met: Condition A, B or C
+A. All of the following conditions are met: -
+Battery voltage 11 to 13 V
+Target duty ratio Less than 70%
+Output signal duty ratio 100 %
+B. All of the following conditions are met: -
+Battery voltage 13 V or more
+Target duty ratio Less than 80%
+Output duty ratio 100 %
+C. All of the following conditions are met: -
+Current cut status Not cut
+Output signal duty ratio 3% or less
+COMPONENT OPERATING RANGE
+VVT duty ratio More than 3, and less than 100 %

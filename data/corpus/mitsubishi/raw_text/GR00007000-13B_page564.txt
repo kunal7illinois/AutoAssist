@@ -1,0 +1,50 @@
+13B-564 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Using scan tool MB991502, check data list.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items of the data list. Refer to, Data List
+Reference Table P.13B-640.
+a. Item 39: Right Bank Heated Oxygen Sensor (front).
+b. Item 11: Left Bank Heated Oxygen Sensor (front).
+• Voltage should fluctuate between 0 − 0.4 volts and 0.6 −
+1.0 volts while idling after the engine has been warmed.
+16 PIN (3) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 Q:Is the sensor operating properly?
+AKX01177AB
+YES : Go to Step 12.
+NO : Go to Step 11.
+STEP 11. Check the fuel pressure.
+Refer to, Fuel Pressure Test P.13B-680.
+Q:Is the fuel pressure normal?
+YES : a. Check the following items, and repair or replace
+the defective items.
+• Vacuum leak.
+• Broken intake manifold gasket.
+• Broken air intake hose.
+• Broken vacuum hose.
+• Positive crankcase ventilation valve does not
+operate.
+b. Injector clogged.
+Then confirm that the malfunction symptom is
+eliminated.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+STEP 12. Check the ignition timing.
+Refer to GROUP 11C, On-vehicle Service − Ignition Timing
+Check P.11C-5.
+Q:Is the ignition timing normal?
+YES : Check the following items, and repair or replace the
+defective items.
+a. Check the ignition coil, spark plugs, spark plug
+cables.
+b. Check the purge control system.
+c. Check compression pressure.
+d. Check if the foreign materials (water,
+kerosene, etc.) got into fuel.
+e. Check the EGR control system.
+Then confirm that the malfunction symptom is
+eliminated.
+NO : Check that the crankshaft position sensor and timing
+belt cover are in the correct position. Then confirm
+that the malfunction symptom is eliminated.
+TSB Revision

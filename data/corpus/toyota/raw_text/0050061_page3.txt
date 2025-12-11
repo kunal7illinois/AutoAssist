@@ -1,0 +1,28 @@
+ES–375
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(c) Measure the resistance between the terminal of the IG2
+relay.
+Standard resistance
+Tester Connections Specified Conditions
+3 - 5 10 kΩ or higher
+Below 1 Ω
+(When battery voltage is applied to
+terminals 1 and 2)
+(d) Reinstall the relay.
+B016200
+NG REPLACE RELAY
+OK
+ES
+3 CHECK HARNESS AND CONNECTOR (ECM - BODY GROUND)
+(a) Disconnect the B30 ECM connector.
+Wire Harness Side: (b) Measure the resistance.
+Standard resistance
+Tester Connection Specified Condition
+B30 ECM Connector
+B30-104 (E1) - Body ground Below 1 Ω
+(c) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E1
+A107892E36
+OK

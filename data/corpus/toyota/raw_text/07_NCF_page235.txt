@@ -1,0 +1,30 @@
+CHASSIS - U660E AUTOMATIC TRANSAXLE CH-71
+11. AI (Artificial Intelligence)-Shift Control
+General
+AI-SHIFT control enables the ECT ECU to estimate the road conditions and the driver’s intention in order
+to automatically control the shift pattern in the optimal manner. As a result, a comfortable ride has been
+achieved.
+Input Signal
+AI-SHIFT Basic Shift
+Pattern Control
+Road Condition
+Sensor Signal Uphill/Downhill Driving
+(cid:3) Throttle Smaller Estimating the Grade
+Opening Angle
+Road Condition
+(cid:3) Vehicle Speed Greater
+Support Control
+(cid:3) Engine Speed
+: Criterion Acceleration
+(cid:3) Brake Signal
+: Actual Acceleration
+Driver’s Intention
+Calculation by ECU
+(cid:3) Acceleration
+Vehicle
+Pedal Operation Estimating the
+Acceleration Driver’s Intention
+(cid:3) Vehicle Driver’s Intention
+Support Control
+Condition
+00MCH14Y

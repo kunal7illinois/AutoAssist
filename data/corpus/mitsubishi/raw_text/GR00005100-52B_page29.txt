@@ -1,0 +1,48 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-29
+SRS AIR BAG DIAGNOSIS
+STEP 7. Check harness between the SRS-ECU and the
+clock spring for short circuit.
+(1) Disconnect SRS-ECU connector C-72.
+CONNECTOR: C-72
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH)AC000358AD
+CAUTION
+To release the short bar in the SRS-ECU connector, dis-
+CONNECTOR: C-85
+connect connector C-85 to short the squib circuit.
+CLOCK
+(2) Disconnect the clock spring connector C-85.
+SPRING
+AC106436AC
+CAUTION
+Insert an insulator such as a cable tie to a depth of 4mm
+C-72 SRS-ECU CONNECTOR (0.16 inch) or more, otherwise the short bar will not cable
+(HARNESS SIDE) FRONT VIEW
+tie release.
+(3) Insert a cable tie [3 mm (0.12 inch) wide, 0.5 mm (0.02 inch)
+TERMINAL
+SECTION thick] between terminals 7, 8 and the short bar to release
+A - A CABLE TIE
+the short bar.
+(4) Measure at the wiring harness side.
+CAUTION
+Do not insert a test probe into the terminal from its front
+SHORT BAR side directly as the connector contact pressure may be
+4 mm (0.16 inch) OR MORE AC100391AF
+weakened.
+(5) Check the continuity between terminals 7 and 8.
+• There should be open circuit.
+Q:Is the continuity normal?
+YES : Erase the DTC memory, and recheck if any DTC sets.
+If DTC 21 sets, replace the SRS-ECU. Refer to
+P.52B-142. Then go to Step 9.
+NO : Go to Step 8.
+TSB Revision
+A
+A
+C-72 CONNECTOR
+(HARNESS SIDE) REAR VIEW
+1 2 3 4 5 6 7 8
+9 10111213141516
+AC106566AB

@@ -1,0 +1,41 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-589
+ON-VEHICLE SERVICE
+4. Connect the positive (+) terminal of a power supply
+(approximately 6 volts) to terminal 2 and the terminal 5.
+5. Connect the negative (−) terminal of the power supply to
+each clip as described in the following steps. Then check
+whether or not the stepper motor vibrates slightly as it
+TERMINAL 2 operates.
+IAC MOTOR (1) Connect the negative terminal of the power supply to
+TERMINAL 5
+terminal 1 and terminal 4.
+(2) Connect the negative terminal of the power supply to
+MB991709 AKX01627AB terminal 3 and terminal 4.
+(3) Connect the negative terminal of the power supply to
+terminal 3 and terminal 6.
+(4) Connect the negative terminal of the power supply to
+terminal 1 and terminal 6.
+(5) Connect the negative terminal of the power supply to
+terminal 1 and terminal 4.
+(6) Repeat the tests in sequence from (5) to (1) to test
+opposite movement of the IAC.
+6. If vibration is detected during the test, the stepper motor can
+be considered to be normal.
+AKX01626
+EVAPORATIVE EMISSION PURGE SOLENOID
+CHECK
+M1131005600057
+Refer to GROUP 17, Emission Control System − Evaporative
+Emission Control System − Evaporative Emission Purge Sole-
+noid Check P.17-101.
+EGR SOLENOID CHECK
+M1131005700054
+Refer to GROUP 17, Emission Control System − Exhaust Gas
+Recirculation (EGR) System − EGR Solenoid Check P.17-109.
+EVAPORATVE EMISSION VENTILATION
+SOLENOID CHECK
+M1131012800031
+Refer to GROUP 17, Emission Control System − Evaporative
+Emission Canister and Fuel Tank Pressure Relief Valve − Fuel
+Tank Pressure Relief Valve Inspection P.17-111.
+TSB Revision

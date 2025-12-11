@@ -1,0 +1,27 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-165
+SYMPTOM PROCEDURES
+SUNROOF
+GENERAL DESCRIPTION CONCERNING SUNROOF
+M1549021200018
+The following ECUs affect the functions and control
+of the sunroof.
+Function Control ECU
+Sunroof timer function ETACS-ECU, sunroof motor assembly
+SUNROOF TIMER FUNCTION
+When the ignition switch is turned from "ON" position to
+ON "LOCK" (OFF) or "ACC" position, the sunroof will be ready to
+Ignition
+switch work for 30 seconds. If any door is opened during that 30 sec-
+OFF
+onds, the sunroof will be immobilized at that point.
+ON
+Door (Open)
+Switch OFF
+(Closed)
+Possible
+Sunroof
+operation
+Impossible
+30 s
+AC106227AC
+TSB Revision

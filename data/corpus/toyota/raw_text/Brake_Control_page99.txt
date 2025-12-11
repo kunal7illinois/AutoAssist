@@ -1,0 +1,33 @@
+BC–99
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+B REPAIR CAN COMMUNICATION SYSTEM
+(See page CA-8)
+A
+2 INSPECT BRAKE WARNING LIGHT
+HINT:
+When disconnecting the skid control ECU connector, the
+brake warning light comes on.
+(a) Turn the ignition switch off.
+(b) Disconnect the skid control ECU connector.
+(c) Turn the ignition switch on (IG).
+(d) Check that the brake warning light comes on.
+OK:
+The brake warning light comes on.
+NG Go to step 3 BC
+OK
+REPLACE BRAKE ACTUATOR ASSEMBLY (See page BC-432)
+3 INSPECT COMBINATION METER ASSEMBLY
+(a) Connect the intelligent tester to the DLC3.
+(b) Select the "ACTIVE TEST" on the tester (See page BC-
+25).
+ACTIVE TEST: METER
+Item Vehicle Condition / Test Details Diagnostic Note
+BRAKE WARN LIGHT Turn brake warning light ON / OFF Observe combination meter
+(c) Check the ABS warning light operation.
+OK:
+The BRAKE warning light turns on or off in
+accordance with the intelligent tester.
+NG REPLACE COMBINATION METER
+ASSEMBLY (See page ME-63)
+OK
+REPLACE BRAKE ACTUATOR ASSEMBLY (See page BC-432)

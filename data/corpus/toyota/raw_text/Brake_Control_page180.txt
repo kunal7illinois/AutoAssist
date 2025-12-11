@@ -1,0 +1,28 @@
+BC–174
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+8 CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU - REAR SPEED SENSOR)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU Harness Side (b) Measure the resistance according to the value(s) in the
+Connector Front View: table below.
+Standard resistance:
+RH
+A26 RR+ RL-
+Tester Connection Condition Specified Condition
+A26-5 (RR+) - f1-1 (RR+) Always Below 1 Ω
+A26-5 (RR+) - Body ground Always 10 kΩ or higher
+A26-19 (RR-) - f1-2 (RR-) Always Below 1 Ω
+A26-19 (RR-) - Body ground Always 10 kΩ or higher
+RR- RL+ LH
+Tester Connection Condition Specified Condition
+Rear Speed Sensor Harness Side
+Connector Front View: A26-20 (RL+) - g1-1 (RL+) Always Below 1 Ω
+BC
+A26-20 (RL+) - Body ground Always 10 kΩ or higher
+A26-6 (RL-) - g1-2 (RL-) Always Below 1 Ω
+A26-6 (RL-) - Body ground Always 10 kΩ or higher
+f1 g1
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+RR- RR+ RL- RL+
+C136020E01
+OK

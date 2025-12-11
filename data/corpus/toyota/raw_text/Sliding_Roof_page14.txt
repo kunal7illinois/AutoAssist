@@ -1,0 +1,55 @@
+RF–14
+SLIDING ROOF – SLIDING ROOF SYSTEM
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+Fail: Sliding roof close signal
+Close switch failure signal failure (Current)
+CURRENT CLS SW -
+(Current)/Fail or Not Fail Not Fail: Sliding roof close signal
+not fail (Current)
+Fail: Sliding roof open signal
+Open switch failure signal failure (Current)
+CURRENT OPN SW -
+(Current)/Fail or Not Fail Not Fail: Sliding roof open signal
+not fail (Current)
+Fail: Sliding roof tilt down signal
+Down switch failure signal (Past)/ failure (Past)
+PAST DOWN SW -
+Fail or Not Fail Not Fail: Sliding roof tilt down
+signal not fail (Past)
+Fail: Sliding roof tilt up signal
+Up switch failure signal (Past)/ failure (Past)
+PAST UP SW -
+Fail or Not Fail Not Fail: Sliding roof tilt up signal
+not fail (Past)
+Fail: Sliding roof close signal
+Close switch failure signal (Past)/ failure (Past)
+PAST CLS SW -
+Fail or Not Fail Not Fail: Sliding roof close signal
+RF not fail (Past)
+Fail: Sliding roof open signal
+Open switch failure signal (Past)/ failure (Past)
+PAST OPN SW -
+Fail or Not Fail Not Fail: Sliding roof open signal
+not fail (Past)
+#CODE Number of trouble code Number of trouble code -
+2. PERFORM ACTIVE TEST
+HINT:
+Performing the intelligent tester's Active Test allows
+relay, VSV, actuator and other items to be operated
+without removing any parts. Performing the Active Test
+early in troubleshooting is one way to save time. The
+Data List can be displayed during the Active Test.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Perform the Active Test according to the display on
+the tester.
+SLIDE ROOF:
+Item Test Details Diagnostic Note
+Operate sliding roof SLIDE CLOSE/TILT UP
+SLIDE ROOF CLOS/UP: Sliding roof SLIDE CLOSE or TILT UP operation occurs. -
+OFF: Sliding roof is not operating
+Operate sliding roof SLIDE OPEN/TILT DOWN
+SLIDE ROOF OPEN/DWN: Sliding roof SLIDE OPEN or TILT DOWN operation occurs -
+OFF: Sliding roof is not operating

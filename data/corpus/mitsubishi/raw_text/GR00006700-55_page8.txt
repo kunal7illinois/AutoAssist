@@ -1,0 +1,48 @@
+55-8 HEATING AND AIR CONDITIONING
+MANUAL A/C DIAGNOSIS
+STEP 6. Check the A/C switch continuity.
+Follow the table below to check the A/C switch for continuity.
+OFF
+ON
+BLOWER SWITCH TESTER CONNECTION SPECIFIED
+SWITCH POSITION (CONNECTOR B) CONDITION
+ASSEMBLY
+OFF 5 − 6 Open circuit
+ON 5 − 6 Less than 2 ohm
+Q:Is the A/C switch continuity in good condition?
+YES : Go to Step 7.
+AC001370AB
+NO : Replace. Then go to Step 11.
+STEP 7. Check the blower switch continuity.
+Follow the table below to check the blower switch for continuity.
+BLOWER SWITCH SWITCH TESTER CONNECTION SPECIFIED
+ASSEMBLY POSITION (CONNECTOR A) CONDITION
+0 (OFF) 1 − 3, 3 − 4, 3 − 5, 3 − 6 Open circuit
+1 (LO) 3 − 5 Less than 2 ohm
+2 (ML) 1 − 3 Less than 2 ohm
+3 (MH) 3 − 6 Less than 2 ohm
+AC001371AB
+4 (HI) 3 − 4 Less than 2 ohm
+Q:Is the blower switch continuity in good condition?
+YES : Go to Step 8.
+NO : Replace. Then go to Step 11.
+STEP 8. Check the refrigerant-temperature switch
+operation.
+When the A/C is off, check that there is less than 2 ohm
+between the refrigerant-temperature switch terminals.
+Q:Is the refrigerant-temperature switch in good condition?
+YES : Go to Step 9.
+NO : If the switch has an open circuit, replace the switch.
+Then go to Step 11.
+REFRIGERANT
+TEMPERATURE
+SWITCH TERMINALS
+AC001372AB
+STEP 9. Measure the automatic compressor controller
+terminal voltage.
+Refer to P.55-22.
+Q:Is the automatic compressor controller terminal voltage
+good?
+YES : Go to Step 10.
+NO : Replace. Then go to Step 11.
+TSB Revision

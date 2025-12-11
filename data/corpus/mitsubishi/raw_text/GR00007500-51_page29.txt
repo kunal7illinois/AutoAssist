@@ -1,0 +1,46 @@
+EXTERIOR 51-29
+DOOR MIRROR
+INSPECTION
+M1511019100211
+ELECTRIC REMOTE CONTROL MIRROR
+OPERATION CHECK
+Check that the mirror moves as described in the table when
+each terminal is connected to the battery.
+DIRECTION TESTER SPECIFIED
+OPERATION CONNECTION CONDITION
+Up • Connect terminal 3 Less than 2
+to the negative ohm
+battery terminal
+• Connect terminal 1
+to the positive
+battery terminal
+AC001681 Down • Connect terminal 1 Less than 2
+to the negative ohm
+battery terminal
+• Connect terminal 3
+to the positive
+battery terminal
+Right • Connect terminal 3 Less than 2
+to the negative ohm
+battery terminal
+• Connect terminal 2
+to the positive
+battery terminal
+Left • Connect terminal 2 Less than 2
+to the negative ohm
+battery terminal
+• Connect terminal 3
+to the positive
+battery terminal
+DOOR MIRROR CONTROL SWITCH CHECK
+SWITCH POSITION TESTER SPECIFIED
+CONNECTION CONDITION
+1 2 3 4 Left side Up 4 − 8, 6 − 7 Less than 2 ohm
+5 6 7 8 9 Down 4 − 7, 6 − 8 Less than 2 ohm
+Right 3 − 6, 4 − 7 Less than 2 ohm
+Left 3 − 4, 6 − 7 Less than 2 ohm
+AC001682 Right side Up 2 − 4, 6 − 7 Less than 2 ohm
+Down 2 − 6, 4 − 7 Less than 2 ohm
+Right 4 − 7, 6 − 9 Less than 2 ohm
+Left 4 − 9, 6 − 7 Less than 2 ohm
+TSB Revision

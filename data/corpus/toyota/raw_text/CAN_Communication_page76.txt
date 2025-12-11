@@ -1,0 +1,42 @@
+CA–76
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+6 CHECK FOR OPEN IN CAN BUS MAIN WIRE (ECM CAN MAIN BUS WIRE)
+(a) Reconnect the CAN main bus wire connector (A40) to
+ECM Connector (Front View):
+the No. 2 CAN J/C (front of the vehicle).
+(b) Disconnect the ECM connector.
+A24 *1 (c) Measure the resistance according to the value(s) in the
+A55 *2 table below.
+CANH
+Standard resistance:
+2AZ-FE
+*1: 2AZ-FE Tester Connection Condition Specified Value
+CANL
+*2: 2GR-FE A24-38 (CANH) - A24-46
+Ignition switch off 108 to 132 Ω
+G100098E13 (CANL)
+2GR-FE
+Tester Connection Condition Specified Value
+A55-38 (CANH) - A55-46
+Ignition switch off 108 to 132 Ω
+(CANL)
+CA OK REPLACE ECM
+NG
+REPAIR OR REPLACE CAN BUS MAIN WIRE OR CONNECTOR (NO. 2 CAN J/C - ECM)
+7 CHECK FOR OPEN IN CAN BUS MAIN WIRE (COMBINATION METER - NO. 1 CAN J/C)
+(a) Reconnect the CAN main bus wire connector (E43) to
+Combination Meter Connector
+the No. 1 CAN J/C "B" side (without earth terminal).
+(Wire Harness Side View):
+(b) Disconnect the combination meter connector (F1).
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Value
+F1 F1-17 (CANH) - F1-18 (CANL) Ignition switch off 108 to 132 Ω
+OK REPLACE COMBINATION METER
+CANL CANH
+C133243E01
+NG
+REPAIR OR REPLACE CAN BUS MAIN WIRE OR CONNECTOR (NO. 1 CAN J/C - COMBINATION
+METER)

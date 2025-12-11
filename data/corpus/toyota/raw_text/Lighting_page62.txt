@@ -1,0 +1,35 @@
+LI–62
+LIGHTING – LIGHTING SYSTEM
+3 CHECK HARNESS AND CONNECTOR (LIGHT - BATTERY AND INSTRUMENT PANEL J/B
+ASSEMBLY)
+(a) Disconnect the E25 transponder key amplifier connector
+Wire Harness Side:
+(*1).
+(b) Disconnect the Q9 rear room light assembly connector.
+Transponder Key Amplifier (*1)
+(c) Disconnect the IR and II instrument panel J/B assembly
+connectors.
+(d) Measure the voltage and resistance according to the
+E25 value(s) in the table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+Rear Room Light Assembly E25-2 - Body ground (*1) Always 10 to 14 V
+Q9-1 - Body ground Always 10 to 14 V
+Standard resistance
+Q9
+Tester Connection Condition Specified Condition
+II-10 - E25-6 (*1) Always Below 1 Ω
+Instrument Panel J/B Assembly IR-5 - Q9-2 Always Below 1 Ω
+II-10 - Body ground Always 10 kΩ or higher
+IR-5 - Body ground Always 10 kΩ or higher
+HINT:
+IR
+*1: without Smart Key System
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Instrument Panel J/B Assembly
+II
+E121508E01
+LI
+OK
+REPLACE INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY

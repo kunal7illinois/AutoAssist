@@ -1,0 +1,31 @@
+CH-32 CHASSIS - U250E AUTOMATIC TRANSAXLE
+9. Diagnosis
+(cid:3) When the ECM detects a malfunction, the ECM makes a diagnosis and memorizes the information related
+to the fault. Furthermore, the MIL (Malfunction Indicator Lamp) in the combination meter illuminates or
+blinks to inform the driver of the malfunction.
+(cid:3) At the same time, the DTC (Diagnosis Trouble Code) are stored in the memory. The DTC can be read by
+connecting a hand-held tester.
+(cid:3) For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).
+Service Tip
+The ECM uses the CAN protocol for diagnostic communication. Therefore, a hand-held tester and
+a dedicated adapter [CAN VIM (Vehicle Interface Module)] are required for accessing diagnostic
+data. For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).
+10. Fail-safe
+This function minimizes the loss of operation when any abnormality occurs in a sensor or solenoid.
+(cid:1) Fail-safe Control List (cid:2)
+Malfunction Part Function
+During a speed sensor malfunction, the vehicle speed is detected
+Speed Sensor through the signals from the counter gear speed sensor to effect normal
+control.
+During a counter gear speed sensor malfunction, 5th upshift is
+Counter Gear Speed Sensor
+prohibited.
+During a ATF temperature sensor malfunction, 5th upshift is
+ATF Temp. Sensor
+prohibited.
+The current to the failed solenoid valve is cut off and control is effected
+by operating other solenoid valves with normal operation.
+SSoolleennooiidd VVaallvvee SShhiifftt ccoonnttrrooll iiss eeffffeecctteedd aass ddeessccrriibbeedd iinn tthhee ttaabbllee iinn tthhee nneexxtt ppaaggee,,
+SL1, SL2, SL3, and S4 depending on the failed solenoid.
+Even if the engine starts under this condition, the gear position remains
+where it was before.

@@ -1,0 +1,24 @@
+EI–63
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+5. ECU COMMUNICATION ID REGISTRATION
+NOTICE:
+• The ECU communication ID should be registered
+when the transponder key ECU and/or the ECM is
+replaced in order to match it to the ECM
+communication ID.
+• The SFI system cannot be started unless the ECM
+communication ID matches.
+(a) ECU communication ID registration (Procedure
+"C"):
+Register the ECU communication ID, after the
+transponder key ECU and/or the ECM is replaced.
+CG
+TC
+SST
+B139171E01
+(1) Using SST, connect terminals TC and CG of
+the DLC3.
+SST 09843-18040
+(2) Turn the ignition switch to the ON position and
+leave the vehicle as is for 30 minutes.
+(3) Check that the engine starts. EI

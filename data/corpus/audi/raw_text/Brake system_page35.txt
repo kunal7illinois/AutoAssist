@@ -1,0 +1,30 @@
+Audi TT 2007 ➤
+Brake system - Edition 04.2009
+♦ Brake pressure sender 1 -G201-
+♦ Longitudinal acceleration sender -G251- (only on four-wheel
+drive vehicles)
+To do this, use vehicle diagnosis, testing and information system
+-VAS 505x- .
+– Select on the display:
+♦ Running gear
+♦ Brake system
+♦ 01 - Self-diagnosis compatible systems
+♦ 03 - Brake electronics ABS/ESP Mark 60
+– Select required function on the display.
+♦ J104 - Control unit for ABS/TCS/ESP Mark 60
+♦ J104 - Control unit for ABS/TCS/ESP, Functions
+– Then carry out ESP road test and system test.
+WARNING
+Before driving vehicle for the first time, make sure function of
+brakes is OK.
+6.2 Removing and installing control unit -
+J104- with hydraulic unit -N55- (TT RS)
+Caution
+ABS control unit -J104- and ABS hydraulic unit -N55- must not
+be separated.
+Removing hydraulic unit with control unit
+– Read out control unit version and note down.
+– Disconnect battery ⇒ Electrical system; Rep. Gr. 27 (note
+radio code).
+29
+6. TFSI engine: ABS control unit -J104- and ABS hydraulic unit -N55-

@@ -1,0 +1,27 @@
+DL–17
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Door control switch
+(Master switch or
+Door lock motor UNLOCK Below 1 V →
+passenger side switch) or
+ACT- (IJ-2) - Body ground LG - Body ground drive output (Front 10 to 14 V →
+driver side door key
+passenger) Below 1 V
+cylinder OFF → UNLOCK
+→ OFF
+Below 1 V →
+Rear right door lock Rear right door UNLOCK
+LSWR (*2) (E6-5) - Body ground V - Body ground 10 to 14 V (or pulse
+position switch input → LOCK
+generation)
+Below 1 V →
+Passenger door lock Passenger door UNLOCK
+LSWP (E6-27) - Body ground LG - Body ground 10 to 14 V (or pulse
+position switch input → LOCK
+generation)
+*1: w/o Smart Key System
+*2: w/ Smart Key System
+If the result is not as specified, the main body ECU
+(instrument panel J/B) may have a malfunction.
+DL

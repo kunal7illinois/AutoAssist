@@ -1,0 +1,35 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-125
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC P0128: Coolant Thermostat (Coolant Temperature Below Thermostat Regulating Temperature)
+. • The volume air flow sensors output frequency is
+TECHNICAL DESCRIPTION
+• The ECM <M/T> or PCM <A/T> checks the time in the low frequency (50 − 100 Hz or less) state
+for 300 seconds or less.
+for the engine coolant temperature to reach the
+judgment temperature. Judgment Criteria
+• The time for the engine coolant temperature to
+. DTC SET CONDITIONS rise to 77°C (171°F) takes longer than approxi-
+mately 11 to 22 minutes.
+Check Conditions
+• The PCM monitors for this condition once during
+• Engine coolant temperature is between −10°C
+the drive cycle.
+(14°F) and 77°C (171°F) when the engine is
+started.
+.
+• The engine coolant temperature − intake air tem- TROUBLESHOOTING HINTS (The most likely
+perature is 5°C (9°F) or less when the engine is causes for this code to be set are: )
+• The thermostat is faulty
+started.
+• The intake air temperature when the engine is • ECM <M/T> failed.
+started − intake air temperature is 5°C (9°F) or • PCM <A/T> failed.
+less.
+DIAGNOSIS
+STEP 1. Check the cooling system.
+Refer to GROUP 14, Engine Cooling Diagnosis P.14-3.
+Q:Is the cooling system normal?
+YES : Replace the ECM <M/T> or PCM<A/T>. Then check
+that the DTC P0128 does not reset.
+NO : Repair it. Then check that the DTC P0128 does not
+reset.
+TSB Revision

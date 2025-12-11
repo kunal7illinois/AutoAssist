@@ -1,0 +1,20 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+Fig. 29: Checking Continuity Between ABS Modulator-Control Unit 25P
+Connector Terminal And ECM/PCM Connector A (44P) Terminal
+Is there continuity?
+YES - Check for loose terminals in the ABS modulator-control unit 25P
+connector. If necessary, substitute a known-good ABS modulator-control unit:
+Except Si model (see REMOVAL - EXCEPT SI MODEL ), Si model (see
+REMOVAL - SI MODEL ), and retest.
+NO - Repair open in the wire between the ECM/PCM and the ABS modulator-
+control unit.
+DTC 86-24: F-CAN COMMUNICATION WITH ENGINE MALFUNCTION; DTC 86-25: F-CAN
+COMMUNICATION WITH ENGINE MALFUNCTION
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0).
+4. Test-drive the vehicle. Drive the vehicle at 7 mph (10 km/h) or more.
+5. Check for DTCs with the HDS.
+Is 86-24, and/or 86-25 DTC indicated?

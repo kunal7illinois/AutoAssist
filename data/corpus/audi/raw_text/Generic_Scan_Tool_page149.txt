@@ -1,0 +1,32 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Test requirements
+• The Engine Control Module (ECM) - J623- fuses OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• On vehicles with automatic transmission, selector lever in po‐
+sition “P” or “N”.
+• A/C switched off.
+• Ground (GND) connections between engine/transmission/
+chassis OK.
+• Ignition switched off.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the engine cover with air filter. Refer to the appropri‐
+ate service manual.
+Checking internal resistance
+– Disconnect the Wastegate Bypass Regulator Valve -N75-
+electrical harness connector-1-.
+– Using a multimeter, check the Wastegate Bypass Regulator
+Valve -N75- terminals 1 to 2 for resistance.
+Specified value: 20 to 30 Ω (at room temp.)
+If the specification was not obtained:
+– Replace the Wastegate Bypass Regulator Valve -N75- . Refer
+to the appropriate service manual.
+If the specification is obtained:
+Checking Voltage supply
+145
+3. Diagnosis and Testing

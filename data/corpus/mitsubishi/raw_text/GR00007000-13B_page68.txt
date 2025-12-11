@@ -1,0 +1,50 @@
+13B-68 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC SET CONDITIONS .
+TROUBLESHOOTING HINTS (The most likely
+Check Conditions causes for this code to be set are:)
+• 2 seconds or more have passed since the start- • Intake air temperature sensor failed.
+ing sequence was completed. • Open or shorted intake air temperature sensor
+circuit, or loose connector.
+Judgement Criteria
+• ECM failed. <M/T>
+• Intake air temperature sensor output voltage has
+• PCM failed. <A/T>
+continued to be 0.2 volt or lower [corresponding
+to an air intake temperature of 115°C (239°F) or
+higher] for 2 seconds.
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 13:
+Intake Air Temperature Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the data reading mode for item
+13, Intake Air Temperature Sensor.
+16 PIN • The intake air temperature and temperature shown with
+the scan tool should approximately match.
+MB991502
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+AKX01177AB
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+STEP 2. Check connector B-14 at the intake air
+temperature sensor for damage.
+Q:Is the connector in good condition?
+CONNECTOR : B-14
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 6.
+INTAKE AIR
+TEMPERATURE
+SENSOR
+ACX02480AG
+TSB Revision

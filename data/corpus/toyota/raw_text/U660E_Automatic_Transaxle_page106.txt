@@ -1,0 +1,55 @@
+AX–106
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Pressure Control Solenoid "C" Performance
+DTC P0796
+(Shift Solenoid Valve SL3)
+SYSTEM DESCRIPTION
+The TCM uses the vehicle speed signal to determine the actual gear position (1st, 2nd, 3rd, 4th, 5th or 6th
+AX
+gear).
+Then the TCM compares the actual gear with the shift schedule in the TCM memory to detect shift
+solenoid valves and valve body mechanical problems.
+DTC No. DTC Detecting Condition Trouble Area
+The engine revs freely when 2nd or 6th gear is
+requested (2-trip detection logic). • Shift solenoid valve SL3 remains open or closed.
+P0796 When the following is detected twice (2-trip detection • Valve body is blocked.
+logic): • Automatic transaxle (clutch, brake or gear etc.)
+• When 1st gear is requested, 2nd gear is engaged.
+MONITOR DESCRIPTION
+The TCM commands gear shifts by turning the shift solenoid valves on or off. According to the input shaft
+revolution, intermediate (counter) shaft revolution and output shaft revolution, the TCM detects the actual
+gear position (1st, 2nd, 3rd, 4th, 5th or 6th gear position). When the gear position commanded by the
+TCM and the actual gear position are not the same, the TCM illuminates the MIL and stores the DTC.
+MONITOR STRATEGY
+P0796:
+Related DTCs Shift solenoid valve SL3/OFF malfunction
+Shift solenoid valve SL3/ON malfunction
+Shift solenoid valve SL3, Speed sensor (NT), Speed sensor (NC), Crankshaft
+Required sensors/Components
+position sensor (NE)
+Frequency of operation Continuous
+OFF malfunction (A) and (B)
+0.5 sec.
+Duration
+OFF malfunction (C) and (D)
+0.8 sec.
+MIL operation 2 driving cycles
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+All:
+P0115 - P0118 (ECT sensor)
+P0125 (Insufficient ECT for closed loop)
+The monitor will run whenever this DTC is not present.
+P0500 (VSS)
+P0748, P0778, P0798 (Shift solenoid valve (range))
+Transmission range "D"
+TFT (Transmission fluid temperature) Above -10°C (-14°F)
+Knock control sensor circuit Circuit is not malfunctioning
+ECT sensor circuit Circuit is not malfunctioning
+Turbine speed sensor circuit Circuit is not malfunctioning
+Intermediate shaft speed sensor circuit Circuit is not malfunctioning
+Shift solenoid valve SL1 circuit Circuit is not malfunctioning
+Shift solenoid valve SL2 circuit Circuit is not malfunctioning
+Shift solenoid valve SL3 circuit Circuit is not malfunctioning
+Shift solenoid valve SL4 circuit Circuit is not malfunctioning
+CAN communication system Circuit is not malfunctioning

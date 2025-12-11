@@ -1,0 +1,47 @@
+BC–322
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+(See page BC-295)
+C END
+A
+5 INSPECT FRONT SPEED SENSOR INSTALLATION
+(a) Check the front speed sensor installation.
+8.0 N*m (82 kgf*cm, 71 in.*lbf)
+OK:
+The installation bolt is tightened properly.
+There is no clearance between the sensor and front
+steering knuckle.
+Torque:8.0 N*m (82 kgf*cm, 71 in.*lbf)
+NOTICE:
+BC
+Check the speed sensor signal after replacement (See
+No clearance
+OK NG page BC-290).
+BR03795E21
+NG INSTALL FRONT SPEED SENSOR
+CORRECTLY (See page BC-440)
+OK
+6 INSPECT FRONT SPEED SENSOR
+(a) Make sure that there is no looseness at the locking part
+and the connecting part of the connectors.
+(b) Disconnect the front speed sensor connectors.
+2 1 (c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+LH
+Tester Connection Specified Condition
+A14-1 (FL+) - A14-2 (FL-) 0.92 to 1.22 kΩ at 20°C
+C093876E01
+A14-1 (FL+) - Body ground 10 kΩ or higher
+A14-2 (FL-) - Body ground 10 kΩ or higher
+RH
+Tester Connection Specified Condition
+A35-1 (FR+) - A35-2 (FR-) 0.92 to 1.22 kΩ at 20°C
+A35-1 (FR+) - Body ground 10 kΩ or higher
+A35-2 (FR-) - Body ground 10 kΩ or higher
+NOTICE:
+Check the speed sensor signal after replacement
+(See page BC-290).
+NG REPLACE FRONT SPEED SENSOR (See
+page BC-438)

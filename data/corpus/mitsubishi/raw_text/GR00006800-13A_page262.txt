@@ -1,0 +1,45 @@
+13A-262 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the EGR solenoid.
+(1) Disconnect the EGR solenoid connector B-31.
+CONNECTOR:B-31
+EGR
+SOLENOID
+VALVE
+ACX02513AI
+(2) Measure the resistance between EGR solenoid side
+connector terminal 1 and 2.
+Standard value: 29 − 35 Ω [at 20°C (68°F)]
+Q:Is the resistance at the standard value?
+YES : Go to Step 4.
+NO : Replace the EGR solenoid. Then go to Step 12.
+AKX00352
+STEP 4. Check the power supply voltage at EGR solenoid
+harness side connector B-31.
+(1) Disconnect the connector B-31 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+B-31 HARNESS
+SIDE CONNECTOR
+Q:Is the voltage normal?
+2 1 YES : Go to Step 6.
+NO : Go to Step 5.
+AK000254AE
+STEP 5. Check connector A-18X at MFI relay for damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-18X
+YES : Check connector B-13 at intermediate connector for
+MFI RELAY damage, and repair or replace as required. Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2. If intermediate connectors is in good condition,
+repair harness wire between MFI relay connector A-
+18X terminal 4 and EGR solenoid connector B-101
+terminal 1 because of open circuit or short circuit to
+ground. Then go to Step 12.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+AK101363AB
+Connector Inspection P.00E-2. Then go to Step 12.
+TSB Revision

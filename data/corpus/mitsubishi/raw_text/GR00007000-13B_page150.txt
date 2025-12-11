@@ -1,0 +1,45 @@
+13B-150 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR: A-18X
+RIGHT BANK
+MFI RELAY
+HEATED OXYGEN
+SENSOR (FRONT)
+AACCXX0022448811AH AK101363AB
+CONNECTOR: B-27 CONNECTOR : C-51<M/T>, C-52<A/T>
+PCM<A/T> ECM<M/T>
+C-52 C-51
+AAKK110033550077AB AK000225AJ
+. • Engine coolant temperature is higher than 20°C
+CIRCUIT OPERATION
+• Power is supplied from the MFI relay (terminal 4)
+(68°F).
+• While the right bank heated oxygen sensor (front)
+to the right bank heated oxygen sensor (front)
+heater is on.
+heater.
+• The ECM (terminal 4) <M/T> or PCM (terminal 4) • Battery positive voltage is at between 11 and 16
+volts.
+<A/T> controls continuity to the right bank heated
+oxygen sensor (front) heater by turning the power Judgment Criteria
+transistor in the ECM <M/T> or PCM <A/T> "ON" • Heater current of the right bank heated oxygen
+and "OFF". sensor (front) heater has continued to be lower
+than 0.16 ampere or higher than 7.5 ampere for 4
+. TECHNICAL DESCRIPTION seconds.
+• The ECM <M/T> or PCM <A/T> checks whether
+.
+the heater current is within a specified range TROUBLESHOOTING HINTS (The most likely
+when the heater is energized. causes for this code to be set are: )
+• Open or shorted right bank heated oxygen sen-
+. DTC SET CONDITIONS sor (front) heater circuit.
+• Open circuit in right bank heated oxygen sensor
+Check Conditions
+(front) heater.
+• 60 seconds have elapsed from the start of the
+• ECM failed. <M/T>
+previous monitoring.
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tool:
+• MD998464: Test Harness
+TSB Revision

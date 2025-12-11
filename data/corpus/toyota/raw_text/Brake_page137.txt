@@ -1,0 +1,60 @@
+BC–131
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+• Do not spin the wheels.
+• Do not turn the ignition switch off while
+turning.
+• Do not move the shift lever to the P position
+(A/T) or do not apply the parking brake (M/T)
+while turning, but changing in the vehicle
+speed, stopping, or driving in reverse is
+possible.
+• Complete the turn within 20 seconds.
+7. END OF SENSOR CHECK (INTELLIGENT TESTER)
+Blinking Pattern in TEST MODE:
+(a) If the sensor check is completed, the ABS warning
+light blinks (Test Mode) when the vehicle stops and
+0.13 sec. 0.13 sec.
+the ABS warning light is off while the vehicle is
+ON driving.
+NOTICE:
+• When the yaw rate sensor, acceleration
+sensor, speed sensor, and master cylinder
+OFF
+pressure sensor checks are completed, the
+BC
+sensor check is completed.
+BR03904E16
+• If the sensor check is not completed, the ABS
+warning light blinks even while the vehicle is
+driving and the ABS does not operate.
+8. READ DTC OF SIGNAL CHECK FUNCTION
+(INTELLIGENT TESTER)
+(a) Read the DTC(s) by following the tester screen.
+NOTICE:
+• If only the DTCs are displayed, repair the
+malfunction area and clear the DTCs.
+• If the DTCs or Test Mode codes (DTC of
+signal check function) are displayed, repair
+the malfunction area, clear the DTCs and
+perform the Test Mode inspection.
+HINT:
+See the list of DTC (See procedure "A").
+9. SENSOR CHECK USING TEST MODE (SIGNAL
+CHECK) (SST CHECK WIRE)
+NOTICE:
+After replacement of the brake actuator assembly
+and/or yaw rate and acceleration sensor, perform
+zero point calibration of the yaw rate and
+acceleration sensor.
+HINT:
+• If the ignition switch is turned from on (IG) to on
+(ACC) or off during Test Mode (signal check), DTCs of
+the signal check function will be erased.
+• During Test Mode (signal check), the skid control ECU
+records all DTCs of the signal check function. By
+performing the Test Mode (signal check), the codes
+are erased if a normal condition is confirmed. The
+remaining codes are the codes where an abnormality
+was found.
+(a) Procedure to enter Test Mode.
+(1) Turn the ignition switch off.

@@ -1,0 +1,45 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-465
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Using scan tool MB991502, check data list.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Check the following items in the data list. Refer to, Data List
+Reference Table P.13A-544.
+16 PIN a. Item 21: Engine Coolant Temperature Sensor.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AKX01177AB Q:Are they operating properly?
+YES : Go to Step 4.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+STEP 4. Adjust the basic idle speed.
+Refer to, Basic Idle Speed Adjustment for the adjustment pro-
+cedure P.13A-577.
+Standard value: 700 ± 50 r/min
+Q:Is the idle speed normal?
+YES : Refer to, Clean the throttle valve area P.13A-575.
+NO : The check is completed.
+INSPECTION PROCEDURE 11: When the engine is cold, it stalls at idle (die out).
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+• In such cases as the above, the air/fuel mixture causes for this case: )
+• Malfunction of the IAC system.
+may be inappropriate when the engine is cold.
+• Malfunction of the throttle body.
+• Malfunction of the injector system.
+.
+• Malfunction of the ignition system.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check if the battery terminal is disconnected.
+Q:Has the battery terminal been disconnected lately?
+YES : Start the engine and let it run at idle for approximate
+10 minutes after engine warm up. Then, if a
+malfunction occurs, go to step 2.
+NO : Go to Step 2.
+TSB Revision

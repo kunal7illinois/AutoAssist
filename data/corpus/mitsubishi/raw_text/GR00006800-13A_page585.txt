@@ -1,0 +1,69 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-585
+ON-VEHICLE SERVICE
+Check using oscilloscope
+1. Disconnect the throttle position sensor connector and
+OSCILLOSCOPE
+connect the test harness special tool (MB991348) in
+THROTTLE POSITION
+SENSOR CONNECTOR between.(All terminals should be connected.)
+2. Connect the oscilloscope probe to the throttle position
+1 2 3 4
+sensor side connector terminal 3.
+3. Turn the ignition switch "ON" position.
+4. Slowly move the throttle lever from the idle position to the
+full-throttle position and check then if the waveform is free
+MB991348 from any noise.
+AK102987AB 5. If any noise is recognized, replace the throttle position
+sensor.
+NORMAL WAVEFORM
+NOTE: After replacement, the throttle position sensor should
+THROTTLE LEVER
+FULL-THROTTLE be adjusted. (Refer to P.13A-576.)
+POSITION
+THROTTLE
+LEVER
+IDLE
+POSITION
+AKX01462AB
+HEATED OXYGEN SENSOR CHECK
+M1131005000248
+Required Special Tools:
+• MB991658: Test Harness Set
+• MD998464: Test Harness
+.
+<Heated oxygen sensor (front)>
+1. Using the scan tool MB991502, observe HO S reading. If
+HEATED 2
+OXYGEN values are unsatisfactory, or if Scan tool is not available, use
+SENSOR the following procedure:
+EQUIPMENT
+RED (1) Disconnect the heated oxygen sensor connector and
+SIDE
+connect special tool MD998464 to the connector on the
+CONNECTOR
+heated oxygen sensor side.
+BLUE
+(2) Make sure that there is continuity [4.5 − 8.0 Ω at 20°C
+(68°F)] between terminal 1 (red clip of special tool) and
+terminal 3 (blue clip of special tool) on the heated oxygen
+AKX01624AC
+MD998464 sensor connector
+(3) If there is no continuity, replace the heated oxygen
+sensor.
+JUMPER
+WIRES (4) Warm up the engine until engine coolant is 80°C (176°F)
+or higher.
+BLACK
+RED
+CAUTION
+Be very careful when connecting the jumper wires; incor-
+rect connection can damage the heated oxygen sensor.
+BLUE
+WHITE (5) Use the jumper wires to connect terminal 1 (red clip) of
+the heated oxygen sensor connector to the positive
+MD998464 battery terminal and terminal 3 (blue clip) to the negative
+AKX01625AC
+battery terminal.
+(6) Connect a digital voltage meter between terminal 2 (black
+clip) and terminal 4 (white clip).
+TSB Revision

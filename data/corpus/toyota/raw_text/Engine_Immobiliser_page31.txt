@@ -1,0 +1,31 @@
+EI–31
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+DTC B2784 Antenna Coil Open / Short
+DESCRIPTION
+This DTC is output when there is an open or short malfunction in the key coil (built into engine switch).
+DTC No. DTC Detection Condition Trouble Area
+• Wire harness
+B2784 Antenna coil is open/short • Engine switch
+• Certification ECU
+WIRING DIAGRAM
+Engine Switch Certification ECU
+10 9
+W
+CODE E52 E58 CODE
+9 8
+GR
+TXCT E52 E58 TXCT
+B128331E01
+EI
+INSPECTION PROCEDURE
+NOTICE:
+If the certification ECU is replaced, register the key and ECU communication ID (See page EI-8).
+1 CHECK DTC OUTPUT
+(a) Delete the DTCs (See page EI-24).
+(b) Recheck for DTCs (See page EI-24).
+Result
+Result Proceed to
+B2784 output reoccurs A
+B2784 output does not reoccur B
+B END
+A

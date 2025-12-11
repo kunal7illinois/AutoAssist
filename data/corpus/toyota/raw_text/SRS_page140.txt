@@ -1,0 +1,56 @@
+RS–140
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+4 CHECK FLOOR WIRE (OPEN)
+(a) Using a service wire, connect terminals 14 (DSP+) and
+Floor Wire
+13 (DSP-) of connector B.
+NOTICE:
+Do not forcibly insert a service wire into the
+D A terminals of the connector when connecting.
+(b) Measure the resistance according to the value(s) in the
+C B
+table below.
+Seat Position
+Center Airbag Standard resistance
+Airbag Sensor
+Sensor Assembly
+Tester Connection Condition Specified Condition
+N3-2 (LSP+) - N3-4
+Always Below 1 Ω
+Connector C Connector B (LSP-)
+N1 NG REPAIR OR REPLACE FLOOR WIRE
+N3
+LSP+
+5 4 3 2 1
+1 2
+109 8 7 6
+3 4
+LSP- 1514131211
+DSP+
+DSP-
+Service Wire
+C C114798E05
+OK
+RS 5 CHECK FLOOR WIRE (SHORT)
+(a) Disconnect the service wire from connector B.
+Floor Wire
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+D A
+Tester Connection Condition Specified Condition
+C B
+N3-2 (LSP+) - N3-4
+Always 1 MΩ or higher
+(LSP-)
+Seat Position
+Airbag Sensor Center Airbag
+Sensor Assembly NG REPAIR OR REPLACE FLOOR WIRE
+Connector C
+N3
+LSP+
+1 2
+3 4
+LSP-
+C C114799E08
+OK

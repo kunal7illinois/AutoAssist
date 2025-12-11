@@ -1,0 +1,53 @@
+ST–110
+2GR-FE STARTING – SMART KEY SYSTEM
+(c) Turn the engine switch on (IG).
+SMART ACCESS (Certification ECU):
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+OK: Normal
+L CODE CHK L code check / ON or NG Electrical key in the cabin
+NG: Malfunction
+OK:
+OK is displayed on the screen.
+HINT:
+If the result is not as specified, there may be a
+malfunction with the steering lock ECU or the ID code
+box.
+NG GO TO ENGINE IMMOBILISER SYSTEM
+OK
+22 READ VALUE OF INTELLIGENT TESTER (ENGINE START REQUEST)
+(a) Connect the intelligent tester to the DLC3.
+HINT:
+When using the intelligent tester with the engine switch
+off, turn on and off any of the door courtesy light switches
+repeatedly at 1.5 second intervals or less until
+communication between the tester and vehicle starts.
+(b) Turn the engine switch on (IG).
+SMART ACCESS (Certification ECU):
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+Start request signal response / OK: Received
+START RQST -
+OK or NG NG: Not received
+OK:
+OK (received) and NG (not received) appear on the
+screen.
+NG REPLACE CERTIFICATION ECU
+OK
+23 READ VALUE OF INTELLIGENT TESTER (S CODE)
+(a) Connect the intelligent tester to the DLC3.
+HINT:
+When using the intelligent tester with the engine switch
+off, turn on and off any of the door courtesy light switches
+ST repeatedly at 1.5 second intervals or less until
+communication between the tester and vehicle starts.
+(b) Turn the engine switch on (IG).
+SMART ACCESS (Certification ECU):
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+OK: Normal
+S CODE CHK S code check / OK or NG -
+NG: Malfunction

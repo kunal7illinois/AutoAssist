@@ -1,0 +1,53 @@
+IN–42
+INTRODUCTION – HOW TO TROUBLESHOOT ECU CONTROLLED SYSTEMS
+(3) Checking the contact pressure of the terminal:
+Prepare a spare male terminal. Insert it into a
+female terminal, and check for ample tension
+when inserting and after full engagement.
+NOTICE:
+When testing a gold-plated female terminal,
+IN
+always use a gold-plated male terminal.
+D025088E02
+(d) REPAIR METHOD OF CONNECTOR TERMINAL
+(1) If there is any foreign matter on the terminal,
+CORRECT INCORRECT
+clean the contact point with compressed air or a
+cloth. Never rub the contact point using
+sandpaper as the plating may come off.
+(2) If there is abnormal contact pressure, replace
+the female terminal. If the male terminal is gold-
+plated (gold color), use a gold-plated female
+terminal; if it is silver-plated (silver color), use a
+silver-plated female terminal.
+D032093E01
+(3) Damaged, deformed, or corroded terminals
+should be replaced. If the terminal does not lock
+into the housing, the housing may have to be
+replaced.
+(e) HANDLING OF WIRE HARNESS
+(1) If removing a wire harness, check the wiring and
+INCORRECT clamping before proceeding so that it can be
+INCORRECT
+restored in the same way.
+(2) Never twist, pull or slacken the wire harness
+more than necessary.
+(3) The wire harness should never come into
+contact with a high temperature part, or rotating,
+moving, vibrating or sharp-edged parts. Avoid
+contact with panel edges, screw tips and other
+sharp items.
+(4) When installing parts, never pinch the wire
+INCORRECT harness.
+(5) Never cut or break the cover of the wire harness.
+If it is cut or broken, replace it or repair it with
+D101266E01 vinyl tape.
+2. CHECK FOR OPEN CIRCUIT
+Fig. 1 ECU
+(a) For an open circuit in the wire harness in Fig. 1, the
+C OPEN B A
+resistance or voltage, as described below.
+1 1 1 1
+2 2 2 2
+SENSOR
+Z017004E02

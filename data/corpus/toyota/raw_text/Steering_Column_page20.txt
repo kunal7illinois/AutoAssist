@@ -1,0 +1,75 @@
+SR–18
+STEERING COLUMN – ELECTRIC STEERING LOCK
+DATA LIST / ACTIVE TEST
+1. DATA LIST
+HINT:
+By accessing the DATA LIST displayed on the intelligent
+tester, it is possible to perform such functions as reading
+the values of switches and sensors without removing any
+parts. Reading the DATA LIST is the first step in
+troubleshooting and is one method to save labor time.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the engine switch on (IG) and turn the
+intelligent tester on.
+(c) Operate the intelligent tester according to the steps
+on the display and select DATA LIST.
+SMART ACCESS:
+Measurement Item / Range
+Item Normal Condition Diagnostic Note
+(Display)
+YES: Steering lock ECU sleep
+Steering lock ECU sleep mode can be entered
+SLCK SLEEP COND -
+condition / YES or NO NO: Steering lock ECU sleep
+mode cannot be entered
+YES: Steering lock ECU sent a
+Steering lock ECU start signal / start signal
+SLCK START COND -
+YES or NO NO: Steering lock ECU did not
+send a start signal
+SR
+OK: Engine is allowed to start
+ENG START COND Engine start condition / OK or NG -
+NG: Engine is not allowed to start
+Sensor malfunction / NG (PAST) NG (PAST): Sensor malfunction
+SENSOR VALUE -
+or OK OK: No malfunction
+NG (PAST): Short in ECU
+PWR SUPPLY SHRT Short in ECU / NG (PAST) or OK -
+OK: No malfunction
+NG (PAST): Open in ECU
+PWR SUPPLY OPEN Open in ECU / NG (PAST) or OK -
+OK: No malfunction
+Short in driver ECU / NG (PAST) NG (PAST): Short in driver ECU
+MTR DRIVER SHRT -
+or OK OK: No malfunction
+Open in driver ECU / NG (PAST) NG (PAST): Open in driver ECU
+MTR DRIVER OPEN -
+or OK OK: No malfunction
+YES: Steering lock / unlock signal
+Steering lock command reception received
+LCK/UNLCK REC -
+record / YES or NO NO: Steering lock / unlock signal
+no received
+NG (PAST): Lock bar stuck
+Lock bar stuck malfunction / NG
+LCK BAR STUCK malfunction -
+(PAST) or OK
+OK: No malfunction
+NG (PAST): Malfunction in push
+Push button start function
+PUSH START ERR button start -
+malfunction / NG (PAST) or OK
+OK: No malfunction
+ON: 10 to 14 V
+IG2 IG2 voltage / ON or OFF -
+OFF: Below 1 V
+ON: LIN bus IG ON status
+IG (LIN) LIN bus IG status / ON or OFF -
+OFF: LIN bus IG OFF status
+Steering lock condition / Set or Set: Steering lock is set This status changes depending
+STEERING LOCK
+Unset Unset: Steering lock is not set on the state of some sensors.
+Steering unlock condition / Set or Set: Steering unlock is set This status changes depending
+STEERING UNLOCK
+Unset Unset: Steering unlock is not set on the state of some sensors.

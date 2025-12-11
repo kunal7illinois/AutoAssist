@@ -1,0 +1,42 @@
+BODY ELECTRICAL - SRS AIRBAG SYSTEM BE-157
+(cid:3)EDR (EVENT DATA RECORDER)
+The airbag sensor assembly monitors and control certain aspects of the vehicle.
+These computers assist in driving and maintaining optimal vehicle performance.
+Besides storing data useful for troubleshooting, there is a system to record data in a crash or a near car crash
+event.
+This is called the Event Data Recorder (EDR).
+The airbag sensor assembly contains the EDR.
+In a crash or a near car crash event, this device may record some or all of the following information:
+(cid:1) Engine speed
+(cid:1) Whether the brake pedal was applied or not
+(cid:1) Vehicle speed
+(cid:1) To what extent the accelerator pedal was depressed
+(cid:1) Position of the transmission selector lever
+(cid:1) Whether the driver and front passenger wore seat belts or not
+(cid:1) Driver’s seat position
+(cid:1) SRS airbag deployment data
+(cid:1) SRS airbag system diagnostic data
+The information above is intended to be used for the purpose of improving vehicle safety performance.
+Unlike general data recorders, the EDR does not record sound data such as conversation between passengers.
+Toyota will not disclose the data recorded in an EDR to a third party except when:
+(cid:1) An agreement from the vehicle’s owner (or the leasing company for a leased vehicle) is obtained
+(cid:1) Officially requested by the police or other authorities
+(cid:1) Used as a defense for Toyota in a law suit
+(cid:1) Ordered by the court
+However, if necessary Toyota will:
+(cid:1) Use the data for research on Toyota vehicle safety performance
+(cid:1) Disclose the data to a third party for research purposes without disclosing details of the vehicle owner, and
+only when it is deemed necessary
+(cid:1) Disclose summarized data cleared of vehicle identification information to a non-Toyota organization for
+research purposes
+(cid:3)DIAGNOSIS
+If the airbag sensor assembly detects a malfunction in the SRS airbag system, the airbag sensor assembly
+stores the malfunction data in memory, in addition to illuminating the SRS warning light.
+(cid:1) There are 2 types of DTC for the SRS airbag system: 5-digit and 2-digit.
+(cid:1) The 5-digit DTC can be read by connecting a hand-held tester to DLC3.
+(cid:1) The 2-digit DTC can be read by connecting the SST (09843-18040) to the Tc and CG terminals of the
+DLC3 and reading the blinking of the SRS warning light.
+(cid:1) If the SRS airbags deploy, the airbag sensor assembly will turn ON the SRS warning light. However,
+differing from the ordinary diagnosis function, a DTC will not be memorized. The SRS warning light can
+be turned OFF only by replacing the airbag sensor assembly with a new one.
+(cid:1) For details, refer to see the 2007 Camry Repair Manual (RM0250U).

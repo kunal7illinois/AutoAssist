@@ -1,0 +1,27 @@
+ES–84
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 INSPECT INTEGRATION RELAY (EFI MAIN RELAY)
+(a) Remove the integration relay from the engine room No. 1
+Integration Relay:
+relay block.
+EFI MAIN (b) Inspect the EFI MAIN fuse.
+Fuse Side:
+(1) Remove the EFI MAIN fuse from the integration
+relay.
+(2) Measure the EFI MAIN fuse resistance.
+Standard resistance:
+Below 1 Ω
+Connector Side:
+(3) Reinstall the EFI MAIN fuse.
+ES (c) Inspect the EFI MAIN relay.
+1C 1A
+(1) Measure the EFI MAIN relay resistance.
+Standard resistance
+1 8 76 5 4 32 1 8 76 5 4 32 1 Tester Connections Specified Conditions
+10 kΩ or higher
+A107921E14 1C-1 - 1A-4 Below 1 Ω
+(Apply battery voltage between
+terminals 1A-2 and 1A-3)
+(d) Reinstall the integration relay.
+NG REPLACE INTEGRATION RELAY
+OK

@@ -1,0 +1,37 @@
+NS–161
+NAVIGATION – NAVIGATION SYSTEM
+Illumination Circuit
+DESCRIPTION
+Power is supplied to the radio and navigation assembly and steering pad switch illumination when the
+light control switch is in the TAIL or HEAD position.
+WIRING DIAGRAM
+Radio and Navigation
+Assembly
+Steering Pad Switch Spiral Cable
+LH 5 12 2
+IL+2
+a1 E18 F9 ILL+
+RH
+8 4 6
+EAU
+a1 E18 F10 SWG
+4
+PANEL
+From Battery
+5 3
+To Main Body ECU
+1 2
+TAIL
+20
+F1 F9 GND
+Combination Meter
+12
+E2 ILL- F9 ILL-
+12 11
+E129819E02
+NS
+INSPECTION PROCEDURE
+NOTICE:
+The vehicle is equipped with an SRS (Supplemental Restraint System) such as the airbags. Before
+servicing (including removal or installation of parts), be sure to read the precautionary notice for
+the Supplemental Restraint System (See page RS-1).

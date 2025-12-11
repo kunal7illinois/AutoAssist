@@ -1,0 +1,48 @@
+BC–184
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+5 INSPECT ENGINE ROOM RELAY BLOCK
+(a) Measure the resistance according to the value(s) in the
+Engine Room R/B:
+VSC NO. 1 (Fail Safe) Relay table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+VSC NO. 1 (fail safe) relay terminal 3 -
+Always Below 1 Ω
+VSC NO. 2 relay terminal 5
+VSC NO. 1 (fail safe) relay terminal 3 -
+Always 10 kΩ or higher
+Body ground
+VSC NO. 2 Relay
+NG REPAIR OR REPLACE ENGINE ROOM
+RELAY BLOCK
+BC
+C135809E02
+OK
+6 CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU - ENGINE ROOM RELAY
+BLOCK)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU Harness Side (b) Measure the resistance according to the value(s) in the
+Connector Front View:
+table below.
+Standard resistance
+A26 Tester Connection Condition Specified Condition
+A26-2 (BM) - VSC NO. 2 relay
+Always Below 1 Ω
+terminal 3
+A26-2 (BM) - Body ground Always 10 kΩ or higher
+A26-14 (MRF) - VSC NO. 1 (fail safe)
+Always Below 1 Ω
+MR relay terminal 2
+BM MRF R+ A26-14 (MRF) - Body ground Always 10 kΩ or higher
+Engine Room R/B:
+A26-15 (MR) - VSC NO. 2 relay
+Always Below 1 Ω
+VSC NO. 1 (Fail Safe) Relay terminal 2
+A26-15 (MR) - Body ground Always 10 kΩ or higher
+A26-45 (R+) - VSC NO. 1 (fail safe)
+Always Below 1 Ω
+relay terminal 1
+A26-45 (R+) - Body ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+VSC NO. 2 Relay CONNECTOR
+C136023E03

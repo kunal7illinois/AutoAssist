@@ -1,0 +1,53 @@
+Audi TT No. 22 / 6
+Current Flow Diagram
+Data bus diagnostic interface, control unit in dash panel
+insert, CAN bus wiring
+J285 Control unit in dash panel insert
+J519 Onboard supply control unit
+J533 Data bus diagnostic interface
+T12e 12-pin connector, black, connector G, on onboard power supply
+control unit
+T16 16-pin connector, diagnostic connector
+T20d 20-pin connector, black, on data bus diagnostic interface
+B406 T32 32-pin connector, blue, on control unit in dash panel insert
+B406 T52c 52-pin connector, brown, on onboard supply control unit
+B397
+B383 Connection 1 (drive train CAN bus, high), in main wiring harness
+B397
+5522 5533 B390 Connection 1 (drive train CAN bus, low), in main wiring harness
+• • • •
+0,35 0,35 0,35 0,35 0,35 0,35 Connection 1 (convenience CAN bus, high), in main wiring
+or/br or/gn or/gn or/br or/br or/sw J285 B397 harness
+T52c Connection 1 (convenience CAN bus, low), in main wiring
+/15## T52c/16## B406
+T12e T12e/7# harness
+/8# B390 B383 T32/5 T32/29 T32
+J519 J519 /30 Connection 1 (infotainment CAN bus, high), in main wiring
+B415
+harness
+• • ✱ • •
+0,35 0,35 0,35 0,35 0,35 B421 Connection 1 (infotainment CAN bus, low), in main wiring harness
+or/br or/sw bl/ge or/bl or/br
+• CAN bus (data wire)
+* Wake Up wire (exciter wire)
+T20d/5 T20d/15 J533 T20d/6 T20d/16 T /1 2 3 0d T /1 2 8 0d T /8 20d # up to May 2009
+## from June 2009
+T20d/9 T20d/19 T20d T20d/20
+/10
+• • • •
+0,35 0,35 0,35 0,35
+or/br or/ro or/br or/li
+T16/14 T16/6 B421 B415
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 or = orange
+8J0-022060409
+rs = pink
+Edition 04.2010

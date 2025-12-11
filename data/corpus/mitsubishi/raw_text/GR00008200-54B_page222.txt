@@ -1,0 +1,44 @@
+54B-222 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 3. Check the input signal by using "FUNCTION
+DIAG." of the SWS monitor.
+Check the input signals from the following switches:
+• Ignition switch: ON
+• Windshield washer switch: ON
+Operate the MUT-II according to the procedure below to dis-
+COLUMN SWITCH play "F.WIPER WASH."
+CONNECTOR
+1. Select "SYSTEM SELECT."
+MB991502 2. Select "SWS."
+3. Select "SWS MONITOR."
+4. Select "FUNCTION DIAG."
+5. Select "WIPER."
+DATA LINK
+6. Select "F.WIPER WASH."
+CONNECTOR
+Check that normal conditions are displayed on the items
+AC101571AB described in the table below.
+COLUMN SWITCH ITEM No. ITEM NAME NORMAL
+CONNECTOR CONDITIONS
+ITEM No.09 FRONT ON
+SWS MONITOR WASH.SW
+HARNESS (FOR
+ITEM No.70 FRONT ECU ACK NORMAL ACK or
+COLUMN-ECU)
+HI-BEAM ACK
+COLUMN SWITCH
+CONNECTOR AT
+Q:Does the scan tool display the items "FRONT
+HARNESS SIDE
+AC101421AB WASH.SW" and "FRONT ECU ACK" as normal
+condition?
+YES : Go to Step 4.
+NO : • The scan tool does not show the respective
+normal condition for item "FRONT WASH. SW."
+Replace the column switch. Check that the
+windshield washer works normally.
+• The scan tool does not show the respective
+normal condition for item "FRONT ECU SW."
+Replace the front-ECU. Check that the windshield
+washer works normally.
+TSB Revision

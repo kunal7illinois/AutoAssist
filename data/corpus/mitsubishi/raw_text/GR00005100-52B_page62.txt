@@ -1,0 +1,42 @@
+52B-62 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+CONNECTORS: C-42 CONNECTOR: C-72
+COMBINATION METER
+SRS-ECU
+ACCELERATOR PEDAL
+AC106665AB
+CENTER REINFORCEMENT(LH)AC000358AD
+CIRCUIT OPERATION DTC SET CONDITIONS
+• Power for the SRS warning light is supplied from • This DTC is set when a short to ground occurs in
+the ignition switch (IG1) circuit. the harness between the SRS warning light and
+• The SRS warning light illuminates when the igni- SRS-ECU while SRS-ECU is monitoring the light
+tion switch is turned "ON" and goes out after and the light is ON. However, if the vehicle condi-
+approximately seven seconds if there is not a tion returns to normal, DTC 43 will be automati-
+malfunction in the SRS system. cally erased, and the SRS warning light will go
+out.
+TROUBLESHOOTING HINTS
+• Damaged wiring harnesses of connectors
+• Malfunction of the SRS-ECU
+• Malfunction of the combination meter
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-ll)
+STEP 1. Check SRS-ECU connector C-72 for damage.
+(1) Disconnect SRS-ECU connectors C-72.
+CONNECTOR: C-72
+(2) Check the warning light terminal short bar inside the
+harness side connector for improper contact or deformation.
+Q:Is SRS-ECU connectors C-72 good condition?
+YES : Then go to Step 2.
+NO : Repair or replace the SRS-ECU connector C-72.
+Then go to Step 4.
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH)AC000358AD
+C-72 SRS-ECU CONNECTOR
+(HARNESS SIDE) FRONT VIEW
+TERMINAL
+SHORT BAR
+AC106809AB
+TSB Revision

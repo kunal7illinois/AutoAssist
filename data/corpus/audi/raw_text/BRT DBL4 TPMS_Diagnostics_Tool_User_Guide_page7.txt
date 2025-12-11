@@ -1,0 +1,30 @@
+V1.2 User Guide 3/19/09 V1.2 User Guide 3/19/09
+Tool Box Menu (for Audi vehicles) UPDATING THE BRT-DBL4
+Update using the Audi Service and Volkswagen Service
+Under the Main Menu, you will find the option for Tool Box. To enter
+Network and PC
+the tool box, simple select and press the Q button.
+(preferred method)
+Siemens Read Mode
+To update the tool by using your PC, hold down the enter button
+Will allow you to read a Siemens sensor with force frame to and turn unit on. The tool should look as shown here.
+determine the current mode the sensor is in. This function
+will not change the mode. MSD BSL V1
+APP.V0.2.33
+NO UPDATE FILES
+FOUND.
+Siemens Transport Off
+This feature will allow the user to put a Siemens sensor into
+Park Mode. You will then plug the USB cable into the PC and the tool. A
+window will then open on your PC. Do not delete any of the files in
+the window.
+Check Sensor Type
+Allows the user to test a given Audi wheel to determine the
+sensor type within that Audi wheel.
+Take the update file provided by the Audi Service and
+Volkswagen Service Network and copy and paste (drag and
+drop) into that window. Once file has been transferred, disconnect
+the tool from the USB cable, and press the test button, the tool will
+then update.
+The tool is now ready to use.
+6 23

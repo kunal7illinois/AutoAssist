@@ -1,0 +1,24 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-319
+SYMPTOM PROCEDURES
+STEP 49. Measure at license plate light connector F-15 in
+order to check the ground circuit to the license plate
+lights.
+(1) Disconnect license plate light connector F-15, and measure
+CONNECTOR <ECLIPSE>: F-15
+at the wiring harness side.
+DEVICE SIDE 1 2
+AC106489AO
+CONNECTOR <ECLIPSE SPYDER>: F-15
+1 2
+DEVICE SIDE
+AC106491AL
+(2) Measure the resistance value between terminal 1 and
+ground.
+CONNECTOR: F-15 • The measured value should be 2 ohm or less.
+(HARNESS SIDE)
+Q:Does the measured resistance value correspond with
+2 1 this range?
+YES : Go to Step 52.
+NO : Go to Step 50.
+AC102041AE
+TSB Revision

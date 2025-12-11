@@ -1,0 +1,48 @@
+ES–418
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• When the temperature of the fuel is 35°C (95°F) or
+more, a large amount of vapor forms and any check
+results become inaccurate. When performing the
+EVAP SYSTEM CHECK, keep the temperature below
+35°C (95°F).
+(a) Clear the DTCs (See page ES-45).
+(b) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / SYSTEM CHECK / EVAP SYS
+CHECK / MANUAL OPERATION.
+NEXT
+4 PERFORM EVAP SYSTEM CHECK (STEP 1/5)
+ES
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed
+Vent Valve
+ON
+OFF: Vent
+Leak Detection
+Pump ON
+Canister Pressure Sensor Noise
+EVAP Pressure
+Positive
+Negative
+OK
+First Refer-
+ence
+Pressure
+Steps 1/5
+Time
+10 seconds
+(Reference)
+A106736E08
+(a) Check the EVAP pressure in step 1/5.
+Result
+DTCs* Test Results Suspected Trouble Areas Proceed to
+- Virtually no variation in EVAP pressure Not yet determined A
+EVAP pressure fluctuates by +-0.3 kPa-g (2.25
+P0451 Canister pressure sensor noise B
+mmHg-g) or more
+*: These DTCs are already present in the ECM when the
+vehicle arrives and are confirmed in the "CONFIRM
+DTC" procedures above.
+B Go to step 29

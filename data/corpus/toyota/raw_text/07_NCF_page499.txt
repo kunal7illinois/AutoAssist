@@ -1,0 +1,14 @@
+BODY ELECTRICAL - CRUISE CONTROL SYSTEM BE-165
+Diagnosis
+If a malfunction occurs in the cruise control system, during cruise control operation, the ECM actuates the
+automatic cancel control and blinks the cruise MAIN indicator light to inform the driver of a malfunction.
+At this time, the ECM memorizes the malfunction in the form of 5-digit and 2-digit DTC (Diagnostic
+Trouble Code).
+(cid:3) The 5-digit DTC can be read by connecting a hand-held tester to the DLC3.
+(cid:3) The 2-digit DTC is output to the cruise MAIN indicator light when the Tc and CG terminals of the DLC3
+connector are connected through the use of the SST (09843-18040). Thus, these DTC can be obtained
+by counting the number of blinks of the cruise MAIN indicator light.
+Service Tip
+When using a hand-held tester, a dedicated adapter [CAN VIM (Vehicle Interface Module)] must
+be connected between the DLC3 and the hand-held tester. For details, see the 2007 Camry Repair
+Manual (Pub. No. RM0250U).

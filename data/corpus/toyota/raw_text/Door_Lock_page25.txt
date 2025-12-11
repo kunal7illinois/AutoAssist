@@ -1,0 +1,39 @@
+DL–25
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Front Passenger Side Door UNLOCK Detection Switch Circuit
+DESCRIPTION
+The front passenger door unlock detection switch is built into the front passenger door lock assembly. The
+switch turns on when the front passenger door is locked and turns off when the door is unlocked.
+The main body ECU is connected to the front passenger door lock assembly via terminal LSWP and front
+passenger door lock/unlock state signals are input to the ECU.
+The main body ECU applies voltage to the door unlock detection switch via terminal LSWP. When the
+door unlock detection switch is on (there is continuity between the switch terminals), a lock state signal is
+input to the ECU. When the switch is off (there is no continuity between the switch terminals), an unlock
+state signal is input.
+WIRING DIAGRAM
+Main Body ECU
+H8
+Front Door Lock Assembly RH
+27
+8 E LSSR 7
+E6 LSWP
+B109773E34
+INSPECTION PROCEDURE
+1 READ VALUE OF DATA LIST (DOOR UNLOCK DETECTION SWITCH)
+DL
+(a) Check the DATA LIST to ensure proper function of the
+door unlock detection switch.
+MAIN BODY:
+Measurement Item /
+Item Normal Condition Diagnostic Note
+Display (Range)
+ON: Passenger side door lock is
+Passenger side door lock position
+in UNLOCK position
+P LOCK POS SW switch signal -
+OFF: Passenger side door lock is
+/ON or OFF
+in LOCK position
+OK:
+The display is as specified in the normal condition
+column.

@@ -1,0 +1,54 @@
+ES–388
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 CHECK HARNESS AND CONNECTOR (INSTRUMENT PANEL J/B - INTEGRATION RELAY,
+IG2 RELAY)
+(a) Remove the integration relay and IG2 relay from the
+Wire Harness Side: engine room No. 1 relay block.
+(b) Disconnect the instrument panel junction block
+1A 4 connector.
+(c) Check the resistance.
+Standard resistance (Check for open)
+Tester Connections Specified Conditions
+IG2 relay 5 - IF-4 Below 1 Ω
+ES Engine Room No. 1
+1A-4 - IB-11 Below 1 Ω
+Relay Block
+Standard resistance (Check for short)
+Tester Connections Specified Conditions
+Integration Relay
+IF-4 - Body ground 10 kΩor higher
+IB-11 - Body ground 10 kΩor higher
+(d) Reinstall the integration relay and IG2 relay.
+3 (e) Reconnect the instrument panel junction block
+5 connector.
+1 2
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+IG2 Relay Holder
+Main Body ECU
+IB
+(Instrument Panel Junction
+Block)
+19 1
+20 2
+21 3
+22 4
+23 5
+24 6
+25 7
+26 8
+27 9
+28 10
+29 11
+30 12
+31 13
+32 14
+33 15
+34 16
+35 17
+36 18
+IF 1 2 3
+4 5 6 7 8
+A133157E01
+OK
+GO TO ECM POWER SOURCE CIRCUIT

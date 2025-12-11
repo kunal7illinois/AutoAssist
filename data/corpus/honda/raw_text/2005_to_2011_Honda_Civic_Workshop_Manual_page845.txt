@@ -1,0 +1,34 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Is DTC P0842 indicated?
+YES -Check for intermittent short to body ground in the wire between the 2nd
+clutch transmission fluid pressure switch and the PCM. If the PCM was
+updated, substitute a known-good PCM (see SUBSTITUTING THE PCM ),
+then go to step 23. If the PCM was substituted, go to step 1.
+NO -Go to step 26.
+26. Monitor the OBD STATUS for P0842 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM (see ECM/PCM REPLACEMENT ). If
+any other DTCs were indicated in step 25, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for intermittent short to body ground
+in the wire between the 2nd clutch transmission fluid pressure switch and the
+PCM. If the PCM was updated, substitute a known-good PCM (see
+SUBSTITUTING THE PCM ), then go to step 23. If the PCM was
+substituted, go to step 1. If the HDS indicates NOT COMPLETED, go to step
+23.
+DTC P0843: Open in 2nd Clutch Transmission Fluid Pressure Switch Circuit, or 2nd Clutch Transmission Fluid
+Pressure Switch Stuck OFF
+NOTE:
+Before you troubleshoot, record all freeze data and any
+(cid:1)
+on-board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+This code is caused by an electrical circuit problem and
+(cid:1)
+cannot be caused by a mechanical problem in the
+transmission.
+1. Turn the ignition switch to ON (II).

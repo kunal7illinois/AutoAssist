@@ -1,0 +1,41 @@
+ES–335
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR STRATEGY
+Related DTCs P2A00: Air-Fuel Ratio (A/F) sensor slow response
+Required Sensors/Components (Main) A/F sensor
+Required Sensors/Components (Related) Vehicle speed sensor, Crankshaft position sensor
+Frequency of Operation Once per driving cycle
+Duration 10 to 15 seconds
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+P0031, 32 (A/F Sensor heater - Sensor 1)
+ES
+P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+P0125 (Insufficient ECT for Closed Loop)
+Monitor runs whenever following DTCs not present P0171, P0172 (Fuel system)
+P0300 - P0304 (Misfire)
+P0335 (CKP sensor)
+P0340 (CMP sensor)
+P0455, P0456 (EVAP system)
+P0500 (VSS)
+P2196 (A/F Sensor - rationality)
+Active A/F control Performing
+Active A/F control performed when following conditions met -
+Engine coolant temperature 75°C (167°F) or more
+Battery voltage 11 V or more
+Idle OFF
+Engine RPM Less than 4,000 rpm
+A/F sensor status Activated
+Fuel-cut OFF
+Engine load 10 to 70 %
+Shift position 2 or more
+Catalyst monitor Not yet
+Intake air amount 4 to 16 g/sec.
+TYPICAL MALFUNCTION THRESHOLDS
+Response rate deterioration level Less than 0.12 V
+MONITOR RESULT
+Refer to CHECKING MONITOR STATUS (see page ES-17).

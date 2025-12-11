@@ -1,0 +1,33 @@
+13B-60 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 7. Check the ground voltage at barometric pressure
+sensor connector B-14 by backprobing.
+(1) Do not disconnect the connector B-14.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 5 and ground by
+backprobing.
+• Voltage should be 0.5 volt or less.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+B-14 CONNECTOR Q:Is the voltage normal?
+HARNESS
+SIDE VIEW YES : Go to Step 10.
+NO : Go to Step 8.
+1 2 3 4 5 6 7
+AKX01517AC
+STEP 8. Check connector B-14 at the barometric pressure
+sensor and connector C-51 at ECM <M/T> or connector C-
+52 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : B-14
+YES : Go to Step 9.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+BAROMETRIC
+PRESSURE
+SENSOR
+ACX02480AF
+CONNECTOR : C-51<M/T>, C-52<A/T>
+PCM<A/T> ECM<M/T>
+C-52 C-51
+AK000225AJ
+TSB Revision

@@ -1,0 +1,38 @@
+BC–118
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+HINT:
+The intelligent tester can be used at steps 3, 7, and 10.
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 CUSTOMER PROBLEM ANALYSIS
+(a) Interview the customer and confirm the trouble (See
+page IN-45).
+NEXT
+BC
+3 CHECK DTC AND FREEZE FRAME DATA
+(a) Check and record a DTC and Freeze Frame Data.
+(b) Clear the DTC and Freeze Frame Data (See page BC-
+141).
+(c) Reconfirm the DTC.
+(1) Reconfirm the DTC based on the recorded DTC and
+Freeze Frame Data (See page BC-141 for DTC
+Check/Clear, and BC-144 for Freeze Frame Data).
+HINT:
+If any of the DTCs U0100/65, U0123/62, U0124/95,
+and U0126/63 is output together with a CAN
+communication DTC, first check the appropriate
+sensor for a momentary open circuit (See page BC-
+118).
+Result
+Condition Proceed to
+DTC is output A
+DTC is not output (Problem symptom does not occur) B
+DTC is not output (Problem symptom occurs) C
+B GO TO STEP 5
+C GO TO STEP 6
+A
+4 DIAGNOSTIC TROUBLE CODE CHART
+(a) Proceed to Diagnostic Trouble Code Chart (See page
+BC-151).

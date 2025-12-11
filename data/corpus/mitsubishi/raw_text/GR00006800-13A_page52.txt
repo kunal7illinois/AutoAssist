@@ -1,0 +1,27 @@
+13A-52 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Check the sensor supply voltage at ECM
+connector C-60 <M/T> or PCM connector C-54 <A/T> by
+backprobing.
+(1) Do not disconnect the connector C-60 <M/T> or C-54 <A/
+T>.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 81 <M/T> or 46 <A/
+<M/T>
+T> and ground by backprobing.
+C-60 CONNECTOR • Voltage should be between 4.8 and 5.2 volts.
+HARNESS SIDE VIEW
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+7172737475767778798081 Q:Is the voltage normal?
+8283848586878889909192
+YES : Go to Step 9.
+NO : Go to Step 10.
+AK000283AC
+<A/T>
+C-54 CONNECTOR
+HARNESS SIDE VIEW
+41 42 43 444546
+47 48 495051525354555657
+58 59 60616263 646566
+AK000284AD
+TSB Revision

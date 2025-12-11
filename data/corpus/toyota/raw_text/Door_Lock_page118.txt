@@ -1,0 +1,40 @@
+DL–112
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/o Smart Key System)
+NOTICE:
+If the system fails to enter the self-diagnostic
+mode, the system will return to normal mode.
+(b) Check that the system has switched to self-
+Timing Chart
+diagnostic mode by checking the sound of the
+Buzzer Output: wireless door lock buzzer.
+(c) Check the diagnostic outputs when the door control
+transmitter switch is held down. The diagnostic
+ON
+outputs can be checked by the sound of the
+OFF
+wireless door lock buzzer.
+T3 T2
+T1: 0.25 seconds
+T2: 0.5 seconds
+T3: 0.13 seconds
+B144376E01
+Buzzer Output:
+Unmatching Recognition Code:
+Normal Wave
+ON
+(LOCK/UNLOCK or LUGGAGE OPEN Switch):
+OFF
+Wave is being received
+ON
+OFF
+No Diagnosis Output:
+T1 T2
+OFF
+DL
+T1: 0.13 seconds
+T2: 0.5 seconds
+B113635E02
+3. SELF-DIAGNOSTIC MODE (USING INTELLIGENT
+TESTER)
+(a) Switch to self-diagnostic mode.
+(1) Connect the intelligent tester to the DLC3.

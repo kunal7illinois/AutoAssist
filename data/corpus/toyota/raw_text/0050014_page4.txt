@@ -1,0 +1,41 @@
+ES–76
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+P0011 or P0012 A
+P0011 or P0012 and other DTCs B
+HINT:
+If any DTCs other than P0011 or P0012 are output,
+troubleshoot those DTCs first.
+B GO TO DTC CHART
+A
+2 PERFORM ACTIVE TEST USING INTELLIGENT TESTER (OPERATE OCV)
+ES
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the tester ON.
+(c) Warm up the engine.
+(d) On the tester, select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST /
+VVT CTRL B1.
+(e) Check the engine speed while operating the Oil Control
+Valve (OCV) using the tester.
+OK
+Tester Operations Specified Conditions
+OCV OFF Normal engine speed
+Engine idles roughly or stalls
+OCV ON
+(soon after OCV switched from OFF to ON)
+NG Go to step 4
+OK
+3 CHECK WHETHER DTC OUTPUT RECURS (DTC P0011 OR P0012)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Clear DTCs (see page ES-35).
+(d) Start the engine and warm it up.
+(e) Switch the ECM from normal mode to check mode using
+the tester.
+(f) Drive the vehicle for more than 10 minutes.
+(g) Read DTCs using the tester.
+OK:
+No DTC output.
+NG Go to step 4
+OK
+END

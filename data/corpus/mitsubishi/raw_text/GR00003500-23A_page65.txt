@@ -1,0 +1,35 @@
+AUTOMATIC TRANSAXLE 23A-65
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 12. Check harness for short circuit to ground
+between throttle position sensor connector B-07 terminal 4
+and PCM connector C-54 <2.4L Engine> or C-55 <3.0L
+Engine> terminal 46.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> YES : Go to Step 6.
+B-07
+NO : Repair it.
+B-07
+AC001831AF
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE>
+PCM
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+STEP 13. Check the ground voltage at throttle position
+sensor connector B-07 by backprobing.
+(1) Do not disconnect connector B-07.
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> (2) Turn the ignition switch to the "ON" position.
+B-07
+B-07
+AC001831AF
+(3) Measure the voltage between terminal 1 and ground by
+backprobing.
+B-07 CONNECTOR • Voltage should be 0.5 volt or less.
+HARNESS SIDE VIEW (4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 17.
+NO : Go to Step 14.
+AC001790AC
+TSB Revision

@@ -1,0 +1,23 @@
+BODY ELECTRICAL - METER BE-35
+5. Buzzer
+General
+The table below shows the warning and reminder functions of the buzzer.
+Function Item
+(cid:3) Multi-information Display Warning Mode Indication (See page BE-32)
+Warning
+(cid:3) Shift Down Warning (See page CH-73)
+(cid:3) Key Reminder (For models with smart key system, see page BE-119.)
+Reminder
+(cid:3) Seat Belt Reminder (See page BE-158)
+Key Reminder (Models without Smart Key System)
+When the driver’s door is opened with the ignition key in the ACC or LOCK position, the meter ECU sounds
+the buzzer to warn the driver that the ignition key has not been removed.
+6. Active Circuit
+Active circuits are used in the tire pressure warning light circuit in order to illuminate the light when there
+is an open or short circuit in the wiring harness. Thus, the malfunction detection area has been expanded.
+(cid:1) Active Circuit Conceptual Drawing (cid:2)
+Combination Meter ECU of Each System
+Warning
+Light
+CPU
+264BE56

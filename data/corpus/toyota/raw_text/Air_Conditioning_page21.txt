@@ -1,0 +1,54 @@
+AC–21
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+(6) The internal valve is provided on models with
+2AZ-FE to improve the A/C compressor
+durability under the high speed and large
+thermal load conditions. The internal valve is
+integrated into the solenoid valve.
+(b) Solenoid Valve Operation
+(1) The crank chamber is connected to the
+discharge passage. A solenoid valve is provided
+between the discharge passage (LO pressure)
+and the discharge passage (HI pressure).
+(2) The solenoid valve operates under duty cycle
+control in accordance with the signals from A/C
+amplifier.
+(3) When the solenoid valve closes (solenoid coil is
+energized), a difference in pressure is created
+and the pressure in the crank chamber
+decreases. Then, the pressure that is applied to
+the right side of the piston becomes greater than
+the pressure that is applied to the left side of the
+piston. This compresses the spring and tilts the
+swash plate. As a result, the piston stroke
+increases and the discharge capacity increases.
+(4) When the solenoid valve opens (solenoid coil is
+not energized), the difference in pressure
+disappears. Then, the pressure that is applied to
+the left side of the piston becomes the same as
+the pressure that is applied to the right side of
+AC
+the piston. Thus, the spring elongates and
+eliminates the tilt of the swash plate. As a result,
+there is no piston stroke and the discharge
+capacity is reduced.
+(c) Internal Valve Operation (for 2AZ-FE)
+(1) The internal valve operates when the A/C
+compressor speed has increased rapidly, the A/
+C compressor speed is high, or when thermal
+load has suddenly changed. As a result, the A/C
+compressor capacity is reduced, increasing the
+durability of the A/C compressor.
+(d) DL type A/C Pulley (for 2AZ-FE)
+(1) This pulley contains a damper to absorb the
+torque fluctuations of the engine and a limiter
+mechanism to protect the drive belt in case the
+compressor locks. In the event that the
+compressor locks, the limiter mechanism causes
+the spoke portion of the pulley to break, thus
+separating the pulley from the compressor.
+10. LOCK SENSOR (for 2GR-FE)
+The lock sensor sends A/C pulley speed signals to the A/
+C amplifier. The A/C amplifier determines whether the
+magnetic clutch is locked or not by using those signals
+and engine speed signals.

@@ -1,0 +1,35 @@
+54B-24 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 3. Measure at ETACS-ECU connector C-118 and C-
+119 in order to check the ground circuit to the ETACS-ECU.
+(1) Disconnect ETACS-ECU connector C-118, C-119, and
+CONNECTORS: C-118, C-119 measure at the junction block side.
+JUNCTION BLOCK
+(REAR VIEW)
+C-118
+C-119
+DEVICE SIDE
+C-118
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+C-119
+1 2 3 4 5 6 7 8 91011121314151617181920
+AC106482AB
+(2) Measure the resistance value between terminal 56, 3 and
+ground.
+• The measured value should be 2 ohm or less.
+20191817161514131211109 8 7 6 5 4 3 2 1 Q:Does the measured resistance value correspond with
+this range?
+CONNECTOR C-119
+YES : Go to Step 6.
+(JUNCTION BLOCK SIDE)
+NO : Go to Step 4.
+AC101913AD
+59 58 57565554535251
+68 67 66656463626160
+74 73 72 717069
+CONNECTOR C-118
+(HARNESS SIDE)
+AC106516AB
+TSB Revision

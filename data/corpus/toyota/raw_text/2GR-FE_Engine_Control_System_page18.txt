@@ -1,0 +1,32 @@
+ES–18
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Result
+Result Proceed to
+Malfunction does not occur A
+Malfunction occurs B
+B GO TO STEP 10
+A
+9 SIMULATE SYMPTOMS
+NEXT
+ES
+10 CHECK FOR DTCS*
+Result
+Result Proceed to
+Trouble code A
+No code B
+B GO TO STEP 12
+A
+11 REFER TO DTC CHART
+NEXT
+GO TO STEP 14
+12 CONDUCT BASIC INSPECTION
+Result
+Result Proceed to
+Malfunctioning parts not confirmed A
+Malfunctioning parts confirmed B
+B GO TO STEP 17
+A
+13 REFER TO PROBLEM SYMPTOMS TABLE
+Result
+Result Proceed to
+Malfunctioning circuit confirmed A

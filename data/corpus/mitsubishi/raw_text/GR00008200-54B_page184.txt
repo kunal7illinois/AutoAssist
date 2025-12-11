@@ -1,0 +1,58 @@
+54B-184 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+WINDSHIELD WIPER AND WASHER
+GENERAL DESCRIPTION CONCERNING WINDSHIELD WIPER AND WASHER
+M1549021500019
+The following ECUs affect the functions and control
+of the windshield wiper and washer.
+Functions Control ECU
+Intermittent control (Vehicle speed-dependent variable type) ETACS-ECU, front ECU, column switch
+Mist wiper control ETACS-ECU, front ECU, column switch
+Low speed wiper, high speed wiper control ETACS-ECU, front ECU, column switch
+Washer control ETACS-ECU, front ECU, column switch
+WINDSHIELD WIPER AND WASHER CONTROL FUNCTION
+.
+Intermittent control (Vehicle speed-dependent variable
+type)
+The ETACS-ECU calculates the intermittent time according to
+Change in intermittent time by intermittent
+time adjusting volume (when vehicle is the vehicle speed calculated from the windshield wiper intermit-
+stationary) tent time adjusting knob and vehicle speed signal (ECM <M/T>
+18
+or PCM <A/T>,) and sends it to the front ECU as SWS data.
+NOTE: The vehicle speed-dependent function can be disabled
+Intermittent
+by the configuration function (Refer to P.54B-627.)
+time TI
+(seconds)
+0
+FAST SLOW
+Intermittent time adjusting
+volume position
+Change in intermittent time
+according to speed
+18
+When at SLOW position
+Intermittent
+time TI
+(seconds) When at FAST position
+0 100
+Vehicle speed (km/h)
+AC005434AB
+The front ECU determines the intermittent time TI from the
+input SWS data signal, and turns ON the windshield wiper drive
+ON
+Windshield signal. When the wiper is at the STOP position, the windshield
+wiper drive
+signal wiper auto-stop signal goes OFF to turn OFF the windshield
+OFF TI TI TI
+wipe drive signal. After the intermittent time TI seconds from
+when the windshield wiper drive signal turned ON, the wind-
+ON
+Windshield shield wiper drive signal is turned ON again and the above
+wiper auto-
+stop signal operation is repeated.
+OFF
+AC101465AB
+.
+TSB Revision

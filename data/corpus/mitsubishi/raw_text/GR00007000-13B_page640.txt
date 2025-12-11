@@ -1,0 +1,51 @@
+13B-640 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the circuit at ECM connector C-62 <M/T> or
+PCM connector C-59.
+(1) Disconnect the connectors C-62 <M/T> or C-59 <A/T> and
+measure at the harness side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 83 and ground.
+<M/T>
+• Voltage should be 1 volt or less when the A/C switch is
+C-62 HARNESS "OFF".
+SIDE CONNECTOR • Voltage should be battery positive voltage when the A/C
+77 76 75 7473 7271 switch is "ON".
+90 89 8887868584838281807978
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+100 99 989796 9594 939291
+Q:Is the voltage normal?
+YES : Replace the ECM or PCM. Then confirm that the
+malfunction symptom is eliminated.
+NO : Refer to GROUP 55, Diagnosis − Introduction To
+AK000389AC
+Heater, Air Conditioning And Ventilation Diagnosis
+<A/T>
+C-59 HARNESS P.55-5.
+SIDE CONNECTOR
+77 76 75 74737271
+89 88 87868584838281807978
+98 97 9695 949392 9190
+AKX01449AH
+DATA LIST REFERENCE TABLE
+M1131152000166
+CAUTION
+• When shifting the select lever to D range, the brakes should be applied so that the vehicle does
+not move forward.
+• Driving tests always need two persons: one driver and one observer.
+NOTE: Sensor 1 indicates the sensor mounted at a position closest to the engine, and sensor 2 indicates the
+sensor mounted at the position second close to the engine.
+NOTE: Bank 1 indicates the right bank cylinder, and bank 2 indicates the left bank cylinder.
+NOTE: *1: If the idle speed is lower than the standard value on a very cold engine [approximately -20°C (-
+4°F)] even when the IAC motor is fully opened, the air volume limiter built in the throttle body could be defec-
+tive.
+NOTE: *2: In a new vehicle [driven approximately 500 km (311 mile) or less], the step of the stepper motor is
+sometimes 30 steps greater than the standard value.
+NOTE: *3: The injector drive time represents the time when the cranking speed is at 250 r/min or below when
+the power supply voltage is 11 volts.
+NOTE: *4: In a new vehicle [driven approximately 500 km (311 mile) or less], the injector drive time is some-
+times 10% longer than the standard time.
+NOTE: *5: In a new vehicle [driven approximately 500 km (311 mile) or less], the volume air flow sensor out-
+put frequency is sometimes 10% higher than the standard frequency.
+NOTE: *6: Applicable to GST
+TSB Revision

@@ -1,0 +1,32 @@
+RS–245
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+OK:
+"COMPLETE" is displayed.
+(5) Perform the sensitivity check by following the
+prompts on the tester screen.
+(6) Confirm that the beginning sensor reading within
+standard value.
+Standard value:
+-3.2 to 3.2 kg (-7 to 7 lb)
+(7) Place a 30 kg (66.14 lb) weight (eg. a 30 kg
+(66.14 lb) of lead mass) onto the front passenger
+seat.
+(8) Confirm that the sensitivity is within the standard
+value.
+SENSITIVITY CHECK PROCEDURE
+“1: DIAGNOSIS” - “1: OBD/MOBD” - “MODEL YEAR” - “MODEL SELECTION = CAMRY” - Select the
+option parts - “9: OCCUPANT DETECT” - Refer to the following screen flow.
+RS
+*1: kg = lb
+Unit can be changed based on unit conversion setting.
+[System Selection Screen]
+“1: DIAGNOSIS” - “9: SETUP” - “4: UNIT CONVERSION”
+- “WEIGHT” (kg = lbs)
+C C113453E18
+Standard value:
+27 to 33 kg (59.52 to 72.75 lb)
+HINT:
+• When performing the sensitivity check, use a
+solid metal weight (the check result may not
+appear properly if the weight made from liquid
+is used).

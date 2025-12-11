@@ -1,0 +1,61 @@
+BC–20
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+PROBLEM SYMPTOMS TABLE
+If a normal code is displayed during the DTC check but the
+problem still occurs, check the circuits for each problem
+symptom in the order given in the table below and proceed to
+the relevant troubleshooting page.
+NOTICE:
+When replacing the skid control ECU, sensor, etc., turn
+the ignition switch off.
+HINT:
+• Inspect the fuses and relays before investigating the
+suspected areas as shown in the table below.
+• Inspect each malfunction circuit in numerical order for the
+corresponding symptoms.
+ANTI-LOCK BRAKE SYSTEM:
+Symptom Suspected area See page
+1. Check the DTC reconfirming that the normal system code is BC-21
+output
+BC 2. IG power source circuit BC-63
+3. Front speed sensor circuit BC-30
+4. Rear speed sensor circuit BC-38
+5. Check the brake actuator assembly with the intelligent tester BR-42
+ABS does not operate
+(Check brake actuator assembly operation using the active
+test function) If abnormal, check the hydraulic circuit for
+leakage
+6. If the symptoms still occur even after the above circuits in BC-432
+suspected areas have been inspected and proved to be
+normal, replace the brake actuator assembly (skid control
+ECU)
+1. Check the DTC reconfirming that the normal system code is BC-21
+output.
+2. Front speed sensor circuit BC-30
+3. Rear speed sensor circuit BC-38
+4. Stop light switch circuit BC-67
+ABS does not operate efficiently 5. Check the brake actuator assembly with the intelligent tester BR-42
+(Check brake actuator assembly operation using the active
+test function)
+6. If the symptoms still occur even after the above circuits in BC-432
+suspected areas have been inspected and proved to be
+normal, replace the brake actuator assembly (skid control
+ECU)
+1. ABS warning light circuit BC-74
+ABS warning light malfunction (Remains on)
+2. Brake actuator assembly (skid control ECU) BC-432
+ABS warning light malfunction (Does not come on) 1. ABS warning light circuit BC-78
+1. Brake warning light circuit BC-81
+Brake warning light malfunction (Remains on)
+2. Brake actuator assembly (skid control ECU) BC-432
+1. Brake warning light circuit BC-91
+Brake warning light malfunction (Does not come on)
+2. Brake actuator assembly (skid control ECU) BC-432
+1. Check the DTC again and make sure that the normal BC-21
+system code is output
+2. TS and CG terminal circuit BC-97
+ABS sensor DTC check cannot be done 3. TC and CG terminal circuit BC-94
+4. If the symptoms still occur even after the above circuits in BC-432
+suspected areas have been inspected and proved to be
+normal, replace the brake actuator assembly (skid control
+ECU)

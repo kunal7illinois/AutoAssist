@@ -1,0 +1,26 @@
+AC–112
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+Steering Pad Switch Circuit
+DESCRIPTION
+AUTO, OFF, TEMP UP (+), and TEMP DOWN (-) switches are located on the steering pad switch. The
+resistance of the steering pad switch changes in accordance with switch operation. The A/C control
+assembly outputs voltage to the steering pad switch and reads voltage changes due to the resistance
+changes that result from switch operation.
+HINT:
+If there is an open in the circuit, the A/C system cannot be operated by the steering pad switch assembly.
+If there is a short in the circuit, the resulting condition is the same as if the switch were continuously
+depressed. Therefore, the A/C control assembly cannot be operated by the steering pad switch assembly,
+and the A/C control assembly will not be able to function correctly.
+WIRING DIAGRAM
+Spiral Cable Sub-assembly A/C Control Assembly
+2 9 8
+EAC
+a1 E18 F16 SG
+3 10 9
+AC1
+a1 E18 F16 ADI1
+AC
+Steering Pad Switch Assembly
+(Steering Pad Switch RH)
+AUTO OFF TEMP+ TEMP-
+E124492E02

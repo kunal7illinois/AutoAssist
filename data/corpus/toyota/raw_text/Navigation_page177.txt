@@ -1,0 +1,30 @@
+NS–177
+NAVIGATION – NAVIGATION SYSTEM
+Mute Signal Circuit between Radio and Navigation Assembly and
+Stereo Component Amplifier
+DESCRIPTION
+This circuit sends a signal to the stereo component amplifier to mute noise. Because of that, the noise
+produced by changing the sound source ceases.
+If there is an open in the circuit, noise can be heard from the speakers when changing the sound source.
+If there is a short in the circuit, even though the stereo component amplifier is normal, no sound, or only
+an extremely small sound, can be produced.
+WIRING DIAGRAM
+Stereo Component Amplifier Radio and Navigation Assembly
+1 7
+MUTE F19 F9 MUTE
+E110892E20
+INSPECTION PROCEDURE
+1 INSPECT STEREO COMPONENT AMPLIFIER
+(a) Measure the voltage according to the value(s) in the
+Wire Harness View:
+table below.
+F19 Standard voltage
+Tester connection Condition Specified condition
+Turn ignition switch on
+Above 3.5 V → Below 1
+MUTE - Body ground (ACC), Audio system is
+V
+playing → Changing
+MUTE OK PROCEED TO NEXT CIRCUIT INSPECTION
+E126155E02 SHOWN IN PROBLEM SYMPTOMS TABLE
+NG NS

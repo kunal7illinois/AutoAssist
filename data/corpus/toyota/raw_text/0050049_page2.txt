@@ -1,0 +1,53 @@
+ES–272
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P2102 Throttle Actuator Control Motor Circuit Low
+DTC P2103 Throttle Actuator Control Motor Circuit High
+DESCRIPTION
+The throttle actuator is operated by the ECM and opens and closes the throttle valve using gears.
+The opening angle of the throttle valve is detected by the Throttle Position (TP) sensor, which is mounted
+on the throttle body. The TP sensor provides feedback to the ECM. This feedback allows the ECM to
+appropriately control the throttle actuator and monitor the throttle opening angle as the ECM responds to
+driver inputs.
+HINT:
+ES This ETCS (Electronic Throttle Control System) does not use a throttle cable.
+DTC No. DTC Detection Conditions Trouble Areas
+Conditions (a) and (b) continue for 2.0 seconds (1 trip
+• Open in throttle actuator circuit
+detection logic):
+P2102 • Throttle actuator
+(a) Throttle actuator duty ratio 80 % or more
+• ECM
+(b) Throttle actuator current 0.5 A or less
+• Short in throttle actuator circuit
+Either of following conditions met (1 trip detection logic): • Throttle actuator
+P2103 • Hybrid IC diagnosis signal failure • Throttle valve
+• Hybrid IC current limiter port failure • Throttle body assembly
+• ECM
+MONITOR DESCRIPTION
+The ECM monitors the electrical current through the electronic actuator, and detects malfunctions and
+open circuits in the throttle actuator based on this value. If the current is outside the standard range, the
+ECM determines that there is a malfunction in the throttle actuator. In addition, if the throttle valve does
+not function properly (for example, stuck on), the ECM determines that there is a malfunction. The ECM
+then illuminates the MIL and sets a DTC.
+Example:
+When the electrical current is less than 0.5 A and the throttle actuator duty ratio exceeds 80 %, the ECM
+interprets this as the current being outside the standard range, and illuminates the MIL and sets a DTC.
+If the malfunction is not repaired successfully, a DTC is set when the engine is quickly revved to a high
+rpm several times after the engine has idled for 5 seconds after engine start.
+MONITOR STRATEGY
+P2102: Throttle actuator current (low current)
+Related DTCs
+P2103: Throttle actuator current (high current)
+Required Sensors/Components (Main) Throttle actuator (throttle body)
+Required Sensors/Components (Related) None
+Frequency of Operation Continuous
+2 seconds: P2102
+Duration
+0.1 seconds or 0.6 seconds: P2103
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+P2102:
+Throttle actuator Activated
+Duty-cycle ratio to open throttle actuator 80 % or more

@@ -1,0 +1,34 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+known-good PCM (see SUBSTITUTING THE PCM ), then go to step 58. If
+the PCM was substituted, go to step 1.
+NO -Go to step 61.
+61. Monitor the OBD STATUS for P0705 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM (see ECM/PCM REPLACEMENT ). If
+any other DTCs were indicated in step 60, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for intermittent short to body ground
+in the wire between the transmission range switch and the PCM. If the PCM
+was updated, substitute a known-good PCM (see SUBSTITUTING THE
+PCM ), then go to step 58. If the PCM was substituted, go to step 1. If the
+HDS indicates NOT COMPLETED, go to step 58.
+DTC P0706: Open in Transmission Range Switch Circuit
+NOTE:
+Before you troubleshoot, record all freeze data and any
+(cid:1)
+on-board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+This code is caused by an electrical circuit problem and
+(cid:1)
+cannot be caused by a mechanical problem in the
+transmission.
+1. Turn the ignition switch to ON (II).
+2. Clear the DTC with the HDS.
+3. Raise the front of the vehicle, make sure it is securely supported, and allow the
+front wheels to rotate freely. Or raise the vehicle on a lift.
+4. Start the engine, run the vehicle with the shift lever in D until the vehicle speed
+reaches 25 mph (40 km/h), then slow down and stop the wheels.

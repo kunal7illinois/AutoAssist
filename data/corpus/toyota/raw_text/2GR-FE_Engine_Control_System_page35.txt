@@ -1,0 +1,53 @@
+ES–35
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(c) Monitor Status
+(1) Connect an intelligent tester to the DLC3.
+(2) Turn the ignition switch on (IG).
+(3) Turn the tester or scan tool on.
+(4) Check the Readiness Monitor status displayed
+on the tester or scan tool.
+If the status does not switch to COMPL
+(complete), restart the engine, make sure that
+the preconditions have been met, and then
+perform the Monitor Conditions again.
+4. A/F SENSOR AND HO2S MONITORS
+Monitor Drive Pattern:
+Accelerator Pedal Depressed
+ECT: 75°C (167°F) or more
+Accelerator
+At least 3 times
+Pedal Released ES
+Vehicle Speed (Fuel-cut)
+38 to 75 mph 40 mph (64 km/h)
+(60 to 120 km/h) or more
+6 mph (10
+km/h)
+Idling
+Time
+Warming up
+10 minutes or more 10 seconds or more 4 seconds or more
+G039003E12
+(a) Preconditions
+The monitor will not run unless:
+• 2 minutes or more have elapsed since the engine
+was started.
+• The Engine Coolant Temperature (ECT) is 75°C
+(167°F) or more.
+• Cumulative driving time at a vehicle speed of 30
+mph (48 km/h) or more exceeds 6 minutes.
+• Air-fuel ratio feedback control is performed.
+• Fuel-cut control is performed for 8 seconds or
+more (for the Rear HO2 Sensor Monitor).
+(b) Drive Pattern for front A/F sensor and HO2 sensor
+(1) Connect an intelligent tester to the DLC3.
+(2) Turn the ignition switch on (IG).
+(3) Turn the tester on.
+(4) Clear the DTCs.
+(5) Start the engine, and warm it up until the ECT
+reaches 75°C (167°F) or higher.
+(6) Drive the vehicle at 38 mph (60 km/h) or more
+for at least 10 minutes.
+(7) Change the transmission to the 2nd gear.
+(8) Accelerate the vehicle to 40 mph (64 km/h) or
+more by depressing the accelerator pedal for at
+least 10 seconds (Procedure "A").

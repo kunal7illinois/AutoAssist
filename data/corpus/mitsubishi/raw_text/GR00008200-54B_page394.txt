@@ -1,0 +1,33 @@
+54B-394 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 15. Measure at combination meter connector C-43 in
+order to check the ground circuit to the fog light indicator
+light.
+(1) Disconnect fog light indicator light connector C-43, and
+CONNECTOR: C-43
+measure at the wiring harness side.
+DEVICE SIDE
+1 2 3 4 5 6 7 8 9 10111213141516
+AC106473AJ
+(2) Measure the resistance value between terminal 12 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR: C-43
+(HARNESS SIDE) Q:Does the measured resistance value correspond with
+this range?
+16151413121110 9 8 7 6 5 4 3 2 1 YES : Go to Step 18.
+NO : Go to Step 16.
+AC102921AB
+STEP 16. Check combination meter connector C-43 for
+damage.
+Q:Is combination meter connector C-43 in good
+CONNECTOR: C-43
+condition?
+YES : Go to Step 17.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. Check
+that the fog light indicator light illuminates normally.
+DEVICE SIDE
+1 2 3 4 5 6 7 8 9 10111213141516
+AC106473AJ
+TSB Revision

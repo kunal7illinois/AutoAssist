@@ -1,0 +1,37 @@
+23A-282 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 3. Check the power supply voltage at dual pressure
+switch connector A-36.
+(1) Disconnect the connector A-36 and measure at the harness
+CONNECTOR: A-36
+side.
+(2) Start the engine and run at idle.
+A-36
+AC004374AC
+(3) Measure the voltage between terminal 2 and ground.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+HARNESS
+Q:Is the voltage normal?
+CONNECTOR: A-36
+YES : Go to Step 9.
+NO : Go to Step 4.
+AC002094AC
+STEP 4. Check the power supply voltage at automatic
+compressor controller connector C-12 by backprobing.
+(1) Do not disconnect connector C-12.
+CONNECTOR: C-12
+(2) Start the engine and run at idle.
+(3) Operate the A/C.
+C-12
+AC001741AT
+(4) Measure the voltage between terminal 4 and ground by
+backprobing.
+• Voltage should be battery positive voltage.
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 8.
+C-12 CONNECTOR NO : Go to Step 5.
+HARNESS SIDE VIEW
+AC102545AB
+TSB Revision

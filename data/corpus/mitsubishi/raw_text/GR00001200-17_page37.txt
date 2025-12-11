@@ -1,0 +1,55 @@
+ENGINE AND EMISSION CONTROL 17-37
+AUTO-CRUISE CONTROL
+STEP 9. Check the output circuit voltage at auto-cruise
+control-ECU connector C-20 (terminal numbers 9 and 12)
+by backprobing.
+(1) Do not disconnect auto-cruise control-ECU connector C-20.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 12 and ground by
+backprobing.
+• Voltage should be battery positive voltage.
+C-20 CONNECTOR
+(The MAIN switch is at the "ON" position.)
+HARNESS SIDE VIEW
+(4) Measure the voltage between terminal 9 and ground by
+1 2 3 4 5 6 7 8 backprobing.
+9 10111213141516 • Voltage should be between 6.8 and 7.2 volts.
+(MAIN switch is at the "ON" position.)
+• Voltage should be between 3.5 and 5.0 volts.
+(All switches are at the "OFF" position.)
+AC103149AB
+• Voltage should be between 0.4 and 2.3 volts.
+("SET" switch is at the "ON" position.)
+• Voltage should be between 2.3 and 3.5 volts.
+("RESUME" switch is at the "ON" position.)
+• Voltage should be between 1 volt or less.
+("CANCEL" switch is at the "ON" position.)
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage within specifications?
+YES : Check that diagnostic trouble code 15 is not output.
+If diagnostic trouble code 15 is output, replace the
+auto-cruise control-ECU. (Refer to P.17-86.)
+Then check that diagnostic trouble code 15 is not
+output.
+NO : Go to Step 10.
+STEP 10. Check auto-cruise control-ECU connector C-20.
+Q:Is the connector damaged?
+CONNECTOR: C-20
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that diagnostic trouble code 15 is not
+output.
+NO : Go to Step 11.
+AC001451AB
+STEP 11. Check the clock spring.
+Refer to GROUP 52B, Air Bag Modules and Clock Spring
+P.52B-144.
+Q:Is the clock spring damaged?
+YES : Replace the clock spring.
+Refer to GROUP 52B, Air Bag Modules and Clock
+Spring P.52B-144.
+Then check that diagnostic trouble code 15 is not
+output.
+NO : Go to Step 12.
+TSB Revision

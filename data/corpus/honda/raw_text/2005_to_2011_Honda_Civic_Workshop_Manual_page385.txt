@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+TROUBLESHOOTING ).
+4. Check for PGM-FI, Body Electrical, and SRS DTCs with the HDS.
+Are there any PGM-FI Body Electrical, or SRS DTCs?
+YES -Go to the indicated DTC's troubleshooting.
+NO -Go to step 5.
+5. Do the gauge control module self-diagnostic function (see CIRCUIT
+DIAGRAM - DASH LIGHTS BRIGHTNESS CONTROLLER ).
+Does the SRS indicator come on?
+YES -Faulty SRS unit; replace the SRS unit (see SELF-DIAGNOSTIC
+FUNCTION ).
+NO -Faulty gauge control module (tach); replace the gauge control module
+(tach) (see TACHOMETER ).
+SRS INDICATOR STAYS ON, BUT NO DTCS ARE STORED
+NOTE: Before doing this troubleshooting procedure, check the
+battery condition (see BATTERY TEST ). If the battery
+voltage is high or low, SRS indicator stays on.
+1. Turn the ignition switch ON (II), and see if the malfunction indicator lamp
+(MIL) come on.
+Does the MIL come on?
+YES -Check for a PGM-FI System DTC troubleshoot as necessary:
+R18A1 engine (see GENERAL TROUBLESHOOTING
+(cid:1)
+INFORMATION )
+K20Z3 engine (see GENERAL TROUBLESHOOTING
+(cid:1)
+INFORMATION )

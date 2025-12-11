@@ -1,0 +1,30 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-59
+SRS AIR BAG DIAGNOSIS
+STEP 2. Check the ground line at the SRS-ECU connector
+C-72.
+(1) Disconnect SRS-ECU connector C-72.
+CONNECTOR: C-72
+(2) Connect the negative battery terminal.
+CAUTION
+Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+weakened.
+(3) Measure the continuity between terminal 3 and ground.
+SRS-ECU • Should be less than 2 ohm.
+ACCELERATOR PEDAL Q:Is the continuity normal?
+CENTER REINFORCEMENT(LH)AC000358AD
+YES : Go to Step 3.
+NO : Then go to Step 5.
+C-72 CONNECTOR
+(HARNESS SIDE) REAR VIEW
+1 2 3 4 5 6 7 8
+9 10111213141516
+AC106679AB
+STEP 3. Check the SRS warning light bulb.
+Q:Has the SRS warning light bulb blown?
+SRS WARNING LIGHT
+YES : Replace the SRS warning light bulb. Then go to Step
+6.
+NO : Go to Step 4.
+AC000346AB
+TSB Revision

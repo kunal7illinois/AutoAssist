@@ -1,0 +1,32 @@
+35C-2 TRACTION CONTROL SYSTEM (TCL)
+GENERAL DESCRIPTION
+GENERAL DESCRIPTION
+.
+M1354000100085
+If the throttle is opened excessively when a vehicle is ECU determines which wheel begins to slip accord-
+started or accelerated, the driving wheels may slip ing to that signal. If the ABS-ECU determines wheel
+due to excessive drive torque. This adversely affects slip, it activates the solenoid valves and the pump
+startability, accelerating ability or controllability. To inside the hydraulic unit to prevent the wheel slip by
+ensure startability, accelerating ability and controlla- applying brake ensuring controllability. This TCL sys-
+bility, this TCL system will prevent wheel slip by con- tem is controlled by the ABS-ECU, and the TCL com-
+trolling (applying) brake fluid pressure to the drive ponents are shared by the ABS system. If the ABS
+wheels to adjust the driving torque according to road hydraulic unit is faulty, the ABS-ECU must be
+conditions. Each wheel-speed sensor detects wheel replaced.
+speed and converts it to an electric signal. The ABS-
+CONSTRUCTION DIAGRAM
+<ECLIPSE>
+4
+5
+3
+2
+1
+7
+6
+7
+6
+AC004379AB
+1. HYDRAULIC UNIT (INTEGRATED 4. TCL INDICATOR LIGHT
+WITH ABS-ECU) 5. TCL WARNING LIGHT
+2. STOPLIGHT SWITCH 6. ABS ROTOR
+3. DATA LINK CONNECTOR 7. WHEEL SPEED SENSOR
+TSB Revision

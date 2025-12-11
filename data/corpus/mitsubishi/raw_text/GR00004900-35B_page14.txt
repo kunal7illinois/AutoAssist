@@ -1,0 +1,42 @@
+35B-14 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+STEP 8. Check the wheel bearing.
+Refer to GROUP 26, Front Hub Assembly P.26-7, or GROUP
+27, Rear Axle Hub P.27-6.
+Q:Is the wheel bearing damaged?
+YES : Replace it and then go to Step 9.
+NO : Go to Step 9.
+STEP 9. Check the diagnostic trouble codes.
+Q:Do the diagnostic trouble codes 11, 12, 13, 14, 21, 22, 23
+or 24 reset?
+YES : Go to Step 1.
+NO : This diagnosis is complete.
+DTC 15: Wheel Speed Sensor (Abnormal Output Signal)
+. .
+WHEEL SPEED SENSOR CIRCUIT TROUBLESHOOTING HINTS (The most likely
+Refer to P.35B-8. causes for this DTC is to set are:)
+• Improper installation of the wheel speed sensor
+. CIRCUIT OPERATION • Malfunction of the wheel speed sensor
+Refer to P.35B-8. • Damaged wiring harness or connector
+• Malfunction of the ABS rotor
+. • Malfunction of the wheel bearing
+ABS DTC SET CONDITIONS
+• DTC 15 is output when output signal produced by
+any of wheel speed sensor is abnormal (exclud-
+ing short and open-circuits).
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991529: Diagnostic Trouble Code Check Harness
+.
+STEP 1. Check the wheel speed sensor installation.
+Q:Are the wheel speed sensors bolted securely in place at
+FRONT WHEEL REAR WHEEL
+SPEED SENSOR SPEED SENSOR the front knuckle or the rear knuckle?
+YES : Go to Step 2.
+NO : Install it properly. (Refer to P.35B-55.) Then go to
+Step 8 .
+AC000939AB
+TSB Revision

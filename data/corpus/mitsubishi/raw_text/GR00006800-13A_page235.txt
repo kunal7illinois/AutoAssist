@@ -1,0 +1,24 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-235
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Erase the DTC.
+(4) Test drive under the following conditions:
+• Engine speed: 3000 − 5000r/min
+• Engine load : 40 % or more
+• Drive a minimum of 3 seconds after the above condi-
+16 PIN tions have been met.
+(5) After completing the test drive, read the DTC.Turn the
+MB991502
+ignition switch to the "LOCK" (OFF) position.
+AKX01177AB
+Q:Is the DTC P0325 is output?
+YES : The inspection is complete.
+NO : Retry the troubleshooting.
+TSB Revision

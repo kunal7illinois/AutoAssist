@@ -1,0 +1,37 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+relay voltage
+LT Communication
+10 K-LINE - - -
+BLU with HDS
+Detects left-
+12 ORN FL+B front wheel - - -
+sensor signal
+Detects left-rear
+14 BLU RL+B wheel sensor - - -
+signal
+Detects right-
+15 WHT RR-GND rear wheel - - -
+sensor signal
+Power source ON (II)
+Ignition
+16 GRY IG1 for activating 16-GND Battery
+switch
+the system voltage
+F-CAN
+17 RED CAN-L communication - - -
+circuit
+Detects right-
+18 PNK FR-GND front wheel - - -
+sensor signal
+Ground for the
+24 BLK GND ABS modulator- 24-GND At all times Continuity
+control unit
+Ground for the
+25 BLK MR-GND 25-GND At all times Continuity
+pump motor
+SYSTEM OUTLINE
+This system is composed of the ABS modulator-control unit, the wheel sensors, and
+the system indicators in the gauge control module. The ABS modulator-control unit
+controls the anti-lock brake and the brakes distribution functions.

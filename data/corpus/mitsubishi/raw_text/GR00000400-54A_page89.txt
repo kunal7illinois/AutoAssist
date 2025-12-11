@@ -1,0 +1,32 @@
+CHASSIS ELECTRICAL 54A-89
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+CONNECTOR: C-41
+CONNECTOR: C-90
+CONNECTOR BLOCK (LH)
+AC106473BB AC106477AF
+CONNECTOR <ECLIPSE> : D-17 CONNECTOR <ECLIPSE SPYDER> : D-17
+AC106483AJ AC106485AJ
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+• The ignition switch (IG1) circuit is the power If the ignition switch (IG1) circuit is open, the gauge
+needle will not move at all. If the ground circuit is
+source for the fuel gauge.
+• The resistance value fluctuates causing the cir- open, the gauge needle will move up to its extreme
+position.
+cuit current to fluctuate when the fuel gauge unit
+the float moves up and down.
+.
+• The fuel gauge moves the needle by the circuit TROUBLESHOOTING HINTS
+current. • Malfunction of the fuel pump module (fuel gauge
+unit)
+. • Malfunction of the combination meter (printed-cir-
+cuit board or fuel gauge assembly)
+.
+DIAGNOSIS
+Required Special Tool:
+MB991223: Harness Set
+STEP 1. Check the speedometer operation.
+Q:Does the speedometer work normally?
+YES : Go to Step 2.
+NO : Refer to Inspection Procedure 1 P.54A-74.
+TSB Revision

@@ -1,0 +1,35 @@
+ES–366
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+10 INSPECT AIR FUEL RATIO SENSOR (HEATER RESISTANCE)
+(a) Disconnect the C15 or C35 A/F sensor connector.
+Component Side:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance (Bank 1 sensor 1)
++B HA1A
+Tester Connection Condition Specified Condition
+HA1A (1) - +B (2) 20°C (68°F) 1.8 Ω to 3.4 Ω
+C15
+HA1A (1) - A1A- (4) Always 10 kΩ or higher
+Bank 1
+Standard resistance (Bank 2 sensor 1)
+A1A- A1A+ Tester Connection Condition Specified Condition
+A/F Sensor Front View
+ES HA2A (1) - +B (2) 20°C (68°F) 1.8 Ω to 3.4 Ω
+HA2A (1) - A2A- (4) Always 10 kΩ or higher
++B HA2A (c) Reconnect the A/F sensor connector.
+NG REPLACE AIR FUEL RATIO SENSOR (See
+C35 page EC-19)
+Bank 2
+A2A- A2A+
+A/F Sensor Front View
+A126269E11
+OK
+11 INSPECT FUSE (A/F FUSE)
+(a) Remove the A/F fuse from the integration relay.
+(b) Measure the A/F fuse resistance.
+Standard resistance:
+Below 1 Ω
+(c) Reinstall the A/F fuse.
+NG REPLACE A/F FUSE
+OK

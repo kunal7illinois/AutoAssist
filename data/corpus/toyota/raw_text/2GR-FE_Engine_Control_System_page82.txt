@@ -1,0 +1,65 @@
+ES–82
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Suspected Trouble MIL Memory See page
+Area
+P0455 Evaporative Emission 1. Fuel tank cap Comes on DTC stored ES-274
+Control System Leak (loose)
+Detected (Gross 2. Leakage from
+Leak) EVAP line (Canister -
+Fuel tank)
+3. Leakage from
+EVAP line (EVAP
+VSV - Canister)
+4. Pump module
+5. Leakage from fuel
+tank
+6. Leakage from
+canister
+P0456 Evaporative Emission Same as DTC P0455 Comes on DTC stored ES-274
+Control System Leak
+Detected (Very Small
+ES
+Leak)
+P0500 Vehicle Speed 1. Vehicle speed Comes on DTC stored ES-279
+Sensor "A" sensor
+2. Vehicle speed
+sensor signal circuit
+3. Combination meter
+4. ECM
+5. Skid control ECU
+P0504 Brake Switch "A" / "B" 1. Short in stop light Does not come on DTC stored ES-284
+Correlation switch signal circuit
+2. Stop light switch
+3. ECM
+P0505 Idle Control System 1. ETCS (Electronic Comes on DTC stored ES-288
+Malfunction Throttle Control
+System)
+2. Air induction
+system
+3. PCV hose
+connection
+4. ECM
+P050A Cold Start Idle Air 1. Throttle body Comes on DTC stored ES-291
+Control System assembly
+Performance 2. MAF meter
+3. Air induction
+system
+4. PCV hose
+connections
+5. VVT system
+6. Air cleaner filter
+element
+7. ECM
+P050B Cold Start Ignition Same as DTC P050A Comes on DTC stored ES-291
+Timing Performance
+P0560 System Voltage 1. Open in back-up Comes on DTC stored ES-297
+power source circuit
+2. ECM
+P0604 Internal Control ECM Comes on DTC stored ES-302
+Module Random
+Access Memory
+(RAM) Error
+P0606 ECM / PCM ECM Comes on (except DTC stored ES-302
+Processor when there is a
+malfunction in the
+ECM internal circuit)

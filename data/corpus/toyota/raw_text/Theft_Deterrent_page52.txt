@@ -1,0 +1,45 @@
+TD–50
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/o Smart Key System)
+• The theft deterrent system switches to the
+alarm sounding state. Under this condition,
+the theft deterrent system is controlling the
+alarm rather than the panic alarm control. In
+order to cancel this alarm, refer to the theft
+deterrent system alarm sounding state
+cancellation procedure. (This condition is
+common both to active arming mode to
+passive arming mode.)
+HINT:
+Active arming mode: See ACTIVE ARMING
+MODE.
+Passive arming mode: See PASSIVE ARMING
+MODE.
+8. SECURITY INDICATOR OUTPUT
+(a) The main body ECU outputs a signal to light up the
+security indicator, according to the state of the theft
+deterrent system. However, some of the actual
+lighting conditions of the security indicator are
+different from the output signals of the main body
+ECU.
+Output:
+Security Indicator
+State of Theft Deterrent System*
+Output Signals from Main Body ECU Actual Lighting Condition
+OFF (Immobiliser system unset)
+Disarmed state 1, 2 OFF
+BLINKING (Immobiliser system set)
+Arming preparation state ON ON
+Armed state OFF BLINKING
+Alarm sounding state ON ON
+Blinking cycle:
+Time Security Indicator
+TD
+0.2 sec. ON
+1.8 sec. OFF
+HINT:
+• *: The above condition is common both to active
+arming mode and to passive arming mode.
+• When the immobiliser system is set, the security
+indicator blinks during both the disarmed state
+and the armed state, due to the output signals
+from the immobiliser system.

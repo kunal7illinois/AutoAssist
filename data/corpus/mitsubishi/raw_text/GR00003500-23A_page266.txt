@@ -1,0 +1,38 @@
+23A-266 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 2. Check the hydraulic pressure.
+(1) Measure the hydraulic pressure of each element. Check if
+each hydraulic pressure is within the standard value. Refer
+to P.23A-26, Hydraulic Pressure Test.
+(2) If some elements are within the standard value and some
+are not, recheck the symptom.
+Q:Are all hydraulic pressures within the standard value?
+YES : Go to Step 6.
+NO : Go to Step 3.
+STEP 3. Adjust the line pressure.
+Adjust the line pressure. Refer to P.23A-40, Line Pressure
+Adjustment. Then check the symptom.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Go to Step 4.
+STEP 4. Replace the oil pump.
+(1) Remove the transaxle.
+(2) Replace the oil pump. (Oil pump can not be repaired). Refer
+to GROUP 23B, Transaxle P.23B-10. Then check the
+symptom.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Go to Step 5.
+AC001865
+STEP 5. Disassemble and clean the valve body.
+Check the O-ring installation bolts for looseness and the valve
+VALVE body for damage. Repair or replace the faulty parts. Refer to
+BODY
+GROUP 23B, Valve Body P.23B-74.
+ASSEMBLY
+Q:Is the repair possible and the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Replace the valve body assembly. Then check the
+symptom. Go to Step 7.
+AC001860AB
+TSB Revision

@@ -1,0 +1,44 @@
+Audi TT No. 47 / 31
+Current Flow Diagram
+Control unit in dash panel insert, brake fluid level warning
+contact, ambient temperature sensor, front left brake pad
+wear sender, brake pad warning lamp, coolant shortage
+indicator switch, washer fluid warning contact
+F34 Brake fluid level warning contact
+F66 Coolant shortage indicator switch
+F77 Washer fluid warning contact
+G17 Ambient temperature sensor
+G34 Front left brake pad wear sender
+J285 Control unit in dash panel insert
+K32 Brake pad warning lamp
+T32 32-pin connector, blue, on control unit in dash panel insert
+Y24 Display in dash panel insert
+410 Earth connection 1 (sender earth), in main wiring harness
+B379 Connection 1 (brake wear indicator), in main wiring harness
+B380 Connection 2 (brake wear indicator), in main wiring harness
+* output sender earth
+K32 Y24 J285
+T32/7 T32/14 T32/20 T32/21 T32/24 T32
+/28
+✱
+0,5 0,35 0,35 0,35 0,35
+ge br/ws li/ws br/ge br/ge
+B379 B380
+0,5 0,5 0,5
+ge ro br
+2 1 112233 1 2 1 2
+ϑ
+F34 F77 F66 G17
+G34 2 1 2 1 ws = white
+443333 sw = black
+ro = red
+0,35 0,35 0,35 0,35 0,35 0,35 br = brown
+br/bl br/bl br/bl br/bl br/bl br/bl gn = green
+410 bl = blue
+gr = grey
+li = purple
+ge = yellow
+407 408 409 410 411 412 413 414 415 416 417 418 419 420 or = orange
+8J0-047310409
+rs = pink
+Edition 04.2010

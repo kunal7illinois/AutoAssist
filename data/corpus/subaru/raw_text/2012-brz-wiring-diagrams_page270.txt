@@ -1,0 +1,28 @@
+A73(A), D5(B), D6(C)
+(BAT) Main Body ECU
+1
+R–L
+(BAT) (ACC) (IG)
+10A
+ECU IG1
+2 2 2
+8 9
+G–R
+G
+R–G
+7. 5A 10A
+MPX–B ECU ACC
+2
+L–R
+G
+R–G
+Wireless Door Lock Control (w/o Smart Entry & Start System)
+(BAT)
+15A 7. 5A
+HAZ ECU–B
+IG ACC
+2
+1 1
+25 AD2
+270
+BRZ (G4400BE)

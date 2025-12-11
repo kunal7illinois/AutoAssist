@@ -1,0 +1,53 @@
+Audi TT No. 35 / 7
+Current Flow Diagram
+Electric windbreak
+J519 Onboard supply control unit
+J531 Cabrio windbreak control unit
+SC7 Fuse 7 on fuse holder C
+SC22 Fuse 22 on fuse holder C
+SC25 Fuse 25 on fuse holder C
+SD3 Fuse 3 on fuse holder D
+T2t 2-pin connector, black connector L, on onboard supply control
+unit
+T10d 10-pin connector, black, connector K, on onboard power supply
+4,0 B163 4,0 6,0 B299 16,0 control unit
+sw sw ro ro
+7 22 25 44 Earth point, lower part of left A-pillar
+J51 T 9 2t/2 S 5A C7 S 30 C A 22 S 20 C A 25 SD E 3 1
+7a 22a 25a 110A 376 Earth connection 11, in main wiring harness
+✱
+0,5 4,0 2,5 B163 Positive connection 1 (15), in interior wiring harness
+sw/ge sw/bl li/ws
+8833 T10d/6 B281 Positive connection 5 (15a), in main wiring harness
+B281
+J519
+B299 Positive connection 3 (30), in main wiring harness
+9977 9977
+B485 Connection 21 in main wiring harness
+0,5 0,5 2,5 2,5
+sw/ge sw/ge ro/bl ro/ge
+* main fuse box, in luggage compartment, rear right, on the battery
+** Windbreak relay, relay carrier under left dash panel
+✱✱ 5.1 12/86 32/30 1/86 3/30
+5.2
+J531
+22/85 42/87a 52/87 2/85 4/87a 5/87
+7755
+0,5 2,5 2,5 0,5 2,5 2,5 4,0
+ge/ws br sw/bl ge/ro br sw/bl sw/bl
+8877 8888
+B485
+ws = white
+376 sw = black
+ro = red
+br = brown
+4,0 gn = green
+br
+bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+71 72 73 74 75 76 77 78 79 80 81 82 83 84 or = orange
+8J0-035070407
+rs = pink
+Edition 10.2010

@@ -1,0 +1,58 @@
+13A-422 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TECHNICAL DESCRIPTION • Engine coolant temperature is higher than 45°C
+• The manifold differential pressure sensor outputs (113°F).
+a voltage which corresponds to the negative • Intake air temperature is higher than 0°C (32°F).
+pressure in the intake manifold. • Volumetric efficiency is lower than 30 percent.
+• The ECM <M/T> or PCM <A/T> checks whether
+Judgment Criteria
+the voltage output by manifold differential pres-
+• Manifold differential pressure sensor output volt-
+sure sensor is within a specified range.
+age has continued to be higher than 4.2 volts
+[corresponding to an absolute pressure of 108
+.
+DTC SET CONDITIONS
+kPa (16 psi) or higher] for 2 seconds.
+Check Conditions
+Check Conditions
+• 8 minutes or more have passed after starting the • 8 minutes or more have passed after starting the
+engine. Note that this is only if the engine coolant
+engine. Note that this is only if the engine coolant
+temperature is less than 0°C (32°F) when start- temperature is 0°C (32°F) or more when starting.
+ing. • Engine coolant temperature is higher than 45°C
+• Engine coolant temperature is higher than 45°C (113°F).
+(113°F).
+• Intake air temperature is higher than 0°C (32°F).
+• Intake air temperature is higher than 0°C (32°F). • Volumetric efficiency is higher than 70 percent.
+• Volumetric efficiency is between 30 and 45 per-
+Judgment Criteria
+cent.
+• Manifold differential pressure sensor output volt-
+Judgment Criteria
+age has continued to be lower than 1.8 volts [cor-
+• Manifold differential pressure sensor output volt-
+responding to an absolute pressure of 46 kPa
+age has continued to be higher than 4.6 volts
+(4.6 psi) or lower] for 2 seconds.
+[corresponding to an absolute pressure of 118
+kPa (17 psi) or higher] for 2 seconds. .
+TROUBLESHOOTING HINTS (The most likely
+or
+causes for this code to be set are: )
+• Manifold differential pressure sensor output volt-
+• Manifold differential pressure sensor failed.
+age has continued to be lower than 0.1 volt [cor-
+• Open or shorted manifold differential pressure
+responding to an absolute pressure of 2.4 kPa
+sensor circuit, or loose connector.
+(0.3 psi) or lower] for 2 seconds.
+• ECM failed. <M/T>
+Check Conditions • PCM failed. <A/T>
+• 8 minutes or more have passed after starting the
+engine. Note that this is only if the engine coolant
+temperature is 0°C (32°F) or more when starting.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

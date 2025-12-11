@@ -1,0 +1,32 @@
+54A-70 CHASSIS ELECTRICAL
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 37. Check connectors C-50, C-61 <2.4L> or C-52, C-
+63 <3.0L> at PCM and B-38 at output shaft speed sensor
+for damage.
+Q:Are the connectors in good condition?
+CONNECTORS: C-50, C-61 <2.4L-A/T>,
+C-52, C-63 <3.0L-A/T> YES : Go to Step 38.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. The
+PCM
+speedometer should work normally.
+C-50 <2.4L-A/T> C-61 <2.4L-A/T>
+C-52 <3.0L-A/T> C-63 <3.0L-A/T>
+AC001689BA
+CONNECTOR: B-38
+AC101972AC
+STEP 38. Check the continuity at output shaft speed
+sensor connector B-38.
+(1) Disconnect connector B-38 and measure at the harness
+CONNECTOR: B-38
+side.
+AC101972AC
+(2) Check for the continuity between terminal 1 and ground.
+HARNESS • The measured value should be 2 ohm or less.
+CONNECTOR: B-38
+Q:Does the measured resistance value correspond with
+this range?
+YES : Go to Step 39.
+NO : Go to Step 41.
+AC101973AC
+TSB Revision

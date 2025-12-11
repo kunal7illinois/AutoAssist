@@ -1,0 +1,25 @@
+13B-522 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Check the continuity at manifold differential
+pressure sensor harness side connector B-04.
+(1) Disconnect the connector B-04 and measure at the harness
+side.
+(2) Measure the continuity between terminal 2 and ground.
+• Should be less than 2 ohm.
+B-04 HARNESS
+SIDE CONNECTOR Q:Is the continuity normal?
+YES : Go to Step 9.
+3 2 1
+NO : Go to Step 7.
+AKX01426AC
+STEP 7. Check connector C-58 at ECM <M/T> or connector
+C-55 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-58<M/T>, C-55<A/T>
+YES : Go to Step 8.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 12.
+C-55 C-58
+AK000225AI
+TSB Revision

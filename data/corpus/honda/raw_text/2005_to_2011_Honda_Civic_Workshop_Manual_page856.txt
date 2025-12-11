@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES -Go to step 23.
+NO -Repair open in the wire between PCM connector terminal B9 and the 3rd
+clutch transmission fluid pressure switch, then go to step 16.
+16. Reconnect all connectors.
+17. Turn the ignition switch to ON (II).
+18. Clear the DTC with the HDS.
+19. Start the engine, and warm it up to normal operating temperature (the radiator
+fan comes on).
+20. Test-drive the vehicle in 3rd gear with the shift lever in D3, for at least 2
+seconds. Then shift to D, and drive in 4th gear for at least 2 seconds.
+21. Check for DTCs with the HDS.
+Is DTC P0848 indicated?
+YES -Check for poor connections or loose terminals between the 3rd clutch
+transmission fluid pressure switch and the PCM, then go to step 1.
+NO -Go to step 22.
+22. Monitor the OBD STATUS for P0848 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+21, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals between the 3rd clutch transmission fluid pressure switch and the
+PCM, then go to step 1. If the HDS indicates NOT COMPLETED, go to step
+19.

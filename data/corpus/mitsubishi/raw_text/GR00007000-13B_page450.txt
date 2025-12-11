@@ -1,0 +1,21 @@
+13B-450 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 25. Check for clogging in the evaporator line from
+hose N.
+(1) The clogging test with a hand vacuum pump on the hose N.
+HOSE N
+Q:Is the hose N in good condition?
+YES : Go to Step 26.
+NO : Replace the hose N, and reinstall the fuel tank. (Refer
+to GROUP 13C, Fuel Tank P.13C-11.) Then go to
+Step 26.
+AC000195AD
+STEP 26. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 1 - Evaporative Emission Control System Leak
+Monitor P.13B-6.
+(2) Read the diagnostic trouble code.
+Q:Is diagnostic trouble code P0455 set?
+YES : Go to Step 1.
+NO : This diagnosis is complete.
+TSB Revision

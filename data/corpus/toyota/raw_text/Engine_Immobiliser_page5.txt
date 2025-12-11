@@ -1,0 +1,59 @@
+EI–5
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+SYSTEM DESCRIPTION
+1. ENGINE IMMOBILISER SYSTEM DESCRIPTION
+(a) The immobiliser system is a theft deterrent system
+that determines whether to disable starting of the
+SFI system based on a comparison of the key's ID
+codes and the vehicle's pre-registered code. The
+immobiliser system compares the vehicle
+certification ECU's pre-registered ID code with the
+ID of the key-embedded transponder chip. If the ID
+codes do not match, the immobiliser system
+activates and the SFI system cannot be started. The
+certification ECU manages communication with the
+ECM, main body ECU, steering lock ECU and ID
+code box. When the ID codes of the transponder
+chip and certification ECU match, the certification
+ECU authorizes the SFI system to start.
+2. FUNCTION OF MAIN COMPONENT
+Component Outline
+Receives key ID code, amplifies ID code and outputs the code to the
+Transponder key coil/amplifier (built into engine switch)
+certification ECU.
+Transmits key detection signals within the detection area in the vehicle
+interior upon receiving a transmission request signal from the
+Indoor electrical key oscillator certification ECU.
+Certification ECU request signal is activated when the key is brought
+into the vehicle interior and the engine switch is pushed.
+Receives an ID code from the key in the actuation area and transmits
+Door control receiver
+it to the certification ECU.
+Illuminates or starts flashing.
+Security indicator
+Illumination is controlled by the certification ECU.
+3. SYSTEM FUNCTION
+(a) Using entry function
+(1) When the driver (or passenger) is sitting in the
+vehicle while carrying the key, and the engine
+switch is pressed while the brake pedal is EI
+depressed, the main body ECU recognizes that
+the engine start operation has occurred and
+sends a certification request signal to the
+certification ECU. Upon receipt of the
+certification request signal, the certification ECU
+sends a request signal to the indoor electrical
+key oscillator. Upon receipt of the request signal,
+the indoor electrical key oscillator sends a
+request signal to detect if the key is inside the
+vehicle. When the key receives this request
+signal, it answers by sending an ID code
+containing a response code through the glass
+antenna to the door control receiver. Upon
+receipt of the ID code, the certification ECU
+analyzes the code. If the interior certification
+passes, then the main body ECU sends a
+certification pass response signal. When the
+main body ECU receives this signal, the ACC
+relay is switched on and the IG1 and IG2 relays
+are switched on in sequence. At this time, the

@@ -1,0 +1,34 @@
+ES–91
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK HARNESS AND CONNECTOR (HO2 SENSOR - EFI RELAY)
+(a) Check the EFI No. 1 fuse.
+Wire Harness Side: (b) Disconnect the B19 HO2 sensor connector.
+(c) Remove the integration relay from the engine room No. 1
+relay block.
+HO2 Sensor Connector
+(d) Check the resistance.
+Standard resistance (Check for open)
++B
+Tester Connections Specified Conditions
+B19
+B19-2 (+B) - 1A-4 (Engine room No. 1
+Below 1 Ω
+R/B)
+ES
+Standard resistance (Check for short)
+Integration Relay
+Tester Connections Specified Conditions
+B19-2 (+B) or 1A-4 (Engine room No.
+10 kΩ or higher
+1A 1 R/B) - Body ground
+(e) Reconnect the HO2 sensor connector.
+(f) Reinstall the integration relay.
+4 NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Engine Room
+No. 1 Relay
+Block
+EFI No. 1
+A127734E01
+OK
+CHECK ECM POWER SOURCE CIRCUIT

@@ -1,0 +1,35 @@
+TD–7
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/ Smart Key System)
+(a) Active arming mode:
+This system activates as described in the diagram
+below when one of items for each condition is met.
+Disarmed State
+Condition (10)
+Disarmed State 1 *1 Disarmed State 2*2
+Condition (9)
+Condition (3) Condition (1)
+Condition (8)
+Arming Preparation State
+Condition (7)
+Condition (2)
+Condition (5) Condition (7)
+Armed State
+Condition (6) Condition (4) TD
+Condition (5) Condition (7)
+Alarm Sounding State
+B144373E01
+HINT:
+• *1: Disarmed state 1 is the normal disarmed
+state.
+• *2: Disarmed state 2 is set from either the
+disarmed state 1 or the arming preparation state.
+Condition Item
+In the disarmed state 1, when the key is not in the actuation area, the system state is switched if
+one of the following conditions is met.
+1. With all doors, engine hood and luggage compartment door closed, lock all doors by key
+operation.
+Condition (1)
+2. With all doors, engine hood and luggage compartment door closed, lock all doors by wireless
+operation.
+3. With engine hood and luggage compartment door closed and all doors locked with any door still
+opened, close the open door.

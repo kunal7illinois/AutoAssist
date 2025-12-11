@@ -1,0 +1,54 @@
+ABS, TRAC and VSC (TMMK Made)
+System Outline
+1. ABS Operation
+If the brake pedal is depressed suddenly, the ABS controls the hydraulic pressure of the wheel cylinders for all the four
+wheels to automatically avoid wheel locking and ensure the directional and steering stability of the vehicle. If the brake pedal
+is depressed suddenly, the skid control ECU controls the solenoids in the actuators using the signals from the sensors to
+move the brake fluid to the reservoir in order to release the braking pressure applied to the wheel cylinder. If the skid control
+ECU detects that the fluid pressure in the wheel cylinder is insufficient, the ECU controls the solenoids in the actuators to
+increase the braking pressure.
+2. Traction Control Operation
+The traction control system controls the engine torque, the hydraulic pressure of the driving wheel cylinders, slipping of the
+wheels which may occur at start or acceleration of the vehicle, to ensure an optimal driving power and vehicle stability
+corresponding to the road conditions.
+3. VSC Operation
+Unexpected road conditions, vehicle speed, emergency situation, and any other external factors may cause large under– or
+over–steering of the vehicle. If this occurs, the VSC system automatically controls the engine power and wheel brakes to
+reduce the under– or over–steering.
+To reduce large over–steering :
+If the VSC system determines that the over–steering is large, it activates the brakes for the outer turning wheels depending
+on the degree of the over–steering to produce the moment toward the outside of the vehicle and reduce the over–steering.
+To reduce large under–steering :
+If the VSC system determines that the under–steering is large, it controls the engine power and activates the rear wheel
+brakes to reduce the under–steering.
+4. Fail Safe Function
+If an error occurs in the skid control ECU, sensor signals, and/or actuators, the skid control ECU inhibits the brake actuator
+control and inputs the error signal to the engine control module. According to the error signal, the brake actuator turns off the
+solenoid and the engine control module rejects any electronically controlled throttle open request from the VSC system. As a
+result, the vehicle functions regardless of the ABS, TRAC, and VSC systems.
+: Parts Location
+Code See Page Code See Page Code See Page
+48 (2GR–FE) C1 B 54 (2AZ–FE) E41 B 57
+AA1144
+52 (2AZ–FE) 50 (2GR–FE) E42 A 57
+CC55
+A18 59 54 (2AZ–FE) E43 B 57
+A19 59 C20 55 (2AZ–FE) E44 C 57
+A24 A 52 (2AZ–FE) C24 B 55 (2AZ–FE) E46 E 57
+48 (2GR–FE) C50 51 (2GR–FE) E49 57
+AA3355
+52 (2AZ–FE) C55 B 51 (2GR–FE) E62 G 57
+A40 A 59 C57 51 (2GR–FE) E63 H 57
+A41 A 59 E8 C 56 E65 57
+A42 B 59 E10 56 F1 A 58
+A55 A 49 (2GR–FE) E13 56 F2 B 58
+A58 A 59 E17 56 f1 61
+49 (2GR–FE) E31 56 g1 61
+AA6600
+53 (2AZ–FE) E33 56
+C1 A 50 (2GR–FE) E40 B 57
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+260
+CAMRY (EM0250U)

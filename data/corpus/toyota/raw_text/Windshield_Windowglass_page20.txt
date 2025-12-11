@@ -1,0 +1,58 @@
+WS–20
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+DATA LIST / ACTIVE TEST
+1. USING INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Monitor the ECU data by following the prompts on
+the tester screen.
+WS HINT:
+The intelligent tester has a "Snapshot" function
+which records the monitored data. Refer to the
+intelligent tester operator's manual for further
+details.
+2. DATA LIST
+HINT:
+Using the DATA LIST displayed on the intelligent tester,
+the value of the switches, sensors, actuators, etc. can be
+read without part removal. Reading the DATA LIST as
+the first step in troubleshooting is one way to shorten the
+labor time.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Read the DATA LIST according to the display on the
+tester.
+Body:
+Measurement Item/Display Normal Condition
+Item Diagnostic Note
+(Range)
+Master switch communication OK: Communication is normal
+Communication Master SW -
+signal OK/STOP STOP: Communication is stop
+ON: Power source mode is (IG)
+Ignition Switch Ignition switch signal/ON or OFF OFF: Power source mode is off or -
+on (ACC)
+Driver side door courtesy switch ON: Driver side door is open
+D Door Courtesy SW -
+signal/ON or OFF OFF: Driver side door is closed
+ON: Front passenger side door is
+Front passenger side door open
+P Door Courtesy SW -
+courtesy switch signal/ON or OFF OFF: Front passenger side door
+is closed
+3. ACTIVE TEST
+HINT:
+Performing the ACTIVE TEST using the intelligent tester
+allows you to operate the relay, VSV, actuator, etc.
+without parts removal. Performing the ACTIVE TEST as
+the first step in troubleshooting is one way to shorten the
+labor time. It is possible to display the DATA LIST during
+the ACTIVE TEST.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Perform the ACTIVE TEST according to the display
+on the tester.
+Body:
+Item Test Detail Diagnostic Note
+Operates power window ON/OFF (After
+IG OFF P/W Control Permission Output -
+ignition OFF)

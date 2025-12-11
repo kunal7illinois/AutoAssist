@@ -1,0 +1,48 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-539
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Check for open circuit and short circuit to ground
+between ignition coil connector and ECM connector <M/T>
+or PCM connector <A/T>.
+a. Check the harness wire between ignition coil connector B-
+CONNECTORS : B-16, B-21
+16 terminal 3 and ECM connector C-49 terminal 10 <M/T>
+or PCM connector C-50 terminal 11 <A/T> when checking
+ignition coil 1.
+B-21 B-16 b. Check the harness wire between ignition coil connector B-
+21 terminal 3 and ECM connector C-49 terminal 23 <M/T>
+or PCM connector C-50 terminal 12 <A/T> when checking
+ignition coil 2.
+Q:Is the harness wire in good condition?
+AAKK000000336622AB YES : Replace the PCM. Then confirm that the malfunction
+symptom is eliminated.
+CONNECTORS:C-49<M/T>,C-50<A/T>
+NO : Repair it. Then confirm that the malfunction symptom
+is eliminated.
+ECM<M/T>
+OR
+PCM<A/T>
+C-49,C-50
+AK000280BC
+STEP 7. Check for harness damage between ignition coil
+connector and ECM connector <M/T> or PCM connector
+<A/T>.
+a. Check the harness wire between ignition coil connector B-
+CONNECTORS : B-16, B-21
+16 terminal 3 and ECM connector C-49 terminal 10 <M/T>
+or PCM connector C-50 terminal 11 <A/T> when checking
+ignition coil 1.
+B-21 B-16 b. Check the harness wire between ignition coil connector B-
+21 terminal 3 and ECM connector C-49 terminal 23 <M/T>
+or PCM connector C-50 terminal 12 <A/T> when checking
+ignition coil 2.
+Q:Is the harness wire in good condition?
+AAKK000000336622AB YES : Go to Step 8.
+NO : Repair it. Then confirm that the malfunction symptom
+CONNECTORS:C-49<M/T>,C-50<A/T>
+is eliminated.
+ECM<M/T>
+OR
+PCM<A/T>
+C-49,C-50
+AK000280BC
+TSB Revision

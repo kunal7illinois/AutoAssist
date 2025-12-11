@@ -1,0 +1,45 @@
+23A-40 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+LINE PRESSURE ADJUSTMENT
+M1231001700156
+1. Drain the A/T fluid.
+NOTE: Be sure to perform the hydraulic pressure test before
+attempting any adjustments.
+2. Remove the valve body cover.
+3. Turn the adjusting screw shown in the illustration to adjust
+the line pressure to the standard value. The pressure
+increases when the screw is turned to the left.
+NOTE: When adjusting the line pressure, adjust to the mid-
+dle of the standard value range.
+ADJUSTING Standard value: 1.01 − 1.05 MPa (147 − 152 psi)
+SCREW
+4. Install the valve body cover. Pour in one quart A/T fluid.
+5. Repeat the hydraulic pressure test. (Refer to P.23A-26.)
+Readjust the line pressure if necessary.
+AC006153AB
+DIAGNOSTIC TROUBLE CODE CHART
+M1231007900136
+CODE DIAGNOSIS ITEM REFERENCE
+PAGE
+11 Throttle position sensor system Short circuit P.23A-42
+12 Open circuit P.23A-51
+14 Sensor out of adjustment P.23A-59
+15 A/T fluid temperature sensor system Open circuit P.23A-70
+16 Short circuit P.23A-77
+21 Crankshaft position sensor system Open circuit P.23A-83
+22 Input shaft speed sensor system Short circuit/open circuit P.23A-101
+23 Output shaft speed sensor system Short circuit/open circuit P.23A-115
+26 Stoplight switch system Short circuit P.23A-129
+27 Park/Neutral position switch system Open circuit P.23A-136
+28 Short circuit P.23A-166
+31 Low-reverse solenoid valve system Short circuit/open circuit P.23A-180
+32 Underdrive solenoid valve system Short circuit/open circuit P.23A-188
+33 Second solenoid valve system Short circuit/open circuit P.23A-195
+34 Overdrive solenoid valve system Short circuit/open circuit P.23A-202
+36 Torque converter clutch solenoid system Short circuit/open circuit P.23A-209
+41 1st gear incorrect ratio P.23A-217
+42 2nd gear incorrect ratio P.23A-217
+43 3rd gear incorrect ratio P.23A-217
+44 4th gear incorrect ratio P.23A-217
+46 Reverse gear incorrect ratio P.23A-217
+TSB Revision

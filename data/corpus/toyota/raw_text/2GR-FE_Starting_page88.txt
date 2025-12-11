@@ -1,0 +1,28 @@
+ST–88
+2GR-FE STARTING – SMART KEY SYSTEM
+WIRING DIAGRAM
+E58
+Certification ECU Main Body ECU
+Instrument Panel J/B
+9
+LIN IR LIN1
+10 14
+B137989E01
+INSPECTION PROCEDURE
+1 CHECK FOR DTCS
+(a) Delete the DTCs (See page ST-26).
+(b) Check for DTC B2287 and B2785.
+Result
+Display (DTC output) Proceed to
+"DTC B2287" only A
+"DTC B2287" and "DTC B2785" B
+No DTC C
+HINT:
+If DTC B2785 is output, perform troubleshooting for DTC
+B2785 first (See page EI-29).
+B GO TO DTC B2785
+C CHECK INTERMITTENT PROBLEMS
+A
+ST
+2 CHECK WIRE HARNESS (MAIN BODY ECU - CERTIFICATION ECU)
+(a) Disconnect the E58 and IR ECU connectors.

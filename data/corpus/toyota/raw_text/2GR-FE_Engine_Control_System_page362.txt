@@ -1,0 +1,46 @@
+ES–362
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Result
+Display (DTC Output) Proceed to
+P2195, P2196, P2197, or P2198 A
+P2195, P2196, P2197, or P2198 and other DTCs B
+HINT:
+If any DTCs other than P2195, P2196, P2197 or P2198 are
+output, troubleshoot those DTCs first.
+B GO TO DTC CHART (See page ES-63)
+A
+2 READ VALUE OF INTELLIGENT TESTER (TEST VALUE OF A/F SENSOR)
+ES
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Clear the DTCs.
+(d) Allow the vehicle to drive in accordance with the driving
+pattern described in the CONFIRMATION DRIVING
+PATTERN.
+(e) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / MONITOR INFO / MONITOR STATUS.
+(f) Check the status of O2S MON is COMPL.
+If the status is still INCMPL, drive the vehicle according
+to the driving pattern again.
+HINT:
+• AVAIL indicates that the component has not been
+monitored yet.
+• COMPL indicates that the component is functioning
+normally.
+• INCMPL indicates that the component is
+malfunctioning.
+(g) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / MONITOR INFO / TEST RESULT / RANGE B1
+S1, then press the ENTER button.
+(h) Check the test value of the A/F sensor output current
+during fuel-cut.
+Result
+Test Value Proceed to
+Within normal range (1.4 mA or more, and less than 3.6 mA) A
+Outside normal range (Less than 1.4 mA, or 3.6 mA or more) B
+B Go to step 20
+A
+3 READ VALUE OF INTELLIGENT TESTER (OUTPUT VOLTAGE OF A/F SENSOR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine.
+(c) Turn the tester on.

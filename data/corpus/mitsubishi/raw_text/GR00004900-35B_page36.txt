@@ -1,0 +1,36 @@
+35B-36 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+STEP 6. Check the continuity between the combination
+meter and the ABS-ECU.
+Check the continuity between the combination meter connector
+CONNECTOR: A-02
+C-42 (terminal 24) and the ABS-ECU connector A-02 (terminal
+21).
+NOTE: This check must be done with the ABS-ECU connector
+A-02 is connected to the ABS-ECU. Disconnection of the ABS-
+ECU connector A-02 makes the connector lock switch OFF, so
+HARNESS SIDE
+this continuity check could not be done.
+Q:Is there the continuity between the combination meter
+connector C-42 (terminal 24) and the ABS-ECU
+AC001985AF connector A-02 (terminal 21)?
+YES : Go to Step 9.
+CONNECTOR: C-42
+COMBINATION NO : Repair the harness wire and then go to Step 9.
+HARNESS SIDE METER
+AC004483AC
+STEP 7. Check the connectors C-41, C-108, and C-111.
+Refer to GROUP 00E, Harness Connector Inspection P.00E-2.
+Q:Is any of the connectors damaged?
+CONNECTOR: C-41
+YES : Repair it and then go to Step 9.
+COMBINATION METER
+NO : Go to Step 8.
+AC004482AB
+CONNECTORS: C-108, C-111
+JUNCTION BLOCK
+(FRONT VIEW)
+C-108
+C-111
+AC102831AC
+TSB Revision

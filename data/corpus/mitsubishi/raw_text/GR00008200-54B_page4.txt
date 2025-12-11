@@ -1,0 +1,58 @@
+54B-4 SIMPLIFIED WIRING SYSTEM (SWS)
+GENERAL DESCRIPTION
+Windshield Mist Wiper Operation park/neutral position switch "R" turns ON. One sec-
+• If the windshield mist wiper switch is turned to the ond later, the ETACS-ECU turns ON the rear wiper
+ON position with the ignition switch at the "ACC" drive signal for three seconds (approx. two cycles).
+or "ON" position, the mist wiper high-speed oper- Then, 7.4 seconds later, the intermittent motion of
+ation signal is sent to the front-ECU. This signal eight seconds’ cycle is restored.
+turns on the wiper speed switching relay, causing
+the wipers to work at high-speed while the mist . Rear Washer Operation
+switch is on. If the rear wiper and washer switch is turned to the
+• While the windshield mist wiper switch remains ON (washer) position with the ignition switch at the
+turned on when the intermittent mode is still work- "ACC" or "ON" position, the rear washer ON signal is
+ing, the wipers work as the mist wiper. However, sent to the ETACS-ECU, causing the rear wiper sig-
+the wipers return to the intermittent mode again nal to turn on after 0.3 seconds. After the rear
+when the switch is changed back to "INT" posi- washer switch signal turns off, the rear wiper signal
+tion. turns off in three seconds. If the rear washer switch is
+• To prevent the windshield mist wiper from operat- turned to the ON position while the rear wiper is in
+ing when the windshield wiper switch is turned intermittent mode, the rear washer works for that
+OFF, the windshield mist wiper does not work for period when the washer switch remains on. Then the
+0.5 seconds after the windshield intermittent rear wipers return to the intermittent mode.
+wiper switch, the windshield low-speed wiper
+switch and the windshield high-speed wiper SEAT BELT WARNING LIGHT
+switch are turned OFF.
+If the driver turns the ignition switch to the "ON" posi-
+tion without wearing the seat belt, the seat belt warn-
+.
+Windshield Washer Operation ing light illuminates to alert the driver to wear the seat
+• If the windshield washer switch is turned to ON belt.
+position with the ignition switch at "ACC" or "ON"
+position, the windshield washer ON signal is sent HEADLIGHT
+to the front-ECU, causing the windshield wiper
+signal to turn on after 0.3 seconds. After the wind- .Headlight Automatic Shutdown Function
+shield washer switch signal turns off, the wind- When the headlights or taillights are on, and the igni-
+shield wiper signal turns off in three seconds. tion switch is turned from "ON" to "LOCK" (OFF) or
+• If the windshield washer switch is turned on while "ACC" position or the ignition key is removed, the
+the windshield wiper is at intermittent mode, headlights will be switched off in three minutes. If the
+when the windshield washer switch is turned OFF driver’s door is opened within that three-minute
+within 0.2 seconds, the wiper works only once to period, the headlights will be switched off automati-
+perform mist operation by the windshield washer cally. This prevents the battery from discharging.
+switch. When the ON condition of the windshield
+.
+washer switch continues more than 0.2 seconds, Headlight Dimmer Switch Automatic Resetting
+the wiper performs the same movement as nor- Function
+mal condition from the time when 0.2 seconds This function allows the dimmer switch to be reset to
+has elapsed and then returns to the intermittent the low-beam position whenever the headlight switch
+motion. is turned to the ON position.
+REAR WIPER AND WASHER FLASHER TIMER
+.Rear Wiper Operation .Turn-signal Light
+If the rear wiper and washer switch is turned to "INT" When the ignition switch is turned to the "ON" posi-
+position with the ignition switch at "ACC" or "ON" tion and turn-signal light switch is placed in the ON
+position, the ETACS-ECU turns ON the rear wiper position for right or left turn-signaling, the system
+drive signal for three seconds (approx. two cycles), generates turn-signal light drive signals (flashing sig-
+then 7.4 seconds later the intermittent motion oper- nals). The system also notifies of a blown turn-signal
+ates every eight seconds. If the selector lever is light bulb by shortening the flashing intervals of the
+moved to the "R" position when the rear wiper and corresponding indicator light.
+washer switch is turned to the "INT" position and the
+ignition switch is at the "ACC" or "ON" position, the .
+TSB Revision

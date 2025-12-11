@@ -1,0 +1,45 @@
+ES–421
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+B Go to step 11
+C Go to step 29
+D Go to step 20
+A
+7 PERFORM EVAP SYSTEM CHECK (STEP 2/5 TO 3/5)
+ON: Open
+ON ES
+Purge VSV
+OFF: Closed
+ON: Closed
+Vent Valve ON
+OFF: Vent
+Leak Detection
+Pump
+ON
+EVAP Pressure
+Positive
+Negative
+Vent Valve Stuck
+Open (vent)
+First Reference
+Pressure
+Steps 2/5 3/5
+Time
+Within 15 minutes
+(Reference)
+A106739E05
+(a) Check the EVAP pressure increase in step 3/5.
+Result
+DTCs* Test Results Suspected Trouble Areas Proceed to
+EVAP pressure increases by 0.3 kPa-g (2.25
+- mmHg-g) or more within 10 seconds of Not yet determined A
+proceeding from step 2/5 to step 3/5
+No variation in EVAP pressure despite
+P2420 Vent valve stuck open (vent) B
+proceeding from step 2/5 to step 3/5
+No variation in EVAP pressure during steps 1/
+P0451 Canister pressure sensor malfunction fixed C
+5 through 3/5
+*: These DTCs are already present in the ECM when the
+vehicle arrives and are confirmed in the "CONFIRM
+DTC" procedures above.
+B Go to step 19

@@ -1,0 +1,32 @@
+BC–376
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC C1288/88 ECU Version Miss Match
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+C1288/88 ECM does not match ECM
+INSPECTION PROCEDURE
+1 CHECK CAN COMMUNICATION SYSTEM
+(a) Check if a CAN communication system DTC is output
+(See page BC-302).
+Result
+Condition Proceed to
+CAN communication system DTC is not output A
+BC
+CAN communication system DTC is output B
+B INSPECT CAN COMMUNICATION SYSTEM
+(See page CA-8)
+A
+2 PERFORM ENGINE VARIANT LEARNING
+(a) Perform engine variant learning (See page BC-290).
+NEXT
+3 CONFIRM RECONFIRM DTC
+(a) Clear the DTC (See page BC-302).
+(b) Start the engine.
+(c) Check if the same DTC is recorded (See page BC-302).
+Result
+Condition Proceed to
+DTC is not output A
+DTC is output B
+B REPLACE ECM
+A
+END

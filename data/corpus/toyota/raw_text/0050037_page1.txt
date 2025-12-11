@@ -1,0 +1,72 @@
+ES–217
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Evaporative Emission Control System Pressure
+DTC P0450
+Sensor / Switch
+Evaporative Emission Control System Pressure
+DTC P0451
+Sensor Range / Performance
+Evaporative Emission Control System Pressure
+DTC P0452
+Sensor / Switch Low Input
+Evaporative Emission Control System Pressure
+ES
+DTC P0453
+Sensor / Switch High Input
+DTC SUMMARY
+Detection Detection
+DTC Monitoring Items Malfunction Detection Conditions Trouble Areas
+Timings Logic
+• Canister pump module
+• EVAP system hose
+• EVAP
+Canister pressure sensor Sensor output voltage rapidly fluctuates (pipe from air inlet port
+monitoring
+P0450 voltage fluctuation beyond upper and lower malfunction to canister pump 1 trip
+(ignition OFF)
+abnormal thresholds for 0.5 seconds. module, canister filter,
+• Ignition ON
+fuel tank vent hose)
+• ECM
+• Canister pump module
+• Connector/wire
+harness
+(Canister pump • EVAP
+module - ECM) monitoring
+Canister pressure sensor Sensor output voltage fluctuates
+• EVAP system hose (ignition OFF) 2 trip
+noise frequently within certain time period.
+(pipe from air inlet port • Engine
+to canister pump running
+module, canister filter,
+fuel tank vent hose)
+• ECM
+P0451
+• Canister pump module
+• Connector/wire
+harness
+(Canister pump
+module - ECM) • EVAP
+Canister pressure sensor Sensor output voltage does not vary
+• EVAP system hose monitoring 2 trip
+signal becomes fixed/flat within certain time period.
+(pipe from air inlet port (ignition OFF)
+to canister pump
+module, canister filter,
+fuel tank vent hose)
+• ECM
+• Canister pump module
+• Connector/wire
+harness
+(Canister pump
+• Ignition ON
+module - ECM)
+Canister pressure sensor EVAP pressure less than 42.1 kPa for • EVAP
+P0452 • EVAP system hose 1 trip
+low input 0.5 seconds. monitoring
+(pipe from air inlet port
+(ignition OFF)
+to canister pump
+module, canister filter,
+fuel tank vent hose)
+• ECM

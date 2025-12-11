@@ -1,0 +1,28 @@
+ES–471
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+C48 ECM
+VSV (ACIS)
+EFI
+EFI No. 3 107
+C55 ACIS
+44
+EFI MAIN
+A55 MREL
+FL MAIN
+ES
+Battery
+A137320E01
+INSPECTION PROCEDURE
+1 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (OPERATE VSV FOR ACIS)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the intelligent tester on.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST / INTAKE CTL
+VSC48. Operate the VSV for AICS.
+OK:
+Operational noise can be heard.
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+(See page ES-33)
+NG

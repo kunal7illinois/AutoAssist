@@ -1,0 +1,39 @@
+BC–377
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC C1300/62 Skid Control ECU Malfunction
+DESCRIPTION
+The skid control ECU is housed in the brake actuator assembly.
+The skid control ECU judges the vehicle driving condition based on the signals from each sensor, and
+controls the brake actuator assembly.
+DTC No. DTC Detection Condition Trouble Area
+C1300/62 Internal failure of the skid control ECU control unit Brake actuator assembly (skid control ECU)
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).
+1 CHECK DTC
+(a) Check the DTC (See page BC-302). BC
+Result
+Condition Proceed to
+DTC C1300/62 is output (only C1300/62) A
+Other DTCs are output B
+B REPAIR CIRCUITS INDICATED BY OUTPUT
+DTCS (See page BC-302)
+A
+2 INSPECT SKID CONTROL ECU (IG1 TERMINAL VOLTAGE)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Harness Side
+(b) Turn the ignition switch on (IG).
+Connector Front View):
+(c) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+A60
+Tester Connection Condition Specified Condition
+A60-28 (IG1) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (IG1 CIRCUIT)
+IG1
+C136493E05
+OK

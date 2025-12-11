@@ -1,0 +1,38 @@
+RS–235
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+J/C
+1 10
+A40 E41
+(*1)
+(*1)
+7 4
+A40 E41
+(*2)
+(*2) E61
+Option Connector
+(Bus Buffer)
+A25
+Skid Control ECU with Actuator
+2
+26 1
+CANH E41 CAN+
+(*7)
+8
+15 2
+CANL E41 CAN-
+(*7)
+Skid Control ECU
+with Actuator
+A/C Amplifier
+RS
+35 11 2 1 11
+CANH A60 A26 A40 E41 E38 CANH
+(*6)
+(*4) (*3)
+14 25 8 7 12
+CANL A60 A26 A40 E41 E38 CANL
+(*6)
+(*4) (*3)
+*6: with VSC
+*7: without VSC
+C C123741E01

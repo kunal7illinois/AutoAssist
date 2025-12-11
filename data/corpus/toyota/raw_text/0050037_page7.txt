@@ -1,0 +1,34 @@
+ES–223
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Result
+Test Results Suspected Trouble Areas Proceed To
+• Wire harness/connector (ECM - Canister pressure
+10 Ω or less sensor) A
+• Short in canister pressure sensor circuit
+• Wire harness/connector (ECM - Canister pressure
+10 kΩ or more sensor) B
+• Short in ECM circuit
+(d) Reconnect the ECM connector.
+B Go to step 7
+A
+ES
+3 CHECK HARNESS AND CONNECTOR (CANISTER PUMP MODULE - ECM)
+(a) Disconnect the S3 canister pump module connector.
+(b) Disconnect the B30 ECM connector.
+(c) Measure the resistance between PPMP terminal of the
+ECM connector and the body ground.
+Wire Harness Side:
+ECM Connector
+B30
+PPMP
+A127717E01
+Result
+Test Results Suspected Trouble Areas Proceed To
+10 kΩ or more Short in canister pressure sensor circuit A
+Short in wire harness/connector (ECM - Canister
+10 Ω or less B
+pressure sensor)
+(d) Reconnect the canister pump module connector.
+(e) Reconnect the ECM connector.
+A Go to step 5
+B Go to step 6

@@ -1,0 +1,65 @@
+AX–54
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+DTC No. Detection Item Trouble Area MIL *1 Memory *2 See page
+P0748 Pressure Control Solenoid "A" 1. Open or short in shift solenoid Comes on DTC stored AX-84
+Electrical (Shift Solenoid Valve valve SL1 circuit
+SL1) 2. Shift solenoid valve SL1
+3. TCM
+P0776 Pressure Control Solenoid "B" 1. Shift solenoid valve SL2 remains Comes on DTC stored AX-87
+AX Performance (Shift Solenoid open or closed
+Valve SL2) 2. Valve body is blocked
+3. Automatic transaxle (clutch, brake
+or gear etc.)
+P0778 Pressure Control Solenoid "B" 1. Open or short in shift solenoid Comes on DTC stored AX-92
+Electrical (Shift Solenoid Valve valve SL2 circuit
+SL2) 2. Shift solenoid valve SL2
+3. TCM
+P0791 Intermediate Shaft Speed 1. Transmission revolution sensor Comes on DTC stored AX-95
+Sensor "A" Circuit (speed sensor NC)
+2. TCM
+P0793 Intermediate Shaft Speed 1. Transmission revolution sensor Comes on DTC stored AX-95
+Sensor "A" (speed sensor NC)
+2. TCM
+P0796 Pressure Control Solenoid "C" 1. Shift solenoid valve SL3 remains Comes on DTC stored AX-100
+Performance (Shift Solenoid open or closed
+Valve SL3) 2. Valve body is blocked
+3. Automatic transaxle (clutch, brake
+or gear etc.)
+P0798 Pressure Control Solenoid "C" 1. Open or short in shift solenoid Comes on DTC stored AX-105
+Electrical (Shift Solenoid Valve valve SL3 circuit
+SL3) 2. Shift solenoid valve SL3
+3. TCM
+P0872 Transmission Fluid Pressure 1. ATF temperatuer sensor - DTC stored AX-108
+Switch No.1 Circuit Low assembly (ATF pressure switch No.
+1)
+2. Transmission wire
+P0873 Transmission Fluid Pressure 1. ATF temperatuer sensor - DTC stored AX-108
+Switch No.1 Circuit High assembly (ATF pressure switch No
+1)
+2. Transmission wire
+3. TCM
+P0877 Transmission Fluid Pressure 1. ATF temperatuer sensor - DTC stored AX-112
+Switch No.2 Circuit Low assembly (ATF pressure switch No.
+2)
+2. Transmission wire
+P0878 Transmission Fluid Pressure 1. ATF temperatuer sensor - DTC stored AX-112
+Switch No.2 Circuit High assembly (ATF pressure switch No.
+2)
+2. Transmission wire
+3. TCM
+P0989 Transmission Fluid Pressure 1. ATF temperatuer sensor Comes on DTC stored AX-116
+Switch No.3 Circuit Low assembly (ATF pressure switch No.
+3)
+2. Transmission wire
+P0990 Transmission Fluid Pressure 1. ATF temperatuer sensor Comes on DTC stored AX-116
+Switch No.3 Circuit High assembly (ATF pressure switch No.
+3)
+2. Transmission wire
+3. TCM
+P2714 Pressure Control Solenoid "D" 1. Shift solenoid valve SLT remains Comes on DTC stored AX-121
+Performance (Shift Solenoid open
+Valve SLT) 2. Shift solenoid valve SL1, SL2,
+SL3 or SL4 remains open or closed
+4. Valve body is blocked
+5. Automatic transaxle (clutch, brake
+or gear, etc.)

@@ -1,0 +1,46 @@
+ES–479
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MIL Circuit
+DESCRIPTION
+The MIL (Malfunction Indicator Lamp) is used to indicate vehicle malfunctions detected by the ECM.
+When the ignition switch is turned on (IG), power is supplied to the MIL circuit, and the ECM provides the
+circuit ground which illuminates the MIL.
+The MIL operation can be checked visually: When the ignition switch is first turned on (IG), the MIL should
+be illuminated and should then turn off. If the MIL remains illuminated or is not illuminated, conduct the
+following troubleshooting procedure using the intelligent tester.
+WIRING DIAGRAM
+Combination Meter ECM
+ES
+IG2
+GAUGE No. 2
+13 4 24
+W
+F1 F2 A55
+5 3 IG+ CHK
+1 2
+IG2
+E6
+E23 Main Body ECU
+Ignition SW
+ST/AM2
+*2 *2 *2 *1
+IG2D
+5 AM2 IG2 6 11
+AM2
+*1
+AM2
+1
+FL MAIN
+*1: with Smart Key System
+Battery
+*2: without Smart Key System
+A137345E01
+INSPECTION PROCEDURE
+1 CHECK THAT MIL IS ILLUMINATED
+(a) Perform troubleshooting in accordance with the table
+below:
+Result
+Conditions Proceed to
+MIL remains ON A
+MIL does not illuminate B
+B Go to step 5

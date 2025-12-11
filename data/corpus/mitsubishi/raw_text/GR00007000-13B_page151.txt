@@ -1,0 +1,35 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-151
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Check connector B-27at the right bank heated
+oxygen sensor (front) for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-27
+YES : Go to Step 2.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+AAKK110033550077AB
+STEP 2. Check the right bank heated oxygen sensor
+(front).
+(1) Disconnect right bank heated oxygen sensor (front)
+connector B-27 and connect test harness special tool,
+RIGHT BANK
+MD998464, to the connector on the right bank heated
+HEATED OXYGEN
+SENSOR (FRONT) oxygen (front) sensor side.
+AACCXX0022448811AH
+CONNECTOR: B-27
+AAKK110033550077AB
+(2) Measure the resistance between heated oxygen sensor
+HEATED
+connector terminal 1 (red clip) and terminal 3 (blue clip).
+OXYGEN
+SENSOR Standard value: 4.5 − 8.0 ohm [at 20°C (68°F)]
+EQUIPMENT
+RED Q:Is the resistance normal?
+SIDE
+CONNECTOR YES : Go to Step 3.
+BLUE NO : Replace the right bank heated oxygen sensor (front).
+Then go to Step 12.
+AKX01624AC
+MD998464
+TSB Revision

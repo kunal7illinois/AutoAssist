@@ -1,0 +1,62 @@
+BC–229
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC U0073/94 Control Module Communication Bus OFF
+DTC U0100/65 Lost Communication with ECM / PCM
+Lost Communication with Yaw Rate Sensor
+DTC U0123/62
+Module
+Lost Communication with Lateral Acceleration
+DTC U0124/95
+Sensor Module
+Lost Communication with Steering Angle Sen-
+DTC U0126/63
+sor Module
+DESCRIPTION
+BC
+The skid control ECU receives the signals from the ECM, steering angle sensor, and yaw rate and
+acceleration sensor via the CAN communication system.
+DTC No. DTC Detection Condition Trouble Area
+When any of the following is detected:
+1. With the IG1 terminal voltage 10 V or more, after the
+output of data from the skid control ECU is completed,
+the sending continues for 5 seconds or more.
+2. With the IG1 terminal voltage 10 V or more, the condition
+that bus OFF state occurs once or more within 100 ms
+occurs 10 times in succession. (Sent signals cannot be
+received.)
+U0073/94 3. With the IG1 terminal voltage 10 V or more, a delay in CAN communication system
+receiving data from the yaw rate and acceleration sensor
+and steering angle sensor continues for 1 second or
+more.
+4. With the IG1 terminal voltage 10 V or more, the condition
+that a delay in receiving data from the yaw rate and
+acceleration sensor and steering angle sensor occurs
+more than once within 5 seconds occurs 10 times in
+succession within 60 seconds.
+When either of the following is detected:
+1. With the IG1 terminal voltage 10 V or more and the
+vehicle speed 9 mph (15 km/h) or more, data cannot be CAN communication system
+U0100/65
+sent to the ECM for 2 seconds or more. (Skid control ECU to ECM)
+2. The IG1 terminal voltage 10 V or more and the vehicle
+speed 9 mph (15 km/h) or more for 2 seconds or more.
+When either of the following is detected:
+1. With the IG1 terminal voltage 10 V or more, data from the
+yaw rate sensor cannot be received for 1 second or more.
+CAN communication system
+U0123/62 2. With the IG1 terminal voltage 10 V or more, the following
+(Skid control ECU to yaw rate and acceleration sensor)
+occurs 10 times in succession within 60 seconds.
+• The condition that data from the yaw rate sensor cannot
+be received occurs once or more within 5 seconds.
+When either of the following is detected:
+1. With the IG1 terminal voltage 10 V or more, data from the
+acceleration sensor cannot be received for 1 second or
+more.
+CAN communication system
+U0124/95 2. With the IG1 terminal voltage 10 V or more, the following
+(Skid control ECU to yaw rate and acceleration sensor)
+occurs 10 times in succession within 60 seconds.
+• The condition that data from the acceleration sensor
+cannot be received occurs once or more within 5
+seconds.

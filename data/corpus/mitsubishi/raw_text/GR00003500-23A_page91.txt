@@ -1,0 +1,46 @@
+AUTOMATIC TRANSAXLE 23A-91
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 7. Check the sensor output voltage at PCM
+connector C-54 <2.4L Engine> or C-55 <3.0L Engine> by
+backprobing.
+(1) Do not disconnect connector C-54 <2.4L Engine> or C-55
+CONNECTOR: C-54 <2.4L ENGINE> OR
+<3.0L Engine>.
+C-55 <3.0L ENGINE>
+(2) Disconnect connector B-20 at crankshaft position sensor.
+PCM (3) Turn the ignition switch to the "ON" position.
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+(4) Measure the voltage between terminal 45 and ground by
+backprobing.
+• Voltage should be between 4.9 and 5.1 volts.
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 8.
+C-54 <2.4L ENGINE> OR NO : Go to Step 9.
+C-55 <3.0L ENGINE>
+CONNECTOR HARNESS
+SIDE VIEW
+AC001806AD
+STEP 8. Check connector C-54 <2.4L Engine> or C-55
+<3.0L Engine> at PCM for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE> YES : Repair harness open circuit between crankshaft
+position sensor connector B-20 terminal 2 and PCM
+PCM connector C-54 <2.4L Engine> or C-55 <3.0L
+Engine> terminal 45.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+STEP 9. Check connector C-54 <2.4L Engine> or C-55
+<3.0L Engine> at PCM for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE> YES : Go to Step 10.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM Connector Inspection P.00E-2.
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+TSB Revision

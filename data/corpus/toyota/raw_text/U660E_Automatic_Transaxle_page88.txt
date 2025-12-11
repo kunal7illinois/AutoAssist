@@ -1,0 +1,46 @@
+AX–88
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+• *2: If the shift solenoid SLT is stuck on, the line
+pressure will be low. Therefore, the amount of torque
+that can be transmitted by each gear is lower than the
+normal limit. When the engine power exceeds this
+lowered limit, the engine speed will increase freely.
+• *3: When shift solenoid SLT is stuck OFF, gear
+AX
+shifting is normal.
+B GO TO DTC CHART (RELATED SHIFT
+SOLENOID VALVE (SL2) PERFORMANCE
+DTC P0776)
+C GO TO DTC CHART (RELATED SHIFT
+SOLENOID VALVE (SL3) PERFORMANCE
+DTC P0796)
+D GO TO DTC CHART (RELATED SHIFT
+SOLENOID VALVE (SL4) PERFORMANCE
+DTC P2808)
+E GO TO DTC CHART (RELATED SHIFT
+SOLENOID VALVE (SLT) PERFORMANCE
+DTC P2714)
+A
+3 INSPECT SHIFT SOLENOID VALVE (SL1)
+(a) Remove the shift solenoid valve SL1.
+Shift Solenoid Valve SL1:
+(b) Measure the resistance according to the value(s) in the
+table below.
+2
+1 Standard resistance
+Specified Condition
+Tester Connection
+20°C (68°F)
+1 - 2 5.0 to 5.6 Ω
+(c) Connect a positive (+) lead through a 21 W bulb to
+terminal 2 and a negative (-) lead to terminal 1 of the
+solenoid valve connector, then check the movement of
+the valve.
+OK:
+2
+1
+The solenoid makes an operating noise.
+NG REPLACE SHIFT SOLENOID VALVE (SL1)
+(-) (+)
+G020767E05
+OK

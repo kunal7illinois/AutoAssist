@@ -1,0 +1,35 @@
+B
+6 5
+(BAT)
+20A
+D/L
+A DR P DR UNLOCK
+LOCK/SET Relay Relay
+3 3B 4 3B
+L
+W–L
+12 3A
+D1
+B
+B
+D4
+B
+R GL
+13 3A
+B
+2
+1
+6 3C
+GL
+Door Lock Control
+A73(A), D5(B), D6(C)
+Main Body ECU
+ACT+ ACTP
+2 FD1 3 FD1
+4 B 1 B
+L UL
+M
+F3(B)
+Door Lock with Motor Assembly RH
+266
+BRZ (G4400BE)

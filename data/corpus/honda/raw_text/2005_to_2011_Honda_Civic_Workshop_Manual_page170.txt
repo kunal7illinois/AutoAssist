@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+Fig. 80: Identifying Dashboard Wire Harness 4P Connector
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+11. Connect the SRS inflator simulator (2 ohms connectors) and the simulator lead
+to the dashboard wire harness.
+12. Reconnect the negative cable to the battery.
+13. Clear the DTC memory.
+14. Read the DTC.
+Is DTC 11-9x or 11-Bx indicated?
+YES -Go to step 15.
+NO -Short to ground in the cable reel; replace the cable reel (see CABLE
+REEL REPLACEMENT).
+15. Turn the ignition switch OFF. Disconnect the negative cable from the battery,
+then wait for 3 minutes.
+16. Disconnect SRS unit connector A (28P) from the SRS unit (see step 9
+DISCONNECTING SYSTEM CONNECTORS).
+17. Disconnect the SRS inflator simulator from the SRS simulator lead. Do not
+disconnect the simulator lead from the dashboard wire harness 4P connector.
+18. Measure the resistance between each terminal of the SRS simulator lead and
+body ground. There should be an open circuit or at least 1 M ohms.

@@ -1,0 +1,46 @@
+CHASSIS ELECTRICAL 54A-39
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+KEY REMINDER SWITCH AND IGNITION KEY
+RING ANTENNA CONTINUITY CHECK
+1. Ignition key reminder switch continuity check.
+CONNECTOR: C-88
+COLUMN SWITCH Disconnect key reminder switch connector C-88 without
+removing the ignition switch and steering lock cylinder. Then
+check the continuity.
+STATUS OF TESTER SPECIFIED
+IGNITION KEY CONNECTION CONDITION
+1 2 Removed 4 − 6 Less than 2 ohm
+3 4 5 6 7
+Inserted 4 − 6 Open circuit
+AC002363AC
+2. Ignition key ring antenna check.
+Check the continuity between terminal 3 and terminal 7.
+Standard value: 2 ohm or less
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED
+SENSOR
+INTRODUCTION TO COMBINATION METER DIAGNOSIS
+M1543009900732
+All vehicles are equipped with an electrical speedom-
+eter and tachometer. If the speedometer or tachome-
+ter does not function, there may be trouble in the
+electrical system.
+EQUIPMENT DIAGNOSIS
+TROUBLESHOOTING STRATEGY
+M1543006900409
+Use these steps to plan your diagnostic strategy. If 2. Verify that the condition described by the
+you follow them carefully, you will be sure that you customer exists.
+have exhausted most of the possible ways to find a
+3. Find the malfunction by following the symptom
+combination meter fault.
+chart.
+1. Gather information from the customer.
+4. Verify the malfunction is eliminated.
+SYMPTOM CHART
+M1543007200555
+SYMPTOMS INSPECTION REFERENCE PAGE
+PROCEDURE
+Speedometer does not work. 1 P.54A-40
+Tachometer does not work. 2 P.54A-74
+Fuel gauge does not work. 3 P.54A-88
+Engine coolant temperature gauge does not work. 4 P.54A-96
+TSB Revision

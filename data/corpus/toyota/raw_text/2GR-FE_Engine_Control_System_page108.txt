@@ -1,0 +1,25 @@
+ES–108
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(e) Check the engine speed while operating the Oil Control
+Valve (OCV) using the tester.
+OK
+Tester Operation Specified Condition
+OCV OFF Normal engine speed
+OCV ON Engine idles roughly or stalls (soon after OCV switched from OFF to ON)
+NG Go to step 4
+OK
+3 CHECK WHETHER DTC OUTPUT RECURS (DTC P0014, P0015, P0024 OR P0025)
+(a) Connect the intelligent tester to the DLC3.
+ES
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Clear the DTCs (See page ES-45).
+(d) Start the engine and warm it up.
+(e) Switch the ECM from normal mode to check mode using
+the tester (See page ES-49).
+(f) Drive the vehicle for more than 10 minutes.
+(g) Read the DTCs using the tester.
+OK:
+No DTC output.
+NG Go to step 4
+OK
+END

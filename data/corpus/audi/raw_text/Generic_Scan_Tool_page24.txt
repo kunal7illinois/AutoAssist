@@ -1,0 +1,50 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Select the desired “Test-ID” or “Hex-ID”.
+– Check specified values at idle.
+Test-ID DTC Component or System Min. Max. Additional Information
+$81 (129) P0455 Fuel Tank Leak Test: large leak. 1.95 65535 Refer to DTC P0455 in
+the DTC summary table.
+⇒ page 72
+– If any of components or systems fail to meet the specified val‐
+ues. Refer to Diagnostic “Mode 03: Interrogating Fault Mem‐
+ory” to check for stored DTC's or the corresponding diagnostic
+repair procedure
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+– Switch the ignition OFF.
+Monitor-ID $3B (59): Fuel Tank EVAP System Integrity/Leak Test
+(0.40)
+– Connect the scan tool.
+– Start the engine and run at idle.
+– Select “Mode 6: Check test the results of components that are
+not continuously monitored”.
+Select “Monitor-ID $3B (59)”.
+– Select the desired “Test-ID” or “Hex-ID”.
+– Check specified values at idle.
+Test-ID DTC Component or System Min. Max. Additional Information
+$81 (129) P0442 Fuel Tank Leak Test: Small leak. 1.95 65535 Refer to DTC P0442 in
+the DTC summary table.
+⇒ page 70 .
+– If any of components or systems fail to meet the specified val‐
+ues. Refer to Diagnostic “Mode 03: Interrogating Fault Mem‐
+ory” to check for stored DTC's or the corresponding diagnostic
+repair procedure
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+– Switch the ignition OFF.
+Monitor-ID $3C (60): Fuel Tank EVAP System Integrity/Small
+Leak Test (0.20)
+– Connect the scan tool.
+– Start the engine and run at idle.
+– Select “Mode 6: Check test the results of components that are
+not continuously monitored”.
+Select “Monitor-ID $3C (60)”.
+– Select the desired “Test-ID” or “Hex-ID”.
+– Check specified values at idle.
+Test-ID DTC Component or System Min. Max. Additional Information
+$81 (129) P0456 Fuel Tank Leak Test: Very Small 4.5mSec. 65535 Refer to DTC P0456 in
+leak. mSec the DTC summary table.
+⇒ page 73
+20
+Rep. Gr.ST - Generic Scan Tool

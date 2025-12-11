@@ -1,0 +1,59 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+– Open all dash panel vents.
+– Start air conditioner self-diagnosis ⇒ "Guided fault-finding"
+function of vehicle diagnostic, testing and information system
+VAS 5051 .
+– Start the engine and let it run for several minutes at maximum
+cooling output (air conditioner compressor switched on, lamp
+in AC button lights).
+– Select the “Reading measured value block” function and read
+out the display for actuation of the air conditioner compressor
+regulating valve -N280- and the pressure in the refrigerant cir‐
+cuit ⇒ "Guided fault-finding" function of vehicle diagnostic,
+testing and information system VAS 5051 (the air conditioner
+compressor is actuated and the pressure in the refrigerant cir‐
+cuit is OK ⇒ page 131 ).
+– Set the rotary temperature control of the air conditioner oper‐
+ating unit, Climatronic control unit -J255- to the “cold” stop.
+– Set the air outflow direction by way of the rotary air distribution
+control on the air conditioner operating unit, Climatronic con‐
+trol unit -J255- to “footwell”.
+– Read out the measured value block with the measured values
+for the left footwell vent temperature sender -G261- , the right
+footwell vent temperature sender -G262- and the evaporator
+output temperature sender -G263- ⇒ "Guided fault-finding"
+function of vehicle diagnostic, testing and information system
+VAS 5051.
+– Check and compare the measured values displayed for -
+G261- , -G262- and -G263- .
+♦ Specifications: Temperature max. 12 °C (depending on ambi‐
+ent temperature), difference between measured values less
+than 3 °C.
+– Set the air outflow direction by way of the rotary air distribution
+control on the air conditioner operating unit, Climatronic con‐
+trol unit -J255- to “dash panel vents”.
+– Check and compare the measured values displayed for the
+front left chest vent temperature sensor -G385- ( front right
+chest vent temperature sensor -G386- on right-hand drive ve‐
+hicles) and -G263- .
+♦ Specifications: Temperature max. 12 °C (depending on ambi‐
+ent temperature), difference between measured values less
+than 3 °C.
+– Set the rotary temperature control of the air conditioner oper‐
+ating unit, Climatronic control unit -J255- to the “warm” stop.
+– Set the rotary fresh air blower control to the “maximum speed”
+stop.
+– Set the air outflow direction (by way of the rotary air distribution
+control on the air conditioner operating unit, Climatronic con‐
+trol unit -J255- ) such that roughly equal volumes of air emerge
+from the “dash panel vents” and “footwell vents”.
+Note
+The rotary air distribution control can also be set such that air only
+emerges from the “dash panel vents” or “footwell vents”. Use is
+then however only to be made of the measured value of the tem‐
+perature sensor fitted in the vent selected (if applicable, set the
+air outflow direction alternately to “dash panel vents” and “footwell
+vents”).
+141
+11. Checking heat output of air conditioner

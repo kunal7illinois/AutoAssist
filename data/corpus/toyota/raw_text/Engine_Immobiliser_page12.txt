@@ -1,0 +1,64 @@
+EI–12
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+Part to be replaced Condition Procedure Reference
+1. Replace steering lock ECU -
+Customer has brought at least 1 key 2. Register recognition codes in ECUs (ECU
+PROCEDURE "E"
+code registration)
+1. Replace steering lock ECU -
+2. Replace certification ECU -
+3. Replace ID code box -
+Steering lock ECU
+4. Reregister all keys (new key ID
+All keys are lost registration)
+HINT:
+PROCEDURE "A"
+If some keys are not registered during above
+steps, they will be disabled because they
+cannot be registered later
+5. ECU communication ID registration PROCEDURE "F"
+Main body ECU No condition required Replace main body ECU -
+1. Replace ECM -
+ECM No condition required
+2. ECU communication ID registration PROCEDURE "F"
+1. Using remaining key, erase lost key code
+PROCEDURE "D"
+(key ID erasure)
+Customer has brought at least 1 key
+2. Register additional keys as necessary
+PROCEDURE "E"
+(additional key ID registration)
+1. Replace certification ECU -
+Key 2. Replace ID code box -
+3. Register all keys (new key ID registration)
+All keys are lost HINT:
+If customer brings lost keys at later date, they PROCEDURE "A"
+can be registered using additional key ID
+registration function
+4. ECU communication ID registration PROCEDURE "F"
+3. KEY REGISTRATION
+(a) PROCEDURE "A"
+New key ID registration (when replacing certification
+ECU and ID code box, or certification ECU, ID code
+box and steering lock ECU)
+EI Process Procedure
+1. Start of registration 1. Connect intelligent tester (with CAN VIM) to DLC3
+2. Turn engine switch on (IG)
+3. Select "SMART ACCESS / ID UTILITY / SMART CODE REG"
+from tester menu
+HINT:
+The engine switch cannot be turned on (IG) more than 10 times. After
+connecting tester, turn tester on while turning driver's side door
+courtesy light switch on and off repeatedly at 1.5-second intervals or
+less to continue key registration procedure
+2. Confirmation of ECU code Perform operation according to prompts on tester screen
+HINT:
+The mode is automatically selected by tester, new registration mode
+or add mode
+3. Verification of unregistered key *1 Hold unregistered key close to engine switch (For details, refer to
+PROCEDURE "1")
+Confirm that wireless door lock buzzer sounds. Place unregistered
+key on front passenger's side seat
+Confirm that wireless door lock buzzer sounds
+4. Registration of ID code Perform operation according to prompts on tester screen
+5. End of registration Finish new key ID code registration

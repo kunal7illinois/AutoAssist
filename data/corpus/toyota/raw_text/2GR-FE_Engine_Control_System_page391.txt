@@ -1,0 +1,55 @@
+ES–391
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2. Turn the ignition switch on (IG).
+3. Turn the tester on.
+4. Clear the DTCs (where set).
+5. Select the following menu items: DIAGNOSIS /ENHANCED OBD II / MONITOR INFO / MONITOR
+RESULT.
+6. Check that RES RATE B1S1 is INCOMP.
+7. Start the engine and warm it up (Procedure "A").
+8. Drive the vehicle at between 25 mph and 75 mph (40 km/h and 120 km/h) for 3 minutes. However, the
+vehicle should be driven at a constant speed (Procedure "B").
+9. Check the monitor result values on the intelligent tester by selecting the following menu items:
+DIAGNOSIS / ENHANCED OBD II / MONITOR INFO / TEST RESULT.
+10.If the values indicated on the tester do not change, perform READINESS MONITOR DRIVE PATTERN
+for the A/F sensor and the heated oxygen sensor (See page ES-338).
+HINT:
+Completion of all A/F sensor monitors is required to change the value in TEST RESULT.
+ES
+11.Note the value of the Monitor Result.
+12.Select the following menu items: DIAGNOSIS / ENHANCED OBD II / DTC INFO / PENDING CODES.
+13.Check if any DTCs (any pending DTCs) are set.
+MONITOR STRATEGY
+P2A00: A/F sensor (Bank 1) slow response
+Related DTCs
+P2A03: A/F sensor (Bank 2) slow response
+Required Sensors/Components (Main) A/F sensor
+Required Sensors/Components (Related) Vehicle speed sensor, Crankshaft position sensor
+Frequency of Operation Once per driving cycle
+Duration 10 to 15 seconds
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+P0031, P0032, P0051, P0052 (A/F sensor heater - Sensor 1)
+P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+P0125 (Insufficient ECT for Closed Loop)
+Monitor runs whenever following DTCs are not present
+P0171, P0172, P0173, P0174 (Fuel system)
+P0300 - P0308 (Misfire)
+P0335 (CKP sensor)
+P0340, P0341 (CMP sensor)
+P0500 (VSS)
+P2196, P2198 (A/F sensor - rationality)
+Battery voltage 11 V or more
+ECT 75°C (167°F) or more
+Idle OFF
+Engine rpm Less than 4,000 rpm
+A/F sensor status Activated
+Fuel-cut OFF
+Engine load 10 to 70 %
+Shift position 2 or more
+Catalyst monitor Not yet
+MAF 2.5 to 15 g/sec.

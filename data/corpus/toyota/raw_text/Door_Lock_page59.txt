@@ -1,0 +1,31 @@
+DL–59
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Driver Side Door Key Lock and Unlock Switch Circuit
+DESCRIPTION
+The driver's door key lock and unlock switch is built into the driver's door lock assembly.
+When the driver's door key cylinder is turned to lock all the doors by key, there is continuity between
+terminals L and E of the key lock and unlock switch. When the cylinder is turned to unlock the door(s),
+there is continuity between terminals UL and E.
+Terminals L2 and UL3 of the main body ECU are connected to the door lock assembly, and door lock/
+unlock request signals (by key) are input to the main body ECU.
+The main body ECU constantly applies voltage to terminal L of the driver's door lock assembly via
+terminal L2. When the driver's door key cylinder is turned to lock all the doors by key, current flows from
+terminal L2 to terminal L.
+The main body ECU also applies constant voltage to terminal UL of the door lock assembly via terminal
+UL3. When the door key cylinder is turned in the direction to unlock the door(s) by key, current flows from
+terminal UL3 to terminal UL.
+WIRING DIAGRAM
+E7
+Maing Body ECU
+I7
+Front Door Lock Assembly LH Instrument Panel J/B
+16
+9
+L 10
+IK L2
+E
+7
+UL 10 10
+UL3
+DL
+B137941E01

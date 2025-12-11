@@ -1,0 +1,38 @@
+Audi TT No. 47 / 26
+Current Flow Diagram
+Front interior light button, reading light button, front interior
+light, reading light, automatic anti-dazzle interior mirror
+E326 Front interior light button
+E457 Driver side reading light button
+E458 Front passenger side reading light button
+L156 Switch illumination bulb
+T6m 6-pin connector, brown, on interior light
+T6n 6-pin connector, black, on interior mirror
+W1 Front interior light
+W13 Front passenger side reading light
+W19 Driver side reading light
+Y7 Automatic anti-dazzle interior mirror
+* models with automatic anti-dazzle interior mirror only
+# models without main beam assistant
+## models with main beam assistant
+W19 E457 W1 E326 L156 E458 W13
+#
+Y7 ✱
+T6m/1 T6m/2 T6m/3 T6m/4 T6m/5 T6m/6 T6n/1 T6n/2
+31 58s 31
+0,5 0,5 0,35# 0,35## 0,5 0,35 0,5 0,35 0,35
+br bl/gr li/bl li/bl ro/ws gr/bl li/ws sw/ge br
+332277 332233 335555 336622 333322 113399 4488 226666 333300
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+337 338 339 340 341 342 343 344 345 346 347 348 349 350 or = orange
+8J0-047260409
+rs = pink
+Edition 04.2010

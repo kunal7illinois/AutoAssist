@@ -1,0 +1,12 @@
+G
+Position of Parts in Seat
+[w/o Power Seat]
+Z1 N3 d2 d3 O3 O4 d1 d4 d5 Y1
+N 3 Front Seat Inner Belt (Driver’s Side) Z 1 Side Airbag Squib (LH)
+O 3 Front Seat Inner Belt (Front Passenger’s Side) d 1 Occupant Classification ECU
+O 4 Occupant Classification ECU d 2 Occupant Classification Sensor (Front LH)
+d 3 Occupant Classification Sensor (Rear LH)
+Y 1 Side Airbag Squib (RH) d 4 Occupant Classification Sensor (Front RH)
+d 5 Occupant Classification Sensor (Rear RH)
+63
+CAMRY (EM0250U)

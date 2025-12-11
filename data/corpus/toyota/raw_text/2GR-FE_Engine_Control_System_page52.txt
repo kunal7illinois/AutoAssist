@@ -1,0 +1,59 @@
+ES–52
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+FREEZE FRAME DATA
+1. DESCRIPTION
+The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is
+stored. When troubleshooting, freeze frame data can be
+helpful in determining whether the vehicle was running or
+stopped, whether the engine was warmed up or not,
+whether the air/fuel ratio was lean or rich, as well as
+other data recorded at the time of a malfunction.
+HINT:
+If it is impossible to duplicate the problem even though a
+DTC is detected, confirm the freeze frame data.
+The ECM records engine conditions as freeze frame
+data every 0.5 seconds. Using the intelligent tester, five
+ES DTC was set.
+separate sets of freeze frame data, including the data
+values at the time when the DTC was set, can be
+checked.
+0.5 seconds0.5 seconds0.5 seconds
+– 3 data set before the DTC was set.
+– 1 data set when the DTC was set.
+– 1 data set after the DTC was set.
+These data sets can be used to simulate the condition
+of the vehicle around the time of the occurrence of the
+malfunction. The data may assist in identifying of the
+cause of the malfunction, and in judging whether it
+Freeze frame data which can be read was temporary or not.
+2. LIST OF FREEZE FRAME DATA
+A103809E02
+LABEL
+Measurement Item/Range Diagnostic Note
+(Intelligent Tester Display)
+IGN ADVANCE Ignition advance -
+CALC LOAD Calculate load Calculated load by ECM
+VEHICLE LOAD Vehicle load -
+If value is approximately 0.0 g/s:
+• Mass air flow meter power source circuit
+open or shorted
+MAF Mass air flow volume
+• VG circuit open or shorted
+If value is 160.0 g/s or more:
+• E2G circuit open
+ENGINE SPD Engine speed -
+VEHICLE SPD Vehicle speed Speed indicated on speedometer
+If value is -40°C (-40°F), sensor circuit open
+COOLANT TEMP Engine coolant temperature If value is 140°C (284°F), sensor circuit
+shorted
+If value is -40°C (-40°F), sensor circuit open
+INTAKE AIR Intake air temperature If value is 140°C (284°F), sensor circuit
+shorted
+FUEL PRESS Fuel pressure -
+AIR-FUEL PATIO Air-fuel ratio -
+AMBIENT TEMP Ambient temperature -
+PURGE DENSITY Learning value of purge density -
+PURGE FLOW Purge flow -
+EVAP PURGE VSV EVAP purge VSV duty ratio -
+KNOCK CRRT VAL Correction learning value of knocking -

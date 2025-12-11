@@ -1,0 +1,30 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-537
+SYMPTOM PROCEDURES
+STEP 5. Check driver’s seat belt switch connector D-13
+and ETACS-ECU connector C-117 for damage.
+Q:Are driver’s seat belt switch connector D-13 and ETACS-
+CONNECTOR <ECLIPSE>: D-13
+ECU connector C-117 in good condition?
+YES : Go to Step 6.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. If the
+functions, which are described in "CIRCUIT
+OPERATION", work normally, the input signal from
+DEVICE SIDE the driver’s seat belt switch should be normal.
+D-13
+1 2
+AC106483AF
+CONNECTOR <ECLIPSE SPYDER>: D-13
+DEVICE SIDE
+D-13
+1 2
+AC106485AF
+CONNECTOR: C-117
+DEVICE SIDE
+21 22 23242526272829
+30 31 32333435363738
+39 40 41 424344
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AB
+TSB Revision

@@ -1,0 +1,26 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-477
+SYMPTOM PROCEDURES
+CONNECTOR<3.0L ENGINE WITH CONNECTOR: C-28
+VARIABLE INDUCTION SYSTEM>: B-37
+AC106471AE AC106557AD
+CONNECTORS: C-111, C-112
+CONNECTOR: C-117
+JUNCTION BLOCK
+JUNCTION BLOCK
+(FRONT VIEW)
+(REAR VIEW)
+C-112
+C-111 AC106479AP AC106481AC
+. .
+CIRCUIT OPERATION TROUBLESHOOTING HINTS
+The ETACS-ECU operates the rear wiper according • Malfunction of the backup light switch
+to signal from the backup light switch. • Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+.
+TECHNICAL DESCRIPTION (COMMENT)
+If the signal is not normal, the rear wiper does not
+operate consecutively twice when the shift lever is
+moved to the "R" position with the rear wiper on. If
+the signal is not normal, the backup light switch or
+the ETACS-ECU may be defective.
+TSB Revision

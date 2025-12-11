@@ -1,0 +1,50 @@
+AX–62
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+DTC No. DTC Detection Condition Trouble Area
+• Short in ATF temperature sensor circuit
+ATF temperature sensor resistance is less than 79 Ω
+P0712 • Transmission wire (ATF temperature sensor)
+for 0.5 sec. or more have (1-trip detection logic)
+• TCM
+ATF temperature sensor resistance is more than 156
+kΩ when 15 minutes or more have elapsed after the • Open in ATF temperature sensor circuit
+AX P0713 engine starts • Transmission wire (ATF temperature sensor)
+DTC is detected for 0.5 sec. or more (1-trip detection • TCM
+logic)
+MONITOR DESCRIPTION
+These DTCs indicate an open or short in the automatic transmission fluid (ATF) temperature sensor (TFT
+sensor) circuit. The automatic transmission fluid (ATF) temperature sensor converts ATF temperature into
+an electrical resistance value. Based on the resistance, the TCM determines the ATF temperature, and
+the TCM detects an open or short in the ATF temperature circuit. If the resistance value of the ATF
+temperature is less than 79 Ω*1 or more than 156 kΩ*2, the TCM interprets this as a fault in the ATF
+sensor or wiring. The TCM will turn on the MIL and store the DTC.
+*1: 150°C (302°F) or more is indicated regardless of the actual ATF temperature.
+*2: -40°C (-40°F) is indicated regardless of the actual ATF temperature.
+HINT:
+The ATF temperature can be checked on the intelligent tester display.
+MONITOR STRATEGY
+P0710: ATF temperature sensor/Range check (Chattering)
+Related DTCs P0712: ATF temperature sensor/Range check (Low resistance)
+P0713: ATF temperature sensor/Range check (High resistance)
+Required sensors/Components ATF temperature sensor (TFT sensor)
+Frequency of operation Continuous
+Duration 0.5 sec.
+MIL operation Immediately
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+P0710:
+Range check (Chattering)
+The monitor will run whenever this DTC is not present. None
+The typical enabling condition is not available. -
+P0712:
+Range check (Low resistance)
+The monitor will run whenever this DTC is not present. None
+The typical enabling condition is not available. -
+P0713:
+Range check (High resistance)
+The monitor will run whenever this DTC is not present. None
+Time after engine start 15 min. or more
+TYPICAL MALFUNCTION THRESHOLDS
+P0710:
+Range check (Chattering)
+TFT (transmission fluid temperature) sensor resistance Less than 79 Ω or more than 156 kΩ

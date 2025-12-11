@@ -1,0 +1,58 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Pa‐ Monitoring Frequency of
+sage cedure ria and Threshold rameters with En‐ Time checks, MIL
+Value able Conditions Length Illum
+P2275 O2 Sensor • Check the • O2S rear not • Mass air flow 10 to 215 • 2 DCY
+Signal Oxygen Sen‐ oscillating at 22 to 120 kg/h Sec.
+Stuck Rich sor (O2S) 2 reference >
+Bank 1 Sen‐ Behind Three 0.64 to 0.65 V • Modeled ex‐
+sor 3 Way Catalytic and enrich‐ haust gas temp
+Converter ment after > 300 °C
+(TWC) - stuck rich 15%
+• Fuel cutoff > 3
+G465- . Refer
+to OR Sec.
+⇒ “3.5.22 Oxy‐ • Sensor voltage • O2S rear read‐
+gen Sensor of >= 0.15 V af‐ iness > 10 Sec.
+after Catalytic ter oxygen
+Converter, mass flow (af‐ • 2nd lambda
+Checking”, ter fuel cutoff) > control - closed
+page 156 1500 to 3000 loop
+mg with >= 1
+check OR
+• Time of fuel
+cutoff <= 90
+Sec.
+• Time after last
+fuel cutoff >= 5
+Sec.
+• Rear O2S
+ready
+• Exhaust temp
+at sensor devi‐
+ation between
+actual and ex‐
+pected lambda
+signal < 8 after
+time since fuel
+cutoff at first
+cylinder >= 2
+Sec.
+• Exhaust mass
+flow >= 12 kg/h
+• Exhaust mass
+flow dynamic
+within range
+-500 to 500 kg/
+h
+• Sensor voltage
+at start of
+measurement
+> 0.45 V
+• Target voltage
+end of meas‐
+urement <=
+0.15 V
+96
+Rep. Gr.ST - Generic Scan Tool

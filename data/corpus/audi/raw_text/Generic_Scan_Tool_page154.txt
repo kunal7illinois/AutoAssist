@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+• Coolant Temperature at least 80° C.
+Function
+Throttle valve operation occurs by an electric motor Throttle Drive
+for Electronic Power Control (EPC) -G186- in the Throttle Valve
+Control Module - J338- . It is operated by the Engine Control
+Module (ECM) -J623- and the Accelerator Pedal Position Sensor
+1 -G79- / Accelerator Pedal Position Sensor 2 -G185- .
+The Throttle Valve Control Module -J338- is made up of the fol‐
+lowing components:
+♦ Throttle Drive for Electronic Power Control (EPC) -G186-
+♦ Throttle Drive Angle Sensor 1 for Electronic Power Control
+(EPC) -G187-
+♦ Throttle Drive Angle Sensor 2 for Electronic Power Control
+(EPC) -G188-
+The Throttle Valve Control Module -J338- cannot be serviced
+separately and must be serviced as a unit.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Connect the scan tool.
+– Switch ignition ON.
+– Using the scan tool, check the throttle valve position (absolute)
+at idle stop:
+Diagnostic text Specified value
+Throttle valve position (abso‐
+lute)
+• Idle stop 3.0 to 25.0%
+– Slowly depress the accelerator pedal to Wide Open Throttle
+(WOT) stop while observing the percentage display. The per‐
+centage display must increase uniformly.
+– Using the scan tool, check the throttle valve position (absolute)
+at Wide Open Throttle (WOT) stop:
+Diagnostic text Specified value
+Throttle valve position (abso‐
+lute)
+• Wide Open Throttle (WOT) 84.0 to 97.0%
+stop
+– Switch ignition OFF.
+If the specified values are not obtained:
+– Remove the Throttle Valve Control Module -J338 - far enough
+so that the electrical connector terminals are reached.
+– Disconnect the Throttle Valve Control Module -J338- electrical
+harness connector.
+Checking resistance
+– Using a multimeter, check the Throttle Drive for Electronic
+Power Control (EPC) -G186- at the Throttle Valve Control
+Module -J338- terminals 3 to 5 for resistance.
+150
+Rep. Gr.ST - Generic Scan Tool

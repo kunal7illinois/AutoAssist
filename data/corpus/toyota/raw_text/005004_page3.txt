@@ -1,0 +1,36 @@
+ES–23
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Monitor ID Test ID Scaling Unit Description
+Exponential Weighted Moving Average (EWMA) misfire for
+cylinder 1:
+$A2 $0B Multiply by 1 Time EWMA = Total misfire counts for last driving cycle * 0.1 + Last
+EWMA * 0.9
+Misfire counts for last 10 driving cycles - Total
+Ignition switch ON: Total misfire counts for last driving cycle
+$A2 $0C Multiply by 1 Time Engine running: Total misfire counts for current driving cycle
+Misfire counts for last or current driving cycle - cylinder 1
+Exponential Weighted Moving Average (EWMA) misfire for
+cylinder 2:
+$A3 $0B Multiply by 1 Time EWMA = Total misfire counts for last driving cycle * 0.1 + Last
+EWMA * 0.9
+Misfire counts for last 10 driving cycles - Total
+Ignition switch ON: Total misfire counts for last driving cycle
+ES
+$A3 $0C Multiply by 1 Time Engine running: Total misfire counts for current driving cycle
+Misfire counts for last or current driving cycle - cylinder 2
+Exponential Weighted Moving Average (EWMA) misfire for
+cylinder 3:
+$A4 $0B Multiply by 1 Time EWMA = Total misfire counts for last driving cycle * 0.1 + Last
+EWMA * 0.9
+Misfire counts for last 10 driving cycles - Total
+Ignition switch ON: Total misfire counts for last driving cycle
+$A4 $0C Multiply by 1 Time Engine running: Total misfire counts for current driving cycle
+Misfire counts for last or current driving cycle - cylinder 3
+Exponential Weighted Moving Average (EWMA) misfire for
+cylinder 4:
+$A5 $0B Multiply by 1 Time EWMA = Total misfire counts for last driving cycle * 0.1 + Last
+EWMA * 0.9
+Misfire counts for last 10 driving cycles - Total
+Ignition switch ON: Total misfire counts for last driving cycle
+$A5 $0C Multiply by 1 Time Engine running: Total misfire counts for current driving cycle
+Misfire counts for last or current driving cycle - cylinder 4

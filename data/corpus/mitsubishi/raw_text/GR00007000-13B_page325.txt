@@ -1,0 +1,17 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-325
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 18. Check for harness damage between MFI relay
+connector A-18X terminal 4 and crankshaft position sensor
+connector B-20 terminal 3.
+Q:Is the harness wire in good condition?
+CONNECTOR: A-18X
+YES : Go to Step 19.
+MFI RELAY NO : Repair it. Then go to Step 21.
+AK101363AB
+CONNECTOR: B-20 <WITHOUT VARIABLE
+INDUCTION SYSTEM>
+AK103516AB
+CONNECTOR: B-20 <WITH VARIABLE
+INDUCTION SYSTEM>
+AK103517AB
+TSB Revision

@@ -1,0 +1,33 @@
+BC–217
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+3 READ VALUE OF INTELLIGENT TESTER (STOP LIGHT SWITCH)
+(a) Select the Data List mode on the intelligent tester.
+ABS / VSC:
+Item (Display) Measurement Item / Range (Display) Normal Condition
+ON: Brake pedal depressed
+STOP LAMP SW Stop light switch / ON or OFF
+OFF: Brake pedal released
+(b) Check that the stop light condition observed on the
+intelligent tester changes when the brake pedal is
+depressed.
+OK:
+When the brake pedal is depressed, the intelligent
+tester displays "ON".
+NG REPLACE BRAKE ACTUATOR ASSEMBLY
+OK
+BC
+4 RECONFIRM DTC
+(a) Turn the ignition switch off.
+(b) Clear the DTC (See page BC-141).
+(c) Start the engine.
+(d) At a speed of 18 mph (30 km/h) or more, drive the
+vehicle and perform braking test (decelerate the vehicle
+by depressing the brake pedal).
+(e) Check if the same DTC is recorded (See page BC-141).
+Result
+Condition Proceed to
+DTC (C1246/46) is not output A
+DTC (C1246/46) is output B
+B REPLACE BRAKE ACTUATOR ASSEMBLY
+A
+USE SIMULATION METHOD TO CHECK

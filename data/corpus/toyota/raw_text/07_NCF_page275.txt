@@ -1,0 +1,62 @@
+CHASSIS - BRAKE CH-111
+8. Function of Main Components
+Component Function
+Lights up to alert the driver when the skid control ECU detects the
+ABS Warning Light
+malfunction in the ABS, EBD or Brake Assist system.
+(cid:1) Blinks to inform the driver when the TRAC system or the VSC
+Slip Indicator Light
+system is operated.
+(cid:1) Lights up together with ABS warning light to alert the driver
+when the skid control ECU detects the malfunction in the EBD
+Brake System Warning
+control.
+Light
+Combination (cid:1) Lights up to inform the driver when the parking brake is ON or
+MMeetteerr the brake fluid level is low.
+Lights up to alert the driver when the skid control ECU detects the
+VSC Warning Light*1
+malfunction in the TRAC or VSC system.
+Lights up to alert the driver when the skid control ECU detects the
+Master Warning Light*2
+malfunction in the TRAC or VSC system.
+Displays a warning massage “CHECK VSC” to alert the driver when
+Multi-information
+the skid control ECU detects a malfunction in the TRAC or VSC
+Display*2
+system.
+(cid:1) Sends the throttle valve angle signal, accelerator pedal position
+signal, engine speed signal, and shift lever position signal to the
+ECM skid control ECU.
+(cid:1) Receives the signal of throttle control request from the skid
+control ECU.
+Parking Brake Switch Detects when the parking brake lever is pulled up.
+Speed Sensors Detects the wheel speed of each 4 wheels.
+Stop Light Switch Detects the brake pedal depressing signal.
+Changes the fluid path based on the signals from the skid control
+ECU during the operation of the ABS with EBD & brake assist &
+Brake Actuator
+TRAC & VSC system, in order to control the fluid pressure that is
+applied to the wheel cylinders.
+Master Cylinder Assembled in the brake actuator and detects the master cylinder
+Pressure Sensor pressure.
+Judges the vehicle driving condition based on signals from each
+Skid Control ECU
+sensor, and sends brake control signal to the brake actuator.
+Solenoid Relay Supply power to the solenoid valves.
+Motor Relay*4 Supply power to the pump motor in the brake actuator.
+Emits an intermittent sound to inform the driver that the skid control
+VSC Warning Buzzer ECU detects the strong front skid tendency or strong rear skid
+tendency.
+(cid:1) Detects the vehicle’s yaw rate.
+Yaw Rate & Deceleration Sensor*3
+(cid:1) Detects the vehicle’s longitudinal and lateral acceleration.
+Yaw Rate & Lateral Acceleration (cid:1) Detects the vehicle’s yaw rate.
+Sensor*4 (cid:1) Detects the vehicle’s lateral acceleration.
+Steering Angle Sensor Detects the steering direction and angle of the steering wheel.
+Motor Relay*3 Supply power to the pump motor in the brake actuator.
+Motor Cut Relay*3 Cut the power to the pump motor in the brake actuator.
+*1: LE and SE grade models
+*2: XLE grade models
+*3: Only for TMC made models
+*4: Only for TMMK made models

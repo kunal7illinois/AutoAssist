@@ -1,0 +1,42 @@
+Audi TT No. 55 / 5
+Current Flow Diagram
+Onboard supply control unit, power output module for left
+headlight, power output module for right headlight, swivel
+module position sensor, dynamic cornering light control
+motor
+G474 Left swivel module position sensor
+G475 Right swivel module position sensor
+J519 Onboard supply control unit
+J667 Power output module for left headlight
+J668 Power output module for right headlight
+T14a 14-pin connector, black, on left of headlight
+T14b 14-pin connector, black, on right of headlight
+V318 Left dynamic cornering light control motor
+V319 Right dynamic cornering light control motor
+• CAN bus (data wire)
+J519
+8811 8833 8822 8844
+• • • •
+0,35 0,35 0,35 0,35
+or/gn or/br or/gn or/br
+T14a/1 T14a/2 T14b/1 T14b/2
+G474 G475
+1 2 3 1 2 3
+25 28 22 14 16 22 14 16 25 28
+J667 29 23 20 26 29 23 20 26 J668
+1 2 3 4 1 2 3 4
+M M
+V318 V319
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-055050409
+rs = pink
+Edition 04.2009

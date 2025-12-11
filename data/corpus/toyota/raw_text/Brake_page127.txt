@@ -1,0 +1,31 @@
+BC–121
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Measurement Item /
+Item (Display) Normal Condition Diagnostic Note
+Range (Display)
+Yaw rate sensor open detection / ERROR: Momentary interruption
+YAW RATE OPN -
+ERROR or NORMAL NORMAL: Normal
+Acceleration sensor open ERROR: Momentary interruption
+DECELERAT OPN -
+detection / ERROR or NORMAL NORMAL: Normal
+Steering angle sensor open ERROR: Momentary interruption
+STEERING OPN -
+detection / ERROR or NORMAL NORMAL: Normal
+Master cylinder pressure sensor
+ERROR: Momentary interruption
+M/C OPN open detection / ERROR or -
+NORMAL: Normal
+NORMAL
+(c) While observing the screen, gently jiggle the
+connector or wire harness between the ECU and
+sensors, or between ECUs.
+Result:
+ERROR display does not change.
+HINT:
+The connector and/or wire harness will be in
+momentary interruption (open circuit) if the display
+BC
+changes. Repair or replace the connector and/or
+wire harness as one of them is faulty.
+F047126

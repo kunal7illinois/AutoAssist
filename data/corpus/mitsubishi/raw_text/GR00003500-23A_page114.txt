@@ -1,0 +1,27 @@
+23A-114 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 19. Check harness for damage between input shaft
+speed sensor harness side connector B-42 terminal 3 and
+junction block connector C-112 terminal 12.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-42 B-42
+YES : Go to Step 20.
+NO : Repair it.
+AC001835AH
+CONNECTOR: C-112
+JUNCTION BLOCK
+(FRONT VIEW)
+C-112
+AC106612AB
+STEP 20. Replace the underdrive clutch retainer.
+(1) Replace the underdrive clutch retainer. Refer to GROUP
+23B, Underdrive Clutch and Input Shaft P.23B-59.
+(2) Test drive the vehicle.
+(3) Check for diagnostic trouble code.
+Q:Is the A/T diagnostic trouble code number "22" output?
+YES : The A/T diagnostic trouble code may have set due to
+external radio frequency (RFI), possibility caused by
+cellular phone activity, after market components
+installed on the vehicle, etc.
+AC001836AB NO : The inspection is complete.
+TSB Revision

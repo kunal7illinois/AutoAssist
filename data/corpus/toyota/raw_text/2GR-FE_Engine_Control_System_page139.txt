@@ -1,0 +1,34 @@
+ES–139
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+7 INSPECT ENGINE ROOM JUNCTION BLOCK (EFI RELAY)
+(a) Remove the engine room junction block from the engine
+room R/B.
+(b) Inspect the EFI relay.
+(1) Measure the EFI relay resistance.
+Engine Room Junction Block
+Standard resistance
+Tester Connection Specified Condition
+1E-12 - 1E-6 10 kΩ or higher
+Bellow 1 Ω
+1E-12 - 1E-6 (Apply battery voltage between terminals 1E-
+9 and 1E-10)
+1E (c) Reinstall the engine room junction block. ES
+NG REPLACE ENGINE ROOM JUNCTION
+BLOCK
+Engine Room Relay Block
+A140654E02
+OK
+CHECK ECM POWER SOURCE CIRCUIT (See page ES-432)
+8 CHECK HARNESS AND CONNECTOR (SENSOR GROUND)
+(a) Disconnect the C2 MAF meter connector.
+Wire Harness Side Front View:
+(b) Measure the resistance between the terminals.
+Standard resistance
+E2G
+Tester Connection Specified Condition
+E2G (C2-4) - Body ground Below 1 Ω
+(c) Reconnect the MAF meter connector.
+C2 MAF Meter Connector OK REPLACE MASS AIR FLOW METER (See
+page ES-477)
+A127724E08
+NG

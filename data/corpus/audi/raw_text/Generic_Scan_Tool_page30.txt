@@ -1,0 +1,58 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Select the desired “Test-ID”.
+– The information requested will be displayed on the scan tool
+screen.
+The following table is a numerical list of all“Test-IDs” that may be
+selected.
+Test-ID Diagnostic text
+$02: Vehicle identification number e.g.
+♦ A different 17 digit number will be displayed for
+each vehicle
+$04: Calibration identification e.g.
+♦ Engine Control Module (ECM)
+♦ Transmission Control Module (TCM)
+$06: Calibration verification number (check sum) e.g.
+♦ EC5AE460 the check sum is different for every
+control module version
+$08: In Use Performance Tracking (CBUA/SULEV only)
+$0A: ECU mod ule acronym and text name
+Service SUPPORTED on CBUA/SULEV (California emis‐
+Mode sions) only. Not Supported on CBTA/Bin 5 (Federal
+$0A emissions).
+– Switch the ignition OFF.
+3.3.10 Diagnostic Mode 0A - Check Permanent
+DTC Memory
+Mode 0A - Check Permanent DTC Memory (Request emissions-
+related diagnostic trouble codes with permanent status after code
+clear)
+Permanent Fault Codes From MY 2010 with Phase-In conforming
+to CCR 1968.2 (d)(2.2.5): 50% from MY 2010 / 75% from MY
+2011 / 100% from MY 2012 The vehicle only participates in
+Phase-In if all of the OBD-relevant control modules in the vehicle
+meet these requirements.
+Mode 0A may only be supported exclusively by OBD control mod‐
+ules in US vehicles. Mode 0A may not be supported in EOBD
+vehicles, meaning the control module may not send a response
+here.
+Mode 0A enables the request of all OBD-relevant faults with the
+status “Permanent Fault Code”: - Permanent Fault Codes are
+Confirmed Fault Codes that are currently activating the MIL. That
+means faults that are still displayed in Mode 03 but no longer ac‐
+tivate the MIL (History Fault Codes) are not Permanent Fault
+Codes. - Permanent Fault Codes are updated in Mode 0A at the
+same time as NVRAM storage immediately after switching the
+ignition off. A newly detected Permanent Fault Code is only visible
+after switching the ignition off/on in Mode 0A. - Permanent Fault
+Codes may only be erased in the control module after they are
+corrected as long as the last diagnostic result was a PASS and
+the MIL is no longer activated by this fault. The Permanent Fault
+Codes should be erased from Mode 0A at the same time the MIL
+switches off when the ignition is switched off/on. - Permanent
+Fault Codes may not be erased by clearing the DTC memory or
+disconnecting the power supply. Storage in NVRAM is required.
+- Permanent Fault Codes may only be erased after clearing the
+DTC memory under the following conditions: - As long as no FAIL
+diagnostic result was detected for a Permanent Fault Code - and
+26
+Rep. Gr.ST - Generic Scan Tool

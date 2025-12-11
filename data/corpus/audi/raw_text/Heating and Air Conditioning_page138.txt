@@ -1,0 +1,56 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+Ambient temperature in ° Pressure display (in bar absolute)
+C
+15 4,0
+20 5,0
+25 6,0
+30 7,0
+35 8,0
+Note
+♦ At absolute pressure, 0 bar corresponds to an absolute vac‐
+uum. Normal ambient pressure thus corresponds to roughly 1
+bar absolute. On the scales of most pressure gauges, 0 bar
+corresponds however to an absolute pressure of one bar (can
+be seen from -1 mark below 0).
+♦ At present, the measured value block on this vehicle only in‐
+dicates values as whole numbers. The display fluctuates be‐
+tween two values if the measured pressure is between the two.
+♦ Pressure in refrigerant circuit is governed by ambient temper‐
+ature. Due to the radiation of heat by components (e.g. the
+radiator), the pressure displayed with a warm engine is slightly
+higher than that given for the corresponding ambient temper‐
+ature.
+♦ If the displayed pressure is lower than that given in the table:
+Check the signal of the high-pressure sender -G65-
+⇒ page 35 . If no fault is found at the high-pressure sender,
+there is not enough refrigerant in the circuit. The vehicle is to
+be taken to a workshop equipped with the necessary tools
+where the work can be performed by appropriately qualified
+personnel. Inform the workshop of the problem encountered
+(not enough refrigerant in the circuit) ⇒ Air conditioner with
+refrigerant R134a .
+If the pressure in the refrigerant circuit is OK
+– Switch on the air conditioner compressor by selecting “Auto”
+mode on the air conditioner operating unit, Climatronic control
+unit -J255- (lamps in AUTO button and AC button light).
+– Set the rotary temperature control of the air conditioner oper‐
+ating unit, Climatronic control unit -J255- to the “cold” stop.
+– Set the air outflow direction by way of the rotary air distribution
+control on the air conditioner operating unit, Climatronic con‐
+trol unit -J255- to “dash panel vents”.
+– In the “Reading measured value block” function, select the
+display group with the measured values for actuation of the air
+conditioner compressor regulating valve -N280- and the
+measured value of the high-pressure sender -G65- ⇒ "Guided
+fault-finding" function of vehicle diagnostic, testing and infor‐
+mation system VAS 5051.
+– Check display in display zones:
+♦ Indication of a duty cycle greater than 30 % (actuation of the
+air conditioner compressor regulating valve -N280- , the air
+conditioner compressor is switched on).
+♦ Indication of a current greater than 0.3 A (current flowing via
+the air conditioner compressor regulating valve -N280- , the
+air conditioner compressor is switched on).
+132
+Rep. Gr.87 - Air conditioning system

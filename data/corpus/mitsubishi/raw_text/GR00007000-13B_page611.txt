@@ -1,0 +1,35 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-611
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the ignition switch − IG signal voltage at
+ECM harness side connector C-62 <M/T> or PCM harness
+side connector C-59 <A/T>.
+(1) Disconnect the connector C-62 <M/T> or C-59 <A/T> and
+measure at the harness side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 99 <M/T> or 98 <A/
+<M/T>
+T> and ground.
+C-62 HARNESS • Voltage should be battery positive voltage.
+SIDE CONNECTOR
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+77 76 75 7473 7271 Q:Is the voltage normal?
+90 89 8887868584838281807978
+100 99 989796 9594 939291 YES : Go to Step 6.
+NO : Check harness connector C-07, C-89, C-112 and C-
+111 at intermediate connector for damage, and repair
+or replace as required. Refer to, GROUP 00E,
+Harness Connector Inspection P.00E-2. If
+AK000372AC
+intermediate connectors are in good condition, repair
+<A/T>
+harness wire between ignition switch connector C-87
+terminal 2 and ECM connector C-62 terminal 99 <M/
+C-59 HARNESS
+T> or PCM connector C-59 terminal 98 <A/T>
+SIDE CONNECTOR
+because of open circuit. Then confirm that the
+77 76 75 74737271
+89 88 87868584838281807978 malfunction symptom is eliminated.
+98 97 9695 949392 9190
+AK000373AC
+TSB Revision

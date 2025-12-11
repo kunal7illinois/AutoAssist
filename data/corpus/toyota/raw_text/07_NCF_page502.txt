@@ -1,0 +1,46 @@
+BE-168 BODY ELECTRICAL - REAR VIEW MIRROR
+(cid:3)AUTOMATIC GLARE-RESISTANT EC MIRROR
+1. General
+During nighttime driving, if a large difference in intensity exists between the surrounding light and the light
+reflected off the inside rear view mirror from the headlights behind, an automatic glare-resistant EC
+(Electrochromic) mirror automatically reduces the reflection rate of the mirror and thus dampens the glare
+from the mirror.
+(cid:1) This system uses 2 sensors (surrounding light detection sensor, rear light detection sensor) that are present
+in the inside rear view mirror to detect the difference between the intensity of light in the environment,
+and the light that the inside rear view mirror receives from the rear of the vehicle.
+(cid:1) When the ignition switch/engine switch* is changed from OFF to IG-ON, this system defaults to AUTO
+mode.
+*:Only for models with Smart Key System
+(cid:1) System Diagram (cid:2)
+Inside Rear View Mirror
+(cid:1) CPU
+(cid:1) Surrounding Light Detection Sensor
+Rear Light Surrounding Light
+(cid:1) Rear Light Detection Sensor
+(cid:1) Mirror Switch
+(cid:1) LED
+Surrounding Light Detection Sensor
+025BE171P
+LED Indicator Rear Light Detection Sensor
+Mirror Switch
+025BE172TE
+2. Function of Components
+Component Function
+Surrounding Light Detection
+Detects the intensity of the light surrounding the vehicle.
+Sensor
+Detects the intensity of the light that strikes the inside rear view mirror
+Rear Light Detection Sensor
+from behind the vehicle.
+LED Turns on to inform the driver when AUTO mode is operating.
+Mirror modes can be selected and compass setting can be performed by
+pressing the Mirror switch for a given length of time as follows
+(cid:1) 0 ~ 3 seconds: AUTOmode/AUTO OFF mode
+Mirror Switch
+(cid:1) 3 ~ 6 seconds: Compass display/compass clear
+(cid:1) 6 ~ 9 seconds: Compass region setting
+(cid:1) 9 seconds or more: Compass system calibration
+EC Mirror Cell Varies the refection rate of the mirror using the function of EC element.
+Controls the reflections rate in accordance with the signals from the 2
+CPU
+sensors.

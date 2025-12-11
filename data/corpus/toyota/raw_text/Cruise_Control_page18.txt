@@ -1,0 +1,73 @@
+CC–18
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+DATA LIST / ACTIVE TEST
+1. READ DATA LIST
+HINT:
+Using the intelligent tester's DATA LIST allows switch,
+sensor, actuator, and other item values to be read
+without removing any parts. Reading the DATA LIST
+early in troubleshooting is one way to save time.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Read the DATA LIST according to the display on the
+tester.
+ECM (Cruise control):
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Vehicle speed / min.: 0 km/h (0
+VEHICLE SPD Actual vehicle speed -
+mph), max.: 255 km/h (158 mph)
+Cruise control memorized speed /
+MEMORY SPD min.: 36 km/h (22.5 mph), max.: Actual stored vehicle speed -
+200 km/h (125 mph)
+Throttle opening angle / min.: 0°,
+THROTTLE Actual demanded throttle angle -
+max.: 125°
+ON: Shift lever in D or 4
+SHIFT D POS Shift D position / ON or OFF OFF: Shift lever is except D or 4 -
+position
+Cruise control system active ON: Cruise control activated
+CRUISE CONTROL -
+condition / ON or OFF OFF: Cruise control deactivated
+Cruise indicator signal (Main ON: "CRUISE" on
+CCS INDICATOR M -
+CPU) / ON or OFF OFF: "CRUISE" off
+ON: Cruise control main switch
+Main switch signal (Main CPU) / on
+MAIN SW (MAIN) "1"
+ON or OFF OFF: Cruise control main switch
+off
+ON: Cruise control main switch
+Main switch signal (Main CPU) / on
+MAIN SW (SUB) -
+ON or OFF OFF: Cruise control main switch
+off
+ON: Clutch pedal released
+SHIFT D POS Clutch pedal / ON or OFF -
+OFF: Clutch pedal depressed
+CC
+CANCEL switch signal / ON or ON: CANCEL switch on
+CANCEL SW -
+OFF OFF: CANCEL switch off
+SET / COAST switch signal / ON ON: - (COAST) / SET switch on
+SET/COAST SW -
+or OFF OFF: - (COAST) / SET switch off
+ON: + (ACCEL) / RES (RESUME)
+RES / ACC switch signal / ON or switch on
+RES/ACC SW -
+OFF OFF: + (ACCEL) / RES
+(RESUME) switch off
+Stop light switch signal (Main ON: Brake pedal depressed
+STP LIGHT SW M (STP) -
+CPU) / ON or OFF OFF: Brake pedal released
+Stop light switch signal (Sub ON: Brake pedal depressed
+STP LIGHT SW S2 (STP) -
+CPU) / ON or OFF OFF: Brake pedal released
+Stop light switch signal (Sub ON: Brake pedal depressed
+STP LIGHT SW S1 (ST1-) -
+CPU) OFF: Brake pedal released
+HINT:
+• "1" is OK but CRUISE main indicator light does
+not illuminate → CRUISE main indicator light,
+wire harness, or ECM failure

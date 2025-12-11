@@ -1,0 +1,44 @@
+LI–68
+LIGHTING – LIGHTING SYSTEM
+Taillight Relay Circuit
+DESCRIPTION
+The main body ECU receives a light control switch TAIL signal from the headlight dimmer switch
+assembly, and turns the taillight relay on.
+WIRING DIAGRAM
+Instrument Panel J/B Main Body ECU
+TAIL
+1
+IA TRLY
+1 2 7
+5 3
+A46
+Turn Signal and Parking Light (Front LH)
+5 TAIL
+IC
+2 1
+Parking
+A47
+Side Marker Light (Front LH)
+14
+ALT ID
+1 2
+A50
+Turn Signal and Parking Light (Front RH)
+4
+FL MAIN IC
+2 1
+Parking
+A51
+Side Marker Light (Front RH)
+LI
+6
+ID
+1 2
+S11
+Rear Combination Light (LH)
+Battery
+8
+IP
+1 2
+Tail
+E121493E02

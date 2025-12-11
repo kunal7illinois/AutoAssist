@@ -1,0 +1,45 @@
+AUTOMATIC TRANSAXLE 23A-51
+AUTOMATIC TRANSAXLE DIAGNOSIS
+DTC 12: Throttle Position Sensor System (Open Circuit)
+. .
+Throttle Position Sensor System Circuit TROUBLESHOOTING HINTS (The most likely
+Refer to P.23A-42. causes for this code to be set:)
+• Malfunction of the throttle position sensor circuit
+CIRCUIT OPERATION
+• Damaged harness, connector
+Refer to P.23A-42.
+• Malfunction of the PCM
+.
+DTC SET CONDITIONS
+If TPS output voltage is 0.2 volts or lower at times
+other than when the engine is idling, the output is
+judged to be too low and diagnostic trouble code
+number "12" is output.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Using scan tool MB991502, check data list item 11:
+Throttle Position Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to data reading mode for item 11:
+Throttle Position Sensor.
+• With the throttle valve in idle position, voltage should be
+between 535 and 735 mV.
+• With the throttle valve in full-open position, voltage
+should be between 4,500 and 5,500 mV.
+16 PIN
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 AC001252AB Q:Is the sensor operating properly?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Go to Step 2.
+TSB Revision

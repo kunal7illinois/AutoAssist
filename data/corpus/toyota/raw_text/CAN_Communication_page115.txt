@@ -1,0 +1,25 @@
+CA–115
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+OK
+REPLACE CORRESPONDING ECU OR SENSOR
+6 CHECK FOR SHORT TO GND IN CAN BUS WIRE
+(a) Reconnect the CAN main bus line connector (E42) to the
+No. 2 CAN J/C Connector (Front of the No. 1 CAN J/C "A" side (with earth terminal).
+Vehicle) Wire Harness Side View:
+(b) Disconnect the No. 2 CAN J/C connector (A40) (front of
+the vehicle).
+CA
+Front
+A40
+C133245E02
+(c) Measure the resistance according to the value(s) in the
+DLC3: E10 table below.
+CANH
+Standard resistance
+Tester Connection Condition Specified Value
+E10-6 (CANH) - E10-4 (CG) Ignition switch off 200 Ω or higher
+E10-14 (CANL) - E10-4 (CG) Ignition switch off 200 Ω or higher
+OK Go to step 11
+CG CANL
+C126231E13
+NG

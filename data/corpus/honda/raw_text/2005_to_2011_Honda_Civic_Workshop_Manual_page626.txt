@@ -1,0 +1,38 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+HDS screen prompts.
+NOTE: If the TP POSITION CHECK indicates FAILED, continue
+this procedure.
+6. Exit the HDS, then select the CM update, and follow the screen prompts to
+update the PCM.
+7. If the PCM has the latest software, disconnect the HDS/HIM from the DLC,
+and go back to the procedure that you were doing. If the software in the PCM
+is not the latest, follow the instructions on the screen. If prompted to choose the
+PGM-FI system or the A/T system, make sure you update both.
+NOTE: If the PCM update procedure requires you to cool the
+PCM, follow the screen prompts. If you run into a
+problem (programming takes over 15 minutes, status
+bar goes over 100%, D or immobilizer indicator flashes,
+HDS tablet freezes, etc.) during the update procedure,
+follow these steps to minimize the chance of damaging
+the PCM:
+Leave the ignition switch in the "ON (II)" position.
+(cid:1)
+Connect a jumper battery (do not connect a battery
+(cid:1)
+charger).
+Shut down the HDS.
+(cid:1)
+Disconnect the HDS from the DLC.
+(cid:1)
+Reboot the HDS.
+(cid:1)
+Reconnect the HDS to the DLC, and try the update
+(cid:1)
+procedure again.
+8. If the TP POSITION CHECK failed in step 5, clean the throttle body (see
+THROTTLE BODY CLEANING ).
+9. Do the PCM idle learn procedure (see ECM/PCM IDLE LEARN
+PROCEDURE ).
+10. Do the crank (CKP) learn procedure (see CRANK (CKP) PATTERN

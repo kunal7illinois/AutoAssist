@@ -1,0 +1,42 @@
+ES–205
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+A
+5 READ VALUE OF INTELLIGENT TESTER (COOLANT TEMP)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY /
+COOLANT TEMP.
+(d) Read the COOLANT TEMP twice, when the engine is
+both cold and warmed up.
+Standard:
+With cold engine:
+Same as ambient air temperature. ES
+With warm engine:
+Between 75°C and 95°C (167°F and 203°F)
+NG REPLACE ENGINE COOLANT
+TEMPERATURE SENSOR (See page ES-499)
+OK
+6 READ VALUE OF INTELLIGENT TESTER (MAF)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY / MAF and
+COOLANT TEMP.
+(d) Allow the engine to idle until the COOLANT TEMP
+reaches 75°C (167°F) or more.
+(e) Read the MAF with the engine in an idling condition and
+at an engine speed of 2,500 rpm.
+Standard:
+MAF while engine is idling:
+Between 3.2 g/s and 4.7 g/s (shift position: N, A/
+C: OFF).
+MAF at engine speed of 2,500 rpm:
+Between 13.1 g/s and 18.9 g/s (shift position: N,
+A/C: OFF).
+NG REPLACE MASS AIR FLOW METER (See
+page ES-477)
+OK
+7 CHECK FUEL PRESSURE
+(a) Check the fuel pressure (See page FU-8).
+NG REPAIR OR REPLACE FUEL SYSTEM

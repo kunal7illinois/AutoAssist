@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+recheck
+NO -Repair open in the wire between transmission range switch connector
+terminal No. 10 and ground (G101) (see CONNECTOR TO HARNESS
+INDEX ), or repair poor ground (G101).
+30. Test the transmission range switch (see TRANSMISSION RANGE
+SWITCH TEST ).
+Is the switch OK?
+YES -Go to step 30.
+NO -Replace the transmission range switch (see TRANSMISSION RANGE
+SWITCH REPLACEMENT ).
+31. Connect the HDS to the DLC.
+32. Check the accelerator pedal position sensor 1 in the DATA LIST with the
+HDS. Do not press the accelerator.
+Is the accelerator pedal position sensor 1 opening 11 % and above, or the
+sensor 1 voltage 0.90 V and above?
+YES -Check the APP Sensor (see APP SENSOR SIGNAL INSPECTION ).
+NO -Substitute a known-good PCM (see SUBSTITUTING THE PCM ) and
+recheck.
+KEY INTERLOCK SYSTEM CIRCUIT TROUBLESHOOTING
+SRS components are located in this area. Review the SRS component locations, 4-
+door (see COMPONENT LOCATION INDEX ), 2-door (see COMPONENT
+LOCATION INDEX ), and the precautions and procedures (see PRECAUTIONS
+AND PROCEDURES ) before doing repair or service.
+1. Turn the ignition switch to ACCESSORY (I). The shift lever must be in P.
+2. Disconnect the steering lock assembly connector.
+3. Check if the ignition switch can be turned to the LOCK (0) position.

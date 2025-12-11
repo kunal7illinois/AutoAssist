@@ -1,0 +1,34 @@
+54B-76 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+• The scan tool does not show the respective normal
+condition for item "FRONT DOOR SW." Refer to
+Inspection Procedure O-6 "ETACS-ECU does not
+receive a signal from the driver’s or the front
+passenger’s door switch P.54B-502."
+• The scan tool does not show the respective normal
+condition for item "H/L AUTO-CUT." Refer to
+Inspection Procedure J-9 "Headlight automatic
+shutdown function does not work normally P.54B-
+340."
+• The scan tool does not show the respective normal
+condition for item "BUZZER." Replace the ETACS-
+ECU.The light reminder tone alarm function should
+work normally.
+INSPECTION PROCEDURE B-3: Tone Alarm: Seat Belt Tone Alarm Function does not Work Normally.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+Seat Belt Tone Alarm Function
+. .
+CIRCUIT OPERATION TECHNICAL DESCRIPTION (COMMENT)
+The ETACS-ECU operates the seat belt tone alarm If the function does not work normally, the input cir-
+function according to signals from the following cuit system from the switches or the ETACS-ECU
+switches: may be defective (refer to "CIRCUIT OPERATION").
+• Ignition switch (IG1): ON
+• Driver’s seat belt switch: ON . TROUBLESHOOTING HINTS
+The ETACS-ECU operates the seat belt tone alarm • Malfunction of driver’s seat belt switch
+function under the following conditions: • Malfunction of the ETACS-ECU
+• Ignition switch (IG1): "ON" position • Damaged harness wires or connectors
+• Driver’s seat belt: Unfastened
+TSB Revision

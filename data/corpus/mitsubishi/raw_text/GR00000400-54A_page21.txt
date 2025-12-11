@@ -1,0 +1,52 @@
+CHASSIS ELECTRICAL 54A-21
+IGNITION SWITCH
+STEP 8. Check the wiring harness between immobilizer-
+ECU connector C-79 (terminal 5) and ECM connector C-56
+(terminal 51) <2.4L M/T>, C-62 (terminal 98) <3.0L M/T> or
+PCM connector C-61 (terminal 111) <2.4L A/T>, C-63
+(terminal 111) <3.0L A/T>.
+Q:Are the wiring harness between immobilizer-ECU
+CONNECTOR: C-79
+connector C-79 and ECM connector C-56 (terminal 51)
+CENTER
+REINFORCEMENT <2.4L M/T>, C-62 (terminal 98) <3.0L M/T> or PCM
+connector C-61 (terminal 111) <2.4L A/T>, C-63 (terminal
+111) <3.0L A/T> damaged?
+YES : Repair the wiring harness. Confirm that scan tool
+MB991502 communicates normally.
+IMMOBILIZER-ECU DEVICE SIDE NO : Go to Step 9.
+1 2 3 4 5
+6 7 8 91011 12
+AC001652AD
+CONNECTORS: C-56 <2.4L ENGINE-M/T>,
+C-61 <2.4L ENGINE-A/T>, C-62 <3.0L
+ENGINE-M/T>, C-63 <3.0L ENGINE-A/T>
+ECM <M/T>
+OR
+PCM <A/T>
+C-56 C-61, C-62,
+C-63
+DEVICE SIDE C-56
+515253545556
+575859606162
+C-62
+7172 7374 7576 77
+787980818283848586878889 90
+919293 9495 969798 99 100
+C-61, C-63
+101102 103104 105 106 107
+108109110111112113114115116117118 119 120
+121122123 124125 126127128 129 130
+AC106873AQ
+STEP 9. Replace the immobilizer-ECU.
+Q:Did the communication with MUT-II become possible
+after replacing the immobilizer-ECU?
+YES : Register the password (secret code) and encrypted
+code (Refer to P.54A-28.). Confirm that scan tool
+MB991502 communicates normally.
+NO : Go to Step 10.
+STEP 10. Recheck for malfunction
+Q:Is a malfunction eliminated?
+YES : Go to Step 11.
+NO : Replace the immobilizer-ECU.
+TSB Revision

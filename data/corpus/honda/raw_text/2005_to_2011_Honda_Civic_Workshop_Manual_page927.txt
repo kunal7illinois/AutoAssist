@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+to step 8.
+8. Monitor the OBD STATUS for P1746 in the DTCs MENU with the HDS.
+Does the HDS indicate FAILED?
+YES -Repair cut valve A in the servo body (see SERVO BODY
+DISASSEMBLY, INSPECTION, AND REASSEMBLY ), cut valve B in the
+main valve body (see MAIN VALVE BODY DISASSEMBLY,
+INSPECTION, AND REASSEMBLY ), replace the main valve body or the
+servo body, or replace the transmission, then go to step 9.
+NO -If the HDS indicates PASSED, intermittent failure, the system is OK at
+this time. If the HDS indicates NOT COMPLETED, go to step 6.
+9. Test-drive the vehicle with the shift lever in D, and let the transmission shift
+through all five gears.
+10. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 9, then go
+to step 11.
+11. Check for DTCs with the HDS.
+Is DTC P1746 indicated?
+YES -Go to step 4.
+NO -Go to step 12.
+12. Monitor the OBD STATUS for P1746 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+11, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, go to step 4. If the HDS indicates NOT
+COMPLETED, go to step 9.
+DTC P1747: Problem in Shift Control System; Cut Valve A Stuck ON, or Cut Valve B Stuck OFF

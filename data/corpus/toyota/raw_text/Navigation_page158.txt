@@ -1,0 +1,36 @@
+NS–158
+NAVIGATION – NAVIGATION SYSTEM
+INSPECTION PROCEDURE
+NOTICE:
+The vehicle is equipped with an SRS (Supplemental Restraint System) such as the airbags. Before
+servicing (including removal or installation of parts), be sure to read the precautionary notice for
+the Supplemental Restraint System (See page RS-1).
+1 INSPECT RADIO AND NAVIGATION ASSEMBLY
+(a) Disconnect the radio and navigation assembly connector
+Wire Harness View: F10.
+(b) Measure the resistance according to the value(s) in the
+table below.
+F10 Standard resistance
+SW1
+Tester connection Condition Specified condition
+SWG
+SW2 SW1 - SWG No switch is pushed Approx. 100 kΩ
+SW1 - SWG SEEK+ switch: push 0 to 2.5 Ω
+SW1 - SWG SEEK- switch: push Approx. 0.3 kΩ
+SW1 - SWG VOL+ switch: push Approx. 1 kΩ
+SW1 - SWG VOL- switch: push Approx. 3.1 kΩ
+SW2 - SWG No switch is pushed Approx. 100 kΩ
+SW2 - SWG MODE switch: push 0 to 2.5 Ω
+SW2 - SWG VOICE switch: push Approx. 3.1 kΩ
+E113509E03
+SW2 - SWG ON HOOK switch: push Approx. 0.3 kΩ
+OFF HOOK switch:
+SW2 - SWG Approx. 1 kΩ
+push
+NG Go to step 2
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+2 INSPECT STEERING PAD SWITCH ASSEMBLY
+(a) Disconnect the steering pad switch assembly connector
+a1.
+NS

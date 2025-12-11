@@ -1,0 +1,50 @@
+13B-10 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+HOW TO READ AND ERASE DIAGNOSTIC
+TROUBLE CODE
+Refer to GROUP 13A, Trouble code diagnosis − How to Read
+and Erase Diagnostic Trouble Codes P.13A-5.
+PROVISIONAL DTCs [MUT-II OBD-II Test Mode-
+Results (Mode 5)]
+Refer to GROUP 13A,Trouble code diagnosis − Provisional
+DTCs [MUT-II OBD-II Test Mode-Results (Mode 5)]P.13A-5.
+MODE 6 REFERENCE TABLE
+The engine powertrain control module (ECM) <M/T> or powertrain control module (PCM) <A/T> monitors the
+condition of emission control system.
+By selecting MODE 6 using scan tool, Test Result and Limit Value (minimum) *1 or (maximum) *2 about the
+main items of emission control system which ECM <M/T> or PCM <A/T> monitors can be confirmed. The
+value at the last monitoring is output by ECM <M/T> or PCM <A/T> as a test result.
+TEST MONITORING SIMPLE TECHNICAL INDICATION OF SCAN CONVERSION
+ID ITEM DESCRIPTION TOOL COEFFICIENT IN
+USING
+GENERAL SCAN
+TOOL
+01 Catalyst ECM <M/T> or PCM <A/T> Catalyst Frequency × 0.0039
+monitor (Bank monitors the deterioration of Ratio Bank 1
+1) catalyst at right bank side by the Test Result and Limit
+output frequency ratio between Value (max.)
+right bank heated oxygen sensor
+(front) and right bank heated
+oxygen sensor (rear).
+02 Catalyst ECM <M/T> or PCM <A/T> Catalyst Frequency × 0.0039
+monitor (Bank monitors the deterioration of Ratio Bank 2
+2) catalyst at left bank side by the Test Result and Limit
+output frequency ratio between left Value (max.)
+bank heated oxygen sensor (front)
+and left bank heated oxygen sensor
+(rear).
+03 EGR monitor ECM <M/T> or PCM <A/T> EGR Monitor Pressure × 0.43 kPa
+monitors the operation of EGR Value
+system by the pressure difference Test Result and Limit
+of intake manifold between before Value (min.) kPa
+and after introduction of EGR using
+the manifold differential pressure
+sensor.
+06 Evaporation ECM <M/T> or PCM <A/T> EVAP Leak Mon. 1mm × 0.032 kPa
+leak monitor monitors the leak of fuel Pressure Value
+(Small leak) evaporation gas by the reduction of Test Result and Limit
+vacuum in tank after appointed time Value (max.) kPa
+using the fuel tank differential
+pressure sensor after making the
+fuel tank and the fuel line vacuum.
+TSB Revision

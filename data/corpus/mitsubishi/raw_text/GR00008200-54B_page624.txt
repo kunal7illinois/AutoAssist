@@ -1,0 +1,26 @@
+54B-624 SIMPLIFIED WIRING SYSTEM (SWS)
+CHECK AT ECU TERMINAL
+TERMINAL INSPECTION ITEMS INSPECTION CONDITIONS NORMAL VALUE
+28 Output to windshield wiper (high- When windshield wiper is on Battery positive voltage
+speed) (at high speed)
+30 Power supply to ignition switch Ignition switch: "ON" Battery positive voltage
+(IG2)
+31 Ground Always 0 V
+4. SUNROOF MOTOR ASSEMBLY
+1 2 3 4
+5 6 7 8 9 10
+ACX01514
+TERMINAL INSPECTION ITEMS INSPECTION CONDITION NORMAL VALUE
+1 Battery power supply (for motor) Always Battery positive voltage
+2 Power supply to ignition switch Ignition switch: ON Battery positive voltage
+(IG2)
+3 Battery power supply (for ECU) Always Battery positive voltage
+5 Ground Always 0 V
+6 Input signal ("CLOSE/DOWN") from Sunroof switch: "CLOSE/ 0 V
+the sunroof switch DOWN"
+7 Input signal ("UP") from the sunroof Sunroof switch: "UP" 0 V
+switch
+8 Input signal ("OPEN") from the Sunroof switch: "OPEN" 0 V
+sunroof switch
+10 SWS communication line Always 0 − 12 V (pulse signal)
+TSB Revision

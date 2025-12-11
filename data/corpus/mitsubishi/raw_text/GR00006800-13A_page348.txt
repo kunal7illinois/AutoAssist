@@ -1,0 +1,39 @@
+13A-348 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC P0455: Evaporative Emission Control System Leak Detected (Gross Leak)
+SYSTEM DIAGRAM
+INTAKE MANIFOLD
+CHECK VALVE A
+J
+L
+CHAMBER
+A
+M
+B C
+EVAPORATIVE EMISSION G
+PURGE SOLENOID H CHECK K
+E VALVE B
+D
+F
+P I N
+FUEL TANK
+O EVAPORATIVE EVAPORATIVE
+EMISSION
+EMISSION CANISTER
+VENTILATION
+SOLENOID
+AC001943AB
+EVAPORATIVE EMISSION CANISTER EVAPORATIVE EMISSION
+PURGE SOLENOID
+FUEL TANK
+AC000183AB AC000182AB
+EVAPORATIVE EMISSION
+VENTILATION SOLENOID
+AC002035AB
+. • The ECM <M/T> or PCM <A/T> turns on the
+TECHNICAL DESCRIPTION
+• To judge if there is leak or clog in the fuel system, evaporative emission ventilation solenoid to shut
+off the evaporative emission canister outlet port.
+the ECM <M/T> or PCM <A/T> measures the
+change of the pressure inside the fuel tank.
+TSB Revision

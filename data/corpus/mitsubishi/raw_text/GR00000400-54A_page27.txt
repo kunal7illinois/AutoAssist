@@ -1,0 +1,40 @@
+CHASSIS ELECTRICAL 54A-27
+IGNITION SWITCH
+STEP 4. Check the wiring harness between immobilizer-
+ECU connector C-79 (terminal 9) and combination meter
+connector C-42 (terminal 31).
+Q:Are immobilizer-ECU connector C-79 (terminal 9) and
+CONNECTOR: C-79
+combination meter connector C-42 (terminal 31)
+CENTER
+REINFORCEMENT damaged?
+YES : Repair the wiring harness. Refer to GROUP 00E,
+Harness Connector Inspection P.00E-2.
+NO : Repair the combination meter (printed-circuit board)
+P.54A-107. Then Go to Step 5.
+IMMOBILIZER-ECU DEVICE SIDE
+1 2 3 4 5
+6 7 8 91011 12
+AC001652AD
+CONNECTOR: C-42
+DEVICE SIDE
+2122232425262728 293031323334
+AC106473AI
+STEP 5. Recheck for malfunction.
+Q:Is a malfunction eliminated?
+YES : This diagnosis is complete. (If no malfunctions are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to GROUP 00,How to Use
+Troubleshooting/Inspection Service Point P.00-6.)
+NO : Go to step 1.
+DATA LIST REFERENCE TABLE
+M1543007300206
+MUT-II SCAN TOOL ITEM INSPECTION ITEM INSPECTION NORMAL CONDITION
+DISPLAY NO. REQUIREMENT
+KEY REGISTERED 01 Key has been registered − Number of registered ignition
+keys
+CHECK AT IMMOBILIZER-ECU
+M1543007600315
+TERMINAL VOLTAGE CHECK
+ACX01564AB
+TSB Revision

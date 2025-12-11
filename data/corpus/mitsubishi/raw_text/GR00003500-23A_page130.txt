@@ -1,0 +1,36 @@
+23A-130 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+CONNECTOR: C-28
+CONNECTOR: C-89
+CONNECTOR BLOCK (LH)
+C-28
+C-89
+AC106611AB
+AC106616AB
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+• Battery positive voltage is supplied to the stop- If the stoplight switch is on for five minutes or more
+while driving 50 km/h (31 mph), it is judged there is a
+light switch (terminal 2).
+• When the brake pedal is depressed, battery posi- short circuit in the stoplight switch and diagnostic
+trouble code number "26" is output.
+tive voltage is applied to the PCM (terminal 123).
+The PCM judges that the brake pedal is
+.
+depressed and the stoplight switch is on when TROUBLESHOOTING HINTS (The most likely
+battery positive voltage is sensed at the PCM causes for this code to be set:)
+(terminal 123). • Malfunction of the stoplight switch circuit
+• Damaged harness, connector
+. • Malfunction of the PCM
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Check the brake pedal height.
+Refer to GROUP 35A, On-vehicle Service − Brake Pedal
+Check and Adjustment P.35A-17.
+Q:Is the height adjusted properly?
+YES : Go to Step 2.
+NO : Adjust it.
+TSB Revision

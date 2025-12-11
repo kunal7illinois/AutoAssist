@@ -1,0 +1,43 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+compressor control. The evaporator is excessively cooled and
+ices up. Icing-up of the evaporator may give rise to the follow‐
+ing problems
+– Repeated or sporadic failure of the air conditioner (no cooling/
+heating output) after a lengthy journey; operation of air condi‐
+tioner soon returns to normal after switching off engine
+– Misting up of the windows on the inside after a long journey;
+the windows are initially not cleared even by pressing the “De‐
+frost” button; the air conditioner functions properly again after
+a short delay following engine shut-off.
+Remedy:
+– Check the measured value of the evaporator output tempera‐
+ture sender -G263- in the “Reading measured value block”
+function ⇒ "Guided fault-finding" function of vehicle diagnos‐
+tic, testing and information system VAS 5051 .
+– If the sender measured value is too high under the usage con‐
+ditions described by the customer (greater than e.g. 10 °C
+although the air conditioner is functioning properly, depending
+on ambient temperature), check the evaporator output tem‐
+perature sender -G263- (an incorrect measured value can
+cause the evaporator to ice up).
+– If the sender measured value is too low under t h e usage con‐
+ditions described by the customer (at ambient temperature
+above 0 °C, colder than 0 °C for lengthy period): The vehicle
+is to be taken to a workshop equipped with the necessary tools
+where the work can be performed by appropriately qualified
+personnel ⇒ Air conditioner with refrigerant R134a . Inform
+the workshop of the problems encountered.
+– Check the refrigerant pipe from the evaporator (from the ex‐
+pansion valve) to the air conditioner compressor (thick pipe,
+low pressure end) with the engine running. If this pipe is se‐
+verely iced up when the problem occurs (a thin layer of ice is
+permissible), this is also an indication that the temperature in
+the evaporator is too low. The vehicle is to be taken to a work‐
+shop equipped with the necessary tools where the work can
+be performed by appropriately qualified personnel ⇒ Air con‐
+ditioner with refrigerant R134a (there may be problems with
+air conditioner compressor control). Inform the workshop of
+the problems encountered.
+139
+10. Checking cooling output of air conditioner

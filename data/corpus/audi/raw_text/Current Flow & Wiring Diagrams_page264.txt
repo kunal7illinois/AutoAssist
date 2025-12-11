@@ -1,0 +1,130 @@
+Audi TT No. 32 / 15
+Current Flow Diagram
+Coupé, navigation system with CD drive control unit, aerial
+amplifier, radio, telephone and navigation system aerial
+J401 Navigation system with CD drive control unit
+R24 Aerial amplifier
+R52 Radio, telephone and navigation system aerial
+R111 Aerial amplifier 2
+R130 Rear window aerial 1
+R131 Rear window aerial 2
+R111 ✱✱ R52 ✱✱✱ T
+T
+2
+2
+d
+e
+2
+2
+-
+-
+p
+p
+i
+i
+n
+n
+c
+c
+o
+o
+n
+n
+n
+n
+e
+e
+c
+c
+t
+t
+o
+o
+r
+r
+,
+,
+w
+ye
+h
+l
+i
+l
+t
+o
+e
+w
+,
+,
+o
+o
+n
+n
+r e
+re
+a
+a
+r
+r
+r i
+r
+g
+ig
+h
+h
+t
+t
+r o
+ro
+o
+o
+f
+f
+f r
+f
+a
+ra
+m
+m
+e
+e
+T2f 2-pin connector, blue, on rear right roof frame
+* rear window upper right
+A1 A2 B1 B2 C1 C2 ** rear window bottom right
+*** roof aerial
+# models with CD changer
+B1 B2 C1 C2 ## models with iPod holder
+0,5 0,5 0,5 0,5 0,5
+sw sw sw sw sw
+0,14 0,14 0,14 0,4 0,4
+R131
+115522 #
+118833 J401 118877 118899 119922 118800 ##
+F3 F4 F1 F2 G1 G2
+0,5 0,5 0,5
+sw sw sw
+0,4 0,4 0,4
+R130
+0,5 0,5 0,5
+sw sw sw
+118833 T2e/1 T2e/2 T2d/1 T2d/2 T2f/1 T2f/2
+0,14 0,5 0,5 0,5
+sw sw sw
+0,5
+sw 0,14 0,14 0,4
+118877 118899 119922
+A1 A2
+ws = white
+R24✱
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+183 184 185 186 187 188 189 190 191 192 193 194 195 196 or = orange
+8J0-032150906
+rs = pink
+Edition 04.2009

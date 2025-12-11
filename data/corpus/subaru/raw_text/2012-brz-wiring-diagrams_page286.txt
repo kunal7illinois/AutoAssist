@@ -1,0 +1,38 @@
+Luggage Compartment Door Opener
+: Parts Location
+Code See Page Code See Page Code See Page
+A5 39 D5 B 40 D41 B 41
+A9 A 42 D6 C 40 D43 41
+A17 42 D8 A 40 H7 45
+A18 A 42 D9 B 40 J2 45
+A19 B 42 D16 A 40 J3 45
+A73 A 42 D17 B 40 L2 39
+D4 40 D40 A 41
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 24 Engine Room R/B (Engine Compartment Right)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+3A
+26 Instrument Panel Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+3B
+3C 26 Engine Room Main Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+3D 26 Instrument Panel Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+: Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+AD1 47 Engine Room Main Wire and Instrument Panel Wire (Cowl Side Panel RH)
+AD2 47 Engine Room Main Wire and Instrument Panel Wire (Instrument Panel Reinforcement)
+AL2 46 Engine Room Main Wire and Transmission Wire (Dash Panel)
+HD1 47 No. 2 Floor Wire and Instrument Panel Wire (Cowl Side Panel LH)
+JH1 48 Luggage Room Wire and No. 2 Floor Wire (Quarter Panel LH)
+: Ground Points
+Code See Page Ground Points Location
+A3
+47 Cowl Side Panel LH
+D1
+D3 47 Instrument Panel Brace RH
+D4 47 Cowl Side Panel RH
+H1 48 Lower Back Panel
+H3 48 Quarter Wheel House Panel LH
+286
+BRZ (G4400BE)

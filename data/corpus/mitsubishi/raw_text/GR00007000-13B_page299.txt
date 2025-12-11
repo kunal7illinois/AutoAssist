@@ -1,0 +1,47 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-299
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+• Barometric pressure is higher than 76 kPa (11 or
+psi). • Misfire has occurred in 20 or more of the last
+• Volumetric efficiency is at between 30 and 60 1,000 revolutions (corresponding to 1.5 times the
+percent. limit of emission standard).
+• Adaptive learning is complete for the vane which
+generates a crankshaft position signal. . TROUBLESHOOTING HINTS (The most likely
+• While the engine is running, excluding gear shift- causes for this code to be set are: )
+ing, deceleration, sudden acceleration/decelera- • Ignition system related part (s) failed.
+tion and A/C compressor switching. • Poor crankshaft position sensor.
+• The throttle deviation is −0.059 v/10 ms to +0.059 • Incorrect air/fuel ratio.
+v/10 ms. • Low compression pressure.
+• Skipping of timing belt teeth.
+Judgement Criteria (change in the angular accel-
+• EGR system and EGR valve failed.
+eration of the crankshaft is used for misfire
+• ECM failed. <M/T>
+detection).
+• Misfire has occurred more frequently than • PCM failed. <A/T>
+allowed during the last 200 revolutions [when the
+catalyst temperature is higher than 950°C
+(1742°F)].
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 22:
+Crankshaft Position Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+22, Crankshaft Position Sensor.
+16 PIN (4) Check the waveform of the crankshaft position sensor while
+keeping the engine speed constant.
+MB991502
+• The pulse width should be constant.
+AKX01177AB
+(5) Turn the ignition switch to "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : Go to Step 2.
+NO : Refer to DTC P0335 − Crankshaft Position Sensor
+Circuit Malfunction P.13B-315.
+TSB Revision

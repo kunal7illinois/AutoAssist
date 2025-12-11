@@ -1,0 +1,64 @@
+Audi TT No. 1 / 11
+Current Flow Diagram
+Onboard supply control unit, light switch, switches and
+instruments illumination regulator, front and rear fog light
+switch
+E1 Light switch
+E20 Switches and instruments illumination regulator
+E23 Front and rear fog light switch
+J519 Onboard supply control unit
+L9 Light switch illumination bulb
+T7 7-pin connector, black, connector B, on light switch
+T10e 10-pin connector, black, connector A, on light switch
+B341
+T12c 12-pin connector, black, connector B, on onboard power supply
+0,35 0,5 0,5 0,35 control unit
+gr/bl gr/bl gr/bl gr/bl
+T12e 12-pin connector, black, connector G, on onboard power supply
+control unit
+116600 333333 333366
+B340 T16a 16-pin connector, black, connector E, on onboard power supply
+control unit
+B340 Connection 1 (58s), in main wiring harness
+0,5 0,35 0,5 0,35 0,5
+gr/bl gr/bl gr/bl gr/bl gr/bl
+T
+58
+1
+s
+2c/12
+J519 114411 113377 114488 330011 B341 Connection 2 (58s), in main wiring harness
+* models with automatic headlight switching
+# up to May 2008
+T16a T16a T16a/1 T16a/8 T16a/6 T16a/13 T12e T12e T12e ## from June 2008
+/16 /14 224488 224488 /12 /4 /10
+✱ # ##
+0,35 0,35 0,35 0,35 0,35 0,35 0,5 0,5 0,35 0,35 0,35
+sw/ws ge/bl gr/ge ws/sw ws/bl gr/ws gr/bl gr/bl gr/bl gr/gn gr
+T10e/9 T10e/2 T10e/3 T10e/1 T10e/5 T10e/7 T10e/8 T7/7 T7/2 T7/1
+0123
+L9 E20
+E1 T
+31
+10e/6 E23 T
+15
+10e/4 T
+58
+1
+s
+0e/10
+0,5 0,5 0,5
+br sw/bl gr/bl
+ws = white
+112211 3300 113377 sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+127 128 129 130 131 132 133 134 135 136 137 138 139 140 or = orange
+8J0-001110408
+rs = pink
+Edition 04.2008

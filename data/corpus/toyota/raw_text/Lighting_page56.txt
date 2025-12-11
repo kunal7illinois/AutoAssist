@@ -1,0 +1,49 @@
+LI–56
+LIGHTING – LIGHTING SYSTEM
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Rear left door courtesy switch ON: Rear left door is open
+RL DOR CTY SW -
+signal / ON or OFF OFF: Rear left door is closed
+OK:
+Normal conditions listed above are displayed.
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+NG
+2 INSPECT DOOR COURTESY SWITCH
+(a) Inspect the front door courtesy switch (See page LI-129).
+(b) Inspect the rear door courtesy switch (See page LI-131).
+OK:
+Door courtesy switches are normal.
+NG REPLACE DOOR COURTESY SWITCH
+OK
+3 CHECK HARNESS AND CONNECTOR (MAIN BODY ECU - DOOR COURTESY SWITCH)
+(a) Check the harness and connector between the main
+Wire Harness Side:
+body ECU and door courtesy switches (passenger side
+and rear RH).
+(1) Disconnect the E6 main body ECU connector.
+Main Body ECU
+(2) Disconnect the O6 and O10 switch connectors.
+(3) Measure the resistance according to the value(s) in
+RCTY (*2)
+the table below.
+RCTY (*1)
+Standard resistance
+E6 Tester Connection Condition Specified Condition
+E6-5 (*1) - O10-1 (Rear RH) Always Below 1 Ω
+PCTY E6-7 (*2) - O10-1 (Rear RH) Always Below 1 Ω
+LI
+E6-21 (PCTY) - O6-1 (Front
+Always Below 1 Ω
+passenger side)
+O10-1 (Rear RH) - Body ground Always 10 kΩ or higher
+O6-1 (Front passenger side) - Body
+Always 10 kΩ or higher
+ground
+HINT:
+Switch O6
+*1: without Smart Key System
+O10 *2: with Smart Key System
+E108574E07

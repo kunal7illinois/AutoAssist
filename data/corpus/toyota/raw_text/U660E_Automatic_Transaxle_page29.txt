@@ -1,0 +1,55 @@
+AX–29
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+INITIALIZATION
+1. RESET TRANSAXLE COMPENSATION CODE
+NOTICE:
+The transaxle compensation code can be reset only
+with the intelligent tester.
+HINT: AX
+The TCM memorizes the condition that the ECT controls
+the automatic transaxle assembly and engine assembly
+according to those characteristics. Therefore, when the
+automatic transaxle assembly, engine assembly, or TCM
+has been replaced, it is necessary to reset the memory
+so that the TCM can memorize the new information.
+Reset procedure is as follows.
+(a) Shift the shift lever to N or P position.
+(b) Turn the ignition switch off.
+(c) Connect the intelligent tester to the DLC3.
+(d) Turn the ignition switch on (IG) and push the
+intelligent tester main switch on.
+(e) Enter the menu items in this order: DIAGNOSIS /
+M-OBD / OBD(cid:932)MENU OBD/MOBD / ECT / AT CODE UTILITY.
+[Name of system]
+1 : DATA LIST
+1 : DTC INFO
+3 : ACTIVE TEST
+4 : SNAPSHOT
+6 : RESET MEMORY
+8 : CHECK MODE
+9 : AT CODE UTILITY
+C133193
+(f) Select "AT CODE RESET".
+AT CODE UTILITY (g) Press the "ENTER"
+[Name of system]
+CAUTION:
+1 : AT CODE REGIST
+After the transaxle compensation code, be sure
+2 : AT CODE RESET
+to perform a road test to allow TCM to learn.
+2. PERFORM ROAD TEST TO ALLOW TCM TO LEARN
+NOTICE:
+Perform the following procedures while strictly
+observing all traffic laws and speed limits.
+C133194 (a) From a standstill, achieve highest possible speed
+with the accelerator pedal opened 15% or less.
+Keep the accelerator pedal angle steady while
+driving the vehicle.
+(b) Repeat the previous step until shift shock no longer
+occurs.
+(c) From a standstill, achieve highest possible speed
+with the accelerator pedal opened 25% or more.
+Keep the accelerator pedal angle steady while
+driving the vehicle.
+(d) Repeat the previous step until shift shock no longer
+occurs.

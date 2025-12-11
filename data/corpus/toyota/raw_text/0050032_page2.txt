@@ -1,0 +1,33 @@
+ES–180
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR STRATEGY
+Related DTCs P0335: CKP sensor range check or rationality
+Required Sensors/Components (Main) CKP sensor
+Required Sensors/Components (Related) CMP sensor
+Frequency of Operation Continuous
+Duration 3 times
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+All:
+ES
+Monitor runs whenever following DTCs not present None
+Case 1:
+Time after starter OFF to ON 0.3 seconds or more
+Number of CMP sensor signal pulse 6 times
+Battery voltage 7 V or more
+CMP sensor circuit failure Not detected
+Ignition switch ON
+Case 2:
+Starter OFF
+Engine speed 600 rpm or more
+Time after starter from ON to OFF 3 seconds or more
+TYPICAL MALFUNCTION THRESHOLDS
+Case 1:
+Number of CKP sensor signal pulse 132 or less, and 174 or more
+Case 2:
+Engine speed signal No signal
+COMPONENT OPERATING RANGE
+• CKP sensor output voltage fluctuates while crankshaft revolving
+CKP sensor
+• 34 CKP sensor signals per crankshaft revolution

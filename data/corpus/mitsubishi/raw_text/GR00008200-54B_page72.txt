@@ -1,0 +1,52 @@
+54B-72 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal by using "FUNCTION
+DIAG." of the SWS monitor.
+Check the input signals from the following switches:
+COLUMN SWITCH • Ignition switch: OFF (key inserted)
+CONNECTOR • Driver(cid:146)s door: open
+MB991502 • Front passenger’s door: closed
+Operate the MUT-II according to the procedure below to dis-
+play "KEY RMND. ALM."
+1. Select "SYSTEM SELECT."
+DATA LINK 2. Select "SWS."
+CONNECTOR
+3. Select "SWS MONITOR."
+AC101571AB 4. Select "FUNCTION DIAG."
+5. Select "BUZZER."
+COLUMN SWITCH
+6. Select "KEY RMND. ALM."
+CONNECTOR
+Check that normal conditions are displayed on the items
+described in the table below.
+SWS MONITOR NOTE: The scan tool display changes when the driver’s or the
+HARNESS (FOR
+front passenger’s door is opened. If any of the doors is open,
+COLUMN-ECU)
+the system can not be checked correctly.
+COLUMN SWITCH
+CONNECTOR AT ITEM No. ITEM NAME NORMAL
+HARNESS SIDE CONDITIONS
+AC101421AB
+ITEM No.30 IG SW (IG1) OFF
+ITEM No.32 FRONT DOOR ON
+SW
+ITEM No.43 BUZZER ON
+Q:Does the scan tool display the items "IG SW (IG1)",
+"FRONT DOOR SW" and "BUZZER" as normal
+condition?
+YES : Replace the ETACS-ECU. The ignition key reminder
+tone alarm function should work normally.
+NO : • The scan tool does not show the respective
+normal condition for item "IG SW (IG1)." Refer to
+Inspection Procedure O-2 "ETACS-ECU does not
+receive a signal from the ignition switch (IG1)
+P.54B-469."
+• The scan tool does not show the respective
+normal condition for item "FRONT DOOR SW."
+Refer to Inspection Procedure O-6 "ETACS-ECU
+does not receive a signal from the driver’s or the
+front passenger’s door switch P.54B-502."
+• The scan tool does not show the respective
+normal condition for item "BUZZER." Go to Step 3.
+TSB Revision

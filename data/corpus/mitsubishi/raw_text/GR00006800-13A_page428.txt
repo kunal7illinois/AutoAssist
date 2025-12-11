@@ -1,0 +1,31 @@
+13A-428 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 11. Check for open circuit and short circuit to ground
+and harness damage between manifold differential
+pressure sensor connector B-04 (terminal 1) and ECM
+connector C-60 (terminal 73) <M/T> or PCM connector C-57
+(terminal 91) <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR:B-04
+YES : Replace the manifold differential pressure sensor.
+MANIFOLD
+DIFFERENTIAL Then go to Step 12.
+PRESSURE
+NO : Repair it. Then go to Step 12.
+SENSOR
+AK101574AB
+CONNECTORS:C-60<M/T>,C-57<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-60
+C-57
+AK000280BE
+STEP 12. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P1400 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+TSB Revision

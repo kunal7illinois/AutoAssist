@@ -1,0 +1,33 @@
+6 5
+(BAT)
+20A
+D/L
+A DR P DR UNLOCK
+LOCK/SET Relay
+Relay
+12 3A 3 3B 4 3B
+D1
+B
+B
+13 3A
+B
+2
+1
+6 3C
+GL
+A73(A), D5(B), D6(C)
+Main Body ECU
+ACT+ ACTP
+2 FD1 3 FD1
+4 B 1 B
+M
+F3(B)
+Door Lock with Motor Assembly RH
+L
+R
+W–L
+GL
+Wireless Door Lock Control (w/o Smart Entry & Start System)
+L UL
+274
+BRZ (G4400BE)

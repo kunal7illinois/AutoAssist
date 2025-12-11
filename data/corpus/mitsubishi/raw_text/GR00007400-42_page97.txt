@@ -1,0 +1,43 @@
+BODY 42-97
+CONVERTIBLE TOP
+CIRCUIT OPERATION DOWN" signal is received, the convertible top control
+When the convertible top switch is operated, a signal module drives the quarter window regulator motor to
+is sent to the convertible top control module. The lower the quarter windows and simultaneously drives
+convertible top control module sends convertible top the topstack drive motor assembly to operate the
+switch "ON" signal to the power window main switch electric convertible top.
+to lower the door windows automatically. The power
+window main switch lowers the door windows and . TECHNICAL DESCRIPTION (COMMENT)
+simultaneously sends the "AUTO DOWN" signal to The cause may be a malfunction of the topstack
+the convertible top control module. When the "AUTO drive motor circuit.
+.
+TROUBLESHOOTING HINTS
+• Malfunction of the topstack drive motor assembly
+• Damaged harness wires or connectors
+.
+DIAGNOSIS
+STEP 1. Check the harness wires between convertible top
+control module connector F-34 (4) and topstack drive
+motor connector F-37 <LH> (terminal 1), F-30 <RH>
+(terminal 1).
+Q:Are the harness wires between convertible top control
+CONNECTORS:F-30,F-34,F-37 F-30
+module connector F-34 (terminal 4) and topstack drive
+F-37 F-34
+motor connector F-37 <LH> (terminal 1) , F-30 <RH>
+(terminal 1) in good condition?
+YES : Go to Step 2.
+NO : Repair or replace them. Refer to GROUP 00E,
+Harness Connector InspectionP.00E-2 . Then go to
+Step 3.
+AC004098AB
+STEP 2. Check the topstack drive motor assembly.
+Q:Are topstack drive motor assembly in good condition?
+YES : Go to Step 3.
+NO : Replace the topstack drive motor assembly P.42-114.
+AC004099
+STEP 3. Check symptoms.
+Q:Does the electric convertible top open and close
+normally?
+YES : This diagnosis is complete.
+NO : Return to Step 1.
+TSB Revision

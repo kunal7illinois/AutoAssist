@@ -1,0 +1,34 @@
+RS–172
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+OK
+4 CHECK CENTER AIRBAG SENSOR ASSEMBLY
+(a) Connect the connectors to the front passenger airbag
+assembly and the center airbag sensor assembly.
+(b) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+FE DC
+(c) Turn the ignition switch on (IG), and wait for at least 60
+Front Passenger
+seconds.
+Side Squib
+(d) Clear the DTCs stored in the memory (See page RS-41).
+Center Airbag
+(e) Turn the ignition switch off.
+Sensor Assembly
+(f) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+(g) Check the DTCs (See page RS-41).
+DLC3 DTC 52
+OK:
+DTC B1805, B1806, B1807, B1808, or 52 is not
+output.
+HINT:
+CG TC
+C C114811E01 Codes other than DTC B1805, B1806, B1807, B1808,
+and 52 may be output at this time, but they are not
+related to this check.
+NG REPLACE CENTER AIRBAG SENSOR
+ASSEMBLY (See page RS-441)
+OK
+RS
+USE SIMULATION METHOD TO CHECK (See page RS-32)

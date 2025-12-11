@@ -1,0 +1,71 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0071 Ambient Air – Check the • ambient tem‐ • Engine off time > 0 Sec ---
+Tempera‐ Ambient Air perature minus 6...18 h
+ture Sensor Temperature engine temper‐
+Range/Per‐ Sensor - ature @ engine • engine tempera‐
+formance G17- . Refer start ture @ engine start
+to minus intake air
+⇒ “3.5.25 Am‐ • AND temperature @ en‐
+bient Air Tem‐ gine start <40…25
+perature Sen‐ • ambient tem‐ K
+perature minus
+sor, Check‐
+intake air tem‐ • intake air tempera‐
+ing”,
+perature @ en‐ ture @ engine start
+page 164 .
+gine start engine tempera‐
+ture @ engine start
+• = 40...25K minus engine tem‐
+perature @ condi‐
+tion < 1.5° C
+• time since engine
+start >60 Sec
+• ambient tempera‐
+ture @ engine start
+minus ambient
+temperature @
+condition: <= 5.25°
+C
+• vehicle speed > 25
+mph
+• for time > 30 Sec
+• intake air tempera‐
+ture @ engine start
+minus intake air
+temperature @
+condition: <= 5.25°
+C
+• vehicle speed > 25
+mph
+• for time > 30 Sec
+P0072 Ambient Air – Check the short to ground • CAN active 6 Sec. • 2 DCY
+Tempera‐ Ambient Air • Ambient air continu‐
+ture Sensor Temperature temp > 78° C ous
+Circuit Low Sensor -
+G17- . Refer
+to
+⇒ “3.5.25 Am‐
+bient Air Tem‐
+perature Sen‐
+sor, Check‐
+ing”,
+page 164 .
+P0087 Fuel Rail/ – Check the • pressure con‐ • fuel cut off, not ac‐ 5 Sec • Continu‐
+System Fuel Pressure trol activity, > tive ous
+Pressure - Sensor - 1.2 mPa
+Too Low G247- . Refer • lambda control, • 2 DCY
+to • AND closed loop
+⇒ “3.5.5 Fuel
+• fuel trim activi‐
+Pressure Sen‐
+ty, 0 ... 1.3
+sor, Check‐
+ing”,
+page 119
+32
+Rep. Gr.ST - Generic Scan Tool

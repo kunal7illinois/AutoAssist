@@ -1,0 +1,38 @@
+Audi TT No. 46 / 14
+Current Flow Diagram
+Engine control unit, charge pressure control solenoid valve,
+turbocharger air recirculation valve, fuel metering valve,
+exhaust flap 1 valve
+J623 Engine control unit
+N75 Charge pressure control solenoid valve
+N249 Turbocharger air recirculation valve
+N290 Fuel metering valve
+N321 Exhaust flap 1 valve
+T14 14-pin connector, black, on front left in engine compartment
+T60 60-pin connector, on engine control unit
+T94 94-pin connector, on engine control unit
+B565 Connection 32 in main wiring harness
+D109 Connection 7, in engine compartment wiring harness
+J623
+T60/50 T60/60 T60/31 T94/28
+D109
+D109
+1,0 1,0 1,0 1,0 1,0 1,0 1,0 0,5
+sw/gn ws/li sw/gn li/br sw/gn gr/br sw/gn br/li
+T14/11
+1 1 1 2
+N75 N290 N249 N321
+2 2 2 1 ws = white
+111888777 sw = black
+ro = red
+1,0 1,0 1,5 br = brown
+sw/gn sw/gn sw/gn
+gn = green
+B565 bl = blue
+gr = grey
+li = purple
+ge = yellow
+169 170 171 172 173 174 175 176 177 178 179 180 181 182 or = orange
+8J0-046140209
+rs = pink
+Edition 04.2010

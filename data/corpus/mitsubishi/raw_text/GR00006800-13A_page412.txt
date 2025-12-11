@@ -1,0 +1,30 @@
+13A-412 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Check connector C-53 at ECM <M/T> or connector
+C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-53<M/T>,C-54<A/T>
+YES : Repair harness wire between power steering
+pressure switch connector B-19 terminal 1 and ECM
+ECM<M/T>
+connector C-53 terminal 37 <M/T> or PCM connector
+OR
+PCM<A/T> C-54 terminal 52 <A/T> because of open circuit. Then
+go to Step 14.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 14.
+C-53,C-54
+AK000280BH
+STEP 9. Check connector C-53 at ECM <M/T> or connector
+C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-53<M/T>,C-54<A/T>
+YES : Go to Step 10.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 14.
+OR
+PCM<A/T>
+C-53,C-54
+AK000280BH
+TSB Revision

@@ -1,0 +1,58 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+U041 Invalid Data Check ABS for • Sensor signal Time after ignition on 500 • Continu‐
+5 Received any sensor failure = 500 mSec. mSec. ous
+From Anti- faults. Check
+Lock Brake ABS module • None, or im‐ • 2 DCY
+System with scan tool for plausible infor‐
+Control correct calibra‐ mation
+Module tion software,
+• CAN 1 VSS
+veh info and cor‐
+signal incorrect
+rect VIN.
+> 206 MPH
+U042 Invalid Data – Check the • Ambient tem‐ • Key ON 3 Sec. • 2 DCY
+2 Received Ambient Air perature value
+From Body Temperature initialization = • Status ambient
+Control Sensor - 00h temperature from
+Module G17- . Refer instrument cluster
+to - no fault
+⇒
+• Ambient temp sen‐
+“3.5.25 Am‐
+sor - no fault
+bient Air
+Temperature
+Sensor,
+Checking”,
+page 164 .
+U042 Invalid Data – Check the • Temperature CAN active 2 Sec. • Continu‐
+3 Received CAN-Bus received from ous
+From In‐ terminal re‐ CAN = 49.5° C
+strument sistance. Re‐ • 2 DCY
+Panel Con‐ fer to
+trol (IPC) ⇒
+Module “3.5.43 CAN
+Bus Terminal
+Resistance,
+Checking”,
+page 195 .
+U044 Invalid Data Check TSB's for • CAN message Time after ignition on 300 • 2 DCY
+7 Received software up‐ incorrect = 500 mSec. mSec.
+From Gate‐ date. Check oth‐
+way Module er modules on
+bus for similar
+message. If only
+1 module has
+this DTC set,
+that module may
+not be reading
+the information
+and require re‐
+placement.
+110
+Rep. Gr.ST - Generic Scan Tool

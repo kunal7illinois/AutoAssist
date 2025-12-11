@@ -1,0 +1,52 @@
+RS–189
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DTC B1820/55 Short in Front Driver Side - Side Squib Circuit
+DTC B1821/55 Open in Front Driver Side - Side Squib Circuit
+Short to GND in Front Driver Side - Side Squib
+DTC B1822/55
+Circuit
+Short to B+ in Front Driver Side - Side Squib
+DTC B1823/55
+Circuit
+DESCRIPTION
+The driver side - side squib circuit consists of the center airbag sensor assembly and the front seat side
+airbag assembly LH.
+This circuit instructs the SRS to deploy when deployment conditions are met.
+These DTCs are recorded when a malfunction is detected in the driver side - side squib circuit.
+DTC No. DTC Detection Condition Trouble Area
+• The center airbag sensor assembly receives a line
+• Floor wire
+short circuit signal 5 times in the driver side - side
+• Front seat side airbag assembly LH (Driver side -
+B1820/55 squib circuit during primary check.
+side squib)
+• Driver side - side squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives an
+• Floor wire
+open circuit signal in the driver side - side squib
+• Front seat side airbag assembly LH (Driver side -
+B1821/55 circuit for 2 seconds.
+side squib)
+• Driver side - side squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives a RS
+• Floor wire
+short circuit to ground signal in the driver side - side
+• Front seat side airbag assembly LH (Driver side -
+B1822/55 squib circuit for 0.5 seconds.
+side squib)
+• Driver side - side squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives a
+• Floor wire
+short circuit to B+ signal in the driver side - side
+• Front seat side airbag assembly LH (Driver side -
+B1823/55 squib circuit for 0.5 seconds.
+side squib)
+• Driver side - side squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction

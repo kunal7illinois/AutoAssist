@@ -1,0 +1,44 @@
+BC–401
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+5 INSPECT SKID CONTROL ECU (GND TERMINAL)
+(a) Turn the ignition switch off.
+Skid Control ECU (Harness Side
+(b) Measure the resistance according to the value(s) in the
+Connector Front View):
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+A60
+A60-4 (GND1) - Body
+Always Below 1 Ω
+ground
+A60-1 (GND2) - Body
+Always Below 1 Ω
+ground
+(c) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+GND2 GND1 CONNECTOR (GND CIRCUIT)
+BC
+C136493E02
+OK
+6 INSPECT PARKING BRAKE SWITCH
+(a) Disconnect the parking brake switch connector.
+Parking Brake Switch: (b) Measure the resistance according to the value(s) in the
+table below.
+Automatic Transaxle:
+Standard resistance
+Free
+Tester Connection Condition Specified Condition
+Pushed in
+Parking brake switch
+1 - Body ground ON Below 1 Ω
+(Switch pin free)
+Parking brake switch
+1 - Body ground OFF 10 kΩ or higher
+(Switch pin pushed in)
+Manual Transaxle:
+NG REPLACE PARKING BRAKE SWITCH
+Free
+Pushed in
+C109430E03
+OK

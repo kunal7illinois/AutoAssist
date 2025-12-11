@@ -1,0 +1,42 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-411
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Check the power supply voltage at power steering
+pressure switch harness side connector B-19.
+(1) Disconnect the connector B-19 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+B-19 HARNESS
+SIDE CONNECTOR Q:Is the voltage normal?
+1 YES : Go to Step 11.
+NO : Go to Step 7.
+AK000260AB
+STEP 7. Check the power supply voltage at ECM connector
+C-53 <M/T> or PCM connector C-54 <A/T> by backprobing.
+(1) Do not disconnect the ECM connector C-53 <M/T> or PCM
+connector C-54 <A/T>.
+(2) Disconnect the power steering pressure switch connector
+B-19.
+(3) Turn the ignition switch to the "ON" position.
+(4) Measure the voltage between terminal 37 <M/T> or 52 <A/
+<M/T>
+T> and ground by backprobing.
+• Voltage should be between battery positive voltage.
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+3132333435363738
+3940414243444546 YES : Go to Step 8.
+NO : Go to Step 9.
+C-53 CONNECTOR
+HARNESS SIDE VIEW
+AK000308AC
+<A/T>
+41 42 43 444546
+47 48 495051525354555657
+58 59 60616263 646566
+C-54 CONNECTOR
+HARNESS SIDE VIEW
+AK000309AD
+TSB Revision

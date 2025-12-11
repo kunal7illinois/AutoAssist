@@ -1,0 +1,33 @@
+BC–456
+BRAKE CONTROL – ABS MOTOR RELAY (w/ VSC)
+ABS MOTOR RELAY (w/ VSC)
+ON-VEHICLE INSPECTION
+1. INSPECT VSC NO. 1 (FAIL SAFE) RELAY
+(a) Remove the VSC NO. 1 (fail safe) relay.
+(b) Measure the resistance according to the value(s) in
+VSC NO. 1 (Fail Safe) Relay:
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+3 - 5 Always 10 kΩ or higher
+Apply B+ between
+3 - 5 Below 1 Ω
+terminals 1 and 2
+If the value is not as specified, replace the VSC NO.
+1 (fail safe) relay.
+F050241E11
+2. INSPECT VSC NO. 2 RELAY
+(a) Remove the VSC NO. 2 relay.
+BC
+(b) Measure the resistance according to the value(s) in
+VSC NO. 2 Relay:
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+3 - 5 Always 10 kΩ or higher
+Apply B+ between
+3 - 5 Below 1 Ω
+terminals 1 and 2
+If the value is not as specified, replace the VSC NO.
+2 relay.
+F050240E07

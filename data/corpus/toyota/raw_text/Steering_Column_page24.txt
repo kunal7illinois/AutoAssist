@@ -1,0 +1,43 @@
+SR–22
+STEERING COLUMN – ELECTRIC STEERING LOCK
+DTC B2782 Power Source Control ECU Malfunction
+DESCRIPTION
+The main body ECU (*) controls the power supply to activate the steering lock motor. This prevents the
+steering from being locked while the vehicle is moving.
+HINT:
+*: The power source control ECU is not a physical part. This code refers to the power source control
+function performed by the main body ECU.
+DTC No. DTC Detecting Condition Trouble Area
+• Wire harness
+• Steering lock actuator assembly (Steering lock
+B2782 Steering lock motor drive control circuit is defective.
+ECU)
+• Main body ECU
+WIRING DIAGRAM
+Steering Lock Actuator Assembly (Steering Lock ECU) Main Body ECU
+SR
+Steering Lock Unlock
+3 19
+Lock Position Position
+IGE E51 E7 SLR+
+Motor Sensor Sensor
+1
+GND E51
+C113485E03
+INSPECTION PROCEDURE
+1 INSPECT STEERING LOCK ACTUATOR ASSEMBLY (STEERING LOCK ECU)
+(a) Measure the voltage according to the value(s) in the
+Steering Lock Actuator Assembly:
+table below.
+Standard voltage
+Tester connection
+Condition Specified condition
+(Symbols)
+E51
+The specified condition
+should be checked after • Motor activated:
+E51-3 (IGE) - E51-1 performing the following: Below 1 V
+IGE GND
+(GND) 1. Engine switch off • Motor not activated:
+2. Turn the engine 10 to 12 V
+C106483E22 switch on (ACC or IG)

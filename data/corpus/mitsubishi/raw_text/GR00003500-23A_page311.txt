@@ -1,0 +1,34 @@
+AUTOMATIC TRANSAXLE 23A-311
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 7. Using scan tool MB991502, check data list item 61:
+Park/Neutral Position Switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to data reading mode for item 61:
+Park/Neutral Position Switch.
+• The scan tool should display "D" when the selector lever
+is "D" range.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN Q:Is the switch operating properly?
+YES : Go to Step 8.
+MB991502 AC001252AE NO : Go to Step 15.
+STEP 8. Check the shift switch assembly.
+Refer to P.23A-363, Transaxle Control.
+Q:Is the switch operating properly?
+YES : Go to Step 9.
+NO : Replace the shift switch assembly. Refer to P.23A-
+361, Transaxle Control.
+STEP 9. Check connector C-65 at shift switch assembly for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-65
+YES : Go to Step 10.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+C-65
+AC001741AS
+TSB Revision

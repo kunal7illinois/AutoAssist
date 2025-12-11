@@ -1,0 +1,20 @@
+BC–345
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC C0365/28 Malfunction in Deceleration Sensor
+DTC C1234/34 Yaw Rate Sensor Malfunction
+DESCRIPTION
+The deceleration sensor is combined with the yaw rate and acceleration sensor.
+The brake actuator receives signals from the yaw rate and acceleration sensor via the CAN
+communication system.
+If there is trouble in the CAN communication system, DTCs U0073/94 and U0123/62 are output.
+DTC No. DTC Detection Condition Trouble Area
+When any of the following is detected:
+• Lateral acceleration difference between sensor • Yaw rate and acceleration sensor
+signal and reference value is large. • Yaw rate and acceleration sensor circuit
+C0365/28
+• Offset value of sensor signal is higher than the • Sensor installation
+standard value. • Brake actuator assembly (skid control ECU)
+• Sensor signal is out of range (2.25 m/s2).
+Sensor malfunction signal is received from the yaw rate • Yaw rate and acceleration sensor
+C1234/34
+sensor. • Yaw rate and acceleration sensor circuit BC

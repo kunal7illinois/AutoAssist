@@ -1,0 +1,28 @@
+BC–101
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+B Go to step 2
+A
+GO TO CAN COMMUNICATION SYSTEM (See page CA-8)
+2 CHECK HARNESS AND CONNECTOR (ECM TO DLC3)
+(a) Disconnect the ECM connector.
+DLC3: (b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+2GR-FE
+Tester Connection Specified Condition
+E10 A55-27 (TC) - E10-13 (TC) Below 1 Ω
+E10-13 (TC) - Body ground 10 kΩ or higher BC
+2AZ-FE
+TC
+Tester Connection Specified Condition
+ECM Wire Harness View:
+A24-27 (TC) - E10-13 (TC) Below 1 Ω
+E10-13 (TC) - Body ground 10 kΩ or higher
+(c) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (TC TERMINAL CIRCUIT)
+A55-27 (TC) (*1)
+A24-27 (TC) (*2)
+(*1): 2GR-FE (*2): 2AZ-FE
+C136035E02
+OK

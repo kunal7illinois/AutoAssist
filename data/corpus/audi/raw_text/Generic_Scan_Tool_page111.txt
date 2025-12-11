@@ -1,0 +1,58 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P2626 O2 Sensor – Check the • O2S signal • engine start com‐ 4 Sec. • 2 DCY
+Pumping Oxygen Sen‐ front > 3.1 V pleted
+Current sor (O2S) - (lean)
+Trim Circuit G39- . Refer • engine speed > 25
+Open Bank to rpm
+1 Sensor 1 ⇒
+• O2S ceramic temp
+“3.5.20 Heat‐
+> 720° C
+ed Oxygen
+Sensor, • Modeled exhaust
+Checking”, temp, < 750° C
+page 152 .
+• Fuel cut off, Active
+• Heater control -
+closed loop
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitoring Frequency
+sage cedure ria and Threshold ters with Enable Con‐ Time Length of checks,
+Value ditions MIL Illum
+P3081 Engine – Check the • Difference be‐ ECT < 48° C 2 Sec. • Once
+Tempera‐ coolant ther‐ tween ECT and
+ture Too mostat. Re‐ modeled ECT > • 2 DCY
+Low fer to the Re‐ 10 K
+pair Manual
+– Check the
+Engine Cool‐
+ant Temper‐
+ature (ECT)
+Sensor -G62
+or G83- . Re‐
+fer to
+⇒ “3.5.24 En‐
+gine Coolant
+Temperature
+Sensor 1 or
+2, Checking”,
+page 160 .
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+U000 High Speed – Check th e • CAN message Time after ignition on 250 • Continu‐
+1 CAN Com‐ CAN-Bus = no feedback = 500 mSec. mSec. ous
+munication terminal re‐
+Bus sistance. Re‐ • 2 DCY
+fer to
+⇒
+“3.5.43 CAN
+Bus Terminal
+Resistance,
+Checking”,
+page 195 .
+107
+3. Diagnosis and Testing

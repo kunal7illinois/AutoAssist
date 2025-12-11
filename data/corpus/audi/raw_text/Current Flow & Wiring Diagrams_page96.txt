@@ -1,0 +1,44 @@
+Audi TT No. 7 / 6
+Current Flow Diagram
+Climatronic control unit, potentiometer for defroster flap
+control motor, potentiometer for left temperature flap
+control motor, potentiometer for right temperature flap
+control motor
+G135 Defroster flap control motor potentiometer
+G220 Potentiometer for left temperature flap control motor
+G221 Potentiometer for right temperature flap control motor
+J255 Climatronic control unit
+T12k 12-pin connector, connector A, on Climatronic control unit
+T20k 20-pin connector, connector B, on Climatronic control unit
+V107 Defroster flap control motor
+V158 Left temperature flap control motor
+V159 Right temperature flap control motor
+97 Earth connection 1, in air conditioning system wiring harness
+L31 Connection (5V), in air conditioning system wiring harness
+* Operating unit for air conditioning
+J255 ✱ ** not for Heater (9AA)
+T12k/3 T12k/4 T20k/4 T12k/2 T12k/1 T20k/2 T12k T12k T20k/3
+/11 /12
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+ws/gr ge/gn gr gn/ro bl/sw ws/bl ge/bl ws/bl gr/bl
+L31
+L31
+0,35 0,35 0,35
+sw sw sw
+5 6 2 1 5 6 2 3 5 6 2 1
+M M M
+ws = white
+V107 G135 3 V158 G220 1 V159 G221 3
+sw = black
+✱✱ ✱✱
+ro = red
+0,35 0,35 0,35 br = brown
+br/ws br/ws br/ws gn = green
+97 bl = blue
+97 97 gr = grey
+li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 or = orange
+8J0-007061008
+rs = pink
+Edition 10.2008

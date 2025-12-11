@@ -1,0 +1,33 @@
+ES–466
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+6 INSPECT PARK/NEUTRAL SWITCH ASSEMBLY
+(a) Inspect the Park / Neutral Position (PNP) switch.
+Component Side: (1) Disconnect the C1 switch connector.
+(2) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Gear Selector Lever
+Tester Connection Specified Condition
+Position
+P 4 - 5 Below 1 Ω
+C1
+N 4 - 5 Below 1 Ω
+(3) Reconnect the PNP switch connector.
+ES Park / Neutral Position Switch
+NG REPLACE PARK/NEUTRAL POSITION
+SWITCH ASSEMBLY (See page AX-174)
+A107908E03
+OK
+CHECK HARNESS AND CONNECTOR
+7 INSPECT STARTER RELAY
+(a) Remove the ST relay from the engine room R/B.
+(b) Measure the resistance between the terminals.
+Standard resistance
+Tester Connection Specified Condition
+3 - 5 10 kΩ or higher
+Below 1 Ω
+3 - 5
+(when battery voltage applied to terminals 1 and 2)
+(c) Reinstall the ST relay.
+B016200E02 NG REPLACE STARTER RELAY
+OK

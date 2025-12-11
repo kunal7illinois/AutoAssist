@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+18. Start the engine, and warm it up to normal operating temperature (the radiator
+fan comes on).
+19. Test-drive the vehicle with the shift lever in 2 for at least 2 seconds, then shift
+to D, and drive in 3rd gear for at least 2 seconds. Then drive in 4th gear for at
+least 2 seconds.
+20. Check for DTCs with the HDS.
+Is DTC P0842 indicated?
+YES -Check for intermittent short to body ground in the wire between the 2nd
+clutch transmission fluid pressure switch and the PCM, then go to step 1.
+NO -Go to step 21.
+21. Monitor the OBD STATUS for P0842 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+20, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for intermittent short to body ground
+in the wire between the 2nd clutch transmission fluid pressure switch and the
+PCM, then go to step 1. If the HDS indicates NOT COMPLETED, go to step
+18.
+22. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+23. Start the engine, and warm it up to normal operating temperature (the radiator
+fan comes on).
+24. Test-drive the vehicle with the shift lever in 2 for at least 2 seconds, then shift
+to D, and drive in 3rd gear for at least 2 seconds. Then drive in 4th gear for at
+least 2 seconds.
+25. Check for DTCs with the HDS.

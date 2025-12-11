@@ -1,0 +1,49 @@
+BODY ELECTRICAL - DOOR LOCK CONTROL SYSTEM BE-81
+DOOR LOCK CONTROL SYSTEM
+(cid:4)DESCRIPTION
+The door lock control system has the following functions:
+Function Outline
+Performing the door lock operation with a transmitter (wireless remote) or a key
+Manual unlock
+will prohibit the unlock operation by the door lock control switch (door
+prohibition function
+mounted interior lock switch).
+When the door is locked, this function enables the door to be unlocked by
+One-motion open
+merely pulling the inside handle lever of the door.
+Key-linked lock and This function, which is linked with the door key cylinder, can lock or unlock all
+unlock function the doors when a lock or unlock operation is effected using the mechanical key.
+When the key is in the interior detection area (for models with smart key system)
+Key confine or the key is inserted into the ignition key cylinder (for models without smart
+prevention function key system), if the door lock operation is performed with the driver’s door open,
+all the doors will be unlocked.
+This function is provided to unlock the driver’s door when the key is turned in
+2-step unlock
+the door lock cylinder the first time, and to unlock the remaining doors when
+function*1
+it is turned the second time.
+When the conditions listed below are met, this function causes all the doors to
+Shift-linked be automatically locked.
+automatic door (cid:3) The engine is running.
+lock*1,2 (cid:3) All doors are closed.
+(cid:3) The shift lever is moved to any position other than P.
+When the conditions listed below are met, this function causes all the doors to
+be automatically locked.
+Speed-sensitive
+(cid:3) Vehicle speed is higher than approximately 20 km/h (13 mph).
+automatic door lock*1
+(cid:3) All doors are closed.
+(cid:3) Any one of the doors in an unlocked state.
+Shift-linked When the power source*3 is ON, and the shift lever is moved to P position from
+automatic door any position other than P, and the vehicle speed is 16 km/h (10 mph) or less, all
+unlock*1,2 of the doors will be automatically unlocked.
+Opening driver’s
+All doors are unlocked automatically when the driver’s door is opened within
+door-linked automatic
+10 seconds after the power source*3 is changed from IG-ON to the ACC or OFF.
+door unlock*1
+*1:The setting function can be changed using the customized body electronics system. For details, refer to
+Customized Body Electronics System section on page BE-13.
+*2:Only for automatic transaxle models.
+*3:Power source conditions can be changed by pressing the engine switch on models with the smart key
+system and by operating the ignition switch on models without the smart key system.

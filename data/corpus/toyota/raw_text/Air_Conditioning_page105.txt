@@ -1,0 +1,35 @@
+AC–105
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+B GO TO CAN COMMUNICATION SYSTEM
+A
+2 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Turn the A/C switch on and off.
+(d) Select the item below in the DATA LIST, and read the
+display on the intelligent tester.
+DATA LIST / ENGINE:
+Item Measure Item Normal Condition Diagnostic Note
+A/C SIGNAL ON: A/C ON
+A/C signal / ON or OFF -
+(A/C Signal) OFF: A/C OFF
+OK:
+The display is as specified in the normal condition
+column.
+NG PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+OK
+3 INSPECT FUSE (A/C NO. 2) AC
+(a) Remove the A/C No. 2 fuse from the instrument panel J/
+Instrument Panel J/B: B.
+(b) Measure the resistance of the fuse.
+Standard resistance
+Tester Item Condition Specified Condition
+A/C No. 2 fuse Always Below 1 Ω
+(c) Reconnect the A/C No. 2 fuse to the instrument panel J/
+B.
+NG REPLACE FUSE (A/C NO. 2)
+A/C No. 2
+E124481E02
+OK

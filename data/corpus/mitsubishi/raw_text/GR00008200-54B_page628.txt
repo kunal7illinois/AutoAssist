@@ -1,0 +1,47 @@
+54B-628 SIMPLIFIED WIRING SYSTEM (SWS)
+ON-VEHICLE SERVICE
+Configuration of Functions
+ITEMS ADJUSTMENT PROCEDURES
+Keyless entry hazard If the transmitter "LOCK" switch is turned on twice within two seconds, the lock
+answerback answerback function is enabled or disabled.
+• If the function is enabled, the tone alarm sounds once. (initial status)
+• If the function is disabled, the tone alarm sounds twice.
+If the transmitter "UNLOCK" switch is turned on twice within two seconds, the
+unlock answerback function is enabled or disabled.
+• If the function is enabled, the tone alarm sounds once. (initial status)
+• If the function is disabled, the tone alarm sounds twice.
+Vehicle speed- The vehicle speed-dependent wiper function is enabled or disabled by turning on
+dependent wiper the windshield wiper mist switch for two seconds or more.
+function • Enabled: the tone alarm sounds once. (initial status)
+• Disabled: the tone alarm sounds twice.
+Headlight automatic If the passing switch is turned ON for more than two seconds with the headlight
+shutdown function switch turned to ON and the turn signal light switch (RH) turned ON, the headlight
+automatic shutdown function is switched in the following order: (Next to "c", the
+function returns to "a" and repeats the sequence from "a".)
+a.With the ignition switch in "LOCK" (OFF) position, the automatic shutdown
+function is enabled when the lighting switch is turned ON and the tone alarm
+sounds once.
+b.If the function is disabled, the tone alarm sounds twice.
+c.When the function is enabled (While the ignition switch is at "LOCK" (OFF)
+position, the automatic shutdown function is enabled when the lighting switch is
+turned ON.), the tone alarm sounds three times. (initial status)
+The delay-off time of When the turn-signal light switch is moved in the order of RH → LH → RH → LH
+the dome light within three seconds, the dome light delay-off time will be changed as follows.
+(Next to "e", the function returns to "a" and repeats the sequence from "a".)
+a. 30 seconds: the tone alarm sounds once.
+b. 10 seconds: the tone alarm sounds twice.
+c. 0 second (no delay-off time): the tone alarm sounds three times.
+d. 15 seconds: the tone alarm sounds four times. (initial status)
+a. 7.5 seconds: the tone alarm sounds five times.
+Interior light automatic The interior light automatic shutdown function is disabled or enabled by turning the
+shutoff function hazard warning light switch for two seconds or more.
+• Enabled: the tone alarm sounds once. (initial status)
+• Disabled: the tone alarm sounds twice.
+Initialization of above If the windshield washer switch is turned ON for more than 20 seconds, the tone
+mentioned functions alarm sounds twice and all functions are initialized. (The configuration mode entry
+tone alarm sounds after 10 seconds, but the switch must kept ON for 20 seconds
+to achieve initialization.)
+If the windshield washer switch is kept ON for more than 20 seconds without prior
+entry of the configuration mode, the configuration mode is entered after 10
+seconds and initialization does not take place.
+TSB Revision

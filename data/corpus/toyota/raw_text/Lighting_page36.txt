@@ -1,0 +1,38 @@
+LI–36
+LIGHTING – LIGHTING SYSTEM
+8 CHECK HARNESS AND CONNECTOR (BATTERY - MAIN BODY ECU)
+(a) Disconnect the E7 main body ECU connector.
+Wire Harness Side:
+(b) Measure the voltage according to the value(s) in the
+Main Body ECU table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+AM1
+E7 E7-6 (AM1) - Body
+Always 10 to 14 V
+ground
+NG REPAIR OR REPLACE HARNESS OR
+E121506E01 CONNECTOR
+OK
+9 CHECK HARNESS AND CONNECTOR (INSTRUMENT PANEL J/B ASSEMBLY - MAIN
+BODY ECU)
+(a) Disconnect the E7 main body ECU connector.
+Wire Harness Side:
+(b) Disconnect the II instrument panel J/B assembly
+connector.
+Instrument Panel J/B Assembly
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+II
+Tester Connection Condition Specified Condition
+II-3 - E7-22 (ACCD) Always Below 1 Ω
+II-9 - E7-3 (IG1D) Always Below 1 Ω
+II-3 - Body ground Always 10 kΩ or higher
+Main Body ECU II-9 - Body ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E7
+LI
+E121484E02
+OK

@@ -1,0 +1,53 @@
+54B-2 SIMPLIFIED WIRING SYSTEM (SWS)
+GENERAL DESCRIPTION
+GENERAL DESCRIPTION
+.
+COMMUNICATION METHOD
+M1549013000257
+FRONT-ECU ETACS-ECU
+SCAN TOOL MB991502
+SUNROOF MOTOR
+ASSEMBLY*
+(SUNROOF-ECU)
+NOTE
+COLUMN SWITCH *: Vehicles with sunroof
+(COLUMN-ECU)
+ACX01612AB
+As shown below, signal wires used exclusively for
+transmitting multiplex signal data connect the
+ETACS-ECU, front-ECU, column switch (incorporat-
+ing the column-ECU) and sunroof motor assembly
+(incorporating the sunroof-ECU) and these compo-
+nents communicate with each other.
+OPERATION
+M1549013100254
+TONE ALARM FUNCTION CENTRAL DOOR LOCKING SYSTEM
+.Ignition Key Reminder Tone Alarm Function .Central Door Locking System Operation
+When the driver’s door is opened (driver’s door • When the driver’s inside lock knob is locked, the
+switch ON) without removing the ignition key [ignition lock relay inside the ETACS-ECU turns on to lock
+switch to "LOCK" (OFF) or "ACC" position], the tone all doors. However, even if the driver’s inside lock
+alarm will sound intermittently to remind the driver knob is unlocked, the all doors are not unlocked.
+that the ignition key has not been removed. • With all the doors locked, turning the key in the
+driver’s door lock key cylinder unlocks the door.
+. Light Reminder Tone Alarm Function Turning it again makes the door unlock relay
+When the driver’s door is opened (driver’s door close to send a signal for unlocking all doors.
+switch ON) with lighting switch (taillight switch or When the key in the front passenger(cid:146)s door locks
+headlight switch) in the ON position and ignition key cylinder is operated, the lock or unlock relay
+switch in the "LOCK" (OFF) or "ACC" position, the inside the ETACS-ECU is turned on to lock or
+tone alarm will sound continuously to remind the unlock all doors.
+driver that the lights (taillights or headlights) are ON. • When the door lock switch (built into the power
+This function does not work if the taillights or head- window switch) is operated, the lock or unlock
+lights are switched off through the headlight auto- relay inside the ETACS-ECU is turned on to lock
+matic shutdown function. In addition, the ignition key or unlock all doors.
+reminder tone alarm function has a priority over this
+.
+function. Forgotten Key Prevention Function
+• If the driver’s door is open (door switch turned
+. Seat Belt Tone Alarm Function ON), when the key is inserted in the ignition
+When the ignition switch is turned to the "ON" posi- switch (key reminder switch turned OFF), the
+tion without fastening the seat belts (seat belt switch ETACS-ECU activates the door unlock relay for
+OFF), the tone alarm will sound for approximately six 0.25 seconds to prevent the door from being
+seconds to warn the driver to fasten the seat belts. locked.
+When the seat belts are fastened, the tone alarm will
+stop sounding.
+TSB Revision

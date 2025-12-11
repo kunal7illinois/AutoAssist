@@ -1,0 +1,58 @@
+TW–29
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+3. DIAGNOSIS SYSTEM
+(a) DTCs (Normal mode)
+(1) DTCs are memorized in the tire pressure
+warning ECU and read by the blinks of the tire
+pressure warning light or by using the intelligent
+tester (See page TW-28).
+(b) Test mode
+(1) By switching from normal mode into test mode
+(input signal check), you can inspect the tire
+pressure warning antenna and receiver, each
+tire pressure warning valve and transmitter, and
+vehicle speed sensor (See page TW-20).
+4. CHECK WARNING LIGHT
+(a) Turn the ignition switch on (IG).
+(b) Check that the tire pressure warning light comes on
+for 3 seconds.
+TW
+If the warning check result is not normal, proceed to
+the troubleshooting for the tire pressure warning
+light circuit.
+Tire Pressure
+Warning Light
+Trouble Area See procedure
+Tire pressure warning light circuit TW-65
+E129450E01
+5. TIRE PRESSURE WARNING LIGHT AND INDICATOR
+CHART
+HINT:
+The table below indicates the state of the tire pressure
+warning light and indicator after the ignition switch is
+turned on (IG).
+Immediately Always
+after turning the
+ignition switch Warning light output pattern
+on (IG)
+Comes on for 3
+Goes off Comes on Blinks (*1) Blinks (*2) Blinks (*3) Outputs DTC
+sec.
+Normal (cid:123) (cid:123) - - - - -
+Low tire
+(cid:123) - (cid:123) - - - -
+pressure
+System fail (cid:123) - - (cid:123) - - -
+Test mode (cid:123) - - - (cid:123) - -
+Initialization (cid:123) - - - - (cid:123) -
+ECU connector
+poorly - - - (cid:123) - - -
+connected
+TC ground (cid:123) - - - - - (cid:123)
+*1: Comes on and goes off repeatedly at 0.5 second
+0.5 sec. intervals, and comes on after 1 minute.
+ON
+OFF
+0.5 sec.
+1 minute
+E133091E01

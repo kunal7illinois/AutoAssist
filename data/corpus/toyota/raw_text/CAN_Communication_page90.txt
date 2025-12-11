@@ -1,0 +1,29 @@
+CA–90
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+NG
+REPAIR OR REPLACE SKID CONTROL ECU BRANCH WIRE OR CONNECTOR
+14 CHECK FOR SHORT IN CAN BUS WIRES (ECM MAIN BUS WIRE)
+(a) Disconnect the ECM connector (A24 or A55).
+No. 2 CAN J/C Connector (Front of the (b) Measure the resistance according to the value(s) in the
+Vehicle) Wire Harness Side View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Value
+A40-1 (CANH) - A40-7 (CANL) Ignition switch off 1 MΩ or higher
+HINT:
+Measure the resistance with the No. 2 CAN J/C
+connector (A40) disconnected.
+CA NG REPAIR OR REPLACE CAN BUS MAIN WIRE
+Front OR CONNECTOR (ECM - NO. 2 CAN J/C)
+CANH
+A40
+CANL
+C133245E04
+OK
+REPLACE ECM
+15 RECONNECT CONNECTOR
+(a) Reconnect the connector for the short-circuited branch
+wire to the No. 1 CAN J/C (the connector that caused the
+bus wire resistance to become normal (between 54 and
+69 Ω) when it was disconnected).
+NEXT

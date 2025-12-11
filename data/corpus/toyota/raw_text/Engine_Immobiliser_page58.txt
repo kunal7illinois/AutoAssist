@@ -1,0 +1,55 @@
+EI–54
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+SYSTEM DESCRIPTION
+1. ENGINE IMMOBILISER SYSTEM DESCRIPTION
+The engine immobiliser system is designed to prevent
+the vehicle from being stolen. This system uses the
+transponder key ECU assembly that stores the key
+codes of authorized ignition keys. If an attempt is made
+to start the engine using an unauthorized key, the ECU
+sends a signal to the ECM to prohibit fuel delivery and
+ignition, effectively disabling the engine.
+2. FUNCTION OF MAIN COMPONENT
+Component Outline
+When key is inserted in ignition key cylinder, key coil receives key code. Then amplifier
+Transponder key coil/amplifier
+amplifies ID code and outputs it to transponder key ECU assembly.
+Detects if key is in ignition key cylinder and outputs results to transponder key ECU
+Unlock warning switch assembly
+assembly.
+ECM receives ID verification results from transponder key ECU assembly. ECM also verifies
+ECM
+ECUs. Then judgement of whether to immobilise engine is made.
+Depending on operation of transponder key ECU assembly, interior security indicator light
+Security indicator
+comes on or starts blinking.
+3. SYSTEM FUNCTION
+Security Indicator Light:
+(a) When the transponder key ECU assembly detects
+that the key unlock warning switch is ON, the ECU
+provides current to the transponder key coil and
+produces an electric wave. A transponder chip in
+the key grip receives the electric wave. Upon
+receiving the electric wave, the transponder chip
+outputs a key ID code signal. The transponder key
+coil receives this signal, the signal is amplified by
+the transponder key amplifier, and the signal is
+B128350E02
+transmitted to the ECU.
+The ECU matches the key's ID code with the
+vehicle's ID code, which was previously registered
+in the ECU, and communicates the results to the
+EI
+ECM.
+After the identification results show that the key's ID
+code matches the vehicle's ID code and the ECU
+has confirmed their match: 1) the immobiliser
+system does not immobilise the engine and the
+engine starting controls (fuel injection control and
+ignition control) enter standby mode; and 2) the
+ECU transmits a security indicator signal that
+communicates "indicator off" to the clock. Then, the
+clock turns off the security indicator light.
+(b) The security indicator pattern is as shown below
+(when changing from the immobiliser set status to
+the unset status):

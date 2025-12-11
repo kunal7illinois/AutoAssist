@@ -1,0 +1,40 @@
+NS–125
+NAVIGATION – NAVIGATION SYSTEM
+Vehicle Position Mark Deviates Greatly
+INSPECTION PROCEDURE
+1 CHECK GPS MARK
+(a) Check that the GPS mark is displayed.
+OK:
+GPS mark is displayed.
+NG GO TO "GPS MARK IS NOT DISPLAYED" IN
+PROBLEM SYMPTOMS TABLE
+E125110E01
+OK
+2 CHECK VEHICLE SENSOR (NAVIGATION CHECK MODE)
+(a) Enter the "Navigation Check" mode (Vehicle Sensors)
+(See page NS-27).
+(b) While driving the vehicle, compare the "Speed" indicator
+to the reading on the speedometer. Check that these
+readings are almost equal.
+OK:
+The readings are almost equal.
+NG GO TO "SPEED SIGNAL DOES NOT
+CHANGE IN NAVIGATION CHECK MODE" IN
+E120089
+PROBLEM SYMPTOMS TABLE
+OK
+3 CHECK VEHICLE SENSOR (NAVIGATION CHECK MODE)
+(a) Check that the display changes between ON and OFF
+according to the shift lever operation.
+OK
+Shift Lever Position Display
+Except Reverse OFF
+Reverse ON
+NS
+HINT:
+The display is updated once per second. It is normal for
+the display to lag behind the actual switch operation.
+E120101E01
+NG GO TO "REVERSE SIGNAL DOES NOT
+CHANGE IN NAVIGATION CHECK MODE" IN
+PROBLEM SYMPTOMS TABLE

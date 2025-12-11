@@ -1,0 +1,23 @@
+DL–185
+DOOR LOCK – SMART KEY SYSTEM
+Antenna Circuit
+DESCRIPTION
+Terminals ANT1 and ANT2 of the antenna (door outside handle) detect if the electrical key is within the
+action area around the door outside handle.
+WIRING DIAGRAM
+X1 (*1)
+W1 (*2)
+Touch Sensor and Antenna X2 (*1)
+(Outside Handle) W2 (*2)
+Door Oscillator
+2
+ANT2 ANT2
+8
+SGT SGT
+6 2
+ANT1 ANT1
+5 3
+*1: Driver Side
+*2: Passenger Side
+B112492E04
+DL

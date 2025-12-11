@@ -1,0 +1,49 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+PID Component or System
+$11: Absolute throttle position
+$12: Secondary Air Injection
+$13: Oxygen Sensor Bank 1 Sensor 1
+$15: Oxygen Sensor Bank 1 Sensor 2
+$1C: OBD Requirements
+$1F: Time since engine start
+$20: supported PIDS $21 thru $40
+$21: Distance driven with MIL ON
+$2E: Commanded evap purge
+$30: Warm up counts after MIL erased
+$31: Distance driven after erasing DTC memory
+$33: Barometric pressure
+$34: Heater current Bank 1 Sensor 1
+$3C: Calculated catalyst temperature
+$40: supported PIDS $41 thru $60
+$41: Monitor status current drive cycle
+$42: Control module voltage
+$43: Absolute load value
+$44: Air/Fuel Commanded equivalence ratio
+$45: Relative throttle valve position
+$46: Ambient temperature
+$47: Absolute Throttle valve position B
+$49: Accelerator pedal position D
+$4A: Accelerator pedal position E
+$4C: Specified throttle valve position
+$56: Long term secondary O2 sensor Fuel Trim Bank 1
+– Switch the ignition OFF.
+3.3.2 Diagnostic Mode 02 - Read Operating
+Conditions
+When an emissions-related fault (pending DTC, visible in mode
+07) is first detected, operating conditions are stored. Mode 02
+makes it possible to access this freeze frame data as soon as this
+fault is shown in mode 03. Each control module only shows freeze
+frame data for one fault via mode 02. Therefore, there are two
+priority levels. If there is a malfunction with higher priority, the
+freeze frame data is overwritten.
+– Fault with higher priority: Misfire malfunction or fuel trim mal‐
+function.
+– Fault with normal priority: All other emissions-related faults.
+Note
+Depending on scan tool and protocol used, the information in di‐
+agnostic mode 02 may be referred to by different names such as
+Test-ID (TID), Hex-ID, Component-ID (CID), or On-Board Diag‐
+nostic Monitor Identifier (OBDMID).
+12
+Rep. Gr.ST - Generic Scan Tool

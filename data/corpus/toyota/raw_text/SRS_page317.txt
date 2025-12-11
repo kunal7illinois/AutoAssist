@@ -1,0 +1,37 @@
+RS–315
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+Center Airbag Sensor Assembly Communica-
+DTC B1790
+tion Circuit Malfunction
+DESCRIPTION
+The center airbag sensor assembly communication circuit consists of the occupant classification ECU and
+the center airbag sensor assembly.
+DTC B1790 is recorded when a malfunction is detected in the center airbag sensor assembly
+communication circuit.
+DTC No. DTC Detecting Condition Trouble Area
+• The occupant classification ECU receives a line
+short circuit signal, an open circuit signal, a short
+• Occupant classification ECU
+circuit to ground signal or a short circuit to B+ signal
+• Center airbag sensor assembly
+B1790 in the center airbag sensor assembly
+• Floor wire No. 2
+communication circuit for 2 seconds.
+• Front seat wire RH (for Power seat)
+• Center airbag sensor assembly malfunction
+• Occupant classification ECU malfunction
+WIRING DIAGRAM
+Occupant Classification ECU Center Airbag Sensor Assembly
+8 8 1 12
+(*1) (*1)
+FSR+ T10 O4 OT1 O1 FSP+
+(*1) (*2) RS
+(*2)
+4 4 4 13
+(*1) (*1)
+FSR- T10 O4 OT1 O1 FSP-
+(*1) (*2)
+(*2)
+*1: for Power Seat
+*2: for Manual Seat
+H045471E04

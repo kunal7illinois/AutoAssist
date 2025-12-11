@@ -1,0 +1,49 @@
+ES–344
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• The 2nd monitor
+The vent valve is turned OFF (open) and the EVAP pressure is measured. If the variation in the
+pressure is less than 0.5 kPa-g (3.75 mmHg-g), the ECM interprets this as the purge VSV being
+stuck closed, and illuminates the MIL and sets DTC P0441 (2 trip detection logic).
+Atmospheric pressure check:
+In order to ensure reliable malfunction detection, the variation between the atmospheric pressures, before
+and after conduction of the purge flow monitor, is measured by the ECM.
+EVAP Purge Flow:
+Reference Orifice (0.02 inch)
+Refueling Valve
+Fuel Cap
+Canister Pressure Sensor
+ES To Atmosphere
+Purge VSV
+(ON) Fuel Tank
+Canister
+To Intake Manifold
+Canister Filter
+Vent Valve (OFF)
+ECM
+Leak Detection Pump (OFF)
+Canister Pump Module
+Soak Timer
+A122571E02
+Components Operations
+Canister Contains activated charcoal to absorb EVAP (Evaporative Emissions) generated in fuel tank.
+Cut-off valve Located in fuel tank. Valve floats and closes when fuel tank 100 % full.
+Opens or closes line between canister and intake manifold. ECM uses purge VSV to control EVAP purge flow. In order
+Purge VSV (Vacuum
+to discharge EVAP absorbed by canister to intake manifold, ECM opens purge VSV. EVAP discharge volume to intake
+Switching Valve)
+manifold controlled by purge VSV duty cycle ratio (current-carrying time) (Open: ON; Closed: OFF).
+Controls EVAP pressure from fuel tank to canister. Valve consists of diaphragm, spring and restrictor (diameter: 0.08
+Refueling valve inch). When fuel vapor and pressure inside fuel tank increase, valve opens. While EVAP purged, valve closes and
+restrictor prevents large amount of vacuum from affecting pressure in fuel tank. Valve opened while refueling.
+Roll-over valve Located in fuel tank. Valve closed by its own weight when vehicle overturns to prevent fuel from spilling out.
+Built into ECM. To ensure accurate EVAP monitor, measures 5 hours (+-15 min) after ignition switch turned OFF. This
+Soak timer allows fuel to cool down, stabilizing EVAP pressure. When approximately 5 hours elapsed, ECM activates (refer to fig.
+3).
+Canister pump
+Consists of (a) to (d) below. Canister pump module cannot be disassembled.
+module
+Vents and closes EVAP system. When ECM turns valve ON, EVAP system closed. When ECM turns valve OFF, EVAP
+(a) Vent valve system vented. Negative pressure (vacuum) created in EVAP system to check for EVAP leaks by closing purge VSV,
+turning on vent valve (closed) and operating leak detection pump (refer to fig. 1).
+(b) Canister pressure Indicates pressure as voltages. ECM supplies regulated 5 V to canister pressure sensor, and uses feedback from
+sensor sensor to monitor EVAP system pressure (refer to fig. 2).

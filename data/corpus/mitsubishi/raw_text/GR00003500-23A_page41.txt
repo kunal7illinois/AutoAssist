@@ -1,0 +1,51 @@
+AUTOMATIC TRANSAXLE 23A-41
+AUTOMATIC TRANSAXLE DIAGNOSIS
+CODE DIAGNOSIS ITEM REFERENCE
+PAGE
+52 Torque converter clutch solenoid system Defective system P.23A-226
+53 Clutch stuck on P.23A-231
+54 A/T control relay system Short circuit to ground/open P.23A-233
+circuit
+56 "N" range light system <Vehicles with sport Open circuit P.23A-242
+mode>
+SYMPTOM CHART
+M1231008000158
+SYMPTOMS INSPECTION REFERENCE PAGE
+PROCEDURE NO.
+Communication with Communication with 2.4L Engine - Group 13A,
+scan tool is not all systems is diagnosis P.13A-434.
+possible impossible
+3.0L Engine - Group 13B,
+diagnosis P.13B-530.
+Communication with 2.4L Engine - Group 13A,
+the PCM only is diagnosis P.13A-436.
+impossible
+3.0L Engine - Group 13B,
+diagnosis P.13B-532.
+Driving impossible Engine does not crank 1 P.23A-249
+Does not move forward 2 P.23A-251
+Does not move backward 3 P.23A-253
+Does not move (forward or backward) 4 P.23A-255
+Malfunction when Engine stalls when moving selector lever 5 P.23A-256
+moving selector into from "N" to "D" or "N" to "R"
+gear
+Shift shock when shifting from "N" to "D" 6 P.23A-258
+and long delay
+Shift shock when shifting from "N" to "R" 7 P.23A-260
+and long delay
+Shift shock when shifting from "N" to "D" 8 P.23A-263
+or "N" to "R" and long delay
+Malfunction when Shift shock and slipping 9 P.23A-265
+shifting
+Does not shift Early or late shifting in all gears 10 P.23A-267
+properly
+Early or late shifting in some gears 11 P.23A-270
+Does not shift No diagnostic trouble codes 12 P.23A-272
+Malfunction while Poor acceleration 13 P.23A-274
+driving
+Vibration 14 P.23A-276
+Vehicle shifts differently with A/C engaged 15 P.23A-279
+Transaxle won’t downshift under load with auto-cruise engaged 16 P.23A-290
+Vehicle speed signal system 17 P.23A-295
+Shift switch assembly system <Vehicles with sport mode> 18 P.23A-302
+TSB Revision

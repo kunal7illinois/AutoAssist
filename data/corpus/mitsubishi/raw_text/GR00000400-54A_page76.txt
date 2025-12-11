@@ -1,0 +1,37 @@
+54A-76 CHASSIS ELECTRICAL
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 1. Check the MFI system.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to "LOCK" (OFF) position before connect-
+ing or disconnecting scan tool.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to "ON" position.
+(3) Read the MFI system diagnostic trouble code.
+Q:Is MFI system DTC P0300 output?
+YES : Check the MFI system, Go to Step 9.
+NO : Go to Step 2.
+16 PIN
+MB991502
+AC001252AB
+STEP 2. Check the speedometer operation.
+Q:Does the speedometer work normally?
+YES : Refer to Inspection Procedure 1 P.54A-40.
+NO : Go to Step 3.
+STEP 3. Check the combination meter (tachometer) ground
+circuit at the combination meter connector C-42.
+(1) Disconnect the combination meter connector C-42.
+CONNECTOR: C-42
+DEVICE SIDE
+2122232425262728 293031323334
+AC106473AI
+(2) Measure the resistance between terminal 28 and ground.
+CONNECTOR: C-42
+(HARNESS SIDE) • The measured value should be 2 ohm or less.
+Q:Does the measured resistance value correspond with
+this range?
+YES : Go to Step 6.
+NO : Go to Step 4.
+343332313029 2827262524232221
+AC102517 AB
+TSB Revision

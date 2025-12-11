@@ -1,0 +1,52 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-401
+SYMPTOM PROCEDURES
+TECHNICAL DESCRIPTION (COMMENT) • Malfunction of the door switch
+If the dome light, the luggage compartment light • Malfunction of the driver’s door lock actuator
+<ECLIPSE> and trunk light <ECLIPSE SPYDER> do switch
+not illuminate normally, the dome light bulb(s) may • Malfunction of the dome light
+be burned out or the input circuit system from the • Malfunction of the liftgate latch switch or liftgate
+switches, the power supply lines to the switches or light switch <ECLIPSE>
+the ETACS-ECU may be defective (refer to "CIR- • Malfunction of trunk lid latch switch or trunk light
+CUIT OPERATION"). switch <ECLIPSE SPYDER>
+• Malfunction of the ETACS-ECU
+. TROUBLESHOOTING HINTS • Damaged harness wires or connectors
+• Malfunction of the key reminder switch
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Use scan tool to select "ECU COMM CHECK" on
+the SWS monitor display.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502. Also con-
+nect SWS monitor kit MB991862 after turning on scan tool
+MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+COLUMN SWITCH (2) Connect SWS monitor kit MB991862 to the column switch
+CONNECTOR
+connector.
+MB991502 (3) Turn the ignition switch to the "LOCK" (OFF) position.
+(4) Operate the MUT-II according to the procedure below to
+display "ECU COMM CHECK."
+1. Select "SYSTEM SELECT."
+DATA LINK 2. Select "SWS."
+CONNECTOR
+3. Select "SWS MONITOR."
+AC101571AB 4. Select "ECU COMM CHECK."
+(5) Scan tool MB991502 should show "OK" on the "ETACS
+COLUMN SWITCH ECU" menu.
+CONNECTOR
+Q:Is "OK" displayed on the "ETACS ECU" menu?
+YES : Go to Step 2.
+SWS MONITOR NO : Refer to Inspection Procedure A-3 "Communication
+HARNESS (FOR
+with ETACS-ECU is impossible P.54B-39."
+COLUMN-ECU)
+COLUMN SWITCH
+CONNECTOR AT
+HARNESS SIDE
+AC101421AB
+TSB Revision

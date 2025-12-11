@@ -1,0 +1,45 @@
+EI–56
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+HINT:
+Use this procedure to troubleshoot the engine immobiliser
+system.
+The intelligent tester should be used in steps 3, 4, and 6.
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 CRANK ENGINE FOR MORE THAN 10 SECONDS
+NEXT
+3 CHECK FOR DTCS
+(a) Check for DTCs and note any codes that are output.
+(b) Delete the DTCs.
+(c) Recheck for DTCs. Try to duplicate the DTC (SFI system
+and engine immobiliser system) by simulating the
+symptoms indicated by the DTC.
+(1) If the DTC does not reoccur, proceed to A.
+(2) If the DTC (SFI system) reoccurs, proceed to B.
+(3) If the DTC (engine immobiliser system) reoccurs,
+proceed to C.
+B GO TO SFI SYSTEM
+C GO TO DTC CHART
+EI
+A
+4 READ VALUE ON INTELLIGENT TESTER
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the ignition switch to the ON position and turn the
+intelligent tester on.
+(c) Read the DATA LIST according to the display on the
+tester.
+IMMOBILISER:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Key is in ignition key cylinder
+Unlock warning switch signal/ON
+KEY SW OFF: No key is in ignition key -
+or OFF
+cylinder
+OK:
+ON (Key is in ignition key cylinder) appears on the
+screen.

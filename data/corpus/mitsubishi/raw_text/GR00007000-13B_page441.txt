@@ -1,0 +1,37 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-441
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 9. Check for leaks in the evaporator line from hose J
+to hose K.
+(1) Remove the fuel tank. (Refer to GROUP 13C, Fuel Tank
+P.13C-11.)
+(2) Disconnect hose J at the liquid separator side, and then
+connect a hand vacuum pump to the hose.
+HOSE J
+AC02040AB
+(3) Plug the hose K at the fuel tank side.
+(4) Apply vacuum by using the hand vacuum pump, and
+confirm that the applied vacuum does not fluctuate.
+Q:Is air maintained?
+YES : Go to Step 10.
+NO : Replace the inferior hose, and reinstall the fuel tank.
+(Refer to GROUP 13C, Fuel Tank P.13C-11.) Then go
+HOSE K to Step 26.
+AC002038AB
+STEP10. Check for leaks in the evaporator line hose I, L, M,
+N and O.
+(1) Remove the fuel tank and fuel filler neck assembly. (Refer
+to GROUP 13C, Fuel Tank P.13C-11.)
+(2) The leakage test with a hand vacuum pump on each hose
+from hose I, L, M, N and O.
+Q:Are the hoses in good condition?
+HOSE I
+YES : Go to Step 11.
+NO : Replace the inferior hose, reinstall the fuel tank and
+fuel filler neck assembly. (Refer to GROUP 13C, Fuel
+Tank P.13C-11.) Then go to Step 26.
+AC002032AABB
+HOSE O
+HOSE M
+HOSE N
+HOSE L AC002039AABB
+TSB Revision

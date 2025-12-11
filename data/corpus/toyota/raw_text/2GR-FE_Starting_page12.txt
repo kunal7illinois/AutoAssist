@@ -1,0 +1,61 @@
+ST–12
+2GR-FE STARTING – SMART KEY SYSTEM
+4. CONSTRUCTION AND OPERATION
+Indicator Light (a) Engine Switch
+The engine switch consists of a momentary type
+switch, 3 color (amber, green, greenish white)
+LEDs, and a transponder key amplifier.
+START • The greenish white LED is for illumination.
+STOP • The amber and green LEDs are for the indicator
+lights. The driver can check the present power
+source mode and whether the engine can start in
+accordance with the illumination state of the
+A109251E01
+indicator light.
+• When the main body ECU detects an
+abnormality in the push-button start function, it
+makes the amber indicator light flash. If the
+engine stopped in this state, it may not be
+possible to restart it.
+(b) Indicator Light Condition
+Engine switch indicator light condition:
+Indicator Light Condition
+Power Source Mode/Condition
+Brake pedal released Brake pedal depressed, shift lever in P or N
+off OFF ON (Green) (When key and vehicle IDs match)
+on (ACC, IG) ON (Amber) ON (Green)
+Engine running OFF OFF
+Steering lock not unlocked Flashes (Green) for 15 sec. Flashes (Green) for 15 sec.
+System malfunction Flashes (Amber) for 15 sec. Flashes (Amber) for 15 sec.
+(c) Main body ECU
+The main body ECU consists of the IG1 and IG2
+relay actuation circuits and CPU.
+HINT:
+Before removing the battery, make sure to turn the
+engine switch off. The main body ECU constantly
+stores the present power source mode in its
+memory. Therefore, if the main body ECU is
+interrupted by disconnecting the battery, the main
+body ECU restores the power source mode after the
+battery is reconnected. For this reason, if the battery
+is disconnected when the engine switch is not off,
+the power will be restored to the vehicle at the same
+time the power is restored to the main body ECU (by
+reconnecting the battery).
+5. PUSH-BUTTON START FUNCTION OPERATION
+(a) This system has different power source mode
+patterns depending on the brake pedal condition
+and shift lever position.
+ST Brake Pedal Shift Lever Power Source Mode Pattern
+When the engine switch is pushed once.
+• off → engine start
+Depressed P or N position
+• on (ACC) → engine start
+• on (IG) → engine start
+Each time the engine switch is pushed.
+P position
+• off → on (ACC) → on (IG) → off
+Not depressed
+Each time the engine switch is pushed.
+Except P position
+• off → on (ACC) → on (IG) → on (ACC)

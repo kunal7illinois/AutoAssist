@@ -1,0 +1,44 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+♦ Wiring diagram
+Test requirements
+• The Engine Control Module (ECM) - J623- fuses OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• On vehicles with automatic transmission, selector lever in po‐
+sition “P” or “N”.
+• A/C switched off.
+• Ground (GND) connections between engine/transmission/
+chassis OK.
+• Ignition switched off.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the engine cover with air filter. Refer to appropriate
+service manual.
+Test sequence
+– Disconnect the Charge Air Pressure Sensor -G31- / Intake Air
+Temperature (IAT) Sensor 2 -G299- electrical harness con‐
+nector -arrow-.
+– Start engine and let it run at idle.
+– Using a multimeter, check the Charge Air Pressure Sensor -
+G31- / Intake Air Temperature (IAT) Sensor 2 -G299- electrical
+harness connector terminals 1 to 3 for voltage.
+Specified value: min. 4.5 V
+– Switch the ignition off.
+If the specification was obtained:
+– Replace the Charge Air Pressure Sensor -G31- / Intake Air
+Temperature (IAT) Sensor 2 -G299- .
+If the specification was not obtained:
+Checking wiring
+If the manufacturers test box is being used, perform the following
+step.
+– Install the test box.
+If the manufacturers test box is not being used, perform the fol‐
+lowing step.
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+appropriate service manual.
+143
+3. Diagnosis and Testing

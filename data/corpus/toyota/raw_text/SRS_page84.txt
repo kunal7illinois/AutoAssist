@@ -1,0 +1,52 @@
+RS–84
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+INSPECTION PROCEDURE
+1 CHECK PRESENT DTC
+(a) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+(b) Turn the ignition switch off.
+HINT:
+If a communication error occurs, DTCs for both the LH
+Side Airbag Center Airbag and RH sides will be stored simultaneously. To identify
+Sensor LH
+Sensor Assembly the malfunctioning area, turn the ignition switch off and
+then on (IG) again.
+DTC 81 (c) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+DLC3 (d) Check the present DTCs (See page RS-41).
+Result
+DTC 82
+Result Proceed to
+Present DTC B1623, B1633, B1643, or 81 is output. A
+CG TC
+Present DTC B1628, B1638, B1648, or 82 is output. B
+C123724E01
+Present DTC B1623, B1633, B1643, or 81 and B1628,
+C
+B1638, B1648, or 82 are not output.
+HINT:
+• DTCs indicating communication errors will be
+changed to DTCs indicating errors in initialization by
+turning the ignition switch off and then on (IG) again.
+• Codes other than present DTC B1623, B1633,
+B1643, or 81 and B1628, B1638, B1648, or 82 may
+RS
+be output at this time, but they are not related to this
+check.
+B REPAIR CIRCUITS INDICATED BY OUTPUT
+DTCS
+C USE SIMULATION METHOD TO CHECK (See
+page RS-32)
+A
+2 CHECK PAST DTC
+(a) Check the past DTCs (See page RS-41).
+Result
+Result Proceed to
+• Past DTC B1632, B1642, or 81 is output.
+• Past DTC B1622, B1632, B1642, or 81 is not A
+output.
+Past DTC B1622 is output. B
+HINT:
+Codes other than past DTC B1622, B1632, B1642, or 81
+may be output at this time, but they are not related to this
+check.

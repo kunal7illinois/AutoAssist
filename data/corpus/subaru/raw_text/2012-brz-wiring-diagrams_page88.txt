@@ -1,0 +1,24 @@
+Starting (w/o Smart Entry & Start System)
+: Parts Location
+Code See Page Code See Page Code See Page
+A9 A 42 A33 A 42 B2 B 39
+A10 B 42 A35 C 42 D55 41
+A20 42 B1 A 39 L2 39
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 24 Engine Room R/B (Engine Compartment Right)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+1E 24 Engine Room Main Wire and Engine Room J/B (Engine Compartment Right)
+3A 26 Instrument Panel Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+: Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+AB1 46 Engine Room Main Wire and No. 2 Engine Room Wire (Engine Unit)
+AD2 47 Engine Room Main Wire and Instrument Panel Wire (Instrument Panel Reinforcement)
+AD3 47 Engine Room Main Wire and Instrument Panel Wire (Cowl Side Panel LH)
+AL2 46 Engine Room Main Wire and Transmission Wire (Dash Panel)
+: Ground Points
+Code See Page Ground Points Location
+A1 46 Front Fender Apron LH
+88
+BRZ (G4400BE)

@@ -1,0 +1,53 @@
+ES–203
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+A/F Sensor (Sensor 1) HO2 Sensor (Sensor 2) Main Suspected
+Case
+Output Voltage Output Voltage Trouble Areas
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 % • HO2 sensor
+3 • HO2 sensor heater
+Output Voltage Output Voltage • HO2 sensor circuit
+More than 3.35 V Almost
+Less than 3.0 V no reaction
+Injection volume Injection Volume
+Extremely rich or lean
++25 % +25 %
+actual air-fuel ratio
+-12.5 % -12.5 %
+• Injector
+4
+• Fuel pressure
+Output Voltage Output Voltage
+• Gas leakage from ES
+Almost Almost
+exhaust system
+no reaction no reaction
+Following the A/F CONTROL procedure enables technicians
+to check and graph the voltage outputs of both the A/F and
+HO2 sensors.
+To display the graph, select the following menu items on the
+tester: DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST /
+A/F CONTROL / USER DATA / AFS B1 S1 and O2S B1 S2;
+then press the YES button and then the ENTER button
+followed by the F4 button.
+Result
+Result Proceed To
+Case 1 A
+Case 2 B
+Case 3 C
+Case 4 D
+B REPLACE AIR-FUEL RATIO SENSOR
+C Go to step 4
+D CHECK CAUSE OF EXTREMELY RICH OR
+LEAN ACTUAL AIR-FUEL RATIO, REPLACE
+FAULTY AREA AND GO TO NEXT STEP
+A
+3 CHECK FOR EXHAUST GAS LEAKAGE
+OK:
+No gas leakage.
+NG REPAIR OR REPLACE EXHAUST GAS
+LEAKAGE POINT
+OK
+REPLACE THREE-WAY CATALYTIC CONVERTER (BOTH FRONT AND REAR CATALYSTS
+(FRONT EXHAUST PIPE))

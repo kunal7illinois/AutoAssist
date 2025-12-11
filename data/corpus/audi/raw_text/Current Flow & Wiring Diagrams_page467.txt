@@ -1,0 +1,54 @@
+Audi TT No. 51 / 2
+Current Flow Diagram
+Convertible roof actuation control unit, fuses
+J256 Convertible roof actuation control unit
+J533 Data bus diagnostic interface
+SD2 Fuse 2 on fuse holder D
+SF4 Fuse 4 on fuse holder F
+SF8 Fuse 8 on fuse holder F
+SF11 Fuse 11 on fuse holder F
+T10v 10-pin connector, black, connector A, on convertible roof
+actuation control unit
+T20d 20-pin connector, black, on data bus diagnostic interface
+B301 B397 B406 T20v 20-pin connector, red, connector B, on convertible roof actuation
+control unit
+51 Earth point, on right in luggage compartment
+• • • •
+10,0 6,0 16,0 0,35 0,35 0,35 0,35
+ro ro ro or/gn or/gn or/br or/br
+B301 Positive connection 5 (30), in main wiring harness
+B302 D1 T20d T20d
+/15 /5
+2,5
+SD2
+J533 J533 B302 Positive connection 6 (30), in main wiring harness
+ro 110A
+✱
+4 8 11
+J256
+T20v/9 T20v/10 B397
+Connection 1 (convenience CAN bus, high), in main wiring
+SF4 SF8 SF11
+harness
+30A 20A 25A
+Connection 1 (convenience CAN bus, low), in main wiring
+4a 8a 11a T10v/8 T10v/5 T10v/9 T10v/4 B406
+30 30 31 31 harness
+• CAN bus (data wire)
+✱✱
+2,5 2,5 2,5 2,5 * main fuse box, in luggage compartment, rear right, on the battery
+ro/sw ro/gr br br
+** manual convertible roof actuation
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+51 51 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-051020409
+rs = pink
+Edition 10.2010

@@ -1,0 +1,45 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-537
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TROUBLESHOOTING HINTS (The most likely • Improper connector contact, open circuit or short-
+causes for this case: ) circuited harness wire.
+• Malfunction of the ignition coil. • Malfunction of the ECM <M/T> or PCM <A/T>.
+• Malfunction of the ignition power transistor.
+DIAGNOSIS
+STEP 1. Check the ignition coil.
+Refer to GROUP 16, Ignition System − On-vehicle service −
+Ignition Coil Check P.16-36.
+Q:Are there any abnormalities?
+YES : Go to Step 2.
+NO : Replace the ignition coil. Then confirm that the
+malfunction symptom is eliminated.
+STEP 2. Check harness connector B-16, B-21 at ignition
+coil for damage.
+Q:Is the harness connector in good condition?
+CONNECTORS : B-16, B-21
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+B-21 B-16 malfunction symptom is eliminated.
+AAKK000000336622AB
+STEP 3. Check the power supply voltage at ignition coil
+connectors B-16, B-21.
+(1) Disconnect the connector B-16, B-21 and measure at the
+harness side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground.
+• Voltage should be battery positive voltage.
+B-16, B-21
+HARNESS SIDE (4) Turn the ignition switch to the "LOCK" (OFF) position.
+CONNECTOR
+Q:Is the voltage normal?
+3 2 1 YES : Go to Step 4.
+NO : Check the connector C-07, C-89, C-108 and C-111 at
+intermediate connectors for damage, and repair or
+replace as required. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. If intermediate
+AK000414AB connector are in good condition, repair harness wire
+between ignition switch connectors C-87 terminal 2
+and ignition coil connectors B-16, B-21 terminals 1
+because of open circuit. Then confirm that the
+malfunction symptom is eliminated.
+TSB Revision

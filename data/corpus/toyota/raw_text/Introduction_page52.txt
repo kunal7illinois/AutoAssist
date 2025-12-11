@@ -1,0 +1,59 @@
+IN–52
+INTRODUCTION – HOW TO TROUBLESHOOT ECU CONTROLLED SYSTEMS
+In the symptom simulation test, the problem
+symptoms as well as the problem area or parts
+must be confirmed. First, narrow down the
+possible problem circuits according to the
+symptoms. Then, connect the tester and carry out
+the symptom simulation test, judging whether the
+IN
+circuit being tested is defective or normal. Also,
+confirm the problem symptoms at the same time.
+Refer to the problem symptoms table for each
+system to narrow down the possible causes.
+(a) VIBRATION METHOD: When a malfunction seems
+to occur as a result of vibration.
+(1) PART AND SENSOR
+Apply slight vibration with a finger to the part of
+Vibrate Slightly
+the sensor suspected to be the cause of the
+problem, and check whether the malfunction
+occurs.
+NOTICE:
+Applying strong vibration to relays may open
+relays.
+(2) CONNECTORS
+Slightly shake the connector vertically and
+horizontally.
+(3) WIRE HARNESS
+Slightly shake the wire harness vertically and
+horizontally.
+Shake Slightly
+HINT:
+The connector joint and fulcrum of the vibration
+are the major areas that should be checked
+thoroughly.
+(b) HEAT METHOD: When a malfunction seems to
+Vibrate Slightly occur when the area in question is heated.
+(1) Heat the component that is the possible cause of
+the malfunction with a hair dryer or similar
+device. Check if the malfunction occurs.
+NOTICE:
+B071602E03 • Do not heat to more than 60°C (140°F).
+Exceeding this temperature may damage
+the components.
+• Do not apply heat directly to the parts in
+the ECU.
+(c) WATER SPRINKLING METHOD: When a
+malfunction seems to occur on a rainy day or in
+high-humidity.
+(1) Sprinkle water onto the vehicle and check if the
+malfunction occurs.
+NOTICE:
+• Never sprinkle water directly into the
+engine compartment. Indirectly change
+the temperature and humidity by spraying
+water onto the front of the radiator.
+D025085E02
+• Never apply water directly onto the
+electronic components.

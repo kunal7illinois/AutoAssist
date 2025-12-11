@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+and the ECM.
+NO -Go to step 11.
+11. Short the SCS line with the HDS.
+12. Disconnect ECM connector A (44P).
+13. Check for continuity between EPS control unit connector D (28P) terminals
+No. 3 and ECM connector A (44P) terminals No. 28.
+Fig. 19: Checking Continuity Between EPS Control Unit Connector D
+(28P) Terminals No. 3 And ECM Connector A (44P) Terminals No. 28
+Is there continuity?
+YES -Check for loose terminals in the ECM connector A (44P), and repair if
+necessary. If no poor connections are found replace the ECM (see ECM
+REPLACEMENT ).
+NO -Repair open in the wire between the EPS control unit and the ECM.
+DTC 32-01: EPS CONTROL UNIT INTERNAL CIRCUIT (CURRENT SENSOR) (INITIAL
+DIAGNOSIS); DTC 32-02: EPS CONTROL UNIT INTERNAL CIRCUIT (CURRENT SENSOR)
+(REGULAR DIAGNOSIS); DTC 35-01: EPS CONTROL UNIT INTERNAL CIRCUIT (CPU) (INITIAL
+DIAGNOSIS/REGULAR DIAGNOSIS); DTC 35-02: EPS CONTROL UNIT INTERNAL CIRCUIT
+(EEPROM) (INITIAL DIAGNOSIS); DTC 35-04: EPS CONTROL UNIT INTERNAL CIRCUIT (CPU
+COMMUNICATION) (REGULAR DIAGNOSIS); DTC 35-06: EPS CONTROL UNIT INTERNAL
+CIRCUIT (ITN COMMUNICATION) (REGULAR DIAGNOSIS); DTC 35-07: EPS CONTROL UNIT
+INTERNAL CIRCUIT (INHL/INHR PORTS) (INITIAL DIAGNOSIS/REGULAR DIAGNOSIS); DTC

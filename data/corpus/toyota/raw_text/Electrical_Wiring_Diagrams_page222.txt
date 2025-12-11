@@ -1,0 +1,37 @@
+System Outline
+1. Manual Unlock Operation
+When the door lock control SW of the driver’s or passenger’s side door is pushed to UNLOCK, the door lock will unlock.
+2. Manual Lock Operation
+When the door lock control SW of the driver’s or passenger’s side door is pushed to LOCK, the door lock will lock.
+3. Door Key Unlock Operation
+∗ Unlock operation from driver’s side door
+When the driver’s side door is unlocked once using the ignition key, only the driver’s side door is unlocked. If this operation is
+repeated within 3 seconds, all the other doors are unlocked.
+: Parts Location
+Code See Page Code See Page Code See Page
+A24 A 52 (2AZ–FE) E41 B 57 62 (*1)
+NN33
+A40 A 59 E42 A 57 63 (*2)
+A41 A 59 E43 B 57 A 60
+NN66
+A42 B 59 E44 C 57 B 60
+A55 A 49 (2GR–FE) E45 D 57 A 60
+NN1133
+A 50 (2GR–FE) E49 57 B 60
+CC11
+B 54 (2AZ–FE) E52 57 N28 60
+C24 B 55 (2AZ–FE) E58 A 57 N29 60
+C55 B 51 (2GR–FE) F1 A 58 O6 60
+C57 51 (2GR–FE) H5 61 O10 60
+E6 A 56 H8 61 O21 60
+E7 B 56 I7 61 S5 61
+E8 C 56 J5 61 S6 B 61
+E9 D 56 K5 61 S8 A 61
+E22 56 M1 61 S15 61
+E30 A 56 N1 B 59
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+* 1 : w/ Power Seat * 2 : w/o Power Seat
+221
+CAMRY (EM0250U)

@@ -1,0 +1,58 @@
+WS–26
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+INSPECTION PROCEDURE
+1 INSPECT POWER WINDOW REGULATOR MASTER SWITCH ASSEMBLY
+(a) Measure the resistance according to the value(s) in the
+WS table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+8 (UP) - 1 (E) - 4 (AUTO) Auto UP Below 1 Ω
+5 (DN) - 6 (B) Auto UP Below 1 Ω
+8 (UP) - 1 (E) Manual UP Below 1 Ω
+5 (DN) - 6 (B) Manual UP Below 1 Ω
+8 (UP) - 5 (DN) - 6 (B) OFF Below 1 Ω
+B108710
+5 (DN) - 1 (E) Manual DOWN Below 1 Ω
+8 (UP) - 6 (B) Manual DOWN Below 1 Ω
+4 (AUTO) - 5 (DN) - 1 (E) Auto DOWN Below 1 Ω
+8 (UP) - 6 (B) Auto DOWN Below 1 Ω
+NG REPLACE POWER WINDOW REGULATOR
+MASTER SWITCH
+OK
+2 CHECK WIRE HARNESS (WINDOW REGULATOR MASTER SWITCH - WINDOW
+REGULATOR MOTOR)
+(a) Disconnect the M1 and I5 connectors.
+M1
+(b) Measure the resistance according to the value(s) in the
+Power Window Regulator Master
+table below.
+Switch Assembly:
+Standard resistance
+DN Tester Connection Condition Specified Condition
+LED
+M1-8 (UP) - I5-10 (UP1) Always Below 1 Ω
+M1-3 (LED) - I5-5 (LED) Always Below 1 Ω
+UP M1-4 (AUTO) - I5-4 Always Below 1 Ω
+(AUTO)
+AUTO
+M1-5 (DN) - I5-7 (DWN1) Always Below 1 Ω
+I5
+Power Window Regulator Motor M1-8 (UP) - Body Always 10 kΩ or higher
+ground
+(Front LH):
+M1-3 (LED) - Body
+Always 10 kΩ or higher
+ground
+M1-4 (AUTO) - Body
+Always 10 kΩ or higher
+LED ground
+AUTO
+M1-5 (DN) - Body
+Always 10 kΩ or higher
+ground
+UP1 NG REPAIR OR REPLACE HARNESS OR
+DWN1
+CONNECTOR
+B137046E02
+OK
+REPLACE DRIVER SIDE POWER WINDOW REGULATOR MOTOR ASSEMBLY

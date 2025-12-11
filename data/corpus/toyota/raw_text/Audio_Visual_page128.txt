@@ -1,0 +1,32 @@
+AV–128
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+2 CHECK HARNESS AND CONNECTOR (MICROPHONE - RADIO RECEIVER)
+(a) Disconnect the microphone connector and radio receiver
+Microphone Connector Front View connector.
+(TMC Made): (b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Q5
+Tester connection Condition Specified condition
+ACC - MCVD Always Below 1 Ω
+MI1+ - MIC+ Always Below 1 Ω
+ACC MIC- MIC- - MIC- Always Below 1 Ω
+ACC - Body ground Always 10 kΩ or higher
+MIC+ - Body ground Always 10 kΩ or higher
+MI1+ MIC- - Body ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+Microphone Connector Front View
+CONNECTOR
+(TMMK Made):
+Q12
+ACC
+MI1+
+MIC-
+Radio Receiver Wire Harness View:
+MIC+
+F11 MIC-
+MCVD
+AV
+E131895E02
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

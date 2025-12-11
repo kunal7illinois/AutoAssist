@@ -1,0 +1,41 @@
+CH-76 CHASSIS - U660E AUTOMATIC TRANSAXLE
+(cid:1) Solenoid Valve Operation when Normal (cid:2)
+Gear Position 1st 2nd 3rd 4th 5th 6th
+SL1 (cid:5) (cid:5) (cid:5) (cid:5) X X
+SL2 X X X (cid:5) (cid:5) (cid:5)
+SSoolleennooiidd VVaallvvee
+SL3 X (cid:5) X X X (cid:5)
+SL4 X X (cid:5) X (cid:5) X
+(cid:1) Fail-safe Control List (cid:2)
+Gear Position in Normal Operation 1st 2nd 3rd 4th 5th 6th
+OFF Malfunction (without Fail-safe Control) 1st (cid:1) N 2nd (cid:1) N 3rd (cid:1) N 4th (cid:1) N 5th 6th
+ON Malfunction (without Fail-safe Control)*1 1st 2nd 3rd 4th 5th (cid:1) 4th 6th (cid:1) 4th
+SL1 Fail-safe Control during OFF Malfunction Fixed in 3rd or 5th*2
+Fail-safe Control during OFF Malfunction
+Fixed in 3rd or 5th*2
+(ATF Pressure Switches 1 or 2 Malfunctions)
+OFF Malfunction (without Fail-safe Control) 1st 2nd 3rd 4th (cid:1) 1st 5th (cid:1) N 6th (cid:1) N
+ON Malfunction (without Fail-safe Control)*1 1st (cid:1) 4th 2nd (cid:1) 4th 3rd (cid:1) 4th 4th 5th 6th
+SL2 Fail-safe Control during OFF Malfunction 1st 2nd 3rd 3rd*3 3rd*3 3rd*3
+Fail-safe Control during OFF Malfunction
+Fixed in 2nd or 3rd*3
+(ATF Pressure Switches 1 or 2 Malfunctions)
+OFF Malfunction (without Fail-safe Control) 1st 2nd (cid:1) 1st 3rd 4th 5th 6th (cid:1) N
+ON Malfunction (without Fail-safe Control)*1 1st (cid:1) 2nd 2nd 3rd 4th 5th 6th
+SL3 Fail-safe Control during OFF Malfunction 1st 3rd 3rd 4th 5th 5th*3
+Fail-safe Control during OFF Malfunction
+Fixed in 3rd*3
+(ATF Pressure Switches 1 or 2 Malfunctions)
+OFF Malfunction (without Fail-safe Control) 1st 2nd 3rd (cid:1) 1st 4th 5th (cid:1) N 6th
+ON Malfunction (without Fail-safe Control)*1 3rd 3rd 3rd 4th 5th 5th
+SL4 Fail-safe Control during OFF Malfunction 1st*4 2nd*4 4th*4 4th*4 6th 6th
+Fail-safe Control during OFF Malfunction
+Fixed in 2nd*3
+(ATF Pressure Switches 1 or 2 Malfunctions)
+*1:Fail-safe control is not actuated when the ON malfunction occurs.
+*2:If malfunctions already exist in any of the P, R or N range positions and a malfunction is detected when
+the gear is shifted to the 1st gear, the gear position is fixed in the 5th gear. After that, if any of the P, R
+or N range positions is selected, the gear is fixed in the 3rd gear position.
+*3:The gear is fixed in the neutral position until the vehicle speed reaches a certain speed that enables the
+transaxle to be shifted.
+*4:Shifting to the 5th and 6th gears is prohibited.

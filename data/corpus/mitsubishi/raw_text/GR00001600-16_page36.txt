@@ -1,0 +1,42 @@
+16-36 ENGINE ELECTRICAL
+IGNITION SYSTEM
+ON-VEHICLE SERVICE
+SPARK PLUG CABLE TEST
+M1163000900074
+<3.0L ENGINE>
+WARNING
+Wear rubber gloves while performing this test.
+1. Disconnect, one at a time, each of the spark plug cables
+while the engine is idling to check whether the engine’s
+running performance changes or not.
+2. If the engine performance does not change, check the
+resistance of the spark plug cable, and check the spark plug
+itself.
+SPARK PLUG CABLE
+AAKK110011339911AB
+IGNITION COIL CHECK
+M1163001200205
+<2.4L ENGINE − With built-in ignition power
+transistor>
+Check by the following procedure, and replace the coil if there
+is a malfunction.
+.
+SECONDARY COIL RESISTANCE CHECK
+Measure the resistance between the high-voltage terminals of
+the ignition coil.
+Standard value: 8.5 − 11.5 kΩ
+AKX01264
+.
+PRIMARY COIL AND IGNITION POWER TRANSISTOR
+CONTINUITY CHECK
+NOTE: An analog-type ohmmeter should be used.
+NOTE: Connect the negative probe of the ohmmeter to termi-
+1.5 V nal 1.
+CAUTION
+This test must be performed quickly (in less than 10 sec-
+– + 1 2 3 onds) to prevent coil from burning and ignition power tran-
+sistor from breaking.
+As described in the chart below, perform a continuity check on
+the ignition coil and power transistor.
+AKX01265AB
+TSB Revision

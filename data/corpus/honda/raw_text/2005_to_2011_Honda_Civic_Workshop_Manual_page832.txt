@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+10. Turn the ignition switch to ON (II).
+11. Clear the DTC with the HDS.
+12. Test-drive the vehicle with the shift lever in D, and let the transmission shift
+through all five gears, then slow down to a stop. Shift to R, and drive the
+vehicle for at least 3 seconds.
+13. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 12, then go
+to step 14.
+14. Check for DTCs with the HDS.
+Is DTC P0767 indicated?
+YES -Go to step 5.
+NO -Go to step 15.
+15. Monitor the OBD STATUS for P0767 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+14, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, go to step 5. If the HDS indicates NOT
+COMPLETED, go to step 12.
+DTC P0776: A/T Clutch Pressure Control Solenoid Valve B Stuck OFF; DTC P0777: A/T Clutch Pressure Control
+Solenoid Valve B Stuck ON
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+1. Warm up the engine to normal operating temperature (the radiator fan comes
+on).
+2. Make sure that the transmission is filled to the proper level, and check for fluid
+leaks.

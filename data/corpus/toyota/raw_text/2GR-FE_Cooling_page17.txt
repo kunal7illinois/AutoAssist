@@ -1,0 +1,28 @@
+CO–16
+2GR-FE COOLING – COOLING FAN ECU
+COOLING FAN ECU
+ON-VEHICLE INSPECTION
+1. INSPECT COOLING FAN ECU
+1 2 3 (a) Inspect the input voltage.
+(1) Disconnect the cooling fan ECU connector.
+(2) Turn the ignition switch on (IG). Check the
+E1 SI +B1 voltage of the +B terminal of the disconnected
+wire harness side connector.
+A125060E02
+Standard voltage:
+9 to 14 V
+If the result is not as specified, inspect the
+power source system (fusible link, fuse, wire
+harness and relay).
+(b) Inspect the cooling fan motor (see page CO-15).
+(c) Measure the resistance between terminals RFC
+(ECM) and SI (cooling fan ECU) of the wire harness
+side connectors.
+HINT:
+• If the fan does not operate, there may be a short
+circuit.
+• If the fan remains operating, there may be an
+open circuit.
+(d) Inspect the ECM power source circuit and ground
+circuit.
+CO

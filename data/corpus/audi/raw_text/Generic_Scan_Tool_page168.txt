@@ -1,0 +1,47 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+3.5.25 Ambient Air Temperature Sensor,
+Checking
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Wiring diagram.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Connect the scan tool.
+– Engine MUST be at room temperature.
+– Turn the ignition switch On.
+– Using the scan tool, check the ambient air temperature:
+Diagnostic text Specified value
+Ambient Air Temperature (AAT) approx. ambient air tem‐
+Sensor perature
+– Turn the ignition switch OFF.
+If the specified value was obtained:
+– Fault may be intermittent. Check for proper connection, dam‐
+aged wiring or loose terminals.
+Note
+On some models the display in the cluster will default to 419° F if
+the circuit is open or shorted to ground. The display on the cluster
+may show 3 dashes on other models when signal is out of range.
+If the specified value was Not obtained:
+Checking internal resistance
+– Disconnect the Ambient Air Temperature Sensor -G17- elec‐
+trical harness connector.
+– Using a multimeter, check the Ambient Air Temperature Sen‐
+sor -G17- terminals 1 to 2 for resistance.
+Use the chart below for the specified values:
+Specified values:
+AAT Temperature vs Resistance
+Temp (C) min. value ohms max. value ohms
+- 40 31811 37560
+- 35 22941 26863
+- 25 12415 14289
+- 15 6958 7880
+- 5 4036 4495
+0 3120 3442
+5 2422 2655
+15 1519 1623
+25 968 1031
+164
+Rep. Gr.ST - Generic Scan Tool

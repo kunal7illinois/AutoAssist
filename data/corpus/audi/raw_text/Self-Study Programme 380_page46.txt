@@ -1,0 +1,26 @@
+Air conditioning
+Function diagram of the automatic air conditioning system
+G261 G262 G263 G385* G386** G107
+J255
+V70 G112 V71 G113 V107 G135
+Evaluation for driver's seat heating
+Evaluation for front passenger's seat heating
+Legend
+G56 Dash panel temperature sensor G221 Right temperature flap control motor
+G65 High pressure sender potentiometer
+G107 Sunlight penetration photo sensor G261 Vent temperature sender, left footwell
+G112 Central flap control motor potentiometer G262 Vent temperature sender, right footwell
+G113 Air flow flap control motor potentiometer G263 Evaporator out-flow temperature sender
+G135 Defroster flap control motor potentiometer *G385 Front left chest vent temperature sender (left-
+G143 Air recirculation flap control motor hand-drive vehicles only)
+potentiometer **G386Front right chest vent temperature sender
+G220 Left temperature flap control motor (right-hand drive vehicles only)
+potentiometer
+J126 Fresh air blower control unit
+J255 Climatronic control unit
+46
+V21 V21 V21
+V
+5
+Signal, left
+Signal, right

@@ -1,0 +1,40 @@
+EI–18
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+TERMINALS OF ECU
+1. CHECK ENGINE SWITCH
+E52
+(cid:25) (cid:24) (cid:23) (cid:22) (cid:21) (cid:20) (cid:19)
+(cid:19)(cid:22)(cid:19)(cid:21)(cid:19)(cid:20)(cid:19)(cid:19)(cid:19)(cid:18) (cid:27) (cid:26)
+B146454E01
+(a) Disconnect the E52 switch connector.
+(b) Measure the resistance according to the value(s) in
+the table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+AGND (E52-8) - Body ground G - Body ground Ground Always Below 1 Ω
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the E52 switch connector.
+(d) Measure the resistance and voltage according to
+the value(s) in the table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+AGND (E52-8) - Body ground G - Body ground Ground Always Below 1 Ω
+Key is not in cabin Below 1 V
+VC5 (E52-14) - AGND (E52-8) R - G Power supply
+Press engine switch 4.6 to 5.4 V
+Key is not in cabin Below 1 V
+Demodulated signal of key Press engine switch and
+CODE (E52-10) - AGND (E52-8) W - G Pulse generation
+code data hold key close to engine
+(see waveform 1)
+switch*
+Key is not in cabin Below 1 V
+EI
+TXCT (E52-9) - AGND (E52-8) GR - G Key code output signal Press engine switch and Pulse generation
+hold key close to engine
+(see waveform 2)
+switch*
+HINT:
+*: Remove the key battery before performing this
+inspection.
+If the result is not as specified, the switch may have
+a malfunction.

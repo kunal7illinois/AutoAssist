@@ -1,0 +1,36 @@
+Design and function
+In the Audi TT the rear tyre pressure monitor aerial
+R96 is integrated in the tyre pressure monitor con-
+trol unit J502.The control unit is fitted in the low
+tyre pressure indicator behind the dash panel
+insert. In the case of the tyre pressure monitoring
+system, communication with the vehicle periphery
+via the convenience CAN bus.
+Trailer
+Tyre pressure monitoring
+system J502
+381_051a
+The aerial receives the radio signals from tyre pres-
+sure sensors G222-G226. The sensors operate at a
+radio frequency of 315MHz. The sensors are identi-
+cal in design and function to those on the Audi A6.
+A new feature is the use of the valve body as a
+transmitter antenna. The valve body and sensor can
+no longer be separated. As with the current models
+A4, A6 and Q7, the sensors do not start to transmit
+until the wheels being to turn. To meet the country-
+specific statutory requirements, the battery service
+life is 10 years. The tyre pressure of the spare wheel
+is not monitored. When the customer orders a full-
+size spare wheel, the sensor is already installed in
+381_060
+the wheel if the vehicle is equipped with a tyre pres-
+sure monitoring system.
+The E492 button used in the tyre pressure monitor-
+ing system is identical to the button used by the low
+tyre pressure indicator. Pressing the button displays
+the actual tyre pressures as new target pressures.
+As with the low tyre pressure indicator, the button is
+connected to the control unit by discrete lines.
+381_061
+45

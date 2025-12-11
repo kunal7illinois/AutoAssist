@@ -1,0 +1,36 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Navigation System - Civic (Except Hybrid)
+buildings, will block satellites in that direction. That is why it is necessary to be in
+an open area to effectively troubleshoot GPS reception issues. The satellites shown
+on the diagram correspond to the PRN number in the GPS Details screen. There are
+always 24 active GPS satellites in orbit. Because satellites fail, and have to be
+removed from service, spares are always parked in orbit, ready to be activated. This
+is why the PRN (satellite ID number) can be greater than 24.
+NOTE:
+To use this screen for troubleshooting, the vehicle
+(cid:1)
+should be outside, away from buildings, tall trees, and
+high-tension wires for at least 10 minutes with the
+engine running.
+Metallic window tinting on the front or side window or
+(cid:1)
+after-market electronic accessories mounted near the
+navigation unit, GPS antenna, or navigation display can
+interfere with GPS acquisition.
+The Number of Satellites box shows the number of
+(cid:1)
+acquired satellites (maximum of 12). It should contain 4
+or more icons. If not, troubleshoot for GPS icon is white
+or not shown (see GPS ICON IS WHITE OR NOT
+SHOWN).
+The Current Position shows latitude, longitude, and
+(cid:1)
+elevation (in meters). If there are less than 4 satellites,
+the elevation can be grossly inaccurate.
+The Date/Time field shows the current date, and also a
+(cid:1)
+time that includes daylight savings and other offsets
+entered by the customer in Setup function Adjust Time
+Zone/Clock.
+Fig. 59: Diagnostic Menu Screen Display - GPS Information

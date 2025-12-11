@@ -1,0 +1,23 @@
+BC–349
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC C1201/51 Engine Control System Malfunction
+DESCRIPTION
+If a malfunction in the engine control system is detected, the operations of VSC and TRAC are prohibited
+by the fail safe function (See page BC-306).
+When the signals from the engine are input normally, the fail safe is cancelled and the DTC is not stored.
+DTC No. DTC Detecting Condition Trouble Area
+C1201/51 A trouble signal in the engine control system is input. Engine control system
+INSPECTION PROCEDURE
+1 CHECK DTC (ENGINE CONTROL SYSTEM)
+(a) Clear the DTC (engine control system) (See page ES-38
+for 2AZ-FE, ES-45 for 2GR-FE).
+(b) Perform a road test. BC
+(c) Check for the DTC (engine control system).
+Result
+Display (DTC Output) Proceed to
+DTC (engine control system) is not output A
+DTC (engine control system) is output B
+B REPAIR CIRCUITS INDICATED BY OUTPUT
+DTCS (ENGINE CONTROL SYSTEM)
+A
+REPLACE ECM

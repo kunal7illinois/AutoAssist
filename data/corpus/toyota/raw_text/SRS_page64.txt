@@ -1,0 +1,29 @@
+RS–64
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Front Satellite Sensor Bus LH Initialization
+DTC B1608/84
+Incomplete
+Lost Communication with Front Airbag Sensor
+DTC B1617/84
+LH
+Front Airbag Sensor LH Initialization Incom-
+DTC B1618/84
+plete
+DESCRIPTION
+The front airbag sensor LH circuit consists of the center airbag sensor assembly and front airbag sensor
+LH.
+The front airbag sensor LH detects impacts to the vehicle and sends signals to the center airbag sensor
+assembly to determine if the airbag should be deployed.
+DTC B1608/84, B1617/84, or B1618/84 is recorded when a malfunction is detected in the front airbag
+sensor RH circuit.
+DTC No. DTC Detecting Condition Trouble Area
+• The center airbag sensor assembly receives a line
+short circuit signal, an open circuit signal, a short • Instrument panel wire
+B1608/84
+circuit to ground signal or a short circuit to B+ signal • Engine room main wire
+B1617/84
+in the front airbag sensor LH circuit for 2 seconds. • Front airbag sensor LH
+B1618/84
+• Front airbag sensor LH malfunction • Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+RS

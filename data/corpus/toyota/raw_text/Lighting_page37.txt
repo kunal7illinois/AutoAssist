@@ -1,0 +1,32 @@
+LI–37
+LIGHTING – LIGHTING SYSTEM
+10 CHECK HARNESS AND CONNECTOR (ENGINE SWITCH - MAIN BODY ECU AND BODY
+GROUND)
+(a) Disconnect the E52 engine switch connector.
+Wire Harness Side:
+(b) Disconnect the E7 main body ECU connector.
+Engine Switch (c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+E52 Tester Connection Condition Specified Condition
+SS2
+E52-7 (SS1) - E7-17 (SSW1) Always Below 1 Ω
+E52-2 (SS2) - E7-16 (SSW2) Always Below 1 Ω
+SS1 E52-5 (GND) - Body ground Always 10 kΩ or higher
+E52-4 (EOM) - Body ground Always 10 kΩ or higher
+Main Body ECU
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E7
+SSW1
+SSW2
+E121502E01
+OK
+11 INSPECT ENGINE SWITCH
+(a) Inspect the engine switch (See page ST-153).
+OK:
+Engine switch is normal.
+NG REPLACE ENGINE SWITCH
+OK
+LI
+REPLACE INSTRUMENT PANEL J/B ASSEMBLY

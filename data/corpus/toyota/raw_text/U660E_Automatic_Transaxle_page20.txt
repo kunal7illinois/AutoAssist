@@ -1,0 +1,48 @@
+AX–20
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+(9) Disconnect the connector of the TCM.
+HINT:
+Disconnect the connector only when performing
+the D position stall test.
+(10)Start the engine.
+(11)Firmly depress the brake pedal, shift to the D
+AX
+position, depress the accelerator pedal all the
+way down, and check the line pressure while the
+stall test is performed.
+Specified line pressure:
+Condition D position kPa (kgf/cm2, psi)
+1,160 to 1,350 kPa
+Stall test
+(11.8 to 13.8 kgf/cm2, 168 to 196 psi)
+(12)Turn the ignition switch OFF.
+C133211 (13)Connect the TCM connector, depress the brake
+pedal firmly, shift to the R position, and check
+that the line pressure while the engine is idling
+and during the stall test.
+Specified line pressure:
+Condition R position kPa (kgf/cm2, psi)
+806 to 916 kPa
+Idling
+(8.2 to 9.3 kgf/cm2, 117 to 133 psi)
+1,890 to 2,000 kPa
+Stall test
+(19.3 to 20.4 kgf/cm2, 274 to 290 psi)
+(14)Remove the SST, install the test plug.
+(15)Clear the DTC.
+Evaluation:
+Problem Possible cause
+• Shift solenoid valve (SLT) defective
+Measured values are higher than the specified value in all positions
+• Regulator valve defective
+• Shift solenoid valve (SLT) defective
+Measured values are lower than the specified value in all positions • Regulator valve defective
+• Oil pump defective
+• D position circuit fluid leak
+Pressure is low in the D position only
+• Clutch No. 1 (C ) defective
+1
+• R position circuit fluid leak
+Pressure is low in the R position only • Brake No. 2 (B 2 ) defective
+• Brake No. 3 (B ) defective
+3

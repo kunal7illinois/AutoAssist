@@ -1,0 +1,28 @@
+ANTI-LOCK BRAKING SYSTEM (ABS) 35B-31
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+Q:Is any of the harness wires between the ABS-ECU
+CONNECTOR: A-02
+connector A-02 (terminals 11 and 12) and the data link
+connector C-29 (terminals 1 and 7) damaged?
+YES : Repair it and go to Step 5.
+NO : Go to Step 4.
+HARNESS SIDE
+AC001985AF
+CONNECTOR: C-29
+COMBINATION METER
+FRONT SIDE
+AC004429AC
+STEP 4. Check the harness wires between ABS-ECU
+connector A-02 (terminals 16 and 19) and ground.
+Q:Are any harness wires between ABS-ECU connector A-
+CONNECTOR: A-02
+02 (terminals 16 and 19) and ground damaged?
+YES : Repair them and then go to Step 5.
+NO : Go to Step 5.
+HARNESS SIDE
+AC001985AF
+STEP 5. Check symptom.
+Q:Does the scan tool communicate with the ABS system?
+YES : This diagnosis is complete.
+NO : Return to Step 1.
+TSB Revision

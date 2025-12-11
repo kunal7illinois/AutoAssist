@@ -1,0 +1,43 @@
+Audi TT No. 43 / 10
+Current Flow Diagram
+Engine control unit, throttle valve module, accelerator
+position sender
+G79 Accelerator position sender
+G185 Accelerator position sender 2
+G186 Throttle valve drive (electric power control)
+G187 Throttle valve drive angle sender 1 for electric throttle
+G188 Throttle valve drive angle sender 2 for electric throttle
+J338 Throttle valve module
+J623 Engine control unit
+T6b 6-pin connector, black, on throttle valve module
+T6o 6-pin connector, black, on accelerator position sender
+T12m 12-pin connector, brown, in luggage compartment, rear right
+T60 60-pin connector, on engine control unit
+T94 94-pin connector, on engine control unit
+B486 Connection 22 in main wiring harness
+* phased-in modification
+J623
+T94/82 T94/35 T94/83 T94/61 T94/11 T94/81 T60/17 T60/16 T60/41 T60/12 T60/24 T60/44
+0,35 0,35 0,35 0,35 0,35 0,35 1,0 1,0 0,35 0,35 0,35 0,35
+ge/gn ws/gr gn/gr gn/ro ws/ro gr/sw bl/sw br/sw ge/bl sw/bl bl/gn ge/sw
+B486
+0,35 0,35 0,35✱ 0,35✱ 0,35✱ 0,35✱
+ge/gn ge/gn ge/br sw br ge/gr
+T12m
+/10
++ -- S1 S2 -- + M-- M+
+T6o/2 T6o/3 T6o/4 T6o/6 T6o/5 T6o/1 T6b/3 T6b/5 T6b/1 T6b/2 T6b/4 T6b/6
+J338 M
+G79 G185 ws = white
+G186 G188 G187 sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+113 114 115 116 117 118 119 120 121 122 123 124 125 126 or = orange
+8J0-043100409
+rs = pink
+Edition 04.2009

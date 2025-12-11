@@ -1,0 +1,33 @@
+CA–57
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+ECM Communication Stop Mode
+DESCRIPTION
+Detection Item Symptom Trouble Area
+• "Engine" and "ECT" are not displayed on
+the "Communication Bus Check" screen
+• Power source circuit of the ECM
+of the intelligent tester
+ECM Communication Stop Mode • ECM main bus wire or connector
+• Applies to "ECM Communication Stop
+• ECM
+Mode" in the "DTC COMBINATION
+TABLE"
+WIRING DIAGRAM
+2AZ-FE:
+: CAN Main Bus Wire (CANH)
+: CAN Main Bus Wire (CANL)
+CA
+: CAN Branch Wire (CANH)
+: CAN Branch Wire (CANL)
+Trouble Area
+DLC3
+Combination Meter
+ECM
+To EFI MAIN Relay
+1
++B2 A24
+2
++B A24
+120 Ω No. 1 CAN J/C No. 2 CAN J/C 120 Ω 104
+E1 A24
+C126217E08

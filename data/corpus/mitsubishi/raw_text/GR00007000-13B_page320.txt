@@ -1,0 +1,44 @@
+13B-320 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 7. Check the sensor supply voltage at ECM
+connector C-58 <M/T> or PCM connector C-55 <A/T> by
+backprobing.
+(1) Do not disconnect the ECM connector C-58 <M/T> or PCM
+connector C-55 <A/T>.
+(2) Disconnect the crankshaft position sensor connector B-20.
+(3) Turn the ignition switch to the "ON" position.
+(4) Measure the voltage between terminal 43 <M/T> or 45 <A/
+<M/T>
+T> and ground by backprobing.
+• Voltage should be between 4.8 and 5.2 volts.
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+41424344 4546 47
+4849505152535455565758 59
+Q:Is the voltage normal?
+6061 626364 6566 67 68
+YES : Go to Step 8.
+C-58 CONNECTOR
+NO : Go to Step 9.
+HARNESS SIDE VIEW
+AAKK000000224488AC
+<A/T>
+41 42 43 444546
+47 48 495051525354555657
+58 59 60616263 646566
+C-55 CONNECTOR
+HARNESS SIDE VIEW
+AAKKXX0011554444AE
+STEP 8. Check connector C-58 at ECM <M/T> or connector
+C-55 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-58<M/T>, C-55<A/T>
+YES : Repair it because of open circuit between crankshaft
+position sensor connector B-20 terminal 2 and ECM
+PCM<A/T> ECM<M/T>
+connector C-58 terminal 43 <M/T> or PCM connector
+C-55 terminal 45 <A/T>. Then go to Step 21.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 21.
+C-55 C-58
+AK000225AI
+TSB Revision

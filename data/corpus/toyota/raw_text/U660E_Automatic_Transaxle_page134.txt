@@ -1,0 +1,43 @@
+AX–134
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Pressure Control Solenoid "D" Electrical (Shift
+DTC P2716
+Solenoid Valve SLT)
+DESCRIPTION
+Refer to DTC P2714 (See page AX-121).
+AX
+DTC No. DTC Detection Condition Trouble Area
+Open or short is detected in shift solenoid valve SLT • Open or short in shift solenoid valve SLT circuit
+P2716 circuit for 1 second or more while driving (1-trip • Shift solenoid valve SLT
+detection logic). • TCM
+MONITOR DESCRIPTION
+When an open or short in the linear solenoid valve (SLT) circuit is detected, the TCM interprets this as a
+fault. The TCM will turn on the MIL and store the DTC.
+MONITOR STRATEGY
+Related DTCs P2716: Shift solenoid valve SLT/Range check
+Required sensors/Components Shift solenoid valve SLT
+Frequency of operation Continuous
+Duration 1 sec.
+MIL operation Immediate
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+ALL:
+The monitor will run whenever this DTC is not present None
+Solenoid current cut status Not cut
+Ignition switch ON
+Starter OFF
+Malfunction (A):
+Battery voltage 10 V to 12 V
+Malfunction (B):
+Battery voltage 10 V or more and less than 12 V
+Target current 0.75 A
+Malfunction (C):
+Battery voltage 8 V or more
+Target current 1 A
+Malfunction (D):
+Battery voltage 11 V or more
+Target current 1 A or more
+Malfunction (E):
+Battery voltage 11 V or more
+Target current 0.1 A or more
+Commanded voltage - Last commanded voltage Less than 0.02 V

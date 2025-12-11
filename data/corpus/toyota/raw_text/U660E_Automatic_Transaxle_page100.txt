@@ -1,0 +1,43 @@
+AX–100
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+1 INSPECT TRANSMISSION WIRE (SL2)
+(a) Remove the TCM from the transaxle.
+(b) Measure the resistance according to the value(s) in the
+SL2+ SL2-
+AX table below.
+Standard resistance
+Specified Condition
+Tester Connection
+20°C (68°F)
+9 (SL2+) - 8 (SL2-) 5.0 to 5.6 Ω
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+Check for short
+Tester Connection Specified Condition
+9 (SL2+) - Body ground 10 kΩ or higher
+8 (SL2-) - Body ground 10 kΩ or higher
+C133212E03
+OK REPLACE TCM
+NG
+2 INSPECT SHIFT SOLENOID SL2
+(a) Remove the shift solenoid valve SL2.
+Shift Solenoid Valve SL2:
+(b) Measure the resistance according to the value(s) in the
+table below.
+1 2 Standard resistance
+Specified Condition
+Tester Connection
+20°C (68°F)
+1 - 2 5.0 to 5.6 Ω
+(c) Connect a positive (+) lead through a 21 W bulb to
+terminal 2 and a negative (-) lead to terminal 1 of the
+solenoid valve connector, then check the movement of
+the valve.
+OK:
+1 2 The solenoid makes an operating sound.
+NG REPLACE SHIFT SOLENOID SL2
+(-) (+)
+G020767E07
+OK
+REPAIR OR REPLACE TRANSMISSION WIRE

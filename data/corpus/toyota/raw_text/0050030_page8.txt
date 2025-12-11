@@ -1,0 +1,47 @@
+ES–170
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(i) Read the CYL #1 to #4 or DTCs displayed on the tester.
+Result
+Misfire Count Proceed To
+Most misfires occur in only 1 or 2 cylinders A
+3 cylinders or more have equal misfire counts B
+HINT:
+• If it is difficult to reproduce misfires for each cylinder, check
+the DATA LIST item called MISFIRE MARGIN. Try to find
+vehicle driving conditions that lower the MISFIRE
+MARGIN value. Values above 30 % are considered
+normal.
+• If the freeze frame data's record of the ECT is below 75°C
+ES
+(167°F), the misfire may be detected only when the engine
+is cold.
+• If the freeze frame data's record of the ENGINE RUN
+TIME is below 120 seconds, the misfire may be detected
+immediately after the engine is started.
+B Go to step 14
+A
+5 PERFORM ACTIVE TEST USING INTELLIGENT TESTER (FUEL CUT #1 TO #4)
+(a) Allow the engine to idle.
+(b) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST / FUEL CUT#1 (to
+#4).
+(c) If a cylinder has a high misfire count, cut fuel to that
+cylinder. Compare the misfire count of the cylinder
+before fuel cut and after fuel cut.
+Result
+Misfire Count in Each Cylinder Proceed To
+Misfire count of cylinder before fuel cut and after fuel cut roughly
+A
+same
+Misfire count of cylinder before fuel cut lower than after fuel cut B
+NOTICE:
+This ACTIVE TEST cannot be performed while the
+vehicle is being driven.
+HINT:
+If the misfire count of the cylinder before and after the
+fuel cut are roughly the same, the cylinder is misfiring.
+If the misfire count of the cylinder before the fuel cut is
+lower than after the fuel cut, the cylinder misfires
+sometimes.
+B Go to step 11
+A

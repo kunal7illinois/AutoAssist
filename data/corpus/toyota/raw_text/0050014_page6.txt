@@ -1,0 +1,26 @@
+ES–78
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK
+7 REPLACE CAMSHAFT TIMING GEAR ASSEMBLY
+NEXT
+8 CHECK WHETHER DTC OUTPUT RECURS
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+ES (c) Clear DTCs (see page ES-35).
+(d) Start the engine and warm it up.
+(e) Switch the ECM from normal mode to check mode using
+the tester.
+(f) Drive the vehicle for more than 10 minutes.
+(g) Read output DTCs using the tester.
+Standard:
+No DTC output.
+HINT:
+DTC P0011 or P0012 is output when foreign objects in
+engine oil are caught in some parts of the system. These
+codes will stay registered even if the system returns to
+normal after a short time. These foreign objects are then
+captured by the oil filter, thus eliminating the source of
+the problem.
+OK SYSTEM OK
+NG
+REPLACE ECM

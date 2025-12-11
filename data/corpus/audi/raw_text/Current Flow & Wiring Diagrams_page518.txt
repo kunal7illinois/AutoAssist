@@ -1,0 +1,76 @@
+Audi TT No. 59 / 5
+Current Flow Diagram
+Selector lever sensors control unit, Selector lever lock
+99
+solenoid
+E313 Selector lever
+6.0
+rt F189 Tiptronic switch
+F319 Selector lever locked in position P switch
+J285 Control unit in dash panel insert
+12 14
+J527 Steering column electronics control unit
+SC12 SC14
+J587 Selector lever sensors control unit
+L101 Selector lever display illumination bulb
+12a 14a
+N110 Selector lever lock solenoid
+4433
+SC12 Fuse 12 on fuse holder C
+SC14 Fuse 14 on fuse holder C
+1.5 T4r 4-pin connector
+br T10p 10-pin connector
+T10r 10-pin connector
+384
+J527 J285 T20c 20-pin connector
+T32 32-pin connector
+T20c T32 Y26 Selector lever position display
+/16 /17
+58s
+44 Earth point, lower part of left A-pillar
+33 2222 2244
+384 Earth connection 19, in main wiring harness
+0.35 0.35 0.5 0.35 * 0.35 * 0.35 0.35
+br rt/ws sw/bl or/sw or/br ge/bl gr
+* Data bus wire (CAN bus)
+T10p T10p T10p T10p
+/
+3
+1
+1
+/
+3
+1
+0
+0 /
+1
+9
+5
+T
+/7
+10p T
+/8
+10p T
+/2
+10p /
+5
+5
+8s
+J587
+E313 F189
+T10r T10r T10r T10r T10r T10r T10r T10r T10r T10p T4r T4r T4r T4r
+/1 /2 /3 /4 /5 /6 /7 /8 /9 /10 /1 /2 /3 /4
+L101
+ws = white
+sw = black
+Y26 N110 F319
+4433 ro = red
+br = brown
+gn = green
+1.5 bl = blue
+br gr = grey
+44 li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-059050410 rs = pink
+04.2010

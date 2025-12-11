@@ -1,0 +1,41 @@
+AX–103
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+INSPECTION PROCEDURE
+1. DATA LIST
+NOTICE:
+In the table below, the values listed under "Normal Condition" are reference values. Do not
+depend solely on these reference values when deciding whether a part is faulty.
+HINT:
+AX
+According to the DATA LIST displayed on the intelligent tester, you can read the value of switches,
+sensors, actuators and other items without removing any parts. Reading the DATA LIST as the first
+step in troubleshooting is one method to save labor time.
+(a) Warm up the engine.
+(b) Turn the ignition switch off.
+(c) Connect the intelligent tester together with the CAN VIM (Controller Area Network Vehicle
+Interface Module) to the DLC3.
+(d) Turn the ignition switch on (IG).
+(e) Turn on the tester.
+(f) Enter the following items: "DIAGNOSIS / ENHANCED OBD / DATA LIST".
+(g) According to the display on the tester, read "DATA LIST".
+Item Measurement Item/ Range (display) Normal Condition
+HINT:
+• Lock-up ON (after warming up the engine); input turbine speed (NC) is
+SPD (NC) Counter Gear Speed/ display: 50 r/min equal to the engine speed.
+• Lock-up OFF (Idling at N position); input turbine speed (NC) is nearly equal
+to the engine speed.
+HINT:
+• SPD (NC) is always 0 while driving: Open or short in the sensor or circuit.
+• SPD (NC) is always more than 0 and less than 300 rpm while driving the vehicle at 31 mph
+(50 km/h) or more: Sensor trouble, improper installation, or intermittent connection trouble of
+the circuit.
+1 INSPECT SPEED SENSOR (SENSOR INSTALLATION)
+(a) Make sure that the connector is properly connected, and
+check the speed sensor installation.
+OK:
+The installation bolts are tightened properly and
+there is no clearance between the sensor and
+transaxle case.
+NG REPAIR OR REPLACE SPEED SENSOR
+C133219
+OK

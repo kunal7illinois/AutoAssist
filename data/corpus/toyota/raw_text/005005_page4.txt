@@ -1,0 +1,43 @@
+ES–27
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+– Air-fuel ratio feedback control is performed.
+(b) Drive Pattern for front A/F sensor and HO2 sensor
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch ON.
+(3) Turn the tester ON.
+(4) Clear DTCs (see page ES-35).
+(5) Start the engine, and warm it up until the ECT
+reaches 75°C (167°F) or higher.
+(6) Drive the vehicle at between 60 km/h (38 mph)
+and 120 km/h (75 mph) for at least 10 minutes.
+(7) Change the transmission to 2nd gear.
+(8) Accelerate the vehicle to 64 km/h (40 mph) or
+more by depressing the accelerator pedal for at
+ES
+least 10 seconds.
+(9) Soon after performing step (8) above, release
+the accelerator pedal for at least 4 seconds without
+depressing the brake pedal, in order to execute fuel-
+cut control.
+(10) Allow the vehicle to decelerate until the vehicle
+speed declines to less than 10 km/h (6 mph).
+(11) Repeat steps from (8) through (10) above at
+least 3 times in one driving cycle.
+(c) Monitor Status
+(1) Check the Readiness Monitor status displayed
+on the tester.
+(2) If the status does not switch to COMPL
+(complete), make sure that the preconditions
+have been met, and then perform steps from (5)
+through (11) in the Drive Pattern above.
+5. AIR-FUEL RATIO (A/F) AND HEATED OXYGEN (HO2)
+SENSOR HEATER MONITORS (FRONT A/F AND
+REAR HO2 SENSOR TYPE)
+Vehicle Speed
+(7)
+40 km/h (25 mph)
+(6)
+Idling
+Ignition Switch OFF
+10 minutes or more 2 minutes or more
+A121604E06

@@ -1,0 +1,27 @@
+AC–83
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+DTC B1443/43 Air Outlet Damper Control Servo Motor Circuit
+DESCRIPTION
+The mode damper servo sends pulse signals to inform the air conditioning amplifier of the damper
+position. The air conditioning amplifier activates the motor (normal, reverse) based on the signals to move
+the air outlet damper to any position, which controls the air outlet switching.
+HINT:
+Confirm that no mechanical problem is present because this diagnostic code can be output when either a
+damper link or damper is mechanically locked.
+DTC No. DTC Detection Condition Trouble Area
+Air outlet damper position sensor value does not • Air outlet control servo motor
+B1443/43 change even if air conditioning amplifier operates air • Air conditioning harness
+outlet control servo motor • A/C amplifier
+WIRING DIAGRAM
+Air Outlet Control
+Air Conditioning Harness
+Servo Motor
+A/C Amplifier
+AC
+4
+e1 BBUS
+3
+e1 BUS
+2
+e1 BUSG
+E116879E11

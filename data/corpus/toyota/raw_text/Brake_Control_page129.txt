@@ -1,0 +1,51 @@
+BC–139
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Symptom Suspected Area See page
+1. Check the DTC again and make sure that the normal
+BC-141
+system code is output.
+2. IG power source circuit BC-207
+3. Check the hydraulic circuit for leakage -
+4. Front speed sensor circuit BC-156
+VSC and/or TRAC does not operate 5. Rear speed sensor circuit BC-164
+6. Yaw rate and acceleration sensor circuit BC-193
+7. Steering angle sensor circuit BC-190
+8. If the symptoms still occur even after the above circuits in
+suspected areas have been inspected and proved to be
+BC-426
+normal, replace the brake actuator assembly (skid control
+ECU).
+1. Check the DTC again and make sure that the normal
+BC-141
+system code is output.
+2. TC and CG terminal circuit BC-266
+VSC sensor DTC check cannot be done
+3. If the symptoms still occur even after the above circuit in
+suspected areas has been inspected and proved to be normal, BC-426
+replace the brake actuator assembly (skid control ECU).
+BC
+1. VSC warning light circuit BC-236
+VSC warning light abnormal (Remains on) (*1)
+2. Brake actuator assembly (Skid control ECU) BC-426
+1. VSC warning light circuit BC-240
+VSC warning light abnormal (Does not come on) (*1)
+2. Brake actuator assembly (Skid control ECU) BC-426
+1. VSC warning light circuit BC-236
+Multi information display abnormal (Remains on) (*2)
+2. Brake actuator assembly (Skid control ECU) BC-426
+Multi information display abnormal (Does not come on) 1. VSC warning light circuit BC-240
+(*2) 2. Brake actuator assembly (Skid control ECU) BC-426
+1. SLIP indicator light circuit BC-255
+SLIP indicator light abnormal (Remains on)
+2. Brake actuator assembly (Skid control ECU) BC-426
+1. SLIP indicator light circuit BC-259
+SLIP indicator light abnormal (Does not come on)
+2. Brake actuator assembly (Skid control ECU) BC-426
+1. TS and CG terminal circuit BC-269
+Sensor check cannot be done
+2. Brake actuator assembly (Skid control ECU) BC-426
+1. Skid control buzzer circuit BC-263
+Skid control buzzer abnormal
+2. Brake actuator assembly (Skid control ECU) BC-426
+(*1): Models without multi information display
+(*2): Models with multi information display

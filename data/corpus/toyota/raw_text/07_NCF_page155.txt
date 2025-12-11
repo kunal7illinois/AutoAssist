@@ -1,0 +1,32 @@
+EG-128 ENGINE - 2GR-FE ENGINE
+Operation
+1) When the Intake Air Control Valve Closes
+While the engine is running at middle speed under high load, the ECM controls the actuator to close the
+control valve. As a result, the effective length of the intake manifold is lengthened and the intake air
+efficiency, in the medium speed range, is improved due to the dynamic effect of the intake air, thereby
+increasing power output.
+Intake Air Control Valve (Close) Control Valve Close
+Open
+Throttle
+Valve
+Close
+Low High
+: Effective Intake Manifold Length
+Engine Speed
+285EG65
+2) When the Intake Air Control Valve Open
+Under any condition except when the engine is running at middle speed under high load, the ECM
+controls the actuator to open the control valve. When the control valve is open, the effective length of
+the intake air chamber is shortened and peak intake efficiency is shifted to the low-to-high engine speed
+range, thus providing greater output at low-to-high engine speeds.
+Control Valve
+Intake Air Control Valve (Open) Open
+Open
+Throttle
+Valve
+Close
+Low High
+: Effective Intake Manifold Length
+Engine Speed
+: Effective Intake Air Chamber Length
+285EG66

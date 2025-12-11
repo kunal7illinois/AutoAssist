@@ -1,0 +1,40 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-169
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Test Harness Set
+STEP 1. Check the sunroof motor assembly power supply
+circuit [fusible link (5)] at the sunroof motor assembly
+connector D-06 by backprobing.
+(1) Do not disconnect the sunroof motor assembly connector
+CONNECTOR: D-06
+D-06 D-06.
+HARNESS SIDE
+4 3 2 1
+10 9 8 7 6 5
+AC106231AD
+(2) Measure the voltage between terminal 1 and ground by
+CONNECTOR D-06
+backprobing.
+(HARNESS SIDE)
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 4.
+NO : Go to Step 2.
+4 3 2 1
+10 9 8 7 6 5
+AC106228AB
+STEP 2. Check the sunroof motor assembly connector D-
+06 for damage.
+Q:Is sunroof motor assembly connector D-06 in good
+CONNECTOR: D-06
+condition?
+D-06
+YES : Go to Step 3.
+1 2 3 4
+NO : Repair or replace the connector. Refer to GROUP
+5 6 7 8 9 10 00E, Harness Connector Inspection P.00E-2. The
+sunroof should work normally.
+AC106231AC
+TSB Revision

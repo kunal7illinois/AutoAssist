@@ -1,0 +1,43 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Green States receive California-certified vehicles for passenger
+cars and light trucks up to 6,000 lbs. GVWR. Starting in the 2004
+MY, Federal vehicle over 8,500 lbs. will start phasing in OBD-II.
+Starting in 2004 MY, gasoline-fueled medium duty passenger ve‐
+hicles are required to have OBD-II. Federal OBD-II applies to all
+gasoline engine vehicles up to 8,500 lbs. GVWR starting in the
+1996 MY and all diesel engine vehicles up to 8,500 lbs. GVWR
+starting in the 1997 MY.
+OBD-II system implementation and operation is described in the
+remainder of this document.
+1.4 Malfunction Indicator Lamp Illumination
+If the engine control module (ECM) recognizes a malfunction that
+leads to increased emission values, it indicates them by illumi‐
+nating the malfunction indicator lamp (MIL) which is located in the
+instrument cluster.
+The ECM switches on the MIL after the ignition is switched on.
+Shortly after the engine is started, the MIL goes out if the ECM
+does not detect a malfunction that increases the emission values.
+If the ECM recognizes a malfunction that leads to increased emis‐
+sions during the operation of the engine, the ECM switches on
+the MIL and an entry is stored in the DTC memory of the ECM.
+1.5 Controller Area Network Data Link
+The engine control module (ECM) communicates with data bus
+capable control modules via a CAN Data Link.
+The data bus capable control modules are connected via data bus
+wires, which are twisted together (CAN high and CAN low), and
+exchange information with the ECM. Missing or implausible in‐
+formation on the data bus is recognized and stored as a malfunc‐
+tion based on specific DTC criteria.
+The malfunction indicator lamp (MIL) is illuminated as a result of
+a CAN message sent by the ECM. The MIL can be turned on,
+turned off, or blink, depending on the message received.
+1.6 Electronic Power Control Warning Lamp
+The engine control module (ECM) monitors electronic power con‐
+trol (EPC) components when the ignition is switched on.
+If a malfunction is recognized in the EPC system, the ECM
+switches on the EPC warning lamp, which is located in the in‐
+strument cluster, and an entry is stored in the DTC memory of the
+ECM.
+4
+Rep. Gr.ST - Generic Scan Tool

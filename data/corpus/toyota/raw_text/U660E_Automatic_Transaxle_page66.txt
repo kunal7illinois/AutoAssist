@@ -1,0 +1,36 @@
+AX–66
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Transmission Fluid Temperature Sensor "A"
+DTC P0711
+Performance
+DESCRIPTION
+The ATF (Automatic Transmission Fluid) temperature sensor converts the fluid temperature into a
+AX
+resistance value for use by the TCM.
+Resistance
+Acceptabele range
+Temperature
+G031389E15
+The TCM applies a voltage to the temperature sensor through terminal OIL of the TCM.
+The sensor resistance changes with the transmission fluid temperature. As the temperature becomes
+higher, the sensor resistance decreases.
+One terminal of the sensor is grounded so that the sensor resistance decreases and the voltage goes
+down as the temperature becomes higher.
+The TCM calculates the fluid temperature based on the voltage signal.
+DTC No. DTC Detection Condition Trouble Area
+Both (a) and (b) are detected: (2-trip detection logic)
+(a) Intake air and engine coolant temps. are more
+than -10°C (14°F) at engine start.
+P0711 Transmission wire (ATF temperature sensor)
+(b) After normal driving for over 16 min. and 40 sec.
+and 5 mile (8 km) or more, ATF temp. is less than
+20°C (68°F)
+MONITOR DESCRIPTION
+This DTC indicates that there is a problem with output signals from the automatic transmission fluid (ATF)
+temperature sensor (TFT sensor) and that the sensor itself is defective. The ATF temperature sensor
+converts the ATF temperature into an electrical resistance value. Based on the resistance, the TCM
+determines the ATF temperature and detects an open or short in the ATF temperature circuit or a fault of
+the ATF temperature sensor.
+After running the vehicle for a certain period, the ATF temperature should increase. If the ATF
+temperature is below 20°C (68°F) after running the vehicle for a certain period, the TCM interprets this as
+a fault, and turns on the MIL.

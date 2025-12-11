@@ -1,0 +1,35 @@
+13B-590 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+INSPECTION PROCEDURE 22: Too high CO and HC concentration when idling
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+• Abnormal air/fuel ratio is suspected. causes for this case:)
+• Malfunction of air/fuel ratio control system.
+• Deteriorated catalyst.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC is output?
+MB991502 YES : Refer to, Diagnostic Trouble Code Chart P.13B-22.
+AKX01177AB NO : Go to Step 2.
+STEP 2. Check the ignition timing.
+Refer to GROUP 11C, On-vehicle Service − Ignition Timing
+Check P.11C-5.
+Q:Is the ignition timing normal?
+YES : Go to Step 3.
+NO : Check that the crankshaft position sensor and timing
+belt cover are in the correct position. Then confirm
+that the malfunction symptom is eliminated.
+TSB Revision

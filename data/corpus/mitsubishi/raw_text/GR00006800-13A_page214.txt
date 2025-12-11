@@ -1,0 +1,47 @@
+13A-214 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Check connector C-60 at ECM <M/T> or connector
+C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-60<M/T>,C-54<A/T>
+YES : Check connector C-28 and C-90 at intermediate
+connector for damage, and repair or replace as
+ECM<M/T>
+required. Refer to GROUP 00E, Harness Connector
+OR
+PCM<A/T> Inspection P.00E-2. If intermediate connector are in
+good condition, repair harness wire between fuel
+temperature sensor connector D-17 terminal 3 and
+ECM connector C-60 terminal 77 <M/T> or PCM
+C-54 C-60 connector C-54 terminal 51 <A/T> because of open
+circuit. Then go to Step 11.
+AK000280BB
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 11.
+STEP 7. Check connector C-60 at ECM <M/T> or connector
+C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-60<M/T>,C-54<A/T>
+YES : Replace the ECM or PCM. Then go to Step 11.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 11.
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+STEP 8. Check the continuity at fuel temperature sensor
+harness side connector D-17.
+(1) Disconnect the connector D-17 and measure at the harness
+D-17 HARNESS side.
+SIDE CONNECTOR
+(2) Check for the continuity between terminal 1 and ground.
+33 22 11 • Should be less than 2 ohm.
+55 44
+Q:Is the continuity normal?
+YES : Go to Step 9.
+NO : Repair harness wire between fuel temperature sensor
+connector D-17 terminal 1 and ground because of
+open circuit or harness damage. Then go to Step 11.
+AK101375AB
+TSB Revision

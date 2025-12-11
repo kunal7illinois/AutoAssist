@@ -1,0 +1,42 @@
+ES–57
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• When the COMPRESS CHECK test is OFF and the
+engine is cranked, the engine will start.
+• If the COMPRESS CHECK test needs to be
+performed after it is turned ON and performed once,
+press EXIT to return to the ACTIVE TEST menu
+screen. Then perform the COMPRESS CHECK test
+again.
+• Use a fully-charged battery.
+3. SYSTEM CHECK
+HINT:
+Performing a SYSTEM CHECK enables the system,
+which consists of multiple actuators, to be operated
+without removing any parts. In addition, it can show
+ES
+whether or not any DTCs are set, and can detect
+potential malfunctions in the system. The SYSTEM
+CHECK can be performed with the intelligent tester.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / SYSTEM CHECK.
+(e) Perform the SYSTEM CHECK by referring to the
+table below.
+ECM:
+Recommended Fuel
+Intelligent Tester Display Test Detail Diagnostic Note
+Temperature
+• If no DTCs in PENDING
+Perform 5 steps in order to CODE after performing this
+EVAP SYS CHECK
+operate EVAP key-off monitor 35°C (95°F) or less test, system functioning
+(AUTO OPERATION)
+automatically normally
+• Refer to EVAP system
+Perform 5 steps in order to • Used to detect malfunctioning
+EVAP SYS CHECK
+operate EVAP key-off monitor 35°C (95°F) or less parts
+(MANUAL OPERATION)
+manually • Refer to EVAP system

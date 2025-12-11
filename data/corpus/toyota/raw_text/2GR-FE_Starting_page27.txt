@@ -1,0 +1,49 @@
+ST–27
+2GR-FE STARTING – SMART KEY SYSTEM
+HINT:
+Connect the cable of the intelligent tester to the DLC3,
+turn the engine switch on (IG) and attempt to use the
+tester. If the display indicates that a communication error
+has occurred, there is a problem either with the vehicle
+or with the tester.
+• If communication is normal when the tester is
+connected to another vehicle, inspect the DLC3 of the
+original vehicle.
+• If communication is still not possible when the tester
+is connected to another vehicle, the problem may be
+in the tester itself. Consult the Service Department
+CAN VIM
+listed in the tester's instruction manual.
+DLC3
+3. INSPECT BATTERY VOLTAGE
+Intelligent Tester
+Standard voltage:
+C131977E12
+11 to 14 V
+If the voltage is below 11 V, recharge or replace the
+battery before proceeding.
+DTC CHECK / CLEAR
+1. CHECK DTC
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the engine switch on (IG).
+(c) Enter the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT
+CODES.
+(d) Read the DTC by following the prompts on the
+tester screen.
+HINT:
+Refer to the intelligent tester operator's manual for
+CAN VIM
+further details.
+DLC3 2. CLEAR DTC
+Intelligent Tester
+(a) Connect the intelligent tester to the DLC3.
+C131977E12 (b) Turn the engine switch on (IG).
+(c) Enter the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CLEAR CODES.
+(d) Erase the DTC by following the directions on the
+tester screen.
+HINT:
+Refer to the intelligent tester operator's manual for further
+details.
+ST

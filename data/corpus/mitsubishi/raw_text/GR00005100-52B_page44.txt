@@ -1,0 +1,23 @@
+52B-44 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+STEP 3. Check for DTC.
+Q:Is DTC 34 output?
+YES : There is no action to be taken.
+NO : This diagnosis is complete. (If no malfunctions are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to GROUP 00, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+DTC 35: SRS-ECU Air Bag Condition Monitor Detects Deployed Air Bag.
+DTC SET CONDITIONS TROUBLESHOOTING HINTS
+• This DTC is set after the air bag has deployed. If • Malfunction of the SRS-ECU
+this code is output before the air bag has
+deployed, the cause is probably a malfunction
+inside the SRS-ECU.
+.
+DIAGNOSIS
+Replace the SRS-ECU. (Refer to P.52B-142.)
+Q:Is DTC 35 output?
+YES : There is no action to be taken.
+NO : This diagnosis is complete.
+TSB Revision

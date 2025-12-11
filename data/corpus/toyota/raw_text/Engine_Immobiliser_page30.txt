@@ -1,0 +1,36 @@
+EI–30
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+DIAGNOSTIC TROUBLE CODE CHART
+Certification ECU Diagnostic Trouble Code Chart:
+DTC No. Detection Item Trouble Area See page
+B2784 Antenna Coil Open / Short 1. Wire harness EI-27
+2. Engine switch
+3. Certification ECU
+B2785 Communication Malfunction 1. Wire harness EI-29
+between ECUs Connected by LIN 2. Certification ECU
+3. Main body ECU
+4. Steering lock ECU
+5. ID code box
+B2786 No Response from Steering Lock 1. Wire harness EI-32
+ECU 2. Certification ECU
+3. Steering lock ECU
+B2789 No Response from ID BOX 1. Wire harness EI-34
+2. Certification ECU
+3. ID code box
+B278A Short to GND in Immobiliser 1. Wire harness EI-36
+System Power Source Circuit 2. Engine switch
+3. Certification ECU
+B2790 ID BOX EEPROM Malfunction ID code box EI-39
+B2791 Communication Condition Failure 1. Wire harness EI-40
+between ECM 2. ID code box
+3. ECM
+ECM Diagnostic Trouble Code Chart:
+DTC No. Detection Item Trouble Area See page
+B2799 Engine Immobiliser System 1. Wire harness EI-42
+2. ECM
+3. ID code box
+HINT:
+The DTCs for the engine immobiliser system are specified
+above. If other codes are output, check the DTC chart for the
+SFI system.
+EI

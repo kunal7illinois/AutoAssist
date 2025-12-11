@@ -1,0 +1,32 @@
+AC–69
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+DTC B1423/23 Pressure Sensor Circuit
+DESCRIPTION
+This DTC is output when refrigerant pressure is extremely low (0.19 MPa (2.0 kgf/cm2, 28 psi) or less) or
+extremely high (3.14 MPa (32.0 kgf/cm2, 455 psi) or more). The pressure sensor, which is installed on the
+pipe of the high pressure side to detect refrigerant pressure, outputs a refrigerant pressure signal to the A/
+C amplifier. The A/C amplifier converts this signal to pressure according to the sensor characteristics to
+control the compressor.
+HINT:
+Be sure to check the refrigerant volume first when this DTC is output because this DTC can also be output
+if there is no refrigerant in the system.
+DTC No. DTC Detection Condition Trouble Area
+• Pressure sensor
+• Harness or connector between pressure sensor
+B1423/23 Open or short in pressure switch circuit and A/C amplifier
+• Refrigerant pipe line
+• A/C amplifier
+WIRING DIAGRAM
+A27
+A/C Pressure Sensor A/C Amplifier
+AC
+9
+2
+PR E38 PRE
+13
+1
+- E38 SG-2
+10
+3
++ E38 S5-3
+E116878E04

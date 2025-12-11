@@ -1,0 +1,11 @@
+BODY ELECTRICAL - AIR CONDITIONING BE-61
+3. Self-Diagnosis
+(cid:1) The A/C ECU has a self-diagnosis function. It stores any operation failures in the air conditioning system
+memory in the form of DTC (Diagnostic Trouble Code).
+(cid:1) There are two methods for reading DTC. One is to use a hand-held tester, and the other is to read DTC
+indicated on the heater control panel display (Only for models with automatic air conditioning).
+(cid:1) For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).
+Service Tip
+The A/C ECU uses the CAN protocol for diagnostic communication. Therefore, a hand-held tester
+and a dedicated adapter [CAN VIM (Vehicle Interface Module)] are required for accessing diagnostic
+data. For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).

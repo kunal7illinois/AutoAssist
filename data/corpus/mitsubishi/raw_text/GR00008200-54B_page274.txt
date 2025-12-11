@@ -1,0 +1,25 @@
+54B-274 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE J-3: Headlight, Tail Light: Headlights (High-beam) do not Illuminate
+Normally.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+Headlight Relay (Hi-beam) Circuit
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the headlights (high beam) do not illuminate nor-
+When the dimmer switch is turned on, the column
+mally, the column switch or the front-ECU may be
+switch sends a signal to the front-ECU.Then the
+defective.
+front-ECU switches the headlights from low-beam to
+high beam or vice versa.
+.
+TROUBLESHOOTING HINTS
+. • Malfunction of column switch (turn-signal light
+and lighting switch)
+• Malfunction of the front-ECU
+• Damaged harness wires or connectors
+TSB Revision

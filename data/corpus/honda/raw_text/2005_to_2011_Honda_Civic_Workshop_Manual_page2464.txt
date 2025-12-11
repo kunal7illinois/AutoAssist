@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (R18A1) - Civic (All Except Hybrid)
+10. Select EVAP CVS ON in the INSPECTION MENU with the HDS.
+11. Check the EVAP canister vent shut valve (A) operation.
+Fig. 23: Checking EVAP Canister Vent Shut Valve Operation
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Does the valve operate?
+YES - Check the routing of the EVAP canister vent tube, then go to step 18.
+NO - Go to step 12.
+12. Turn the ignition switch OFF.
+13. Replace the EVAP canister vent shut valve (see EVAP CANISTER VENT
+SHUT VALVE REPLACEMENT ).
+14. Turn the ignition switch ON (II).
+15. Reset the ECM/PCM with the HDS.
+16. Do the ECM/PCM idle learn procedure (see ECM/PCM IDLE LEARN
+PROCEDURE ).
+17. Do the EVAP FUNCTION TEST in the INSPECTION MENU with the HDS.
+Is the result OK?
+YES - Troubleshooting is complete.
+NO - Check for poor connections or loose terminals at the FTP sensor, the
+EVAP canister vent shut valve, and the ECM/PCM, then go to step 1.

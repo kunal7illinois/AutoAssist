@@ -1,0 +1,39 @@
+BC–356
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC C1237/37 Tires of Different Size
+DESCRIPTION
+The skid control ECU measures the speed of each wheel by receiving signals from the speed sensor.
+These signals are used for recognizing that all 4 wheels are operating properly.
+Therefore, all wheel signals must be equal.
+DTC No. DTC Detecting Condition Trouble Area
+• Brake actuator assembly (skid control ECU)
+• Speed sensor rotor (Front)
+When any of the following is detected:
+• Rear axle hub and bearing assembly
+• Wheel speed difference between the wheels.
+C1237/37 • Speed sensor
+• Wheel sensor signal failure.
+• Speed sensor circuit
+• ABS control continues for 60 sec. or more.
+• Tire and wheel size
+• Tire deformation
+WIRING DIAGRAM
+BC
+Brake Actuator Assembly (Skid
+Control ECU with Actuator)
+5
+A60 FL+
+1
+A14
+Front Speed Sensor LH
+6
+2
+A60 FL-
+10
+A60 FR+
+1
+A35
+Front Speed Sensor RH 9
+2
+A60 FR-
+C122979E02

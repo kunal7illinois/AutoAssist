@@ -1,0 +1,46 @@
+ES–181
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+1. Active Air-Fuel Ratio Control
+The ECM usually performs air-fuel ratio feedback control so that the Air-Fuel Ratio (A/F) sensor
+output indicates a near stoichiometric air-fuel level. This vehicle includes active air-fuel ratio control in
+addition to regular air-fuel ratio control. The ECM performs active air-fuel ratio control to detect any
+deterioration in the Three-Way Catalytic Converter (TWC) and Heated Oxygen (HO2) sensor
+malfunctions (refer to the diagram below).
+Active air-fuel ratio control is performed for approximately 15 to 20 seconds while driving with a warm
+engine. During active air-fuel ratio control, the air-fuel ratio is forcibly regulated to become lean or rich
+by the ECM. If the ECM detects a malfunction, one of the following DTCs is set: DTC P0136 or
+P0156 (abnormal voltage output), P0137 or P0157 (open circuit) or P0138 or P0158 (short circuit).
+2. Abnormal Voltage Output of HO2 Sensor (DTCs P0136 and P0156)
+While the ECM is performing active air-fuel ratio control, the air-fuel ratio is forcibly regulated to
+become rich or lean. If the sensor is not functioning properly, the voltage output variation is small. For
+example, when the HO2 sensor voltage does not decrease to less than 0.21 V and does not increase ES
+to more than 0.59 V during active air-fuel ratio control, the ECM determines that the sensor voltage
+output is abnormal and sets DTCs P0136 and P0156.
+HO2 SENSOR CIRCUIT MALFUNCTION (P0136 and P0156: ABNORMAL VOLTAGE):
+15 to 20 seconds
+Operation
+Active air-fuel
+ratio control Off
+Normal
+0.59 V
+HO2 sensor
+voltage
+Abnormal
+0.21 V
+A076837E10
+3. Open or Short in Heated Oxygen (HO2) Sensor Circuit (DTCs P0137 and P0157 or P0138 and
+P0158)
+During active air-fuel ratio control, the ECM calculates the Oxygen Storage Capacity (OSC)* of the
+Three- Way Catalytic Converter (TWC) by forcibly regulating the air-fuel ratio to become rich or lean.
+If the HO2 sensor has an open or short circuit, or the voltage output of the sensor noticeably
+decreases, the OSC indicates an extraordinarily high value. Even if the ECM attempts to continue
+regulating the air-fuel ratio to become rich or lean, the HO2 sensor output does not change.
+While performing active air-fuel ratio control, when the target air-fuel ratio is rich and the HO2 sensor
+voltage output is 0.21 V or less (lean), the ECM interprets this as an abnormally low sensor output
+voltage and sets DTC P0137 or P0157. When the target air-fuel ratio is lean and the voltage output is
+0.59 V or more (rich) during active air-fuel ratio control, the ECM determines that the sensor voltage
+output is abnormally high, and sets DTC P0138 or P0158.
+HINT:
+DTC P0138 or P0158 is also set if the HO2 sensor voltage output is more than 1.2 V for 30 seconds
+or more.

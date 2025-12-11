@@ -1,0 +1,25 @@
+BC–215
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC C1246/46 Master Cylinder Pressure Sensor Malfunction
+Master Cylinder Pressure Sensor Output Mal-
+DTC C1281/81
+function (Test Mode DTC)
+DESCRIPTION
+Master cylinder pressure sensor is connected to the skid control ECU in the brake actuator assembly.
+DTC C1281/81 can be deleted when the master cylinder pressure sensor sends a master cylinder
+pressure signal or the Test Mode ends. DTC C1281/81 is output only in the Test Mode.
+Brake Actuator Assembly
+Skid Control ECU
+BC
+From Battery
+IG1 VCM
+Master Cylinder
+Pressure Sensor
+From Stop Light
+STP PMC
+Switch
+To Body Ground GND E2
+VCM: Power Supply for Master Cylinder Pressure Sensor
+PMC: Master Cylinder Pressure Sensor Input
+E2: Master Cylinder Pressure Sensor Ground
+C106656E05

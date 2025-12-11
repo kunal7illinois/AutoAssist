@@ -1,0 +1,42 @@
+DL–192
+DOOR LOCK – SMART KEY SYSTEM
+2 CHECK AND REPLACE ELECTRICAL KEY OSCILLATOR
+(a) Replace the electrical key oscillator.
+(b) Check that the entry LOCK/UNLOCK function operates
+normally.
+OK:
+Entry LOCK/UNLOCK function operates normally.
+OK END (ELECTRICAL KEY OSCILLATOR IS
+DEFECTIVE)
+NG
+3 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (CERTIFICATION ECU OUTPUT
+SIGNAL)
+(a) Reconnect the oscillator and the ECU connectors.
+Certification ECU:
+(b) Connect the intelligent tester to the DLC3.
+(c) Turn the engine switch on (IG).
+(d) Following the display on the tester, select the "ACTIVE
+TEST".
+SMART ACCESS (Certification ECU):
+E58 Item Vehicle Condition/Test Details
+Fr TRANSMITTER Electrical key oscillator (console) ON/OFF
+Rr TRANSMITTER Electrical key oscillator (rear seat) ON/OFF
+(e) Measure the frequency according to the value(s) in the
+CLG5
+table below.
+CG6B CG5B
+CLG6 Standard
+Tester Connection
+Condition Specified Condition
+(Symbols)
+B137963E05
+E58-12 (CG5B) - E58-11 Frequency is generated
+During ACTIVE TEST
+(CLG5) (higher than 0 Hz)
+E58-14 (CG6B) - E58-13 Frequency is generated
+During ACTIVE TEST
+(CLG6) (higher than 0 Hz)
+NG REPLACE CERTIFICATION ECU
+OK
+DL
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

@@ -1,0 +1,35 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EGR System (R18A1) - Civic (All Except Hybrid)
+Is the EGR pipe OK?
+YES - Go to step 2.
+NO - Reconnect or replace the EGR pipe, then go to step 7.
+2. Start the engine. Hold the engine speed at 3,000 rpm without load (in Park or
+neutral) until the radiator fan comes on, then let it idle.
+3. Test-drive under these conditions:
+Engine coolant temperature (ECT SENSOR 1) above 158°F (70°C)
+(cid:1)
+A/T in D position (M/T in 4th gear)
+(cid:1)
+Vehicle speed at 25 mph (40 km/h) for 5 minutes or more
+(cid:1)
+Maintain the vehicle speed at 32 mph (50 km/h) for 5 minutes or more
+(cid:1)
+with cruise control set
+4. Monitor the OBD STATUS for DTC P0400 in the DTCs MENU with the
+HDS.
+Does the screen indicate FAILED?
+YES - Go to step 5.
+NO - If the screen indicates PASSED, intermittent failure, the system is OK at
+this time. Check for poor connections or loose terminals at the EGR valve and
+the ECM/PCM. If the screen indicates NOT COMPLETED, go to step 3 and
+recheck.
+5. Turn the ignition switch OFF.
+6. Replace the EGR valve (see EGR VALVE REPLACEMENT ).
+7. Turn the ignition switch ON (II).
+8. Reset the ECM/PCM with the HDS.
+9. Do the ECM/PCM idle learn procedure (see ECM/PCM IDLE LEARN
+PROCEDURE ).
+10. Test-drive under these conditions:
+Engine coolant temperature (ECT SENSOR 1) above 158°F (70°C)
+(cid:1)

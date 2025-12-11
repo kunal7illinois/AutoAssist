@@ -1,0 +1,35 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 ACCESSORIES & EQUIPMENT Keyless/Power Door Locks/Security System - Civic (All Except Hybrid)
+YES - Substitute a known-good MICU and recheck. If the symptom goes
+away, replace the original MICU.
+NO - Repair an open in the wire between the MICU and the door switch. If the
+wire is OK, faulty the door switch, replace the door lock actuator assembly.
+TRIPPED SENSOR HISTORY
+The security system stores information on the last tripped sensor if the security
+system has been violated. The information can be retrieved using the HDS.
+To retrieve the last tripped sensor data:
+1. Select HISTORY DATA from the security system test mode menu.
+2. Select CURRENT DATA.
+3. Confirm that the VIN matches the Vehicle then press the enter button.
+4. Scroll through the data ist.
+Sensors that were violated will indicate DETECT.
+(cid:1)
+Sensors the were not violated will indicated NONE.
+(cid:1)
+5. Inspect the DETECT circuit for:
+Misadjusted or damaged switch.
+(cid:1)
+Loose or corroded connections.
+(cid:1)
+Intermittent short to ground.
+(cid:1)
+MICU INPUT TEST
+1. Before troubleshooting the keyless/poor door locks/security system,
+troubleshoot the B-CAN System Diagnosis Test Mode A (see
+TROUBLESHOOTING - B-CAN SYSTEM DIAGNOSIS TEST MODE
+A ).
+2. Check the No. 10 (7.5 A) and No. 25 (20 A) fuses in the under-dash fuse/relay
+box. If any fuse is blown, replace it and go to step 3.
+3. Disconnect the under-dash fuse/relay box connectors E, F, G, M, N, Q, R, and
+T.

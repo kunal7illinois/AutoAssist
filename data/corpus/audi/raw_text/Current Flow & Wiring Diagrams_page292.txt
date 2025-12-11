@@ -1,0 +1,56 @@
+Audi TT No. 36 / 2
+Current Flow Diagram
+Tyre pressure monitor control unit, tyre pressure monitor
+warning lamp, fuses
+J285 Control unit in dash panel insert
+J502 Tyre pressure monitor control unit
+J533 Data bus diagnostic interface
+K220 Tyre pressure monitor warning lamp
+SC12 Fuse 12 on fuse holder C
+SC17 Fuse 17 on fuse holder C
+SD3 Fuse 3 on fuse holder D
+T20d 20-pin connector, black, on data bus diagnostic interface
+B299 T20h 20-pin connector, red, on tyre pressure monitor control unit 2
+T32 32-pin connector, blue, on control unit in dash panel insert
+10,0 16,0 B299 Positive connection 3 (30), in main wiring harness
+ro ro
+B300 E1 B300 Positive connection 4 (30), in main wiring harness
+SD3
+6,0
+ro 110A Connection 1 (convenience CAN bus, high), in main wiring
+✱ B397
+harness
+12 17 J502 B398 Connection 2 (convenience CAN bus, high), in main wiring
+SC12 SC17 harness
+10A 5A
+12a 17a T 30 20h/3 T20h/5 T20h/6 B406 C ha o r n n n e e s c s tion 1 (convenience CAN bus, low), in main wiring
+Connection 2 (convenience CAN bus, low), in main wiring
+• • B407
+0,5 0,35 0,35 harness
+ro/gr or/gn or/br
+• CAN bus (data wire)
+* main fuse box, in luggage compartment, rear right, on the battery
+B398 B407
+• •
+0,35 0,35
+or/gn or/br
+K220 J285
+B397 B406
+T32/29 T32/30
+• • • •
+0,35 0,35 0,35 0,35
+or/bl or/br or/gn or/br ws = white
+sw = black
+ro = red
+T20d/18 T20d/8
+J533
+T20d/15 T20d/5 br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-036020409
+rs = pink
+Edition 04.2009

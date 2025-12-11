@@ -1,0 +1,32 @@
+CA–59
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+1 CHECK CAN BUS LINE FOR DISCONNECTION (ECU MAIN BUS LINE)
+(a) Reconnect the CAN main bus line connector (A40) to
+ECM Connector (Front View):
+the No. 2 CAN J/C (front side of the vehicle).
+(b) Disconnect the ECM connector.
+A24 *1 (c) Measure the resistance according to the value(s) in the
+A55 *2 table below.
+CANH
+Standard resistance:
+2AZ-FE
+*1: 2AZ-FE Tester Connection Condition Specified Value
+CANL
+*2: 2GR-FE A24-38 (CANH) - A24-46
+Ignition switch off 108 to 132 Ω
+G100098E13 (CANL)
+2GR-FE
+Tester Connection Condition Specified Value
+A55-38 (CANH) - A55-46
+Ignition switch off 108 to 132 Ω
+(CANL)
+NG REPAIR OR REPLACE CAN MAIN WIRE OR CA
+CONNECTOR
+OK
+2 CHECK ECM POWER SOURCE CIRCUIT
+(a) Check the ECM power source circuit (2AZ-FE: See page
+ES-380 or 2GR-FE: See page ES-432)
+NG REPAIR OR REPLACE ECM POWER
+SOURCE CIRCUIT
+OK
+REPLACE ECM

@@ -1,0 +1,63 @@
+CA–30
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+(k) CENTER AIRBAG SENSOR
+HINT:
+Although the center airbag sensor is connected to
+the CAN communication system, CAN
+communication DTCs are not output.
+(l) CERTIFICATION ECU
+HINT:
+Although the Main Body ECU is connected to the
+CAN communication system, CAN communication
+DTCs are not output.
+4. DTC COMBINATION TABLE
+(a) with VSC SYSTEM
+DTC Trouble Mode
+Output from Output DTC Steering Angle
+Skid Control ECU Yaw Rate Sensor
+ECM Communication Sensor
+Communication Stop Communication Stop
+Stop Mode Communication Stop
+Mode Mode
+Mode
+U0073 X X X X
+U0100 During driving During driving X X
+CA Skid Control ECU U0123 X (cid:123) X (cid:123)
+U0124* X (cid:123) X (cid:123)
+U0126 X (cid:123) (cid:123) X
+Combination Meter U0100 (cid:123) X X X
+ECU U0129 X (cid:123) X X
+Air Conditioner
+B1499 X X X X
+Amplifier ECU
+No DTC X X X X
+*: TMC made only.
+HINT:
+• (cid:123): Set
+• X: Not set or may be set according to the
+malfunctioning part when one side of the CAN
+bus wire opens
+• : Set under the condition shown in the table
+above
+DTC Trouble Mode
+Output from Output DTC Air Conditioner Center Airbag
+Main Body ECU Combination Meter
+Amplifier ECU Sensor
+Communication Stop ECU Communication
+Communication Stop Communication Stop
+Mode Stop Mode
+Mode Mode
+U0073 X X X X
+U0100 X X X X
+Skid Control ECU U0123 X X X X
+U0124* X X X X
+U0126 X X X X
+Combination Meter U0100 X X X X
+ECU U0129 X X X X
+Air Conditioner
+B1499 X X
+Amplifier ECU
+No DTC (cid:123) (cid:123) X X
+*: TMC made only.
+HINT:
+• (cid:123): Set

@@ -1,0 +1,53 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-475
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Using scan tool MB991502, check actuator test.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items in the actuator test. Refer to,
+Actuator Test Reference Table P.13A-553.
+a. Item 10: EGR Solenoid.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the actuator operating properly?
+YES : Go to Step 5.
+16 PIN
+NO : Repair or replace. Then confirm that the malfunction
+MB991502 symptom is eliminated.
+AKX01177AB
+STEP 5. Using scan tool MB991502, check data list item 45:
+Idle Air Control Position.
+(1) Start the engine and run at idle.
+(2) Set scan tool MB991502 to the data reading mode for item
+45, Idle Air Control Position.
+a. The idle air control motor should drop to the 0 − 2 posi-
+tion during deceleration (from 1,000 r/min or more).
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the actuator operation properly?
+16 PIN
+YES : Check the following items, and repair, replace or
+MB991502 clean the defective sections.
+AKX01177AB
+a. Check the ignition coil, spark plugs, spark plug
+cables.
+b. Check the throttle valve area.
+Then confirm that the malfunction symptom is
+eliminated.
+NO : Refer to, DTC P0500 − Vehicle Speed Sensor <M/
+T>P.13A-381 or refer to GROUP 23A, Automatic
+Transaxle Diagnosis − Diagnostic Trouble Code
+Procedures − DTC 23 Output Shaft Speed Sensor
+System <A/T>P.23A-115 .
+INSPECTION PROCEDURE 15: Hesitation, sag or stumble.
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+• In cases such as the above, the ignition system, causes for this case: )
+• Malfunction of the ignition system.
+air/fuel mixture or compression pressure may be
+• Malfunction of air/fuel ratio control system.
+defective.
+• Malfunction of the fuel supply system.
+• Malfunction of the EGR solenoid system.
+.
+• Poor compression pressure.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

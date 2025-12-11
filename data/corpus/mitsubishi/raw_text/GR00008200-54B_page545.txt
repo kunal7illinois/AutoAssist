@@ -1,0 +1,46 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-545
+SYMPTOM PROCEDURES
+STEP 8. Check the front passenger’s door lock key
+cylinder switch.
+Disconnect front passenger’s door lock key cylinder switch con-
+nector E-06. Then check continuity between the switch termi-
+CONNECTOR: E-06
+FRONT DOOR (RH) nals.
+SWITCH TESTER SPECIFIED
+POSITION CONNECTION CONDITION
+LOCK 1 − 2 Less than 2 ohm
+Neutral (OFF) 1 − 2 - 3 Open circuit
+UNLOCK 2 − 3 Less than 2 ohm
+Q:Is the front passenger’s door lock key cylinder switch in
+good condition?
+YES : Go to Step 9.
+NO : Replace the front passenger’s door lock key cylinder
+switch. If the systems, which are described in
+"CIRCUIT OPERATION", work normally, the input
+signal from the front passenger’s door lock key
+cylinder switch should be normal.
+1 2 3
+AC106488AE
+STEP 9. Measure at front passenger’s door lock key
+cylinder switch connector E-06 in order to check the
+ground circuit to the front passenger’s door lock key
+cylinder switch.
+(1) Disconnect front passenger’s door lock key cylinder switch
+CONNECTOR: E-06 connector E-06, and measure at the harness side.
+FRONT DOOR (RH)
+DEVICE SIDE
+E-06
+1 2 3
+AC106487AE
+(2) Measure the resistance value between terminal 2 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR E-06
+Q:Does the measured resistance value correspond with
+(HARNESS SIDE)
+this range?
+YES : Go to Step 12.
+3 2 1
+NO : Go to Step 10.
+AC002175AC
+TSB Revision

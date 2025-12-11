@@ -1,0 +1,88 @@
+AX–48
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Measurement Item/
+Item Normal Condition Diagnostic Note
+Range (display)
+When the shift lever position
+displayed on the intelligent tester
+differs from the actual position,
+Shift lever position is; adjustment of the PNP switch or
+PNP switch status/
+PNP SW [NSW] P and N: ON the shift cable may be incorrect.
+AX ON or OFF
+Except P and N: OFF HINT:
+When the failure still occurs even
+after adjusting these parts, see
+page AX-165.
+• Brake pedal is depressed:
+Stop light switch status/
+STOP LIGHT SW ON -
+ON or OFF
+• Brake pedal is released: OFF
+Battery voltage:
+BATTERY VOLTAGE 9 to 14 V: Idling -
+Min.: 0, Max.: 65.535 V
+TC and TE1 terminals of DLC3:
+TC/TE1 - Active Test support data
+ON or OFF
+FC IDL= "ON" when throttle valve
+Fuel cut idle:
+FC IDL ON: Fuel cut operating fully closed and engine speed
+ON or OFF
+over 2,800 rpm
+Fuel cut being performed under
+Fuel cut TAU (Fuel cut during very light load to prevent engine
+FC TAU ON: Fuel cut operating
+very light load): combustion from becoming
+incomplete
+Shift lever position is;
+• D: 1st, 2nd, 3rd, 4th, 5th or
+ECM gear shift command/
+SHIFT 6th -
+1st, 2nd, 3rd, 4th, 5th or 6th
+• S: 1st, 2nd, 3rd, 4th, 5th or
+6th
+When the shift lever position
+displayed on the intelligent tester
+differs from the actual position,
+Shift lever position is; adjustment of the PNP switch or
+PNP switch status/
+REVERSE R: ON the shift cable may be incorrect.
+ON or OFF
+Except R: OFF HINT:
+When the failure still occurs even
+after adjusting these parts, see
+page AX-158
+When the shift lever position
+displayed on the intelligent tester
+differs from the actual position,
+Shift lever position is; adjustment of the PNP switch or
+PNP switch status/
+PARKING P: ON the shift cable may be incorrect.
+ON or OFF
+Except P: OFF HINT:
+When the failure still occurs even
+after adjusting these parts, see
+page AX-158
+When the shift lever position
+displayed on the intelligent tester
+differs from the actual position,
+Shift lever position is; adjustment of the PNP switch or
+PNP switch status/
+NEUTRAL N: ON the shift cable may be incorrect.
+ON or OFF
+Except N: OFF HINT:
+When the failure still occurs even
+after adjusting these parts, see
+page AX-158
+When the shift lever position
+displayed on the intelligent tester
+differs from the actual position,
+Shift lever position is; adjustment of the PNP switch or
+PNP switch status/
+DRIVE D and S: ON the shift cable may be incorrect.
+ON or OFF
+Except D and S: OFF HINT:
+When the failure still occurs even
+after adjusting these parts, see
+page AX-158

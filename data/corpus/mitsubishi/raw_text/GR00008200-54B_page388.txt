@@ -1,0 +1,39 @@
+54B-388 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check the fog light bulb (LH).
+(1) Remove the fog light bulb (LH).
+(2) Check that the fog light bulb (LH) is not broken.
+Q:Is the fog light bulb (LH) in good condition?
+YES : Go to Step 3.
+NO : Replace the fog light bulb (LH). Check that the fog
+lights illuminate normally.
+STEP 3. Measure at fog light (LH) connector A-28 in order
+to check the ground circuit to the fog light (LH).
+(1) Disconnect fog light (LH) connector A-28, and measure at
+CONNECTOR: A-28
+the wiring harness side.
+DEVICE SIDE
+1 2
+AC106465AG
+(2) Measure the resistance value between terminal 2 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR A-28
+(HARNESS SIDE)
+Q:Does the measured resistance value correspond with
+this range?
+2 1
+YES : Go to Step 6.
+NO : Go to Step 4.
+AC106517AB
+STEP 4. Check fog light (LH) connector A-28 for damage.
+Q:Is fog light (LH) connector A-28 in good condition?
+CONNECTOR: A-28
+YES : Go to Step 5.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. Check
+that the fog lights illuminate normally.
+DEVICE SIDE
+1 2
+AC106465AG
+TSB Revision

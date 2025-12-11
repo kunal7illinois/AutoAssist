@@ -1,0 +1,50 @@
+Audi TT No. 3 / 21
+Current Flow Diagram
+Control unit in dash panel insert, oil level and oil temperature
+sender
+G266 Oil level and oil temperature sender
+J285 Control unit in dash panel insert
+J533 Data bus diagnostic interface
+SC1 Fuse 1 on fuse holder C
+SC4 Fuse 4 on fuse holder C
+T6a 6-pin connector, black, on front left in engine compartment
+T20d 20-pin connector, black, on data bus diagnostic interface
+3399
+T32 32-pin connector, blue, on control unit in dash panel insert
+4,0
+sw Y24 Display in dash panel insert
+1 4 B278 Positive connection 2 (15a), in main wiring harness
+SC1 SC4
+10A 5A • CAN bus (data wire)
+1a 4a
+J285 Y24
+sw
+0,
+/
+5
+ro
+B278
+T32/30 T32/29 T32/8
+• •
+0,35 0,35 0,5 0,5
+or/br or/bl gr/ge sw/ro
+T20d/8 T20d/18
+J533 J533 T6a/6 T6a/4
+0,5 0,5
+gr/ge sw/ro
+3 1
+G266
+2/31 ws = white
+3311 sw = black
+ro = red
+0,5 0,5 br = brown
+br br gn = green
+bl = blue
+T6a/5
+gr = grey
+li = purple
+ge = yellow
+267 268 269 270 271 272 273 274 275 276 277 278 279 280 or = orange
+8J0-003210409
+rs = pink
+Edition 10.2010

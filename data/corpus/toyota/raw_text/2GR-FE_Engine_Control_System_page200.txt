@@ -1,0 +1,37 @@
+ES–200
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• When the total of the short-term and long-term fuel trim values is within the malfunction threshold (and
+the engine coolant temperature is more than 75°C [167°F]), the system is functioning normally.
+MONITOR DESCRIPTION
+Under closed-loop fuel control, fuel injection volumes that deviate from those estimated by the ECM
+cause changes in the long-term fuel trim compensation value. The long-term fuel trim is adjusted when
+there are persistent deviations in the short-term fuel trim values. Deviations from the ECM's estimated fuel
+injection volumes also affect the average fuel trim learning value, which is a combination of the average
+short-term fuel trim (fuel feedback compensation value) and the average long-term fuel trim (learning
+value of the air-fuel ratio). If the average fuel trim learning value exceeds the malfunction thresholds, the
+ECM interprets this as a fault in the fuel system and sets a DTC.
+Example:
+The average fuel trim learning value is more than +35% or less than -35%, the ECM interprets this as a
+fuel system malfunction.
+ES
+Fuel Compensation Amount
+P0171 or P0174:
++35 (%) 1.35
+Lean Malfunction Threshold
+1.0
+P0172 or P0175: 0.65
+-35 (%)
+Rich Malfunction Threshold
+A082386E30
+MONITOR STRATEGY
+P0171: Fuel trim Lean (Bank 1)
+P0172: Fuel trim Rich (Bank 1)
+Related DTCs
+P0174: Fuel trim Lean (Bank 2)
+P0175: Fuel trim Rich (Bank 2)
+Required Sensors / Components (Main) Fuel system
+Required Sensors / Components (Related) A/F sensor, Mass air flow meter, Crankshaft position sensor
+Frequency of Operation Continuous
+Duration Less than 10 seconds
+MIL Operation 2 driving cycles
+Sequence of Operation None

@@ -1,0 +1,31 @@
+ES–424
+2AZ-FE ENGINE CONTROL SYSTEM – IG2 RELAY
+IG2 RELAY
+ON-VEHICLE INSPECTION
+1. DISCONNECT CABLE FROM NEGATIVE BATTERY
+TERMINAL
+CAUTION:
+Wait at least 90 seconds after disconnecting the
+cable from the negative (-) battery terminal to
+prevent airbag and seat belt pretensioner activation.
+2. REMOVE IG2 RELAY
+(a) Remove the No. 1 engine room relay block cover.
+(b) Remove the IG2 relay from the engine room relay
+ES
+block.
+3. INSPECT IG2 RELAY
+(a) Measure the resistance of the IG2 relay.
+Standard resistance
+1 2
+3 5 Tester Connection Specified Condition
+3 - 5 10 kΩ or higher
+5
+3 - 5 Below 1 Ω
+2 1
+(when battery voltage is applied to
+3 terminals 1 and 2)
+If the result is not as specified, replace the relay.
+B060778E14
+4. INSTALL IG2 RELAY
+5. CONNECT CABLE TO NEGATIVE BATTERY
+TERMINAL

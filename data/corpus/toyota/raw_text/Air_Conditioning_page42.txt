@@ -1,0 +1,85 @@
+AC–42
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+DATA LIST / ACTIVE TEST
+1. DATA LIST
+HINT:
+Using the intelligent tester's DATA LIST allows switch,
+sensor, actuator, and other item values to be read
+without removing any parts. Reading the DATA LIST
+early in troubleshooting is one way to save time.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Enter the following menus: DIAGNOSIS / OBD/
+MOBD / AIR CONDITIONER / DATA LIST.
+(e) Check the value(s) by referring to the table below.
+AIR CONDITIONER (for MANUAL A/C)
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Ambient temperature sensor /
+AMBI TEMP SENS Actual ambient temperature is
+Min.: -23.3°C (-9.94°F), Max.: -
+(Ambient temperature sensor) displayed
+65.95°C (150.71°F)
+Adjusted ambient temperature /
+AMBI TEMP
+Min.: -30.8°C (-23.44°F), Max.: - -
+(Adjusted ambient temperature)
+50.8°C (123.44°F)
+Evaporator fin thermistor / Min.: -
+EVAP FIN TEMP Actual evaporator temperature is
+29.7°C (-21.46°F), Max.: 59.55°C -
+(Evaporator fin thermistor) displayed
+(139.19°F)
+Engine coolant temperature / Actual engine coolant
+COOLANT TEMP
+Min.: 1.3°C (34.34°F), Max.: temperature is displayed while -
+(Engine coolant temperature)
+90.55°C (194.99°F) engine is warmed up
+AC
+Regulator pressure sensor / Min.:
+REG PRESS SENS Actual refrigerant pressure is
+-0.5 kgf/cm2G, Max.: 37.75 kgf/ -
+(Regulator pressure sensor) displayed
+cm2G
+REG CTRL CURRNT Compressor variable output
+- -
+(Regulator control current) current / Min.: 0 A, Max.: 0.996 A
+AIR MIX PULSE-D
+Driver side air mix servo motor MAX. COLD: 105 (pulse)
+(Air mix servomotor target pulse -
+target pulse / Min.: 0, Max.: 255 MAX. HOT: 7 (pulse)
+(D side))
+FACE: 8 (pulse)
+B/L: 30 to 38 (pulse)
+AIR OUT PULSE-D Driver side air outlet servo motor
+FOOT: 50 to 74 (pulse) -
+(Air out pulse-D) target pulse / Min.: 0, Max.: 255
+FOOT/DEF: 80 (pulse)
+DEF: 97 (pulse)
+A/I DAMP PLS Air inlet damper target pulse / RECIRCULATION: 7 (pulse)
+-
+(Air inlet damper target pulse) Min.: 0, Max.: 255 FRESH: 28 (pulse)
+#CODES Number of trouble codes / Min.: 0,
+Number of DTCs will be displayed -
+(Number of trouble codes) Max.: 255
+AIR CONDITIONER (for AUTO A/C)
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Room temperature sensor / Min.:
+ROOM TEMP Actual cabin temperature is
+-6.5°C (20.3°F), Max.: 57.25°C -
+(Room temperature sensor) displayed
+(135.05°F)
+Ambient temperature sensor /
+AMBI TEMP SENS Actual ambient temperature is
+Min.: -23.3°C (-9.94°F), Max.: -
+(Ambient temperature sensor) displayed
+65.95°C (150.71°F)
+Adjusted ambient temperature /
+AMBI TEMP
+Min.: -30.8°C (-23.44°F), Max.: - -
+(Adjusted ambient temperature)
+50.8°C (123.44°F)

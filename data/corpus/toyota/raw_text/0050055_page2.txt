@@ -1,0 +1,52 @@
+ES–300
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. DTC Detection Conditions Trouble Areas
+• Open or short in A/F sensor (sensor 1) circuit
+Conditions (a) and (b) continue for 10 seconds or more • A/F sensor (sensor 1)
+(2 trip detection logic): • A/F sensor heater (sensor 1)
+(a) A/F sensor voltage more than 3.8 V • Integration relay (EFI MAIN relay)
+P2195 (b) Heated Oxygen (HO2) sensor voltage 0.15 V or more • A/F sensor heater and EFI MAIN relay circuits
+• ECM
+While fuel-cut operation performed (during vehicle
+• A/F sensor
+deceleration), A/F sensor current 3.6 mA or more for 3
+• ECM
+seconds (2 trip detection logic)
+• Open or short in A/F sensor (sensor 1) circuit
+Conditions (a) and (b) continue for 10 seconds or more • A/F sensor (sensor 1)
+(2 trip detection logic): • A/F sensor heater (sensor 1)
+(a) A/F sensor voltage less than 2.8 V for 10 seconds • Integration relay (EFI MAIN relay)
+P2196 (b) HO2 sensor voltage less than 0.6 V • A/F sensor heater and EFI MAIN relay circuits
+ES
+• ECM
+While fuel-cut operation performed (during vehicle
+• A/F sensor
+deceleration), A/F sensor current less than 1.0 mA for 3
+• ECM
+seconds (2 trip detection logic)
+HINT:
+• When either of these DTCs is set, check the A/F sensor output voltage by selecting the following menu
+items on the intelligent tester: DIAGNOSIS / ENHANCED OBD II / DATA LIST / PRIMARY / AFS B1
+S1.
+• Short-term fuel trim values can also be read using the intelligent tester.
+• The ECM regulates the voltages at the A1A+ and A1A- terminals of the ECM to a constant level.
+Therefore, the A/F sensor output voltage cannot be confirmed without using the intelligent tester.
+• If the A/F sensor is malfunctioning, the ECM sets the DTC P2195 or P2196.
+MONITOR DESCRIPTION
+Sensor voltage detection monitor
+Under the air-fuel ratio feedback control, if the A/F sensor output voltage indicates rich or lean for a certain
+period of time, the ECM determines that there is a malfunction in the A/F sensor. The ECM illuminates the
+MIL and sets a DTC.
+Example:
+If the A/F sensor output voltage is less than 2.8 V (very rich condition) for 10 seconds, despite the rear
+HO2 sensor output voltage being less than 0.6 V, the ECM sets DTC P2196. Alternatively, if the A/F
+sensor output voltage is more than 3.8 V (very lean condition) for 10 seconds, despite the rear HO2
+sensor output voltage being 0.15 V or more, DTC P2195 is set.
+Sensor current detection monitor
+A rich air-fuel mixture causes a low A/F sensor current, and a lean air-fuel mixture causes a high A/F
+sensor current. Therefore, the sensor output becomes low during acceleration, and it becomes high
+during deceleration with the throttle valve fully closed. The ECM monitors the A/F sensor current during
+fuel-cut and detects any abnormal current values.
+If the A/F sensor output is 3.6 mA or more for more than 3 seconds of cumulative time, the ECM interprets
+this as a malfunction in the A/F sensor and sets DTC P2195 (high-side stuck). If the A/F sensor output is
+less than 1.0 mA for more than 3 seconds of cumulative time, the ECM sets DTC P2196 (low-side stuck).

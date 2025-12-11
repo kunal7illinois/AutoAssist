@@ -1,0 +1,60 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-15
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+PROCEDURE 1
+EVAPORATIVE EMISSION CONTROL SYSTEM LEAK MONITOR
+DTC P0441, P0442, P0451, P0452, P0453, P0455, P0456
+Drive cycle One drive [from start to ignition switch to the "LOCK" (OFF) position] will be completed while
+pattern traveling with the following drive pattern. It will take 8 minutes. You must complete this drive
+twice.
+NOTE: . Vehicle speed and throttle opening angle should be within the shaded range. Test
+drive must be completed within 16 minutes of "Key on."
+200 SECONDS 150 SECONDS
+OR MORE OR MORE
+89 - 97 km/h (55 - 60 mph)
+97 M/T: 5TH SPEED
+(60)
+(3) (4)
+64
+(40)
+VEHICLE SPEED
+km/h (mph)
+PREPARATION DURING
+32 (2) PERIOD MONITOR (5)
+(20)
+(1)
+0
+ENGINE START IGNITION SWITCH:
+100 "LOCK" (OFF) position
+CALCULATED
+LOAD (%)
+50
+0
+AAAKKKXXX000111333444555AC
+Inspection • Engine coolant temperature: 30°C (75°F) or less (The engine is stopped before the test
+conditions drive is started)
+• Atmospheric temperature: 5 − 45°C (41 − 113°F)
+• Condition of A/T: Selector lever D range
+• Test may not run if fuel tank is over 2/3 full.
+Test 1. Engine: start
+procedure 2.Accelerate until the vehicle speed is 89 − 97 km/h (55 − 60 mph).
+3.Travel for 200 seconds or more while keeping the vehicle speed at 89 − 97 km/h (55 − 60
+mph). (M/T = 5th speed)
+4. While keeping the accelerator pedal opening degree constant, keep the vehicle speed at
+89 − 97 km/h (55 − 60 mph) and travel for 150 seconds or more. (During monitor)
+5. Return the vehicle to the shop, then turn the ignition switch to the "LOCK" (OFF) position.
+6.Confirm that the diagnostic trouble code (DTC) is not output.
+7.If DTC P0441 is output, refer to DTC P0441 − Evaporative Emission Control System
+Incorrect Purge Flow P.13B-351.
+If DTC P0442 is output, refer to DTC P0442 − Evaporative Emission Control System Leak
+Detected (Small Leak) P.13B-353.
+If DTC P0451 is output, refer to DTC P0451 − Evaporative Emission Control System
+Pressure Sensor Range/performance P.13B-383.
+If DTC P0452 is output, refer to DTC P0452 − Evaporative Emission Control System
+Pressure Sensor Low Input P.13B-400.
+If DTC P0453 is output, refer to DTC P0453 − Evaporative Emission Control System
+Pressure Sensor High Input P.13B-416.
+If DTC P0455 is output, refer to DTC P0455 − Evaporative Emission Control System Leak
+Detected (Gross Leak) P.13B-432.
+If DTC P0456 is output, refer to DTC P0456 − Evaporative Emission Control System Leak
+Detected (Very Small Leak) P.13B-451.
+TSB Revision

@@ -1,0 +1,33 @@
+54B-246 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 3. Check the rear washer motor.
+(1) Disconnect rear washer motor connector A-34.
+CONNECTOR: A-34
+(2) Fill the washer tank with washer fluid.
+A-34
+AC106671AB
+(3) When battery voltage is applied between terminals 1 and 2,
+washer fluid should gush out.
+Q:Does the rear washer motor operate normally?
+YES : Go to Step 4.
+NO : Replace the rear washer motor. Check that the rear
+washer works normally.
+AC102956
+STEP 4. Check at rear washer motor connector A-34 to
+check the rear washer motor ground circuit.
+(1) Disconnect rear washer motor connector A-34, and
+CONNECTOR: A-34
+measure at the wiring harness side.
+A-34
+AC106671AB
+(2) Measure the resistance value between terminal 2 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR A-34
+Q:Does the measured resistance value correspond with
+(HARNESS SIDE)
+this range?
+2 1 YES : Go to Step 7.
+NO : Go to Step 5.
+ACX01578AC
+TSB Revision

@@ -1,0 +1,52 @@
+BC–64
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+2 INSPECT SPEED SENSOR AND SENSOR ROTOR SERRATIONS
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Harness Side
+(b) Connect the oscilloscope to each speed sensor terminal
+Connector Front View):
+of the skid control ECU connector.
+Terminals
+FL+ FL- RL+ RR- FR-
+Connector Circuit
+A25-5 (FL+) - A25-6 (FL-) Front left speed sensor
+A25-10 (FR+) - A25-9 (FR-) Front right speed sensor
+A25-7 (RL+) - A25-17 (RL-) Rear left speed sensor
+RL- RR+ FR+ A25-19 (RR+) - A25-8 (RR-) Rear right speed sensor
+C131970E06
+(c) Check that a waveform is output when the tires are
+Normal Signal Waveform: rotated (by the sensor circuit).
+OK:
+BC A waveform as shown in the figure should be
+output.
+HINT:
+• Each sensor circuit outputs the same waveform
+without noise.
+GND • As vehicle speed (wheel rotation speed) increases,
+the width of the waveform narrows and the output
+voltage becomes greater.
+• When noise is identified in the waveform on the
+oscilloscope, the erratic signals are generated due to
+1 V / Division, 2 ms. / Division
+rotor scratches, looseness or foreign matter attached
+to the speed sensor.
+C140980E01 (d) Make sure that the waveform does not change while
+jiggling a connector or a wire harness.
+OK:
+The waveform does not change.
+HINT:
+If the waveform changes while jiggling a connector or a
+wire harness, there may be a malfunction in the
+connector or the wire harness.
+(e) Connect the connector.
+NG Go to step 4
+OK
+3 RECONFIRM DTC
+(a) Clear the DTC (See page BC-21).
+(b) Start the engine.
+(c) Drive the vehicle at a speed of 20 mph (32 km/h) or more
+for 60 seconds or more.
+(d) Check if the same DTC is recorded (See page BC-21).
+HINT:
+Reinstall the sensors, connectors, etc. and restore the
+vehicle to its prior condition before rechecking for DTCs.

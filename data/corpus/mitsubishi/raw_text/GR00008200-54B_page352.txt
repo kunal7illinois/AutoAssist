@@ -1,0 +1,19 @@
+54B-352 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE K-2: Flasher Timer: Hazard Warning Lights do not Illuminate.
+Hazard Warning Light Circuit
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the hazard warning lights do not flash, the power
+If the ETACS-ECU receives "ON" signal from the
+supply line to the ETACS-ECU (dedicated to the turn-
+hazard warning light switch, the ETACS-ECU turns
+signal lights) or the ETACS-ECU may be defective.
+on the flasher timer (incorporated in the ETACS-
+ECU), thus causing the turn-signal lights to flash.
+.
+TROUBLESHOOTING HINTS
+. • Malfunction of the hazard warning light switch
+• Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+TSB Revision

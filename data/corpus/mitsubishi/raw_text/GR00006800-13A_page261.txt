@@ -1,0 +1,33 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-261
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, check actuator test
+item 10: EGR solenoid.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the actuator test mode for item
+10, EGR solenoid.
+16 PIN • An operation sound should be heard and vibration
+should be felt when the EGR solenoid is operated.
+MB991502
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+AKX01177AB
+Q:Is the solenoid operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+STEP 2. Check connector B-31 at the EGR solenoid for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR:B-31
+EGR
+YES : Go to Step 3.
+SOLENOID
+VALVE NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+ACX02513AI
+TSB Revision

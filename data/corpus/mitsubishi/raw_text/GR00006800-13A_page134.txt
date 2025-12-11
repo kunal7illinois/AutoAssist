@@ -1,0 +1,34 @@
+13A-134 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 12. Check for harness damage between heated
+oxygen sensor (front) connector B-17 (terminal 2) and ECM
+connector C-60 (terminal 92) <M/T> or PCM connector C-54
+(terminal 57) <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-17
+YES : Go to Step 13.
+NO : Repair it. Then go to Step 15.
+AAKK110033552266AB
+CONNECTORS:C-60<M/T>,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+STEP 13. Check for short circuit to ground and harness
+damage between heated oxygen sensor (front) connector
+B-17 (terminal 4) and ECM connector C-60 (terminal 76)
+<M/T> or PCM connector C-57 (terminal 71) <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-17
+YES : Go to Step 14.
+NO : Repair it. Then go to Step 15.
+AAKK110033552266AB
+CONNECTORS:C-60<M/T>,C-57<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-60
+C-57
+AK000280BE
+TSB Revision

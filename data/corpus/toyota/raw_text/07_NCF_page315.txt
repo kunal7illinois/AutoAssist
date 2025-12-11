@@ -1,0 +1,35 @@
+CHASSIS - STEERING CH-151
+(cid:3)STEERING LOCK SYSTEM (Only for Models with Smart Key System)
+According with the use of the smart key system, a steering lock system which uses a lock/unlock motor to
+lock and unlock the steering wheel is used. This system mainly consists of the steering lock assembly, main
+body ECU, certification ECU and ID code box.
+(cid:3) The steering lock ECU is integrated in the steering lock assembly, and it controls the lock bar operation
+in the steering lock assembly through the control of lock/unlock motor.
+(cid:3) The steering lock ECU detects the position (lock/unlock) of the lock bar and transmits this information
+to the main body ECU and certification ECU.
+(cid:3) In this system, the certification ECU determines whether to lock or unlock the steering based on
+communication with the main body ECU. Then, the certification ECU sends lock or unlock command
+signals to the steering lock ECU through the ID code box. Upon receiving the signals, the steering lock
+ECU operates the lock/unlock motor to lock or unlock the steering. For details, see page BE-91.
+(cid:1) System Diagram (cid:2)
+Steering Lock Assembly
+Engine Switch
+Power Supply for
+Lock Motor Engine
+Unlock Signal Start
+Power Supply for
+Lock/ Unlock Lock/Unlock Motor Main Body Signal
+Motor ECU
+Steering Lock
+Local
+ECU
+Communication Certification
+Lock Bar Position
+Lock/Unlock Detection Signal ECU
+Detection
+Switch
+ID Code Box
+01YCH109TE
+Service Tip
+It is not possible to replace only the steering lock ECU in the steering lock assembly. Therefore, if
+a malfunction occurs in the ECU, the entire steering lock assembly must be replaced.

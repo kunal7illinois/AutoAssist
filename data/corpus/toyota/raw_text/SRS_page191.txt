@@ -1,0 +1,46 @@
+RS–191
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+1 CHECK FRONT SEAT SIDE AIRBAG ASSEMBLY LH (DRIVER SIDE - SIDE SQUIB)
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Disconnect the connector from the front seat side airbag
+assembly LH.
+D C
+(d) Connect the black wire side of SST (resistance 2.1 Ω) to
+connector C.
+Center Airbag
+Sensor Assembly CAUTION:
+Driver Side - Side
+Never connect the tester to the front seat side airbag
+Squib
+assembly LH (driver side - side squib) for
+measurement, as this may lead to a serious injury
+Connector C due to airbag deployment.
+NOTICE:
+NZ2 • Do not forcibly insert the SST into the terminals of
+the connector when connecting.
+• Insert straight the SST into the terminals of the
+SST
+connector.
+SST 09843-18060
+(e) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+(f) Turn the ignition switch on (IG), and wait for at least 60
+DLC3 DTC 55 seconds.
+(g) Clear the DTCs stored in the memory (See page RS-41).
+(h) Turn the ignition switch off.
+(i) Turn the ignition switch on (IG), and wait for at least 60
+CG TC RS
+seconds.
+C
+C114824E08 (j) Check the DTCs (See page RS-41).
+OK:
+DTC B1820, B1821, B1822, B1823, or 55 is not
+output.
+HINT:
+Codes other than DTC B1820, B1821, B1822, B1823,
+and 55 may be output at this time, but they are not
+related to this check.
+OK REPLACE FRONT SEAT ASSEMBLY LH
+NG

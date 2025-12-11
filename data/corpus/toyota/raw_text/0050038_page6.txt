@@ -1,0 +1,32 @@
+ES–232
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(a) Following conditions 1 and 2 met: -
+20°C (68°F) or more, and sensor does not malfunction (P0115 or
+1. ECT and ECT sensor
+P0116)
+2. Time after PNP switch turned OFF 10 seconds or more
+(b) Following conditions 1 and 2 met: -
+1. ECT and ECT sensor Less than 20°C (68°F), and sensor malfunction (P0115 or P0116)
+2. Time after PNP switch turned OFF 30 seconds or more
+Time after ignition switch turned ON More than 0.5 seconds
+TYPICAL MALFUNCTION THRESHOLDS
+Vehicle speed sensor signal No pulse input
+ES
+WIRING DIAGRAM
+Combination Meter Assembly ECM
+5 V
+SI +S SPD
+Skid Control ECU
+A127263E01
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 CHECK OPERATION OF SPEEDOMETER
+(a) Drive the vehicle and check whether the operation of the
+speedometer in the combination meter is normal.
+HINT:
+• The vehicle speed sensor is operating normally if the
+speedometer reading is normal.

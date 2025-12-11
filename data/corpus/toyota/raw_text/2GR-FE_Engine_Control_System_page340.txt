@@ -1,0 +1,46 @@
+ES–340
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+FAIL-SAFE
+When this DTC, as well as other DTCs relating to ETCS (Electronic Throttle Control System)
+malfunctions, is set, the ECM enters fail-safe mode. During fail-safe mode, the ECM cuts the current to
+the throttle actuator off, and the throttle valve is returned to a 6° throttle angle by the return spring. The
+ECM then adjusts the engine output by controlling the fuel injection (intermittent fuel-cut) and ignition
+timing, in accordance with the accelerator pedal opening angle, to allow the vehicle to continue running at
+a minimal speed. If the accelerator pedal is depressed firmly and gently, the vehicle can be driven slowly.
+Fail-safe mode continues until a pass condition is detected, and the ignition switch is then turned off.
+WIRING DIAGRAM
+Refer to DTC P2102 (See page ES-322).
+INSPECTION PROCEDURE
+HINT:
+ES
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P2119)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DTC INFO / CURRENT CODES.
+(e) Read the DTCs.
+Result
+Display (DTC Output) Proceed to
+P2119 A
+P2119 and other DTCs B
+HINT:
+If any DTCs other than P2119 are output, troubleshoot
+those DTCs first.
+B GO TO DTC CHART (See page ES-63)
+A
+2 CHECK WHETHER DTC OUTPUT RECURS (DTC P2119)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Clear the DTCs (See page ES-45).
+(e) Allow the engine to idle for 15 seconds.
+CAUTION:
+Exercise extreme care and take precautions at
+procedure "A" and "B" below. Failure to do so may
+result in the vehicle unexpectedly rolling away.

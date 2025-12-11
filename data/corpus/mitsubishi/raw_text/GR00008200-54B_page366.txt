@@ -1,0 +1,39 @@
+54B-366 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 19. Check the wiring harness between rear
+combination light (LH) connector F-17 (terminal 1) and
+ETACS-ECU connector C-119 (terminal 14).
+NOTE: Also check junction block connector C-101. If junction
+CONNECTOR <ECLIPSE>: F-17
+block connector C-101 is damaged, repair or replace the con-
+DEVICE SIDE nector as described in GROUP 00E, Harness Connector
+F-17
+Inspection P.00E-2.
+1 2 3
+4 5 6
+AC106489AQ
+CONNECTOR <ECLIPSE SPYDER>: F-17
+F-17
+1 2 3
+DEVICE SIDE 4 5 6
+AC106491AN
+CONNECTOR: C-119
+DEVICE SIDE
+1 2 3 4 5 6 7 8 91011121314151617181920
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+Q:Is the wiring harness between rear combination light
+CONNECTOR: C-101
+(LH) connector F-17 (terminal 1) and ETACS-ECU
+DEVICE SIDE connector C-119 (terminal 14) in good condition?
+1 2 3 4 5 6 7
+YES : Replace the rear combination light socket assembly
+8 91011 12 131415
+(LH). Check that the turn-signal lights illuminate
+normally.
+NO : Repair the wiring harness. Check that the turn-signal
+lights illuminate normally.
+JUNCTION BLOCK
+(FRONT VIEW) AC106479AB
+TSB Revision

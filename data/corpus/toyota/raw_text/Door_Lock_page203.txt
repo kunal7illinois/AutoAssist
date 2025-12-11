@@ -1,0 +1,19 @@
+DL–193
+DOOR LOCK – SMART KEY SYSTEM
+Luggage Compartment Door Open Switch Circuit
+DESCRIPTION
+If the certification ECU detects that the luggage compartment open switch is pressed when the driver is
+carrying the electrical key or when the electrical key is locked in the luggage compartment door, the
+certification ECU sends a luggage compartment door open motor drive request signal to the main body
+ECU.
+WIRING DIAGRAM
+E58
+Certification ECU Main Body ECU
+S9 CAN CAN
+Luggage Compartment
+Open Switch
+7
+TSW5
+2 1
+DL
+B112474E03

@@ -1,0 +1,34 @@
+EI–77
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+3 CHECK HARNESS AND CONNECTOR (UNLOCK WARNING SWITCH - BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+Wire Harness Side Connector Rear View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E22-2 - Body ground Always Below 1 Ω
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E22
+Unlock Warning Switch Assembly
+B124194E02
+OK
+4 CHECK HARNESS AND CONNECTOR (TRANSPONDER KEY ECU - UNLOCK WARNING
+SWITCH)
+(a) Disconnect the E15 ECU connector.
+Wire Harness Side Connector Rear View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+E15 Standard resistance
+Transponder Key ECU Assembly
+Tester Connection Condition Specified Condition
+E15-3 (KSW) - E22-1 Below 1 Ω
+Always
+E22-1 - Body ground 10 kΩ or higher
+EI
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+KSW
+E22
+Unlock Warning Switch Assembly
+B128340E02

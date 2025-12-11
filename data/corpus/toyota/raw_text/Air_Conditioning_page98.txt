@@ -1,0 +1,41 @@
+AC–98
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+(b) Check if the fusible link is melted.
+Fusible Link: OK:
+The point indicated by "A" is not melted.
+(c) Install the fusible link to the engine room R/B with the
+nut.
+NG REPLACE FUSIBLE LINK (HTR)
+“A”
+(HTR Fuse)
+E130412E01
+OK
+3 CHECK HARNESS AND CONNECTOR (BLOWER MOTOR - BODY GROUND)
+AC
+(a) Disconnect the blower motor connector.
+Blower Motor Connector
+(b) Measure the resistance according to the value(s) in the
+Front View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E39-1 (GND) - Body
+E39 ground Always Below 1 Ω
+GND
+NG REPAIR OR REPLACE HARNESS OR
+I041124E15 CONNECTOR
+OK
+4 CHECK HARNESS AND CONNECTOR (BLOWER MOTOR - BATTERY)
+(a) Disconnect the blower motor connector.
+Blower Motor Connector
+(b) Measure the voltage according to the value(s) in the
+Front View:
+table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+E39-3 (+B) - Body
+E39 Always 10 to 14 V
+ground
++B
+NG REPAIR OR REPLACE HARNESS OR
+I041124E16 CONNECTOR

@@ -1,0 +1,31 @@
+23A-300 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+Q:Are the connectors in good condition?
+CONNECTOR: C-42
+YES : Go to Step 6.
+C-42
+NO : Repair or replace the defective connector(s). Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2.
+AC001729BB
+STEP 6. Check harness for open circuit or damage
+between PCM connector C-57 <2.4L Engine> or C-59 <3.0L
+Engine> terminal 80 and combination meter connector C-
+42 terminal 30.
+Q:Is the harness wire in good condition?
+CONNECTOR: C-57 <2.4L ENGINE> OR
+C-59 <3.0L ENGINE> YES : Go to Step 7.
+NO : Repair it.
+PCM
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+CONNECTOR: C-42
+C-42
+AC001729BB
+STEP 7. Check the speedometer.
+Q:Is the speedometer operating properly?
+YES : Go to Step 8.
+NO : Repair harness damage or short circuit to ground
+between joint connector C-77 terminal 20 and data
+link connector C-29 terminal 14.
+TSB Revision

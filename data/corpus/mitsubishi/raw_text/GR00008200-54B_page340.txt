@@ -1,0 +1,33 @@
+54B-340 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE J-9: Headlight, Tail Light: Headlight Automatic Shutdown Function does
+not Work Normally.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+Headlight Automatic Shutt-down Function
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the function does not work normally, the input cir-
+The ETACS-ECU operates the headlight automatic
+cuit system from the switches, the ETACS-ECU or
+shutdown function according to the following signals:
+• Ignition switch (IG1): OFF the front-ECU may be defective (refer to "CIRCUIT
+• Driver’s door switch: ON OPERATION").
+• Tail light switch: ON
+.
+• Headlight switch: ON TROUBLESHOOTING HINTS
+The ETACS-ECU operates the headlight automatic • Malfunction of the driver’s door switch
+shutdown function under the following conditions: • Malfunction of the column switch (turn-signal light
+• Ignition key: Other than "ON" position and lighting switch)
+• Driver’s door: open • Malfunction of the ETACS-ECU
+• Tail light or headlight: Illuminating • Malfunction of the front-ECU
+• Damaged harness wires or connectors
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+TSB Revision

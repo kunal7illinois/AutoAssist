@@ -1,0 +1,58 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-171
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS:C-60<M/T>,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+. • Volumetric efficiency is higher than 25 percent.
+CIRCUIT OPERATION
+• A voltage corresponding to the oxygen concen- • Volume air flow sensor output frequency is 88 Hz
+or more.
+tration in the exhaust gas is sent to the ECM (ter-
+• At least 20 seconds have passed since fuel shut
+minal 75) <M/T> or PCM (terminal 73) <A/T>
+off control was canceled.
+from the output terminal (terminal 3) of the heated
+• The heated oxygen sensor (front) outputs 0.5 volt
+oxygen sensor (rear).
+• Terminal 4 of the heated oxygen sensor (rear) is or more.
+• After the ignition switch is turned ON, the
+grounded with ECM (terminal 92) <M/T> or PCM
+changes in the output voltage of the heated oxy-
+(terminal 57) <A/T>.
+gen sensor (rear) is lower than 0.078 volt.
+• Monitoring time: 10 seconds.
+.
+TECHNICAL DESCRIPTION
+• The output signal of the heated oxygen sensor Judgement Criteria
+(front) is compensated by the output signal of the • Making the air/fuel ratio 15 percent for 10 sec-
+heated oxygen sensor (rear). onds richer does not result in raising the heated
+• The ECM <M/T> or PCM <A/T> checks for an oxygen sensor (rear) output voltage beyond 0.15
+open circuit in the heated oxygen sensor (rear) volt.
+output line. • The ECM<M/T> or PCM<A/T> monitors for this
+condition once during the drive cycle.
+.
+DTC SET CONDITIONS
+.
+TROUBLESHOOTING HINTS (The most likely
+Check Conditions
+causes for this code to be set are: )
+• 3 minutes or more have passed since the starting
+• Heated oxygen sensor (rear) failed.
+sequence was completed.
+• Short circuit in heated oxygen sensor (rear) out-
+• Heated oxygen sensor (rear) signal voltage has
+put line.
+continued to be 0.15 volt or lower.
+• ECM failed. <M/T>
+• Engine coolant temperature is higher than 76°C
+• PCM failed. <A/T>
+(169°F).
+• Engine speed is higher than 1,200 r/min.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991658: Test Harness
+TSB Revision

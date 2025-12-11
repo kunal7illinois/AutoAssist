@@ -1,0 +1,30 @@
+G
+Position of Parts in Instrument Panel
+(*2)
+E40 E50 E46 E62 E63 E43 E44 E45 E38 E58 E37 E41
+E61
+E59
+E60
+E39
+* 2:w/ Smart Key System
+* 3:TMC Made
+* 4:TMMK Made
+E51 E42 E52 E54 E48 E49 E55 E56 E57 E53 E35 E65 E34
+(*2) (*4) (*3)
+E34 Yaw Rate Sensor E51 Steering Lock ECU
+E35 Power Outlet Socket (Rear) E52 Power SW
+E37 Diode (Door Courtesy Front RH) E53 Tire Pressure Warning SW (Reset)
+E38 A/C Amplifier E54 Airbag Squib (Knee Airbag)
+E39 Blower Motor E55 Seat Heater SW
+E40 Junction Connector E56 Electrical Key Oscillator (Console)
+E41 Junction Connector E57 Shift Lock Control ECU
+E42 Junction Connector E58 Certification ECU
+E43 Junction Connector E59 Certification ECU
+E44 Junction Connector E60 Tire Pressure Warning ECU
+E45 Junction Connector E61 Option Connector (Bus Buffer)
+E46 Junction Connector E62 Junction Connector
+E48 Junction Connector E63 Junction Connector
+E49 Junction Connector E65 Yaw Rate Sensor
+E50 ID Code Box
+57
+CAMRY (EM0250U)

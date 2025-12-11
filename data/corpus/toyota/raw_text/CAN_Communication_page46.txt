@@ -1,0 +1,36 @@
+CA–46
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+with VSC:
+DLC3
+Combination Meter ECU ECM
+120 Ω No. 1 CAN J/C No. 2 CAN J/C 120 Ω
+11*1 25*1
+35*2 14*2
+CANH CANL
+1
+ECU-IG No. 2 GND2
+CA IG1
+46*1 GND1
+28*2 32*1
+4*2 *1: TMC made
+A26*1 Skid Control ECU *2: TMMK made
+A60*2
+Trouble Area
+: CAN Main Bus Line (CANH) : CAN Branch Line (CANH)
+: CAN Main Bus Line (CANL) : CAN Branch Line (CANL)
+C126207E08
+INSPECTION PROCEDURE
+NOTICE:
+• Turn the ignition switch off before measuring the resistance of the CAN main wire and CAN
+branch wires.
+• After the ignition switch is turned off, check that the key reminder warning system and light
+reminder warning system are not operating.
+• Before measuring the resistance, leave the vehicle as is for at least 1 minute and do not operate
+the ignition switch, any other switches or the doors. If doors need to be opened in order to
+check connectors, open the doors and leave them open.
+HINT:
+Operating the ignition switch, any other switches or any triggers related ECU and sensor communication
+on the CAN, which would cause resistance reading variations.
+1 CHECK OPEN IN CAN BUS WIRE (SKID CONTROL ECU BRANCH WIRE)
+(a) Turn the ignition switch off.
+(b) Disconnect the skid control ECU connector.

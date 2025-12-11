@@ -1,0 +1,37 @@
+BE-130 BODY ELECTRICAL - SMART KEY SYSTEM
+Key Cancel
+Key cancel is operated when certain operations are performed with the vehicle in the following condition:
+(cid:3) Power source is OFF.
+(cid:3) Driver door is closed.
+(cid:3) Driver door is unlocked.
+The operation procedure is as follows:
+1)Unlock once with the UNLOCK button of the key.
+2)Open the driver door within 5 seconds.
+3)Unlock twice with the UNLOCK button of the key within 5 seconds.
+4)Repeat open (cid:1) close twice for the driver door within 30 seconds, and open again.
+(Driver Door: Open (cid:1) Close (cid:1) Open (cid:1) Close (cid:1) Open)
+5)Unlock twice with the UNLOCK button of the key within 30 seconds.
+6)Repeat open (cid:1) close once for the driver door within 30 seconds, and open again.
+(Driver Door: Open (cid:1) Close (cid:1) Open)
+7)Close the driver door within 5 seconds.
+When key cancel is activated, the wireless door lock buzzer sounds once.
+To return to the original condition, perform the procedures again. When key cancel is returned, the wireless
+door lock buzzer sounds twice.
+Key Code Registration Function
+The table below shows the four special coded ID registration function modes through which up to four
+different codes can be registered. The codes are electronically registered (written to and stored) in the
+EEPROM. For details of the recognition code registration procedure, refer to the 2007 Camry Repair
+Manual (Pub. No. RM0250U).
+Mode Function
+Erases all previously registered codes and registers only the newly received codes.
+Rewrite
+This mode is used whenever a transmitter or the integration relay is replaced.
+Adds a newly received code while preserving previously registered codes. This mode
+Add is used when adding a new transmitter. If the number of codes exceeds 4, the oldest
+registered code is erased first.
+Confirms how many codes are currently registered. When adding a new code, this
+Confirm
+mode is used to check how many codes already exist.
+To delete all the registered codes and to prohibit the wireless door lock function.
+Prohibit
+This mode is used when a transmitter (key) is lost.

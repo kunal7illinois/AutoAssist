@@ -1,0 +1,55 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-375
+SYMPTOM PROCEDURES
+STEP 31. Check the wiring harness between combination
+meter connector C-43 (terminal 12) and ground.
+NOTE: Also check joint connector C-78. If joint connector C-78
+CONNECTORS: C-43, C-78 is damaged, repair or replace the connector as described in
+GROUP 00E, Harness Connector Inspection P.00E-2.
+Q:Is the wiring harness between combination meter
+connector C-43 (terminal 12) and ground in good
+condition?
+C-43
+YES : Replace the combination meter. Check that the turn-
+C-78 signal lights illuminate normally.
+NO : Repair the wiring harness. Check that the turn-signal
+lights illuminate normally.
+DEVICE SIDE
+C-43
+1 2 3 4 5 6 7 8 9 10111213141516
+C-78
+1 2 3 4 5 6 7 8 91011
+1213141516171819202122
+2324252627282930313233
+AC106474AK
+FOG LIGHT
+GENERAL DESCRIPTION CONCERNING FOG LIGHT
+M1549021400012
+The following ECUs affect the functions and control
+of the foglights.
+Functions Control ECU
+Foglight and foglight indicator light ETACS-ECU, front-ECU, column switch
+FOGLIGHT
+If the ETAS-ECU sends a foglight "on" request signal to the
+Foglight ON
+front-ECU after the low-beam headlights are on, the foglight
+switch OFF
+relay is turned on, allowing the foglights and the foglight indica-
+Headlight ON
+tor light to be illuminated. If the low-beam headlights is turned
+switch
+OFF
+off, the foglights will also be turn off automatically. Therefore, if
+Dimmer ON the headlights are turned on at next opportunity, the foglights
+switch OFF do not illuminate.
+If the high-beam headlights is turned on while the foglights are
+ON
+Foglight on, the fog lights will be turned off. Then, if you switch the head-
+OFF
+lights from the high-beam to the low-beam, the foglights will be
+turned on again.
+AC106400AB
+NOTE: This description covers the foglights only. In actual driv-
+ing, the foglights may be turned off due to the headlight auto-
+matic shut-down function. For the details of the headlight
+automatic shut-down function, refer to its Section.
+TSB Revision

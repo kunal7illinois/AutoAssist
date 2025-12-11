@@ -1,0 +1,51 @@
+Audi TT No. 42 / 15
+Current Flow Diagram
+Engine control unit, lambda probe, radiator outlet coolant
+temperature sender, exhaust temperature sender 1,
+exhaust temperature sender 3, exhaust temperature
+sender 4
+G39 Lambda probe
+G83 Radiator outlet coolant temperature sender
+G235 Exhaust gas temperature sender 1
+G495 Exhaust gas temperature sender 3
+118866 G648 Exhaust gas temperature sender 4
+J623 Engine control unit
+0,5 T6c 6-pin connector, black, on Lambda probe
+ge T10 10-pin connector, black, in front left engine compartment
+T94 94-pin connector, on engine control unit
+Z19 Lambda probe heater
+T10/2
+411 Earth connection 2 (sender earth), in main wiring harness
+0,35
+ge
+T94/16
+J623
+T94/89 T94/9 T94/32 T94/75 T94/73 T94/77 T94/55 T94/56 T94/78
+118866
+0,35 0,35 0,5 0,35 0,35 1,0 0,35 0,35 0,35 0,35
+br bl ge gn bl br/ws ro/gn li li/ge li/bl
+2 2 2 2
+ϑ ϑ ϑ ϑ
+G235 G83 G495 G648
+1 1 1 1
+0
+b
+,
+r
+5 T6c/3 T6c/1 T6c/5 T6c/2 T6c/6
+T10/3
+ws = white
+Z19 G39 sw = black
+ro = red
+T6c/4
+br = brown
+0,35 0,35 0,35 0,35 1,0 gn = green
+br br br br sw/gn bl = blue
+411 gr = grey
+4499
+li = purple
+ge = yellow
+183 184 185 186 187 188 189 190 191 192 193 194 195 196 or = orange
+8J0-042150409
+rs = pink
+Edition 09.2009

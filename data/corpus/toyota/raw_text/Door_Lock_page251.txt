@@ -1,0 +1,38 @@
+DL–231
+DOOR LOCK – FRONT DOOR LOCK
+INSPECTION
+1. INSPECT FRONT DOOR LOCK LH ASSEMBLY
+(a) Remove the front door lock assembly LH.
+(b) Check operation of the door lock motor.
+(1) Apply battery voltage and check operation of
+the door lock motor.
+OK
+Measurement Condition Specified Condition
+Battery positive (+) → Terminal 4
+Lock
+Battery negative (-) → Terminal 1
+Battery positive (+) → Terminal 1
+Unlock
+Battery negative (-) → Terminal 4
+Unlock
+Lock
+B065427E20
+(c) Check operation of the door key lock and unlock
+switch.
+Lock
+(1) Measure the resistance according to the
+value(s) in the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+Unlock
+ON (Door lock set to
+7 - 9 Below 1 Ω
+LOCK)
+7 - 9
+OFF (Free) 10 kΩ or higher
+7 - 10
+ON (Door lock set to
+7 - 10 Below 1 Ω
+UNLOCK)
+DL
+B065428E02

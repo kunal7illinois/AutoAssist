@@ -1,0 +1,41 @@
+BC–18
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+(e) Count the number of blinks of the ABS warning light.
+Blinking Pattern of Normal System Code:
+0.25 sec. 0.25 sec.
+ON
+OFF
+Blinking Pattern of Trouble Code (Example Codes 71 and 72):
+0.5 sec. 2.5 sec.
+1.5 sec.
+4 sec.
+BC 0.5 sec.
+Repeat
+ON
+OFF
+Code 71 Code 72
+C132876E01
+NOTICE:
+• If only the DTCs are displayed, repair the
+malfunction area and clear the DTCs.
+• If the DTCs or Test Mode codes (DTC of
+signal check function) are displayed, repair
+the malfunction area, clear the DTCs and
+perform the Test Mode inspection.
+HINT:
+• If more than 1 malfunction is detected at the
+same time, the lowest numbered code will be
+displayed first.
+• See the list of DTCs (See procedure "A").
+(f) After performing the check, disconnect the SST
+from terminals TS and CG, and TC and CG of the
+DLC3, and turn the ignition switch off.
+(g) Turn the ignition switch on (IG) to cancel the test
+mode.
+HINT:
+• If the ignition switch is not turned on (IG) after the
+SST is removed from the DLC3, the previous
+Test Mode will continue.
+• If the ignition switch is turned on (IG) with
+terminals TS and CG shorted, the previous Test
+Mode will continue.

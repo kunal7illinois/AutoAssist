@@ -1,0 +1,41 @@
+ST–72
+2GR-FE STARTING – SMART KEY SYSTEM
+INSPECTION PROCEDURE
+1 CHECK DTC OUTPUT (SMART KEY SYSTEM)
+(a) Delete the DTCs (See page ST-26).
+(b) After all DTCs are cleared, check if the trouble occurs
+again 320 seconds after the engine switch is turned on
+(IG).
+(c) Check for DTC B2282 and DTC B2283.
+Result
+Display (DTC output) Proceed to
+"DTC B2283" only A
+"DTC B2283" and "DTC B2282" B
+No DTC C
+HINT:
+If DTC B2282 and DTC B2283 are output, perform
+troubleshooting for DTC B2282 first (See page ST-63).
+B GO TO DTC B2282
+C CHECK INTERMITTENT PROBLEMS
+A
+2 CHECK OPERATION OF SPEEDOMETER
+(a) Drive the vehicle and check if the function of the
+speedometer in the combination meter is normal.
+OK:
+Actual vehicle speed and the speed indicated on
+the speedometer are the same.
+HINT:
+The vehicle speed sensor is functioning normally when
+the indication on the speedometer is normal.
+NG GO TO COMBINATION METER SYSTEM
+OK
+3 CHECK DTC OUTPUT (BRAKE CONTROL)
+(a) Delete the DTCs (See page ST-26).
+(b) Check for DTCs.
+(w/o VSC: See page BC-27)
+ST
+(for BOSCH made w/ VSC: See page BC-311)
+(for ADVICS made w/ VSC: See page BC-151)
+OK:
+No DTC is output.
+NG GO TO BRAKE CONTROL SYSTEM

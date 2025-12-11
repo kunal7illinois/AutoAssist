@@ -1,0 +1,28 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-553
+SYMPTOM PROCEDURES
+STEP 6. Check driver’s door lock actuator switch
+connector E-13 and ETACS-ECU connector C-117 for
+damage.
+Q:Are driver’s door lock actuator switch connector E-13
+CONNECTOR: E-13 and ETACS-ECU connector C-117 in good condition?
+FRONT DOOR (LH)
+YES : Go to Step 7.
+NO : Repair or replace the connector. Refer to GROUP
+DEVICE SIDE
+00E, Harness Connector Inspection P.00E-2. If the
+E-13
+functions, which are described in "CIRCUIT
+1 2 3 OPERATION", work normally, the input signal from
+4 5 6
+the driver’s door lock actuator switch should be
+normal.
+AC106556AF
+CONNECTOR: C-117
+DEVICE SIDE
+21 22 23242526272829
+30 31 32333435363738
+39 40 41 424344
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AB
+TSB Revision

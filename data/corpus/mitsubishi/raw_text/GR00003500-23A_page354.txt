@@ -1,0 +1,45 @@
+23A-354 AUTOMATIC TRANSAXLE
+ON-VEHICLE SERVICE
+PRESSURE SWITCH CHECK
+M1231004700122
+Refer to GROUP 55A, On-vehicle Service − Pressure Switch
+Check P.55-25.
+SELECT SWITCH CHECK
+M1231012700064
+Refer to P.23A-363.
+SHIFT SWITCH (UP) CHECK
+M1231012800050
+Refer to P.23A-363.
+SHIFT SWITCH (DOWN) CHECK
+M1231012900057
+Refer to P.23A-363.
+A/T CONTROL RELAY CHECK
+M1231009300118
+1. Remove the A/T control relay.
+2. Use jumper wires to connect the A/T control relay terminal 2
+to the positive battery terminal and terminal 3 to the negative
+FRONT OF VEHICLE battery terminal.
+3. Check the continuity between terminal 1 and terminal 4 of
+1 2
+the A/T control relay when the jumper wires are connected
+3 4
+to and disconnected from the battery.
+JUMPER WIRE CONTINUITY BETWEEN
+TERMINALS NO.1 AND NO.4
+Connected Less than 2 ohm
+AC100115AF
+Disconnected Open circuit
+4. If there is any problem with the A/T control relay, replace it.
+SOLENOID VALVE CHECK
+M1231009400115
+1. Use the scan tool to measure the ATF temperature and set
+the ATF temperature to 20°C (68°F).
+2. Remove the A/T control solenoid valve assembly connector.
+3. Measure the resistance between the solenoid valve
+A/T CONTROL terminals.
+SOLENOID VALVE
+4. Check that the measured values are within the standard
+ASSEMBLY
+values at Steps 1 and 2.
+AC006158AC
+TSB Revision

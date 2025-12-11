@@ -1,0 +1,34 @@
+EI–37
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+A
+2 CHECK HARNESS AND CONNECTOR (CERTIFICATION ECU - STEERING LOCK ECU)
+(a) Disconnect the E58 and E51 ECU connectors.
+Wire Harness Side Connectro Front View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+E58 Standard resistance
+Certification ECU
+Tester Connection Specified Condition
+E58-10 (LIN) - E51-5 (LIN) Below 1 Ω
+1 2 3 4 5 6 7 8 9 1011121314151617 E58-10 (LIN) - Body ground 10 kΩ or higher
+1819202122232425262728293031323334353637383940
+NG REPAIR OR REPLACE HARNESS OR
+LIN
+CONNECTOR
+E51
+Steering Lock ECU
+1 2 3 4 5 6 7
+LIN
+B118667E01
+OK
+3 CHECK CERTIFICATION ECU
+(a) After replacing the certification ECU with a normal one,
+check for DTCs (See page EI-24).
+EI
+Result
+Result Proceed to
+B2786 output reoccurs A
+B2786 output does not reoccur B
+B END
+A
+REPLACE STEERING LOCK ECU

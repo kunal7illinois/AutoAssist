@@ -1,0 +1,37 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-579
+SYMPTOM PROCEDURES
+STEP 6. Check the wiring harness between hood switch
+connector A-23 (terminal 2) and ETACS-ECU connector C-
+117 (terminal 24).
+NOTE: Also check intermediate connector C-89. If intermediate
+CONNECTOR: A-23
+connectors C-89 is damaged, repair or replace the connector
+as described in GROUP 00E, Harness Connector Inspection
+P.00E-2.
+DEVICE SIDE
+1 2
+AC106465AB
+CONNECTOR: C-117
+DEVICE SIDE
+21 22 23242526272829
+30 31 32333435363738
+39 40 41 424344
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AB
+Q:Is the wiring harness between hood switch connector A-
+CONNECTOR: C-89
+23 (terminal 2) and ETACS-ECU connector C-117
+CONNECTOR BLOCK (LH)
+(terminal 24) in good condition?
+YES : Replace the ETACS-ECU. If the theft-alarm system
+operates normally, it indicates that a correct signal is
+sent from the hood switch.
+NO : Repair the wiring harness. If the theft-alarm system
+1 2 3 4 5 6 7 8 910 111213
+operates normally, it indicates that a correct signal is
+141516171819202122232425
+262728 29 30 31 38 sent from the hood switch.
+3233 34 35 36 37
+AC106477AC
+TSB Revision

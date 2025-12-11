@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+NO -Replace the fuel rail pressure sensor (see FUEL PRESSURE SWITCH
+REPLACEMENT ), then go to step 19.
+10. Check the FUEL RAIL PRESSURE SENSOR in the DATA LIST with the
+HDS at idle.
+2
+Is about 204-326 kPa (29.58-47.3 psi, 2.08-3.32 kgf/cm ) indicated?
+YES -Go to step 16.
+NO -Go to step 11.
+11. Turn the ignition switch OFF.
+12. Remove the fuel rail pressure sensor (see FUEL PRESSURE SWITCH
+REPLACEMENT ).
+13. Reconnect the fuel rail pressure sensor 3P connector to the sensor.
+14. Turn the ignition switch ON (II).
+15. Compare the value of the BARO SENSOR and the FUEL RAIL PRESSURE
+SENSOR in the DATA LIST with the HDS.
+2
+Does the reading differ 22.3 kPa (3.23 psi, 0.23 kgf/cm ) or more?
+YES -Replace the fuel rail pressure sensor (see FUEL PRESSURE SWITCH
+REPLACEMENT ), then go to step 19.
+NO -Replace the fuel pressure regulator P1 (see FUEL PRESSURE
+REGULATOR P1 REPLACEMENT ), then go to step 19.
+16. Check the MAP SENSOR in the DATA LIST with the HDS.
+Is about 53.2 kPa (15.7 in.Hg, 399 mmHg), or 1.59 V or more indicated?
+YES -Go to step 17.
+NO -Replace the MAP sensor, refer to the MAP SENSOR
+REPLACEMENT , then go to step 19.

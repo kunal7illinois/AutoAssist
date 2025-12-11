@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+8. Read the DTC (see CLEAR THE DTC MEMORY WITH THE HDS).
+Is DTC 34-3x indicated?
+YES -Go to step 9.
+NO -Short to another wire in the right side curtain airbag inflator; replace the
+right side curtain airbag (see SIDE CURTAIN AIRBAG REPLACEMENT).
+9. Turn the ignition switch OFF. Disconnect the negative cable from the battery,
+then wait for 3 minutes.
+10. Disconnect both seat belt tensioner 4P connectors (see step 7
+DISCONNECTING SYSTEM CONNECTORS) and both seat belt buckle
+tensioner 4P connectors (see step 8 DISCONNECTING SYSTEM
+CONNECTORS).
+11. Disconnect SRS unit connector B (28P) from the SRS unit (see step 9
+DISCONNECTING SYSTEM CONNECTORS).
+12. Disconnect the SRS inflator simulator from the SRS simulator lead. Do not
+disconnect the simulator lead from the floor wire harness 2P connector.
+13. Connect the SRS short canceller (070AZ-SAA0100) to the No. 23 and No. 24
+terminals of SRS unit connector B (28P) (see OPENING THE SRS UNIT
+SHORTING CONNECTORS FOR DIAGNOSIS).
+14. Measure the resistance between the terminals of the black SRS simulator lead
+(A). There should be an open circuit or at least 1 M ohms.
+Fig. 149: Identifying Floor Wire Harness 2P Connector

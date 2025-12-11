@@ -1,0 +1,68 @@
+RS–248
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+TERMINALS OF ECU
+1. OCCUPANT CLASSIFICATION ECU (for Power seat)
+T11 T10
+6 543 21 6 543 21
+1211109 87 1211109 87
+H043128E06
+Terminal No. (Symbols) Wiring Color Terminal Description Condition Specification
+T10-1 (+B) - T10-3 (GND) W - W-B Battery Always 10 to 14 V
+T10-2 (DIA) - T10-3 (GND) GR - W-B Diagnosis (DLC3) Ignition switch on (IG) Pulse generation
+T10-3 (GND) - Body ground W-B - Body ground Ground Always Below 1 V
+Center airbag sensor
+T10-4 (FSR-) - T10-3 (GND) Y - W-B assembly communication Always Below 1 V
+line (-)
+Passenger side buckle
+T10-5 (BGND) - T10-3 (GND) GR - W-B Always Below 1 V
+switch ground line
+Power source (ECU-B
+T10-7 (IG) - T10-3 (GND) BR - W-B Ignition switch on (IG) 10 to 14 V
+Fuse)
+Center airbag sensor
+T10-8 (FSR+) - T10-4 (FSR-) L - Y assembly communication Ignition switch on (IG) Pulse generation
+line
+Passenger side buckle
+T10-9 (BSW) - T10-5 (BGND) B - GR Always Below 1 V
+switch line
+RS
+Front occupant
+T11-1 (SGD1) - T10-3 (GND) G - W-B classification sensor LH Always Below 1 V
+ground line
+Front occupant
+T11-2 (SGD2) - T10-3 (GND) O - W-B classification sensor RH Always Below 1 V
+ground line
+Rear occupant
+T11-3 (SGD3) - T10-3 (GND) W - W-B classification sensor LH Always Below 1 V
+ground line
+Rear occupant
+T11-4 (SGD4) - T10-3 (GND) BR - W-B classification sensor RH Always Below 1 V
+ground line
+Ignition switch on (IG), a
+Rear occupant
+load is applied to rear
+T11-5 (SVC3) - T11-3 (SGD3) GR - W classification sensor LH 4.5 to 5.1 V
+occupant classification
+power supply line
+sensor LH
+Ignition switch on (IG), a
+Rear occupant
+load is applied to rear
+T11-6 (SVC4) - T11-4 (SGD4) V - BR classification sensor RH 4.5 to 5.1 V
+occupant classification
+power supply line
+sensor RH
+Ignition switch on (IG), a
+Front occupant
+load is applied to front
+T11-7 (SIG1) - T11-1 (SGD1) P - G classification sensor LH 0.2 to 4.9 V
+occupant classification
+signal line
+sensor LH
+Ignition switch on (IG), a
+Front occupant
+load is applied to front
+T11-8 (SIG2) - T11-2 (SGD2) L - O classification sensor RH 0.2 to 4.9 V
+occupant classification
+signal line
+sensor RH

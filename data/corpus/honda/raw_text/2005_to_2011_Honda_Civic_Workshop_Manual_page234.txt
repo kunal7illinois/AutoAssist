@@ -1,0 +1,25 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+12. Disconnect the SRS inflator simulator from the SRS simulator lead. Do not
+disconnect the simulator lead from the floor wire harness 2P connector.
+13. Measure the resistance between the terminals of the black SRS simulator lead
+(A). There should be 1.0 ohms, or less.
+Fig. 131: Identifying Floor Wire Harness 2P Connector
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is the resistance as specified?
+YES -Faulty SRS unit or poor connection at SRS unit connector B (28P) and
+the SRS unit. Check the connection; if the connection is OK, replace the SRS
+unit (see SRS UNIT REPLACEMENT).
+NO -Open in the floor wire harness; replace the floor wire harness.
+DTC 32-3X ("X" CAN BE 0 THRU 9 OR A THRU F): SHORT TO ANOTHER WIRE OR
+DECREASED RESISTANCE IN FRONT PASSENGER'S SIDE AIRBAG INFLATOR
+Special Tools Required
+SRS inflator simulator 07SAZ-TB4011A
+(cid:1)
+SRS simulator lead L 070AZ-SNAA300
+(cid:1)
+SRS short canceller 070AZ-SAA0100
+(cid:1)
+NOTE: Before doing this troubleshooting procedure, review SRS
+Precautions and Procedures (see PRECAUTIONS AND

@@ -1,0 +1,24 @@
+54B-152 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+KEYLESS ENTRY HAZARD ANSWERBACK AND
+HORN ANSWERBACK FUNCTION
+.The hazard answerback and horn answerback function which
+LOCK
+Keyless entry facilities checking of lock or unlock operations even during day-
+OFF
+transmitter switch
+UNLOCK time is provided. When the lock signal is input from the keyless
+ON entry transmitter to the ETACS-ECU, the hazard light flashes
+Lock relay output
+OFF twice and horn sounds once. When the unlock signal is input,
+ON
+Unlock relay output hazard light flashes once.
+OFF
+Hazard lamp Illuminated NOTE: Hazard answerback function can be disabled by the
+flashing
+state Not illuminated configuration function (Refer to P.54B-627.)
+ON
+Horn relay output
+OFF
+AC101463AB
+TSB Revision

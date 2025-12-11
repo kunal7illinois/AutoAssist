@@ -1,0 +1,50 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-77
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC P0116: Engine Coolant Temperature Circuit Range/Performance Problem
+1 2
+AK000688
+. • The engine coolant temperature sensor is a neg-
+CIRCUIT OPERATION
+• 5-volt voltage is applied to the engine coolant ative temperature coefficient type of resistor. It
+has the characteristic that when the engine cool-
+temperature sensor output terminal (terminal 1)
+ant temperature rises the resistor decreases.
+from the ECM (terminal 44) <M/T> or PCM (ter-
+• The engine coolant temperature sensor output
+minal 44) <A/T> via the resistor in the ECM <M/
+voltage increases when the resistor increases
+T> or PCM <A/T>. The ground terminal (terminal
+and decreases when the resistor decreases.
+2) is grounded with ECM (terminal 49) <M/T> or
+(terminal 57) <A/T>.
+.
+TSB Revision
+KCALB
+NEERG-WOLLEY
+Engine Coolant Temperature Sensor Circuit
+B-11
+(MU802406)
+ENGINE COOLANT
+TEMPERATURE SENSOR
+2 1
+C-58 <M/T> 49 <M/T>
+(MU803782) 57 <A/T> 44
+41424344 45 46 47
+48495051525354555657 58 59 ENGINE CONTROL
+6061 626364 6566 67 68 MODULE (ECM) <M/T>
+OR
+C-55 <A/T>
+POWERTRAIN CONTROL
+(MU803781)
+MODULE (PCM) <A/T>
+5V
+41 42 43 444546
+47 48 495051525354555657
+58 59 60616263 646566
+CONNECTOR : B-11 ENGINE CONNECTOR : C-58<M/T>, C-55<A/T>
+COOLANT
+TEMPERATURE
+PCM<A/T> ECM<M/T>
+SENSOR
+C-55 C-58
+ACX02490AC AK000225AI

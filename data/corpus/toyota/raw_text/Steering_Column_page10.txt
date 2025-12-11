@@ -1,0 +1,31 @@
+SR–8
+STEERING COLUMN – ELECTRIC STEERING LOCK
+SYSTEM DESCRIPTION
+1. DESCRIPTION
+(a) The steering lock system locks or unlocks the
+steering lock by activating the steering lock bar with
+a motor. The steering lock ECU activates the motor
+based on signals from the certification ECU and
+main body ECU.
+(b) A LIN (Local Interconnect Network) is used for
+communication between different ECUs in this
+system.
+2. FUNCTIONS OF COMPONENTS
+(a) The steering lock ECU controls the system based
+on information from the following components.
+Item Function
+Steering lock actuator assembly Consists of a motor, lock bar, lock and unlock position sensors, etc.
+Activated by the steering lock ECU.
+Steering lock ECU Included in the steering lock actuator assembly. This ECU activates
+the steering lock motor based on permission signals from the main
+body ECU and certification ECU.
+Detects steering lock or unlock state and transmits this status to other
+ECUs.
+Main body ECU Permits the steering lock ECU to supply power to activate the motor.
+The main body ECU and certification ECU permit engine start after
+SR receiving an unlock signal from the steering lock ECU.
+Certification ECU Orders the steering lock ECU to lock / unlock the steering. The main
+body ECU and certification ECU permit engine start after receiving an
+unlock signal from the steering lock ECU.
+IG2 relay Controlled by the main body ECU. This ECU sends IG signals to the
+steering lock ECU.

@@ -1,0 +1,43 @@
+WW–4
+WIPER AND WASHER – WIPER AND WASHER SYSTEM
+SYSTEM DESCRIPTION
+1. WASHER LINKED OPERATION
+(a) This system operates the front wipers at a low
+speed immediately after a jet of washer fluid when
+the front washer switch is turned on for
+approximately 0.3 seconds or more. If the switch is
+turned off within approximately 1.5 seconds, the
+system stops the wipers when the switch is turned
+off. If the switch is turned on for approximately 1.5
+seconds or more, the system stops the wipers
+approximately 2.2 seconds after the switch is turned
+off.
+2. INTERMITTENT OPERATION
+(a) The system operates the front wipers once in
+approximately 1.6 to 10.7 seconds when the front
+wiper switch is turned to the INT position. The
+intermittent time can be adjusted between 1.6 and
+10.7 seconds.
+(b) If the wiper control switch is turned to the INT
+position, current flows from the already charged
+capacitor C1 to Tr1 (transistor) through terminals
+INT1 and INT2 of the wiper control switch. When
+Tr1 turns on, current flows from terminal +S of the
+wiper control switch to terminal +1 of the wiper
+control switch, to terminal +1 of the wiper motor, to
+the wiper motor and finally to the ground, causing
+the wiper motor to operate. At the same time,
+current flows from capacitor C1 to terminal INT1 of
+the wiper control switch and then INT2. When the
+current flow from capacitor C1 ends, Tr1 turns off to
+stop the relay contact point and halt the wiper motor.
+When the relay contact point turns off, capacitor C1
+begins to charge again and Tr1 remains off until
+charging has been completed. This period
+corresponds to the intermittent time. When
+capacitor C1 is fully charged, Tr1 turns on and then
+the relay contact point activates, causing the motor
+to operate. This cycle is the intermittent operation.
+WW The intermittent time can be adjusted by using the
+intermittent time adjust dial (variable resistor) to
+change the charge time of capacitor C1.

@@ -1,0 +1,39 @@
+DL–53
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Luggage Compartment Door Key Cylinder Switch Circuit
+DESCRIPTION
+When the luggage compartment door lock cylinder is turned to unlock the door by key, there is continuity
+between terminal TSW of the main body ECU and body ground.
+WIRING DIAGRAM
+E6
+Main Body ECU
+S8 (*1)
+S6(*2)
+Luggage Compartment Door Lock Cylinder
+3(*1) E LSSR 1 (*1) 2
+TSW
+1(*2) 2 (*2)
+*1: w/ Smart Key System
+*2: w/o Smart Key System
+B109777E25
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Select the item below in the "DATA LIST" and read the
+display on the intelligent tester.
+DL
+MAIN BODY:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Ignition key inserted and
+Luggage compartment door key turned to lock position
+TRUNK KEY UNLK -
+cylinder switch/ON or OFF OFF: Ignition key inserted and
+turned to unlock position
+OK:
+When the ignition switch is operated, the display
+changes as shown above.
+NG Go to step 2

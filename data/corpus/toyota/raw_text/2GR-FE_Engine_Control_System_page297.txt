@@ -1,0 +1,47 @@
+ES–297
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR STRATEGY
+Related DTCs P0505: ISC function
+Required Sensors/Components (Main) ETCS
+Crankshaft position sensor, Engine coolant temperature sensor, and
+Required Sensors/Components (Sub)
+Vehicle speed sensor
+Frequency of Operation Continuous
+Duration 10 minutes
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Functional check:
+ES
+Monitor will run whenever these DTCs are not present None
+Engine Running
+TYPICAL MALFUNCTION THRESHOLDS
+Functional check:
+Either of the following conditions 1 or 2 is met: -
+1. Frequency that following conditions (a) and (b) are met: 5 time or more
+(a) Engine RPM - target engine RPM Below -100 rpm, or 200 rpm or more
+(b) Vehicle condition Stop after vehicle was driven by 6.25 mph (10 km/h) or more
+2. Frequency that following conditions (a) and (b) are met: Once
+(a) Engine RPM - target engine RPM Below -100 rpm, or 200 rpm or more
+(b) ISC flow rate learning value 1.3 L/sec. or less. or 8.5 L/sec. or more
+INSPECTION PROCEDURE
+HINT:
+• The following conditions may also cause DTC P0505 to be set:
+(a)The floor carpet overlapping onto the accelerator pedal, causing the accelerator pedal to be slightly
+depressed and therefore the throttle valve position to be slightly open.
+(b)The accelerator pedal being not fully released.
+• Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame
+data can be helpful in determining whether the vehicle was running or stopped, whether the engine
+was warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the
+time of a malfunction (See page ES-45).
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P0505)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Enter the following the menus: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(e) Read the DTCs.
+Result
+Display (DTC output) Proceed to
+P0505 A

@@ -1,0 +1,41 @@
+CH-68 CHASSIS - U660E AUTOMATIC TRANSAXLE
+Transient Shifting Control
+Through cooperative control with ETCS-i (Electronic Throttle Control System-intelligent) and ESA
+(Electronic Spark Advance), and electronic control of the engagement and release speed of the clutch and
+brake hydraulic pressures, excellent response and shift shock reduction have been achieved.
+Driver’s desired
+drive force
+ECM ECT ECU
+Accelerator Pedal
+Operation
+Optimal clutch Drives
+ETCS-i Control
+engagement hydraulic Solenoid
+ESA Control
+pressure and timing Valve
+Solenoid Valve
+(SL1, SL2, SL3, SL4)
+Optimal Driver’s desired drive
+engine output force is achieved
+01YCH30Y
+8. Lock-up Timing Control
+The ECT ECU operates the lock-up timing control in order to improve the fuel consumption while in the 2nd
+gear or above with the shift lever in the D, S6, S5, S4 range.
+(cid:1) Lock-up Operation (cid:2)
+Position or
+D or
+Range SS55 SS44
+Large SS66
+Lock-up Gear
+Operating Range
+1st X X X
+Throttle
+2nd 3rd
+Opening 2nd (cid:5) (cid:5) (cid:5)
+Angle
+4th 5th 6th Lock-up 3rd (cid:5) (cid:5) (cid:5)
+Operating Range 4th (cid:5) (cid:5) (cid:5)
+Vehicle Speed High 5th (cid:5) (cid:5) —
+01YCH31Y
+Lock-up Timing 6th (cid:5) — —
+(cid:5): Operates X: Does not operate —: Not applicable

@@ -1,0 +1,35 @@
+SB–2
+SEAT BELT – SEAT BELT WARNING SYSTEM
+SYSTEM DIAGRAM
+F1
+Combination Center Airbag Occupant Front Seat Inner
+Meter Assembly Sensor Assembly Detection ECU Belt RH
+CANH CANH BSW
+9
+P/BE
+CANL CANL BGN
+FSP+ FSR+
+Front Seat Inner
+Belt LH
+FSP- FSR- Road Sensor FL
+DBE+ SV1
+SIG1
+DBE- Road Sensor RL SGD1
+SV3
+SB
+SIG3
+Road Sensor FR
+SGD3
+SV2
+SIG2
+F3
+Clock Assembly Road Sensor RR SGD2
+10
+PBEW SV4
+3 from GAUGE
+IG SIG4
+No. 2 fuse
+19
+GND1 SGD4
+: CAN
+B137075E01

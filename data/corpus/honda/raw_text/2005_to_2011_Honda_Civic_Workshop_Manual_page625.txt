@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+To prevent PCM damage, do not operate anything
+(cid:1)
+electrical (audio system, brakes, A/C, power windows,
+moonroof (if equipped), door locks, etc.) during the
+update.
+If you need to diagnose the Honda interface module
+(cid:1)
+(HIM) because the HIM's red (#3) light came on or was
+flashing during the update, leave the ignition switch in
+the ON (II) position when you disconnect the HIM from
+the data link connector (DLC). This will prevent PCM
+damage.
+High temperature in the engine compartment might
+(cid:1)
+cause the PCM to become too hot to run the update. If
+the engine has been running before this procedure,
+open the hood and cool the engine compartment.
+1. Turn the ignition switch to ON (II), but do not start the engine.
+2. Connect the HDS to the DLC (A) located behind the driver's dashboard lower
+cover.
+Fig. 12: Identifying Data Link Connector
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+3. Make sure the HDS communicates with the PCM. if it does not, go to DLC
+CIRCUIT TROUBLESHOOTING .
+4. Select the INSPECTION MENU with the HDS.
+5. Select the ETCS TEST, then select the TP POSITION CHECK, and follow the

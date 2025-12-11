@@ -1,0 +1,36 @@
+DL–110
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/o Smart Key System)
+DIAGNOSIS SYSTEM
+1. DESCRIPTION
+The main body ECU stores trouble codes when trouble
+occurs on the vehicle.
+The diagnostic system allows for reading of the trouble
+codes from the DLC3.
+Use the intelligent tester to check and solve the problem.
+2. CHECK DLC3
+(a) The main body ECU uses ISO 15765-4 for
+CG SG CANH SIL
+communication protocol. The terminal arrangement
+of the DLC3 complies with SAE J1962 and matches
+the ISO 15765-4 format.
+CANL BAT
+H100769E16
+Symbols (Terminal No.) Terminal Description Condition Specified condition
+SIL (7) - SG (5) Bus "+" line During transmission Pulse generation
+CG (4) - Body ground Chassis ground Always Below 1 Ω
+SG (5) - Body ground Signal ground Always Below 1 Ω
+BAT (16) - Body ground Battery positive Always 10 to 14 V
+CANH (6) - CANL (14) CAN bus line Ignition switch OFF* 54 to 67 Ω
+CANH (6) - CG (4) HIGH-level CAN bus line Ignition switch OFF* 200 Ω or higher
+CANL (14) - CG (4) LOW-level CAN bus line Ignition switch OFF* 200 Ω or higher
+CANH (6) - BAT (16) HIGH-level CAN bus line Ignition switch OFF* 6 kΩ or higher
+CANL (14) - BAT (16) LOW-level CAN bus line Ignition switch OFF* 6 kΩ or higher
+NOTICE:
+*: Before measuring the resistance, leave the
+vehicle as is for at least 1 minute and do not
+operate the ignition switch, any other switches
+or the doors.
+If the result is not as specified, the DLC3 may have
+a malfunction. Repair or replace the harness and
+connector.
+DL

@@ -1,0 +1,31 @@
+54A-44 CHASSIS ELECTRICAL
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 4. Check the combination meter power supply circuit
+at the combination meter connector C-41.
+(1) Disconnect the combination meter connector C-41.
+CONNECTOR: C-41
+(2) Turn the ignition switch to "ON" position.
+DEVICE SIDE
+41424344454647 484950515253545556
+AC106473AH
+(3) Measure the voltage between terminal 52 and ground.
+CONNECTOR: C-41
+(HARNESS SIDE) • The measured value should be 12 volts (battery positive
+voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 7.
+NO : Go to Step 5.
+AC002043AC
+STEP 5. Check the combination meter connector C-41 for
+damage.
+Q: Is combination meter connector C-41 in good
+CONNECTOR: C-41
+condition?
+YES : Go to Step 6.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. The
+speedometer should work normally.
+DEVICE SIDE
+41424344454647 484950515253545556
+AC106473AH
+TSB Revision

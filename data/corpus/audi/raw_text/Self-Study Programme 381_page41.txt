@@ -1,0 +1,12 @@
+Coding
+The coding tells the control unit the system variant,
+powertrain type, gearbox type, wheel size and type
+of tyre used on the vehicle. The control unit accepts
+the new coding after ignition on/off.
+Tyre type and size (16"-18", standard tyre, SST tyre)
+Powertrain type (front, quattro, gearbox variant)
+6 = PR No. 7K6 (= low tyre pressure indicator)
+Data blocks
+The data blocks are used to check key system status
+information.
+41

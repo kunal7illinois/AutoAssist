@@ -1,0 +1,49 @@
+BODY 42-87
+SUNROOF ASSEMBLY
+OPERATION CHECK
+M1426002600075
+Check that the following items. If faulty, replace the sunroof-ECU (sunroof motor assembly).
+CAUTION
+Check that the following items are normal before carrying out this operation check.
+1. Installation condition of the sunroof assembly
+2. Installation condition, deforms and foreign material of the sunroof drive cable
+3. Unfitted sunroof lid glass
+4. Sunroof switch and sunroof motor assembly
+NO. SUNROOF INITIAL SWITCH OPERATION JUDGMENT (NORMAL)
+POSITION
+01 Fully closed Ignition switch: ON The sunroof automatically
+• Sunroof switch: OPEN opens.
+02 Fully open Ignition switch: ON The sunroof closes while the
+• Sunroof switch: CLOSE sunroof switch is pushed to
+the CLOSE position.
+03 Fully closed (tilt Ignition switch: ON The sunroof will
+down) • Sunroof switch: TILT UP automatically tilt up.
+04 Tilt up Ignition switch: ON The sunroof closes while the
+• Sunroof switch: CLOSE sunroof switch is pushed to
+the CLOSE position.
+05 Fully closed, tilt up or Ignition switch: ON The sunroof stops the
+fully tilted 1.Sunroof switch: OPEN automatic open operation.
+2.Sunroof switch: CLOSE (The sunroof switch
+is pushed to the CLOSE position while the
+sunroof is automatically opening. The time of
+pushing: Within 2 seconds)
+06 Fully tilted Ignition switch: ON The sunroof dose not move.
+• Sunroof switch: TILT UP
+07 Fully closed, tilt up or Ignition switch: ON The sunroof stops the
+fully tilted 1.Sunroof switch: OPEN automatic open operation,
+2.Sunroof switch: CLOSE (The sunroof switch and the sunroof closes while
+is pushed to the CLOSE position while the the sunroof switch is pushed
+to the CLOSE position.
+sunroof is automatically opening. The time of
+pushing: More than 2 seconds)
+08 Fully closed (tilt Ignition switch: ON The sunroof will continue
+down) 1.Sunroof switch: TILT UP automatic operation until
+2.Sunroof switch: OPEN, CLOSE (Each tilted up.
+direction switch of the sunroof switch is
+pushed while the sunroof is conducting the
+automatic tilt up operation.)
+09 Fully closed or while Ignition switch: ON The sunroof stop.
+opening • Sunroof switch: OPEN
+Block the sunroof before the sunroof is fully
+open.
+TSB Revision

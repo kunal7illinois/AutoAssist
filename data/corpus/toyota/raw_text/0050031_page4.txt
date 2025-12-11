@@ -1,0 +1,36 @@
+ES–178
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 INSPECT ECM (KNK1 VOLTAGE)
+(a) Disconnect the B18 knock sensor connector.
+Wire Harness Side:
+(b) Turn the ignition switch ON.
+Knock Sensor Connector (c) Measure the voltage between the knock sensor
+terminals.
+B18
+Standard voltage
+1 2
+Tester Connections Specified Conditions
+B18-2 (KNK1) - B18-1 (EKNK) 4.5 to 5.5 V
+Front View
+EKNK KNK1
+(d) Reconnect the knock sensor connector.
+ES NOTICE:
+A105992E04
+Fault may be intermittent. Check the wire harness and
+connectors carefully and retest.
+NG REPLACE ECM
+OK
+CHECK FOR INTERMITTENT PROBLEMS
+4 INSPECT KNOCK SENSOR
+(a) Remove the knock sensor.
+Ohmmeter Component Side:
+(b) Measure the resistance between the terminals.
+Standard resistance
+Tester Connections Specified Conditions
+Knock Sensor
+2 (KNK1) - 1 (EKNK) 120 to 280 kΩat 20°C (68°F)
+(c) Reinstall the knock sensor.
+NG REPLACE KNOCK SENSOR
+A065174E15
+OK
+REPAIR OR REPLACE HARNESS OR CONNECTOR

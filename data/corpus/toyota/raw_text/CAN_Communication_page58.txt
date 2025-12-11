@@ -1,0 +1,32 @@
+CA–58
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+2GR-FE:
+: CAN Main Bus Wire (CANH)
+: CAN Main Bus Wire (CANL)
+: CAN Branch Wire (CANH)
+: CAN Branch Wire (CANL)
+Trouble Area
+DLC3
+Combination Meter
+ECM
+To EFI MAIN Relay
+1
++B2 A55
+CA
+2
++B A55
+120 Ω No. 1 CAN J/C No. 2 CAN J/C 120 Ω 81
+E1 C55
+C126217E09
+INSPECTION PROCEDURE
+NOTICE:
+• Turn the ignition switch off before measuring the resistance of the CAN main wire and CAN
+branch wires.
+• After the ignition switch is turned off, check that the key reminder warning system and light
+reminder warning system are not operating.
+• Before measuring the resistance, leave the vehicle as is for at least 1 minute and do not operate
+the ignition switch, any other switches or the doors. If doors need to be opened in order to
+check connectors, open the doors and leave them open.
+HINT:
+Operating the ignition switch, any other switches or any triggers related ECU and sensor communication
+on the CAN, which would cause resistance reading variations.

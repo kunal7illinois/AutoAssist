@@ -1,0 +1,48 @@
+ES–171
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+For each throttle opening angle, a specific voltage difference is expected between the outputs of VTA1
+and VTA2. If the output voltage difference between the two signals deviates from the normal operating
+range, the ECM interprets this as a malfunction of the TP sensor. The ECM illuminates the MIL and sets
+the DTC.
+If the malfunction is not repaired successfully, the DTC is set 2 seconds after the engine is next started.
+MONITOR STRATEGY
+Related DTCs P0121: TP sensor rationality
+Required Sensors/Components (Main) TP sensor
+Required Sensors/Components (Sub) -
+Frequency of Operation Continuous
+Duration Within 2 seconds
+MIL Operation Immediate
+Sequence of Operation None ES
+TYPICAL ENABLING CONDITIONS
+P0120, P0122, P0123, P0220, P0222, P0223, P2135 (TP
+Monitor runs whenever following DTCs are not present
+sensor)
+Either of following conditions A or B is met: -
+A. Engine switch ON
+B. Electric throttle motor power ON
+TP sensor malfunction (P0120, P0122, P0123, P0220, P0222, P0223,
+Not detected
+P2135)
+TYPICAL MALFUNCTION THRESHOLDS
+Difference in voltage between VAT1 and VTA2
+Less than 0.8 V or more than 1.6 V
+TP sensor 1 - [TP sensor 2 x 0.8 (corrected by learning value)]
+FAIL-SAFE
+When this DTC, as well as other DTCs relating to ETCS (Electronic Throttle Control System)
+malfunctions, is set, the ECM enters fail-safe mode. During fail-safe mode, the ECM cuts the current to
+the throttle actuator off, and the throttle valve is returned to a 6° throttle angle by the return spring. The
+ECM then adjusts the engine output by controlling the fuel injection (intermittent fuel-cut) and ignition
+timing, in accordance with the accelerator pedal opening angle, to allow the vehicle to continue at a
+minimal speed. If the accelerator pedal is depressed firmly and gently, the vehicle can be driven slowly.
+Fail-safe mode continues until a pass condition is detected, and the engine switch is then turned off.
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air/fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).
+1 CHECK OTHER DTC OUTPUT (IN ADDITION TO DTC P0121)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the engine switch on (IG).
+(c) Turn the tester on.

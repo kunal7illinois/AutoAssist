@@ -1,0 +1,27 @@
+ME–45
+METER – METER / GAUGE SYSTEM
+Entire Combination Meter does not Operate
+DESCRIPTION
+This circuit is the power source circuit for the meter. This circuit provides two types of power sources; one
+is a constant power source mainly used as a backup power source, and the other is a power source
+mainly used for signal transmission. The constant power source is mainly used as a backup power source
+of the meter CPU, however, it is also used for communication. If a voltage of 12 V is not applied to
+terminal IG+ when turn the ignition switch on (IG), the indicator will not operate.
+WIRING DIAGRAM
+Combination Meter Assembly
+E23
+Ignition Switch
+ST/AM2 GAUGE No. 2 13
+5 6
+F1 IG+
+DOME 2
+F1 B
+MPX-B 1
+to Battery
+F1 B2
+12
+F1 E2
+24
+F1 ES
+ME
+C E110182E09

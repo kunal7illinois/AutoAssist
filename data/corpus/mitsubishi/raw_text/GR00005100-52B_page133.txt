@@ -1,0 +1,42 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-133
+SRS AIR BAG DIAGNOSIS
+STEP 3. Check the ground circuit to the SRS-ECU.
+(1) Disconnect SRS-ECU connector C-72, and measure at the
+CONNECTOR: C-72
+wiring harness side.
+CAUTION
+Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+weakened.
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH)AC000358AD
+(2) Check the continuity between terminals 3 and body ground.
+C-72 CONNECTOR
+(HARNESS SIDE) REAR VIEW • Should be less than 2 ohm.
+Q:Is the continuity normal?
+1 2 3 4 5 6 7 8 YES : Go to Step 4.
+9 10111213141516
+NO : Go to Step 6.
+AC106703AB
+STEP 4. Check the power supply circuit to the SRS-ECU.
+(1) Disconnect SRS-ECU connector C-72, and measure at the
+CONNECTOR: C-72
+wiring harness side.
+(2) Connect the negative battery terminal.
+(3) Turn the ignition switch to the "ON" position.
+CAUTION
+Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+SRS-ECU weakened.
+ACCELERATOR PEDAL (4) Measure the voltage between terminals 9, 12 and body
+CENTER REINFORCEMENT(LH)AC000358AD ground
+• Voltage should be 9 volts or more.
+C-72 CONNECTOR Q:Is the voltage normal?
+(HARNESS SIDE) REAR VIEW
+YES : Replace SRS-ECU. Refer to P.52B-142. Then go to
+Step 8.
+1 2 3 4 5 6 7 8 NO : Go to Step 7.
+9 10111213141516
+AC106704AB
+TSB Revision

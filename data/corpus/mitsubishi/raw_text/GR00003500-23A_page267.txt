@@ -1,0 +1,44 @@
+AUTOMATIC TRANSAXLE 23A-267
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 6. Check each brake and clutch.
+(1) Remove the transaxle.
+(2) Check the facing for seizure and piston seal ring for
+damage and interference with retainer. Repair or replace
+SECOND
+UNDERDRIVE
+BRAKE the faulty parts. Refer to GROUP 23B, Transaxle P.23B-10,
+LOW- CLUTCH
+REVERSE Underdrive Clutch and Input Shaft P.23B-57, Reverse and
+REVERSE
+BRAKE
+CLUTCH Overdrive Clutch P.23B-59. Then check for the symptom.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Go to Step 7.
+OVERDRIVE CLUTCH
+AC001868AB
+STEP 7. Replace the PCM.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Start over at Step 1.
+INSPECTION PROCEDURE 10: Does not Shift Properly All Points (Early or Late Shift Points)
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+causes for this code to be set:)
+If all shift points are early or late while driving, the
+• Malfunction of the output shaft speed sensor
+cause is probably a malfunction of the output shaft
+• Malfunction of the throttle position sensor
+speed sensor, throttle position sensor or a solenoid
+• Malfunction of each solenoid valve
+valve.
+• Abnormal line pressure
+• Malfunction of the valve body
+.
+• Malfunction of the PCM
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+TSB Revision

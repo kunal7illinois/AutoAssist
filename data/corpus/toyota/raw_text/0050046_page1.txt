@@ -1,0 +1,40 @@
+ES–263
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0630 VIN not Programmed or Mismatch - ECM / PCM
+DESCRIPTION
+DTC P0630 is set when the Vehicle Identification Number (VIN) is not stored in the Engine Control Module
+(ECM) or the input VIN is incorrect. Input the VIN with the intelligent tester.
+DTC No. DTC Detection Conditions Trouble Areas
+• VIN not stored in ECM
+P0630 • Input VIN incorrect ECM
+(1 trip detection logic)
+MONITOR STRATEGY
+ES
+Related DTCs P0630: VIN not programmed
+Required Sensors/Components (Main) ECM
+Required Sensors/Components (Related) -
+Frequency of Operation Continuous
+Duration 0.325 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Battery voltage 8 V or more
+Ignition switch ON
+Starter OFF
+TYPICAL MALFUNCTION THRESHOLDS
+VIN code Not programmed
+COMPONENT OPERATING RANGE
+VIN code Programmed
+INSPECTION PROCEDURE
+1 READ CURRENT DTC
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(d) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+P0630 A
+P0630 and other DTCs B
+If any DTCs other than P0630 are output, troubleshoot those
+DTCs first.

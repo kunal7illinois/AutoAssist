@@ -1,0 +1,45 @@
+BC–14
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+12 REPAIR OR REPLACE
+NEXT
+13 CONFIRMATION TEST
+NEXT
+END
+TEST MODE PROCEDURE
+ABS Warning BRAKE Warning
+1. WARNING LIGHT AND INDICATOR LIGHT INITIAL
+Light: Light:
+CHECK
+BC (a) Release the parking brake.
+NOTICE:
+USA: USA:
+Before releasing the parking brake, move the
+shift lever to the P position for safety (AT model)
+or set the chocks to hold the vehicle for safety
+(MT model).
+HINT:
+When the parking brake is applied or the level of the
+brake fluid is low, the BRAKE warning light comes
+Canada: Canada:
+on.
+(b) When the ignition switch is turned on (IG), check
+that the ABS warning light comes on for
+approximately 3 seconds.
+HINT:
+• If the skid control ECU stores any DTCs, the ABS
+and BRAKE warning lights come on.
+• If the indicator remains on or does not come on,
+C131966E01
+proceed to troubleshooting for the light circuits
+listed below.
+Trouble Area See procedure
+ABS warning light (Remains on) BC-74
+ABS warning light circuit (Does not come on) BC-78
+BRAKE warning light (Remains on) BC-81
+BRAKE warning light (Does not come on) BC-91
+2. SENSOR SIGNAL CHECK USING TEST MODE
+(SIGNAL CHECK) (INTELLIGENT TESTER)
+HINT:
+If the ignition switch is turned from on (IG) to on (ACC) or
+off during Test Mode (signal check), DTCs recorded
+during the signal check function will be erased.

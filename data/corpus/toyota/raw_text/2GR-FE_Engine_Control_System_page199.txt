@@ -1,0 +1,62 @@
+ES–199
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0171 System Too Lean (Bank 1)
+DTC P0172 System Too Rich (Bank 1)
+DTC P0174 System Too Lean (Bank 2)
+DTC P0175 System Too Rich (Bank 2)
+DESCRIPTION
+The fuel trim is related to the feedback compensation value, not to the basic injection time. The fuel trim
+consists of both the short-term and long-term fuel trims.
+The short-term fuel trim is fuel compensation that is used to constantly maintain the air-fuel ratio at
+ES
+stoichiometric levels. The signal from the Air-Fuel Ratio (A/F) sensor indicates whether the air-fuel ratio is
+rich or lean compared to the stoichiometric ratio. This triggers a reduction in the fuel injection volume if the
+air-fuel ratio is rich and an increase in the fuel injection volume if it is lean.
+Factors such as individual engine differences, wear over time and changes in operating environment
+cause short-term fuel trim to vary from the central value. The long-term fuel trim, which controls overall
+fuel compensation, compensates for long-term deviations in the fuel trim from the central value caused by
+the short-term fuel trim compensation.
+If both the short-term and long-term fuel trims are lean or rich beyond predetermined values, it is
+interpreted as a malfunction, and the ECM illuminates the MIL and sets a DTC.
+DTC No. DTC Detection Conditions Trouble Areas
+• Air induction system
+• Injector blockage
+• Mass Air Flow (MAF) meter
+• Engine Coolant Temperature (ECT) sensor
+• Fuel pressure
+• Gas leakage from exhaust system
+• Open or short in A/F sensor (bank 1, 2 sensor 1)
+With warm engine and stable air-fuel ratio feedback,
+P0171 circuit
+fuel trim considerably in error to lean side (2 trip
+P0174 • A/F sensor (bank 1, 2 sensor 1)
+detection logic)
+• A/F sensor heater (bank 1, 2 sensor 1)
+• A/F sensor heater relay
+• A/F sensor heater and A/F sensor heater relay
+circuits
+• PCV valve and hose
+• PCV hose connections
+• ECM
+• Injector leakage or blockage
+• MAF meter
+• ECT sensor
+• Ignition system
+• Fuel pressure
+• Gas leakage from exhaust system
+With warm engine and stable air-fuel ratio feedback,
+P0172 • Open or short in A/F sensor (bank 1, 2 sensor 1)
+fuel trim considerably in error to rich side (2 trip
+P0175 circuit
+detection logic)
+• A/F sensor (bank 1, 2 sensor 1)
+• A/F sensor heater (bank 1, 2 sensor 1)
+• A/F sensor heater relay
+• A/F sensor heater and A/F sensor heater relay
+circuits
+• ECM
+HINT:
+• When DTC P0171 or P0174 is set, the actual air-fuel ratio is on the lean side. When DTC P0172 or
+P0175 is set, the actual air-fuel ratio is on the rich side.
+• If the vehicle runs out of fuel, the air-fuel ratio is lean and DTC P0171 or P0174 may be set. The MIL is
+then illuminated.

@@ -1,0 +1,43 @@
+WS–38
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+2 CHECK WIRE HARNESS (WINDOW REGULATOR MOTOR - WINDOW REGULATOR
+MASTER SWITCH)
+(a) without Jam protection:
+WS M1 Disconnect the M1 and I4 connectors.
+Power Window Regulator Master (1) Measure the resistance according to the value(s) in
+Switch Assembly: the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+M1-3 (UP) - I4-2 Always Below 1 Ω
+M1-4 (DN) - I4-1 Always Below 1 Ω
+M1-3 (UP) - Body
+Always 10 kΩ or higher
+ground
+UP DN M1-4 (DN) - Body
+Always 10 kΩ or higher
+I4 ground
+Power Window Regulator Motor
+(Front LH):
+B137061E01
+(b) with Jam protection:
+M1
+Disconnect the M1 and I5 connectors.
+Power Window Regulator Master
+(1) Measure the resistance according to the value(s) in
+Switch Assembly:
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+M1-8 (UP) - I5-10 Always Below 1 Ω
+DN UP M1-5 (DN) - I5-7 Always Below 1 Ω
+M1-8 (UP) - Body
+Always 10 kΩ or higher
+I5 ground
+Power Window Regulator Motor M1-5 (DN) - Body
+Always 10 kΩ or higher
+(Front LH): ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+B137046E01
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

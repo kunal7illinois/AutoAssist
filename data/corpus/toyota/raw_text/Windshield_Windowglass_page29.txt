@@ -1,0 +1,68 @@
+WS–29
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+Power Window Master Switch Circuit
+DESCRIPTION
+This circuit transmits signal from the power window regulator master switch assembly to the power
+window regulator switch.
+WS
+WIRING DIAGRAM
+M1 H6
+Power Window Regulator Power Window Regulator
+Master Switch Switch (Front RH)
+H4
+Power Window Regulator
+Motor (Front RH)
+3
+from POWER fuse B
+16 5 4
+PU SU U
+15 2 1
+PD SD D
+K1
+Power Window Regulator
+6 Switch (Rea LH) K3
+B from POWER fuse
+Power Window Regulator
+Motor (Rear LH)
+3
+from RR DOOR LH fuse B
+12 5 4
+RLU SU U
+13 2 1
+RLD SD D
+J1
+Power Window Regulator
+Switch (Rear RH) J3
+Power Window Regulator
+Motor (Rear RH)
+3
+from RR DOOR RH fuse B
+10 5 4
+RRU SU U
+18 2 1
+RRD SD D
+I5
+I4 Power Window Regulator
+Power Window Regulator
+Motor (Front LH)
+Motor (Front LH)
+1 2 2
+from PWR fuse
+*1 *2 B
+*1
+5 (4) 7
+DN DWN1
+*2
+8 (3) 10
+UP UP1
+4 *2 4
+AUTO AUTO
+3 *2 5
+LED LED
+*2
+*1: without Jam Protection 1
+1 E
+E *2
+*2: with Jam Protection
+( ): without Jam Protection
+B140723E01

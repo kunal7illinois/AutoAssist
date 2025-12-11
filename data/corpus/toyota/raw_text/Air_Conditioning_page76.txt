@@ -1,0 +1,59 @@
+AC–76
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+(b) Measure the resistance according to the value(s) in the
+A/C Solar Sensor Connector
+table below.
+Wire Harness View:
+Standard resistance
+Tester Connection Condition Specified Condition
+E6-20 (CLTB) - E11-6
+Always Below 1 Ω
+(CLTB)
+E6-18 (CLTE) - E11-3
+Always Below 1 Ω
+(CLTE)
+E11
+E6-20 (CLTB) - Body
+Always 10 kΩ or higher
+ground
+E6-18 (CLTE) - Body
+CLTE ground Always 10 kΩ or higher
+CLTB
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E124476E02
+OK
+REPLACE MAIN BODY ECU
+4 CHECK SOLAR SENSOR
+(a) Remove the solar sensor with its connector still
+Solar Sensor Connector Front View: connected.
+AC (b) Connect the positive (+) lead from the battery to terminal
+6 (CLTB), and the negative (-) lead to terminal 3 (CLTE)
+of the solar sensor.
+E11
+(c) Measure the voltage according to the value(s) in the
+table below.
+TSL Standard voltage
+CLTE Tester Connection Condition Specified Condition
+CLTB E11-1 (TSL) - E11-3 Sensor is subjected to
+0.8 to 4.3 V
+(CLTE) electric light
+E11-1 (TSL) - E11-3 Sensor is covered with
+Below 0.8 V
+(CLTE) a cloth
+NOTICE:
+• The connection procedure for using a digital
+E109215E15
+tester such as a TOYOTA electrical tester is
+shown above. When using an analog tester,
+connect the negative (-) lead to terminal 6, and the
+positive (+) lead to terminal 3 of the solar sensor.
+• While using the battery during inspection, do not
+bring the positive and negative tester probes too
+close to each other as a short circuit may occur.
+HINT:
+• Use an incandescent light for inspection. Bring it
+within about 30 cm (11.8 in.) of the solar sensor.
+• As the inspection light is moved away from the
+sensor, the voltage increases.
+NG REPLACE SOLAR SENSOR

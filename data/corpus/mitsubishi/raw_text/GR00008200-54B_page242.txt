@@ -1,0 +1,50 @@
+54B-242 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal by using "FUNCTION
+DIAG." of the SWS monitor.
+Set each switch to the following condition before checking input
+signal from the park/neutral position switch ("R" position).
+• Ignition switch: ON
+• Rear wiper switch: ON
+• Shift position: R position
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502. Also con-
+nect SWS monitor kit MB991862 after turning on scan tool
+MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+COLUMN (2) Connect SWS monitor kit MB991862 to the column switch
+SWITCH
+connector.
+CONNECTOR
+(3) Operate the MUT-II according to the procedure below to
+display "REV. INTERLOCK."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+16 PIN
+3. Select "SWS MONITOR."
+4. Select "FUNCTION DIAG."
+MB991502
+AC101570AB 5. Select "REAR WIPER."
+6. Select "REV. INTERLOCK."
+(4) Check that normal conditions are displayed on the items
+COLUMN SWITCH
+CONNECTOR described in the table below.
+SWS MONITOR
+ITEM No. ITEM NAME NORMAL CONDITIONS
+COLUMN SWITCH HARNESS (FOR
+CONNECTOR AT COLUMN-ECU) ITEM No.41 PNP SW (R) ON
+HARNESS SIDE
+Q:Are normal conditions displayed?
+YES : Replace the ETACS-ECU. When the selector lever is
+moved to the "R" position, the rear wiper should
+AC102200AB
+operate consecutively approximately twice.
+NO : Refer to Inspection Procedure O-4 "ETACS-ECU
+does not receive "R" position signal from the backup
+light switch <M/T>P.54B-486 " or Inspection
+Procedure O-5 "ETACS-ECU does not receive "R"
+position signal from the park/neutral position switch
+<A/T>P.54B-486 ."
+TSB Revision

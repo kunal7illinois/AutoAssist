@@ -1,0 +1,48 @@
+SR–15
+STEERING COLUMN – ELECTRIC STEERING LOCK
+DIAGNOSIS SYSTEM
+1. DESCRIPTION
+(a) DIAGNOSTIC SYSTEM
+When troubleshooting a vehicle with a diagnostic
+system, the only difference from the usual
+troubleshooting procedure is connecting the
+intelligent tester to the vehicle and reading various
+data output from the vehicle's steering lock ECU.
+The steering lock ECU records DTCs when the
+computer detects a malfunction in the computer
+itself or in system circuits.
+To check the DTCs, connect the intelligent tester to
+the DLC3 on the vehicle. The intelligent tester
+enables the DTCs to be cleared, the indicators to be
+activated, and the DATA LIST to be checked.
+(b) The steering lock ECU diagnosis information cannot
+be read directly from the steering lock ECU by the
+tester. The diagnosis information from the steering
+lock ECU is transmitted to the tester via the
+certification ECU to the tester using the controller
+area network (CAN).
+2. CHECK DLC3
+(a) The certification ECU uses ISO 15765-4 for SR
+CG SG CANH SIL communication. The terminal arrangement of the
+DLC3 complies with SAE J1962 and matches the
+ISO 15765-4 format.
+CANL BAT
+H100769E16
+Symbols (Terminal No.) Terminal Description Condition Specified Condition
+SIL (7) - SG (5) Bus "+" line During transmission Pulse generation
+CG (4) - Body ground Chassis ground Always Below 1 Ω
+SG (5) - Body ground Signal ground Always Below 1 Ω
+BAT (16) - Body ground Battery positive Always 11 to 14 V
+CANH (6) - CANL (14) CAN bus line Engine Switch off* 54 to 69 Ω
+CANH (6) - CG (4) HIGH-level CAN bus line Engine Switch off* 200 Ω or higher
+CANL (14) - CG (4) LOW-level CAN bus line Engine Switch off* 200 Ω or higher
+CANH (6) - BAT (16) HIGH-level CAN bus line Engine Switch off* 6 kΩ or higher
+CANL (14) - BAT (16) LOW-level CAN bus line Engine Switch off* 6 kΩ or higher
+NOTICE:
+*: Before measuring the resistance, leave the
+vehicle as is for at least 1 minute and do not
+operate the engine switch, and other switches
+or the doors.
+If the result is not as specified, the DLC3 may have
+a malfunction. Repair or replace the harness and
+connector.

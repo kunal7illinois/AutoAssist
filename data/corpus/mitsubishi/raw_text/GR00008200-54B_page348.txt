@@ -1,0 +1,34 @@
+54B-348 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 4. Check at ETACS-ECU connector C-119 in order to
+check the power supply circuit to the ETACS-ECU (battery
+power supply).
+(1) Disconnect ETACS-ECU connector C-119, and measure at
+CONNECTOR: C-119 the junction block side.
+DEVICE SIDE
+1 2 3 4 5 6 7 8 91011121314151617181920
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+(2) Measure the voltage between terminal 11 and ground.
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+CONNECTOR C-119 YES : Replace the ETACS-ECU. Check that the turn-signal
+(JUNCTION BLOCK SIDE)
+lights illuminate normally.
+NO : Go to Step 5.
+20191817161514131211109 8 7 6 5 4 3 2 1
+AC101931AD
+STEP 5. Check ETACS-ECU connector C-119 for damage.
+Q:Is ETACS-ECU connector C-119 in good condition?
+CONNECTOR: C-119
+YES : Go to Step 6.
+DEVICE SIDE
+NO : Repair or replace the connector. Refer to GROUP
+1 2 3 4 5 6 7 8 91011121314151617181920
+00E, Harness Connector Inspection P.00E-2. Check
+JUNCTION BLOCK that the turn-signal lights illuminate normally.
+(REAR VIEW)
+AC106481AF
+TSB Revision

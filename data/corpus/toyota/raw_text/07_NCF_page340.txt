@@ -1,0 +1,25 @@
+BE-6 BODY ELECTRICAL - MULTIPLEX COMMUNICATION
+(cid:3)DIFFERENCES BETWEEN CAN, AVC-LAN AND BEAN
+1. General
+(cid:3) The protocols, which are the rules for establishing data communication, differ between the CAN,
+AVC-LAN and BEAN*. If the ECUs in the networks use different frameworks for their data, such as
+communication speed, communication wire, and signals, they will be unable to understand each other.
+Therefore, protocols (rules) must be established among them.
+(cid:3) Compared to the AVC-LAN and BEAN*, the CAN features high-speed data transmission. Therefore, the
+CAN is able to transmit larger amounts of data faster than other protocols. This feature makes it possible
+to transmit data accurately in the power train and chassis control system, which requires large amounts
+of data to be transmitted in short periods of time.
+*: The BEAN is used in the body electrical system of the ’06 Camry and some other TOYOTA models, but
+is not used on the ’07 Camry.
+CCAANN AAVVCC-LLAANN BBEEAANN
+PPrroottooccooll
+(ISO Standard) (TOYOTA Original) (TOYOTA Original)
+550000 kkbbppss*//HHSS-CCAANN
+CCommuniicattiion
+250 kbpps*/MS-CAN MMaaxx.. 1177..88 kkbbppss* MMaaxx.. 1100 kkbbppss*
+SSppeeeedd
+(Max. 1 M bps)
+Communication Wire Twisted-pair Wire Twisted-pair Wire AV Single Wire
+Drive Type Differential Voltage Drive Differential Voltage Drive Single Wire Voltage Drive
+Data Length 1-8 Byte (Variable) 0-32 Byte (Variable) 1-11 Byte (Variable)
+*: bps: abbreviation for “Bits Per Second”, indicating the number of bits that can be transmitted per second.

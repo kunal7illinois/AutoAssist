@@ -1,0 +1,31 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– If any engine monitor fails the drive cycle test. Repeat the drive
+cycle test until all engine monitors have successfully run
+through and passed.
+Note
+When repeating the drive cycle operation for a failed evaporative
+or thermostat monitor, allow the engine to cool until the coolant
+temperature and the ambient air temperature are be between 10°
+C and 35° C with a difference no greater than 4° C and repeat the
+drive cycle operation.
+If the drive cycle operation fails again.
+– Check the DTC memory for stored DTCs.
+Repair the vehicle if necessary.
+– Repeat the drive cycle operation until all engine monitors have
+successfully run through and passed.
+– Remove the scan tool and switch the ignition off.
+3.3 Diagnostic Modes 01 - 0A
+The information provided in Modes 01 through 0A displays the
+various levels of emission related data that may be monitored, as
+well as the ability to retrieve and read stored DTC trouble codes,
+erase stored DTC trouble codes, generate readiness codes, and
+select the various PIDs and Test-IDs used within the modes to
+monitor the engine, and emission related component parameters.
+Note
+Depending on scan tool and protocol used, the information in di‐
+agnostic mode 01 may be referred to by different names such as
+Test-ID (TID), Hex-ID, Component-ID (CID), or On-Board Diag‐
+nostic Monitor Identifier (OBDMID).
+10
+Rep. Gr.ST - Generic Scan Tool

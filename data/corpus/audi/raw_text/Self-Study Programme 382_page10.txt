@@ -1,0 +1,26 @@
+Electrical system and convenience electronics
+Data bus diagnostic interface (gateway) J533
+Tasks
+The gateway represents the interface between the
+various bus systems, i.e. it facilitates
+communication between the control units of various
+bus systems. Every Audi TT Coupé´07 has
+a powertrain CAN bus, dash panel insert CAN,
+diagnostics CAN bus, convenience CAN bus and
+infotainment CAN bus.
+Dash panel insert CAN bus
+Master functions
+Diagnostics CAN bus
+– Powertrain CAN bus run-on
+– Sending the 'Sleep' command
+Powertrain
+CAN bus
+Infotainment CAN bus
+Convenience CAN bus
+382_047
+Installation location
+The gateway is installed under the dash panel
+adjacent the pedal bracket and can be accessed
+from the driver's footwell.
+382_061
+10

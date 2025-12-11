@@ -1,0 +1,32 @@
+ES–326
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+8 CHECK HARNESS AND CONNECTOR
+(a) Connect the transmission control switch connector of the
+Wire Harness Side:
+shift lock control unit assembly.
+(b) Turn the ignition switch on (IG), and measure the voltage
+C55 ECM Connector
+according to the value(s) in the table below when the
+shift lever is moved to each position.
+P R N
+D
+ES
+A55 ECM Connector
+S
+C136857E05
+Standard voltage
+Shift Position Tester Connection Specified Condition
+P C55-24 (P) - Body ground 10 to 14 V
+Except P ↑ Below 1 V
+N C55-27 (N) - Body ground 10 to 14 V
+Except N ↑ Below 1 V
+R C55-25 (R) - Body ground 10 to 14 V *
+Except R ↑ Below 1 V
+D and S C55-26 (D) - Body ground 10 to 14 V
+Except D and S ↑ Below 1 V
+S, "+" and "-" A55-25 (S) - Body ground 10 to 14 V
+Except S, "+" and "-" ↑ Below 1 V
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE ECM

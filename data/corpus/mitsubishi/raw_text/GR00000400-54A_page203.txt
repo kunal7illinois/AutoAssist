@@ -1,0 +1,35 @@
+CHASSIS ELECTRICAL 54A-203
+RADIO AND TAPE PLAYER
+CONNECTOR: C-22 CONNECTORS : C-78, C-89, C-90
+C-78
+C-89
+C-90
+AC106557AL AC106477AK
+CONNECTOR
+CONNECTORS: C-111, C-112
+<ECLIPSE SPYDER>: F-35
+JUNCTION BLOCK
+(FRONT VIEW)
+C-112
+C-111 AC106479AP AC106491AR
+. .
+CIRCUIT OPERATION TECHNICAL DESCRIPTION (COMMENT)
+The motor antenna-ECU extends or retract the The cause is probably a defective motor antenna cir-
+antenna when the radio switch is turned on or off with cuit system.
+the ignition switch n the "ACC" or "ON" position.
+.
+TROUBLESHOOTING HINTS
+• Damaged wiring harness or connector.
+• Malfunction of the motor antenna.
+• Malfunction of the motor antenna-ECU
+.
+DIAGNOSIS
+STEP 1. Check the surface of the antenna pole.
+Q:Isn’t the surface of antenna pole dirty?
+YES : Clean.
+NO : Go to Step 2.
+STEP 2. Check the motor antenna bent.
+Q:Is the antenna bent?
+YES : Repair the bent or replace the antenna pole.
+NO : Go to Step 3.
+TSB Revision

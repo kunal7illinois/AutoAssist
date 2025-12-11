@@ -1,0 +1,53 @@
+ES–230
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0335 Crankshaft Position Sensor "A" Circuit
+Crankshaft Position Sensor "A" Circuit Inter-
+DTC P0339
+mittent
+DESCRIPTION
+The crankshaft position (CKP) sensor system consists of a crankshaft position sensor plate and a
+magnetic coil.
+The sensor plate has 34 teeth and is installed on the crankshaft. The pickup coil is made of windings, an
+iron core and magnet. The sensor plate rotates and as each tooth passes through the pickup coil, a pulse
+signal is created. The pickup coil generates 34 signals for each engine revolution. Based on these
+signals, the ECM calculates the crankshaft position and engine RPM. Using these calculations, the fuel
+injection time and ignition time are controlled.
+ES
+DTC No. DTC Detection Condition Trouble Area
+• No CKP sensor signal to ECM while cranking (1 trip • Open or short in CKP sensor circuit
+detection logic) • CKP sensor
+P0335
+• No CKP sensor signal to ECM at engine speed of • CKP sensor plate
+600 rpm or more (1 trip detection logic) • ECM
+Under conditions (a), (b) and (c), no CKP sensor signal
+to ECM for 0.05 seconds or more
+• Open or short in CKP sensor circuit
+(1 trip detection logic):
+• CKP sensor
+P0339 (a) Engine speed 1,000 rpm or more
+• CKP sensor plate
+(b) Starter signal OFF
+• ECM
+(c) 3 seconds or more have elapsed since starter signal
+switched from ON to OFF
+Reference: Inspection using an oscilloscope.
+VV1, VV2 and NE Signal Waveforms
+5 V/DIV.
+NE GND
+VV1
+GND
+VV2
+GND
+20 ms./DIV.
+A107148E09
+HINT:
+• The correct waveform is as shown.
+• VV1+ and VV2+ stand for the VVT sensor signal, and NE+ stands for the CKP sensor signal.
+Item Content
+VV1+ - VV1-
+Terminals VV2+ - VV2-
+NE+ - NE-
+5 V/DIV,
+Equipment Settings
+20 ms./DIV.
+Conditions Cranking or idling

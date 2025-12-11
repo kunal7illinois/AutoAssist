@@ -1,0 +1,22 @@
+AX–135
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+TYPICAL MALFUNCTION THRESHOLDS
+Malfunction (A) and (B):
+Output signal duty 100% or more
+Malfunction (C):
+Output signal duty 0% or less
+AX
+Malfunction (D):
+Output signal monitor No signal
+Malfunction (E):
+Commanded voltage - Last commanded voltage 0.02 V or more
+COMPONENT OPERATING RANGE
+Output signal duty Less than 100%
+WIRING DIAGRAM
+TCM
++B
+SLT+
+Shift Solenoid Valve SLT
+SLT-
+Transaxle Assembly
+C133261E05

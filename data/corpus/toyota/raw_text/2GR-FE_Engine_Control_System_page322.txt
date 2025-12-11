@@ -1,0 +1,42 @@
+ES–322
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(f) According to the display on the tester, read the "DATA LIST".
+Measurement Item / Range
+Item Normal Condition Diagnostic Note
+(Display)
+When the shift lever position
+Shift lever position is; displayed on the intelligent tester
+PNP SW [NSW] PNP SW Status / ON or OFF P and N: ON differs from the actual position,
+Except P or N: OFF adjustment of the PNP switch or
+the shift cable may be incorrect.
+Shift lever position is;
+REVERSE PNP SW Status / ON or OFF R: ON ↑
+Except R: OFF
+Shift lever position is;
+DRIVE PNP SW Status / ON or OFF D and S: ON ↑
+Except D or S: OFF
+ES
+1 CHECK HARNESS AND CONNECTOR (BATTERY - PARK / NEUTRAL POSITION SWITCH)
+(a) Disconnect the park / neutral position switch connector.
+Wire Harness Side: (b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+table below.
+Park / Neutral Position SW Standard voltage
+Tester Connection Specified Condition
+2 - Body ground 10 to 14 V
+C1 1 2 3 4
+5 6 7 8 9 NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+C117645E10
+OK
+2 CHECK ECM (OUTPUT SIGNAL)
+(a) Turn the ignition switch on (IG).
+Wire Harness Side: (b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Park / Neutral Position SW
+Tester Connection Specified Condition
+4 - Body ground 10 to 14 V
+C1 1 2 3 4 NG Go to step 9
+5 6 7 8 9
+C117645E10

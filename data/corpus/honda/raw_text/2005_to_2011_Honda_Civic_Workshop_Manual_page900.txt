@@ -1,0 +1,19 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+NO -If the HDS indicates PASSED, intermittent failure, the system is OK at
+this time. Check for poor connections or loose terminals between shift solenoid
+valve B and the PCM. If the HDS indicates NOT COMPLETED, go to step 5.
+8. Turn the ignition switch to LOCK (0).
+9. Jump the SCS line with the HDS.
+10. Disconnect PCM connectors B (44P) and C (44P).
+11. Measure the resistance between PCM connector terminals B26 and C40.
+Fig. 152: Measuring Resistance Between PCM Connector Terminals B26
+And C40
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there 12-25 ohms?
+YES -Go to step 22.
+NO -Go to step 12.
+12. Disconnect the shift solenoid harness connector.
+13. Check for continuity between PCM connector terminal B26 and shift solenoid
+harness connector terminal No. 2.

@@ -1,0 +1,31 @@
+ST–81
+2GR-FE STARTING – SMART KEY SYSTEM
+Wire Harness Side:
+E7 IR
+Main Body ECU Main Body ECU
+SLP
+LIN1
+E51
+Steering Lock ECU
+LIN SLP1
+B137995E01
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection
+Condition Specified Condition
+(Symbols)
+E7-18 (SLP) - E51-4
+Always Below 1 Ω
+(SLP1)
+IR-9 (LIN1) - E51-5 (LIN) Always Below 1 Ω
+E7-18 (SLP) or E51-4
+Always 10 kΩ or higher
+(SLP1) - Body ground
+IR-9 (LIN1) or E51-5
+Always 10 kΩ or higher
+(LIN) - Body ground
+ST
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK

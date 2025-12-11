@@ -1,0 +1,29 @@
+BC–94
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+9 INSPECT BRAKE FLUID LEVEL WARNING SWITCH ASSEMBLY
+(a) Remove the reservoir tank cap.
+Brake Fluid Level A16 (b) Disconnect the brake fluid level warning switch
+Warning Switch connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+HINT:
+MAX Level A float is located inside the reservoir.
+Its position can be changed by increasing or decreasing
+the level of brake fluid.
+Standard resistance
+Tester Connection Condition Specified Condition
+MIN Level
+10 kΩ or higher
+(A16-1) - (A16-2) Float UP
+(No Continuity)
+Below 1 Ω
+(A16-1) - (A16-2) Float DOWN
+BC (Continuity)
+C139740E01
+HINT:
+If there is no problem after finishing the above check,
+adjust the brake fluid level to the MAX level.
+NG REPLACE BRAKE MASTER CYLINDER
+RESERVOIR SUB-ASSEMBLY (BRAKE
+FLUID LEVEL WARNING SWITCH)
+OK

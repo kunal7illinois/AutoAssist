@@ -1,0 +1,32 @@
+54A-38 CHASSIS ELECTRICAL
+IGNITION SWITCH
+REMOVAL SERVICE POINT
+.<<A>> STEERING LOCK CYLINDER REMOVAL
+1. Insert the key in the steering lock cylinder and turn it to the
+"ACC" position.
+2. Using a small Phillips head screwdriver, pull the steering
+lock cylinder toward you.
+LOCK PIN
+AC002506AB
+INSTALLATION SERVICE POINT
+.>>A<< IMMOBILIZER-ECU INSTALLATION
+If the immobilizer-ECU is replaced, peel off the immobilizer
+serial number sticker from shown position. Then attach a new
+immobilizer-ECU identification sticker in the same location.
+AC002507AB
+INSPECTION
+M1544009700054
+IGNITION SWITCH CONTINUITY CHECK
+Disconnect ignition switch connector C-87 without removing
+CONNECTOR: C-87
+the ignition switch and steering lock cylinder. Then check the
+COLUMN SWITCH
+continuity.
+SWITCH TESTER SPECIFIED
+POSITION CONNECTION CONDITION
+"LOCK" (OFF) 1 − 2 − 3 − 4− 5 − 6 Open circuit
+"ACC" 1 − 6 Less than 2 ohm
+"ON" 1 − 2 − 4 − 6 Less than 2 ohm
+AC001261AC
+"START" 1 − 2 − 3 − 5 Less than 2 ohm
+TSB Revision

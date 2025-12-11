@@ -1,0 +1,22 @@
+CHASSIS ELECTRICAL 54A-31
+IGNITION SWITCH
+5. Select "Special Func," press "YES".
+AC000530AB
+6. Select "key ID registr," press "YES". If DTC 11 exists," Can’t
+execute" will be displayed. Check for DTC 11 (Refer to
+P.54A-11.)
+AC000518AB
+AC101475
+7. Input the password. Use the "UP" and "DOWN" keys to
+change the current password digit to a value between 0 and
+9. Use the "LEFT" and "RIGHT" keys to move to a different
+password digit. Press the "YES" key to accept the password.
+NOTE: Four separate digits must be input to make up the
+password.
+If an incorrect password is input five times in a row, this screen
+is displayed and the Immobilizer-ECU switches to unauthorized
+operation, start-prevention mode.
+ACX01626AB
+8. Press the "YES" key to start key ID registration.
+ACX01561AC
+TSB Revision

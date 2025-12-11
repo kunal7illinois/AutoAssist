@@ -1,0 +1,61 @@
+NS–50
+NAVIGATION – NAVIGATION SYSTEM
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specification
+A waveform
+L+ (F9-9) - GND (F9-20) B - BR Sound signal (Left) Audio system is playing synchronized with
+sounds is output
+Shielded - Body
+SLD (F9-10) - Body ground Shielded ground Always Below 1 V
+ground
+Turn ignition switch off →
+ACC (F9-11) - GND (F9-20) GR - BR Accessory (ON) Below 1 V → 10 to 14 V
+on (ACC or IG)
+Turn ignition switch on
+(IG)
+ILL- (F9-12) - GND (F9-20) W-B - BR Illumination signal Below 1 V →10 to 14 V
+Light control switch OFF
+→ TAIL or ON
+Radio switch ON and AM
+ANT (F9-13) - GND (F9-20) O - BR Power source of antenna 10 to 14 V
+or FM
+AVC-LAN communication Turn ignition switch on
+ATX- (F9-15) - GND (F9-20) G - BR 2 to 3 V
+signal (ACC)
+A waveform
+R- (F9-18) - GND (F9-20) G - BR Sound signal (Right) Audio system is playing synchronized with
+sounds is output
+A waveform
+L- (F9-19) - GND (F9-20) W - BR Sound signal (Left) Audio system is playing synchronized with
+sounds is output
+GND (F9-20) - Body ground BR - Body ground Ground Always Below 1 V
+See "Microphone Check"
+MIC- (F12-9) - Body ground R - Body ground Microphone voice signal -
+(See page NS-27)
+Telephone relation switch
+TSW- (F12-12) - GND (F9 -20) P - BR Always Below 1 V
+signal
+Microphone AMP power Turn ignition switch off →
+MACC (F12-17) - GND (F9-20) LG - BR Below 1 V → 5 V
+supply on (IG)
+SGND (F12-18) - GND (F9-20) P - BR Ground Always Below 1 V
+See "Microphone Check"
+MIC+ (F12-19) - GND (F9-20) G - BR Microphone voice signal -
+(See page NS-27)
+A waveform
+External device is playing
+VAR+ (F14-2) - GND (F9-20) G - BR Sound signal (Right) synchronized with
+(When stereo jack is used)
+sounds is output
+A waveform
+External device is playing
+VAL+ (F14-3) - GND (F9-20) R - BR Sound signal (Left) synchronized with
+(When stereo jack is used)
+sound is output
+VA- (F14-5) - Body ground BR - Body ground Shielded ground Always Below 1 V
+External device
+External device is
+ADPG (F14 - 6) - GND (F9-20) G - BR connection detection Below 1 V
+connected
+signal
+2. STEREO COMPONENT AMPLIFIER (See page AV-15)
+NS

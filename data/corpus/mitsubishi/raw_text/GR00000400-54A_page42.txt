@@ -1,0 +1,38 @@
+54A-42 CHASSIS ELECTRICAL
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+CONNECTORS: C-60 <2.4L-A/T>, CONNECTORS: C-52, C-59, C-63
+C-62 <3.0L-M/T> <3.0L-A/T>
+PCM
+ECM
+C-52
+C-60, C-62 C-59 C-63
+AC001689BF AC001689BH
+CONNECTORS: C-77, C-78 CONNECTOR: C-108, C-111, C-112
+JUNCTION BLOCK
+(FRONT VIEW)
+C-78
+C-77
+C-108
+AACC000033555533AK C-111 C-112 AC101808AF
+. .
+CIRCUIT OPERATION TECHNICAL DESCRIPTION (COMMENT)
+• The ignition switch (IG1) circuit is the power The cause may be a faulty vehicle speed sensor cir-
+source for the speedometer and vehicle speed cuit system or a faulty speedometer. Vehicle speed
+sensor <M/T> or output shaft speed sensor <A/ sensor is also used by the engine control module
+T>. (ECM) <M/T> or powertrain control module (PCM)
+• The vehicle speed sensor <M/T> or output shaft <A/T>, auto-cruise control-ECU.
+speed sensor <A/T> are installed on the tran-
+saxle. Four pulses are generated with one turn of . TROUBLESHOOTING HINTS
+the vehicle speed sensor shaft. In case of M/T, • Malfunction of the vehicle speed sensor <M/T> or
+these pulse signals are sent into the speedome- output shaft speed sensor <A/T>
+ter. and in case of A/T, these pulse signals are • Malfunction of the combination meter (printed-cir-
+sent into the PCM and sent into the speedometer. cuit board or speedometer and tachometer)
+The speedometer calculates the pulse signals, • Malfunction of the ECM <M/T> or PCM <A/T>
+and operates the indicator. At the same time, the • Malfunction of the auto-cruise control-ECU
+travel distance is calculated. • Damaged wiring harness or connectors
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Harness Set
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

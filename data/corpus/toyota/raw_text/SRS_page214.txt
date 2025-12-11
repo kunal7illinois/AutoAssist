@@ -1,0 +1,56 @@
+RS–214
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Short in Driver Side Front Pretensioner Squib
+DTC B1900/73
+Circuit
+Open in Driver Side Front Pretensioner Squib
+DTC B1901/73
+Circuit
+Short to GND in Driver Side Front Pretensioner
+DTC B1902/73
+Squib Circuit
+Short to B+ in Driver Side Front Pretensioner
+DTC B1903/73
+Squib Circuit
+DESCRIPTION
+The driver side front pretensioner squib circuit consists of the center airbag sensor assembly and the front
+seat outer belt assembly LH.
+This circuit instructs the SRS to deploy when deployment conditions are met.
+These DTCs are recorded when a malfunction is detected in the front pretensioner squib circuit.
+DTC No. DTC Detection Condition Trouble Area
+• The center airbag sensor assembly receives a line
+• Floor wire
+short circuit signal 5 times in the driver side front
+• Front seat outer belt assembly LH (Driver side front
+B1900/73 pretensioner squib circuit during primary check.
+pretensioner squib)
+• Driver side front pretensioner squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives an
+• Floor wire
+open circuit signal in the driver side front
+• Front seat outer belt assembly LH (Driver side front
+RS B1901/73 pretensioner squib circuit for 2 seconds.
+pretensioner squib)
+• Driver side front pretensioner squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives a
+• Floor wire
+short circuit to ground signal in the driver side front
+• Front seat outer belt assembly LH (Driver side front
+B1902/73 pretensioner squib circuit for 0.5 seconds.
+pretensioner squib)
+• Driver side front pretensioner squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives a
+• Floor wire
+short circuit to B+ signal in the driver side front
+• Front seat outer belt assembly LH (Driver side front
+B1903/73 pretensioner squib circuit for 0.5 seconds.
+pretensioner squib)
+• Driver side front pretensioner squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction

@@ -1,0 +1,45 @@
+54B-228 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+ON
+Rear waiper switch
+OFF
+Back up light switch <M/T> or
+ON
+park/neutral position <A/T> switch
+OFF
+"R" position switch
+T1 T2 t T1 T2 T2
+ON
+Rear wiper drive sinal
+OFF
+t: 0.3 seconds T3 T4 T4 T3 T4 T4 T4
+T1: 7.4 seconds T3: 3 seconds
+T2: 8 seconds T4: 0.6 seconds
+AC101553AB
+.
+Rear washer control
+When the ignition switch is at the ACC or ON posi- If the rear wiper is in intermittent operation when the
+tion, if the rear washer switch of the column switch is rear washer switch is turned ON, 7.4 seconds after
+turned ON, the ETACS-ECU turns ON the rear the rear wiper drive signal turns OFF, the 8-second
+washer relay. The rear wiper drive signal is turned cycle intermittent operation will continue.
+ON in 0.3 seconds until three seconds after the rear
+washer switch goes OFF to operate the rear wiper
+continuously.
+ON
+Rear washer switch
+OFF
+ON
+Rear washer drive sinal
+OFF
+t t t T2 T3
+ON
+Rear wiper drive sinal
+OFF
+T1 T1 T1 T4 T4
+t: 0.3 seconds
+Wiper switch in Wiper switch in intermitent
+T1: 3 seconds T3: 8 seconds
+off position operation position
+T2: 7.4 seconds T4: 0.6 seconds
+AC101554AB
+TSB Revision

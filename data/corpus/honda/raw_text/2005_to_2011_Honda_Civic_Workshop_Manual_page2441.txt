@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (R18A1) - Civic (All Except Hybrid)
+Fig. 6: Checking Continuity Between ECM/PCM Terminal B3 And EVAP
+Canister Purge Valve 2P Terminal No. 2
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES - Go to step 22.
+NO - Repair open in the wire between the EVAP canister purge valve and the
+ECM/PCM (B3), then go to step 24.
+22. At the purge valve side, measure resistance between EVAP canister purge
+valve 2P connector terminals No. 1 and No. 2.
+Fig. 7: Measuring Resistance Between EVAP Canister Purge Valve 2P
+Connector Terminals No. 1 And 2
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there about 25 ohms at room temperature?
+YES - Go to step 30.
+NO - Go to step 23.
+23. Replace the EVAP canister purge valve (see EVAP CANISTER PURGE
+VALVE REPLACEMENT ).
+24. Reconnect all connectors.
+25. Turn the ignition switch ON (II).
+26. Reset the ECM/PCM with the HDS.

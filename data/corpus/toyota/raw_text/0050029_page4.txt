@@ -1,0 +1,50 @@
+ES–157
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+HINT:
+If any DTCs other than P0171 or P0172 are output,
+troubleshoot those DTCs first.
+B GO TO DTC CHART
+A
+2 PERFORM ACTIVE TEST USING INTELLIGENT TESTER (A/F CONTROL)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the tester ON.
+(c) Warm up the engine at an engine speed of 2,500 rpm for
+ES
+approximately 90 seconds.
+(d) On the tester, select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST / A/F
+CONTROL.
+(e) Perform the A/F CONTROL operation with the engine in
+an idling condition (press the RIGHT or LEFT button to
+change the fuel injection volume).
+(f) Monitor the output voltages of A/F and HO2 sensors
+(AFS B1S1 and O2S B1S2) displayed on the tester.
+Result:
+The A/F sensor reacts in accordance with increases
+and decreases in the fuel injection volume:
++25 % = Rich output:
+Less than 3.0 V
+-12.5 % = Lean output:
+More than 3.35 V
+NOTICE:
+The A/F sensor has an output delay of a few seconds and
+the HO2 sensor has a maximum output delay of
+approximately 20 seconds.
+A/F Sensor (Sensor 1) HO2 Sensor (Sensor 2) Main Suspected
+Case
+Output Voltage Output Voltage Trouble Areas
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 %
+1 -
+Output Voltage Output Voltage
+More than 3.35 V More than 0.5 V
+Less than 3.0 V Less than 0.4 V
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 %
+• A/F sensor
+2 • A/F sensor heater
+Output Voltage Output Voltage • A/F sensor circuit
+Almost More than 0.5 V
+no reaction Less than 0.4 V

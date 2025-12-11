@@ -1,0 +1,38 @@
+AC–11
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+2. NEURAL NETWORK CONTROL
+• In previous automatic air conditioning systems, the A/
+C amplifier determined the required outlet air
+temperature and blower air volume in accordance
+with the calculation formula that has been obtained
+based on information received from the sensors.
+However, because the senses of a person are rather
+complex, a given temperature is sensed differently,
+depending on the environment in which the person is
+situated. For example, a given amount of solar
+radiation can feel comfortably warm in a cold climate,
+or extremely uncomfortable in a hot climate.
+Therefore, as a technique for effecting a higher level
+of control, a neural network has been adopted in the
+automatic air conditioning system. With this
+technique, the data that has been collected under
+varying environmental conditions is stored in the A/C
+amplifier. The A/C amplifier can then effect control to
+provide enhanced air conditioning comfort.
+• The neural network control consists of neurons in the
+input layer, intermediate layer, and output layer. The
+input layer neurons process the input data of the
+outside temperature, the amount of sunlight, and the
+room temperature based on the outputs of the
+switches and sensors, and output them to the
+intermediate layer neurons. Based on this data, the
+intermediate layer neurons adjust the strength of the
+AC
+links among the neurons. The sum of these is then
+calculated by the output layer neurons in the form of
+the required outlet temperature, solar correction,
+target airflow volume, and outlet mode control
+volume. Accordingly, the A/C amplifier controls the
+servo motors and blower motor in accordance with
+the control volumes that have been calculated by the
+neural network control.

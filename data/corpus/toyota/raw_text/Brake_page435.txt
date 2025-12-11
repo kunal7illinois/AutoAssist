@@ -1,0 +1,39 @@
+BC–424
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+1 CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU TO DLC3)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Harness Side
+(b) Measure the resistance according to the value(s) in the
+Connector Front View):
+table below.
+Standard resistance
+A60
+TS
+Tester Connection Condition Specified Condition
+A60-24 (TS) - E10-12
+Always Below 1 Ω
+(TS)
+(c) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (SKID CONTROL ECU TO
+DLC3:
+DLC3)
+E10
+BC
+TS
+C139177E01
+OK
+2 CHECK HARNESS AND CONNECTOR (DLC3 TO BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+DLC3:
+CG table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E10-4 (CG) - Body
+Always Below 1 Ω
+ground
+E10
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (DLC3 TO BODY GROUND)
+G022987E25
+OK

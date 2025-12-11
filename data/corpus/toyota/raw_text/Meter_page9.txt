@@ -1,0 +1,39 @@
+ME–9
+METER – METER / GAUGE SYSTEM
+with Multi-information Display:
+Engine Coolant Temperature Receiver Gauge
+Fuel Receiver Gauge
+Multi-information Display
+Tachometer
+Master Caution Indicator Light
+A/T Shift Indicator
+Speedometer
+E128139E01
+METER GAUGE:
+Item Detail
+Speedometer Indicates the vehicle speed receiving a signal from the skid Control ECU. (CAN (CAN No. 1 Bus))
+Tachometer Indicates the engine speed based on a signal received from the ECM. (CAN (CAN No. 1 Bus))
+Engine Coolant Temperature Receiver Indicates the engine coolant temperature based on a signal received from the ECM. (CAN (CAN
+Gauge No. 1 Bus))
+Fuel Receiver Gauge Indicates the fuel level based on a signal the fuel sender gauge. (Direct Line)
+WARNING/INDICATOR:
+Item Detail
+TURN SIGNAL Receives a turn signal from the turn signal flasher. (Direct Line)
+BEAM Receives a beam signal from the main body ECU. (CAN (CAN No. 1 Bus))
+CHARGE Receives a charge light signal from the alternator L terminal. (Direct Line)
+CHECK E/G Receives a check engine light signal from the ECM. (Direct Line)
+Open door indicator light comes on receiving a door condition signal from the main body ECU.
+DOOR (CAN (CAN MS Bus)) ME
+Receives a driver side seat belt signal from the center airbag sensor assembly. (CAN (CAN No. 1
+D-BELT
+Bus))
+Receives a passenger side seat belt signal from the center airbag sensor assembly via the main
+P-BELT body ECU (CAN) and transmits a passenger side seat belt condition signal to the clock assembly.
+(Direct Line)
+HEAD (*1) Receives a HEAD indicator light signal from main body ECU. (CAN (CAN No. 1 Bus))
+TAIL (*2) Receives a TAIL indicator light signal from the main body ECU. (CAN (CAN No. 1 Bus))
+Receives an A/T shift condition and A/T gear position signal from the park/neutral position switch
+A/T SHIFT
+and the ECM. (CAN (CAN No. 1 Bus))
+FUEL Receives a fuel signal from the fuel sender gauge. (Direct Line)
+ABS Receives an ABS signal from the skid Control ECU. (CAN (CAN No. 1 Bus))

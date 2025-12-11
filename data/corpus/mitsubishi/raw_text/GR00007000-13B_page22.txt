@@ -1,0 +1,45 @@
+13B-22 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+MALFUNCTION ITEM CONTROL CONTENTS DURING MALFUNCTION
+Knock sensor Switches the ignition timing from ignition timing for high octane to ignition timing
+for standard octane fuel.
+Communication line with No ignition timing retard control (overall engine-transaxle control) achieved
+transaxle control CPU when transaxle speeds are changed.
+Generator FR terminal Does not restrict the generator output with respect to electrical load.
+Heated oxygen sensor Air/fuel ratio closed loop control is not performed.
+<front>
+Heated oxygen sensor Performs the closed loop control of the air/fuel ratio by using only the signal of
+<rear> the heated oxygen sensor (front) installed on the front side of the catalytic
+converter.
+Misfire detection The ECM <M/T> or PCM <A/T> stops supplying fuel to the cylinder with the
+highest misfiring rate if a misfiring that could damage the catalytic converter is
+detected.
+DIAGNOSTIC TROUBLE CODE CHART
+M1131151000163
+DTC CODE DIAGNOSTIC ITEMS REFERENCE
+PAGE
+P0101 Volume air flow circuit range/performance problem P.13B-29
+P0102 Volume air flow circuit low input P.13B-35
+P0106* Barometric pressure circuit range/performance problem P.13B-42
+P0107 Barometric pressure circuit low input P.13B-46
+P0108 Barometric pressure circuit high input P.13B-56
+P0111 Intake air temperature circuit range/performance problem P.13B-62
+P0112 Intake air temperature circuit low input P.13B-67
+P0113 Intake air temperature circuit high input P.13B-71
+P0116 Engine coolant temperature circuit range/performance problem P.13B-77
+P0117 Engine coolant temperature circuit low input P.13B-85
+P0118 Engine coolant temperature circuit high input P.13B-89
+P0121 Throttle position sensor circuit range/performance problem P.13B-95
+P0122 Throttle position sensor circuit low input P.13B-103
+P0123 Throttle position sensor circuit high input P.13B-109
+P0125 Insufficient coolant temperature for closed loop fuel control P.13B-114
+P0128 Coolant thermostat (coolant temperature below thermostat regulating P.13B-121
+temperature)
+P0130 Heated oxygen sensor circuit (bank 1 sensor 1) P.13B-122
+P0131 Heated oxygen sensor circuit high voltage (bank 1 sensor 1) P.13B-132
+P0132 Heated oxygen sensor circuit high voltage (bank 1 sensor 1) P.13B-137
+P0133 Heated oxygen sensor circuit slow response (bank 1 sensor 1) P.13B-140
+P0134* Heated oxygen sensor circuit no activity detected (bank 1 sensor 1) P.13B-143
+P0135 Heated oxygen sensor heater circuit (bank 1 sensor 1) P.13B-149
+P0136 Heated oxygen sensor circuit (bank 1 sensor 2) P.13B-156
+TSB Revision

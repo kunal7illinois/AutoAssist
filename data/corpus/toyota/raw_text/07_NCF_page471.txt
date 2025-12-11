@@ -1,0 +1,17 @@
+BODY ELECTRICAL - THEFT DETERRENT SYSTEM BE-137
+Condition Item
+The system state is switched when one of the following conditions is met.
+(cid:3) With all doors closed, any door is opened.
+(cid:3) With all doors locked, any door is unlocked by a method other than the mechanical key
+(4) or transmitter.
+(cid:3) The trunk lid and engine hood are opened by a method other than the mechanical key
+or transmitter.
+(cid:3) A terminal is disconnected from the battery and reconnected.
+The system state is switched when one of the following conditions is met.
+(cid:3) Any door is unlocked with the mechanical key or transmitter.
+(5)
+(cid:3) The trunk lid is opened with the mechanical key or transmitter.
+(cid:3) The power source* is changed to IG-ON.
+(6) After 60 seconds, the alarm stops sounding and the system returns to the armed state.
+*: Power source conditions can be changed by pressing the engine switch on models with the smart key
+system and by operating the ignition switch on models without the smart key system.

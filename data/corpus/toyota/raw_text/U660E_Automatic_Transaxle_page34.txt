@@ -1,0 +1,66 @@
+AX–34
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Symptom Suspected area See page
+1. Shift solenoid valve (SLU) circuit *1 AX-136
+2. Shift solenoid valve (SL) circuit AX-139
+3. Engine coolant temp. sensor circuit *1 ES-145
+No lock-up
+4. Stop light switch circuit *1 AX-71
+AX 5. Speed sensor NT circuit *1 AX-66
+6. TCM IN-40
+No lock-up off 1. TCM IN-40
+1. Shift solenoid valve (SLT) circuit *1 AX-128
+2. Speed sensor NT circuit *1 AX-66
+3. Speed sensor NC circuit *1 AX-95
+Shift point too high or too low
+4. Accelerator pedal position sensor circuit *1 ES-334
+5. ATF temperature sensor circuit *1 AX-55
+6. TCM IN-40
+1. Engine coolant temp. sensor circuit *1 ES-145
+Up-shift from 3rd to 4th while engine is cold
+2. TCM IN-40
+1. Engine coolant temp. sensor circuit *1 ES-145
+Up-shift from 4th to 5th while engine is cold
+2. TCM IN-40
+No gear change by shifting into "+" or "-" while shifting 1. Transmission control switch circuit AX-154
+the lever 2. TCM IN-40
+1. Shift solenoid valve (SL1) circuit *1 AX-84
+Harsh engagement (N to D)
+2. TCM IN-40
+1. Speed sensor NT circuit *1 AX-66
+2. Speed sensor NC circuit *1 AX-95
+Harsh engagement (Lock-up)
+3. Shift solenoid valve (SLU) circuit *1 AX-136
+4. TCM IN-40
+1. Accelerator pedal position sensor circuit *1 ES-334
+2. Shift solenoid valve (SLT) circuit *1 AX-128
+Harsh engagement (Any driving position) 3. Speed sensor NC circuit AX-95
+4. Speed sensor NT circuit *1 AX-66
+5. TCM IN-40
+1. Shift solenoid valve (SLT) circuit *1 AX-128
+Poor acceleration
+2. TCM IN-40
+No engine brake 1. TCM IN-40
+No kick-down 1. TCM IN-40
+Engine stalls when starting off or stopping 1. TCM IN-40
+1. Park/neutral position switch circuit *1 AX-158
+Malfunction in shifting 2. Transmission control switch circuit AX-154
+3. TCM IN-40
+Slip or shudder (5th to 6th and 6th to 5th) 1. Shift solenoid valve (SLT) circuit *1 AX-128
+1. Shift solenoid valve (SL1) circuit AX-84
+Initial acceleration or subsequent acceleration is
+2. Shift solenoid valve (SLT) circuit AX-128
+improper. Vehicle is stuck in a gear (1st to 6th).
+3. TCM IN-40
+1. Shift solenoid valve (SL2) circuit AX-92
+Acceleration is improper when the gear is 4th or
+2. Shift solenoid valve (SLT) circuit AX-128
+higher.
+3. TCM IN-40
+Initial acceleration or subsequent acceleration is 1. Shift solenoid valve (SL2) circuit AX-92
+improper. Vehicle does not shift down (from 4th to 3rd).
+2. TCM IN-40
+Vehicle is stuck in a gear (1st to 4th).
+1. Shift solenoid valve (SL3) circuit AX-105
+Acceleration is improper when the gear is 6th.
+2. TCM IN-40

@@ -1,0 +1,44 @@
+BODY ELECTRICAL - LIGHTING BE-19
+(cid:4)DAYTIME RUNNING LIGHT SYSTEM
+(cid:3) A daytime running light system is designed to automatically illuminate the headlights (dimmed Hi beam),
+during the daytime to keep the car highly visible to other vehicles.
+(cid:3) The main body ECU and power distributor control this system. The main body ECU transmits a turn ON
+signal to the power distributor, and the power distributor illuminates and dims the Hi beam with the duty
+control.
+(cid:3) This system is enabled when the conditions given below are met:
+- Power Source: IG-ON*1
+- Engine Speed Signal Input (Engine Running Condition)
+- Light Control Switch OFF*2, TAIL, or AUTO position (if headlight-on control is not being performed
+by the automatic light control.)
+- Parking Brake Switch: OFF
+*1: The power source condition can be changed by operating the engine switch on models with the smart
+key system, and the ignition switch on models without the smart key system.
+*2: Only for Canadian package models
+(cid:1) System Diagram (cid:2)
+CAN ECM
+(CAN No. 1 Bus)
+(cid:3) Engine Speed
+Ignition*1/Engine Switch*2
+(IG1 Relay)
+Main
+Light Control
+Body
+Switch
+ECU
+Parking Brake
+Switch
+DRL Drive Request
+Headlight (RH)
+Duty
+Hi Beam
+Control Daytime
+Light
+Running
+Controller
+Light Relay
+Headlight (LH)
+Hi Beam
+Power Distributor
+*1: Models without smart key system
+01YBE19P
+*2: Models with smart key system

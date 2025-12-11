@@ -1,0 +1,42 @@
+54B-120 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 4. Measure at power window relay connector C-116
+in order to check the fusible link (5) line of power supply
+system to power window relay.
+(1) Disconnect power window relay connector C-116, and
+CONNECTOR: C-116
+measure at the junction block side.
+JUNCTION BLOCK
+(FRONT VIEW)
+C-116
+JUNCTION
+BLOCK
+SIDE
+3 2 1
+4
+5
+AC102788AY
+(2) Measure the voltage between terminal 5 and ground.
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+CONNECTOR: C-116
+(JUNCTION BLOCK SIDE) Q:Does the measured voltage correspond with this range?
+YES : Go to Step 7.
+3 2 1
+NO : Go to Step 5.
+4
+5
+AC102194AC
+STEP 5. Check power window relay connector C-116 for
+damage.
+Q:Is power window relay connector C-116 in good
+CONNECTOR: C-116 C-116
+condition?
+JUNCTION BLOCK
+(FRONT VIEW) 1 2 3 YES : Go to Step 6.
+4
+NO : Repair or replace the connector. Refer to GROUP
+5 00E, Harness Connector Inspection P.00E-2. Check
+that the power windows work normally.
+AC102788AZ
+TSB Revision

@@ -1,0 +1,67 @@
+CH-144 CHASSIS - TIRE PRESSURE WARNING SYSTEM
+5. Self-Diagnosis
+If malfunctions are detected in the system, the tire pressure warning system ECU warns the driver by
+illuminating the tire pressure warning light after blinking it at 1 Hz intervals for 1 minute, and stores the DTC
+(Diagnostic Trouble Code) in the memory.
+The DTC that are stored by the tire pressure warning system ECU can be accessed by connecting the SST
+(09843-18040) to the DLC3 terminals TC and CG, and reading the blinking of the tire pressure warning light.
+They can also be accessed by connecting a hand-held tester. The table below lists the DTC that pertain to this
+system. For further details, see the 2007 Camry Repair Manual (Pub No. RM0250U).
+Service Tip
+After the DTC have been detected, it is necessary to identify the wheel that contains the faulty tire
+pressure warning system valve & transmitter. It can be identified by performing the operation in
+accordance with the prescribed procedure. For details, see the 2007 Camry Repair Manual (Pub. No.
+RM0250U)
+DTC No. Detection Item DTC Deletion Condition
+Tire pressure warning system valve & transmitter ID1 operation
+C2111/11
+stop (sleep mode)
+Tire pressure warning system valve & transmitter ID2 operation When data is received from a
+C2112/12
+stop (sleep mode) transmitter with an ID code that
+iis regiisteredd iin thhe EECCUU, or thhe
+Tire pressure warning system valve & transmitter ID3 operation
+C2113/13 ID code of the tire pressure
+stop (sleep mode)
+wwaarrnniinngg ssyysstteemm vvaallvvee &&
+Tire pressure warning system valve & transmitter ID4 operation transmitter is newly registered
+C2114/14
+stop (sleep mode) in the ECCUU.
+Tire pressure warning system valve & transmitter ID5 operation
+C2115/15
+stop (sleep mode)
+Data from tire pressure warning system valve & transmitter
+C2121/21
+registered to ID1 not received
+Data from tire pressure warning system valve & transmitter
+C2122/22
+registered to ID2 not received
+Data from tire pressure warning system valve & transmitter
+C2123/23
+registered to ID3 not received
+Data from tire pressure warning system valve & transmitter
+C2124/24
+registered to ID4 not received
+Data from tire pressure warning system valve & transmitter
+C2125/25
+registered to ID5 not received
+C2141/41 A malfunction in the tire pressure warning system valve & When a DTC deletion operation
+transmitter registered to ID1 iiss iimmpplleemmeenntteedd oorr tthhee IIDD ccooddee ooff
+A malfunction in the tire pressure warning system valve & the tire pressure warning valve
+C2142/42
+transmitter registered to ID2 & transmitter is newly
+rreeggiisstteerreedd iinn tthhee EECCUU.
+A malfunction in the tire pressure warning system valve &
+C2143/43
+transmitter registered to ID3
+A malfunction in the tire pressure warning system valve &
+C2144/44
+transmitter registered to ID4
+A malfunction in the tire pressure warning system valve &
+C2145/45
+transmitter registered to ID5
+C2165/65 Abnormal temperature inside ID1 tire
+C2166/66 Abnormal temperature inside ID2 tire
+C2167/67 Abnormal temperature inside ID3 tire
+C2168/68 Abnormal temperature inside ID4 tire
+(Continued)

@@ -1,0 +1,31 @@
+EI–49
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+ID Code Box Power Source Circuit
+DESCRIPTION
+This circuit provides power to operate the ID code box.
+WIRING DIAGRAM
+ID Code Box
+No. 4 J/B
+No. 3 J/B
+1 1 2 1 1
+W W W
+3J 3C 4D 4F E50 +B
+Engine Room R/B
+21 3 J/C 8 2 EFI NO. 1 1
+LG W
+AE2 A42 A41 1A 1G
+W
+No. 4 J/B
+E49 EI
+J/C
+FL MAIN 3 3 8
+1 W-B W-B
+4D 4F E50 GND
+2
+W-B
+BATTERY
+E2
+B128353E01
+INSPECTION PROCEDURE
+NOTICE:
+If the ID code box is replaced, register the key and ECU communication ID (See page EI-8).

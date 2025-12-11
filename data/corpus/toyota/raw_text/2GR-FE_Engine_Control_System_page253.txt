@@ -1,0 +1,35 @@
+ES–253
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Chattering, Low voltage, High voltage:
+Starter OFF
+Engine switch ON
+Time after engine switch off to on 2 seconds or more
+Battery voltage 8 V or more
+P0365, P0390 (Engine running):
+Engine speed 600 rpm or more
+Battery voltage 8 V or more
+Starter OFF
+Engine switch ON
+P0365, P0390 (Cranking):
+Starter ON
+Minimum battery voltage Less than 11 V
+ES
+TYPICAL MALFUNCTION THRESHOLDS
+P0365, P0390 (Chattering):
+Exhaust camshaft position sensor voltage Less than 0.3 V, or more than 4.7 V
+P0367, P0392 (Low voltage):
+Exhaust camshaft position sensor voltage Less than 0.3 V
+P0368, P0393 (High voltage):
+Exhaust camshaft position sensor voltage More than 4.7 V
+P0365, P0390 (Engine running, Cranking):
+Exhaust camshaft position signal No signal
+COMPONENT OPERATING RANGE
+VVT sensor voltage 0.3 to 4.7 V
+WIRING DIAGRAM
+Refer to DTC P0335 (See page ES-224).
+INSPECTION PROCEDURE
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).

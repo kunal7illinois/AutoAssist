@@ -1,0 +1,52 @@
+CC–16
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+• If communication is still not possible when the
+tester is connected to another vehicle, the
+problem may be in the tester itself. Consult the
+Service Department listed in the tester's
+instruction manual.
+3. CHECK INDICATOR
+(a) Turn the ignition switch on (IG).
+CRUISE Main
+Indicator Light
+E129948E01
+(b) Check that the CRUISE main indicator light
+CRUISE Main Indicator Light
+illuminates when the cruise control main switch is
+1.5 sec. 0.5 sec. turned on, and that the indicator light turns off when
+the main switch is turned off. If the results are not as
+specified, inspect the CRUISE main indicator light
+ON circuit (See page CC-34).
+HINT:
+While driving with cruise control, the ECM activates
+OFF
+AUTO CANCEL of the cruise control system when a
+malfunction occurs in one of the following: vehicle
+BE04034E23
+speed sensors, stop light switch, or other related
+parts. When AUTO CANCEL is activated, the
+CRUISE main indicator light outputs the blinking
+pattern shown to the left. At the same time, data of
+the malfunction is stored as a DTC.
+DTC CHECK / CLEAR
+1. DTC CHECK
+(a) Connect the intelligent tester to the DLC3.
+(1) Connect the intelligent tester to the Controller
+CC
+Area Network Vehicle Interface Module (CAN
+VIM). Then connect the CAN VIM to the Data
+Link Connector 3 (DLC3).
+(b) Turn the ignition switch on (IG).
+(c) Read the DTCs by following the prompts on the
+tester screen.
+HINT:
+Refer to the intelligent tester operator's manual for
+DLC3 further details.
+Intelligent Tester
+2. DTC CLEAR
+C131977E04 (a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Operate the intelligent tester to erase the codes.
+HINT:
+Refer to the intelligent tester operator's manual for
+further details.

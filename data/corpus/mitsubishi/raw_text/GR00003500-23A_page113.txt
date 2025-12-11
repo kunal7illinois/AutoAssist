@@ -1,0 +1,31 @@
+AUTOMATIC TRANSAXLE 23A-113
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 17. Check harness for damage between input shaft
+speed sensor harness side connector B-42 terminal 2 and
+PCM connector C-61 <2.4L Engine> or C-63 <3.0L Engine>
+terminal 103.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-42 B-42
+YES : Go to Step 18.
+NO : Repair it.
+AC001835AH
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE>
+PCM
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+STEP 18. Check harness for damage between input shaft
+speed sensor harness side connector B-42 terminal 1 and
+PCM connector C-50 <2.4L Engine> or C-52 <3.0L Engine>
+terminal 16.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-42 B-42
+YES : Go to Step 19.
+NO : Repair it.
+AC001835AH
+CONNECTOR: C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE>
+PCM
+C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE> AC001657BE
+TSB Revision

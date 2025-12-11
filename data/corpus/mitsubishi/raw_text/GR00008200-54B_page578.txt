@@ -1,0 +1,24 @@
+54B-578 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 5. Check hood switch connector A-23 and ETACS-
+ECU connector C-117 for damage.
+Q:Are hood switch connector A-23 and ETACS-ECU
+CONNECTOR: A-23
+connector C-117 in good condition?
+YES : Go to Step 6.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. If the
+theft-alarm system operates normally, it indicates that
+a correct signal is sent from the hood switch.
+DEVICE SIDE
+1 2
+AC106465AB
+CONNECTOR: C-117
+DEVICE SIDE
+21 22 23242526272829
+30 31 32333435363738
+39 40 41 424344
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AB
+TSB Revision

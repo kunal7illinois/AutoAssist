@@ -1,0 +1,11 @@
+AV–91
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+Steering Pad Switch Circuit
+DESCRIPTION
+This circuit sends an operation signal from the steering pad switch to the radio receiver.
+If there is an open in the circuit, the audio system cannot be operated using the steering pad switch.
+If there is a short in the circuit, the same condition as that when the switch is continuously depressed
+occurs.
+Therefore, the radio receiver cannot be operated using the steering pad switch, and also the radio
+receiver itself cannot function.
+AV

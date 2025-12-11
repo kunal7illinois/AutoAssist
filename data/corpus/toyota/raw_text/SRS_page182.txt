@@ -1,0 +1,42 @@
+RS–182
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Short in Front Passenger Side Squib 2nd Step
+DTC B1815/54
+Circuit
+Open in Front Passenger Side Squib 2nd Step
+DTC B1816/54
+Circuit
+Short to GND in Front Passenger Side Squib
+DTC B1817/54
+2nd Step Circuit
+Short to B+ in Front Passenger Side Squib 2nd
+DTC B1818/54
+Step Circuit
+DESCRIPTION
+The front passenger side squib 2nd step circuit consists of the center airbag sensor assembly and the
+front passenger airbag assembly.
+The circuit instructs the SRS to deploy when deployment conditions are met.
+These DTCs are recorded when a malfunction is detected in the front passenger side squib 2nd step
+circuit.
+DTC No. DTC Detecting Condition Trouble Area
+• The center airbag sensor assembly receives a line • Instrument panel wire
+short circuit signal 5 times in the front passenger • Instrument panel wire assembly
+B1815/54 side squib 2nd step circuit during primary check. • Front passenger airbag assembly (Front passenger
+• Front passenger side squib 2nd step malfunction side squib 2nd step)
+• Center airbag sensor assembly malfunction • Center airbag sensor assembly
+• The center airbag sensor assembly receives an • Instrument panel wire
+RS
+open circuit signal in the front passenger side squib • Instrument panel wire assembly
+B1816/54 2nd step circuit for 2 seconds. • Front passenger airbag assembly (Front passenger
+• Front passenger side squib 2nd step malfunction side squib 2nd step)
+• Center airbag sensor assembly malfunction • Center airbag sensor assembly
+• The center airbag sensor assembly receives a • Instrument panel wire
+short circuit to ground signal in the front passenger • Instrument panel wire assembly
+B1817/54 side squib 2nd step circuit for 0.5 seconds. • Front passenger airbag assembly (Front passenger
+• Front passenger side squib 2nd step malfunction side squib 2nd step)
+• Center airbag sensor assembly malfunction • Center airbag sensor assembly
+• The center airbag sensor assembly receives a • Instrument panel wire
+short circuit to B+ signal in the front passenger side • Instrument panel wire assembly
+B1818/54 squib 2nd step circuit for 0.5 seconds. • Front passenger airbag assembly (Front passenger
+• Front passenger side squib 2nd step malfunction side squib 2nd step)
+• Center airbag sensor assembly malfunction • Center airbag sensor assembly

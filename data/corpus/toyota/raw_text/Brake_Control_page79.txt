@@ -1,0 +1,21 @@
+BC–79
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+DTC U0073/94 Control Module Communication Bus OFF
+DESCRIPTION
+• The skid control ECU receives the signal sent from the ECM via the CAN communication system.
+• When DTCs indicating a CAN communication system malfunction are output, repair the CAN
+communication system before repairing each corresponding sensor.
+DTC No. DTC Detecting Condition Trouble Area
+When any of the following is detected:
+1. The skid control ECU cannot send a signal (30
+• Wire harness (CANL, CANH circuit)
+U0073/94 cycles).
+• Brake actuator assembly (Skid control ECU)
+2. The condition that bus OFF state occurs for 300
+msec.
+INSPECTION PROCEDURE
+Proceed to CAN communication system troubleshooting (See page CA-8).
+HINT:
+When DTCs indicating a CAN communication system malfunction are output, repair the CAN
+BC
+communication system before repairing each corresponding sensor.

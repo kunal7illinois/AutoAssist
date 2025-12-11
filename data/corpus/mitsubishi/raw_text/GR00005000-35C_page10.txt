@@ -1,0 +1,40 @@
+35C-10 TRACTION CONTROL SYSTEM (TCL)
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+Q:Is any of the harness wires between the relay box
+RELAY BOX FUSIBLE LINK (3)
+fusible link number 3 and the ABS-ECU connector A-02
+(terminals 17 and 18) damaged?
+YES : Repair it and then go to Step 3.
+NO : Go to Step 3.
+BATTERY
+AC101134AM
+CONNECTOR: A-02
+HARNESS SIDE
+AC001985AF
+STEP 3. Check the diagnostic trouble codes.
+Q:Does any of the diagnostic trouble codes 31, 32, 33, 34,
+41, 42, 43, 44, 45, 46, 47, 48, 51, or 53 reset?
+YES : Return to Step 1.
+NO : This diagnosis is complete.
+SYMPTOM CHART
+M1354000700087
+SYMPTOMS INSPECTION REFERENCE PAGE
+PROCEDURE NO.
+Communication between the scan tool and all systems is − GROUP 13A, Diagnosis
+not possible. P.13A-434 or GROUP
+13B, Diagnosis P.13B-
+530.
+Communication between the scan tool and the ABS-ECU 1 P.35C-11
+is not possible.
+When the ignition key is turned to the "ON" position 2 P.35C-16
+(engine stopped), the TCL indicator light does not
+illuminate.
+When the ignition key is turned to the "ON" position 3 P.35C-22
+(engine stopped), the TCL warning light does not
+illuminate.
+The TCL indicator light remains illuminated after the 4 P.35C-28
+engine is started.
+The TCL warning light remains illuminated after the engine 5 P.35C-31
+is started.
+The TCL system does not operate. 6 P.35C-34
+TSB Revision

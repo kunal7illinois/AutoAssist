@@ -1,0 +1,58 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-341
+SYMPTOM PROCEDURES
+Check the input signal by using "FUNCTION DIAG." of the
+SWS monitor.
+Check the input signals from the following switches:
+• Ignition switch: "ON" to "OFF"
+• Lighting switch: "TAIL" or "HEAD"
+• Driver(cid:146)s and front passenger(cid:146)s door: closed
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502. Also con-
+nect SWS monitor kit MB991862 after turning on scan tool
+MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+COLUMN SWITCH (2) Connect SWS monitor kit MB991862 to the column switch
+CONNECTOR
+connector.
+MB991502 (3) Operate the MUT-II according to the procedure below to
+display "H/L AUTO-CUT."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+DATA LINK 3. Select "SWS MONITOR."
+CONNECTOR
+4. Select "FUNCTION DIAG."
+AC101571AB 5. Select "LIGHTING."
+6. Select "H/L AUTO-CUT."
+COLUMN SWITCH
+(4) Check that normal conditions are displayed on the items
+CONNECTOR
+described in the table below.
+ITEM No. ITEM NAME NORMAL CONDITIONS
+SWS MONITOR
+HARNESS (FOR ITEM No.01 TAILLIGHT SW ON
+COLUMN-ECU)
+ITEM No.30 IG SW (IG1) OFF
+COLUMN SWITCH
+CONNECTOR AT
+(5) When the driver’s door is opened, check that normal
+HARNESS SIDE
+AC101421AB conditions are displayed on the items described in the table
+below.
+ITEM No. ITEM NAME NORMAL CONDITIONS
+ITEM FRONT DOOR ON
+No.32 SW
+ITEM H/L AUTO-CUT ON
+No.35
+Q:Does the scan tool display the items "TAILLIGHT SW",
+"IG SW IG1", "FRONT DOOR SW" and "H/L AUTO-CUT"
+as normal condition?
+YES : Replace the front-ECU. Check that the headlight
+automatic shutdown function works normally.
+NO : • The scan tool does not show the respective
+normal condition for item "TAILLIGHT SW." Refer
+to Inspection Procedure O-7 "ETACS-ECU does
+not receive a signal from the tail light switch
+P.54B-511."
+TSB Revision

@@ -1,0 +1,42 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-475
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 11. Check the sensor supply voltage at vehicle speed
+sensor harness side connector B-39.
+(1) Disconnect the vehicle speed sensor connector B-39 and
+measure at the harness side.
+(2) Disconnect the combination meter connector and auto-
+cruise control-ECU connector.
+(3) Turn the ignition switch to the "ON" position.
+(4) Measure the voltage between terminal 3 and ground.
+• Voltage should be between 4.8 and 5.2 volts.
+B-39 HARNESS
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+SIDE CONNECTOR
+Q:Is the voltage normal?
+3 2 1
+YES : Go to Step 12.
+NO : Check connector B-36 at intermediate connector for
+damage, and repair or replace as required. Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2. If intermediate connector is in good condition,
+AKX01427AG repair harness wire between vehicle speed sensor
+connector B-39 terminal 3 and ECM connector C-62
+terminal 80 because of short circuit to ground or
+harness damage. Then go to Step 17.
+STEP 12. Check the vehicle speed sensor.
+Refer to GROUP 54, Combination Metres Assembly and Vehi-
+cle Speed Sensor − Combination Metres Assembly and Vehicle
+Speed Sensor − Inspection P.54A-106.
+Q:Is the vehicle speed sensor normal?
+YES : Go to Step 13.
+NO : Replace the vehicle speed sensor. Then go to Step
+17.
+STEP 13. Check connector C-62 at ECM for damage.
+Q:Is the connector in good condition?
+CONNECTOR:C-62
+ECM YES : Go to Step 14.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 17.
+C-62
+AK000310AC
+TSB Revision

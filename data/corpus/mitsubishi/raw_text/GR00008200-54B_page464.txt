@@ -1,0 +1,42 @@
+54B-464 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE N-3: Theft-alarm System: Headlights (High-beam) do not Flash when the
+Theft-alarm System is Triggered.
+. TROUBLESHOOTING HINTS
+TECHNICAL DESCRIPTION (COMMENT)
+• Malfunction of the front-ECU
+If the headlights (high beam) illuminate normally, the
+• Malfunction of the ETACS-ECU
+front-ECU or the ETACS-ECU may be defective.
+• Damaged harness wires or connectors
+.
+DIAGNOSIS
+STEP 1. Check the headlight (high beam) operation.
+Q:Do the headlights illuminate at high beam normally?
+YES : Go to Step 2.
+NO : Refer to Inspection Procedure J-3 "Headlights (high-
+beam) do not illuminate normally P.54B-274."
+STEP 2. Replace the ECU.
+(1) Replace the ETACS-ECU.
+(2) The headlights should flash at high beam when the theft-
+alarm system is triggered.
+Q:Do the headlights flash at high beam when the theft-
+alarm system is triggered?
+YES : No action to be taken.
+NO : Replace the front-ECU. The headlights should flash at
+high beam when the theft-alarm system is triggered.
+INSPECTION PROCEDURE N-4: Theft-alarm System: Panic Alarm Function does not Work.
+. .
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINTS
+If the keyless entry system is normal, the ETACS- • Malfunction of the ETACS-ECU
+ECU may be defective. • Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the keyless entry system.
+Q:Does the keyless entry system work normally?
+YES : Go to Step 2.
+NO : Refer to Inspection Procedure E-1 "Keyless entry
+system does not operate P.54B-155."
+TSB Revision

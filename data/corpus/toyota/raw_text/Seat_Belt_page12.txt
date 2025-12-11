@@ -1,0 +1,36 @@
+SB–12
+SEAT BELT – SEAT BELT WARNING SYSTEM
+Driver Side Seat Belt Warning Light does not Operate
+DESCRIPTION
+When the ignition switch is on (IG), the center airbag sensor assembly transmits front seat inner belt state
+signals to the combination meter assembly through CAN. If the driver seat belt is not fastened, the
+combination meter assembly blinks the driver seat belt warning light. If the seat belt is fastened, the
+warning light goes off.
+NOTICE:
+The seat belt warning system uses CAN. Before troubleshooting the seat belt warning system,
+perform "COMMUNICATION FUNCTION CHECK" by following "HOW TO PROCEED WITH
+TROUBLESHOOTING" to confirm that the communication systems are normal.
+WIRING DIAGRAM
+F1 N3
+Combination Meter Center Airbag Front Seat Inner
+Assembly Sensor Assembly Belt Assembly LH
+17 13 11 1
+CANH CANH DBE+
+18 22 12 3
+CANL CANL DBE-
+12
+E2
+13
+SB IG+ from GAUGE No. 2 fuse
+: CAN
+B137085E01
+INSPECTION PROCEDURE
+1 CHECK FOR DTCs
+(a) Check for DTCs.
+Result
+Result Proceed to
+Output DTC (CAN communication) A
+Output DTC (Airbag system) B
+No output DTC C
+A GO TO CAN COMMUNICATION SYSTEM
+B GO TO AIRBAG SYSTEM

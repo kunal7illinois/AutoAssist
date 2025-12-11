@@ -1,0 +1,34 @@
+23A-104 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 3. Check connector C-50 <2.4L Engine> or C-52
+<3.0L Engine> at PCM for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE> YES : Go to Step 4.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM Connector Inspection P.00E-2.
+C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE> AC001657BE
+STEP 4. Using scan tool MB991502, check data list item 22:
+Input Shaft Speed Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine.
+(3) Set scan tool MB991502 to data reading mode for item 22:
+Input Shaft Speed Sensor.
+• When driving at constant speed of 50km/h (31mph), the
+display should be "1,600 − 1,900 r/min." <2.4L Engine>,
+"1,300 − 1,600 r/min." <3.0L Engine> (Gear range: 3rd
+gear)
+16 PIN
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 AC001252AB Q:Is the sensor operating properly?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Replace the PCM.
+TSB Revision

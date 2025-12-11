@@ -1,0 +1,35 @@
+BC–136
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+(b) Count the number of blinks of the ABS and VSC
+(models without multi information display) warning
+lights or read "DIAG VSC" on the multi information
+display (models with multi information display).
+Blinking Pattern in Normal System Code: Display of Normal System Code:
+0.25 sec. 0.25 sec.
+ON
+OFF
+BC
+Blinking Pattern in Trouble Code (Example Codes 71 and 72):
+2.5 sec.
+0.5 sec.
+1.5 sec. 4 sec.
+0.5 sec.
+Repeat
+ON
+OFF
+Code 71 Code 72
+Display of Trouble Code
+(Example Code 71):
+C135803E02
+NOTICE:
+• If only the DTCs are displayed, repair the
+malfunction area and clear the DTCs.
+• If the DTCs or Test Mode codes (DTC of
+signal check function) are displayed, repair
+the malfunction area, clear the DTCs and
+perform the Test Mode inspection.
+HINT:
+• If more than 1 malfunction is detected at the
+same time, the lowest numbered code will be
+displayed first.
+• See the list of DTC (See procedure "A").

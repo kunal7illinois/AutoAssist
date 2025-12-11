@@ -1,0 +1,67 @@
+Audi TT No. 30 / 12
+Current Flow Diagram
+Navigation system with CD drive control unit, TV tuner
+J401 Navigation system with CD drive control unit
+R78 TV tuner
+SC47 Fuse 47 on fuse holder C
+T32b 32-pin connector, connector E, on navigation system with CD
+drive control unit
+T54a 54-pin connector, black, on TV tuner
+51 Earth point, on right in luggage compartment
+10,0 B300 2,5
+Earth connection (screening 1, TV), in communication wiring
+ro ro 320
+harness
+47
+44 SC47
+B300 Positive connection 4 (30), in main wiring harness
+5A
+47a
+114455 115588
+B318 Positive connection 4 (30a), in main wiring harness
+0,5 0,5 0,5
+ro/ws ro/ws ro/ws • CAN bus (data wire)
+B318
+J401
+T32b/14 T32b T32b T32b T32b T32b/15
+/28 /13 /29 /30
+0,35
+br/ro
+0,35 0,35 0,14 0,14 320
+br/li br/ge ws br 320
+0,4
+a
+b
+0,75 0,14
+sw sw
+2277 1188 114455 0,4
+• •
+0,35 0,35 0,5 0,35 0,35 0,35 0,14
+or/br or/li ro/ws li br/ge br/sw sw
+30 T54a
+T54a/2 T54a/3 T54a/20 T54a/9 T54a/4 T54a/5 T54a/7 /10 T54a/11
+T
+31
+54a/19 R78 w
+sw
+s =
+=
+w
+bl
+h
+a
+i
+c
+te
+k
+ro = red
+0,5 br = brown
+br gn = green
+bl = blue
+gr = grey
+51 li = purple
+ge = yellow
+141 142 143 144 145 146 147 148 149 150 151 152 153 154 or = orange
+8J0-030120409
+rs = pink
+Edition 04.2009

@@ -1,0 +1,45 @@
+52B-108 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+STEP 2. Check the harness for open circuit between the
+SRS-ECU and the left hand side-airbag module (LH).
+(1) Disconnect SRS-ECU connector C-74 and side-airbag
+CONNECTOR: C-74
+module (LH) connector D-15, and measure at the wiring
+harness side.
+CAUTION
+Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+weakened.
+SRS-ECU (2) Check the continuity between the following terminals.
+ACCELERATOR PEDAL C-74 connector D-15 connector
+CENTER REINFORCEMENT (LH) AC000358AF 21 - 1
+22 - 2
+CONNECTOR: D-15 • Should be less than 2 ohm.
+Q:Is the continuity normal?
+YES : Erase the DTC memory, and recheck if any DTC sets.
+If DTC 82 sets, replace the SRS-ECU. Refer to
+P.52B-144. Then go to Step 3.
+NO : Repair the harness wires between SRS-ECU
+connector C-74 and side-airbag module (LH)
+connector D-15. Then go to Step 3.
+AC002981AB
+D-15 CONNECTOR
+(HARNESS SIDE)
+C-74 CONNECTOR
+REAR VIEW
+(HARNESS SIDE)
+REAR VIEW
+1 2
+2122 2324
+252627282930313233
+343536373839404142
+AC106859AB
+STEP 3. Check for DTC.
+Q:Is DTC 82 output?
+YES : Return to Step 1.
+NO : This diagnosis is complete. (If no malfunctions are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to GROUP 00, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+TSB Revision

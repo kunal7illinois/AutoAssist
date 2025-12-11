@@ -1,0 +1,45 @@
+52B-48 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+STEP 5. Check the harness for short circuit to ground
+between the SRS-ECU and the junction block.
+(1) Disconnect junction block connector C-108, and measure at
+CONNECTORS: C-108
+JUNCTION BLOCK the wiring harness side.
+(FRONT VIEW)
+CAUTION
+Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+weakened.
+(2) Check the continuity between terminals 24 and body
+ground.
+• There should be open circuit.
+AC106657AB Q:Is the continuity normal?
+YES : Go to Step 6.
+C-108 CONNECTOR
+(HARNESS SIDE) REAR VIEW NO : Go to Step 8.
+1 2 3 4 5 6 7 8 91011121314
+1516171819202122232425262728
+AC106855AB
+STEP 6. Check the harness for short circuit to ground
+between the junction block and the combination meter.
+(1) Disconnect junction block connector C-108, and measure at
+CONNECTORS: C-108
+JUNCTION BLOCK the wiring harness side.
+(FRONT VIEW)
+CAUTION
+Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+weakened.
+(2) Check the continuity between terminals 25 and body
+ground.
+• There should be open circuit.
+AC106657AB Q:Is the continuity normal?
+YES : Check the other circuit, which flows through multi-
+C-108 CONNECTOR
+(HARNESS SIDE) REAR VIEW purpose fuse number 23.
+Y1729AU
+NO : Go to Step 7.
+1 2 3 4 5 6 7 8 91011121314
+1516171819202122232425262728
+AC106854AB
+TSB Revision

@@ -1,0 +1,41 @@
+ES–416
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTCs P043E P2401
+P0441 P0450 P0451 P0452 P0453 P0455P0456 P2419 P2420
+Malfunctioning Areas P043F P2402
+Reference orifice clogged
+Reference orifice high-flow
+Purge VSV stuck open
+Purge VSV stuck closed
+Canister pressure sensor fixed
+output
+ES Canister pressure sensor noise
+Canister pressure sensor low
+output
+Canister pressure sensor high
+output
+Gross leak
+Small leak
+Leak detection pump stuck OFF
+Leak detection pump stuck ON
+Vent valve stuck closed
+Vent valve stuck open (vent)
+A106731E11
+NEXT
+2 PERFORM EVAP SYSTEM CHECK (AUTO OPERATION)
+NOTICE:
+• The EVAP SYSTEM CHECK (AUTO OPERATION)
+consists of 5 steps performed automatically by the
+intelligent tester. It takes a maximum of approximately
+18 minutes.
+• Do not perform the EVAP SYSTEM CHECK when the
+fuel tank is more than 90% full because the cut-off
+valve may be closed, making the fuel tank leak check
+unavailable.
+• Do not run the engine during this operation.
+• When the temperature of the fuel is 35°C (95°F) or
+more, a large amount of vapor forms and any check
+results become inaccurate. When performing the
+EVAP SYSTEM CHECK, keep the temperature below
+35°C (95°F).
+(a) Clear the DTCs (See page ES-45).

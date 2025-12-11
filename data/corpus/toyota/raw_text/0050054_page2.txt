@@ -1,0 +1,41 @@
+ES–297
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P2121)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Select the following menu items: DIAGNOSIS / ES
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(e) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+P2121 A
+P2121 and other DTCs B
+HINT:
+If any DTCs other than P2121 are output, troubleshoot
+those DTCs first.
+B GO TO DTC CHART
+A
+2 READ VALUE USING INTELLIGENT TESTER (ACCEL POS #1 AND ACCEL POS #2)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY / ACCEL
+POS #1 and ACCEL POS #2.
+(d) Read the values displayed on the tester.
+Standard voltage
+Accelerator Pedal
+ACCEL POS #1 ACCEL POS #2
+Depressed Released Operations
+FI07052E06 Released 0.5 to 1.1 V 1.2 to 2.0 V
+Depressed 2.6 to 4.5 V 3.4 to 5.0 V
+OK CHECK FOR INTERMITTENT PROBLEMS
+NG
+3 REPLACE ACCELERATOR PEDAL ASSEMBLY
+NEXT

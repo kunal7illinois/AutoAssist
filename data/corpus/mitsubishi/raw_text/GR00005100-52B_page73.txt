@@ -1,0 +1,33 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-73
+SRS AIR BAG DIAGNOSIS
+STEP 4. Check the harness for short circuit to ground
+between SRS-ECU connector C-72 (terminal No.7 and 8)
+and clock spring connector C-85 (terminal No.3 and 4).
+Q:Are the harness wires between SRS-ECU connector C-
+CONNECTOR: C-72
+72 (terminal No.7 and 8) and clock spring connector C-
+85 (terminal No.3 and 4) in good condition?
+HARNESS SIDE
+(REAR VIEW) YES : Go to Step 5.
+NO : Repair the harness wires between SRS-ECU
+1 2 3 4 5 6 7 8 connector C-72 and clock spring connector C-85.
+9 10111213141516 Then go to Step 5.
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH) AC000358AH
+CONNECTOR: C-85
+CLOCK
+SPRING
+HARNESS SIDE
+(REAR VIEW)
+1 2 3 4
+AC106436AD
+STEP 5. Check the DTC.
+Q:Is DTC 62 output?
+YES : Return to Step 1.
+NO : This diagnosis is complete. (If no malfunctions are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to GROUP 00, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+TSB Revision

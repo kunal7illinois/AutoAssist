@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+YES -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM (see ECM/PCM REPLACEMENT ). If
+any other DTCs were indicated in step 9, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals at the PCM. If the PCM was updated, substitute a known-good PCM
+(see SUBSTITUTING THE PCM ), then go to step 8. If the PCM was
+substituted, go to step 1. If the HDS indicates NOT COMPLETED, go to step
+8.
+DTC U0028: F-CAN Malfunction (BUS-OFF (PCM))
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+1. Turn the ignition switch to ON (II).
+2. Clear the DTC with the HDS.
+3. Check for Temporary DTCs or DTCs in the PGM-FI SYSTEM with the HDS.
+Is DTC U0155 indicated in the PGM-FI SYSTEM?
+YES -Go to the DTC U0155 troubleshooting in the PGM-FI system (see DTC
+U0155: F-CAN MALFUNCTION (ECM/PCM-GAUGE CONTROL
+MODULE) ).
+NO -Go to step 4.
+4. Check for DTCs in the A/T SYSTEM with the HDS.
+Is DTC U0028 indicated in he A/T SYSTEM?
+YES -Go to step 5.
+NO -Intermittent failure, the system is OK at this time. If any other DTCs were

@@ -1,0 +1,63 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-109
+3. Function of Main Components
+Component Function
+The key consists of a mechanical key, the transmitter for the
+wireless door lock remote control, the transceiver for the smart
+Key
+key system and a transponder chip for the engine immobilizer
+control.
+Controls the smart key system in accordance with the signals
+from each oscillator, various switches, ECUs and the key.
+(cid:3) Judges and certifies the ID code from the tuner.
+Certification ECU
+(cid:3) Transmits the engine immobilizer deactivation signal to the ID
+code box.
+(cid:3) Transmits steering unlock signals to the steering lock ECU.
+Controls the smart key system in accordance with the signals
+from the various switches, ECUs and combination meter.
+(cid:3) Transmits the key certification request signal to the
+certification ECU in accordance with the engine switch signal,
+Main Body ECU
+and turns the relays ON and OFF.
+(cid:3) Receives the request signal from the certification ECU and
+actuates the door lock motor to unlock or lock the door.
+(cid:3) Transmits the condition each door to the certification ECU.
+Receives and certifies the engine immobilizer deactivation signal
+ID Code Box
+transmitted from the certification ECU, and sends it to the ECM.
+Antenna Transmits the request signals.
+OOutsiidde
+Touch Sensor Detects when a person touches the inside of an outer door handle.
+HHaannddllee
+Lock Switch Transmits door lock request signals to the certification ECU.
+((FFrroonntt RRHH aanndd
+LH) Receives the request signal from the certification ECU, and
+Door Oscillator
+creates an actuation area around front door.
+RRoooomm OOsscciillllaattoorr RReecceeiivveess tthhee rreeqquueesstt ssiiggnnaall ffrroomm tthhee cceerrttiiffiiccaattiioonn EECCUU,, aanndd
+(cid:3) Front and Rear forms the actuation area in the vehicle interior.
+TTrruunnkk OOsscciillllaattoorr RReecceeiivveess tthhee rreeqquueesstt ssiiggnnaall ffrroomm tthhee cceerrttiiffiiccaattiioonn EECCUU,, aanndd
+(cid:3) Inner forms the actuation area in the trunk.
+TTrruunnkk OOsscciillllaattoorr RReecceeiivveess tthhee rreeqquueesstt ssiiggnnaall ffrroomm tthhee cceerrttiiffiiccaattiioonn EECCUU,, aanndd
+(cid:3) Outer forms the actuation area around the trunk lid.
+(cid:3) Receives the ID code from the key in the actuation area and
+transmits it to certification ECU.
+Tuner
+(cid:3) Receives the ID code from the key in the trunk and transmits
+it to certification ECU.
+Receives the ID code from the key in the luggage room and
+Trunk Antenna
+transmits it to the tuner.
+Trunk Open Switch Transmits a trunk lid open request signal to certification ECU.
+Sounds as an answerback for entry lock or unlock to inform the
+Wireless Door Lock Buzzer
+driver.
+Multi-information
+When the certification ECU detects human error, it warns the
+Display
+ddrriivveerr bbyy ssoouunnddiinngg tthhee wwiirreelleessss ddoooorr lloocckk bbuuzzzzeerr aanndd tthhee bbuuzzzzeerr
+CCombbiinattiion
+Master Warning in the combination meter, and by illuminating a warning on the
+Meter
+Light multi-information dispplayy and the master warningg ligght,, in
+Buzzer accordance with the request signal from the certification ECU.

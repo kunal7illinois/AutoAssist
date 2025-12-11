@@ -1,0 +1,31 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-103
+Pattern C: OFF (cid:1) ACC (cid:1) IG ON (cid:1) ACC
+Step System Operation
+The system operations for the power source OFF (cid:1) ACC (cid:1) IG ON are the same as those
+a)
+in pattern B. For details, see page BE-101.
+When the engine switch is pressed once with the following conditions satisfied, the main
+body ECU recognizes the engine switch signal and turns OFF the IG relays.
+(cid:3) Shift position is in any position except P.
+b)
+(cid:3) Brake pedal is not depressed.
+(cid:3) Vehicle speed is 0 km/h (0 mph).
+(cid:3) Power source is in IG-ON mode.
+Even after the power source switches from IG ON to ACC, the indicator light of the
+c)
+engine switch will remain illuminated in amber.
+Engine Switch
+b)
+b)
+Main Body ECU IG Relays
+c)
+0140BE136C
+Pattern D: IG ON (cid:1) OFF
+This system operation is the same as IG ON (cid:1) OFF for pattern B. For detail, see page BE-101.
+Pattern E: IG ON (cid:1) ACC
+This system operation is the same as pattern C. For details, see page BE-103. However, the indicator light
+of the engine switch will illuminate as follows:
+(cid:3) When the power source is switched from IG-ON to ACC, the main body ECU makes the amber indicator
+light of the engine switch continue to illuminate.
+(cid:3) When the power source is switched from engine running to OFF, the main body ECU turns OFF the
+indicator light of the engine switch.

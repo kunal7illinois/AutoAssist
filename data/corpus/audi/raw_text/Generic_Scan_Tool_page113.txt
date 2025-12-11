@@ -1,0 +1,71 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+U014 Lost Com‐ Check for Data • No CAN mes‐ Time after ignition on 500 • 2 DCY
+6 munication Bus On Board sages received = 500 mSec. mSec.
+With Gate‐ Diagnostic Inter‐
+way "A" face communi‐
+cation with scan
+tool. If no com‐
+munication with
+scan tool, check
+power and
+ground to Data
+Bus On Board
+Diagnostic Inter‐
+face. If no other
+communication
+faults are set,
+the ECM may be
+at fault.
+U015 Lost Com‐ Check TSB's for • No CAN mes‐ Time after ignition on 2000 • 2 DCY
+5 munication software up‐ sages received = 500 mSec. mSec.
+With Instru‐ date. Check for
+ment Panel IPC communi‐
+Cluster cation with scan
+(IPC) Con‐ tool. If IPC has
+trol Module no communica‐
+tion with scan
+tool check pow‐
+er and ground to
+cluster. If
+present, replace
+the cluster
+U030 Software In‐ Check ECM cal‐ • Manual trans‐ Time after ignition on 100 • 2 DCY
+2 compatibili‐ ibration. Fault mission coded = 500 mSec. mSec.
+ty with will set if ECM ECM and mes‐
+Transmis‐ was program‐ sages received
+sion Control med for a man‐ from TCM
+Module ual trans in an
+automatic trans‐
+mission vehicle.
+U032 CAN: In‐ – Check the receiving fault val‐ • CAN active 6 Sec • Continu‐
+3 strument CAN-Bus ue = -50° C ous
+cluster Audi terminal re‐ • time after ignition
+only sistance. Re‐ on >2 Sec • 2 DCY
+fer to
+⇒
+“3.5.43 CAN
+Bus Terminal
+Resistance,
+Checking”,
+page 195 .
+U040 Invalid Data Check TSB's for • Implausible da‐ Time after ignition on 60 mSec. • 2 DCY
+2 Received software up‐ ta message re‐ = 500 mSec.
+From date. Check for ceived
+Transmis‐ correct soft‐
+sion Control ware. Check to
+Module see if any other
+modules have
+set an invalid
+data code from
+TCM (ABS,
+Cluster etc.). If
+so and the soft‐
+ware is correct,
+replace the
+TCM.
+109
+3. Diagnosis and Testing

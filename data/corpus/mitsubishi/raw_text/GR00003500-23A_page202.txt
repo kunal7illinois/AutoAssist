@@ -1,0 +1,42 @@
+23A-202 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 14. Check harness for open circuit, or short circuit to
+ground between solenoid valve assembly connector B-40
+terminal 4 and PCM connector C-61 <2.4L Engine> or C-63
+<3.0L Engine> terminal 106.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-40
+YES : Replace the PCM.
+NO : Repair it.
+B-40
+ACX02479AK
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE>
+PCM
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+DTC 34: Overdrive Solenoid Valve System
+. .
+Solenoid Valve System Circuit TROUBLESHOOTING HINTS (The most likely
+Refer to P.23A-180. causes for this code to be set:)
+• Malfunction of underdrive solenoid valve
+CIRCUIT OPERATION
+• Damaged harness, connector
+Refer to P.23A-180.
+• Malfunction of the PCM
+.
+DTC SET CONDITIONS
+If the resistance value for a solenoid valve circuit is
+greater than 3.5 Ω for 4 seconds or less than 2.6 Ω
+for 4 seconds, it is judged that there is a short circuit
+or an open circuit in the solenoid valve and the diag-
+nostic trouble code number "34" is displayed. The
+transmission is locked into 3rd gear as a fail-safe
+measure, and the "N" range light flashes once per
+second.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+TSB Revision

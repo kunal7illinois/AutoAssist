@@ -1,0 +1,55 @@
+13A-480 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check the idle air control (IAC) motor operation
+sound.
+(1) Check that the engine coolant temperature is 20°C (68°F)
+CONNECTOR:B-34
+or below.
+IDLE AIR
+CONTROL MOTOR NOTE: If necessary, you can disconnect the engine coolant
+temperature sensor connector and connect the harness
+side of the connector to another engine coolant temperature
+sensor that is at 20°C (68°F) or below.
+(2) Check the operation sound of the IAC motor can be heard
+after the ignition is switched to the "ON" position (but
+without starting the engine).
+• An operation sound should heard.
+ACX02519AI
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Did you hear the operation sound?
+YES : Go to Step 3.
+NO : Refer to, DTC P0506 − Idle Control System RPM
+Lower Than Expected P.13A-390, DTC P0507 − Idle
+Control System RPM Higher Than Expected P.13A-
+399.
+STEP 3. Using scan tool MB991502, check data list.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Check the following items in the data list. Refer to, Data List
+Reference Table P.13A-544.
+16 PIN a. Item 14: Throttle Position Sensor.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AKX01177AB Q:Is the sensor operating properly?
+YES : Refer to, Clean the throttle valve area P.13A-575.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+INSPECTION PROCEDURE 18: Poor acceleration.
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+• Defective ignition system, abnormal air/fuel ratio, causes for this case: )
+• Malfunction of the ignition system.
+poor compression pressure, etc. are suspected.
+• Malfunction of air/fuel ratio control system.
+• Malfunction of the fuel supply system.
+.
+• Poor compression pressure.
+• Clogged exhaust system.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

@@ -1,0 +1,54 @@
+17-8 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+AUTO-CRUISE CONTROL SYSTEM DIAGNOSTIC TROUBLESHOOTING STRATEGY
+M1172002000150
+Use these steps to plan your diagnostic strategy. 5. If you can verify the condition but there are no
+If you follow them carefully, you will check most of auto-cruise control system DTCs, or the system
+the possible causes of an auto-cruise control system cannot communicate with scan tool MB991502,
+problem. refer to Symptom Chart P.17-43 and find the fault.
+1. Gather information from the customer. 6. If there is an auto-cruise control system DTC,
+2. Verify that the condition described by the record the number of the code, then erase the
+customer exists. code from vehicle memory using the scan tool.
+3. Check the vehicle for any auto-cruise control 7. Re-create the auto-cruise control system DTC set
+system DTC. conditions to see if the same Auto-cruise Control
+4. If you can verify the condition but no auto-cruise System DTC will set again.
+control system DTCs are set, and the malfunction • If the same Auto-cruise Control System DTC sets
+may be intermittent. Refer to Introduction, How to again, perform the diagnostic procedures for the
+Use Troubleshooting/Inspection Service Points − set code. Refer to P.17-11, Auto-cruise Control
+How to Cope with Intermittent Malfunctions P.00- System Diagnostic Trouble Code Chart.
+6.
+AUTO-CRUISE CONTROL SYSTEM DIAGNOSTIC
+TROUBLE CODE DIAGNOSIS
+M1172002100146
+Retrieving Auto-cruise Control System Diagnostic Trouble
+Codes.
+Using scan tool MB991502
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+1. Connect scan tool MB991502 to the data link connector.
+2. Turn the ignition switch to the "ON" position.
+3. Use scan tool MB991502 to check for auto-cruise control
+system diagnostic trouble codes.
+4. Turn the ignition switch to the "LOCK" (OFF) position.
+5. Disconnect scan tool MB991502.
+16 PIN
+MB991502
+AC001252AB
+Using a Auto-cruise Control Indicator Light
+1. Turn the ignition switch to the "ON" position while holding
+the auto-cruise control switch in the "SET" position (down).
+RESUME
+SWITCH: ON Then, within one second, more the auto-cruise control
+switch up to the "RES" position.
+2. Read a diagnostic trouble code by observing the flash
+display pattern of the auto-cruise control indicator light in the
+combination meter.
+AUTO-CRUISE SET
+CONTROL SWITCH: ON
+SWITCH
+ACX01172AB
+TSB Revision

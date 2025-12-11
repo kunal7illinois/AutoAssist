@@ -1,0 +1,41 @@
+CHASSIS ELECTRICAL 54A-65
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 28. Using scan tool MB991502, check data list item
+29: Vehicle Speed Signal.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to "LOCK" (OFF) position before connect-
+ing or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine.
+(3) Set scan tool MB991502 to data reading mode for item 29,
+Vehicle Speed Signal.
+• Check that the speedometer and scan tool display
+speed match when driving at a vehicle speed of 40 km/h
+(25 mph).
+(4) Turn the ignition switch to "LOCK" (OFF) position.
+16 PIN
+Q:Is the sensor operating properly?
+MB991502
+AC001252AB YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Replace the PCM.
+STEP 29. Using scan tool MB991502, check data list item
+23: Output Shaft Speed Sensor.
+(1) Set scan tool MB991502 to data reading mode for item 23:
+Output Shaft Speed Sensor.
+• When driving at constant speed of 50km/h (31mph), the
+display should be "1,600 − 1,900 r/min." <2.4L Engine>,
+"1,300 − 1,600 r/min." <3.0L Engine> (Gear range: 3rd
+gear)
+(2) Turn the ignition switch to "LOCK" (OFF) position.
+16 PIN Q:Is the sensor operating properly?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+MB991502
+AC001252AB How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Go to Step 30.
+TSB Revision

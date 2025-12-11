@@ -1,0 +1,44 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.3 Fuel Pump Delivery Rate, Checking
+Special tools and workshop equipment required
+♦ Hand held remote control (jumper).
+♦ Multimeter.
+♦ Electrical connector test lead set.
+♦ Fuel pressure test set.
+♦ Measuring container, fuel-resistant.
+Test conditions
+• Battery voltage 12.5 V
+• Fuel filter OK
+• Fuel tank at least 1/4 filled.
+• Fuel pressure regulator OK.
+• Ignition switched OFF.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the fuel filler cap from fuel filler tube.
+– Remove rear seat bench. Refer to the Repair Manual .
+– Remove the floor sealing cover.
+– Disconnect the electrical harness connector from the fuel de‐
+livery unit.
+– Connect a hand held remote control (jumper) to terminal 1 of
+the fuel delivery unit and to vehicle battery (+).
+– Connect a jumper wire from terminal 5 of the fuel delivery unit
+to vehicle Ground.
+WARNING
+Fuel system is under pressure! Before opening the system,
+place rags around the connection area. Then release the pres‐
+sure by carefully loosening the connection.
+– Disconnect the fuel return line by pressing release buttons.
+– Connect a fuel line from the fuel pressure test set to the dis‐
+connected fuel return line and hold it in the measuring con‐
+tainer.
+– Press the switch on the hand held remote control (jumper) and
+operate the fuel pump for 15 seconds.
+– Compare quantity of fuel delivered with minimum delivery rate
+in the diagram (cm3/30s).
+115
+3. Diagnosis and Testing

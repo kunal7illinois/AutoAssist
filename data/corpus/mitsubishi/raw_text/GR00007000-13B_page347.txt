@@ -1,0 +1,46 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-347
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Using scan tool MB991502, check data list item 69:
+Heated Oxygen Sensor Bank 1, Sensor 2 (right rear).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+69, Heated Oxygen Sensor Bank 1, Sensor 2 (right rear).
+16 PIN • Warming up the engine. When the engine is revved, the
+output voltage should repeat 0 volt and 0.6 to 1.0 volt
+MB991502
+alternately.
+AKX01177AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : Go to Step 3.
+NO : Refer to DTC P0136 − Heated Oxygen Sensor Circuit
+(bank 1, sensor 2) P.13B-156, DTC P0137 − Heated
+Oxygen Sensor Circuit Low Voltage (bank 1, sensor
+2) P.13B-166, DTC P0138 − Heated Oxygen Sensor
+Circuit High Voltage (bank 1, sensor 2) P.13B-171,
+DTC P0139 − Heated OxygenSensor Circuit Slow
+Response (bank 1, sensor 2) P.13B-174.
+STEP 3. Using scan tool MB991502, check data list item 39:
+Heated Oxygen Sensor Bank 1, Sensor 1 (right front).
+(1) Start the engine and run at idle.
+(2) Set scan tool MB991502 to the data reading mode for item
+39, Heated Oxygen Sensor Bank 1, Sensor 1 (right front).
+• Warming up the engine. When the engine is revved, the
+output voltage should be 0.6 to 1.0 volt.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+16 PIN
+YES : Go to Step 4.
+MB991502 NO : Refer to DTC P0130 − Heated Oxygen Sensor Circuit
+AKX01177AB (bank 1, sensor 1) P.13B-122, DTC P0131 − Heated
+Oxygen Sensor Circuit Low Voltage (bank 1, sensor
+1) P.13B-132, DTC P0133 − Heated Oxygen Sensor
+Circuit Slow Response (bank 1, sensor 1) P.13B-140,
+DTC P0134 − Heated Oxygen Sensor No Activity
+Detected (bank 1, sensor 1) P.13B-143 .
+TSB Revision

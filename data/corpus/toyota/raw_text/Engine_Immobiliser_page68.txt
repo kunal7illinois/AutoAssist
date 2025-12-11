@@ -1,0 +1,36 @@
+EI–64
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+PROBLEM SYMPTOMS TABLE
+HINT:
+Use the table below to help determine the cause of the
+problem symptom. The potential cases of the symptoms are
+listed in order of probability in the "Suspected Area" column
+of the table. Check each symptom by checking the suspected
+areas in the order they are listed. Replace parts as
+necessary.
+ENGINE IMMOBILISER SYSTEM:
+Symptom Suspected area See page
+1. Door courtesy switch circuit EI-92
+Unable to register the key. 2. ECU power source circuit EI-94
+3. Transponder key ECU assembly -
+1. Key EI-70
+2. ECU power source circuit EI-94
+Engine does not start. 3. Transponder key ECU assembly -
+4. SFI system (2AZ-FE) ES-11
+5. SFI system (2GR-FE) ES-15
+1. Security indicator light circuit EI-89
+Security indicator is always ON. 2. ECU power source circuit EI-94
+3. Transponder key ECU assembly -
+1. Security indicator light circuit EI-89
+Security indicator is OFF. 2. ECU power source circuit EI-94
+3. Transponder key ECU assembly -
+Security indicator is blinking abnormally. Transponder key ECU assembly -
+1. Diagnosis circuit EI-98
+No code is output. 2. ECU power source circuit EI-94
+3. Transponder key ECU assembly -
+HINT:
+• If the engine does not start, check that the key which did
+not start the engine control system has been registered,
+EI and that it is possible to start with another registered key.
+• If the security indicator is always ON, finish the automatic
+registration mode in case the mode still operates.

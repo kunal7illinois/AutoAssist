@@ -1,0 +1,55 @@
+ES–420
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+6 PERFORM EVAP SYSTEM CHECK (STEP 2/5)
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed
+Vent Valve ON
+OFF: Vent
+Leak Detection
+Pump ON
+Leak Detection Pump Stuck OFF
+ES
+EVAP Pressure Reference Orifice High-flow
+4 seconds
+Positive
+Negative
+Vent Valve Stuck Closed
+First Reference
+Pressure
+OK
+Standard
+Reference Orifice Clogged
+Steps 2/5 3/5
+Time
+60 Within 15 minutes
+(Reference) seconds
+A106738E05
+HINT:
+Make a note of the pressures checked in steps "A" and "B"
+below.
+(a) Check the EVAP pressure 4 seconds after the leak
+detection pump is activated* (Step "A").
+*: The leak detection pump begins to operate as step 1/5
+finishes and step 2/5 starts.
+(b) Check the EVAP pressure again when it has stabilized.
+This pressure is the reference pressure (Step "B").
+Result
+DTCs* Test Results Suspected Trouble Areas Proceed to
+EVAP pressure in step (b) between -4.85 kPa-g
+- and -1.057 kPa-g (-36.4 mmHg-g and -7.93 Not yet determined A
+mmHg-g)
+P043F and EVAP pressure in step (b) -1.057 kPa-g (-7.93 • Reference orifice high-flow
+B
+P2401 mmHg-g) or more • Leak detection pump stuck OFF
+EVAP pressure in step (b) below -4.85 kPa-g (-
+P043E Reference orifice clogged C
+36.4 mmHg-g)
+EVAP pressure in step (a) more than -1.057
+P2419 Vent valve stuck closed D
+kPa-g (-7.93 mmHg-g)
+*: These DTCs are already present in the ECM when the
+vehicle arrives and are confirmed in the "CONFIRM DTC"
+procedures above.

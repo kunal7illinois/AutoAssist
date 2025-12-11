@@ -1,0 +1,52 @@
+ES–377
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(b) Disconnect the E3 ignition switch connector.
+Wire Harness Side: (c) Disconnect the battery positive terminal.
+Ignition Switch Connector
+E3
+ES
+E118422E04
+(d) Remove the AM2 fuse and IG2 relay.
+(e) Measure the resistance between the terminals.
+Standard resistance (Check for open)
+Tester Connections Specified Conditions
+AM2
+A9-28 (IGSW) - Engine room No. 1 Below 1 Ω
+2 1 relay block IG2 relay terminal 5
+Engine room No. 1 relay block IG2 Below 1 Ω
+relay terminal 2 - Body ground
+Positive (+) battery cable - Engine Below 1 Ω
+room relay block No. 1 AM2 fuse
+IG2 terminal 1
+3
+Positive (+) battery cable - Engine Below 1 Ω
+5
+room relay block No. 1 IG2 relay
+1 2 terminal 3
+E3-7 (AM2) - Engine room No. 1 relay Below 1 Ω
+Engine Room No. 1 Relay Block
+block AM2 fuse terminal 2
+A126981E13
+E3-6 (IG2) - Engine room No. 1 relay Below 1 Ω
+block IG2 relay terminal 1
+Standard resistance (Check for short)
+Tester Connections Specified Conditions
+A9-28 (IGSW) or Engine room No. 1 10 kΩ or higher
+relay block IG2 relay terminal 5 -
+Body ground
+Positive (+) battery cable or Engine 10 kΩ or higher
+room No. 1 relay block AM2 fuse
+terminal 1 - Body ground
+Positive (+) battery cable or Engine 10 kΩ or higher
+room No. 1 relay block IG2 relay
+terminal 3 - Body ground
+E3-7 (AM2) or Engine room No. 1 10 kΩ or higher
+relay block AM2 fuse terminal 2 -
+Body ground
+E3-6 (IG2) or Engine room No. 1 relay 10 kΩ or higher
+block IG2 relay terminal 1 - Body
+ground
+(f) Reinstall the relay and fuse.
+(g) Reconnect the connectors.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR

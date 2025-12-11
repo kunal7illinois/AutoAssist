@@ -1,0 +1,59 @@
+Audi A1 2011 ➤ , Audi A2 2001 ➤ , Audi A3 2004 ➤ , Audi A4 2001 ➤ , Au ...
+Electrical system; General information - Edition 10.2010
+Contents
+27 - Starter, current supply, CCS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1 Battery - general notes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.1 Safety measures and procedures to be followed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1.2 Warnings and safety procedures when handling lead-acid batteries . . . . . . . . . . . . . . . . . . 1
+2 Non maintenance-free batteries (without „magic eye“) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2.1 Central gas venting system . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2.2 Battery terminal screw connection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2.3 Checking non maintenance-free batteries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.4 Visual inspection of battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.5 Checking electrolyte level in battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+2.6 Measuring relative density of electrolyte in all battery cells . . . . . . . . . . . . . . . . . . . . . . . . 7
+3 Maintenance-free batteries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+3.1 Battery with „magic eye“ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+3.2 Checking battery with „magic eye“ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+3.3 Valve-regulated lead acid (VRLA) or absorbent glass mat (AGM) battery without „magic eye“
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3.4 Checking valve-regulated lead acid or AGM battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3.5 Central gas venting system . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+3.6 Battery terminal screw connection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+3.7 Visual inspection of battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+3.8 Checking colour indicator (electrolyte level in battery) - batteries with „magic eye“ . . . . . . 15
+3.9 Checking electrolyte level in battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+4 Checking battery - vehicles without battery monitor control unit J367 or energy management
+control unit J644 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+4.1 Checking battery using battery tester with printer VAS 6161 . . . . . . . . . . . . . . . . . . . . . . 17
+4.2 Checking battery using battery tester with printer VAS 5097A . . . . . . . . . . . . . . . . . . . . . . 21
+4.3 Measuring no-load voltage - vehicles without battery monitor control unit J367 or energy
+management control unit J644 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+4.4 Checking battery by measuring current draw - vehicles without battery monitor control unit
+J367 or energy management control unit J644 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+5 Checking battery - vehicles with battery monitor control unit J367 or energy management
+control unit J644 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+5.1 Checking battery using vehicle diagnostic tester . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+5.2 Checking battery by measuring current draw - vehicles with battery monitor control unit J367
+or energy management control unit J644 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+5.3 Measuring no-load voltage - vehicles with battery monitor control unit J367 or energy
+management control unit J644 „transport mode not active“ . . . . . . . . . . . . . . . . . . . . . . . . 32
+5.4 Measuring no-load voltage - vehicles with battery monitor control unit J367 or energy
+management control unit J644 „transport mode active“ . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+6 Charging battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+6.1 Charging battery with battery charger VAS 5095A , VAS 5900 , VAS 5903 , VAS 5904 or VAS
+5906 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+6.2 Totally discharged battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+6.3 Rapid-charging battery - vehicles without battery monitor control unit J367 or energy
+management control unit J644 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+6.4 Back-up power supply of battery via battery charger VAS 5095A , VAS 5900 , VAS 5903 ,
+VAS 5904 or VAS 5906 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+6.5 Maintaining battery charge with solar panel VAS 6102 A . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+7 Checking and servicing alternator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+7.1 Checking alternator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+7.2 Bosch alternator up to 2000 - exploded view . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+7.3 Bosch alternator from 2001 onwards - exploded view . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+7.4 Removing and installing voltage regulator - Bosch alternator from 2001 onwards . . . . . . 46
+7.5 Bosch alternator from 2007 onwards - exploded view . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+i
+Contents

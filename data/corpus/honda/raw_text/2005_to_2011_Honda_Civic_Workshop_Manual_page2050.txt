@@ -1,0 +1,21 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+Is the voltage at 0.90-3.55 V?
+YES -Go to step 5.
+NO -Go to step 6.
+5. Check the ADVT2 in the DATA LIST with the HDS.
+Is the voltage at 1.02-3.73 V?
+YES -Check for loose wires or poor connections. If the connections are good,
+the system is OK at this time.
+NO -Go to step 6.
+6. Turn the ignition switch to LOCK (0).
+7. Disconnect EPS control unit connector D (28P).
+8. Measure resistance between EPS control unit connector D (28P) terminals No.
+9 and No. 10.
+Fig. 32: Measuring Resistance Between EPS Control Unit Connector D
+(28P) Terminals No. 9 And No. 10
+Is the resistance between 12-15 ohms?
+YES -Go to step 9.
+NO -Go to step 13.
+9. Measure resistance between EPS control unit connector D (28P) terminals No.

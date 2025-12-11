@@ -1,0 +1,41 @@
+54B-430 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 3. Check the input signal by using "DATA LIST" of
+the SWS monitor.
+Check the input signals from the following switches:
+COLUMN SWITCH • Ignition switch: OFF
+CONNECTOR • Driver(cid:146)s or front passenger(cid:146)s door: open
+MB991502 Operate the MUT-II according to the procedure below to dis-
+play "ETACS ECU."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+DATA LINK 3. Select "SWS MONITOR."
+CONNECTOR
+4. Select "DATA LIST."
+AC101571AB 5. Select "ETACS ECU."
+Check that normal conditions are displayed on the items
+COLUMN SWITCH
+described in the table below.
+CONNECTOR
+ITEM No. ITEM NAME NORMAL
+CONDITIONS
+SWS MONITOR
+HARNESS (FOR ITEM No.30 IG SW (IG1) OFF
+COLUMN-ECU)
+ITEM No.32 FRONT DOOR ON
+COLUMN SWITCH SW
+CONNECTOR AT
+HARNESS SIDE
+AC101421AB Q:Does the scan tool display the items "IG SW (IG1)" and
+"FRONT DOOR SW" as normal condition?
+YES : Go to Step 4.
+NO : • Normal condition is not displayed for "IG SW
+(IG1)": Refer to Inspection Procedure O-2
+"ETACS-ECU does not receive a signal from the
+ignition switch (IG1) P.54B-469."
+• Normal condition is not displayed for "FRONT
+DOOR SW": Refer to Inspection Procedure O-6
+"ETACS-ECU does not receive a signal from the
+driver’s or the front passenger’s door switch
+P.54B-502."
+TSB Revision

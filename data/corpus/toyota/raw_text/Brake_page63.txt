@@ -1,0 +1,35 @@
+BC–63
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+Brake Actuator Assembly (Skid Control ECU)
+17
+A25 RL-
+2 g1
+Speed Sensor Rear LH
+7
+1
+A25 RL+
+8
+A25 RR-
+2
+f1
+Speed Sensor Rear RH
+19
+1
+A25 RR+
+BC
+F040884E16
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).
+1 CHECK TIRES
+(a) Check the size and condition of all 4 tires (See page TW-
+3).
+HINT:
+This DTC is output when tire deformation or a difference
+in tire size is detected.
+OK:
+The diameters of all 4 tires and air pressure are the
+same.
+NG REPLACE TIRES SO THAT ALL 4 TIRES ARE
+THE SAME SIZE
+OK

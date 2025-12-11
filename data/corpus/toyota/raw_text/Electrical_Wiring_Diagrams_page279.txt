@@ -1,0 +1,129 @@
+SRS
+GND BGND
+278
+CAMRY (EM0250U)
+)3∗(
+)4∗(
+1 A
+B–W
+2 EO2
+7 1
+BSW
+3 C
+2 A (∗3)
+5 A (∗4)
+B–W
+D D D D
+SVC1 SIG1 SGD1 SVC2
+SVC4
+9 A B B B
+T17(A), d5(B)
+)3∗(
+)3∗(
+R
+)3∗(P
+G W L
+)3∗(B
+O
+SVC1
+SIG4
+SVC3 SIG3 SGD3
+RG
+O
+RG
+RB
+T14(A), d2(B) T16(A), d4(B)
+SIG1 SGD1 SVC2 SIG2 SGD2
+D D
+SIG2 SGD2
+O4(C), T10(A), T11(B), d1(D)
+DIA SVC3 SIG3 SGD3 SGD4
+A B B B
+3
+SVC4 SIG4 SGD4
+T15(A), d3(B)
+4 EO2
+RG Y W V
+∗ 3 : w/ Power Seat
+∗ 4 : w/o Power Seat
+C 11 7 1 12 8 2
+2 5 9 3 6 10 4
+9 C
+)4∗(
+3
+)4∗(P
+5 A
+5 C
+GL
+10A
+ECU–B
+NO. 1
+10 3C
+9 3L
+W
+A
+RB
+RB
+)3∗(
+)3∗(
+GL
+W
+)3∗(
+)3∗(
+B )3∗( RG
+O3(B), T7(A)
+W O
+(BAT)
+2
+1
+10 ID
+1 IF
+B
+B–W
+3 EO2
+C
+IG +B
+2 B 1 B
+O1
+)4∗(O
+7 A 1 A
+RB )4∗(
+2 C
+3
+)B(81T
+,)A(02O
+rotcennoC
+noitcnuJ
+Occupant Classification Occupant Classification
+Sensor (Front LH) Sensor (Front RH)
+1 A 2 A 3 A (∗3) 1 A 3 A (∗3)
+1 B 2 B 3 B (∗4) 3 B (∗4)
+2 B (∗3)
+Occupant Classification ECU
+Occupant Classification Occupant Classification
+Sensor (Rear LH) Sensor (Rear RH)
+Front Seat Inner Belt
+(Front Passenger' s Side)
+)4∗(BS
+2 A
+1 B 2 B
+11 B 7 B 1 B 12 B 8 B
+(∗4)
+5 D 9 D 3 D 6 D 10 D 4 D (∗4)
+)4∗(R
+(∗3)
+1 A 2 A 3 A (∗3) 1 A 2 A 3 A (∗3)
+1 B 2 B 3 B (∗4) 1 B 2 B 3 B (∗4)
+12O
+noitcnuJ
+rotcennoC
+B W
+GR
+)3∗(
+6 OT1 5 OT1
+2 OT1
+W–B
+(∗3)
+10 EO2
+Buckle SW
+E3

@@ -1,0 +1,36 @@
+EI–21
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+3. CHECK ID CODE BOX
+E50
+B118534E03
+(a) Disconnect the E50 ECU connector.
+(b) Measure the resistance and voltage according to
+the value(s) in the table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+GND (E50-8) - Body ground W-B - Body ground Ground Always Below 1 Ω
++B (E50-1) - GND (E50-8) W - W-B +B power supply Always 10 to 14 V
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the E50 ECU connector.
+(d) Measure the voltage according to the value(s) in the
+table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Engine switch off Below 1 V
+EFII (E50-5) - GND (E50-8) G - W-B ECM input signal Pulse generation
+Engine switch on (IG)
+(see waveform 1)
+Engine switch off Below 1 V
+EFIO (E50-6) - GND (E50-8) L - W-B ECM output signal Pulse generation
+Engine switch on (IG)
+(see waveform 2)
+If the result is not as specified, the ECU may have a
+malfunction.
+EI
+(e) Inspect using an oscilloscope.
+(1) Waveform 1 (Reference)
+Item Content
+Symbols (Terminal No.) EFII (E50-5) - GND (E50-8)
+GND Tool Setting 10 V/DIV., 100 ms./DIV.
+Condition Engine switch on (IG)
+Tool Setting: 10 V/DIV., 100 ms./DIV.
+B139209E01

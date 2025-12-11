@@ -1,0 +1,22 @@
+TD–29
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/ Smart Key System)
+Security Horn Circuit
+DESCRIPTION
+When the theft deterrent system is changed from the armed state to the alarm sounding state, the
+certification ECU can control the security horn.
+WIRING DIAGRAM
+Certification ECU
+Engine Room R/B and J/B
+S-HORN
+1 11 20
+1G 1D E59 SH-
+S-HORN
+5
+1A
+TD
+From Battery
+1
+A23
+Low Pitched
+Horn
+B139452E01

@@ -1,0 +1,47 @@
+Audi TT No. 43 / 5
+Current Flow Diagram
+Engine component current supply relay, fuses
+J757 Engine component current supply relay
+SB6 Fuse 6 on fuse holder B
+SB7 Fuse 7 on fuse holder B
+SB8 Fuse 8 on fuse holder B
+SB9 Fuse 9 on fuse holder B
+SB10 Fuse 10 on fuse holder B
+SB11 Fuse 11 on fuse holder B
+SB12 Fuse 12 on fuse holder B
+B354 Positive connection 5 (87a), in main wiring harness
+* Relay and fuse carrier in electronics box engine compartment
+** models with fuel system diagnostic pump
+6600 2222
+6,0 6,0
+ro/ge ro
+6 7 8 9 10 11 12 7 8
+ST2 SB6 SB7 SB8 SB9 SB10 SB11 SB12 ST1 SB7 SB8
+10A 10A 20A 15A 10A 5A 10A 20A 30A
+6a 7a 8a 9a 10a 11a 12a 7a 8a
+1,0 1,0 1,0✱✱ 1,0 2,5 2,5 1,0 0,5 0,5 1,0 0,5 4,0
+sw/gn sw/gn bl/ro ws/ro ro ro/gn ws/ro ws/ro ro/gn bl/ro bl/ro ro/gr
+118866 119922 116688 222288 9988 7711 221199 221166 220099 116699
+3/86 1/30
+5 ✱
+J757
+5/85 2/87
+0,5 4,0
+sw/br ro/gn
+6655
+B354
+ws = white
+sw = black
+1,5 ro = red
+ro/gn
+br = brown
+gn = green
+118844
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-043051008
+rs = pink
+Edition 04.2009

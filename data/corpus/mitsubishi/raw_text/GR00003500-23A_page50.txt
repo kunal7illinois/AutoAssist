@@ -1,0 +1,38 @@
+23A-50 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 16. Check harness for damage between throttle
+position sensor connector B-07 terminal 3 and PCM
+connector C-57 <2.4L Engine> or C-59 <3.0L Engine>
+terminal 78.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> YES : Go to Step 17.
+B-07
+NO : Repair it.
+B-07
+AC001831AF
+CONNECTOR: C-57 <2.4L ENGINE> OR
+C-59 <3.0L ENGINE>
+PCM
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+STEP 17. Check harness for damage between throttle
+position sensor connector B-07 terminal 1 and PCM
+connector C-57 <2.4L Engine> or C-59 <3.0L Engine>
+terminal 57.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> YES : Throttle position sensor adjustment. Refer to GROUP
+B-07 13A <2.4L Engine>, On-vehicle Service − Throttle
+B-07
+Position Sensor Adjustment P.13A-576 or 13B <3.0L
+Engine>, On-vehicle Service − Throttle Position
+Sensor Adjustment P.13B-677.
+NO : Repair it.
+AC001831AF
+CONNECTOR: C-57 <2.4L ENGINE> OR
+C-59 <3.0L ENGINE>
+PCM
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+TSB Revision

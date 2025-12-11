@@ -1,0 +1,20 @@
+CC–21
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+DTC P0500 Vehicle Speed Sensor Malfunction
+Vehicle Speed Sensor "A" Intermittent / Erratic /
+DTC P0503
+High
+DESCRIPTION
+Refer to DTC P0500 (See page ES-229).
+DTC No. DTC Detection Condition Trouble Area
+The vehicle speed signal from the vehicle speed sensor • Vehicle speed sensor
+P0500 is cut for 0.14 sec. or more while cruise control is in • Vehicle speed sensor signal circuit
+operation. • ECM
+Momentary interruption and noise are detected when a • Vehicle speed sensor
+P0503 rapid change of vehicle speed occurs while cruise • Vehicle speed sensor signal circuit
+control is in operation. • ECM
+WIRING DIAGRAM
+Refer to DTC P0500 (See page ES-231).
+INSPECTION PROCEDURE
+Refer to DTC P0500 (See page ES-231).
+CC

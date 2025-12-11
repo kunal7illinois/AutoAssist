@@ -1,0 +1,33 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Fig. 3: Identifying Data Link Connector
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+If the D indicator or the malfunction indicator lamp (MIL) has been reported on, or
+if a driveability problem is suspected, do this:
+1. Connect the HDS to the DLC. (See the HDS user's manual for specific
+instructions.)
+2. Turn the ignition switch to ON (II). Make sure the HDS communicates with
+the PCM. If it does not, go to the DLC circuit troubleshooting (see DLC
+CIRCUIT TROUBLESHOOTING ).
+3. Select A/T system, and observe the DTC in the DTCs MENU on the HDS
+screen.
+4. Record the freeze data and on-board snapshots for all fuel and emissions DTCs
+and A/T DTCs.
+5. If there is a fuel and emissions DTC, first check the fuel and emissions system
+as indicated by the DTC.
+6. Clear the DTC and data.
+7. Drive the vehicle for several minutes under the same conditions as those
+indicated by the freeze data, and then recheck for a DTC. If the A/T DTC
+returns, go to the INDICATED DTC'S TROUBLESHOOTING. If the DTC
+does not return, there was an intermittent problem within the circuit. Make sure
+all pins and terminals in the circuit are tight.
+Symptom Troubleshooting Versus DTC Troubleshooting
+Some symptoms will not trigger diagnostic trouble codes (DTCs) or cause the D
+indicator to blink. If the malfunction indicator lamp (MIL) was reported on or the D
+indicator has been blinking, check for DTCs. If the vehicle has an abnormal
+symptom, and there are no DTCs stored, do the symptom troubleshooting. Check
+the list of probable cause(s) for the symptom, in the sequence listed, until you find
+the problem.
+How to Check for DTCs with the SCS Mode (retrieving the flash codes)
+NOTE: The preferred method is to use the HDS to retrieve the P-

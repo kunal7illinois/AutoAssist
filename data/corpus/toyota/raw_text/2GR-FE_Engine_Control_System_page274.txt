@@ -1,0 +1,47 @@
+ES–274
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+EVAP pressure change after purge VSV ON 0.3 kPa (2.25 mmHg) or more
+6. Second reference pressure measurement
+Next sequence is run if all of following conditions are met: Conditions 1, 2, 3 and 4
+1. EVAP pressure just after reference pressure measurement -1 kPa (-7.5 mmHg) or less
+2. Reference pressure -4.85 to -1.05 kPa (-36.38 to -7.87 mmHg)
+3. Reference pressure Saturated within 1 minute
+4. Reference pressure difference between first and second Less than 0.7 kPa (5.25 mmHg)
+7. Leak check
+Next sequence is run if following condition is met: -
+EVAP pressure when vacuum introduction was complete Less than second reference pressure
+8. Atmospheric pressure
+Monitor is complete -
+ES
+Atmospheric pressure difference between sequence 1 and 8 0.3 kPa (2.25 mmHg) or less
+Typical Malfunction Thresholds:
+One of the following conditions is met: -
+(a) EVAP VSV stuck open -
+EVAP pressure when vacuum introduction is complete Higher than reference pressure x 0.2
+(b) EVAP VSV stuck closed -
+EVAP pressure change after EVAP canister purge valve is open Less than 0.3 kPa (2.25 mmHg)
+2. Purge Flow Monitor
+Monitor Strategy:
+Required Sensors/Components EVAP VSV and pump module
+Frequency of Operation Once per driving cycle
+Duration Within 10 minutes
+MIL Operation 2 driving cycles
+Sequence of Operation None
+Typical Enabling Conditions:
+Monitor runs whenever these DTCs are not present -
+Engine Running
+ECT 4.4°C (40°F) or more
+IAT 4.4°C (40°F) or more
+EVAP pressure sensor malfunction Not detected
+EVAP VSV Not operated by scan tool
+EVAP system check Not detected by scan tool
+Battery voltage 10 V or more
+Purge duty cycle 8 % or more
+Typical Malfunction Thresholds:
+Both of following conditions are met: Condition 1 or 2
+1. EVAP pressure change when purge operation is started Less than 0.1 kPa (0.75 mmHg)
+2. EVAP pressure change during purge operation when vent valve is
+Less than 0.5 kPa (3.75 mmHg)
+closed
+MONITOR RESULT
+Refer to CHECKING MONITOR STATUS (See page ES-25).

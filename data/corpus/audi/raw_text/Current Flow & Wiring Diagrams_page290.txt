@@ -1,0 +1,49 @@
+Audi TT No. 35 / 8
+Current Flow Diagram
+Electric windbreak
+E278 Cabrio windbreak switch
+J519 Onboard supply control unit
+L156 Switch illumination bulb
+T12c 12-pin connector, black, connector B, on onboard power supply
+control unit
+V186 Cabrio windbreak motor
+44 Earth point, lower part of left A-pillar
+B340
+B341
+0,5 0,5 0,5 384 Earth connection 19, in main wiring harness
+gr/bl gr/bl gr/bl
+B340 Connection 1 (58s), in main wiring harness
+1199
+T12c/12
+J519
+B341 Connection 2 (58s), in main wiring harness
+0,5
+gr/bl
+E278 L156
+3/58s
+1 2 4/31
+8811
+0,5 0,5 0,35 2,5
+ge/ws ge/ro br ro/ge
+384
+7733 7788 1
+M
+V186
+2
+0,35 2,5
+br ro/bl
+1199 7766
+ws = white
+sw = black
+ro = red
+1,5 br = brown
+br
+gn = green
+bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+85 86 87 88 89 90 91 92 93 94 95 96 97 98 or = orange
+8J0-035080906
+rs = pink
+Edition 10.2010

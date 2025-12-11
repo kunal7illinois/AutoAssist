@@ -1,0 +1,35 @@
+ES–107
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK HARNESS AND CONNECTOR (MASS AIR FLOW METER - ECM)
+(a) Disconnect the B1 MAF meter connector.
+Wire Harness Side: (b) Disconnect the B30 ECM connector.
+(c) Measure the resistance.
+Standard resistance
+MAF Meter Connector
+B1 Tester Connections Specified Conditions
+B1-1 (THA) - B30-65 (THA) Below 1 Ω
+B1-2 (E2) - B30-88 (ETHA) Below 1 Ω
+(d) Reconnect the MAF meter connector.
+THA E2 (e) Reconnect the ECM connector. ES
+NG REPAIR OR REPLACE HARNESS OR
+B30 ECM Connector CONNECTOR
+ETHA THA
+A127959E04
+OK
+CONFIRM GOOD CONNECTION TO ECM. IF OK, REPLACE ECM
+5 READ VALUE USING INTELLIGENT TESTER (CHECK FOR SHORT IN WIRE HARNESS)
+(a) Disconnect the B1 MAF meter connector.
+(b) Connect the intelligent tester to the DLC3.
+MAF Meter ECM
+(c) Turn the ignition switch ON.
+(d) Turn the tester ON.
+(e) Select the following menu items: DIAGNOSIS /
+THA ENHANCED OBD II / DATA LIST / PRIMARY / INTAKE
+AIR.
+ETHA (f) Read the value displayed on the tester.
+Standard value:
+-40°C (-40°F)
+A084869E25
+(g) Reconnect the MAF meter connector.
+OK REPLACE MASS AIR FLOW METER
+NG

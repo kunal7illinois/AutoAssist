@@ -1,0 +1,42 @@
+Audi TT No. 46 / 19
+Current Flow Diagram
+Engine control unit, lambda probe, lambda probe heater
+after catalytic converter, lambda probe heater, lambda
+probe 1 heater after catalytic converter
+E45 Cruise control system switch
+G39 Lambda probe
+G130 Lambda probe after catalytic converter
+J527 Steering column electronics control unit
+J623 Engine control unit
+T4b 4-pin connector, black, on Lambda probe after catalytic
+converter
+T6c 6-pin connector, black, on Lambda probe
+T20c 20-pin connector, black, connector A, on steering column
+electronics control unit
+T94 94-pin connector, on engine control unit
+Z19 Lambda probe heater
+Z29 Lambda probe 1 heater after catalytic converter
+* models with cruise control system
+J623
+T94/51 T94/60 T94/81 T94/61 T94/82 T94/7 T94/76 T94/77 T94/18
+1,0 0,35 0,35 0,35 0,35 1,0 0,35 0,35 0,35
+br/ws ro/gn li li/ge li/bl br/gn ro/ge ro/bl sw/ws
+T20c/13
+J527
+E45
+T6c/3 T6c/1 T6c/5 T6c/2 T6c/6 T4b/2 T4b/3 T4b/4
+ws = white
+Z19 G39 Z29 G130 sw = black
+ro = red
+T6c/4 T4b/1
+br = brown
+1,0 1,0 gn = green
+ro/bl sw/gn bl = blue
+gr = grey
+4433 4444
+li = purple
+ge = yellow
+239 240 241 242 243 244 245 246 247 248 249 250 251 252 or = orange
+8J0-046190909
+rs = pink
+Edition 04.2010

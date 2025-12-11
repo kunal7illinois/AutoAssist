@@ -1,0 +1,37 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-161
+SYMPTOM PROCEDURES
+STEP 13. Check the wiring harness between trunk lid
+opener actuator connector F-38 (terminal 1) and ETACS-
+ECU connector C-117 (terminal 32).
+NOTE: Also check intermediate connector C-90. If intermedi-
+CONNECTOR : F-38
+ate connector C-90 is damaged, repair or replace the connector
+F-38
+as described in GROUP 00E, Harness Connector Inspection
+DEVICE SIDE P.00E-2.
+1 2
+AC107049AB
+CONNECTOR: C-117
+DEVICE SIDE
+21 22 23242526272829
+30 31 32333435363738
+39 40 41 424344
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AB
+Q:Is the wiring harness between the trunk lid opener
+CONNECTOR: C-90
+actuator connector F-38 (terminal 1) and ETACS-ECU
+connector C-117 (terminal 32) in good condition?
+YES : Replace the ETACS-ECU.Check that the Keyless
+entry system work normally.
+CONNECTOR BLOCK (LH) NO : Repair the wiring harness. Check that the Keyless
+entry system work normally.
+C-90
+1 2 3 4 5 6 7 8 9
+1011121314 15 161718192021
+C-90
+2223242526 27 2829 30313233
+34353637 38 3940 414243
+AC107051AB
+TSB Revision

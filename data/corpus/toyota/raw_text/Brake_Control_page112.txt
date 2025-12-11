@@ -1,0 +1,34 @@
+BC–106
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Transmitting ECU (transmitter) Receiving ECU Signals Communication method
+• Shift position signal
+• Throttle position signal
+• Engine revolution signal
+ECM Skid control ECU • Intake air temperature signal CAN communication system
+• Engine torque request signal
+• Accelerator pedal position
+signal
+Yaw rate and acceleration
+Skid control ECU Yaw rate and acceleration sensor CAN communication system
+request signal
+Steering angle sensor request
+Skid control ECU Steering angle sensor CAN communication system
+signal
+• Wheel speed signal
+Skid control ECU ECM CAN communication system
+• VSC data signal
+• ABS warning light ON signal
+• BRAKE warning light ON
+signal
+• VSC warning light ON signal
+(*1)
+Skid control ECU Combination meter • Multi information display ON CAN communication system
+signal (*2)
+BC
+• SLIP indicator light ON signal
+• Master caution indicator light
+ON signal
+• Wheel speed signal
+Main body ECU Skid control ECU Parking brake switch signal CAN communication system
+(*1): Models without multi information display
+(*2): Models with multi information display

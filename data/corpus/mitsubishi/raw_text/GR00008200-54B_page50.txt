@@ -1,0 +1,44 @@
+54B-50 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 5. Measure at front-ECU connector A-11X in order to
+check the ground circuit to the front-ECU.
+(1) Disconnect front-ECU connector A-11X, and measure at the
+CONNECTOR: A-11X
+relay box side.
+FRONT-ECU
+DEVICE SIDEA-11X
+2122232425262728293031
+AC106535AF
+(2) Measure the resistance value between terminal 31 and
+ground.
+• The measured value should be 2 ohm or less.
+3130292827262524232221 Q:Does the measured resistance value correspond with
+this range?
+YES : Go to Step 8.
+NO : Go to Step 6.
+CONNECTOR A-11X
+(RELAY BOX SIDE)
+AC101912AB
+STEP 6. Check the front-ECU connector A-11X for damage.
+Q:Is front-ECU connector A-11X in good condition?
+CONNECTOR: A-11X
+YES : Go to Step 7.
+FRONT-ECU NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. The
+system should communicate with the front-ECU
+normally.
+DEVICE SIDEA-11X
+2122232425262728293031
+AC106535AF
+STEP 7. Check the wiring harness between front-ECU
+connector A-11X (terminal 31) and the ground.
+Q:Is the wiring harness between front-ECU connector A-
+CONNECTOR: A-11X
+11X (terminal 31) and ground in good condition?
+FRONT-ECU YES : No action to be taken.
+NO : Repair the wiring harness. The system should
+communicate with the front-ECU normally.
+DEVICE SIDEA-11X
+2122232425262728293031
+AC106535AF
+TSB Revision

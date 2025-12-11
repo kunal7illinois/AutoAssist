@@ -1,0 +1,29 @@
+ST–111
+2GR-FE STARTING – SMART KEY SYSTEM
+OK:
+OK is displayed on the screen.
+HINT:
+If the result is not as specified, there may be a
+malfunction with the certification ECU or the ID code
+box.
+NG GO TO ENGINE IMMOBILISER SYSTEM
+OK
+24 INSPECT ID CODE BOX
+(a) Check the input signal waveform.
+(1) Connect an oscilloscope to terminal E50-6 (EFIO)
+E50
+ID Code Box and body ground.
+(2) Turn the engine switch on (IG).
+(3) Check the signal waveform according to the
+8 7 6 5 4 3 2 1 condition(s) in the table below.
+Item Condition
+Tool setting 10 V/DIV., 100 ms./DIV.
+EFIO
+Vehicle condition Engine switch on (IG)
+NG REPLACE ID CODE BOX
+HI
+GND LOW
+B138013E01
+OK
+END
+ST

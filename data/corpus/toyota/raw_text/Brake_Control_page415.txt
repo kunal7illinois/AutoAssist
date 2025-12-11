@@ -1,0 +1,38 @@
+BC–404
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+9 CHECK HARNESS AND CONNECTOR (COMBINATION METER TO BRAKE FLUID LEVEL
+WARNING SWITCH)
+(a) Disconnect the combination meter connector.
+(b) Measure the resistance according to the value(s) in the
+Combination Meter Wire
+Harness View: table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+F2-6 (B/LE) - A16-1 Always Below 1 Ω
+F2-6 (B/LE) - Body
+Always 10 kΩ or higher
+ground
+A16-2 - Body ground Always Below 1 Ω
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (COMBINATION METER TO
+BRAKE FLUID LEVEL WARNING SWITCH)
+BC
+F2-6 (B/LE)
+Brake Fluid Level Warning Switch
+Harness Side Connector Front View:
+A16
+C136033E01
+OK
+10 INSPECT COMBINATION METER ASSEMBLY
+(a) Connect the intelligent tester to the DLC3.
+(b) Select the "ACTIVE TEST" on the tester (See page BC-
+307).
+ACTIVE TEST: ABS/TRAC/VSC
+Item Vehicle Condition/Test Details Diagnostic Note
+BRAKE WRN LIGHT Turns brake warning light on / off Observe combination meter
+(c) Check BRAKE warning light operation.
+OK:
+The BRAKE warning light turns on or off in
+accordance with the intelligent tester.
+NG REPLACE COMBINATION METER
+ASSEMBLY (See page ME-63)

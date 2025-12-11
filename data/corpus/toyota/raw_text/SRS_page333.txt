@@ -1,0 +1,69 @@
+RS–331
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+3 CHECK FRONT SEAT WIRE RH (SHORT TO B+)
+(a) Disconnect the connectors from the occupant
+classification ECU and the 4 occupant classification
+T11 (*1)
+SVC3 sensors.
+d1 (*2)
+SVC4 (b) Connect the negative (-) terminal cable to the battery.
+(c) Turn the ignition switch on (IG).
+SVC2 (d) Measure the voltage according to the value(s) in the
+table below.
+SVC1
+*1: for Power Seat Standard voltage:
+for Power seat
+*2: for Manual Seat
+H043111E44 Tester connection Condition Specified condition
+T11-5 (SVC3) - Body
+Ignition switch on (IG) Below 1 V
+ground
+T11-6 (SVC4) - Body
+Ignition switch on (IG) Below 1 V
+ground
+T11-11 (SVC1) - Body
+Ignition switch on (IG) Below 1 V
+ground
+T11-12 (SVC2) - Body
+Ignition switch on (IG) Below 1 V
+ground
+for Manual seat
+Tester connection Condition Specified condition
+d1-5 (SVC3) - Body
+Ignition switch on (IG) Below 1 V
+ground
+d1-6 (SVC4) - Body
+Ignition switch on (IG) Below 1 V
+ground
+d1-11 (SVC1) - Body RS
+Ignition switch on (IG) Below 1 V
+ground
+d1-12 (SVC2) - Body
+Ignition switch on (IG) Below 1 V
+ground
+NG REPAIR OR REPLACE FRONT SEAT WIRE
+RH
+OK
+4 CHECK FRONT SEAT WIRE RH (SHORT TO GROUND)
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+T11 (*1)
+SVC3 battery, and wait for at least 90 seconds.
+d1 (*2)
+SVC4 (c) Measure the resistance according to the value(s) in the
+table below.
+SVC2 Standard resistance:
+for Power seat
+SVC1
+*1: for Power Seat
+Tester connection Condition Specified condition
+*2: for Manual Seat
+T11-5 (SVC3) - Body
+Always 1 MΩ or Higher
+H043111E44 ground
+T11-6 (SVC4) - Body
+Always 1 MΩ or Higher
+ground
+T11-11 (SVC1) - Body
+Always 1 MΩ or Higher
+ground

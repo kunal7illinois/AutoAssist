@@ -1,0 +1,43 @@
+CC–25
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+4 CHECK ECM
+(a) Reconnect the stop light switch connector.
+ECM Wire Harness View:
+(b) Disconnect the A55 connector from the ECM. (2GR-FE)
+A24 *2 (c) Disconnect the A24 connector from the ECM. (2AZ-FE)
+(d) Turn the ignition switch on (IG).
+A55 *1
+(e) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Tester Connection Brake Pedal Condition Specified Condition
+A55-36 (STP) - Body
+ground*1
+Depressed 10 to 14 V
+A24-36 (STP) - Body
+ground*2
+A55-36 (STP) - Body
+ground*1
+Released Below 1 V
+A24-36 (STP) - Body
+ground*2
+A55-35 (ST1-) - Body
+STP ST1- ground*1
+Depressed Below 1 V
+A24-35 (ST1-) - Body
+*1: 2GR-FE
+ground*2
+*2: 2AZ-FE
+A55-35 (ST1-) - Body
+E126835E03 ground*1
+Released 10 to 14 V
+A24-35 (ST1-) - Body
+ground*2
+HINT:
+*1: 2GR-FE
+*2: 2AZ-FE
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (STOP LIGHT SWITCH - ECM)
+OK
+CC
+REPLACE ECM

@@ -1,0 +1,34 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-227
+SYMPTOM PROCEDURES
+Q:Is the wiring harness between windshield washer motor
+CONNECTOR: C-06
+connector A-33 (terminal 1) and front-ECU connector A-
+11X (terminal 21) in good condition?
+YES : No action to be taken.
+NO : Repair the wiring harness. Check that the windshield
+washer works normally.
+C-06
+AB
+AC106686
+REAR WIPER AND WASHER
+GENERAL DESCRIPTION CONCERNING REAR WIPER AND WASHER
+M1549021600016
+The following ECUs affect the functions and control
+of the rear wiper and washer.
+Functions Control ECU
+Rear wiper control ETACS-ECU, column switch
+Rear washer control ETACS-ECU, column switch
+REAR WIPER AND WASHER CONTROL FUNCTION
+.
+Rear wiper control
+If the rear wiper switch of the column switch assem- If the shift lever <M/T> or selector lever <A/T> is
+bly is turned ON with the ignition switch in the ACC moved to the "R" position when the rear wiper switch
+or ON position, the ETACS-ECU will turn the rear of the column switch assembly is turned ON and the
+wiper drive signal ON for three seconds (approxi- ignition switch is in any position other than OFF, the
+mately two operations), and then will carry out inter- back up light switch <M/T> or the park/neutral posi-
+mittent operation in a 7.4 to 8-second cycle. tion switch <A/T> "R" position switch turns ON. One
+second later, the ETACS-ECU turns the rear wiper
+drive signal ON for three seconds (approximately two
+operations), to clear the rear view, and then returns
+to intermittent operation at a 7.4 to 8-second cycle.
+TSB Revision

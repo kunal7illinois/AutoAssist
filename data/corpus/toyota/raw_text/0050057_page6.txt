@@ -1,0 +1,13 @@
+ES–324
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+TYPICAL MALFUNCTION THRESHOLDS
+"Saturated" indicates that the EVAP pressure change is less than 0.286 kPa-g (2.14 mmHg-g) in 60
+seconds.
+One of following conditions met -
+EVAP pressure just after reference pressure measurement start More than -1 kPa-g (-7.5 mmHg-g)
+Reference pressure Less than -4.85 kPa-g (-36.4 mmHg-g)
+Reference pressure -1.057 kPa-g (-7.93 mmHg-g) or more
+Reference pressure Not saturated within 60 seconds
+Reference pressure difference between first and second 0.7 kPa-g (5.25 mmHg-g) or more
+MONITOR RESULT
+ES Refer to CHECKING MONITOR STATUS (see page ES-17).

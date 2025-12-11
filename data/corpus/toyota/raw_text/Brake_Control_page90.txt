@@ -1,0 +1,30 @@
+BC–90
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+B REPAIR CIRCUITS INDICATED BY OUTPUT
+DTCS (See page BC-27)
+A
+2 INSPECT CAN COMMUNICATION SYSTEM
+(a) Check if a CAN communication system DTC is output
+(See page BC-21).
+Result
+Condition Proceed to
+DTC is not output A
+DTC is output B
+B REPAIR CAN COMMUNICATION SYSTEM
+(See page CA-8)
+BC
+A
+3 CHECK IF SKID CONTROL ECU CONNECTOR SECURELY CONNECTED
+(a) Check if the skid control ECU connector is connected
+securely.
+OK:
+The connector should be securely connected.
+NG CONNECT CONNECTOR TO ECU
+CORRECTLY
+OK
+4 CHECK BATTERY
+(a) Check the battery voltage.
+Standard voltage:
+11 to 14 V
+NG INSPECT CHARGING SYSTEM
+OK

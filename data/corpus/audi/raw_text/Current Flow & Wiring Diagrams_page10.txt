@@ -1,0 +1,47 @@
+Audi TT No. 1 / 10
+Current Flow Diagram
+Onboard supply control unit
+J519 Onboard supply control unit
+T6h 6-pin connector, connector J, on onboard supply control unit
+T8h 8-pin connector, black, connector F, on onboard supply control
+unit
+T11b 11-pin connector, black, connector A, on onboard power supply
+control unit
+T11c 11-pin connector, brown, connector D, on onboard power supply
+control unit
+T12e 12-pin connector, black, connector G, on onboard power supply
+control unit
+42 Earth point, next to steering column
+1177 4488 44 Earth point, lower part of left A-pillar
+0,5 0,35 0,5 374 Earth connection 9, in main wiring harness
+bl ro/sw ro/sw
+375 Earth connection 10, in main wiring harness
+T8h/4 T8h/1 T11b/11
+J519
+376 Earth connection 11, in main wiring harness
+T6h/5 T8h/8 T11b/9 T11c/5 T12e/1 T12e/7 T12e/8 T12e
+31 31 31 31 /11
+• CAN bus (data wire)
+• •
+1,5 1,5 1,0 1,0 0,35 0,35 0,35 0,35
+br br br br ro/sw or/br or/gn sw/ws
+9988 9911 8899 9966
+375
+7700 334400
+1,0 1,5 1,0 0,5 0,5 0,35 0,5 0,5 0,5 0,5
+br br br br br br br br br br
+376 374 4488 113311 114433 338811 339944 114499 228822
+ws = white
+sw = black
+ro = red
+4,0 2,5 2,5
+br br br br = brown
+gn = green
+bl = blue
+gr = grey
+44 44 42 li = purple
+ge = yellow
+113 114 115 116 117 118 119 120 121 122 123 124 125 126 or = orange
+8J0-001100408
+rs = pink
+Edition 04.2008

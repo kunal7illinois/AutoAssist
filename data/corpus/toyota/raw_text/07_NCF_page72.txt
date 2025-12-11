@@ -1,0 +1,39 @@
+ENGINE - 2AZ-FE ENGINE EG-45
+Knock Sensor (Flat Type)
+1) General
+In the conventional type knock sensor (resonant type), a vibration plate, which has the same resonance
+point as the knocking frequency of the engine, is built in and can detect the vibration in this frequency
+band.
+On the other hand, a flat type knock sensor (non-resonant type) has the ability to detect vibration in a
+wider frequency band from about 6 kHz to 15 kHz, and has the following features:
+(cid:1) The engine knocking frequency will change a bit depending on the engine speed. The flat type knock
+sensor can detect vibration even when the engine knocking frequency is changed. Thus the vibration
+detection ability is increased compared to the conventional type knock sensor, and a more precise
+ignition timing control is possible.
+: Conventional Type
+: Flat Type
+(V) A:Detection Band of
+A
+Conventional Type
+B: Detection Band of
+Flat Type
+Voltage
+B
+Frequency (Hz)
+214CE04
+Characteristic of Knock Sensor
+2) Construction
+(cid:1) The flat type knock sensor is installed on the engine through the stud bolt installed on the cylinder
+block. For this reason, a hole for the stud bolt is running through in the center of the sensor.
+(cid:1) Inside of the sensor, a steel weight is located on the upper portion and a piezoelectric element is located
+under the weight through the insulator.
+(cid:1) The open/short circuit detection resistor is integrated.
+Open Circuit
+Steel Weight
+Detection Resistor Piezoelectric
+Element
+Insulator Vibration Plate
+Piezoelectric
+Element
+Flat Type Knock Sensor Conventional Type Knock Sensor
+(Non-Resonant Type) 214CE01 (Resonant Type) 214CE02

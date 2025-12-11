@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Using a multimeter, check the Turbocharger Recirculating
+Valve -N249- electrical harness connector terminal 2 to En‐
+gine Control Module (ECM) -J623- electrical harness connec‐
+tor T60 terminal 31 for an open circuit.
+Turbocharger Recirculating Engine Control Module (ECM) -
+Valve -N249- electrical har‐ J623- electrical connector T60
+ness connector terminal terminal or test box socket
+2 31
+Specified value: 1.5 Ω max.
+If the specification is not obtained:
+– Check the wiring for a short circuit to each other, Battery (+),
+and Ground (GND).
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is detected in the wiring and if the voltage supply
+was OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the appropriate service manual.
+– Install the engine cover with air filter. Refer to the appropriate
+service manual.
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.16 Charge Air Pressure Sensor / Intake Air
+Temperature Sensor 2, Checking
+Observe all safety precautions:
+⇒ “1.1 Safety Precautions”, page 2
+View clean working conditions:
+⇒ “1.2 Clean Working Conditions”, page 3
+Use only gold-plated terminals when servicing any component
+with gold-plated electrical harness connector terminals.
+Note
+Th e Charge Air Pressure Sensor -G31- / Intake Air Temperature
+(IA T ) Sensor 2 -G299- shares the same housing. Replacing either
+component replaces the other at the same time.
+For wiring diagrams, component locations, and connector views,
+Refer to the applicable wiring diagram.
+Special tools and workshop equipment required
+♦ Multimeter
+142
+Rep. Gr.ST - Generic Scan Tool

@@ -1,0 +1,68 @@
+ES–381
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Evaporative Emission System Switching Valve
+DTC P2420
+Control Circuit High
+DTC SUMMARY
+Detection
+DTC No. Monitoring Item DTC Detection Condition Trouble Area Detection Timing
+Logic
+• Pump module (0.02 inch
+The following condition is met
+orifice, vacuum pump, vent
+during key-off EVAP monitor
+Vent valve stuck valve)
+P2420 • EVAP pressure change when Ignition switch off 2 trip
+open (vent) • Connector / wire harness
+vent valve is closed (ON) less
+(Pump module - ECM)
+than 2.3 mmHg
+• ECM
+DESCRIPTION
+ES
+The circuit description can be found in the EVAP (Evaporative Emission) System (See page ES-400).
+INSPECTION PROCEDURE
+Refer to the EVAP System (See page ES-400).
+MONITOR DESCRIPTION
+5 hours*1 after the ignition switch is turned off, the electric vacuum pump creates negative pressure
+(vacuum) in the EVAP (Evaporative Emission) system. The ECM monitors for leaks and actuator
+malfunctions based on the EVAP pressure.
+HINT:
+*1: If the engine coolant temperature is not below 35°C (95°F) 5 hours after the ignition switch is turned
+off, the monitor check starts 2 hours later. If it is still not below 35°C (95°F) 7 hours after the ignition switch
+is turned off, the monitor check starts 2.5 hours later.
+Sequence Operations Descriptions Duration
+Activated by soak timer, 5 hours (7 or 9.5 hours) after ignition switch
+- ECM activation -
+turned off.
+Vent valve turned OFF (vent) and EVAP system pressure measured
+Atmospheric pressure by ECM in order to register atmospheric pressure.
+A 10 seconds
+measurement If pressure in EVAP system is not between 70 kPa and 110 kPa (525
+mmHg and 825 mmHg), ECM cancels EVAP system monitor.
+In order to determine 0.02 inch leak pressure standard, vacuum pump
+First 0.02 inch leak pressure
+B creates negative pressure (vacuum) through 0.02 inch orifice and then 60 seconds
+measurement
+ECM checks if vacuum pump and vent valve operate normally.
+Vent valve is turned ON (closed) to shut EVAP system.
+Negative pressure (vacuum) is created in EVAP system, and then
+EVAP system pressure EVAP system pressure is measured. Write down measured value as
+C 15 minutes*2
+measurement they will be used in leak check.
+If EVAP pressure does not stabilize within 15 minutes, ECM cancels
+EVAP system monitor.
+Purge VSV is opened and then EVAP system pressure is measured
+D Purge VSV monitor by ECM. 10 seconds
+Large increase indicates normal.
+After second 0.02 inch leak pressure measurement, leak check is
+performed by comparing first and second 0.02 inch leak pressure
+Second 0.02 inch leak pressure standards.
+E 60 seconds
+measurement If stabilized system pressure is higher than second 0.02 inch leak
+pressure standard, ECM determines that there is a leak in EVAP
+system.
+Atmospheric pressure is measured and then monitoring result is
+F Final check -
+recorded by ECM.
+*2: If only a small amount of fuel is in the fuel tank, it takes longer for the EVAP pressure to stabilize.

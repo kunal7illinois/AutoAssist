@@ -1,0 +1,22 @@
+CHASSIS - U250E AUTOMATIC TRANSAXLE CH-29
+6. Line Pressure Optimal Control
+The line pressure is controlled by using solenoid valve SLT. Through the use of solenoid valve SLT, the line
+pressure is optimally controlled in accordance with the engine torque information, as well as with the internal
+operating conditions of the torque converter and the transaxle. Accordingly, the line pressure can be
+accurately controlled in accordance with the engine output, traveling condition, and the ATF temperature,
+thus realizing smooth shift characteristics and optimizing the workload of the oil pump.
+Line Pressure
+Primary Regulator
+Solenoid Valve SLT
+Solenoid Drive Signal
+Fluid Input Turbine Speed
+Pressure
+Transaxle ATF Temperature
+Current Shift Position
+Pump Throttle Pressure Throttle Valve Opening
+Engine Coolant Temperature
+Engine
+Intake Air Mass
+Engine Speed
+ECM
+161ES26

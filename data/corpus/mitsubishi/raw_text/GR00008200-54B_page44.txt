@@ -1,0 +1,41 @@
+54B-44 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 6. Check the wiring harness between ETACS-ECU
+connector C-119 (terminal 3) and the ground.
+NOTE: Also check junction block connector C-108. If junction
+CONNECTOR: C-119 block connector C-108 is damaged, repair or replace the con-
+DEVICE SIDE
+nector as described in GROUP 00E, Harness Connector
+1 2 3 4 5 6 7 8 91011121314151617181920
+Inspection P.00E-2.
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+Q:Is the wiring harness between ETACS-ECU connector C-
+CONNECTOR: C-108
+119 (terminal 3) and the ground in good condition?
+DEVICE SIDE
+YES : No action to be taken.
+1 2 3 4 5 6 7 8 91011121314 NO : Repair the wiring harness. The system should
+1516171819202122232425262728 communicate with the ETACS-ECU normally.
+JUNCTION BLOCK
+(FRONT VIEW) AC106479AD
+STEP 7. Check column switch connector C-86 and ETACS-
+ECU connector C-118 for damage.
+Q:Are column switch connector C-86 and ETACS-ECU
+CONNECTOR: C-86
+connector C-118 in good condition?
+YES : Go to Step 8.
+DEVICE SIDE NO : Repair or replace the connector. Refer to GROUP
+1 2 3 4 5 00E, Harness Connector Inspection P.00E-2. The
+6 7 8 910 system should communicate with the ETACS-ECU
+normally.
+AC106475AB
+CONNECTOR: C-118
+DEVICE SIDE
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+TSB Revision

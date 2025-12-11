@@ -1,0 +1,48 @@
+BC–75
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+1 CHECK STOP LIGHT SWITCH OPERATION (STOP LIGHT SWITCH CIRCUIT)
+(a) Check that the stop lights come on when the brake pedal
+is depressed and goes off when the brake pedal is
+released.
+OK
+Pedal Condition Illumination Condition
+Brake pedal depressed ON
+Brake pedal released OFF
+NG Go to step 5
+OK
+2 INSPECT SKID CONTROL ECU CONNECTOR (STP TERMINAL)
+BC
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Harness Side
+(b) Measure the voltage according to the value(s) in the
+Connector Front View):
+table below.
+Standard voltage
+STP A25
+Tester Connection Switch Condition Specified Condition
+A25-20 (STP) - Body
+Brake pedal depressed 8 to 14 V
+ground
+A25-20 (STP) - Body
+Brake pedal released Below 4.0 V
+ground
+C131970E08
+NG Go to step 7
+OK
+3 INSPECT SKID CONTROL ECU CONNECTOR (GND TERMINAL CONTINUITY)
+(a) Measure the resistance according to the value(s) in the
+Skid Control ECU (Harness Side
+table below.
+Connector Front View):
+Standard resistance
+GND2 GND1 A25 Tester Connection Specified Condition
+A25-4 (GND1) - Body ground Below 1 Ω
+A25-1 (GND2) - Body ground Below 1 Ω
+(b) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+C131970E05
+CONNECTOR (GND CIRCUIT)
+OK
+4 RECONFIRM DTC
+(a) Clear the DTC (See page BC-21).
+(b) Start the engine.

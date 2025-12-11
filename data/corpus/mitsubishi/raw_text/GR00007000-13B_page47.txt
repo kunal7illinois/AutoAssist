@@ -1,0 +1,52 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-47
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+. .
+CIRCUIT OPERATION DTC SET CONDITIONS
+• A 5-volt voltage is supplied to the barometric
+Check Conditions
+pressure sensor power terminal (terminal 1) from
+• 2 seconds or more have passed since the start-
+the ECM (terminal 42) <M/T> or PCM (terminal
+ing sequence was completed.
+46) <A/T>. The ground terminal (terminal 5) is
+• Battery positive voltage is higher than 8 volts.
+grounded with ECM (terminal 34) <M/T> or PCM
+(terminal 16) <A/T>. Judgement Criteria
+• A voltage that is proportional to the atmospheric • Barometric pressure sensor output has continued
+pressure is sent to the ECM (terminal 51) <M/T> to be 49 kPa (7.2 psi) or lower approximately
+or PCM (terminal 55) <A/T> from the barometric 15,000 ft above sea level for 10 seconds.
+pressure sensor output terminal (terminal 2).
+.
+TROUBLESHOOTING HINTS (The most likely
+. TECHNICAL DESCRIPTION causes for this code to be set are:)
+• The barometric pressure sensor outputs a volt- • Barometric pressure sensor failed.
+age which corresponds to the barometric pres- • Open or shorted barometric pressure sensor cir-
+sure. cuit, or loose connector.
+• The ECM <M/T> or PCM <A/T> checks whether • ECM failed. <M/T>
+this voltage is within a specified range. • PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 25:
+Barometric Pressure Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the data reading mode for item
+25, Barometric Pressure Sensor.
+16 PIN • When altitude is 0 m (0 foot), 101 kPa.
+• When altitude is 600 m (1,969 feet), 95 kPa.
+MB991502
+• When altitude is 1,200 m (3,937 feet), 88 kPa.
+AKX01177AB
+• When altitude is 1,800 m (5,906 feet), 81 kPa.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+TSB Revision

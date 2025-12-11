@@ -1,0 +1,38 @@
+BODY ELECTRICAL - METER BE-31
+Cruise Information Mode
+The cruise information is displayed in the following order, changing each time the DISP switch is pressed.
+However, pressing the DISP switch for approximately 1 second or more changes the display to the outside
+temperature indication.
+(1) (2) (3) (4)
+Odo/Tripmeter Odo/Tripmeter (5)
+025BE18P
+Information Outline
+Displays the outside temperature in accordance with the outside
+(1) Outside Temperature
+temperature sensor signal from the A/C ECU.
+(cid:3) Displays the range, calculated by the combination meter
+which continuously monitors and stores fuel consumption
+data and the residual fuel volume when IG-ON has been
+(2) Driving Range
+selected.
+(cid:3) Updated every 1 mile (U.S.A. model) or 1 km (except U.S.A.
+model [package option]).
+(cid:3) Displays the value, calculated by the combination meter,
+based on the distance driven since refueling and the fuel
+consumption volume (fuel injection signals from the No.1
+Average Fuel Consumption
+(3) injector).
+Since Refueling
+(cid:3) The combination meter determines the vehicle has been
+refueled through the signal from the fuel sender gauge.
+(cid:3) Updated every 10 seconds.
+(cid:3) Displays the value calculated by the combination meter
+Distance Driven based on the distance driven since engine start.
+(4)
+Since Engine Start (cid:3) Updated every 1 mile (U.S.A. model) or 1 km (except U.S.A.
+model [package option]).
+(cid:3) Displays the average speed calculated by the combination
+Average Speed meter based on the length of time and the distance driven
+(5)
+Since Engine Start since engine start.
+(cid:3) Updated every 10 seconds.

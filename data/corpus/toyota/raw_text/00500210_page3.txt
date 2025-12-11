@@ -1,0 +1,31 @@
+ES–392
+2AZ-FE ENGINE CONTROL SYSTEM – MASS AIR FLOW METER
+If the result is not within the specified range,
+perform the inspection below.
+(c) Read the value using the intelligent tester (MAF).
+NOTICE:
+• Turn off the engine.
+• Perform the inspection with the vehicle
+indoors and on a level surface.
+• Perform the inspection of the MAF meter
+while it is installed to the air cleaner case
+(installed to the vehicle).
+• During the test, do not use the exhaust air
+duct to perform suction on the exhaust pipe.
+(1) Turn the ignition switch to ACC.
+ES
+(2) Turn the ignition switch ON (do not run the
+engine).
+(3) Turn the tester ON.
+(4) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY /
+MAF.
+(5) Wait 30 seconds, and read the values on the
+intelligent tester.
+Standard condition:
+Less than 0.45 g/sec.
+• If the result is not as specified, replace the
+MAF meter.
+• If the result is within the specified range,
+inspect the cause of the extremely rich or
+lean air-fuel ratio (see page ES-147).

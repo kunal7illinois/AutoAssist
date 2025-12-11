@@ -1,0 +1,31 @@
+ES–115
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+C CHECK FOR INTERMITTENT PROBLEMS
+A
+3 READ VALUE USING INTELLIGENT TESTER (CHECK FOR OPEN IN WIRE HARNESS)
+(a) Disconnect the B4 Engine Coolant Temperature (ECT)
+sensor connector.
+(b) Connect terminals 1 and 2 of the ECT sensor connector
+ECT Sensor ECM
+on the wire harness side.
+(c) Connect the intelligent tester to the DLC3.
+(d) Turn the ignition switch ON.
+ES
+(e) Turn the tester ON.
+THW
+(f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY /
+ETHW
+COOLANT TEMP.
+(g) Read the value displayed on the tester.
+Wire Harness Side:
+Standard value:
+140°C (284°F) or higher.
+ECT Sensor Connector (h) Reconnect the ECT sensor connector.
+OK CONFIRM GOOD CONNECTION TO
+SENSOR. IF OK, REPLACE ENGINE
+B4
+COOLANT TEMPERATURE SENSOR
+Front View
+A107691E18
+NG

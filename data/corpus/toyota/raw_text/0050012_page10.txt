@@ -1,0 +1,59 @@
+ES–67
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Trouble Areas MIL Memory See page
+P2128 Throttle / Pedal - APP sensor Comes on DTC stored ES-282
+Position Sensor / - Open in EPA2
+Switch "E" Circuit circuit
+High Input - ECM
+P2135 Throttle / Pedal - Short between Comes on DTC stored ES-114
+Position Sensor / VTA1 and VTA2
+Switch "A" / "B" circuits
+Voltage Correlation - TP sensor (built into
+throttle body)
+- ECM
+P2138 Throttle / Pedal - Short between VPA Comes on DTC stored ES-282
+Position Sensor / and VPA2 circuits
+Switch "D" / "E" - APP sensor
+Voltage Correlation - ECM
+ES
+P2195 Oxygen (A/F) Sensor - Open or short in A/F Comes on DTC stored ES-292
+Signal Stuck Lean sensor (sensor 1)
+(Bank 1 Sensor 1) circuit
+- A/F sensor (sensor
+1)
+- A/F sensor heater
+(sensor 1)
+- Integration relay
+(EFI MAIN relay)
+- A/F sensor heater
+and EFI MAIN relay
+circuits
+- ECM
+P2196 Oxygen (A/F) Sensor - Same as DTC Comes on DTC stored ES-292
+Signal Stuck Rich P2195
+(Bank 1 Sensor 1)
+P2238 Oxygen (A/F) Sensor - Open or short in A/F Comes on DTC stored ES-306
+Pumping Current sensor (sensor 1)
+Circuit Low (Bank 1 circuit
+Sensor 1) - A/F sensor (sensor
+1)
+- A/F sensor heater
+(sensor 1)
+- Integration relay
+(EFI MAIN relay)
+- A/F sensor heater
+and EFI MAIN relay
+circuits
+- ECM
+P2239 Oxygen (A/F) Sensor - Same as DTC Comes on DTC stored ES-306
+Pumping Current P2238
+Circuit High (Bank 1
+Sensor 1)
+P2252 Oxygen (A/F) Sensor - Same as DTC Comes on DTC stored ES-306
+Reference Ground P2238
+Circuit Low (Bank 1
+Sensor 1)
+P2253 Oxygen (A/F) Sensor - Same as DTC Comes on DTC stored ES-306
+Reference Ground P2238
+Circuit High (Bank 1
+Sensor 1)

@@ -1,0 +1,44 @@
+DL–143
+DOOR LOCK – SMART KEY SYSTEM
+14. BATTERY SAVING
+(a) Vehicle Battery Saving Function
+In the smart key system, signals are emitted outside
+of the vehicle at a prescribed interval (0.25 seconds)
+when the doors are locked. Therefore, the vehicle
+battery could be drained if the vehicle remains
+parked for a long time. For this reason, the controls
+listed below are carried out:
+Condition Control
+Both conditions below are met for 5 days:
+• Electrical key is not in detection area Signal transmission interval is extended from 0.25 to 0.75 seconds
+• Touch sensor or lock switch operation is not performed
+Both conditions below are met for 14 days:
+• Electrical key is not in detection area Automatically deactivates the smart key system
+• Touch sensor or lock switch operation is not performed
+Reinstatement Conditions
+• A wireless door lock control signal (lock, unlock)
+is input and the ID code matches.
+• A user carries the electrical key and pushes a
+lock switch on an outside door handle.
+• A door is locked or unlocked by the mechanical
+key.
+(b) Electrical Key Battery and Vehicle Battery Saving
+Function
+In the smart key system, if the electrical key is
+constantly located within the vehicle exterior
+detection area of the doors, the system maintains
+periodic communication with the electrical key.
+Therefore, if the vehicle remains parked in that state
+for a long time, the electrical key battery and the
+vehicle battery could be drained. For this reason, if
+this state continues longer than 10 minutes, the
+smart key system automatically becomes
+deactivated.
+Reinstatement Conditions
+• A wireless door lock control signal (lock, unlock)
+is input and the ID code matches.
+• A user carries the electrical key and pushes a
+lock switch on an outside door handle.
+• A door is locked or unlocked by the mechanical
+key.
+DL

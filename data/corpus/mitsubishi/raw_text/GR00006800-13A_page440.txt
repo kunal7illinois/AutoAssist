@@ -1,0 +1,34 @@
+13A-440 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR:C-41 CONNECTORS:C-53<M/T>,C-50<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-50 C-53
+AK000312AI AK000280BK
+CONNECTOR:C-28 CONNECTOR: C-108
+AK000733AC AK101420AD
+CONNECTOR: C-111 CONNECTOR:C-87
+AK101421AD AK000219AC
+. COMMENT
+CIRCUIT OPERATION
+• The service engine soon/malfunction indicator • The ECM <M/T> or PCM <A/T> causes the ser-
+vice engine soon/malfunction indicator lamp to
+lamp power is supplied from the ignition switch.
+• The ECM <M/T> or PCM <A/T> controls the illuminate for 5 seconds immediately after the
+ignition switch is turned to the "ON" position
+ground of the service engine soon/malfunction
+occurred.
+indicator lamp by turning the power transistor in
+the ECM <M/T> or PCM <A/T> ON and OFF.
+.
+TROUBLESHOOTING HINTS (The most likely
+. causes for this case: )
+• Burnt-out bulb.
+• Defective service engine soon/malfunction indi-
+cator lamp circuit.
+• Malfunction of the ECM <M/T> or PCM <A/T>.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

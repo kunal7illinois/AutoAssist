@@ -1,0 +1,61 @@
+ME–10
+METER – METER / GAUGE SYSTEM
+Item Detail
+SLIP (*3) Receives a SLIP signal from the skid Control ECU. (CAN (CAN No. 1 Bus))
+VSC (*3) Receives a VSC signal from the skid Control ECU. (CAN (CAN No. 1 Bus))
+Receives a brake signal from the brake fluid level warning switch (Direct Line) and the skid Control
+BRAKE
+ECU and main body ECU. (CAN (CAN No. 1 Bus))
+CRUISE Receives a cruise signal from the ECM. (CAN (CAN No. 1 Bus))
+AIRBAG Receives an airbag signal from the center airbag sensor assembly. (CAN (CAN No. 1 Bus))
+Oil pressure Receives an oil pressure signal from the engine oil pressure switch. (Direct Line)
+Tire pressure (*4) Receives a tire pressure signal from the tire pressure warning ECU. (Direct Line)
+Washer (*5) Receives a washer signal from the washer level warning switch. (Direct Line)
+An oil change reminder light comes on/blinks to remind the driver to change the engine oil
+Maintenance required (*1)
+depending on the vehicle driving distance.
+*1: for U.S.A.
+*2: except for U.S.A.
+*3: with VSC
+*4: with Tire Pressure Warning System
+*5: with Washer Level Indicator
+HINT:
+• The multi-information display has been located in the
+center of the combination meter assembly.
+• The display shows a message or animation for each
+of the functions described in the table below.
+MULTI-INFORMATION DISPLAY:
+Item Detail
+When a door (driver/passenger/rear left/rear right/back/hood) of the
+Door warning vehicle is opened or closed, this item displays a warning message and
+animation to inform the driver of the condition of the door.
+• A maintenance required will display the warning message to
+remind the driver to change the engine oil depending on the
+Maintenance required (*1)
+vehicle driving distance.
+• Displays the mode while in the maintenance request reset mode.
+• This display switches between odometer, trip meter A, and trip
+meter B in accordance with the operation of the ODO/TRIP
+ODO/TRIP display switch.
+• It is possible to reset the trip display to keep pressing the trip reset
+knob for 0.8 second or more.
+Displays the outside temperature in accordance with the ambient
+Outside temperature display
+temperature signal from the A/C control amplifier.
+• Displays the value that has been calculated by the meter CPU,
+which is based on the driven distance and the fuel consumption
+Average fuel consumption (after refueling) volume after the ignition switch is on (IG).
+• The average fuel consumption exceeds 99.9 or more, the
+indication will be "99.9".
+Displays the value that has been calculated by the meter CPU, which
+ME Possible running distance is based on the the fuel consumption volume, fuel level, and vehicle
+speed.
+Cruising distance Displays the cruising distance after starting the engine.
+Average vehicle speed Displays the average vehicle speed after starting the engine.
+Illuminates or blinks the master warning light and displays a warning
+Warning message
+message for each type of system failure.
+DTC (Diagnostic Trouble Code) display (*3) Displays the DTCs pertaining to the VSC function.
+*1: for U.S.A.
+*2: Except for U.S.A.
+*3: with VSC

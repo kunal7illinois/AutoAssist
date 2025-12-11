@@ -1,0 +1,31 @@
+TRACTION CONTROL SYSTEM (TCL) 35C-19
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+STEP 4. Check the combination meter power supply
+circuit.
+(1) Disconnect the combination meter connector C-41, and
+check at the harness side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between the terminal 52 and ground. It
+CONNECTOR: C-41
+should be approximately 12 volts (battery positive voltage).
+COMBINATION METER
+HARNESS SIDE Q:Is the voltage approximately 12 volts (battery positive
+voltage)?
+YES : Go to Step 5.
+NO : Go to Step 7.
+AC004482AC
+STEP 5. Check the connectors A-02, C-41, and C-94.
+Refer to GROUP 00E, Harness Connector Inspection P.00E-2.
+CONNECTOR: A-02
+Q:Is any of the connectors damaged?
+YES : Repair it and then go to Step 9.
+NO : Go to Step 6.
+AC001985AD
+CONNECTOR: C-41
+COMBINATION METER
+AC004482AB
+CONNECTOR: C-94
+CONNECTOR
+BLOCK (RH)
+AC003604AB
+TSB Revision

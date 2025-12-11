@@ -1,0 +1,51 @@
+13B-138 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS : C-58, C-62<M/T>,
+C-55, C-59<A/T>
+RIGHT BANK
+HEATED OXYGEN PCM<A/T> ECM<M/T>
+SENSOR (FRONT)
+C-55 C-59 C-58 C-62
+AACCXX0022448811AH AK000225AK
+CONNECTOR: B-27
+AAKK110033550077AB
+. • The ECM <M/T> or PCM <A/T> forcibly varies
+CIRCUIT OPERATION
+• A voltage corresponding to the oxygen concen- the air/fuel mixture to make it leaner and richer,
+and checks the response speed of the right bank
+tration in the exhaust gas is sent to the ECM (ter-
+heated oxygen sensor (front). In addition, the
+minal 72) <M/T> or PCM (terminal 72) <A/T>
+ECM <M/T> or PCM <A/T> also checks for an
+from the output terminal (terminal 4) of the right
+open circuit in the right bank heated oxygen sen-
+bank heated oxygen sensor (front).
+• Terminal 2 of the right bank heated oxygen sen- sor (front) output line.
+sor (front) is grounded with ECM (terminal 49)
+.
+<M/T> or PCM (terminal 57) <A/T>. DTC SET CONDITIONS
+Check Conditions
+. TECHNICAL DESCRIPTION • 2 seconds or more have passed since the start-
+• The right bank heated oxygen sensor (front) ing sequence was completed.
+detects the concentration of oxygen in the
+Judgment Criteria
+exhaust gas; it converts those data to voltage,
+• Right bank heated oxygen sensor (front) output
+and inputs the resulting signals to the ECM <M/
+voltage has continued to be 1.2 volts or higher for
+T> or PCM <A/T>.
+2 seconds.
+• When the right bank heated oxygen sensor
+(front) begins to deteriorate, the heated oxygen
+.
+TROUBLESHOOTING HINTS (The most likely
+sensor signal response becomes poor.
+causes for this code to be set are: )
+• Short circuit in right bank heated oxygen sensor
+(front) output line.
+• ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

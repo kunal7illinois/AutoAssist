@@ -1,0 +1,21 @@
+DL–44
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Rear Door Lock Motor RH Circuit
+DESCRIPTION
+The rear right door lock motor is built into the rear right door lock assembly.
+The main body ECU controls the rear right door lock motor to lock/unlock the rear right door. This ECU
+applies current from terminal ACT+ to terminal ACT- to operate the motor to lock the door. It reverses the
+direction of the current flow to operate the motor to unlock the door.
+WIRING DIAGRAM
+Main Body ECU
+J5
+Rear Door Lock Assembly RH
+Instrument Panel J/B
+5
+L 4 1
+IF ACT+
+18
+UL 1 3
+IF ACT-
+B109771E18
+DL

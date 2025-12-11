@@ -1,0 +1,21 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-85
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Check for harness damage between engine
+coolant temperature sensor connector B-11 (terminal 2)
+and ECM connector C-60 (terminal 92) <M/T> or PCM
+connector C-54 (terminal 57) <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-11
+YES : Replace the ECM or PCM. Then go to Step 14.
+NO : Repair it. Then go to Step 14.
+ENGINE COOLANT
+TEMPERATURE
+SENSOR
+ACX02478AD
+CONNECTORS:C-60<M/T>,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+TSB Revision

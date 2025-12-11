@@ -1,0 +1,18 @@
+BE-138 BODY ELECTRICAL - ENGINE IMMOBILIZER SYSTEM
+ENGINE IMMOBILIZER SYSTEM
+(cid:2)DESCRIPTION
+The engine immobilizer system compares the ID code that is registered in the transponder key ECU with the
+ID code of the transponder chip that is embedded in the ignition key. The system unsets if these ID codes
+match. Thus, the transponder key ECU and the ECM communicate with each other to authorize fuel injection
+and ignition, enabling the engine to start.
+(cid:1) The system is standard equipment on models without the smart key system.
+(cid:1) An engine immobilizer function is provided on models with the smart key system. For details, see page
+BE-89.
+Service Tip
+When replacing the transponder key ECU or making a new ignition key, and the key’s recognition
+code must be registered.
+(cid:1) When the transponder key ECU has been replaced, the automatic registration mode begins. At this
+time, the total number of keys that can be registered is three (master key: two, sub key: one).
+(cid:1) The recognition code of additional keys must be registered. At this time, the total number of keys
+that can be registered is eight (master key: five, sub key: three).
+For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).

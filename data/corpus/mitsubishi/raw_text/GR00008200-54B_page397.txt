@@ -1,0 +1,56 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-397
+SYMPTOM PROCEDURES
+INTERIOR LIGHT
+GENERAL DESCRIPTION CONCERNING INTERIOR LIGHT
+M1549021800010
+The following ECUs affect the functions and control
+of the interior lights.
+Functions Control ECU
+Dome light control function ETACS-ECU
+Interior light automatic-shutdown function ETACS-ECU
+DOME LIGHT CONTROL FUNCTION
+When the dome light switch is at the door position, • When the ignition key is removed with all doors
+the ETACS-ECU controls the lighting of the dome closed, the dome light lights up at a luminance of
+light as follows: 100 percent, and goes off 30 seconds later. How-
+• When a door is opened to get on or get off the ever if the ignition key is inserted again or if all
+vehicle with the ignition switch off, the dome light doors are locked while the dome light is lighting,
+lights up at a luminance of 100 percent. When a the dome light will go off at that point.
+door is closed, the dome light dims at a lumi- • The dome light is flashed twice when door is
+nance of 65 percent, and goes off 30 seconds locked with keyless entry. When door is unlocked
+later. However if the ignition switch is turned ON with keyless entry, the dome light lights at a lumi-
+or if all doors are locked while they are closed, nance of 100 percent, and goes off 15 seconds
+the dome light will go off at that point. later.
+• When a door is opened with the ignition switch
+ON, the dome light lights up at a luminance of
+100 percent. When a door is closed, the dome
+light goes off.
+ON
+ACC
+Ignition switch
+LOCK (OFF)
+Key removed
+ON (Any door is open)
+Door switch
+OFF (All doors are closed)
+LOCK
+Keyless entry system
+OFF
+door lock or unlock signal
+UNLOCK
+100%
+65%
+Dome light intensity
+0%
+t t t
+t: 30 seconds
+AC101555AC
+NOTE: The dotted lines indicate that lighting mode when the ignition switch is turned ON, all doors are locked
+during the timer illumination time.
+INTERIOR LIGHT AUTOMATIC-SHUTDOWN FUNCTION
+Illuminated interior lights such as the front dome • When the ignition switch is turned off and more
+light, etc. (all lights using the dome light fuse as the than 30 minutes pass by with the interior light illu-
+power supply) will automatically go off in the follow- minated, the interior lights will go off automati-
+ing conditions to prevent excess battery discharge as cally.
+a result of forgetting to turn off the lights or incom-
+plete closing of the door.
+TSB Revision

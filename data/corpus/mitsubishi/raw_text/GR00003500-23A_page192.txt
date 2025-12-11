@@ -1,0 +1,36 @@
+23A-192 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 7. Check harness for damage between solenoid
+valve assembly connector B-40 terminal 9 and A/T control
+relay connector A-17X terminal 4.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-40
+YES : Go to Step 8.
+NO : Repair it.
+B-40
+ACX02479AK
+CONNECTOR: A-17X
+BATTERY A-17X
+FRONT OF VEHICLE
+AC102447AF
+STEP 8. Using scan tool MB991502, carry out the actuator
+test item 02: Underdrive Solenoid Valve.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the actuator test mode for item
+02: Underdrive Solenoid Valve.
+• An operation sound should be heard from solenoid
+valve when the underdrive solenoid valve is operated.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN Q:Is the solenoid valve operating properly?
+YES : This malfunction can be intermittent. Refer to GROUP
+MB991502
+AC001252AB 00, How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Replace the PCM.
+TSB Revision

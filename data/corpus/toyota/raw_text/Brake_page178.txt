@@ -1,0 +1,43 @@
+BC–172
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Result
+Condition Proceed to
+DTCs (C0210/33 and/or C0215/34) are not output A
+DTCs (C0210/33 and/or C0215/34) are output B
+HINT:
+If troubleshooting has been carried out according to the
+Problem Symptoms Table, refer back to the table and
+proceed to the next step (See page BC-134).
+B Go to step 6
+A
+USE SIMULATION METHOD TO CHECK
+BC 5 CHECK REAR SPEED SENSOR INSTALLATION
+(a) Turn the ignition switch off.
+Rear Speed Sensor:
+(b) Check the speed sensor installation.
+OK:
+There is no clearance between the sensor and rear
+axle carrier.
+No Clearance NG INSTALL REAR SPEED SENSOR
+CORRECTLY
+OK NG
+F010178E22
+OK
+6 INSPECT REAR SPEED SENSOR
+(a) Turn the ignition switch off.
+(b) Disconnect the rear speed sensor connector.
+Rear Speed Sensor:
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+RH
+Tester Connection Condition Specified Condition
+2 (RR+) - 1 (RR-) Always 0.9 to 2.1 kΩ
+2 (RR+) - Body ground Always 10 kΩ or higher
+1
+1 (RR-) - Body ground Always 10 kΩ or higher
+2 LH
+Tester Connection Condition Specified Condition
+2 (RL+) - 1 (RL-) Always 0.9 to 2.1 kΩ
+C113377E02 2 (RL+) - Body ground Always 10 kΩ or higher
+1 (RL-) - Body ground Always 10 kΩ or higher

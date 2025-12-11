@@ -1,0 +1,58 @@
+RF–22
+SLIDING ROOF – SLIDING ROOF SYSTEM
+DTC B2342 Switch Failure
+DESCRIPTION
+This DTC is output when the sliding roof drive gear sub-assembly (sliding roof control ECU) detects that
+the OPEN, CLOSE, UP or DOWN switch in the roof console box assembly (sliding roof control switch) is
+stuck for 30 seconds or more.
+DTC No. DTC Detection Condition Trouble Area
+• Sliding roof drive gear sub-assembly (sliding roof
+Sliding roof drive gear sub-assembly (sliding roof
+control ECU)
+control ECU) detects OPEN, CLOSE, UP or DOWN
+B2342 • Roof console box assembly (sliding roof control
+switch in overhead junction block is stuck for 30
+switch)
+seconds or more
+• Wire harness
+WIRING DIAGRAM
+Refer to DTC B2341 (See page RF-14).
+INSPECTION PROCEDURE
+RF
+1 READ VALUE OF INTELLIGENT TESTER (SLIDE OPEN AND TILT UP SWITCH)
+(a) Use the DATA LIST to check if the sliding roof switch is
+functioning properly.
+Sliding roof ECU
+Measurement Item/Range
+Item Normal Condition Diagnostic Note
+(Display)
+ON: OPEN switch is pressed.
+Slide switch open signal/ON or
+OPEN SW OFF: OPEN switch is not -
+OFF
+pressed.
+ON: CLOSE switch is pressed.
+Slide switch close signal/ON or
+CLOSE SW OFF: CLOSE switch is not -
+OFF
+pressed.
+ON: UP switch is pressed.
+UP SW Tilt switch up signal/ON or OFF -
+OFF: UP switch is not pressed.
+ON: DOWN switch is pressed.
+Tilt switch down signal/ON or
+DOWN SW OFF: DOWN switch is not -
+OFF
+pressed.
+OK:
+The intelligent tester displays as shown in the
+table according to the operation of each switch.
+NG Go to step 4
+OK
+2 CHECK SLIDING ROOF FUNCTION
+(a) Check the auto operation with the OPEN, CLOSE, UP
+and DOWN switches (See page RF-11).
+OK:
+Auto operation operates normally with OPEN,
+CLOSE, UP and DOWN switches.
+NG Go to step 7

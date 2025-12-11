@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+YES -Replace the appropriate wheel speed sensor (see WHEEL SPEED
+SENSOR REPLACEMENT ).
+NO -Reinstall the wheel speed sensor, and check the mounting position (see
+WHEEL SPEED SENSOR REPLACEMENT ).
+DTC 12-22: RIGHT-FRONT WHEEL SPEED SENSOR INSTALLATION ERROR (19 MPH (30
+KM/H) OR MORE); DTC 14-22: LEFT-FRONT WHEEL SPEED SENSOR INSTALLATION ERROR
+(19 MPH (30 KM/H) OR MORE); DTC 16-22: RIGHT-REAR WHEEL SPEED SENSOR
+INSTALLATION ERROR (19 MPH (30 KM/H) OR MORE); DTC 18-22: LEFT-REAR WHEEL
+SPEED SENSOR INSTALLATION ERROR (19 MPH (30 KM/H) OR MORE)
+1. Test-drive the vehicle. Drive the vehicle between 19 mph (30 km/h) and 31
+mph (50 km/h) for 70 seconds or more.
+NOTE: Drive the vehicle on the road, not on the lift.
+2. Check the RF, LF, RR, LR WHEEL SPD in the VSA DATA LIST with the
+HDS.
+Are all four the same indicated value?
+YES -Intermittent failure, the system is OK at this time. Check for loose
+terminals between the wheel speed sensor 2P connector and the VSA
+modulator-control unit 37P connector. Refer to INTERMITTENT
+FAILURES TROUBLESHOOTING (see ).
+NO -Go to step 3.
+3. Turn the ignition switch to LOCK (0).
+4. Check that the appropriate wheel speed sensor is properly mounted (see
+WHEEL SPEED SENSOR REPLACEMENT ).
+DTC REFERENCE
+DTC Appropriate Wheel Speed Sensor
+12-22 Right-front
+14-22 Left-front
+16-22 Right-rear

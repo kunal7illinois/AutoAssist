@@ -1,0 +1,58 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-143
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC P0134: Heated Oxygen Sensor Circuit No Activity Detected (bank 1, sensor 1)
+. • Volumetric efficiency is at between 30 and 95
+HEATED OXYGEN SENSOR CIRCUIT NO
+percent.
+ACTIVITY DETECTED (BANK 1, SENSOR 1)
+• Throttle position sensor output voltage is lower
+CIRCUIT
+• Refer to DTC P0132 − Heated Oxygen Sensor then 4 volts.
+• Except while fuel is being shut off.
+Circuit High Voltage (bank 1, sensor 1) P.13B-
+• Monitoring time: 30 seconds.
+137.
+• Refer to DTC P0201, P0203, P0205 − Injector Judgment Criteria
+Circuit P.13B-283. • Right bank heated oxygen sensor (front) output
+voltage does not get across 0.5 volt within about
+. CIRCUIT OPERATION 30 seconds.
+• Refer to DTC P0132 − Heated Oxygen Sensor
+.
+Circuit High Voltage (bank 1, sensor 1) P.13B- TROUBLESHOOTING HINTS (The most likely
+137. causes for this code to be set are: )
+• Refer to DTC P0201, P0203, P0205 − Injector • Right bank heated oxygen sensor (front) deterio-
+Circuit P.13B-283. rated.
+• Open circuit in right bank heated oxygen sensor
+. TECHNICAL DESCRIPTION (front) output line.
+• The ECM <M/T> or PCM <A/T> effects air/fuel • Open circuit in right black heated oxygen sensor
+ratio feedback control in accordance with the sig- (front) ground line.
+nals from the right bank heated oxygen sensor NOTE: When the right bank heated oxygen sen-
+(front). sor (front) begins to deteriorate, the right bank
+• If the right bank heated oxygen sensor (front) has heated oxygen sensor output voltage will deviate
+deteriorated, corrections will be made by the right from the voltage when the sensor was new (nor-
+bank heated oxygen sensor (rear). mally 0.5 volt at stoichiometric ratio). This devia-
+• DTC P0134 becomes stored in memory if a fail- tion will be corrected by the right bank heated
+ure is detected in the above air/fuel ratio feed- oxygen sensor (rear).
+back control system. If the right bank heated oxygen sensor (rear)
+responds poorly because it has deteriorated, it
+.
+DTC SET CONDITIONS will improperly correct the right bank heated oxy-
+gen sensor (front). Thus, even when closed loop
+Check Area
+control is being effected, the fluctuation of the
+• 30 seconds or more have passed since the start-
+right bank heated oxygen sensor (front) output
+ing sequence was completed.
+voltage decreases, without intersecting with 0.5
+• Engine coolant temperature is higher than 76°C
+volt. As a result, there is a possibility of DTC
+(169°F).
+P0134 becoming registered.
+• Engine speed is higher than 1,200 r/min.
+• ECM failed. <M/T>
+• PCM failed. <M/T>
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MD998464: Test Harness
+TSB Revision

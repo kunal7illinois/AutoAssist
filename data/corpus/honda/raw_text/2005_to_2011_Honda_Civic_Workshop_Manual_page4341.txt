@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+Is there 0 °/s indicated?
+YES -Go to step 6.
+NO -Replace the yaw rate-lateral acceleration sensor (see YAW RATE-
+LATERAL ACCELERATION SENSOR REPLACEMENT ).
+6. Test-drive the vehicle. Check the YAW RATE S in the VSA DATA LIST with
+the HDS while driving in corners.
+Does the indicated value change?
+YES -Intermittent failure, the system is OK at this time.
+NO -Replace the yaw rate-lateral acceleration sensor (see YAW RATE-
+LATERAL ACCELERATION SENSOR REPLACEMENT ).
+DTC 27-11: STEERING ANGLE SENSOR DIAG SIGNAL ERROR (INITIAL); DTC 27-26:
+STEERING ANGLE SENSOR DIAG SIGNAL ERROR (MAIN)
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+4. Check for DTCs with the HDS.
+Is DTC 27-11, or 27-26 indicated?
+YES -Go to step 5.
+NO -Intermittent failure, the system is OK at this time. Check for loose
+terminals between the steering angle sensor 5P connector and the VSA
+modulator-control unit 37P connector. Refer to INTERMITTENT
+FAILURES TROUBLESHOOTING (see ).
+5. Turn the ignition switch to LOCK (0).
+6. Disconnect the steering angle sensor 5P connector.
+7. Disconnect the VSA modulator-control unit 37P connector.

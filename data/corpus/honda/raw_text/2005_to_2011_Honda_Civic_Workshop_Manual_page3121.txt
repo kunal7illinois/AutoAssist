@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE Ignition System (K20Z3) - Civic (Except Si)
+1. Connect the Honda Diagnostic System (HDS) to the data link connector (DLC)
+(see step 2 on HOW TO USE THE HDS (HONDA DIAGNOSTIC
+SYSTEM) ).
+2. Turn the ignition switch ON (II).
+3. Make sure the HDS communicates with the vehicle and the ECM. If it doesn't,
+troubleshoot the DLC circuit (see DLC CIRCUIT TROUBLESHOOTING ).
+4. Check for DTCs. If a DTC is present, diagnose and repair the cause before
+continuing with this test.
+5. Start the engine. Hold the engine speed at 3,000 rpm without load (in neutral)
+until the radiator fan comes on, then let it idle.
+6. Check the idle speed (see IDLE SPEED INSPECTION ).
+7. Jump the SCS line with the HDS.
+8. Connect the timing light to the service loop (white tape).
+Fig. 3: Identifying Ignition Timing Mark
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+9. Aim the light toward the pointer (A) on the cam chain case. Check the ignition
+timing under a no load condition (headlights, blower fan, rear window
+defogger, and air conditioner are turned off).
+Ignition Timing:
+8 ° ±2 ° BTDC (RED mark (B)) at idle in Neutral

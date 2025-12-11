@@ -1,0 +1,30 @@
+AX–63
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+P0712:
+Range check (Low resistance)
+TFT sensor resistance Less than 79 Ω
+P0713:
+Range check (High resistance)
+TFT sensor resistance More than 156 kΩ AX
+COMPONENT OPERATING RANGE
+TFT sensor Atmospheric temperature to approx. 130°C (266°F)
+WIRING DIAGRAM
+TCM
+THO1
+18
+E2
+17
+ATF Temperature Sensor
+Transaxle Assembly
+C133262E01
+INSPECTION PROCEDURE
+1. DATA LIST
+HINT:
+According to the DATA LIST displayed on the intelligent tester, you can read the value of switches,
+sensors, actuators and other items without removing any parts. Reading the DATA LIST as the first
+step in troubleshooting is one method to save labor time.
+NOTICE:
+In the table below, the values listed under "Normal Condition" are reference values. Do not
+depend solely on these reference values when deciding whether a part is faulty.
+(a) Warm up the engine.
+(b) Turn the ignition switch off.

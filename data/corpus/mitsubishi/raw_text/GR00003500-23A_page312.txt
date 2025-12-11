@@ -1,0 +1,32 @@
+23A-312 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 10. Check the power supply voltage at shift switch
+assembly connector C-65.
+(1) Disconnect connector C-65 and measure at the harness
+CONNECTOR: C-65
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Selector lever position should be "D" range.
+C-65
+AC001741AS
+(4) Measure the voltage between terminal 1 and ground.
+• Voltage should be battery positive voltage.
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 12.
+6 5 4 3
+NO : Go to Step 11.
+HARNESS
+CONNECTOR: C-65
+AC102571AB
+STEP 11. Check connector B-41 at Park/Neutral position
+switch for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-41
+B-41 YES : Repair harness open circuit between shift switch
+assembly connector C-65 terminal 1 and Park/Neutral
+position switch connector B-41 terminal 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+DIPSTICK Connector Inspection P.00E-2.
+AC001844AK
+TSB Revision

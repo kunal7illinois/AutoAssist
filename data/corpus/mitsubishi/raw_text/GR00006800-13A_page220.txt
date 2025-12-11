@@ -1,0 +1,49 @@
+13A-220 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check connector A-18X at MFI relay for damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-18X
+YES : Repair harness wire between MFI relay connector
+MFI RELAY and injector connector because of open circuit or
+short circuit to ground.
+a. Repair harness wire between MFI relay
+connector A-18X terminal 4 and injector
+connector B-01 terminal 1 when checking No.
+1 cylinder.
+b. Repair harness wire between MFI relay
+AK101363AB connector A-18X terminal 4 and injector
+connector B-02 terminal 1 when checking No.
+2 cylinder.
+c. Repair harness wire between MFI relay
+connector A-18X terminal 4 and injector
+connector B-05 terminal 1 when checking No.
+3 cylinder.
+d. Repair harness wire between MFI relay
+connector A-18X terminal 4 and injector
+connector B-06 terminal 1 when checking No.
+4 cylinder.
+Then go to Step 10.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 10.
+STEP 6. Check for harness damage between MFI relay
+connector and injector connector.
+a. Check the harness wire between MFI relay connector A-
+CONNECTOR: A-18X
+18X terminal 4 and injector connector B-01 terminal 1 when
+MFI RELAY checking No. 1 cylinder.
+b. Check the harness wire between MFI relay connector A-
+18X terminal 4 and injector connector B-02 terminal 1 when
+checking No. 2 cylinder.
+c. Check the harness wire between MFI relay connector A-
+18X terminal 4 and injector connector B-05 terminal 1 when
+checking No. 3 cylinder.
+AK101363AB d. Check the harness wire between MFI relay connector A-
+18X terminal 4 and injector connector B-06 terminal 1 when
+CONNECTOR : B-01, B-02, B-05, B-06
+checking No. 4 cylinder.
+B-01 B-02 B-05B-06
+Q:Is the harness wire in good condition?
+YES : Go to Step 7.
+NO : Repair it. Then go to Step 10.
+AAKK000000227733AB
+TSB Revision

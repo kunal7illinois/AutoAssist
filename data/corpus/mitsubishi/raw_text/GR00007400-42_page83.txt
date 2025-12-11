@@ -1,0 +1,53 @@
+BODY 42-83
+KEYLESS ENTRY SYSTEM
+4. Exit the hazard answerback customize mode by observing
+one of the following steps.
+(1) Disconnect scan tool MB991502 from the data link
+connector, or disconnect data link connector terminal (1)
+form the ground.
+(2) Turn the ignition switch to position other then "LOCK"
+(OFF), or remove the ignition key.
+(3) Open the driver’s side door,
+NOTE: If any operation is not done for at least three minutes
+after the ETACS-ECU has entered the customize mode, the
+hazard answerback customize mode will be canceled automat-
+ically.
+.
+<When only the transmitter is used>
+1. Remove the ignition key.
+2. Push the "LOCK" switch while holding the "UNLOCK" switch
+pushed for four to ten seconds.
+3. If the "LOCK" switch and "UNLOCK" switch are released in
+that order, the ETACS-ECU tone alarm will sound, indicating
+that the hazard answerback function can be enabled or
+disabled when the doors are locked.
+• Enable the hazard answerback function when the
+doors are locked: The ETACS-ECU tone alarm will
+sound once.
+• Disable the hazard answerback function when the
+doors are locked: The ETACS-ECU tone alarm will
+sound twice.
+4. If the "UNLOCK" switch and "LOCK" switch are released in
+that order, the ETACS-ECU tone alarm will sound, indicating
+that the hazard answerback function can be enabled or
+disabled when the door are unlocked.
+• Enable the hazard answerback function when the
+doors are unlocked: The ETACS-ECU tone alarm
+will sound once.
+• Disable the hazard answerback function when the
+doors are unlocked: The ETACS-ECU tone alarm
+will sound twice.
+ENABLING/DISABLING THE HORN
+ANSWERBACK FUNCTION
+1. Remove the ignition key.
+2. Push the "UNLOCK" switch while holding the "LOCK" switch
+pushed for four to ten seconds.
+3. If the "LOCK" switch and "UNLOCK" switch are released at
+the same time, the ETACS-ECU tone alarm will sound,
+indicating that the horn answerback function can be enabled
+or disabled.
+• Enable the horn answerback function: The ETACS-
+ECU tone alarm will sound once.
+• Disable the horn answerback function: The ETACS-
+ECU tone alarm will sound twice.
+TSB Revision

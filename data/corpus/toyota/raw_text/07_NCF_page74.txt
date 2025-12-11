@@ -1,0 +1,31 @@
+ENGINE - 2AZ-FE ENGINE EG-47
+Heated Oxygen Sensor and Air Fuel Ratio Sensor
+1) General
+(cid:1) The heated oxygen sensor and the air fuel ratio sensor differ in output characteristics.
+(cid:1) The output voltage of the heated oxygen sensor changes in accordance with the oxygen concentration
+in the exhaust gas. The ECM uses this output voltage to determine whether the present air-fuel ratio
+is richer or leaner than the stoichiometric air-fuel ratio.
+(cid:1) Approximately 0.4 V is constantly applied to the air-fuel ratio sensor, which outputs an amperage that
+varies in accordance with the oxygen concentration in the exhaust gas. The ECM converts the changes
+in the output amperage into voltage in order to linearly detect the present air-fuel ratio.
+OX1A A1A+
+(3.3V)
+Heated
+Air Fuel
+Oxygen ECM ECM
+Ratio Sensor
+Sensor
+E2 A1A-
+(2.9V)
+271EG44
+Heated Oxygen Sensor Circuit Air Fuel Ratio Sensor Circuit
+: Air Fuel Ratio Sensor
+: Heated Oxygen Sensor
+4.2 1
+A/F Sensor Heated Oxygen
+Output (V)* Sensor Output (V)
+2.2 0.1
+11 (Rich) 14.7 19 (Lean)
+D13N11
+Air Fuel Ratio
+*: This calculation value is used internally in the ECM, and is not an ECM terminal voltage.

@@ -1,0 +1,49 @@
+ES–208
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+EVAP Pressure when Reference Orifice High-flow Malfunction:
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed
+ON
+Vent Valve
+OFF: Vent
+Leak Detection
+ON
+Pump
+EVAP Pressure
+Malfunction
+ES
+Positive
+Negative
+OK
+First Reference
+Pressure
+Sequence A B C D E
+Time 10 seconds 60 Within 15 minutes 10 60
+seconds seconds seconds
+A106057E05
+MONITOR STRATEGY
+Required Sensors/Components Canister pump module
+Frequency of Operation Once per driving cycle
+Duration Within 2 minutes
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+EVAP key-off monitor runs when all of following conditions met -
+Atmospheric pressure 70 to 110 kPa-a (525 to 825 mmHg-a)
+Battery voltage 10.5 V or more
+Vehicle speed Below 4 km/h (2.5 mph)
+Ignition switch OFF
+Time after key off 5 or 7 or 9.5 hours
+Canister pressure sensor malfunction (P0450, P0451, P0452 and
+Not detected
+P0453)
+Purge VSV Not operated by scan tool
+Vent valve Not operated by scan tool
+Leak detection pump Not operated by scan tool
+Both of following conditions met before key off Conditions 1 and 2
+1. Duration that vehicle driven 5 minutes or more
+2. EVAP purge operation Performed

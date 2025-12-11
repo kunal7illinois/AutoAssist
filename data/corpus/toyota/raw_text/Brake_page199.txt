@@ -1,0 +1,45 @@
+BC–193
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Zero Point Calibration of Yaw Rate Sensor
+DTC C1210/36
+Undone
+Zero Point Calibration of Acceleration Sensor
+DTC C1336/39
+Undone
+DESCRIPTION
+The skid control ECU receives signals from the yaw rate and acceleration sensor via the CAN
+communication system.
+The yaw rate sensor has the built in acceleration sensor and detects the vehicle's condition using 2
+circuits (GL1, GL2). If there is trouble in the bus lines between the yaw rate and acceleration sensor and
+the CAN communication system, the DTCs U0123/62 (yaw rate sensor communication trouble) and
+U0124/95 (acceleration sensor communication trouble) are output.
+The DTCs are also output when the calibration has not been completed.
+DTC No. DTC Detection Condition Trouble Area
+• Brake actuator assembly (Skid control ECU) BC
+• Yaw rate and acceleration sensor
+C1210/36 Zero point calibration of yaw rate sensor undone. • Zero point calibration undone
+(Perform zero point calibration and check DTC.
+If DTC is not output again, the sensor is normal)
+When either of the following is detected: • Brake actuator assembly (Skid control ECU)
+1. The vehicle runs in the normal mode with zero point • Yaw rate and acceleration sensor
+C1336/39 calibration undone. • Zero point calibration undone
+2. After the zero point has been obtained, the zero point (Perform zero point calibration and check DTC.
+voltage of the sensor is not between 2.38 and 2.62 V. If DTC is not output again, the sensor is normal)
+INSPECTION PROCEDURE
+NOTICE:
+When replacing the brake actuator assembly, perform zero point calibration (See page BC-119).
+HINT:
+When U0123/62, U0124/95 or U0126/63 is output along with C1210/36 or C1336/39, inspect and repair
+trouble areas indicated by U0123/62, U0124/95 or U0126/63 first.
+1 PERFORM ZERO POINT CALIBRATION OF YAW RATE AND ACCELERATION SENSOR
+(a) Perform zero point calibration of the yaw rate and
+acceleration sensor (See page BC-119).
+NEXT
+2 RECONFIRM DTC
+(a) Clear the DTC (See page BC-141).
+(b) Check if the same DTCs are recorded (See page BC-
+141).
+Result
+Condition Proceed to
+DTCs (C1210/36 and/or C1336/39) are output A
+DTCs (C1210/36 and/or C1336/39) are not output B

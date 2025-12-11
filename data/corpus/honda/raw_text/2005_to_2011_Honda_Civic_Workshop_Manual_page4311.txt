@@ -1,0 +1,44 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+Detects right-
+(1)
+BLU rear wheel
+21 RR-GND
+(2) speed sensor
+WHT
+signal
+Detects left-
+(1)
+WHT front wheel
+22 FL+B
+(2) speed sensor
+ORN
+signal
+Communication
+26 LTBLU K-LINE
+with HDS
+Power source Ignition
+Battery
+28 GRY IG1 for activating 28-GND switch ON
+voltage
+the system (II)
+Detects steering
+34 GRN STR-A angle sensor - - -
+signal
+Ground for the
+VSA
+36 BLK GND 36-GND At all timesContinuity
+modulator-
+control unit
+MR- Ground for the
+37 BLK 37-GND At all timesContinuity
+GND pump motor
+(1) 4-door
+(2) 2-door
+System Outline
+This system is composed of the VSA modulator-control unit, the wheel speed
+sensor, the steering angle sensor, and the yaw rate-lateral acceleration sensor, and
+the system indicators in the gauge control module (tach). The VSA modulator-
+control unit controls the ABS, EBD, TCS, VSA, and brake assist with the brake
+pressure of each wheel and the engine torque.

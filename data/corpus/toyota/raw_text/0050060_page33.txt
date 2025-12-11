@@ -1,0 +1,35 @@
+ES–372
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(c) Monitor Status
+1. Connect the intelligent tester to the DLC3.
+2. Turn the ignition switch ON and turn the tester ON.
+3. Select the following menu items: DIAGNOSIS / ENHANCED OBD II / MONITOR STATUS.
+4. Check the Monitor Status displayed on the tester.
+HINT:
+If INCMP is displayed, the monitor is not complete. Make sure that the preconditions have
+been met, and perform the Monitor Conditions again.
+2. PURGE FLOW MONITOR CONFIRMATION (P0441)
+HINT:
+Perform this monitor confirmation after the Key-Off Monitor Confirmation shows COMPL (complete).
+(a) Preconditions
+The monitor will not run unless:
+ES
+• The vehicle has been driven for 10 minutes or more (in a city area or on a freeway)
+• The ECT is between 4.4°C and 35°C (40°F and 95°F)
+• The IAT is between 4.4°C and 35°C (40°F and 95°F)
+(b) Monitor Conditions
+1. Release the pressure from the fuel tank by removing and reinstalling the fuel cap.
+2. Warm the engine up until the ECT reaches more than 75°C (167°F).
+3. Increase the engine speed to 3,000 rpm once.
+4. Allow the engine to idle and turn A/C ON for 1 minute.
+(c) Monitor Status
+1. Turn the ignition switch OFF (if ON or the engine is running).
+2. Connect the intelligent tester to the DLC3.
+3. Turn the ignition switch ON and turn the tester ON.
+4. Select the following menu items: DIAGNOSIS / ENHANCED OBD II / MONITOR STATUS.
+5. Check the Monitor Status displayed on the tester.
+HINT:
+If INCMP is displayed, the monitor is not complete. Make sure that the preconditions have
+been met, and perform the Monitor Conditions again.
+MONITOR RESULT
+Refer to CHECKING MONITOR STATUS (See page ES-17).

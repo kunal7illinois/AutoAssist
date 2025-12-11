@@ -1,0 +1,37 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-23
+SRS AIR BAG DIAGNOSIS
+SYMPTOM CHART
+M1524003400194
+SYMPTOMS INSPECTION REFERENCE PAGE
+PROCEDURE NO.
+Communication with scan tool MB991502 is not possible. − GROUP 13A,
+(Communication with all systems is not possible) DIAGNOSIS P.13A-
+434
+GROUP 13B,
+DIAGNOSIS P.13B-
+530
+Communication with scan tool MB991502 is not possible. 1 P.52B-130
+(Communication is not possible with SRS system only.)
+When the ignition switch is turned to the "ON" position Refer to DTC No. 43. P.52B-57
+(engine stopped), the SRS warning light does not illuminate.
+After the ignition switch is turned to "ON" position, the SRS Refer to DTC No. 43. P.52B-57
+warning light does not go off within approximately 7 seconds.
+DIAGNOSTIC TROUBLE CODE PROCEDURES
+DTC 14: Analog G-sensor System in the SRS-ECU
+DTC 15: Safing G-sensor Short Circuit
+DTC 16: Safing G-sensor Open Circuit
+DTC 17: Safing G-sensor for Side-airbag Faults
+DTC 31: SRS-ECU Capacitor Circuit Voltage too High
+DTC 32: SRS-ECU Capacitor Circuit Voltage too Low
+DTC 45: SRS-ECU Non-volatile Memory (EEPROM) and A/D Converter System
+DTC 51: Driver’s Air Bag Module (Squib Ignition Drive Circuit) System Detected Short Circuit
+DTC 52: Driver’s Air Bag Module (Squib Ignition Drive Circuit) System Detected Open Circuit
+DTC 54: Passenger(cid:146)s (Front) Air Bag Module (Squib Ignition Drive Circuit) System Detected Short
+Circuit
+DTC 55: Passenger(cid:146)s (Front) Air Bag Module (Squib Ignition Drive Circuit) System Detected Open
+Circuit
+DTC 73: Right Hand Side-airbag Module (Squib) Sytem Detected Short Circuit
+DTC 74: Right Hand Side-airbag Module (Squib) Sytem Detected Open Circuit
+DTC 83: Left Hand Side-airbag Module (Squib) System Fault 3 for Ignition Drive Circuit
+DTC 84: Left Hand Side-airbag Module (Squib) System Fault 4 for Ignition Drive Circuit
+TSB Revision

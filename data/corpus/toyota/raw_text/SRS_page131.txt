@@ -1,0 +1,34 @@
+RS–131
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+OK
+REPLACE CENTER AIRBAG SENSOR ASSEMBLY (See page RS-441)
+10 CHECK OCCUPANT CLASSIFICATION SYSTEM CIRCUIT (OPEN)
+(a) Using a service wire, connect terminals 12 (FSP+) and
+13 (FSP-) of connector B.
+NOTICE:
+Do not forcibly insert a service wire into the terminal
+of the connector when connecting.
+(b) Measure the resistance according to the value(s) in the
+E DC B
+Center Airbag table below.
+Occupant
+Classification Sensor Assembly Standard resistance
+ECU
+Tester Connection Condition Specified Condition
+T10-8 (FSR+) - T10-4
+Always Below 1 Ω
+(FSR-)
+Connector B
+Connector E
+O1 NG Go to step 14
+T10
+FSR-
+5 4 3 2 1
+109 8 7 6
+1514131211
+FSP-
+FSR+
+FSP+
+Service Wire RS
+C123726E01
+OK

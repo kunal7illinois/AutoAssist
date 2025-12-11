@@ -1,0 +1,95 @@
+ES–61
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Measurement Item: Range
+Intelligent Tester Display Normal Condition*1 Diagnostic Note
+(Display)
+• When accelerator pedal is
+Throttle actuator opening duty depressed, duty ratio
+THROTL OPN DUTY ratio: 0 to 40%: Idling increaseds
+Min.: 0%, Max.: 100% • Read value with ignition switch
+ON (Do not start engine)
+• When accelerator pedal is
+increaseds quickly, duty ratio
+Throttle actuator closed duty ratio:
+THROTL CLS DUTY 0 to 40%: Idling increaseds
+Min.: 0%, Max.: 100%
+• Read value with ignition switch
+ON (Do not start engine)
+Throttle actuator duty ratio (open):
+THRTL MOT (OPN) - ETCS service data
+Min.: 0%, Max.: 100%
+Throttle actuator duty ratio
+THRTL MOT (CLS) (closed): - ETCS service data
+Min.: 0%, Max.: 100%
+ES
+Performing INJ VOL or A/F
+Heated oxygen sensor output
+0.1 to 0.9 V: Driving at 70 km/h CONTROL function of ACTIVE
+O2S B1 S2 voltage for bank 1 sensor 2:
+(44 mph) TEST enables technician to check
+Min.: 0 V Max.: 1.275 V
+output voltage of sensor
+Performing INJ VOL or A/F
+Heated oxygen sensor output
+0.1 to 0.9 V: Driving at 70 km/h CONTROL function of ACTIVE
+O2S B2 S2 voltage for bank 2 sensor 2:
+(44 mph) TEST enables technician to check
+Min.: 0 V Max.: 1.275 V
+output voltage of sensor
+• Value less than 1 (0.000 to
+0.999) =Lean
+Short-term fuel trim associated
+• Stoichiometric air-fuel
+AF FT B1 S1 with sensor 1: -
+ratio=1
+Min.: 0, Max.: 1.999
+• Value greater than 1 (1.001
+to 1.999) = Rich
+• Value less than 1 (0.000 to
+0.999) =Lean
+Short-term fuel trim associated
+• Stoichiometric air-fuel
+AF FT B2 S1 with sensor 1: -
+ratio=1
+Min.: 0, Max.: 1.999
+• Value greater than 1 (1.001
+to 1.999) = Rich
+Performing INJ VOL or A/F
+A/F sensor output voltage for
+CONTROL function of ACTIVE
+AFS B1 S1 bank 1 sensor 1: 2.8 to 3.8 V: Idling
+TEST enables technician to check
+Min.: 0 V Max.: 7.999 V
+output voltage of sensor
+Performing INJ VOL or A/F
+A/F sensor output voltage for
+CONTROL function of ACTIVE
+AFS B2 S1 bank 2 sensor 1: 2.8 to 3.8 V: Idling
+TEST enables technician to check
+Min.: 0 V Max.: 7.999 V
+output voltage of sensor
+Total fuel trim of bank 1
+Average value for fuel system of
+TOTAL FT #1 -0.2 to 0.2: Idling -
+bank 1:
+Min.: -0.5, Max.: 0.496
+Total fuel trim of bank 2
+Average value for fuel system of
+TOTAL FT #2 -0.2 to 0.2: Idling -
+bank 2:
+Min.: -0.5, Max.: 0.496
+Short-term fuel compensation
+Short-term fuel trim of bank 1:
+SHORT FT #1 -20 to 20% used to maintain air-fuel ratio at
+Min.: -100%, Max.: 99.2%
+stoichiometric air-fuel ratio
+Short-term fuel compensation
+Short-term fuel trim of bank 2:
+SHORT FT #2 -20 to 20% used to maintain air-fuel ratio at
+Min.: -100%, Max.: 99.2%
+stoichiometric air-fuel ratio
+Overall fuel compensation carried
+Long-term fuel trim of bank 1: out in long-term to compensate for
+LONG FT #1 -20 to 20%
+Min.: -100%, Max.: 99.2% continual deviation of short-term
+fuel trim from central value

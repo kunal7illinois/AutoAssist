@@ -1,0 +1,54 @@
+54A-10 CHASSIS ELECTRICAL
+IGNITION SWITCH
+DISPOSITION WHEN REPLACING
+IMMOBILIZER SYSTEM RELATED PARTS
+The replacing immobilizer system related parts is as
+follows. When the ignition key is re-registered with
+the MUT-II, the originally registered ignition key reg-
+istration information will be lost.
+ITEMS ECM <M/T> OR IMMOBILIZER-ECU IGNITION KEY
+PCM <A/T>
+When replacing ECM <M/T> - Replacement not Replacement not required.
+or PCM <A/T> required Re-registration are required.
+When rewriting ECM <M/T> - Replacement not Replacement not required.
+or PCM <A/T> required Re-registration not required.
+When replacing immobilizer- Replacement not - Replacement not required.
+ECU required Re-registration are required.
+When adding ignition keys Replacement not Replacement not Register only additional ignition
+newly (if no registered required required keys to be registered.
+ignition keys are lost)
+When adding ignition key Replacement not Replacement not Register ignition key to be
+newly (if a registered ignition required required added and re-register all other
+key is lost) ignition keys.
+When ignition key is lost Replacement not Replacement not Re-register all other ignition
+required required keys except the lost one.
+EQUIPMENT DIAGNOSIS
+IGNITION SWITCH DIAGNOSIS
+M1543000700515
+The Ignition key reminder torn alarms are controlled
+by the Simplified Wiring System (SWS). For trouble-
+shooting, refer to GROUP 54B, SWS Diagnosis
+P.54B-17.
+INTRODUCTION TO IMMOBILIZER SYSTEM DIAGNOSIS
+M1543009900721
+CAUTION
+• The encrypted code should always be re-registered when replacing the immobilizer-ECU.
+• If the immobilizer-ECU has been replaced with a new part, the password (vehicle secret code)
+which has been stored in the immobilizer-ECU for each vehicle will be replaced by a new pass-
+word (secret code) specified by the customer.
+The immobilizer system consists of the immobilizer- the immobilizer system has immobilized the engine,
+ECU, ECM <M/T> or PCM <A/T>, ignition key and MFI system DTC P1610 will be output. In this case,
+ignition key ring antenna. If the engine cannot be observe the immobilizer system troubleshooting.
+started by using a registered ignition key, one of Then, if a malfunction is resolved, the MFI system
+these components may be defective. In addition, if DTC P1610 should not reset.
+IMMOBILIZER SYSTEM DIAGNOSTIC TROUBLESHOOTING STRATEGY
+M1543006900391
+Use these steps to plan your diagnostic strategy. If 2. Verify that the condition described by the
+you follow them carefully, you will be sure that you customer exists.
+have exhausted most of the possible ways to find an
+3. Check the vehicle for any immobilizer system
+immobilizer system fault.
+DTC.
+1. Gather information about the problem from the
+customer.
+TSB Revision

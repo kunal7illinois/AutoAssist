@@ -1,0 +1,55 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-127
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS:C-60<M/T>,C-54,C-57<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-60
+C-57
+AK000280BD
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+• A voltage corresponding to the oxygen concen- Check Conditions
+tration in the exhaust gas is sent to the ECM (ter- • 3 minutes or more have passed since the starting
+minal 76) <M/T> or PCM (terminal 71) <A/T> sequence was completed.
+from the output terminal (terminal 4) of the heated • Heated oxygen sensor (front) signal voltage has
+oxygen sensor (front). continued to be 0.2 volt or lower.
+• Terminal 2 of the heated oxygen sensor (front) is • Engine coolant temperature is higher than 76°C
+grounded with ECM (terminal 92) <M/T> or PCM (169°F).
+(terminal 57) <A/T>. • Engine speed is higher than 1,200 r/min.
+• Volumetric efficiency is higher than 25 percent.
+. TECHNICAL DESCRIPTION • Monitoring time: 7 seconds.
+• The heated oxygen sensor (front) detects the
+Judgment Criteria
+concentration of oxygen in the exhaust gas; it • Input voltage supplied to the ECM <M/T> or PCM
+converts those data to voltage, and inputs the
+<A/T> interface circuit is higher than 4.5 volts
+resulting signals to the ECM <M/T> or PCM <A/
+when 5 volts is applied to the heated oxygen sen-
+T>.
+sor (front) output line via a resistor.
+• When the heated oxygen sensor (front) begins to • The ECM<M/T> or PCM<A/T> monitors for this
+deteriorate, the heated oxygen sensor signal
+condition once during the drive cycle.
+response becomes poor.
+• The ECM <M/T> or PCM <A/T> forcibly varies .
+TROUBLESHOOTING HINTS (The most likely
+the air/fuel mixture to make it leaner and richer,
+causes for this code to be set are: )
+and checks the response speed of the heated
+• Heated oxygen sensor (front) deteriorated.
+oxygen sensor (front). In addition, the ECM <M/
+• Open circuit in heated oxygen sensor (front) out-
+T> or PCM <A/T> also checks for an open circuit
+put line.
+in the heated oxygen sensor (front) output line.
+• Open circuit in heated oxygen sensor (front)
+ground line.
+.
+• ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MD998464: Test Harness
+TSB Revision

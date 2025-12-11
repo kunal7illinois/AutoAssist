@@ -1,0 +1,41 @@
+23A-268 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 1. Using scan tool MB991502, check data list item 23:
+Output Shaft Speed Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine.
+(3) Set scan tool MB991502 to data reading mode for item 23:
+Output Shaft Speed Sensor.
+• When driving at constant speed of 50km/h (31mph), the
+display should be 1,600 − 1,900 r/min <2.4L Engine>,
+1,300 − 1,600 r/min <3.0L Engine>. (Gear range: 3rd
+gear)
+16 PIN
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 AC001252AB Q:Is the sensor operating properly?
+YES : Go to Step 2.
+NO : Refer to P.23A-115, diagnostic trouble code number
+23: Output shaft speed sensor system.
+STEP 2. Using scan tool MB991502, check data list item 11:
+Throttle position sensor.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to data reading mode for item 11:
+Throttle Position Sensor.
+• With the throttle valve in idle position, voltage should be
+between 535 and 735 mV.
+• With the throttle valve in full-open position, voltage
+should be between 4,500 and 5,500 mV.
+16 PIN
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 AC001252AB Q:Is the sensor operating properly?
+YES : Go to Step 3.
+NO : Check the throttle position sensor. Refer to P.23A-42,
+P.23A-51, P.23A-59, diagnostic trouble code number
+11, 12, 14: Throttle Position Sensor System. Then
+check the malfunction.
+TSB Revision

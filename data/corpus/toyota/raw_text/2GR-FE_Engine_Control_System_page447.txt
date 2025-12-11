@@ -1,0 +1,27 @@
+ES–447
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+8 INSPECT ECM (IGSW VOLTAGE)
+(a) Disconnect the A55 ECM connector.
+Wire Harness Side:
+(b) Measure the voltage between the terminals.
+Standard voltage
+A55 ECM Connector Tester Connection Specified Condition
+IGSW (A55-28) - Body ground 9 to 14 V
+(c) Reconnect the ECM connector.
+OK Go to step 12
+ES
+IGSW
+A115671E30
+NG
+9 INSPECT IG2 RELAY
+(a) Remove the IG2 relay from the engine room R/B.
+(b) Measure the resistance between the terminals.
+Standard resistance
+Tester Connection Specified Condition
+3 - 5 10 kΩ or higher
+Below 1 Ω
+3 - 5
+(Apply battery voltage between terminals 1 and 2)
+(c) Reinstall the IG2 relay.
+B016200E02 NG REPLACE IG2 RELAY
+OK

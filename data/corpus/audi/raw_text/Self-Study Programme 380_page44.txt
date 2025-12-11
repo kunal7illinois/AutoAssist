@@ -1,0 +1,44 @@
+Air conditioning
+Components of the air conditioning system
+in the Audi TT Coupé ‘07
+Air conditioner compressor
+Single acting wobble plate compressor with
+6cylinders and variable delivery rate, without
+magnetic coupling, externally controlled.
+The air conditioner compressor is not a carry-over
+part from the Audi A3.
+The compressor stroke volume is regulated via the
+air conditioning system compressor regulating
+valve N280 by means of the PWM signal, depending
+on cooling power requirements.
+Air conditioning system
+compressor regulating valve N280
+380_053
+Ambient temperature sensor
+Ambient temperature sensor G17 (directly before the condenser)
+Only one ambient temperature sensor is used to
+evaluate the ambient temperature.
+The ambient temperature sensor G17 is located at
+the front end, on the right-hand side behind the
+bumper, directly in front of the condenser.
+Its value is provide by the control unit with display
+in dash panel insert J285 via CAN bus.
+If the ambient temperature sensor G17 is faulty,
+the ECON function is activated. This means that the
+active cooling function is deactivated and the AC
+LED goes out.
+380_048
+Dash panel temperature sensor G56
+Dash panel temperature sensor
+The dash panel temperature sensor is integrated in
+the housing of the Climatronic control unit J255 and
+is ventilated by a suction blower. The temperature
+sensor can take on values from -50°C to +77°C.
+The dash panel temperature sensor is deactivated if
+the temperature sensor or ventilation motor is
+faulty. An entry is made in the data memory, and the
+Climatronic control unit J255 uses saved substitute
+values depending on the temperature set at the
+control panel.
+380_052
+44

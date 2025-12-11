@@ -1,0 +1,37 @@
+ES–176
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+If the output voltage transmitted by the knock sensor remains low or high for more than 1 second, the
+ECM interprets this as a malfunction in the sensor circuit, and sets a DTC.
+The monitor for DTCs P0327 and P0328 begins to run when 5 seconds have elapsed since the engine
+was started.
+If the malfunction is not repaired successfully, either DTC P0327 or P0328 is set 5 seconds after the
+engine is next started.
+MONITOR STRATEGY
+P0327: Knock sensor range check (Low voltage)
+Related DTCs
+P0328: Knock sensor range check (High voltage)
+Required Sensors/Components (Main) Knock sensor
+ES
+Required Sensors/Components (Related) -
+Frequency of Operation Continuous
+Duration 1 second
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+Battery voltage 10.5 V or more
+Time after engine start 5 seconds or more
+TYPICAL MALFUNCTION THRESHOLDS
+Knock Sensor Range Check (Low voltage) P0327:
+Knock sensor voltage Less than 0.5 V
+Knock Sensor Range Check (High voltage) P0328:
+Knock sensor voltage More than 4.5 V
+WIRING DIAGRAM
+ECM
+Shielded
+5 V
+Knock Sensor
+KNK1
+EKNK
+A107909E01

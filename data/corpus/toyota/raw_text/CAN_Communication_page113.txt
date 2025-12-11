@@ -1,0 +1,49 @@
+CA–113
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+No. 1 CAN J/C “B” side (without Earth Terminal): No. 1 CAN J/C “A” side (with Earth Terminal):
+Earth Terminal
+B B
+E46 E42
+W W
+B B
+E62 E45
+W W
+B
+E63
+W CA
+B E43
+W
+B E44
+W
+Earth Terminal
+C137761E02
+No. 1 CAN J/C connectors ("A" side, with earth
+Connector Color Wire Color (CAN-H) Wire Color (CAN-L)
+terminal)
+Airbag Sensor Assembly Center (E45) Black B W
+No. 1 CAN J/C connectors ("A" side, with earth
+Connector Color Wire Color (CAN-H) Wire Color (CAN-L)
+terminal)
+Yaw Rate Sensor* (E46) Blue B W
+Steering Angle Sensor* (E63) Brown B W
+Combination Meter (E43) White B W
+Main Body ECU (E44) Black B W
+*: with VSC
+NOTICE:
+Do not reconnect the disconnected connectors until
+this inspection is complete because there may be a
+short to GND in 2 or more CAN bus wires.
+Result
+Symptom Proceed to
+The resistance between terminals 6 (CANH) and 4 (CG), or the resistance between 14 (CANL)
+and 4 (CG) is still below 200 Ω when all the specified connectors are disconnected from the
+A
+No. 1 CAN J/C. (There is a short to GND in the CAN main bus wires between the No. 1 CAN J/
+C and No. 2 CAN J/C.)
+The resistance between terminals 6 (CANH) and 4 (CG), or the resistance between 14 (CANL)
+and 4 (CG) becomes normal (200 Ω or more) when a connector is disconnected from the
+B
+CAN J/C. (There is a short to GND in one of the areas that relate to the disconnected bus
+wires.)
+(c) When there is a short to GND in one or more of the bus
+wires that connect to an ECU (or sensor):

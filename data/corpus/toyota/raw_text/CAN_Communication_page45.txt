@@ -1,0 +1,32 @@
+CA–45
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+Skid Control ECU Communication Stop Mode
+DESCRIPTION
+Detection Item Symptom Trouble Area
+• "ABS/VSC/TRC" is not displayed on the
+"Communication Bus Check" screen of the
+• Power source circuit of skid control ECU
+Skid Control ECU Communication Stop intelligent tester
+• Skid control ECU branch wire or connector
+Mode • Applies to "Skid Control ECU Communication
+• Brake actuator assembly (Skid control ECU)
+Stop Mode" in the "DTC COMBINATION
+TABLE"
+WIRING DIAGRAM
+without VSC:
+DLC3
+Combination Meter ECU
+ECM
+CA
+120 Ω No. 1 CAN J/C No. 2 CAN J/C 120 Ω
+26 15
+CANH CANL
+ECU-IG No. 2 1
+GND2
+IG1 4
+18 GND1
+A25 Skid Control ECU
+Trouble Area
+: CAN Main Bus Wire (CANH) : CAN Branch Wire (CANH)
+: CAN Main Bus Wire (CANL) : CAN Branch Wire (CANL)
+C126207E07

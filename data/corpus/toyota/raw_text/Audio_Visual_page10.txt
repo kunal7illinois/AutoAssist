@@ -1,0 +1,40 @@
+AV–10
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 INSPECT BATTERY VOLTAGE
+Standard voltage:
+11 to 14 V
+If the voltage is below 11 V, recharge or replace the battery
+before proceeding.
+NEXT
+3 BASIC INSPECTION
+(a) Turn the ignition switch on (IG).
+(b) Check whether or not the radio receiver turns on.
+Result
+Result Proceed to
+Radio receiver turns on A
+Radio receiver does not turn on B
+B Go to step 6
+A
+4 CHECK FOR DTC
+(a) Check for DTCs and note any codes that are output.
+(b) Delete the DTCs.
+(c) Recheck for DTCs by simulating the operation indicated
+by the DTCs.
+HINT:
+• If the system cannot enter the diagnostic mode,
+inspect the AVC-LAN and all the components that
+connect to the AVC-LAN for short circuits and repair
+or replace the problem part.
+AV
+• Even if the malfunction symptom is not confirmed,
+check the DTCs. This is because the system stores
+past DTCs.
+• Check and clear past DTCs. Then check for DTCs.
+Result
+Result Proceed to
+DTC is output again A
+DTC is not output B

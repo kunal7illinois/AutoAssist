@@ -1,0 +1,42 @@
+Audi TT No. 61 / 12
+Current Flow Diagram
+Engine control unit
+F372 Actuator 7 for camshaft adjustment
+F373 Actuator 8 for camshaft adjustment
+J623 Engine control unit
+N75 Charge pressure control solenoid valve
+N80 Activated charcoal filter solenoid valve 1
+N205 Camshaft control valve 1
+T14 14-pin connector, front left in engine compartment
+T60 60-pin connector
+D101 Connection 1 in engine compartment wiring harness
+D102 Connection 2 in engine compartment wiring harness
+J623
+with respect to the correctness of information in this document. Copyright by AUDI AG.
+T60 T60 T60 T60 T60
+/19 /4 /51 /35 /60
+5511
+0.75 0.75 1.0 0.5 1.0 1.0
+sw/rt sw/ge bl/rt vi bl/vi vi/ws
+1 1 2 2 2
+F372 F373 T
+/
+T
+/66
+1144 N75 N80 N205
+2 2 1 1 1
+0.5 0.5 1.0 1.0 1.0 1.0 1.0
+bl/rt bl/rt bl/rt bl/rt bl/rt bl/rt bl/rt
+D102
+D101 D102 ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+141 142 143 144 145 146 147 148 149 150 151 152 153 154 or = orange
+8J0-061120410 rs = pink
+04.2010

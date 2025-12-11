@@ -1,0 +1,26 @@
+TD–23
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/ Smart Key System)
+2. ACTIVE TEST
+HINT:
+Performing the intelligent tester ACTIVE TEST allows
+relay, VSV, actuator and other items to be operated
+without removing any parts. Performing the ACTIVE
+TEST early in troubleshooting is one way to shorten the
+labor time. The DATA LIST can be displayed during the
+ACTIVE TEST.
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the ignition switch on ON.
+(c) Enter the following menus: DIAGNOSIS / OBD/
+MOBD / MAIN BODY or SMART / ACTIVE TEST.
+(d) Perform the ACTIVE TEST according to the display
+on the tester.
+MAIN BODY (Main body ECU):
+Item Tester Detail Diagnostic Note
+HAZARD Hazard warning light ON/OFF -
+VEHICLE HORN Vehicle horn ON/OFF -
+SMART (Certification ECU):
+Item Tester Detail Diagnostic Note
+SECURITY INDIC Security indicator ON/OFF -
+SECURITY HORN Security horn ON/OFF -
+TD

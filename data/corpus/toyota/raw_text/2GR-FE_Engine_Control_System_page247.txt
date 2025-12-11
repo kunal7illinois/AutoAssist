@@ -1,0 +1,48 @@
+ES–247
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+ECM
+40
++B IGT1 C55
+1 3
+IGT1
+GND IGF
+4 2
+C11 No. 1 Ignition Coil
+38
++B IGT3 C55
+1 3
+IGT3 ES
+GND IGF
+4 2
+C12 No. 3 Ignition Coil
+36
+A +B IGT5 C55
+1 3
+IGT5
+GND IGF
+4 2
+C38 No. 5 Ignition Coil
+39
++B IGT2 C55
+1 3
+IGT2
+106
+GND IGF C55
+4 2 IGF1
+C13 No. 2 Ignition Coil
+37
++B IGT4 C55
+1 3 IGT4
+GND IGF
+4 2
+C14 No. 4 Ignition Coil
+35
++B IGT6 C55
+1 3
+IGT6
+C16 C49 GND IGF
+4 2
+Noise Noise C39 No. 6 Ignition Coil
+Filter Filter
+A133854E01

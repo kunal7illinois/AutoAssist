@@ -1,0 +1,44 @@
+Audi TT No. 42 / 10
+Current Flow Diagram
+Engine control unit, throttle valve module, accelerator
+position sender
+G69 Throttle valve potentiometer
+G79 Accelerator position sender
+G185 Accelerator position sender 2
+J623 Engine control unit
+T6o 6-pin connector, black, on accelerator position sender
+T12m 12-pin connector, brown, in luggage compartment, rear right
+T60 60-pin connector, on engine control unit
+T94 94-pin connector, on engine control unit
+V157 Intake manifold flap motor
+220 Earth connection (sender earth), in engine wiring harness
+B486 Connection 22, in main wiring harness
+D174 Connection 2 (5V), in engine wiring harness
+J623
+T94/15 T94/74 T94/53 T94/54 T94/8 T94/13 T60/25 T60/41 T60/34 T60/49
+0,35 0,35 0,35 0,35 0,35 0,35 0,5 0,5 1,0 1,0
+ge/gn ws/gr gn/gr gn/ro ws/ro gr/sw sw li/sw br/li li
+B486 D174
+D174
+220
+220
+0,35 0,35 0,5 0,5
+ge/gn ge/gn sw br/ge
++ -- S1 S2 -- +
+T12m T6o/2 T6o/3 T6o/4 T6o/6 T6o/5 T6o/1 1 2 3 4 5
+/10
+M
+ws = white
+G79 G185 G69 V157
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+113 114 115 116 117 118 119 120 121 122 123 124 125 126 or = orange
+8J0-042100409
+rs = pink
+Edition 09.2009

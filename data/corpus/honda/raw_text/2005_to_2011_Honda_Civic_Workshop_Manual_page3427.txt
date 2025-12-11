@@ -1,0 +1,18 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Manual Transmission (6-Speed)(Except Hybrid) - Civic
+Fig. 13: Checking Continuity Between Reverse Lockout Solenoid 2P
+Connector Terminal And Body Ground
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES -Repair short to body ground in the wire between the reverse lockout
+solenoid and the ECM (A27).
+NO -Update the ECM if it does not have the latest software (see UPDATING
+THE ECM ), or substitute a known-good ECM (see SUBSTITUTING THE
+ECM ), then recheck. If the symptom/indication goes away with a known-good
+ECM, replace the original ECM (see ECM REPLACEMENT ).
+REVERSE LOCKOUT SOLENOID TEST
+1. Remove the reverse lockout solenoid (see REVERSE LOCKOUT
+SOLENOID TEST ).
+2. Connect battery positive terminal to the reverse lockout solenoid 2P connector
+No. 2 terminal, and connect the battery negative terminal to the No. 1 terminal.

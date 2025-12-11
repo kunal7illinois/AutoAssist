@@ -1,0 +1,42 @@
+ES–350
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+The accelerator pedal position sensor is mounted on the accelerator pedal bracket. The accelerator pedal
+position sensor has 2 sensor elements and 2 signal outputs: VPA and VPA2. VPA is used to detect the
+actual accelerator pedal angle (used for engine control) and VPA2 is used to detect malfunctions in VPA.
+When the difference between the output voltages of VPA and VPA2 deviates from the standard, the ECM
+determines that the accelerator pedal position sensor is a malfunctioning. The ECM turns on the MIL and
+the DTC is set.
+MONITOR STRATEGY
+Related DTCs P2121: Accelerator pedal position (APP) sensor rationality
+Required Sensors/Components (Main) APP sensor
+Required Sensors/Components (Sub) -
+Frequency of Operation Continuous
+ES Duration 0.5 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs are not present None
+TYPICAL MALFUNCTION THRESHOLDS
+Difference between VPA1 voltage (learned value) and VPA2 voltage
+Less than 0.4 V, or more than 1.2 V
+(learned value)
+FAIL-SAFE
+The accelerator pedal position sensor has two (main and sub) sensor circuits. If a malfunction occurs in
+either of the sensor circuits, the ECM detects the abnormal signal voltage difference between the two
+sensor circuits and switches to limp mode. In limp mode, the functioning circuit is used to calculate the
+accelerator pedal opening angle to allow the vehicle to continue driving. If both circuits malfunction, the
+ECM regards the opening angle of the accelerator pedal as being fully closed. In this case, the throttle
+valve remains closed as if the engine is idling.
+If a pass condition is detected and then the ignition switch is turned off, the fail-safe operation stops and
+the system returns to a normal condition.
+WIRING DIAGRAM
+Refer to DTC P2120 (See page ES-338).
+INSPECTION PROCEDURE
+HINT:
+• Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame
+data can be helpful in determining whether the vehicle was running or stopped, whether the engine
+was warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the
+time of a malfunction (See page ES-45).
+• This DTC relates to the Accelerator Pedal Position (APP) sensor.

@@ -1,0 +1,38 @@
+BC–195
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC C1231/31 Steering Angle Sensor Circuit Malfunction
+DESCRIPTION
+The steering angle sensor signal is sent to the skid control ECU via the CAN communication system.
+When there is a malfunction in the CAN communication system, it will be detected by the steering angle
+sensor zero point malfunction diagnostic function.
+DTC No. DTC Detection Condition Trouble Area
+• Steering angle sensor
+When ECU IG1 terminal voltage is 9.5 V or more, the steering • Steering angle sensor circuit
+C1231/31
+angle sensor malfunction signal is received. • Steering angle sensor power supply
+• Brake actuator assembly (Skid control ECU)
+WIRING DIAGRAM
+Brake Actuator Assembly
+BC
+- Skid Control ECU
+Steering Angle Sensor
+CANL CANL
+9 25
+CANH CANH
+10 11
+ECU-B NO. 1
+BAT
+3 2 1
+From Battery
+IG1
+ECU-IG NO. 2
+IG
+1 3 5
+ESS From Ignition Switch (*1),
+2 1 2 Main Body ECU (*2)
+(*1): without Smart Key System (*2): with Smart Key System
+C136024E04
+INSPECTION PROCEDURE
+HINT:
+• When U0073/94, U0123/62, U0124/95 or U0126/63 is output together with C1231/31, inspect and
+repair the trouble areas indicated by U0073/94, U0123/62, U0124/95 or U0126/63 first.

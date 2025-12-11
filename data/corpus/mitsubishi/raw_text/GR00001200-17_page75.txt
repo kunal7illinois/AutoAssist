@@ -1,0 +1,32 @@
+ENGINE AND EMISSION CONTROL 17-75
+AUTO-CRUISE CONTROL
+STEP 8. Check the combination meter.
+(1) Remove the combination meter and measure at the
+combination meter side. (Refer to GROUP 54A,
+Combination Meter Assembly and Vehicle Speed Sensor
+P.54A-105.)
+(2) Measure the continuity between terminal 52 at conductor C-
+41 and terminal 1 at conductor C-43.
+Q:Is the continuity less than 2 ohm?
+CONNECTOR C-41
+YES : Go to Step 9.
+41424344454647 484950515253545556 NO : Replace the combination meter.
+Refer to GROUP 54A, Combination Meter Assembly
+and Vehicle Speed Sensor P.54A-105.
+Then check that the malfunction is eliminated.
+CONNECTOR C-43
+1 2 3 4 5 6 7 8 9 10111213141516
+AC002130AD
+STEP 9. Check the harness wire between combination
+meter connector C-41 (terminal number 52) and C-43
+(terminal number 1).
+Q:Is any harness wire between combination meter
+CONNECTORS: C-41, C-43
+connector C-41 (terminal number 52) and C-43 (terminal
+C-41 C-43
+number 1) damaged?
+YES : Repair the harness wire and then check that the
+malfunction is eliminated.
+NO : Go to Step 10.
+AC101196AG
+TSB Revision

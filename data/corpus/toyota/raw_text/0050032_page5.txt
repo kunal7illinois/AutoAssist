@@ -1,0 +1,46 @@
+ES–183
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 CHECK HARNESS AND CONNECTOR (CRANKSHAFT POSITION SENSOR - ECM)
+(a) Disconnect the B22 CKP sensor connector.
+Wire Harness Side:
+(b) Disconnect the B30 ECM connector.
+(c) Measure the resistance.
+CKP Sensor
+Standard resistance (Check for open)
+NE+ NE-
+Tester Connections Specified Conditions
+B22-1 (NE+) - B30-122 (NE+) Below 1 Ω
+B22 B22-2 (NE-) - B30-121 (NE-) Below 1 Ω
+Standard resistance (Check for short)
+ES
+Tester Connections Specified Conditions
+B22-1 (NE+) or B30-122 (NE+) - Body
+10 kΩor higher
+ECM Connector ground
+B30
+B22-2 (NE-) or B30-121 (NE-) - Body
+10 kΩor higher
+ground
+(d) Reconnect the ECM connector.
+(e) Reconnect the CKP sensor connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+NE- NE+
+A127716E01
+OK
+4 CHECK SENSOR INSTALLATION (CRANKSHAFT POSITION SENSOR)
+(a) Check the CKP sensor installation.
+OK:
+Sensor is installed correctly.
+NG SECURELY REINSTALL SENSOR
+Clearance
+OK NG
+BR03795E25
+OK
+5 CHECK CRANKSHAFT POSITION SENSOR PLATE (TEETH OF SENSOR PLATE)
+(a) Check the teeth of the sensor plate.
+OK:
+Sensor plate does not have any cracks or
+deformation.
+NG REPLACE CRANKSHAFT POSITION
+SENSOR PLATE

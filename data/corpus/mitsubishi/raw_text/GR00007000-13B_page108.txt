@@ -1,0 +1,32 @@
+13B-108 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Using scan tool MB991502, check data list item
+14: Throttle Position Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the data reading mode for item
+14, Throttle Position Sensor.
+16 PIN • With the throttle valve in the idle position, voltage should
+be between 0.535 and 0.735 volt.
+MB991502
+• With the throttle valve in the full-open position, voltage
+AKX01177AB
+should be between 4.5 and 5.5 volts.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Replace the ECM or PCM. Then go to Step 11.
+STEP 11. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0122 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+TSB Revision

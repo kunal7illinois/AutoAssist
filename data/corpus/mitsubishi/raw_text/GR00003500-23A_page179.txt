@@ -1,0 +1,25 @@
+AUTOMATIC TRANSAXLE 23A-179
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 20. Using scan tool MB991502, check data list item
+61: Park/Neutral Position Switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to data reading mode for item 61:
+Park/Neutral Position Switch.
+• Move the selector lever to "P," "R," "N," "D," "3," "2," "L"
+and sport mode positions and confirm the scan tool dis-
+play. (Vehicles with sport mode is indicated as "D" on
+the scan tool.)
+16 PIN
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 AC001252AB Q:Is the switch operating properly?
+YES : This malfunction can be intermittent. Refer to GROUP
+00, How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Replace the PCM.
+TSB Revision

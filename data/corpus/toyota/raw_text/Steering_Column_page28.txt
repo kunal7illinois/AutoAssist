@@ -1,0 +1,59 @@
+SR–26
+STEERING COLUMN – ELECTRIC STEERING LOCK
+INSPECTION PROCEDURE
+1 INSPECT IG2 RELAY
+(a) Remove the IG2 relay from the engine room R/B.
+IG2 Relay: 2 1 (b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+3 5
+Tester Connection Specified Condition
+5
+3 - 5 10 kΩ or higher
+1 2
+Below 1 Ω
+3 3 - 5 (When battery voltage is applied to
+terminals 1 and 2)
+B060778E17
+NG REPLACE IG2 RELAY
+OK
+2 CHECK HARNESS AND CONNECTOR (STEERING LOCK ACTUATOR ASSEMBLY - BODY
+GROUND)
+SR
+(a) Disconnect the E51 connector from the steering lock
+Steering Lock Actuator Assembly:
+actuator assembly.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+GND
+E51
+Tester connection
+Condition Specified condition
+(Symbols)
+E51-1 (GND) - Body
+Always Below 1 Ω
+SGND ground
+C106484E29 E51-2 (SGND) - Body Always Below 1 Ω
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+3 CHECK HARNESS AND CONNECTOR (STEERING LOCK ACTUATOR ASSEMBLY -
+BATTERY)
+(a) Measure the voltage according to the value(s) in the
+Steering Lock Actuator Assembly:
+table below.
+Standard voltage
+Tester connection
+Condition Specified condition
+(Symbols)
+E51 GND
+E51-6 (IG2) - E51-1
+Engine switch on (IG) 10 to 14 V
+(GND)
+E51-6 (IG2) - E51-2
+B Engine switch on (IG) 10 to 14 V
+(SGND)
+IG2 SGND
+C106484E30

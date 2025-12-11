@@ -1,0 +1,36 @@
+R–G
+A73(A), D5(B), D6(C)
+(BAT) Main Body ECU
+7. 5A
+ECU–B
+1
+25 AD2
+R–G
+(BAT)
+7. 5A
+MPX–B
+1
+R–L
+(IG)
+10A
+ECU IG1
+2 2 2
+8 9
+G
+W )2∗(
+Front Fog Light
+(BAT) (ACC)
+15A 10A
+HAZ ECU ACC
+IG ACC
+2 2
+1
+28 3B
+W
+(∗2)
+L–R
+G–R
+G
+∗ 2 : w/ Smart Entry & Start System
+192
+BRZ (G4400BE)

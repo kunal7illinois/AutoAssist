@@ -1,0 +1,45 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-369
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, check actuator test
+item 08: Evaporative Emission Purge Solenoid.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the actuator test mode for item
+08, Evaporative emission purge solenoid.
+16 PIN • An operation sound should be heard and vibration
+should be felt when the evaporative emission purge
+MB991502
+solenoid is operated.
+AKX01177AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the solenoid operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+STEP 2. Check connector B-33 at the evaporative emission
+purge solenoid for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-33 <WITHOUT VARIABLE
+INDUCTION SYSTEM> YES : Go to Step 3.
+EVAPORATIVE
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+EMISSION
+Connector Inspection P.00E-2. Then go to Step 12.
+PURGE
+SOLENOID
+VALVE
+ACX02514AO
+CONNECTOR: B-33 <WITH VARIABLE
+INDUCTION SYSTEM>
+EVAPORATIVE
+EMISSION
+PURGE
+SOLENOID
+VALVE
+AC106191AC
+TSB Revision

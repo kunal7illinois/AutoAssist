@@ -1,0 +1,84 @@
+CA–32
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+FAIL-SAFE CHART
+1. FAIL-SAFE FUNCTION
+(a) When communication fails in any of the CAN bus
+wire (communication lines) due to a short circuit or
+other causes, a fail-safe functions, will operate. The
+fail-safe function that is specified for each system
+operates to prevent those systems from
+malfunctioning.
+(b) The following chart shows the relationships between
+components and system functions and effects of
+communication failure on these functions. (For
+further details, see the pages for each system.)
+DTC
+Skid Control Skid Control Condition when
+Steering Yaw Rate detection
+Function ECM ECU ECU communication
+Sensor Sensor (Driver
+(Without VSC) (With VSC) impossible
+detectable)
+VSC control Control
+(Controls inoperative Detectable
+driving force (cid:123) - (cid:122) (cid:123) (cid:123) (gradually stops (Light comes
+while VSC in controlling during on)
+CA operation) VSC control)
+TRC control
+(Controls
+Control
+driving force
+inoperative Detectable
+and engine
+(cid:123) - (cid:122) - - (gradually stops (Light comes
+power when
+controlling during on)
+wheel slip
+TRC control)
+detected during
+acceleration)
+ABS control Control is
+(Controls inoperative Detectable
+driving force (cid:123) (cid:122) (cid:122) - (cid:123) *1 (gradually stops (Light comes
+while ABS in controlling during on)
+operation) ABS control)
+Detectable
+Theft deterrent
+Security (Indicator light
+- - - - - system cannot
+function does not
+be set
+comes on)
+None (Air
+Air conditioning Air conditioning
+(cid:123) - - - - conditioning
+control function stops
+inoperative)
+Light does not
+Meter Display
+come on,
+(Displays Detectable
+illuminates
+operation (cid:123) (cid:123) (cid:123) *2 - - (Abnormal
+abnormally, or
+condition and display)
+blinks
+DTCs)
+abnormally
+Detectable
+Buzzer function
+Buzzer control (cid:123) (cid:123) (cid:123) *2 - - (Buzzer does
+stops
+not sound)
+Light illumination None
+Illumination
+(cid:123) - - - - rheostat (Rheostat
+control
+inoperative inoperative)
+Smart entry / None
+Power door - - - - - Unlock permitted (Wireless door
+lock control*3 lock operation)
+HINT:
+• (cid:122): Control master
+• (cid:123): System related
+• *1: TMC made

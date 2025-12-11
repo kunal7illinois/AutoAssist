@@ -1,0 +1,32 @@
+AUTOMATIC TRANSAXLE 23A-245
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 4. Check the continuity at combination meter
+connector C-43.
+(1) Disconnect connector C-43 and measure at the harness
+CONNECTOR: C-43
+C-43 side.
+AC001729AW
+(2) Check for the continuity between terminal 12 and ground.
+• Should be less than 2 ohm.
+Q:Is the continuity normal?
+YES : Go to Step 6.
+NO : Go to Step 5.
+16151413121110 9 8 7 6 5 4 32 1
+HARNESS
+CONNECTOR: C-43
+AC102538AB
+STEP 5. Check connectors C-43 at combination meter and
+C-78 at joint connector (2) for damage.
+Q:Are the connectors in good condition?
+CONNECTOR: C-43
+C-43 YES : Repair harness open circuit or harness damage
+between combination meter connector C-43 terminal
+12 and the ground.
+NO : Repair or replace the defective connector(s). Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2.
+AC001729AW
+CONNECTOR: C-78
+C-78
+AC001729AZ
+TSB Revision

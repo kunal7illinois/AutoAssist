@@ -1,0 +1,36 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-65
+SRS AIR BAG DIAGNOSIS
+CONNECTOR: C-72
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH)AC000358AD
+CIRCUIT OPERATION • When a short circuit occurs in the warning
+• Power for the SRS warning light is supplied from light drive circuit.
+the ignition switch (IG1) circuit. • When a malfunction is detected in the output
+• The SRS warning light illuminates when the igni- transistor inside the SRS-ECU.
+tion switch is turned "ON" and goes out after • However, if the vehicle condition returns to
+approximately seven seconds if there is not a normal, DTC 44 will be automatically erased,
+malfunction in the SRS system. and the SRS warning light will go out.
+DTC SET CONDITIONS TROUBLESHOOTING HINTS
+This DTC is set under one of the following cases • Damaged wiring harnesses of connectors
+while the SRS-ECU is monitoring the warning • Malfunction of the SRS-ECU
+light drive circuit:
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-ll)
+STEP 1. Check the SRS warning light drive circuit system.
+Refer to P.52B-129.
+Q:Is the SRS warning light drive circuit normal?
+YES : Erase the DTC memory, and recheck if any DTC sets.
+If DTC 43 sets, replace the SRS-ECU. Refer to
+P.52B-142. Then go to Step 2.
+STEP 2. Check for DTC.
+Q:Is DTC 44 output?
+YES : There is no action to be taken.
+NO : This diagnosis is complete. (If no malfunctions are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to GROUP 00, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent MalfunctionP.00-6.)
+TSB Revision

@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Gauges - Civic (All Except Hybrid)
+YES - Substitute a known-good ECM/PCM and retest. If the system/indication
+goes away, replace the original ECM/PCM.
+NO - The original gauge control module (tach) is faulty; replace the gauge
+control module (tach) (see TACHOMETER ).
+DTC B1173: GAUGE CONTROL MODULE LOST COMMUNICATION WITH THE TPMS
+CONTROL UNIT (TPMS MESSAGE)
+NOTE: If you are troubleshooting multiple DTCs, be sure to follow
+the instructions in B-CAN System Diagnosis Test Mode A
+(see TROUBLESHOOTING - B-CAN SYSTEM DIAGNOSIS
+TEST MODE A ).
+1. Clear the DTCs using the HDS.
+2. Turn the ignition switch OFF, and then back ON (II).
+3. Wait for 6 seconds or more.
+4. Check for DTCs with the HDS.
+Is DTC B1173 indicated?
+YES - Go to step 5.
+NO - Intermittent failure, the system is OK at this time. Check for loose or
+poor connections.
+5. Turn the ignition switch OFF.
+6. Disconnect the gauge control module (tach) 36P connector.
+7. Disconnect the TPMS control unit 20P connector.
+8. Check for continuity between the gauge control module (tach) 36P connector
+No. 1 and No. 19 and TPMS control unit 20P connector No. 2 and No. 11
+terminals individually.

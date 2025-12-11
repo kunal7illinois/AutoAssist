@@ -1,0 +1,52 @@
+CA–8
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+(c) Terminating resistors
+(1) Two resistors of 120 Ω resistance are installed in
+parallel across the ends of the CAN main bus
+wires. They are called terminating resistors.
+These resistors allow the changes of the voltage
+differential between the CAN bus wires to be
+accurately judged. To allow proper function of
+CAN communication, it is necessary to have
+both terminating resistors installed. Since the
+two resistors are installed in parallel, a
+measurement of resistance between the two
+CAN bus wires should produce a reading of
+approximately 60 Ω.
+3. ECUS OR SENSORS WHICH COMMUNICATE
+THROUGH CAN COMMUNICATION SYSTEM
+(a) Skid control ECU with actuator
+(b) Air conditioning amplifier
+(c) Main body ECU
+(d) Combination meter ECU
+(e) Yaw rate sensor
+CA
+(f) Steering angle sensor
+(g) Center airbag sensor
+(h) ECM
+(i) Certification ECU (with smart key system)
+(j) TCM
+(k) Accessory gateway
+4. DIAGNOSTIC CODE FOR CAN COMMUNICATION
+SYSTEM
+(a) DTCs for the CAN communication system are as
+follows: U0101, U0073, U0100, U0123, U0124,
+U0126, U0129, B1207, B1499, and B2326.
+5. TROUBLESHOOTING REMARKS
+(a) DTCs for the CAN communication system can be
+checked using the intelligent tester via the CAN
+VIM. The DLC3 is connected to the CAN
+communication system, but no DTCs exist
+regarding problems in the DLC3 or the DLC3 branch
+wires. If there is trouble in the DLC3 or the DLC3
+branch wires, ECUs on the CAN network cannot
+output codes to the intelligent tester via the CAN
+VIM.
+(b) Trouble in the CAN buses (communication lines)
+can be checked by measuring the resistance
+between terminals of the DLC3. However, an open
+circuit in a branch wire other than the DLC3 branch
+wires cannot be checked from the DLC3.
+NOTICE:
+Do not insert the tester probes directly into the
+DLC3. Be sure to use a service wires.

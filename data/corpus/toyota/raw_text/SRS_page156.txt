@@ -1,0 +1,32 @@
+RS–156
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+OK:
+The connectors are not deformed or damaged.
+NG REPAIR OR REPLACE WIRE HARNESS
+OK
+12 CHECK PASSENGER AIRBAG ON/OFF INDICATOR CIRCUIT (OPEN)
+(a) Using a service wire, connect terminals 23 (PAON) and
+17 (P-AB) of connector B.
+NOTICE:
+D A Do not forcibly insert a service wire into the
+C B terminals of the connector when connecting.
+(b) Measure the resistance according to the value(s) in the
+Clock Assembly
+table below.
+Center Airbag
+Standard resistance
+Sensor Assembly
+Tester Connection Condition Specified Condition
+F3-13 (PAON) - F3-14
+Always Below 1 Ω
+(P-AB)
+Connector C Connector B
+NG REPAIR OR REPLACE WIRE HARNESS
+F3 E30
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+PAON P-AB P-AB PAON
+RS
+Service Wire
+C C123728E01
+OK

@@ -1,0 +1,59 @@
+: Parts Location
+Code See Page Code See Page Code See Page
+A5 39 B2 B 39 D61 41
+A9 A 42 D5 B 40 E1 44
+A10 B 42 D6 C 40 E3 A 44
+A13 42 D7 40 F3 B 44
+A17 42 D8 A 40 F5 44
+A20 42 D9 B 40 G18 44
+A22 42 D16 A 40 H3 45
+A30 42 D17 B 40 H9 45
+A33 A 42 D25 40 H15 45
+A35 C 42 D26 40 H21 45
+A37 42 D28 40 H26 A 45
+A49 39 D40 A 41 H28 B 45
+A52 39 D41 B 41 J2 45
+A54 39 D43 41 J3 45
+A63 39 D46 A 41 K3 45
+A73 A 42 D47 B 41 L2 39
+A76 B 36, 39 D48 C 41
+B1 A 39 D59 41
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 24 Engine Room R/B (Engine Compartment Right)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+1D 24 Engine Room Main Wire and Engine Room J/B (Engine Compartment Right)
+3A
+26 Instrument Panel Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+3B
+3C 26 Engine Room Main Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+3D 26 Instrument Panel Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+: Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+AB1 46 Engine Room Main Wire and No. 2 Engine Room Wire (Engine Unit)
+AD1 47 Engine Room Main Wire and Instrument Panel Wire (Cowl Side Panel RH)
+AD2 47 Engine Room Main Wire and Instrument Panel Wire (Instrument Panel Reinforcement)
+AL2 46 Engine Room Main Wire and Transmission Wire (Dash Panel)
+DK1 47 Instrument Panel Wire and Roof Wire (Front Body Inner Pillar RH)
+ED1
+47 Front Door Wire LH and Instrument Panel Wire (Cowl Side Panel LH)
+ED2
+FD1
+47 Front Door Wire RH and Instrument Panel Wire (Cowl Side Panel RH)
+FD2
+GD1 47 No. 1 Floor Wire and Instrument Panel Wire (Cowl Side Panel RH)
+HD1 47 No. 2 Floor Wire and Instrument Panel Wire (Cowl Side Panel LH)
+JH1 48 Luggage Room Wire and No. 2 Floor Wire (Quarter Panel LH)
+: Ground Points
+Code See Page Ground Points Location
+A1 46 Front Fender Apron LH
+A3 47 Cowl Side Panel LH
+A7 46 Front Fender Apron RH
+D1 47 Cowl Side Panel LH
+D3 47 Instrument Panel Brace RH
+D4 47 Cowl Side Panel RH
+H1 48 Lower Back Panel
+H3 48 Quarter Wheel House Panel LH
+85
+BRZ (G4400BE)

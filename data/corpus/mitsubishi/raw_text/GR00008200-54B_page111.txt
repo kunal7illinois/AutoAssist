@@ -1,0 +1,49 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-111
+SYMPTOM PROCEDURES
+STEP 3. Check the input signal (by using the Pulse check).
+Check the input signals from the following switches:
+• Key reminder switch
+• Driver’s or front passenger’s door lock actuator switch
+(1) Operate the MUT-II as follows:
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+16 PIN (2) If the switches (see table below), which are applicable for
+the input signal check, are operated, check if scan tool
+MB991502 AC001252AD MB991502 sounds or not.
+ITEM NAME CHECK CONDITIONS
+Key reminder switch Remove
+Driver’s or front passenger’s Turn on and off the driver’s or
+door lock actuator switch front passenger’s door lock
+actuator switch.
+Q:Does scan tool MB991502 sound whenever the key
+reminder switch, the driver(cid:146)s and front passenger(cid:146)s
+door lock actuator switches are operated?
+YES : Replace the ETACS-ECU. The forgotten key
+prevention function should work normally.
+NO : • Scan tool MB991502 does not sound when the
+key reminder switch is operated: Refer to
+Inspection Procedure P-1 "ETACS-ECU does not
+receive a signal from the key reminder switch
+P.54B-524."
+• Scan tool MB991502 does not sound when the
+driver’s or the front passenger’s door lock actuator
+switch is operated Refer to Inspection Procedure
+P-5 "ETACS-ECU does not receive a signal from
+the driver’s or front passenger’s door lock actuator
+switch P.54B-549."
+POWER WINDOWS
+GENERAL DESCRIPTION CONCERNING POWER WINDOWS
+M1549021900017
+The following ECUs affect the functions and control
+of the power windows.
+Functions Control ECU
+Operating the driver(cid:146)s power window up function Power window main switch
+Operating the driver(cid:146)s power window down function Power window main switch
+Operating the driver(cid:146)s power window auto down function Power window main switch
+Operating the passenger(cid:146)s power window up function Power window main switch
+Operating the passenger(cid:146)s power window down function Power window main switch
+Operating the passenger(cid:146)s power window up function Power window sub switch
+Operating the passenger(cid:146)s power window down function Power window sub switch
+Power window timer function ETACS-ECU
+TSB Revision

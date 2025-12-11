@@ -1,0 +1,72 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P2431 Secondary – Check the • Difference be‐ • Secondary Air In‐ 0.5 Sec. • Once/
+Air Injection Secondary tween SAI jection - done DCY
+System Air Air Injection pressure and
+Flow Pres‐ Sensor 1 - ambient pres‐ • 2 DCY
+sure Sensor G609- . Re‐ sure NOT -60
+Circuit fer to to 60 hPa
+Range/Per‐ ⇒
+formance “3.5.35 Sec‐
+ondary Air In‐
+jection Sen‐
+sor 1, Check‐
+ing”,
+page 180 .
+P2432 Secondary – Check the • Signal voltage --- 0.5 Sec. • 2 DCY
+Air Injection Secondary < 0.5 V
+System Air Air Injection
+Flow/Pres‐ Sensor 1 -
+sure Sensor G609- . Re‐
+Circuit Low fer to
+⇒
+“3.5.35 Sec‐
+ondary Air In‐
+jection Sen‐
+sor 1, Check‐
+ing”,
+page 180 .
+P2433 Secondary – Check the • Signal voltage --- 0.5 Sec. • 2 DCY
+Air Injection Secondary > 4.5 V
+System Air Air Injection
+Flow/Pres‐ Sensor 1 -
+sure Sensor G609- . Re‐
+Circuit High fer to
+⇒
+“3.5.35 Sec‐
+ondary Air In‐
+jection Sen‐
+sor 1, Check‐
+ing”,
+page 180 .
+P2440 Secondary – Check the • SAI pressure • ECT 3 to 105 °C 55.5 Sec. • Once/
+Air Injection Combination sensor meas‐ DCY
+System Valve . Refer ured with SAI • IAT 4.5 to 143.3 °C
+Switching to pressure vs. • 2 DCY
+• Altitude < 2700 m
+Valve Stuck ⇒ modeled while
+Open “3.5.31 Sec‐ SAI valve • SAI pressure sen‐
+ondary Air In‐ closed < 64.8% sor - ready
+jection Com‐
+bination
+Valve,
+Checking”,
+page 174 .
+– Check the
+Secondary
+Air Injection
+Sensor 1 -
+G609- . Re‐
+fer to
+⇒
+“3.5.35 Sec‐
+ondary Air In‐
+jection Sen‐
+sor 1, Check‐
+ing”,
+page 180 .
+105
+3. Diagnosis and Testing

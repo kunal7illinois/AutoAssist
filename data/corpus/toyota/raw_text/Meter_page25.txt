@@ -1,0 +1,76 @@
+ME–25
+METER – METER / GAUGE SYSTEM
+Specified
+Symbols (Terminal No.) Wiring Color Terminal Description Condition
+Condition
+Turn the ignition switch on (IG),
+Below 1 V
+fuel level is FULL
+FR (F2-15) - Body ground GR - Body ground Fuel signal
+Turn the ignition switch on (IG),
+3 to 7 V
+fuel level is EMPTY
+FE (F2-16) - Body ground P - Body ground Ground (Fuel ground) Always Below 1 V
+B2 (F1-1) - Body ground R - Body ground Battery Always 10 to 14 V
+B (F1-2) - Body ground V - Body ground Battery Always 10 to 14 V
+Turn the ignition switch on (IG),
+Below 1 V
+Washer level warning washer level warning light ON
+WLVL (F1-5) (*1) - Body ground LG - Body ground
+switch signal Turn the ignition switch on (IG),
+10 to 14 V
+washer level warning light off
+Turn the ignition switch on (IG),
+0.9 to 3.2 V
+Tire pressure warning light tire pressure warning light ON
+TIRE (F1-7) (*2) - Body ground L - Body ground
+signal Turn the ignition switch on (IG),
+3.2 V or higher
+tire pressure warning light off
+Turn the ignition switch on (IG),
+engine oil pressure warning light 10 to 14 V
+Engine oil pressure OFF
+S (F1-8) - Body ground O - Body ground
+warning light signal Turn the ignition switch on (IG),
+engine oil pressure warning light Below 1 V
+ON
+Sit on the front passenger seat,
+turn the ignition switch on (IG),
+10 to 14 V
+front passenger seat belt warning
+Passenger seat belt light OFF
+P/SB (F1-9) - Body ground P - Body ground
+warning light signal Sit on the front passenger seat,
+turn the ignition switch on (IG), 10 to 14 V ←→
+front passenger seat belt warning Below 1 V
+light Blinks
+10 to 14 V ←→
+ILL- (F1-11) - Body ground BR - Body ground Illumination signal Turn the ignition switch on (IG)
+Below 1 V
+E2 (F1-12) - Body ground W-B - Body ground Ground (Power ground) Always Below 1 V
+Turn the ignition switch off Below 1 V
+IG+ (F1-13) - Body ground GR - Body ground Ignition switch signal
+Turn the ignition switch on (IG) 10 to 14 V
+CAN communication
+CANH (F1-17) - Body ground B - Body ground - -
+signal
+CAN communication
+CANL (F1-18) - Body ground W - Body ground - -
+signal
+Turn the ignition switch on (IG),
+4 to 6 V
+DISP switch off
+DISP (F1-22) - Body ground V - Body ground Steering pad switch signal
+Turn the ignition switch on (IG),
+Below 1 V
+DISP switch ON
+Turn the ignition switch on (IG),
+10 to 14 V
+Charge warning light CHARGE warning light OFF
+CHG- (F1-23) - Body ground L - Body ground ME
+signal Turn the ignition switch on (IG),
+Below 1 V
+CHARGE warning light ON
+ES (F1-24) - Body ground BR - Body ground Ground (Signal ground) Always Below 1 V
+*1: with Washer Level Warning Light
+*2: with Tire Pressure Warning System

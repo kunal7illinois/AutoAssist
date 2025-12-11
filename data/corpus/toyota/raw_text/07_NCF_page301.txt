@@ -1,0 +1,34 @@
+CHASSIS - BRAKE CH-137
+13. Diagnosis
+General
+If the skid control ECU detects a malfunction in the brake control system (ABS with EBD, brake assist,
+TRAC and VSC), the ABS, brake system, master warning lights and multi-information display the
+corresponds to the function for which the malfunction has been detected illuminates or indicates, as
+indicated in the table below, to alert the drive of the malfunction.
+(cid:4): Illuminate D : Indicate
+Item ABS EBD Brake Assist TRAC VSC
+ABS Warning Light (cid:4) (cid:4) (cid:4) — —
+Brake System Warning Light — (cid:4) — — —
+VSC Warning Light*1 —*3 —*3 —*3 (cid:4) (cid:4)
+Master Warning Light*2 —*3 —*3 —*3 (cid:4) (cid:4)
+Multi-information Display*2
+(Warning Message “CHECK VSC”)
+—*3 —*3 —*3 D D
+025CH49P
+*1: LE and SE grade models
+*2: XLE grade models
+*3: Failure in the ABS, EBD, and brake assist systems prohibits operation of the TRAC, VSC systems.
+Accordingly, the VSC or master warning lights will be illuminated and the “CHECK VSC” message will
+appear on the multi-information display.
+(cid:3) At the same time, the DTC (Diagnostic Trouble Code) are stored in the memory. The DTC can be read
+by connecting SST (09843-18040) between the Tc and CG terminals of the DLC3, and observing the
+blinking of the ABS warning light or the observing the diagnostic code indicated on the
+multi-information display, connecting a hand-held tester.
+(cid:3) This system has a sensor signal check (test mode) function. This function is activated by connecting the
+SST (09843-18040) between the Ts and CG terminal of the DLC3 or by connecting a hand-held tester.
+The ABS warning light and VSC warning light blinks at a 0.25-second interval. This check function
+performs deceleration sensor check, yaw rate sensor check, master cylinder pressure sensor check, and
+speed sensor check.
+(cid:1) Display example of the multi-information display (cid:2)
+Normal system code is displayed DTC is displayed
+025CH50P 025CH56P

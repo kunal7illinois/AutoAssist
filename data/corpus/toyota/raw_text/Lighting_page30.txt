@@ -1,0 +1,30 @@
+LI–30
+LIGHTING – LIGHTING SYSTEM
+8 INSPECT AUTOMATIC LIGHT CONTROL SENSOR
+(a) Reconnect the automatic light control sensor connector.
+Automatic Light Control Sensor (b) Connect an oscilloscope to the automatic light control
+sensor connector.
+E11
+CLTE
+CLTS
+E121468E04
+(c) Check the waveform.
+OK
+Tester Specified
+Tool Setting Condition
+Connection Condition
+Ignition switch
+GND E11-3 (CLTE) - 5 V/DIV., 5 ms./ on (IG), light Correct
+A waveform is as
+E11-5 (CLTS) DIV. control switch in
+shown
+AUTO
+HINT:
+If the ambient light becomes brighter, width A becomes
+B113714E01
+narrower.
+NG REPLACE AUTOMATIC LIGHT CONTROL
+SENSOR
+OK
+REPLACE INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY
+LI

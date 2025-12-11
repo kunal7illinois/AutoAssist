@@ -1,0 +1,39 @@
+2. Control System
+∗ SFI system
+The SFI system monitors the engine condition through the signals input from each sensors to the engine control module.
+The control signal is sent to the engine control module TERMINALS #10, #20, #30, #40, #50 and #60 to operate the
+injector (Fuel injection). The SFI system controls the fuel injection by the engine control module in response to the driving
+conditions.
+∗ ESA system
+The ESA system monitors the engine condition through the signals input from each sensors to the engine control module.
+The best ignition timing is decided according to this data and the data memorized in the engine control module. The
+control signal is output to TERMINALS IGT1, IGT2, IGT3, IGT4, IGT5 and IGT6, and these signals control the igniter to
+provide the best ignition timing.
+∗ Heated oxygen sensor heater control system
+The heated oxygen sensor heater control system turns the heater on when the intake air volume is low (Temp. of exhaust
+emission is low), and warms up the heated oxygen sensors to improve their detection performance. The engine control
+module evaluates the signals from each sensors, and outputs current to TERMINALS HT1B or HT2B to control the heater.
+∗ Air fuel ratio sensor heater control system
+The air fuel ratio sensor heater control system turns the heater on when the intake air volume is low (Temp. of exhaust
+emission is low), and warms up the air fuel ratio sensor to improve detection performance of the sensor.
+The engine control module evaluates the signals from each sensor, current is output to TERMINALS HA1A and HA2A,
+controlling the heater.
+∗ ACIS
+The ACIS includes a valve in the bulkhead separating the surge tank into two parts. This valve is opened and closed in
+accordance with the driving conditions to control the intake manifold length in two stages, for increased engine output in all
+ranges from low to high speeds.
+∗ ETCS–i
+The ETCS–i controls the engine output at its optimal level in accordance with the opening of the accelerator pedal, under
+all driving conditions.
+∗ Dual VVT–i
+Dual VVT–i controls the intake and exhaust valve timing to the most appropriate levels in accordance with the engine
+conditions.
+3. Diagnosis System
+When there is a malfunction in the engine control module signal system, the malfunctioning system is recorded in the
+memory. The malfunctioning system can be found by reading the code displayed on the malfunction indicator lamp.
+4. Fail–Safe System
+When a malfunction has occurred in any system, there is a possibility of causing engine trouble due to continued control
+based on that system. In that case, the fail–safe system either controls the system using the data (Standard values)
+recorded in the engine control module memory, or else stops the engine.
+121
+CAMRY (EM0250U)

@@ -1,0 +1,37 @@
+ENGINE AND EMISSION CONTROL 17-27
+AUTO-CRUISE CONTROL
+STEP 6. Check the output circuit voltage at auto-cruise
+control vacuum pump connector A-01 (terminal number 1)
+by backprobing.
+(1) Do not disconnect auto-cruise control vacuum pump
+connector A-01.
+(2) Turn the ignition switch to the "ON" position and the auto-
+cruise control main switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground by
+backprobing.
+A-01 CONNECTOR
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+HARNESS SIDE VIEW
+Q:Is the voltage approximately battery positive voltage?
+1 2 YES : Go to Step 8.
+3 4 NO : Go to Step 7.
+ACX01908AC
+STEP 7. Check auto-cruise control vacuum pump
+connector A-01 and intermediate connector C-06.
+Q:Is any connector damaged?
+CONNECTOR: A-01
+YES : Repair or replace connector.
+RESERVE Refer to GROUP 00E, Harness Connector Inspection
+TANK
+P.00E-2.
+Then check that diagnostic trouble code 14 is not
+output.
+NO : Check the harness wire between stoplight switch
+connector C-03 and auto-cruise control vacuum pump
+connector A-01 for open circuit or damage.
+Then repair if necessary.
+AC001449AB
+Then check that diagnostic trouble code 14 is not
+CONNECTOR: C-06 output.
+AC101196AB
+TSB Revision

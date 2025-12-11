@@ -1,0 +1,39 @@
+BC–170
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+WIRING DIAGRAM
+Brake Actuator Assembly
+- Skid Control ECU
+Rear Speed Sensor RH
+RR+
+2 1 5
+RR-
+19
+BC Rear Speed Sensor LH
+RL+
+2 1 20
+RL-
+6
+C132772E06
+INSPECTION PROCEDURE
+NOTICE:
+When replacing the brake actuator assembly, perform zero point calibration (See page BC-119).
+1 CHECK HARNESS AND CONNECTOR (MOMENTARY INTERRUPTION)
+(a) Using the intelligent tester, check for any momentary
+interruption in the wire harness and connector
+corresponding to a DTC (See page BC-118).
+ABS / VSC:
+Item (Display) Measurement Item / Range (Display) Normal Condition
+RR speed sensor open detection / ERROR or ERROR: Momentary interruption
+RR SPD OPN
+NORMAL NORMAL: Normal
+RL speed sensor open detection / ERROR or ERROR: Momentary interruption
+RL SPD OPN
+NORMAL NORMAL: Normal
+Result
+Condition Proceed to
+There are no momentary interruptions A
+There are momentary interruptions B
+There is a constant open circuit C
+HINT:
+Perform the above inspection before removing the
+sensor and connector.

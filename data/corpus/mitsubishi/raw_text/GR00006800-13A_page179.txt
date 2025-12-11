@@ -1,0 +1,48 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-179
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS:C-60<M/T>,C-54,C-57<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+HEATED OXYGEN
+SENSOR (REAR)
+C-54 C-60
+C-57
+ACX02495AF AK000280BD
+CONNECTOR: C-23
+AK103527AB
+. CIRCUIT OPERATION • Repeat 3 or more times: drive*1, stop*2.
+• A voltage corresponding to the oxygen concen- Drive*1:
+tration in the exhaust gas is sent to the ECM (ter- • Engine speed is higher than 1,500 r/min.
+minal 75) <M/T> or PCM (terminal 73) <A/T> • Volumetric efficiency is higher than 40 per-
+from the output terminal (terminal 3) of the heated cent.
+oxygen sensor (rear). • Vehicle speed is higher than 30 km/h (18.7
+• Terminal 4 of the heated oxygen sensor (rear) is mph).
+grounded with ECM (terminal 92) <M/T> or PCM • A total of more than 10 seconds have
+(terminal 57) <A/T>. elapsed with the above mentioned condi-
+tions, and more than 2 seconds have
+. TECHNICAL DESCRIPTION elapsed with the fuel shut off.
+• The output signal of the heated oxygen sensor Stop*2:
+(front) is compensated by the output signal of the • Vehicle speed is lower than 1.5 km/h (0.9
+heated oxygen sensor (rear). mph).
+• The ECM <M/T> or PCM <A/T> checks for an
+Judgement Criteria
+open circuit in the heated oxygen sensor (rear)
+• Change in the output voltage of the heated oxy-
+output line.
+gen sensor (rear) is lower than 0.312 volt.
+. NOTE: Monitoring stops after fuel has been shut
+DTC SET CONDITIONS
+off for more than 38 seconds.
+Check Conditions
+• Engine coolant temperature is higher than 76°C .
+TROUBLESHOOTING HINTS (The most likely
+(169°F).
+causes for this code to be set are: )
+• The heated oxygen sensor (front) is active. • Heated oxygen sensor (rear) failed.
+• The cumulative volume air flow sensor output fre- • ECM failed. <M/T>
+quency is higher than 4,000 Hz. • PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

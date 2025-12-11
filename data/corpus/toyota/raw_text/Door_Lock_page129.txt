@@ -1,0 +1,57 @@
+DL–119
+DOOR LOCK – SMART KEY SYSTEM
+(4) Make sure that the doors are unlocked when
+touching the touch sensor on the outside door
+handle while the electrical key is being carried.
+If the doors cannot be unlocked, the certification
+ECU orders the main body ECU to perform the
+door unlock operation 4 times at intervals of 0.75
+seconds.
+At this time, the door may not be unlocked
+because the handle is being pulled due to some
+mechanical reasons.
+Be sure to return the door handle to its original
+position.
+If the door cannot be opened by pulling the
+handle, perform the entry unlock operation
+again.
+(5) If the electrical key is too close to the oscillator
+on the outside of the vehicle, the door may not
+be unlocked because the electrical key cannot
+react to the strong wave output from the
+transmitter.
+(6) If the electrical key is within the vehicle exterior
+detection area, the door can be unlocked even
+when a person other than the person carrying
+the electrical key holds the door handle.
+However, the doors other than the door that the
+codes match will not be unlocked.
+(If the electrical key is within the driver side
+door's detection area outside the vehicle, the
+doors will be unlocked when the person carrying
+the electrical key holds the driver side door
+handle. However, if any door handle other than
+that of the driver side door is held, the doors will
+not be unlocked).
+(7) If a door is not opened after the door unlock
+operation, the doors automatically lock after
+approximately 30 seconds.
+(8) If a large amount of water is applied to the door
+handle due to a car wash or heavy rain, the
+electrical key being within the vehicle exterior
+detection area may cause the doors to be
+unlocked.
+DL
+However, the doors will be locked again after
+approximately 30 seconds if a door is not
+opened.
+(9) If the electrical key of the smart key system is
+used while it is being carried with the electrical
+key of another smart key system, the time before
+the entry unlock operation will become longer
+than usual. This is not a malfunction.
+(c) Precautions for the entry lock function:
+(1) When performing the entry lock operation, firmly
+press the lock switch on the outside door handle.
+If pressed too quickly or lightly, the entry lock
+may not operate.

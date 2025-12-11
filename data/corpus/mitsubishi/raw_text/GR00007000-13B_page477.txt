@@ -1,0 +1,35 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-477
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 16. Check for harness damage between vehicle
+speed sensor connector B-39 terminal 2 and ground.
+NOTE: Check harness after checking intermediate connector
+CONNECTOR : B-39
+B-36 If intermediate connector is damaged, repair or replace
+them. Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2. Then go to Step 17.
+Q:Is the harness wire in good condition?
+YES : Check for harness wire between vehicle speed
+sensor connector B-39 terminal 3 and other system
+because of short circuit to ground. Then go to Step
+17.
+AK101597AB NO : Repair it. Then go to Step 17.
+STEP 17. Using scan tool MB991502, check data list item
+24: Vehicle Speed Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine.
+(3) Set scan tool MB991502 to the data reading mode for item
+24, Vehicle Speed Sensor.
+16 PIN • Check that the speedometer and MUT-II display speed
+match when traveling at a vehicle speed of 40 km/h (25
+MB991502
+mph).
+AKX01177AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : The inspection is complete.
+NO : Retry the troubleshooting.
+TSB Revision

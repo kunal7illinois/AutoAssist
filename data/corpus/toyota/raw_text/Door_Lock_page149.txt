@@ -1,0 +1,57 @@
+DL–139
+DOOR LOCK – SMART KEY SYSTEM
+(b) If the luggage compartment is closed with the
+electrical key in it, the alarm will sound and the
+luggage compartment can be opened only when all
+the doors are locked in order to prevent electrical
+key confinement in the vehicle.
+11. ENTRY ILLUMINATION FUNCTION
+When a person carrying the electrical key enters the
+detection area, the door will enter unlock standby mode
+and the front map light will illuminate.
+HINT:
+The entry illumination function operates when the electrical
+key enters the vehicle exterior detection area from out of the
+detection area. If the electrical key remains in the detection
+area for 3 seconds or more, the illumination function does not
+operate.
+12. MEMORY CALL FUNCTION
+When the engine switch is off and the driver side door is
+closed, opening the door will operate the memory call
+function (the door will move to a previously recorded
+driving position). Using the electrical key, memory call,
+electrical key registration and electrical key cancellation
+can be performed.
+13. WARNING FUNCTION
+(a) General
+When any of the situations below occur, the smart
+key system causes the certification ECU to sound
+the buzzer in the combination meter and the
+wireless door lock buzzer, and illuminate the
+combination meter's multi-information display in
+order to alert the driver.
+Warning Function Operation Condition Situation
+Exit warning if shift lever position is not P and power source mode is not off. A
+Exit warning if shift lever position is P and power source mode is not off. B
+Warning if occupant leaves with electrical key. C
+Warning if engine switch is operated while electrical key is outside detection area. D
+Warning if entry lock is operated while electrical key is inside cabin. E
+Warning if electrical key battery is weak. F
+(b) Situation A
+There are 2 patterns for situation A.
+DL
+Pattern 1: In situation A, the door is opened and the
+user tries to leave the vehicle.
+Pattern 2: Then the user holds the electrical key and
+tries to move away from the vehicle.
+In these situations, the following control is
+performed:
+• Pattern 1
+Possible Effects without Warning Sudden vehicle start, vehicle theft, vehicle roll-away
+Certification ECU gives warning when all following conditions are
+satisfied:
+• Shift lever position is not P
+Warning Condition
+• Engine switch is not off
+• Driver side door is opened
+• Vehicle speed is 5 km/h (3.1 mph)

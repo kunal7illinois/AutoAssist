@@ -1,0 +1,51 @@
+13A-496 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS:C-53<M/T>,C-50<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-50 C-53
+AK000280BK
+. TROUBLESHOOTING HINTS (The most likely
+CIRCUIT OPERATION
+• The EMC <M/T> or PCM <A/T> controls genera- causes for this charging system: )
+• Malfunction of the charging system.
+tor out put current by duty-controlling continuity
+• Short circuit in the harness between generator G
+between the generator G terminal (terminal 1)
+terminal and ECM <M/T> or PCM <A/T>.
+and ground.
+• ECM <M/T> or PCM <A/T> failed.
+.
+DIAGNOSIS
+STEP 1. Check the voltage at generator intermediate
+connector B-13 by backprobing.
+(1) Do not disconnect the connector B-13.
+(2) Start the engine and run at idle.
+(3) Measure the voltage between terminal 2 and ground by
+backprobing.
+a. Engine: warming up
+b. Radiator fan: stopped
+1 2 3 4
+c. Headlight switch: OFF to ON
+5 6 7 8
+d. Rear defogger switch: OFF to ON
+B-13 CONNECTOR
+e. Stoplight switch: OFF to ON
+HARNESS
+SIDE VIEW • Voltage rises by 0.2 − 3.5 volts.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+AK000365AB Q:Is the voltage normal?
+YES : Replace the generator. Then confirm that the
+malfunction symptom is eliminated.
+NO : Go to Step 2.
+STEP 2. Check connector B-13 at generator intermediate
+connector for damage.
+Q:Is the connector in good condition?
+CONNECTOR:B-13
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK101752AB
+TSB Revision

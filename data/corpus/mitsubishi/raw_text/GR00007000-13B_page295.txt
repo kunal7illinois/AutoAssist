@@ -1,0 +1,32 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-295
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the injector.
+(1) Disconnect the injector connector B-02 <No. 2 cylinder> or
+CONNECTORS : B-02, B-06, B-25
+B-06 <No. 4 cylinder> or B-25 <No. 6 cylinder>.
+B-02 B-06 B-25
+AK000213AB
+(2) Measure the resistance between injector side connector
+terminal 1 and 2.
+INJECTOR SIDE Standard value: 13 − 16 ohm [at 20°C (68°F)]
+CONNECTOR
+Q:Is the resistance standard value?
+1 2 YES : Go to Step 4.
+NO : Replace the injector. Then go to Step 10.
+AK000241AB
+STEP 4. Check the power supply voltage at injector
+connector.
+(1) Disconnect connector B-02 <No. 2 cylinder> or B-06 <No.
+4 cylinder> or B-25 <No. 6 cylinder> and measure at the
+harness side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+HARNESS SIDE
+CONNECTOR Q:Is the voltage normal?
+YES : Go to Step 6.
+2 1
+NO : Go to Step 5.
+AAKK000000332233AC
+TSB Revision

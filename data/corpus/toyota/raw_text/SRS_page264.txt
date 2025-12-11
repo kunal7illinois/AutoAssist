@@ -1,0 +1,39 @@
+RS–262
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+4 CHECK WIRE HARNESS (OPEN)
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery.
+(c) Using a service wire, connect terminals 2 and 1 of
+connector C.
+D A
+NOTICE:
+C B
+Front Seat Inner Belt Do not forcibly insert a service wire into the
+Assembly RH Occupant terminals of the connector when connecting.
+Classification ECU (d) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+for Power seat
+Connector C Connector B
+T7 (*1) T10 (*1) Tester connection Condition Specified condition
+O3 (*2) O4 (*2) T10-9 (BSW) - T10-5 Always Below 1 Ω
+(BGND)
+BSW BGND
+for Manual seat
+1 2
+Tester connection Condition Specified condition
+O4-9 (BSW) - O4-5
+*1: for Power Seat Always Below 1 Ω
+(BGND)
+Service Wire *2: for Manual Seat
+C123748E01 Result
+Result Proceed to
+NG (for Power seat) A
+NG (for Manual seat) B
+RS
+OK C
+A REPAIR OR REPLACE FRONT SEAT WIRE
+RH
+B REPAIR OR REPLACE FLOOR WIRE NO. 2
+C

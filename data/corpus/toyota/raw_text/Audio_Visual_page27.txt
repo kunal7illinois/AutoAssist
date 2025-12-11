@@ -1,0 +1,38 @@
+AV–27
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+7. DTC CLEAR/RECHECK
+(a) Clearing All DTC Memory (when clearing all the
+memory of the DTCs previously detected).
+(1) When the preset switch "5" is pressed for 2
+seconds or more during "Service Check Mode",
+the DTCs for all components are cleared. ("CLr"
+is displayed at this time.)
+HINT:
+• A beep sound is emitted once when the DTC
+memory is completely cleared.
+• When the DTC memory for all the
+components is cleared, only the component
+codes (physical address) are displayed.
+5 • After the DTC memory is cleared, the
+"Service Check Mode" is restored.
+E129786E02 (b) Clearing Individual DTC Memory (when clearing the
+memory of the DTC previously detected
+individually).
+(1) When the preset switch "5" is pressed for 2
+seconds or more during "Detailed Information
+Mode 1" or "Detailed Information Mode 2", the
+DTCs for the target component are cleared.
+HINT:
+• A beep sound is emitted once when the DTC
+memory is completely cleared.
+• When the DTC memory is cleared, only the
+component code (physical address) is
+displayed for the target component.
+• After the DTC memory is cleared, the
+"Service Check Mode" is restored.
+• To check DTCs, press the preset switch "1"
+and perform the system check again.
+(c) Press the preset switch "1" to perform the service
+check again, and check that no DTCs are displayed
+for all the component codes (physical address).
+AV

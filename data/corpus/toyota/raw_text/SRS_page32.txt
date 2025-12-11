@@ -1,0 +1,51 @@
+RS–32
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+TERMINALS OF ECU
+1. CENTER AIRBAG SENSOR ASSEMBLY
+E30 N1 O1
+C123353E04
+Terminal No. Terminal Symbol Destination
+Front passenger airbag assembly (Front passenger
+E30-1 P2+
+side squib 2nd step)
+Front passenger airbag assembly (Front passenger
+E30-2 P2-
+side squib 2nd step)
+Front passenger airbag assembly (Front passenger
+E30-3 P-
+side squib)
+Front passenger airbag assembly (Front passenger
+E30-4 P+
+side squib)
+E30-5 D+ Steering pad (Driver side squib)
+RS
+E30-6 D- Steering pad (Driver side squib)
+E30-7 D2- Steering pad (Driver side squib 2nd step)
+E30-8 D2+ Steering pad (Driver side squib 2nd step)
+Driver side knee airbag assembly (Driver side knee
+E30-9 DK+
+airbag squib)
+Driver side knee airbag assembly (Driver side knee
+E30-10 DK-
+airbag squib)
+E30-13 CANH CAN Communication line
+E30-16 SIL DLC3
+E30-17 P-AB Clock assembly (Passenger airbag ON/OFF indicator)
+E30-21 IG2 IGN fuse
+E30-22 CANL CAN Communication line
+E30-23 PAON Clock assembly (Passenger airbag ON/OFF indicator)
+E30-25 E1 Ground
+E30-26 E2 Ground
+E30-27 -SR Front airbag sensor RH
+E30-28 -SL Front airbag sensor LH
+E30-29 +SR Front airbag sensor RH
+E30-30 +SL Front airbag sensor LH
+Front seat outer belt assembly LH (Driver side front
+N1-1 PD-
+pretensioner squib)
+Front seat outer belt assembly LH (Driver side front
+N1-2 PD+
+pretensioner squib)
+Curtain shield airbag assembly LH (Driver side curtain
+N1-6 ICD-
+shield squib)

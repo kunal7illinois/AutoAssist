@@ -1,0 +1,58 @@
+CHASSIS ELECTRICAL 54A-231
+REMOTE CONTROLLED RADIO SWITCH
+STEP 7. Check the clock spring continuity.
+(1) Remove the clock spring (Refer to GROUP 52B, Air Bag
+Module and Clock Spring P.52B-144).
+(2) Measure the resistance at clock spring connectors C-96
+CONNECTORS: C-84, C-96
+and C-84.
+CIRCUIT TO CONNECTOR SPECIFIED
+BE (TERMINAL) TO BE CONDITION
+MEASURED CHECKED
+DEVICE SIDE
+C-84 Power supply C-96 (terminal 5) − C-84 Less than 2
+circuit (terminal 2) ohm
+1 2 3 4 5 6 C-96
+C-96 Ground circuit C-96 (terminal 4) − C-84 less than 2
+C-84
+(terminal 3) ohm
+1 2 3 4 5
+AC106475AK Q:Is the clock spring normal?
+YES : Go to Step 8.
+NO : Replace the clock spring.
+STEP 8. Check the clock spring connector C-96 and switch
+(RH) connector C-97 for damage.
+Q:Are clock spring connector C-96 and switch (RH)
+CONNECTORS: C-96, C-97
+connector C-97 in good condition?
+YES : Go to step 9.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. The
+DEVICE SIDE
+remote controlled radio switch should work normally.
+C-97
+1 2
+C-96
+C-96
+C-97
+1 2 3 4 5
+AC106475AG
+STEP 9. Check the wiring harness between clock spring
+connector C-96 (terminals 4 and 5) and switch (RH)
+connector C-97 (terminals 1 and 2).
+Q:Is the wiring harness between clock spring connector
+CONNECTORS: C-96, C-97
+C-96 (terminals 4 and 5) and switch (RH) connector C-97
+(terminals 1 and 2) in good condition?
+YES : Replace the audio system.
+NO : Repair the wiring harness. The speedometer should
+DEVICE SIDE
+work normally.
+C-97
+1 2
+C-96
+C-96
+C-97
+1 2 3 4 5
+AC106475AG
+TSB Revision

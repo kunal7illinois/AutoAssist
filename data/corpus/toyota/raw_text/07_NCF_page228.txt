@@ -1,0 +1,44 @@
+CH-64 CHASSIS - U660E AUTOMATIC TRANSAXLE
+Transmission Control Switch and Park/Neutral Position Switch
+The ECT ECU and ECM use these switches to detect the shift lever position.
+(cid:3) The park/neutral position switch sends the P, R, N and D position signals to both the ECM and ECT ECU.
+The ECM transmits signals to the combination meter for the shift position indicator light (P, R, N and
+D) in response to the signal it receives from the switch.
+(cid:3) The transmission control switch is installed inside the shift lever assembly. Switch terminal S is used to
+detect whether the shift lever is in the D position or S mode position, and terminals SFTU and SFTD are
+used to detect the operating conditions of the shift lever (front [+ position] or rear [- position]) if S mode
+is selected. By transmitting signals to the ECM, the transmission control switch turns on both the shift
+range indicator light and S mode indicator light when the shift lever is moved to the S mode position,
+and indicates the selected range position through shift range indicator light.
+(cid:1) Wiring Diagram (cid:2)
+NSW STA
+From
+Starter Cut Relay*1 B L To Starter Relay
+Ignition Switch*2
+DL
+NL
+IG1 RB
+Relay RL
+PL
+Park/Neutral
+Position Switch
+P R N D R D
+IG1 IG S S Shift Position
+Relay Signal
+SFTU SFTU
+ECM ECT ECU
+Local
+SFTD SFTD CAN
+Transmission
+Control Switch
+Shift Position
+CAN
+Signal
+(CAN No.1 Bus)
+Combination Meter
+S Mode Indicator Light
+Shift Position Indicator Light
+Shift Range Indicator Light
+01YCH25Y
+*1: Models with smart key system
+*2: Models without smart key system

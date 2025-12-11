@@ -1,0 +1,54 @@
+BC–145
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+4. SYMPTOM SIMULATION
+HINT:
+The most difficult case in troubleshooting is when no
+symptoms occur. In such cases, a thorough customer
+problem analysis must be carried out. Then the same or
+similar conditions and environment in which the problem
+occurred in the customer's vehicle should be
+reproduced. No matter how experienced or skilled a
+technician may be, if he proceeds to troubleshoot without
+confirming the problem symptoms, he will likely overlook
+something important and make a wrong guess at some
+points in the repair operation. This leads to a standstill in
+troubleshooting.
+(a) Vibration method: When vibration seems to be the
+Vibrate Slightly
+major cause.
+HINT:
+Perform the simulation method only during the
+primary check period (for approximately 6 seconds
+BC
+after the ignition switch is on (IG)).
+(1) Slightly vibrate the part of the sensor considered
+to be the problem cause with your fingers and
+check whether the malfunction occurs.
+(2) Slightly shake the connector vertically and
+horizontally.
+HINT:
+Shaking the relays too strongly may result in
+Shake Slightly
+open relays.
+(3) Slightly shake the wire harness vertically and
+horizontally. The connector joint and fulcrum of
+the vibration are the major areas to be checked
+thoroughly.
+Vibrate Slightly
+D025083E14
+DTC CHECK / CLEAR
+1. DTC CHECK/CLEAR (INTELLIGENT TESTER)
+(a) Check the DTC.
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch on (IG).
+(3) Read the DTCs following the prompts on the
+tester screen.
+(b) Clear the DTC.
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch on (IG).
+(3) Operate the intelligent tester to clear the codes.
+HINT:
+DLC3 Refer to the intelligent tester operator's manual
+Intelligent Tester
+for further details.
+C131977E06

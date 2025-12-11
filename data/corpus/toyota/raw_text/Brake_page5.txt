@@ -1,0 +1,25 @@
+BC–5
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+SYSTEM DIAGRAM
+Brake Actuator Assembly (Skid Control ECU with Actuator)
+Motor Relay Motor
+Speed Sensor
+(On Each Wheel)
+Solenoid Relay Solenoid
+BC
+Skid Control
+ECU
+Stop Light Switch
+Combination Meter Assembly
+Speedometer
+ABS Warning Light
+Parking Brake
+Switch
+BRAKE Warning Light
+Main Body ECU ECM
+CAN Communication System
+C131987E01
+Transmitting ECU Receiving ECU Signals Communication method
+• ABS warning light signal
+Skid control ECU Combination meter CAN communication system
+• BRAKE warning light signal

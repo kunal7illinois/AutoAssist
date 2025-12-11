@@ -1,0 +1,60 @@
+BC–124
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+(5) Set the intelligent tester to Test Mode (select
+"TEST MODE").
+HINT:
+Refer to the intelligent tester operator's manual
+for further details.
+(6) After the Test Mode has been entered, keep the
+vehicle stationary on a level surface for 2
+seconds or more.
+C106532
+(7) Check that the VSC warning light blinks (models
+TEST MODE
+without multi information display) or "CHECK
+VSC SYSTEM" is displayed on the multi
+Blinking Pattern:
+information display (models with multi
+information display) (Test Mode).
+0.13 sec. 0.13 sec. HINT:
+ON • The SLIP indicator light remains on during
+BC Test Mode because TRAC is prohibited.
+• If the VSC warning light does not blink
+OFF
+(models without multi information display) or
+"CHECK VSC SYSTEM" is not displayed on
+the multi information display (models with
+Display:
+multi information display), perform zero point
+calibration again.
+• The zero point calibration is performed only
+once after the system enters the Test Mode.
+• Calibration cannot be performed again until
+the stored data is cleared.
+(8) Turn the ignition switch off and disconnect the
+intelligent tester.
+3. OBTAIN ZERO POINT OF YAW RATE AND
+C135802E01
+ACCELERATION SENSOR (SST CHECK WIRE)
+NOTICE:
+• While obtaining the zero point, keep the vehicle
+stationary and do not vibrate, tilt, move, or shake
+it. (Do not start the engine.)
+• Be sure to perform the procedure on a level
+surface (with an inclination of less than 1 degree).
+(a) Clear the zero point calibration data.
+DLC3:
+CG (1) Turn the ignition switch off.
+(2) Check that the steering wheel is centered and
+move the shift lever to the P position (A/T) or
+apply the parking brake (M/T).
+(3) Turn the ignition switch on (IG).
+(4) The warning light and indicator light come on for
+3 seconds to indicate that the initial check is
+completed.
+TS
+(5) Using SST, connect and disconnect terminals
+G022987E07
+TS and CG of the DLC3 4 times or more within 8
+seconds.
+SST 09843-18040

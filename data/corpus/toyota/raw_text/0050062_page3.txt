@@ -1,0 +1,38 @@
+ES–382
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2 CHECK COMMUNICATION BETWEEN INTELLIGENT TESTER AND ECM
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and tester ON.
+(c) Check the communication between the tester and ECM.
+Result
+Result Proceed To
+Communication is possible A
+Communication is not possible B
+A GO TO MIL CIRCUIT
+ES
+B
+3 CHECK MIL (THROTTLE POSITION SENSOR)
+(a) Disconnect the B3 throttle body connector.
+(b) Turn the ignition switch ON.
+(c) Check the MIL.
+Result
+Result Proceed To
+MIL illuminates A
+MIL does not illuminate B
+(d) Reconnect the throttle body connector.
+A REPLACE THROTTLE BODY ASSEMBLY
+B
+4 CHECK MIL (ACCELERATOR PEDAL POSITION SENSOR)
+(a) Disconnect the A4 accelerator pedal position sensor
+connector.
+(b) Turn the ignition switch ON.
+(c) Check the MIL.
+Result
+Result Proceed To
+MIL illuminates A
+MIL does not illuminate B
+(d) Reconnect the accelerator pedal position sensor
+connector.
+A REPLACE ACCELERATOR PEDAL
+POSITION SENSOR
+B

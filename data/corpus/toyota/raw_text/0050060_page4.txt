@@ -1,0 +1,48 @@
+ES–343
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+EVAP System Circuit:
+Throttle Valve Air Cleaner
+Soak Timer
+Intake Manifold ECM
+Canister Pump Module
+Purge VSV
+Canister Filter
+Fuel Cap
+Canister
+Refueling Valve
+ES
+Restrictor (0.08 inch)
+Cut-off Valve
+Roll-Over Valve
+Fuel Tank
+A122570E02
+NOTICE:
+In this vehicle's EVAP system, turning ON the vent valve does not seal off the EVAP system. To
+check for leaks in the EVAP system, disconnect the air inlet vent hose and apply pressure from
+the atmospheric side of the canister.
+While the engine is running, if a predetermined condition (closed-loop, etc.) is met, the purge VSV is
+opened by the ECM and stored fuel vapors in the canister are purged into the intake manifold. The ECM
+changes the duty cycle ratio of the purge VSV to control purge flow volume.
+The purge flow volume is also determined by the intake manifold pressure. Atmospheric pressure is
+allowed into the canister through the vent valve to ensure that the purge flow is maintained when the
+negative pressure (vacuum) is applied to the canister.
+The following two monitors run to confirm the appropriate EVAP system operation.
+1. Key-off monitor
+This monitor checks for EVAP (Evaporative Emission) system leaks and canister pump module
+malfunctions. The monitor starts 5 hours* after the ignition switch is turned OFF. At least 5 hours are
+required for the fuel to cool down to stabilize the EVAP pressure, thus making the EVAP system
+monitor more accurate.
+The leak detection pump creates negative pressure (vacuum) in the EVAP system and the pressure
+is measured. Finally, the ECM monitors for leaks from the EVAP system, and malfunctions in both the
+canister pump module and purge VSV, based on the EVAP pressure.
+HINT:
+*: If the engine coolant temperature is not below 35°C (95°F) 5 hours after the ignition switch is
+turned OFF, the monitor check starts 2 hours later. If it is still not below 35°C (95°F) 7 hours after the
+ignition switch is turned OFF, the monitor check starts 2.5 hours later.
+2. Purge flow monitor
+The purge flow monitor consists of the two monitors. The 1st monitor is conducted every time and the
+2nd monitor is activated if necessary.
+• The 1st monitor
+While the engine is running and the purge VSV (Vacuum Switching Valve) is ON (open), the ECM
+monitors the purge flow by measuring the EVAP pressure change. If negative pressure is not
+created, the ECM begins the 2nd monitor.

@@ -1,0 +1,45 @@
+35B-46 ANTI-LOCK BRAKING SYSTEM (ABS)
+ON-VEHICLE SERVICE
+WHEEL SPEED SENSOR OUTPUT VOLTAGE
+MEASUREMENT
+M1352001600225
+Required Special Tool:
+MB991219: Inspection Harness
+1. Lift up the vehicle and release the parking brake.
+2. Disconnect the ABS-ECU connector, and then use special
+ABS-ECU CONNECTOR tool MB991219 to measure the output voltage at the
+(HARNESS SIDE)
+harness side connector.
+TERMINAL NO.
+Front left Rear right Front right Rear left
+6 1 4 8
+7 3 5 9
+AC000948AB
+3. Manually turn the wheel to be measured 1/2 to 1 turn/
+second. Measure the output voltage with a voltmeter or
+oscilloscope.
+NOTE: Check the connection of the sensor harness and
+connector before using the oscilloscope.
+Output voltage:
+• Minimal voltmeter reading: 42 mV
+• Maximum voltmeter reading: 300 mV
+• Minimal oscilloscope reading: 120 mV
+• Maximum oscilloscope reading: 600 mV
+Probable causes of low output voltage
+• Wheel speed sensor pole piece-to-ABS rotor clearance too
+large
+• Faulty wheel speed sensor
+4. To observe the waveform with an oscilloscope:
+• Front Wheels: Shift into low gear and drive the wheels.
+• Rear Wheels: Turn the wheels manually at a constant
+speed
+WHEN TURNED MANUALLY NOTE: The output waveform is low when the wheel speed is
+low. Similarly, it will be higher as the wheel speed increases.
+Waveform may also be observed by driving the vehicle.
+[10.0 ms/DIV 1 V/DIV]
+IN LOW GEAR, IDLING
+[5 − 6 km/h (3 − 4 mph)]
+[10.0 ms/DIV 1 V/DIV]
+AC000949AB
+.
+TSB Revision

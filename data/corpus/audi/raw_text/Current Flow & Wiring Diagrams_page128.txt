@@ -1,0 +1,34 @@
+Audi TT No. 11 / 4
+Current Flow Diagram
+Electronically controlled damping control unit, rear left and
+right vehicle level sender, rear left and right shock absorber
+damper adjustment valve
+G76 Rear left vehicle level sender
+G77 Rear right vehicle level sender
+J250 Electronically controlled damping control unit
+N338 Rear left shock absorber damper adjustment valve
+N339 Rear right shock absorber damping adjustment valve
+T47a 47-pin connector, on electronically controlled damping control
+unit
+J250
+T47a T47a/4 T47a/33 T47a T47a/27 T47a T47a/5 T47a/19 T47a T47a
+/12 /43 /29 /41 /42
+0,35 0,35 0,35 1,0 1,0 0,35 0,35 0,35 1,0 1,0
+ge/gr ge/br br li br/li ge/ws ge/ro br/ws ws/sw bl/sw
+0,75 0,75 0,75 0,75
+gn sw gn sw
+1 2 3 1 2 1 2 3 1 2
+ws = white
+G76 N338 G77 N339
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+29 30 31 32 33 34 35 36 37 38 39 40 41 42 or = orange
+8J0-011040806
+rs = pink
+Edition 09.2009

@@ -1,0 +1,14 @@
+Wheels and tyres
+Function diagram
+381_057
+Positive J793 Tyre pressure monitor control unit 2
+J104 ESP control unit
+E492 Tyre pressure monitor display button
+Earth
+A Signal from wheel speed sensor, rear right
+Powertrain CAN bus B Signal from wheel speed sensor, rear left
+C Signal from wheel speed sensor, front right
+D Signal from wheel speed sensor, front left
+Input signal
+Output signal
+42

@@ -1,0 +1,51 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-553
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+MUT-II SCAN ITEM INSPECTION ITEM INSPECTION REQUIREMENT NORMAL INSPECTION REFERENCE
+TOOL NO. CONDITION PROCEDURE PAGE
+DISPLAY NO.
+VAF 12*6 Volume air flow • Engine Engine is idling 1.7 − 4.2 gm/ − −
+SENSOR sensor (mass coolant s
+air flow rate) temperature 2,500 r/min 7.9 − 12.1
+*5 : 80 − 95°C
+gm/s
+(176 −
+203°F) Engine is Frequency
+• Lights, revved (or air flow
+volume)
+electric
+increases in
+cooling fan
+response to
+and all
+revving
+accessories
+: OFF
+• Transaxle:
+neutral (A/T:
+"P" range)
+VSS 24*6 Vehicle speed Drive at 40 km/h (25 mph). Approximately Code No. P.13A-381
+sensor <M/T> 40 km/h (25 P0500
+mph)
+ACTUATOR TEST REFERENCE TABLE
+M1131152500064
+MUT-II ITEM INSPECTION DRIVE INSPECTION REQUIREMENT NORMAL INSPECTION REFERENCE
+SCAN NO. ITEM CONTENTS CONDITION PROCEDURE PAGE
+TOOL NO.
+DISPLAY
+BASIC 17* Basic Set to ignition • Engine: idling 5° BTDC − −
+TIMING ignition timing • Connect timing light
+timing adjustment
+mode
+EGR 10 EGR Solenoid Ignition switch: "ON" Clicks when Code No. P.13A-
+SOLEN solenoid valve turns solenoid P0403 259
+OID from OFF to valve is
+ON. driven.
+EVAP 08 Evaporative Solenoid Ignition switch: "ON" Clicks when Code No. P.13A-
+PURGE emission valve turns solenoid P0443 283
+SOL purge from OFF to valve is
+solenoid ON. driven.
+EVAP 29 Evaporative Solenoid Ignition switch: "ON" Clicks when Code No. P.13A-
+VENT emission valve turns solenoid P0446 291
+SOL ventilation from OFF to valve is
+solenoid ON. driven.
+TSB Revision

@@ -1,0 +1,50 @@
+ES–321
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+C1
+Park/Neutral Position Switch
+ECM
+26
+DL
+C55 D
+7
+27
+NL
+C55 N
+8
+RB
+To GAUGE 25
+1
+No. 1 Fuse C55 R
+RL 2
+24 ES
+C55 P
+PL 3
+62
+To ST C55 NSW
+9 L B 4
+Relay
+48
+A55 STA
+E31
+Transmission Control Switch
+25
+To ECU IG A55 S
+3 IG S 7
+No. 2 Fuse
+A140667E01
+INSPECTION PROCEDURE
+HINT:
+According to the DATA LIST displayed by the intelligent tester, you can read the value of the switch,
+sensor, actuator and so on without parts removal. Reading the DATA LIST as the first step of
+troubleshooting is one method to shorten labor time.
+NOTICE:
+In the table below, the values listed under "Normal Condition" are reference values. Do not depend
+solely on these reference values when deciding whether a part is faulty or not.
+1. READ DATA LIST
+(a) Turn the ignition switch off.
+(b) Connect the intelligent tester together with the CAN VIM (controller area network vehicle
+interface module) to the DLC3.
+(c) Turn the ignition switch on (IG).
+(d) Turn on the tester.
+(e) Select the item "DIAGNOSIS / ENHANCED OBD II / DATA LIST".

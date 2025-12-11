@@ -1,0 +1,18 @@
+ES–281
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK
+4 REPLACE ECM
+(a) Replace the ECM (See page ES-518).
+NEXT
+5 CHECK WHETHER DTC OUTPUT RECURS (AFTER REPAIR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) (do not start the engine).
+(c) Turn the tester on.
+(d) Wait for at least 60 seconds. ES
+(e) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DTC INFO / PENDING CODES.
+HINT:
+If no pending DTCs are displayed on the tester, the
+repair has been successfully completed.
+NEXT
+COMPLETED

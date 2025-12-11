@@ -1,0 +1,41 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-485
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 12. Check for harness damage between MFI relay
+connector A-18X terminal 4 and idle air control motor
+connector B-34 terminal 2, 5.
+Q:Is the harness wire in good condition?
+CONNECTOR: A-18X
+YES : Go to Step 13.
+MFI RELAY NO : Repair it. Then go to Step 14.
+AK101363AB
+CONNECTOR:B-34
+IDLE AIR
+CONTROL
+MOTOR
+ACX02523AI
+STEP 13. Check for harness damage between idle air
+control motor connector B-34 and ECM connector C-51
+<M/T> or PCM connector C-52 <A/T>.
+a. Idle air control motor connector B-34 terminal 1 and ECM
+CONNECTOR:B-34
+connector C-51 terminal 14 <M/T> or PCM connector C-52
+terminal 14 <A/T>.
+b. Idle air control motor connector B-34 terminal 3 and ECM
+connector C-51 terminal 28 <M/T> or PCM connector C-52
+terminal 28 <A/T>.
+c. Idle air control motor connector B-34 terminal 4 and ECM
+connector C-51 terminal 15 <M/T> or PCM connector C-52
+IDLE AIR
+CONTROL terminal 15 <A/T>.
+MOTOR
+ACX02523AI d. Idle air control motor connector B-34 terminal 6 and ECM
+connector C-51 terminal 29 <M/T> or PCM connector C-52
+CONNECTOR : C-51<M/T>, C-52<A/T>
+terminal 29 <A/T>.
+Q:Is the harness wire in good condition?
+PCM<A/T> ECM<M/T>
+YES : Replace the ECM or PCM. Then go to Step 14.
+NO : Repair it. Then go to Step 14.
+C-52 C-51
+AK000225AJ
+TSB Revision

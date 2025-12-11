@@ -1,0 +1,52 @@
+AX–166
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE FLUID
+(b) Temporarily install the refill plug to avoid fluid
+splash.
+4. CIRCULATE AUTOMATIC TRANSAXLE FLUID
+(a) Allow the engine to idle with the air conditioning
+OFF.
+AX (b) Move the shift lever through entire gear range to
+circulate the fluid.
+5. CHECK FLUID TEMPERATURE
+NOTICE:
+The fluid temperature should be less than 40°C
+(104°F) before beginning the fluid temperature
+check.
+(a) With the intelligent tester:
+Intelligent Tester
+(1) Connect the intelligent tester to the DLC3.
+(2) Select the tester menus: OBD/MOBD,
+ENGINE, DATA LIST and A/T.
+(3) Check A/T OIL TEMP.
+(4) Allow the engine to idle until the fluid
+temperature reaches 39°C (102°F).
+DLC3
+CAN VIM
+C131977E05
+(b) Without the intelligent tester (Using D shift
+DLC3:
+indicator):
+CG
+(1) Connect terminals CG (4) and TC (13) of the
+DLC3 using SST.
+1 2 3 4 5 6 7 8
+SST 09843-18040
+(2) Move the shift lever back and forth between N
+9 10111213141516 and D at 1.5 seconds interval for 6 seconds.
+(3) The D shift indicator on the combination meter
+comes on for 2 seconds when the fluid
+TC
+temperature is within the appropriate
+C101492E04
+temperature range.
+(4) The D shift indicator will come on again when
+the fluid temperature reaches 40°C (104°F)
+and will blink when it exceeds 45°C (113°F).
+(5) After confirming that the D shift indicator turns
+off, move the shift lever to the P position and
+remove the SST from terminals CG and TC.
+6. CHECK TRANSAXLE FLUID LEVEL
+NOTICE:
+The fluid temperature must be between 40°C (104°F)
+and 45°C (113°F) to accurately check the fluid level.
+(a) Remove the overflow plug with the engine idling.

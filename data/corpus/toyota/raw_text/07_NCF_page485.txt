@@ -1,0 +1,41 @@
+BODY ELECTRICAL - SRS AIRBAG SYSTEM BE-151
+4. System Operation
+General
+This system makes the following judgments: unoccupied judgment, child seat judgment, child judgment,
+and adult judgment. In addition, it performs an initial check to check the circuit of the AIRBAG ON/OFF
+indicator lights when the ignition*1/engine*2 switch is ON.
+(cid:1) The occupant classification ECU constantly monitors the weight of the front passenger seat, and makes
+a judgment in accordance with the signals from the occupant classification sensor and the state of the seat
+belt buckle switch, regardless of the position of the ignition*1/engine*2 switch.
+(cid:1) The occupant classification ECU contains criteria value A to judge whether the seat is being occupied
+by a child or a child seat in accordance with the signals from the four occupant classification sensors and
+seat belt buckle switch, and criteria value B to judge whether the occupant is an adult or child (with child
+seat).
+(cid:1) The occupant classification ECU makes an occupied or unoccupied judgment in accordance with the
+signals from the seat belt buckle switch.
+Unoccupied Judgment
+(cid:1) The occupant classification ECU makes an unoccupied judgment when the judgment value is lower than
+criteria value A and the seat belt buckle switch is OFF.
+(cid:1) If the ignition*1/engine*2 switch is turned ON in this state, the system performs an initial check, and does
+not illuminate the AIRBAG ON/OFF indicator lights. Then, the system prohibits the deployment of the
+front passenger airbag, front passenger side airbag, and the front passenger seat belt pretensioner, and
+does not blink the seat belt reminder light.
+*1: Models without smart key system
+*2: Models with smart key system
+Occupant Classification ECU
+Unoccupied: Judgment Value < A
+OFF Signal
+Front Passenger
+AIRBAG OFF
+Airbag
+Indicator Light
+Airbag
+Front Passenger
+Sensor AIRBAG ON
+Side Airbag
+Assembly Indicator Light
+Front Passenger Seat
+Belt Pretensioner
+Front Passenger Seat
+Belt Reminder Light
+D13N55

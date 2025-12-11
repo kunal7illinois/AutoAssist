@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+This code is caused by an electrical circuit problem and
+(cid:1)
+cannot be caused by a mechanical problem in the
+transmission.
+1. Turn the ignition switch to ON (II).
+2. Clear the DTC with the HDS.
+3. Check for proper output shaft (countershaft) speed sensor installation (see
+OUTPUT SHAFT (COUNTERSHAFT) SPEED SENSOR
+REPLACEMENT ).
+4. Raise the front of the vehicle, make sure it is securely supported, and allow the
+front wheels to rotate freely. Or raise the vehicle on a lift.
+5. Test-drive the vehicle with the shift lever in D and the engine speed 2,000 rpm
+or higher, for at least 10 seconds. Slow down and stop the wheels.
+6. Monitor the OBD STATUS for P0721 or P0722 in the DTCs MENU with the
+HDS.
+Does the HDS indicate FAILED?
+YES -Go to step 7.
+NO -If the HDS indicates PASSED, intermittent failure, the system is OK at
+this time. Check for poor connections or loose terminals between the output
+shaft (countershaft) speed sensor and the PCM. If the HDS indicates NOT
+COMPLETED, go to step 5.
+7. Turn the ignition switch to LOCK (0).
+8. Jump the SCS line with the HDS.
+9. Disconnect PCM connector C (44P).
+10. Check for continuity between PCM connector terminal C40 and body ground,
+and between terminal C44 and body ground.

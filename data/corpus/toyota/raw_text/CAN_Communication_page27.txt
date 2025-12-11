@@ -1,0 +1,34 @@
+CA–27
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+DIAGNOSIS SYSTEM
+1. BUS CHECK
+(a) Select "BUS CHECK" from the "OBD/MOBD
+MENU" screen.
+HINT:
+The ECUs and sensors that are properly connected
+to the CAN communication system can be displayed
+using the intelligent tester via the CAN VIM.
+C113760
+(b) Press "ENTER" on the intelligent tester.
+CA
+C113761
+(c) The screen displays the ECUs and sensors that are
+properly connected to the CAN communication
+system.
+HINT:
+Properly connected ECUs or sensors that are not
+displayed on the screen indicate that a
+communication stop is occuring in the system,
+sensor, or ECU which is not displayed.
+2. CHECK FOR INSTALLED SYSTEMS (ECUS AND
+SENSORS) THAT USE CAN COMMUNICATION
+(a) Systems (ECUs, sensors) that use CAN
+communication vary depending on the vehicle's
+optional equipment. Check which systems (ECUs,
+sensors) are installed on the vehicle.
+C113762
+ECU/Sensor name Check method
+ABS/VSC/TRC Installed on all vehicles
+STEERING SENSOR With VSC system
+YAW / DECELERAT With VSC system
+ENGINE Installed on all vehicles

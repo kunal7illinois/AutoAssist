@@ -1,0 +1,48 @@
+13A-464 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+INSPECTION PROCEDURE 10: Idle Speed Is Low (Improper Idle Speed).
+. .
+COMMENT TROUBLESHOOTING HINTS (The most likely
+• In cases such as the above, the cause is proba- causes for this case: )
+bly that the intake air volume during idle is too • Malfunction of the IAC system.
+small. • Malfunction of the throttle body.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC output?
+MB991502 YES : Refer to, Diagnostic Trouble Code Chart P.13A-22.
+AKX01177AB NO : Go to Step 2.
+STEP 2. Check the idle air control (IAC) motor operation
+sound.
+(1) Check that the engine coolant temperature is 20°C (68°F)
+CONNECTOR:B-34
+or below.
+IDLE AIR
+CONTROL MOTOR NOTE: If necessary, you can disconnect the engine coolant
+temperature sensor connector and connect the harness
+side of the connector to another engine coolant temperature
+sensor that is at 20°C (68°F) or below.
+(2) Check that the operation sound of the IAC motor can be
+heard after the ignition is switched to the "ON" position (but
+without starting the engine).
+• An operation sound should be heard.
+ACX02519AI
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Did you hear the operation sound?
+YES : Go to Step 3.
+NO : Refer to, DTC P0506 − Idle Control System RPM
+Lower Than Expected P.13A-390, DTC P0507 − Idle
+Control System RPM Higher Than Expected P.13A-
+399.
+TSB Revision

@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Connector Terminals No. 9 And No. 10
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there battery voltage?
+YES -Go to step 37.
+NO -Repair open in the wire between the transmission range switch and PCM
+connector terminal B16, then go to step 30.
+30. Reconnect all connectors.
+31. Turn the ignition switch to ON (II).
+32. Clear the DTC with the HDS.
+33. Start the engine, run the vehicle with the shift lever in D until the vehicle speed
+reaches 30 mph (48 km/h), then slow down and stop the wheels.
+34. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 33, then go
+to step 35.
+35. Check for DTCs with the HDS.
+Is DTC P0706 indicated?
+YES -Check for poor connections or loose terminals between the transmission
+range switch and the PCM, then go to step 1.
+NO -Go to step 36.
+36. Monitor the OBD STATUS for P0706 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+35, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals between the transmission range switch and the PCM, then go to step
+1. If the HDS indicates NOT COMPLETED, go to step 33.

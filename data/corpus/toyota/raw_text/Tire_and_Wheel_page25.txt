@@ -1,0 +1,37 @@
+TW–25
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+PROBLEM SYMPTOMS TABLE
+HINT:
+• Use the table below to help determine the cause of the
+problem symptom. The potential causes of the symptoms
+are listed in order of probability in the "Suspected Area"
+column of table. Check each symptom by checking the
+suspected areas in the order they are listed. Replace parts
+as necessary.
+• Inspect the fuses and relays related to this system before
+inspecting the suspected areas below.
+TIRE PRESSURE WARNING SYSTEM:
+Symptom Suspected area See page
+1. Tire pressure warning valve and transmitter TW-77
+2. Tire pressure warning antenna and receiver TW-73
+3. Power source circuit TW-67
+Tire pressure warning system does not operate.
+4. TC and CG terminal circuit TW-69 TW
+5. Combination meter assembly ME-15
+6. Tire pressure warning ECU TW-82
+1. Power source circuit TW-82
+DTC check cannot be done. 2. TC and CG terminal circuit TW-69
+3. Tire pressure warning ECU TW-82
+1. Tire pressure check TW-3
+2. Initialization TW-18
+Tire pressure warning light malfunctions (Remains on). 3. Tire pressure warning ECU connector poorly connected TW-24
+4. Tire pressure warning light circuit TW-65
+5. Tire pressure warning ECU TW-82
+1. Check DTC TW-28
+2. Tc and CG terminal circuit TW-69
+Tire pressure warning light malfunctions (Blinking).
+3. Test mode (SIGNAL CHECK) TW-20
+4. Tire pressure warning ECU TW-82
+1. Test mode (SIGNAL CHECK) TW-20
+Initialization cannot be done. 2. Tire pressure reset switch TW-85
+3. Tire pressure warning ECU TW-82

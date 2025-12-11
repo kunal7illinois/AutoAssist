@@ -1,0 +1,46 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-591
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Using scan tool MB991502, check data list.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Check the following items in the data list. Refer to, Data List
+Reference Table P.13B-640.
+16 PIN a. Item 21: Engine Coolant Temperature Sensor.
+b. Item 13: Intake Air Temperature Sensor.
+MB991502
+AKX01177AB c. Item 25: Barometric pressure Sensor.
+d. Item 69: Right Bank Heated Oxygen Sensor (rear).
+e. Item 39: Right Bank Heated Oxygen Sensor (front).
+f. Item 59: Left Bank Heated Oxygen Sensor (rear).
+g. Item 11: Left Bank Heated Oxygen Sensor (front).
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Are they operating properly?
+YES : Go to Step 4.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+STEP 4. Using scan tool MB991502, check data list.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items of the data list. Refer to, Data List
+Reference Table P.13B-640.
+a. Item 39: Right Bank Heated Oxygen Sensor (front).
+b. Item 11: Left Bank Heated Oxygen Sensor (front).
+• Voltage should fluctuate between 0 − 0.4 volt and 0.6 −
+1.0 volt while idling after the engine has been warmed.
+16 PIN (3) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 Q:Is the sensor operating properly?
+AKX01177AB
+YES : Replace the heated oxygen sensor (front). Then
+confirm that the malfunction symptom is eliminated. If
+not resolved, go to step 6.
+NO : Go to Step 5.
+STEP 5. Check the fuel pressure.
+Refer to, Fuel Pressure Test P.13B-680.
+Q:Is the fuel pressure normal?
+YES : Go to Step 6.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+TSB Revision

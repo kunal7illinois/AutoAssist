@@ -1,0 +1,38 @@
+BC–300
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+2. TERMINAL INSPECTION
+(a) Disconnect the connector and measure the voltage
+and resistance according to the value(s) in the table
+below.
+Skid Control ECU (Harness Side Connector Front View):
+A60
+BC
+C137467E01
+HINT:
+Voltage cannot be measured with the connector
+connected to the skid control ECU, as the connector
+is watertight.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+GND2 (A60-1) - Body Actuator pump motor
+W-B - Body ground Always Below 1 Ω
+ground ground
++BM (A60-2) - Body
+B - Body ground Power supply for motor Always 10 to 14 V
+ground
++BS (A60-3) - Body
+L - Body ground Power supply for solenoid Always 10 to 14 V
+ground
+GND1 (A60-4) - Body
+W-B - Body ground Skid control ECU ground Always Below 1 Ω
+ground
+BZ (A60-23) - Body Buzzer warning light Ignition switch on (IG),
+R - Body ground 6 to 10 V
+ground output Buzzer does not sound
+IG1 (A60-28) - Body
+P - Body ground IG1 power supply Ignition switch on (IG) 10 to 14 V
+ground
+Stop light switch ON
+STP1 (A60-30) - Body
+P - Body ground Stop light switch input →OFF (Brake pedal 5 to 14 V → Below 3 V
+ground
+depressed → released)

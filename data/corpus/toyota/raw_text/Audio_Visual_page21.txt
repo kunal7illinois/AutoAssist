@@ -1,0 +1,69 @@
+AV–21
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+6. CHECK DTC
+HINT:
+Illustrations may differ from the actual vehicle depending
+on the device settings and options. Therefore, some
+detailed areas may not be shown exactly the same as on
+the actual vehicle.
+(a) Reference:
+In the system check mode, the system check and
+the diagnostic memory check are performed, and
+the check results are displayed in ascending order
+of the component codes (physical address).
+Terms Meaning
+Component code Three-digit code (in hexadecimal) given to each device comprising AVC-LAN. Corresponding
+(Physical address) to its function, individual symbol is provided.
+Two-digit code (in hexadecimal) given to each function and device unit in each device
+Logical address
+comprising AVC-LAN.
+(b) Service check result display
+Display Previous term Meaning Action to be taken
+No DTCs are detected in both "System Check Mode" and "Diagnostic
+good Good (normal) -
+Memory Mode".
+Check the power source
+circuit and the
+The system recognized the component when it was registered, but the communication circuit of
+nCon No connection
+component gives no response to the "Diagnostic Mode ON Request". the component indicated
+by the component code
+(physical address).
+Go to the detailed
+One or more DTCs for "Exchange" are detected in either "System information mode to check
+ECHn Exchange
+Check Mode" or "Diagnostic Memory Mode". the trouble area referring
+to the DTC list.
+Go to the detailed
+When no DTCs are detected for "Exchange", one or more DTCs for
+information mode to check
+CHEC Check "Check" are detected in either "System Check Mode" or "Diagnostic
+the trouble area referring
+Memory Mode".
+to the DTC list.
+Old DTC application is identified and DTC is detected in either
+OLd Old version -
+"System Check Mode" or "Diagnostic Memory Mode".
+Check the power source
+circuit and the
+The device gives no response to any one of "System Check Mode ON
+communication circuit of
+nrES No response Request", "System Check Result Request", and "Diagnostic Memory
+the component indicated
+Request".
+by the component code
+(physical address).
+(c) Device name and physical address
+Physical address No. Name
+190 Radio receiver
+440 Stereo component amplifier
+AV
+19D "Bluetooth" handsfree module
+(d) Service check mode
+(1) Press the "SEEK TRACK" switch to see the
+check result of each component.
+(2) The component code (physical address) is
+displayed first, and then the check result follows.
+HINT:
+• If all check results are "good", the system
+judges that no DTC exists.

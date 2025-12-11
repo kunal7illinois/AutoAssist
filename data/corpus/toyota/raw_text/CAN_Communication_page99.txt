@@ -1,0 +1,50 @@
+CA–99
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+(1) Reconnect all of the connectors to the No. 1 CAN J/
+C, except for the one that was disconnected last
+(the bus wire that is shorted to B+). Check that the
+resistance shown on the tester is normal (6 kΩ or
+more) to confirm that there is a short to B+ in one
+bus wire only.
+HINT:
+• The connectors connected to the No. 1 CAN J/C
+can be distinguished according to the color of the
+communication bus wires and the shape of the
+connectors.
+• Reconnecting the connectors to non-specified
+positions on the No. 1 CAN J/C does not affect
+system operation. However, it is preferred to
+reconnect the connectors to their specified
+positions to avoid negative effects on the wiring
+such as tension on the wiring harnesses, and to
+make future maintenance easier.
+OK REPLACE NO. 1 CAN J/C
+CA
+NG
+4 RECONNECT CONNECTOR
+(a) Reconnect the connector of the bus wire that is shorted
+to B+ to the No. 1 CAN J/C (the connector that caused
+the bus wire resistance to change to 6 kΩ or more when
+it was disconnected).
+NEXT
+5 CHECK FOR SHORT TO B+ IN CAN BUS WIRE
+(a) Disconnect the connector that includes terminals CANH
+DLC3: E10 and CANL from the ECU (or sensor) to which the bus
+CANH
+wire shorted to B+ is connected. (See page CA-10)
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Value
+BAT
+E10-6 (CANH) - E10-16 (BAT) Ignition switch off 6 kΩ or higher
+CANL E10-14 (CANL) - E10-16
+Ignition switch off 6 kΩ or higher
+C126231E12 (BAT)
+HINT:
+If the resistance changes to 6 kΩ or higher when the
+connector is disconnected from the ECU (or sensor),
+there may be a short in the ECU (or sensor).
+NG REPAIR OR REPLACE CORRESPONDING
+ECU OR SENSOR BUS LINE OR
+CONNECTOR

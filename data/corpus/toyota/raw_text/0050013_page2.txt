@@ -1,0 +1,39 @@
+E S – 7 0 2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+The ECM optimizes the valve timing using the VVT system to control the intake camshaft. The VVT
+system includes the ECM, the OCV and the VVT controller. The ECM sends a target duty-cycle control
+signal to the OCV. This control signal regulates the oil pressure supplied to the VVT controller. The VVT
+controller can advance or retard the intake camshaft.
+After the ECM sends the target duty-cycle control signal to the OCV, the ECM monitors the OCV current
+to establish an actual duty-cycle. The ECM determines the existence of a malfunction and sets the DTC
+when the actual duty-cycle ratio varies from the target duty-cycle ratio.
+MONITOR STRATEGY
+Related DTCs P0010: VVT OCV range check
+Required Sensors/Components (Main) VVT OCV
+ES
+Required Sensors/Components (Related) -
+Frequency of Operation Continuous
+Duration 1 second
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+All of following conditions met -
+Starter OFF
+Ignition switch ON
+Time after ignition switch OFF to ON 0.5 seconds or more
+TYPICAL MALFUNCTION THRESHOLDS
+One of following conditions met -
+A. All of following conditions met -
+Battery voltage 11 to 13 V
+Target duty ratio Less than 70 %
+Output signal duty ratio 100 %
+B. All of following conditions met -
+Battery voltage 13 V or more
+Target duty ratio Less than 80 %
+Output signal duty ratio 100 %
+C. Both of following conditions met -
+Current cut status Not cut
+Output signal duty ratio 3 % or less
+COMPONENT OPERATING RANGE
+VVT OCV duty ratio 3 to 100 %

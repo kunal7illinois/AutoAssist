@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Gauges - Civic (All Except Hybrid)
+NO - The battery needs a recharge or replacement, or the charging system
+needs to repaired.
+9. Turn the ignition switch ON (II).
+10. With the gauge control module (tach) 36P connector still connected, check for
+voltage between the body ground and the gauge control module (tach) 36P
+connector No. 17 terminal.
+Is the voltage above 7.5 V?
+YES - Replace the gauge control module (tach).
+NO - Repair an open or high resistance in the BRN wire between the ignition
+switch and the gauge control module (tach).
+DTC B1183: GAUGE CONTROL MODULE LOST COMMUNICATION WITH THE EPS CONTROL
+UNIT (EPS MESSAGE)
+1. Clear the DTCs with the HDS.
+2. Turn the ignition switch OFF, and then back ON (II).
+3. Wait for 6 seconds or more.
+4. Check for DTCs with the HDS.
+Is DTC B1183 indicated?
+YES - Go to step 5.
+NO - Intermittent failure. The gauge control module (tach) is OK at this time.
+Check for loose or poor connections.
+5. Check for DTCs with the HDS.
+Are DTCs B1168, B1169, B1178, and B1187 and indicated at the same time?
+YES - Troubleshoot DTC B1178.
+NO - Go to step 6.

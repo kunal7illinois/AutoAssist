@@ -1,0 +1,35 @@
+CHASSIS - BRAKE CH-101
+8. System Operation
+ABS with EBD Operation
+Based on the signals received from the 4 wheel speed sensors, the skid control ECU calculates each wheel
+speed and deceleration, and checks wheel slipping conditions. And according to the slipping condition, the
+skid control ECU controls the pressure holding valve and pressure reduction valve in order to adjust the fluid
+pressure of the each wheel cylinder in the following 3 modes: pressure reduction, pressure holding, and
+pressure increase modes.
+Not Activated Normal Braking — —
+Activated Increase Mode Holding Mode Reduction Mode
+Port A
+Pressure
+Holding Valve
+Hydraulic
+To
+Circuit Reservoir
+Port B and Pump
+Pressure
+Reduction Valve To Wheel From Wheel
+Cylinder Cylinder
+169CH54 169CH55 169CH56
+Pressure Holding Valve
+OFF (Open) ON (Close) (cid:1)
+(Port A)
+Pressure Reduction Valve
+OFF (Close) (cid:1) ON (Open)
+(Port B)
+Wheel Cylinder Pressure Increase Hold Reduction
+Initial Check
+After the ignition is turned ON, and the vehicle attains an approximate speed of 15 km/h (9 mph) or more
+only at first time, the skid control ECU performs the initial check.
+The functions of each solenoid valve and pump motor in the brake actuator are checked in order.
+9. CAN (Controller Area Network)
+CAN communication is used between the skid control ECU, combination meter, main body ECU and DLC3.
+For details of CAN communication, see page BE-8.

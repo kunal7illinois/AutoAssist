@@ -1,0 +1,42 @@
+ES–72
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2 INSPECT CAMSHAFT TIMING OIL CONTROL VALVE ASSEMBLY
+(a) Disconnect the B17 OCV connector.
+(b) Measure the resistance between the terminals of the
+OCV.
+Standard resistance:
+6.9 to 7.9 Ω at 20°C (68°F)
+(c) Reconnect the OCV connector.
+NG REPLACE CAMSHAFT TIMING OIL
+CONTROL VALVE ASSEMBLY
+ES
+A095415E03
+OK
+3 CHECK HARNESS AND CONNECTOR (OCV - ECM)
+(a) Disconnect the B17 OCV connector.
+Wire Harness Side:
+(b) Disconnect the B30 ECM connector.
+(c) Measure the resistance of the wire harness side
+OCV Connector
+connectors.
+Standard resistance (check for open)
+Tester Connections Specified Conditions
+B17
+B17-1 (OC1+) - B30-100 (OC1+) Below 1 Ω
+B17-2 (OC1-) - B30-123 (OC1-) Below 1 Ω
+OC1+ OC1-
+Front View Standard resistance (check for short)
+Tester Connections Specified Conditions
+B17-1 (OC1+) or B30-100 (OC1+) -
+B30 ECM Connector 10 kΩ or higher
+Body ground
+B17-2 (OC1-) or B30-123 (OC1-) -
+10 kΩ or higher
+Body ground
+(d) Reconnect the OCV connector.
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+OC1+ Front View OC1- CONNECTOR
+A106380E03
+OK
+REPLACE ECM

@@ -1,0 +1,38 @@
+ES–157
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK HARNESS AND CONNECTOR (ENGINE COOLANT TEMPERATURE SENSOR -
+ECM)
+(a) Disconnect the C4 ECT sensor connector.
+Wire Harness Side Front View: (b) Disconnect the C55 ECM connector.
+(c) Measure the resistance between the terminals.
+ECT Sensor Connector Standard resistance
+Tester Connection Specified Condition
+THW (C55-79) - C4-2 Below 1 Ω
+C4 ETHW (C55-78) - C4-1 Below 1 Ω
+(d) Reconnect the ECM connector.
+(e) Reconnect the ECT connector.
+ES
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+C55 ECM Connector
+ETHW THW
+A135019E01
+OK
+REPLACE ECM (See page ES-518)
+5 CHECK ENGINE COOLANT TEMPERATURE SENSOR (CHECK FOR SHORT IN SENSOR)
+(a) Disconnect the C4 ECT sensor connector.
+C4
+(b) Connect the intelligent tester to the DLC3.
+ECT Sensor
+ECM
+(c) Turn the ignition switch on (IG).
+(d) Turn the tester on.
+(e) Enter the following menus: DIAGNOSIS / ENHANCED
+THW OBD II / DATA LIST / PRIMARY / COOLANT TEMP.
+(f) Read the value displayed on the tester.
+ETHW Standard:
+-40°C (-40°F)
+(g) Reconnect the ECT sensor connector.
+A084869E59
+OK REPLACE ENGINE COOLANT
+TEMPERATURE SENSOR (See page ES-499)

@@ -1,0 +1,45 @@
+54A-176 CHASSIS ELECTRICAL
+RADIO AND TAPE PLAYER
+CIRCUIT OPERATION TECHNICAL DESCRIPTION (COMMENT)
+The multi-center display and the radio, tape player, The cause is probably a faulty multi-center display
+CD player and CD auto changer communicate with communication circuit.
+each other. The multi-center display shows the infor-
+mation concerning the radio, tape player, CD player . TROUBLESHOOTING HINTS
+and CD auto changer on the screen, based on that • Damaged wiring harness or connector.
+communication. • Malfunction of the multi-center display.
+• Malfunction of the radio, tape player, CD player
+.
+and CD auto changer.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness set
+STEP 1. Check the time display function of the multi-center
+display.
+Q:Dose the time display function of the multi-center
+display operate normally?
+YES : Go to Step 5.
+NO : Go to Step 2.
+STEP 2. Check multi-center display connector C-09 and
+radio, tape player, CD player and CD auto changer
+connector C-21 for damage.
+Q:Are multi-center display connector C-09 and radio, tape
+CONNECTORS : C-09, C-21
+player, CD player and CD auto changer connector C-21
+in good condition?
+C-09
+YES : Go to Step 3.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. The
+multi-center display should display the information
+C-21
+concerning the audio system correctly.
+DEVICE SIDE
+C-09
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+C-21
+1 2 3 4
+5 6 7 8
+AC106558AC
+TSB Revision

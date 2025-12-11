@@ -1,0 +1,29 @@
+DL–54
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+2 INSPECT MAIN BODY ECU (TSW TERMINAL)
+(a) Turn the ignition switch off.
+Wire Harness Side:
+(b) Disconnect the ECU connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+TSW
+Tester Connection
+Condition Specified Condition
+(Symbols)
+E6-2 (TSW) - Body Luggage compartment door
+10 kΩ or higher
+ground lock cylinder LOCK
+E6-2 (TSW) - Body Luggage compartment door
+Below 1 Ω
+E6 ground lock cylinder OPEN
+Main Body ECU E6-2 (TSW) - Body Luggage compartment door
+10 kΩ or higher
+ground lock cylinder UNLOCK
+NG Go to step 3
+B137943E02
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+DL

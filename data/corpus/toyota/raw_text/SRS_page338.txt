@@ -1,0 +1,22 @@
+RS–336
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+Open in Occupant Classification ECU Battery
+DTC B1794
+Positive Line
+DESCRIPTION
+This circuit consists of the occupant classification ECU and the power source circuit (battery, fuse, and
+wire harness).
+DTC B1794 is recorded when a malfunction is detected in the occupant classification ECU or the power
+source circuit.
+HINT:
+If DTC B1794 is output after switching the ignition switch off-on (IG)-off 50 times in a row when a
+malfunction occurs in the power circuit for the occupant classification system, the DTC is output again.
+This DTC is output when a malfunction is detected even after being cleared unless the normal system
+code is input.
+DTC No. DTC Detecting Condition Trouble Area
+• The ignition switch is turned from off to on (IG), • Battery
+hold if for 10 seconds or more, and back to off • ECU-B Fuse
+B1794 again 50 times in a row when a malfunction occurs • Floor wire No. 2
+in the circuit for the occupant classification system. • Front seat wire RH (for Power seat)
+• Occupant classification ECU malfunction • Occupant classification ECU
+RS

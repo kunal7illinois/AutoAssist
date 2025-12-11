@@ -1,0 +1,41 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-213
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check the left bank heated oxygen sensor (front).
+(1) Disconnect left bank heated oxygen sensor (front)
+connector B-24 and connect test harness special tool,
+LEFT BANK MD998464, to the connector on the left bank heated oxygen
+HEATED OXYGEN
+(front) sensor side.
+SENSOR (FRONT)
+ACX02489AI
+CONNECTOR: B-24
+AK103509AB
+(2) Measure the resistance between heated oxygen sensor
+HEATED
+connector terminal 1 (red clip) and terminal 3 (blue clip).
+OXYGEN
+SENSOR Standard value: 4.5 − 8.0 ohm [at 20°C (68°F)]
+EQUIPMENT
+RED Q:Is the resistance normal?
+SIDE
+CONNECTOR YES : Go to Step 3.
+BLUE NO : Replace the left bank heated oxygen sensor (front).
+Then go to Step 12.
+AKX01624AC
+MD998464
+STEP 3. Check the power supply voltage at left bank
+heated oxygen sensor (front) harness side connector B-24.
+(1) Disconnect the connector B-24 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+B-24 HARNESS
+SIDE CONNECTOR Q:Is the voltage normal?
+YES : Go to Step 5.
+2 1
+NO : Go to Step 4.
+4 3
+AKX01498AF
+TSB Revision

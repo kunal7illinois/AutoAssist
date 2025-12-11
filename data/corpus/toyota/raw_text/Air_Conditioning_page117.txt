@@ -1,0 +1,22 @@
+AC–117
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+IG Power Source Circuit
+DESCRIPTION
+The main power source is supplied to the A/C amplifier when the ignition switch is turned on (IG).
+The power source is used for operating the A/C amplifier and servo motor, etc.
+WIRING DIAGRAM
+A/C Amplifier
+IG1 Relay
+A/C No. 2
+1
+From Battery
+E38 IG+
+From Ignition Switch
+14
+E38 GND
+AC
+From Main Body ECU
+E124493E01
+INSPECTION PROCEDURE
+HINT:
+Start the engine before inspection. Check the IG1 relay or battery if the engine does not start.

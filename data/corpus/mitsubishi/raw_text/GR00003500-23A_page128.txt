@@ -1,0 +1,31 @@
+23A-128 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 19. Check harness for damage between output shaft
+speed sensor harness side connector B-38 terminal 3 and
+junction block connector C-112 terminal 12.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-38
+YES : Go to Step 20.
+NO : Repair it.
+B-38
+AC001837AI
+CONNECTOR: C-112
+JUNCTION BLOCK
+(FRONT VIEW)
+C-112
+AC106612AB
+STEP 20. Replace the transfer drive gear or driven gear.
+(1) Replace the transfer drive gear driven gear. Refer to
+GROUP 23B, Transaxle P.23B-10, Output Shaft P.23B-68.
+(2) Test drive the vehicle.
+(3) Check for A/T diagnostic trouble code.
+Q:Is the A/T diagnostic trouble code number "23" output?
+TRANSFER
+DRIVE GEAR YES : The A/T diagnostic trouble code may have set due to
+external radio frequency (RFI), possibility caused by
+TRANSFER
+cellular phone activity, after market components
+DRIVEN GEAR
+installed on the vehicle, etc.
+AC002221AC NO : The inspection is complete.
+TSB Revision

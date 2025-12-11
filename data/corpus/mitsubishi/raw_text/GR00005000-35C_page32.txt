@@ -1,0 +1,45 @@
+35C-32 TRACTION CONTROL SYSTEM (TCL)
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+CONNECTOR: A-02 CONNECTORS: C-41, C-42 COMBINATION
+METER
+C-42
+C-41
+AC001985AD AC004428AB
+CONNECTOR: C-94 CONNECTORS: C-108, C-111
+CONNECTOR
+JUNCTION BLOCK
+BLOCK (RH)
+(FRONT VIEW)
+C-108
+C-111
+AC003604AB AC102831AC
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+The cause is probably hydraulic unit (integrated with
+• The ABS-ECU controls the illumination of the
+ABS-ECU) malfunction.
+TCL warning light by turning the transistor in the
+ECU "ON" and "OFF." .
+• The ABS-ECU illuminates the TCL warning light TROUBLESHOOTING HINTS (The most likely
+for three seconds on start-up <ignition key: "ON" causes for this case:)
+(with engine stopped)>. When the ABS-ECU • Damaged wiring harness or connector
+completes the self-check, it turns off the light. • Malfunction of the hydraulic unit (integrated with
+ABS-ECU)
+.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+.
+STEP 1. Check the TCL warning light circuit at the ABS-
+ECU connector A-02.
+(1) Disconnect the ABS-ECU connector A-02.
+CONNECTOR: A-02
+(2) Turn the ignition switch to the "ON" position.
+Q:Does the TCL warning light illuminate?
+YES : Go to Step 2.
+NO : Replace the hydraulic unit (integrated with ABS-ECU)
+(Refer to GROUP 35B, Hydraulic Unit P.35B-52.) and
+then go to Step 3.
+AC001985AD
+TSB Revision

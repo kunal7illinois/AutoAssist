@@ -1,0 +1,26 @@
+DL–178
+DOOR LOCK – SMART KEY SYSTEM
+Entry Lock Switch Circuit
+DESCRIPTION
+The entry lock switches (trigger switch) are built into the outside handles of the LH/RH door. The
+certification ECU detects the conditions of the each lock switch.
+WIRING DIAGRAM
+E58
+Certification ECU
+X1
+X2 Entry Lock Switch (Front Door LH)
+Electrical Key Oscillator (Front Door LH)
+TRG+ TSW1
+3 3
+TRG- TRG-
+9 1
+W1
+W2
+Entry Lock Switch (Front Door RH)
+Electrical Key Oscillator (Front Door RH)
+TRG+ TSW2
+3 4
+DL
+TRG- TRG-
+9 1
+B112471E04

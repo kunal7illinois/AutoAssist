@@ -1,0 +1,40 @@
+13B-338 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 5 − Exhaust Gas Recirculation (EGR) System
+Monitor P.00E-2.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0401 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0403: Exhaust Gas Recirculation Control Circuit
+AK101614
+TSB Revision
+-DER
+ETIHW
+-DER
+-DER
+ETIHW
+ETIHW
+1 2
+DER
+DER-EULB
+EGR Solenoid Circuit
+BATTERY
+1 2
+A-18X
+1 2 MFI
+3 4 RELAY
+4 3
+1
+B-31
+EGR SOLENOID
+2
+C-51 <M/T>, C-52 <A/T> 6
+(MU803784)
+ENGINE CONTROL
+1 2 3 4 5 6 7 8 MODULE (ECM) <M/T>
+9 10 11121314151617181920212223 OR
+24 25 26272829 30313233 3435 POWERTRAIN CONTROL
+MODULE (PCM) <A/T>

@@ -1,0 +1,34 @@
+13B-172 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS : C-58, C-62<M/T>,
+RIGHT BANK C-55, C-59<A/T>
+HEATED OXYGEN
+SENSOR (REAR) PCM<A/T> ECM<M/T>
+C-55 C-59 C-58 C-62
+ACX02493AJ AK000225AK
+CONNECTOR: B-28
+AAKK110033550088AB
+. .
+CIRCUIT OPERATION DTC SET CONDITIONS
+• A voltage corresponding to the oxygen concen-
+Check Conditions
+tration in the exhaust gas is sent to the ECM (ter-
+• 2 seconds or more have passed since the start-
+minal 74) <M/T> or PCM (terminal 74) <A/T>
+ing sequence was completed.
+from the output terminal (terminal 4) of the right
+bank heated oxygen sensor (rear). Judgment Criteria
+• Terminal 2 of the right bank heated oxygen sen- • Right bank heated oxygen sensor (rear) output
+sor (rear) is grounded with ECM (terminal 49) voltage has continued to be 1.2 volts or higher for
+<M/T> or PCM (terminal 57) <A/T>. 2 seconds.
+. TECHNICAL DESCRIPTION . TROUBLESHOOTING HINTS (The most likely
+• The output signal of the right bank heated oxygen causes for this code to be set are: )
+sensor (front) is compensated by the output sig- • Short circuit in right bank heated oxygen sensor
+nal of the right bank heated oxygen sensor (rear). (rear) ground line.
+• The ECM <M/T> or PCM <A/T> checks for an • ECM failed. <M/T>
+open circuit in the right bank heated oxygen sen- • PCM failed. <A/T>
+sor (rear) output line.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

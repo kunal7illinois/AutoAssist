@@ -1,0 +1,58 @@
+AC–50
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+(c) Select the item below in the DATA LIST, and read the
+display on the intelligent tester.
+DATA LIST / AIR CONDITIONER:
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Room temperature sensor / min.:
+ROOM TEMP Actual cabin temperature is
+-6.5°C (20.3°F), max.: 57.25°C -
+(Room temperature sensor) displayed
+(135.05°F)
+OK:
+The display is as specified in the normal condition
+column.
+Result
+Result Proceed to
+NG A
+OK (When troubleshooting according to the PROBLEM SYMPTOMS TABLE) B
+OK (When troubleshooting according to the DTC) C
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+C REPLACE AIR CONDITIONING AMPLIFIER
+A
+2 INSPECT AIR CONDITIONING AMPLIFIER
+AC
+(a) Remove the A/C amplifier with the connectors still
+Air Conditioning Amplifier
+connected.
+Connector Wire Harness View:
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+table below.
+E38
+Standard voltage
+Tester Connection Condition Specified Condition
+E38-29 (TR) - E38-34 Ignition switch on (IG)
+1.35 to 1.75 V
+(SG-1) at 25°C (77°F)
+E38-29 (TR) - E38-34 Ignition switch on (IG)
+0.9 to 1.2 V
+(SG-1) at 40°C (104°F)
+SG-1 TR
+HINT:
+As the temperature increases, the voltage decreases.
+Result
+E124471E02 Result Proceed to
+NG A
+OK (When troubleshooting according to the
+B
+PROBLEM SYMPTOMS TABLE)
+OK (When troubleshooting according to the
+C
+DTC)
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+C REPLACE AIR CONDITIONING AMPLIFIER

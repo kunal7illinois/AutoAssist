@@ -1,0 +1,47 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+3.5.5 Fuel Pressure Sensor, Checking
+Observe all safety precautions:
+⇒ “1.1 Safety Precautions”, page 2
+View clean working conditions:
+⇒ “1.2 Clean Working Conditions”, page 3
+Use only gold-plated terminals when servicing any component
+with gold-plated electrical harness connector terminals.
+For wiring diagrams, component locations, and connector views,
+Refer to the applicable wiring diagram.
+Special tools and workshop equipment required
+♦ multimeter
+♦ Wiring diagram.
+Test requirements
+• The Fuel Pump (FP) Control Module -J538- OK.
+• The Engine Control Module (ECM) - J623- fuses OK.
+• The fuel filter OK.
+• The battery voltage at least 12.5 V.
+• All electrical consumers switched off (radiator fan must NOT
+run during test).
+• A/C switched off.
+• The fuel tank at least 1/4 filled.
+• The ignition switched off.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the engine cover with air filter. Refer to appropriate
+service manual.
+Checking voltage
+– Disconnect the Fuel Pressure Sensor -G247- electrical har‐
+ness connector.
+– Switch the ignition on.
+– Using a multimeter, check the Fuel Pressure Sensor -G247-
+electrical harness connector terminals for voltage.
+Fuel Pressure Sensor -G247- elec‐ Specified value
+trical harness connector terminals
+1 to Battery positive (+) Battery voltage
+3 to Ground (GND) about 5 V
+– Switch the ignition off.
+If the specified value was obtained:
+– Replace the Fuel Pressure Sensor -G247- . Refer to appro‐
+priate service manual.
+If the specified value was not obtained:
+119
+3. Diagnosis and Testing

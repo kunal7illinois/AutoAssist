@@ -1,0 +1,43 @@
+BC–232
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+HINT:
+If the CAN communication system DTC and the relevant
+sensor DTCs are output simultaneously, troubleshoot the
+relevant sensor DTCs (for ABS and VSC) after the CAN
+communication system returns to normal.
+Result
+Condition Proceed to
+DTC (CAN communication system DTC) is output A
+DTC (ABS and/or VSC DTC) is output B
+DTC is not output C
+B REPAIR CIRCUIT INDICATED BY OUTPUT
+DTC (See page BC-151)
+C USE SIMULATION METHOD TO CHECK
+A
+BC
+INSPECT CAN COMMUNICATION SYSTEM
+4 REPAIR OR REPLACE HARNESS OR CONNECTOR
+(a) Turn the ignition switch off.
+(b) Repair or replace the harness or connector.
+(c) Check for any momentary interruption between the skid
+control ECU and each sensor or ECM (See page BC-
+118).
+(d) Check that there is no momentary interruption.
+NEXT
+5 RECONFIRM DTC
+(a) Turn the ignition switch off.
+(b) Clear the DTC (See page BC-141).
+(c) Start the engine.
+(d) Drive the vehicle and turn the steering wheel to the right
+and left at a speed of 9 mph (15 km/h) or more.
+(e) Check that no CAN communication system DTC is
+output.
+(f) If ABS and VSC DTCs are output, record them.
+Result
+Condition Proceed to
+DTC output for the CAN communication system A
+No DTC is output (ABS and/or VSC DTC is output) B
+No DTC is output (No ABS and/or VSC DTC is output) C
+HINT:
+The CAN communication system must be normal when
+repairing each sensor DTC (for ABS and VSC).

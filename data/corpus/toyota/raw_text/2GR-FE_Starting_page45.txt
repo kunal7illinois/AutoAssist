@@ -1,0 +1,37 @@
+ST–45
+2GR-FE STARTING – SMART KEY SYSTEM
+DTC B2274 ACC Monitor Malfunction
+DESCRIPTION
+This DTC is output when there is a problem in the ACCD output circuit, which is from the inside of the
+main body ECU to the ACC relay.
+HINT:
+When the main body ECU is replaced with a new one and the negative (-) battery terminal is connected,
+the power source mode becomes the IG-ON mode. When the battery is removed and reinstalled, the
+power source mode that was selected when the battery was removed is restored.
+After the main body ECU is replaced, perform the registration procedures for the engine immobiliser
+system (See page EI-8).
+DTC No. DTC Detection Condition Trouble Area
+• Main body ECU
+ACC relay actuation circuit inside main body ECU or
+B2274 • ACC relay
+other related circuit is malfunctioning
+• Wire harness or connector
+WIRING DIAGRAM
+Instrument Panel J/B Main Body ECU
+ACC Relay
+10 3 22
+1 2
+IF II E7 ACCD
+PWR OUTLET
+1
+3 5
+IA
+ECU-ACC
+To Each System
+From Battery
+RADIO No. 2
+B137974E01
+ST
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.

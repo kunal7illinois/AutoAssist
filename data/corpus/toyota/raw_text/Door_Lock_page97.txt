@@ -1,0 +1,40 @@
+DL–94
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/ Smart Key System)
+4 CHECK HARNESS AND CONNECTOR (CERTIFICATION ECU - DOOR CONTROL
+RECEIVER)
+(a) Disconnect the O18 door control receiver connector.
+Connector Wire Harness View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Certification ECU Standard resistance
+Symbol
+Condition Specified Condition
+(Tester Connection)
+RC0 (E58-29) - +5 (O18-
+Always Below 1 Ω
+2)
+NG REPAIR OR REPLACE HARNESS OR
+E58
+CONNECTOR
+RC0
+Door Control
+Receiver O18
++5
+B139429E01
+OK
+5 CHECK HARNESS AND CONNECTOR (BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+Connector Wire Harness View: table below.
+Standard resistance
+Symbol
+Condition Specified Condition
+(Tester Connection)
+GND (O18-6) - Body
+Door Control Receiver Always Below 1 Ω
+ground
+O18 NG REPAIR OR REPLACE HARNESS OR
+DL CONNECTOR
+GND
+B139462E01
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

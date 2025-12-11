@@ -1,0 +1,71 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0133 O2 Circuit – Check the • lower value of • O2S ceramic 60 Sec. • Once
+Slow Re‐ Heated Oxy‐ both area ratios temp. front > 720 °
+sponse gen Sensor R2L and L2L in C and > 45 Sec. • 2 DCY
+Bank 1, (HO2S) - case of sym‐ since operation
+Sensor 1 G39- . Refer metric fault < readiness
+to 0.3
+⇒ • Lambda control,
+“3.5.20 Heat‐ • AND Closed loop
+ed Oxygen
+• lower value of • Engine load, 13.99
+Sensor,
+both counters - 45%
+Checking”,
+for area ratio
+page 152 R2L and L2R • Engine speed,
+>= 6 1200 - 3000 RPM
+• engine load 20 ...
+70%
+• ECT >= 60 °C
+• exhaust system
+lag time calcula‐
+tion (Streckenzeit‐
+konstante) 0.2 Sec
+• load gradient
+threshold <= 3%
+• gradient of ex‐
+haust system lag
+time calculation
+(Streckenzeitkon‐
+stante) <=0.05
+Sec
+• Catalyst tempera‐
+ture >=400° C
+• lambda control A/
+F-Ratio set-point
+stoichiometric pri‐
+or to diagnostic
+fuel steps
+• lambda control 2.
+control loop deac‐
+tivated
+• forced lambda os‐
+cillation deactiva‐
+ted
+• relative fuel
+amount from tran‐
+sient compensa‐
+tion (wall-applied
+fuel dynamics and
+canister purge dy‐
+namics) <= 1
+• tank leakage mon‐
+itor not active
+• Canister purge
+monitoring not ac‐
+tive
+• injection valves no
+fuel cut off for any
+of the cylinders
+• Time since last
+measurement > 2
+40
+Rep. Gr.ST - Generic Scan Tool Sec
+• open circuit pump
+current (IP) ready,
+no fault

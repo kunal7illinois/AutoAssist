@@ -1,0 +1,40 @@
+Audi TT No. 48 / 12
+Current Flow Diagram
+Onboard supply control unit, bonnet contact switch
+F266 Bonnet contact switch
+J519 Onboard supply control unit
+T52a 52-pin connector, black, on onboard supply control unit
+T52b 52-pin connector, yellow, on onboard supply control unit
+T52c 52-pin connector, brown, on onboard supply control unit
+42 Earth point, next to steering column
+44 Earth point, lower part of left A-pillar
+374 Earth connection 9, in main wiring harness
+392 Earth connection 27, in main wiring harness
+• CAN bus (data wire)
+J519
+T52a T52b T52c T52a/23 T52c/15 T52c/16 T52a/14
+/42 /52 /5 31
+31 31 31
+• •
+2,5 2,5 2,5 0,5 0,35 0,35 0,35
+br br br br or/gn or/br br/ro
+220011 1155 1188
+1,0
+br
+392 374
+1
+F266
+2 ws = white
+sw = black
+ro = red
+2,5 2,5 2,5 0,35 br = brown
+br br br br
+gn = green
+bl = blue
+2244 gr = grey
+44 44 42 li = purple
+ge = yellow
+141 142 143 144 145 146 147 148 149 150 151 152 153 154 or = orange
+8J0-048120409
+rs = pink
+Edition 04.2010

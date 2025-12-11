@@ -1,0 +1,41 @@
+ES–410
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DESCRIPTION
+Location of EVAP (Evaporative Emission) System:
+Purge VSV (Vacuum EVAP Hose (To
+Switching Valve) Throttle Body)
+Fuel Tank
+Air Inlet Refueling Valve
+ES Port
+Canister To Purge VSV EVAP
+Pump Module
+Hose (From Canister)
+Air Filter
+Fuel Tank Cap
+Recirculation Pipe
+A134243E03
+EVAP System Circuit:
+Throttle Valve Air Cleaner
+Soak Timer
+Intake Manifold ECM
+Canister Pump Module
+Purge VSV
+Air Filter
+Fuel Cap
+Canister
+Refueling Valve
+Restrictor (0.08 inch)
+Cut-off Valve
+Roll-Over Valve
+Fuel Tank
+A122570E03
+NOTICE:
+In this vehicle's EVAP system, turning ON the vent valve does not seal off the EVAP system. To
+check for leaks in the EVAP system, disconnect the air inlet vent hose and apply pressure from
+the atmospheric side of the canister.
+While the engine is running, if a predetermined condition (closed-loop, etc.) is met, the purge VSV is
+opened by the ECM and fuel vapors stored in the canister are purged into the intake manifold. The ECM
+changes the duty cycle ratio of the purge VSV to control purge flow volume.
+The purge flow volume is also determined by the intake manifold pressure. Atmospheric pressure is
+allowed into the canister through the vent valve to ensure that the purge flow is maintained when negative
+pressure (vacuum) is applied to the canister.

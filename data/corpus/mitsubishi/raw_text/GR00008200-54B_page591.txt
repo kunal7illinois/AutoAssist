@@ -1,0 +1,32 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-591
+SYMPTOM PROCEDURES
+Q:Are the harness wires between liftgate latch switch
+CONNECTOR: C-90
+connector F-16 (terminal 1) <ECLIPSE-Vehicle with
+CONNECTOR BLOCK (LH)
+theft-alarm system>, liftgate light switch connector F-13
+(terminal 1) <ECLIPSE-Vehicle without theft-alarm
+system>, trunk lid latch switch connector F-16 (terminal
+1) <ECLIPSE SPYDER-Vehicle with theft-alarm system>
+or trunk light switch connector F-13 (terminal 1)
+1 2 3 4 5 6 7 8 9 <ECLIPSE SPYDER-Vehicle with theft-alarm system>
+1011121314 15 161718192021 and ETACS-ECU connector C-118 (terminal 1)
+2223242526 27 2829 30313233
+34353637 38 3940 414243 <ECLIPSE> or C-117 (terminal 1) <ECLIPSE SPYDER> in
+AC106477AE good condition?
+YES : Replace the ETACS-ECU. The input signal from the
+liftgate latch switch <ECLIPSE> or the trunk lid latch
+switch <ECLIPSE SPYDER> should be able to be
+checked and the functions, which are described in the
+"Technical Description (comment)," should work
+normally.
+NO : Repair them. The input signal from the liftgate latch
+switch <ECLIPSE> or the trunk lid latch switch
+<ECLIPSE SPYDER> should be able to be checked
+and the functions, which are described in the
+"Technical Description (comment)," should work
+normally.
+INSPECTION PROCEDURE P-10: The Liftgate Lock Key Cylinder Switch <ECLIPSE> or the Trunk Lid
+Lock Key Cylinder Switch <ECLIPSE SPYDER> Signal is not Sent to the ETACS-ECU.
+Liftgate Lock Key Cylinder Switch <ECLIPSE> or Trunk Lid Lock Key Cylinder Switch <ECLIPSE SPYDER> Input Circuit
+TSB Revision

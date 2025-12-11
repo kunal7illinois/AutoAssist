@@ -1,0 +1,42 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-395
+SYMPTOM PROCEDURES
+STEP 17. Check the wiring harness between combination
+meter connector C-43 (terminal 12) and ground.
+NOTE: Also check joint connector C-78. If joint connector C-78
+CONNECTORS: C-43, C-78 is damaged, repair or replace the connector as described in
+GROUP 00E, Harness Connector Inspection P.00E-2.
+Q:Is the wiring harness between combination meter
+connector C-43 (terminal 12) and ground in good
+condition?
+C-43
+YES : No action to be taken.
+C-78 NO : Repair the wiring harness. Check that the fog light
+indicator light illuminates normally.
+DEVICE SIDE
+C-43
+1 2 3 4 5 6 7 8 9 10111213141516
+C-78
+1 2 3 4 5 6 7 8 91011
+1213141516171819202122
+2324252627282930313233
+AC106474AK
+STEP 18. Check fog light relay connector A-04X and
+combination meter connector C-43 for damage.
+Q:Are fog light relay connector A-04X and combination
+CONNECTOR: A-04X
+meter connector C-43 in good condition?
+YES : Go to Step 19.
+FRONT-ECU NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. Check
+that the fog light indicator light illuminates normally.
+DEVICE SIDE
+A-04X
+1 2
+X
+3 4
+AC106537AG
+CONNECTOR: C-43
+DEVICE SIDE
+1 2 3 4 5 6 7 8 9 10111213141516
+AC106473AJ
+TSB Revision

@@ -1,0 +1,50 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-557
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TERMINAL TERMINAL INSPECTION ITEM INSPECTION CONDITION (ENGINE CONDITION) NORMAL CONDITION
+NO. <M/T> NO. <A/T>
+72 64 Intake air Ignition switch: When Intake air temperature 3.8 − 4.4 V
+temperature "ON" is −20°C (−4°F)
+sensor When Intake air temperature 3.2 − 3.8 V
+is 0°C (32°F)
+When Intake air temperature 2.3 − 2.9 V
+is 20°C (68°F)
+When Intake air temperature 1.5 − 2.1 V
+is 40°C (104°F)
+When Intake air temperature 0.8 − 1.4 V
+is 60°C (140°F)
+When Intake air temperature 0.4 − 1.0 V
+is 80°C (176°F)
+73 91 Manifold Engine: idling 0.8 − 2.4 V
+differential • Engine: idling Rises from 0.8 −
+pressure sensor • Suddenly depress the accelerator pedal 2.4 V suddenly
+75 73 Heated oxygen • Engine: warming up 0 and 0.6 − 1.0 V
+sensor (rear) • Revving alternates
+76 71 Heated oxygen • Engine: warming, 2,500 r/min (check using a 0 ⇔ 0.8 V
+sensor (front) digital type voltmeter) (changes
+repeatedly)
+77 51 Fuel temperature Ignition switch: When fuel temperature is 2.7 − 3.1 V
+sensor "ON" 0°C (32°F)
+When fuel temperature is 2.1 − 2.5 V
+20°C (68°F)
+When fuel temperature is 1.6 − 2.0 V
+40°C (104°F)
+When fuel temperature is 0.8 − 1.2 V
+80°C (176°F)
+80 66 Backup power Ignition switch: "LOCK" (OFF) B+
+supply
+81 46 Sensor supplied Ignition switch: "ON" 4.5 − 5.5 V
+voltage
+82 98 Ignition switch-IG Ignition switch: "ON" B+
+83 44 Engine coolant Ignition switch: When engine coolant 3.9 − 4.5 V
+temperature "ON" temperature is −20°C (−4°F)
+sensor When engine coolant 3.2 − 3.8 V
+temperature is 0°C (32°F)
+When engine coolant 2.3 − 2.9 V
+temperature is 20°C (68°F)
+When engine coolant 1.3 − 1.9 V
+temperature is 40°C (104°F)
+When engine coolant 0.7 − 1.3 V
+temperature is 60°C (140°F)
+When engine coolant 0.3 − 0.9 V
+temperature is 80°C (176°F)
+TSB Revision

@@ -1,0 +1,56 @@
+WS–11
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+TERMINALS OF ECU
+1. POWER WINDOW REGULATOR MASTER SWITCH
+ASSEMBLY
+M1
+WS
+B137056E01
+(a) Disconnect the M1 switch connector.
+(b) Measure the voltage and resistance of each
+terminal according to the value(s) in the table below.
+Standard resistance
+Specified
+Symbols (Terminal No.) Wiring Color Terminal Description Condition
+Condition
+E (M1-1) - Body ground W-B - Body ground Ground Always Below 1 Ω
+Standard voltage
+Specified
+Symbols (Terminal No.) Wiring Color Terminal Description Condition
+Condition
+B (M1-6) - E (M1-1) GR - W-B Power supply Ignition switch on (IG) 10 to 14 V
+If the result is not as specified, there may be a
+malfunction in the wire harness.
+(c) Reconnect the M1 switch connector and reset the
+power window motor.
+(d) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage:
+with Jam protection
+Specified
+Symbols (Terminal No.) Wiring Color Terminal Description Condition
+Condition
+Ignition switch on (IG),
+Power window motor UP driver side power window 10 to 14 V → 0
+UP (M1-8) - E (M1-1) G - W-B
+output switch OFF → UP (Manual V
+operation)
+Ignition switch on (IG),
+driver side power window
+fully open → driver side
+Power window motor 10 to 14 V → 0
+power window switch UP
+AUTO UP output V → 10 to 14 V
+(AUTO UP position) →
+driver side power window
+fully closed
+AUTO (M1-4) - E (M1-1) B - W-B
+Ignition switch on (IG),
+driver side power window
+fully closed → driver side
+Power window motor 10 to 14 V → 0
+power window switch
+AUTO DOWN output V → 10 to 14 V
+DOWN (AUTO UP position)
+→ driver side power
+window fully open

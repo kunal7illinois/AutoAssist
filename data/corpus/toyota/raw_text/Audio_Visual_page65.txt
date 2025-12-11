@@ -1,0 +1,39 @@
+AV–65
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+DTC 62-7D Disc cannot be Played
+DTC 62-7E No Playable Files
+DTC 62-7F Copyright Protection Error
+DTC 63-7D Disc cannot be Played
+DTC 63-7E No Playable Files
+DTC 63-7F Copyright Protection Error
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+• An incompatible MP3/WMA file is used.
+62-7D • Although the file has an extension of ".mp3" or
+".wma", the header information cannot be read.
+• A disc with no music data is used.
+62-7E
+• Playable files are not on the disc (MP3/WMA).
+62-7F A copy-protected file, which cannot be played, is used. • CD
+• An incompatible MP3/WMA file is used • Radio receiver
+63-7D • Although the file has an extension of ".mp3" or
+".wma", the header information cannot be read.
+• A disc with no music data is used.
+63-7E
+• Playable files are not on the disc (MP3/WMA).
+63-7F A copy-protected file, which cannot be played, is used.
+INSPECTION PROCEDURE
+HINT:
+After the inspection is completed, clear the DTCs.
+1 CHANGE DISC
+(a) Insert a disc with a playable file and check if the disc can
+be played correctly.
+HINT:
+For details on playable files and discs, refer to the
+Owner's Manual.
+OK:
+The disc can be played correctly.
+AV
+NG REPLACE RADIO RECEIVER
+OK
+END

@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+Is there continuity?
+YES - Repair short to body ground in the wire between the gauge control
+module (tach) and the parking brake switch.
+NO - Check for loose terminals in the gauge control module (tach) 36P
+connector. If necessary, substitute a known-good gauge control module (tach),
+then go to step 1 and recheck. If it is OK, replace the original gauge control
+module (tach) (see TACHOMETER ).
+ABS INDICATOR AND BRAKE SYSTEM INDICATOR DO NOT GO OFF AT THE SAME TIME
+NOTE: Check for gauge DTCs with the HDS (see HOW TO CHECK
+FOR DTCS WITH THE HONDA DIAGNOSTIC SYSTEM
+(HDS) ). If gauge DTCs are stored, troubleshoot those DTCs
+first.
+1. Release the parking brake.
+2. Turn the ignition switch ON (II).
+3. Check the ABS indicator and the brake system indicator for several seconds
+when the ignition switch is turned ON (II).
+Do the indicators come on then go off?
+YES - Intermittent failure, the system is OK at this time. Check for loose
+terminals between the gauge control module (tach) 36P connector and the ABS
+modulator-control unit 25P connector. Refer to INTERMITTENT
+FAILURES TROUBLESHOOTING .
+NO - Go to step 4.
+4. Turn the ignition switch to LOCK (0).
+5. Short the SCS line with the HDS.
+6. Disconnect ECM/PCM connector A (44P).
+7. Disconnect the HDS from the data link connector (DLC).
+8. Disconnect the gauge control module (tach) 36P connector.

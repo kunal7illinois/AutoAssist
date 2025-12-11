@@ -1,0 +1,29 @@
+ES–465
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 INSPECT ECM (STAR VOLTAGE)
+(a) Remove the ST CUT relay from the engine room R/B.
+Wire Harness Side: (b) Measure the voltage between the terminals of the engine
+room R/B and body ground while cranking the engine.
+Standard voltage
+Engine Room
+Tester Connection Specified Condition
+Rlay Block
+ST CUT relay (3) - Body ground 9 to 14 V
+(c) Reinstall the ST CUT relay.
+NG Go to step 8
+ES
+ST CUT Relay
+A137045E01
+OK
+5 INSPECT ST CUT RELAY
+(a) Remove the ST CUT relay from the engine room R/B.
+(b) Measure the resistance between the terminals.
+Standard resistance
+Tester Connection Specified Condition
+3 - 5 10 kΩ or higher
+Below 1 Ω
+3 - 5
+(when battery voltage applied to terminals 1 and 2)
+(c) Reinstall the ST CUT relay.
+B016200E02 NG REPLACE ST CUT RELAY
+OK

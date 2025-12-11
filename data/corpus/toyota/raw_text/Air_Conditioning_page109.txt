@@ -1,0 +1,45 @@
+AC–109
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+Plasmacluster Circuit
+DESCRIPTION
+The plasmaclusterTM operates in conjunction with blower switch operation. The plasmaclusterTM
+operation indicator (CLEAN) illuminates on the A/C control assembly when the plasmaclusterTM is
+operating.
+WIRING DIAGRAM
+A/C No. 2
+A/C Amplifier
+From IG1 Relay
+2
+IG
+39
+4
+PCL E38 PCD1
+5
+GND
+E12
+Ion Generator
+AC
+(Plasmacluster T M )
+E124491E02
+INSPECTION PROCEDURE
+1 INSPECT AIR CONDITIONING AMPLIFIER
+(a) Remove the A/C amplifier with the connectors still
+Air Conditioning Amplifier
+connected.
+Connector Wire Harness View:
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+table below.
+E38
+Standard voltage
+Tester Connection
+Condition Specified Condition
+(Symbols)
+E38-39 (PCD1) - Body Ignition switch on (IG)
+10 to 14 V
+ground Blower switch: OFF
+E38-39 (PCD1) - Body Ignition switch on (IG)
+Below 1 V
+PCD1 ground Blower switch: ON
+NG Go to step 2
+E124471E07

@@ -1,0 +1,23 @@
+EI–82
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+DTC B2793 Transponder Chip Malfunction
+DESCRIPTION
+This DTC is output when a malfunction is found in the key during key code registration or a key code is not
+registered normally. Replace the key if the key code registration is not performed normally and this DTC is
+detected.
+DTC No. DTC Detection Condition Trouble Area
+B2793 Transponder chip malfunction Key
+INSPECTION PROCEDURE
+NOTICE:
+If the key is replaced, register the key (See page EI-57).
+1 RE-REGISTER KEY
+(a) Delete the DTCs (See page EI-69).
+(b) Re-register the key (See page EI-57) and insert this key
+into the ignition key cylinder. Check that the engine starts
+with this key.
+OK:
+The engine starts.
+NG REPLACE KEY
+OK
+END
+EI

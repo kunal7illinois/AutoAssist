@@ -1,0 +1,49 @@
+Audi TT No. 46 / 12
+Current Flow Diagram
+Engine control unit, engine speed sender, Hall sender,
+coolant temperature sender
+G28 Engine speed sender
+G40 Hall sender
+G62 Coolant temperature sender
+G300 Hall sender 3
+J623 Engine control unit
+T60 60-pin connector, on engine control unit
+D103 Connection 3, in engine compartment wiring harness
+D106 Connection 4, in engine compartment wiring harness
+D107 Connection 5, in engine compartment wiring harness
+J623
+T60/10 T60/36 T60/51 T60/59 T60/52 T60/44
+0,35
+sw
+D103
+D103 D107
+D106 D107
+D106
+0,5 0,5 0,5 0,5 0,5 0,35 0,5 0,5 0,35 0,35 0,35
+br ge gn ws br sw/gr br sw sw/gr gn sw
+1 1/+ 2/S 3/-- 1/+ 2/S 3/-- 1/+ 2/S 3/--
+ϑ
+G62
+2 G28 G300 G40 w
+sw
+s =
+=
+w
+bl
+h
+a
+i
+c
+te
+k
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+141 142 143 144 145 146 147 148 149 150 151 152 153 154 or = orange
+8J0-046120209
+rs = pink
+Edition 04.2010

@@ -1,0 +1,39 @@
+23A-4 AUTOMATIC TRANSAXLE
+GENERAL DESCRIPTION
+TRANSAXLE
+The transaxle is made up of the torque converter and gear train. A 3-element, 1-step, 2-phase torque con-
+verter with built-in torque converter clutch is used. The gear train is made up of three sets of multi-plate
+clutches, two sets of multi-plate brakes, one set of one-way clutches and two sets of planetary gears. The
+planetary gears are made up of sun gears, carriers, pinion gears and annulus gears.
+.
+TRANSAXLE CONFIGURATION DRAWING
+OWC
+REV 2ND LR
+UD
+OD
+AC001813AB
+.
+COMPONENTS AND FUNCTIONS
+COMPONENT FUNCTION
+Underdrive clutch UD connects the input shaft to the underdrive sun gear.
+Reverse clutch REV connects the input shaft to the reverse sun gear.
+Overdrive clutch OD connects the input shaft to the overdrive planetary carrier.
+Low-reverse brake LR holds the low-reverse annulus gear and the overdrive planetary
+carrier.
+Second brake 2ND holds the reverse sun gear.
+One-way clutch OWC restricts the rotation direction of the low-reverse annulus gear.
+FUNCTION ELEMENT TABLE
+<Vehicles without sport mode>
+OPERATING ELEMENT ENGINE PARKING UNDERDRIV REVERSE OVER-DRIVE LOW- SECOND
+START MECHANISM E CLUTCH CLUTCH CLUTCH (OD) REVERSE BRAKE (2ND)
+SELECTOR LEVER
+(UD) (REV) BRAKE (LR)
+POSITION
+P Parking OK × − − − × −
+R Reverse − − − × − × −
+N Neutral OK − − − − × −
+D 1st − − × − − ×* −
+D 2nd − − × − − − ×
+D 3rd − − × − × − −
+D 4th − − − − × − ×
+TSB Revision

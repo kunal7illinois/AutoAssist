@@ -1,0 +1,45 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-571
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Check if the battery terminal is disconnected.
+Q:Has the battery terminal been disconnected lately?
+YES : Start the engine and let it run at idle for approximate
+10 minutes after engine warm up. Then, if a
+malfunction occurs, go to step 2.
+NO : Go to Step 2.
+STEP 2. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC is output?
+MB991502 YES : Refer to, Diagnostic Trouble Code Chart P.13B-22.
+AKX01177AB NO : Go to Step 3.
+STEP 3. Check the idle air control (IAC) motor operation
+sound.
+(1) Check that the engine coolant temperature is 20°C (68°F)
+CONNECTOR:B-34
+or below.
+NOTE: If necessary, you can disconnect the engine coolant
+temperature sensor connector and connect the harness
+side of the connector to another engine coolant temperature
+sensor that is at 20°C (68°F) or below.
+(2) Check that the operation sound of the IAC motor can be
+heard after the ignition is switched to the "ON" position (but
+IDLE AIR
+CONTROL without starting the engine).
+MOTOR • An operation sound should be heard.
+ACX02523AI
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Did you hear the operation sound?
+YES : Go to Step 4.
+NO : Refer to, DTC P0506 − Idle Control System RPM
+Lower Than Expected P.13B-478, DTC P0507 − Idle
+Control System RPM Higher Than Expected P.13B-
+487.
+TSB Revision

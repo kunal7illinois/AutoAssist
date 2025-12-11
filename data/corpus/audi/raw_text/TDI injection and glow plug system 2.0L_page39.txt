@@ -1,0 +1,41 @@
+Audi TT 2007 ➤
+TDI injection and glow plug system (4-cyl. 2.0 ltr. 4-valve common rail) - Edition 03.2010
+8 Injectors
+8.1 Checking injectors (piezo injectors)
+There are three different tests for checking the operation of the
+injectors.
+• Checking adaption of “Injector delivery calibration values” and
+“Injector voltage calibration values” ⇒ page 35
+• Checking return flow rate of injectors with engine running
+⇒ page 35
+• Checking return flow rate of injectors at starter cranking speed
+⇒ page 38
+8.2 Adaption of injector delivery calibration
+values and injector voltage calibration
+values
+The “Injector delivery calibration” and “Injector voltage calibration”
+functions serve to correct the injection rates for each cylinder of
+a common rail system individually across the entire operating
+range.
+The 7-digit adaption values -1- (details in illustration are only an
+example) are marked separately on each injector. They may con‐
+sist of letters and/or numbers (ASCII code).
+Reference table for reading out letters and/or numbers on each
+injector
+When a new injector is installed, the adaption value for the new
+injector must be written into the engine control unit.
+When the engine control unit is renewed, the appropriate “injector
+delivery calibration” values with “injector voltage calibration” val‐
+ues must be written into the new control unit.
+Additionally, check that the “injector delivery calibration values”
+with “injector voltage calibration values” are correctly entered for
+all the other injectors. Do NOT attempt to re-enter these calibra‐
+tion values if the correct values are already stored in the engine
+control unit.
+The adaption procedure is described in the Guided Fault Finding.
+(The procedure is also described under Guided Functions)
+8.3 Checking return flow rate of injectors
+(piezo injectors) with engine running
+Special tools and workshop equipment required
+35
+8. Injectors

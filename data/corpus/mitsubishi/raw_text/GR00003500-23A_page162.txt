@@ -1,0 +1,35 @@
+23A-162 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 36. Check the Park/Neutral position switch.
+ITEMS TERMINAL SPECIFIED CONDITION
+CONNECTION OF
+PARK/NEUTRAL TESTER
+POSITION (PNP)
+SWITCH P 3 − 8, 9 − 10 Less than 2 ohm.
+DIPSTICK R 7 − 8
+N 4 − 8, 9 − 10
+D 1 − 8
+AC004672AC
+3 5 − 8
+2 2 − 8
+L 6 − 8
+Check for continuity between terminals for each selector posi-
+tion.
+L Q:Is the switch operating properly?
+2 YES : Go to Step 37.
+3 NO : Replace the Park/Neutral position switch. Refer to
+D GROUP 23B, Transaxle P.23B-10.
+N
+R
+P
+AC005865AB
+STEP 37. Check connector B-41 at the Park/Neutral
+position switch for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-41
+B-41 YES : Go to Step 38.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+DIPSTICK
+AC001844AK
+TSB Revision

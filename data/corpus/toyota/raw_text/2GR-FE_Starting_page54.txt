@@ -1,0 +1,27 @@
+ST–54
+2GR-FE STARTING – SMART KEY SYSTEM
+2 CHECK WIRE HARNESS (MAIN BODY ECU - ECM)
+(a) Disconnect the E6 ECU connector.
+Wire Harness Side:
+ECM
+E6
+Main Body ECU
+A55
+ACCR
+ACCR
+B138005E01
+(b) Disconnect the A55 ECM connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Terminal No. (Symbol) Condition Specified Condition
+E6-3 (ACCR) - A55-13
+Always Below 1 Ω
+(ACCR)
+E6-3 (ACCR) - Body
+Always 10 kΩ or higher
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+ST

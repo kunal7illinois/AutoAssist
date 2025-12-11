@@ -1,0 +1,26 @@
+ENGINE - 2GR-FE ENGINE EG-107
+System Outline
+Air Fuel Ratio Maintains the temperature of the air fuel ratio sensor or oxygen sensor at an
+Sensor and Oxygen appropriate level to increase accuracy of detection of the oxygen
+Sensor Heater Control concentration in the exhaust gas.
+(cid:1) The ECM controls the purge flow of evaporative emission (HC) in the
+canister in accordance with engine conditions.
+Evaporative Emission
+(cid:1) Approximately five hours after the engine switch has been turned OFF, the
+Control
+ECM operates the canister pump module to detect any evaporative
+[See page EG-134]
+emission leakage occurring between the fuel tank and the canister through
+changes in the fuel tank pressure.
+Active Control
+The damping characteristic of the front engine mount is controlled variably
+Engine Mount
+to reduce idling vibration.
+[See page EG-104]
+Prohibits fuel delivery and ignition if an attempt is made to start the engine
+Engine Immobilizer
+with an invalid key.
+Diagnosis When the ECM detects a malfunction, the ECM diagnoses and memorizes the
+[See page EG-135] failed section.
+Fail-Safe When the ECM detects a malfunction, the ECM stops or controls the engine
+[See page EG-136] according to the data already stored in the memory.

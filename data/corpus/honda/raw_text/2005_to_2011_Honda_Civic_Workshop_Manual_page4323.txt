@@ -1,0 +1,25 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+4. Check for DTCs with the HDS.
+Is DTC 11-13, 13-13, 15-13, and/or 17-13 indicated?
+YES -Go to step 5.
+NO -Intermittent failure, the system is OK at this time. Check for loose
+terminals between the wheel speed sensor 2P connector and the VSA
+modulator-control unit 37P connector. Refer to INTERMITTENT
+FAILURES TROUBLESHOOTING (see ).
+5. Turn the ignition switch to LOCK (0).
+6. Disconnect the VSA modulator-control unit 37P connector.
+7. Check for continuity between the appropriate VSA modulator-control unit 37P
+connector wheel speed sensor +B and GND terminals (see table), then check
+for continuity between the same terminals and reverse the positive and negative
+tester probes.
+DTC REFERENCE
+DTC VSA Modulator-control Unit 37P Connector Terminal No.
+11-13 No. 19 No. 6
+13-13 No. 22 No. 11
+15-13 No. 9 No. 21
+17-13 No. 20 No. 8

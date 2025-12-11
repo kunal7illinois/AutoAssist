@@ -1,0 +1,41 @@
+EG-68 ENGINE - 2AZ-FE ENGINE
+c. 0.02 in. Leak Pressure Measurement
+1)The vent valve remains off, and the ECM introduces atmospheric pressure into the canister and
+actuates the leak detection pump in order to create a negative pressure.
+2)At this time, the pressure will not decrease beyond a 0.02 in. pressure due to the atmospheric pressure
+that enters through a 0.02 in. diameter reference orifice.
+3)The ECM compares the logic value and this pressure, and stores it as a 0.02 in. leak pressure in its
+memory.
+4)If the measurement value is below the standard, the ECM will determine that the reference orifice
+is clogged and store DTC (Diagnostic Trouble Code) P043E in its memory.
+5)If the measurement value is above the standard, the ECM will determine that a high flow rate pressure
+is passing through the reference orifice and store DTC (Diagnostic Trouble Code) P043F, P2401 and
+P2402 in its memory.
+Atmosphere
+Purge VSV
+(OFF)
+Canister Pump Module
+Vent Valve
+(OFF)
+M
+ECM Leak Detection Pump &
+Pump Motor
+P
+Canister Pressure
+Sensor
+Reference Orifice
+060XA21C
+ON (Open)
+Purge VSV
+OFF (Close)
+ON
+Vent Valve
+OFF (Vent)
+ON
+Pump Motor
+OFF
+Atmospheric Pressure
+System Pressure
+0.02 in. Pressure
+0.02 in. Pressure Measurement
+060XA22C

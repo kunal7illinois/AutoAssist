@@ -1,0 +1,23 @@
+CHASSIS - U660E AUTOMATIC TRANSAXLE CH-65
+5. Clutch to Clutch Pressure Control
+(cid:3) Clutch to clutch pressure control is used for shift control. As a result, shift control in the 2nd gear or above
+is possible without using the one-way clutch, and the automatic transaxle has been made lightweight and
+compact.
+(cid:3) Using the fluid pressure circuit, which enables the clutches and brakes (C1, C2, B1 and B3) to be controlled
+independently, and the high flow SL1, SL2, SL3 and SL4 linear solenoid valves, which directly control
+the line pressure, the ECT ECU controls each clutch and brake accordingly with the optimum fluid
+pressures and timings in accordance with the information transmitted by the sensors, and then shifts the
+gears. As a result, highly responsive and excellent shift characteristics have been realized.
+ATF Temp. Sensor Mass Air Flow Meter
+Engine Torque
+Information
+Input Turbine Engine Coolant
+ECT ECU ECM
+Speed Sensor Temp. Sensor
+Local CAN
+Counter Gear Throttle Position
+Speed Sensor Sensor
+SL1 SL2 SL3 SL4
+C1 C2 B1 B3
+Line Pressure
+01YCH26TE

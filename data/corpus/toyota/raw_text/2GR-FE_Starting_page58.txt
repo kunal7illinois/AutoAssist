@@ -1,0 +1,27 @@
+ST–58
+2GR-FE STARTING – SMART KEY SYSTEM
+WIRING DIAGRAM
+E7
+Main Body ECU
+E52
+Engine Switch
+SS1 7 17
+SSW1
+SS2 2 16
+SSW2
+SS1 GND SS2
+Free
+Full Travelling
+GND
+5
+B112447E03
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER (START SWITCH)
+ST (a) Connect the intelligent tester to the DLC3.
+(b) Check the DATA LIST for proper functioning of the start
+switch.
+HINT:
+When using the intelligent tester with the engine switch
+off, turn on and off any of the door courtesy light switches
+repeatedly at 1.5 second intervals or less until
+communication between the tester and vehicle starts.

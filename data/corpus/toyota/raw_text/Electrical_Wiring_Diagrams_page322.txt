@@ -1,0 +1,32 @@
+System Outline
+Shift Lock Mechanism
+If the brake pedal is depressed with the power SW is pushed to IG ON position (Power SW type), or the ignition SW is turned
+to ON (Ignition SW type), the shift lock control ECU is activated, allowing the driver to change the shift lever to a position
+other than the P position.
+: Parts Location
+Code See Page Code See Page Code See Page
+A 59 C55 B 51 (2GR–FE) E41 B 57
+AA1199
+B 59 E8 C 56 E42 A 57
+A40 A 59 E9 D 56 E44 C 57
+A55 A 49 (2GR–FE) E24 56 E49 57
+C1 A 50 (2GR–FE) E32 B 56 E57 A 57
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+3C
+3K 333666 IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll WWWiiirrreee aaannnddd JJJ///BBB NNNooo...333 (((BBBeeehhhiiinnnddd ttthhheee CCCooommmbbbiiinnnaaatttiiiooonnn MMMeeettteeerrr)))
+3L
+IC 30 Engine Room Main Wire and Instrument Panel J/B (Cowl Side Left)
+IF 30
+IH 31 IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll WWWiiirrreee aaannnddd IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll JJJ///BBB (((CCCooowwwlll SSSiiidddeee LLLeeefffttt)))
+IL 30
+: Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+AE2 66 Engine Room Main Wire and Instrument Panel Wire (Right Side of the Instrument Panel J/B)
+CA2 64 (2GR–FE) Engine Wire and Engine Room Main Wire (Inside of the Engine Room R/B and Engine Room J/B)
+EA1 66 Instrument Panel Wire and Engine Room Main Wire (Left Kick Panel)
+: Ground Points
+Code See Page Ground Points Location
+E2 66 Instrument Panel Brace LH
+321
+CAMRY (EM0250U)

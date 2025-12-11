@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 HVAC Heating/Air Conditioning - Civic (All Except Hybrid)
+2. Turn the ignition switch to LOCK (0), and then ON (II).
+3. Do the self-diagnostic with the HVAC control unit (see HOW TO USE THE
+SELF-DIAGNOSTIC FUNCTION ).
+4. Check for DTCs.
+Is DTC 4 indicated?
+YES - Go to step 5.
+NO - Intermittent failure, check for loose wires or poor connections on the
+mode control motor circuit.
+5. Turn the ignition switch to LOCK (0).
+6. Test the mode control motor (see MODE CONTROL MOTOR TEST ).
+Is the mode control motor OK?
+YES - Go to step 7.
+NO - Replace the mode control motor (see AIR MIX CONTROL MOTOR
+REPLACEMENT ).
+7. Disconnect the mode control motor 7P connector.
+8. Disconnect the HVAC control unit 24P connector.
+9. Check for continuity between the following terminals of the heater control
+panel 24P connector and the mode control motor 7P connector.
+CONTINUITY CHECK INDEX
+24P 7P
+3 6
+4 5
+5 4
+6 3
+13 7

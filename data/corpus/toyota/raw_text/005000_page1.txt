@@ -1,0 +1,40 @@
+ES–6
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+SYSTEM DIAGRAM
+IG2
+IG2 IGN
+IGSW
+ECM
+Stop Light Switch
+Ignition Switch
+ES ST1-
+ST
+AM2
+STP To Battery
+STOP
+Starter
+AM1
+STA
+Park/Neutral Position
+Switch
+IGT1 No. 1 Ignition Coil
+ALT
+NSW
+IGT2 No. 2 Ignition Coil
+ETCS
++BM
+P/I
+FL MAIN EFI MAIN
+IGT3 No. 3 Ignition Coil
+BATT
++B
+Battery
++B2
+MREL
+IGT4 No. 4 Ignition Coil
+EFI MAIN IGF1
+IGN C/OPN
+FC
+M
+Fuel Pump
+A134130E01

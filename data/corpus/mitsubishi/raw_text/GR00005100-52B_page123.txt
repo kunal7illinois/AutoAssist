@@ -1,0 +1,43 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-123
+SRS AIR BAG DIAGNOSIS
+STEP 2. Check the harness wires for open circuit or short
+circuit between SRS-ECU connector C-74 (terminal No.34
+and 36) and side impact sensor (LH) connector D-12
+(terminal No.1 and 2).
+Q:Are the harness wires between SRS-ECU connector C-
+CONNECTOR: C-74
+74 (terminal No.34 and 36) and side impact sensor (LH)
+connector D-12 (terminal No.1 and 2) in good condition?
+HARNESS SIDE YES : Erase the DTC memory, and recheck if any DTC sets.
+(REAR VIEW) If DTC 91 steps. Replace the SRS-ECU. Refer to
+2122 2324 P.52B-142.
+252627282930313233
+NO : Repair the harness wires between SRS-ECU
+343536373839404142
+SRS-ECU connector C-74 and side impact sensor (LH)
+connector D-12. Then go to Step 3.
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT (LH) AC000358AI
+CONNECTOR: D-12
+<ECLIPSE>
+FRONT
+SEAT BELT
+REAR
+FRONT OF
+SPEAKER
+VEHICLE
+<ECLIPSE SPYDER>
+FRONT
+SEAT BELT
+REAR SPEAKER FRONT OF
+BRACKET VEHICLE
+AC003136AD
+STEP 3. Check DTC.
+Q:Is DTC 91 output?
+YES : Return to Step 1.
+NO : This diagnosis is complete. (If no malfunctions are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to GROUP 00, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+TSB Revision

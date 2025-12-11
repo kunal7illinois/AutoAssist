@@ -1,0 +1,39 @@
+Audi magnetic ride
+Special functions
+Temperature model
+The suspension damping becomes softer with The required voltage is determined and the resist-
+increasing magneto-rheological fluid temperature. ance is calculated.
+A software module for temperature compensation The basic value is the resistance measured in a vehi-
+is integrated in the control unit. The rising tempera- cle which has been shut off for at least 6 hours. The
+ture is compensated by increasing the magnetic coil following measurements are correlated with the
+activation current. basic value. Based on the change in resistance, the
+Likewise, the activation current is reduced at low control unit determines the actual temperature in
+ambient temperatures. the shock absorber damper.In addition, the temper-
+Temperature is determined indirectly by measuring ature of the control unit is calculated. This is done
+the resistance of the magnetic coil. by evaluating the electrical currents provided by the
+A current of 3A is applied to the coil for the duration control unit to activate the coils.
+of 40 ms.
+Temperature shut-off
+The magnetic coil activation current must be In 'Sport' mode, higher damping forces are pro-
+increased in order to compensate for the effect of duced by increasing the magnetic coil activation
+temperature increase in the dampers. However, current. Activating the 'Sport' mode would, there-
+increasing the electrical current causes further fore, cause a further increase in the already high
+heating of the magnetic coil.Upwards of a defined temperature in the suspension damper. The control
+threshold temperature of (90°C), therefore, it is no unit is shut down when its temperature exceeds
+longer possible for the driver to select 'Sport' mode. 110°C.
+Emergency operation in case of failure in electrical activation of the magnetic coil
+Damping speed [m/s]
+Adjustment range of Audi magnetic ride
+381_040
+28
+]N[
+ecrof
+repmaD
+In case of failure in electrical activation of multiple In this case, the most comfortable suspension
+magnetic coils, the magnetic coils of all suspension damping characteristic is set.
+dampers are no longer activated.
+Suspension damper force characteristic of Audi magnetic ride
+Tension (rebound)
+0
+Compression (bump)
+Most comfortable damper setting

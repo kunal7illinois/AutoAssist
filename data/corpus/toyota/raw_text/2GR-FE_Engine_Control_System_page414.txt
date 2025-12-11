@@ -1,0 +1,50 @@
+ES–414
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+N17
+Pump Module
+ECM
+Leak Detection Pump
+34
+MGND MTRB
+M A55 MPMP
+6 8
+ES
+75
+VCC VCPP
+Canister C55
+4
+Pressure
+77
+Sensor VOUT PPNP
+C55
+3
+76
+EPPM
+C55
+SGND 2
+Vent Valve
+42
+VLVB VGND
+A55 VPMP
+9 1
+C6
+Purge VSV
+EFI No. 2
+EFI No. 3 108
+C55 PRG
+1 2
+EFI
+FL MAIN
+EFI MAIN
+44
+MREL
+A55
+Battery
+A136971E01
+INSPECTION PROCEDURE
+NOTICE:
+The intelligent tester is required to conduct the following diagnostic troubleshooting procedure.
+HINT:
+• Using intelligent tester monitor results enables the EVAP (Evaporative Emission) system to be
+confirmed.

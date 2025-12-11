@@ -1,0 +1,32 @@
+CH-106 CHASSIS - BRAKE
+3. Outline of EBD Control Function
+The detailed outline is the same as that of brake control system (ABS with EBD). For details, see page CH-94.
+4. Outline of Brake Assist System
+(cid:3) The brake assist system in combination with ABS helping improves the vehicle’s brake performance.
+(cid:3) The brake assist system interprets a quick push of the brake pedal as emergency braking and supplements
+the brake power applied if the driver has not stepped hard enough on the brake pedal. In emergencies,
+driver, especially inexperienced ones, often panic and do not apply sufficient pressure on the brake pedal.
+(cid:3) A key feature of brake assist system is that the timing and the degree of braking assistance are designed
+to help ensure that the driver does not discern anything unusual about the braking operation. When the
+driver intentionally eases up on the brake pedal, the system reduces the amount of assistance it provides.
+(cid:3) Based on the signals from the master cylinder pressure sensor, the skid control ECU calculates the speed
+and the amount of the brake pedal application and then determines the intention of the driver to make an
+emergency braking. If the skid control ECU determines that the driver intends the emergency braking, the
+system activates the brake actuator to increase the brake fluid pressure, which increases the braking force.
+(cid:1) In case that the driver’s depressing force is small when applying emergency braking (cid:2)
+Skid Control
+ECU
+Master Cylinder
+The fluid pressure is increased
+Pressure Sensor
+by the brake actuator
+Signal
+D13N67 D13N68
+With Brake Assist System Without Brake Assist System*
+*: The basic performance of the brake is the same as of the model with the brake assist
+With Brake Assist System
+Braking
+Force
+Without Brake Assist System
+Time
+170CH18

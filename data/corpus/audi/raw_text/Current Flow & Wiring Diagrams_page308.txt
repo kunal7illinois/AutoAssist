@@ -1,0 +1,77 @@
+Audi TT No. 39 / 7
+Current Flow Diagram
+Control unit for headlight range control, rear left vehicle
+level sender, front left vehicle level sender
+G76 Rear left vehicle level sender
+G78 Front left vehicle level sender
+J431 Headlight range control, control unit
+T4u 4-pin connector, black, on rear left vehicle level sender
+T4v 4-pin connector, black, on front left vehicle level sender
+T26a 26-pin connector, black, on headlight range control, control
+unit
+44 Earth point, lower part of left A-pillar
+384 Earth connection 19, in main wiring harness
+2211 5522 4466 4444 4477 4455 5555 5533 5544
+B467 Connection 3 in main wiring harness
+0,5 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+gr/ge gr/bl gn/gr gn/ge gr/sw gn/br gr/sw gr/br gr
+B468 Connection 4 in main wiring harness
+T
+15
+26a/23
+J431 T
+/1
+2
+5
+6a T
+/1
+2
+6
+6a T
+/1
+2
+7
+6a T
+/1
+2
+8
+6a T
+/1
+2
+9
+6a T
+/2
+2
+0
+6a T
+/2
+2
+1
+6a T
+/2
+2
+2
+6a
+B469 Connection 5 in main wiring harness
+T26a/11 T26a/10 T26a/7 T26a/12 T26a/25 T26a/6 T26a * not for electronically controlled damping
+/24
+31
+0,35 0,35 0,35 0,35 0,35 0,35 0,35
+br sw bl gn/br gn/sw gn/bl br
+B467 B468 B469 384
+0,35 0,35 0,35 1,5
+br sw bl br
+T4u/1 T4u/2 T4u/4 T4v/1 T4v/2 T4v/4
+ws = white
+G76✱ G78✱ sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+71 72 73 74 75 76 77 78 79 80 81 82 83 84 or = orange
+8J0-039070408
+rs = pink
+Edition 08.2008

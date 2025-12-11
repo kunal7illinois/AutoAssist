@@ -1,0 +1,28 @@
+AX–59
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+DTC P0560 System Voltage
+DESCRIPTION
+The battery supplies electricity to the TCM even when the ignition switch is off. This power allows the TCM
+to store data such as DTC history, freeze frame data and fuel trim values. If the battery voltage falls below
+AX
+a minimum level, these memories are cleared and the TCM determines that there is a malfunction in the
+power supply circuit. When the engine is next started, the TCM will illuminate the MIL and set the DTC.
+DTC No. DTC Detection Condition Trouble Area
+Open in TCM back-up power source circuit • Open in back-up power source circuit
+P0560
+(1 trip detection logic) • TCM
+HINT:
+If DTC P0560 is set, the TCM does not store other DTCs.
+MONITOR STRATEGY
+Related DTCs P0560: TCM system voltage
+Required Sensors/Components (Main) TCM
+Required Sensors/Components (Sub) -
+Frequency of Operation Continuous
+Duration 3 seconds
+MIL Operation Immediate (MIL illuminated after next engine start)
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs are not present: None
+Stand-by RAM Initialized
+TYPICAL MALFUNCTION THRESHOLDS
+TCM power source Less than 3.5 V

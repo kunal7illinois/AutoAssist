@@ -1,0 +1,33 @@
+ES–459
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+E6
+ECM
+Main Body ECU
+44
+AM2
+AM2 A55 MREL
+1 C/OPN
+7
+*1 IG2D EFI A55 FC
+11
+*1
+EFI MAIN
+ES
+E23 Ignition SW IGN
+ST/AM2 IG2
+*2 *2
+5 AM2 IG2 6 1 2
+IG2 81
+5 3 C55 E1
+FL MAIN
+N10 Fuel Pump
+M
+Battery
+*1: with Smart Key System
+*2: without Smart Key System
+A137394E02
+INSPECTION PROCEDURE
+1 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (OPERATE C/OPN RELAY)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and tester on.

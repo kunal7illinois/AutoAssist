@@ -1,0 +1,40 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+20. Do the PCM idle learn procedure (see ECM/PCM IDLE LEARN
+PROCEDURE ).
+21. Do the crank (CKP) learn procedure (see CRANK (CKP) PATTERN
+CLEAR/CRANK (CKP) PATTERN LEARN ).
+22. Enter the anti-theft code for the audio system or the navigation system (if
+equipped), enter the audio presets. Set the clock (on vehicles without
+navigation).
+DTC TROUBLESHOOTING INDEX
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review General Troubleshooting
+Information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+DTC TROUBLESHOOTING CHART
+(1)
+DTC D Indicator MIL Detection Item
+(3) Blinks ON or OFF Manifold Absolute
+P0107 (12)
+Pressure (MAP)
+Sensor Circuit Low
+Voltage Input
+(3) Blinks ON or OFF Manifold Absolute
+P0108 (12)
+Pressure (MAP)
+Sensor Circuit High
+Voltage Input
+(3) Blinks ON or OFF Crankshaft Position
+P0335 (88)
+(CKP) Sensor No
+signal
+(3) Blinks ON or OFF Crankshaft Position
+P0339 (88)
+(CKP) Sensor
+Intermittent
+Interruption
+(3) Blinks ON or OFF Camshaft Position
+P0365 (89)
+(CMP) Sensor No

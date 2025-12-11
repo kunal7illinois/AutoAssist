@@ -1,0 +1,48 @@
+52B-28 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+STEP 5. Check the driver’s air bag module line.
+(1) Disconnect the negative battery terminal.
+(2) Remove the driver(cid:146)s air bag module. (Refer to P.52B-144.)
+(3) Connect connector (4) of special tool MB991613 to clock
+spring connector C-81.special tool MB991613 to special
+MB991613 tool MB991866.
+(4) Connect connector (1) of special tool MB991613 to
+RESISTANCE (3Ω) connector (2).
+(5) Connect terminals 22 to 24, and terminals 23 to 25 of
+1
+5
+special tool MB991613 to connector (5).
+4
+(6) Connect the clock spring to the body wiring harness.
+C-81
+A (7) Connect the negative battery terminal.
+2
+(8) Erase the DTC memory, and then recheck the DTC.
+Q: Is DTC 21 output?
+YES : Go to Step 6.
+NO : Replace the driver’s air bag module. Refer to P.52B-
+CLOCK SPRING 144. Then go to Step 9.
+VIEW A
+CONNECT
+RESPECTIVELY
+AC000360AD
+STEP 6. Check the clock spring.
+(1) Disconnect the negative battery terminal.
+(2) Disconnect the clock spring connector C-85.
+(3) Connect special tool MB991865 to special tool MB991866.
+DUMMY RESISTOR (3Ω)
+(MB991865) RESISTOR HARNESS CAUTION
+(MB991866) Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+weakened.
+(4) Insert special tool MB991866 into clock spring harness side
+connector C-85 (terminal No.3 and 4) by backprobing.
+(REAR VIEW) (5) Connect the negative battery terminal.
+1 2 3 4 (6) Erase the DTC memory, and then recheck the DTC.
+C-85 CLOCK SPRING Q:Is DTC 21 output?
+HARNESS SIDE CONNECTOR
+YES : Go to Step 7.
+AC102560AD
+NO : Replace the clock spring. Refer to P.52B-144. Then
+go to Step 9.
+TSB Revision

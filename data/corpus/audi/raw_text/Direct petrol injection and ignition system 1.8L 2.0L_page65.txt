@@ -1,0 +1,28 @@
+Audi TT 2007 ➤
+Direct petrol injection and ignition system (4-cyl. 1.8 ltr., 2.0 ltr. 4-valve turbo with timing chain) - Edition
+06.2010
+– Screw in adapter -VAS 6394/2- in place of fuel pressure send‐
+er -G247- and tighten adapter with the same torque as that
+specified for fuel pressure sender -G247- .
+• Tightening torque: fuel rail - exploded view ⇒ page 37
+– Unscrew plug -2- on pressure sensor tester -VAS 6394- and
+screw in the removed fuel pressure sender -G247- . Tighten
+to torque normally specified for fuel pressure sender.
+– Use test instrument adapter -VAS 5570- to make electrical
+connection between vehicle and fuel pressure sender -G247- .
+– Connect a vehicle diagnostic tester.
+– Switch on ignition.
+– Select “Engine electronics” in vehicle self-diagnosis.
+– Then select function read “Measured values”.
+– Select measured value block 140.
+Display zone 3 shows the actual pressure value being transmitted
+to the engine control unit by the fuel pressure sender -G247- .
+– Switch on pressure sensor tester -VAS 6394- by pressing but‐
+ton -A- once briefly.
+Note
+You can press and hold button -A- for 2 seconds to switch on the
+illumination for 20 seconds.
+Pressure sensor tester -VAS 6394- should indicate 0 bar. If this
+is not the case, press button -C- once briefly to zero the tester.
+61
+9. Components of injection system

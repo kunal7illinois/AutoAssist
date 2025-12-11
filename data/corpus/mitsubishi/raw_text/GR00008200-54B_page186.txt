@@ -1,0 +1,35 @@
+54B-186 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+Washer control
+When the ignition switch is at the ACC or ON posi- operate the windshield wiper continuously. When the
+tion, if the windshield washer switch of the column windshield washer switch is turned ON, if the wind-
+switch is turned ON, the front ECU turns ON the shield wiper is operating intermittently, intermittent
+windshield washer relay. The windshield wiper drive operations will be continued after continuous opera-
+signal is turned ON in 0.3 seconds until three sec- tions.
+onds after the windshield washer switch goes OFF to NOTE: The wiper drive signal output time varies
+according to the conditions. Refer to the following
+table for details.
+ON
+Windshield washer switch t t
+OFF
+ON
+Windshield washer relay
+OFF
+Windshield wiper auto-stop ON
+signal OFF
+TI
+Windshield wiper drive ON
+T T
+signal OFF
+TI TI
+TI: Intermittent wiper
+intermittent time
+When windshield wiper When windshield intermittent wiper
+switch is OFF is operating AC005438AB
+When wiper switch is OFF When wiper switch is INT When wiper
+switch is LO or HI
+t 0.3 0.3 - 0.5 0.5 - 0.7 0.7 Less than 0.3 - 0.5 0.5 - 0.7 0.7 −
+seconds or seconds seconds seconds 0.2 seconds seconds seconds
+less seconds
+T 0 second 1 second 2 seconds 3 seconds 0 second 1 second 2 seconds 3 seconds 3 seconds
+TSB Revision

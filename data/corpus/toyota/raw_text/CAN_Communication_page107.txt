@@ -1,0 +1,18 @@
+CA–107
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+Short to GND in CAN Bus Line
+DESCRIPTION
+A short to GND is suspected in the CAN bus wire when the resistance between terminals 4 (CG) and 6
+(CANH), or terminals 4 (CG) and 14 (CANL) of the DLC3 is below 200 Ω.
+Symptoms Trouble Area
+• Short to GND in CAN bus wire
+• ECM
+• Brake actuator assembly (Skid control ECU)
+• Steering angle sensor
+The resistance between terminals 6 (CANH) and 4 (CG), or terminals • Yaw rate sensor
+14 (CANL) and 4 (CG) of the DLC3 is below 200 Ω. • Main Body ECU
+• A/C amplifier
+• Combination meter
+• Center airbag sensor
+• No. 1 CAN J/C
+CA

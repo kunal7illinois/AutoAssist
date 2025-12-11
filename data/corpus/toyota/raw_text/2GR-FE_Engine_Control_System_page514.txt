@@ -1,0 +1,33 @@
+ES–503
+2GR-FE ENGINE CONTROL SYSTEM – THROTTLE BODY
+ON-VEHICLE INSPECTION
+1. INSPECTION THROTTLE BODY
+(a) Inspect the throttle control motor for operating
+sounds.
+(1) Turn the ignition switch on (IG).
+(2) When turning the accelerator pedal position
+sensor lever, check for running sounds of the
+motor. The motor should be running smoothly
+without friction sounds.
+A129612
+If operation is not as specified, check the
+throttle control motor, wiring and ECM (See
+page ES-505).
+(b) Inspect the throttle position sensor.
+Intelligent Tester
+(1) Connect the intelligent tester (with CAN VIM) to
+ES
+the DLC3.
+(2) Turn the ignition switch on (IG).
+(3) Check that the MIL is off.
+(4) Check that, under the CURRENT DATA,
+THROTTLE POS (throttle valve opening
+percentage) is within the standard range below.
+Standard throttle valve opening percentage:
+60 % or more
+If operation is not as specified, check the
+throttle position sensor, wiring and ECM (See
+page ES-505).
+DLC3
+CAN VIM
+C131977E05

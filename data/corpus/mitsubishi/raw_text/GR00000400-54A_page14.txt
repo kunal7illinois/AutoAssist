@@ -1,0 +1,44 @@
+54A-14 CHASSIS ELECTRICAL
+IGNITION SWITCH
+STEP 5. Check immobilizer-ECU connector C-79 and
+ignition key ring antenna connector C-88 for damage.
+Q:Are immobilizer-ECU connector C-79 and ignition key
+CONNECTOR: C-79
+ring antenna connector C-88 in good condition?
+CENTER
+REINFORCEMENT YES : Go to Step 6.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. Confirm
+that diagnostic trouble code 11 is not output.
+IMMOBILIZER-ECU DEVICE SIDE
+1 2 3 4 5
+6 7 8 91011 12
+AC001652AD
+CONNECTOR: C-88
+COLUMN SWITCH
+1 2
+3 4 5 6 7
+AC001653AB
+STEP 6. Check the wiring harness between immobilizer-
+ECU connector C-79 (terminal 10 and 11) and ignition key
+ring antenna connector C-88 (terminal 3 and 7).
+Q:Are the wiring harness between immobilizer-ECU
+CONNECTOR: C-79
+connector C-79 (terminal 10 and 11) and ignition key
+CENTER
+REINFORCEMENT ring antenna connector C-88 (terminal 3 and 7) in good
+condition?
+YES : Replace the immobilizer-ECU. Then register the
+password (secret code) and encrypted code (Refer to
+P.54A-28.) Confirm that diagnostic trouble code 11 is
+IMMOBILIZER-ECU DEVICE SIDE not output.
+1 2 3 4 5 NO : Repair the wiring harness. Confirm that diagnostic
+6 7 8 91011 12
+trouble code 11 is not output.
+AC001652AD
+CONNECTOR: C-88
+COLUMN SWITCH
+1 2
+3 4 5 6 7
+AC001653AB
+TSB Revision

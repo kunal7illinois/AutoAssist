@@ -1,0 +1,59 @@
+ES–259
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Engine Speed
+(C) (D)
+3,000 rpm
+(D)
+2,000 rpm
+(B)
+Idling
+(A)
+Time
+Engine Switch Off
+Warming up At least 3 minutes 2 seconds Check
+ES
+A093766E21
+1. Connect the intelligent tester to the DLC3 (Procedure "A").
+2. Start the engine and warm it up with all the accessories switched OFF, until the engine coolant
+temperature stabilizes (Procedure "B").
+3. Run the engine at an engine speed of between 2,500 rpm and 3,000 rpm for at least 3 minutes
+(Procedure "C").
+4. While running the engine at 3,000 rpm for 2 seconds and 2,000 rpm for 2 seconds, check the
+waveforms of the A/F and HO2 sensors using the tester or scan tool (Procedure "D").
+NOTICE:
+The Air-Fuel Ratio (A/F) sensor has an output delay of a few seconds and the Heated Oxygen
+(HO2) sensor has a maximum output delay of approximately 20 seconds.
+A/F Sensor (Sensor 1) HO2 Sensor (Sensor 2) Main Suspected
+Case
+Output Voltage Output Voltage Trouble Area
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 %
+1 -
+Output Voltage Output Voltage
+More than 3.35 V More than 0.55 V
+Less than 3.0 V Less than 0.4 V
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 %
+• A/F sensor
+2 • A/F sensor heater
+Output Voltage Output Voltage • A/F sensor circuit
+Almost More than 0.55 V
+no reaction Less than 0.4 V
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 %
+• HO2 sensor
+3 • HO2 sensor heater
+Output Voltage Output Voltage • HO2 sensor circuit
+More than 3.35 V Almost
+Less than 3.0 V no reaction
+Injection volume Injection Volume
++25 % +25 % • Fuel pressure
+-12.5 % -12.5 % • Gas leakage from
+exhaust system
+4
+Output Voltage Output Voltage (Air-fuel ratio
+Almost Almost extremely lean or
+no reaction no reaction rich)

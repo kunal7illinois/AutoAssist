@@ -1,0 +1,38 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-33
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 7. Check for open circuit and harness damage
+between volume air flow sensor connector B-105 (terminal
+7) and ECM connector C-49 (terminal 19) <M/T> or PCM
+connector C-50 (terminal 19) <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-14
+YES : Replace the ECM or PCM. Then go to Step 9.
+NO : Repair it. Then go to Step 9.
+VOLUME AIR
+FLOW SENSOR
+ACX02480AC
+CONNECTORS:C-49<M/T>,C-50<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-49,C-50
+AK000280BC
+STEP 8. Replace the volume air flow sensor.
+(1) Replace the volume air flow sensor.
+CONNECTOR : B-14
+(2) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(3) Check the diagnostic trouble code (DTC).
+VOLUME AIR
+FLOW SENSOR Q:Is the DTC P0101 is output?
+YES : Replace the ECM or PCM. Then go to Step 9.
+NO : The inspection is complete.
+ACX02480AC
+STEP 9. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0101 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+TSB Revision

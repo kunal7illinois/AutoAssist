@@ -1,0 +1,44 @@
+23A-236 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 4. Check the power supply voltage at A/T control
+relay connector A-17X.
+(1) Disconnect the A/T control relay and measure at the
+connector side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground.
+• Voltage should be battery positive voltage.
+HARNESS
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+CONNECTOR: B-17X
+Q:Is the voltage normal?
+2 1
+YES : Go to Step 6.
+4 3
+NO : Go to Step 5.
+AC102525AB
+STEP 5. Check connector C-07 at intermediate connector
+for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-07
+YES : Repair harness open circuit or short circuit to ground
+C-07
+between A/T control relay connector A-17X terminal 1
+and battery.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+AC001729AY
+STEP 6. Check the continuity at A/T control relay
+connector A-17X.
+(1) Disconnect the A/T control relay and measure at the
+connector side.
+(2) Check for the continuity between terminal 3 and ground.
+• Should be less than 2 ohm.
+HARNESS
+CONNECTOR: B-17X Q:Is the continuity normal?
+2 1 YES : Go to Step 7.
+NO : Repair harness open circuit or damage between A/T
+4 3
+control relay connector A-17X terminal 3 and the
+earth.
+AC102526AB
+TSB Revision

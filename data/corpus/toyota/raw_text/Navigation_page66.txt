@@ -1,0 +1,37 @@
+NS–66
+NAVIGATION – NAVIGATION SYSTEM
+4 CHECK RADIO AND NAVIGATION ASSEMBLY
+(a) Disconnect the radio and navigation assembly
+Wire Harness View:
+connector.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester connection Condition Specified condition
+ATX+ (F9-5) -
+Always 60 to 80 Ω
+ATX- (F9-15)
+F9
+NG REPLACE RADIO AND NAVIGATION
+ASSEMBLY
+ATX+
+ATX-
+E120099E03
+OK
+5 CHECK HARNESS AND CONNECTOR
+HINT:
+For details of the connectors, refer to "TERMINALS OF ECU"
+(See page NS-45).
+(a) Referring to the AVC-LAN wiring diagram below, check
+the AVC-LAN circuit between the radio and navigation
+assembly and the component which has stored this
+code.
+(1) Disconnect all connectors between the radio and
+navigation assembly and the component which has
+stored this code.
+(2) Check for an open or short in the AVC-LAN circuit
+between the radio and navigation assembly and the
+component which has stored this code.
+OK:
+There is no open or short circuit.
+NS

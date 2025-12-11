@@ -1,0 +1,39 @@
+ES–187
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+CONFIRMATION DRIVING PATTERN
+HINT:
+• This confirmation driving pattern is used in steps 5, 8 and 11 of the following diagnostic troubleshooting
+procedure when using an intelligent tester.
+• Performing this confirmation driving pattern will activate the Heated Oxygen (HO2) sensor monitor.
+(The catalyst monitor is performed simultaneously.) This is very useful for verifying the completion of a
+repair.
+NOTICE:
+This test will not be completed if the vehicle is driven under absolutely constant speed conditions
+such as with cruise control activated.
+Vehicle Speed
+Between (B)
+40 mph and 70 mph
+(64 km/h and 113 km/h) ES
+(A)
+Idling
+Ignition Switch OFF
+Warm up 10 minutes
+Time
+(Note: Even if vehicle stops during driving pattern, test can be resumed)
+A079199E48
+A098191E02
+1. Connect an intelligent tester to the DLC3.
+2. Turn the ignition switch on (IG).
+3. Turn the tester on.
+4. Clear the DTCs (where set) (See page ES-45).
+5. Select the following menu items: DIAGNOSIS / CARB OBD II / READINESS TESTS.
+6. Check that O2S EVAL is INCMPL (incomplete).
+7. Start the engine and warm it up (Procedure "A").
+8. Drive the vehicle at between 40 mph and 70 mph (64 km/h and 113 km/h) for at least 10 minutes
+(Procedure "B").
+9. Note the state of the Readiness Tests items. Those items will change to COMPL (complete) as O2S
+EVAL monitor operates.
+10.On the tester, select the following menu items: DIAGNOSIS / ENHANCED OBD II / DTC INFO /
+PENDING CODES and check if any DTCs (any pending DTCs) are set.
+HINT:
+If O2S EVAL does not change to COMPL, and any pending DTCs fail to set, extend the driving time.

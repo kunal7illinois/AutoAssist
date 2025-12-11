@@ -1,0 +1,46 @@
+BODY ELECTRICAL - SEAT BELT REMINDER SYSTEM BE-159
+(cid:4)REMINDER METHOD
+The timing chart of the buzzer and details of the reminder method are shown below.
+(cid:1) Timing Chart (cid:2)
+Ignition*1/ ON
+Engine*2Switch *3
+OFF
+Vehicle 20km/h (12mph)
+Speed or more
+0 mph
+Buckle Not Fasten
+Switch (D)
+Fasten
+Buckle Not Fasten
+Switch (P)
+Fasten
+Shift Position Hi
+(Reverse)
+Lo
+LVL2
+Buzzer LVL1
+OFF
+T4 T5 T4 T7 T8 T4 T7
+T1
+T2 T6 T3 T5
+T3
+Flash (0.4 sec.)
+Reminder
+Flash (1.2 sec.)
+Light (D)
+OFF
+Flash (0.4 sec.)
+Reminder
+Flash (1.2 sec.)
+Light (P)
+OFF
+0140BE193C
+T1: About 1.8 sec. T5: About 20 sec.
+T2: About 1.2 sec. x 5 T6: About 20 sec. or more
+T3: About 13.8 sec. T7: About 20 sec. or less
+T4: About 9.6 sec. T8: About 9.6 sec. or less
+*1: Models without smart key system
+*2: Models with smart key system
+*3: If the vehicle speed drops below the setting level for seat belt warning after a buzzer begins to sound,
+the buzzer will continue to sound. After the vehicle speed exceeds 20km/h (12 mph) again, the buzzer
+will stop.

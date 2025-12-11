@@ -1,0 +1,44 @@
+TW–68
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+2 INSPECT TIRE PRESSURE WARNING RESET SWITCH
+(a) Disconnect the tire pressure warning reset switch
+Tire Pressure Warning Reset Switch:
+connector.
+(b) Measure the resistance between terminals 1 and 2 of the
+tire pressure warning reset switch when the tire pressure
+warning switch is ON and OFF.
+Standard resistance
+ON
+Switch Condition Specified Condition
+2 1
+ON Below 1 Ω
+OFF
+OFF 10 kΩ or higher
+C107260E01
+NG REPLACE TIRE PRESSURE WARNING
+RESET SWITCH
+TW
+OK
+3 CHECK HARNESS AND CONNECTOR (TIRE PRESSURE WARNING RESET SW - TIRE
+PRESSURE WARNING ECU)
+(a) Disconnect the tire pressure warning reset switch E53
+Tire Pressure Warning Reset Switch:
+connector and tire pressure warning ECU E60
+(harness side connector)
+connector.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Switch Condition Specified Condition
+E60-1 (CLSW) - E53-1 Below 1 Ω
+E53
+E60-1 (CLSW) - Body ground 10 kΩ or higher
+E53-2 - Body ground Below 1Ω
+NG REPAIR OR REPLACE HARNESS OR
+Tire Pressure Warning ECU:
+CONNECTOR
+E60
+CLSW
+C111010E06
+OK
+REPLACE TIRE PRESSURE WARNING ECU

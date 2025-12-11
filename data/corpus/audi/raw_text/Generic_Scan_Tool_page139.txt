@@ -1,0 +1,51 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Using a multimeter, check the Intake Manifold Runner Position
+Sensor -G336- electrical harness connector terminals 1 to 3
+for voltage.
+Specified value: about 5 V
+– Switch ignition off.
+If the specified value was not obtained:
+– Check and/or repair wiring as required.
+If the specified value was obtained:
+Checking internal resistance
+– Using a multimeter, check the Intake Manifold Runner Position
+Sensor -G336- electrical terminals 2 to 3 for resistance.
+Specified value: 7-25 Ω (at approx. 20° C)
+– Using a multimeter, check the Intake Manifold Runner Position
+Sensor -G336- electrical terminals 1 to 3 for resistance.
+Specified value: 244 [+/- 40] Ω (at approx. 20° C)
+If the specified values were not obtained:
+– Replace the Intake Manifold Runner Position Sensor -G336- .
+Refer to appropriate service manual.
+If the specified value was obtained:
+Checking wiring
+If the manufacturers test box is being used, perform the following
+step.
+– Install the test box.
+If the manufacturers test box is not being used, perform the fol‐
+lowing step.
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+appropriate service manual.
+– Using a multimeter, check the Intake Manifold Runner Position
+Sensor -G336- electrical harness connector terminals to the
+Engine Control Module (ECM) -J623- electrical harness con‐
+nector T60 terminals for an open circuit.
+Intake Manifold Runner Posi‐ Engine Control Module (ECM) -
+tion Sensor -G336- electrical J623- electrical connector T60
+harness connector terminals terminals or test box socket
+1 26
+2 22
+3 14
+Specified value: 1.5 Ω Max.
+If the specification was not obtained:
+– Check the wiring for a short circuit to Battery (+), or an open
+circuit.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is detected in the wiring :
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+appropriate service manual.
+135
+3. Diagnosis and Testing

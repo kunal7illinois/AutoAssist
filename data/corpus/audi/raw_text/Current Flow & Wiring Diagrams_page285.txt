@@ -1,0 +1,69 @@
+Audi TT No. 35 / 3
+Current Flow Diagram
+Convertible roof actuation control unit, right and front latch
+switch for convertible roof, convertible roof actuation
+button, convertible roof actuation switch illumination bulb,
+convertible roof actuation hydraulic pump
+E137 Convertible roof actuation switch
+F170 Right latch switch for convertible roof
+F172 Front latch switch for convertible roof
+J256 Convertible roof actuation control unit
+8888 J393 Convenience system central control unit
+0,5 L72 Convertible roof actuation switch illumination bulb
+gr/bl T2z 2-pin connector, black, in rear left side panel
+L72 3/58s T2ak 2-pin connector, black, right A-pillar
+T2al 2-pin connector, black, left A-pillar
+E137 T10v 10-pin connector, black, connector A, on convertible roof
+1 2 4/31 actuation control unit
+T18g 18-pin connector, brown, connector A, on convenience system
+central control unit
+0,35 0,35 0,35 T20v 20-pin connector, red, connector B, on convertible roof actuation
+bl/ws gn/ws br
+control unit
+V118 Convertible roof actuation hydraulic pump
+9922
+T
+/1
+2
+6
+0v
+T20v/5
+J256
+43 Earth point, lower part of right A-pillar
+T
+/1
+1
+0
+0v T10v/3 J393 T20v/7
+4488 388 Earth connection 23, in main wiring harness
+T18g/7
+✱
+2,5 2,5 0,35 0,35 0,35
+ro sw br/ro br/ro br 389 Earth connection 24, in main wiring harness
+T2z/1 T2z/2 T2al/1 T2ak/2 390 Earth connection 25, in main wiring harness
+✱
+ro sw 0,5 0,5 0,35 * manual convertible roof actuation
+sw sw br
+388
+1 1,0
+br
+M
+V118 F172 F170
+2 389
+0,5 0,5 2,5
+sw sw br
+ws = white
+390 sw = black
+T2al/2 T2ak/1
+ro = red
+br = brown
+0,35 4,0 gn = green
+br/gr br
+bl = blue
+gr = grey
+43 li = purple
+ge = yellow
+15 16 17 18 19 20 21 22 23 24 25 26 27 28 or = orange
+8J0-035031010
+rs = pink
+Edition 10.2010

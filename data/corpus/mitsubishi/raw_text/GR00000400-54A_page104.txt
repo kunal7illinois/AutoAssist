@@ -1,0 +1,44 @@
+54A-104 CHASSIS ELECTRICAL
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+THERMISTOR
+CAUTION
+After finishing this test, wipe the unit dry and install it in
+the fuel tank.
+1. Connect the fuel gauge unit (thermistor) to the battery via a
+THERMISTOR test light (12V − 3.4W). Immerse in water.
+GROUND THERMISTOR
+2. Condition is good if the light goes off when the thermistor is
+immersed in water and comes on when it is taken out of
+ILLUMINATED water.
+3. If all check result are correct, the fuel gauge unit is OK. If
+either check result is not correct, replace the fuel gauge unit.
+NOT
+ILLUMINATED
+AC001292AB
+ENGINE COOLANT TEMPERATURE GAUGE UNIT
+CHECK
+M1543001500202
+1. Drain the engine coolant. (Refer to GROUP 00,
+Maintenance Service − Engine Coolant P.00-56.)
+2. Remove the engine coolant temperature gauge unit.
+3. Immerse the unit in 70°C (158°F) water to measure the
+resistance.
+Standard value: 104 ± 13.5 ohms
+Reference value
+Temperature Resistance
+50°C (122°F) 230 Ω
+60°C (140°F) 155 Ω
+80°C (176°F) 73 Ω
+ACX00779AB
+4. If within the standard value, the sensor is OK. Reinstall it,
+then check the engine coolant temperature gauge (Refer to
+P.54A-106). If not within the standard value, replace it.
+5. After checking, apply the 3M(cid:1) AAD Part No. 8731 or
+equivalent around the threads of the engine coolant
+temperature gauge unit.
+6. Add engine coolant. (Refer to GROUP 00, Maintenance
+Service − Engine Coolant P.00-56.)
+16 ± 2 N·m
+11 ± 1 ft-lb
+ACX00780AB
+TSB Revision

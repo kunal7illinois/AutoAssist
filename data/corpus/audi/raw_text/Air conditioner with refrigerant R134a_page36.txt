@@ -1,0 +1,47 @@
+Audi 100 1991 ➤ , Audi 80 1992 ➤ , Audi A1 2011 ➤ , Audi A2 2001 ➤ , A ...
+Air conditioner with refrigerant R134a - Edition 06.2010
+2.5.9 Air conditioning system compressor
+speed sender -G111-
+Inductive sender
+The sender pulses (4 per compressor revolution) and the engine
+speed enable the operating and display unit for Climatronic air
+conditioning system -E87- or the Climatronic control unit -J255-
+to calculate the belt slip.
+If the belt slip exceeds a specified value, the air conditioner com‐
+pressor is switched off by the control unit via the magnetic clutch.
+Note
+♦ Fitted in Audi vehicles with compressor driven via poly V-belt
+and Zexel compressor ⇒ Heating, air conditioning; Rep. gr.
+87 or ⇒ Air conditioning; Rep. gr. 87 (vehicle-specific work‐
+shop manual).
+♦ The logo of the compressor manufacturer „Zexel“ affixed to the
+air conditioner compressor was switched as of year of pro‐
+duction 2006 (when the manufacturer's name changed) from
+„Zexel“ to the new name „Valeo“.
+2.5.10 Refrigerant temperature sender -G454-
+The refrigerant temperature sender (with a temperature-sensitive
+resistor) is installed, for example, in the high-pressure pipe next
+to the air conditioner compressor.
+In the refrigerant circuit, there is a direct relationshi p between
+temperature and pressure. If there is insufficient refrigerant in the
+circuit, the temperature in the refrigerant circuit during air condi‐
+tioner operation will increase more sharply than envisaged for this
+pressure.
+Note
+♦ Fitted, for example, on the Audi Q7 with certain engines ⇒ Air
+conditioning; Rep. gr. 87 (vehicle-specific workshop manual)
+and ⇒ Current flow diagrams, Electrical fault finding and Fitting
+locations
+♦ The operating and display unit, Climatronic control unit -J255-
+evaluates the pressure and the temperature in the refrigerant
+circuit and switches off the air conditioner compressor if the
+temperature increases above the value stored for this pres‐
+sure ⇒ Air conditioning; Rep. gr. 87 (vehicle-specific work‐
+shop manual) and ⇒ Vehicle diagnostic tester ( „Self-
+diagnosis“ or „Guided fault-finding“ function for the air
+conditioner).
+2.6 Electrical components not installed in
+refrigerant circuit
+♦ Radiator fan control unit -J293- ⇒ page 33
+32
+Rep. gr.87 - Air conditioning system

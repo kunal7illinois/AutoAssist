@@ -1,0 +1,39 @@
+ES–186
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Required Sensors/Components (Main) Camshaft Position (CMP) sensor
+Required Sensors/Components (Related) Crankshaft Position (CKP) sensor
+Frequency of Operation Continuous
+4 seconds: CMP sensor range check
+Duration
+5 seconds: Camshaft position/crankshaft position misalignment
+2 driving cycles: CMP sensor range check
+MIL Operation
+Immediate: Camshaft position/crankshaft position misalignment
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+All:
+Monitor runs whenever following DTCs not present None
+ES
+Camshaft Position Sensor Range Check:
+Starter ON
+Minimal battery voltage while starter ON Less than 11 V
+Camshaft Position/Crankshaft Position Misalignment:
+Engine speed 600 rpm or more
+Starter OFF
+TYPICAL MALFUNCTION THRESHOLDS
+Camshaft Position Sensor Range Check:
+CMP sensor signal No signal
+Camshaft Position/Crankshaft Position Misalignment:
+Camshaft position and crankshaft position phase Misaligned
+COMPONENT OPERATING RANGE
+• CMP sensor output voltage fluctuates while camshaft revolving
+CMP sensor
+• 3 CMP sensor signals per 2 crankshaft revolutions
+WIRING DIAGRAM
+Refer to DTC P0335 (see page ES-174).
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.

@@ -1,0 +1,56 @@
+AUTOMATIC TRANSAXLE 23A-325
+AUTOMATIC TRANSAXLE DIAGNOSIS
+MUT-II SCAN ITEM INSPECTION ITEM INSPECTION REQUIREMENT NORMAL
+TOOL NO. CONDITION
+DISPLAY
+PNP 61 Park/Neutral position Ignition switch: ON Selector lever P
+SWITCH switch position: P
+Selector lever R
+position: R
+Selector lever N
+position: N
+Selector lever D
+position: D
+Selector lever 3
+position: 3 <Vehicles
+without sport mode>
+Selector lever 2
+position: 2 <Vehicles
+without sport mode>
+Selector lever L
+position: L <Vehicles
+without sport mode>
+SELECT SW 67 Select switch Ignition switch: ON Selector lever OFF
+<Vehicles with sport position: D
+mode>
+Selector lever ON
+operation: Select
+sport mode
+Selector lever ON
+operation: Upshift
+and hold the selector
+lever
+Selector lever ON
+operation: Downshift
+and hold the selector
+lever
+SHIFT POS 63 Shift position Selector lever Driving at constant 1st
+position: L, 2, 3, D speed of 10 km/h
+<Vehicles without (6.2 mph) in 1st gear
+sport mode> or
+Driving at constant 2nd
+Sport mode
+speed of 30 km/h (19
+<Vehicles with
+mph) in 2nd gear
+sport mode>
+Driving at constant 3rd
+speed of 50 km/h (31
+mph) in 3rd gear
+Driving at constant 4th
+speed of 50 km/h (31
+mph) in 4th gear
+Selector lever Driving at constant REV
+position: R speed of 5 km/h (3.1
+mph) in reverse gear
+TSB Revision

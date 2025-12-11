@@ -1,0 +1,84 @@
+ES–50
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Intelligent Tester Display Measurement: Range (Display) Normal Condition*1 Diagnostic Note
+• When accelerator pedal
+Throttle actuator opening duty depressed, duty ratio
+THROTL OPN DUTY ratio: 0 to 40 %: During idling increased
+Min.: 0 %, Max.: 100 % • Read value with ignition switch
+ON (Do not start engine)
+• When accelerator pedal
+released quickly, duty ratio
+Throttle actuator closed duty ratio:
+THROTL CLS DUTY 0 to 40 %: During idling increased
+Min.: 0 %, Max.: 100 %
+• Read value with ignition switch
+ON (Do not start engine)
+Throttle actuator duty ratio (open):
+THRTL MOT (OPN) 0 to 40 %: During idling ETCS service data
+Min.: 0 %, Max.: 100 %
+Throttle actuator duty ratio
+THRTL MOT (CLS) (closed): 0 to 40 %: During idling ETCS service data
+ES
+Min.: 0 %, Max.: 100 %
+Performing INJ VOL or A/F
+Heated oxygen sensor output
+0.1 to 0.9 V: Driving at 70 km/h CONTROL function of ACTIVE
+O2S B1 S2 voltage for sensor 2:
+(44 mph) TEST enables technician to check
+Min.: 0 V Max.: 1.275 V
+output voltage of sensor
+Performing INJ VOL or A/F
+A/F sensor output voltage for
+CONTROL function of ACTIVE
+AFS B1 S1 sensor 1: 2.8 to 3.8 V: Idling
+TEST enables technician to check
+Min.: 0 V Max.: 7.999 V
+output voltage of sensor
+Total fuel trim value for fuel
+TOTAL FT #1 system: -0.2 to 0.2 -
+Min.: -0.5, Max.: 0.496
+Short-term fuel compensation
+Short-term fuel trim:
+SHORT FT #1 -20 to 20 % used to maintain air-fuel ratio at
+Min.: -100 %, Max.: 99.2 %
+stoichiometric air-fuel ratio
+Overall fuel compensation carried
+Long-term fuel trim: out in long-term to compensate
+LONG FT #1 -20 to 20 %
+Min.: -100 %, Max.: 99.2 % continual deviation of short-term
+fuel trim from central value
+• OL (Open Loop): Has not yet
+satisfied conditions to go
+closed loop
+• CL (Closed Loop): Using A/F
+sensor as feedback for fuel
+control
+Fuel system status:
+• OL DRIVE: Open loop due to
+FUEL SYS #1 OL or CL or OL DRIVE or OL CL: Idling after warming up
+driving conditions (fuel
+FAULT or CL FAULT
+enrichment)
+• OL FAULT: Open loop due to
+detected system fault
+• CL FAULT: Closed loop but A/
+F sensor, which used for fuel
+control malfunctioning
+Short-term fuel trim associated
+O2FT B1 S2 with sensor 2: - -
+Min.: -100 %, Max.: 99.2 %
+• Value less than 1 (0.000 to
+0.999) =Lean
+Short-term fuel trim associated
+• Stoichiometric air-fuel
+AF FT B1 S1 with sensor 1: -
+ratio=1
+Min.: 0, Max.: 1.999
+• Value greater than 1 (1.001
+to 1.999) = Rich
+A/F sensor current:
+AFS B1 S1 - -
+Min.: -128 mA, Max.: 127.99 mA
+Estimated catalyst temperature
+CAT TEMP B1S1 (sensor 1): - -
+Min.: -40°C, Max.: 6,513.5°C

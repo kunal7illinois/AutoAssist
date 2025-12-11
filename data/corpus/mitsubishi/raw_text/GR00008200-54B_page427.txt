@@ -1,0 +1,33 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-427
+SYMPTOM PROCEDURES
+STEP 23. Check the wiring harness between trunk light
+connector F-21 (terminal 2) and ETACS-ECU connector C-
+118 (terminal 52).
+NOTE: Also check intermediate connector C-90. If intermediate
+CONNECTOR <ECLIPSE SPYDER>: F-21
+connector C-90 is damaged, repair or replace the connector as
+described in GROUP 00E, Harness Connector Inspection
+1 DEVICE SIDE P.00E-2.
+2
+AC106491AP
+CONNECTOR: C-118
+DEVICE SIDE
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+Q:Is the wiring harness between trunk light connector F-
+CONNECTOR: C-90
+21 (terminal 2) and ETACS-ECU connector C-118
+CONNECTOR BLOCK (LH)
+(terminal 52) in good condition?
+YES : Go to Step 24.
+NO : Repair the wiring harness. Check that the trunk lights
+illuminate normally.
+1 2 3 4 5 6 7 8 9
+1011121314 15 161718192021
+2223242526 27 2829 30313233
+34353637 38 3940 414243
+AC106477AE
+TSB Revision

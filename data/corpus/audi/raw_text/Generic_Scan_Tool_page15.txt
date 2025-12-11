@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+⇒ “3.3.1 Diagnostic Mode 01 - Read Current System Data”, page
+11
+⇒ “3.3.2 Diagnostic Mode 02 - Read Operating Conditions”, page
+12
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”, page 14
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”, page 15
+⇒ “3.3.5 Diagnostic Mode 05 - Read Oxygen Sensor Monitoring
+Test Results”, page 16
+⇒ “3.3.6 Diagnostic Mode 06 - Read Test Results for Specific Di‐
+agnostic Functions ”, page 16
+⇒ “3.3.7 Diagnostic Mode 07 - Read Faults Detected During the
+Current or Last Driving Cycle”, page 24
+⇒ “3.3.8 Diagnostic Mode 08 - Request Control of On-Board Sys‐
+tem, Test or Component ”, page 25
+⇒ “3.3.9 Diagnostic Mode 09 - Read Vehicle Information”,
+page 25
+⇒ “3.3.10 Diagnostic Mode 0A - Check Permanent DTC Memory”,
+page 26
+3.3.1 Diagnostic Mode 01 - Read Current Sys‐
+tem Data
+Diagnostic Mode 01 makes it possible to access current emis‐
+sions-related measured values and diagnostic data. The original
+measured values (no replacement values), input and output data
+and system status information are displayed using Diagnostic
+Mode 1.
+Test requirement
+• Coolant temperature at least 80 °C.
+Procedure
+– Connect the scan tool.
+– Start the engine and run at idle.
+– Select “Diagnostic Mode 1: Obtain data.”.
+– From the following table, select the desired the “PID” that is to
+be monitored, e.g. “PID 05 Coolant temperature”.
+The current values of the component or system that is being
+monitored will be displayed on the scan tool screen.
+PID Component or System
+$00: supported PIDS $01 thru $20
+$01: Monitoring status since erasing DTC memory
+$03: Condition of fuel system
+$04: Calculated load value
+$05: Coolant temperature
+$06: Short term air fuel ratio
+$07: Long term air fuel ratio
+$0B: Intake Manifold Absolute Pressure
+$0C: Engine RPM
+$0D: Vehicle speed
+$0E: Ignition timing advance for #1 cylinder
+$0F: Intake air temperature
+11
+3. Diagnosis and Testing

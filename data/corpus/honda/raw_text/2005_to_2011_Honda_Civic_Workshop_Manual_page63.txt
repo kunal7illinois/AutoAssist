@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+Is DTC 86-FF Indicated?
+YES - Replace the ABS modulator-control unit: Except Si model (see
+REMOVAL - EXCEPT SI MODEL ), Si model (see REMOVAL - SI
+MODEL ).
+NO - Intermittent failure, the system is OK at this time.
+SYMPTOM TROUBLESHOOTING
+ABS INDICATOR DOES NOT GO OFF, AND NO DTCS ARE STORED
+1. Check for the communication between the vehicle and the HDS.
+Is there the communication?
+YES - Check for loose terminals in the gauge control module (tach) 36P
+connector. If necessary, substitute a known-good gauge control module (tach),
+then recheck. If it is OK, replace the original gauge control module (tach) (see
+TACHOMETER ).
+NO - If the HDS does not communicate with all the systems of the vehicle,
+troubleshoot the DLC circuit: Except Si model (see DLC CIRCUIT
+TROUBLESHOOTING ), Si model (see DLC CIRCUIT
+TROUBLESHOOTING ). If the HDS does not communicate with only ABS,
+go to step 2.
+2. Turn the ignition switch to LOCK (0).
+3. Check the No. 4 (7.5 A) fuse in the under-dash fuse/relay box.
+Is the fuse blown?
+YES - Install the new No. 4 (7.5 A) fuse, and recheck. If the fuse continues to
+blow, check for short to body ground in the wire between the No. 4 (7.5 A)
+fuse in the under-dash fuse/relay box and the ABS modulator-control unit. If
+necessary, substitute a known-good ABS modulator-control unit: Except Si
+model (see REMOVAL - EXCEPT SI MODEL ), Si model (see
+REMOVAL - SI MODEL ), and retest.

@@ -1,0 +1,66 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-3
+GENERAL DESCRIPTION
+GENERAL DESCRIPTION
+.
+M1131000100251
+.The Multiport Fuel Injection System consists of sen- when the A/C switch is turned off and on while the
+engine is idling, the IAC motor adjusts the throttle
+sors, actuators and the engine control module (ECM)
+valve bypass air amount. Thus, idle speed is main-
+<M/T> or powertrain control module (PCM) <A/T>.
+tained at constant speed regardless of various
+The sensors detect the engine condition. The mod-
+engine load conditions.
+ule controls the system based on signals from these
+sensors. The actuators work under the control of the
+.
+ECM <M/T> or PCM <A/T>. The ECM <M/T> or IGNITION TIMING CONTROL
+PCM <A/T> carries out activities such as fuel injec- The ignition power transistor located in the ignition
+tion control, idle air control, and ignition timing con- primary circuit turns on and off to control primary cur-
+trol. In addition, the ECM <M/T> or PCM <A/T> is rent flow to the ignition coil. This maintains ignition
+equipped with several diagnostic test modes which timing at an optimum level regardless of various
+simplify troubleshooting when a problem develops. engine operating conditions. The ECM <M/T> or
+PCM <A/T> determines the ignition timing according
+. to engine speed, intake air volume, engine coolant
+FUEL INJECTION CONTROL
+temperature, and atmospheric pressure.
+The ECM <M/T> or PCM <A/T> controls injector
+drive times and injection timing to supply the opti-
+.
+mum air/fuel mixture to the engine according to the DIAGNOSTIC TEST MODE
+continually-changing engine operation conditions. A • When a fault is detected in any of the sensors or
+single injector is mounted at the intake port of each actuators related to emission control, the SER-
+cylinder. The fuel pump supplies pressurized fuel VICE ENGINE SOON/MALFUNCTION INDICA-
+from the fuel tank to the fuel injectors. The fuel pres- TOR LAMP illuminates to warn the driver.
+sure regulator controls the fuel pressure. Thus, the • When a fault is detected in one of the sensors or
+regulated fuel is distributed to each injector. Fuel is actuators, a diagnostic trouble code correspond-
+normally injected for each cylinder every two rota- ing to the fault is stored in the ECM <M/T> or
+tions of the crankshaft. The firing order is 1-3-4-2. PCM <A/T>.
+Each cylinder has a dedicated fuel injector. This is • The RAM data inside the ECM <M/T> or PCM
+called "multiport." The ECM <M/T> or PCM <A/T> <A/T> that is related to the sensors and actuators
+provides a richer air/fuel mixture by carrying out can be read with the scan tool. In addition, the
+"open-loop" control when the engine is cold or run- actuators can be controlled by the scan tool MUT-
+ning under high load conditions. Thus, engine perfor- II (MB991502) under certain circumstances.
+mance is maintained. In addition, when the engine is
+under normal operating temperature after warming- . OTHER CONTROL FUNCTIONS
+up, the ECM <M/T> or PCM <A/T> controls the air/ • Fuel Pump Control
+fuel mixture according to the heated oxygen sensor Turns on the fuel pump relay so that current is
+signal. This control is a "closed-loop" control. The supplied to the fuel pump while the engine is
+closed-loop control achieves the theoretical air/fuel cranking or running.
+mixture ratio where the catalytic converter can obtain • A/C Compressor Clutch Relay Control
+the maximum cleaning performance.
+Turns on and off the air conditioning compressor
+clutch.
+.
+IDLE AIR CONTROL • Evaporative Emission Purge Control
+The engine control module controls the amount of air (Refer to GROUP 17, Emission Control System −
+that bypasses the throttle valve according to Evaporative Emission Control System − General
+changes in idling conditions and engine load during
+Information P.17-97.)
+idling. Thus, idle speed is kept at an optimum speed. • EGR Control
+The ECM <M/T> or PCM <A/T> drives the idle air (Refer to GROUP 17, Emission Control System −
+control (IAC) motor according to engine coolant tem- Exhaust Gas Recirculation (EGR) System − Gen-
+perature, A/C, and other electrical load. Thus, idle
+eral Information P.17-103.)
+speed is kept at an optimum speed. In addition,
+TSB Revision

@@ -1,0 +1,44 @@
+G
+Position of Parts in Engine Compartment
+[2GR–FE]
+C55 C40 C36 C38 C57
+C42
+V2
+C43
+V1
+C41
+C37
+C48
+C49
+C47
+C35
+C46
+C39
+C45
+C56
+C53 C50 C52 C51 C44 C34 D1
+C34 VSV (ACM) D 1 Starter
+C35 Air Fuel Ratio Sensor (Bank 2 Sensor 1)
+C36 Fuel Injector (No.5) V 1 Knock Control Sensor (Bank 2)
+C37 Fuel Injector (No.6) V 2 Knock Control Sensor (Bank 1)
+C38 Ignition Coil (No.5)
+C39 Ignition Coil (No.6)
+C40 VVT Sensor (Bank 1 Exhaust Side)
+C41 VVT Sensor (Bank 1 Intake Side)
+C42 Camshaft Timing Oil Control Valve (RH Exhaust Side)
+C43 Camshaft Timing Oil Control Valve (RH Intake Side)
+C44 VVT Sensor (Bank 2 Exhaust Side)
+C45 VVT Sensor (Bank 2 Intake Side)
+C46 Camshaft Timing Oil Control Valve (LH Exhaust Side)
+C47 Camshaft Timing Oil Control Valve (LH Intake Side)
+C48 VSV (ACIS)
+C49 Noise Filter (Ignition LH)
+C50 Crankshaft Position Sensor
+C51 Heated Oxygen Sensor (Bank 2 Sensor 2)
+C52 Heated Oxygen Sensor (Bank 1 Sensor 2)
+C53 A/C Compressor
+C55 Engine Control Module
+C56 Transmission Control ECU
+C57 Junction Connector
+51
+CAMRY (EM0250U)

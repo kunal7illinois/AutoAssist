@@ -1,0 +1,38 @@
+Audi TT No. 3 / 9
+Current Flow Diagram
+Engine control unit, engine speed sender, knock sensors
+G28 Engine speed sender
+G61 Knock sensor 1
+G66 Knock sensor 2
+J623 Engine control unit
+T2a 2-pin connector, black, on knock sensor 2
+T3a 3-pin connector, grey, on engine speed sender
+T3b 3-pin connector, black, on knock sensor 1
+T40 40-pin connector, black, on engine control unit
+220 Earth connection (sender earth), in engine wiring harness
+D106 Connection 4, in engine compartment wiring harness
+J623
+T40/82 T40/90 T40/106 T40/107 T40/99
+D106
+0,35 0,35 0,35 0,35
+sw sw sw ws/br
+220
+220
+0,35 0,35 0,35 0,35 0,35 0,35
+ws br br/ro ws/br ro li
+0,35 0,35
+sw sw
+T3a/3 T3a/2 T3a/1 T3b/1 T3b/2 T3b/3 T2a/1 T2a/2
+ws = white
+G28 G61 G66 sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+99 100 101 102 103 104 105 106 107 108 109 110 111 112 or = orange
+8J0-003090806
+rs = pink
+Edition 10.2010

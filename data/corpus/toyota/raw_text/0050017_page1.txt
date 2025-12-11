@@ -1,0 +1,51 @@
+ES–87
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Oxygen Sensor Heater Control Circuit Low
+DTC P0037
+(Bank 1 Sensor 2)
+Oxygen Sensor Heater Control Circuit High
+DTC P0038
+(Bank 1 Sensor 2)
+Oxygen Sensor Heater Circuit Malfunction
+DTC P0141
+(Bank 1 Sensor 2)
+DESCRIPTION
+ES
+Refer to DTC P0136 (see page ES-129).
+HINT:
+• When any of these DTCs are set, the ECM enters fail-safe mode. The ECM turns off the Heated
+Oxygen (HO2) Sensor heater in fail-safe mode. Fail-safe mode continues until the ignition switch is
+turned OFF.
+• The ECM provides a pulse width modulated control circuit to adjust the current through the heater. The
+HO2 sensor heater circuit uses a relay on the B+ side of the circuit.
+Reference (System Diagram of Sensor 2):
+HO2 Sensor ECM
+EFI MAIN
+EFI MAIN Heater
+from +B HT1B HT1B
+Battery
+EFI NO. 1
+Sensor
+E2 OX1B OX1B
+EX1B
+MREL
+Ground
+A133556E01
+DTC No. DTC Detection Conditions Trouble Areas
+• Open in HO2 sensor heater circuit
+Heated Oxygen (HO2) sensor heater current less than 0.3 A • HO2 sensor heater (sensor 2)
+P0037
+(1 trip detection logic) • Integration relay (EFI MAIN relay)
+• ECM
+• Short in HO2 sensor heater circuit
+Heated Oxygen (HO2) sensor heater current more than 2 A • HO2 sensor heater (sensor 2)
+P0038
+(1 trip detection logic) • Integration relay (EFI MAIN relay)
+• ECM
+• Open or short in HO2 sensor heater circuit
+Cumulative heater resistance correction value exceeds
+• HO2 sensor heater (sensor 2)
+P0141 threshold
+• Integration relay (EFI MAIN relay)
+(2 trip detection logic)
+• ECM

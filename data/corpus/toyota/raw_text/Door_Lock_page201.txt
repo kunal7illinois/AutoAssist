@@ -1,0 +1,33 @@
+DL–191
+DOOR LOCK – SMART KEY SYSTEM
+INSPECTION PROCEDURE
+1 CHECK HARNESS AND CONNECTOR (CERTIFICATION ECU - ELECTRICAL KEY
+OSCILLATOR)
+(a) Disconnect the E58 ECU connector.
+Certification ECU: (b) Disconnect the oscillator connectors.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+E58
+Tester Connection (Symbols) Condition Specified Condition
+E58-12 (CG5B) - E56-3 (CLGB) Always Below 1 Ω
+E58-11 (CLG5) - E56-1 (CLG3) Always Below 1 Ω
+E58-14 (CG6B) - N11-3 (CLGB) Always Below 1 Ω
+E58-13 (CLG6) - N11-1 (CLG4) Always Below 1 Ω
+E58-12 (CG5B) - Body ground Always 10 kΩ or higher
+CLG5
+CG6B E58-11 (CLG5) - Body ground Always 10 kΩ or higher
+CG5B
+CLG6 E58-14 (CG6B) - Body ground Always 10 kΩ or higher
+E58-13 (CLG6) - Body ground Always 10 kΩ or higher
+Electrical Key Oscillator (Console):
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E56
+CLGB CLG3
+Electrical Key Oscillator (Rear Seat):
+N11 DL
+CLGB
+CLG4
+B137966E01
+OK

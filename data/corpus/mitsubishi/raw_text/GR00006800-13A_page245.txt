@@ -1,0 +1,25 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-245
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 17. Check connector C-60 at ECM <M/T> or
+connector C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-60<M/T>,C-54<A/T>
+YES : Go to Step 18.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 21.
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+STEP 18. Check for harness damage between MFI relay
+connector A-18X (terminal 4) and crankshaft position
+sensor connector B-20 (terminal 3).
+Q:Is the harness wire in good condition?
+CONNECTOR: A-18X
+YES : Go to Step 19.
+MFI RELAY NO : Repair it. Then go to Step 21.
+AK101363AB
+CONNECTOR: B-20
+AK103528AB
+TSB Revision

@@ -1,0 +1,37 @@
+ES–200
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+A076855E02
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+ES (c) Turn the tester ON.
+(d) Clear DTCs (if set) (see page ES-35).
+(e) Select the following menu items: DIAGNOSIS / ENHANCED OBD II / DATA LIST / USER DATA / CAT
+CMPL.
+(f) Check that CAT CMPL is INCMPL (incomplete).
+(g) Start the engine and warm it up.
+(h) Drive the vehicle at between 64 km/h and 113 km/h (40 mph and 70 mph) for at least 10 minutes.
+(i) Note the state of the Readiness Tests items. Those items will change to COMPL (complete) as CAT
+CMPL monitor operates.
+(j) On the tester, select the following menu items: DIAGNOSIS / ENHANCED OBD II / DTC INFO /
+PENDING CODES and check if any DTCs (any pending DTCs) are set.
+HINT:
+If CAT CMPL does not change to COMPL, and any pending DTCs fail to set, extend the driving time.
+CONDITIONING FOR SENSOR TESTING
+HINT:
+Perform the operation with the engine speeds and time durations described below prior to checking the
+waveforms of the A/F and HO2 sensors. This is in order to activate the sensors sufficiently to obtain the
+appropriate inspection results.
+Engine Speed
+(c) (d)
+3,000 rpm
+(d)
+2,000 rpm
+(b)
+Idling
+(a)
+Ignition Switch OFF Time
+Warming up At least 3 minutes
+2 seconds
+Check
+A118003E02
+(a) Connect the intelligent tester to the DLC3.

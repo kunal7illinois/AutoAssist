@@ -1,0 +1,43 @@
+EI–19
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+(e) Inspect using an oscilloscope.
+(1) Waveform 1 (Reference)
+Item Content
+Symbols (Terminal No.) CODE (E52-10) - AGND (E52-8)
+Tool Setting 2 V/DIV., 20 ms./DIV.
+GND Press engine switch and hold key close
+Condition
+to engine switch*
+HINT:
+*: Remove the key battery before performing this
+inspection.
+Tool Setting: 2 V/DIV., 20 ms./DIV.
+B139211E01
+(2) Waveform 2 (Reference)
+Item Content
+Symbols (Terminal No.) TXCT (E52-9) - AGND (E52-8)
+Tool Setting 2 V/DIV., 20 ms./DIV.
+Press engine switch and hold key close
+Condition
+GND to engine switch*
+HINT:
+*: Remove the key battery before performing this
+inspection.
+2. CHECK CERTIFICATION ECU
+Tool Setting: 2 V/DIV., 20 ms./DIV.
+B139212E01
+EI
+E58
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 11 10 9 8 7 6 5 4 3 2 1
+40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 1918 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12
+B106648E23
+(a) Disconnect the E58 ECU connector.
+(b) Measure the resistance and voltage according to
+the value(s) in the table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+E (E58-17) - Body ground W-B - Body ground Ground Always Below 1 Ω
++B (E58-1) - E (E58-17) W - W-B +B power supply Always 10 to 14 V
+IG (E58-18) - E (E58-17) LG - W-B Ignition power supply Engine switch off Below 1 V
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the E58 ECU connector.

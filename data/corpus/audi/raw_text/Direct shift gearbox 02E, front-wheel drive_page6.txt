@@ -1,0 +1,38 @@
+Audi TT 2007 ➤
+Direct shift gearbox 02E, front-wheel drive - Edition 12.2006
+2 Code letters, gearbox allocation, ratios, equipment
+Direct shift gearbox 02E front-wheel drive
+Gearbox Code letters HXW JPP
+Manufac‐ fro 05.06 11.06
+tured m
+to
+Allocation Model Audi TT 2007 ▸ Audi TT 2007 ▸
+Engine 2.0 ltr. - TFSI 147 kW 2.0 ltr. - TFSI 147 kW
+4 cylinders 4 cylinders
+Ratios Final drive I 69 : 17 = 4.059 69 : 17 = 4.059
+for 1st to 4th gear
+Z2 : Z1 Final drive II 69 : 22 = 3.136 69 : 22 = 3.136
+for 5th/6th gear
+and reverse gear
+1st gear 45 : 13 = 3.461 45 : 13 = 3.461
+2nd gear 43 : 20 = 2.150 43 : 20 = 2.150
+3rd gear 41 : 28 = 1.464 41 : 28 = 1.464
+4th gear 41 : 38 = 1.078 41 : 38 = 1.078
+5th gear 35 : 32 = 1.094 35 : 32 = 1.094
+6th gear 35 : 38 = 0.921 35 : 38 = 0.921
+Reverse 22 : 14 x 33 : 13 = 3.99 22 : 14 x 33 : 13 = 3.99
+gear
+Overall ratio 2.888 2.888
+iov. in top gear
+2.1 Calculating ratio “i”
+Example:
+6th gear Final drive
+Drive gear ZG1 = 40 ZA1 = 20
+Driven gear ZG2 = 33 ZA2 = 72
+i = Z2 : Z1 (Z1 = number of teeth on drive gear, Z2 = number of
+teeth on driven gear)
+iG = gear ratio = ZG2 : ZG1 = 33 : 40 = 0.825
+iA = axle ratio = ZA2 : ZA1 = 72 : 20 = 3.6
+iov = overall ratio = iG x iA = 0.825 x 3.6 = 2.97
+2
+Rep. Gr.00 - Technical data

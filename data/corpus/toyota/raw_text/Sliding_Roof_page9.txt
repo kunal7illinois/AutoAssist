@@ -1,0 +1,49 @@
+RF–9
+SLIDING ROOF – SLIDING ROOF SYSTEM
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Ignition switch on (IG),
+UP (Q13-10) - E (Q13-2) W - W-B Sliding roof motor up sliding roof tilted 10 to 14 V
+downward, UP switch ON
+Ignition switch on (IG),
+DWN (Q13-8) - E (Q13-2) G - W-B Sliding roof motor down sliding roof tilted upward, Below 1 V
+DOWN switch OFF
+Ignition switch on (IG),
+DWN (Q13-8) - E (Q13-2) G - W-B Sliding roof motor down sliding roof tilted upward, 10 to 14 V
+DOWN switch ON
+If the result is not as specified, the ECU may have a
+malfunction.
+2. CHECK SLIDING ROOF DRIVE GEAR SUB-
+ASSEMBLY (SLIDING ROOF CONTROL ECU) (TMMK
+MADE)
+R1
+RF
+B050671E35
+(a) Disconnect the R1 ECU connector.
+(b) Measure the resistance and voltage according to
+the value(s) in the table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+B (R1-1) - E (R1-2) B - W-B +B power supply Always 10 to 14 V
+Ignition switch power
+IG (R1-5) - E (R1-2) Y - W-B Ignition switch off Below 1 V
+supply
+Ignition switch power
+IG (R1-5) - E (R1-2) Y - W-B Ignition switch on (IG) 10 to 14 V
+supply
+OPN (R1-10) - E (R1-2) BR - W-B Sliding roof motor open OPEN switch OFF 10 kΩ or higher
+OPN (R1-10) - E (R1-2) BR - W-B Sliding roof motor open OPEN switch ON Below 1 Ω
+CLS (R1-8) - E (R1-2) L - W-B Sliding roof motor closed CLOSE switch OFF 10 kΩ or higher
+CLS (R1-8) - E (R1-2) L - W-B Sliding roof motor closed CLOSE switch ON Below 1 Ω
+UP (R1-9) - E (R1-2) W - W-B Sliding roof motor up UP switch OFF 10 kΩ or higher
+UP (R1-9) - E (R1-2) W - W-B Sliding roof motor up UP switch ON Below 1 Ω
+DWN (R1-7) - E (R1-2) G - W-B Sliding roof motor down DOWN switch OFF 10 kΩ or higher
+DWN (R1-7) - E (R1-2) G - W-B Sliding roof motor down DOWN switch ON Below 1 Ω
+E (R1-2) - Body ground W-B - Body ground Ground Always Below 1 Ω
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the R1 ECU connector.
+(d) Measure the voltage according to the value(s) in the
+table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Ignition switch on (IG),
+OPN (R1-10) - E (R1-2) BR - W-B Sliding roof motor open sliding roof closed, OPEN Below 1 V
+switch OFF

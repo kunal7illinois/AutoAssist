@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 ACCESSORIES & EQUIPMENT Keyless/Power Door Locks/Security System - Civic (All Except Hybrid)
+1. Clear the DTCs with the HDS.
+2. Turn the ignition switch OFF, and then back ON (II).
+3. Operate the front passenger's door lock switch several times.
+4. Check for DTCs with the HDS.
+Is DTC B1026 indicated?
+YES - Go to step 5.
+NO - Intermittent failure. The front passenger's door lock system is OK at this
+time.
+5. With the front passenger's door lock switch in the neutral position, select
+KEYLESS from the HDS and enter the DATA LIST.
+6. Check the ON/OFF information of the FRONT PASSENGER'S DOOR LOCK
+SWITCH (LOCK) and FRONT PASSENGER'S DOOR LOCK SWITCH
+(UNLOCK) in the DATA LIST.
+Are both information indicators OFF?
+YES - Go to step 12.
+NO - Go to step 7.
+7. Disconnect the front passenger's power window switch 8P connector.
+8. Check the ON/OFF information of the FRONT PASSENGER'S DOOR LOCK
+SWITCH (LOCK) and FRONT PASSENGER'S DOOR LOCK SWITCH
+(UNLOCK) in the DATA LIST.
+Are both information indicators OFF?
+YES - Faulty door lock switch; replace the front passenger's power window
+switch.
+NO - Go to step 9.
+9. Turn the ignition switch OFF.

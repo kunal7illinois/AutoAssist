@@ -1,0 +1,36 @@
+DL–205
+DOOR LOCK – KEY REMINDER WARNING SYSTEM
+DATA LIST / ACTIVE TEST
+1. READ DATA LIST
+HINT:
+Using the intelligent tester to read the DATA LIST allows
+the values or states of switches, sensors, actuators and
+other items to be read without removing any parts. This
+non intrusive inspection can be very useful as
+intermittent conditions or signals may be discovered
+before parts or wiring is disturbed. Reading the DATA
+LIST information early in troubleshooting is one way to
+save diagnostic time.
+(a) Connect the intelligent tester to the Controller Area
+Network Vehicle Interface Module (CAN VIM). Then
+connect the CAN VIM to the DLC3.
+(b) Turn the ignition switch to the ON position.
+(c) Read the DATA LIST.
+DLC3
+Intelligent Tester
+C131977E01
+MAIN BODY:
+Measurement Item /
+Item Normal Condition Diagnostic Note
+Display (Range)
+ON: Key is in ignition key cylinder
+Unlock warning switch signal
+KEY UNLK WRN SW OFF: No key is in ignition key -
+/ON or OFF
+cylinder
+Driver's side door courtesy switch
+ON: Driver's side door is open
+D DOR CTY SW signal -
+OFF: Driver's side door is closed
+/ON or OFF
+DL

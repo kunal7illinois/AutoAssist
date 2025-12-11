@@ -1,0 +1,42 @@
+TW–46
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+Measurement Item/Range
+Item Normal Condition Diagnostic Note
+(display)
+ID3 tire inflation pressure/
+TIREPRESS3 min.: 0 kPa (0 kgf/cm2, 0 psi), max.: Actual tire inflation pressure -
+637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+ID4 tire inflation pressure/
+TIREPRESS4 min.: 0 kPa (0 kgf/cm2, 0 psi), max.: Actual tire inflation pressure -
+637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+ID5 tire inflation pressure/
+TIREPRESS5 min.: 0 kPa (0 kgf/cm2, 0 psi), max.: Actual tire inflation pressure -
+637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+(c) Rapidly reduce the tire pressure for each wheel at least
+40 kPa (0.41 kg/cm2, 5.8 psi) within 30 seconds.
+(d) Check the DATA LIST.
+NOTICE:
+• It takes about 1 minute or more to display the
+TW
+updated tire pressure data.
+• When no "Tire Inflation Pressure" data has
+changed, reset the tire pressure to the
+appropriate specified value and rotate the tire 90
+to 270 degrees. Then rapidly release the tire
+pressure and recheck it.
+• Record the transmitter ID of which "Tire Inflation
+Pressure" data corresponds to each tire.
+(e) After confirming that one of "Tire Inflation Pressure" data
+for one tire (ID1 to ID4 or ID5) has changed, repeat this
+procedure one by one. Identify the transmitter that
+corresponds to DTC.
+Result
+Condition Proceed to
+One or more of transmitters
+A
+abnormal
+All normal B
+All abnormal C
+A Go to step 4
+B END
+C

@@ -1,0 +1,54 @@
+Audi TT No. 26 / 7
+Current Flow Diagram
+Radio, digital sound package control unit, rear right treble
+loudspeaker, rear right mid-range and bass loudspeaker,
+middle loudspeaker
+J525 Digital sound package control unit
+R Radio
+R16 Rear right treble loudspeaker
+R36 Telephone transmitter and receiver unit
+R148 Middle loudspeaker
+R160 Rear right mid-range and bass loudspeaker
+T8a 8-pin connector, black, radio pin connector D
+T12g 12-pin connector, green, radio connector C
+T18b 18-pin connector, black, supply telephone preparation
+110066 110000
+T32a 32-pin connector, black, on digital sound package control unit
+T54 54-pin connector, connector A, on telephone transmitter and
+0,4 0,4
+receiver unit
+B483 Connection 19 in main wiring harness
+0,5 0,5
+sw sw
+B484 Connection 20 in main wiring harness
+R
+E1 E2 E3 E4 * models with preparation for mobile telephone (9ZF)
+** models with preparation for mobile telephone (9ZD)
+T12g/6 T12g T8a/11 T12g/6 T12g
+/12 /12
+R160 R16 R148 ✱ ✱ ✱✱ ✱✱ ✱✱
+0,5 0,5 0,35 0,5 0,5
+sw gn li sw gn
+1/-- 2/+ 1/-- 2/+ 1/-- 2/+
+T54/9 T54/8 T18b/4 T18b/7 T18b
+1,0 1,0 0,5 0,5 R36 R36 /16
+br bl br bl
+B483
+1,0 1,0 B484 2,5 2,5
+br/ws bl/ws br/sw ws/sw
+T32a
+T32a/13 T32a/14 /17 T32a/5
+ws = white
+J525
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+71 72 73 74 75 76 77 78 79 80 81 82 83 84 or = orange
+8J0-026070906
+rs = pink
+Edition 04.2009

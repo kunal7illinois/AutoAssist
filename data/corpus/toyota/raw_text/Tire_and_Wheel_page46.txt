@@ -1,0 +1,50 @@
+TW–45
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+INSPECTION PROCEDURE
+NOTICE:
+• When replacing the tire pressure warning ECU, read the IDs stored in the ECU using the
+intelligent tester and write them down before removal.
+• It is necessary to perform initialization (See page TW-18) after registration (See page TW-15) of
+the transmitter IDs into the tire pressure warning ECU after the ECU and/or valve and
+transmitter has been replaced.
+HINT:
+Set the tire pressure to the specified value.
+1 CHECK FREQUENCY RECEIVING CONDITION
+(a) Check if the vehicle is not located in areas such as
+described below:
+(1) Facilities or devices that use similar radio
+frequencies are located in the vicinity of the vehicle.
+TW
+HINT:
+If the vehicle is located in areas described above,
+the tire pressure warning light may come on only in
+a particular area.
+(2) Devices using similar radio frequencies are used in
+the vehicle.
+OK:
+Facilities, or devices that use similar radio
+frequencies are not located in the vicinity of
+the vehicle.
+HINT:
+Radio frequency may be interrupted due to
+surroundings or devices installed by user.
+NG CHECK IF ANY DEVICE IS INSTALLED BY
+USER
+OK
+2 IDENTIFY TRANSMITTER CORRESPONDING TO DTC
+(a) Set the tire pressure to the appropriate specified values.
+Cold tire inflation pressure
+Tire size Front kPa (kgf/cm2, psi) Rear kPa (kgf/cm2, psi)
+P215/60R16 94V 210 (2.1, 31) 210 (2.1, 31)
+P215/55R17 93V 220 (2.2, 32) 220 (2.2, 32)
+(b) Select "Tire inflation Pressure" by following the prompts
+displayed on the intelligent tester.
+Measurement Item/Range
+Item Normal Condition Diagnostic Note
+(display)
+ID1 tire inflation pressure/
+TIREPRESS1 min.: 0 kPa (0 kgf/cm2, 0 psi), max.: Actual tire inflation pressure -
+637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+ID2 tire inflation pressure/
+TIREPRESS2 min.: 0 kPa (0 kgf/cm2, 0 psi), max.: Actual tire inflation pressure -
+637.5 kPa (6.48 kgf/cm2, 92.2 psi)

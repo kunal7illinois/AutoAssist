@@ -1,0 +1,44 @@
+Audi TT No. 43 / 17
+Current Flow Diagram
+Engine control unit, oil pressure switch for reduced oil
+pressure, continued coolant circulation relay, continued
+coolant circulation pump
+F378 Oil pressure switch for reduced oil pressure
+J151 Continued coolant circulation relay
+J623 Engine control unit
+T4s 4-pin connector, black, in front left engine compartment
+T14 14-pin connector, black, on front left in engine compartment
+T94 94-pin connector, on engine control unit
+V51 Continued coolant circulation pump
+* Relay and fuse carrier in electronics box engine compartment
+** not for USA
+J623
+T94/8 T94/27
+0,5 0,35 1,0
+sw/gn li/br li/ro
+1
+M
+T14/2 T4s/1
+V51
+2/31
+0,5 1,0 1,0
+sw/gn li/ro br
+1 ✱ 12/86 42/87a 52/87
+✱✱ 2.2
+T4s/2
+F378 J151
+22/85 32/30 ws = white
+sw = black
+ro = red
+0,5 1,0 1,0
+ws/ro ws/ro br br = brown
+gn = green
+bl = blue
+5500 4499 220066
+gr = grey
+li = purple
+ge = yellow
+211 212 213 214 215 216 217 218 219 220 221 222 223 224 or = orange
+8J0-043171008
+rs = pink
+Edition 04.2009

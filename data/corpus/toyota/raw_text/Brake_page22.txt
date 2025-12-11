@@ -1,0 +1,20 @@
+BC–22
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+Skid Control ECU (Harness Side Connector Front View):
+C131969E01
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+BC Actuator pump motor
+GND2 (1) - Body ground W-B - Body ground Always Below 1 Ω
+ground
++BM (2) - Body ground B - Body ground Motor relay power supply Always 10 to 14 V
+Solenoid valves power
++BS (3) - Body ground L - Body ground Always 10 to 14 V
+supply
+GND1 (4) - Body ground W-B - Body ground Skid control ECU ground Always Below 1 Ω
+IG1 (18) - Body ground P - Body ground ECU power supply Ignition switch on (IG) 10 to 14 V
+Stop light switch ON
+STP (20) - Body ground P - Body ground Stop light switch input 8 to 14 V
+(Brake pedal depressed)
+Stop light switch OFF
+STP (20) - Body ground P - Body ground Stop light switch input Below 3 V
+(Brake pedal released)

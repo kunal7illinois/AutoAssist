@@ -1,0 +1,52 @@
+BC–425
+BRAKE CONTROL – BRAKE ACTUATOR (for ADVICS Made)
+ON-VEHICLE INSPECTION
+1. CONNECT INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and run it at idle .
+(c) Select the Active Test mode on the intelligent tester.
+HINT:
+Refer to the intelligent tester operator's manual for
+further details.
+2. INSPECT ACTUATOR MOTOR OPERATION
+NOTICE:
+Do not keep a motor relay on continuously for more
+than 5 seconds. When operating it continuously, set
+DLC3
+an interval of more than 20 seconds.
+Intelligent Tester
+(a) With the motor relay on, check the actuator motor
+C131977E08 operation sounds.
+(b) Turn the motor relay off.
+(c) Depress the brake pedal and hold it for
+approximately 15 seconds. Check that the brake BC
+pedal cannot be depressed farther.
+(d) With the motor relay on, check that the pedal does
+not pulsate.
+(e) Turn the motor relay off and release the brake
+pedal.
+3. INSPECT RIGHT FRONT WHEEL OPERATION
+NOTICE:
+Do not turn on a solenoid in a manner different than
+described below.
+(a) Depress the brake pedal and hold it.
+(b) Turn the SFRH and SFRR solenoids on
+simultaneously, and check that the pedal cannot be
+depressed.
+(c) Turn the SFRH and SFRR solenoids off
+simultaneously, and check that the pedal can be
+depressed.
+NOTICE:
+Do not keep the motor relay on continuously for
+more than 5 seconds. When operating them
+continuously, set an interval of more than 20
+seconds.
+(d) Turn the motor relay on and check that the pedal
+returns.
+NOTICE:
+Do not keep the motor relay on continuously for
+more than 5 seconds. When operating it
+continuously, set an interval of more than 20
+seconds.
+(e) Turn the motor relay off and release the brake
+pedal.

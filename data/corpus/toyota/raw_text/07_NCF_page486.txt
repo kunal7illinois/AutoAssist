@@ -1,0 +1,28 @@
+BE-152 BODY ELECTRICAL - SRS AIRBAG SYSTEM
+Child Seat or Child Judgment
+(cid:1) If the judgment value is lower than criteria value B and the seat belt buckle switch is ON, the occupant
+classification ECU judges that a child seat is installed.
+(cid:1) If the judgment value is higher than criteria value A, but lower than criteria value B, and the seat belt
+buckle switch is OFF, the occupant classification ECU judges that the seat is being occupied by a child.
+(cid:1) When the ignition*1/engine*2 switch is turned ON under these conditions, the system performs an initial
+check and illuminates the AIRBAG OFF indicator light to indicate that the front passenger airbag and
+the front passenger side airbag have been deactivated.
+*1: Models without smart key system
+*2: Models with smart key system
+Occupant Classification ECU
+Child Seat: Judgment Value < B
+Child: A < Judgment Value < B
+OFF Signal
+ON Signal
+Front Passenger AIRBAG OFF
+Airbag Indicator Light
+Airbag
+Front Passenger
+Sensor
+Side Airbag
+Assembly
+Front Passenger Seat AIRBAG ON
+Belt Pretensioner Indicator Light
+D13N56
+(cid:1) After the occupant classification ECU judges that child seat is installed, the AIRBAG OFF indicator light
+does not go off unless the seat belt buckle switch is turned OFF.

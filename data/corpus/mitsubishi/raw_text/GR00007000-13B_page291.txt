@@ -1,0 +1,48 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-291
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 11. Using the oscilloscope, check the injector.
+(1) Disconnect the injector intermediate connector B-48 and
+connect the test harness special tool (MD998464)
+inbetween.
+(2) Connect the oscilloscope probe to each injector
+OSCILLOSCOPE
+intermediate connector terminal to oscilloscope each
+INJECTOR INTERMEDIATE
+CONNECTOR cylinder:
+• Terminal 2 (black clip) when checking No. 1 cylinder.
+1 2
+• Terminal 3 (blue clip) when checking No. 3 cylinder.
+3 4
+• Terminal 4 (white clip) when checking No. 5 cylinder.
+MD998464 NOTE: When measuring with the ECM or PCM side con-
+nector, connect an oscilloscope probe to the each of the fol-
+lowing terminals.
+.
+AK102981AB
+• ECM or PCM terminal 1 when checking No. 1 cylinder
+injector.
+• ECM or PCM terminal 24 when checking No. 3 cylinder
+injector.
+• ECM or PCM terminal 10 when checking No. 5 cylinder.
+injector.
+(3) Start the engine and run at idle.
+(4) Measure the waveform.
+NORMAL WAVEFORM
+• The waveform should show a normal pattern similar to
+the illustration.
+A:INJECTOR DRIVE TIME
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the waveform normal?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+A NO : Replace the ECM or PCM. Then go to Step 12.
+AKX01557AB
+STEP 12. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 6 − Other Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0201, P0203, P0205 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+TSB Revision

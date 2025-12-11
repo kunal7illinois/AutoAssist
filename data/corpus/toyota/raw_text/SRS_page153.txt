@@ -1,0 +1,32 @@
+RS–153
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+OK
+USE SIMULATION METHOD TO CHECK (See page RS-32)
+6 CHECK PASSENGER AIRBAG ON/OFF INDICATOR CIRCUIT (OPEN)
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+D A (c) Disconnect the connector from the clock assembly.
+C B (d) Using a service wire, connect terminals 23 (PAON) and
+17 (P-AB) of connector B.
+Clock Assembly
+NOTICE:
+Center Airbag
+Do not forcibly insert a service wire into the
+Sensor Assembly
+terminals of the connector when connecting.
+(e) Measure the resistance according to the value(s) in the
+table below.
+Connector C Connector B Standard resistance
+Tester Connection Condition Specified Condition
+F3 E30
+F3-13 (PAON) - F3-14 (P-
+Always Below 1 Ω
+AB)
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+NG REPAIR OR REPLACE WIRE HARNESS
+PAON P-AB P-AB PAON
+Service Wire RS
+C C123728E01
+OK

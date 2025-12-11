@@ -1,0 +1,48 @@
+BC–24
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+(a) Release the parking brake.
+(b) Turn the ignition switch on (IG).
+(c) If the skid control ECU detects a malfunction, the
+ABS warning light and brake warning light will come
+on to warn the driver. The table below indicates
+which light will come on when there is a malfunction
+in a particular function.
+USA: USA:
+Canada: Canada:
+C131968E01
+Item/Trouble Area ABS System EBD System Skid Control ECU
+BC ABS Warning light (cid:123) (cid:123) (cid:123)
+Brake Warning light - (cid:123) (cid:123)
+(cid:123): Light ON
+-: Light OFF
+• The DTCs are simultaneously stored in the
+memory. The DTCs can be read by connecting
+the SST (09843-18043) between the TC and CG
+terminals of the DLC3 and observing the blinking
+pattern of the ABS warning light, or by
+connecting an intelligent tester (See page BC-
+21).
+• This system has a sensor signal check function
+(See page BC-11).
+3. WARNING LIGHT INITIAL CHECK
+NOTICE:
+When releasing the parking brake, set chocks to
+hold the vehicle for safety.
+HINT:
+When the parking brake is applied or the level of the
+brake fluid is low, the brake warning light comes on.
+(a) Release the parking brake.
+(b) Check that the ABS warning light and brake warning
+light come on when the ignition switch is turned on
+(IG) and go off in approximately 3 seconds.
+(c) If the warning lights do not come on or remain on,
+inspect the ABS warning light circuit and/or brake
+warning light circuit.
+Trouble Area See procedure
+ABS warning light circuit (Remains on) BC-74
+USA: USA:
+ABS warning light circuit (Does not come on) BC-78
+Brake warning light circuit (Remains on) BC-81
+Canada: Canada:
+Brake warning light circuit (Does not come on) BC-91
+C131968E01

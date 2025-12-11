@@ -1,0 +1,51 @@
+CA–70
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+INSPECTION PROCEDURE
+NOTICE:
+• Turn the ignition switch off before measuring the resistance of the CAN main wire and CAN
+branch wires.
+• After the ignition switch is turned off, check that the key reminder warning system and light
+reminder warning system are not operating.
+• Before measuring the resistance, leave the vehicle as is for at least 1 minute and do not operate
+the ignition switch, any other switches or the doors. If doors need to be opened in order to
+check connectors, open the doors and leave them open.
+HINT:
+Operating the ignition switch, any other switches or any triggers related ECU and sensor communication
+on the CAN, which would cause resistance reading variations.
+1 CHECK CAN BUS WIRE (MAIN BUS WIRE FOR DISCONNECTION, BUS WIRES FOR
+SHORT CIRCUIT)
+(a) Measure the resistance according to the value(s) in the
+DLC3: E10 CANH table below.
+Standard resistance
+CA
+Tester
+Condition Specified Value Result
+Connection
+E10-6 (CANH) -
+Ignition switch off 54 to 69 Ω OK
+E10-14 (CANL)
+Result
+CANL
+Result Proceed to
+C126400E08
+OK A
+69 Ω or higher B
+Below 54 Ω C
+B OPEN IN CAN BUS MAIN WIRE (See page
+CA-69)
+C SHORT IN CAN BUS WIRES (See page CA-
+74)
+A
+2 CHECK CAN BUS WIRE (SHORT TO B+ IN CAN BUS WIRE)
+(a) Measure the resistance according to the value(s) in the
+DLC3: E10 CANH table below.
+Standard resistance
+Tester Connection Condition Specified Value
+E10-6 (CANH) - E10-16 (BAT) Ignition switch off 6 kΩ or higher
+E10-14 (CANL) -
+Ignition switch off 6 kΩ or higher
+E10-16 (BAT)
+BAT
+CANL NG SHORT TO B+ IN CAN BUS WIRE (See page
+C126400E09 CA-89)
+OK

@@ -1,0 +1,49 @@
+Audi TT No. 8 / 11
+Current Flow Diagram
+Convenience system central control unit, fuses
+J393 Convenience system central control unit
+SD2 Fuse 2 on fuse holder D
+SF1 Fuse 1 on fuse holder F
+SF2 Fuse 2 on fuse holder F
+SF7 Fuse 7 on fuse holder F
+SF8 Fuse 8 on fuse holder F
+SF10 Fuse 10 on fuse holder F
+SF12 Fuse 12 on fuse holder F
+✱ T18g 18-pin connector, brown, connector A, on convenience system
+SD2/110A
+central control unit
+51 Earth point, on right in luggage compartment
+10,0 16,0
+ro ro
+B302
+B301 Positive connection 5 (30), in main wiring harness
+B301
+4,0 4,0 6,0 B302 Positive connection 6 (30), in main wiring harness
+ro ro ro
+• CAN bus (data wire)
+* main fuse box, in luggage compartment, rear right, on the battery
+1 2 7 8 10 12
+J393
+SF1 SF2 SF7 SF8 SF10 SF12
+5A 40A 40A 20A 20A 5A
+1a 2a 7a 8a 10a 12a T18g/1 T18g/2 T18g/9 T18g T18g
+30 30 /10 /3
+31
+• •
+0,5 4,0 4,0 2,5 0,5 0,35 0,35
+ro/li ro/li ro/gn ro/ge ro/gr or/gn or/br
+118855 118833 118844 9922 9944
+ws = white
+sw = black
+ro = red
+2,5 br = brown
+br
+gn = green
+bl = blue
+gr = grey
+51 li = purple
+ge = yellow
+127 128 129 130 131 132 133 134 135 136 137 138 139 140 or = orange
+8J0-008110806
+rs = pink
+Edition 04.2008

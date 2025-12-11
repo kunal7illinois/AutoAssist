@@ -1,0 +1,45 @@
+CHASSIS ELECTRICAL 54A-83
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 10. Using scan tool MB991502, check data list item
+81: Long - Term Fuel Compensation (trim).
+(1) Start the engine and run at idle.
+(2) Set scan tool MB991502 to the data reading mode for item
+81, Long − Term Fuel Compensation (trim).
+• The fuel trim should be between −12.5 and +12.5 when
+the load is 2,500 r/min (during closed loop) after the
+engine is warmed.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the specification normal?
+MB991502 YES : Go to Step 11.
+AKX01177AB NO : Refer to GROUP 13A <2.4L>, MFI − MFI Diagnosis
+P.13A-188 or GROUP 13B <3.0L>, MFI − MFI
+Diagnosis P.13B-245.
+STEP 11. Using scan tool MB991502, check data list item
+82: Short - Term Fuel Compensation (trim).
+(1) Start the engine and run at idle.
+(2) Set scan tool MB991502 to the data reading mode for item
+82, Short − Term Fuel Compensation (trim).
+• The fuel trim should be between −25 and +16.8 when
+the load is 2,500 r/min (during closed loop) after the
+engine is warmed.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the specification normal?
+MB991502 YES : Go to Step 12.
+AKX01177AB NO : Refer to GROUP 13A <2.4L>, MFI − MFI Diagnosis
+P.13A-188 or GROUP 13B <3.0L>, MFI − MFI
+Diagnosis P.13B-245.
+STEP 12. Check the ignition coil spark
+(1) Check each ignition coil spark.
+(2) Remove the intake manifold.
+(3) Remove the spark plug and connect to the spark plug
+cable.
+(4) Ground the spark plug side electrode securely.
+• When the engine is cranked, the spark plug should
+spark.
+Q:Did it spark?
+SPARK PLUG
+YES : Go to Step 15.
+AKX00432AB NO : Go to Step 13.
+TSB Revision

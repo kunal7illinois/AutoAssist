@@ -1,0 +1,46 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-583
+ON-VEHICLE SERVICE
+INTAKE AIR TEMPERATURE SENSOR CHECK
+M1131002800148
+1. Disconnect the volume air flow sensor connectors.
+2. Measure resistance between terminals 5 and 6.
+INTAKE AIR TEMPERATURE
+SENSOR SIDE CONNECTOR Standard value:
+13 − 17 kΩ [at −20°C (−4°F)]
+1 2 3 4 5 6 7 5.3 − 6.7 kΩ [at 0°C (32°F)]
+2.3 − 3.0 kΩ [at 20°C (68°F)]
+1.0 − 1.5 kΩ [at 40°C (104°F)]
+0.56 − 0.76 kΩ [at 60°C (140°F)]
+0.30 − 0.42 kΩ [at 80°C (176°F)]
+3. If not within specifications, replace the volume air flow
+AKX01407AB sensor.
+4. Measure resistance while heating the sensor using a hair
+INTAKE AIR dryer.
+TEMPERATURE
+SENSOR Normal condition:
+TEMPERATURE RESISTANCE (kΩ)
+Higher Smaller
+5. If resistance does not decrease as heat increases, replace
+the volume air flow sensor assembly.
+AKX01621AB
+ENGINE COOLANT TEMPERATURE SENSOR
+CHECK
+M1131003100142
+CAUTION
+Be careful not to touch the connector (resin section) with
+the tool when removing and installing.
+1. Drain engine coolant, then remove the engine coolant
+temperature sensor.
+2. With the temperature sensing portion of engine coolant
+temperature sensor immersed in hot water, check the
+resistance.
+Standard value:
+14 − 17 kΩ [at −20°C (−4°F)]
+5.1 − 6.5 kΩ [at 0°C (32°F)]
+2.1 − 2.7 kΩ [at 20°C (68°F)]
+0.9 − 1.3 kΩ [at 40°C (104°F)]
+0.48 − 0.68 kΩ [at 60°C (140°F)]
+AKX01622 0.26 − 0.36 kΩ [at 80°C (176°F)]
+3. If resistance deviates from the standard value greatly,
+replace the sensor.
+TSB Revision

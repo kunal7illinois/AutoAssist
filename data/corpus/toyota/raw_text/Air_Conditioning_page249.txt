@@ -1,0 +1,48 @@
+AC–245
+AIR CONDITIONING – ROOM TEMPERATURE SENSOR
+REMOVAL
+1. REMOVE FRONT DOOR SCUFF PLATE LH (See page
+IR-24)
+2. REMOVE COWL SIDE TRIM SUB-ASSEMBLY LH (See
+page IR-25)
+3. REMOVE LOWER INSTRUMENT PANEL FINISH
+PANEL LH (See page IP-20)
+4. REMOVE ROOM TEMPERATURE SENSOR
+(a) Disconnect the connector and air hose.
+(b) Release the claw and remove the sensor.
+E129986
+INSPECTION
+A/C Room Temperature Sensor
+Connector Front View: 1. INSPECT ROOM TEMPERATURE SENSOR AC
+(a) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+1 - 2 10°C (50°F) 3.00 to 3.73 kΩ
+1 - 2 15°C (59°F) 2.45 to 2.88 kΩ
+1 - 2 20°C (68°F) 1.95 to 2.30 kΩ
+1 - 2 15°C (77°F) 1.60 to 1.80 kΩ
+Resistance (kΩ) 1 - 2 30°C (86°F) 1.28 to 1.47 kΩ
+1 - 2 35°C (95°F) 1.00 to 1.22 kΩ
+4.0
+1 - 2 40°C (104°F) 0.80 to 1.00 kΩ
+3.5
+1 - 2 45°C (113°F) 0.65 to 0.85 kΩ
+3.0 1 - 2 50°C (122°F) 0.50 to 0.70 kΩ
+2.5 1 - 2 55°C (131°F) 0.44 to 0.60 kΩ
+2.0 1 - 2 60°C (140°F) 0.36 to 0.50 kΩ
+1.5 NOTICE:
+1.0 • Hold the sensor only by its connector.
+Touching the sensor may change the
+0.5
+resistance value.
+0.0
+• When measuring, the sensor temperature
+(°C) 10 20 30 40 50 60
+(°F) 50 68 86 104 122 140 must be the same as the ambient
+Temperature
+temperature.
+E110805E05
+HINT:
+As the temperature increases, the resistance
+decreases (see the graph).

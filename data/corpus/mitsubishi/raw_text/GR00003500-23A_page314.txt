@@ -1,0 +1,33 @@
+23A-314 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 15. Check the Park/Neutral position switch.
+SWITCH TERMINAL NUMBER SPECIFIED
+POSITION CONDITION
+P 3 − 8, 9 − 10 Less than 2 ohm
+R 7 − 8
+N 4 − 8, 9 − 10
+L
+D 1 − 8
+2
+3
+Check for continuity between terminals for each selector posi-
+D
+tion.
+N
+R NOTE: For vehicles with sport mode, four positions (P, R, N, D)
+P are used.
+Q:Is the switch operating properly?
+YES : Go to Step 16.
+NO : Replace the Park/Neutral position switch. Refer to
+GROUP 23B, Transaxle P.23B-10.
+AC005865AB
+STEP 16. Check connector B-41 at Park/Neutral position
+switch for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-41
+B-41 YES : Go to Step 17.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+DIPSTICK
+AC001844AK
+TSB Revision

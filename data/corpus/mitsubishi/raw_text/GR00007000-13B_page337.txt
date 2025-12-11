@@ -1,0 +1,48 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-337
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+• Intake air temperature is higher than 0°C (32°F). Judgement Criteria
+• Barometric pressure is higher than 76 kPa (11 • When intake manifold pressure fluctuations width
+psi). is lower than 2.6 kPa (0.38 psi). When the EGR
+• Vehicle speed is 1.5 km/h (0.9 mph) <M/T> or 30 solenoid is turned ON.
+km/h (18.7 mph) <A/T> or more.
+• At least 90 seconds have passed since manifold . TROUBLESHOOTING HINTS (The most likely
+differential pressure sensor output voltage fluctu- causes for this code to be set are: )
+ated 1.5 volts or more. • EGR valve does not open.
+• The throttle valve is closed. • EGR control vacuum is too low.
+• Volumetric efficiency is lower than 18 <M/T> or • EGR solenoid failed.
+28 <A/T> percent. • Open or shorted EGR solenoid circuit, or loose
+• While fuel is being shut off. <M/T> connector.
+• The ECM <M/T> or PCM <A/T> monitors for this • Manifold differential pressure sensor failed.
+condition for 3 cycles of 2 seconds each during • ECM failed. <M/T>
+the drive cycle. • PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the EGR system.
+Refer to GROUP 17, Emission Control System − Exhaust Gas
+Recirculation (EGR) System − EGR System Check P.00-6.
+Q:Are there any abnormalities?
+YES : Go to Step 2.
+NO : Repair it. Then go to Step 3.
+STEP 2. Using scan tool MB991502, check data list item 95:
+Manifold Differential Pressure Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+95, Manifold Differential Pressure Sensor.
+16 PIN (4) Warm up the engine to normal operating temperature: 80°C
+to 96°C (176°F to 205°F).
+MB991502
+• Should be between 62 − 76 kPa at engine idling.
+AKX01177AB
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : Clean the EGR valve and EGR passage. Then go to
+Step 3.
+NO : Refer to, DTC P1400 − Manifold Differential Pressure
+Sensor Circuit Malfunction P.00E-2.
+TSB Revision

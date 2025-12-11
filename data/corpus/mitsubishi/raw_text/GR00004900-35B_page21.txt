@@ -1,0 +1,36 @@
+ANTI-LOCK BRAKING SYSTEM (ABS) 35B-21
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+STEP 3. Check the stoplight switch circuit at the ABS-ECU
+connector A-02.
+(1) Disconnect the ABS-ECU connector A-02 and measure at
+the harness side.
+(2) Press the brake pedal. (The stoplight switch is turned to
+ON.)
+(3) Measure the voltage between terminal 14 and ground.
+A-02 (HARNESS SIDE)
+Q:Is the voltage approximately 12 volts (battery positive
+voltage)?
+YES : Replace the hydraulic unit (integrated with ABS-ECU)
+and then go to Step 7.
+NO : Go to Step 5.
+AC000942AB
+STEP 4. Check the stoplight switch continuity.
+(1) Remove the stoplight switch. (Refer to GROUP 35A, Brake
+Pedal P.35A-31.)
+(2) Connect an ohmmeter to the stoplight switch terminals 1
+and 2, and check whether there is continuity when the
+plunger of the stoplight switch is pushed in and when it is
+released.
+AC002295AB
+(3) The stoplight switch is in good condition if there is no
+continuity when the plunger is pushed in to a depth of within
+NO CONTINUITY CONTINUITY
+4 mm (0.2 inch) from the outer case edge surface, and if
+(OFF) (ON)
+there is continuity when it is released.
+Q:Is the stoplight switch damaged?
+YES : Replace it and then go to Step 7.
+NO : Go to Step 6.
+4 mm (0.2 in)
+AC000943AB
+TSB Revision

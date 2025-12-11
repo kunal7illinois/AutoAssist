@@ -1,0 +1,42 @@
+DL–82
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/ Smart Key System)
+(b) Connect the cable of the intelligent tester (with CAN
+VIM) to the DLC3, turn the engine switch on (IG)
+and attempt to use the intelligent tester. If the
+screen displays a communication error message, a
+problem exists in the vehicle or in the tester.
+• If communication is normal when the tool is
+connected to another vehicle, inspect the DLC3
+on the original vehicle.
+• If communication is still impossible when the tool
+is connected to another vehicle, the problem is
+probably in the tool itself. Consult the Service
+Department listed in the tool's instruction manual.
+DLC3
+Intelligent Tester
+C131977E01
+DTC CHECK / CLEAR
+1. CHECK DTC
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the engine switch on (IG).
+(c) Enter the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT
+CODES.
+(d) Read the DTC by following the prompts on the
+tester screen.
+HINT:
+Refer to the intelligent tester operator's manual for
+further details.
+DLC3
+2. CLEAR DTC
+Intelligent Tester
+(a) Connect the intelligent tester to the DLC3.
+C131977E01 (b) Turn the engine switch on (IG).
+(c) Enter the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CLEAR CODES.
+(d) Erase the DTC by following the directions on the
+tester screen.
+HINT:
+Refer to the intelligent tester operator's manual for further
+details.
+DL

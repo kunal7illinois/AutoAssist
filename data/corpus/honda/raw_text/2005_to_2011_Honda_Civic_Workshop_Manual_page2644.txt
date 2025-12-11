@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+16. Turn the ignition switch OFF.
+17. Replace the fuel rail pressure sensor (see FUEL PRESSURE SWITCH
+REPLACEMENT ).
+18. Reconnect all connectors.
+19. Turn the ignition switch ON (II).
+20. Reset the PCM with the HDS.
+21. Do the PCM idle learn procedure, refer to the ECM/PCM IDLE LEARN
+PROCEDURE .
+22. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0192 indicated?
+YES -Check for poor connections or loose terminals at the fuel rail pressure
+sensor and the PCM, then go to step 1.
+NO -Troubleshooting is complete. If any other Temporary DTCs or DTCs are
+indicated, go to the indicated DTC's troubleshooting.
+23. Reconnect all connectors.
+24. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+25. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0192 indicated?
+YES -Check for poor connections or loose terminals at the fuel rail pressure
+sensor and the PCM. If the PCM was updated, substitute a known-good PCM
+(see SUBSTITUTING THE PCM ), then recheck. If the PCM was
+substituted, go to step 1.
+NO -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM, refer to the ECM/PCM
+REPLACEMENT . If any other Temporary DTCs or DTCs are indicated, go
+to the indicated DTC's troubleshooting.

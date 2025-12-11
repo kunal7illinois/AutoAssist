@@ -1,0 +1,38 @@
+54A-184 CHASSIS ELECTRICAL
+RADIO AND TAPE PLAYER
+STEP 14. Check the multi-center display ground circuit at
+the multi-center display connector C-09 by backprobing.
+(1) Do not disconnect the multi-center display connector C-09
+CONNECTOR : C-09
+and measure at the harness side.
+DEVICE SIDE
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+AC106557AY
+(2) Measure the resistance between terminal 6 and ground by
+HARNESS SIDE
+backprobing.
+C-09
+• The measured value should be 2 ohm or less.
+Q:Does the measured resistance value correspond with
+this range?
+YES : Replace the multi-center display.
+NO : Go to Step 15.
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+AC106890AB
+STEP 15. Check the multi-center display connector C-09
+for damage.
+Q:Is the multi-center display connector C-09 in good
+CONNECTOR : C-09
+condition?
+YES : Go to Step 16.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2.The
+multi-center display should display the information
+concerning the audio system correctly.
+DEVICE SIDE
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+AC106557AY
+TSB Revision

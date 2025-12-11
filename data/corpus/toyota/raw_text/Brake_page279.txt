@@ -1,0 +1,38 @@
+BC–273
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+4 CHECK HARNESS AND CONNECTOR (CG of DLC3 - BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+DLC3:
+CG table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E10-4 (CG) - Body ground Always Below 1 Ω
+E10
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+G022986E21
+OK
+5 CHECK ECM (TC of DLC3 INPUT)
+BC
+(a) Turn the ignition switch off.
+DLC3:
+CG (b) Reconnect the ECM connector.
+(c) Using SST, connect terminals TC and CG of the DLC3.
+(d) Turn the ignition switch on (IG).
+(e) Check that the check engine warning light is blinking.
+E10
+TC
+G022986E20
+Result
+Condition Proceed to
+Check engine warning light is blinking A
+Check engine warning light is not blinking B
+HINT:
+If troubleshooting has been carried out according to the
+Problem Symptoms Table, refer back to the table and
+proceed to the next step before replacing the part (See
+page BC-134).
+B REPAIR OR REPLACE WIRE HARNESS OR
+ECM (TC of ECM CIRCUIT)
+A
+REPLACE BRAKE ACTUATOR ASSEMBLY

@@ -1,0 +1,51 @@
+AX–138
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+• There is a difference in rotation between the input side (engine speed) and output side (input turbine
+speed) of the torque converter when the TCM commands lock-up.
+(Engine speed is at least 70 rpm greater than input turbine speed.)
+• There is no difference in rotation between the input side (engine speed) and output side (input turbine
+speed) of the torque converter when the TCM commands lock-up off.
+(The difference between engine speed and input turbine speed is less than 20 rpm.)
+AX
+MONITOR STRATEGY
+P2757:
+Related DTCs Shift solenoid valve SLU OFF malfunction
+Shift solenoid valve SLU ON malfunction
+Required sensors/Components Shift solenoid valve SLU
+Frequency of operation Continuous
+OFF malfunction (A): 3.5 sec.
+Duration OFF malfunction (B): 0.05 sec.
+ON malfunction: 1.8 sec.
+MIL operation 2 driving cycles
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+The following items are common to all conditions below.
+The monitor will run whenever this DTC is not present. None
+Turbine speed sensor circuit Circuit is not malfunctioning
+Intermediate shaft speed sensor circuit Circuit is not malfunctioning
+Shift solenoid valve SL1 circuit Circuit is not malfunctioning
+Shift solenoid valve SL2 circuit Circuit is not malfunctioning
+Shift solenoid valve SL3 circuit Circuit is not malfunctioning
+Shift solenoid valve SL4 circuit Circuit is not malfunctioning
+Shift solenoid valve SLU circuit Circuit is not malfunctioning
+Knock sensor circuit Circuit is not malfunctioning
+ETCS (Electric throttle control system) System is not down
+Transmission shift position "D"
+ECT (Engine coolant temperature) 40°C (104°F) or more
+Spark advance from Max. retard timing by KCS control 0°CA or more
+TFT (Transmission fluid temperature) Above -10°C (5°F)
+TCM selected gear Not 1st
+Vehicle speed 15.5 mph (25 km/h) or more
+Torque converter clutch circuit Circuit is not malfunctioning
+ECT circuit Circuit is not malfunctioning
+CAN communication system Circuit is not malfunctioning
+Turbine speed/Output speed (NT/NO) with 1st 3.304 to 7.724
+Turbine speed/Output speed (NT/NO) with 2nd 1.901 to 2.340
+Turbine speed/Output speed (NT/NO) with 3rd 1.399 to 1.649
+Turbine speed/Output speed (NT/NO) with 4th 0.998 to 1.138
+Turbine speed/Output speed (NT/NO) with 5th 0.705 to 0.836
+Turbine speed/Output speed (NT/NO) with 6th 0.568 to 0.695
+OFF malfunction (A):
+TCM lock-up command ON
+Duration time from lock-up on command 3 sec. or more
+Shift solenoid valve SLU ON malfunction not occuring

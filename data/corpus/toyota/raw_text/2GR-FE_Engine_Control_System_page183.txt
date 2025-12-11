@@ -1,0 +1,61 @@
+ES–183
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• DTCs P0136 and P0156 indicate the deterioration of
+the HO2 sensor. The ECM sets the DTCs by
+calculating the impedance of the sensor when the
+typical enabling conditions are satisfied (1 driving
+cycle).
+• DTCs P0137 and P0157 indicate an open or short
+circuit in the HO2 sensor (1 driving cycle). The ECM
+sets the DTCs when the impedance of the sensor
+exceeds the threshold of 15 kΩ.
+MONITOR STRATEGY
+P0136: HO2S voltage (Bank 1)
+P0136: HO2S low impedance (Bank 1)
+P0137: HO2S high impedance (Bank 1)
+P0137: HO2S low voltage (Bank 1)
+ES
+P0138: HO2S high voltage (Bank 1)
+P0138: HO2S high voltage (Extremely high) (Bank 1)
+Related DTCs
+P0156: HO2S voltage (Bank 2)
+P0156: HO2S low impedance (Bank 2)
+P0157: HO2S high impedance (Bank 2)
+P0157: HO2S low voltage (Bank 2)
+P0158: HO2S high voltage (Bank 2)
+P0158: HO2S high voltage (Extremely high) (Bank 2)
+Required Sensors/Components (Main) HO2S
+Crankshaft position sensor, Engine coolant temperature sensor, Mass
+Required Sensors/Components (Sub)
+air flow meter, Throttle position sensor
+Frequency of Operation Once per driving cycle
+20 seconds: HO2S voltage (P0136, P0156), HO2S low voltage
+(P0137, P0157), HO2S high voltage (P0138, P0158)
+Duration 30 seconds: HO2S low impedance (P0136, P0156)
+90 seconds: HO2S high impedance (P0137, P0157)
+10 seconds: HO2S high voltage (P0138, P0158)
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+All:
+P0031, P0032, P0051, P0052 (A/F sensor heater - Sensor 1)
+P0037, P0038, P0057, P0058 (O2 Sensor Heater - Sensor 2)
+P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+P0125 (Insufficient ECT for Closed Loop)
+Monitor runs whenever following DTCs are not present P0171, P0172 (Fuel system)
+P0300 - P0308 (Misfire)
+P0335 (CKP sensor)
+P0340, P0341 (CMP sensor)
+P0442 - P0456 (EVAP system)
+P0500 (VSS)
+P2196, P2198 (A/F sensor - rationality)
+P2A00, P2A03 (A/F sensor - slow response)
+HO2S voltage (P0136, P0156), HO2S low voltage (P0137, P0157), HO2S high voltage (P0138,
+P0158):
+Active A/F control Performing
+Battery voltage 11 V or more
+ECT 75 °C (167°F) or more
+Idle OFF

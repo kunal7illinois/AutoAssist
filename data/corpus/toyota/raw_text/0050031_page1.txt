@@ -1,0 +1,46 @@
+ES–175
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Knock Sensor 1 Circuit Low Input (Bank 1 or
+DTC P0327
+Single Sensor)
+Knock Sensor 1 Circuit High Input (Bank 1 or
+DTC P0328
+Single Sensor)
+DESCRIPTION
+Flat type knock sensors (non-resonant type) have structures that can detect vibrations over a wide band
+of frequencies: between approximately 6 kHz and 15 kHz.
+A knock sensor is fitted onto the engine block to detect engine knocking.
+The knock sensor contains a piezoelectric element which generates a voltage when it becomes deformed.
+ES
+The voltage is generated when the engine block vibrates due to knocking. Any occurrence of engine
+knocking can be suppressed by delaying the ignition timing.
+DTC No. DTC Detection Conditions Trouble Areas
+• Short in knock sensor circuit
+Output voltage of knock sensor less than 0.5 V
+P0327 • Knock sensor
+(1 trip detection logic)
+• ECM
+• Open in knock sensor circuit
+Output voltage of knock sensor more than 4.5 V
+P0328 • Knock sensor
+(1 trip detection logic)
+• ECM
+HINT:
+When any of DTCs P0327 and P0328 are set, the ECM enters fail-safe mode. During fail-safe mode, the
+ignition timing is delayed to its maximum retardation. Fail-safe mode continues until the ignition switch is
+turned OFF.
+Reference: Inspection using an oscilloscope
+KNK1 Signal Waveform
+1 V/ Division
+GND
+1 msec./ Division
+A085286E21
+The correct waveform is as shown.
+Items Contents
+Terminals KNK1 - EKNK
+1 V/Division
+Equipment Settings
+1 msec./Division
+Keep engine speed at 4,000 rpm with
+Conditions
+warm engine

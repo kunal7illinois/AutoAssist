@@ -1,0 +1,46 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 ACCESSORIES & EQUIPMENT Cruise Control (R18A1) - Civic (All Except Hybrid)
+1. Connect the Honda Diagnostic System (HDS) to the data link connector (DLC)
+(see step 2 in HOW TO USE THE HDS (HONDA DIAGNOSTIC
+SYSTEM) ).
+2. Turn the ignition switch ON (II).
+3. Make sure the HDS communicates with the vehicle and the ECM/PCM. If it
+doesn't, troubleshoot the DLC circuit (see DLC CIRCUIT
+TROUBLESHOOTING ).
+4. Go to PGM-FI, and check for DTCs (see DTC TROUBLESHOOTING ).
+5. Do the following tests while monitoring parameters in the PGM-FI DATA
+LIST with the HDS.
+NOTE: Intermittent failures are often caused by loose circuit
+connections. While monitoring cruise control inputs, flex
+their circuits, and note if any of the test results change.
+Cruise Control Input Test
+Signal to be Parameter: Desired Possible cause if result
+Test condition
+tested result is not obtained
+Faulty brake pedal
+(cid:1)
+position switch
+Blown No. 3 (10 A)
+(cid:1)
+fuse in the under-
+CRUISE BRAKE dash fuse/relay box
+SW should indicate
+Open in the wire
+Brake pedal Brake pedal (cid:1)
+OFF when the brake
+between the engine
+position pressed, then
+pedal is pressed and
+control module
+switch signal released
+ON when the brake
+(ECM/powertrain
+pedal is released.
+control module
+(PCM) and the
+brake pedal position
+switch
+A wire shorted to
+(cid:1)
+ground between the

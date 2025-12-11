@@ -1,0 +1,41 @@
+AC–110
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+2 CHECK HARNESS AND CONNECTOR (ION GENERATOR - BODY GROUND)
+(a) Disconnect the connector from the ion generator.
+Ion Generator Connector Front View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection
+Condition Specified Condition
+E12 (Symbols)
+E12-5 (GND) - Body
+Always Below 1 Ω
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+GND
+E116928E03
+OK
+AC
+3 CHECK HARNESS AND CONNECTOR (ION GENERATOR - BATTERY)
+(a) Measure the voltage according to the value(s) in the
+Ion Generator Connector Front View:
+table below.
+Standard voltage
+Tester Connection
+Condition Specified Condition
+(Symbols)
+E12 E12-2 (IG) - Body
+Ignition switch off Below 1 V
+ground
+E12-2 (IG) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+IG
+E116928E04
+OK

@@ -1,0 +1,46 @@
+RS–348
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+(c) Check that the connectors are properly connected to the
+occupant classification ECU and the 4 occupant
+classification sensors.
+OK:
+The connectors are properly connected.
+(d) Disconnect the connectors from the occupant
+classification ECU and the 4 occupant classification
+sensors.
+(e) Check that the connectors are not damaged or
+deformed.
+OK:
+The connectors are normal.
+NG REPAIR OR REPLACE CONNECTOR, THEN
+GO TO STEP 1
+OK
+8 CHECK DTC
+(a) Connect the connectors to the occupant classification
+ECU and the 4 occupant classification sensors.
+(b) Connect the negative (-) terminal cable to the battery.
+(c) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+(d) Clear the DTCs stored in the center airbag sensor
+assembly (See page RS-41).
+(e) Clear the DTCs stored in the occupant classification
+RS ECU (See page RS-251).
+(f) Turn the ignition switch off.
+(g) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+(h) Check the DTCs (See page RS-251).
+OK:
+DTC is not output.
+NG REPLACE CENTER AIRBAG SENSOR
+ASSEMBLY (See page RS-441)
+OK
+9 REPLACE OCCUPANT CLASSIFICATION ECU
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery.
+(c) Replace the occupant classification ECU (See page RS-
+469).
+HINT:
+Perform the inspection using parts from a normal vehicle
+if possible.
+NEXT

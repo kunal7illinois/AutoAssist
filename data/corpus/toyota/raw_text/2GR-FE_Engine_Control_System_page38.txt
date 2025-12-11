@@ -1,0 +1,53 @@
+ES–38
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+PROBLEM SYMPTOMS TABLE
+HINT:
+When a malfunction is not confirmed by a DTC (Diagnostic
+Trouble Code) check and the cause of problem cannot be
+identified through a basic inspection, troubleshoot according
+to the priority order indicated in the table below.
+SFI SYSTEM
+Symptom Suspected area See page
+1. Immobilizer system (with smart key system) EI-7
+2. Immobilizer system (without smart key system) EI-55
+Without Smart Key System: Engine does not crank
+3. Starter signal circuit ES-304
+(Does not start)
+4. Starter ST-143
+5. STARTER relay ST-149
+ES 1. Immobilizer system (with smart key system) EI-7
+2. Immobilizer system (without smart key system) EI-55
+3. Cranking holding function circuit ES-455
+With Smart Key System: Engine does not crank (Does 4. Starter signal circuit ES-304
+not start) 5. Starter ST-143
+6. STARTER relay ST-149
+7. ECM power source circuit ES-432
+8. ECM ES-518
+1. ECM power source circuit ES-432
+2. Ignition system IG-3
+3. Fuel pump control circuit ES-449
+No initial combustion (Does not start)
+4. Injector FU-15
+5. Crank angle sensor ES-497
+6. ECM ES-518
+1. Electronic Throttle Control System (ETCS) ES-320
+2. Fuel pump control circuit ES-449
+3. Ignition system IG-3
+Engine cranks normally but difficult to start 4. Spark plug IG-5
+5. Compression EM-3
+6. Injector FU-15
+7. Crank angle sensor ES-497
+1. Starter signal circuit ES-304
+2. Electronic Throttle Control System (ETCS) ES-320
+3. Fuel pump control circuit ES-449
+Difficult to start with cold engine 4. Spark plug IG-5
+5. Ignition system IG-3
+6. Injector FU-15
+7. Engine coolant temperature sensor ES-500
+1. Starter signal circuit ES-304
+2. Electronic Throttle Control System (ETCS) ES-320
+3. Fuel pump control circuit ES-449
+Difficult to start with warm engine 4. Spark plug IG-5
+5. Ignition system IG-3
+6. Injector FU-15
+7. Engine coolant temperature sensor ES-500

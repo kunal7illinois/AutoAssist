@@ -1,0 +1,36 @@
+CA–11
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+• Non-installed ECUs or sensors are not displayed.
+Do not mistake ECUs that are not installed as
+being in communication stop mode.
+• If 2 or more ECUs or sensors are not displayed on
+the intelligent tester, perform troubleshooting for
+communication stop mode for each undisplayed
+ECU or sensor. (Open in one side of the CAN
+branch wires.)
+B GO TO "COMMUNICATION STOP MODE
+TABLE"
+C GO TO "OPEN IN ONE SIDE OF CAN
+BRANCH LINE"
+A
+5 DTC COMBINATION TABLE
+(a) Confirm trouble according to the combination of output
+CA
+DTCs regarding the CAN communication system (See
+page CA-25).
+HINT:
+Previous CAN communication system DTCs may be the
+cause if CAN communication system DTCs are output
+and all ECUs and sensors connected to the CAN
+communication system are displayed on the intelligent
+tester "Communication Bus Check" screen.
+NEXT
+6 CIRCUIT INSPECTION
+NEXT
+7 IDENTIFICATION OF PROBLEM
+NEXT
+8 REPAIR OR REPLACE
+NEXT
+9 CONFIRMATION TEST
+NEXT
+END

@@ -1,0 +1,37 @@
+BODY ELECTRICAL - THEFT DETERRENT SYSTEM BE-135
+(cid:4)FUNCTION
+The theft deterrent system has the following function:
+Function Outline
+When the theft deterrent system is enters the alarm state, the warning items
+Alarm (interior light, headlights, taillights, hazard warning lights and security horn) are
+operated for approximately 60 seconds.
+When the theft deterrent system is enters the alarm state, the vehicle horn is
+Vehicle Horn Alarm
+operated for approximately 60 seconds.
+When the state of the theft deterrent system enters the armed preparation or alarm
+state, the security indicator light is illuminated to inform the user.
+Alarm Indicator
+This indicator is also the engine immobilizer indicator, it blinks when the engine
+immobilizer is in an engaged state.
+The main body ECU transmits a door lock signal to all the doors when all the
+following conditions are satisfied.
+(cid:3) The theft deterrent system is in the alarm state.
+(cid:3) There is no key inserted in the ignition key cylinder.*1
+(cid:3) Key is not in the actuation area.*2
+Forced Door Lock (cid:3) One of the front doors has been unlocked.
+The function stops when one of the following conditions is met.
+(cid:3) All doors are locked. (lock function of door lock or transmitter is operated).
+(cid:3) The warning ends after approximately 60 seconds.
+(cid:3) The ignition key is inserted in the ignition key cylinder.*1
+(cid:3) Key is in the actuation area.*2
+In order to inform the user that the theft deterrent system had entered the alarm
+Alarm Memory state, the main body ECU will illuminate the taillights for 2 seconds when the
+system is switched to the disarmed state.
+When the PANIC button of the transmitter or key is pressed, the main body ECU
+Panic Control
+operates the alarm function.
+When the user forgets to lock the doors, the theft deterrent system operates to
+Passive Mode lock them. (When the user closes all the doors, the theft deterrent system operates
+to lock all the doors after a delay.)
+*1: Models without smart key system
+*2: Models with smart key system

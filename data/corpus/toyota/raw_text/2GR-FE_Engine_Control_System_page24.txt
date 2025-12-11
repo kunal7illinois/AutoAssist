@@ -1,0 +1,51 @@
+ES–24
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+REGISTRATION
+NOTICE:
+The Vehicle Identification Number (VIN) must be input
+into the replacement ECM.
+HINT:
+The VIN is in the form of a 17-digit alphanumeric vehicle
+identification number. An intelligent tester is required to
+register the VIN.
+1. INPUT INSTRUCTIONS
+(a) The general VIN input instructions using an
+intelligent tester are explained below:
+(b) The arrow buttons (UP, DOWN, RIGHT and LEFT)
+and numerical buttons (0 to 9) are used, in order to
+input the VIN.
+ES
+(c) Cursor Operation
+To move the cursor around the tester screen, press
+the RIGHT and LEFT buttons.
+(d) Alphabetical Character Input
+(1) Press the UP and DOWN buttons to select the
+desired alphabetical character.
+(e) Numeric Character Input
+(1) Press the numerical button corresponding to
+the number that you want to input.
+HINT:
+Numerical characters can be selected by using
+the UP and DOWN buttons.
+(f) Correction
+(1) When correcting the input character(s), put the
+cursor onto the character using the RIGHT or
+LEFT button.
+(2) Select or input the correct character using the
+UP and DOWN buttons, or the numerical
+buttons.
+(g) Finishing Input Operation
+(1) Make sure that the input VIN matches the
+vehicle VIN after input.
+(2) Press the ENTER button on the tester.
+2. READ VIN (Vehicle Identification Number)
+(a) The flowchart of the VIN reading process is shown.
+This process allows the VIN stored in the ECM to be
+read, in order to confirm that the two VINs, provided
+with the vehicle and stored in the vehicle's ECM, are
+the same.
+(b) Read VIN using an intelligent tester.
+(c) Check the vehicle's VIN.
+(d) Connect the intelligent tester to the DLC3.
+(e) Turn the ignition switch on (IG).
+(f) Turn the tester on.

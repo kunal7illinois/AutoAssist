@@ -1,0 +1,36 @@
+LI–58
+LIGHTING – LIGHTING SYSTEM
+Door LOCK Position Circuit
+DESCRIPTION
+The main body ECU receives each door lock position switch signal to control the illuminated entry system.
+WIRING DIAGRAM
+Main Body ECU
+K5 Instrument Panel J/B
+Door Lock Assembly (Rear LH)
+5
+IP LSR (*1)
+9 6 20
+LSWL (*2)
+J5
+Door Lock Assembly (Rear RH)
+5
+(*2)
+IL
+9 6
+5
+(*1)
+E6 LSWR
+H8
+Door Lock Assembly (Front Passenger’s Side)
+27
+E6 LSWP
+8 7
+LI
+I7
+Door Lock Assembly (Driver’s Side)
+9
+E7 LSWD
+7 8
+*1: with Smart Key System
+*2: without Smart Key System
+E121496E02

@@ -1,0 +1,76 @@
+DL–155
+DOOR LOCK – SMART KEY SYSTEM
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Entry door control receiver Engine switch off, all doors
+RSSI (E58-39) - E (E58-17) R - W-B electric wave existence closed, the electrical key is Below 1 V
+signal in the action area
+Engine switch off, all doors
+Entry door control receiver 10 to 14 V
+RDA (E58-38) - E (E58-17) Y - W-B closed and electrical key
+data input signal (Pulse generation)
+switch off
+Engine switch off, all doors
+Entry door control receiver
+RDA (E58-38) - E (E58-17) Y - W-B closed and electrical key Pulse generation
+data input signal
+switch on
+Engine switch off, all doors
+10 to 14 V
+RDA (E58-38) - Body ground Y - Body ground Tuner input signal closed, the electrical key is
+(Pulse generation)
+not in the action area
+The electrical key is in the
+RDA (E58-38) - Body ground Y - Body ground Tuner input signal Pulse generation
+action area.
+Engine switch off, luggage
+Cabin / luggage receiver compartment door closed
+ASEL (E58-37) - Body ground V - Body ground 4.6 to 6.0 V
+select signal and the electrical key is in
+the luggage action area
+Cabin / luggage receiver Engine switch off, luggage
+ASEL (E58-37) - Body ground V - Body ground Below 1 V
+select signal compartment door open
+Transponder key amplifier Electrical key is not in the
+VC5 (E58-30) - Body ground R - Body ground Below 1 V
+power supply cabin.
+Have the electrical key
+Transponder key amplifier
+VC5 (E58-30) - Body ground R - Body ground outside the cabin and 4.5 to 5.5 V
+power supply
+open the driver's door.
+Transponder key amplifier Electrical key is not in the
+TXCT (E58-8) - Body ground GR - Body ground Below 1 V
+output signal cabin.
+Have the electrical key
+Transponder key amplifier Pulse generation (see
+TXCT (E58-8) - Body ground GR - Body ground outside the cabin and
+output signal waveform 1)
+open the driver's door.
+Transponder key amplifier Electrical key is not in the
+CODE (E58-9) - Body ground W - Body ground Below 1 V
+communication signal cabin.
+Have the electrical key
+outside the cabin and
+open the driver's door.
+Transponder key amplifier Pulse generation (see
+CODE (E58-9) - Body ground W - Body ground Hold the electrical key
+communication signal waveform 2)
+close to the engine switch
+with the brake pedal
+depressed.
+Wireless door lock buzzer Wireless door lock buzzer
+BZR (E58-21) - Body ground O - Body ground Below 1 V
+signal OFF
+Wireless door lock buzzer Wireless door lock buzzer
+BZR (E58-21) - Body ground O - Body ground Pulse generation
+signal ON
+If the result is not as specified, the ECU may have a
+malfunction. DL
+(e) Inspect using an oscilloscope.
+Waveform 1 (Reference):
+Terminal TXCT - Body ground
+Tool Setting 2 V/DIV, 10 ms./DIV
+GND
+Condition Have the electrical key outside the cabin and
+open the driver's door.
+B112486E01

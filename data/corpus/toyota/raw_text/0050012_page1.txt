@@ -1,0 +1,60 @@
+ES–58
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DIAGNOSTIC TROUBLE CODE CHART
+HINT:
+Parameters listed in the chart may be different than your
+readings depending on the type of instrument and other
+factors.
+If any DTCs are displayed during a check mode DTC check,
+check the circuit for the DTCs listed in the table below. For
+details of each DTC, refer to the page indicated.
+DTC No. Detection Item Trouble Areas MIL Memory See page
+P0010 Camshaft Position - Open or short in Oil Comes on DTC stored ES-62
+"A" Actuator Circuit Control Valve (OCV)
+ES (Bank 1) circuit
+- OCV
+- ECM
+P0011 Camshaft Position - Valve timing Comes on DTC stored ES-66
+"A" - Timing Over- - OCV
+Advanced or System - OCV filter
+Performance (Bank - Camshaft timing
+1) gear assembly
+- ECM
+P0012 Camshaft Position - Same as DTC Comes on DTC stored ES-66
+"A" - Timing Over- P0011
+Retarded (Bank 1)
+P0016 Crankshaft Position - - Mechanical system Comes on DTC stored ES-72
+Camshaft Position (Timing chain has
+Correlation (Bank 1 jumped tooth or chain
+Sensor A) stretched)
+- ECM
+P0031 Oxygen (A/F) Sensor - Open in Air-Fuel Comes on DTC stored ES-74
+Heater Control Circuit Ratio (A/F) sensor
+Low (Bank 1 Sensor heater circuit
+1) - A/F sensor heater
+(sensor 1)
+- Integration relay
+(EFI MAIN relay)
+- ECM
+P0032 Oxygen (A/F) Sensor - Short in A/F sensor Comes on DTC stored ES-74
+Heater Control Circuit heater circuit
+High (Bank 1 Sensor - A/F sensor heater
+1) (sensor 1)
+- Integration relay
+(EFI MAIN relay)
+- ECM
+P0037 Oxygen Sensor - Open in Heated Comes on DTC stored ES-80
+Heater Control Circuit Oxygen (HO2)
+Low (Bank 1 Sensor sensor heater circuit
+2) - HO2 sensor heater
+(sensor 2)
+- Integration relay
+(EFI MAIN relay)
+- ECM
+P0038 Oxygen Sensor - Short in HO2 sensor Comes on DTC stored ES-80
+Heater Control Circuit heater circuit
+High (Bank 1 Sensor - HO2 sensor heater
+2) (sensor 2)
+- Integration relay
+(EFI MAIN relay)
+- ECM

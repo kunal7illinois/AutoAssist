@@ -1,0 +1,52 @@
+RS–23
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+SYSTEM DESCRIPTION
+1. GENERAL
+(a) In conjunction with impact absorbing structure for a
+front collision, the SRS (Supplemental Restraint
+System) driver airbag, front passenger airbag, and
+driver side knee airbag were designed to
+supplement seat belts in the event of a front
+collision in order to help reduce shock to the head
+and chest of the driver and front passenger and
+knee of the driver. This system is a 3-sensor type
+airbag system to detect the impact during a front
+collision using the center airbag sensor assembly
+and front airbag sensors. It also operates the airbag
+system and seat belt pretensioner.
+(b) In order to detect the extent of the collision during
+the initial stages of the collision in further details, the
+front airbag sensors have been changed from
+mechanical type to electrical type deceleration
+sensors. Accordingly, the deployment of the driver
+airbag and front passenger airbag is controlled in
+two stages according to the severity of the impact.
+(c) In conjunction with impact absorbing structure for a
+side collision, the side airbag and curtain shield
+airbag were designed to help reduce shock to the
+driver, front passenger, and rear outer passengers
+in the event of a side collision.
+(d) The curtain shield airbag that helps reduce shock to
+the front and rear seat occupants with a single
+RS
+curtain shield airbag has been adopted. In
+conjunction with this system, the side airbag
+sensors have been installed at the bottom of the
+center pillars and the rear airbag sensors have been
+installed at the bottom of the rear pillars.
+(e) In this system, a front side collision is detected by
+the side airbag sensor in order to simultaneously
+deploy the side and curtain shield airbags. A rear
+side collision is detected by the rear airbag sensor
+and the center airbag sensor assembly in order to
+deploy the curtain shield airbag.
+(f) The center airbag sensor assembly sends the
+airbag deployment signal to the ECM through CAN
+(Controller Area Network) to operate the fuel pump
+control.
+2. CONSTRUCTION AND OPERATION
+(a) FRONT AIRBAG SENSOR
+(1) The front airbag sensors are installed on the
+right and left radiator supports respectively.
+(2) The front airbag sensor consists of the
+deceleration sensor.

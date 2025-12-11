@@ -1,0 +1,54 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-385
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Using scan tool MB991502, check data list item 24:
+Vehicle Speed Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine.
+(3) Set scan tool MB991502 to the data reading mode for item
+24, Vehicle Speed Sensor.
+16 PIN • Check that the speedometer and MUT-II display speed
+match when traveling at a vehicle speed of 40 km/h (25
+MB991502
+mph).
+AKX01177AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Replace the ECM. Then go to Step 17.
+STEP 6. Check the sensor supply voltage at ECM
+connector C-60 by backprobing.
+(1) Do not disconnect the ECM connector C-60.
+(2) Disconnect the vehicle speed sensor connector B-39.
+(3) Turn the ignition switch to the "ON" position.
+(4) Measure the voltage between terminal 86 and ground by
+backprobing.
+C-60 CONNECTOR
+• Voltage should be between 4.8 and 5.2 volts.
+HARNESS SIDE VIEW
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+7172737475767778798081 Q:Is the voltage normal?
+8283848586878889909192
+YES : Go to Step 7.
+NO : Replace the ECM. Then go to Step 17.
+AK000304AC
+STEP 7. Check connector C-60 at ECM for damage.
+Q:Is the connector in good condition?
+CONNECTOR:C-60
+YES : Check connector B-36 at intermediate connector for
+damage, and repair or replace as required. Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2. If intermediate connector is in good condition,
+repair harness wire between vehicle speed sensor
+connector B-39 terminal 3 and ECM connector C-60
+terminal 86 because of open circuit. Then go to Step
+17.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+AK000280BI
+Connector Inspection P.00E-2. Then go to Step 17.
+TSB Revision

@@ -1,0 +1,41 @@
+CA–49
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+Air Conditioning Amplifier Communication Stop Mode
+DESCRIPTION
+Detection Item Symptom Trouble Area
+• "Air Conditioner" not displayed on
+• Power source circuit of the air
+"Communication Bus Check" screen of
+conditioning amplifier
+Air Conditioning Amplifier Communication intelligent tester
+• Air conditioning amplifier branch wire or
+Stop Mode • Applies to "Air Conditioning Amplifier
+connector
+Communication Stop Mode" in "DTC
+• Air conditioning amplifier
+combination table"
+WIRING DIAGRAM
+DLC3
+Combination Meter ECM
+CA
+120 Ω No. 1 CAN J/C No. 2 CAN J/C 120 Ω
+11 12
+CANH CANL
+A/C 14
+GND
+B
+21
+A/C No. 2
+IG+
+1
+E38 A/C Amplifier
+Trouble Area
+: CAN Main Bus Wire (CANH) : CAN Branch Wire (CANH)
+: CAN Main Bus Wire (CANL) : CAN Branch Wire (CANL)
+C133239E01
+INSPECTION PROCEDURE
+NOTICE:
+• Turn the ignition switch off before measuring the resistance of the CAN main wire and CAN
+branch wires.
+• After the ignition switch is turned off, check that the key reminder warning system and light
+reminder warning system are not operating.

@@ -1,0 +1,44 @@
+13A-228 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+• The throttle deviation is −0.059 volt/10ms to • Misfire has occurred in 20 or more of the last
++0.059 volt/10ms. 1,000 revolutions (corresponding to 1.5 times the
+limit of emission standard).
+Judgement Criteria (change in the angular accel-
+eration of the crankshaft is used for misfire
+.
+TROUBLESHOOTING HINTS (The most likely
+detection).
+• Misfire has occurred more frequently than causes for this code to be set are: )
+• Ignition system related part(s) failed.
+allowed during the last 200 revolutions [when the
+catalyst temperature is higher than 950°C • Low compression pressure.
+(1,742°F)]. • Injector failed.
+• ECM failed. <M/T>
+or
+• PCM failed. <A/T>
+DIAGNOSIS
+STEP 1. Check the spark plugs.
+(1) Check that the plug is not burned, that the insulator plug is
+not damaged, and that the seizure state is good.
+(2) If cleaning is required due to carbon deposits, etc., clean
+using a plug cleaner or wire brush, etc.
+(3) Check the plug gap using a plug gap gauge, and adjust if
+PLUG GAP
+not within the standard value.
+GAUGE
+Standard value: 1.0 − 1.1 mm (0.039 − 0.043 inch)
+Q:Is the spark plug in good condition?
+YES : Go to Step 2.
+MEASU- NO : Replace the spark plug. Then go to Step 9.
+REMENT
+DIRECTION
+AAKKXX0011227722 AB
+STEP 2. Check the spark plug cable.
+(1) Check the cap and coating for cracks.
+(2) Measure the resistance.
+Limit: maximum 19 kΩ
+Q:Is the resistance normal?
+YES : Go to Step 3.
+NO : Replace the spark plug cable. Then go to Step 9.
+AKX00382
+TSB Revision

@@ -1,0 +1,57 @@
+ES–220
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK
+REPLACE SPARK PLUG
+9 INSPECT ECM (#10, #20, #30, #40, #50 AND/OR #60 VOLTAGE))
+(a) Disconnect the C55 ECM connector.
+Wire Harness Side Front View:
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage between the terminals.
+ECM Connector Standard voltage
+#30 (+)
+C55 #50 (+) Tester Connection Specified Condition
+E01 (-)
+ES #10 (C55-45) - E01 (C55-22) 9 to 14 V
+#20 (C55-85) - E01 (C55-22) 9 to 14 V
+#30 (C55-44) - E01 (C55-22) 9 to 14 V
+#40 (C55-84) - E01 (C55-22) 9 to 14 V
+#50 (C55-43) - E01 (C55-22) 9 to 14 V
+#60 (C55-83) - E01 (C55-22) 9 to 14 V
+#10 (+)
+#60 (+) #20 (+)
+(d) Reconnect the ECM connector.
+#40 (+)
+OK Go to step 12
+A107892E80
+NG
+10 CHECK HARNESS AND CONNECTOR (INJECTOR - ECM)
+(a) Disconnect the injector connector (misfire cylinder).
+Wire Harness Side Front View:
+(b) Disconnect the C55 ECM connector.
+Injector Connector (c) Measure the resistance between the terminals.
+Standard resistance
+C7 C8
+Tester Connection Specified Condition
+C9 C10
+#10 (C55-45) - C7-1 Below 1 Ω
+C36 C37
+#20 (C55-85) - C9-1 Below 1 Ω
+#30 (C55-44) - C8-1 Below 1 Ω
+#40 (C55-84) - C10-1 Below 1 Ω
+#50 (C55-43) - C36-1 Below 1 Ω
+ECM Connector
+#60 (C55-83) - C37-1 Below 1 Ω
+C55 #10 (C55-45) or C7-1 - Body ground 10 kΩ or higher
+#50 #30
+#10
+#20 (C55-85) or C9-1 - Body ground 10 kΩ or higher
+#30 (C55-44) or C8-1 - Body ground 10 kΩ or higher
+#40 (C55-84) or C10-1 - Body ground 10 kΩ or higher
+#50 (C55-43) or C36-1 - Body ground 10 kΩ or higher
+#60 (C55-83) or C37-1 - Body ground 10 kΩ or higher
+#20 (d) Reconnect the injector connector.
+#60 #40
+(e) Reconnect the ECM connector.
+A106388E07
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR

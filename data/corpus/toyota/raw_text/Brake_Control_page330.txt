@@ -1,0 +1,55 @@
+BC–319
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC No. DTC Detecting Condition Trouble Area
+When either of the following is detected:
+• Front speed sensor RH and/or LH
+• Vehicle speed is more than 25 mph (40 km/h), and
+• Front speed sensor circuit RH and/or LH
+C0200/31 pulses are not input for 0.03 sec.
+• Front speed sensor rotor RH and/or LH
+C0205/32 • When the vehicle speed has reached 8 mph (12
+• Sensor installation
+km/h) after the initial start or restart, a wheel speed
+• Brake actuator assembly (skid control ECU)
+of 0 mph (0 km/h) is detected.
+• Front speed sensor RH and/or LH
+C1330/35 Abnormality in the resistance value of each speed
+• Front speed sensor circuit RH and/or LH
+C1331/36 sensor is detected.
+• Sensor installation
+• Front speed sensor
+C1271/71
+Detected only during test mode. • Sensor installation
+C1272/72
+• Sensor rotor
+• Front speed sensor
+C1275/75
+Detected only during test mode. • Sensor installation
+C1276/76
+• Sensor rotor
+HINT:
+DTC No. C0200/31 and C1330/35 are for the front speed sensor RH.
+DTC No. C0205/32 and C1331/36 are for the front speed sensor LH.
+BC
+WIRING DIAGRAM
+Brake Actuator Assembly (Skid
+Control ECU with Actuator)
+5
+A60 FL+
+1
+A14
+Front Speed Sensor LH
+6
+2
+A60 FL-
+10
+A60 FR+
+1
+A35
+Front Speed Sensor RH 9
+2
+A60 FR-
+C122979E02
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).

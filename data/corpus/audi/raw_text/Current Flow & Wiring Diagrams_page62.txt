@@ -1,0 +1,46 @@
+Audi TT No. 3 / 11
+Current Flow Diagram
+Engine control unit, lambda probe, lambda probe heater
+after catalytic converter, lambda probe heater, lambda
+probe 1 heater after catalytic converter, fuses
+G39 Lambda probe
+G130 Lambda probe after catalytic converter
+J623 Engine control unit
+SB1 Fuse 1 on fuse holder B
+SB2 Fuse 2 on fuse holder B
+SB3 Fuse 3 on fuse holder B
+4,0 B275 2,5 2,5 2,5 2,5 SB4 Fuse 4 on fuse holder B
+sw/ge sw/ge sw/ge sw/ge sw/ge T4b 4-pin connector, black, on Lambda probe after catalytic
+converter
+1 2 3 4
+T6c 6-pin connector, black, on Lambda probe
+ST2 SB1 SB2 SB3 SB4 T81 81-pin connector, black, on engine control unit
+224455 15A 10A 5A 10A
+Z19 Lambda probe heater
+1a 2a 3a 4a
+Z29 Lambda probe 1 heater after catalytic converter
+1,5 1,5 1,0 1,0 0,5 1,0 1,0 B275 Positive connection (87), in main wiring harness
+ro/sw ro/sw bl/ro bl/ro sw/gn ws/li ws/li
+225533 224488 112288 113355 114444 114411 114477
+J623
+T81/5 T81/52 T81/71 T81/51 T81/70 T81/63 T81/68 T81/69
+1,0 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+ws ro/gn li li/ge li/bl br/gn ro/ge ro/bl
+1,0
+br/gn
+T6c/3 T6c/1 T6c/5 T6c/2 T6c/6 T4b/2 T4b/3 T4b/4
+ws = white
+Z19 G39 Z29 G130 sw = black
+ro = red
+T6c/4 T4b/1
+br = brown
+1,0 1,0 gn = green
+bl/ro bl/ro bl = blue
+gr = grey
+113300 113311
+li = purple
+ge = yellow
+127 128 129 130 131 132 133 134 135 136 137 138 139 140 or = orange
+8J0-003110909
+rs = pink
+Edition 10.2010

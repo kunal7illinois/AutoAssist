@@ -1,0 +1,51 @@
+NS–62
+NAVIGATION – NAVIGATION SYSTEM
+DTC 01-D5 Absence of Registration Unit
+DTC 01-D8 No Response for Connection Check
+DTC 01-D9 Last Mode Error
+DTC 01-DA No Response Against ON / OFF Command
+DTC 01-DB Mode Status Error
+DTC 01-DE Slave Reset
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+• A component shown by the sub-code is (was)
+disconnected from the system when turning the
+01-D5 ignition switch on (ACC or IG).
+*1, *4 • The communication condition with the device that
+the code shows cannot be obtained when the
+engine starts.
+01-D8 A component shown by the sub-code is (was)
+• Power source circuit of the component shown by
+*2, *4 disconnected from the system after engine start.
+the sub-code
+01-D9 The device that had functioned before the engine • AVC-LAN circuit between the radio and navigation
+*1, *4 stopped is (was) disconnected from the system when assembly and the component shown by the sub-
+turning the ignition switch is on (ACC or IG). code
+• No response is identified when changing mode. • Component shown by the sub-code
+01-DA
+• Detected when sound and image do not change by
+*4
+switch operation.
+01-DB A dual alarm is detected.
+*1, *4
+01-DE A slave device has been disconnected after engine
+*3, *4 start.
+HINT:
+• *1: Even if no fault is present, this trouble code may be stored depending on the battery condition or
+engine start voltage.
+• *2: If the power connector is disconnected after the engine starts, this code is stored after 180 seconds.
+• *3: This code may be stored if the engine is started and then the ignition switch is turned to the START
+position again. (Key type ignition switch only)
+• *4: If it is reported that the device does not exist during verification, check the power source circuit and
+AVC-LAN circuit for the device.
+NOTICE:
+• Before starting troubleshooting, be sure to clear DTCs to erase codes stored due to the
+reasons described in the HINT above. Then, check for DTCs and troubleshoot according to the
+output DTCs.
+NS
+• The radio and navigation assembly is the master unit.
+• Be sure to clear and recheck DTCs after the inspection is completed to confirm that no DTCs
+are output.
+INSPECTION PROCEDURE
+NOTICE:
+Be sure to read DESCRIPTION before performing the following procedures.

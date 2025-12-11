@@ -1,0 +1,48 @@
+AX–158
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+WIRING DIAGRAM
+ECM
+EFI No.2
+AX
+25
+To EFI Relay A55 S
+3 7
+51
+A55 SFTD
+1
+16
+A55 SFTU
+5 2
+E31
+Transmission Control Swich
+7 1
+CAN- C56 C55 CAN-
+6 2
+CAN+ C56 C55 CAN+
+TCM
+C133256E01
+INSPECTION PROCEDURE
+HINT:
+• Refer to inspection procedure for CAN communication system (See page CA-8).
+• If the CAN communication malfunctions, the TCM cannot receive the current data from the ECM. In
+this case, the freeze frame data output from the TCM has not been updated, so the data will not be
+useful for the inspection. However, reading the Data List as the first step in troubleshooting is effective
+to find malfunctions.
+• The malfunction area can be checked using the BUS CHECK function on the intelligent tester (See
+page CA-25).
+1 CHECK ECU TERMINAL VOLTAGE (+B AND E1 TERMINALS)
+(a) Disconnect the TCM connector.
+Wire Harness Side:
+(b) Turn the ignition switch on (IG).
+TCM Connector (Front View)
+(c) Measure the voltage of the TCM connectors.
+Standard voltage
+C56
+Tester Connection Specified Condition
+C56-18 (+B) - C56-8 (E1) 9 to 14 V
+(d) Turn the ignition switch off.
+(e) Measure the resistance of the TCM connector.
++B E1
+C133210E08
+Tester Connection Specified Condition
+C56-8 (E1) - Body ground Below 1 Ω

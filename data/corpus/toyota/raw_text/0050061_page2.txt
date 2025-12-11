@@ -1,0 +1,43 @@
+ES–374
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+INSPECTION PROCEDURE
+1 INSPECT FUSES (P/I, AM2, IG2, EFI MAIN, IGN)
+(a) Remove the P/I fuse, AM2 fuse, IG2 fuse and EFI MAIN
+fuse from the engine room No. 1 relay block.
+EFI MAIN
+AM2
+IG2
+ES
+P/I
+Engine Room No. 1 Relay Block:
+A126981E12
+(b) Remove the IGN fuse from the instrument panel junction
+Instrument Panel Junction Block:
+block.
+(c) Measure the resistance of the fuses.
+IGN
+Standard resistance:
+Below 1Ω
+(d) Reinstall the fuses.
+NG CHECK FOR SHORT IN ALL HARNESSES
+AND CONNECTORS CONNECTED TO FUSE
+AND REPLACE FUSE
+A126984E02
+OK
+2 INSPECT RELAY (IG2, EFI MAIN)
+(a) Remove the integration relay and IG2 relay from the
+Integration Relay:
+engine room No. 1 relay block.
+EFI MAIN (b) Measure the resistance between the terminal of the
+Fuse Side:
+integration relay.
+Standard resistance
+Tester Connections Specified Conditions
+1C-1 - 1A-4 10 kΩ or higher
+Connector Side: Below 1 Ω
+(When battery voltage is applied to
+terminals 1A-2 and 1A-3)
+1C 1A
+8 76 5 4 32 1 8 76 5 4 32 1
+1
+A107921E14

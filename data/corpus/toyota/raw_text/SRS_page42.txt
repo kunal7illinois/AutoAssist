@@ -1,0 +1,60 @@
+RS–42
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DTC CHECK / CLEAR
+1. DTC CHECK (USING SST CHECK WIRE)
+CG
+(a) Check the DTCs (Present trouble code).
+(1) Turn the ignition switch on (IG), and wait for
+approximately 60 seconds.
+1 2 3 4 5 6 7 8
+(2) Using SST, connect terminals TC and CG of the
+9 10111213141516 DLC3.
+SST 09843-18040
+TC NOTICE:
+A082779E07
+Connect the terminals to the correct
+positions to avoid a malfunction.
+(b) Check the DTCs (Past trouble code).
+(1) Using SST, connect terminals TC and CG of the
+DLC3.
+SST 09843-18040
+NOTICE:
+Connect the terminals to the correct
+positions to avoid a malfunction.
+(2) Turn the ignition switch on (IG), and wait for
+approximately 60 seconds.
+(c) Read the DTCs.
+Normal System Code (without Past Trouble Code): (1) Read the blinking patterns of the DTCs. As
+examples, the blinking patterns for the normal
+0.25 sec.
+system code and trouble codes 11 and 31 are
+ON shown in the illustration.
+• Normal system code indication (without past
+OFF trouble code)
+RS The light blinks twice per second.
+0.25 sec.
+• Normal system code indication (with past
+Normal System Code (with Past Trouble Code):
+trouble code)
+0.75 sec. When the past trouble code is stored in the
+center airbag sensor assembly, the light
+ON
+blinks only once per second.
+• Trouble code indication
+OFF
+The first blinks indicates the first DTC. The
+0.25 sec. second blinks occurs after a 1.5-second
+Trouble Code (Example Codes 11 and 31): pause.
+If there are more than 1 code, there will be a 2.5-
+0.5 sec. 2.5 sec. 4.0 sec.
+second pause between each code. After all
+ON codes are shown, there will be a 4.0-second
+pause, and then they will all be repeated.
+OFF
+HINT:
+1.5 sec. 0.5 sec. Repeat • If 2 or more malfunctions are found, the
+DTC 11 DTC 31 indication begins with the smaller numbered
+code.
+• If DTCs are indicated without connecting the
+H013050E17 terminals, proceed to "Diagnosis Circuit" (See
+page RS-231).

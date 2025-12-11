@@ -1,0 +1,39 @@
+ES–399
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 CHECK HARNESS AND CONNECTOR
+(a) Disconnect the C56 TCM connector.
+Wire Harness Side:
+(b) Disconnect the C55 ECM connector.
+(c) Measure the resistance of the wire harness side
+ECM Connector (Front View)
+connectors.
+Standard resistance
+Tester Connection Specified Condition
+C56-6 (CAN+) - C55-2 (CAN+) Below 1 Ω
+C56-7 (CAN-) - C55-1 (CAN-) Below 1 Ω
+C56-6 (CAN+) or C55-2 (CAN+) - Body ground 1 MΩ or more
+C56-7 (CAN-) or C55-1 (CAN-) - Body ground 1 MΩ or more
+CAN- CAN+
+ES
+TCM Connector (Front View)
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+CAN+ CAN-
+C133242E02
+OK
+4 REPLACE ECM
+(a) Replace the ECM (See page ES-518).
+NOTICE:
+Replace the ECM with a ECM from a normally
+functioning vehicle of the same model.
+NEXT
+5 CHECK IF DTC RECURS
+(a) Connect the intelligent tester to the DLC3.
+(b) Clear the DTC.
+(c) Start the engine.
+(d) Read the DTCs.
+Result
+Display (DTC Output) Proceed to
+U0101 A
+No DTC B
+B REPLACE ECM

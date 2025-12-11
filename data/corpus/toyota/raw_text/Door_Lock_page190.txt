@@ -1,0 +1,24 @@
+DL–180
+DOOR LOCK – SMART KEY SYSTEM
+2 CHECK HARNESS AND CONNECTOR (CERTIFICATION ECU - ENTRY LOCK SWITCH)
+(a) Disconnect the E58 ECU connector.
+(b) Measure the resistance according to the value(s) in the
+Certification ECU:
+table below.
+Standard resistance
+Tester Connection (Symbols) Condition Specified Condition
+E58-3 (TSW1) - X1-3 (TRG+) Always Below 1 Ω
+E58 E58-4 (TSW2) - W1-3 (TRG+) Always Below 1 Ω
+E58-3 (TSW1) - Body ground Always 10 kΩ or higher
+E58-4 (TSW2) - Body ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+TSW1
+CONNECTOR
+TSW2
+Lock Switch Wire Harness:
+X1
+W1
+TRG+
+B137967E01
+OK
+DL

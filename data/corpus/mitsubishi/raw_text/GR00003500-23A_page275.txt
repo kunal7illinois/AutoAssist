@@ -1,0 +1,43 @@
+AUTOMATIC TRANSAXLE 23A-275
+AUTOMATIC TRANSAXLE DIAGNOSIS
+DIAGNOSIS
+STEP 1. Check the engine system.
+(1) Refer to GROUP 13A <2.4L Engine>, Diagnosis −
+Symptom Chart − Poor acceleration P.13A-25, or GROUP
+13B <3.0L Engine>, Diagnosis − Symptom Chart − Poor
+acceleration P.13B-26.
+Q:Is the inspection result good?
+YES : Go to Step 2.
+NO : Repair or replace the engine component(s).
+STEP 2. Check each brake and clutch.
+Perform the torque converter stall test. Refer to P.23A-25,
+Torque Converter Stall Test. Then check for the symptom.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Go to Step 3.
+STEP 3. Perform the hydraulic pressure test.
+Perform the hydraulic pressure test. Refer to P.23A-26,
+Hydraulic Pressure Test. Then check for the symptom.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Go to Step 4.
+STEP 4. Check each brake system and clutch system.
+(1) Remove the valve body cover and valve body. Refer to
+GROUP 23B, Transaxle P.23B-10.
+(2) Blow 108 kPa (15 psi) compressed air into the each brake
+oil orifice and clutch oil orifice of the transaxle case, and
+LOW-REVERSE BRAKE check if each brake and clutch piston move and air
+OIL ORIFICE pressure is maintained.
+REVERSE CLUTCH
+Q:Is the air pressure maintained?
+OIL ORIFICE
+YES : Diagnosis is complete.
+NO : Go to Step 5.
+UNDERDRIVE
+CLUTCH OVERDRIVE
+OIL ORIFICE CLUTCH
+OIL ORIFICE
+SECOND BRAKE
+OIL ORIFICE
+AC001870AB
+TSB Revision

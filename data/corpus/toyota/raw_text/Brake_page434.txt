@@ -1,0 +1,23 @@
+BC–423
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+TS and CG Terminal Circuit
+DESCRIPTION
+In the Test Mode (signal check), a malfunction of the speed sensor that cannot be detected when the
+vehicle is stopped can be detected while driving.
+Transition to the sensor check mode can be performed by connecting terminals TS and CG of the DLC3
+and turning the ignition switch from off to on (IG).
+WIRING DIAGRAM
+Brake Actuator Assembly
+E10
+- Skid Control ECU
+DLC3
+24
+BC
+TS A60 TS
+12
+CG
+4
+C136515E01
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).

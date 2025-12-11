@@ -1,0 +1,44 @@
+54A-28 CHASSIS ELECTRICAL
+IGNITION SWITCH
+TERMINAL NO. SIGNAL CHECKING TERMINAL VOLTAGE
+REQUIREMENT
+3 Immobilizer-ECU ground Always 0V
+5 ECM <M/T> or PCM <A/T> − −
+7 Immobilizer-ECU power supply Ignition switch: "LOCK" 0V
+(OFF)
+Ignition switch: "ON" Battery positive voltage
+9 "SECURITY" indicator control "SECURITY" indicator Battery positive voltage
+light is not illuminated
+"SECURITY" indicator 2 volts or less
+light is illuminated
+10 Ignition key ring antenna − −
+11 Ignition key ring antenna − −
+SPECIAL TOOLS
+M1543000600626
+TOOL TOOL NUMBER SUPERSESSION APPLICATION
+AND NAME
+MB991502 Scan tool MB991496-OD • Immobilizer system check
+(MUT-II) • Encrypted code registration
+B991502
+MB991223 MB991223 Making voltage and resistance
+A: MB991219 measurements during
+A
+B: MB991220 troubleshooting
+C: MB991221 A: Connect pin contact pressure
+D: MB991222 inspection
+B Harness set B: Power circuit inspection
+A: Test harness C: Power circuit inspection
+B: LED harness D: Commercial tester connection
+C: LED harness
+adapter
+C D: Probe
+D
+MB991223AC
+ON-VEHICLE SERVICE
+IMMOBILIZER ENCRYPTED CODE
+REGISTRATION
+M1543008100283
+ENCRYPTED CODE REGISTRATION METHOD
+Required Special Tool:
+MB991502: Scan Tool (MUT-II)
+TSB Revision

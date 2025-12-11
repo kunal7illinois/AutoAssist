@@ -1,0 +1,42 @@
+52B-118 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+CONNECTOR: D-02 CONNECTOR: C-74
+<ECLIPSE>
+FRONT
+SEAT BELT
+REAR
+FRONT OF
+SPEAKER VEHICLE SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT (LH) AC000358AF
+<ECLIPSE SPYDER>
+FRONT
+SEAT BELT
+REAR SPEAKER FRONT OF
+BRACKET VEHICLE
+AC003136AB
+CIRCUIT OPERATION DTC SET CONDITIONS
+• The SRS-ECU judges how severe a by detecting • These DTC are set if communication between the
+signals from the left and right side impact sensors side impact sensor (RH) and the SRS-ECU is not
+and the analog G-sensor. If the impact is over a possible or faulty.
+predetermined level, the SRS-ECU outputs an
+TROUBLESHOOTING HINTS
+ignition signal. At this time, if the safing G-sensor
+• Damaged wiring harnesses or connectors
+is on, the SRS air bag will inflate.
+• Malfunction of the side impact sensor (RH)
+• Malfunction of the SRS-ECU
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the side impact sensor.
+(1) Replace the side impact sensor (RH) with the side impact
+sensor (LH).
+(2) Connect the negative battery terminal.
+(3) Erase DTC memory.
+Q:Is any of DTC 79 or 93 erased and DTC 79 or 93 out put?
+YES : Replace the side impact sensor (RH) with a new one.
+(Refer to P.52B-153.) Then go to Step 3.
+NO : Go to Step 2.
+TSB Revision

@@ -1,0 +1,54 @@
+BC–333
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+(c) Select "DATA LIST" and read the value displayed on the
+intelligent tester (See page BC-307).
+DATA LIST: ABS/TRAC/VSC
+Measurement Item /
+Item Normal Condition
+Range (Display)
+Wheel speed sensor (RR) reading / min.: 0 MPH (0
+RR WHEEL SPD Actual wheel speed
+km/h), max.: 202 MPH (326 km/h)
+Wheel speed sensor (RL) reading / min.: 0 MPH (0
+RL WHEEL SPD Actual wheel speed
+km/h), max.: 202 MPH (326 km/h)
+(d) Check that there is no difference between the speed
+value output from the speed sensor displayed on the
+intelligent tester and the speed value displayed on the
+speedometer when driving the vehicle.
+OK:
+The speed value output from the speed sensor
+displayed on the intelligent tester is the same as
+the actual vehicle speed.
+HINT:
+• It is suspected that the DTCs were output due to a BC
+bad connection of the connector terminal.
+• If troubleshooting has been carried out according to
+the "PROBLEM SYMPTOMS TABLE", refer back to
+the table and proceed to the next step (See page BC-
+295).
+NG REPLACE BRAKE ACTUATOR ASSEMBLY
+(See page BC-432)
+OK
+11 RECONFIRM DTC
+(a) Clear the DTCs (See page BC-302).
+(b) Drive the vehicle at a speed of approximately 25 mph (40
+km/h) or more for 60 seconds or more.
+(c) Check if the same DTCs are recorded (See page BC-
+302).
+HINT:
+Reinstall the sensors, connectors, etc. and restore the
+vehicle to its prior condition before rechecking for DTCs.
+Result
+Condition Proceed to
+DTCs (C0210/33, C0215/34, C1332/38 and C1333/39) are output A
+DTCs (C0210/33, C0215/34, C1332/38 and C1333/39) are output (When
+B
+troubleshooting in accordance with the PROBLEM SYMPTOMS TABLE)
+DTCs (C0210/33, C0215/34, C1332/38 and C1333/39) are not output (When
+C
+troubleshooting in accordance with the DTC CHART)
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+(See page BC-295)
+C END

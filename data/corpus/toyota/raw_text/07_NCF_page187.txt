@@ -1,0 +1,43 @@
+CHASSIS - U250E AUTOMATIC TRANSAXLE CH-23
+(cid:5)ELECTRONIC CONTROL SYSTEM
+1. General
+The electronic control system of the U250E automatic transaxle consists of the control listed below.
+System Outline
+The ECM sends current to 3 solenoid valves (SL1, SL2, and SL3) based
+Shift Timing Control
+on signals from each sensor and shifts the gear.
+(cid:3) Controls the pressure that is applied directly to B brake, C and C
+1 0 1
+clutches by actuating 3 solenoid valves (SL1, SL2, and SL3) in
+Clutch Pressure Control accordance with ECM signals.
+(See page CH-28) (cid:3) 3 solenoid valves (SL1, SL2, and SL3) minutely control the clutch
+pressure in accordance with the engine output and driving
+conditions.
+Actuates the solenoid valve SLT to control the line pressure in
+Line Pressure Optimal Control
+accordance with information from the ECM and the operating
+(See page CH-29)
+conditions of the transaxle.
+Shifting Control in Uphill/ Controls to restrict the 4th or 5th upshift or to provide appropriate
+Downhill Traveling engine braking by the ECM to determine whether the vehicle is
+(See page CH-30) traveling uphill or downhill.
+The ECM sends current to the solenoid valves DSL and SL2 based on
+Lock-up Timing Control
+signals from each sensor and engages or disengages the lock-up clutch.
+Controls the solenoid valve SL2 and DSL, provides an intermediate
+Flex Lock-up Clutch Control mode between the ON/OFF operation of the lock-up clutch, and
+(See page CH-31) increase the operating range of the lock-up clutch to improve fuel
+economy.
+Retards the engine ignition timing temporarily to improve shift feeling
+Engine Torque Control
+during up or down shifting.
+When the shift lever is shifted from “N” to “D” position, the gear is
+“N” to “D” Squat Control
+temporarily shifted to 3rd and then to 1st to reduce vehicle squat.
+Diagnosis When the ECM detects a malfunction, the ECM makes a diagnosis and
+(See page CH-32) memorizes the malfunctioning part.
+Even if a malfunction is detected in the sensors or solenoids, the ECM
+Fail-safe
+activates fail-safe control to prevent the vehicle’s drivability from
+(See page CH-32)
+being significantly affected.

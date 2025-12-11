@@ -1,0 +1,51 @@
+Certification ECU Assembly
+15
+P
+P GL
+4
+D43
+Junction
+Connector
+3 14
+LG
+G R
+D40(A), D41(B)
+14 B 15 B
+)2∗( )2∗(
+CANH CANL
+17 A
+GL P
+5 A
+47 HD1 45 HD1
+H26(A)
+Y G
+19 A
+R
+46 HD1
+RB
+RCO RDA RSSI
++5 DATA RSSI
+Door Control Receiver
+)2∗( )2∗(
+)2∗(
+)2∗(
+)2∗(
+)2∗(
+)2∗(
+)2∗(
+AGND SWIL
+24 B 16 B
+6 9
+AGND SWIL
+D25 Engine Switch
+(∗2)
+(∗2)
+B )2∗( GL )2∗(
+4 A 5 A 2 A (∗5)
+10 B 9 B 6 B (∗4)
+H28(B)
+Tire Pressure Warning ECU and Receiver
+(Door Control and Tire Pressure
+Monitoring System Receiver Assembly)
+189
+BRZ (G4400BE)

@@ -1,0 +1,30 @@
+ENGINE AND EMISSION CONTROL 17-19
+AUTO-CRUISE CONTROL
+STEP 2. Check joint connector (1) C-77.
+Q:Is the connector damaged?
+CONNECTOR: C-77
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that diagnostic trouble code 12 is not
+output.
+NO : Go to Step 3.
+AC101196AC
+STEP 3. Check the harness wire between auto-cruise
+control-ECU connector C-20 (terminal number 10) and joint
+connector (1) C-77 (terminal number 19).
+Q:Is any harness wire between auto-cruise control-ECU
+CONNECTOR: C-20
+connector C-20 (terminal number 10) and joint
+connector (1) C-77 (terminal number 19) damaged?
+YES : Repair the harness wire and then check that
+diagnostic trouble code 12 is not output.
+NO : Check that diagnostic trouble code 12 is not output.
+If diagnostic trouble code 12 is output, replace the
+auto-cruise control-ECU. (Refer to P.17-86.)
+Then check that diagnostic trouble code 12 is not
+output.
+AC001451AB
+CONNECTOR: C-77
+AC101196AC
+TSB Revision

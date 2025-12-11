@@ -1,0 +1,23 @@
+AC–19
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+(b) The BUS connector has a built-in communication/
+driver IC which communicates with each servo
+motor connector, actuates the servo motor, and has
+a position detection function. This enables bus
+communication for the servo motor wire harness, for
+a more lightweight construction and a reduced
+number of wires.
+with BUS Connector: Communication/Driver IC
+BUS Connector
+A/C Amplifier
+Communication IC
+Servo Motor
+CPU
+without BUS Connector:
+A/C Amplifier
+Drive IC
+AC
+Servo Motor
+CPU
+Drive IC
+E116949E01

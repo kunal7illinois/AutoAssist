@@ -1,0 +1,32 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+3. Check the fuel system for any leaking parts (see LEAK INSPECTION ).
+Are any parts leaking?
+YES -Replace the leaking part(s), then go to step 21.
+NO -Go to step 4.
+4. Start the engine. Hold the engine speed at 3,000 rpm without load (in Park or
+neutral) until the radiator fan comes on, then let it idle.
+5. Test-drive the vehicle for several minutes in the range of these recorded on-
+board snapshot parameters:
+ENGINE SPEED
+(cid:1)
+MAP SENSOR
+(cid:1)
+6. Monitor the OBD STATUS for DTC P0191 in the DTCs MENU with the
+HDS.
+Does the screen indicate FAILED?
+YES -Go to step 7.
+NO -If the screen indicates PASSED, intermittent failure, the system is OK at
+this time. Check for poor connections or loose terminals at the fuel rail
+pressure sensor and the PCM. If the screen indicates EXECUTING, keep
+driving until a result comes on. If the screen indicates OUT OF CONDITION,
+go to step 4 and recheck.
+7. Start the engine. Hold the engine speed at 3,000 rpm without load (in Park or
+neutral) until the radiator fan comes on, then let it idle.
+8. Snap the throttle to an engine speed of 3,000 rpm or more.
+9. Check the FUEL RAIL PRESSURE SENSOR in the DATA LIST with the
+HDS while snapping the throttle.
+2
+Does the reading change 4 kPa (0.58 psi, 0.04 kgf/cm ) or more?
+YES -Go to step 10.

@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+PCM. If the PCM was updated, substitute a known-good PCM (see
+SUBSTITUTING THE PCM ), then recheck. If the PCM was substituted, go
+to step 1.
+NO -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM, refer to the ECM/PCM
+REPLACEMENT . If any other Temporary DTCs or DTCs are indicated, go
+to the indicated DTC's troubleshooting.
+DTC P1192: FTP SENSOR CIRCUIT LOW VOLTAGE
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Turn the ignition switch ON (II).
+2. Check the FTP SENSOR in the DATA LIST with the HDS.
+Is there about 0.23 V or less?
+YES -Go to step 3.
+NO -Intermittent failure, the system is OK at this time. Check for poor
+connections or loose terminals at the FTP sensor and the PCM.
+3. Turn the ignition switch OFF.
+4. Disconnect the FTP sensor 3P connector.
+5. Turn the ignition switch ON (II).
+6. Check the FTP SENSOR in the DATA LIST with the HDS.
+Is there about 0.23 V or less?
+YES -Go to step 8.
+NO -Go to step 7.

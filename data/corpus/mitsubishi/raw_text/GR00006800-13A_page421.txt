@@ -1,0 +1,56 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-421
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC P1400: Manifold Differential Pressure Sensor Circuit Malfunction
+1 2 3
+AK000671
+. • A voltage proportional to the pressure in the
+CIRCUIT OPERATION
+• A 5-volt voltage is applied on the manifold differ- intake manifold plenum is sent from the manifold
+differential pressure sensor output terminal (ter-
+ential pressure sensor power terminal (terminal
+minal 1) to the ECM (terminal 73) <M/T> or PCM
+3) from the ECM (terminal 81) <M/T> or PCM
+(terminal 91) <A/T>.
+(terminal 46) <A/T>. The ground terminal (termi-
+nal 2) is grounded with the ECM (terminal 92)
+.
+<M/T> or PCM (terminal 57) <A/T>.
+TSB Revision
+DER-EULB
+WOLLEY-NEERG
+KCALB
+Manifold Differenntial Pressure Sensor Circuit
+B-04
+(MU802723)
+MANIFOLD
+DIFFERENTIAL
+PRESSURE
+(MDP) SENSOR
+1 3 2
+C-60 <M/T>
+(MU803772)
+73 <M/T> 81 <M/T> 92 <M/T>
+91 <A/T>*2 46 <A/T>*1 57 <A/T>*1
+7172737475767778798081
+8283848586878889909192
+ENGINE CONTROL
+MODULE (ECM) <M/T>
+C-54 <A/T> C-57 <A/T> OR
+(MU803781) (MU803782) POWERTRAIN CONTROL
+MODULE (PCM) <A/T>
+41 42 43 444546 71727374 7576 77 5V
+47 48 495051525354555657 7879808182838485868788 89
+58 59 60616263 646566 9091 929394 9596 97 98
+NOTE
+*1:PCM connector C-54 <A/T>
+*2:PCM connector C-57 <A/T>
+CONNECTOR:B-04 CONNECTORS:C-60<M/T>,C-54,C-57<A/T>
+MANIFOLD
+DIFFERENTIAL
+PRESSURE ECM<M/T>
+SENSOR OR
+PCM<A/T>
+C-54 C-60
+C-57
+AK101574AB
+AK000280BD

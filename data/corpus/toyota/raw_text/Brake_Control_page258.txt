@@ -1,0 +1,39 @@
+BC–252
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+OK
+5 INSPECT SKID CONTROL ECU (GND TERMINAL)
+(a) Turn the ignition switch off.
+Skid Control ECU Harness Side
+(b) Measure the resistance according to the value(s) in the
+Connector Front View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+A26-32 (GND1) - Body ground Always Below 1 Ω
+A26-1 (GND2) - Body ground Always Below 1 Ω
+A26
+GND2 GND1 NG REPAIR OR REPLACE HARNESS OR
+F049362E97
+CONNECTOR (GND CIRCUIT)
+OK
+BC
+6 INSPECT PARKING BRAKE SWITCH
+(a) Disconnect the parking brake switch connector.
+Parking Brake Switch (b) Measure the resistance according to the value(s) in the
+table below.
+A/T:
+Standard resistance
+Free
+Tester Connection Condition Specified Condition
+Pushed in
+Parking brake switch
+1 - Body ground ON Below 1 Ω
+(Switch pin free)
+Parking brake switch
+1 - Body ground OFF 10 kΩ or higher
+(Switch pin pushed in)
+M/T: NG REPLACE PARKING BRAKE SWITCH
+Free
+Pushed in
+C109430E02
+OK

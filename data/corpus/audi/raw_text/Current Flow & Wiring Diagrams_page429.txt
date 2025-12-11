@@ -1,0 +1,57 @@
+Audi TT No. 47 / 29
+Current Flow Diagram
+Control unit in dash panel insert, data bus diagnostic
+interface, immobilizer control unit, immobilizer reader coil
+D2 Immobilizer reader coil
+E313 Selector lever
+F189 Tiptronic switch
+J285 Control unit in dash panel insert
+J362 Immobilizer control unit
+J367 Battery monitor control unit
+J533 Data bus diagnostic interface
+T10p 10-pin connector, on Tiptronic switch
+D2
+T20d 20-pin connector, black, on data bus diagnostic interface
+E313 T32 32-pin connector, blue, on control unit in dash panel insert
+F189 Y24 Display in dash panel insert
+1 2
+T10p/5
+Connection 1 (infotainment CAN bus, high), in main wiring
+B415
+harness
+0,5 0,5 0,35✱
+bl br gr Connection 1 (infotainment CAN bus, low), in main wiring
+B421
+harness
+T32/31 T32/32 T32/17
+B698 Connection 3 (LIN bus), in main wiring harness
+J362
+• CAN bus (data wire)
+Y24 J285 * models with direct shift gearbox 02E
+** models with recuperation (7L7) ⇒ applicable recuperation
+Current Flow Diagram (7L7)
+J367
+1199
+0,35 0,35 ✱✱
+li/ws li/ws B698 B421 B415
+9944 8866 8855 9933 440000 339988
+• • • • •• • •
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+or/br or/gn or/br or/sw or/br or/ro li/ws or/br or/li
+T20d T20d T20d
+T20d/5 T20d/15 T20d/6 T20d/16 T20d/9 T20d/19 /12 /10 /20
+ws = white
+J533
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+379 380 381 382 383 384 385 386 387 388 389 390 391 392
+or = orange
+8J0-047290410
+rs = pink
+Edition 04.2010

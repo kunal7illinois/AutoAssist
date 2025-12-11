@@ -1,0 +1,36 @@
+LI–20
+LIGHTING – LIGHTING SYSTEM
+Symbols Wiring Color Terminal Description Condition Specified Condition
+Light control switch in
+HEAD and front fog light Below 1 V
+FFGO (E7-4) - Body R - Body ground Front fog light relay switch ON
+ground drive output
+Front fog light switch
+10 to 14 V
+OFF
+Driver side door locked 10 to 14 V
+LSWD (E7-9) - Body Driver side door lock
+ground L - Body ground position switch input Driver side door Below 1 V
+unlocked
+CANH (E8-5) - Body Control system CAN Ignition switch on (IG) Pulse generation
+R - Body ground
+ground communication Ignition switch off Below 1 V
+CANL (E8-6) - Body Control system CAN Ignition switch on (IG) Pulse generation
+W - Body ground
+ground communication Ignition switch off Below 1 V
+If the result is not as specified, the main body ECU
+(Instrument panel J/B) may have a malfunction.
+HINT:
+*1: with smart key system
+*2: without smart key system
+*3: Pedal type parking brake
+*4: Lever type parking brake
+(1) Waveform 1
+Item Contents
+Tool setting 5 V/DIV., 5 ms./DIV.
+HINT:
+GND
+A If the ambient light becomes brighter, width A
+becomes narrower.
+B113714E01
+LI

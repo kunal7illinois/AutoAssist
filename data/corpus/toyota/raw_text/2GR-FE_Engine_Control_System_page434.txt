@@ -1,0 +1,40 @@
+ES–434
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+24 CHECK HARNESS AND CONNECTOR (ECM - CANISTER PUMP MODULE)
+(a) Turn the ignition switch off.
+Wire Harness Side:
+(b) Disconnect the N17 canister pump module connector.
+(c) Disconnect the C55 ECM connector.
+ECM Connector
+(d) Measure the resistance between the MPMP terminal of
+the ECM connector and the MTRB terminal of the
+canister pump module connector.
+A55
+ES MPMP
+Canister Pump Module Connector
+1 2 3 4 5
+N17
+6 7 8 910
+MTRB
+A112621E16
+Result
+Test Results Suspected Trouble Areas Proceed to
+Below 1 Ω ECM A
+10 kΩ or higher Wire harness between ECM and canister pump module B
+(e) Reconnect the canister pump module connector.
+(f) Reconnect the ECM connector.
+A Go to step 34
+B Go to step 31
+25 INSPECT INTAKE MANIFOLD (EVAP PURGE PORT)
+(a) Stop the engine.
+(b) Disconnect the EVAP hose from the intake manifold.
+(c) Start the engine.
+(d) Use your finger to confirm that the port of the intake
+manifold has suction.
+Result
+Test Results Suspected Trouble Areas Proceed to
+Suction applied EVAP hose between intake manifold and purge VSV A
+No suction Intake manifold B
+(e) Reconnect the EVAP hose.
+A Go to step 32
+B Go to step 33

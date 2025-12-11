@@ -1,0 +1,55 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+2.4.1 Checking of heated rear window -Z1-
+Note
+♦ Situations preventing activation of the heated rear window
+(short circuit in connection to rear window, open circuit in pow‐
+er supply to air conditioner operating unit, Climatronic control
+unit -J255- etc.) are stored as faults in the air conditioner op‐
+erating unit, Climatronic control unit -J255- ⇒ "Guided fault-
+finding" function of vehicle diagnostic, testing and information
+system VAS 5051.
+♦ If the voltage measured at the onboard supply control unit -
+J519- at terminal “30” drops below a value stored in the
+onboard supply control unit -J519- , the heated rear window is
+completely deactivated (or the power reduced) to relieve the
+load on the alternator -C- (the air conditioner operating unit,
+Climatronic control unit -J255- reduces the actuation duty cy‐
+cle fro m 100% to 90 .... 0 %) ⇒ "Guided fault-finding" function
+of veh i c le diagnostic, testing and information system
+VAS 5051.
+♦ If the heated rear window has to be deactivated on account of
+undervoltage, the indicator lamp in the button for the heated
+rear window in the air conditioner operating unit, Climatronic
+control unit -J255- remains on. However if deactivation lasts
+longer than approx. 150 s, the air conditioner operating unit,
+Climatronic control unit -J255- switches off the indicator lamp.
+♦ The measured value block of the air conditioner operating unit,
+Climatronic control unit -J255- shows that the heated rear win‐
+dow is being actuated or indicates why there is no actuation
+in spite of a corresponding request ⇒ "Guided fault-finding"
+function of vehicle diagnostic, testing and information system
+VAS 5051 .
+♦ Checking of heated rear window actuation is described in the
+guided fault-finding routine for the onboard supply control unit
+-J519- ⇒ "Guided fault-finding" function of vehicle diagnostic,
+testing and information system VAS 5051 ( -J519- actuates
+the heated rear window -Z1- ).
+♦ At ambient temperatures below 0 °C, the heated rear window
+remains switched on until the ignition is switched off (manual
+deactivation is possible at any time). If the temperature during
+a driving cycle rises above 0 °C, the heated rear window is
+deactivated on completion of the operating period stored in the
+air conditioner operating unit, Climatronic control unit -J255-
+(approx. 10 minutes).
+♦ At ambient temperatures above 0 °C, the heated rear window
+can be deactivated automatically on completion of the oper‐
+ating period stored in the air conditioner operating unit, Cli‐
+matronic control unit -J255- (approx. 10 minutes) by the air
+conditioner operating unit, Climatronic control unit -J255- (ac‐
+tuation time is governed by encoding and version of air con‐
+ditioner operating unit, Climatronic control unit -J255- ) ⇒
+"Guided fault-finding" function of vehicle diagnostic, testing
+and information system VAS 5051.
+27
+2. Notes on air conditioner repair work

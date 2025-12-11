@@ -1,0 +1,52 @@
+13B-418 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR: C-28 CONNECTORS: C-58, C-62<M/T>,
+C-55, C-59 <A/T>
+ECM <M/T>
+OR
+PCM <A/T>
+C-62
+C-55
+<M/T>
+<A/T>
+C-58 <M/T>,
+C-59 <A/T>
+AC001741AJ AC001689AN
+CONNECTOR: C-90 CONNECTOR: D-16
+CONNECTOR
+BLOCK (LH)
+AC001991AI AC001787AD
+CONNECTOR: D-18
+FUEL TANK DIFFERENTIAL
+PRESSURE SENSOR
+FUEL TANK
+AC103356AD
+. • Based on the test conditions and judgment crite-
+CIRCUIT OPERATION
+• A 5-volt voltage is supplied to the power terminal ria, the ECM <M/T> or PCM <A/T> judges if the
+fuel tank differential pressure sensor output volt-
+of the fuel tank differential pressure sensor (ter-
+age is normal.
+minal 3) from the ECM (terminal 42) <M/T> or
+PCM (terminal 46) <A/T>. The ground terminal
+.
+terminal 2 is grounded with the ECM (terminal 49) DTC SET CONDITIONS
+<M/T> or PCM (terminal 57) <A/T>.
+Test Conditions: For Test to Run
+• A voltage proportional to the pressure in the fuel • Intake air temperature is at between 5°C (41°F)
+tank is sent from the output terminal of the fuel and 45°C (113°F) or more.
+tank differential pressure sensor (terminal 1) to • Engine speed is 1,600 r/min or more.
+the ECM (terminal 93) <M/T> or PCM (terminal • Volumetric efficiency is between 25 and 80 per-
+92) <A/T>.
+cent.
+. Judgment Criteria
+TECHNICAL DESCRIPTION
+• When the evaporative emission purge solenoid
+• To judge if the fuel tank differential pressure sen-
+valve is activating at 100 percent ratio, the fuel
+sor is defective, the ECM <M/T> or PCM <A/T>
+differential pressure sensor output voltage
+monitors the fuel tank differential pressure sensor
+remains 4.0 volts or more for ten seconds.
+output voltage.
+TSB Revision

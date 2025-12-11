@@ -1,0 +1,57 @@
+BODY ELECTRICAL - POWER WINDOW SYSTEM BE-77
+Service Tip
+The power window motor assembly stores the initial position of each door window. The memory is
+not cleared if battery terminals, fuses or power window motor connectors are disconnected. However,
+after the power window motor assembly and power window regulator assembly are replaced, the
+stored initial position data must be cleared and the initialization of the power window motor assembly
+must be performed. When necessary, perform the initialization as follows:
+Initial Position Memory Erasure Procedure
+(cid:3) Turn the power supply off (for example, remove a power window motor connector or fuse) while
+the power window motor is operating.
+(cid:3) Check that the power window switch illumination blinks after the power source is turned on.
+Initialization procedure
+(cid:3) Pull up the power window switch to the AUTO UP position and hold it until the window is fully
+closed.
+(cid:3) Hold the power window switch in the AUTO UP position for at least 1 second after the window
+is fully closed.
+(cid:3) Make sure that the window opens and closes automatically using the one touch function.
+For details, see the 2007 Camry Repair Manual (RM0250U).
+(cid:1) System Diagram (cid:2)
+Power Window Motor Assembly
+(Driver)
+Power Window Motor
+M
+Motor Drive
+M Power Request Power Window Switch
+Window Signal (Front Passenger)
+ECU
+Motor Drive
+Hall
+Request
+IC Power Window Motor
+Signal
+LED Power
+M
+Illumination
+Window
+Control Signal
+Master
+Switch Power Window Switch
+Power Window (Rear RH)
+Local
+Operation Request
+Communication
+Signal Motor Drive
+Request
+Power Window Motor
+Main Body ECU Signal
+M
+Power Window Switch
+(Rear LH)
+Courtesy Key
+Switches Switch
+Motor Drive
+Request
+Signal
+025BE75P
+XLE Grade

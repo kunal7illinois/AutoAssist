@@ -1,0 +1,45 @@
+ES–169
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+HINT:
+If any DTCs other than P0300, P0301, P0302, P0303 and
+P0304 are output, troubleshoot those DTCs first.
+B GO TO DTC CHART
+A
+2 READ VALUE USING INTELLIGENT TESTER (MISFIRE RPM AND MISFIRE LOAD)
+(a) Connect the intelligent tester the DLC3.
+(b) Turn the ignition switch to ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ES
+ENHANCED OBD II / DATA LIST / MISFIRE / MISFIRE
+RPM and MISFIRE LOAD.
+(d) Read and note the MISFIRE RPM and MISFIRE LOAD
+(engine load) values.
+HINT:
+The MISFIRE RPM and MISFIRE LOAD indicate the
+vehicle conditions under which the misfire occurred.
+NEXT
+3 CHECK PCV HOSE CONNECTIONS
+OK:
+PCV hose is connected correctly and is not damaged.
+NG REPAIR OR REPLACE PCV HOSE
+OK
+4 CHECK MISFIRE COUNT (CYL #1, #2, #3 AND #4)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Clear DTCs (see page ES-35).
+(e) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / MISFIRE / CYL #1, #2, #3
+and #4.
+(f) Allow the engine to idle.
+(g) Read each value for CYL #1 to #4 displayed on the tester.
+If no misfire counts occur in any cylinders, perform the
+following procedures:
+(1) Shift the gear selector lever to the D position.
+(2) Check the CYL #1 to #4.
+(3) If misfire counts are still not displayed, perform steps
+(h) and (i) and then check the misfire counts again.
+(h) Drive the vehicle with the MISFIRE RPM and MISFIRE
+LOAD noted in the "READ VALUE USING INTELLIGENT
+TESTER (MISFIRE RPM AND MISFIRE LOAD)" procedures
+above.

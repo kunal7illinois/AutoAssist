@@ -1,0 +1,42 @@
+ENGINE AND EMISSION CONTROL 17-45
+AUTO-CRUISE CONTROL
+CONNECTORS: C-108, C-111
+JUNCTION BLOCK
+(FRONT VIEW)
+C-108
+C-111
+AC103108AB
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+The cause is probably a malfunction of the auto-
+Power of the auto-cruise control-ECU is transmitted
+cruise control-ECU power supply circuit or the auto-
+from the ignition switch (IG1) to the auto-cruise con-
+cruise control-ECU ground circuit.
+trol-ECU through multi-purpose fuse 4 in the junction
+block.
+.
+TROUBLESHOOTING HINTS
+. • Damaged harness or connector.
+• Malfunction of the auto-cruise control-ECU.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+STEP 1. Check the output circuit voltage at auto-cruise
+control-ECU connector C-20 (terminal number 6) by
+backprobing.
+(1) Do not disconnect auto-cruise control switch connector C-
+20.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 6 and ground by
+backprobing.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage approximately battery positive voltage?
+1 2 3 4 5 6 7 8
+9 10111213141516 YES : Go to Step 5.
+NO : Go to Step 2.
+C-20 CONNECTOR
+HARNESS SIDE VIEW
+AC103152AB
+TSB Revision

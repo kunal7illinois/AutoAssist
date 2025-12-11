@@ -1,0 +1,32 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+any other DTCs were indicated in step 8, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals at the PCM. If the PCM was updated, substitute a known-good PCM
+(see SUBSTITUTING THE PCM ), then go to step 7. If the PCM was
+substituted, go to step 1. If the HDS indicates NOT COMPLETED, go to step
+7.
+DTC P0339: Crankshaft Position (CKP) Sensor Intermittent Interruption; DTC P0369: Camshaft Position (CMP)
+Sensor Intermittent Interruption
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+1. Turn the ignition switch to ON (II).
+2. Clear the DTC with the HDS.
+3. Start the engine, and raise the engine speed to at least 2,000 rpm.
+4. Check for Temporary DTCs or DTCs in the PGM-FI SYSTEM with the HDS.
+Is DTC P0339 or P0369 indicated in the PGM-FI SYSTEM?
+YES -Go to the INDICATED DTC'S TROUBLESHOOTING in the PGM-
+FI system:
+P0339 (see DTC P0339: CKP SENSOR INTERMITTENT
+(cid:1)
+INTERRUPTION )
+P0369 (see DTC P0369: CMP SENSOR CIRCUIT INTERMITTENT
+(cid:1)
+INTERRUPTION )
+NO -Go to step 5.
+5. Check for DTCs in the A/T SYSTEM with the HDS.
+Is DTC P0339 or P0369 indicated in the A/T SYSTEM?

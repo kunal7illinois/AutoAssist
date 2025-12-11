@@ -1,0 +1,30 @@
+AUTOMATIC TRANSAXLE 23A-17
+AUTOMATIC TRANSAXLE DIAGNOSIS
+INSPECTION USING SCAN TOOL, ROAD TEST
+AND DATA LIST
+Required Special Tool:
+MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool.
+1. Connect the scan tool to data link connector.
+2. Turn the ignition switch to the "ON" position.
+3. Carry out inspection by means of the Road Test and Data
+List function. If there is an abnormality, check and repair the
+chassis harnesses and components. Refer to P.23A-19,
+Road Test. Refer to P.23A-323, Data List Reference Table.
+4. Re-check using scan tool and confirm that the abnormal
+16 PIN
+input and output have returned to normal because of the
+repairs.
+MB991502
+AC001252AB
+5. Check for and inspect any diagnostic trouble code(s) that
+may have surfaced from testing. Erase the diagnostic
+trouble code(s) when finished checking.
+6. Turn the ignition switch to the "LOCK" (OFF) position.
+7. Disconnect the scan tool from the data link connector.
+8. Start the engine again and do a test drive to confirm that the
+problem is eliminated.
+TSB Revision

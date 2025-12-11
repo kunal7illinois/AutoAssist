@@ -1,0 +1,64 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0459 Evaporative – Check the • Signal current, • EVAP purge valve, 0.5 Sec. • Continu‐
+Emission Evaporative > 2.2 A commanded ON ous
+System Emission
+Purge Con‐ (EVAP) Can‐ • Engine speed, > • 2 DCY
+trol Valve ister Purge 40 RPM
+Circuit High Regulator
+Valve -N80- .
+Refer to
+⇒
+“3.5.8 EVAP
+Canister
+Purge Regu‐
+lator Valve 1,
+Checking”,
+page 124 .
+P0491 Secondary – Check the • SAI pressure • Mass air flow 7 to 55 Sec. • 2 DCY
+Air Injection Secondary vs. modeled 120 kg/h
+System In‐ Air Injection SAI < 50 - 72%
+sufficient Combination • Delta engine load
+Flow Valve. Refer OR -10 to 10%
+to • Absolute devi‐
+⇒ ation of raw • ECT 3 to 105° C
+“3.5.31 Sec‐ pressure signal • IAT 4.5 to 143.3° C
+ondary Air In‐ from filtered
+jection Com‐ signal mean • Altitude < 2700
+bination value < 8.98
+Valve, hPa • SAI pressure sen‐
+sor ready
+Checking”,
+page 174 .
+P04D Positive Refer to appro‐ • signal voltage > • engine speed >40 1 Sec • Continu‐
+B Crankcase priate repair 3.4 V RPM ous
+Ventilation manual, PCV
+system diagno‐ • 2 DCY
+sis & repair.
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Pa‐ Monitor‐ Frequency of
+sage cedure ria and Threshold rameters with En‐ ing Time checks, MIL Il‐
+Value able Conditions Length lum
+P0501 Vehicle – Check the • Vehicle speed • Fuel cutoff ac‐ 4 Sec. • multiple
+Speed Sen‐ Vehicle < 4 km/h tive
+sor Range/ Speed sen‐ • 2 DCY
+Perform‐ sor. Refer to • Engine speed
+ance ⇒ 1520 to 4520
+“3.5.42 Spee RPM
+d Signal,
+• ECT > 39.8° C
+Checking”,
+page 194 .
+P0503 Vehicle – Check the • Vehicle speed --- .5 Sec. • 2 DCY
+Speed Sen‐ Vehicle > 325 km/h
+sor Intermit‐ Speed sen‐
+tent/Erratic/ sor. Refer to
+High ⇒
+“3.5.42 Spee
+d Signal,
+Checking”,
+page 194 .
+74
+Rep. Gr.ST - Generic Scan Tool

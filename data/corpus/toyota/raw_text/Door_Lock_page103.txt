@@ -1,0 +1,48 @@
+DL–97
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/o Smart Key System)
+Function Operation
+The buzzer sounds when LOCK is pressed when any of the doors are ajar. When all the
+Door ajar warning doors are closed or when UNLOCK is pressed, the buzzer will stop after it sounds for 10
+seconds continuously.
+When all the doors are locked, pressing UNLOCK causes the interior lights to come on
+Illuminated entry
+simultaneously with the unlock operation.
+The following are ways to enter the self-diagnostic mode:
+• If the door control receiver receives normal radio waves from the door control
+transmitter when the system is in diagnostic mode, it sounds the wireless door lock
+Self-diagnostic mode
+buzzer and flashes the interior light in a normal pattern that corresponds to the function
+of each switch.
+• Read DTCs with the intelligent tester.
+Enables the registration (writing and storing) of 6 types of transmitter recognition codes in
+Transmitter recognition code registration
+the EEPROM that is contained in the door control receiver.
+4. TRANSMITTER RECOGNITION CODE
+REGISTRATION FUNCTION
+The table below shows the 6 ID registration function
+modes by which up to 6 different codes can be
+registered. The codes are electronically registered
+(written and stored) in the EEPROM that is contained in
+the door control receiver.
+Mode Function
+Adds a newly received code while preserving any previously registered codes.
+Add mode This mode is used when adding a new transmitter. If the number of registered codes
+exceeds 6, the oldest registered code is erased first.
+Rewrite mode Erases all previously registered codes and registers only newly input codes.
+Confirms how many codes are currently registered. When adding a new code, this mode is
+Confirmation mode
+used to check how many codes already exist.
+Deletes all the registered codes and disables the wireless door lock function.
+Prohibition mode
+This mode is used when the transmitter is lost.
+5. CONDITIONS THAT WIRELESS FUNCTIONS DO NOT
+OPERATE
+(a) Lock operation is not available when:
+• Any of the doors is open.
+• The key is inserted in the ignition key cylinder.
+(b) Unlock operation is not available when:
+• The key is inserted in the ignition key cylinder.
+(c) Luggage compartment door opener is not available
+when:
+• The key is inserted in the ignition key cylinder.
+DL

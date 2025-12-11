@@ -1,0 +1,46 @@
+ST–100
+2GR-FE STARTING – SMART KEY SYSTEM
+INSPECTION PROCEDURE
+1. EMERGENCY ENGINE START CONTROL
+(a) If there is a malfunction in the stop light switch or STOP fuse, their signals may not be correctly
+transmitted to the main body ECU. This may result in the engine not starting even if the engine
+switch is pressed while the brake pedal is depressed and the shift lever is in the P position.
+To activate the starter:
+(1) Turn the engine switch from off to on (ACC).
+(2) Press and hold the engine switch for 15 seconds.
+HINT:
+After the main body ECU, certification ECU, steering lock ECU, ID code box and/or ECM are/is replaced,
+perform the registration procedures for the engine immobiliser system (See page EI-8).
+1 CHECK ENTRY FUNCTION DETECTION AREA
+(a) Inspect entry detection area.
+Inspection (1) When the electrical key is in either of the 2
+Point inspection points in the illustration, the shift lever is
+in the P position and the brake pedal is depressed,
+check that the engine switch indicator illuminates in
+green.
+OK:
+Engine switch illuminates in green.
+HINT:
+If the engine switch does not illuminate, perform
+B137958E01
+troubleshooting according to the PROBLEM
+SYMPTOMS TABLE (See page ST-17).
+NG GO TO OTHER PROBLEM
+OK
+2 CHECK IF ENGINE STARTS (INITIALIZE STEERING LOCK)
+(a) Make sure that the shift lever is in the P position.
+(b) Open and close the driver's door with the engine switch
+off. Check if the engine can be started.
+OK:
+Engine can be started.
+HINT:
+After the battery is discharged and then recharged, the
+engine may not start unless the steering lock is initialized
+using the above procedure (See page SR-9).
+OK END
+ST NG
+3 CHECK FOR DTC
+(a) Delete the DTCs (See page ST-26).
+(b) Check for DTCs again.
+OK:
+No DTC is output.

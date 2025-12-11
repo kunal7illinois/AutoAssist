@@ -1,0 +1,45 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-511
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR: A-18X
+MFI RELAY
+AK101363AB
+. Judgment Criteria
+CIRCUIT OPERATION
+• Power to the variable induction control solenoid • The variable induction control solenoid coil surge
+voltage (battery positive voltage + 2 volts) is not
+power is supplied from the MFI relay (terminal 4).
+• The ECM <M/T> or PCM <A/T> controls ground detected for 0.2 second.
+• The ECM <M/T> or PCM <A/T> monitors for this
+variable induction control solenoid by turning the
+condition once during the drive cycle.
+power transistor in the ECM <M/T> or PCM <A/
+T> "ON" and "OFF". Check Conditions
+• Battery positive voltage is at between 10 and 16
+. TECHNICAL DESCRIPTION volts.
+• To judge if there is open circuit in the variable • Variable induction control solenoid is ON.
+induction control solenoid drive circuit, ECM <M/ • More than 1 second has elapsed after the above
+T> or PCM <A/T> measures the surge voltage of mentioned conditions have been met.
+the variable induction control solenoid coil.
+Judgment Criteria
+• The ECM <M/T> or PCM <A/T> drives the vari- • The variable induction control solenoid coil surge
+able induction control solenoid. After the solenoid
+voltage (battery positive voltage + 2 volts) is not
+is turned off, the ECM <M/T> or PCM <A/T> will
+detected for 1 second. When the variable induc-
+check if the solenoid coil produces a surge volt-
+tion control solenoid is turned OFF.
+age of 2 V or more.
+.
+TROUBLESHOOTING HINTS (The most likely
+.
+DTC SET CONDITIONS
+causes for this code to be set are:)
+Check Conditions • Variable induction control solenoid failed.
+• Engine is being cranked. • Open or shorted variable induction control sole-
+• Battery positive voltage is at between 10 and 16 noid circuit, or loose connector.
+volts. • ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

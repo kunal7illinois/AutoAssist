@@ -1,0 +1,25 @@
+BE-154 BODY ELECTRICAL - SRS AIRBAG SYSTEM
+Initial Check
+After the ignition*1/engine*2 switch is tuned ON, the occupant classification ECU lights up the AIRBAG
+ON/OFF indicator lights via airbag sensor assembly based on the timing chart below in order to check the
+indicator light circuits.
+(cid:1) Timing Chart (cid:2)
+ON
+Ignition*1/Engine*2
+Switch
+OFF
+4 sec. 2 sec.
+ON
+AIRBAG OFF
+Indicator Light
+OFF
+4 sec. 2 sec.
+ON
+AIRBAG ON
+Indicator Light
+OFF
+ON/OFF condition depends on the
+front passenger detection result.
+259ESW53
+*1: Models without smart key system
+*2: Models with smart key system

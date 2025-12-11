@@ -1,0 +1,60 @@
+13C-4 FUEL SUPPLY
+FUEL SUPPLY DIAGNOSIS
+STEP 1. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN Q:Is the DTC is output?
+YES : Refer to, Diagnostic Trouble Code Chart <2.4L>
+MB991502
+AC000077AB (Refer to P.13A-22) , <3.0L> (Refer to P.13B-22.)
+NO : Go to Step 2 .
+STEP 2. Check the fuel pressure.
+(1) Release residual pressure from the fuel line to prevent fuel
+spray. <2.4L> (Refer to P.13A-580.) <3.0L> (Refer to
+P.13B-682.)
+WARNING
+To prevent a fire, cover the hose connection with
+shop towels to prevent splashing of fuel that could be
+caused by some residual pressure in the fuel pipe
+line.
+(2) Disconnect the high-pressure fuel hose at the fuel rail side.
+(3) Assemble the fuel pressure measurement tools as follows.
+<When using the fuel pressure gauge>
+FUEL PRESSURE
+GAUGE a. Remove the union joint and bolt from special tool
+O-RING OR GASKET MD998709 (adaptor hose) and instead attach special
+tool MD998742 (hose adaptor) to the adaptor hose.
+MD998709
+b. Place a suitable O-ring or gasket on assembled special
+FUEL
+tools MD998709 and MD998742 and install the fuel
+RAIL
+MD998742
+pressure gauge.
+HIGH-PRESSURE c. Install the assembled fuel pressure measurement tools
+FUEL HOSE
+between the fuel rail and high-pressure fuel hose.
+AC106596AB
+<When using the special tool MB991637 (fuel pressure
+MB991637 gauge set)>
+a. Remove the union joint and bolt from special tool
+O-RING OR GASKET
+MD998709 (adaptor hose) and instead attach special
+MD998709
+tool MD998742 (hose adaptor) to the adaptor hose.
+FUEL b. Install special tool MB991637 (fuel pressure gauge set)
+RAIL MD998742
+to assembled special tools MD998709 and MD998742
+HIGH-
+via a gasket.
+PRESSURE
+FUEL HOSE c. Install the assembled fuel pressure measurement tools
+AC106597AB between the fuel rail and the high-pressure fuel hose.
+TSB Revision

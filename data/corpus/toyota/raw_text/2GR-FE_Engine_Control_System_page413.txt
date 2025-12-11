@@ -1,0 +1,38 @@
+ES–413
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Canister Pressure Sensor Specification (fig. 2):
+Output Voltage Malfunction Area
+4.900 V
+4.150 V
+Usable Range
+1.425 V ES
+Malfunction Area
+0.450 V
+Pressure
+60 110 kPa-a
+(450) (825) (mmHg-a)
+HINT:
+Standard atmospheric pressure is 101.3 kPa-a (760 mmHg-a)
+A115543E06
+Soak Timer Circuit (fig. 3):
+ECM
+IG2
+IGN IGSW
+Soak Timer
+IC
+IG2
+Ignition Switch
+Main Body
+ST/AM2 ECU
+IG2D
+Power
++B
+Source IC
+EFI
+EFI MAIN EFI No. 2
+FL MAIN
+Main Relay
+MREL
+Control IC
+Battery
+A136968E01

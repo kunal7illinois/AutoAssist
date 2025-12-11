@@ -1,0 +1,34 @@
+ES–2
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DEFINITION OF TERMS
+Terms Definition
+Description of what ECM monitors and how detects malfunctions (monitoring purpose and
+Monitor Description
+details).
+Group of diagnostic trouble codes that are output by ECM based on same malfunction
+Related DTCs
+detection logic.
+Preconditions that allow ECM to detect malfunctions.
+Typical Enabling Condition With all preconditions satisfied, ECM sets DTC when monitored value(s) exceeds
+malfunction threshold(s).
+Order of monitor priority, applied if multiple sensors and components involved in single
+malfunction detection process.
+Sequence of Operation
+Each sensor and component monitored in turn, when previous detection operation
+completed.
+ES
+Required Sensor/Components Sensors and components used by ECM to detect each malfunction.
+Number of times ECM checks for each malfunction during each driving cycle.
+"Once per driving cycle" means ECM only performs checks for that malfunction once
+Frequency of Operation during single driving cycle.
+"Continuous" means ECM performs checks for that malfunction whenever enabling
+conditions met.
+Minimum time for which ECM must detect continuous deviation in monitored value(s) in
+Duration
+order to set DTC. Timing begins when Typical Enabling Conditions met.
+Malfunction Thresholds Value, beyond which, ECM determines malfunctions exist and sets DTCs.
+Timing of MIL illumination after malfunction detected.
+"Immediate" means ECM illuminates MIL as soon as malfunction detected.
+MIL Operation
+"2 driving cycle" means ECM illuminates MIL if same malfunction detected second time
+during next sequential driving cycle.

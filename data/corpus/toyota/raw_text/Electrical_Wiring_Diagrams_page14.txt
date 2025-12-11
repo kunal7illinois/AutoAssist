@@ -1,0 +1,42 @@
+C
+FINDING A SHORT CIRCUIT
+To Ignition SW
+IG Terminal
+(a) Remove the blown fuse and disconnect all loads of the fuse.
+(b) Connect a test light in place of the fuse.
+(c) Establish conditions in which the test light comes on.
+Test Light Fuse Case
+Example:
+[A] – Ignition SW on
+[B] – Ignition SW and SW 1 on
+Short [A]
+[C] – Ignition SW, SW 1 and Relay on (Connect the
+Relay) and SW 2 off (or Disconnect SW 2)
+SW 1 (d) Disconnect and reconnect the connectors while watching the
+test light.
+Short [B] The short lies between the connector where the test light
+stays lit and the connector where the light goes out.
+Disconnect
+Disconnect (e) Find the exact location of the short by lightly shaking the
+problem wire along the body.
+Light Relay
+CAUTION:
+(a) Do not open the cover or the case of the ECU unless
+Short [C]
+absolutely necessary. (If the IC terminals are touched,
+the IC may be destroyed by static electricity.)
+(b) When replacing the internal mechanism (ECU part) of
+Disconnect
+the digital meter, be careful that no part of your body or
+clothing comes in contact with the terminals of leads
+SW 2 Solenoid from the IC, etc. of the replacement part (spare part).
+DISCONNECTION OF MALE AND FEMALE
+CONNECTORS
+To pull apart the connectors, pull on the connector itself, not
+the wire harness.
+HINT:Check to see what kind of connector you are
+disconnecting before pulling apart.
+Pull Up Pull Up
+Press Down Press Down
+13
+CAMRY (EM0250U)

@@ -1,0 +1,40 @@
+54B-16 SIMPLIFIED WIRING SYSTEM (SWS)
+SWS DIAGNOSIS
+• SUNROOF
+ITEMS ITEM INPUT SIGNALS DISPLAY ON NORMAL CONDITIONS
+NO. SCAN TOOL
+SUNROOF 30 Ignition switch (IG1) IG SW (IG1) ON
+OPE.
+72 Response by the sunroof-ECU S/R ECU ACK INPUT CHECK (only momentarily
+when switch is operated)
+• THEFT ALARM
+ITEMS ITEM INPUT SIGNALS DISPLAY ON NORMAL CONDITIONS
+NO. SCAN TOOL
+THEFT- 45 Theft-alarm headlight THEFTALM. H/L ON
+ALARM
+70 Response by the front-ECU FRONT ECU Normal response
+ACK
+PULSE CHECK
+M1549015100175
+1. The input signals (signals other than SWS 2. Use the scan tool or voltmeter to check the
+communication line signals), which are following input signals.
+compatible with the SWS monitor by using the NOTE: If a problem is found the Pulse Check,
+scan tool or voltmeter, can be confirmed by the proceed to the Problems during Input Signal
+Pulse Check. (Refer to GROUP 00, How to Use Check <Scan tool or voltmeter> (Refer to P.54B-
+Troubleshooting/Inspection Service Points P.00- 20).
+6.)
+Switches and their conditions, which are applicable
+for Pulse Check
+INPUT SIGNALS REQUIREMENTS FOR SOUNDING TONE ALARM
+Key reminder switch When the inserted ignition key is pulled out
+Hazard light switch When the switch is turned from off to on
+Driver’s seatbelt switch When the driver’s seatbelt is fastened
+All of the door switches A door is opened when all the doors are closed
+Driver’s door, front passenger’s or trunk lid lock key When a door is locked or unlocked by a key cylinder
+cylinder switch
+Driver’s, front passenger’s, door lock actuator or When the driver’s key cylinder or inside lock knob is
+trunk lid opener actuator locked, or the driver’s key cylinder is unlocked
+Door lock switch (incorporated in the power window When a door is locked or unlocked by a door lock
+main switch) switch
+Hood switch When the hood is opened
+TSB Revision

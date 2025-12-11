@@ -1,0 +1,28 @@
+AX–160
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Transmission Control Switch Circuit
+DESCRIPTION
+When moving the shift lever into the S position using the transmission control switch, it is possible to
+switch the shift range position between "1" (first range) and "6" (sixth range).
+AX
+Shifting up "+" once raises one shift range position, and shifting down "-" lowers one shift range position.
+WIRING DIAGRAM
+ECM
+EFI No.2
+25
+To EFI Relay A55 S
+3 7
+51
+A55 SFTD
+1
+16
+A55 SFTU
+5 2
+E31
+Transmission Control Swich
+7 1
+CAN- C56 C55 CAN-
+6 2
+CAN+ C56 C55 CAN+
+TCM
+C133256E01

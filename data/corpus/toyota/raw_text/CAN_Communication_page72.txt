@@ -1,0 +1,38 @@
+CA–72
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+Open in CAN Main Bus Line
+DESCRIPTION
+There may be an open circuit in the CAN main bus wire and/or the DLC3 branch wire when the resistance
+between terminals 6 (CANH) and 14 (CANL) of the DLC3 is 69 Ω or more.
+Symptom Trouble Area
+• CAN main bus wire or connector
+• No. 1 CAN J/C
+Resistance between terminals 6 (CANH) and 14 (CANL) of the DLC3 • No. 2 CAN J/C
+is 69 Ω or more. • DLC3 branch wire or connector
+• Combination meter
+• ECM
+WIRING DIAGRAM
+: CAN Main Bus Wire (CANH)
+: CAN Main Bus Wire (CANL)
+CA
+: CAN Branch Wire (CANH)
+E10 : CAN Branch Wire (CANL)
+DLC3
+CANL CANH
+14 6
+Trouble Area
+W B
+A24*1
+2 1
+Combination Meter A55*2
+E62 E62 ECM
+17 1 1 4 1
+CANH B B B 41 CANH
+F1 E43 E42 E41 A40
+18 2 2 10 7
+W W W 49 120 Ω
+120 Ω F1 E43 E42 E41 A40
+CANL No. 1 CAN J/C No. 2 CAN J/C CANL
+*1: 2AZ-FE
+*2: 2GR-FE
+C123381E05

@@ -1,0 +1,40 @@
+CHASSIS ELECTRICAL 54A-229
+REMOTE CONTROLLED RADIO SWITCH
+STEP 3. Check the wiring harness between clock spring
+connector C-84 (terminal 2) and radio and CD player
+connector C-21 (terminal 28).
+Q:Is the wiring harness between radio and CD player
+CONNECTOR: C-21
+connector C-21 (terminal 28) and clock spring
+connector C-84 (terminal 2) in good condition?
+YES : Go to Step 5.
+NO : Repair the wiring harness. The remote controlled
+radio switch should work normally.
+DEVICE SIDE
+C-21
+1 2 3 4
+5 6 7 8
+AC106557BB
+CONNECTOR: C-84
+DEVICE SIDE
+C-84
+1 2 3 4 5 6
+AC106475AI
+STEP 4. Check the remote controlled radio switch ground
+circuit at the clock spring connector C-84.
+(1) Disconnect the clock spring connector C-84.
+CONNECTOR: C-84
+DEVICE SIDE
+C-84
+1 2 3 4 5 6
+AC106475AI
+(2) Measure resistance between terminal 3 and ground.
+HARNESS SIDE • The measured value should be 2 ohm or less.
+C-84
+Q:Does the measured resistance value correspond with
+this range?
+6 5 4 3 2 1
+YES : Go to Step 7.
+NO : Go to Step 5.
+AC106886AB
+TSB Revision

@@ -1,0 +1,47 @@
+# --------------------------
+# AutoAssist Project Gitignore
+# --------------------------
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit cache
+.streamlit/
+
+# Virtual environments
+env/
+venv/
+
+# OS metadata files
+.DS_Store
+Thumbs.db
+
+# --------------------------
+# EXCLUDE LARGE DATA FOLDERS
+# --------------------------
+
+# Exclude manuals (PDFs)
+data/manuals/
+
+# Exclude RAW DATA
+data/RAW DATA/
+data/RAW DATA/**
+
+# If folder name has spaces, ensure both are captured
+data/RAW\ DATA/
+
+# --------------------------
+# KEEP CORPUS + INDEX FILES
+# --------------------------
+# DO NOT ignore:
+# data/corpus/
+# data/corpus/**
+
+# --------------------------
+# Logs / temp files
+# --------------------------
+*.log
+temp_*
+*.tmp

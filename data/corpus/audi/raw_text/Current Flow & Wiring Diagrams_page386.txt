@@ -1,0 +1,46 @@
+Audi TT No. 46 / 9
+Current Flow Diagram
+Engine control unit, injector cylinder 1 up to 5
+J623 Engine control unit
+N30 Injector, cylinder 1
+N31 Injector, cylinder 2
+N32 Injector, cylinder 3
+N33 Injector, cylinder 4
+N83 Injector, cylinder 5
+T2ao 2-pin connector, yellow, on injector, cylinder 1
+T2ap 2-pin connector, yellow, on injector, cylinder 2
+T2aq 2-pin connector, yellow, on injector, cylinder 3
+T2ar 2-pin connector, yellow, on injector, cylinder 4
+110000 110022 110044 110088 111100
+T2as 2-pin connector, yellow, on injector, cylinder 5
+T14d 14-pin connector, brown, on left of engine
+1,0 1,0 1,0 1,0 1,0
+bl gn ge ro gr T60 60-pin connector, on engine control unit
+T14d/2 T14d/4 T14d/6 T14d/8 T14d/10 D102 Connection 2, in engine compartment wiring harness
+1,0 1,0 1,0 1,0 1,0
+bl ro gr gn ge
+T60/2 T60/3 T60/18
+J623
+T60/19 T60/17
+T60/33 T60/32 T60/48 T60/47
+D102
+1,0 1,0 1,0 1,0 1,0 1,0
+br/bl br/ro br/gr br/gr br/li br/ge
+T14d/1 T14d/3 T14d/5 T14d/7 T14d/9
+1,0 1,0 1,0 1,0 1,0
+br/bl br/li br/ge br/ro br/gr
+T2ao/1 T2ap/1 T2aq/1 T2ar/1 T2as/1
+N30 N31 N32 N33 N83
+T2ao/2 T2ap/2 T2aq/2 T2ar/2 T2as/2 ws = white
+sw = black
+ro = red
+1,0 1,0 1,0 1,0 1,0 br = brown
+bl gn ge ro gr gn = green
+bl = blue
+110000 110022 110044 110088 111100 gr = grey
+li = purple
+ge = yellow
+99 100 101 102 103 104 105 106 107 108 109 110 111 112 or = orange
+8J0-046090209
+rs = pink
+Edition 04.2010

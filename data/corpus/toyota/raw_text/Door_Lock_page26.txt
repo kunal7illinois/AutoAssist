@@ -1,0 +1,27 @@
+DL–26
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+NG Go to step 2
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+2 INSPECT FRONT DOOR LOCK ASSEMBLY (DOOR UNLOCK DETECTION SWITCH)
+(a) Remove the front door lock assembly RH.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Measurement Door Lock Specified
+Connection Condition Condition Condition
+Battery positive
+(+) → Terminal 4
+7 - 8 LOCK 10 kΩ or higher
+Battery negative
+(-) → Terminal 1
+Battery positive
+(+) → Terminal 1
+7 - 8 UNLOCK Below 1 Ω
+Battery negative
+Unlock (-) → Terminal 4
+Lock
+NG REPLACE FRONT DOOR LOCK ASSEMBLY
+B065429E21
+OK
+DL

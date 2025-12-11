@@ -1,0 +1,36 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Gauges - Civic (All Except Hybrid)
+Because of the location of the sensor, it may be affected by heat reflection from the
+road, engine and radiator heat or hot exhaust from surrounding traffic. These
+conditions can heat soak the outside air temperature sensor and cause inaccurate
+readings. Logic has been written into the gauge control module (tach) to help
+prevent abnormal or fluctuating outside air temperature indicator readings.
+OUTSIDE AIR TEMPERATURE INDICATOR LOGIC
+Initial outside air temperature indication after the ignition switch is turned ON (II).
+If the engine coolant temperature is 140°F (60°C) or higher when the ignition
+(cid:1)
+switch is turned ON (II), the outside air temperature indicated the last time the
+key was turned off will be displayed regardless of the current temperature
+measured by the outside air temperature sensor.
+If the engine coolant temperature is 139°F (59°C) or lower when the ignition
+(cid:1)
+switch is turned ON (II), the current temperature measured by the outside air
+temperature sensor will be indicated.
+UPDATE TO THE OUTSIDE AIR TEMPERATURE INDICATOR WHILE DRIVING
+If the temperature measured by the outside air temperature sensor is greater than the
+temperature on the outside air temperature indicator, the outside temperature
+indicator will increase by 1.8°F (1°C) per minute after the vehicle speed is greater
+than 19 mph (30 km/h) for more than 1 minute and 30 seconds. It will continue to
+increase until the current outside air temperature is indicated. So, the first change to
+the outside air temperature indicator is 1 minute and 30 seconds after the vehicle
+speed is greater than 19 mph (30 km/h). If the vehicle speed drops below 19 mph
+(30 km/h), the indicator will not update again until the vehicle speed is increased to
+19 mph (30 km/h) or more for more than 1 minute and 30 seconds again. If the
+outside air temperature is less than the indicated temperature, the temperature will
+decrease 1°F every 1.1 seconds (1°C every 2 seconds) until the current outside air
+temperature is indicated regardless of vehicle speed.
+TROUBLESHOOTING
+If the indicator displays "- - -" for more than 2 seconds after selecting the outside air
+temperature display mode, check the outside air temperature sensor, or gauge
+control module self-diagnosis (see SELF-DIAGNOSTIC FUNCTION ).

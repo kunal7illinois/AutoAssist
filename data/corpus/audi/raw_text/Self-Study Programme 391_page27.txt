@@ -1,0 +1,36 @@
+Convertible top operation warning lamp K215
+Convertible top operation warning lamp
+K215
+The convertible top operation warning lamp K215
+is located in the dash panel insert and is activated
+by the control unit with display in dash panel insert
+J285.
+After the ignition is turned on, the convertible top
+operation warning lamp K215 comes on for approx.
+two seconds and goes off again, this being a
+function test.
+The warning lamp also has the following functions:
+– It comes on when the automatic convertible top
+is opening and closing.
+391_005
+– It begins to flash when one of the conditions for
+automatic opening or closing of the convertible
+top is not met and the convertible top operation
+switch is actuated.
+– It comes on when the convertible top is not fully
+open or closed.
+Control unit with display in dash panel
+insert J285
+Data exchange between the convertible top
+operation control unit J256 and the control unit with
+display in dash panel insert J285 takes place across
+the CAN data bus.
+Based on the information received from the
+convertible top operation control unit J256, the
+control unit with display in dash panel insert J285
+activates the convertible top operation warning
+lamp K215, the signal generator in the dash panel
+insert and/or displays a message text to this effect
+via the centre display.
+391_072
+27

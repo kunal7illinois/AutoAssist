@@ -1,0 +1,44 @@
+ES–352
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+A
+5 PERFORM EVAP SYSTEM CHECK (STEP 1/5 TO 2/5)
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed
+Vent Valve ON
+ES
+OFF: Vent
+Leak Detection
+Pump ON
+EVAP Pressure
+Positive
+Negative
+Leak Detection Pump Stuck ON
+First Reference
+Pressure
+Steps
+1/5 2/5
+Time
+10 seconds 60
+seconds
+(Reference)
+A106737E05
+(a) Check the EVAP pressure in steps 1/5 and 2/5.
+Result
+DTCs* Test Results Suspected Trouble Areas Proceed To
+Virtually no variation in EVAP pressure during
+- step 1/5. Then decreases to reference Not yet determined A
+pressure
+Small difference between EVAP pressures
+P2402 Leak detection pump stuck ON B
+during steps 1/5 and 2/5
+*: These DTCs are already present in the ECM when the
+vehicle arrives and are confirmed in the "CONFIRM
+DTC" procedures above.
+HINT:
+The first reference pressure is the value determined in
+step 2/5.
+B Go to step 22
+A

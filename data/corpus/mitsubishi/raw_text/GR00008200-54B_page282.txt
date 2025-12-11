@@ -1,0 +1,47 @@
+54B-282 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+STEP1. Check the operation of each light.
+Q:Which light does not illuminate?
+position light (LH), tail lights (LH), side marker light (LH)
+and license plate light : Go to Step 2.
+position light (RH), tail lights (RH) and side marker light
+(RH) : Go to Step 4.
+tail lights, side marker lights and license plate light : Go
+to Step 6.
+tail lights (LH), side marker light (LH) and license plate
+light : Go to Step 8.
+tail lights (RH) and side marker light (RH) : Go to Step
+10.
+position light (LH) : Go to Step 12.
+position light (RH) : Go to Step 18.
+tail light (LH) : Go to Step 24.
+tail light (RH) : Go to Step 30.
+rear side marker light (LH) : Go to Step 36.
+rear side marker light (RH) : Go to Step 42.
+license plate light : Go to Step 48.
+All lights : Refer to Inspection Procedure L-1 "Tail lights do
+not illuminate P.54B-265."
+STEP 2. Check front combination light (LH) connector A-26
+and front-ECU connector A-10X for damage.
+Q:Are front combination light (LH) connector A-26 and
+CONNECTOR: A-26
+front-ECU connector A-10X in good condition?
+YES : Go to Step 3.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness connector Inspection P.00E-2. The
+position light (LH), the tail light (LH), the side marker
+light (LH) and the license plate lights should illuminate
+normally.
+DEVICE SIDE
+1 2 3
+AC106465AE
+CONNECTOR: A-10X
+FRONT-ECU
+DEVICE SIDE A-10X
+1 2 3 4 5 6 7 8 91011
+AC106535AE
+TSB Revision

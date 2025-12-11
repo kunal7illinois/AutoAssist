@@ -1,0 +1,36 @@
+ES–280
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+ES
+Air Inlet Port
+Fuel Tank Vent Hose
+Inspection Area*
+Vent Hose
+Vent Hose
+*: Check for disconnection and/or crack
+A132283E04
+NEXT Go to step 5
+3 CHECK HARNESS AND CONNECTOR
+(a) Disconnect the N17 canister pump module connector.
+Wire Harness Side:
+(b) Disconnect the C55 ECM connector.
+VOUT
+(c) Measure the resistance between the terminals of the
+SGND VCC wire harness side connectors.
+Standard resistance (Check for open)
+N17 Tester Connection Specified Condition
+N17-4 (VCC) - C55-75 (VCPP) Below 1 Ω
+N17-3 (VOUT) - C55-77 (PPMP) Below 1 Ω
+Canister Pump Module Connector
+N17-2 (SGND) - C55-76 (EPPM) Below 1 Ω
+Standard resistance (Check for short)
+C55 ECM Connector
+Tester Connection Specified Condition
+N17-4 (VCC) or C55-75 (VCPP) - Body ground 10 kΩ or higher
+N17-3 (VOUT) or C55-77 (PPMP) - Body ground 10 kΩ or higher
+N17-2 (SGND) or C55-76 (EPPM) - Body ground 10 kΩ or higher
+(d) Reconnect the canister pump module connector.
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+VCPP EPPM PPMP
+CONNECTOR
+A140651E03

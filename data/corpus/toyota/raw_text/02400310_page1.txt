@@ -1,0 +1,39 @@
+CH–17
+2AZ-FE CHARGING – BATTERY CURRENT SENSOR
+BATTERY CURRENT SENSOR
+ON-VEHICLE INSPECTION
+1. CHECK BATTERY CURRENT SENSOR ASSEMBLY
+(a) Measure the resistance of the sensor.
+Standard resistance
+Tester Connection Specified Condition
+2 (VC5) - 4 (E2) 3 to 10 kΩ
+2 (VC5) - 3 (IB) Below 0.5 kΩ
+VC5
+2 1 3 (IB) - 4 (E2) 3 to 10 kΩ
+4 3
+If the result is not as specified, replace the sensor
+E2 IB
+assembly.
+A124656E01
+(b) Measure the resistance of the sensor.
+Standard resistance
+THB Tester Connection Condition Specified Condition
+1 (THB) - 4 (E2) 20 to 30°C (68 to 86°F) 1.5 to 2.5 kΩ
+2 1
+If the result is not as specified, replace the sensor
+4 3
+assembly.
+E2
+Resistance kΩ
+6
+5
+4
+3
+2
+1
+0
+10 20 30 40 50 60 70 °C
+50 68 86 104 122144 158 °F
+Temperature
+A125629E01
+CH

@@ -1,0 +1,27 @@
+Service work
+The main changes to the service work on the low
+tyre pressure indicator are listed in the following.
+Coding
+The coding tells the control unit the system variant,
+powertrain type, gearbox type, wheel size and type
+of tyre used on the vehicle. The control unit accepts
+the new coding after ignition on/off.
+Target pressure ,Y bar
+Target pressure X, bar
+Tyre (standard, limp-home, extra load)
+8 = PR No. 7K8 (= tyre pressure monitoring system)
+Adaption
+The control unit learns the new tyre pressure sen- The tyre pressure sensor identification numbers
+sors automatically when the ignition is turned on can be transmitted manually to the control unit
+after the vehicle has been shut off for at least 20 using the function "10 Adaption". This bypasses the
+minutes. When new tyre pressure sensor identifica- waiting period. Each identification number is indi-
+tion numbers are recognised, the fault indicator cated on the tyre pressure sensor housing.
+lamp is activated. The driver enable monitoring of
+the actual tyre pressures by pressing the SET key.
+The system is now ready for operation again.
+Note
+The handheld transmitters for the tyre pressure
+monitoring system VAS6287 cannot be used on
+the tyre pressure monitoring system of the
+Audi TT.
+47

@@ -1,0 +1,48 @@
+AC–121
+AIR CONDITIONING – REFRIGERANT
+(a) Read the manifold gauge pressure when the
+following conditions are established.
+Test conditions:
+• Temperature at the air inlet with the switch set at
+RECIRC is 30 to 35°C (86 to 95°F)
+• Engine is running at 1,500 rpm
+• Blower speed control switch is at "HI"
+• Temperature control dial is at "COOL"
+• A/C switch is ON
+• Doors are fully open
+• Ignition switch is in a position that enables the
+AC compressor to run.
+(1) Normally functioning refrigeration system
+Gauge reading
+Pressure side Refrigerant volume
+0.15 to 0.25 MPa (1.5 to 2.5 kgf/cm2,
+Low
+21.3 to 35.5 psi)
+1.37 to 1.57 MPa (14 to 16 kgf/cm2,
+High
+199.1 to 227.5 psi)
+(2) Moisture is present in refrigeration system.
+E050573
+Condition:
+Periodically cools and then fails to cool
+AC
+I022117E21
+Symptom Probable Cause Diagnosis Corrective Actions
+Moisture in AC system will freeze
+• Cooler dryer (integrated into
+at the expansion valve orifice,
+condenser tank) in 1. Replace cooler dryer
+causing the refrigeration cycle to
+During operation, pressure on low oversaturated state 2. Remove moisture in system
+temporarily stop
+pressure side cycles between • Moisture in refrigeration by repeatedly evacuating air
+After the system stops, and
+normal and vacuum system freezes at expansion 3. Supply a proper amount of
+warms up again, the ice will melt
+valve orifice and blocks new refrigerant
+and normal operation will be
+circulation of refrigerant
+temporarily restored
+(3) Insufficient cooling
+Condition: Cooling system does not function effectively.
+I022118E13

@@ -1,0 +1,38 @@
+CA–96
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+2 CHECK FOR SHORT TO B+ IN CAN BUS WIRE (NO. 1 CAN J/C SIDE)
+(a) Disconnect the CAN main bus wire white connector
+No. 1 CAN J/C “A” Side (with Earth (E42) from the No. 1 CAN J/C "A" side (with earth
+Terminal): terminal).
+E42
+C133228E01
+CA (b) Measure the resistance between terminals 6 (CANH)
+DLC3: E10 and 16 (BAT), and between terminals 14 (CANL) and 16
+CANH
+(BAT) of the DLC3 each time a connector is
+disconnected.
+Standard resistance
+Tester Connection Condition Specified Value
+E10-6 (CANH) - E10-16 (BAT) Ignition switch off 6 kΩ or higher
+BAT
+E10-14 (CANL) - E10-16
+Ignition switch off 6 kΩ or higher
+CANL (BAT)
+C126231E12
+OK Go to step 6
+NG
+3 CHECK FOR SHORT TO B+ IN CAN BUS WIRE
+(a) Disconnect connectors from the No. 1 CAN J/C one at a
+DLC3: E10 time.
+CANH
+HINT:
+Disconnect the ECU and sensor connectors other than
+the DLC3 branch wires and CAN main bus wires
+between the No. 1 CAN J/C.
+(b) Measure the resistance between terminals 6 (CANH)
+and 16 (BAT), and between terminals 14 (CANL) and 16
+BAT
+(BAT) of the DLC3 each time a connector is
+CANL
+disconnected.
+C126231E12

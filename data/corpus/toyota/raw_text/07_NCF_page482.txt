@@ -1,0 +1,38 @@
+BE-148 BODY ELECTRICAL - SRS AIRBAG SYSTEM
+(cid:3)FRONT PASSENGER OCCUPANT CLASSIFICATION SYSTEM
+1. General
+The front passenger occupant classification system judges whether the front passenger seat is occupied by
+an adult or child (with child seat) or is unoccupied, in accordance with the load that is applied to the front
+passenger seat and whether the seat belt is buckled. Thus, it restricts the deployment of the front passenger
+airbag, front passenger side airbag, and the front passenger seat belt pretensioner. In addition, the system
+informs the driver of the result of the judgment through the use of the AIRBAG ON/OFF indicator lights.
+(cid:1) This system consists of the occupant classification ECU, four occupant classification sensors, “AIRBAG
+ON/OFF indicator lights”, seat belt buckle switch, and airbag sensor assembly.
+(cid:1) System Diagram (cid:2)
+Front Passenger Indicator
+(cid:1) AIRBAG ON Indicator Light
+Occupant
+(cid:1) AIRBAG OFF Indicator Light
+Classification
+Sensor
+Occupant
+Front Passenger
+Classification
+Airbag
+ECU
+Front Passenger Airbag Sensor
+Side Airbag Assembly
+Front Passenger Seat Seat Belt Buckle Switch
+Belt Pretensioner
+DLC3
+Combination Meter
+(cid:1) SRS Warning Light
+267NF12
+Service Tip
+(cid:1) When installing items to the front passenger seat or removing/installing the front passenger seat,
+connect the hand-held tester and be sure to perform a system check and perform a zero-point
+calibration of the sensor load value.
+(cid:1) If performing maintenance due to the SRS warning light being on constantly or due to a collision,
+in addition to the above item, check that the hand-held tester display value indicates within the range
+of 30 kg (66 lb) +/- 3 kg (6.6 lb) when a 30 kg (66 lb) weight is placed on the front passenger seat.
+For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).

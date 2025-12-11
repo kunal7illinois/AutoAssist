@@ -1,0 +1,33 @@
+AX–74
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+WIRING DIAGRAM
+TCM
+AX
+NTB
+NTO
+Speed Sensor (NT)
+Transaxle Assembly
+C133260E02
+INSPECTION PROCEDURE
+1. DATA LIST
+NOTICE:
+In the table below, the values listed under "Normal Condition" are reference values. Do not
+depend solely on these reference values when deciding whether a part is faulty.
+HINT:
+According to the DATA LIST displayed on the intelligent tester, you can read the value of switches,
+sensors, actuators and other items without removing any parts. Reading the DATA LIST as the first
+step in troubleshooting is one method to save labor time.
+(a) Warm up the engine.
+(b) Turn the ignition switch off.
+(c) Connect the intelligent tester together with the CAN VIM (Controller Area Network Vehicle
+Interface Module) to the DLC3.
+(d) Turn the ignition switch on (IG).
+(e) Turn on the tester.
+(f) Enter the following items: "DIAGNOSIS / OBD/MOBD / ECT / DATA LIST".
+(g) According to the display on the tester, read "DATA LIST".
+Item Measurement Item/ Range (display) Normal Condition
+HINT:
+• Lock-up ON (after warming up the engine); input
+SPD (NT) Input Turbine Speed/display: 50 r/min turbine speed (NT) is equal to the engine speed.
+• Lock-up OFF (Idling at N position); input turbine
+speed (NT) is nearly equal to the engine speed.

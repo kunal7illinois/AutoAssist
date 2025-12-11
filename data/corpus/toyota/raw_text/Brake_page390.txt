@@ -1,0 +1,44 @@
+BC–379
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC U0073/94 Control Module Communication Bus OFF
+DTC U0100/65 Lost Communication with ECM / PCM
+Lost Communication with Yaw Rate Sensor
+DTC U0123/62
+Module
+Lost Communication with Steering Angle Sen-
+DTC U0126/63
+sor Module
+DESCRIPTION
+The skid control ECU receives the signals from the ECM, steering angle sensor, and yaw rate and
+acceleration sensor via the CAN communication system.
+DTC No. DTC Detection Condition Trouble Area
+When either of the following is detected: BC
+U0073/94 1. Bus OFF state continues for 300 msec. CAN communication system
+2. The ECU detects that it cannot send a signal.
+When either of the following is detected:
+1. At a vehicle speed of 4 mph (6 km/h) or more, the skid
+control ECU receives data that is out of range from the
+CAN communication system
+U0100/65 engine.
+(Skid control ECU to ECM)
+2. At a vehicle speed of 4 mph (6 km/h) or more, the skid
+control ECU receives abnormal data from the engine (5
+cycles).
+When any r of the following is detected:
+1. The skid control ECU receives an abnormal signal from
+the yaw rate sensor (5 cycles).
+CAN communication system
+U0123/62 2. The skid control ECU receives a signal that has a shorter
+(Skid control ECU to yaw rate and acceleration sensor)
+message than normal.
+3. The skid control ECU cannot receive a signal from the
+yaw rate sensor.
+When any of the following is detected:
+1. The skid control ECU receives an abnormal signal from
+the steering angle sensor (5 cycles).
+CAN communication system
+U0126/63 2. The skid control ECU receives a signal that has a shorter
+(Skid control ECU to steering angle sensor)
+message than normal.
+3. The skid control ECU cannot receive a signal from the
+steering angle sensor.

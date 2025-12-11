@@ -1,0 +1,24 @@
+NS–175
+NAVIGATION – NAVIGATION SYSTEM
+Sound Signal Circuit between Radio and Navigation Assembly and
+Stereo Jack Adapter
+DESCRIPTION
+The stereo jack adapter sends an external device sound signal to the radio and navigation assembly
+through this circuit.
+The sound signal that has been sent is amplified by the stereo component amplifier and then is sent to the
+speakers.
+If there is an open or short in the circuit, sound cannot be heard from the speakers even if there is no
+malfunction in the stereo component amplifier, radio and navigation assembly, or speakers.
+WIRING DIAGRAM
+Stereo Jack Adapter Radio and Navigation Assembly
+4 6
+AUXO F17 F14 ADPG
+1 3
+ALO F17 F14 VAL+
+2 2
+ARO F17 F14 VAR+
+3 5
+ASGN F17 F14 VA-
+(Shielded)
+E129784E01
+NS

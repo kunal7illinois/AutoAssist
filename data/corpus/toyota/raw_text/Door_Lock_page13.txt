@@ -1,0 +1,62 @@
+DL–13
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+PROBLEM SYMPTOMS TABLE
+POWER DOOR LOCK CONTROL SYSTEM:
+Symptom Suspected area See page
+All doors cannot be locked/unlocked simultaneously by Power source circuit (Main body ECU) DL-13
+neither door control switch nor door key cylinder Replace main body ECU (Instrument panel J/B) -
+All doors cannot be locked/unlocked simultaneously by Door control switch circuit (Driver side) DL-60
+driver side door control switch Replace main body ECU (Instrument panel J/B) -
+All doors cannot be locked/unlocked simultaneously by Door control switch circuit (Front passenger side door) DL-60
+front passenger side door control switch Replace main body ECU (Instrument panel J/B) -
+Driver side door key lock and unlock switch circuit DL-56
+All doors cannot be locked/unlocked simultaneously by
+Multiplex network master switch assembly DL-13
+door key cylinder
+Replace main body ECU (Instrument panel J/B) -
+Driver side door lock motor circuit DL-32
+Driver side door lock does not operate
+Replace main body ECU (Instrument panel J/B) -
+Front passenger side door lock motor circuit DL-35
+Passenger side door lock does not operate
+Replace main body ECU (Instrument panel J/B) -
+Rear door lock motor LH circuit DL-38
+Rear LH side door lock does not operate
+Replace main body ECU (Instrument panel J/B) -
+Rear door lock motor RH circuit DL-41
+Rear RH side door lock does not operate
+Replace main body ECU (Instrument panel J/B) -
+Luggage compartment door lock circuit DL-47
+Luggage compartment door lock does not operate
+Replace main body ECU (Instrument panel J/B) -
+Door courtesy switch circuit (Driver side) LI-52
+Key lock-in prevention function does not work properly
+(manual operation and key-linked lock are active) w/ Smart key system DL-147
+Smart Key System
+Replace main body ECU (Instrument panel J/B) -
+Door courtesy switch circuit (Driver side) LI-52
+Key lock-in prevention function does not work properly
+(manual operation and key-linked lock are active) w/o Unlock warning switch circuit DL-205
+Smart Key System
+Replace main body ECU (Instrument panel J/B) -
+CAN communication system CA-8
+Shift-linked automatic door lock does not operate (A/T)
+Replace main body ECU (Instrument panel J/B) -
+Wireless door lock system (w/ smart key system) DL-74
+Wireless door lock system (w/o smart key system) DL-104
+Driver side door unlock detection switch circuit DL-19
+One or more doors cannot be locked/unlocked
+Front passenger door unlock detection switch circuit DL-22
+simultaneously (Wireless key operation)
+Rear door unlock detection switch LH circuit DL-25
+Rear door unlock detection switch RH circuit DL-28
+Replace main body ECU (Instrument panel J/B) -
+Theft deterrent system (w/ smart key system) TD-15 DL
+Theft deterrent system (w/o smart key system) TD-53
+Driver side door unlock detection switch circuit DL-19
+One or more doors cannot be locked/unlocked
+Front passenger door unlock detection switch circuit DL-22
+simultaneously (Theft deterrent operation)
+Rear door unlock detection switch LH circuit DL-25
+Rear door unlock detection switch RH circuit DL-28
+Replace main body ECU (Instrument panel J/B) -

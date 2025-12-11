@@ -1,0 +1,40 @@
+17-98 ENGINE AND EMISSION CONTROL
+EMISSION CONTROL
+An EVAP ventilation solenoid is provided between detect OBD-II EVAP leaks. The fuel vent valve and
+the EVAP canister and atmosphere to monitor for the leveling valve prevent fuel from being overfilled.
+OBD-II EVAP leaks. This solenoid is normally OFF. The fuel vent valve and the leveling valve prevents
+However, it turns ON when monitoring the OBD-II fuel leaks just if the vehicle is rolled over in an acci-
+EVAP leaks and shuts off the atmosphere flow to the dent.
+EVAP canister. Then the fuel tank differential pres- The vent valve releases the air from the fuel tank
+sure sensor monitors the fuel vapor pressure to through the evaporative emission canister into the
+atmosphere when the fuel tank pressure increases
+due to refueling, etc. The vent valve and the air filter
+supply the atmospheric air to the evaporative emis-
+sion canister when the fuel tank pressure decreases.
+SYSTEM DIAGRAM
+<2.4L ENGINE>
+FUEL TANK DIFFERENTIAL
+PRESSURE SENSOR
+CHAMBER LIQUID SEPARATOR
+EVAP
+EVAPORATIVE
+CANISTER
+ECM <M/T> EMISSION
+PCM <A/T> PURGE
+BAROMETRIC PRESSURE
+SOLENOID
+SENSOR
+ON: OPEN FUEL
+INTAKE AIR TEMPERATURE TANK FUEL VENT
+SENSOR VALVE
+FUEL CUT
+ENGINE COOLANT OFF VALVE
+TEMPERATURE SENSOR MFI RELAY LEVELING VALVE
+VENT VALVE
+VOLUME AIR FLOW SENSOR
+EVAPORATIVE EMISSION
+AIR FILTER
+VENTILATION SOLENOID
+ON: CLOSED
+AK100999 AB
+TSB Revision

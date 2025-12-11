@@ -1,0 +1,42 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-109
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Use scan tool to select "ECU COMM CHECK" on
+the SWS monitor display.
+Check the ETACS-ECU.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502. Also con-
+nect SWS monitor kit MB991862 after turning on scan tool
+MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+COLUMN SWITCH (2) Connect SWS monitor kit MB991862 to the column switch
+CONNECTOR
+connector.
+MB991502 (3) Turn the ignition switch to the "LOCK" (OFF) position.
+(4) Operate the MUT-II as follows:
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+DATA LINK 3. Select "SWS MONITOR."
+CONNECTOR
+4. Select "ECU COMM CHECK."
+AC101571AB (5) Check the scan tool MB991502 should show "OK" on the
+"ETACS ECU" menu.
+COLUMN SWITCH
+Q:Is "OK" displayed on the "ETACS ECU" menu?
+CONNECTOR
+YES : Go to Step 2.
+NO : Refer to Inspection Procedure A-3 "Communication
+SWS MONITOR with ETACS-ECU is impossible P.54B-39."
+HARNESS (FOR
+COLUMN-ECU)
+COLUMN SWITCH
+CONNECTOR AT
+HARNESS SIDE
+AC101421AB
+TSB Revision

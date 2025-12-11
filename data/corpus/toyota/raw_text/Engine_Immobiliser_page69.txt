@@ -1,0 +1,42 @@
+EI–65
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+TERMINALS OF ECU
+1. CHECK TRANSPONDER KEY AMPLIFIER
+(a) Disconnect the E25 amplifier connector and
+measure the resistance between the terminal of the
+wire harness side connector and body ground.
+E25
+B065593E20
+Terminal
+Symbols (Terminal No.) Wiring Color Condition Specified Condition
+Description
+AGND (E25-7) - Body ground V - Body ground Ground Always Below 1 Ω
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(b) Reconnect the E25 amplifier connector and
+measure the resistance and voltage of each
+terminal of the connector.
+Terminal
+Symbols (Terminal No.) Wiring Color Condition Specified Condition
+Description
+No key is in ignition key cylinder Below 1 V
+VC5 (E25-1) - AGND (E25-7) O - V Power source
+Key is in ignition key cylinder 4.6 to 5.4 V
+Demodulated signal No key is in ignition key cylinder Below 1 V
+CODE (E25-4) - AGND (E25-7) BR - V
+of key code data Key is in ignition key cylinder Waveform 1
+Key code output No key is in ignition key cylinder Below 1 V
+TXCT (E25-5) - AGND (E25-7) R - V
+signal Key is in ignition key cylinder Waveform 2
+EI
+AGND (E25-7) - Body ground V - Body ground Ground Always Below 1 Ω
+If the result is not as specified, the amplifier may
+have a malfunction.
+(c) Inspect using an oscilloscope.
+(1) Waveform 1 (Reference)
+Terminal CODE (E25-4) - AGND (E25-7)
+Tool Setting 2 V/DIV., 20 ms./DIV.
+Condition Key is in ignition key cylinder
+GND
+Tool Setting: 2 V/DIV., 20 ms./DIV.
+B139208E01

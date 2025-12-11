@@ -1,0 +1,42 @@
+13B-370 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the evaporative emission purge solenoid.
+(1) Disconnect the evaporative emission purge solenoid
+CONNECTOR: B-33 <WITHOUT VARIABLE
+INDUCTION SYSTEM> connector B-33.
+EVAPORATIVE
+EMISSION
+PURGE
+SOLENOID
+VALVE
+ACX02514AO
+CONNECTOR: B-33 <WITH VARIABLE
+INDUCTION SYSTEM>
+EVAPORATIVE
+EMISSION
+PURGE
+SOLENOID
+VALVE
+AC106191AC
+(2) Measure the resistance between evaporative emission
+purge solenoid side connector terminal 1 and 2.
+Standard value: 30 − 34 Ω [at 20°C (68°F)]
+Q:Is the resistance at the standard value?
+YES : Go to Step 4.
+NO : Replace the evaporative emission purge solenoid.
+Then go to Step 12.
+AKX00342
+STEP 4. Check the power supply voltage at evaporative
+emission purge solenoid harness side connector B-33.
+(1) Disconnect the connector B-33 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 2 and ground.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+B-33 HARNESS
+SIDE CONNECTOR Q:Is the voltage normal?
+YES : Go to Step 6.
+2 1 NO : Go to Step 5.
+AKX01502AH
+TSB Revision

@@ -1,0 +1,55 @@
+ES–117
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. DTC Detection Condition Trouble Area
+• Short in A/F sensor heater (bank 1, 2, sensor 1)
+circuit
+P0032 Air-Fuel Ratio (A/F) sensor heater (bank 1, 2, sensor 1)
+• A/F sensor heater (sensor 1)
+P0052 current is more than 10 A (1 trip detection logic)
+• A/F HTR relay
+• ECM
+HINT:
+• Bank 1 refers to the bank that includes cylinder No. 1.
+• Bank 2 refers to the bank that does not include cylinder No. 1.
+• Sensor 1 refers to the sensor closest to the engine assembly.
+• Sensor 2 refers to the sensor farthest away from the engine assembly.
+MONITOR DESCRIPTION
+1. The ECM uses information from the Air-Fuel Ratio (A/F) sensor to regulate the air-fuel ratio and keep it
+close to the stoichiometric level. This maximizes the ability of the Three-Way Catalytic Converter
+ES
+(TWC) to purify the exhaust gases.
+2. The A/F sensor detects oxygen levels in the exhaust gas and transmits the information to the ECM.
+The inner surface of the sensor element is exposed to the outside air. The outer surface of the sensor
+element is exposed to the exhaust gas. The sensor element is made of platinum coated zirconia and
+includes an integrated heating element.
+3. The zirconia element generates a small voltage when there is a large difference in the oxygen
+concentrations between the exhaust gas and outside air. The platinum coating amplifies this voltage
+generation.
+4. The A/F sensor is more efficient when heated. When the exhaust gas temperature is low, the sensor
+cannot generate useful voltage signals without supplementary heating. The ECM regulates the
+supplementary heating using a duty-cycle approach to adjust the average current in the sensor heater
+element. If the heater current is outside the normal range, the signal transmitted by the A/F sensor will
+be inaccurate, as a result, the ECM will be unable to regulate air-fuel ratio properly.
+5. When the current in the A/F sensor heater is outside the normal operating range, the ECM interprets
+this as a malfunction in the sensor heater and sets a DTC.
+Example:
+The ECM sets DTC P0032 or P0052 when the current in the A/F sensor heater is more than 10
+A. Conversely, when the heater current is less than 0.8 A, DTC P0031 or P0051 is set.
+MONITOR STRATEGY
+P0031: A/F sensor heater (bank 1) open/short (Low electrical current)
+P0032: A/F sensor heater (bank 1) open/short (High electrical current)
+Related DTCs
+P0051: A/F sensor heater (bank 2) open/short (Low electrical current)
+P0052: A/F sensor heater (bank 2) open/short (High electrical current)
+Required sensors / components (Main) A/F sensor heater (bank 1 and 2)
+Required sensors / components (Sub) -
+Frequency of operation Continuous
+Duration 10 seconds
+MIL operation Immediate
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+All:
+Monitor runs whenever following DTCs are not present P0300 - P0306 (misfire)
+P0031 and P0051:
+Battery voltage 10.5 V or more
+Heater output duty 50 % or more

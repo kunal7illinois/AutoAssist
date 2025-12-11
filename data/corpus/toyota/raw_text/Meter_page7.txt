@@ -1,0 +1,54 @@
+ME–7
+METER – METER / GAUGE SYSTEM
+Sender Receiver Communication Signal Communication Line
+Meter buzzer request signal
+Each door open display signal
+Key lose warning signal (*3)
+Low key battery warning signal
+(*3)
+Certification ECU Combination Meter Assembly Shift position warning signal CAN (CAN MS Bus)
+Steeling lock abnormal warning
+(*3)
+Steeling lock unlock warning (*3)
+Immobiliser Key Identification
+Completion
+Vehicle speed signal
+Brake Warning light Control Flag
+Skid Control ECU Combination Meter Assembly ABS Warning Light signal CAN (CAN No. 1 Bus)
+Slip Indicator light signal (*6)
+VSC Warning light signal (*6)
+• ECM
+Combination Meter Assembly Diagnosis signal CAN (CAN No. 1 Bus)
+• Skid Control ECU
+Ambient temperature display
+A/C Control Amplifier Combination Meter Assembly CAN (CAN No. 1 Bus)
+signal
+Airbag warning light signal CAN (CAN No. 1 Bus)
+Front passenger seat condition
+Center Airbag Sensor Assembly Combination Meter Assembly signal
+Direct Line
+Front passenger seat belt
+condition signal
+Steering pad switch operation
+Steering Pad Switch Combination Meter Assembly Direct Line
+signal
+Engine oil pressure warning light
+Oil Pressure Switch Combination Meter Assembly Direct Line
+signal
+Fuel Sender Gauge Assembly Combination Meter Assembly Fuel level signal Direct Line
+Turn Signal flasher Combination Meter Assembly Turn LH/RH indicator light signal Direct Line
+Tire Pressure Warning ECU (*7) Combination Meter Assembly Tire pressure warning light signal Direct Line
+Washer fluid level warning light
+Washer Level Switch (*8) Combination Meter Assembly Direct Line
+signal
+Brake fluid level warning light
+Brake Fluid Level Warning Switch Combination Meter Assembly Direct Line
+signal
+*1: for Automatic Transaxle
+*2: with Sliding Roof
+*3: with Smart Key System
+*4: for U.S.A.
+*5: for Canada
+*6: with VSC ME
+*7: with Tire Pressure Warning System
+*8: with Washer Level Warning Light

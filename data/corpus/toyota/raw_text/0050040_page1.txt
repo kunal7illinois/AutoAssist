@@ -1,0 +1,28 @@
+ES–240
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0505 Idle Control System Malfunction
+DESCRIPTION
+The idling speed is controlled by the ETCS (Electronic Throttle Control System). The ETCS is comprised
+of: 1) the one valve type throttle body; 2) the throttle actuator, which operates the throttle valve; 3) the
+Throttle Position (TP) sensor, which detects the opening angle of the throttle valve; 4) the Accelerator
+Pedal Position (APP) sensor, which detects the accelerator pedal position; and 5) the ECM, which
+controls the ETCS. Based on the target idling speed, the ECM controls the throttle actuator to provide the
+proper throttle valve opening angle.
+DTC No. DTC Detection Conditions Trouble Areas
+• ETCS
+Idling speed continues to vary greatly from target idling speed • Air induction system
+ES P0505
+(2 trip detection logic) • PCV hose connections
+• ECM
+MONITOR DESCRIPTION
+The ECM monitors the idling speed and idling air flow volume to conduct Idle Speed Control (ISC). The
+ECM determines that the ISC system is malfunctioning if the following conditions apply:
+• The learned idling air flow volume remains at the maximum or minimum volume 5 times or more during
+a drive cycle.
+• After driving at 10 km/h (6.25 mph) or more, the actual engine idling speed varies from the target idling
+speed by between 100 rpm and 200 rpm, 5 times or more during a drive cycle.
+Example:
+If the actual idling speed varies from the target idling speed by more than 200 rpm* 5 times during a drive
+cycle, the ECM illuminates the MIL and sets the DTC.
+HINT:
+*: Threshold idling speed varies with engine load.

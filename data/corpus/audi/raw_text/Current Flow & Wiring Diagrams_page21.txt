@@ -1,0 +1,78 @@
+Audi TT No. 1 / 21
+Current Flow Diagram
+Onboard power supply control unit, brake light switch,
+brake pedal switch, reversing light switch, clutch position
+sender
+F Brake light switch
+F4 Reversing light switch
+F47 Brake pedal switch
+G476 Clutch position sender
+J104 ABS control unit
+# 4 J271 J271 Motronic current supply relay
+2/87 J519 Onboard supply control unit
+6,0 J623 Engine control unit
+ro/ge J743 Mechatronic unit for direct shift gearbox
+SB8 Fuse 8 on fuse holder B
+8 11
+SB11 Fuse 11 on fuse holder B
+ST2 SB8 SB11 T4t 4-pin connector, black, on brake light switch
+20A 5A
+T8h 8-pin connector, black, connector F, on onboard supply control
+8a 11a
+unit
+T16a 16-pin connector, black, connector E, on onboard power supply
+0,5
+ro/gn control unit
+T20e 20-pin connector, on mechatronic unit for direct shift gearbox
+J519 227777 T47 47-pin connector, on ABS control unit
+371 Earth connection 6, in main wiring harness
+T16a/2 T16a/7 T8h/6
+✱ B335 Connection 1 (54), in main wiring harness
+J104 J623
+T47/4 ♦ * ⇒ Engine Current Flow Diagram
+♦♦ ### ## ** models with manual gearbox
+✱✱ ✱✱ ✱✱✱ ✱✱
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,5 *** models with direct shift gearbox 02E
+sw/ge sw/ge sw/ge li/sw li/sw li/sw br bl/sw # Relay and fuse carrier in electronics box engine compartment
+✱ ✱ ## not USA
+J623 J623 334455 ### up to May 2007, only USA
+T20e ♦ up to May 2007
+B335 /17
+J743 ♦♦ from June 2007
+0,35 0,35 0,35
+sw/ge ws/gn gn/bl
+T4t/3 T4t/1 2 4 2
+F F47
+G
+✱✱
+476 F
+✱✱
+4
+T4t/4 T4t/2 1/31 5 1 ws = white
+119966 226633 226655 sw = black
+ro = red
+0,5 0,5
+♦♦
+0,5
+♦
+1,5
+♦
+0,5
+♦
+0,5
+♦
+0,35
+♦
+0,35
+♦♦
+0,5 0,5 br = brown
+ge/sw br br br br br br br ro/gn sw/ro
+gn = green
+371 bl = blue
+3322 118888 119933 227777 3355 gr = grey
+li = purple
+ge = yellow
+267 268 269 270 271 272 273 274 275 276 277 278 279 280 or = orange
+8J0-001210407
+rs = pink
+Edition 04.2008

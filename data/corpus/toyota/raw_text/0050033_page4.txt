@@ -1,0 +1,36 @@
+ES–188
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 CHECK SENSOR INSTALLATION (CAMSHAFT POSITION SENSOR)
+(a) Check the CMP sensor installation.
+OK:
+Sensor is installed correctly.
+NG SECURELY REINSTALL SENSOR
+Clearance
+Normal Abnormal
+ES
+BR03795E39
+OK
+4 CHECK VALVE TIMING (See page ES-77)
+NG ADJUST VALVE TIMING
+OK
+5 CHECK CAMSHAFT
+(a) Check the teeth of the camshaft.
+OK:
+Camshaft teeth do not have any cracks or
+deformation.
+NG REPLACE CAMSHAFT
+OK
+6 REPLACE CAMSHAFT POSITION SENSOR
+NEXT
+7 CHECK WHETHER DTC OUTPUT RECURS
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Clear DTCs (see page ES-35).
+(e) Start the engine.
+(f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / PENDING CODES.
+(g) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+No output A

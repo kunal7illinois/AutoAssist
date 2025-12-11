@@ -1,0 +1,61 @@
+Audi TT No. 5 / 2
+Current Flow Diagram
+Airbag control unit, battery isolation igniter
+A Battery
+B Starter
+C Alternator
+J234 Airbag control unit
+J519 Onboard supply control unit
+J533 Data bus diagnostic interface
+J681 Terminal 15 voltage supply relay 2
+N253 Battery isolation igniter
+SC7 Fuse 7 on fuse holder C
+B163 B383 B390 SC10 Fuse 10 on fuse holder C
+# ##
+4,0 4,0 4,0 0,35 0,35 0,35 0,35 T2b 2-pin connector, purple, on battery isolation igniter
+sw sw sw or/sw or/sw or/br or/br
+T20d 20-pin connector, black, on data bus diagnostic interface
+T75 75-pin connector, yellow, on airbag control unit
+5588 T20d/16 B391 T20d/6
+J519 J681 B384 J533 J533 637 Earth point, airbag control unit
+ 
+ 
+4,0 0,35 0,35 B163 Positive connection 1 (15), in interior wiring harness
+sw or/sw or/br
+B383 Connection 1 (drive train CAN bus, high), in main wiring harness
+7 10
+J234
+T75/74 T75/75
+SC7 SC10
+5A 5A B384 Connection 2 (drive train CAN bus, high), in main wiring harness
+7a 10a T75/1 T75/26 T75/27 T75/28 T75/16
+15a 15a 31
+# # B390 Connection 1 (drive train CAN bus, low), in main wiring harness
+0,5 0,5 0,5 0,5
+sw/gn sw/gn ge br
+## ## B391 Connection 2 (drive train CAN bus, low), in main wiring harness
+0,35 0,35
+sw/gn sw/gn
+• CAN bus (data wire)
+* main fuse box, in luggage compartment, rear right, on the battery
+** ⇒ basic equipment Current Flow Diagram
+# up to May 2009
+## from June 2009
+ T2b/2 T2b/1
+0,5
+N253 br
+ws = white
+A1 F1
+B+ sw = black
+ro = red
+70,0 br = brown
+sw
+gn = green
+bl = blue
+A B gr = grey
+C 637 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-005020909
+rs = pink
+Edition 09.2009

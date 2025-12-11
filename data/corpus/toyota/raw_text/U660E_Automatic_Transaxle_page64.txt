@@ -1,0 +1,52 @@
+AX–64
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+(c) Connect the intelligent tester together with the CAN VIM (Controller Area Network Vehicle
+Interface Module) to the DLC3.
+(d) Turn the ignition switch on (IG).
+(e) Turn on the tester.
+(f) Enter the following items: "DIAGNOSIS / OBD/MOBD / ECT / DATA LIST".
+(g) According to the display on tester, read "DATA LIST".
+AX
+Measurement Item/
+Item Normal Condition
+Range (display)
+• After Stall Test;
+ATF Temp. Sensor Value/
+Approx. 80°C (176°F)
+AT OIL TEMP1 min.: -40°C (-40°F)
+• Equal to ambient temperature when cold
+max.: 215°C (419°F)
+soak
+HINT:
+When DTC P0712 is output and intelligent tester indicates 150°C (302°F) or more, there is a
+short circuit.
+When DTC P0713 is output and intelligent tester indicates -40°C (-40°F), there is an open
+circuit.
+Measure the resistance between terminal OIL and body ground.
+Temperature Displayed Malfunction
+-40°C (-40°F) Open circuit
+150 °C (302°F) or more Short circuit
+HINT:
+If the circuit related to the ATF temperature sensor becomes open, P0713 is immediately set (in
+0.5 seconds). When P0713 is set, P0711 cannot be detected.
+It is not necessary to inspect the circuit when P0711 is set.
+1 INSPECT TRANSMISSION WIRE (ATF TEMPERATURE SENSOR)
+(a) Remove the TCM from the transaxle.
+(b) Measure the resistance according to the value(s) in the
+table below.
+THO1 Standard resistance
+Tester Connection Specified Condition
+E2 17 (E2) - 18 (THO1) 90 Ω to 156 kΩ
+17 (E2) - Body ground 10 kΩ or higher
+18 (THO1) - Body ground 10 kΩ or higher
+HINT:
+If the resistance is out of the specified range with the
+ATF temperature shown in the table below, the
+driveability of the vehicle may decrease.
+Standard resistance
+ATF Temperature Specified Condition
+C133212E01
+10 °C (50°F) 5.8 to 7.1 kΩ
+110°C (230°F) 0.23 to 0.26 kΩ
+OK REPLACE TCM
+NG

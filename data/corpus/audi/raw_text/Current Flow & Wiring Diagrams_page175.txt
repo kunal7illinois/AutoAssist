@@ -1,0 +1,54 @@
+Audi TT No. 21 / 6
+Current Flow Diagram
+Onboard supply control unit, right gas discharge light
+control unit, power output module for right headlight
+J344 Right gas discharge light control unit
+J519 Onboard supply control unit
+J668 Power output module for right headlight
+L14 Right gas discharge (xenon) bulb
+L175 Right day driving light bulb
+M3 Right side light bulb
+M7 Front right turn signal bulb
+T11b 11-pin connector, black, connector A, on onboard power supply
+control unit
+T11c 11-pin connector, brown, connector D, on onboard power supply
+control unit
+T14b 14-pin connector, black, on right of headlight
+V49 Right headlight range control motor
+V295 Right dip beam screen motor
+43 Earth point, lower part of right A-pillar
+389 Earth connection 24, in main wiring harness
+J519
+390 Earth connection 25, in main wiring harness
+T11b/5 T11b/2 T11b/3 T11b/6 T11c/10
+2233 * models with day driving light
+1,0 1,0 0,5 1,0 0,5 0,5
+ws ge gr/ge ge/bl sw/gn gr/ro
+5599
+T14b T14b
+T14b/6 T14b/4 /12 T14b/9 /10
+M
+V49
+1 2 3 4
+11 15
+J668
+5 31 27 24 30 21 ✱
+L175 M7 M3
+6 1 4 5
+3
+V295 L14 4 2 1
+1 J344
+T14b/5 T14b T14b/11 T14b/7 ws = white
+31 /14 31 sw = black
+31 390 ro = red
+1,0 1,0 1,0 2,5 4,0 1,0
+br br ws br br br br = brown
+gn = green
+5599 389 bl = blue
+gr = grey
+43 li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 or = orange
+8J0-021060806
+rs = pink
+Edition 09.2006

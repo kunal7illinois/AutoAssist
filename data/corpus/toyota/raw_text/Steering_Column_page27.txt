@@ -1,0 +1,49 @@
+SR–25
+STEERING COLUMN – ELECTRIC STEERING LOCK
+DTC B2788 IG2 Signal Malfunction
+DESCRIPTION
+The steering lock ECU receives power from the IG2 relay. When the digital signal from the certification
+ECU and the voltage from the IG2 relay are received by the steering lock ECU, the steering will be
+unlocked. The steering lock ECU will not lock the steering when power from the IG2 relay is present (this
+prevents the steering from being locked while the vehicle is moving).
+DTC No. DTC Detecting Condition Trouble Area
+• IG2 relay
+Different information is obtained from IG2 signals
+• Wire harness
+received directly from the IG2 circuit, and from IG2
+B2788 • Main body ECU
+signals sent via LIN communication for a period of 1
+• Steering lock actuator assembly (Steering lock
+second.
+ECU)
+WIRING DIAGRAM
+Steering Lock Actuator Assembly
+(Steering Lock ECU)
+E50
+ID Code Box
+5
+LIN1 E51 LIN SR
+3
+M+
+Main Body ECU
+M-
+IG2
+11
+IG2D E6
+6
+AM1 E7 LK+
+1 6
+AM2 IG2 IGN
+AM2 E6 E51 IG2 LK-
+7
+STR LOCK
+E51 B
+ULK+
+1
+FL MAIN
+E51 GND
+ULK-
+2
+E51 SGND
+Battery
+C113505E02

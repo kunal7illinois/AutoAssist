@@ -1,0 +1,61 @@
+BODY ELECTRICAL - SRS AIRBAG SYSTEM BE-141
+(cid:2)WIRING DIAGRAM
+Spiral Cable
+D+ P+
+D- P-
+Driver Front Passenger
+D2+ P1+
+Airbag Airbag
+D2- P2-
+DK+
+Driver Knee
+DK-
+Airbag PP+ Seat Belt
+PP- Pretensioner
+Seat Belt PD+ (Front Passenger)
+Pretensioner PD-
+SFP+
+(Driver) Side Airbag
+SFP-
+(Front Passenger)
+SFD+
+Side Airbag
+SFD-
+(Driver) ICP+
+Curtain Shield
+ICP-
+Airbag (RH)
+ICD+
+Curtain Shield
+ICD-
+Airbag (LH)
++SR Front Airbag
+-SR Sensor
++SL (Front Passenger)
+Front Airbag
+-SL Side & Curtain Shield Airbag Sensor (RH)
+Sensor (Driver)
+BBP+ Curtain Shield
+Side & Curtain Shield Airbag Sensor (LH)
+BBP- Airbag Sensor
+Curtain Shield BBD+ (RH)
+Airbag Sensor BBD-
+(LH)
+FSP+
+Occupant
+DBE+
+Seat Belt Buckle FSP- Classification
+Switch (Driver) DBE- ECU
+DSP+
+Seat Position
+DSP-
+Sensor (Driver)
+SIL
+DLC3
+CANH
+ECM
+CANL
+CAN (CAN No.1 Bus)
+Combination Meter
+(cid:1) SRS Warning Light
+025BE109P

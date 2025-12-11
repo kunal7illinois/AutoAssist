@@ -1,0 +1,40 @@
+13A-566 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+IDLE AIR CONTROL MOTOR (STEPPER MOTOR)
+Required Special Tool:
+• MB991709: Test Harness Set
+.
+Measurement Method
+1. Disconnect the idle air control motor connector, and connect
+OSCILLOSCOPE
+IDEL AIR CONTROL the test harness special tool, MB991709 in between. (All
+MOTOR CONNECTOR
+terminals should be connected.)
+1 2 3 2. Connect the oscilloscope probe to the idle air control motor
+4 5 6 connector terminal 1, terminal 3, terminal 4 and terminal 6,
+respectively.
+MB991709
+.
+Alternate method (Test harness not available)
+<M/T>
+Connect the oscilloscope probe to ECM terminals 4, 5, 17
+AK102983AB
+and 18.
+<A/T>
+Connect the oscilloscope probe to PCM terminals 14, 15,
+28 and 29.
+Standard Wave Pattern
+Observation conditions
+Function Special pattern
+Pattern height High
+Pattern selector Display
+Engine condition Turn the ignition switch from
+"LOCK" (OFF) to "ON"
+position (without starting the
+engine).
+While the engine is idling,
+turn the A/C switch to "ON".
+Immediately after starting the
+warm the engine
+(approximately one minute).
+TSB Revision

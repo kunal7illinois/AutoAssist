@@ -1,0 +1,28 @@
+AUTOMATIC TRANSAXLE 23A-319
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 22. Check harness for short circuit to ground
+between Park/Neutral position switch connector B-41
+terminal 1 and shift switch assembly connector C-65
+terminal 1.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-41
+B-41 YES : Go to Step 23.
+NO : Repair it.
+DIPSTICK
+AC001844AK
+CONNECTOR: C-65
+C-65
+AC001741AS
+STEP 23. Check harness for short circuit to ground
+between shift switch assembly connector C-65 terminal 2
+and combination meter connector C-41 terminal 50.
+Q:Is the harness wire in good condition?
+CONNECTOR: C-65
+YES : Go to Step 3.
+NO : Repair it.
+C-65
+AC001741AS
+CONNECTOR: C-41
+C-41
+AC001729AX
+TSB Revision

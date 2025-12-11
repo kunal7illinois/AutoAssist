@@ -1,0 +1,39 @@
+BC–83
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+5 INSPECT SKID CONTROL ECU CONNECTOR (GND TERMINAL CONTINUITY)
+(a) Measure the resistance according to the value(s) in the
+Skid Control ECU (Harness Side
+table below.
+Connector Front View):
+Standard resistance
+GND2 GND1 A25 Tester Connection Specified Condition
+A25-4 (GND1) - Body ground Below 1 Ω
+A25-1 (GND2) - Body ground Below 1 Ω
+(b) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+C131970E05
+CONNECTOR (GND CIRCUIT)
+OK
+6 INSPECT COMBINATION METER ASSEMBLY BC
+(a) Connect the intelligent tester to the DLC3.
+(b) Select the "ACTIVE TEST" on the tester (See page BC-
+25).
+ACTIVE TEST: ABS
+Item Vehicle Condition / Test Details Diagnostic Note
+ABS WRN LIGHT Turn ABS warning light ON / OFF Observe combination meter
+(c) Check the ABS warning light operation.
+OK:
+The ABS warning light turns on or off in
+accordance with the intelligent tester.
+Result
+Condition Proceed to
+OK A
+OK (When troubleshooting in accordance with the PROBLEM SYMPTOMS TABLE) B
+NG C
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+(See page BC-16)
+C REPLACE COMBINATION METER
+ASSEMBLY (See page ME-63)
+A
+REPLACE BRAKE ACTUATOR ASSEMBLY (See page BC-432)

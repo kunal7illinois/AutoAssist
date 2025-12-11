@@ -1,0 +1,30 @@
+RF–24
+SLIDING ROOF – SLIDING ROOF SYSTEM
+6 DELETE DTC
+(a) Delete the DTCs (See page RF-8).
+NEXT
+END
+7 INITIALIZE SLIDING ROOF DRIVE GEAR SUB-ASSEMBLY (SLIDING ROOF CONTROL
+ECU)
+(a) Check that the sliding roof drive gear sub-assembly can
+be initialized (See page RF-4).
+OK:
+Sliding roof drive gear sub-assembly can be
+RF
+initialized.
+NG Go to step 10
+OK
+8 CHECK SLIDING ROOF FUNCTION
+(a) Check the auto operation with the OPEN, CLOSE, UP
+and DOWN switches (See page RF-11).
+OK:
+Auto operation operates normally with OPEN,
+CLOSE, UP and DOWN switches.
+NG REPLACE SLIDING ROOF DRIVE GEAR
+SUB-ASSEMBLY (SLIDING ROOF CONTROL
+ECU)
+OK
+9 DELETE DTC
+(a) Delete the DTCs (See page RF-8).
+NEXT
+END

@@ -1,0 +1,41 @@
+RS–278
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+4 CHECK FRONT SEAT WIRE RH (OPEN)
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+Front Seat Wire RH
+battery.
+(c) Using a service wire, connect terminals 1 (SVC2) and 3
+D A (SGD2), and connect terminals 2 (SIG2) and 3 (SGD2)
+C B of connector C.
+Occupant
+Front Occupant NOTICE:
+Classification ECU
+Classification Sensor RH
+Do not forcibly insert a service wire into the
+terminals of the connector when connecting.
+*1: for Power Seat (d) Measure the resistance according to the value(s) in the
+*2: for Manual Seat table below.
+Connector C Standard resistance:
+Connector B for Power seat
+T16 (*1)
+Service Wire d4 (*2) T11 (*1) Tester connection Condition Specified condition
+d1 (*2) T11-8 (SIG2) - T11-2
+SGD2 Always Below 1 Ω
+(SGD2)
+T11-12 (SVC2) - T11-2
+SVC2 SGD2 Always Below 1 Ω
+(SGD2)
+SIG2 SVC2 for Manual seat
+SIG2 Service Wire
+C C110374E23 Tester connection Condition Specified condition
+d1-8 (SIG2) - d1-2
+Always Below 1 Ω
+(SGD2)
+d1-12 (SVC2) - d1-2
+Always Below 1 Ω
+(SGD2)
+RS
+NG REPAIR OR REPLACE FRONT SEAT WIRE
+RH
+OK

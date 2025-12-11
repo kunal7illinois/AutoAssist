@@ -1,0 +1,39 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-563
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+Standard wave pattern (V) 2 ENGINE REVOLUTIONS
+(1 CAMSHAFT REVOLUTION) CYCLE TIME CHANGES
+75˚BTDC WITH ENGINE SPEED
+5˚BTDC T CHANGES
+CRANKSHAFT
+POSITION
+SENSOR OUTPUT
+WAVE PATTERN
+0
+CAMSHAFT
+POSITION
+SENSOR OUTPUT
+WAVE PATTERN
+TIME
+0
+NO.1 TDC NO.2 TDC NO.3 TDC NO.4 TDC
+TDC: TOP DEAD CENTER AK103538AB
+Wave Pattern Observation Points
+Check that cycle time T becomes shorter when the engine
+speed increased.
+.
+Examples of Abnormal Wave Patterns
+Example 1
+• Cause of problem
+Sensor interface malfunction.
+• Wave pattern characteristics
+Rectangular wave pattern is output even when the engine is
+not started.
+AKX01597
+Example 2
+• Cause of problem
+Loose timing belt.
+Abnormality in sensor disc.
+• Wave pattern characteristics
+Wave pattern is displaced to the left or right.
+AKX01602
+TSB Revision

@@ -1,0 +1,25 @@
+EG-126 ENGINE - 2GR-FE ENGINE
+2) Retard
+When the camshaft timing oil control valve is positioned as illustrated below by the retard signals from
+the ECM, the resultant oil pressure is applied to the timing retard side vane chamber to rotate the camshaft
+in the timing retard direction.
+(cid:1) Intake Side (cid:2)
+Rotation Direction
+ECM
+Oil Pressure
+Vane
+Drain IN
+238EG64
+(cid:1) Exhaust Side (cid:2)
+Rotation Direction
+ECM
+Vane
+Oil
+Pressure
+Drain IN
+281EG49
+3) Hold
+After reaching the target timing, the valve timing is held by keeping the camshaft timing oil control valve
+in the neutral position unless the traveling state changes.
+This adjusts the valve timing at the desired target position and prevents the engine oil from running out
+when it is unnecessary.

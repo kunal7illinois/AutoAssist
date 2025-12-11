@@ -1,0 +1,56 @@
+RS–46
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DATA LIST / ACTIVE TEST
+HINT:
+By accessing the DATA LIST displayed on the intelligent
+tester, you can perform such functions as reading the values
+of switches and sensors without removing any parts. Reading
+the DATA LIST as the first step in troubleshooting is one
+method to save labor time.
+1. DATA LIST FOR CENTER AIRBAG SENSOR
+ASSEMBLY
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester ON.
+(d) Enter the following menus: DIAGNOSIS / OBD/
+MOBD / SRS AIRBAG / DATA LIST.
+(e) Check the values by referring to the table below.
+DLC3
+Intelligent Tester
+C131977E01
+Measurement Item/
+Item Normal Condition Diagnostic Note
+Range (Display)
+Driver Seat Position/
+FORWARD: Seat position is
+forward
+RS D SEAT POSITION FORWARD/BKWARD -
+BKWARD: Seat position is
+backward
+FAIL: Failure detected
+Passenger Classification/
+NG: Data is not determined
+OFF: Vacant
+CHILD: Child (less than 36 kg
+(79.37 lb)) is seated
+PASSENGER CLASS OFF/CHILD/AF05/AM50 -
+AF05: Adult (36 to 54 kg (79.37 to
+119.05 lb) is seated
+AM50: Adult (more than 54 kg
+(119.05 lb)) is seated
+FAIL: A failure is detected
+Passenger Detection/
+NG: Data is not determined
+PASSENGER DETECT NONE: No passenger NONE/DETECT -
+DETECT: A passenger is seated
+FAIL: Failure detected
+Driver Buckle SW/
+UNSET: The seat belt is not
+D BUCKLE SW fastened UNSET/SET -
+SET: The seat belt is fastened
+NG: Data is not determined
+Passenger Buckle SW/
+UNSET: The seat belt is not
+P BUCKLE SW fastened UNSET/SET -
+SET: The seat belt is fastened
+NG: Data is not determined

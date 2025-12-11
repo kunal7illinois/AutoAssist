@@ -1,0 +1,59 @@
+ES–86
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Suspected Trouble MIL Memory See page
+Area
+P2256 Oxygen (A/F) Sensor Same as DTC P2241 Comes on DTC stored ES-364
+Reference Ground
+Circuit High (Bank 2
+Sensor 1)
+P2401 Evaporative Emission 1. Pump module Comes on DTC stored ES-255
+System Leak 2. Connector / wire
+Detection Pump harness (Pump
+Control Circuit Low module - ECM)
+3. ECM
+P2402 Evaporative Emission 1. Pump module Comes on DTC stored ES-255
+System Leak 2. Connector / wire
+Detection Pump harness (Pump
+Control Circuit High module - ECM)
+3. ECM
+P2419 Evaporative Emission 1. Pump module Comes on DTC stored ES-255
+ES
+System Switching 2. Connector / wire
+Valve Control Circuit harness (Pump
+Low module - ECM)
+3. ECM
+P2420 Evaporative Emission 1. Pump module Comes on DTC stored ES-373
+System Switching (0.02 inch
+Valve Control Circuit orifice, vacuum
+High pump, vent
+valve)
+EVAP system monitor
+2. Connector / wire
+harness
+(Pump module -
+ECM)
+3. ECM
+P2610 ECM / PCM Internal ECM Comes on DTC stored ES-377
+Engine Off Timer
+Performance
+P2A00 A/F Sensor Circuit 1. Open or short in A/ Comes on DTC stored ES-380
+Slow Response F sensor (bank 1
+(Bank 1 Sensor 1) sensor 1) circuit
+2. A/F sensor (bank1
+sensor 1)
+3. ECM
+P2A03 A/F Sensor Circuit 1. Open or short in A/ Comes on DTC stored ES-380
+Slow Response F sensor (bank 2
+(Bank 2 Sensor 1) sensor 1) circuit
+2. A/F sensor (bank 2
+sensor 1)
+3. ECM
+U0101 Lost Communication 1. Open or short in Comes on DTC stored ES-389
+with TCM TCM and ECM circuit
+2. TCM
+3. ECM
+*1: This DTC is related to the A/F sensor, although the
+caption in the "Detection Item" column refers to the heated
+oxygen sensor.
+*2: This DTC indicates a malfunction related to the primary
+circuit.

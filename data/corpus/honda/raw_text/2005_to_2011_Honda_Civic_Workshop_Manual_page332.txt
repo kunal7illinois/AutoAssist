@@ -1,0 +1,26 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+1. Clear the DTC memory (see CLEAR THE DTC MEMORY WITH THE
+HDS).
+2. Read the DTC (see CLEAR THE DTC MEMORY WITH THE HDS).
+Is DTC 82-14 indicated?
+YES -Go to step 3.
+NO -Intermittent failure, system is OK at this time. Go to
+TROUBLESHOOTING INTERMITTENT FAILURES.
+3. From INSPECTION menu on the HDS, select SWS DTC CHECK.
+Is another DTC also indicated?
+YES -
+DTC 14-11: Open in the ODS unit harness; replace the ODS unit harness.
+(cid:1)
+DTC 14-12: Go to step 4.
+(cid:1)
+DTC 14-13: Go to step 11.
+(cid:1)
+DTC 14-14: Go to step 19.
+(cid:1)
+NO -Intermittent failure, system is OK at this time. Go to
+TROUBLESHOOTING INTERMITTENT FAILURES.
+4. Turn the ignition switch OFF.
+5. Disconnect the ODS unit harness 3P connector (A) from the front passenger's
+weight sensor (front inner side).

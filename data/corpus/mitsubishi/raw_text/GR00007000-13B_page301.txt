@@ -1,0 +1,44 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-301
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the spark plugs.
+CAUTION
+Do not attempt to adjust the gap of the platinum plug.
+Cleaning of the platinum plug may result in damage to the
+platinum tips. Therefore, if carbon deposits must be
+removed, use a plug cleaner and complete cleaning within
+20 seconds to protect the electrode. Do not use a wire
+brush.
+(1) Check the plug gap and replace if the limit is exceeded.
+PLATINUM
+TIPS Standard value: 1.0 − 1.1 mm (0.039 − 0.043 inch)
+Limit: 1.3 mm (0.051 inch)
+AAKKXX0000338833AB
+Q:Is the plug gap at the standard value?
+YES : Go to Step 6.
+NO : Replace the faulty spark plug. Then go to Step 13.
+STEP 6. Check the spark plug cable.
+(1) Check the cap and coating for cracks.
+(2) Measure the resistance.
+Limit: maximum 22 kΩ
+Q:Is the resistance normal?
+YES : Refer to INSPECTION PROCEDURE 33 − Ignition
+Circuit System P.13B-633.
+NO : Replace the faulty spark plug cable. Then go to Step
+13.
+AKX00382
+STEP 7. Check the injector.
+(1) Disconnect the injector connector.
+CONNECTORS : B-01, B-02, B-05, B-06,
+B-25, B-26
+B-01B-05 B-26
+B-02 B-06 B-25
+AAKK000000221155AB
+(2) Measure the resistance between each injector side
+connector terminal 1 and 2.
+INJECTOR SIDE Standard value: 13 − 16 ohm [at 20°C (68°F)]
+CONNECTOR
+Q:Is the resistance standard value?
+1 2 YES : Go to Step 8.
+NO : Replace the faulty injector. Then go to Step 13.
+AK000241AB
+TSB Revision

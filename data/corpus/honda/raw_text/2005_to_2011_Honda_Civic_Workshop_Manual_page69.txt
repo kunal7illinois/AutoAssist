@@ -1,0 +1,19 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+9. Disconnect SRS unit connector A (28P).
+10. With EPS: Disconnect EPS control unit connector D (28P).
+11. With TPMS: Disconnect the TPMS control unit 20P connector.
+12. Disconnect the ABS modulator-control unit 25P connector.
+13. Check for continuity between the ABS modulator-control unit 25P connector
+terminals No. 1, and No. 17 and body ground individually.
+Fig. 35: Checking Continuity Between ABS Modulator-Control Unit 25P
+Connector Terminals No. 1 & No. 17 And Body Ground
+Is there continuity?
+YES - Repair short to body ground in the wire between the ECM/PCM, the
+gauge control module (tach), the data link connector (DLC), the SRS unit, the
+EPS control unit (if equipped), the TPMS control unit (if equipped), and the
+ABS modulator-control unit.
+NO - Go to step 14.
+14. Check for continuity between ABS modulator-control unit 25P connector
+terminals No. 1 and No. 17.

@@ -1,0 +1,43 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+When you turn the ignition switch ON (II), the SRS indicator comes on. If it
+(cid:1)
+goes off after 6 seconds, the system is normal, and is not currently detecting
+any abnormality.
+If there is an abnormality, the system locates and defines the problem, stores
+(cid:1)
+this information in memory, and turns the SRS indicator on. The data will
+remain in the memory even when the ignition switch is turned off or if the
+battery is disconnected.
+The data is stored in memory as a diagnostic trouble code (DTC).
+(cid:1)
+The "x" at the end of each DTC denotes a numeric character (0 thru 9) or an
+(cid:1)
+alpha character (A thru F) that is display on the HDS.
+DTCs are either latching or resetting depending on the malfunction. With
+(cid:1)
+resetting DTCs, the SRS indicator will go off the next time the ignition switch
+is turned ON and the system is normal, but the DTC is still stored. With
+latching DTCs, the SRS indicator will not turn OFF until the malfunction is
+repaired and the DTC is cleared.
+When you connect the HDS to the data link connector (DLC), you can retrieve
+(cid:1)
+a more detailed DTC in the Honda Systems "SRS" menu.
+NOTE: Only read DTCs from the SRS menu, not from the SWS
+menu. SWS (ODS unit) DTCs are subcode of SRS unit
+DTCs. Only troubleshoot the corresponding SRS DTCs.
+After reading and recording the DTC, proceed with the troubleshooting
+(cid:1)
+procedure for that code.
+Precautions
+Use only a digital multimeter to check the system. If it's not a Honda
+(cid:1)
+multimeter, make sure its output is 10 mA (0.01 A) or less when switched to
+the smallest value in the ohmmeter range. A tester with a higher output could
+damage the airbag circuit or cause accidental airbag deployment and possible
+injury.
+Whenever the ignition switch is ON (II), or has been turned OFF for less than 3
+(cid:1)
+minutes, be careful not to bump the SRS unit; the airbags could accidentally
+deploy and cause damage or injuries.

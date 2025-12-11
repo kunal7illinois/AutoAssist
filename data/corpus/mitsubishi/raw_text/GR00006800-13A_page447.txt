@@ -1,0 +1,49 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-447
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the Battery positive voltage.
+(1) Measure the Battery positive voltage during cranking.
+• The voltage should be 8 volts or more.
+Q:Is the voltage normal?
+YES : Go to Step 2.
+NO : Check the battery. Refer to GROUP 54A, Battery −
+Battery check P.54A-5. Then confirm that the
+malfunction symptom is eliminated.
+STEP 2. Check the timing belt for breaks.
+Q:Is the timing belt good condition?
+YES : Go to Step 3.
+NO : Replace timing belt. Then confirm that the malfunction
+symptom is eliminated.
+STEP 3 Using scan tool MB991502, check data list.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Check the following items in the data List. Refer to Data List
+Reference Table P.13A-544.
+16 PIN a. Item 16: Power Supply Voltage.
+b. Item 22: Crankshaft Position Sensor.
+MB991502
+AKX01177AB c. Item 21: Engine Coolant Temperature Sensor.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Are they operating properly?
+YES : Go to Step 4.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+STEP 4. Using scan tool MB991502, check actuator test.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items in the actuator test. Refer to
+Actuator Test Reference Table P.13A-553.
+a. Item 07: Fuel pump.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the actuator operating properly?
+YES : Go to Step 5.
+16 PIN
+NO : Repair or replace. Then confirm that the malfunction
+MB991502 symptom is eliminated.
+AKX01177AB
+TSB Revision

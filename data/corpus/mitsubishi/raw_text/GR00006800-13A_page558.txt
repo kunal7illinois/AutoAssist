@@ -1,0 +1,48 @@
+13A-558 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TERMINAL TERMINAL INSPECTION ITEM INSPECTION CONDITION (ENGINE CONDITION) NORMAL CONDITION
+NO. <M/T> NO. <A/T>
+84 78 Throttle position Ignition switch: Idle 0.335 − 0.935 V
+sensor "ON" (check for Wide open throttle 4.4 − 5.3 V
+smooth voltage
+increase as throttle
+is moved from idle
+position to wide
+open throttle)
+85 55 Barometric Ignition switch: When altitude is 0 m (0 ft) 3.7 − 4.3 V
+pressure sensor "ON" When altitude is 600 m 3.4 − 4.0 V
+(1,969 ft)
+When altitude is 1,200 m 3.2 − 3.8 V
+(3,937 ft)
+When altitude is 1,800 m 2.9 − 3.5 V
+(5,906 ft)
+86 − Vehicle speed • Ignition switch: "ON" 0 ⇔ 8 − 12 V
+sensor • Move the vehicle slowly forward (changes
+repeatedly)
+87 79 Idle position signal Ignition switch: Set throttle valve to idle 0 − 1 V
+"ON" position
+Open throttle slightly 4 V or more
+88 56 Camshaft position Engine: cranking 0.4 − 3.0 V
+sensor Engine: idling 1.5 − 3.0 V
+89 45 Crankshaft Engine: cranking 0.4 − 4.0 V
+position sensor Engine: idling 1.5 − 2.5 V
+90 65 Volume air flow Engine: idling 2.2 − 3.2 V
+sensor
+Engine: 2,500 r/min
+TERMINAL RESISTANCE AND CONTINUITY CHECK
+ECM <M/T> or PCM <A/T> Connector Terminal Arrangement
+<M/T>
+81 80 79 7877 76 75 74 7372 71 56 55 54 53 52 51 38 37 36 35 34 33 32 31 13 12 11 10 9 8 7 6 5 4 3 2 1
+92 91 90 89 88 87 86 85 84 83 82 62 61 60 59 58 57 46 45 44 43 42 41 40 39 26 25 24 23 22 21 20 19 18 17 16 15 14
+<A/T>
+107 106105 104103 102101 77 76 75 74737271 464544 43 42 41 8 7 6 5 4 3 2 1
+120 119118117116115114113112111110109108 89 88 87868584838281807978 575655545352515049 48 47 23222120191817161514131211 10 9
+130 129 128127126 125124 123122121 98 97 9695 949392 9190 666564 63626160 59 58 3534 33323130 29282726 25 24
+AK000058AB
+TERMINAL TERMINAL INSPECTION ITEM NORMAL CONDITION (INSPECTION CONDITION)
+NO. NO.
+1 − 12 1 − 41 No. 1 injector 13 − 16 Ω [at 20°C (68°F)]
+14 − 12 9 − 41 No. 2 injector
+2 − 12 24 − 41 No. 3 injector
+15 − 12 2 − 41 No. 4 injector
+TSB Revision

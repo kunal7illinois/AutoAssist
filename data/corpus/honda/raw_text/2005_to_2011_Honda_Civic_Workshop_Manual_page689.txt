@@ -1,0 +1,18 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Fig. 27: Grade Logic Control - Ascending Control Graph
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Grade Logic Control: Descending Control
+When the PCM determines that the vehicle is going down a hill in D, the shift-up
+speed from 4th to 5th gear, 3rd to 4th gear, and from 2nd to 3rd (when the throttle is
+closed) becomes faster than the set speed for flat road driving to extend the 4th
+gear, 3rd gear, and 2nd gear engagement areas. This, in combination with engine
+braking from the deceleration lock-up, achieves smooth driving when the vehicle is
+descending. There are three descending modes with different 4th gear driving areas,
+3rd gear driving areas and 2nd gear driving areas according to the magnitude of a
+gradient stored in the PCM. When the vehicle is in 5th or 4th gear and you are
+decelerating while applying the brakes on a steep hill, the transmission will
+downshift to a lower gear. When you accelerate, the transmission will then return to
+a higher gear.
+Fig. 28: Grade Logic Control - Descending Control Graph

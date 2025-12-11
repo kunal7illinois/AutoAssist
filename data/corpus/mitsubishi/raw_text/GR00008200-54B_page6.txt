@@ -1,0 +1,59 @@
+54B-6 SIMPLIFIED WIRING SYSTEM (SWS)
+SWS DIAGNOSIS
+SWS DIAGNOSIS
+GENERAL DESCRIPTION
+Before carrying out troubleshooting
+M1549014700163
+Before carrying out troubleshooting, check the fol- • Make sure that fuses and fusible links related to
+lowing two items. relevant systems are not blown.
+• Make sure that the ETACS-ECU, the junction
+block (J/B), the front-ECU and the engine com-
+partment relay box are connected securely.
+SWS DIAGNOSTIC TROUBLESHOOTING STRATEGY
+M1549000500296
+1. Gather information about the problem from the 5. Service data on the SWS monitor
+customer.
+Select the defective function from the function-
+2. Verify that the condition described by the specific diagnostic menu, and check the service
+customer exists. data that appears for each function item.
+NOTE: If an error occurs in the SWS communica- NOTE: In addition to the function-specific diag-
+tion line, the ECU isolated from the communica- nostic menu, a service data menu is available for
+tion line performs a fail-safe or backup operation, SWS monitor service data to check all items for
+so the problem may not match the one shown in each ECU.
+the Trouble Symptom Chart. However, the cause
+(1) When the SWS communication line is
+of the failure can be tracked down by performing
+monitored.
+the following troubleshooting with the SWS moni-
+You can determine whether the problem lies in
+tor.
+the input or output signal circuit system by
+3. Version number and destination check checking whether communication data is
+Check whether the SWS version number (1) and correct.
+destination (North America) meet the vehicle • The switch condition does not meet the service
+specifications. If they are different, replace the data display: Input signal system related to defec-
+ETACS-ECU with a correct one. tive functions
+• The switch condition meets the service data dis-
+4. ECU COMM CHECK on the SWS monitor
+play: Output signal system related to defective
+Check whether the communication status of the
+functions
+input- or output-signal-side ECU associated with
+6. Check of input signal circuit system
+the defective function is normal.
+• If "OK" is displayed for all related ECUs, they Check relevant switch, sensor, input signal-side
+communicate with each other normally and the ECU and their wiring harness and connector.
+input or output signal circuit system may be 7. Check of output signal circuit system
+defective. Therefore, check SWS monitor service
+Check an output signal-side ECU, electrical load
+data.
+components and their wiring harness and
+• If "NG" is displayed for any of the related ECUs,
+connector.
+something may be wrong with the ECU for which
+"NG" appears, its power supply or grounding sys-
+tem, or a wiring harness or connector between
+the SWS monitor and the ECU. Check the wiring
+harness and connectors associated with the ECU
+and examine the ECU itself.
+TSB Revision

@@ -1,0 +1,26 @@
+BODY ELECTRICAL - SRS AIRBAG SYSTEM BE-149
+2. Wiring Diagram
+SVC1 SVC2
+Occupant Classification SIG1 SIG2 Occupant Classification
+Sensor (Front LH) Sensor (Front RH)
+SGD1 SGD2
+SVC3 SVC4
+Occupant Classification SIG3 SIG4 Occupant Classification
+Sensor (Rear LH) Sensor (Rear RH)
+SGD3 SGD4
+Occupant
+Classification
+Combination Meter
+(cid:1) SRS Warning Light ECU
+CAN
+(CAN No.1 Bus)
+FSP+ FSR+ BSWRBE+
+Front Seat Inner Belt
+Airbag Sensor Assembly FSP- FSR- (cid:1) Seat Belt Buckle Switch
+BGNDRBE-
+(Front Passenger)
+PAON P-AB
+Front Passenger Indicator
+(cid:1) AIRBAG ON Indicator Light DIA SIL
+(cid:1) AIRBAG OFF Indicator Light DLC3
+025BE115P

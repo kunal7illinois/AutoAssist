@@ -1,0 +1,48 @@
+ME–48
+METER – METER / GAUGE SYSTEM
+(c) Turn the tester ON.
+(d) Enter the following menus: DIAGNOSIS / OBD/MOBD /
+METER / ACTIVE TEST.
+(e) Check the values by referring to the values in the table
+below.
+METER:
+Item Test Details Diagnostic Note
+SPEED METER 0, 40, (24), 80 (48), 120 (72), 160 (96), 200 (120) km/h (mph) -
+OK:
+Needle indication is normal.
+NG REPLACE COMBINATION METER
+ASSEMBLY
+OK
+3 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester ON.
+(d) Enter the following menus: DIAGNOSIS / OBD/MOBD /
+METER / DATA TEST.
+(e) Check the values by referring to the values in the table
+below.
+METER:
+Measurement Item/Range
+Item Normal Condition Diagnostic Note
+(Display)
+If data received from the skid
+control ECU exceeds the range
+Vehicle speed/Min.: 0 km/h (0 Almost same as actual speed that can be displayed on the
+SPEED METER
+mph), Max.: 255 km/h (158 mph) (When driving) meter, the meter continues to
+display the maximum value of the
+range.
+OK:
+Vehicle speed displayed on the tester is almost the
+same as the actual vehicle speed measured using a
+speedometer tester (calibrated chassis dynamometer).
+NG Go to step 4
+OK
+ME
+REPLACE COMBINATION METER ASSEMBLY
+4 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester ON.
+(d) Enter the following menus: DIAGNOSIS / OBD/MOBD /
+ABS/TRAC/VSC / DATA LIST.

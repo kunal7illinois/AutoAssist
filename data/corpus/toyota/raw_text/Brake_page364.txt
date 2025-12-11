@@ -1,0 +1,38 @@
+BC–353
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+WIRING DIAGRAM
+Brake Actuator Assembly
+(Skid Control ECU)
+E17
+Steering Angle Sensor
+35
+SHORT ECU IB No. 1 CANH 10 A60 CANH
+BATT
+14
+1 2 3
+CANL A60 CANL
+ECU IG No. 2 9
+IG
+1
+ESS
+2
+IG1 BC
+5 3
+2 1
+E23
+Ignition SW
+AM1
+(*2) (*2)
+4 AM1 IG1 1
+ALT (*1)
+Main Body ECU
+6
+E7 AM1
+3
+AM2 1 IG1D E7
+(*1)
+E6 AM2
+FL MAIN
+Battery *1: with Smart Key System
+*2: without Smart Key System
+C136508E01

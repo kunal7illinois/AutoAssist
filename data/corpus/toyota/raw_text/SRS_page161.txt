@@ -1,0 +1,41 @@
+RS–161
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DTC B1800/51 Short in Driver Side Squib Circuit
+DTC B1801/51 Open in Driver Side Squib Circuit
+DTC B1802/51 Short to GND in Driver Side Squib Circuit
+DTC B1803/51 Short to B+ in Driver Side Squib Circuit
+DESCRIPTION
+The driver side squib circuit consists of the center airbag sensor assembly, the spiral cable and the
+steering pad.
+The circuit instructs the SRS to deploy when deployment conditions are met.
+These DTCs are recorded when a malfunction is detected in the driver side squib circuit.
+DTC No. DTC Detecting Condition Trouble Area
+• The center airbag sensor assembly receives a line
+short circuit signal 5 times in the driver side squib • Instrument panel wire
+circuit during primary check. • Spiral cable
+B1800/51
+• Driver side squib malfunction • Steering pad (Driver side squib)
+• Spiral cable malfunction • Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives an
+open circuit signal in the driver side squib circuit for • Instrument panel wire
+2 seconds. • Spiral cable
+B1801/51
+• Driver side squib malfunction • Steering pad (Driver side squib)
+• Spiral cable malfunction • Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives a
+short circuit to ground signal in the driver side squib • Instrument panel wire
+RS
+circuit for 0.5 seconds. • Spiral cable
+B1802/51
+• Driver side squib malfunction • Steering pad (Driver side squib)
+• Spiral cable malfunction • Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives a
+short circuit to B+ signal in the driver side squib • Instrument panel wire
+circuit for 0.5 seconds. • Spiral cable
+B1803/51
+• Driver side squib malfunction • Steering pad (Driver side squib)
+• Spiral cable malfunction • Center airbag sensor assembly
+• Center airbag sensor assembly malfunction

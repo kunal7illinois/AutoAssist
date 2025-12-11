@@ -1,0 +1,38 @@
+NS–87
+NAVIGATION – NAVIGATION SYSTEM
+DTC 58-40 GPS Antenna Error
+DTC 58-41 GPS Antenna Power Source Error
+DTC 80-40 GPS Antenna Error
+DTC 80-41 GPS Antenna Power Source Error
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+58-40 GPS antenna error
+58-41 Error of the power source to the GPS antenna • Wire harness
+• GPS antenna
+80-40 GPS antenna error • Radio and navigation assembly
+80-41 Error of the power source to the GPS antenna
+INSPECTION PROCEDURE
+HINT:
+After the inspection is completed, clear the DTCs.
+1 CHECK HARNESS AND CONNECTOR (GPS ANTENNA - RADIO AND NAVIGATION
+ASSEMBLY)
+(a) Check that the GPS antenna cord is securely connected
+to the radio and navigation assembly connector.
+OK:
+The cord is securely connected.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+2 REPLACE GPS ANTENNA
+(a) Replace the GPS antenna with a normal one and check
+if the same problem occurs again.
+(1) Clear the DTCs (See page NS-46).
+(2) Recheck for DTCs and check if the same trouble
+occurs again.
+OK:
+Same problem does not occur.
+NS
+NG REPLACE RADIO AND NAVIGATION
+ASSEMBLY
+OK
+END

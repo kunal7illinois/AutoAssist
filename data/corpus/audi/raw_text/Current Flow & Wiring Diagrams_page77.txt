@@ -1,0 +1,68 @@
+Audi TT No. 4 / 5
+Current Flow Diagram
+Automatic gearbox control unit, Tiptronic switch, selector
+lever locked in position P switch, selector lever display
+illumination bulb, selector lever lock solenoid
+E313 Selector lever
+F189 Tiptronic switch
+F319 Selector lever locked in position P switch
+J285 Control unit in dash panel insert
+J527 Steering column electronics control unit
+77 J587 Selector lever sensors control unit
+L101 Selector lever display illumination bulb
+6,0
+ro N110 Selector lever lock solenoid
+SC12 Fuse 12 on fuse holder C
+12 14
+SC14 Fuse 14 on fuse holder C
+SC12 SC14
+T4r 4-pin connector, on selector lever
+10A 5A
+T10p 10-pin connector, on Tiptronic switch
+12a 14a
+4433 T10r 10-pin connector, black, on selector lever
+T20c 20-pin connector, black, connector A, on steering column
+1,5 0,5 electronics control unit
+br ro/ws T32 32-pin connector, blue, on control unit in dash panel insert
+Y26 Selector lever position display
+44 Earth point, lower part of left A-pillar
+384 J527 J285
+T20c/16 T32/17
+88 3366 3399 58s 384 Earth connection 19, in main wiring harness
+• • • CAN bus (data wire)
+0,5 0,5 0,35 0,35 0,35 0,35
+br sw/bl or/sw or/br ge/bl gr
+T
+31
+10p/1 T
+15
+10p/9
+3
+T
+0
+10p/10 T10p/7 T10p/8 T10p/2 T
+58
+1
+s
+0p/5
+J587
+E313 F189
+T10r/1 T10r/2 T10r/3 T10r/4 T10r/5 T10r/6 T10r/7 T10r/8 T10r/9 T10r T4r/1 T4r/2 T4r/3 T4r/4
+/10
+L101
+ws = white
+Y26 N110 F319
+sw = black
+4433
+ro = red
+br = brown
+1,5 gn = green
+br
+bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-004050806
+rs = pink
+Edition 04.2009

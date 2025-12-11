@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (K20Z3) - Civic (Except GX & Si)
+22. Disconnect ECM connector A (44P).
+23. Check for continuity between FTP sensor 3P connector terminal No. 2 and
+body ground.
+Fig. 11: Checking Continuity Between FTP Sensor 3P Connector
+Terminal No. 2 And Body Ground
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES - Repair short in the wire between the ECM (A26) and the FTP sensor,
+then go to step 26.
+NO - Go to step 32.
+24. Turn the ignition switch OFF.
+25. Replace the FTP sensor (see FTP SENSOR REPLACEMENT ).
+26. Reconnect all connectors.
+27. Turn the ignition switch ON (II).
+28. Reset the ECM with the HDS.
+29. Do the ECM idle learn procedure (see ECM IDLE LEARN PROCEDURE ).
+30. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0452 indicated?
+YES - Check for poor connections or loose terminals at the FTP sensor and the
+ECM, then go to step 1.

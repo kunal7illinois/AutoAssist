@@ -1,0 +1,18 @@
+35B-24 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+DTC 41, 42, 43, 44, 45, 46, 47, 48: ABS Solenoid Valve inside Hydraulic Unit (Open Circuit or Short
+circuit) /DTC 51: Valve Power Supply /DTC 53: Pump Motor
+Solenoid Valve and Motor Power Supply Circuit
+RELAY BOX FUSIBLE LINK (3) CONNECTOR: A-02
+BATTERY
+AC101134AM AC001985AD
+CONNECTOR: C-05
+COMBINATION METER
+AC004431AB
+. .
+CIRCUIT OPERATION ABS DTC SET CONDITIONS
+Power is continuously supplied to the ABS-ECU These codes are displayed if the power supply circuit
+through the relay box fusible link number 3 to oper- of solenoid valve or motor is open or shorted.
+ate the solenoid valve and motor.
+.
+TSB Revision

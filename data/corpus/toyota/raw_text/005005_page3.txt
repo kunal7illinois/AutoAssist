@@ -1,0 +1,51 @@
+ES–26
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(b) Monitor Conditions
+(1) Turn the ignition switch OFF and wait for 6
+hours.
+HINT:
+Do not start the engine until checking Readiness
+Monitor status. If the engine is started, the step
+described above must be repeated.
+(c) Monitor Status
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch ON.
+(3) Turn the tester ON.
+(4) Check the Readiness Monitor status displayed
+on the tester.
+ES
+If the status does not switch to COMPL (complete), restart the
+engine, make sure that the preconditions have been met, and
+then perform the Monitor Conditions again.
+4. AIR-FUEL RATIO (A/F) AND HEATED OXYGEN (HO2)
+SENSOR MONITORS (ACTIVE AIR-FUEL RATIO
+CONTROL TYPE)
+Monitor Drive Pattern
+ECT: 75°C (167°F) or more
+Accelerator
+Vehicle Speed
+Pedal
+Accelerator Pedal At least 3 times
+Released
+Depressed
+(Fuel-cut)
+Between 60 and 120 km/h (6)
+(8) (9)
+(38 and 75 mph) 64 km/h (40 mph)
+or more
+(10)
+10 km/h
+(5) (7) (6 mph )
+Idling
+Time
+Warming up 10 minutes 10 seconds 4 seconds
+or more or more or more
+A115374E04
+(a) Preconditions
+The monitor will not run unless:
+– 2 minutes or more have elapsed since the engine
+was started.
+– The Engine Coolant Temperature (ECT) is 75°C
+(167°F) or more.
+– Cumulative driving time at a vehicle speed of 48
+km/h (30 mph) or more exceeds 6 minutes.

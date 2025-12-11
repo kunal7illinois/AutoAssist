@@ -1,0 +1,42 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-513
+SYMPTOM PROCEDURES
+STEP 2. Check the turn-signal light and lighting switch.
+Remove the turn-signal light and the lighting switch.Then check
+continuity between the switch terminals.
+SWITCH POSITION TESTER SPECIFIED
+CONNECTION CONDITION
+OFF 1 − 2 − 3 − 4 − Open circuit
+UPPER SIDE
+5 − 6 − 7 − 8 −
+9 − 10 − 11− 12
+Taillight switch 5 − 9 Less than 2 ohm
+AC003177AB Headlight switch 5 − 7 − 9 Less than 2 ohm
+Passing switch 2 − 12 Less than 2 ohm
+Dimmer switch 2 − 11 − 12 Less than 2 ohm
+Turn-signal light 1 − 2 Less than 2 ohm
+switch (LH)
+Turn-signal light 2 − 3 Less than 2 ohm
+switch (RH)
+Q:Is the turn-signal light and lighting switch in good
+condition?
+YES : Go to Step 3.
+NO : Replace it. The input signal from the column switch
+(turn-signal light and lighting switch) should be able to
+be checked and the functions, which are described in
+the "Technical Description (comment)," should work
+normally.
+STEP 3. Replacement of ECU
+(1) Replace the column switch.
+(2) The input signal from the column switch (turn-signal light
+and lighting switch) should be able to be checked and the
+functions, which are described in the "Technical Description
+(comment)," should work normally.
+Q:Is the input signal from the column switch (turn-signal
+light and lighting switch) input normally?
+YES : There is no action to be taken.
+NO : Replace the ETACS-ECU. The input signal from the
+column switch (turn-signal light and lighting switch)
+should be able to be checked and the functions,
+which are described in the "Technical Description
+(comment)," should work normally.
+TSB Revision

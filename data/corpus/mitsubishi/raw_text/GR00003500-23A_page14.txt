@@ -1,0 +1,51 @@
+23A-14 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+AUTOMATIC TRANSAXLE DIAGNOSIS
+DIAGNOSTIC TROUBLESHOOTING FLOW
+M1231013500148
+Gather information from customer.
+NG
+Check the automatic transmission Replace or replenish the automatic
+fluid. transmission fluid.
+OK
+Verify complaint.
+Communication with the scan
+tool (MUT-II) not possible
+Read the diagnostic trouble code. Communication with the scan tool
+(MUT-II) not possible in Symptom
+Chart.
+Diagnostic trouble code No diagnostic trouble code
+displayed. displayed.
+Erase the diagnostic trouble code. Check symptom.
+Perform the repair.
+Abnormality exists (no diagnostic
+trouble code)
+Road test
+Abnormality exists No abnormality
+(diagnostic trouble
+Recheck diagnostic trouble codes
+code present)
+which were read before road test.
+Diagnostic trouble code No diagnostic trouble code
+displayed. displayed.
+To DIAGNOSTIC TROUBLE CODE To SYMPTOM CHART
+CHART
+Search for cause.
+Found Not found
+Repair INTERMITTENT MALFUNCTIONS
+(Refer to GROUP 00, How to Use NG
+Troubleshooting/Inspection
+Service Points.)
+OK
+NG OK
+Confirmation test (road test) Completed
+AC102288
+INTRODUCTION TO A/T DIAGNOSIS
+M1231012300130
+The automatic transaxle can exhibit any of the follow- The following items are suspected as causes for the
+ing symptoms: noise or vibration is generated, A/T INVECS-II troubles: malfunctions of the PCM, the
+fluid leaks, the vehicle does not move forward or sensors, the switches, the harness or connectors.
+backward. The cases of these symptoms could come
+from: Incorrect mounting, the A/T fluid may be low, or
+a component of the transaxle may be faulty.
+TSB Revision

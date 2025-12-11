@@ -1,0 +1,45 @@
+Audi TT No. 42 / 6
+Current Flow Diagram
+Automatic glow period control unit, glow plugs fuse, glow
+plugs
+J179 Automatic glow period control unit
+Q10 Glow plug 1
+Q11 Glow plug 2
+Q12 Glow plug 3
+Q13 Glow plug 4
+S125 Glow plug fuse
+T14 14-pin connector, black, on front left in engine compartment
+7733
+* Relay and fuse carrier in electronics box engine compartment
+6,0
+ro
+1
+A ✱
+S125
+50A
+1A 4488 7799 8800
+6,0 0,5 0,35 0,35
+ro/ws sw/ge li/gr li/ge
+11/30 6 9 10
+J179 5 ✱
+7/31 1 2 3 4
+0,5 2,5 2,5 2,5 2,5
+br sw/ro sw/bl sw/gn sw/gr
+7722
+T14/8 T14/7 T14/6 T14/5
+2,5 2,5 2,5 2,5
+sw/ro sw/bl sw/gn sw/gr
+Q10 Q11 Q12 Q13
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 or = orange
+8J0-042060409
+rs = pink
+Edition 09.2009

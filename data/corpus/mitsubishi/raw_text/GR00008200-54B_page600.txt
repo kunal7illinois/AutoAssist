@@ -1,0 +1,41 @@
+54B-600 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTORS <3.0L ENGINE WITH CONNECTOR: C-28
+VARIABLE INDUCTION SYSTEM>: B-36, B-39
+B-36
+B-39
+AC106471AI AC106557AD
+CONNECTOR: C-77
+CONNECTOR: C-118
+JUNCTION BLOCK
+(REAR VIEW)
+AC106473AV AC106481AE
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the signal is not normal, the wiper interval, which is
+The ETACS-ECU controls the windshield intermittent
+described in "CIRCUIT OPERATION", will not be
+wiper interval according to the vehicle speed sensor
+changed correctly. If the signal is not normal, the
+signal.
+vehicle speed sensor or the ETACS-ECU may be
+defective.
+.
+.
+TROUBLESHOOTING HINTS
+• Malfunction of the vehicle speed sensor
+• Malfunction of the ETACS-ECU
+• Damaged harness wipes or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check that the combination meter (speedometer)
+works normally.
+Q:Does the combination meter (speedometer) work
+normally?
+YES : Go to Step 2.
+NO : Refer to Inspection Procedure O-8 "ETACS-ECU
+does not receive a signal from the windshield mist
+switch P.54B-511."
+TSB Revision

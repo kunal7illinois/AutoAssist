@@ -1,0 +1,13 @@
+RS–233
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Diagnosis Circuit
+DESCRIPTION
+DTC output mode is set by connecting terminals TC and CG of the DLC3.
+DTCs are displayed by blinking of the SRS warning light.
+HINT:
+• When each warning light stays blinking, a ground short in the wiring of terminal TC of the DLC3 or an
+internal ground short in each ECU is suspected.
+• A DTC output mode signal is transmitted through CAN communication system to each ECU including
+the center airbag sensor assembly. Thus when all systems do not enter DTC output mode, there may
+be an ECM malfunction.
+RS

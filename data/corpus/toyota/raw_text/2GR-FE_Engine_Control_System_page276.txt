@@ -1,0 +1,52 @@
+ES–276
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+1. DTC P0450: Pressure sensor voltage abnormal fluctuation
+If the pressure sensor output voltage rapidly fluctuates between less than 0.45 V and more than 4.9 V,
+the ECM interprets this as an open or short circuit malfunction in the pressure sensor or its circuit, and
+stops the EVAP (Evaporative Emission) system monitor. The ECM then illuminates the MIL and sets
+the DTC (1 trip detection logic).
+Pressure Sensor Specification:
+Output Voltage
+Malfunction Area
+4.900 V
+ES 4.150 V
+Usable Range
+1.425 V
+Malfunction Area
+0.450 V
+Pressure
+60 110 kPa
+(450 ) (825) (mmHg)
+HINT:
+Standard atmospheric Pressure is
+101.3 kPa
+A140644E01
+2. DTC P0451: Pressure sensor noising or stuck
+If the pressure sensor output voltage fluctuates rapidly for 10 seconds, the ECM stops the EVAP
+system monitor. The ECM interprets this as noise from the pressure sensor, and stops the EVAP
+system monitor. The ECM then illuminates the MIL and sets the DTC.
+Alternatively, if the sensor output voltage does not change for 10 seconds, the ECM interprets this as
+the sensor being stuck, and stops the monitor. The ECM then illuminates the MIL and sets the DTC.
+(Both the malfunctions are detected by 2 trip detection logic).
+3. DTC P0452: Pressure sensor voltage low
+If the pressure sensor output voltage is below 0.45 V, the ECM interprets this as an open or short circuit
+malfunction in the pressure sensor or its circuit, and stops the EVAP system monitor. The ECM then
+illuminates the MIL and sets the DTC (1 trip detection logic).
+4. DTC P0453: Pressure sensor voltage high
+If the pressure sensor voltage output is 4.9 V or more, the ECM interprets this as an open or short
+circuit malfunction in the pressure sensor or its circuit, and stops the EVAP system monitor. The ECM
+then illuminates the MIL and sets the DTC (1 trip detection logic).
+MONITOR STRATEGY
+P0450: Pressure sensor chattering
+P0451: Pressure sensor noise
+Related DTCs P0451: Pressure sensor stuck
+P0452: Pressure sensor low voltage
+P0453: Pressure sensor high voltage
+Required Sensors/Components Pump module
+Once per driving cycle: P0451 sensor stuck
+Frequency of Operation
+Continuous: P0451 sensor noising, P0450, P0452 and P0453
+0.5 seconds: P0450, P0452, P0453
+Duration
+Within 15 seconds: P0451

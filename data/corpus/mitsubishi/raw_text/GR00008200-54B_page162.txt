@@ -1,0 +1,53 @@
+54B-162 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE E-2: Keyless Entry System: The Dome Light, the Turn-signal Lights and
+the Horn do not Operate Through the Answerback Function.
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+The hazard warning lights and horn answerback
+The ETACS-ECU operates the following functions
+functions can be disabled or enabled. (These func-
+when it receives lock or unlock signal from the trans-
+tions can be disabled.) However, the dome light
+mitter:
+• Dome light answerback function answerback function can not be disabled.
+• Hazard warning lights answerback function
+.
+• Horn answerback function TROUBLESHOOTING HINTS
+• Malfunction of the hazard warning lights
+. • Malfunction of the theft-alarm horn
+• Malfunction of the horn
+• Malfunction of the dome light
+• Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the keyless entry system.
+Q:Does the keyless entry system work normally?
+YES : Go to Step 2.
+NO : Refer to Inspection Procedure E-1 "Keyless entry
+system does not work normally P.54B-155."
+STEP 2. Check the answerback adjustment function.
+Check the answerback functions. (Refer to GROUP 42, Key-
+less Entry System − On-vehicle Service − Enabling/disabling
+the Answerback Function P.42-82.)
+Q:Does the answerback function work normally?
+YES : No action to be taken.
+NO : Go to Step 3.
+STEP 3. Check trouble symptom.
+Q:Which answerback function is defective?
+Only the dome light : Go to Step 4.
+Only the turn-signal lights : Go to Step 5.
+Only the horns : Go to Step 6.
+None of the dome light, the turn-signal lights, and the
+horn : Replace the ETACS-ECU. Check that the
+answerback functions work normally.
+STEP 4. Check the dome light.
+Q:Does the dome light illuminate normally?
+YES : Replace the ETACS-ECU. Check that the
+answerback functions work normally.
+NO : Refer to Inspection Procedure M-1 "Dome light does
+not illuminate P.54B-400."
+TSB Revision

@@ -1,0 +1,21 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+VSA Modulator-control UnitECM
+CAN-L 1 37
+CAN-H 15 36
+Fig. 49: Checking Continuity Between VSA Modulator-Control Unit 37P
+Connector Terminal And ECM Connector A (44P) Terminal
+Is there continuity?
+YES -Check for loose terminals in ECM connector A (44P) and at the VSA
+modulator-control unit 37P connector. If necessary, substitute a known-good
+ECM, then go to step 1 and recheck. If no DTCs are indicated, replace the
+original ECM (see ECM REPLACEMENT ). If DTCs are indicated, replace
+the VSA modulator-control unit (see VSA MODULATOR-CONTROL
+UNIT REMOVAL AND INSTALLATION ).
+NO -Repair open in the wire between the ECM and the VSA modulator-
+control unit.
+DTC 86-31: F-CAN COMMUNICATION WITH GAUGE CONTROL MODULE MALFUNCTION
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then turn it ON (II) again.

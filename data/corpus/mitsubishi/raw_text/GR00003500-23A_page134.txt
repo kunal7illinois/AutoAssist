@@ -1,0 +1,25 @@
+23A-134 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+Q:Are the connectors in good condition?
+CONNECTOR: C-28
+YES : Go to Step 7.
+NO : Repair or replace the defective connector(s). Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2.
+C-28
+AC106611AB
+STEP 7. Check harness for damage between stoplight
+switch connector C-03 terminal 1 and PCM connector C-61
+<2.4L Engine> or C-63 <3.0L Engine> terminal 123.
+Q:Is the harness wire in good condition?
+CONNECTOR: C-03
+YES : Go to Step 9.
+C-03
+NO : Repair it.
+AC001729AV
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE>
+PCM
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+TSB Revision

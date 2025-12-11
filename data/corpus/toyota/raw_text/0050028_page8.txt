@@ -1,0 +1,26 @@
+ES–143
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+ECM
+Integration Relay
+Heated Oxygen Sensor
+EFI MAIN
++B HT1B HT1B
+EFI MAIN EFI No. 1
+Shielded
+E2 OX1B
+OX1B
+P/I
+ES
+EX1B
+FL MAIN
+MREL
+Battery
+A127254E01
+CONFIRMATION DRIVING PATTERN
+HINT:
+• This confirmation driving pattern is used in the "PERFORM CONFIRMATION DRIVING PATTERN"
+procedure of the following diagnostic troubleshooting procedure.
+• Performing this confirmation pattern will activate the Heated Oxygen (HO2) sensor monitor. (The
+catalyst monitor is performed simultaneously.) This is very useful for verifying the completion of a
+repair.

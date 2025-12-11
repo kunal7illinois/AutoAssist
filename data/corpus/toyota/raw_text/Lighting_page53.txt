@@ -1,0 +1,47 @@
+LI–49
+LIGHTING – LIGHTING SYSTEM
+4 INSPECT INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY
+(a) Measure the voltage according to the value(s) in the
+Instrument Panel J/B Assembly table below.
+Standard voltage
+ID IC
+Tester Connection Condition Specified Condition
+Light control switch in
+IC-1 - Body ground HEAD, front fog light Below 1 V → 10 to 14 V
+switch OFF → ON
+Light control switch in
+ID-5 - Body ground HEAD, front fog light Below 1 V → 10 to 14 V
+switch OFF → ON
+E121539E01
+OK REPAIR OR REPLACE HARNESS OR
+CONNECTOR (INSTRUMENT PANEL J/B
+ASSEMBLY - BODY GROUND)
+NG
+5 INSPECT INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY
+(a) Measure the voltage according to the value(s) in the
+Instrument Panel J/B Assembly table below.
+Standard voltage
+IL
+Tester Connection Condition Specified Condition
+Light control switch
+IL-3 - Body ground Below 1 V → 10 to 14 V
+OFF → TAIL
+NG REPLACE INSTRUMENT PANEL JUNCTION
+BLOCK ASSEMBLY
+E121527E01
+OK
+6 CHECK HARNESS AND CONNECTOR (BETWEEN CONNECTOR IL-3 AND CONNECTOR
+LI
+IL-4)
+(a) Measure the voltage according to the value(s) in the
+Instrument Panel J/B Assembly table below.
+Standard voltage
+IL
+Tester Connection Condition Specified Condition
+Light control switch
+IL-4 - Body ground Below 1 V → 10 to 14 V
+OFF → TAIL
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E121527E01
+OK

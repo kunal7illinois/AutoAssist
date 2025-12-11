@@ -1,0 +1,40 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+DIAGNOSTIC TROUBLE CODE (DTC)
+The memory can hold all DTCs. However, when the same DTC is detected
+(cid:1)
+more than once, the more recent DTC is written over the earlier one. Therefore,
+when the same problem is detected repeatedly, it is memorized as a single
+DTC.
+The DTCs are indicated in the order they occur.
+(cid:1)
+The DTCs are memorized in the EEPROM. Therefore, the memorized DTCs
+(cid:1)
+cannot be canceled by disconnecting the battery. Do the specified procedures
+to clear the DTCs.
+SELF-DIAGNOSIS
+Self-diagnosis can be classified into two categories:
+(cid:1)
+Initial diagnosis: Done right after the ignition switch is turned ON (II) and
+(cid:2)
+until the ABS indicator goes off.
+Regular diagnosis: Done right after the initial diagnosis until the ignition
+(cid:2)
+switch is turned OFF.
+When the system detects a problem, the ABS modulator-control unit shifts to
+(cid:1)
+fail-safe mode.
+KICKBACK
+The pump motor operates when the ABS modulator-control unit is functioning, and
+the fluid in the reservoir is forced out to the master cylinder, causing kickback at the
+brake pedal.
+PUMP MOTOR
+The pump motor operates when the ABS modulator-control unit is functioning.
+(cid:1)
+The ABS modulator-control unit checks the pump motor operation during
+(cid:1)
+regular diagnosis when the vehicle is driven over 10 mph (15 km/h) the first
+time after the ignition switch is turned ON (II). You may hear the motor
+operate at this time, but it is normal.
+BRAKE FLUID REPLACEMENT/AIR BLEEDING

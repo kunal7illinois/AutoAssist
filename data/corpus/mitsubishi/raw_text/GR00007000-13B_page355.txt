@@ -1,0 +1,78 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-355
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+• The ECM <M/T> or PCM <A/T> determines if • The engine coolant temperature 36°C (97°F) or
+there is leak in the fuel system by measuring the less when the engine is started.
+change of vacuum inside the fuel tank.
+Test Conditions B: For Test to Run
+• The test is stopped when fuel vapor pressure is
+• The fuel temperature is 36°C (97°F) or less.
+judged as too high.
+• Engine coolant temperature is less than 20°C
+(68°F).
+.
+DTC SET CONDITIONS • Barometric pressure is above 76 kPa (11 psi).
+Remaining fuel amount is 15 − 40 percent (fuel level • Fuel tank differential pressure sensor output volt-
+sensor output voltage is 1.4 − 2.4 volts)
+age is 1 to 4 volts.
+Test Conditions A: At Start up
+Test Conditions C: For Test to Stop
+• Intake air temperature is 36°C (97°F) or less • Intake air temperature is less than −10°C (14°F).
+when the engine is started. • When the evaporative emission purge solenoid
+• The engine coolant temperature 36°C (97°F) or
+and evaporative emission ventilation solenoid are
+less when the engine is started.
+closed, the pressure rises higher 324 Pa (0.047
+Test Conditions B: For Test to Run psi).
+• The fuel temperature is 36°C (97°F) or less.
+Judgment Criteria
+• With in 800 seconds after the engine is started. • Internal pressure of the fuel tank has changed
+• Engine coolant temperature is higher than 60°C
+more than 1.9 kPa (0.28 psi) in 128 seconds after
+(140°F).
+the tank and vapor line were closed.
+• Power steering pressure switch: "OFF"
+NOTE: The monitoring time depends on the fuel
+• Barometric pressure is above 76 kPa (11 psi).
+level and the temperature in the fuel tank (10 − 14
+• Fuel tank differential pressure sensor output volt-
+minutes).
+age is 1 to 4 volts.
+• Vehicle speed is 20 km/h (12.4 mph) or more.
+.
+TROUBLESHOOTING HINTS
+Test Conditions C: For Test to Stop
+• Intake air temperature is less than −10°C (14°F). The most likely causes for this code to be set
+• When the evaporative emission purge solenoid are:
+• Loose fuel cap.
+and evaporative emission ventilation solenoid are
+• Fuel cap relief pressure is incorrect.
+closed, the pressure rises higher 451 Pa (0.065
+• Evaporative emission canister seal is faulty.
+psi).
+• The pressure fluctuation width is higher than 647 • Fuel tank, purge line or vapor line seal failed.
+• Evaporative emission ventilation solenoid failed.
+Pa (0.094 psi).
+Judgment Criteria .
+OVERVIEW OF TROUBLESHOOTING
+• Internal pressure of the fuel tank has changed • To determine the cause of DTC P0442, a perfor-
+more than 785 Pa (0.114 psi) in 20 seconds after
+mance test is needed. The performance test uses
+the tank and vapor line were closed.
+a mechanical vacuum gauge and scan tool
+NOTE: The monitoring time depends on the fuel MB991502 set on the fuel tank differential pres-
+level and the temperature in the fuel tank (75 − 125 sure sensor (TANK PRES SNER 73.) The
+seconds). mechanical gauge reading is used to verify scan
+tool MB991502 reading. A comparison of the
+.
+DTC SET CONDITIONS mechanical gauge to scan tool MB991502 deter-
+Remaining fuel amount is 40 − 85 percent (fuel level mines the problem in the system.
+sensor output voltage is 2.4 − 3.7 volts) • Prior to doing the performance test, several sim-
+ple inspections are needed to exclude some pos-
+Test Conditions A: At Start up
+sibilities of the symptom.
+• Intake air temperature is 36°C (97°F) or less
+when the engine is started.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

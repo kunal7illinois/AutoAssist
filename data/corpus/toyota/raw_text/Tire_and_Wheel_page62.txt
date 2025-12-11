@@ -1,0 +1,46 @@
+TW–61
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+HINT:
+• It is necessary to register IDs when replacing the tire
+pressure warning ECU (See page TW-15).
+• Read the IDs on the DATA LIST before removing the
+tire pressure warning ECU. Register the ID in the new
+tire pressure warning ECU.
+NG REPLACE TIRE PRESSURE WARNING ECU
+OK
+END
+5 CHECK HARNESS AND CONNECTOR (ECU - RECEIVER)
+TW
+(a) Disconnect the E60 ECU connector.
+Wire Harness Side Connector Front View:
+(b) Disconnect the N20 receiver connector.*1
+Tire Pressure Warning ECU (c) Disconnect the N34 receiver connector.*2
+(d) Measure the resistance according to the value(s) in the
+table below.
+RF5V Standard resistance
+E60 Tester Connection Specified Condition
+E60-11 (GND2) - N20-4 (GND)*1
+E60-11 (GND2) - N34-4 (GND)*2
+GND2 Below 1 Ω
+E60-6 (RF5V) - N20-5 (+5V)*1
+Tire Pressure Warning Antenna E60-6 (RF5V) - N34-5 (+5V)*2
+and Receiver
+HINT:
+• *1: TMC Made
+• *2: TMMK Made
+*1 N20
+Result
+*2 N34 +5V Result Proceed to
+OK A
+RDA
+OK (When troubleshooting
+accordance with PROBLEM B
+E129461E02
+SYMPTOMS TABLE)
+NG C
+A REPLACE TIRE PRESSURE WARNING ECU
+C REPAIR OR REPLACE HARNESS OR
+CONNECTOR AND REPLACE TIRE
+PRESSURE WARNING ECU
+B
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

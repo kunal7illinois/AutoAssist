@@ -1,0 +1,37 @@
+V1.2 User Guide 3/19/09 V1.2 User Guide 3/19/09
+The BRT-DBL4 will produce a single file for each type of TPM Part DISPLAY AREA (continued)
+that has been read, and a separate record within that file for
+each unique TPM of that type. 4 USB Indicator
+The USB indicator becomes visible when it detects 5 volts on the
+While the BRT-DBL4 is in its MSD mode, menu functions are USB port, i.e. connecting the BRT-DBL4 to your computer via the
+disabled. supplied USB lead. The indicator has two different states:
+1. Initialization state
+Viewing the Audit Files
+To begin using the Auditing System ensure that the tool has some This is the first state that the BRT-DBL4 enters when the USB
+data available, indicated by the Data Indicator icon, and then lead is connected. This indicates that the BRT-DBL4 is trying
+connect the BRT-DBL4 to a PC via its USB lead. to establish communications with the PC. If this indicator
+remains on for a prolonged amount of time, then remove
+The PC will begin communicating with the BRT-DBL4. Once the USB lead and check the connections.
+communication is established the BRT-DBL4 will act as a MSD. If the
+MSD does not automatically open its explorer window on the PC, 2. Communication state
+then the user may browse for the newly connected device
+manually. This indicates that the BRT-DBL4 has established
+communication with the PC and can now be viewed as a
+Once the explorer window is open, you may view a file by right Mass Storage Device.
+clicking on the file and selecting Open from the pop-up menu.
+When the USB lead is removed the USB icon will disappear.
+Audit File Presentation
+The Data presented is in a HTML form format that displays not only
+5 Menu Item Indicator
+information regarding the TPMs but also publishes the Date of the
+The Menu Item Indicator is provided to allow the user to determine
+Test and allows for the Tester’s name to be entered.
+where he currently is within a menu page.
+The indicator is divided into two parts. The first number, before the
+Saving the Audit File:
+forward slash (/), indicates what Item number is currently selected
+To save the audit file, select “file’ “saveas” and save the file as a
+in the Menu Page, and the second number, the one following the
+TXT file. This will allow you to recall the data later.
+slash, indicates the total number of Items in the Menu Page.
+20 9

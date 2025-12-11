@@ -1,0 +1,50 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• A/C switched off.
+• Ground connections between engine/transmission/chassis
+OK.
+• Ignition switched off.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Connect the scan tool.
+– Perform a road test with a vehicle speed greater than 5 Km/h.
+– Using the scan tool, Check the vehicle speed:
+Diagnostic text Specified value
+Vehicle Speed Approx. Vehicle Speed
+– Compare the vehicle speed on the scan tool to the Speedom‐
+eter -G21- .
+Specified value: a difference of no greater than 10%.
+If the specified value was not obtained or no speed was displayed:
+– For models with ABS, check the wheel speed signal in the ABS
+controller with a scan tool. If the signal is not present or a code
+is set, refer to the ABS diagnostics in the Repair Manual.
+– On other models check the wiring from the Engine Control
+Module (ECM) -J623- to the Instrument Cluster Control Mod‐
+ule -J285- for an open circuit, Short to Battery (+), or to
+Ground.
+– Check the w i ring connection for damage, corrosion, loose or
+broken termi n als.
+– If necessary, repair the faulty wiring connection.
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.43 CAN Bus Terminal Resistance, Check‐
+ing
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Wiring diagram.
+195
+3. Diagnosis and Testing

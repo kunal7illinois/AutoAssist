@@ -1,0 +1,43 @@
+35C-4 TRACTION CONTROL SYSTEM (TCL)
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+TCL DIAGNOSTIC TROUBLE CODE DETECTION CONDITIONS
+M1354003500082
+TCL diagnostic trouble codes (TCL DTCs) are set erased, you should recreate the TCL DTC set condi-
+under different conditions, depending on the mal- tions. Depending on the detection timing and set
+function detected. Most TCL DTCs will only be set conditions for the specific TCL DTC, you must either
+during vehicle operation. Some TCL DTCs will also drive the vehicle or turn the engine off and restart it.
+be set during the TCL self-check immediately after To set the proper conditions for that DTC again, refer
+the engine is started. When you check if an TCL DTC to "TCL DTC SET CONDITIONS" for each TCL DTC
+will be displayed again after the DTC has been that you are trying to reset.
+TCL DIAGNOSTIC TROUBLESHOOTING STRATEGY
+M1354000400086
+Refer to GROUP 35B, Diagnosis − ABS Diagnostic
+Troubleshooting Strategy P.35B-3.
+TCL TROUBLE CODE DIAGNOSIS
+M1354000500094
+Retrieving TCL Diagnostic Trouble Codes
+.USING SCAN TOOL MB991502
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOOK" (OFF) position before con-
+necting or disconnecting the scan tool MB991502.
+1. Connect scan tool MB991502 to the data link connector.
+2. Turn the ignition switch to the "ON" position.
+3. Use scan tool MB991502 to check for TCL diagnostic
+trouble codes.
+4. Turn the ignition switch to the "LOCK" (OFF) position.
+5. Disconnect scan tool MB991502.
+16 PIN
+MB991502 AC001252AF
+.
+USING THE ABS WARNING LIGHT AND SPECIAL TOOL
+MB991529
+NOTE: The TCL system is controlled by the ABS-ECU. TCL
+diagnostic trouble codes are also indicated by flashing of the
+ABS warning light.
+Required Special Tool:
+• MB991529: Diagnostic Trouble Code Check Harness
+TSB Revision

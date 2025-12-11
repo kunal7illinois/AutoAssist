@@ -1,0 +1,39 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-295
+SYMPTOM PROCEDURES
+STEP 17. Check the wiring harness between front
+combination light (LH) connector A-26 (terminal 3) and
+front-ECU connector A-10X (terminal 8).
+NOTE: Also check joint connector C-77 and intermediate con-
+CONNECTOR: A-26
+nector C-89. If joint connector C-77 or intermediate connector
+C-89 is damaged, repair or replace the connector as described
+in GROUP 00E, Harness connector Inspection P.00E-2.
+DEVICE SIDE
+1 2 3
+AC106465AE
+CONNECTOR: A-10X
+FRONT-ECU
+DEVICE SIDE A-10X
+1 2 3 4 5 6 7 8 91011
+AC106535AE
+Q:Is the wiring harness between front combination light
+CONNECTOR: C-77
+(LH) connector A-26 (terminal 3) and front-ECU
+connector A-10X (terminal 8) in good condition?
+YES : Replace the position light socket (LH). Check that the
+position light (LH) illuminates normally.
+NO : Repair the wiring harness. Check that the position
+light (LH) illuminates normally.
+DEVICE SIDE
+1 2 3 4 5 6 7 8 91011
+1213141516171819202122
+2324252627282930313233
+AC106473AL
+CONNECTOR: C-89
+CONNECTOR BLOCK (LH)
+1 2 3 4 5 6 7 8 910 111213
+141516171819202122232425
+262728 29 30 31 38
+3233 34 35 36 37
+AC106477AC
+TSB Revision

@@ -1,0 +1,36 @@
+AV–135
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+(1) Disconnect all connectors between the stereo
+component amplifier and the component shown by
+the sub-code.
+(2) Check for an open or short in the AVC-LAN circuit
+between the stereo component amplifier and the
+component shown by the sub-code.
+OK:
+There is no open or short circuit.
+AVC-LAN WIRING DIAGRAM
+Premium Model:
+5 8
+ATX+ F26 F19 TX+
+Stereo Component
+Radio Receiver
+Amplifier (*2)
+(*1)
+15 7
+ATX- F26 F19 TX-
+*1: Master Unit
+*2: Slave Unit
+E111831E15
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+5 REPLACE COMPONENT SHOWN BY SUB-CODE
+(a) Replace the component shown by the sub-code with a
+normal one and check if the same problem occurs again.
+OK:
+Same problem does not occur.
+NG REPLACE STEREO COMPONENT
+AMPLIFIER
+AV
+OK
+END

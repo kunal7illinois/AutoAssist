@@ -1,0 +1,31 @@
+ES–406
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+8 CHECK HARNESS AND CONNECTOR (VSV FOR ACM - ENGINE JUNCTION BLOCK (EFI
+RELAY))
+(a) Check the wire harness between the VSV for ACM and
+Wire Harness Side: the EFI relay.
+(1) Disconnect the C34 VSV connector.
+(2) Remove the engine room junction block.
+(3) Measure the resistance between the wire harness
+VSV for ACM Connector
+side connectors.
+Standard resistance (Check for open)
+Tester Connections Specified Condition
+C34 1 2
+VSV for ACM (C34-1) - 1E-6 (Engine room relay
+Below 1 Ω
+block)
+ES
+Standard resistance (Check for short)
+Tester Connections Specified Condition
+VSV for ACM (C34-1) or 1E-6 (Engine room relay
+10 kΩ or higher
+block) - Body ground
+Engine Room Junction Block (4) Reconnect the VSV for ACM connector.
+(5) Reinstall the engine room junction block.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+1E
+Engine Room Rleay Block
+A140658E01
+OK

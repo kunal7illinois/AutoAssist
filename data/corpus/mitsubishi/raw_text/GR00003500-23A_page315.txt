@@ -1,0 +1,20 @@
+AUTOMATIC TRANSAXLE 23A-315
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 17. Check the power supply voltage at Park/Neutral
+position switch connector B-41.
+(1) Disconnect connector B-41 and measure at the harness
+CONNECTOR: B-41
+B-41 side.
+(2) Turn the ignition switch to the "ON" position.
+DIPSTICK
+AC001844AK
+(3) Measure the voltage between terminal 8 and ground.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+HARNESS
+CONNECTOR: B-41
+Q:Is the voltage normal?
+6 5 4 3 2 1 YES : Go to Step 19.
+10 9 8 7 NO : Go to Step 18.
+AC102574AB
+TSB Revision

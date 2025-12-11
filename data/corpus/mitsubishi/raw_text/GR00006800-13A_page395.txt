@@ -1,0 +1,41 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-395
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 9. Check for open circuit and short circuit to ground
+between idle air control motor connector B-34 and ECM
+connector C-49 <M/T> or PCM connector C-50 <A/T>.
+a. Idle air control motor connector B-34 terminal 1 and ECM
+CONNECTOR:B-34
+connector C-49 terminal 4 <M/T> or PCM connector C-50
+IDLE AIR
+terminal 14 <A/T>.
+CONTROL MOTOR
+b. Idle air control motor connector B-34 terminal 3 and ECM
+connector C-49 terminal 17 <M/T> or PCM connector C-50
+terminal 28 <A/T>.
+c. Idle air control motor connector B-34 terminal 4 and ECM
+connector C-49 terminal 5 <M/T> or PCM connector C-50
+terminal 15 <A/T>.
+ACX02519AI d. Idle air control motor connector B-34 terminal 6 and ECM
+connector C-49 terminal 18 <M/T> or PCM connector C-50
+CONNECTORS:C-49<M/T>,C-50<A/T>
+terminal 29 <A/T>.
+Q:Is the harness wire in good condition?
+ECM<M/T>
+YES : Replace the ECM or PCM. Then go to Step 14.
+OR
+PCM<A/T> NO : Repair it. Then go to Step 14.
+C-49,C-50
+AK000280BC
+STEP 10. Check connector C-49 at ECM <M/T> or
+connector C-50 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-49<M/T>,C-50<A/T>
+YES : Go to Step 11.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 14.
+OR
+PCM<A/T>
+C-49,C-50
+AK000280BC
+TSB Revision

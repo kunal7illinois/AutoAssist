@@ -1,0 +1,55 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-657
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TERMINAL TERMINAL INSPECTION ITEM INSPECTION CONDITION (ENGINE CONDITION) NORMAL CONDITION
+NO. <M/T> NO. <A/T>
+26 26 Left bank heated Engine: warming up, idling 1 V or less
+oxygen sensor
+Engine: Revving B+
+heater (rear)
+27 27 Right bank heated Engine: warming up, idling 1 V or less
+oxygen sensor
+Engine: Revving B+
+heater (rear)
+16 34 Evaporative Ignition switch: "ON" B+
+emission purge Engine: warm up, 3,000 r/min 3 − 13 V
+solenoid
+35 35 Evaporative Ignition switch: "ON" B+
+emission
+Carry out the Actuator test to drive the solenoid For approx. six
+ventilation solenoid
+valve seconds 1 V or
+less
+44 44 Engine coolant Ignition switch: When engine coolant 3.9 − 4.5 V
+temperature "ON" temperature is −20°C (−4°F)
+sensor When engine coolant 3.2 − 3.8 V
+temperature is 0°C (32°F)
+When engine coolant 2.3 − 2.9 V
+temperature is 20°C (68°F)
+When engine coolant 1.3 − 1.9 V
+temperature is 40°C (104°F)
+When engine coolant 0.7 − 1.3 V
+temperature is 60°C (140°F)
+When engine coolant 0.3 − 0.9 V
+temperature is 80°C (176°F)
+43 45 Crankshaft Engine: cranking 0.4 − 4.0 V
+position sensor Engine: idling 1.5 − 2.5 V
+42 46 Sensor supplied Ignition switch: "ON" 4.5 − 5.5 V
+voltage
+47 41 Power supply Ignition switch: "ON" B+
+59 47
+57 49 MFI relay (power Ignition switch: "OFF" B+
+supply)
+Ignition switch: "ON" 1V or less
+96 51 Fuel temperature Ignition switch: When fuel temperature is 2.7 − 3.1 V
+sensor "ON" 0°C (32°F)
+When fuel temperature is 2.1 − 2.5 V
+20°C (68°F)
+When fuel temperature is 1.6 − 2.0 V
+40°C (104°F)
+When fuel temperature is 0.8 − 1.2 V
+80°C (176°F)
+54 52 Power steering Engine: warming When steering wheel is B+
+pressure switch up, idling stationary
+When steering wheel is 1 V or less
+turned
+TSB Revision

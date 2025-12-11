@@ -1,0 +1,47 @@
+TW–26
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+TERMINALS OF ECU
+HINT:
+Inspect the connectors from the back side while the
+connectors are connected.
+E60
+E129452E01
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+TW
+IG (E60-7) - GND (E60-9) B - W-B IG power source Ignition switch on (IG) 10 to 16 V
+Pulse generation (See
+SPD (E60-2) - GND (E60-9) V - W-B Vehicle speed signal Ignition switch on (IG)
+waveform 1)
+• Ignition switch on (IG)
+Diagnostic communication Pulse generation (See
+SIL (E60-10) - GND (E60-9) GR - W-B • Intelligent tester is
+terminal waveform 2)
+connected to DLC3
+Tire pressure warning light
+IND (E60-5) - GND (E60-9) L - W-B Ignition switch on (IG) 10 to 16 V
+signal
+Tire pressure warning
+RF5V (E60-6) - GND (E60-9) LC - W-B antenna and receiver Ignition switch on (IG) 4.5 to 5.5 V
+power source
+• Ignition switch on (IG)
+Tire pressure warning
+CLSW (E60-1) - GND (E60-9) O - W-B • Tire pressure warning 8 to 15V
+reset switch
+reset switch on
+• Ignition switch on (IG)
+Tire pressure warning • The Tire pressure
+RDA (E60-12) - GND (E60-9) G - W-B antenna and receiver warning antenna and 9 to 16 V
+signal receiver is not
+connected
+Tire pressure warning
+GND2 (E60-11) - GND (E60-9) BR - W-B antenna and receiver Always Below 1 Ω
+ground
+1. Waveform 1 (Reference)
+(a) Waveform
+Item Contents
+Terminal SPD - GND
+Tool setting 5V/DIV, 200ms/DIV.
+While driving at approximately 12 mph
+GND Vehicle condition
+(20 km/h).
+F047507E05

@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+seat position sensor (see DRIVER'S SEAT POSITION SENSOR
+REPLACEMENT). If the problem is still present, replace the SRS unit (see
+SRS UNIT REPLACEMENT).
+NO -Short in the floor wire harness, driver's seat wire harness (with heated
+seat) or the seat position sensor harness; replace the faulty harness.
+DTC 81-61, 85-61: NO SIGNAL FROM THE ODS UNIT; DTC 81-62, 85-62: RESPONSE DATA
+ERROR FROM THE ODS UNIT
+NOTE: Before doing this troubleshooting procedure, review SRS
+Precautions and Procedures (see PRECAUTIONS AND
+PROCEDURES) and General Troubleshooting Information
+(see GENERAL TROUBLESHOOTING INFORMATION).
+1. Make sure nothing is on the front passenger's seat.
+2. Clear the DTC memory (see CLEAR THE DTC MEMORY WITH THE
+HDS).
+3. Read the DTC (see CLEAR THE DTC MEMORY WITH THE HDS).
+Is DTC 81-61, 85-61, 81-62, or 85-62 indicated?
+YES -Go to step 4.
+NO -Intermittent failure, system is OK at this time. Go to
+TROUBLESHOOTING INTERMITTENT FAILURES. If another DTC is
+indicated, troubleshoot the DTC.
+4. Check the connection between the ODS unit harness 18P connector and the
+ODS unit.
+Is the connection OK?
+YES -Go to step 6.
+NO -Repair the poor connection and retest. If DTC 85-61 or 85-62 is still
+present, go to step 5.

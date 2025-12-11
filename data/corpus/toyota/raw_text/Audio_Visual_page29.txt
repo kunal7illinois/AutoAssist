@@ -1,0 +1,65 @@
+AV–29
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+DTC No. Detection Item Trouble Area See page
+01-DB Mode Status Error 1. Power source circuit of the AV-32
+component shown by the sub-
+code
+2. AVC-LAN circuit between the
+radio receiver and the component
+shown by the sub-code
+3. Component shown by the sub-
+code
+01-DC Transmission Error If the same sub-code is recorded AV-39
+in other components, check
+harness for power supply and
+communication system of all
+components shown by code
+01-DD Master Reset 1. Radio receiver power source AV-42
+circuit
+2. AVC-LAN circuit between the
+radio receiver and the component
+which has stored this code
+3. Radio receiver
+4. Component which has stored
+this code
+01-DE Slave Reset 1. Power source circuit of the AV-32
+component shown by the sub-
+code
+2. AVC-LAN circuit between the
+radio receiver and the component
+shown by the sub-code
+3. Component shown by the sub-
+code
+01-DF Master Error 1. Radio receiver power source AV-47
+circuit
+2. AVC-LAN circuit between the
+radio receiver and the component
+which has stored this code
+3. Radio receiver
+4. Component which has stored
+this code
+01-E0 Registration Complete Indication - AV-51
+Error
+01-E1 Voice Processing Device ON 1. Radio receiver power source AV-42
+Error circuit
+2. AVC-LAN circuit between the
+radio receiver and the component
+which has stored this code
+3. Radio receiver
+4. Component which has stored
+this code
+01-E2 ON / OFF Indication Parameter Radio receiver AV-52
+Error
+01-E3 Registration Demand - AV-51
+Transmission
+01-E4 Multiple Frame Incomplete - AV-51
+AV
+CD PLAYER
+DTC No. Detection Item Trouble Area See page
+62-10 CD Player Mechanical Error Radio receiver AV-54
+62-11 CD Insertion and Ejection Error Radio receiver AV-54
+62-12 CD Reading Abnormal Radio receiver AV-54
+62-41 Wrong Disc 1. CD AV-55
+2. Radio receiver
+62-42 Disc cannot be Read 1. CD AV-55
+2. Radio receiver

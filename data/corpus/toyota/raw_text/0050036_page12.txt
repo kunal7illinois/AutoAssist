@@ -1,0 +1,15 @@
+ES–216
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Canister pressure sensor malfunction Not detected
+Purge VSV Not operated by scan tool
+EVAP system check Not operated by scan tool
+Battery voltage 10 V or more
+Purge duty cycle 8 % or more
+Typical Malfunction Thresholds
+Both of following conditions met Conditions 1 and 2
+1. EVAP pressure change when purge operation started Less than 0.1 kPa-g (0.75 mmHg-g)
+2. EVAP pressure change during purge operation when vent valve
+Less than 0.5 kPa-g (3.75 mmHg-g)
+closed
+ES MONITOR RESULT
+Refer to CHECKING MONITOR STATUS (see page ES-17).

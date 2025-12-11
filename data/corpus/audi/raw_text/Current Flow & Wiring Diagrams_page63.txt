@@ -1,0 +1,59 @@
+Audi TT No. 3 / 12
+Current Flow Diagram
+Engine control unit, lambda probe 2, lambda probe 2 after
+catalytic converter, lambda probe 2 heater, lambda probe
+2 heater after catalytic converter, air mass meter,
+secondary air injection sensor 1
+G70 Air mass meter
+G108 Lambda probe 2
+G131 Lambda probe 2 after catalytic converter
+G609 Sender 1 for secondary air pressure
+J623 Engine control unit
+G70
+T4f 4-pin connector, brown, on Lambda probe 2 after catalytic
+converter
+T5b 5-pin connector, black, on air mass meter
+T5b/5 T5b/1 T5b/2 T5b/3 T5b/4 T6i 6-pin connector, brown, on the Lambda probe 2
+T14 14-pin connector, black, on front left in engine compartment
+0,35 0,35 0,5 0,35 0,35 0,35✱ T81 81-pin connector, black, on engine control unit
+bl gr/ge sw/gn br/gn br/gr br/gr
+B488 Z28 Lambda probe heater 2
+Z30 Lambda probe 2 heater after catalytic converter
+113322
+✱ ✱
+0,35 1,0
+B488 Connection 24 in main wiring harness
+br/gr br/gr
+J623 115511 * Only models with emissions concept LEV2 (7GA)
+T81/29 T81/26 T81/27 T81/5 3 # up to May 2008
+## from June 2008
+T81/4 T81/15 T81/14 T81/12 T81/13 T81/6 T81/10 T81/11 T81/74
+115511 115555
+1,0 0,35# 0,35# 0,35# 0,35# 0,35 0,35# 0,35# 1,0 1,0 0,35
+li li/gn br/ge li/sw sw br/bl gn/bl gn/br br/gr br gr
+## ## ## ## ## ##
+0,35 0,35 0,35 0,35 1,0 0,35 0,35 1,0
+ro/bl li/bl li/ge ro/ge br/bl li/bl ro/gn gr
+T6i/3 T6i/1 T6i/5 T6i/2 T6i/6 T4f/2 T4f/3 T4f/4 T14 T14 T14/11
+/14 /13
+1,0 1,0 1,0
+br/gr br gr
+3/+ 1/31 4
+ws = white
+Z28 G108 Z30 G131
+G609
+sw = black
+✱
+ro = red
+T6i/4 T4f/1
+br = brown
+1,0 1,0 gn = green
+ws/li ws/li bl = blue
+gr = grey
+113333 113344
+li = purple
+ge = yellow
+141 142 143 144 145 146 147 148 149 150 151 152 153 154 or = orange
+8J0-003121010
+rs = pink
+Edition 10.2010

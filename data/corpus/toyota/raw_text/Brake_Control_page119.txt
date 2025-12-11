@@ -1,0 +1,18 @@
+BC–113
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+(1) Operation description
+The skid control ECU detects wheelspin by
+receiving signals from each speed sensor and
+the ECM via CAN communication. The skid
+control ECU controls engine torque with the
+ECM via CAN communication and brake
+hydraulic pressure through the pump and
+solenoid valve.
+The SLIP indicator light blinks when the system
+is operating. When there is a malfunction in the
+TRAC system, both VSC warning light (models
+without multi information display) and SLIP
+indicator light will come on and the DTC will be
+displayed on the multi information display
+(models with multi information display).
+BC

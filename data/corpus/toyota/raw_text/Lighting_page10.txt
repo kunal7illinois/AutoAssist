@@ -1,0 +1,35 @@
+LI–10
+LIGHTING – LIGHTING SYSTEM
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+HINT:
+• Use the following procedures to troubleshoot the lighting
+system.
+• *: Use the intelligent tester.
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 CUSTOMER PROBLEM ANALYSIS CHECK AND SYMPTOM CHECK
+NEXT
+3 INSPECT BATTERY VOLTAGE
+Standard voltage:
+11 to 14 V
+If the voltage is below 11 V, recharge or replace the battery
+before proceeding.
+NEXT
+4 INSPECT CAN COMMUNICATION SYSTEM*
+(a) Use the intelligent tester to check if the CAN
+communication system is functioning normally.
+Result
+Result Proceed to
+CAN communication system DTC is not output A
+CAN communication system DTC is output B
+LI
+B Go to step 8
+A
+5 CHECK FOR DTC*
+Result
+Result Proceed to
+DTC is not output A
+DTC is output B
+B Go to step 8
+A

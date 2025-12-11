@@ -1,0 +1,32 @@
+ES–71
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+Camshaft Timing ECM
+Oil Control Valve
+OC1+ OC1+
+OC1- OC1-
+ES
+A133814E01
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 PERFORM ACTIVE TEST USING INTELLIGENT TESTER (OPERATE OCV)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the tester ON.
+(c) Warm up the engine.
+(d) On the tester, select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST /
+VVT CTRL B1.
+(e) Check the engine speed while operating the Oil Control
+Valve (OCV) using the tester.
+OK
+Tester Operations Specified Conditions
+OCV OFF Normal engine speed
+Engine idles roughly or stalls
+OCV ON
+(soon after OCV switched from OFF to ON)
+OK CHECK FOR INTERMITTENT PROBLEMS
+NG

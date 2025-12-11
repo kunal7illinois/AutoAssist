@@ -1,0 +1,80 @@
+EI–72
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+DATA LIST / ACTIVE TEST
+1. READ DATA LIST
+HINT:
+Using the DATA LIST displayed on the intelligent tester,
+the values of the switches, sensors, actuators, etc. can
+be checked without part removal. Reading the DATA
+LIST as the first step in troubleshooting is one way to
+shorten labor time.
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the ignition switch to the ON position.
+(c) Read the DATA LIST according to the display on the
+tester.
+IMMOBILISER:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Key is in ignition key cylinder
+Unlock warning switch signal/ON
+KEY SW OFF: No key is in ignition key -
+or OFF
+cylinder
+ON: Ignition switch ON or START
+IG SW Ignition switch signal/ON or OFF -
+OFF: Ignition switch ACC or OFF
+Immobiliser system status/SET or UNSET: Ignition switch ON
+IMMOBILISER -
+UNSET SET: Without key
+NG: No permission for engine
+PERMIT (START) Permit (Start) signal/OK or NG start -
+OK: Engine start permission
+NG: Data error
+RESPONSE Transponder chip data/NG or OK -
+OK: Data OK
+NG: Data error
+FRAME Transponder chip data/NG or OK -
+OK: Data OK
+NG: Data error
+SERIAL NUMBER Transponder chip data/NG or OK -
+OK: Data OK
+NG: Data error
+ENCRYPT CODE Transponder chip data/NG or OK -
+OK: Data OK
+NG: Data error
+EI STATUS Transponder chip data/NG or OK -
+OK: Data OK
+NG: Incorrect data being sent
+BCC Transponder chip data/NG or OK -
+OK: Correct data being sent
+NOMATCH: Non-matching sub
+Sub key code signal/NOMATCH
+SUB KEY key code is sent -
+or MATCH
+MATCH: Sub key code is sent
+NOMATCH: Non-matching
+Master key code signal/
+MASTER KEY master key code is sent -
+NOMATCH or MATCH
+MATCH: Master key code is sent
+Number of registered sub key/
+REGIST SUB CODE Number of registered sub key -
+min. 0, max. 15
+Number of registered master key/
+REGIST MAS CODE Number of registered master key -
+min. 0, max. 15
+NOT FULL: More key code
+Memory space for key codes registration possible
+REG CODE SPACE -
+registration/NOT FULL or FULL FULL: No more key code
+registration possible
+Power source/BRAKE or BRAKE: Power source open
++B -
+NORMAL NORMAL: Power source normal
+NORMAL: Antenna coil is normal
+Antenna coil condition/NORMAL
+ANTENNA COIL FAIL: Antenna coil is -
+or FAIL
+malfunctioning

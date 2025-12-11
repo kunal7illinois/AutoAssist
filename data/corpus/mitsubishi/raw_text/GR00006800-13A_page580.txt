@@ -1,0 +1,48 @@
+13A-580 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+ON-VEHICLE SERVICE
+(2) Squeeze the fuel supply line closed to confirm leak-down
+occurs from defective fuel pump check valve.
+(3) If pressure continues to drop with both fuel lines
+squeezed closed, injector(s) are leaking.
+SYMPTOM PROBABLE CAUSE REMEDY
+Fuel pressure drops gradually Leaky injector Replace injector
+after engine is stopped
+Leaky fuel regulator valve seat Replace fuel pressure regulator
+Fuel pressure drops sharply Check valve in fuel pump is held Replace fuel pump
+immediately after engine is open
+stopped
+14.Release residual pressure from the fuel pipe line. (Refer to
+MD998709 P.13A-580.)
+WARNING
+HIGH-
+Cover the hose connection with shop towels to pre-
+PRESSURE
+FUEL HOSE vent splash of fuel that could be caused by some
+residual pressure in the fuel pipe line.
+FUEL RAIL
+15.Remove the fuel pressure gauge, and special tools
+MD998742
+MD998709 and MD998742 from the fuel rail.
+16.Replace the O-ring at the end of the high-pressure fuel hose
+AAKK000000112200AB with a new one.
+17.Fit the high-pressure fuel hose into the fuel rail and tighten
+the bolts to specified torque.
+Tightening torque: 4.9 ± 1.0 (44 ± 8 in-lb)
+18.Check for fuel leaks.
+(1) Use scan tool MB991502 to operate the fuel pump.
+(2) Check the fuel line for leaks, and repair as needed.
+19.Disconnect scan tool MB991502.
+FUEL PUMP CONNECTOR DISCONNECTION
+(HOW TO REDUCE PRESSURIZED FUEL LINES)
+M1131000900332
+WARNING
+When removing the fuel pipe, etc., release fuel pres-
+sure to prevent fuel spray.
+1. Disconnect the fuel pump relay.
+FUEL PUMP
+2. Start the engine and let it run until it stops naturally. Turn the
+RELAY
+ignition switch to the "LOCK" (OFF) position.
+3. Connect the fuel pump relay.
+AC000229AB
+TSB Revision

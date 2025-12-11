@@ -1,0 +1,32 @@
+54B-540 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTOR: C-117 CONNECTOR: E-06
+JUNCTION BLOCK FRONT DOOR (RH)
+(REAR VIEW)
+AC106481AC AC106487AC
+CONNECTOR: E-14
+FRONT DOOR (LH)
+AC106556AD
+. .
+CIRCUIT OPERATION TROUBLESHOOTING HINTS
+The ETACS-ECU operates the central door locking • Malfunction of the driver(cid:146)s or front passenger’s
+system according to signal from the driver’s or front door lock key cylinder switch
+passenger’s door lock key cylinder switch. • Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+.
+TECHNICAL DESCRIPTION (COMMENT)
+If the signal is not normal, the systems, which are
+described in "CIRCUIT OPERATION", do not work
+normally.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check which door lock key cylinder switch is
+defective.
+Q:Which door lock key cylinder switch does not send a
+signal to the ECU?
+Driver’s door lock key cylinder : Go to Step 2.
+Front passenger’s door lock key cylinder <Without
+keyless entry system> : Go to Step 8.
+TSB Revision

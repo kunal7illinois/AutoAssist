@@ -1,0 +1,30 @@
+SR–28
+STEERING COLUMN – ELECTRIC STEERING LOCK
+Steering Lock Motor Drive Power Circuit
+DESCRIPTION
+The steering lock ECU is connected to the main body ECU and certification ECU. The steering lock ECU
+cannot activate the motor unless it receives permission signals from both ECUs. (The main body ECU
+permits the steering lock ECU to supply power to activate the motor.)
+WIRING DIAGRAM
+Steering Lock Actuator Assembly (Steering Lock ECU) Main Body ECU
+Steering Lock Unlock
+3 19
+Lock Position Position
+IGE E51 E7 SLR+
+Motor Sensor Sensor
+1
+SR GND E51
+C113485E03
+INSPECTION PROCEDURE
+1 CHECK VEHICLE CONDITION
+(a) Check the problem symptom of the steering lock system.
+Result
+Condition Proceed to
+Steering lock cannot be released A
+Steering cannot be locked B
+B Go to step 6
+A
+2 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the engine switch on (IG), and turn the intelligent
+tester on.

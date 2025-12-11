@@ -1,0 +1,48 @@
+13A-18 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+.
+PROCEDURE 4
+HEATED OXYGEN SENSOR MONITOR
+DTC P0133, P0139
+Drive cycle This monitor [from start to ignition switch to the "LOCK" (OFF) position] will be completed
+pattern while traveling with the following drive cycle pattern. It will take 5 minutes. You must
+complete this drive twice.
+NOTE: Vehicle speed and throttle opening angle should be within the shaded range.
+97
+120 SECONDS OR MORE
+(60)
+56 - 64 km/h (35 - 40 mph)
+M/T: 4TH SPEED
+64 (3)
+(40)
+VEHICLE SPEED
+km/h (mph)
+32 (2) DURING MONITOR (4)
+(20)
+(1)
+0
+ENGINE IGNITION
+START SWITCH: "LOCK"
+(OFF) position
+100
+CALCULATED
+LOAD (%)
+50
+0
+AAAKKKXXX000111333444888AC
+Inspection • Engine coolant temperature: 80°C (176°F) or more
+conditions • Atmospheric temperature: −10°C (14°F) or more
+• Condition of A/T: Selector lever D range
+Test 1.Engine: start
+procedure 2.Accelerate until the vehicle speed is 56 − 64 km/h (35 − 40 mph).
+3.While keeping the accelerator pedal opening degree constant (M/T: 4th speed), keep the
+vehicle speed at 56 − 64 km/h (35 − 40 mph) and travel for 120 seconds or more. (During
+monitor)
+4. Return the vehicle to the shop, then turn the ignition switch to "LOCK" (OFF) position.
+5.Confirm that the diagnostic trouble code (DTC) is not output.
+6. If DTC P0133 is output, refer to DTC P0133 − Heated oxygen Sensor Circuit Slow
+Response (Sensor 1) P.13A-143.
+If DTC P0139 is output, refer to DTC P0139 − Heated oxygen Sensor Circuit Slow
+Response (Sensor 2) P.13A-178.
+.
+TSB Revision

@@ -1,0 +1,48 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-317
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, check data list item 22:
+Crankshaft Position Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+22, Crankshaft Position Sensor.
+16 PIN • The tachometer and engine speed indicated on the scan
+tool should much.
+MB991502
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+AKX01177AB
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+STEP 2. Using the oscilloscope, check the crankshaft
+position sensor.
+(1) Disconnect the crankshaft position sensor connector, and
+connect the test harness special tool (MD998478) in
+between.
+(2) Connect the oscilloscope probe to crankshaft position
+OSCILLOSCOPE
+CRANKSHAFT POSITION sensor connector terminal 2 (bank clip of special tool).
+SENSOR CONNECTOR
+NOTE: Connect the oscilloscope plobe to terminal 43 <M/
+1 2 T> or terminal 45 <A/T> by backprobing when measuring
+3 with the ECM or PCM connector.
+(3) Start the engine and run at idle.
+MD998478
+AK102979AB
+(4) Check the waveform.
+NORMAL WAVEFORM
+• The waveform should show a pattern similar to the illus-
+tration.
+2 ENGINE REVOLUTIONS
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+5 V Q:Is the waveform normal?
+YES : Go to Step 3.
+NO : Go to Step 5.
+AKX01559AB
+TSB Revision

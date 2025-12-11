@@ -1,0 +1,64 @@
+13A-578 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+ON-VEHICLE SERVICE
+6. If not within the standard value range, turn the speed
+adjusting screw (SAS) to make the necessary adjustment.
+7. Press the scan tool clear key, and release the IAC motor
+Actuator test mode.
+8. Turn the ignition switch to the "LOCK" (OFF) position.
+NOTE: Unless the IAC motor is released, the Actuator test
+mode will continue for 27 minutes.
+9. Disconnect scan tool MB991502.
+10.Start the engine again and let it idle for about 10 minutes.
+AK000114
+Check that the idling condition is normal.
+FUEL PRESSURE TEST
+M1131001900090
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991637: Fuel Pressure Gauge Set
+• MD998709: Adaptor Hose
+• MD998742: Hose Adaptor
+1. Release residual pressure from the fuel line to prevent fuel
+spray. (Refer to P.13A-580.)
+WARNING
+To prevent a fire, cover the hose connection with
+HIGH-PRESSURE FUEL HOSE
+AK000116AB shop towels to prevent splashing of fuel that could be
+caused by some residual pressure in the fuel pipe
+line.
+2. Disconnect the high-pressure fuel hose at the fuel rail side.
+3. Assemble the fuel pressure measurement tools as follows.
+<When using the fuel pressure gauge>
+1. Remove the union joint and bolt from special tool
+FUEL PRESSURE
+MD998709 (adaptor hose) and instead attach special tool
+GAUGE
+MD998742 (hose adaptor) to the adaptor hose.
+O-RING OR GASKET
+2. Place a suitable O-ring or gasket on assembled special
+MD998709
+tools MD998709 and MD998742 and install the fuel pres-
+FUEL sure gauge.
+RAIL
+MD998742
+3. Install the assembled fuel pressure measurement tools
+HIGH-PRESSURE between the fuel rail and high-pressure fuel hose.
+FUEL HOSE
+<When using the special tool MB991637 (fuel pressure
+AKX01457AB gauge set)>
+1. Remove the union joint and bolt from special tool
+MD998709 (adaptor hose) and instead attach special tool
+MB991637
+MD998742 (hose adaptor) to the adaptor hose.
+O-RING OR GASKET
+2. Install special tool MB991637 (fuel pressure gauge set) to
+MD998709
+assembled special tools MD998709 and MD998742 via a
+FUEL gasket.
+RAIL
+MD998742 3. Install the assembled fuel pressure measurement tools
+HIGH- between the fuel rail and the high-pressure fuel hose.
+PRESSURE
+FUEL HOSE
+AKX01458AB
+TSB Revision

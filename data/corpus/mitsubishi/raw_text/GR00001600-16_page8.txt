@@ -1,0 +1,57 @@
+16-8 ENGINE ELECTRICAL
+CHARGING SYSTEM
+OUTPUT CURRENT TEST
+M1161001000119
+LOAD
+VOLTMETER
+AMMETER
+CHARGING
+WARNING LIGHT GENERATOR
+IGNITION
+SWITCH
+FR
+INDICATOR LAMP L
+(BRAKE WARNING LIGHT, etc.)
+S
+G
++ ECM <M/T>
+PCM <A/T>
+BATTERY
+–
+AKX01214AB
+Required Special Tool:
+WARNING
+• MB991502: Scan Tool (MUT-II)
+Battery posts, terminals and related acces-
+This test determines whether the generator outputs
+sories contain lead and lead compounds.
+normal current.
+WASH HANDS AFTER HANDLING.
+1. Before the test, always be sure to check the
+3. Disconnect the negative battery cable.
+following.
+• Generator installation WARNING
+• Battery (Refer to GROUP 54A, Battery − On- Never use clips to connect the line. Loose
+vehicle Service − Battery Check P.54A-5.) connections (e.g. using clips) will lead to a
+NOTE: The battery to be used should be slightly serious accident because of high current.
+discharged. The load in a fully-charged battery
+4. Disconnect the generator output wire from the
+will be insufficient and the test may not be able to
+generator "B" terminal and connect a DC test
+be carried out correctly. ammeter with a range of 0 − 100 A in series
+• Generator drive belt tension (Refer to GROUP
+between the "B" terminal and the disconnected
+00, Maintenance Service − Drive Belts P.00-44.)
+output wire. (Connect the positive lead of the
+• Fusible link
+ammeter to the "B" terminal, and then connect the
+• Abnormal noise from the generator while the
+negative lead of the ammeter to the disconnected
+engine is running
+output wire.)
+2. Turn the ignition switch to the "LOCK" (OFF)
+NOTE: A clamp-type ammeter which enables
+position.
+measurements to be taken without disconnecting
+the generator output wire is recommended.
+TSB Revision

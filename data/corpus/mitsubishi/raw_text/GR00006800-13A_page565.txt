@@ -1,0 +1,29 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-565
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+Standard wave pattern
+(V)
+50 POINT A
+INJECTION COIL INDUCED
+VOLTAGE (APPROXIMATELY 50-60 V)
+POINT B:
+INJECTOR DRIVE
+TIME
+POWER VOLTAGE
+0 DRIVE SIGNAL:"ON" DRIVE SIGNAL:"OFF"
+AKX01604AB
+Wave Pattern Observation Points
+Point A: Height of injector coil induced voltage.
+CONTRAST WITH PROBABLE CAUSE
+STANDARD WAVE
+PATTERN
+Injector coil induced voltage is Short in the injector solenoid
+low or doesn’t appear at all
+Point B: Injector drive time
+1. The injector drive time should be synchronized with the
+scan tool tester display.
+2. When the engine is suddenly revved, the drive time will be
+greatly extended at first, but the drive time will soon return
+to original length.
+WHEN IDLING
+WHEN RACING AKX01605AC
+TSB Revision

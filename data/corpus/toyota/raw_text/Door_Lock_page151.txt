@@ -1,0 +1,64 @@
+DL–141
+DOOR LOCK – SMART KEY SYSTEM
+(c) Situation B
+There are 2 patterns for situation B.
+Pattern 1: In situation B, the door is opened and the
+user tries to leave the vehicle.
+Then the user holds the electrical key and tries to
+move away from the vehicle.
+Pattern 2: Then the user tries to use the entry lock
+and presses the lock switch.
+In these situations, the following control is
+performed:
+• Pattern 1
+Possible Effects without Warning Vehicle theft, engine cannot be restarted
+Certification ECU gives warning when all following conditions are
+satisfied:
+• Shift lever position is P
+Warning Condition
+• Engine switch is not off
+• Driver side door is opened and closed
+• Electrical key is not in cabin or luggage compartment
+Combination Meter Warning:
+• Buzzer Sounds once
+Warning:
+Information below is displayed on combination meter:
+Combination Meter • "Key is not Detected"
+• Multi-information Display Warning is stopped when either of following conditions is met:
+• Engine switch is off
+• Electrical key is in cabin or luggage compartment
+Warning:
+Sounds 3 times
+Wireless Door Lock Buzzer Warning is stopped when either of following conditions is met:
+• Engine switch is off
+• Electrical key is in cabin or luggage compartment
+• Pattern 2
+Possible Effects without Warning Vehicle theft
+Certification ECU gives warning when all following conditions are
+satisfied:
+• Shift lever position is P
+Warning Condition • Engine switch is not off
+• All doors are closed
+• Lock switch is "ON"
+• Electrical key is not in cabin or luggage compartment
+Combination Meter
+-
+• Buzzer
+Combination Meter
+-
+• Multi-information Display
+Warning: DL
+Wireless Door Lock Buzzer
+Sounds for 2 seconds
+(d) Situation C
+In this situation, the following control is performed:
+Possible Effects without Warning Engine cannot be restarted
+Certification ECU gives warning when all following conditions are
+satisfied:
+• Engine switch is not off
+Warning Condition
+• Door other than driver side door is opened and closed
+• Vehicle speed is 0 km/h (0 mph)
+• Electrical key is not in cabin or luggage compartment
+Combination Meter Warning:
+• Buzzer Sounds once

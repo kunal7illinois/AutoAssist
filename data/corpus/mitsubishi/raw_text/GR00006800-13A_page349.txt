@@ -1,0 +1,64 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-349
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+• Then the evaporative emission purge solenoid is • When the evaporative emission purge solenoid
+driven to set the fuel system into a negative pres- and evaporative emission ventilation solenoid are
+sure. closed, the pressure rises higher 324 Pa (0.047
+• When the fuel system develops a vacuum of 2 psi) <i.e. the amount of remaining fuel is 40 − 85
+kPa (0.29 psi), the evaporative emission purge percent>.
+solenoid is turned "off" and the fuel system vac-
+Judgment Criteria
+uum is maintained at 2 kPa (0.29 psi).
+• The fuel tank internal pressure is 2 kPa (0.29 psi)
+• The ECM <M/T> or PCM <A/T> determines if
+or more after the evaporative emission purge
+there is leak or clog in the fuel system by measur-
+solenoid has been driven when the fuel tank and
+ing the change of vacuum inside the fuel tank.
+vapor line were closed.
+• The test is stopped when fuel vapor pressure is
+NOTE: The monitoring time (150 seconds) depends
+judged as too high.
+on the fuel level and the temperature in the fuel tank.
+.
+DTC SET CONDITIONS
+.
+TROUBLESHOOTING HINTS
+Test Conditions A: At Start up The most likely causes for this code to be set are:
+• Intake air temperature is 36°C (97°F) or less • Loose fuel cap.
+when the engine is started. • Fuel cap relief pressure is incorrect.
+• The engine coolant temperature 36°C (97°F) or • Fuel overflow limiter valve failed.
+less when the engine is started. • Purge line or vapor line is clogged.
+• Fuel tank, purge line or vapor line seal failed.
+Test Conditions B: For Test to Run
+• The engine coolant temperature 60°C (140°F) or • Evaporative emission purge solenoid failed.
+more <i.e. the amount of remaining fuel is 15 − 40 • Evaporative emission ventilation solenoid failed.
+• Fuel tank differential pressure sensor failed.
+percent>.
+• The engine coolant temperature 20°C (68°F) or • Evaporative emission canister seal is faulty.
+more <i.e. the amount of remaining fuel is 40 − 85 • Evaporative emission canister is clogged.
+percent>.
+• Engine speed is 1,600 r/min or more. . OVERVIEW OF TROUBLESHOOTING
+• Barometric pressure is above 76 kPa (11 psi). • To determine the cause of DTC P0455, a perfor-
+• Volumetric efficiency is between 20 and 80 per- mance test is needed. The performance test uses
+cent. a mechanical vacuum gauge and scan tool
+• The fuel temperature is 36°C (97°F) or less. MB991502 set on the fuel tank differential pres-
+• Fuel tank differential pressure sensor output volt- sure sensor (TANK PRES SNER 73.) The
+age 1 − 4 volts. mechanical gauge reading is used to verify scan
+tool MB991502 reading. A comparison of the
+Test Conditions C: For Test to Stop
+mechanical gauge reading to scan tool
+• Intake air temperature is less than 5°C (41°F).
+MB991502 reading determines the reading prob-
+• When the evaporative emission purge solenoid
+lem in the system.
+and evaporative emission ventilation solenoid are
+• Prior to doing the performance test, several sim-
+closed, the pressure rises higher 451 Pa (0.065
+ple inspections are needed to exclude some pos-
+psi) <i.e. the amount of remaining fuel is 15 − 40
+sibilities of the symptom.
+percent>.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

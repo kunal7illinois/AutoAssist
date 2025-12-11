@@ -1,0 +1,43 @@
+23A-102 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+CONNECTOR: C-28
+CONNECTORS: C-111, C-112
+JUNCTION BLOCK
+(FRONT VIEW)
+C-112
+C-111
+C-28 C-111
+C-112
+AC106611AB
+AC106814AB
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+• A coil built into the input shaft speed sensor gen- If no output pulse is detected from the input shaft
+speed sensor for one second or more while driving in
+erates a pulse signal at both ends of this coil
+3rd or 4th gear at a speed of 30 km/h (19 mph) or
+when the input shaft rotates. The pulse signal fre-
+more, it is judged to be an open circuit or short circuit
+quency increases with a rise in input shaft speed.
+• Both ends of the coil are connected to the PCM in the input shaft speed sensor circuit. If diagnostic
+trouble code number "22" is output four times, the
+(terminals 16 and 103) via the input shaft speed
+transaxle is locked into 3rd gear or 2nd gear as a fail-
+sensor connector (terminals 1 and 2).
+• The PCM detects the input shaft speed by the safe measure, and the "N" range light flashes once
+per second.
+signal input to terminal 103.
+• The input shaft speed sensor generates the pulse
+.
+signal as the teeth of the underdrive clutch TROUBLESHOOTING HINTS (The most likely
+retainer pass the magnetic tip of the sensor. causes for this code to be set:)
+• Malfunction of the input shaft speed sensor circuit
+. • Malfunction of the underdrive clutch retainer
+• Damaged harness, connector
+• Malfunction of the PCM
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+TSB Revision

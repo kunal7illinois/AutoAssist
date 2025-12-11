@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+YES -Replace the park pin switch (see A/T GEAR POSITION INDICATOR
+PANEL LIGHT HARNESS/PARK PIN SWITCH REPLACEMENT ).
+NO -Substitute 8 known-good MICU and recheck.
+SHIFT LOCK SOLENOID TEST
+1. Connect the HDS to the DLC (A) located behind the driver's dashboard lower
+cover.
+Fig. 347: Identifying Data Link Connector
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+2. Turn the ignition switch to ON (II). Make sure the HDS communicates with
+the PCM. If it does not, go to the DLC circuit troubleshooting (see DLC
+CIRCUIT TROUBLESHOOTING ).
+3. Select Shift Lock Solenoid Test in the Miscellaneous Test Menu, and check
+that the shift lock solenoid operates with the HDS.
+4. Make sure that the shift lever can be moved out of P when Shift Lock Solenoid
+is ON. Move the shift lever back in P, and make sure it locks when Shift Lock
+Solenoid is OFF.
+5. Make sure that the shift lock releases when the shift lock release is pushed, and
+check that it locks when the shift lock release is released.
+6. If the shift lock solenoid does not work properly, go to the shift lock system
+troubleshooting (see SHIFT LOCK SYSTEM CIRCUIT
+TROUBLESHOOTING ).

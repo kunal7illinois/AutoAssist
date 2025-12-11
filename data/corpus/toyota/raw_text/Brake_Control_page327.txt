@@ -1,0 +1,57 @@
+BC–316
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC No. Detection Item Trouble Area See page
+C1333/39 Left Rear Speed Sensor Circuit 1. Rear speed sensor LH BC-324
+2. Rear speed sensor circuit LH
+3. Sensor installation
+U0073/94 Control Module Communication CAN communication system BC-377
+Bus OFF
+(*1, *2):
+Even after the trouble areas are repaired, the ABS warning
+light will not go off unless the following operations are
+performed:
+• (*1):
+(a)Drive the vehicle at 12 mph (20 km/h) for 30 seconds or
+more and check that the ABS warning light goes off.
+(b)Clear the DTC.
+• (*2):
+(a)Keep the vehicle stationary for 5 seconds or more and
+depress the brake pedal lightly 2 or 3 times.
+(b)Drive the vehicle at the vehicle speed of 31 mph (50
+BC
+km/h) and keep depressing the brake pedal strongly for
+approximately 3 seconds.
+(c)Repeat the above operation 3 times or more and check
+that the ABS warning light goes off.
+(d)Clear the DTC.
+HINT:
+In some cases, the intelligent tester cannot be used when the
+ABS warning light remains on.
+DTC chart of VSC:
+DTC No. Detection Item Trouble Area See page
+43 ABS Control System Malfunction ABS control system BC-315
+C0365/28 Malfunction in Deceleration 1. Yaw rate and acceleration BC-343
+Sensor sensor
+2. Yaw rate and acceleration
+sensor circuit
+3. Sensor installation
+4. Brake actuator assembly (skid
+control ECU)
+C1201/51 Engine Control System Engine control system BC-347
+Malfunction
+C1231/31 Steering Angle Sensor Circuit 1. Steering angle sensor BC-350
+Malfunction 2. Steering angle sensor circuit
+3. Steering angle sensor power
+supply
+C1234/34 Yaw Rate Sensor Malfunction 1. Yaw rate and acceleration BC-343
+sensor
+2. Yaw rate and acceleration
+sensor circuit
+U0100/65 Lost Communication with ECM / CAN communication system (skid BC-377
+PCM control ECU to ECM)
+U0123/62 Lost Communication with Yaw CAN communication system (skid BC-377
+Rate Sensor Module control ECU to yaw rate and
+acceleration sensor)
+U0126/63 Lost Communication with CAN communication system (skid BC-377
+Steering Angle Sensor Module control ECU to steering angle
+sensor)

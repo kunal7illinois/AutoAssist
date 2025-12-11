@@ -1,0 +1,59 @@
+ES–36
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+10. WAVEFORM 10
+5 V/DIV. Throttle actuator negative terminal
+ECM Terminal Names Between M- and ME01
+Tester Ranges 5 V/DIV., 1 msec./DIV.
+Conditions Idling with warm engine
+HINT:
+GND
+The duty ratio varies depending on the throttle actuator
+operation.
+1 msec./DIV.
+A093275E03
+11. WAVEFORM 11
+Engine speed signal
+ES 5 V/DIV.
+ECM Terminal Names Between TACH and E1
+Tester Ranges 5 V/DIV., 10 msec./DIV.
+Conditions Idling
+GND
+HINT:
+The wavelength becomes shorter as the engine rpm
+increases.
+10 msec./DIV.
+A093225E01
+12. WAVEFORM 12
+CAN communication signal
+1 V/DIV.
+ECM Terminal Names Between CANH and E1
+Tester Ranges 1 V/DIV., 10 µsec./DIV.
+Conditions Engine stops and ignition switch ON
+HINT:
+GND
+The waveform varies depending on the CAN
+communication signal.
+10 (cid:500)sec./DIV.
+A086154E01
+13. WAVEFORM 13
+CAN communication signal
+1 V/DIV.
+ECM Terminal Names Between CANL and E1
+Tester Ranges 1 V/DIV., 10 µsec./DIV.
+Conditions Engine stops and ignition switch ON
+HINT:
+GND
+The waveform varies depending on the CAN
+communication signal.
+10 (cid:500)sec./DIV.
+A086155E01
+14. WAVEFORM 14
+Generator
+ECM Terminal Names Between RLO and E1
+Tester Ranges 2 V/DIV., 50 msec./DIV.
+Conditions After engine warmed up, during
+charging control, vehicle driven at
+constant speed
+HINT:
+A constant value is not output, as the duty ratio varies
+A084458 depending on the electrical load and battery condition.

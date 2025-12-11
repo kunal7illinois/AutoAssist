@@ -1,0 +1,35 @@
+ENGINE - 2AZ-FE ENGINE EG-51
+7. VVT-i (Variable Valve Timing-intelligent) System
+General
+(cid:1) The VVT-i system is designed to control the intake camshaft within a range of 40(cid:2) (of Crankshaft Angle)
+to provide valve timing that is optimally suited to the engine condition. This improves torque in all the
+speed ranges as well as increasing fuel economy, and reducing exhaust emissions.
+Camshaft Position Sensor
+Engine Coolant
+Temp. Sensor
+Throttle Position
+Sensor
+ECM
+Crankshaft
+Position
+Sensor Mass Air Flow Meter Vehicle Speed Signal
+Camshaft Timing
+Oil Control Valve
+DR011EG25
+(cid:1) Using the engine speed, intake air volume, throttle position and water temperature, the ECM can
+calculate optimal valve timing for each driving condition and controls the camshaft timing oil control
+valve. In addition, the ECM uses signals from the camshaft position sensor and the crankshaft position
+sensor to detect the actual valve timing, thus providing feedback control to achieve the target valve
+timing.
+ECM
+Crankshaft Position Sensor Camshaft Timing
+Target Valve Timing
+Oil Control Valve
+Duty-cycle
+Mass Air Flow Meter
+Control
+Throttle Position Sensor Feedback
+Engine Coolant Temp. Sensor Correction
+Camshaft Position Sensor Actual Valve Timing
+Vehicle Speed Signal
+221EG16

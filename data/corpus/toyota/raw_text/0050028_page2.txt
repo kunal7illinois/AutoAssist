@@ -1,0 +1,57 @@
+ES–137
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. DTC Detection Conditions Trouble Areas
+• Abnormal voltage output:
+During active air-fuel ratio control, following conditions (a)
+and (b) met for certain period of time (2 trip detection
+logic): • Open or short in HO2 sensor (sensor 2) circuit
+(a) Heated Oxygen (HO2) sensor voltage does not • HO2 sensor (sensor 2)
+decrease to less than 0.59 V • HO2 sensor heater (sensor 2)
+P0136
+(b) HO2 sensor voltage does not increase to more • Air-fuel Ratio (A/F) sensor (sensor 1)
+than 0.21 V • Integration relay (EFI MAIN relay)
+• Low impedance: • Gas leakage from exhaust system
+Sensor impedance less than 5 Ω for more than 30
+seconds when ECM presumes sensor to be warmed
+up and operating normally (2 trip detection logic)
+• Low voltage (open):
+During active air-fuel ratio control, following conditions (a)
+and (b) met for certain period of time (2 trip detection ES
+• Open in HO2 sensor (sensor 2) circuit
+logic):
+• HO2 sensor (sensor 2)
+(a) HO2 sensor voltage output less than 0.21 V
+P0137 • HO2 sensor heater (sensor 2)
+(b) Target air-fuel ratio rich
+• Integration relay (EFI MAIN relay)
+• High impedance:
+• Gas leakage from exhaust system
+Sensor impedance 15 kΩ or more for more than 90
+seconds when ECM presumes sensor to be warmed
+up and operating normally (2 trip detection logic)
+• High voltage (short):
+During active air-fuel ratio control, following conditions (a)
+and (b) met for certain period of time (2 trip detection
+logic): • Short in HO2 sensor (sensor 2) circuit
+P0138 (a) HO2 sensor voltage output more than 0.59 V • HO2 sensor (sensor 2)
+(b) Target air-fuel ratio lean • ECM internal circuit malfunction
+• Extremely high voltage (short):
+HO2 sensor voltage output exceeds 1.2 V for more
+than 10 seconds (2 trip detection logic)
+MONITOR DESCRIPTION
+Active Air-Fuel Ratio Control
+The ECM usually performs air-fuel ratio feedback control so that the Air-Fuel Ratio (A/F) sensor output
+indicates a near stoichiometric air-fuel level. This vehicle includes active air-fuel ratio control in addition to
+regular air-fuel ratio control. The ECM performs active air-fuel ratio control to detect any deterioration in
+the Three-Way Catalytic Converter (TWC) and Heated Oxygen (HO2) sensor malfunctions (refer to the
+diagram below).
+Active air-fuel ratio control is performed for approximately 15 to 20 seconds while driving with a warm
+engine. During active air-fuel ratio control, the air-fuel ratio is forcibly regulated to become lean or rich by
+the ECM. If the ECM detects a malfunction, one of the following DTCs is set: DTC P0136 (abnormal
+voltage output), P0137 (open circuit) and P0138 (short circuit).
+Abnormal Voltage Output of HO2 Sensor (DTC P0136)
+While the ECM is performing active air-fuel ratio control, the air-fuel ratio is forcibly regulated to become
+rich or lean. If the sensor is not functioning properly, the voltage output variation is small. For example,
+when the HO2 sensor voltage does not decrease to less than 0.21 V and does not increase to more than
+0.59 V during active air-fuel ratio control, the ECM determines that the sensor voltage output is abnormal
+and sets DTC P0136.

@@ -1,0 +1,39 @@
+EC–5
+2GR-FE EMISSION CONTROL – EMISSION CONTROL SYSTEM
+C6
+VSV (Purge)
+108
+C55 PRG
+1 2
+N17
+Canister Pump Module
+Vent Valve
+34
+VLVB VGND
+A55 MPMP
+9 1
+75
+VCC
+Canister C55 VCPP
+4
+Pressure
+77
+Sensor VOUT
+C55 PPMP
+3
+76
+SGND
+C55 EPPM
+2
+42
+MGND MTRB
+A55 VPMP EC
+6 8
+Leak Detection Pump
+EFI
+EFI MAIN EFI No. 3
+From Battery
+44
+FL MAIN A55 MREL
+Battery
+A135722E01

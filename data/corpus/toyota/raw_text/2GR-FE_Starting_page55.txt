@@ -1,0 +1,30 @@
+ST–55
+2GR-FE STARTING – SMART KEY SYSTEM
+3 INSPECT MAIN BODY ECU
+(a) Reconnect the connectors.
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Main Body ECU Terminal No. (Symbol) Condition Specified Condition
+Brake pedal depressed,
+0.1 to 0.8 V → output
+E6 E6-3 (ACCR) - Body shift P position, engine
+voltage at terminal AM1
+ground switch is pushed once
+or AM2 is -2 V or more.
+→ on (IG)
+HINT:
+Voltage is output only when the engine is cranking.
+ACCR
+NG REPLACE MAIN BODY ECU
+B138007E01
+OK
+4 CHECK MAIN BODY ECU OPERATION
+(a) After replacing the main body ECU with a normally
+functioning ECU, check that the engine starts.
+OK:
+Engine can start normally.
+NG REPLACE ECM
+OK
+END (MAIN BODY ECU DEFECTIVE)
+ST

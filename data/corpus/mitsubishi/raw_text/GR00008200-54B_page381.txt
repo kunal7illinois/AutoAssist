@@ -1,0 +1,49 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-381
+SYMPTOM PROCEDURES
+STEP 5. Check fog light relay connector A-04X for damage.
+Q:Are fog light relay connector A-04X in good condition?
+CONNECTOR: A-04X
+YES : Go to Step 6.
+NO : Repair or replace the connector.Refer to GROUP
+FRONT-ECU 00E, Harness Connector Inspection P.00E-2. Check
+that the fog lights illuminate normally.
+DEVICE SIDE
+A-04X
+1 2
+X
+3 4
+AC106537AG
+STEP 6. Check the wiring harness between fog light relay
+connector A-04X (terminals 1 and 2) and the battery.
+Q:Is the wiring harness between fog light relay connector
+CONNECTOR: A-04X
+A-04X (terminals 1 and 2) and the battery in good
+condition?
+FRONT-ECU YES : No action to be taken.
+NO : Repair the wiring harness. Check that the fog lights
+illuminate normally.
+DEVICE SIDE
+A-04X
+1 2
+X
+3 4
+AC106537AG
+STEP 7. Check fog light relay connector A-04X and front-
+ECU connector A-10X for damage.
+Q:Are fog light relay connector A-04X and front-ECU
+CONNECTOR: A-04X, A-10X
+connector A-10X in good condition?
+YES : Go to Step 8.
+FRONT-ECU
+NO : Repair or replace the connector. Refer to GROUP
+A-04X A-10X
+00E, Harness Connector Inspection P.00E-2. Check
+that the fog lights illuminate normally.
+A-04X
+1 2
+X
+3 4
+A-10X
+1 2 3 4 5 6 7 8 91011
+AC106535AC
+TSB Revision

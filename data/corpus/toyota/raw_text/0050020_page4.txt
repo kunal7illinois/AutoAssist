@@ -1,0 +1,48 @@
+ES–106
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY / INTAKE
+AIR.
+(e) Read the value displayed on the tester.
+Standard:
+Same as actual Intake Air Temperature (IAT).
+Result
+Temperature Displayed Proceed To
+-40°C (-40°F) A
+140°C (284°F) or higher B
+Same as actual IAT C
+HINT:
+ES
+• If there is an open circuit, the intelligent tester
+indicates -40°C (-40°F).
+• If there is a short circuit, the intelligent tester indicates
+140°C (284°F) or higher.
+B Go to step 5
+C CHECK FOR INTERMITTENT PROBLEMS
+A
+3 READ VALUE USING INTELLIGENT TESTER (CHECK FOR OPEN IN WIRE HARNESS)
+(a) Disconnect the B1 Mass Air Flow (MAF) meter
+connector.
+ECM
+MAF Meter (b) Connect terminals THA and E2 of the MAF meter wire
+harness side connector.
+(c) Connect the intelligent tester to the DLC3.
+THA (d) Turn the ignition switch ON.
+ETHA (e) Turn the tester ON.
+(f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY / INTAKE
+AIR.
+Wire Harness Side:
+(g) Read the value displayed on the tester.
+Standard value:
+MAF Meter Connector
+140°C (284°F) or higher
+(h) Reconnect the MAF meter connector.
+OK CONFIRM GOOD CONNECTION TO
+B1
+SENSOR. IF OK, REPLACE MASS AIR FLOW
+METER
+THA
+E2
+A127961E01
+NG

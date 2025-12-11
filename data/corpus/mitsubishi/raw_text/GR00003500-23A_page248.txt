@@ -1,0 +1,31 @@
+23A-248 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 10. Check harness for short circuit to ground
+between combination meter connector C-43 terminal 9 and
+Park/Neutral position switch connector B-41 terminal 4.
+Q:Is the harness wire in good condition?
+CONNECTOR: C-43
+C-43 YES : Go to Step 11.
+NO : Repair it.
+AC001729AW
+CONNECTOR: B-41
+B-41
+DIPSTICK
+AC001844AK
+STEP 11. Using scan tool MB991502, check the light bulb.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+• The "N" range light in the combination meter flushes.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Does the "N" range light flush?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+16 PIN Points − How to Cope with Intermittent Malfunction
+P.00-6.
+MB991502
+AC001252AB NO : Replace the PCM.
+TSB Revision

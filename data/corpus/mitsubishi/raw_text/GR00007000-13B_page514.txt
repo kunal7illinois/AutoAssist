@@ -1,0 +1,36 @@
+13B-514 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Check the power supply voltage at ECM connector
+C-51 <M/T> or PCM connector C-55 <A/T> by backprobing.
+(1) Do not disconnect the connector C-51 <M/T> or C-55 <A/
+T>.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 32 <M/T> or 53 <A/
+<M/T>
+T> and ground by backprobing.
+C-51 CONNECTOR • Voltage should be battery positive voltage.
+HARNESS SIDE VIEW
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+1 2 3 4 5 6 7 8 Q:Is the voltage normal?
+9 10 11121314151617181920212223
+24 25 26272829 30313233 3435 YES : Go to Step 9.
+NO : Go to Step 7.
+AK103039AB
+<A/T>
+C-55 CONNECTOR
+HARNESS SIDE VIEW
+41 42 43 444546
+47 48 495051525354555657
+58 59 606162 646566
+AK103040AB
+STEP 7. Check connector C-51 at ECM <M/T> or connector
+C-55 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-51<M/T>, C-55<A/T>
+YES : Go to Step 8.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 12.
+C-55 C-51
+AK000225AQ
+TSB Revision

@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+4. Check for DTCs with the HDS.
+Is DTC 54-03 indicated?
+YES - Replace the ABS modulator-control unit: Except Si model (see
+REMOVAL - EXCEPT SI MODEL ), Si model (see REMOVAL - SI
+MODEL ).
+NO - Intermittent failure, the system is OK at this time.
+DTC 54-04: FAIL-SAFE RELAY 1 STUCK OFF (INITIAL); DTC 54-21: FAIL-SAFE RELAY 1
+STUCK OFF (MAIN)
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+4. Check for DTCs with the HDS.
+Is DTC 54-04 or 54-21 indicated?
+YES - Go to step 5.
+NO - Intermittent failure, the system is OK at this time. Check for loose
+terminals at the ABS modulator-control unit 25P connector. Refer to
+INTERMITTENT FAILURES TROUBLESHOOTING (see ).
+5. Turn the ignition switch to LOCK (0).
+6. Check the No. 3 FSR (30 A) fuse in the under-hood fuse/relay box.
+Is the fuse blown?
+YES - Go to step 7.
+NO - Reinstall the checked fuse, then go to step 9.
+7. Disconnect the ABS modulator-control unit 25P connector.
+8. Check for continuity between ABS modulator-control unit 25P connector

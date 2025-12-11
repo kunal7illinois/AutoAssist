@@ -1,0 +1,65 @@
+LI–54
+LIGHTING – LIGHTING SYSTEM
+3 CHECK HARNESS AND CONNECTOR (INSTRUMENT PANEL J/B ASSEMBLY - SWITCH
+ASSEMBLY)
+(a) Disconnect the E21 headlight dimmer switch assembly
+Wire Harness Side: connector.
+(b) Disconnect the E6 and E7 main body ECU connectors.
+(c) Disconnect the IG instrument panel J/B connector.
+Headlight Dimmer Switch Assembly
+(d) Measure the resistance according to the value(s) in the
+BFG T table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+LFG
+E21
+HU E21-3 (LFG) - E21-16
+Always Below 1 Ω
+(HL)
+H
+E21-4 (BFG) - E6-28
+Always Below 1 Ω
+EL HL HF A (FFOG)
+E21-11 (HU) - IG-5 (HU) Always Below 1 Ω
+E21-17 (HF) - E7-13 (HF) Always Below 1 Ω
+Main Body ECU
+E21-18 (T) - E7-23
+Always Below 1 Ω
+(TAIL)
+E21-19 (A) - E7-21 (A) Always Below 1 Ω
+E21-20 (H) - E6-17
+Always Below 1 Ω
+(HEAD)
+HF E7 E21-3 (LFG) - Body
+Always 10 kΩ or higher
+ground
+E21-4 (BFG) - Body
+Always 10 kΩ or higher
+A TAIL ground
+E21-11 (HU) - Body
+Always 10 kΩ or higher
+ground
+Main Body ECU
+E21-17 (HF) - Body
+Always 10 kΩ or higher
+ground
+E21-18 (T) - Body
+Always 10 kΩ or higher
+E6 ground
+E21-19 (A) - Body
+Always 10 kΩ or higher
+ground
+FFOG
+E21-20 (H) - Body
+Always 10 kΩ or higher
+ground
+HEAD E21-12 (EL) - Body
+LI ground Always Below 1 Ω
+Instrument Panel J/B Assembly
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+HU
+IG
+E121507E02
+OK
+REPLACE INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY

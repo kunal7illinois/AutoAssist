@@ -1,0 +1,31 @@
+Audi TT No. 24 / 3
+Current Flow Diagram
+Preparation for radio loudspeakers
+R20 Front left treble loudspeaker
+R21 Front left bass loudspeaker
+R22 Front right treble loudspeaker
+R23 Front right bass loudspeaker
+T8d 8-connector, brown, preparation for radio loudspeakers
+T20a 20-pin connector, black, in the front left door
+T20b 20-pin connector, black, in the front right door
+T8d/3 T8d/4 T8d/5 T8d/6
+1,0 1,0 1,0 1,0
+ro/gr br/gr ro br/ro
+T20b/12 T20b/2 T20a/12 T20a/2
+1,0 1,0 0,5 0,5 1,0 1,0 0,5 0,5
+ro/gr br/gr ws br ro br/ro ro br
+2/+ 1/-- 2/+ 1/-- 2/+ 1/-- 2/+ 1/--
+ws = white
+R23 R22 R21 R20
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+15 16 17 18 19 20 21 22 23 24 25 26 27 28 or = orange
+8J0-024030806
+rs = pink
+Edition 08.2006

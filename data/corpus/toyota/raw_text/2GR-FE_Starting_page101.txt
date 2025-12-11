@@ -1,0 +1,45 @@
+ST–101
+2GR-FE STARTING – SMART KEY SYSTEM
+HINT:
+• If smart key system (start) DTCs are output (See page
+ST-28).
+• If smart key system (entry) DTCs are output (See
+page DL-159).
+• If electrical steering lock DTCs are output (See page
+EI-25).
+• If engine immobiliser system DTCs are output (See
+page SR-15).
+• If engine control system DTCs are output (See page
+ES-63).
+NG GO TO DTC CHART
+OK
+4 CHECK ENGINE SWITCH CONDITION
+(a) Check the power source mode change.
+(1) When the key is inside the vehicle and the shift lever
+is in the P position, check that pressing the engine
+switch causes the power source mode to change as
+follows:
+OK:
+off → on (ACC) → on (IG) → off
+HINT:
+• If power mode does not change to ON (IG and
+ACC) (See page ST-114).
+• If power mode does not change to ON (IG) (See
+page ST-122).
+• If power mode does not change to ON (ACC)
+(See page ST-131).
+NG GO TO OTHER PROBLEM
+OK
+5 CHECK CRANKING FUNCTION
+(a) Check the engine cranking function.
+(1) When there is fuel in the fuel tank, the key is inside
+the vehicle, and the shift lever is in the P position,
+check that depressing the brake pedal and pressing
+the engine switch crank the engine.
+OK:
+Engine cranks.
+ST
+OK Go to step 21
+NG
+6 READ VALUE OF INTELLIGENT TESTER (P SIGNAL)
+(a) Connect the intelligent tester to the DLC3.

@@ -1,0 +1,42 @@
+54A-32 CHASSIS ELECTRICAL
+IGNITION SWITCH
+9. This will be displayed when the key ID registration is
+successful. If an error occurs during key ID registration, the
+message "Can’t execute" will be displayed. If the key has
+already been registered, "Key ID has been registered" will
+be displayed.
+ACX01562AB
+10.The number of keys currently registered will be displayed.
+To register an additional key, replace the ignition key with
+the next key to be registered within five seconds and then
+press the "YES" key. Key ID registration screen will be
+displayed, then register another key.
+NOTE: A maximum of eight different keys can be registered.
+If key ID registration is complete, press the "NO" key.
+11.This completes the registration operation. Turn the ignition
+switch to the "LOCK" (OFF) position and leave it off for
+ACX01563AB
+approximately ten seconds.
+12.Check that the engine can be started with each of the
+ignition keys.
+13.Check that the immobilizer system DTC and MFI system
+DTC did not set.
+14.Turn the ignition switch to the "LOCK" (OFF) position.
+15.Disconnect scan tool MB991502.
+.
+Registration of additional keys with the scan tool
+An additional key is registered with the MUT-II while keeping all
+existing key data.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+NOTE: To register additional keys with the MUT-II, no regis-
+tered keys must be lost.
+1. Connect scan tool MB991502 to data link connector (16
+pin).
+2. Turn the ignition switch to the "ON" position.
+16 PIN
+MB991502
+AC001252AB
+TSB Revision

@@ -1,0 +1,29 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-513
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Check the power supply voltage at ECM harness
+side connector C-53 <M/T> or PCM harness side connector
+C-54 <A/T>.
+(1) Disconnect the connector C-53 <M/T> or C-54 <A/T> and
+measure at the harness side.
+(2) Measure the voltage between terminal 38 <M/T> or 49 <A/
+<M/T>
+T> and ground.
+• Voltage should be battery positive voltage.
+Q:Is the voltage normal?
+YES : Go to Step 9.
+3837363534333231 NO : Repair harness wire between MFI relay connector A-
+4645444342414039
+18X terminal 3 and ECM connector C-53 (terminal 38)
+C-53 HARNESS <M/T> or PCM connector C-54 (terminal 49) <A/T>
+SIDE CONNECTOR
+because of open circuit. Then confirm that the
+malfunction symptom is eliminated.
+AK000405AC
+<A/T>
+C-54 HARNESS
+SIDE CONNECTOR
+464544 4342 41
+57565554535251504948 47
+666564 63626160 59 58
+AK000406AD
+TSB Revision

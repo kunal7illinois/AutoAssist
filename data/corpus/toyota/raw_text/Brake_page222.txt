@@ -1,0 +1,53 @@
+BC–216
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC No. DTC Detection Condition Trouble Area
+When any of the following is detected:
+• At a vehicle speed of 4.3 mph (7 km/h) or more, when the
+PMC terminal voltage is over 0.86 V, it does not change
+by 0.005 V or more for 30 seconds.
+• Noise occurs in the PMC terminal 7 times or more within
+5 seconds.
+• Master cylinder pressure sensor
+• When the stop light switch is OFF, the PMC terminal
+• Master cylinder pressure sensor circuit
+C1246/46 voltage is more than 0.86 V or less than 0.3 V for 5
+• Stop light switch circuit
+seconds or more.
+• Brake actuator assembly
+• With the IG1 terminal voltage between 9.5 and 17.2 V, the
+VCM terminal voltage is not between 4.4 and 5.6 V for 1.2
+seconds or more.
+• When the VCM terminal voltage between 4.4 and 5.6 V,
+the PCM terminal voltage is not between 0.14 and 4.85 V
+for 1.2 seconds or more.
+INSPECTION PROCEDURE
+NOTICE:
+When replacing the brake actuator assembly, perform zero point calibration (See page BC-119).
+BC
+1 CHECK STOP LIGHT OPERATION
+(a) Check that the stop light comes on when the brake pedal
+is depressed, and goes off when the brake pedal is
+released.
+OK
+Condition Illumination Condition
+Brake pedal depressed ON
+Brake pedal released OFF
+NG INSPECT STOP LIGHT CIRCUIT
+OK
+2 READ VALUE OF INTELLIGENT TESTER (MASTER CYLINDER PRESSURE SENSOR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine.
+(c) Select the Data List mode on the intelligent tester.
+ABS / VSC:
+Item (Display) Measurement Item / Range (Display) Normal Condition
+Master cylinder pressure sensor 1 reading / min.: 0 V,
+MAS CYL PRESS 1 When brake pedal is released: 0.3 to 0.5 V
+max.: 5 V
+(d) Check that the brake fluid pressure value of the master
+cylinder pressure sensor observed on the intelligent
+tester changes when the brake pedal is depressed.
+OK:
+When the pedal is depressed, voltage displayed on
+the intelligent tester increases.
+NG REPLACE BRAKE ACTUATOR ASSEMBLY
+OK

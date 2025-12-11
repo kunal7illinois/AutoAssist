@@ -1,0 +1,36 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-243
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 12. Check connector A-18X at MFI relay for damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-18X
+YES : Repair harness wire between MFI relay connector A-
+MFI RELAY 18X terminal 4 and crankshaft position sensor
+connector B-20 terminal 3 because of open circuit or
+short circuit to ground. Then go to Step 21.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 21.
+AK101363AB
+STEP 13. Check the continuity at crankshaft position
+sensor harness side connector B-20.
+(1) Disconnect the connector B-20 and measure at the harness
+side.
+(2) Check for the continuity between terminal 1 and ground.
+• Should be less than 2 ohm.
+B-20 HARNESS
+SIDE CONNECTOR Q:Is the continuity normal?
+2 1 YES : Go to Step 16.
+3 NO : Go to Step 14.
+AKX01418AC
+STEP 14. Check connector C-53 at ECM <M/T> or
+connector C-50 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-53<M/T>,C-50<A/T>
+YES : Go to Step 15.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 21.
+OR
+PCM<A/T>
+C-50 C-53
+AK000280BK
+TSB Revision

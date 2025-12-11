@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+DTC P0977: Open in Shift Solenoid Valve B Circuit
+NOTE:
+Before you troubleshoot, record all freeze data and any
+(cid:1)
+on-board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+This code is caused by an electrical circuit problem and
+(cid:1)
+cannot be caused by a mechanical problem in the
+transmission.
+1. Turn the ignition switch to ON (II).
+2. Clear the DTC with the HDS.
+3. Test-drive the vehicle in 3rd gear with the shift lever in D, for at least 1 second.
+4. Check for DTCs with the HDS.
+Is DTC P0977 indicated?
+YES -Go to step 8.
+NO -Go to step 5.
+5. Select Shift Solenoid Valve B in the Miscellaneous Test Menu, and test shift
+solenoid valve B with the HDS.
+Is a clicking sound heard?
+YES -Go to step 6.
+NO -Go to step 8.
+6. Test-drive the vehicle in 3rd gear with the shift lever in D, for at least 1 second.
+7. Monitor the OBD STATUS for P0977 in the DTCs MENU with the HDS.
+Does the HDS indicate FAILED?
+YES -Go to step 8.

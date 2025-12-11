@@ -1,0 +1,23 @@
+CA–118
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+10 CHECK FOR SHORT TO GND IN CAN BUS WIRE (A/C AMPLIFIER)
+(a) Disconnect the A/C amplifier connector (E38).
+No. 2 CAN J/C Connector (Rear of the
+Vehicle) Wire Harness Side View:
+Front
+E41 CANH
+CA
+CANL
+C133246E05
+(b) Measure the resistance according to the value(s) in the
+DLC3: E10 table below.
+Standard resistance
+Tester Connection Condition Specified Value
+E41-1 (CANH) - E10-4 (CG) Ignition switch off 200 Ω or higher
+E41-7 (CANL) - E10-4 (CG) Ignition switch off 200 Ω or higher
+NG REPAIR OR REPLACE A/C AMPLIFIER
+CG
+BRANCH WIRE OR CONNECTOR
+C126231E15
+OK
+REPLACE A/C AMPLIFIER

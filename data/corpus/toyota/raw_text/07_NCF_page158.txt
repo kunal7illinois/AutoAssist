@@ -1,0 +1,25 @@
+ENGINE - 2GR-FE ENGINE EG-131
+Operation
+(cid:3) The ECM controls the cooling fan speed in accordance with the value of the engine coolant temperature,
+as shown in the graph below. When the engine coolant temperature is higher than a specific value, the
+control differs depending on whether the engine speed is at idling and below or more.
+More than Idling
+At Idling or below
+Fan Speed
+(Control Voltage)
+Engine Coolant
+Temperature
+025EG14TE
+(cid:3) The ECM controls the cooling fan speed in accordance with the value of the air conditioning refrigerant
+pressure, as shown in the graph below. When the air conditioning refrigerant pressure is higher than a
+specific value, the control differs depending on whether the engine speed is at low speeds and below or
+more.
+Fan Speed
+(Control Voltage)
+At Low Speeds
+or Below
+More than
+Low Speeds
+Air Conditioning
+Refrigerant Pressure
+025EG15TE

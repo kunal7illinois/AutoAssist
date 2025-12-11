@@ -1,0 +1,25 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-517
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE O-9: Column Switch: ETACS-ECU does not receive Any Signal from the
+Windshield Intermittent Wiper Interval Adjusting Knob.
+Windshield Intermittent Wiper Interval Adjusting Knob Input Circuit
+CONNECTOR: C-86 CONNECTOR: C-118
+JUNCTION BLOCK
+(REAR VIEW)
+AC106475AC AC106481AE
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the windshield intermittent wiper interval can not be
+The ETACS-ECU calculates the windshield intermit-
+adjusted, the column switch or the ETACS-ECU may
+tent wiper interval according to the position of the
+be defective.
+windshield intermittent wiper interval adjusting knob,
+which is incorporated in column switch (windshield
+.
+wiper and washer switch). TROUBLESHOOTING HINTS
+• Malfunction of the column switch (windshield
+. wiper and washer switch)
+• Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+TSB Revision

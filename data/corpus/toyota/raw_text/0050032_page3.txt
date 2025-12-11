@@ -1,0 +1,35 @@
+ES–181
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+ECM
+Camshaft Position Sensor Shielded
+Intake Camshaft G2+
+G2-
+ES
+Crankshaft Position Sensor
+Shielded
+NE-
+NE+
+Crankshaft Position
+Sensor Plate
+E1
+A127258E02
+INSPECTION PROCEDURE
+HINT:
+• If no problem is found through this diagnostic troubleshoot procedure, troubleshoot the engine
+mechanical systems.
+• Check the engine speed. The engine speed can be checked by using the intelligent tester. To check,
+follow the operation below:
+(a)Connect the intelligent tester to the DLC3.
+(b)Start the engine.
+(c)Turn the tester ON
+(d)Select the following menu items: DIAGNOSIS / ENHANCED OBD II / DATA LIST / PRIMARY /
+ENGINE SPD.
+The engine speed may be indicated as zero despite the engine revolving normally. This is caused
+by a lack of NE signals from the Crankshaft Position (CKP) sensor. Alternatively, the engine speed
+may be indicated as lower than the actual engine speed if the CKP sensor output voltage is
+insufficient.
+• Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition
+when malfunctions are detected. When troubleshooting, freeze frame data can help determine if the
+vehicle was moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or
+rich, and other data from the time the malfunction occurred.

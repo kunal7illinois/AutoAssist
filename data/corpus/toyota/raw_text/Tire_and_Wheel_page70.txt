@@ -1,0 +1,19 @@
+TW–69
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+Tire Pressure Warning Light Circuit
+DESCRIPTION
+If the ECU detects trouble, the tire pressure warning light blinks (comes on after blinking for 1 minute) and
+tire pressure monitor is cancelled at the same time. At this time, the ECU records a DTC in the memory.
+Connect terminals TC and CG of DLC3 to make the tire pressure warning light blink and output the DTC.
+WIRING DIAGRAM
+Combination Meter Tire Pressure Warning ECU
+TW
+7 5
+TIRE F1 E60 IND
+E129599E01
+INSPECTION PROCEDURE
+NOTICE:
+It is necessary to perform initialization (See page TW-18) after registration (See page TW-15) of the
+transmitter IDs into the tire pressure warning ECU, after the ECU have been replaced.
+HINT:
+This procedure must be performed according to the PROBLEM SYMPTOMS TABLE.

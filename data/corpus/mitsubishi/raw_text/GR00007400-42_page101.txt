@@ -1,0 +1,37 @@
+BODY 42-101
+CONVERTIBLE TOP
+STEP 2. Check the harness wires between convertible top
+control module connector F-34 (terminals 8, 9) and
+convertible top switch connector C-35 (terminals 4, 5).
+NOTE: After inspecting intermediate connector C-36 inspect
+CONNECTOR:F-34
+the wire. If intermediate connector C-36 is damaged, repair or
+replace it. Refer to GROUP 00E P.00E-2, Harness Connector
+Inspection. Then go to Step 5.
+Q:Are the harness wires between convertible top control
+module connector F-34 (terminals 8, 9) and convertible
+top switch connector C-35 (terminals 4, 5) in good
+condition?
+YES : Go to Step 3.
+AC004102AB NO : Repair or replace them. Refer to GROUP 00E,
+Harness Connector InspectionP.00E-2 . Then go to
+CONNECTORS:C-35,C-36
+Step 5.
+C-35
+C-36
+AC004104AB
+STEP 3. Check the convertible top switch
+Q:Are convertible top switch in good condition?
+YES : Go to Step 4.
+NO : Replace the convertible top switch P.42-137.
+STEP 4. Check the topstack drive motor assembly.
+Q:Are topstack drive motor assembly in good condition?
+YES : Go to Step 5.
+NO : Replace the topstack drive motor assemblyP.42-114 .
+AC004099
+STEP 5. Check symptoms.
+Q:Does the electric convertible top open and close
+normally?
+YES : This diagnosis is complete.
+NO : Return to Step 1.
+TSB Revision

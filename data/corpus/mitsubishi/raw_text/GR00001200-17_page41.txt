@@ -1,0 +1,51 @@
+ENGINE AND EMISSION CONTROL 17-41
+AUTO-CRUISE CONTROL
+STEP 1. Check the throttle position sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Using scan tool MB991502.
+(2) Connect scan tool MB991502 to the data link connector.
+(3) Turn the ignition switch to the "ON" position.
+(4) Read the MFI-DTC.
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the MFI-DTC P0120 is output?
+MB991502 AC001252AB YES : For 2.4L engine, refer to GROUP 13A, Diagnosis −
+Diagnostic Trouble Code Chart P.13A-22.
+For 3.0L engine, refer to GROUP 13B, Diagnosis −
+Diagnostic Trouble Code Chart P.13B-22.
+NO : Go to Step 2.
+STEP 2. Check the output circuit voltage at auto-cruise
+control-ECU connector C-20 (terminal number 1) by
+backprobing.
+(1) Do not disconnect auto-cruise control-ECU connector C-20.
+(2) Turn the ignition switch to the "ON" position and the auto-
+cruise control main switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground by
+backprobing.
+• Voltage should be between 4.0 and 5.5 volts.
+(When accelerator pedal is fully depressed.)
+1 2 3 4 5 6 7 8 • Voltage should be between 0.4 and 1.0 volts.
+9 10111213141516 (When accelerator pedal is released.)
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+C-20 CONNECTOR
+HARNESS SIDE VIEW Q:Are the voltage within specifications?
+YES : Check that diagnostic trouble code 17 is not output.
+AC103150AB If diagnostic trouble code 17 is output, replace the
+auto-cruise control-ECU. (Refer to P.17-86.)
+Then check that diagnostic trouble code 17 is not
+output.
+NO : Go to Step 3.
+STEP 3. Check auto-cruise control-ECU connector C-20.
+Q:Is the connector damaged?
+CONNECTOR: C-20
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that diagnostic trouble code 17 is not
+output.
+NO : Go to Step 4.
+AC001451AB
+TSB Revision

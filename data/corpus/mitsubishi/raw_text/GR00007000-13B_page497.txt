@@ -1,0 +1,54 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-497
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+• When the steering wheel is turned, hydraulic • Drive for 4 seconds or more with the vehicle
+pressure rises. The power steering pressure speed is 50 km/h (31 mph) or more. Stop the
+switch closes, and the applied battery positive vehicle [vehicle speed is 1.5 km/h (0.93 mph) or
+voltage will be grounded. With this, the power less]. Repeat 10 times or more.
+steering pressure switch output voltage will fluc-
+Judgment Criteria
+tuate between 12 volts and 0 volt.
+• Power steering pressure switch continues to be
+• While driving with the steering wheel held
+"ON".
+straight, the power steering pressure switch turns
+"OFF".
+.
+• The ECM <M/T> or PCM <A/T> checks whether TROUBLESHOOTING HINTS (The most likely
+causes for this code to be set are:)
+the power steering pressure switch turns "OFF"
+• Power steering pressure switch failed.
+or "ON" during driving.
+• Open or shorted power steering pressure switch
+circuit, or loose connector.
+.
+DTC SET CONDITIONS
+• ECM failed. <M/T>
+Check Conditions • PCM failed. <A/T>
+• Engine coolant temperature is higher than 30°C
+(86°F).
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 27:
+Power Steering Pressure Switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+27, Power Steering Pressure Switch.
+16 PIN • If the steering wheel is stopped while idling, "OFF" will
+be displayed.
+MB991502
+• If the steering wheel is steered while idling, "ON" will be
+AKX01177AB
+displayed.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+TSB Revision

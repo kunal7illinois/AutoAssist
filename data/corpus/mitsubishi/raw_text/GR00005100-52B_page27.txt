@@ -1,0 +1,38 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-27
+SRS AIR BAG DIAGNOSIS
+STEP 3. Check the air bag module connector C-81.
+Remove the air bag module mounting equipment and check air
+INFLATOR CACE A SECTION A – A
+bag module connector C-81.At this time, check that there is no
+A
+NO GOOD
+gap at place B shown in the illustration. (Refer to P.52B-144 .)
+B
+Q: Is the connector correctly connected?
+YES : Go to Step 4.
+NO : Insert the connector to the place, where there remains
+AIR BAG MODULE GOOD
+no gap at place B shown in the illustration. Then go to
+CONNECTOR: C-81
+Step 9.
+AC002016AG
+STEP 4. Check the SRS-ECU connector C-72 and clock
+spring connector C-85.
+(1) Disconnect the negative battery terminal.
+(2) Disconnection connectors C-72 and C-85 then reconnect
+CONNECTOR: C-72
+them.
+(3) Connect the negative battery terminal.
+(4) Erase the DTC memory, and then check the DTC.
+Q:Is DTC 21 output?
+YES : Go to Step 5.
+NO : The inspection is complete. (It is assumed that DTC
+SRS-ECU
+21 set as connector C-72 or C-85 was engaged
+ACCELERATOR PEDAL improperly.)
+CENTER REINFORCEMENT(LH)AC000358AD
+CONNECTOR: C-85
+CLOCK
+SPRING
+AC106436AC
+TSB Revision

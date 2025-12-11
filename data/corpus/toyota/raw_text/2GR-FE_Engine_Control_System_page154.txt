@@ -1,0 +1,37 @@
+ES–154
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR STRATEGY
+P0115: Engine coolant temperature sensor open/short (Fluctuating)
+P0117: Engine coolant temperature sensor short (Low electrical
+Related DTCs resistance)
+P0118: Engine coolant temperature sensor open (High electrical
+resistance)
+Required Sensors/Components (Main) Engine coolant temperature sensor
+Required Sensors/Components (Sub) -
+Frequency of Operation Continuous
+Duration 0.5 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+ES
+Monitor runs whenever following DTCs are not present None
+TYPICAL MALFUNCTION THRESHOLDS
+P0115:
+Engine coolant temperature sensor voltage Less than 0.14 V, or more than 4.91 V
+P0117:
+Engine coolant temperature sensor voltage Less than 0.14 V
+P0118:
+Engine coolant temperature sensor voltage More than 4.91 V
+COMPONENT OPERATING RANGE
+Engine coolant temperature sensor resistance 79 Ω to 156 kΩ [-40 to 140°C (-40 to 284°F)]
+WIRING DIAGRAM
+C4 ECM
+Engine Coolant Temperature Sensor
+5 V
+79
+2 THW R
+C55
+78
+1 ETHW
+C55
+A110108E16

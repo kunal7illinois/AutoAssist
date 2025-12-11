@@ -1,0 +1,49 @@
+Audi TT No. 8 / 2
+Current Flow Diagram
+Driver door control unit, fuses
+J386 Driver door control unit
+SC12 Fuse 12 on fuse holder C
+SC22 Fuse 22 on fuse holder C
+SC26 Fuse 26 on fuse holder C
+SC27 Fuse 27 on fuse holder C
+SD3 Fuse 3 on fuse holder D
+T20a 20-pin connector, black, in the front left door
+T20f 20-pin connector, connector A, on driver door control unit
+✱
+B300
+SD3/110A 44 Earth point, lower part of left A-pillar
+E1
+6,0 16,0 B299 Positive connection 3 (30), in main wiring harness
+ro ro
+B299 B300 Positive connection 4 (30), in main wiring harness
+* main fuse box, in luggage compartment, rear right, on the battery
+6,0 6,0
+ro ro # up to May 2007
+## from June 2007
+12 22 26 27
+J386
+SC12 SC22 SC26 SC27
+10A 30A 30A 30A
+12a 22a 26a 27a T20f/12# T20f/20 T20f
+T20f/18## 30 /19
+30 31
+0,5 0,5 2,5 2,5 0,5 2,5 2,5
+ro/ge ro/ge ro/gn ro/gn ro/ge ro/gn br
+99 8855 1111 8877
+T20a/13 T20a/11 T20a/1
+0,5 2,5 2,5
+ro/ge ro/gn br
+11 55
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-008020408
+rs = pink
+Edition 04.2008

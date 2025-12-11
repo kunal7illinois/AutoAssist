@@ -1,0 +1,42 @@
+13A-130 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Check connector B-17 at heated oxygen sensor
+(front) and connector C-60 at ECM <M/T> or connector C-
+57 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-17
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 15.
+AAKK110033552266AB
+CONNECTORS:C-60<M/T>,C-57<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-60
+C-57
+AK000280BE
+STEP 5. Using scan tool MB991502, check data list item 11:
+Heated Oxygen Sensor (front).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+11, Heated Oxygen Sensor (front).
+16 PIN • Warming up the engine. When the engine is revved, the
+output voltage should be 0.6 to 1.0 volt.
+MB991502
+• Warming up the engine. When the engine is idling, the
+AKX01177AB
+output voltage should repeat 0.4 volt and 0.6 to 1.0 volt
+alternately.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Replace the ECM or PCM. Then go to Step 15.
+TSB Revision

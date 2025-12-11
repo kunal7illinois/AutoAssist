@@ -1,0 +1,46 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-15
+SWS DIAGNOSIS
+ITEMS ITEM INPUT SIGNALS DISPLAY ON SCAN NORMAL CONDITIONS
+NO. TOOL
+TAILLIGHT 00 Headlight switch HEADLIGHT SW OFF
+01 Tail light switch TAILLIGHT SW ON
+03 Passing light switch PASSING SW OFF
+30 Ignition switch (IG1) IG SW (IG1) ON
+35 Headlight automatic shutdown H/L AUTO-CUT OFF
+function
+70 Response by the front-ECU FRONT ECU ACK NORMAL ACK
+NOTE: When checking the input signals (off, tail, For checking item "HI (High-beam)", the scan tool
+low-beam or high-beam), turn the ignition switch to displays "OFF" on the item No.2 "Dimmer SW" when
+the "ON" position in order to disable the headlight the headlights are at high-beam. Therefore, the scan
+automatic shutdown function. However, the headlight tool should display "ON" momentarily when the dim-
+operation does not depend on the ignition switch mer switch is operated.
+positions, the scan tool does not display the title
+"IGNITION SWITCH."
+• TURN SIGNAL
+ITEMS ITEM INPUT SIGNALS DISPLAY ON SCAN TOOL NORMAL
+NO. CONDITIONS
+TURN-SIG.LH 10 Turn-signal light switch (RH) T/S RH SW OFF
+11 Turn-signal light switch (LH) T/S LH SW ON
+30 Ignition switch (IG1) IG SW (IG1) ON
+TURN-SIG.RH 10 Turn-signal light switch (RH) T/S RH SW ON
+11 Turn-signal light switch (LH) T/S RH SW OFF
+30 Ignition switch (IG1) IG SW (IG1) ON
+• BUZZER
+ITEMS ITEM INPUT SIGNALS DISPLAY ON SCAN NORMAL
+NO. TOOL CONDITIONS
+KEY RMND.ALM 30 Ignition switch (IG1) IG SW (IG1) OFF
+32 Front door switch FRONT DOOR SW ON
+43 Tone alarm BUZZER ON
+LGT MONI.ALRM 00 Headlight switch HEADLIGHT SW Either is on
+01 Tail light switch TAILLIGHT SW
+30 Ignition switch (IG1) IG SW (IG1) OFF
+32 Front door switch FRONT DOOR SW ON
+35 Headlight automatic shutdown function H/L AUTO-CUT OFF
+43 Tone alarm BUZZER ON
+OTHER ALARM 30 Ignition switch (IG1) IG SW (IG1) ON
+43 Tone alarm BUZZER ON
+NOTE: The headlight automatic shutdown function
+works in approximately one second after the lighting
+monitor tone alarm starts sounding, and then the
+tone alarm ceases sounding.
+TSB Revision

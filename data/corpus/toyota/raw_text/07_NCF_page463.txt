@@ -1,0 +1,27 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-129
+Battery Saving
+1) Vehicle Battery Saving Function
+In the smart key system, signals are emitted outside the vehicle at a prescribed interval (250 msec.) when
+the doors are locked. Therefore, the vehicle battery could be drained if the vehicle remains parked for
+a long time. For this reason, the controls listed below are effected.
+Condition Control
+No response from key for
+Signal transmission interval is extended from 250 msec. to 750 msec.
+more than 5 days
+No response from key for
+Automatically deactivates the smart key system.
+more than 14 days
+(cid:1) Reinstatement Conditions (cid:2)
+(cid:3) A wireless door lock remote control signal (lock, unlock, or trunk lid open) is input and the ID matches.
+(cid:3) A user carries the key and pushes a lock switch signal for the outside door handle.
+(cid:3) A door is locked or unlocked using the mechanical key.
+2) Key Battery and Vehicle Battery Saving Function
+In the smart key system, if the key is constantly located within the vehicle exterior actuation area of the
+doors, the system will maintain periodic communication with the key. Therefore, if the vehicle remains
+parked in that state for a long time, the key battery and the vehicle battery could be drained.
+For this reason, if this state continues longer than 10 minutes, the smart key system automatically
+becomes deactivated.
+(cid:1) Reinstatement Conditions (cid:2)
+(cid:3) A wireless door lock remote control signal (lock, unlock, or trunk lid open) is input and the ID matches.
+(cid:3) A user who has the key in their possession pushes a lock switch signal on an outside handle.
+(cid:3) A door is locked or unlocked using the mechanical key.

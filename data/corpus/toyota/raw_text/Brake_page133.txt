@@ -1,0 +1,45 @@
+BC–127
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+If the vehicle is equipped with a multi information
+display, and the vehicle stores a DTC, the master
+caution indicator light will illuminate, and the multi
+information display will indicate the malfunction
+instead of the VSC warning light. In this case, the
+ABS warning, BRAKE warning, and SLIP indicator
+lights will also come on.
+If the indicator remains on or does not come on,
+proceed to troubleshooting for the light circuits listed
+below.
+Trouble Area See procedure
+ABS warning light circuit BC-229 or BC-233
+BRAKE warning light circuit BC-244 or BC-252
+VSC warning light circuit BC-236 or BC-240
+SLIP indicator light circuit BC-255 or BC-259
+2. SENSOR CHECK USING TEST MODE (SIGNAL
+CHECK) (INTELLIGENT TESTER)
+BC
+NOTICE:
+After replacement of the brake actuator assembly
+and/or yaw rate and acceleration sensor, perform
+zero point calibration of the yaw rate and
+acceleration sensor.
+HINT:
+• If the ignition switch is turned from on (IG) to on
+(ACC) or off during Test Mode (signal check), DTCs of
+the signal check function will be erased.
+• During Test Mode (signal check), the skid control ECU
+records all DTCs of the signal check function. By
+performing the Test Mode (signal check), the codes
+are erased if a normal condition is confirmed. The
+remaining codes are the codes where an abnormality
+was found.
+(a) Procedure to enter Test Mode.
+(1) Turn the ignition switch off.
+(2) Connect the intelligent tester to the DLC3.
+(3) Check that the steering wheel is centered and
+move the shift lever to the P position (A/T) or
+apply the parking brake (M/T).
+(4) Turn the ignition switch on (IG).
+DLC3
+Intelligent Tester
+C131977E06

@@ -1,0 +1,57 @@
+Audi TT No. 12 / 2
+Current Flow Diagram
+Garage door operation control unit, garage door operating
+unit
+E284 Garage door operating unit
+J519 Onboard supply control unit
+J530 Garage door operation control unit
+J681 Terminal 15 voltage supply relay 2
+SC7 Fuse 7 on fuse holder C
+T2t 2-pin connector, black connector L, on onboard supply control
+unit
+J519 J681# T6r 6-pin connector, black, on garage door operating unit
+T2t/2 8/87
+44 Earth point, lower part of left A-pillar
+4,0✱ 4,0✱✱
+sw sw
+366 Earth connection 1, in main wiring harness
+B163
+370 Earth connection 5, in main wiring harness
+4,0
+sw
+372 Earth connection 7, in main wiring harness
+7
+E284
+SC7 672 Earth point 2, on front of left longitudinal member
+5A
+7a T6r/5 T6r/2 T6r/4
+31
+B163 Positive connection 1 (15), in interior wiring harness
+0,5 0,35 0,35 0,35
+sw/ge sw/ge gn/ws br
+B281 Positive connection 5 (15a), in main wiring harness
+* up to May 2009
+2
+** from June 2009
+# Relay carrier on onboard power supply control unit
+J530
+4 3/31
+0,35 0,5
+sw/ge br
+B281
+372 370
+2,5
+br ws = white
+sw = black
+366 ro = red
+br = brown
+6,0 1,0 gn = green
+br br
+bl = blue
+gr = grey
+672 44 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-012020409
+rs = pink
+Edition 04.2009

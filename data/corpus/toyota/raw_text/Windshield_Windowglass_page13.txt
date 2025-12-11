@@ -1,0 +1,58 @@
+WS–13
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+Specified
+Symbols (Terminal No.) Wiring Color Terminal Description Condition
+Condition
+Ignition switch on (IG), rear
+Power window motor LH side power window 0 V → 10 to 14
+RLD (M1-13) - E (M1-1) B - W-B
+DOWN output switch OFF → DOWN V
+(Manual operation)
+Ignition switch on (IG), rear WS
+Power window motor UP RH side power window 0 V → 10 to 14
+RRU (M1-10) - E (M1-1) Y - W-B
+output switch OFF → UP (Manual V
+operation)
+Ignition switch on (IG), rear
+Power window motor RH side power window 0 V → 10 to 14
+RRD (M1-18) - E (M1-1) LG - W-B
+DOWN output switch OFF → DOWN V
+(Manual operation)
+If the result is not as specified, there may be a
+malfunction in the wire harness.
+2. CHECK POWER WINDOW REGULATOR SWITCH
+ASSEMBLY (FRONT RH)
+H6
+B137057E01
+(a) Disconnect the H6 switch connector.
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Specified
+Symbols (Terminal No.) Wiring Color Terminal Description Condition
+Condition
+B (H6-3) - Body ground GR - Body ground Power supply Ignition switch on (IG) 10 to 14 V
+If the result is not as specified, there may be a
+malfunction in the wire harness.
+(c) Reconnect the H6 switch connector and reset the
+power window motor.
+(d) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Specified
+Symbols (Terminal No.) Wiring Color Terminal Description Condition
+Condition
+Ignition switch on (IG),
+Power window motor UP front passenger side 0 V → 10 to 14
+U (H6-4) - Body ground G - Body ground
+output power window switch OFF V
+→ UP (Manual operation)
+Ignition switch on (IG),
+front passenger side
+Power window motor 0 V → 10 to 14
+D (H6-1) - Body ground Y - Body ground power window switch OFF
+DOWN output V
+→ DOWN (Manual
+operation)
+If the result is not as specified, the power window
+regulator switch assembly may have a malfunction.

@@ -1,0 +1,57 @@
+54B-10 SIMPLIFIED WIRING SYSTEM (SWS)
+SWS DIAGNOSIS
+CHECK ITEMS ITEM DISPLAY ON CHECK CONDITIONS NORMAL
+NO. SCAN TOOL CONDITIONS
+Headlight switch 00 HEADLIGHT Lighting switch: HEAD ON
+SW
+Lighting switch: Other than HEAD OFF
+Windshield high- 07 HI WIPER SW Wiper switch: HI ON
+speed wiper switch
+Wiper switch: Other than HI OFF
+With or without 15 INT WIPE Vehicles with intermittent wiper control EQUIP
+windshield KNOB
+Vehicles without intermittent wiper control NON
+intermittent wiper
+interval adjusting
+knob
+Windshield 05 INT WIPER Wiper switch: INT ON
+intermittent wiper SW
+Wiper switch: Other than INT OFF
+switch
+Windshield low- 06 LO WIPER Wiper switch: LO ON
+speed wiper switch SW
+Wiper switch: Other than LO OFF
+Wind shield mist 08 MIST WIPER Wiper switch: Mist ON
+wiper switch SW
+Wiper switch: Other than "Mist" position OFF
+Passing light switch 03 PASSING SW Passing light switch: ON ON
+Passing light switch: OFF OFF
+Tail light switch 01 TAILLIGHT Lighting switch: TAIL ON
+SW
+Lighting switch: OFF OFF
+Turn-signal light 11 T/S LH SW Turn-signal light switch: LH ON
+switch (LH)
+Turn-signal light switch: Other than LH OFF
+Turn-signal light 10 T/S RH SW Turn-signal light switch: RH ON
+switch: RH
+Turn-signal light switch: Other than RH OFF
+Rear wiper switch 13 REAR WIPER Rear wiper switch: INT ON
+SW
+Rear wiper switch: Other than INT OFF
+Rear washer switch 14 REAR Rear wiper switch: Washer ON
+WASH.SW
+Rear wiper switch: Other than "Washer" OFF
+position
+• ETACS ECU
+CHECK ITEM DISPLAY ON CHECK CONDITIONS NORMAL
+ITEMS NO. SCAN TOOL CONDITIONS
+Beep data 60 BEEP DATA 1.Ignition switch: ACC or ON ON (2 kHz) (only
+2.Carry out the audio preset operation. momentarily when
+switch is operated)
+Other than the condition above OFF
+Tone alarm 43 BUZZER 1.Ignition switch: LOCK (OFF) ON
+2.Key reminder switch: ON
+3.Front door switch: ON (front door open)
+When requirements for sounding each OFF
+warning tone alarm are not satisfied
+TSB Revision

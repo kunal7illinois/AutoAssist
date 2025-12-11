@@ -1,0 +1,40 @@
+CH-102 CHASSIS - BRAKE
+10. Diagnosis
+General
+If the skid control ECU detects a malfunction in the brake control system (ABS with EBD), the ABS and
+brake system warning lights that correspond to the function in which the malfunction have been detected
+indicate or light up to alert the driver of the malfunction as indicated in the table below.
+(cid:5): Light ON —: Light OFF
+Item ABS EBD Skid Control ECU
+ABS Warning Light (cid:5) (cid:5) (cid:5)
+Brake System Warning Light — (cid:5) (cid:5)
+(cid:3) At the same time, the DTC (Diagnostic Trouble Code) are stored in the memory. The DTC can be read
+by connecting the SST (09843-18040) between the Tc and CG terminals of DLC3 and observing the
+blinks of the ABS warning light, or by connecting a hand-held tester.
+(cid:3) This system has a sensor signal check (test mode) function. This function is activated by connecting the
+SST (09843-18040) between the Ts and CG terminal of the DLC3 or by connecting a hand-held tester.
+(cid:3) If the skid control ECU detects a malfunction during a sensor signal check (test mode), it stores the DTC
+in its memory. These DTC can be read during a sensor check operation by connecting the SST
+(09843-18040) to the Tc and CG terminals of the DLC3 and observing the blinking of the ABS warning
+light or a connecting hand-held tester.
+Service Tip
+The skid control ECU uses the CAN protocol for diagnostic communication. Therefore, a hand-held
+tester and a dedicated adapter [CAN VIM (Vehicle Interface Module)] are required for accessing
+diagnostic data. For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).
+Diagnosis of CAN
+(cid:3) If a malfunction occurs on a CAN communication line, the skid control ECU is connected to the CAN
+communication lines and it will store the DTC (Diagnostic Trouble Code) in its memory.
+(cid:3) There are 2-digit DTC and 5-digit DTC for CAN communications related to the brake control system
+(ABS with EBD and brake assist).
+- 2-digit DTC can be read by connecting the SST (09843-18040) to Tc and CG terminals of the DLC3,
+and observing the diagnostic code indicated on the multi-information display in the combination
+meter.
+- 5-digit DTC can be read by connecting a hand-held tester to the DLC3.
+Service Tip
+The skid control ECU uses the CAN protocol for diagnostic communication. Therefore, a hand-held
+tester and a dedicated adapter [CAN VIM (Vehicle Interface Module)] are required for accessing
+diagnostic data. For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).
+Fail-Safe
+(cid:3) In the event of a malfunction in the ABS, the skid control ECU prohibits the ABS operation.
+(cid:3) In the event of a malfunction in EBD control, the skid control ECU prohibits EBD control. Thus, the
+brake will be operated in the same condition as the system without the ABS with EBD.

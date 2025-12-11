@@ -1,0 +1,58 @@
+ES–272
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(b) EVAP VSV stuck closed
+In operation D, the pressure sensor measures the EVAP (Evaporative Emission) system
+pressure. The pressure measurement for EVAP VSV monitor is begun when the EVAP VSV is
+turned ON (open) after the EVAP leak check. When the measured pressure indicates an
+increase of 0.3 kPa (2.25 mmHg) or more, the EVAP VSV is functioning normally. If the pressure
+does not increase, the ECM interprets this as the EVAP VSV being stuck closed. The ECM
+illuminates the MIL and sets the DTC (2 trip detection logic).
+EVAP Pressure when VSV (for EVAP) Stuck Closed:
+ON: Open
+ON
+VSV (for EVAP)
+OFF: Closed
+ON: Closed
+ON
+Vent Valve
+ON: Vent
+ES
+ON
+Vacuum Pump
+EVAP Pressure
+OK
+Positive
+Negative
+Malfunction
+First 0.02 Inch
+Leak Pressure
+Standard
+Sequence
+A B C D E
+Time
+10 seconds 60 Within 15 minutes 10 60
+seconds seconds seconds
+A106059E09
+2. PURGE FLOW MONITOR
+EVAP Pressure During Purge Flow Monitor: The purge flow monitor consists of the two step monitors.
+The 1st monitor is conducted every time and the 2nd
+monitor is activated if necessary.
+VSV (for Open
+EVAP) • The 1st monitor
+ON While the engine is running and the EVAP VSV
+(Closed)
+(vacuum Switching Valve) is ON (open), the ECM
+Vent Valve
+Malfunction
+monitors the purge flow by measuring the EVAP
+EVAP 0.1 kPa pressure change. If negative pressure is not created,
+Pressure the ECM begins the 2nd monitor.
+OK • The 2nd monitor
+The vent valve is turned ON (closed) and the EVAP
+0.5 kPa
+OK pressure is then measured. If the variation in the
+1st Monitor 2nd Monitor pressure is less than 0.5 kPa (3.75 mmHg), the ECM
+interprets this as the EVAP VSV being stuck closed,
+A071563E14 and illuminates the MIL and sets DTC P0441 (2 trip
+detection logic).
+Atmospheric pressure check:

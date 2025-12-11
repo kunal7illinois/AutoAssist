@@ -1,0 +1,45 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-219
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS : C-58, C-62<M/T>,
+C-55, C-59<A/T>
+PCM<A/T> ECM<M/T>
+C-55 C-59 C-58 C-62
+AK000225AK
+. • Left bank heated oxygen sensor (rear) signal volt-
+CIRCUIT OPERATION
+• A voltage corresponding to the oxygen concen- age has continued to be 0.15 volt or lower.
+• Engine coolant temperature is higher than 76°C
+tration in the exhaust gas is sent to the ECM (ter-
+(169°F).
+minal 73) <M/T> or PCM (terminal 73) <A/T>
+• Engine speed is higher than 1,200 r/min.
+from the output terminal (terminal 4) of the left
+• Volumetric efficiency is higher than 25 percent.
+bank heated oxygen sensor (rear).
+• Terminal 2 of the left bank heated oxygen sensor • Monitoring time: 7 seconds.
+(rear) is grounded with ECM (terminal 49) <M/T> Judgment Criteria
+or PCM (terminal 57) <A/T>. • Input voltage supplied to the ECM <M/T> or PCM
+<A/T> interface circuit is higher than 4.5 volts
+. TECHNICAL DESCRIPTION when 5 volts is applied to the left bank heated
+• The output signal of the left bank heated oxygen oxygen sensor (rear) output line via a resistor.
+sensor (front) is compensated by the output sig- • The ECM <M/T> or PCM <A/T> monitors for this
+nal of the left bank heated oxygen sensor (rear). condition once during the drive cycle.
+• The ECM <M/T> or PCM <A/T> checks for an
+.
+open circuit in the left bank heated oxygen sensor TROUBLESHOOTING HINTS (The most likely
+(rear) output line. causes for this code to be set are: )
+• Left bank heated oxygen sensor (rear) failed.
+. DTC SET CONDITIONS • Open circuit in left bank heated oxygen sensor
+(rear) output line.
+Check Conditions
+• Open circuit in left bank heated oxygen sensor
+• 3 minutes or more have passed since the starting
+(rear) ground line.
+sequence was completed.
+• ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991316: Test Harness
+TSB Revision

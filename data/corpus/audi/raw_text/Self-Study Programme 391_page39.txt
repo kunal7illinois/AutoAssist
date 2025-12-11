@@ -1,0 +1,27 @@
+Electrical function
+The "electrical windbreak operation" function is The two relays are mounted on a relay carrier above
+implemented by an illuminated button with two the onboard power supply control unit, which is
+relays and a DC motor. located in the footwell at the front left. They can be
+The button can be moved into the "Up" and "Down" replaced separately.
+positions by the driver.
+Depending on operation, the button closes one of
+the two control current circuits of the relays, which
+thereupon close the load circuit and energise
+windbreak motor, Cabrio V186.
+391_068
+Legend:
+E278 Windbreak switch, Cabrio
+V186 Windbreak motor, Cabrio
+Note
+Diagnostics:
+There is no control unit between the
+sensor and actuator (DC motor). This task is
+performed by two relays. No diagnosis is
+given for this reason. Hence, no entries
+are made in the fault memory in the event
+of a fault.
+Consequently, no data blocks, adapta-
+tions, codings or final control diagnostics
+are available this function in the diagnostic
+tester.
+39

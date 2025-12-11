@@ -1,0 +1,36 @@
+CC–40
+CRUISE CONTROL – CRUISE CONTROL MAIN SWITCH
+INSPECTION
+1. INSPECT CRUISE CONTROL MAIN SWITCH
+(a) Remove the cruise control main switch
++ (ACCEL)/
+RES (RESUME) MODE
+ON-OFF
+CANCEL
+- (COAST)/SET
+A
+E107856E03
+(b) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Switch Condition Specified Condition
+A-1(ECC) - A-2(R/N), A-1(ECC) - A-3(CCS) Neutral 10 kΩ or higher
+A-1(ECC) - A-3(CCS) + (ACCEL)/RES (RESUME) 216 to 264Ω
+A-1(ECC) - A-3(CCS) - (COAST)/SET 567 to 693Ω
+A-1(ECC) - A-3(CCS) CANCEL 1,386 to 1,694Ω
+A-1(ECC) - A-3(CCS) Main Switch off 10kΩ or higher
+CC A-1(ECC) - A-3(CCS) Main Switch on Below 1Ω
+A-1(ECC) - A-2(R/N) Main Switch on and Mode Switch on Below 1Ω
+If the result is not as specified, replace the cruise
+control main switch
+INSTALLATION
+1. INSTALL CRUISE CONTROL MAIN SWITCH
+(a) Install the cruise control main switch with the 2
+screws.
+Torque:2.4 N*m (24 kgf*cm, 21 in.*lbf)
+(b) Connect the connector.
+2. INSTALL STEERING PAD (See page RS-350)
+3. INSTALL LOWER NO. 2 STEERING WHEEL COVER
+E128297 (See page RS-352)
+4. INSTALL LOWER NO. 3 STEERING WHEEL COVER
+(See page RS-351)

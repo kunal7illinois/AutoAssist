@@ -1,0 +1,45 @@
+BC–213
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+INSPECTION PROCEDURE
+NOTICE:
+When replacing the brake actuator assembly, perform zero point calibration (See page BC-119).
+1 INSPECT ECU-IG NO. 2 FUSE
+(a) Remove the ECU-IG NO. 2 fuse from the main body
+Main Body ECU:
+ECU.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+ECU-IG NO. 2 (7.5 A) fuse Always Below 1 Ω
+NG REPLACE ECU-IG NO. 2 FUSE
+BC
+ECU-IG NO. 2 Fuse
+C135806E01
+OK
+2 CHECK BATTERY
+(a) Install the ECU-IG NO. 2 fuse.
+(b) Check the battery voltage.
+Standard voltage:
+10 to 14 V
+NG CHECK AND REPLACE CHARGING SYSTEM
+OR BATTERY
+OK
+3 INSPECT SKID CONTROL ECU (IG1 TERMINAL)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU Harness Side
+(b) Turn the ignition switch on (IG).
+Connector Front View:
+(c) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Specified
+Tester Connection Condition
+Condition
+A26
+Ignition switch on
+A26-46 (IG1) - Body ground 10 to 14 V
+IG1 (IG)
+F049362E98
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (IG1 CIRCUIT)

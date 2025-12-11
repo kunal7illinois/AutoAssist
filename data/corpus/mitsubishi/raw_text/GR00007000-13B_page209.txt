@@ -1,0 +1,40 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-209
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 9. Check for harness damage between left bank
+heated oxygen sensor (front) connector B-24 terminal 4
+and ECM connector C-62 terminal 71 <M/T> or PCM
+connector C-59 terminal 71 <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-24
+YES : Go to Step 10.
+NO : Repair it. Then go to Step 12.
+AK103509AB
+CONNECTOR : C-62<M/T>, C-59<A/T>
+PCM<A/T> ECM<M/T>
+C-59 C-62
+AK000225AL
+STEP 10. Check for harness damage between left bank
+injector connector and ECM connector <M/T> or PCM
+connector <A/T>.
+a. Check the harness wire between injector connector B-02
+CONNECTORS : B-02, B-06, B-25
+terminal 2 and ECM connector C-51 terminal 9 <M/T> or
+PCM connector C-52 terminal 9 <A/T> when checking No. 2
+cylinder.
+b. Check the harness wire between injector connector B-06
+terminal 2 and ECM connector C-51 terminal 2 <M/T> or
+PCM connector C-52 terminal 2 <A/T> when checking No. 4
+cylinder.
+B-02 B-06 B-25
+c. Check the harness wire between injector connector B-25
+terminal 2 and ECM connector C-51 terminal 25 <M/T> or
+AK000213AB
+PCM connector C-52 terminal 25 <A/T> when checking No.
+CONNECTOR : C-51<M/T>, C-52<A/T> 6 cylinder.
+Q:Is the harness wire in good condition?
+PCM<A/T> ECM<M/T>
+YES : Go to Step 11.
+NO : Repair it. Then go to Step 12.
+C-52 C-51
+AK000225AJ
+TSB Revision

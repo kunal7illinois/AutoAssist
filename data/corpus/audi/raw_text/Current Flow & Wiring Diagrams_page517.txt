@@ -1,0 +1,32 @@
+Audi TT No. 59 / 4
+Current Flow Diagram
+Mechatronic unit for dual clutch gearbox
+G193 Automatic gearbox hydraulic pressure sender 1
+G194 Automatic gearbox hydraulic pressure sender 2
+G487 Gear selector movement sensor 1
+G488 Gear selector movement sensor 2
+G489 Gear selector movement sensor 3
+G490 Gear selector movement sensor 4
+J217 Automatic gearbox control unit
+J743 Mechatronic unit for dual clutch gearbox
+N435 Valve 3 in sub-gearbox 1
+N436 Valve 4 in sub-gearbox 1
+N439 Valve 3 in sub-gearbox 2
+N440 Valve 4 in sub-gearbox 2
+N471 Cooling oil valve
+N472 Main pressure valve
+N435 N436 N439 N440 N471 N472 G193 G194
+J217 J743
+G487 G488 G489 G490
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+29 30 31 32 33 34 35 36 37 38 39 40 41 42 or = orange
+8J0-059040410 rs = pink
+04.2010

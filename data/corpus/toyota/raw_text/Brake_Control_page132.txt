@@ -1,0 +1,41 @@
+BC–122
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+CALIBRATION
+1. DESCRIPTION
+• After replacing the VSC relevant components or
+performing "Front wheel alignment adjustment", clear
+and read the sensor calibration data.
+• Follow the chart to perform calibration.
+Replacing Parts / Operation Necessary Operation
+Skid control ECU Yaw rate and acceleration sensor zero point calibration.
+1. Clearing zero point calibration data.
+Yaw rate and acceleration sensor
+2. Yaw rate and acceleration sensor zero point calibration.
+1. Clearing zero point calibration data.
+Front wheel alignment adjustment
+2. Yaw rate and acceleration sensor zero point calibration.
+2. OBTAIN ZERO POINT OF YAW RATE AND
+ACCELERATION SENSOR (INTELLIGENT TESTER)
+NOTICE:
+• While obtaining the zero point, keep the vehicle
+stationary and do not vibrate, tilt, move, or shake
+BC
+it. (Do not start the engine.)
+• Be sure to perform this procedure on a level
+surface (with an inclination of less than 1 degree).
+(a) Clear the zero point calibration data.
+(1) Turn the ignition switch off.
+(2) Connect the intelligent tester to the DLC3.
+(3) Check that the steering wheel is centered and
+move the shift lever to the P position (A/T) or
+apply the parking brake (M/T).
+(4) Turn the ignition switch on (IG).
+DLC3
+Intelligent Tester
+C131977E06
+(5) Operate the intelligent tester to erase the codes
+(select "RESET MEMORY").
+HINT:
+Refer to the intelligent tester operator's manual
+for further details.
+C106531

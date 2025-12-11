@@ -1,0 +1,37 @@
+CA–52
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+Steering Angle Sensor Communication Stop Mode
+DESCRIPTION
+Detection Item Symptom Trouble Area
+• "Steering Angle Sensor" is not displayed on
+• Power source circuit of the steering
+the "Communication Bus Check" screen of
+angle sensor
+Steering Angle Sensor Communication Stop the intelligent tester
+• Steering angle sensor branch wire or
+Mode • Applies to "Steering Angle Sensor
+connector
+Communication Stop Mode" in the "DTC
+• Steering angle sensor
+COMBINATION TABLE"
+WIRING DIAGRAM
+DLC3
+Combination Meter ECM
+CA
+120 Ω No. 1 CAN J/C No. 2 CAN J/C 120 Ω
+10 9
+CANH CANL
+ECU-IG LH
+1 2
+IG ESS
+E17 Steering Angle Sensor
+Trouble Area
+: CAN Main Bus Wire (CANH) : CAN Branch Wire (CANH)
+: CAN Main Bus Wire (CANL) : CAN Branch Wire (CANL)
+C126215E03
+INSPECTION PROCEDURE
+NOTICE:
+• Turn the ignition switch off before measuring the resistance of the CAN main wire and CAN
+branch wires.
+• After the ignition switch is turned off, check that the key reminder warning system and light
+reminder warning system are not operating.

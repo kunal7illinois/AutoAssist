@@ -1,0 +1,64 @@
+J POWER SOURCE (Current Flow Chart)
+The chart below shows the route by which current flows from the battery to each electrical source
+(Fusible Link, Circuit Breaker, Fuse, etc.) and other Parts.
+FAN NO.1 Relay
+1 25A RDI 1
+(Point Side)
+MIR HTR Relay
+1 7.5A MIR HTR 1
+(Point Side)
+10A WASHER
+WIPER Relay
+1 1
+(Point Side)
+30A WIPER
+(*2) Blower Motor Relay (*2)
+50A HEATER 1 2
+(Point Side)
+25A ABS NO.2
+40A ABS NO.1
+25A D FR DOOR
+140A ALT 4 25A D FL DOOR 1
+30A RR DEF
+25A D-OP
+25A CDS 7.5A AM1
+15A ANP
+3
+7.5A STOP
+7.5A OBD
+Battery
+80A MAIN 4
+7.5A HORN NO.1
+HORN Relay
+1 1
+(Point Side)
+7.5A HORN NO.2
+15A H-LP LH LO
+H-LP Relay
+1 1
+(Point Side)
+15A H-LP RH LO
+10A H-LP LH HI
+DIM Relay
+1 1
+(Point Side)
+10A H-LP RH HI
+(*1) IGS Relay (*1)
+40A AM2 NO.1 1 1
+(Point Side)
+(*3) Ignition or Starter (*3)
+D55
+Switch Assembly
+* 1:w/ Smart Entry & Start System
+* 2:Manual A/C
+* 3:w/o Smart Entry & Start System 7.5A ECU-B
+30A DCC 1 1
+20A DOME
+30A IG2 MAIN 1
+[LOCATION]
+1 : Engine Room R/B and Engine Room J/B (See Page 24)
+2 : R/B No. 2 (See Page 25)
+3 : Instrument Panel J/B Assembly (See Page 26)
+4 : Fusible Link Block Assembly (See Page 36)
+378
+BRZ (G4400BE)

@@ -1,0 +1,38 @@
+ST–80
+2GR-FE STARTING – SMART KEY SYSTEM
+(b) Check the DATA LIST for proper functioning of the
+steering lock function.
+HINT:
+When using the intelligent tester with the engine switch
+off, turn on and off any of the door courtesy light switches
+repeatedly at 1.5 second intervals or less until
+communication between the tester and vehicle starts.
+MAIN BODY:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+Steering lock condition / ON or ON: Steering is unlocked
+STR UNLOCK SW -
+OFF OFF: Steering is locked
+OK:
+ON (steering is unlocked) and OFF (steering is
+locked) appear on the screen.
+NG Go to step 3
+OK
+2 CHECK FOR DTCS
+(a) Delete the DTCs (See page ST-26).
+(b) Check for DTC B2285, DTC B2287 and DTC B2785.
+Result
+Display (DTC output) Proceed to
+"DTC B2285" only A
+"DTC B2287" and/or "DTC B2785" B
+No DTC C
+HINT:
+• If DTC B2287 is output (See page ST-85).
+• If DTC B2785 is output (See page EI-29).
+B GO TO DTC CHART
+C CHECK INTERMITTENT PROBLEMS
+A
+REPLACE MAIN BODY ECU
+3 CHECK WIRE HARNESS (MAIN BODY ECU - STEERING LOCK ECU)
+ST (a) Disconnect the E7 and E51 ECU connectors.

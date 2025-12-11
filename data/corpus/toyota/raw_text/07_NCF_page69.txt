@@ -1,0 +1,39 @@
+EG-42 ENGINE - 2AZ-FE ENGINE
+Accelerator Pedal Position Sensor
+1) TMC Made Model
+This no-contact type accelerator pedal position sensor uses a Hall IC, which is mounted on the accelerator
+pedal arm.
+(cid:1) The magnetic yoke is mounted at the base of the accelerator pedal arm. This yoke rotates around the
+Hall IC in accordance with the amount of effort that is applied to the accelerator pedal. The Hall IC
+converts the changes in the magnetic flux that occur into electrical signals, and outputs them in the
+form of accelerator pedal position signals to the ECM.
+(cid:1) The Hall IC contains two circuits, one for the main signal, and one for the sub signal. It converts the
+accelerator pedal position (angle) into electric signals that have differing characteristics and outputs
+them to the ECM.
+Magnetic Yoke
+Hall IC
+Accelerator Pedal Arm
+0140EG125C
+Accelerator Pedal
+Position Sensor
+V
+Magnet
+5
+VPA
+EPA
+VPA2
+Output
+Hall VCPA Voltage
+IC
+VPA2 ECM VPA
+Hall
+IC EPA2 0
+VCP2
+Fully Fully
+Close Open
+Magnet
+Accelerator Pedal Position (Angle)
+228TU24 0140EG126C
+Service Tip
+The inspection method differs from a conventional accelerator pedal position sensor because this
+sensor uses a Hall IC. For details, refer to the 2007 Camry Repair Manual (Pub. No. RM0250U).

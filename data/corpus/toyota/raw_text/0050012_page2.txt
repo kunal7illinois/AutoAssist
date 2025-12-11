@@ -1,0 +1,68 @@
+ES–59
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Trouble Areas MIL Memory See page
+P0100 Mass or Volume Air - Open or short in Comes on DTC stored ES-86
+Flow Circuit Mass Air Flow (MAF)
+meter circuit
+- MAF meter
+- ECM
+P0101 Mass Air Flow Circuit - MAF meter Comes on DTC stored ES-93
+Range / Performance - Air induction system
+Problem - PCV hose
+connections
+P0102 Mass or Volume Air - Open or short in Comes on DTC stored ES-86
+Flow Circuit Low MAF meter circuit
+Input - MAF meter
+- ECM
+P0103 Mass or Volume Air - Open or short in Comes on DTC stored ES-86
+ES
+Flow Circuit High MAF meter circuit
+Input - MAF meter
+- ECM
+P0110 Intake Air - Open or short in Comes on DTC stored ES-96
+Temperature Circuit Intake Air
+Malfunction Temperature (IAT)
+sensor circuit
+- IAT sensor (built into
+MAF meter)
+- ECM
+P0111 Intake Air - Mass air flow meter Comes on DTC stored ES-102
+Temperature Sensor assembly
+Gradient Too High
+P0112 Intake Air - Short in IAT sensor Comes on DTC stored ES-96
+Temperature Circuit circuit
+Low Input - IAT sensor (built into
+MAF meter)
+- ECM
+P0113 Intake Air - Open in IAT sensor Comes on DTC stored ES-96
+Temperature Circuit circuit
+High Input - IAT sensor (built into
+MAF meter)
+- ECM
+P0115 Engine Coolant - Open or short in Comes on DTC stored ES-105
+Temperature Circuit Engine Coolant
+Malfunction Temperature (ECT)
+sensor circuit
+- ECT sensor
+- ECM
+P0116 Engine Coolant - Thermostat Comes on DTC stored ES-111
+Temperature Circuit - ECT sensor
+Range / Performance
+Problem
+P0117 Engine Coolant - Short in ECT sensor Comes on DTC stored ES-105
+Temperature Circuit circuit
+Low Input - ECT sensor
+- ECM
+P0118 Engine Coolant - Open in ECT sensor Comes on DTC stored ES-105
+Temperature Circuit circuit
+High Input - ECT sensor
+- ECM
+P0120 Throttle Pedal - Throttle Position Comes on DTC stored ES-114
+Position Sensor / (TP) sensor (built into
+Switch "A" Circuit throttle body)
+Malfunction - ECM
+P0121 Throttle / Pedal - TP sensor (built into Comes on DTC stored ES-121
+Position Sensor / throttle body)
+Switch "A" Circuit
+Range / Performance
+Problem

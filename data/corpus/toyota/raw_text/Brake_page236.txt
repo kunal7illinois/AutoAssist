@@ -1,0 +1,31 @@
+BC–230
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC No. DTC Detection Condition Trouble Area
+When either of the following is detected:
+1. With the IG1 terminal voltage 10 V or more, data from the
+steering angle sensor cannot be received for 1 second or
+more.
+CAN communication system
+U0126/63 2. With the IG1 terminal voltage 10 V or more, the following
+(Skid control ECU to steering angle sensor)
+occurs 10 times in succession within 60 seconds.
+• The condition that data from the steering angle sensor
+cannot be received occurs once or more within 5
+seconds.
+WIRING DIAGRAM
+Brake Actuator Assembly
+- Skid Control ECU
+ECM J/C
+BC
+CANH CANH
+41 1 2 11
+CANL CANL
+49 7 8 25
+4 10
+Yaw Rate and Acceleration Sensor Steering Angle Sensor
+1 J/C 2
+CANH CANH
+3 1 1 10
+CANL CANL
+2 2 2 9
+C136031E01

@@ -1,0 +1,40 @@
+EI–74
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+DIAGNOSTIC TROUBLE CODE CHART
+TRANSPONDER KEY ECU DIAGNOSTIC TROUBLE CODE CHART:
+DTC No. Detection Item Trouble Area See page
+B2780 Push Switch / Key Unlock 1. Wire harness EI-72
+Warning Switch Malfunction 2. Unlock warning switch
+assembly
+3. Transponder key ECU
+assembly
+B2784 Antenna Coil Open / Short 1. Wire harness EI-76
+2. Transponder key amplifier
+3. Transponder key ECU
+assembly
+B2793 Transponder Chip Malfunction Key EI-79
+B2794 Unmatched Encryption Code Key EI-80
+B2795 Unmatched Key Code Key EI-81
+B2796 No Communication in Immobiliser 1. Key EI-82
+System 2. Transponder key amplifier
+3. Transponder key ECU
+assembly
+B2797 Communication Malfunction No. 1 1. Key EI-84
+2. Transponder key amplifier
+3. Transponder key ECU
+assembly
+B2798 Communication Malfunction No. 2 1. Key EI-82
+2. Transponder key amplifier
+3. Transponder key ECU
+assembly
+ECM DIAGNOSTIC TROUBLE CODE CHART:
+DTC No. Detection Item Trouble Area See page
+B2799 Engine Immobiliser System 1. Wire harness EI-86
+2. Transponder key ECU
+assembly
+3. ECM
+HINT:
+The DTCs for the engine immobiliser system are specified
+above. If other codes are output, check the DTC chart for the
+EI
+SFI system.

@@ -1,0 +1,52 @@
+ES–168
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+8. Check whether misfires have occurred by checking DTCs and freeze frame data.
+HINT:
+Do not turn the ignition switch OFF until the stored DTC(s) and freeze frame data have been recorded.
+When the ECM returns to normal mode (default), the stored DTC(s), freeze frame data and other data
+will be erased.
+9. Record the DTC(s), freeze frame data and misfire counts.
+10.Turn the ignition switch OFF and wait for at least 5 seconds.
+INSPECTION PROCEDURE
+HINT:
+• If any DTCs other than misfire DTCs are output, troubleshoot those DTCs first.
+• Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition
+when malfunctions are detected. When troubleshooting, freeze frame data can help determine if the
+ES
+vehicle was moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or
+rich, and other data from the time the malfunction occurred.
+• If the misfire does not recur when the vehicle is brought to the workshop, reproduce the conditions
+stored in the freeze frame data.
+• If the misfire still cannot be reproduced even though the conditions stored in the freeze frame data
+have been duplicated, one of the following factors is considered to be a possible cause of the problem:
+(a)The fuel level is low.
+(b)Improper fuel is used.
+(c)The spark plugs are dirty.
+(d)The problem is complex due to multiple factors.
+• After finishing repairs, check that no misfires occur in each cylinder (CYL #1, #2, #3 and #4).
+• Be sure to confirm that no misfiring cylinder DTCs are set again by conducting the confirmation driving
+pattern, after the repairs.
+• For 6 and 8 cylinder engines, the ECM intentionally does not set the specific misfiring cylinder DTCs at
+high engine RPM. If misfires only occur during high engine RPM driving, only DTC P0300 is set.
+In the event of DTC P0300 being present, perform the following operations:
+(a)Clear the DTC (see page ES-35).
+(b)Start the engine and conduct the confirmation driving pattern.
+(c)Read the misfiring rates of each cylinder or DTC(s) using the tester.
+(d)Repair the cylinder(s) that has a high misfiring rate or is indicated by the DTC.
+(e)After finishing repairs, conduct the confirmation driving pattern again, in order to verify that DTC
+P0300 is not set.
+• When either SHORT FT #1 or LONG FT #1 in the freeze frame data is outside the range of +-20 %, the
+air-fuel ratio may be rich (-20 % or less) or lean (+20 % or more).
+• When the COOLANT TEMP in the freeze frame data is less than 75°C (167°F), the misfires occurred
+only while warming up the engine.
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO MISFIRE DTCS)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(e) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+P0300, P0301, P0302, P0303 and/or P0304 A
+P0300, P0301, P0302, P0303 and/or P0304 and other DTCs B

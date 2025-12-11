@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+YES - Check for loose terminals in the ABS modulator-control unit 25P
+connector. If necessary, substitute a known-good ABS modulator-control unit:
+Except Si model (see REMOVAL - EXCEPT SI MODEL ), Si model (see
+REMOVAL - SI MODEL ), and retest.
+NO - Repair open in the wire between the No. 3 FSR (30 A) fuse in the under-
+hood fuse/relay box and the ABS modulator-control unit.
+DTC 61-01: MODULATOR-CONTROL UNIT INITIAL IG LOW VOLTAGE; DTC 61-21:
+MODULATOR-CONTROL UNIT POWER SOURCE LOW VOLTAGE 1; DTC 61-22: MODULATOR-
+CONTROL UNIT POWER SOURCE LOW VOLTAGE 2; DTC 61-23: MODULATOR-CONTROL
+UNIT POWER SOURCE LOW VOLTAGE 3
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then start the engine.
+4. Check for DTCs with the HDS.
+Is DTC 61-01, 61-21, 61-22, or 61-23 indicated?
+YES - Go to step 5.
+NO - Intermittent failure, the system is OK at this time. Check for loose
+terminals at the ABS modulator-control unit 25P connector. Refer to
+INTERMITTENT FAILURES TROUBLESHOOTING .
+5. Check and note BATTERY voltage in the ABS DATA LIST with the HDS. If
+the voltage listed is 0 V, go to step 8, otherwise go to step 6.
+6. Using a voltmeter, measure and note the voltage between the battery terminals.
+NOTE: If the voltage is below 9.5 V, check the battery (see
+BATTERY TEST ), and troubleshoot the alternator
+regulator circuit: Except Si model (see ALTERNATOR
+AND REGULATOR CIRCUIT TROUBLESHOOTING ), Si
+model (see ALTERNATOR AND REGULATOR CIRCUIT
+TROUBLESHOOTING ).

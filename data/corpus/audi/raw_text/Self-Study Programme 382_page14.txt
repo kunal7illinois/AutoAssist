@@ -1,0 +1,32 @@
+Electrical system and convenience electronics
+Immobiliser IV
+The immobiliser is integrated in dash panel insert J285.
+The immobiliser data is stored in the FAZIT database of AUDI AG.
+The immobiliser IV can be adapted using the Audi diagnostic testers in the "Guided Fault Finding" and in the
+"Guided Functions" modes.
+The diagnostic tester must be online in order to make a connection to the FAZIT database.
+The dash panel insert is addressed via the address word 17 and the immobiliser via the address word 25.
+This means that data blocks, adaption channels and fault memories are handled separately.
+Reference
+For further information on
+immobiliserIV as well as the FAZIT
+database, refer to Self-Study
+Programme 294.
+New features of the onboard computer
+The onboard computer has the following new features:
+● In the Audi TT Coupé ´07 the mileage since the last reset of the onboard computer is indicated on onboard
+computer levels 1 and 2.The maximum range of the mileage indicator is 9999.9kilometres and the
+resolution is 100 metres.
+● The driving time display range was extended from 99:59h to 999:59h on both onboard computer levels.
+● Each individual display variable of the onboard computer can be deactivated separately in the convenience
+menu under "SET". This applies to both onboard computer levels.
+● All display variables of the onboard computer can be reset in the convenience menu under "SET".
+Note
+The new features described in this
+section of control unit with display in
+dash panel insert J285 of the
+AudiTTCoupé’07 will also be
+introduced in the current Audi A3‘04
+after the transition from model year
+2006 to 2007.
+14

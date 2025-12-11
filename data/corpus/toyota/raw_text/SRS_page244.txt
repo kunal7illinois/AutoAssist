@@ -1,0 +1,28 @@
+RS–242
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+8 CLEAR DTCS (Present and Past DTCs)
+(a) Clear DTCs.
+NEXT
+9 DTCS CHECK (Present and Past DTCs)
+(a) Check for DTCs.
+Result
+Result Proceed to
+DTC is not output. A
+DTC is output. B
+B Go to step 5
+A
+10 SYMPTOM SIMULATION
+(a) Check the passenger airbag ON/OFF indicator condition.
+Result
+Result Proceed to
+Passenger airbag ON/OFF indicator operates
+A
+normally.
+RS Passenger airbag ON/OFF indicator ("OFF")
+B
+and SRS warning light come on.
+B Go to step 5
+A
+11 CONFIRMATION TEST
+NEXT
+END

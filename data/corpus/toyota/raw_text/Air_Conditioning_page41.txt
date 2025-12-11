@@ -1,0 +1,40 @@
+AC–41
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+(d) As the actuator check is repeated from steps 1 to 10
+at 1 second intervals, check the temperature and air
+A/C Control Assembly:
+flow visually and by hand.
+HINT:
+Display Code • The display blinks at 1 second intervals in the
+step operation.
+• Push the "OFF" switch to finish panel diagnosis.
+• Push the "AUTO" switch to enter the sensor
+check mode.
+E124466E06
+Conditions
+Step No. Display Code
+Blower Level Air Mix Damper Airflow Vent Air Inlet Damper Compressor
+1 0 0 0% open FACE FRESH OFF
+2 1 1 0% open FACE FRESH OFF
+RECIRCULATION /
+3 2 17 0% open FACE ON
+FRESH
+4 3 17 0% open FACE RECIRCULATION ON
+5 4 17 50% open B/L RECIRCULATION ON
+6 5 17 50% open B/L RECIRCULATION ON
+7 6 17 50% open FOOT FRESH ON
+AC
+8 7 17 100% open FOOT-0 FRESH ON
+9 8 17 100% open F/D FRESH ON
+10 9 31 100% open DEF FRESH ON
+(e) If the steps are difficult to read because they change
+automatically, push the "MODE" switch to display
+the steps one at a time so that they can be read
+A/C Control Assembly:
+easily. The items are displayed step by step each
+time the "MODE" switch is pushed.
+HINT:
+• Push the "OFF" switch to finish panel diagnosis.
+• Push the "R/F" switch to enter the sensor check
+mode.
+E124466E03

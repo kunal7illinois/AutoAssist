@@ -1,0 +1,39 @@
+ES–116
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK HARNESS AND CONNECTOR (ENGINE COOLANT TEMPERATURE SENSOR -
+ECM)
+(a) Disconnect the B4 ECT sensor connector.
+Wire Harness Side: (b) Disconnect the B30 ECM connector.
+(c) Measure the resistance.
+E2 Standard resistance
+B4 Tester Connections Specified Conditions
+ECT Sensor B4-2 (THW) - B30-97 (THW) Below 1 Ω
+Connector B4-1 (E2) - B30-96 (ETHW) Below 1 Ω
+THW
+ES (d) Reconnect the ECT sensor connector.
+Front View
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+B30 ECM Connector CONNECTOR
+Front View
+ETHW THW
+A112602E13
+OK
+GOOD CONNECTION TO ECM. IF OK, REPLACE ECM
+5 READ VALUE USING INTELLIGENT TESTER (CHECK FOR SHORT IN WIRE HARNESS)
+(a) Disconnect the B4 ECT sensor connector.
+(b) Connect the intelligent tester to the DLC3.
+ECT Sensor ECM
+(c) Turn the ignition switch ON.
+(d) Turn the tester ON.
+(e) Select the following menu items: DIAGNOSIS /
+THW ENHANCED OBD II / DATA LIST / PRIMARY /
+COOLANT TEMP.
+ETHW (f) Read the value displayed on the tester.
+Standard value:
+-40°C (-40°F)
+A084869E26
+(g) Reconnect the ECT sensor connector.
+OK REPLACE ENGINE COOLANT
+TEMPERATURE SENSOR
+NG

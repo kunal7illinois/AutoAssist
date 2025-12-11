@@ -1,0 +1,41 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-453
+SYMPTOM PROCEDURES
+STEP 4. Measure at theft-alarm horn relay connector A-06X
+in order to check the fusible link (4) line of the power
+supply system to the theft-alarm horn relay.
+(1) Disconnect theft-alarm horn relay connector A-06X, and
+CONNECTOR: A-06X
+measure at the relay box side.
+FRONT-ECU
+DEVICE SIDE
+A-06X
+1 2
+X
+3 4
+AC106537AI
+(2) Measure the voltage between terminal 1, 2 and ground.
+• The measured value should be approximately 12 volts
+CONNECTOR A-06X (battery positive voltage).
+(RELAY BOX SIDE)
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 7.
+NO : Go to Step 5.
+2 1
+4 3
+AC101915AB
+STEP 5. Check theft-alarm horn relay connector A-06X for
+damage.
+Q:Is theft-alarm horn relay connector A-06X in good
+CONNECTOR: A-06X
+condition?
+YES : Go to Step 6.
+FRONT-ECU NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. All the
+vehicle horn (including the theft-alarm horn) should
+DEVICE SIDE sound when the theft-alarm system is triggered.
+A-06X
+1 2
+X
+3 4
+AC106537AI
+TSB Revision

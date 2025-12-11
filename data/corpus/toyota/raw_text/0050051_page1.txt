@@ -1,0 +1,44 @@
+ES–279
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Throttle Actuator Control Motor Current Range
+DTC P2118
+/ Performance
+DESCRIPTION
+The ETCS (Electronic Throttle Control System) has a dedicated power supply circuit. The voltage (+BM)
+is monitored and when it is low (less than 4 V), the ECM determines that there is a malfunction in the
+ETCS and cuts off the current to the throttle actuator.
+When the voltage becomes unstable, the ETCS itself becomes unstable. For this reason, when the
+voltage is low, the current to the throttle actuator is cut. If repairs are made and the system returns to
+normal, turn the ignition switch OFF. The ECM then allows the current to flow to the throttle actuator so
+that it can be restarted.
+HINT:
+ES
+The ETCS does not use a throttle cable.
+ECM
+Power
+From EFI +B Source
+MAIN Relay Circuit
+for CPU
+From ETCS +BM
+Battery
+Throttle Actuator
+M+ Throttle
+Actuator
+Control
+Circuit
+M-
+ME01
+A112629E02
+DTC No. DTC Detection Conditions Trouble Areas
+• Open in ETCS power source circuit
+• Battery
+Open in ETCS power source (+BM) circuit
+P2118 • Battery terminals
+(1 trip detection logic)
+• ETCS fuse
+• ECM
+MONITOR DESCRIPTION
+The ECM monitors the battery supply voltage applied to the throttle actuator.
+When the power supply voltage (+BM) drops below 4 V for 0.8 seconds or more, the ECM interprets this
+as an open in the power supply circuit (+BM). The ECM illuminates the MIL and sets the DTC.
+If the malfunction is not repaired successfully, the DTC is set 5 seconds after the engine is next started.

@@ -1,0 +1,38 @@
+LI–27
+LIGHTING – LIGHTING SYSTEM
+OK REPLACE INSTRUMENT PANEL JUNCTION
+BLOCK ASSEMBLY
+NG
+2 CHECK VEHICLE CONDITION
+Result
+Vehicle Condition Proceed to
+Manual Air Conditioning System A
+Automatic Air Conditioning System B
+B Go to step 6
+A
+3 CHECK HARNESS AND CONNECTOR (MAIN BODY ECU - AUTOMATIC LIGHT CONTROL
+SENSOR)
+(a) Disconnect the E11 automatic light control sensor
+Wire Harness Side: connector.
+(b) Disconnect the E6 main body ECU connector.
+Automatic Light Control Sensor (c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+E11
+Specified
+CLTB CLTS Tester Connection Condition Condition
+CLTE
+E6-18 (CLTE) - E11-6 (CLTE) Always Below 1 Ω
+E6-19 (CLTS) - E11-4 (CLTS) Always Below 1 Ω
+Main Body ECU E6-20 (CLTB) - E11-3 (CLTB) Always Below 1 Ω
+E6-18 (CLTE) - Body ground Always 10 kΩ or higher
+E6 E6-19 (CLTS) - Body ground Always 10 kΩ or higher
+E6-20 (CLTB) - Body ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR LI
+CLTB CONNECTOR
+CLTS
+CLTE
+E121476E03
+OK
+4 INSPECT MAIN BODY ECU (INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY)
+(a) Reconnect the main body ECU connector.

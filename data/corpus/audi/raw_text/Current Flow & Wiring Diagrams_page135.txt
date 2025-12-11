@@ -1,0 +1,37 @@
+Audi TT No. 13 / 3
+Current Flow Diagram
+Parking aid control unit, rear parking aid sender, rear parking
+aid warning buzzer
+G203 Rear left parking aid sender
+G204 Rear centre left parking aid sender
+G205 Rear centre right parking aid sender
+G206 Rear right parking aid sender
+H15 Rear parking aid warning buzzer
+J446 Parking aid control unit
+T12l 12-pin connector, black, connector C, on parking aid control unit
+T16e 16-pin connector, brown, connector A, on parking aid control unit
+H15
+2 1
+0,35 0,35
+br/ro ge/ro
+J446
+T16e/2 T16e/10
+T12l T12l/5 T12l/9 T12l T12l/3 T12l/7 T12l/6 T12l/2 T12l/1 T12l T12l/4 T12l/8
+/12 /10 /11
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+ro/li bl/li br/li ro/ge bl/ge br/ge ro/ws bl/ws br/ws ro bl/ro br/ro
+1 2 3 1 2 3 1 2 3 1 2 3
+ws = white
+G203 G204 G205 G206
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+15 16 17 18 19 20 21 22 23 24 25 26 27 28 or = orange
+8J0-013030806
+rs = pink
+Edition 04.2008

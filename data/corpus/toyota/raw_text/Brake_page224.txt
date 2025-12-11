@@ -1,0 +1,15 @@
+BC–218
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC C1249/49 Open in Stop Light Switch Circuit
+DESCRIPTION
+The skid control ECU (housed in the actuator assembly) inputs the stop light switch signal and the
+condition of brake operation.
+The skid control ECU has an open detection circuit, which outputs this DTC when detecting an open in the
+stop light input line while the stop light switch is OFF.
+DTC No. DTC Detection Condition Trouble Area
+• STOP fuse
+When IG1 terminal voltage is 9.5 to 17.2 V, an open circuit of • Stop light switch
+C1249/49
+the stop light switch continues for 0.3 seconds or more. • Stop light switch circuit
+• Brake actuator assembly (Skid control ECU)
+BC

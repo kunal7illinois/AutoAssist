@@ -1,0 +1,42 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-513
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the variable induction control solenoid.
+(1) Disconnect the variable induction control solenoid
+CONNECTOR: B-49
+connector B-49.
+VARIABLE INDUCTION
+CONTROL SOLENOID
+AK103101AC
+(2) Measure the resistance between variable induction control
+solenoid side connector terminal 1 and 2.
+Standard value: 29 − 35 Ω [at 20°C (68°F)]
+Q:Is the resistance at the standard value?
+YES : Go to Step 4.
+NO : Replace the variable induction control solenoid. Then
+go to Step 12.
+AK102948
+STEP 4. Check the power supply voltage at variable
+induction control solenoid harness side connector B-49.
+(1) Disconnect the connector B-49 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground.
+• Voltage should be battery positive voltage.
+B-49 HARNESS (4) Turn the ignition switch to the "LOCK" (OFF) position.
+SIDE CONNECTOR
+Q:Is the voltage normal?
+2 1
+YES : Go to Step 6.
+NO : Go to Step 5.
+AK103038AB
+STEP 5. Check connector A-18X at MFI relay for damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-18X
+YES : Repair harness wire between MFI relay connector A-
+MFI RELAY 18X terminal 4 and variable induction control solenoid
+connector B-49 terminal 1 because of open circuit or
+short circuit to ground. Then go to Step 12.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+AK101363AB
+TSB Revision

@@ -1,0 +1,40 @@
+ENGINE AND EMISSION CONTROL 17-109
+EMISSION CONTROL
+EGR SOLENOID CHECK
+M1173003100120
+1. Disconnect the vacuum hose from the EGR solenoid.
+NOTE: When disconnecting the vacuum hose, always make
+sure that it can be reconnected at its original position.
+2. Disconnect the harness connector.
+3. Connect a hand vacuum pump to nipple (A) of the EGR
+A solenoid. (Refer to the illustration at left.)
+4. As described in the chart below, check airtightness by
+applying a vacuum with voltage applied directly from the
+battery to the EGR solenoid and without applying voltage.
+B BATTERY POSITIVE NORMAL CONDITION
+VOLTAGE
+Not applied Vacuum leaks
+AKX00351AB Applied Vacuum maintained
+5. Measure the resistance between the terminals of the EGR
+solenoid.
+Standard value: 29 − 35 Ω [at 20°C (68°F)]
+6. Replace the solenoid if resistance is out of specification.
+AKX00352
+VOLUME AIR FLOW SENSOR CHECK
+M1173007900247
+<2.4L ENGINE>
+To inspect the sensor, refer to GROUP 13A (2.4L), Multiport
+Fuel Injection (MFI) Diagnosis − Diagnostic Trouble Code
+Chart P.13A-22.
+<3.0L ENGINE>
+To inspect the sensor, refer to GROUP 13B (3.0L), Multiport
+Fuel Injection (MFI) Diagnosis − Diagnostic Trouble Code
+Chart P.13B-22.
+ENGINE COOLANT TEMPERATURE SENSOR
+CHECK
+M1173008100222
+<2.4L ENGINE>
+To inspect the sensor, refer to GROUP 13A (2.4L), Multiport
+Fuel Injection (MFI) Diagnosis − Diagnostic Trouble Code
+Chart P.13A-22.
+TSB Revision

@@ -1,0 +1,46 @@
+Engine Control for 2GR–FE
+System Outline
+The engine control system utilizes a microcomputer and maintains overall control of the engine, transaxle etc. An outline of
+the engine control is given here.
+1. Input Signals
+(1)Engine coolant temp. signal circuit
+The engine coolant temp. sensor detects the engine coolant temp. and has a built–in thermistor with a resistance which
+varies according to the engine coolant temp. The engine coolant temp. is input into TERMINAL THW of the engine
+control module as a control signal.
+(2)Intake air temp. signal circuit
+The intake air temp. sensor is installed in the mass air flow meter and detects the intake air temp., which is input as a
+control signal to TERMINAL THA of the engine control module.
+(3)Oxygen sensor signal circuit
+The oxygen density in the exhaust emission is detected and is input as a control signal from the heated oxygen sensors
+to TERMINALS OX1B and OX2B of the engine control module.
+(4)RPM signal circuit
+Camshaft position is detected by the VVT sensor (Bank 1 exhaust side, bank 1 intake side, bank 2 exhaust side and
+back 2 intake side), and their signals are input to TERMINALS EV1+, EV2+, VV1+ and VV2+ of the engine control
+module as control signals. Also, the engine RPM is detected by the crankshaft position sensor installed in the cylinder
+block and the signal is input into TERMINAL NE+ of the engine control module as a control signal.
+(5)Throttle position sensor signal circuit
+The throttle position sensor detects the throttle valve opening angle as a control signal, which is input into TERMINALS
+VTA1 and VTA2 of the engine control module.
+(6)Vehicle speed circuit
+The vehicle speed sensor detects the vehicle speed, and the signal is input into TERMINAL SPD of the engine control
+module via the combination meter, from TERMINAL SP1 of the skid control ECU with actuator.
+(7)Battery signal circuit
+Voltage is constantly applied to TERMINAL BATT of the engine control module. When the power SW is pushed on
+(Power SW type), or when the ignition SW is turned on (Ignition SW type), the voltage for engine control module start–up
+power supply is applied to TERMINAL +B and +B2 of engine control module via EFI relay.
+(8)Intake air volume signal circuit
+The intake air volume is detected by the mass air flow meter, and is input as a control signal to TERMINAL VG of the
+engine control module.
+(9)Stop lamp SW signal circuit
+The stop lamp SW is used to detect whether the vehicle is braking or not, and the signal is input into TERMINAL STP of
+the engine control module as a control signal.
+(10)Starter signal circuit
+To confirm whether the engine is cranking, the voltage applied to the starter motor when the engine is cranking is
+detected, and is input into TERMINAL STA of the engine control module as a control signal.
+(11)Engine knock signal circuit
+Engine knocking is detected by the knock control sensors, and is input into TERMINALS KNK1 and KNK2 of the engine
+control module as a control signal.
+(12)Air fuel ratio signal circuit
+The air fuel ratio is detected and input as a control signal into TERMINALS A1A+, A2A+ of the engine control module.
+120
+CAMRY (EM0250U)

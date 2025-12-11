@@ -1,0 +1,24 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-553
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 13. Check connector B-02, B-06, B-25 at left bank
+injector for damage.
+Q:Is the connector in good condition?
+CONNECTORS : B-02, B-06, B-25
+YES : Go to Step 14.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+B-02 B-06 B-25
+AK000213AB
+STEP 14. Check connector C-51 at ECM <M/T> or
+connector C-52 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-51<M/T>, C-52<A/T>
+YES : Go to Step 15.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+C-52 C-51
+AK000225AJ
+TSB Revision

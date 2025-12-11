@@ -1,0 +1,42 @@
+54A-106 CHASSIS ELECTRICAL
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+COMBINATION GAUGES ASSEMBLY INSPECTION
+M1543003500048
+INSPECTION
+M1543019501170
+VEHICLE SPEED SENSOR CHECK <M/T>
+1. Remove the vehicle speed sensor and connect a 3 − 10
+ohms resistor as shown in the illustration.
+TURN
+2. Turn the shaft of the vehicle speed sensor and check that
+SHAFT there is voltage between terminals 2 − 3. (1 turn = 4 pulses)
+3. If within the standard value, the vehicle speed sensor is OK.
+If not within the standard value, replace the vehicle speed
+sensor.
+RESISTOR
+3 - 10
+AC102349AB
+OUTPUT SHAFT SPEED SENSOR CHECK <A/T>
+The output shaft speed sensor cannot be checked as an indi-
+vidual part after the sensor has been removed. Using scan tool
+MB991502, check whether diagnosis code 23 is set while the
+sensor is installed. If this code is set, refer to "Combination
+meter diagnosis − Symptom Procedure 1" P.54A-40.
+FUEL GAUGE RESISTANCE CHECK
+CAUTION
+When inserting a testing probe into the power supply ter-
+minal, be careful not to touch the printed board.
+POWER SUPPLY 1. Remove the power supply tightening screw.
+2. Use an ohmmeter to measure the resistance value between
+the terminals.
+Standard value:
+GROUND
+• Power supply − Ground: Approximately 233 ohms
+• Power supply − Fuel gauge: Approximately 108
+ohms
+FUEL GAUGE
+AC001297AB • Fuel gauge − Ground: Approximately 125 ohms
+3. If within the standard value, the fuel gauge is OK.
+If not within the standard value, replace the fuel gauge and
+engine coolant temperature gauge.
+TSB Revision

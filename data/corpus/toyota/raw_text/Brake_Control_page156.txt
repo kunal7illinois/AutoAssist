@@ -1,0 +1,39 @@
+BC–150
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Item (Display) Measurement Item Reference Value
+Min.: 0 mph (0 km/h), Max.: 202 mph (326.4 km/
+RL WHEEL SPD RL wheel speed
+h)
+LATERAL G Lateral G Min.: -25.11 m/s2, Max.: 24.91 m/s2
+FAIL
+1st
+2nd
+3rd
+4th
+GEAR POSITION Gear position information
+5th
+6th
+P, N
+R
+NOT R
+FAIL
+1st
+2nd
+3rd
+4th
+LEVER POSITION Shift lever position information
+5th
+6th/B
+BC D/M
+P, N
+R
+ABS activated: ABS
+VSC activated: VSC
+TRAC activated: TRAC
+OPERATED SYSTEM Operated system status BA activated: BA
+Fail safe mode activated: FAIL
+No system activated: NON
+System prohibited: SYS
+FREEZE TIME Elapsed time after freeze trigger Min.: 0 ms, Max.: 500 ms
+TROUBLE CODE Freeze frame DTC Displays to output DTC
+INSPECTION MODE Inspection mode OTHER: Normal, INSPECT: Service

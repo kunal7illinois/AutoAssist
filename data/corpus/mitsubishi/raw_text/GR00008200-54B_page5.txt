@@ -1,0 +1,61 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-5
+GENERAL DESCRIPTION
+Hazard Warning Light minate for approximately 15 seconds when the
+The system detects a change from OFF to ON of the doors are locked. The dome light’s answerback
+hazard warning input signal and activates or shuts off operation in response to a keyless entry system
+the hazard warning lights accordingly. control action is accompanied by flashing of the
+hazard warning lights.
+FOG LIGHT
+INTERIOR LIGHT AUTOMATIC
+The fog light switch becomes active only when the
+headlights are at the low-beam mode. Therefore, if SHUTDOWN FUNCTION
+the headlights are turned off, the fog lights will also
+This function prevents the battery from being dis-
+be switched off. When the headlights are turned on
+charged when the door is open or the dome light
+during the next key cycle, the fog lights will be off
+remains on with the ignition switch at the "LOCK"
+regardless of the fog light switch position.
+(OFF) position. The ETACS-ECU turns on its "keep"
+relay to switch off the battery power supply to the
+DOME LIGHT
+interior lights when the interior light loaded signal and
+With the dome light switch in the "door controlled all door switches remain on for approximately 30
+operation" (middle) position, the ETACS-ECU con- minutes with the ignition switch at positions other
+trols the dome light operation as follows: than ACC. Then the interior lights will be switched
+• When a door is opened from outside or inside off. If the ignition switch is turned on again, the
+[with the ignition switch turned to "LOCK" (OFF)]: ETACS-ECU turns on its "keep" relay to illuminate
+When a door is opened, the ETACS-ECU causes the interior lights.
+the dome light to be illuminated at 100 percent
+intensity. When the door is closed, it dims the DOOR-AJAR INDICATOR LIGHT
+dome light to 65 percent intensity and approxi-
+This indicator light warns the driver that door(s) are
+mately 30 seconds later, turns out the light com-
+not closed. If a door switch is on, the ETACS-ECU
+pletely. During this period (timer controlled
+operates the door-ajar indicator light on the combina-
+period), the dome light goes out if the ignition
+tion meter.
+switch is turned "ON" or the doors are locked.
+• When a door is opened or closed with the ignition THEFT-ALARM SYSTEM
+switch in the "ON" position: The dome light illumi-
+nates at 100 percent intensity when a door is .Theft-alarm System Operation
+opened and turned out when it is closed. If a door, trunk lid or hood is opened, when the theft-
+• When no door is opened and the ignition key is alarm system has been armed the horn (theft-alarm
+removed: The dome light is illuminated at 100 horn and horn) will sound and headlights flash (high-
+percent intensity and turned off approximately 30 beam) intermittently for a period of three minutes.
+seconds later. During that time (timer-controlled
+.
+period), the dome light goes out if the ignition key Panic Alarm Function
+is inserted and turned to "ON" or the door locking With the theft-alarm function armed, pressing the
+system is activated. panic button on the keyless entry system transmitter
+• Dome light’s answerback operation in response causes the horn (theft-alarm horn and horn) to sound
+to door lock control by keyless entry system: To for about three minutes in an attempt to prevent theft.
+allow the driver to confirm the doors have locked The alarm is turned off by pressing any switch on the
+by the keyless entry system, the ETACS-ECU transmitter.
+causes the dome light to blink twice when the
+doors are locked by the RKE system and to illu- CONFIGURATION FUNCTION
+The keyless entry hazard answerback function can
+be adjusted by the special operation. Then they can
+be returned to the initial condition.
+TSB Revision

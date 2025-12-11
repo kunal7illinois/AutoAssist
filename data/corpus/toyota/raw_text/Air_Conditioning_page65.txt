@@ -1,0 +1,35 @@
+AC–65
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+DTC B1422/22 Compressor Lock Sensor Circuit
+SYSTEM DESCRIPTION
+The ECM sends a signal to the A/C amplifier via CAN communication.
+The A/C amplifier reads the difference between compressor speed and engine speed. When the
+difference becomes too large, the A/C amplifier determines that the compressor locks, and turns the
+magnetic clutch off.
+DTC No. DTC Detection Condition Trouble Area
+• A/C compressor (A/C lock sensor)
+• Compressor drive belt
+• Harness or connector between compressor and
+B1422/22 Open or short in compressor lock sensor circuit
+magnetic clutch (A/C lock sensor)
+• A/C amplifier
+• CAN communication system
+WIRING DIAGRAM
+A/C Amplifier
+ECM
+41 11
+CANH A55 CAN Communication E38 CANH
+System
+49 12 AC
+CANL A55 E38 CANL
+2 1 8
+C53 C53 E38 LOCK
+A/C Compressor
+(A/C Lock Sensor)
+13
+E38 SG-2
+E124488E03
+INSPECTION PROCEDURE
+1 CHECK CAN COMMUNICATION SYSTEM
+(a) Use the intelligent tester to check if the CAN
+Communication System is functioning normally.

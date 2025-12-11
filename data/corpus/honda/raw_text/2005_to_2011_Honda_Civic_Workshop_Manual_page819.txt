@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+to step 8.
+8. Monitor the OBD STATUS for P0746 in the DTCs MENU with the HDS.
+Does the HDS indicate FAILED?
+YES -Go to step 9.
+NO -If the HDS indicates PASSED, intermittent failure, the system is OK at
+this time. If the HDS indicates NOT COMPLETED, go to step 6.
+9. Clear the DTC with the HDS.
+10. Select Clutch Pressure Control (Linear) Solenoid valve A in the Miscellaneous
+Test Menu, and test A/T clutch pressure control solenoid valve A with the
+HDS.
+Does the HDS indicate NORMAL?
+YES -Intermittent failure, the system is OK at this time. If the HDS indicates
+NOT COMPLETED, retest A/T clutch pressure control solenoid valve A with
+the HDS.
+NO -Follow the instructions indicated on the HDS by the test result. If the
+HDS has not determined the cause of the failure, go to step 11. If any part is
+replaced, go to step 12.
+11. Inspect A/T clutch pressure control solenoid valve A (see A/T CLUTCH
+PRESSURE CONTROL SOLENOID VALVE A TEST ).
+Does A/T clutch pressure control solenoid valve A operate properly?
+YES -Repair the hydraulic system related with shift valve A, or replace the
+transmission, then go to step 14.
+NO -Replace A/T clutch pressure control solenoid valve A (see A/T CLUTCH
+PRESSURE CONTROL SOLENOID VALVE A REPLACEMENT ), then
+go to step 12.
+12. Turn the ignition switch to ON (II).

@@ -1,0 +1,47 @@
+ES–142
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+The MAF meter is a sensor that measures the amount of air flowing through the throttle valve. The ECM
+uses this information to determine the fuel injection time and to provide an appropriate air-fuel ratio.
+Inside the MAF meter, there is a heated platinum wire which is exposed to the flow of intake air. By
+applying a specific electrical current to the wire, the ECM heats it to a specific temperature. The flow of
+incoming air cools both the wire and an internal thermistor, affecting their resistance. To maintain a
+constant current value, the ECM varies the voltage applied to these components of the MAF meter. The
+voltage level is proportional to the airflow through the sensor, and the ECM uses it to calculate the intake
+air volume. If there is a defect in the sensor, or an open or short in the circuit, the voltage level deviates
+from the normal operating range. The ECM interprets this deviation as a malfunction in the MAF meter
+and sets the DTC.
+Example:
+If the voltage is more than 2.2 V, or less than 1.48 V while idling, the ECM determines that there is a
+malfunction in the MAF meter and sets the DTC.
+ES
+MONITOR STRATEGY
+Related DTCs P0101: Mass air flow meter rationality
+Required Sensors/Components (Main) Mass air flow meter
+Required Sensors/Components (Sub) Crankshaft position sensor, engine coolant temperature sensor and
+throttle position sensor
+Frequency of Operation Continuos
+Duration 10 seconds
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+Monitor runs whenever following DTCs are not present P0125 (Insufficient ECT for closed loop)
+P0335 (CKP sensor)
+P0340, P0341 (CMP sensor)
+TP (Throttle position) sensor voltage 0.24 V or more
+Engine Running
+Battery voltage 10.5 V or more
+ECT 70°C (158°F) or more
+IAT sensor circuit OK
+ECT sensor circuit OK
+CKP sensor circuit OK
+TP sensor circuit OK
+FTP sensor circuit OK
+EVAP leak detection pump OK
+EVAP vent valve OK
+TYPICAL MALFUNCTION THRESHOLDS
+Average engine load Less than 0.838 %, or more than 1.287 %
+WIRING DIAGRAM
+Refer to DTC P0100 (See page ES-127).

@@ -1,0 +1,52 @@
+ES–159
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Engine Coolant Temperature Circuit Range /
+DTC P0116
+Performance Problem
+DESCRIPTION
+A thermistor is built into the Engine Coolant Temperature (ECT) sensor, of which the resistance value
+varies according to the ECT.
+The structure of the sensor and its connection to the ECM are the same as those of the Intake Air
+Temperature (IAT) sensor.
+DTC No. DTC Detection Condition Trouble Area
+ECTs as listed below are nearly same (2 trip detection
+logic):
+– ECT when engine is started at lower than 60°C
+(140°F) of ECT
+– ECT when engine is warmed up
+• Thermostat ES
+P0116 ECTs as listed below are nearly same when engine is • ECT sensor
+started at higher than 60°C (140°F) of ECT (2 trip
+detection logic)
+– ECT when engine is stopped after driving
+– ECT when engine is started at lower than 60°C
+(140°F) of ECT
+MONITOR DESCRIPTION
+The ECT sensor is used to monitor the ECT. The ECT sensor has a built-in thermistor with a resistance
+that varies according to the temperature of the engine coolant. When the ECT drops, the resistance of the
+thermistor increases. When the temperature rises, the resistance drops. These variations in the
+resistance are reflected in the output voltage from the ECT sensor.
+The ECM monitors the sensor voltage and uses this value to calculate the ECT. If the sensor output
+voltage deviates from the normal operating range, the ECM interprets this deviation as a malfunction in
+the ECT sensor and sets the DTC.
+Examples:
+(1)Upon starting the engine, the ECT is between 35°C and 60°C (95°F and 140°F). If, after driving for
+250 seconds, the ECT remains within 3°C (5.4°F) of the starting temperature, the DTC is set (2 trip
+detection logic).
+(2)Upon starting the engine, the ECT is over 60°C (140°F). If, after driving for 250 seconds, the ECM
+remains within 1°C (1.8°F) of the starting temperature, the DTC is set (6 trip detection logic).
+MONITOR STRATEGY
+P0116: Engine coolant temperature sensor rationality (ECT sensor
+cold start monitor)
+Related DTCs
+P0116: Engine coolant temperature sensor rationality (ECT sensor
+soak monitor)
+Required Sensors/Components (Main) Engine coolant temperature (ECT) sensor
+Required Sensors/Components (Sub) -
+Frequency of Operation Once per driving cycle
+Duration 10
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+All:
+Monitor runs whenever following DTCs are not present P0100 - P0103 (MAF sensor)

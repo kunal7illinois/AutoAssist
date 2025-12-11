@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+NO -Go to step 2.
+2. Connect the HDS to the data link connector (DLC) (see CLEAR THE DTC
+MEMORY WITH THE HDS).
+3. Make sure the HDS communicates with the vehicle and the SRS unit. If it does
+not communicate, troubleshoot the DLC circuit (see DLC CIRCUIT
+TROUBLESHOOTING ).
+4. Select Body Electrical Status with the HDS.
+5. Check for DTCs in the Gauge Menu with the HDS.
+Is DTC B1187 indicated?
+YES -Go to the DTC B1187 troubleshooting (see DTC B1168: GAUGE
+CONTROL MODULE LOST COMMUNICATION WITH ECM/PCM
+(ENGINE MESSAGES); DTC B1169: GAUGE CONTROL MODULE
+LOST COMMUNICATION WITH THE PCM (A/T MESSAGES); DTC
+B1170: GAUGE CONTROL MODULE LOST COMMUNICATION
+WITH THE ABS/VSA MODULATOR-CONTROL UNIT ( ).
+NO -Faulty gauge control module (tach); replace the gauge control module
+(tach) (see TACHOMETER ).
+SIDE AIRBAG CUTOFF INDICATOR STAYS ON
+1. Make sure nothing is on the front passenger's seat.
+2. Make sure the seat-back is dry.
+3. Turn the ignition switch ON (II), and see if the SRS indicator comes on.
+Does the SRS indicator come on?
+YES -Go to the Symptom Troubleshooting "SRS INDICATOR STAYS ON."
+NO -Go to step 2.
+4. Connect the HDS to the data link connector (DLC) (see CLEAR THE DTC
+MEMORY WITH THE HDS).
+5. Make sure the HDS communicates with the vehicle and the SRS unit. If it does

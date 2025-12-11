@@ -1,0 +1,41 @@
+RS–283
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+Rear Occupant Classification Sensor LH Circuit
+DTC B1782
+Malfunction
+DESCRIPTION
+The rear occupant classification sensor LH circuit consists of the occupant classification ECU and the rear
+occupant classification sensor LH.
+DTC B1782 is recorded when a malfunction is detected in the rear occupant classification sensor LH
+circuit.
+DTC No. DTC Detecting Condition Trouble Area
+• The occupant classification ECU receives a line
+short circuit signal, an open circuit signal, a short
+• Front seat assembly RH (Rear occupant
+circuit to ground signal or a short circuit to B+ signal
+classification sensor LH)
+B1782 in the rear occupant classification sensor LH circuit
+• Front seat wire RH
+for 2 seconds.
+• Occupant classification ECU
+• Rear occupant classification sensor LH malfunction
+• Occupant classification ECU malfunction
+WIRING DIAGRAM
+T15 (*1)
+d3 (*2)
+Rear Occupant Classification Sensor LH Occupant Classification ECU
+5 5
+SVC3 T11 d1 SVC3 RS
+1
+(*1) (*2)
+9 9
+SIG3 T11 d1 SIG3
+2
+(*1) (*2)
+3 3
+SGD3 T11 d1 SGD3
+3
+(*1) (*2)
+*1: for Power Seat
+*2: for Manual Seat
+H045935E09

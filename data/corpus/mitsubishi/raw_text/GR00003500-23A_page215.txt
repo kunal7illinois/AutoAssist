@@ -1,0 +1,40 @@
+AUTOMATIC TRANSAXLE 23A-215
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 11. Check the power supply voltage at solenoid valve
+assembly connector B-40.
+(1) Disconnect connector B-40 and measure at the harness
+CONNECTOR: B-40
+side.
+(2) Turn the ignition switch to the "ON" position.
+B-40
+ACX02479AK
+(3) Measure the voltage between terminal 10 and ground.
+• Voltage should be battery positive voltage.
+HARNESS (4) Turn the ignition switch to the "LOCK" (OFF) position.
+CONNECTOR: B-40
+Q:Is the voltage normal?
+YES : Go to Step 13.
+NO : Go to Step 12.
+AC001966AD
+STEP 12. Check connector A-17X at A/T control relay for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-17X
+YES : Repair harness open circuit or short circuit to ground
+between solenoid valve assembly connector B-40
+terminal 10 and A/T control relay connector A-17X
+terminal 4.
+BATTERY A-17X NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+FRONT OF VEHICLE
+AC102447AF
+STEP 13. Check connector C-61 <2.4L Engine> or C-63
+<3.0L Engine> at PCM for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE> YES : Go to Step 14.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM Connector Inspection P.00E-2.
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+TSB Revision

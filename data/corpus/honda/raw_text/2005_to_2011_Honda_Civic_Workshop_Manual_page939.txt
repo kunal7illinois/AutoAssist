@@ -1,0 +1,36 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+3. Shift to D while pressing the brake pedal. Press the accelerator pedal, and
+release it suddenly. The engine should not stall.
+4. Repeat step 3 in all shift lever positions.
+5. Connect the HDS to the DLC (A) located behind the driver's dashboard lower
+cover, and go to the A/T Mode Menu.
+Fig. 168: Identifying Data Link Connector
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+6. Make sure the HDS communicates with the PCM. If it does not, go to the DLC
+circuit troubleshooting (see DLC CIRCUIT TROUBLESHOOTING ).
+7. Prepare the HDS to take a HIGH SPEED SNAPSHOT (Refer to the HDS
+user's guide for more details if needed):
+Select High Speed Snapshot.
+(cid:1)
+Select these parameters:
+(cid:1)
+Vehicle Speed
+(cid:2)
+Output Shaft (Countershaft) Speed
+(cid:2)
+Input Shaft (Mainshaft) Speed (rpm)
+(cid:2)
+Engine Speed
+(cid:2)
+Relative TP Sensor
+(cid:2)
+APP Sensor A (V)
+(cid:2)
+ATF Temp Sensor
+(cid:2)
+Battery Voltage
+(cid:2)
+Shift Control
+(cid:2)

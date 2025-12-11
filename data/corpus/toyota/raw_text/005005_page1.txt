@@ -1,0 +1,51 @@
+ES–24
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+READINESS MONITOR DRIVE
+PATTERN
+1. PURPOSE OF READINESS TESTS
+• The On-Board Diagnostic (OBD II) system is designed to
+monitor the performance of emission related components,
+and indicate any detected abnormalities with DTC
+(Diagnostic Trouble Codes). Since various components
+need to be monitored during different driving conditions,
+the OBD II system is designed to run separate monitoring
+programs called Readiness Monitors.
+• The intelligent tester's software must be version 9.0 or
+newer to view the Readiness Monitor Status. To view the
+ES
+status, select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / MONITOR INFO / MONITOR
+STATUS.
+• When the Readiness Monitor status reads COMPL
+(complete), the necessary conditions have been met for
+running the performance tests for that Readiness Monitor.
+• A generic OBD II scan tool can also be used to view the
+Readiness Monitor status.
+HINT:
+Many state Inspection and Maintenance (I/M) programs
+require a vehicle's Readiness Monitor status to show COMPL
+before beginning emission tests.
+The Readiness Monitor will be reset to INCMPL (incomplete)
+if:
+• The ECM has lost battery power or blown a fuse.
+• DTCs have been cleared.
+• The conditions for running the Readiness Monitor have not
+been met.
+If the Readiness Monitor status shows INCMPL, follow the
+appropriate Readiness Monitor Drive Pattern to change the
+status to COMPL.
+CAUTION:
+Strictly observe posted speed limits, traffic laws, and
+road conditions when performing these drive patterns.
+NOTICE:
+These drive patterns represent the fastest method of
+satisfying all conditions necessary to achieve complete
+status for each specific Readiness Monitor.
+In the event of a drive pattern being interrupted (possibly
+due to factors such as traffic conditions), the drive
+pattern can be resumed. In most cases, the Readiness
+Monitor will still achieve complete status upon
+completion of the drive pattern.
+To ensure completion of the Readiness Monitors, avoid
+sudden changes in vehicle load and speed (driving up
+and down hills and/or sudden acceleration).

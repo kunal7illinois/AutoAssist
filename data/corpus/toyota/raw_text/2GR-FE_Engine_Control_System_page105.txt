@@ -1,0 +1,51 @@
+ES–105
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+ECM
+Crankshaft Position Sensor
+Duty Control
+Target Valve Timing
+MAF Meter
+Throttle Position Sensor
+Feedback ES
+Camshaft Timing
+ECT Sensor
+Oil Control Valve
+Correction (OCV)
+Vehicle Speed Signal
+Actual Valve Timing
+Camshaft Position Sensor
+A103843E02
+DTC No. DTC Detection Condition Trouble Area
+Advanced cam timing:
+With warm engine and engine speed of between 500
+rpm and 4,000 rpm, all conditions (a), (b) and (c) are
+met • Valve timing
+(2 trip detection logic): • Oil control valve (OCV) for exhaust camshaft (bank
+P0014 (a) Difference between target and actual exhaust valve 1)
+P0024 timing is more than 5°CA (Crankshaft Angle) for 4.5 • OCV filter (bank 1)
+seconds • Exhaust camshaft
+(b) Current exhaust valve timing is fixed (timing • ECM
+changes less than 5°CA in 5 seconds)
+(c) Variations in VVT controller timing are more than
+19°CA of maximum delayed timing (advanced)
+Retarded cam timing:
+With warm engine and engine speed of between 500
+rpm and 4,000 rpm, all conditions (a), (b) and (c) are
+met
+• Valve timing
+(1 trip detection logic):
+• OCV for exhaust camshaft (bank 2)
+P0015 (a) Difference between target and actual exhaust valve
+• OCV filter (bank 2)
+P0025 timing is more than 5°CA (Crankshaft Angle) for 4.5
+• Exhaust camshaft
+seconds
+• ECM
+(b) Current exhaust valve timing is fixed (timing
+changes less than 5°CA in 5 seconds)
+(c) Variations in VVT controller timing are more than
+19°CA or less of maximum delayed timing (retarded)
+MONITOR DESCRIPTION
+1. The ECM optimizes the exhaust valve timing using the VVT (Variable Valve Timing) system to control
+the exhaust camshaft. The VVT system includes the ECM, the Oil Control Valve (OCV) and the VVT
+controller.

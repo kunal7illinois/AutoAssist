@@ -1,0 +1,29 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-323
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 14. Check connector C-51 at ECM <M/T> or
+connector C-52 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-51<M/T>, C-52<A/T>
+YES : Go to Step 15.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 21.
+C-52 C-51
+AK000225AJ
+STEP 15. Check for open circuit and harness damage
+between crankshaft position sensor connector B-20
+terminal 1 and ECM connector C-51 terminal 34 <M/T> or
+PCM connector C-52 terminal 16 <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-20 <WITHOUT VARIABLE
+INDUCTION SYSTEM> YES : Replace the ECM or PCM. Then go to Step 21.
+NO : Repair it. Then go to Step 21.
+AK103516AB
+CONNECTOR: B-20 <WITH VARIABLE
+INDUCTION SYSTEM>
+AK103517AB
+CONNECTOR : C-51<M/T>, C-52<A/T>
+PCM<A/T> ECM<M/T>
+C-52 C-51
+AK000225AJ
+TSB Revision

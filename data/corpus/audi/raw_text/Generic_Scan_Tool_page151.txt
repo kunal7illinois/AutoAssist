@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Using a multimeter, check the Wastegate Bypass Regulator
+Valve -N75- electrical harness connector terminal 2 to the En‐
+gine Control Module (ECM) -J623- electrical harness connec‐
+tor T60 terminal 50 for an open circuit.
+Wastegate Bypass Regulator Engine Control Module (ECM) -
+Valve -N75- electrical harness J623- electrical connector T60
+connector terminal terminal or test box socket
+2 50
+Specified value: 1.5 Ω max.
+If the specification is not obtained:
+– Check the wiring for a short circuit to each other, Battery (+),
+and Ground (GND).
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is detected in the wiring and if the voltage supply
+was OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the appropriate service manual.
+– Install the engine cover with air filter. Refer to the appropriate
+service manual.
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.18 Accelerator Pedal Position Sensor / Ac‐
+celerator Pedal Position Sensor 2,
+Checking
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Wiring diagram
+Test requirement
+• The Engine Control Module (ECM) - J623- fuses OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• Vehicles with automatic transmission, shift selector lever into
+position “P” or “N”.
+• A/C switched off.
+• Ground connections between engine/transmission/chassis
+OK.
+147
+3. Diagnosis and Testing

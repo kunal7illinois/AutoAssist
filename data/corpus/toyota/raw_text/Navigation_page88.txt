@@ -1,0 +1,35 @@
+NS–88
+NAVIGATION – NAVIGATION SYSTEM
+DTC 58-42 Map Disc Read Error
+DTC 80-42 Map Disc Read Error
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+• Player error
+58-42 • Scratches or dirt on the disc
+• Access to an invalid address due to software error • Map disc
+• Player error • Radio and navigation assembly
+80-42 • Scratches or dirt on the disc
+• Access to an invalid address due to software error
+INSPECTION PROCEDURE
+HINT:
+After the inspection is completed, clear the DTCs.
+1 CHECK MAP DISC
+(a) Check that the map disc is not deformed or cracked.
+OK:
+No deformations or cracks on the map disc.
+NG Go to step 4
+I100152
+OK
+2 DISC CLEANING
+(a) Disc cleaning
+(1) If dirt is on the disc surface, wipe it clean with a soft
+cloth from the inside to the outside in a radial
+direction.
+NOTICE:
+Do not use a conventional record cleaner or
+anti-static preservative.
+NS
+I100201E04
+NEXT
+3 DTC CLEAR AND RECHECK
+(a) Clear the DTCs (See page NS-46).

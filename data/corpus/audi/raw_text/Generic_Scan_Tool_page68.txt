@@ -1,0 +1,46 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Param‐ Monitoring Frequency of
+sage cedure ria and Threshold eters with Enable Time checks, MIL
+Value Conditions Length Illum
+P0366 Camshaft – Check the signal voltage no --- 3 Sec • Continu‐
+Position Camshaft altering @ refer‐ ous
+Sensor A Position ence gap
+Circuit (CMP) Sen‐ • 2 DCY
+Range/Per‐ sor 3 -
+formance G300- . Re‐
+fer to
+⇒
+“3.5.37 Cam‐
+shaft Posi‐
+tion Sensor
+3, Checking”,
+page 184
+P0367 Camshaft – Check the signal voltage low --- 3 Sec • Continu‐
+Position Camshaft 4 rev ous
+Sensor A Position
+Circuit Low (CMP) Sen‐ • 2 DCY
+Input sor 3 -
+G300- . Re‐
+fer to
+⇒
+“3.5.37 Cam‐
+shaft Posi‐
+tion Sensor
+3, Checking”,
+page 184
+P0368 Camshaft – Check the signal voltage high --- 3 Sec • Continu‐
+Position Camshaft 4 rev ous
+Sensor A Position
+Circuit High (CMP) Sen‐ • 2 DCY
+Input sor 3 -
+G300- . Re‐
+fer to
+⇒
+“3.5.37 Cam‐
+shaft Posi‐
+tion Sensor
+3, Checking”,
+page 184
+64
+Rep. Gr.ST - Generic Scan Tool

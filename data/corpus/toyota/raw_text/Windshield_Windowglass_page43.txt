@@ -1,0 +1,39 @@
+WS–43
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+Rear Power Window Motor RH Circuit
+DESCRIPTION
+This circuit transmits signals from the power window regulator switch assembly (Rear RH) to the power
+window regulator motor (Rear RH).
+WS
+WIRING DIAGRAM
+J1
+Power Window Regulator Switch
+Assembly (Rear RH)
+J3
+Power Window Regulator Motor (Rear RH)
+1 4
+U
+2 1
+D
+C
+B137065E05
+INSPECTION PROCEDURE
+1 INSPECT POWER WINDOW REGULATOR MOTOR
+(a) Remove the power window motor.
+Motor Gear (b) Apply battery voltage to the motor connector according
+to the table below.
+NOTICE:
+Do not apply battery voltage to any terminals except
+Counterclockwise terminals 1 and 2.
+Standard
+Measurement Condition Specified Condition
+Clockwise
+Battery positive (+) → Terminal 2
+Motor gear rotates clockwise
+B127535E01 Battery negative (-) → Terminal 1
+Battery positive (+) → Terminal 1
+Motor gear rotates counterclockwise
+Battery negative (-) → Terminal 2
+NG REPLACE POWER WINDOW REGULATOR
+MOTOR
+OK

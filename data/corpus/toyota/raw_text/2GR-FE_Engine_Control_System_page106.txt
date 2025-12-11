@@ -1,0 +1,57 @@
+ES–106
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2. The ECM sends a target duty-cycle control signal to the OCV. This control signal regulates the oil
+pressure supplied to the VVT controller. The VVT controller can advance or retard the exhaust
+camshaft.
+If the difference between the target and actual exhaust valve timings is large, and changes in actual
+exhaust valve timing are small, the ECM interprets this as the VVT controller stuck malfunction and
+sets a DTC.
+Example:
+A DTC is set when the following conditions A, B and C are met:
+(1)The difference between the target and actual exhaust valve timings is more than 5°CA
+(Crankshaft Angle) and the condition continues for more than 4.5 seconds (Procedure "A").
+(2)It takes 5 seconds or more to change the valve timing by 5°CA (Procedure "B").
+(3)After above procedures "A" and "B" are met, the OCV is forcibly activated 63 times or more
+(Procedure "C").
+3. DTCs P0014 and P0024 (Advanced Cam Timing) are detected with 1 trip detection logic.
+4. DTCs P0015 and P0025 (Retarded Cam Timing) are detected with 2 trip detection logic.
+ES
+These DTCs indicate that the VVT controller cannot operate properly due to OCV malfunctions or the
+presence of foreign objects in the OCV.
+5. The monitor will not run unless the following conditions are met:
+(a)The engine is warm (the engine coolant temperature is 75°C [167°F] or more).
+(b)The vehicle has been driven at more than 40 mph (64 km/h) for 3 minutes.
+(c)The engine has idled for 3 minutes.
+MONITOR STRATEGY
+P0014: Advanced camshaft timing (bank 1)
+P0015: Retarded camshaft timing (bank 1)
+Related DTCs
+P0024: Advanced camshaft timing (bank 2)
+P0025: Retarded camshaft timing (bank 2)
+Required sensors / components (Main) VVT OCV and VVT Actuator
+Crankshaft position sensor, Camshaft position sensor and Engine
+Required sensors / components (Related)
+coolant temperature sensor
+Frequency of operation Once per driving cycle
+Duration Within 10 seconds
+Advanced camshaft timing (bank 1): Immediate
+Advanced camshaft timing (bank 2): Immediate
+MIL operation
+Retarded camshaft timing (bank 1): 2 driving cycles
+Retarded camshaft timing (bank 2): 2 driving cycles
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+P0100 - P0103 (MAF sensor)
+P0115 - P0118 (ECT sensor)
+P0125 (insufficient ECT for closed loop)
+Monitor runs whenever following DTCs are not present
+P0335 (CKP sensor)
+P0340, P0341 (CMP sensor)
+P0351 - P0358 (ignitor)
+Battery voltage 11 V or more
+Engine RPM 500 to 4,000 rpm
+Engine coolant temperature 75 to 100°C (167 to 212°F)
+TYPICAL MALFUNCTION THRESHOLDS
+Advanced camshaft timing:
+Valve timing No change
+Valve timing Advanced position

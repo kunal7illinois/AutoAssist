@@ -1,0 +1,26 @@
+42-110 BODY
+CONVERTIBLE TOP
+NOTE: After inspecting intermediate connector B-36 <M/T>, C-
+<2.4L ENGINE>CONNECTOR:B-36 28, C-77, C-90 inspect the wire. If intermediate connector B-36
+<M/T>, C-28, C-77, C-90 are damaged, repair or replace it.
+Refer to GROUP 00E P.00E-2, Harness Connector Inspection.
+Then go to Step 4.
+HEADLIGHT(LH) Q:Are there any damaged wires between convertible top
+control module connector F-34 (terminal 13) and vehicle
+speed sensor connector B-39 (terminal 3)?
+YES : Replace it, then go to Step 4.
+NO : Go to Step 3.
+AC004113AB
+CONNECTOR:C-28
+AC004115AB
+CONNECTOR:C-77
+AC004118AB
+CONNECTOR:C-90
+AC004119AB
+STEP 3. Check the vehicle speed sensor
+Furthermore, check that the vehicle speed sensor operates
+properly. (Refer to P.42-39.)
+Q:Is the vehicle speed sensor damaged?
+YES : Replace it, then go to Step 4.
+NO : Go to Step 4.
+TSB Revision

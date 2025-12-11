@@ -1,0 +1,32 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+2.4.2 Checking heated seats
+Note
+♦ Situations preventing activation of the driver's/front passeng‐
+er's seat heating (short circuit in connection to seat heating
+element, open circuit in power supply to air conditioner oper‐
+ating unit, Climatronic control unit -J255- etc.) are stored as
+faults in the air conditioner operating unit, Climatronic control
+unit -J255- ⇒ "Guided fault-finding" function of vehicle diag‐
+nostic, testing and information system VAS 5051.
+♦ Che c king of heated seat actuation is described in the air con‐
+ditioner guided fault-finding routine ⇒ "Guided fault-finding"
+function of vehicle diagnostic, testing and information system
+VAS 5051 .
+♦ If the voltage measured at the onboard supply control unit -
+J519- at terminal “30” drops below a value stored in -J519- ,
+the seat heating power is reduced (currently to approx. 50 %)
+or the heating function is completely deactivated to relieve the
+load on the alternator -C- . The air conditioner operating unit,
+Climatronic control unit -J255- reduces the actuation duty cy‐
+cle from 100 % to less than 90 ... 0 % ⇒ "Guided fault-finding"
+function of vehicle diagnostic, testing and information system
+VAS 5051 .
+♦ The measured value block of the air conditioner operating unit,
+Climatronic control unit -J255- shows that the front seat heat‐
+ing is being actuated or indicates why there is no actuation in
+spite of a corresponding request ⇒ "Guided fault-finding"
+function of vehicle diagnostic, testing and information system
+VAS 5051 .
+28
+Rep. Gr.87 - Air conditioning system

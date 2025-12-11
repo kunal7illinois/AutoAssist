@@ -1,0 +1,50 @@
+WS–9
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+INITIALIZATION
+1. INITIALIZE POWER WINDOW REGULATOR MOTOR
+FRONT LH (WITH JAM PROTECTION)
+NOTICE:
+• If the power window motor or power window
+regulator assembly is replaced, initialization is WS
+required (initialization is not necessary when the
+negative battery terminal is disconnected and
+reconnected).
+• No other electrical systems should be operated
+during initialization. Initialization will be
+interrupted if a voltage drop occurs in the power
+being supplied to the power window motor.
+• Replacing the door glass or door glass run may
+cause a difference to exist between the current
+door glass position and the position memorized
+in the ECU. In this case, the jam protection
+function may work improperly. Return the system
+to the pre-initialized condition and reinitialize the
+system.
+HINT:
+• The AUTO UP function will not work unless
+initialization is completed.
+• The indicator on the power window master switch will
+blink when the ignition switch is ON, until initialization
+has been completed. The indicator will remain on
+after initialization is successfully completed.
+(a) Connect the negative battery terminal.
+(b) Turn the ignition switch on (IG). The indicator on the
+power window master switch will blink.
+(c) Fully close the door glass by operating the power
+window master switch. After the door glass stops,
+hold the power window master switch in the AUTO
+UP position for 1 second or more.
+(d) Check that the indicator on the power window
+master switch remains on.
+HINT:
+If the indicator does not remain on, this means that
+initialization has not been completed successfully. In
+this case, lower the door glass at least 50 mm (1.96
+in.) and hold the power window master switch in the
+AUTO UP position for 1 second after the window
+closes fully.
+2. TO RETURN THE SYSTEM TO THE PRE-INITIALIZES
+CONDITION
+Disconnect the power window regulator motor connector
+during power window operation. This will return the
+motor to the pre-initialized condition.

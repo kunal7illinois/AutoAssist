@@ -1,0 +1,44 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0089 Fuel Pres‐ – Check the Actual pressure • Time after engine • 2 • Continu‐
+sure Regu‐ Fuel Pressure Deviation start > 60 Sec Sec ous
+lator 1 Per‐ Sensor - • <100 kPa
+formance G247- . Refer • fuel cut-off not ac‐ • 180 • 2 DCY
+to • >100 kPa tive Sec
+⇒ “3.5.5 Fuel
+• time after fuel cut-
+Pressure Sen‐
+off if applicable 20
+sor, Check‐
+Sec
+ing”,
+page 119 .
+P0097 Intake Air – Check the In‐ short to batt --- 2 Sec. • Continu‐
+Tempera‐ take Air Tem‐ • IAT > 4.47 V ous
+ture Sensor perature (IAT)
+2 Circuit Sensor 2 - • 2 DCY
+high Input G299-
+Refer to
+⇒ “3.5.16 Charge
+Air Pressure Sen‐
+sor / Intake Air
+Temperature
+Sensor 2, Check‐
+ing ”, page 142
+P0098 Intake Air – Check the In‐ short to ground --- 2 Sec. • Continu‐
+Tempera‐ take Air Tem‐ • IAT < 0.15 V ous
+ture Sensor perature (IAT)
+2 Circuit low Sensor 2 - • 2 DCY
+Input G299-
+Refer to
+⇒ “3.5.16 Charge
+Air Pressure Sen‐
+sor / Intake Air
+Temperature
+Sensor 2, Check‐
+ing ”, page 142
+33
+3. Diagnosis and Testing

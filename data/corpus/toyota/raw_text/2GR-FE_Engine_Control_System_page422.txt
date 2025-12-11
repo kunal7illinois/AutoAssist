@@ -1,0 +1,32 @@
+ES–422
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+C Go to step 29
+A
+8 PERFORM EVAP SYSTEM CHECK (STEP 3/5)
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed
+Vent Valve ON
+ES OFF: Vent
+Leak Detection
+Pump ON
+EVAP Pressure
+Positive
+Negative
+First Reference
+Pressure
+Steps 3/5
+Time
+Within 15 minutes
+(Reference)
+A106740E05
+(a) Wait until the EVAP pressure change is less than 0.1
+kPa-g (0.75 mmHg-g) for 30 seconds.
+(b) Measure the EVAP pressure and record it.
+HINT:
+A few minutes are required for the EVAP pressure to
+become saturated. When there is little fuel in the fuel
+tank, it takes up to 15 minutes.
+NEXT

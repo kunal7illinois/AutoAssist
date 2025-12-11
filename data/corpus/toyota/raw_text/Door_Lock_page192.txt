@@ -1,0 +1,30 @@
+DL–182
+DOOR LOCK – SMART KEY SYSTEM
+Touch Sensor Circuit
+DESCRIPTION
+This circuit receives a signal indicating whether a touch sensor signal is detected.
+WIRING DIAGRAM
+E58
+Certification ECU
+X2
+Touch Sensor (Front Door Outside Handle LH)
+5
+SEL SEL1
+4
+22
+SENS SEN1
+6
+W2
+Touch Sensor (Front Door Outside Handle RH)
+6
+SEL SEL2
+4
+23
+SENS SEN2
+6
+DL
+B112470E04
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the engine switch on (IG).

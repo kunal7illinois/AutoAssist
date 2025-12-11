@@ -1,0 +1,21 @@
+CA–77
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+Short in CAN Bus Lines
+DESCRIPTION
+The CAN bus wires are considered to be shorted when the resistance between terminals 6 (CANH) and
+14 (CANL) of the DLC3 is below 54 Ω.
+Symptom Trouble Area
+• Short in CAN bus wires
+• Brake actuator assembly (Skid control ECU)
+• Steering angle sensor
+• Yaw rate sensor
+• ECM
+Resistance between terminals 6 (CANH) and 14 (CANL) of the DLC3
+• Combination meter
+is below 54 Ω.
+• Main body ECU
+• A/C amplifier
+• Center airbag sensor
+• No. 1 CAN J/C
+• No. 2 CAN J/C
+CA

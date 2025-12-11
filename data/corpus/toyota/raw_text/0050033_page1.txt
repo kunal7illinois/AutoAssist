@@ -1,0 +1,56 @@
+ES–185
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Camshaft Position Sensor "A" Circuit (Bank 1
+DTC P0340
+or Single Sensor)
+DESCRIPTION
+The Camshaft Position (CMP) sensor consists of a magnet and an iron core which is wrapped with copper
+wire, and is installed onto the cylinder head. When the camshaft rotates, each of 3 teeth on the camshaft
+passes through the CMP sensor. This activates the internal magnet in the sensor, generating a voltage in
+the copper wire. The camshaft rotation is synchronized with the crankshaft rotation. When the crankshaft
+turns twice, the voltage is generated 3 times in the CMP sensor. The generated voltage in the sensor acts
+as a signal, allowing the ECM to locate the camshaft position. This signal is then used to control ignition
+timing, fuel injection timing, and the VVT system.
+ES
+DTC No. DTC Detection Conditions Trouble Areas
+Case 1
+• Open or short in CMP sensor circuit
+• No Camshaft Position (CMP) sensor signal to ECM while
+• CMP sensor
+cranking (2 trip detection logic)
+P0340 • Camshaft
+Case 2
+• Jumped tooth of timing chain
+• Camshaft/Crankshaft misalignment detected at engine
+• ECM
+speed of 600 rpm or more (1 trip detection logic)
+HINT:
+DTC P0340 indicates a malfunction relating to the CMP sensor (+) circuit (the wire harness between the
+ECM and CMP sensor, and the CMP sensor itself).
+Reference: Inspection using an oscilloscope
+CH1
+GND
+(G2+)
+CH2
+GND
+(NE+)
+A063955E13
+HINT:
+• The correct waveform is as shown in the illustration.
+• G2+ stands for the CMP sensor signal, and NE+ stands for the Crankshaft Position (CKP) sensor
+signal.
+• Grounding failure of the shielded wire may cause noise in waveforms.
+Items Contents
+CH1: G2+ - G2-
+Terminals
+CH2: NE+ - NE-
+Equipment Settings 5 V/Division, 20 ms/Division
+Conditions Cranking or idling
+MONITOR DESCRIPTION
+If no signal is transmitted by the CMP sensor despite the engine revolving, or the rotation of the camshaft
+and the crankshaft is not synchronized, the ECM interprets this as a malfunction of the sensor.
+If the malfunction is not repaired successfully, a DTC is set 10 seconds after the engine is next started.
+MONITOR STRATEGY
+P0340: Camshaft position sensor range check
+Related DTCs
+P0340: Camshaft position/crankshaft position misalignment

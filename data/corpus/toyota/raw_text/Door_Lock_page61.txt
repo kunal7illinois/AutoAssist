@@ -1,0 +1,27 @@
+DL–61
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+3 CHECK WIRE HARNESS (FRONT DOOR LOCK ASSEMBLY - MAIN BODY ECU)
+(a) Disconnect the front door lock assembly LH connector.
+Wire Harness Side:
+I7
+Front Door Lock Assembly LH
+E L UL
+IK
+Instrument Panel J/B E7
+Main Body ECU
+UL3
+B112609E02
+(b) Disconnect the main body ECU connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance DL
+Tester Connection
+Condition Specified Condition
+(Symbols)
+I7-9 (L) - IK-16 Always Below 1 Ω
+I7-10 (UL) - E7-10 (UL3) Always Below 1 Ω
+I7-7 (E) - Body ground Always Below 1 Ω
+I7-9 (L) - Body ground Always 10 kΩ or higher
+I7-10 (UL) - Body ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR

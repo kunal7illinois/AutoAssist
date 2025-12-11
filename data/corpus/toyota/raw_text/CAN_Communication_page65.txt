@@ -1,0 +1,53 @@
+CA–65
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+• Before measuring the resistance, leave the vehicle as is for at least 1 minute and do not operate
+the ignition switch, any other switches or the doors. If doors need to be opened in order to
+check connectors, open the doors and leave them open.
+HINT:
+Operating the ignition switch, any other switches or any triggers related ECU and sensor communication
+on the CAN, which would cause resistance reading variations.
+1 CHECK CAN BUS LINE FOR DISCONNECTION (COMBINATION METER MAIN BUS WIRE)
+(a) Turn the ignition switch off.
+Combination Meter Connector
+(b) Disconnect the combination meter connector.
+(Wire Harness Side View):
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+F1-17 (CANH) - F1-18
+Ignition switch off 108 to 132 Ω
+(CANL)
+F1
+NG REPAIR OR REPLACE CAN BUS MAIN WIRE
+CA
+OR CONNECTOR (COMBINATION METER
+MAIN BUS LINE)
+CANL CANH
+C133243E01
+OK
+2 CHECK HARNESS AND CONNECTOR (ES, IG+, B2)
+(a) Disconnect the combination meter connector.
+Combination Meter Connector
+(b) Measure the resistance according to the value(s) in the
+(Wire Harness Side View):
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+F1-24 (ES) - Body
+Always Below 1 Ω
+ground
+F1 (c) Measure the voltage according to the value(s) in the
+table below.
+B2
+Standard voltage
+Tester Connection Condition Specified Condition
+F1-13 (IG+) - Body
+Ignition switch on (IG) 10 to 14 V
+ES IG+ ground
+F1-2 (B2) - Body ground Always 10 to 14 V
+C133243E02
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE COMBINATION METER ECU

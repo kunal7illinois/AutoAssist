@@ -1,0 +1,36 @@
+DL–181
+DOOR LOCK – SMART KEY SYSTEM
+3 CHECK HARNESS AND CONNECTOR (ELECTRICAL KEY OSCILLATOR - ENTRY LOCK
+SWITCH)
+(a) Disconnect the door oscillator connector.
+(b) Measure the resistance according to the value(s) in the
+Lock Switch Wire Harness:
+table below.
+Standard resistance
+Tester Connection
+Condition Specified Condition
+(Symbols)
+X1 X2-9 (TRG-) - X1-1 (TRG-) Always Below 1 Ω
+W1 W2-9 (TRG-) - W1-1 (TRG-) Always Below 1 Ω
+X2-9 (TRG-) - Body ground Always 10 kΩ or higher
+W2-9 (TRG-) - Body ground Always 10 kΩ or higher
+TRG-
+NG REPAIR OR REPLACE HARNESS OR
+Door Oscillator:
+CONNECTOR
+X2
+W2
+TRG-
+B112467E08
+OK
+4 CHECK AND REPLACE ELECTRICAL KEY OSCILLATOR
+(a) Replace the electrical key oscillator.
+(b) Check that the entry LOCK/UNLOCK function operates
+normally.
+OK:
+DL
+Entry LOCK/UNLOCK function operates normally.
+NG PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+OK
+END (ELECTRICAL KEY OSCILLATOR IS DEFECTIVE)

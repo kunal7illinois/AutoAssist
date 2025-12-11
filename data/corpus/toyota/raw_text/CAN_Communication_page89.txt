@@ -1,0 +1,35 @@
+CA–89
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+12 CHECK FOR SHORT IN CAN BUS WIRES (ECM MAIN BUS WIRE)
+(a) Disconnect the No. 2 CAN J/C connector (A40).
+No. 2 CAN J/C Connector (Front of the (b) Measure the resistance according to the value(s) in the
+Vehicle) Wire Harness Side View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Value
+A40-1 (CANH) - A40-7 (CANL) Ignition switch off 108 to 132 Ω
+NG Go to step 14
+Front
+CANH
+A40
+CA
+CANL
+C133245E04
+OK
+13 CHECK FOR SHORT IN CAN BUS WIRES (SKID CONTROL ECU - NO. 2 CAN J/C)
+(a) Disconnect the skid control ECU connector (A25, A26 or
+No. 2 CAN J/C Connector (Front of the A60).
+Vehicle) Wire Harness Side View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Value
+A40-2 (CANH) - A40-8 (CANL) Ignition switch off 1 MΩ or higher
+HINT:
+Measure the resistance with the No. 2 CAN J/C
+connector (A40) disconnected.
+Front OK REPLACE BRAKE ACTUATOR ASSEMBLY
+CANH
+A40
+CANL
+C133245E05

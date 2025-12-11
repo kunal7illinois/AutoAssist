@@ -1,0 +1,20 @@
+ES–236
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0504 Brake Switch "A" / "B" Correlation
+DESCRIPTION
+The stop light switch is a duplex system that transmits two signals: STP and ST1-. These two signals are
+used by the ECM to monitor whether or not the brake system is working properly. If the signals, which
+indicate the brake pedal is being depressed and released, are detected simultaneously, the ECM
+interprets this as a malfunction in the stop light switch and sets the DTC.
+HINT:
+The normal conditions are as shown in the table below. The signals can be read using the intelligent
+tester.
+Signals Brake Pedal Released In Transition Brake Pedal Depressed
+ES STP OFF ON ON
+ST1- ON ON OFF
+DTC No. DTC Detection Conditions Trouble Areas
+Conditions (a), (b) and (c) continue for 0.5 seconds or more • Short in stop light switch signal circuit
+(1 trip detection logic): • STOP fuse
+P0504 (a) Ignition switch ON • IGN fuse
+(b) Brake pedal released • Stop light switch
+(c) STP signal OFF when ST1- signal OFF • ECM

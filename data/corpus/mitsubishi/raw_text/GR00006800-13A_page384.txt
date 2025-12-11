@@ -1,0 +1,34 @@
+13A-384 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Using the oscilloscope, check the sensor output
+voltage at ECM connector C-60.
+(1) Do not disconnect the ECM connector C-60.
+(2) Disconnect the combination meter connector and auto-
+cruise control-ECU connector.
+(3) Connect the oscilloscope probe to ECM terminal 86 by
+backprobing.
+ECM CONNECTOR OSCILLOSCOPE (4) Start the engine.
+7172737475767778798081
+8283848586878889909192
+OSCILLOSCOPE
+PLOBE
+AK000324AB
+(5) Check the waveform.
+NORMAL WAVEFORM
+• The waveform should show a pattern similar to the illus-
+(V)
+tration while the vehicle is being moved.
+(6) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the waveform normal?
+YES : Go to Step 4.
+NO : Go to Step 6.
+0 (ms)
+AAKKXX0011556622AB
+STEP 4. Check connector C-60 at ECM for damage.
+Q:Is the connector in good condition?
+CONNECTOR:C-60
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 17.
+AK000280BI
+TSB Revision

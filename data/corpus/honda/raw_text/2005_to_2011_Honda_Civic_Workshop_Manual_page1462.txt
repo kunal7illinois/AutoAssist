@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ELECTRICAL Charging System (R18A1) - Civic (All Except Hybrid)
+NO -Go to step 19.
+19. Turn the ignition switch to LOCK (0).
+20. Connect the HDS to the DLC (see step 2 on HOW TO USE THE HDS
+(HONDA DIAGNOSTIC SYSTEM) ).
+21. Turn the ignition switch ON (II).
+22. Make sure the HDS communicates with the vehicle and the ECM/PCM. If it
+doesn't, troubleshoot the DLC circuit (see DLC CIRCUIT
+TROUBLESHOOTING ).
+23. Jump the SCS line with the HDS, then turn the ignition switch OFF.
+NOTE: This step must be done to protect the ECM/PCM from
+damage.
+24. Disconnect ECM/PCM connector B (44P).
+25. Check for continuity between ECM/PCM connector terminal B42 and body
+ground.
+Fig. 5: Checking For Continuity Between ECM/PCM Connector Terminal
+B42 And Body Ground
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES -Update the ECM/PCM if it does not have the latest software (see
+UPDATING ECM/PCM ), or substitute a known-good ECM/PCM (see
+SUBSTITUTING THE ECM/PCM ), then recheck. If the

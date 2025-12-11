@@ -1,0 +1,65 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P013 O2 Sensor For CBTA (Fed) EWMA filtered • Time of fuel cutoff 10 Sec. • 1 DCY
+A Slow Re‐ ONLY: max differential <= 90 Sec.
+sponse - – Check the transient time at
+Rich to Oxygen Sen‐ fuel cutoff >= 0.5 • Time after last fuel
+Lean Bank sor (O2S) - Sec. and number cutoff >= 5 Sec.
+1 Sensor 2 G130- . Refer of checks >= 3
+• Rear O2S ready
+to
+⇒ “3.5.22 Oxy‐ • Exhaust temp at
+gen Sensor sensor deviation
+after Catalytic between actual
+Converter, and expected
+Checking”, lambda signal < 8
+page 156 . after time since
+fuel cutoff at first
+cylinder >= 2 Sec.
+• Exhaust mass flow
+>= 12 kg/h
+• Exhaust mass flow
+dynamic within
+range -500 to 500
+kg/h
+• Sensor voltage at
+start of measure‐
+ment > 0.45 V
+• Target voltage end
+of measurement
+<= 0.15 V
+P0130 O2 Sensor – Check the • O2S ceramic • heater control ac‐ 20 Sec. • 2 DCY
+Circuit Bank Heated Oxy‐ temp. < 640° C tive
+1 Sensor 1 gen Sensor
+(HO2S) - • OR • Modeled exhaust
+G39- . Refer temp > 330° C
+• internal resist‐
+to
+ance > 950° • Fuel cut off not ac‐
+⇒
+tive
+“3.5.20 Heat‐
+A G
+ed Ox y g en
+does not guarantee or accept any liability
+Sensor,
+Checking”,
+page 152
+P0131 O2 Sensor – Check the • Virtual mass < --- 2 Sec. • 2 DCY
+Circuit, Heated Oxy‐ 2.0 V
+Bank 1 Sen‐ gen Sensor
+sor 1 Low (HO2S) - • UN, < 1.75 V
+Voltage G39- . Refer
+• IP < 0.3 V
+to
+⇒ • IA, 0.3 V
+“3.5.20 Heat‐
+ed Oxygen
+Sensor,
+Checking”,
+page 152
+38
+Rep. Gr.ST - Generic Scan Tool

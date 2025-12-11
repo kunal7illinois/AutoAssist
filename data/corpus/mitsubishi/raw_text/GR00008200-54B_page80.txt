@@ -1,0 +1,67 @@
+54B-80 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+Operating the Driver(cid:146)s Door Inside Lock Knob
+When the door is locked by driver’s door inside lock knob, the
+UNLOCK ETACS-ECU activates the lock relay output for 0.25 seconds
+Driver's door
+and locks all doors.
+inside lock knob
+LOCK
+ON
+Lock relay output
+OFF t
+Driver's and
+passenger's LOCK
+door lock
+UNLOCK
+actuator switch
+t: 0.25 seconds AC106696AD
+DOOR UNLOCK FUNCTION
+.Operating the Driver(cid:146)s Door Lock Key Cylinder
+If the driver’s door unlocked when the driver(cid:146)s door is locked,
+the ETACS-ECU unlocks the driver(cid:146)s door only.
+Driver's (UNLO O CK N ) If the driver’s door is unlocked (after the lock switch in the
+door lock key driver’s door lock actuator is turned OFF, the unlock switch is
+cylinder switch OFF
+(LOCK) turned ON) when the driver(cid:146)s door is unlocking, the ETACS-
+ECU activates the unlock relay output for 0.25 seconds and
+ON
+Unlock relay unlocks all doors.
+(LH) output
+OFF t
+Driver's door LOCK
+lock actuator
+switch UNLOCK
+ON
+Unlock relay
+(RH) output
+OFF t
+Passesnger's
+LOCK
+door lock
+actuator
+UNLOCK
+switch
+t: 0.25 seconds
+AC106701AB
+.
+Operating the Passenger(cid:146)s Door Lock Key Cylinder
+When the front passenger’s door is unlocked (after the lock
+Passenger's
+ON (UNLOCK) switch in the front passenger’s unlock actuator is turned OFF,
+door lock
+key cylinder OFF (LOCK) the unlock switch is turned ON,) the ETACS-ECU activates the
+switch
+unlock relay output for 0.25 seconds and unlocks all doors.
+ON
+Unlock relay output
+OFF t
+Driver's and
+LOCK
+passenger's
+door lock
+UNLOCK
+actuator switch
+t: 0.25 seconds AC106699AB
+.
+TSB Revision

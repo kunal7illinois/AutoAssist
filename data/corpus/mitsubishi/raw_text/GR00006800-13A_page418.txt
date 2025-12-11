@@ -1,0 +1,29 @@
+13A-418 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Check the voltage at generator harness side
+connector B-45.
+(1) Disconnect the connector B-45 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 4 and ground.
+• Voltage should be battery positive voltage.
+B-45 HARNESS (4) Turn the ignition switch to the "LOCK" (OFF) position.
+SIDE CONNECTOR
+Q:Is the voltage normal?
+4 3 2 1
+YES : Go to Step 9.
+NO : Go to Step 7.
+AK000263AD
+STEP 7. Check connector C-53 at ECM <M/T> or connector
+C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-53<M/T>,C-54<A/T>
+YES : Go to Step 8.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 11.
+OR
+PCM<A/T>
+C-53,C-54
+AK000280BH
+TSB Revision

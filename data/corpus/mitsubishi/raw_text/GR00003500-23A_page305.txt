@@ -1,0 +1,39 @@
+AUTOMATIC TRANSAXLE 23A-305
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 1. Using scan tool MB991502, check data list item 67:
+Select Switch, item 68: Shift Switch (Up), item 69: Shift
+Switch (Down).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to data reading mode for following
+items.
+a. item 67: Select Switch
+b. item 68: Shift Switch (Up)
+c. item 69: Shift Switch (Down)
+16 PIN • The switches above are displayed, depending on the
+selector lever condition as shown in the table.
+MB991502 AC001252AE
+SELECTOR LEVER DATA LIST ITEM
+OPERATION
+67 68 69
+D range OFF OFF OFF
+Sport mode ON OFF OFF
+Upshift and hold the ON ON OFF
+selector lever
+Downshift and hold ON OFF ON
+the selector lever
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the switch operating properly?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : If completely NG: Go to Step 2. If item 68 and item 69
+both are NG: Go to Step 4. If only item 67 is NG: Go
+to Step 7. If only item 68 is NG: Go to Step 24. If only
+item 69 is NG: Go to Step 28 .
+TSB Revision

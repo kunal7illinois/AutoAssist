@@ -1,0 +1,40 @@
+54B-40 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTOR: C-78 CONNECTOR: C-86
+AC106473AN AC106475AC
+CONNECTOR: C-89 CONNECTORS: C-108, C-112
+CONNECTOR BLOCK (LH)
+JUNCTION BLOCK
+(FRONT VIEW)
+C-108
+C-112
+AC106477AD AC106479AN
+CONNECTORS: C-118, C-119
+JUNCTION BLOCK
+(REAR VIEW)
+C-118
+C-119
+AC106481AL
+. ECU) is damaged, also check the power supply cir-
+CIRCUIT OPERATION
+• The power supply to the ETACS-ECU is provided cuit from the ignition switch (IG1) (terminal 8 of the
+ETACS-ECU), and repair if necessary. If the ground
+by the battery and the ignition switch (IG1).
+• If the power supply system from the battery is circuit to the ECU (terminal 3 of the ETACS-ECU) is
+damaged, also check the ground circuit to the sensor
+defective, the system operates by the power sup-
+(terminal 56 of the ETACS-ECU), and repair if neces-
+ply from the ignition switch (IG1).
+sary.
+.
+TECHNICAL DESCRIPTION (COMMENT)
+.
+TROUBLESHOOTING HINTS
+It is suspected that the power supply circuit to the
+• Malfunction of the ETACS-ECU
+ETACS-ECU is defective, or the wiring harness
+• Damaged harness wires or connectors
+between the SWS monitor kit and the ETACS-ECU
+or their connector(s) is damaged. If the battery power
+supply circuit to the ECU (terminal 20 of the ETACS-
+TSB Revision

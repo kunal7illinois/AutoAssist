@@ -1,0 +1,43 @@
+CHASSIS - U250E AUTOMATIC TRANSAXLE CH-21
+(cid:3) The solenoid valve S4, when set to ON, controls the 4-5 shift valve to establish the 5th by changing over
+the fluid pressure applied to B brake and C clutch.
+3 3
+C Accumulator
+3
+4-5 Shift Valve
+5th: C Clutch ON
+3
+S4 ON
+C
+3
+Line Pressure
+S4 OFF
+B
+3
+Except 5th: B Brake ON
+3
+ON State
+OFF State
+Solenoid Valve S4 B Accumulator
+3 243CH20
+(cid:3) The solenoid valve DSL controls the B control valve via the solenoid relay valve when the transaxle
+2
+is shifted in the R or L position. During lock-up, the lock-up relay valve is controlled via the solenoid
+relay valve.
+Lock-up Relay Valve
+Lock-up ON Chamber
+Line
+Solenoid Relay Valve Pressure
+Solenoid Valve DSL
+(a) (b)
+B Control Valve Lock-up OFF Chamber
+2
+(b)
+Line (a)
+“R”
+Pressure B 2
+“L”
+(a) (b)
+(a): ON State
+241CH83
+(b): OFF State

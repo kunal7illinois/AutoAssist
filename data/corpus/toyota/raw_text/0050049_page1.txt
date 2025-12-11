@@ -1,0 +1,29 @@
+ES–271
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P1602 Deterioration of Battery
+DESCRIPTION
+The ECM determines the battery power according to the voltage of the BATT terminal while the engine is
+running (not cranking).
+DTC No. DTC Detection Condition Trouble Area
+• Battery
+P1602 Battery power is 0 % (1 trip detection logic)
+• ECM back-up power source circuit
+INSPECTION PROCEDURE
+ES
+1 INSPECT BATTERY
+(a) Inspect the battery specific gravity.
+(1) Check the specific gravity of each cell.
+Standard gravity:
+1.25 to 1.29 at 20°C (68°F)
+(b) Inspect the battery voltage.
+(1) After the vehicle is driven for 20 minutes, stop the
+engine.
+(2) Turn the ignition switch ON, and turn on the
+headlights, blower fan and defogger for 1 minute.
+(3) Turn the ignition switch OFF.
+(4) Measure the battery voltage.
+Standard voltage:
+9.6 V or more
+NG REPLACE BATTERY
+OK
+CHECK ECU POWER SOURCE CIRCUIT

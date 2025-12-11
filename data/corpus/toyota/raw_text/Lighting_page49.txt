@@ -1,0 +1,55 @@
+LI–53
+LIGHTING – LIGHTING SYSTEM
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Select the items below in the DATA LIST, and read the
+display on the intelligent tester.
+MAIN BODY (MAIN BODY ECU):
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Dimmer switch in HIGH or
+Dimmer switch HIGH signal / ON FLASH
+DIMMER SW -
+or OFF OFF: Dimmer switch in neither
+HIGH nor FLASH
+ON: Dimmer switch in FLASH
+Dimmer switch FLASH signal /
+HIGH FLASHER SW OFF: Dimmer switch not in -
+ON or OFF
+FLASH
+Front fog light switch signal / ON ON: Fog light switch ON
+F FOG LIGHT SW -
+or OFF OFF: Fog light switch OFF
+ON: Light control switch in AUTO
+Light control switch AUTO signal /
+AUTO LIGHT SW OFF: Light control switch not in -
+ON or OFF
+AUTO
+ON: Light control switch in HEAD
+Light control switch HEAD signal /
+HEAD LIGHT SW OFF: Light control switch not in -
+ON or OFF
+HEAD
+ON: Light control switch in TAIL or
+Light control switch TAIL signal / HEAD
+TAIL LIGHT SW -
+ON or OFF OFF: Light control switch in
+neither TAIL nor HEAD
+OK:
+Normal conditions listed above are displayed.
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+NG
+LI
+2 INSPECT HEADLIGHT DIMMER SWITCH ASSEMBLY
+(a) Inspect the headlight dimmer switch assembly (See
+page LI-120).
+OK:
+Headlight dimmer switch assembly is normal.
+NG REPLACE HEADLIGHT DIMMER SWITCH
+ASSEMBLY
+OK

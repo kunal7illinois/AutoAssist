@@ -1,0 +1,36 @@
+ST–53
+2GR-FE STARTING – SMART KEY SYSTEM
+DTC B2276 ACCR Signal Circuit Malfunction
+DESCRIPTION
+This DTC is output when the ACCR output circuit inside the main body ECU is open or shorted.
+HINT:
+When the main body ECU is replaced with a new one and the negative (-) battery terminal is connected,
+the power source mode becomes the IG-ON mode. When the battery is removed and reinstalled, the
+power source mode that was selected when the battery was removed is restored.
+After the main body ECU is replaced, perform the registration procedures for the engine immobiliser
+system (See page EI-8).
+DTC No. DTC Detection Condition Trouble Area
+• Main body ECU
+ACCR output circuit inside main body ECU or other
+B2276 • ECM
+related circuit is malfunctioning
+• Wire harness or connector
+WIRING DIAGRAM
+Main Body ECU
+ECM
+13 3
+ACCR A55 E6 ACCR
+B137975E02
+INSPECTION PROCEDURE
+1 CHECK DTC OUTPUT
+(a) Delete the DTCs (See page ST-26).
+HINT:
+After all DTCs are cleared, check if the trouble occurs
+again 50 seconds after the engine switch is turned on
+(IG).
+(b) Check for DTCs again.
+OK: ST
+No DTC B2276 is output.
+NG Go to step 2
+OK
+CHECK INTERMITTENT PROBLEMS

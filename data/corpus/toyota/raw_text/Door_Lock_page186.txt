@@ -1,0 +1,43 @@
+DL–176
+DOOR LOCK – SMART KEY SYSTEM
+2 CHECK HARNESS AND CONNECTOR (ELECTRICAL KEY OSCILLATOR -
+CERTIFICATION ECU)
+(a) Disconnect the E58 ECU connector.
+Certification ECU: Standard resistance
+Tester Connection (Symbols) Condition Specified Condition
+E58-33 (CLG1) - X2-10 (CLG) Always Below 1 Ω
+E58-34 (CG1B) - X2-5 (CLGB) Always Below 1 Ω
+E58-35 (CLG2) - W2-10 (CLG) Always Below 1 Ω
+E58
+E58-36 (CG2B) - W2-5
+Always Below 1 Ω
+(CLGB)
+E58-33 (CLG1) - Body ground Always 10 kΩ or higher
+E58-34 (CG1B) - Body
+Always 10 kΩ or higher
+ground
+E58-35 (CLG2) - Body ground Always 10 kΩ or higher
+E58-36 (CG2B) - Body
+Always 10 kΩ or higher
+CLG1 ground
+CG2B CG1B
+CLG2
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Door Oscillator:
+X2
+W2
+CLGB
+CLG
+B137964E01
+OK
+DL 3 CHECK AND REPLACE ELECTRICAL KEY OSCILLATOR (CHECK OPERATION OF
+OSCILLATOR)
+(a) Replace the door oscillator.
+(b) Check that the entry LOCK/UNLOCK function operates
+normally.
+OK:
+Entry LOCK/UNLOCK function operates normally.
+OK END (ELECTRICAL KEY OSCILLATOR IS
+DEFECTIVE)
+NG

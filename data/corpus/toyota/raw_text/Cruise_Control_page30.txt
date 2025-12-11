@@ -1,0 +1,33 @@
+CC–30
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+Cruise Control Switch Circuit
+DESCRIPTION
+The cruise control main switch operates 7 functions: SET, - (COAST), TAP-DOWN, RES (RESUME), +
+(ACCEL), TAP-UP, and CANCEL. The SET, TAP-DOWN, and - (COAST) functions, and the RES
+(RESUME), TAP-UP, and + (ACCEL) functions are operated with the same switch. The cruise control
+main switch is an automatic return type switch which turns on only while operating it in the direction of
+each arrow and turns off after releasing it. The internal contact point of the cruise control main switch is
+turned on with the switch operation. Then the ECM reads the voltage value that has been changed by the
+switch operation to control SET, - (COAST), RES (RESUME), + (ACCEL), and CANCEL.
+WIRING DIAGRAM
+ECM
+3 1 40 40
+CCS
+b1 E18 A24 A55 CCS
+*2 *1
+4 2
+ECC
+b1 E18
+Cruise Control Main Switch
+1
+CCS
+A
+CC
+CANCEL - (SET) + (RES) ON-OFF
+3
+ECC
+A 104 81
+C24 C55 E1
+*2 *1
+*1: 2GR-FE *1: 2AZ-FE
+E133779E01

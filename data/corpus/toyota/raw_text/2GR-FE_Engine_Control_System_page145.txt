@@ -1,0 +1,39 @@
+ES–145
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+HINT:
+When any of these DTCs are set, check the IAT by entering the following menus on the intelligent tester:
+DIAGNOSIS / ENHANCED OBD II / DATA LIST / PRIMARY / INTAKE AIR.
+Temperature Displayed Malfunction
+-40°C (-40°F) Open circuit
+140°C (284°F) or higher Short circuit
+MONITOR DESCRIPTION
+The ECM monitors the sensor voltage and uses this value to calculate the Intake Air Temperature (IAT).
+When the sensor output voltage deviates from the normal operating range, the ECM interprets this as a
+malfunction in the IAT sensor and sets a DTC.
+Example:
+If the sensor output voltage is -40°C (-40°F) for 0.5 seconds or more, the ECM determines that there is
+an open in the IAT sensor circuit, and sets DTC P0113. Conversely, if the output voltage is more than ES
+140°C (284°F) for 0.5 seconds or more, the ECM determines that there is a short in the sensor circuit,
+and sets DTC P0112.
+If the malfunction is not repaired successfully, a DTC is set 0.5 seconds after the engine is next started.
+MONITOR STRATEGY
+P0110: Intake air temperature sensor open/short (Fluctuating)
+Related DTCs P0112: Intake air temperature sensor short (Low electrical resistance)
+P0113: Intake air temperature sensor open (High electrical resistance)
+Required Sensors/Components (Main) Intake Air Temperature (IAT) sensor
+Required Sensors/Components (Sub) -
+Frequency of Operation Continuous
+Duration 0.5 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs are not present None
+TYPICAL MALFUNCTION THRESHOLDS
+P0110:
+Intake air temperature sensor voltage Less than 0.18 V, or more than 4.91 V
+P0112:
+Intake air temperature sensor voltage Less than 0.18 V
+P0113:
+Intake air temperature sensor voltage More than 4.91 V
+COMPONENT OPERATING RANGE
+Intake air temperature sensor resistance 98.5 Ω to 156 kΩ [-40 to 140°C (-40 to 284°F)]

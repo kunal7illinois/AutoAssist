@@ -1,0 +1,40 @@
+ES–212
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0300 Random / Multiple Cylinder Misfire Detected
+DTC P0301 Cylinder 1 Misfire Detected
+DTC P0302 Cylinder 2 Misfire Detected
+DTC P0303 Cylinder 3 Misfire Detected
+DTC P0304 Cylinder 4 Misfire Detected
+DTC P0305 Cylinder 5 Misfire Detected
+ES
+DTC P0306 Cylinder 6 Misfire Detected
+DESCRIPTION
+When the engine misfires, high concentrations of hydrocarbons (HC) enter the exhaust gas. Extremely
+high HC concentration levels can cause an increase in exhaust emission levels. High concentrations of
+HC can also cause increases in the Three-Way Catalytic Converter (TWC) temperature, which may cause
+damage to the TWC. To prevent this increase in emissions and to limit the possibility of thermal damage,
+the ECM monitors the misfire rate. When the temperature of the TWC reaches the point of thermal
+degradation, the ECM blinks the MIL. To monitor misfires, the ECM uses both the Camshaft Position
+(CMP) sensor and the Crankshaft Position (CKP) sensor. The CMP sensor is used to identify any
+misfiring cylinders and the CKP sensor is used to measure variations in the crankshaft rotation speed.
+Misfires are counted when the crankshaft rotation speed variations exceed predetermined thresholds.
+If the misfire exceeds the threshold levels and may cause emission deterioration, the ECM illuminates the
+MIL and sets a DTC.
+DTC No. DTC Detection Condition Trouble Area
+• Open or short in engine wire harness
+• Connector connection
+• Vacuum hose connections
+• Ignition system
+• Injector
+• Fuel pressure
+• Mass Air Flow (MAF) meter
+Simultaneous misfiring of several cylinder detected
+P0300 • Engine Coolant Temperature (ECT) sensor
+(2 trip detection logic)
+• Compression pressure
+• Valve clearance
+• Valve timing
+• PCV valve and hose
+• PCV hose connections
+• Air induction system
+• ECM

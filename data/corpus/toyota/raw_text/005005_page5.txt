@@ -1,0 +1,22 @@
+ES–28
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(a) Preconditions
+The monitor will not run unless:
+– The MIL is OFF.
+(b) Drive Pattern
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch ON.
+(3) Turn the tester ON.
+(4) Clear DTCs (if set) (see page ES-35).
+(5) Start the engine.
+(6) Allow the engine to idle for 10 minutes or more.
+(7) Drive the vehicle at 40 km/h (25 mph) or more
+for at least 2 minutes.
+(c) Monitor Status
+ES
+(1) Check the Readiness Monitor status displayed
+on the tester.
+If the status does not switch to COMPL
+(complete), make sure that the preconditions
+have been met, and repeat steps from (5) to (7)
+described in the Drive Pattern above.

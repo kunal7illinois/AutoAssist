@@ -1,0 +1,33 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+control unit.
+DTC 86-11: F-CAN COMMUNICATION WITH ECM MALFUNCTION; DTC 86-21: F-CAN
+COMMUNICATION WITH ENGINE MALFUNCTION; DTC 86-22: F-CAN COMMUNICATION
+WITH ENGINE MALFUNCTION; DTC 86-23: F-CAN COMMUNICATION WITH ENGINE
+MALFUNCTION; DTC 86-24: F-CAN COMMUNICATION WITH ENGINE MALFUNCTION; DTC
+86-25: F-CAN COMMUNICATION WITH ENGINE MALFUNCTION; DTC 86-41: F-CAN
+COMMUNICATION WITH EAT MALFUNCTION
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0).
+4. Test-drive the vehicle. Drive the vehicle at 7 mph (10 km/h) or more.
+5. Check for DTCs with the HDS.
+Is 86-11, 86-21, 86-22, 86-23, 86-24, 86-25, and/or 86-41 DTC indicated?
+YES -If the DTC 86-01 is indicated at the same time, do the DTC 86-01
+troubleshooting (see DTC 86-01: F-CAN Bus-off Malfunction ). If 86-01 is
+not indicated, go to step 6.
+NO -If any DTCs are indicated, go to the indicated DTCs troubleshooting. If
+DTCs are not indicated, intermittent failure, the system is OK at this time.
+Check for loose terminals between ECM connector A (44P) and the VSA
+modulator-control unit 37P connector. Refer to INTERMITTENT
+FAILURES TROUBLESHOOTING (see ).
+6. Turn the ignition switch to LOCK (0).
+7. Short the SCS line with the HDS.
+8. Disconnect ECM connector A (44P).
+9. Disconnect the VSA modulator-control unit 37P connector.
+10. Check for continuity between the VSA modulator-control unit 37P connector
+terminal and ECM connector A (44P) terminal (see table).
+CONNECTOR TERMINAL DESCRIPTION
+Connector Terminal No.
+Sign

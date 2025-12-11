@@ -1,0 +1,25 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Fig. 11: Identifying Data Link Connector
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+2. Turn the ignition switch to ON (II).
+3. Make sure the HDS communicates with the PCM. If it does not, go to DLC
+CIRCUIT TROUBLESHOOTING .
+4. Clear the DTC(s) on the HDS screen.
+OBD Status
+The OBD status shows the current system status of each DTC and all of the
+parameters. This function is used to see if the technician's repair was successfully
+completed. The results of diagnostic tests for the DTC are displayed as:
+PASSED: The On-board diagnosis is successfully completed.
+(cid:1)
+FAILED: The On-board diagnosis has finished but failed.
+(cid:1)
+NOT COMPLETED: The On-board diagnosis was running but is out of the
+(cid:1)
+enable conditions of the DTC.
+How to End a Troubleshooting Session
+This procedure must be done after any troubleshooting.
+NOTE: Reset the PCM with the HDS while the engine is stopped.
+1. Turn the ignition switch to LOCK (0).
+2. Turn the ignition switch to ON (II), and wait for 30 seconds.

@@ -1,0 +1,63 @@
+BC–35
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+DTC No. Detection Item Trouble Area See page
+C1237/37 Speed Sensor Rotor Faulty 1. Brake actuator assembly (skid BC-56
+control ECU)
+2. Speed sensor rotor (Front)
+3. Rear axle hub and bearing
+assembly
+4. Speed sensor
+5. Speed sensor circuit
+6. Tire and wheel size
+7. Tire deformation
+C1241/41 Low Battery Positive Voltage or 1. Battery BC-63
+Abnormally High Battery Positive 2. Charging system
+Voltage 3. Power source circuit
+4. Brake actuator assembly (Skid
+control ECU)
+C1249/49 Open in Stop Light Switch Circuit 1. Stop light switch BC-67
+2. Stop light switch circuit
+3. Brake actuator assembly (Skid
+control ECU)
+C1271/71 Low Output Signal of Front Speed 1. Front speed sensor RH BC-30
+Sensor RH (Test Mode DTC) 2. Sensor installation
+3. Skid control rotor BC
+C1272/72 Low Output Signal of Front Speed 1. Front speed sensor LH BC-30
+Sensor LH (Test Mode DTC) 2. Sensor installation
+3. Skid control rotor
+C1273/73 Low Output Signal of Rear Speed 1. Rear speed sensor RH BC-38
+Sensor RH (Test Mode DTC) 2. Sensor installation
+3. Skid control rotor
+C1274/74 Low Output Signal of Rear Speed 1. Rear speed sensor LH BC-38
+Sensor LH (Test Mode DTC) 2. Sensor installation
+3. Skid control rotor
+C1275/75 Abnormal Change in Output 1. Front speed sensor RH BC-30
+Signal of Front Speed Sensor RH 2. Front speed sensor circuit RH
+(Test Mode DTC) 3. Sensor installation
+C1276/76 Abnormal Change in Output 1. Front speed sensor LH BC-30
+Signal of Front Speed Sensor LH 2. Front speed sensor circuit LH
+(Test Mode DTC) 3. Sensor installation
+C1277/77 Abnormal Change in Output 1. Rear speed sensor RH BC-38
+Signal of Rear Speed Sensor RH 2. Sensor installation
+(Test Mode DTC) 3. Sensor rotor
+C1278/78 Abnormal Change in Output 1. Rear speed sensor LH BC-38
+Signal of Rear Speed Sensor LH 2. Sensor installation
+(Test Mode DTC) 3. Sensor rotor
+C1300/62 Skid Control ECU Malfunction Brake actuator assembly (skid BC-72
+control ECU)
+C1330/35 Right Front Speed Sensor Circuit 1. Front speed sensor RH BC-30
+2. Front speed sensor RH circuit
+3. Sensor installation
+C1331/36 Left Front Speed Sensor Circuit 1. Front speed sensor LH BC-30
+2. Front speed sensor LH circuit
+3. Sensor installation
+C1332/38 Right Rear Speed Sensor Circuit 1. Rear speed sensor RH BC-38
+2. Rear speed sensor RH circuit
+3. Sensor installation
+C1333/39 Left Rear Speed Sensor Circuit 1. Rear speed sensor LH BC-38
+2. Rear speed sensor LH circuit
+3. Sensor installation
+U0073/94 Control Module Communication 1. Wire harness (CANL, CANH BC-73
+Bus OFF circuit)
+2. Brake actuator assembly (skid
+control ECU)

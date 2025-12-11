@@ -1,0 +1,38 @@
+RS–126
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DTC B1650/32 Occupant Classification System Malfunction
+DESCRIPTION
+The occupant classification system circuit consists of the center airbag sensor assembly and the occupant
+classification system.
+If the center airbag sensor assembly receives signals from the occupant classification ECU, it determines
+whether the front passenger airbag assembly, the front seat side airbag assembly RH and front seat outer
+belt assembly should be operated.
+DTC B1650/32 is recorded when a malfunction is detected in the occupant classification system circuit.
+DTC No. DTC Detecting Condition Trouble Area
+• Occupant classification system malfunction
+• The center airbag sensor assembly receives a line
+• Floor wire No. 2
+short circuit signal, an open circuit signal, a short
+• Occupant classification system
+B1650/32 circuit to ground signal or a short circuit to B+ signal
+• Front seat wire RH (for Power Seat)
+in the occupant classification system circuit for 2
+• Center airbag sensor assembly
+seconds.
+• Center airbag sensor assembly malfunction
+WIRING DIAGRAM
+Occupant Classification ECU Center Airbag Sensor Assembly
+8 8 1 12
+(*1) (*1)
+FSR+ T10 O4 OT1 O1 FSP+
+RS
+(*1) (*2)
+(*2)
+4 4 4 13
+(*1) (*1)
+FSR- T10 O4 OT1 O1 FSP-
+(*1) (*2)
+(*2)
+*1: for Power Seat
+*2: for Manual Seat
+H045471E04

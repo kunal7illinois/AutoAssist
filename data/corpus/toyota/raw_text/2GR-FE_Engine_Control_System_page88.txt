@@ -1,0 +1,38 @@
+ES–88
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+After the ECM sends the "target" duty-cycle signal to the OCV, the ECM monitors the OCV current to
+establish an "actual" duty-cycle. The ECM detects a malfunction and sets a DTC when the actual duty-
+cycle ratio varies from the target duty-cycle ratio.
+MONITOR STRATEGY
+P0010: VVT OCV (bank 1) open/short
+Related DTCs
+P0020: VVT OCV (bank 2) open/short
+Required sensors / components (Main) VVT OCV (Variable Valve Timing oil control valve)
+Required sensors / components (Sub) -
+Frequency of operation Continuous
+Duration 1 second
+MIL operation Immediately
+ES
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+Monitor will run whenever these DTCs are not present None
+All of the following conditions are met: -
+Starter OFF
+Engine switch ON
+Time after turning ignition switch off to on (IG) 0.5 seconds or more
+TYPICAL MALFUNCTION THRESHOLDS
+One of the following conditions is met: Condition A, B or C
+A. All of the following conditions are met: -
+Battery voltage 11 to 13 V
+Target duty ratio Less than 70 %
+Output signal duty ratio 100 %
+B. All of the following conditions are met: -
+Battery voltage 13 V or more
+Target duty ratio Less than 80 %
+Output signal duty ratio 100 %
+C. All of the following conditions are met: -
+Current cut status Not cut
+Output signal duty ratio 3 % or less
+COMPONENT OPERATING RANGE
+VVT OCV duty ratio More than 3 %, and Less than 100 %

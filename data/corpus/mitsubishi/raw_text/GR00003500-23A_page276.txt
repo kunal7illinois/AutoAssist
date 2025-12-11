@@ -1,0 +1,46 @@
+23A-276 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 5. Check each brake system and clutch system.
+(1) Remove the transaxle.
+(2) Check the facings for seizure and piston seal ring for
+damage and interference with retainer. Repair or replace
+SECOND
+UNDERDRIVE
+BRAKE the faulty parts. Refer to GROUP 23B, Transaxle P.23B-10,
+LOW- CLUTCH
+REVERSE Underdrive Clutch and Input Shaft P.23B-57, Reverse and
+REVERSE
+BRAKE
+CLUTCH Overdrive Clutch P.23B-59. Then check for the symptom.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Go to Step 6.
+OVERDRIVE CLUTCH
+AC001868AB
+STEP 6. Replace the PCM.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Start over at Step 1.
+INSPECTION PROCEDURE 14: Vibration
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+causes for this case:)
+If vibration occurs when driving at constant speed or
+• Abnormal torque converter clutch pressure
+when accelerating in 4th gear, abnormal torque con-
+• Malfunction of the engine system
+verter clutch pressure or a malfunction of the engine
+• Malfunction of the torque converter clutch sole-
+system, torque converter clutch solenoid, torque con-
+noid
+verter or valve body may exist.
+• Malfunction of the torque converter
+• Malfunction of the valve body
+.
+• Malfunction of the PCM
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+TSB Revision

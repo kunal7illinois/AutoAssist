@@ -1,0 +1,53 @@
+ST–15
+2GR-FE STARTING – SMART KEY SYSTEM
+HINT:
+While the vehicle is being driven normally,
+operation of the engine switch is disabled.
+However, if the engine must be stopped in an
+emergency while the vehicle is being driven,
+pressing the engine switch for 3 seconds or more
+stops the engine. Power source mode changes
+from start to on (ACC).
+6. WHEN KEY BATTERY IS LOW
+Required Distance: (a) To operate the push-button start function when the
+10 mm (0.39 in.) key battery is low, hold the key close to the engine
+switch with the brake pedal depressed.
+(b) The main body ECU transmits a key verification
+request signal from the stop light switch to the
+certification ECU.
+(c) The certification ECU does not receive an ID code
+Engine Switch response from the entry door control receiver, so it
+actuates the transponder key amplifier built into the
+engine switch.
+(d) The transponder key amplifier outputs an engine
+immobiliser radio wave to the key.
+(e) The key receives the radio wave, and returns a
+radio wave response to the transponder key
+amplifier.
+Key (f) The transponder key amplifier combines the key ID
+codes with the radio wave response, and transmits
+it to the certification ECU.
+(g) The certification ECU judges and verifies the ID
+code, and transmits a key verification OK signal to
+B137947E01
+the main body ECU. The buzzer in the combination
+meter sounds at the same time.
+(h) After the buzzer sounds, if the engine switch is
+pressed within 5 seconds with the brake pedal not
+depressed, the power source mode changes to on
+(ACC) or on (IG), the same as in the normal
+condition.
+7. DIAGNOSIS
+The main body ECU can detect malfunctions in the push-
+button start function when the power source mode is on (IG).
+When the ECU detects a malfunction, the amber indicator
+light of the engine switch flashes to warn the driver. At the
+same time, the ECU stores a 5-digit DTC (Diagnostic Trouble
+Code) in the memory.
+• The indicator light warning continues for 15 seconds even
+after the power source mode is changed to off.
+• The DTC can be read by connecting the intelligent tester
+ST
+to the DLC3.
+• The push-button start function cannot be operated if a
+malfunction occurs.

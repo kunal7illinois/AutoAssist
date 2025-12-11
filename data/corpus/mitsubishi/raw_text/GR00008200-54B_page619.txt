@@ -1,0 +1,45 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-619
+CHECK AT ECU TERMINAL
+STEP 12. Check the wiring harness between ETACS-ECU
+connector C-119 (terminal 18) and the ignition switch
+(ACC).
+NOTE: Also check junction block connector C-111. If junction
+CONNECTOR: C-119 block connector C-111 is damaged, repair or replace the con-
+DEVICE SIDE
+nector as described in GROUP 00E, Harness Connector
+1 2 3 4 5 6 7 8 91011121314151617181920
+Inspection P.00E-2.
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+Q:Is the wiring harness between ETACS-ECU connector C-
+CONNECTOR: C-111
+119 (terminal 18) and ignition switch (ACC) in good
+DEVICE SIDE condition?
+1 2 YES : No action to be taken.
+3 4 5 6
+NO : Repair the wiring harness. If the functions or
+equipment, which are described in "CIRCUIT
+OPERATION", work normally, the interior light loaded
+signal should be normal.
+JUNCTION BLOCK
+(FRONT VIEW)
+AC106479AF
+CHECK AT ECU TERMINAL
+M1549001200265
+1. ETACS-ECU
+*
+AC101265
+NOTE: *: The terminal 1 to 20 connectors can not be
+measured as the ETACS-ECU is installed directly on
+the junction block. Therefore, this information is only
+for reference.
+TERMINAL INSPECTION ITEMS INSPECTION CONDITIONS NORMAL VALUE
+1 Output to power window relay When the power windows can Battery positive voltage
+work
+2 Battery positive voltage (for central Always Battery positive voltage
+door lock)
+3 Ground (for ECU) Always 0 V
+4 Power supply to ignition switch Ignition switch: "ACC" Battery positive voltage
+(ACC)
+TSB Revision

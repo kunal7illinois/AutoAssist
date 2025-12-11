@@ -1,0 +1,40 @@
+LI–57
+LIGHTING – LIGHTING SYSTEM
+(b) Check the harness and connector between the
+Wire Harness Side: instrument panel J/B assembly and rear LH door
+courtesy switch.
+(1) Disconnect the IO instrument panel J/B assembly
+Instrument Panel J/B Assembly
+connector.
+(2) Disconnect the N13 switch connector.
+(3) Measure the resistance according to the value(s) in
+IO the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+IO-7 (LCTY) - N13-1 (Rear LH) Always Below 1 Ω
+IO-7 (LCTY) - Body ground Always 10 kΩ or higher
+Door Courtesy Switch
+N13
+E121486E01
+(c) Check the harness and connector between the main
+Wire Harness Side:
+body ECU and driver side door courtesy switch.
+(1) Disconnect the E7 main body ECU connector.
+Main Body ECU
+(2) Disconnect the M6 switch connector.
+(3) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+E7
+Tester Connection Condition Specified Condition
+E7-24 (DCTY) - M6-1 (Driver side) Always Below 1 Ω
+E7-24 (DCTY) - Body ground Always 10 kΩ or higher
+DCTY
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Door Courtesy Switch
+LI
+M6
+E121487E01
+OK
+REPLACE INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY

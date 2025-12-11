@@ -1,0 +1,34 @@
+Audi A1 2011 ➤ , Audi A2 2001 ➤ , Audi A3 2004 ➤ , Audi A4 2001 ➤ , Au ...
+Electrical system; General information - Edition 10.2010
+5 Checking battery - vehicles with bat‐
+tery monitor control unit -J367- or en‐
+ergy management control unit -J644-
+♦ On some models, the electrical system is monitored by the
+energy management control unit -J644- or the battery monitor
+control unit -J367- in connection with the data bus diagnostic
+interface -J533- (allocation ⇒ Current flow diagrams, Electrical
+fault finding and Fitting locations). The battery test for these
+vehicles is performed via „Guided Fault Finding“.
+♦ If is not possible to check the battery in the „Guided Fault
+Finding“ because of a partially or totally discharged battery,
+the charge status of the battery can be assessed quickly via
+„Checking battery by measuring current draw“.
+♦ Do not open maintenance-free batteries; this would invalidate
+the warranty.
+5.1 Checking battery using vehicle diagnos‐
+tic tester
+Special tools and workshop equipment required
+♦ Vehicle diagnostic tester
+Procedure
+• Battery charger must not be connected during battery test and
+engine must not be running.
+• Battery temperature must be at least –10 °C.
+• Temperature of diagnostic system must be between +5
+and 45 °C.
+– Connect vehicle diagnostic tester ⇒ page 110 .
+Note
+If a fault message appears on the display, refer to ⇒ Operating
+instructions for vehicle diagnostic tester .
+– Select Guided Functions from menu.
+29
+5. Checking battery - vehicles with battery monitor control unit J367 or energy management control unit J644

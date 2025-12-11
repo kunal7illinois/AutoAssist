@@ -1,0 +1,51 @@
+A73(A), D5(B), D6(C)
+Main Body ECU
+1 2
+19 3C 27 3A 7
+B
+W
+L–R
+G–R
+G
+G
+22
+3C
+21 A
+R–G
+R–G
+rotcennoC
+noitcnuJ
+12
+R–L
+)B(71D
+,)A(61D
+A
+)A(9A
+9
+7 A
+A3
+Y–B
+Y–B
+rotcennoC
+noitcnuJ
+11 4 A
+18 3B
+A
+Y–B
+)B(9D
+,)A(8D
+D3
+Y–B
+4
+6 B
+D1
+B
+Y–B
+rotcennoC
+noitcnuJ
+B 1 C
+W
+ACC BMPX BECU KSWB GND GND GND
+32
+307
+BRZ (G4400BE)

@@ -1,0 +1,25 @@
+ES–469
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+11 CHECK HARNESS AND CONNECTOR (MAIN BODY ECU - ECM)
+(a) Disconnect the E6 main body ECU connector.
+Wire Harness Side:
+(b) Disconnect the A55 ECM connector.
+(c) Measure the resistance between the terminals.
+Standard resistance (Check for open)
+Main Body ECU
+Tester Connection Specified Condition
+STSW (E9-4) - STSW (A55-14) Below 1 Ω
+Standard resistance (Check for short)
+Tester Connection Specified Condition
+E9
+STSW (E9-4) or STSW (A55-14) - Body ground 10 kΩ or higher
+ES
+(d) Reconnect the main body ECU connector.
+(e) Reconnect the ECM connector.
+OK REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+A55 ECM Connector
+STSW
+A137048E01
+OK
+GO TO SMART KEY SYSTEM

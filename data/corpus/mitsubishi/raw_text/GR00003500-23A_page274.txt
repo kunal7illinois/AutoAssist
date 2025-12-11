@@ -1,0 +1,46 @@
+23A-274 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 4. Check connector C-54 <2.4L Engine> or C-55
+<3.0L Engine> at PCM for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE> YES : Go to Step 6.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM Connector Inspection P.00E-2. Then check for the
+symptom.
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+STEP 5. Using scan tool MB991502, check data list item 61:
+Park/Neutral Position Switch.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to data reading mode for item 61:
+Park/Neutral Position Switch.
+• Move the selector lever to "P," "R," "N," "D," "3," "2," "L"
+and sport mode positions to confirm whether the scan
+tool.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the switch operating properly?
+MB991502 AC001252AE YES : Go to Step 6.
+NO : Refer to P.23A-136, P.23A-166, diagnostic trouble
+code number 27, 28: Park/Neutral position switch
+system.
+STEP 6. Replace the PCM.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Start over at Step 1.
+INSPECTION PROCEDURE 13: Poor Acceleration
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+causes for this case:)
+If acceleration is poor when downshifting occurs
+• Malfunction of the engine system
+while driving, a malfunction of the engine system or a
+• Malfunction of the clutch system and brake sys-
+brake or clutch may exist.
+tem
+• Malfunction of the PCM
+.
+.
+TSB Revision

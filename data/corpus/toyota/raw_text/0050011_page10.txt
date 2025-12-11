@@ -1,0 +1,59 @@
+ES–56
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Intelligent Tester Displays Test Details Control Ranges Diagnostic Notes
+Request output voltage of
+ALT VOL generator regulator during forced Between 12.5 and 14.8 V Engine running
+activation
+All cylinder injector fuel cut and
+COMPRESS CHECK ON/OFF *
+ignition stop
+HINT:
+*: When cranking the engine, each cylinder measures the
+engine rpm.
+In this ACTIVE TEST, the fuel and ignition of all cylinders is
+cut, and cranking occurs for approximately 10 seconds. Then,
+each cylinder measures the engine rpm. If a cylinder's engine
+rpm is higher than the others, that cylinder's compression
+ES
+pressure is compared to the others, and whether or not the
+compression pressure is low can be determined.
+1. Warm up the engine.
+2. Turn the ignition switch OFF.
+3. Connect the intelligent tester to the DLC3.
+4. Turn the ignition switch ON and turn the intelligent tester
+ON.
+5. Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST / COMPRESS
+CHECK.
+HINT:
+If the results are not displayed normally, select the display
+items from the DATA LIST before performing the ACTIVE
+TEST. Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / USER DATA / ENG
+SPEED #1 and ENG SPEED #2, ENG SPEED #3, ENG
+SPEED #4 (Press the YES button to change the ENG
+A130534
+SPEED #1 to #4 is YES) and then press the ENTER
+button.
+6. While the engine is not running, press the RIGHT or LEFT
+button to change the COMPRESS CHECK to ON.
+HINT:
+After performing the above procedure, the ACTIVE TEST's
+COMPRESS CHECK will start. Fuel injection for all
+cylinders is prohibited, and the each cylinder's engine rpm
+measurement will enter standby.
+7. Fully open the throttle.
+8. Crank the engine for about 10 seconds.
+9. Monitor the engine speed (ENG SPEED #1 to #4)
+displayed on the tester.
+HINT:
+At first, the tester's display will show each cylinder's
+engine rpm measurement to be extremely high. After
+approximately 10 seconds of engine cranking, each
+cylinder's engine rpm measurement will change to the
+actual engine rpm.
+NOTICE:
+• After the ACTIVE TEST's COMPRESS CHECK is
+A130535
+turned ON, it will automatically turn off after 255
+seconds.

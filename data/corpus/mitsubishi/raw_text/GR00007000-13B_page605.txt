@@ -1,0 +1,51 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-605
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR:C-07
+AK000312AJ
+. TROUBLESHOOTING HINTS (The most likely
+CIRCUIT OPERATION
+• The PCM sends a duty signal to the fan controller causes for this code to be set are:)
+• Malfunction of the fan motor relay.
+according to engine coolant temperature, vehicle
+• Malfunction of the fan motor.
+speed, and the condition of the A/C switch. (The
+• Malfunction of the fan controller.
+closer the average voltage at the terminal comes
+• Improper connector contact, open or short-cir-
+to five volts, the higher the fan speed becomes.)
+cuited harness wire.
+• ECM <M/T> or PCM <A/T> failed.
+.
+DIAGNOSIS
+STEP 1. Check connector C-51 at ECM <M/T> or connector
+C-52 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-51<M/T>, C-52<A/T>
+YES : Go to Step 2.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+C-52 C-51
+AK000225AJ
+STEP 2. Check the output voltage at ECM harness side
+connector C-51 <M/T> or PCM harness side connector C-
+52 <A/T>.
+(1) Disconnect the connector C-51 <M/T> or C-52 <A/T> and
+measure at the harness side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 18 and ground.
+C-51<M/T>, C-52<A/T> • Voltage should be between 4.8 and 5.2 volts. (Fan
+HARNESS SIDE
+rotates at high speed.)
+CONNECTOR
+(4) Connect a jumper cable between 18 and ground.
+8 7 6 5 4 3 2 1 • The fan should stop.
+23 22 212019181716151413121110 9
+35 34 3332 30 29282726 2524 (5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage and fan condition normal?
+YES : Replace the ECM or PCM. Then confirm that the
+malfunction symptom is eliminated.
+NO : Go to Step 3.
+AK000368AC
+TSB Revision

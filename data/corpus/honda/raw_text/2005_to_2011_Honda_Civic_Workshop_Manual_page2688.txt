@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+YES -Update the PCM if it does not have the latest software (see UPDATING
+THE PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ), then recheck. If the symptom/indication goes away with a known-good
+PCM, replace the original PCM, refer to the ECM/PCM REPLACEMENT .
+NO -Go to step 20.
+20. Disconnect the injector 2P connector from the problem cylinder.
+21. At injector side, measure resistance between injector 2P connector terminals
+No. 1 and No. 2.
+Fig. 62: Measuring Resistance Between Injector 2P Connector Terminals
+No. 1 And 2
+Is there 1.14-1.26 ohms at 68 °F (20 °C)?
+YES -Check for poor connections or loose terminals at the injector control
+module, the injector, and the PCM.
+NO -Replace the injector(s) (see INJECTOR REPLACEMENT ).
+INJECTOR CONTROL MODULE RELAY CIRCUIT TROUBLESHOOTING
+1. Turn the ignition switch OFF.
+2. Remove the driver's dashboard undercover, refer to the DRIVER'S
+DASHBOARD UNDERCOVER REMOVAL/INSTALLATION .
+3. Remove the injector control module relay (A).

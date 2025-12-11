@@ -1,0 +1,32 @@
+TW–65
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+DTC C2191/91 Vehicle Speed Signal Error (Test Mode DTC)
+DESCRIPTION
+The tire pressure warning ECU receives a speed signal from the combination meter. This DTC is stored
+upon entering test mode, and cleared when a vehicle speed signal of 12 mph (20 km/h) is detected for 3
+seconds or more. This DTC is output only in test mode.
+DTC No. DTC Detecting Condition Trouble Area
+• Vehicle speed sensor
+• Tire pressure warning ECU
+C2191/91 Speed sensor circuit malfunction
+• Combination meter
+• Wire harness or connector
+WIRING DIAGRAM
+TW
+F2 E60
+Combination Meter Tire Pressure Warning ECU
+12 2
++S SPD
+E115290E29
+INSPECTION PROCEDURE
+NOTICE:
+• When replacing the tire pressure warning ECU, read the IDs stored in the ECU using the
+intelligent tester and write them down before removal.
+• It is necessary to perform initialization (See page TW-18) after registration (See page TW-15) of
+the transmitter IDs into the tire pressure warning ECU after the ECU have been replaced.
+1 READ VALUE ON INTELLIGENT TESTER
+(a) Connect the intelligent tester to DLC3.
+(b) Turn the ignition switch on (IG), and turn the intelligent
+tester on.
+(c) Select the item below in the Data List, and read the value
+displayed on the intelligent tester.

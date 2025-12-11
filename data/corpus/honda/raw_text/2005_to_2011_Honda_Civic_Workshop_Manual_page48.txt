@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+Connector Terminal No. 9 And Body Ground
+Is there battery voltage?
+YES - Check for loose terminals in the ABS modulator-control unit 25P
+connector. If necessary, substitute a known-good ABS modulator-control unit:
+Except Si model (see REMOVAL - EXCEPT SI MODEL ), Si model (see
+REMOVAL - SI MODEL ), and retest.
+NO - Repair open in the wire between the No. 3 MTR (30 A) fuse in the under-
+hood fuse/relay box and the ABS modulator-control unit.
+DTC 52-12: MOTOR STUCK OFF
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+4. Operate each SOLENOID in the ABS FUNCTION TEST five times with the
+HDS.
+5. Check for DTCs with the HDS.
+Is DTC 52-12 indicated?
+YES - Replace the ABS modulator-control unit: Except Si model (see
+REMOVAL - EXCEPT SI MODEL ), Si model (see REMOVAL - SI
+MODEL ).
+NO - Intermittent failure, the system is OK at this time.
+DTC 53-01: MOTOR RELAY STUCK ON 1; DTC 53-12: MOTOR RELAY STUCK ON 2
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+4. Check for DTCs with the HDS.
+Is DTC 53-01 or 53-12 indicated?

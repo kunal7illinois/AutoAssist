@@ -1,0 +1,61 @@
+Audi TT No. 43 / 19
+Current Flow Diagram
+Control unit in dash panel insert, fuel pump control unit, fuel
+gauge sender, fuel gauge, fuel system pressurisation pump
+G Fuel gauge sender
+G1 Fuel gauge
+G6 Fuel system pressurisation pump
+J285 Control unit in dash panel insert
+J519 Onboard supply control unit
+J538 Fuel pump control unit
+T10k 10-pin connector, black, on fuel pump control unit
+T11b 11-pin connector, black, connector A, on onboard power supply
+control unit
+T32 32-pin connector, blue, on control unit in dash panel insert
+T52b 52-pin connector, yellow, on onboard supply control unit
+Y24 Display in dash panel insert
+43 Earth point, lower part of right A-pillar
+390 Earth connection 25, in main wiring harness
+410 Earth connection 1 (sender earth), in main wiring harness
+G1 Y24 J285 * output sender earth
+# up to May 2009
+## from June 2009
+T32/27 T32/25 T32/28
+✱
+G6 G
+l
+0
+i/s
+,3
+w
+5
+b
+0
+l/
+,
+g
+3
+e
+5
+M J519
+1 5 2 3 4 T11b/10#
+T52b/38##
+0,35
+li
+T10k/7 T10k/4 T10k/8
+J538
+T10k/6 T10k/5 ws = white
+31 sw = black
+ro = red
+1,5 4,0 0,35 0,35
+br = brown
+br br br/bl br/bl
+gn = green
+390 410 bl = blue
+410 gr = grey
+43 li = purple
+ge = yellow
+239 240 241 242 243 244 245 246 247 248 249 250 251 252 or = orange
+8J0-043190409
+rs = pink
+Edition 04.2009

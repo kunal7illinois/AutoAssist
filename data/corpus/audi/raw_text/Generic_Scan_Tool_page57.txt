@@ -1,0 +1,71 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0261 Cylinder 1 – Check the • signal current < • Injection valve, 0.5 Sec. • Continu‐
+Injector Cir‐ Fuel Injector - 2.1 A commanded OFF ous
+cuit Low N30- . Refer to
+⇒ “3.5.27 • high pressure sys‐ • 2 DCY
+Fuel Injectors, tem current > 4.2 A
+Checking”,
+• Engine speed, >
+page 167 .
+40 RPM
+P0262 Cylinder 1 – Check the • signal current > • Injection valve, 0.5 Sec. • Continu‐
+Injector Cir‐ Fuel Injector - 14.7 A commanded ON ous
+cuit High N30- . Refer to
+⇒ “3.5.27 • Engine speed, > • 2 DCY
+Fuel Injectors, 40 RPM
+Checking”,
+page 167 .
+P0264 Cylinder 2 – Check the • signal current < • Injection valve, 0.5 Sec. • Continu‐
+Injector Cir‐ Fuel Injector - 2.1 A commanded OFF ous
+cuit Low N31- . Refer to
+⇒ “3.5.27 • high pressure sys‐ • 2 DCY
+Fuel Injectors, tem current > 4.2 A
+Checking”,
+• Engine speed, >
+page 167 .
+40 RPM
+P0265 Cylinder 2 – Check the • signal current > • Injection valve, 0.5 Sec. • 2 DCY
+Injector Cir‐ Fuel Injector - 14.7 A commanded ON
+cuit High N31- . Refer to
+⇒ “3.5.27 • Engine speed, >
+Fuel Injectors, 40 RPM
+Checking”,
+page 167 .
+P0267 Cylinder 3 – Check the • signal current < • Injection valve, 0.5 Sec. • Continu‐
+Injector Cir‐ Fuel Injector - 2.1 A commanded OFF ous
+cuit Low N32- . Refer to
+⇒ “3.5.27 • high pressure sys‐ • 2 DCY
+Fuel Injectors, tem current > 4.2 A
+Checking”,
+• Engine speed, >
+page 167 .
+40 RPM
+P0268 Cylinder 3 – Check the • signal current > • Injection valve, 0.5 Sec. • 2 DCY
+Injector Cir‐ Fuel Injector - 14.7 A commanded ON
+cuit High N32- . Refer to
+⇒ “3.5.27 • Engine speed, >
+Fuel Injectors, 40 RPM
+Checking”,
+page 167 .
+P0270 Cylinder 4 – Check the • signal current < • Injection valve, 0.5 Sec. • Continu‐
+Injector Cir‐ Fuel Injector - 2.1 A commanded OFF ous
+cuit Low N33- . R e fer to
+⇒ “3.5.2 7 • high pressure sys‐ • 2 DCY
+Fuel Injectors, tem current > 4.2 A
+Checking”,
+• Engine speed, >
+page 167 .
+40 RPM
+P0271 Cylinder 4 – Check the • signal current > • Injection valve, 0.5 Sec. • 2 DCY
+Injector Cir‐ Fuel Injector - 14.7 A commanded ON
+cuit High N33- . Refer to
+⇒ “3.5.27 • Engine speed, >
+Fuel Injectors, 40 RPM
+Checking”,
+page 167 .
+53
+3. Diagnosis and Testing

@@ -1,0 +1,45 @@
+AUTOMATIC TRANSAXLE 23A-9
+GENERAL DESCRIPTION
+. 2. If the computer determines from the driving pat-
+ADAPTIVE SHIFT CONTROL
+terns that the driver is one who enjoys a relaxed,
+1. The computer learns the driving habits and pref-
+unhurried style, it adjusts timing to execute up-
+erences of each individual driver by processing
+shifts at a lower engine speed to provide a
+driving data on engine output, tire load, foot brake
+smooth, quiet ride. On the other hand, if the com-
+operation, etc. It then uses this data to adjust shift
+puter determines the driver to prefer a sporty ride,
+timing to best suit the driver’s style.
+it adjusts timing to shift up at a higher engine
+speed to provide more powerful response.
+ADAPTIVE SHIFT CONTROL DURING ACCELERATION
+DRIVER WHO PREFERS
+3RD 4TH
+RELAXING RIDE
+DRIVER WHO PREFERS
+SPORTIER RIDE 3RD 4TH
+50 (31) 100 (62)
+VEHICLE SPEED [km/h (mph)]
+AC000844AB
+3. If the computer determines that the driver tends
+to apply the brakes often on a descending road-
+way, it adjusts timing to down shift sooner so that
+engine braking is more effectively applied. Con-
+versely, if the computer determines that the driver
+does not brake much while driving downhill, it
+delays downshifting to minimize the effect of
+engine braking.
+ADAPTIVE SHIFT CONTROL ON DOWNGRADES
+CONVENTIONAL A/T (NO DOWN SHIFT) 4TH
+DRIVER WHO PRESSES
+BRAKE PEDAL OFTEN 4TH 3RD 2ND 3RD 4TH
+NEW A/T WITH
+AVERAGE DRIVER 4TH 3RD 4TH
+INVECS-II
+DRIVER WHO RARELY
+PRESSES THE BRAKE 4TH
+AC000845AB
+.
+TSB Revision

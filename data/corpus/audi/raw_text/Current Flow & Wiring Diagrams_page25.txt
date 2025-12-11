@@ -1,0 +1,67 @@
+Audi TT No. 1 / 25
+Current Flow Diagram
+Convenience system central control unit, parking brake
+contact switch, socket illumination bulb, cigarette lighter, 12
+V socket, luggage compartment light
+F321 Parking brake contact switch
+J393 Convenience system central control unit
+L28 Cigarette lighter illumination bulb
+L42 Socket illumination bulb
+T8g 8-connector, black, connector B, on convenience system central
+control unit
+T18g 18-pin connector, brown, connector A, on convenience system
+8877 9933 5555
+central control unit
+✱ U1 Cigarette lighter
+##
+0,35 0,35 4,0 U5 12 V socket
+or/gn or/br ro/ws
+W3 Luggage compartment light
+B489
+B398 B407 44 Earth point, lower part of left A-pillar
+• •
+0,35 0,35
+or/gn or/br 51 Earth point, on right in luggage compartment
+J393 T18g/9 T18g/10 376 Earth connection 11, in main wiring harness
+T18g/15 T8g/3 T8g/5 T18g/11 5566 ## 395 Earth connection 30, in main wiring harness
+5500 # 112299 5511 113300
+✱ ✱
+✱✱ ✱✱ ## ## # Connection 2 (convenience CAN bus, high), in main wiring
+b
+0
+r
+,
+/
+3
+g
+5
+e
+g 0 r , / 3 g 5 e s 0 w ,3 /b 5 l gn 0 / , r 5 o ro 2 /w ,5 s ro 2 /w ,5 s g 0 r/ , b 5 l ro 2 /w ,5 s ro 2 /w ,5 s g 0 r , / 3 b 5 l B398 harness
+Connection 2 (convenience CAN bus, low), in main wiring
+2 3/58s 2 3/58s B407 harness
+1 116633 116611 2
+✱
+F321 W3 U1 U5 B489 Connection 25 in main wiring harness
+2 1/31 1/31 L28 1/31 L42
+• CAN bus (data wire)
+* only USA
+0,35 0,5 2,5 2,5 ** models with adjustable rear spoiler
+br br br br
+# up to May 2007
+## from June 2007
+116622 376
+395
+ws = white
+sw = black
+ro = red
+1,5 4,0 br = brown
+br br
+gn = green
+bl = blue
+gr = grey
+51 44 li = purple
+ge = yellow
+323 324 325 326 327 328 329 330 331 332 333 334 335 336 or = orange
+8J0-001250407
+rs = pink
+Edition 04.2008

@@ -1,0 +1,35 @@
+ENGINE AND EMISSION CONTROL 17-63
+AUTO-CRUISE CONTROL
+STEP 2. Check park/neutral position switch connector B-
+41.
+Q:Is the connector damaged?
+CONNECTOR: B-41
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that the malfunction is eliminated.
+DIPSTICK
+NO : Go to Step 3.
+AC001482AB
+STEP 3. Check the circuit at the park/neutral position
+switch.
+(1) Disconnect the park/neutral position switch connector B-41.
+(2) Measure the continuity park/neutral position switch
+connector terminals.
+ITEMS TERMINAL CONNECTOR SPECIFIED
+OF TESTER CONDITION
+P 3 − 8, 9 − 10 Less than 2 ohm
+N 4 − 8, 9 − 10
+L
+2
+Q:Does the continuity meet the table above?
+3
+YES : Go to Step 4.
+D
+NO : Replace the park/neutral position switch.
+N
+Refer to GROUP 23B, Transaxle P.23B-10.
+R
+P Then check that the malfunction is eliminated.
+AC005865AB
+TSB Revision

@@ -1,0 +1,43 @@
+LI–138
+LIGHTING – TURN SIGNAL FLASHER ASSEMBLY
+TURN SIGNAL FLASHER ASSEMBLY
+COMBINATION METER ASSEMBLY
+INSTRUMENT CLUSTER FINISH PANEL
+E128183E01
+ON-VEHICLE INSPECTION
+Wire Harness Side:
+1. INSPECT TURN SIGNAL FLASHER ASSEMBLY
+LL
+LR (a) Disconnect the E14 turn signal flasher assembly
+connector.
+IG
+E14 (b) Measure the voltage and resistance according the
+B value(s) in the table below.
+Standard voltage
+EL
+HAZ
+ER E Tester Connection Condition Specified Condition
+E068703E11 E14-1 (IG) - Body Ignition switch off Below 1 V
+LI ground
+E14-1 (IG) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+E14-4 (B) - Body ground Always 10 to 14 V
+Standard resistance
+Tester Connection Condition Specified Condition
+E14-5 (EL) - Body
+Turn signal switch OFF 10 kΩ or higher
+ground
+E14-5 (EL) - Body Turn signal switch in LH
+Below 1 Ω
+ground position
+E14-6 (ER) - Body
+Turn signal switch OFF 10 kΩ or higher
+ground
+E14-6 (ER) - Body Turn signal switch in
+Below 1 Ω
+ground RH position
+E14-7 (E) - Body ground Always Below 1 Ω
+E14-8 (HAZ) - Body Hazard warning switch
+10 kΩ or higher
+ground OFF

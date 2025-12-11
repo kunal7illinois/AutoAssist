@@ -1,0 +1,42 @@
+Wireless Door Lock Control (w/o Smart Entry & Start System)
+: Parts Location
+Code See Page Code See Page Code See Page
+A9 A 42 D9 B 40 F3 B 44
+A10 B 42 D16 A 40 G18 44
+A63 39 D17 B 40 H21 45
+A73 A 42 D46 A 41 H27 A 45
+A76 B 36, 39 D47 B 41 H28 B 45
+D5 B 40 D53 41 J3 45
+D6 C 40 D61 41 K3 45
+D8 A 40 E3 A 44
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 24 Engine Room R/B (Engine Compartment Right)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+1D 24 Engine Room Main Wire and Engine Room J/B (Engine Compartment Right)
+3A
+26 Instrument Panel Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+3B
+3C 26 Engine Room Main Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+3D 26 Instrument Panel Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+: Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+AD2 47 Engine Room Main Wire and Instrument Panel Wire (Instrument Panel Reinforcement)
+DK1 47 Instrument Panel Wire and Roof Wire (Front Body Inner Pillar RH)
+ED1 47 Front Door Wire LH and Instrument Panel Wire (Cowl Side Panel LH)
+FD1 47 Front Door Wire RH and Instrument Panel Wire (Cowl Side Panel RH)
+GD1 47 No. 1 Floor Wire and Instrument Panel Wire (Cowl Side Panel RH)
+HD1 47 No. 2 Floor Wire and Instrument Panel Wire (Cowl Side Panel LH)
+JH1 48 Luggage Room Wire and No. 2 Floor Wire (Quarter Panel LH)
+: Ground Points
+Code See Page Ground Points Location
+A1 46 Front Fender Apron LH
+A3
+47 Cowl Side Panel LH
+D1
+D3 47 Instrument Panel Brace RH
+H1 48 Lower Back Panel
+H3 48 Quarter Wheel House Panel LH
+276
+BRZ (G4400BE)

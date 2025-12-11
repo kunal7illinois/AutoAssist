@@ -1,0 +1,32 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-219
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the injector.
+(1) Disconnect the injector connector B-01 <No. 1 cylinder> or
+CONNECTOR : B-01, B-02, B-05, B-06
+B-02 <No. 2 cylinder> or B-05 <No. 3 cylinder> or B-06
+B-01 B-02 B-05B-06
+<No. 4 cylinder>.
+AAKK000000227733AB
+(2) Measure the resistance between injector side connector
+INJECTOR SIDE terminal 1 and 2.
+CONNECTOR Standard value: 13 − 16 ohm [at 20°C (68°F)]
+Q:Is the resistance standard value?
+1 2
+YES : Go to Step 4.
+NO : Replace the injector. Then go to Step 10.
+AK000559AB
+STEP 4. Check the power supply voltage at injector
+connector.
+(1) Disconnect connector B-01 <No. 1 cylinder> or B-02 <No. 2
+cylinder> or B-05 <No. 3 cylinder> or B-06 <No. 4 cylinder>
+and measure at the harness side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground.
+B-01,B-02,B-05,B-06 • Voltage should be battery positive voltage.
+HARNESS SIDE (4) Turn the ignition switch to the "LOCK" (OFF) position.
+CONNECTOR
+Q:Is the voltage normal?
+2 1 YES : Go to Step 6.
+NO : Go to Step 5.
+AK000560AD
+TSB Revision

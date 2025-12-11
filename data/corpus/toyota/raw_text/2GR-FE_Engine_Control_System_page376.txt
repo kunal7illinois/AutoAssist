@@ -1,0 +1,55 @@
+ES–376
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+NOTICE:
+The Air-Fuel Ratio (A/F) sensor has an output delay of a few seconds and the Heated Oxygen
+(HO2) sensor has a maximum output delay of approximately 20 seconds.
+A/F Sensor (Sensor 1) HO2 Sensor (Sensor 2) Main Suspected
+Case
+Output Voltage Output Voltage Trouble Areas
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 %
+1 -
+Output Voltage Output Voltage
+More than 3.35 V More than 0.55 V
+Less than 3.0 V Less than 0.4 V
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 %
+• A/F sensor
+ES 2 • A/F sensor heater
+Output Voltage Output Voltage • A/F sensor circuit
+Almost More than 0.55 V
+no reaction Less than 0.4 V
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 %
+• HO2 sensor
+3 • HO2 sensor heater
+Output Voltage Output Voltage • HO2 sensor circuit
+More than 3.35 V Almost
+Less than 3.0 V no reaction
+Injection volume Injection Volume
+• Injector
++25 % +25 %
+• Fuel pressure
+-12.5 % -12.5 %
+• Gas leakage from
+4 exhaust system
+Output Voltage Output Voltage
+(Air-fuel ratio
+Almost Almost
+extremely lean or
+no reaction no reaction
+rich)
+• Following the A/F CONTROL procedure enables technicians to check and graph the output voltages of
+both the A/F and HO2 sensors.
+• To display the graph, enter the following menus: DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST /
+A/F CONTROL / USER DATA / AFS B1 S1 and O2S B1 S2 or AFS B2 S1 and O2S B2 S2, and press
+the YES button and then the ENTER button followed by the F4 button.
+HINT:
+• Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame
+data can be helpful in determining whether the vehicle was running or stopped, whether the engine
+was warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the
+time of a malfunction (See page ES-45).

@@ -1,0 +1,44 @@
+BC–167
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+9 CHECK SPEED SENSOR AND SPEED SENSOR ROTOR SERRATIONS
+(a) Reconnect the front speed sensor connector.
+Skid Control ECU Harness Side (b) Connect the oscilloscope to the front speed sensor
+Connector Front View: terminal of the skid control ECU.
+(c) Check that a waveform is output when the tires are
+rotated.
+FR+ OK:
+A26 FL- The same waveform is output from all the 4 wheels
+and there is no noise or interference in the
+waveform.
+HINT:
+• As the vehicle speed (wheel revolution speed)
+increases, a cycle of the waveform narrows and the
+FR- FL+
+output voltage becomes greater.
+• When noise is identified in the waveform on the
+Normal Signal Waveform:
+oscilloscope, the erratic signals are generated due to
+BC
+speed sensor rotor's scratches, looseness or foreign
+matter attached to it.
+NG REPLACE BRAKE ACTUATOR ASSEMBLY
+GND
+1 V/Division, 2 ms/Division
+C136019E04
+OK
+10 RECONFIRM DTC
+(a) Reconnect the skid control ECU connector.
+(b) Clear the DTC (See page BC-141).
+(c) Start the engine.
+(d) Drive the vehicle at the speed of 20 mph (32 km/h) or
+more for at least 60 seconds.
+(e) Check if the same DTC is recorded (See page BC-141).
+Result
+Condition Proceed to
+DTCs (C0200/31 and/or C0205/32) are output A
+DTCs (C0200/31 and/or C0205/32) are not output B
+HINT:
+If troubleshooting has been carried out according to the
+Problem Symptoms Table, refer back to the table and
+proceed to the next step (See page BC-134).
+B USE SIMULATION METHOD TO CHECK

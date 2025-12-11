@@ -1,0 +1,46 @@
+54A-82 CHASSIS ELECTRICAL
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+NOTE: After checking intermediate connector C-28, check the
+CONNECTOR: C-42
+wires. If intermediate connector C-28 is damaged, repair or
+replace it. Refer to GROUP 00E, Harness Connector Inspec-
+tion P.00E-2.
+DEVICE SIDE
+2122232425262728 293031323334
+AC106473AI
+Q:Are the wiring harness from combination meter
+CONNECTOR: C-28
+connector C-42 (terminal 33) to ECM connector C-56
+(terminal 58) <2.4L M/T> or PCM connector C-54
+(terminal 43) <2.4L A/T>, distributor assembly
+connector B-22 (terminal 2) <3.0L engine> and
+automatic compressor controller connector C-13
+(terminal 22) <3.0L engine> in good condition?
+YES : There is no action to be taken.
+NO : Repair or replace the connector. The tachometer
+should work normally.
+1 2 3 4
+5 16
+6 7 8 9101112131415
+17 28
+18192021222324252627
+29 38
+3031 32333435 3637
+C-28
+AC106563AC
+STEP 9. Using scan tool MB991502, check data list item 22:
+Crankshaft Position Sensor.
+(1) Start the engine and run at idle.
+(2) Set scan tool MB991502 to the data reading mode for item
+22, Crankshaft Position Sensor.
+(3) Check the waveform of the crankshaft position sensor while
+keeping the engine speed constant.
+• The pulse width should be constant.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the sensor operating properly?
+MB991502 YES : Go to Step 10.
+AKX01177AB NO : Refer to GROUP 13A <2.4L>, MFI − MFI Diagnosis
+P.13A-236 or GROUP 13B <3.0L>, MFI − MFI
+Diagnosis P.13B-315.
+TSB Revision

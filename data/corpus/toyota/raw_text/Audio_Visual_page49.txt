@@ -1,0 +1,39 @@
+AV–49
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+HINT:
+• "440 (stereo component amplifier)" is the component
+which has stored this code in the example shown in the
+illustration.
+• For details of the DTC display, refer to "DTC CHECK/
+CLEAR" (See page AV-19).
+NEXT
+4 CHECK COMPONENT WHICH HAS STORED THIS CODE
+(a) Select the component which has stored this code.
+HINT:
+The "Bluetooth" handsfree module is built into the radio
+receiver. If there is a problem between the "Bluetooth"
+handsfree module and radio receiver, replace the radio
+receiver.
+Component Table:
+Component Proceed to
+"Bluetooth" handsfree module A
+Except "Bluetooth" handsfree module B
+A REPLACE RADIO RECEIVER
+B
+5 CHECK HARNESS AND CONNECTOR (RADIO RECEIVER - COMPONENT WHICH HAS
+STORED THIS CODE)
+HINT:
+For details of the connectors, refer to the "TERMINALS OF
+ECU" (See page AV-15).
+(a) Referring to the AVC-LAN wiring diagram below, check
+the AVC-LAN circuit between the radio receiver and the
+component which has stored this code.
+(1) Disconnect all connectors between the radio
+receiver and the component which has stored this
+code.
+(2) Check for an open or short in the AVC-LAN circuit
+between the radio receiver and the component
+which has stored this code.
+OK:
+There is no open or short circuit.
+AV

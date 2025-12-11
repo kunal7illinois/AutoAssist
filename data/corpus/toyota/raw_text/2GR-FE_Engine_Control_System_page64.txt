@@ -1,0 +1,89 @@
+ES–64
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Measurement Item: Range
+Intelligent Tester Display Normal Condition*1 Diagnostic Note
+(Display)
+VSV for Acoustic Control
+ON: Open
+ACIS VSV Induction System Status: -
+OFF: Closed
+ON or OFF
+Purge VSV status:
+EVAP (Purge) VSV - Active Test support data
+ON or OFF
+Fuel pump status:
+FUEL PUMP / SPD - Active Test support data
+ON or OFF
+VVT control (bank 1) status:
+VVT CTRL B1 - Active Test support data
+ON or OFF
+VVT control (bank 2) status:
+VVT CTRL B2 - Active Test support data
+ON or OFF
+Key-off EVAP system leak
+VACUUM PUMP detection pump status: - Active Test support data
+ON or OFF
+ES
+Key-off EVAP system vent valve
+EVAP VENT VAL status: - Active Test support data
+ON or OFF
+Electric fan motor:
+FAN MOTOR ON: Electric fan motor operating Active Test support data
+ON or OFF
+VSV for Air Intake Control System
+AICV VSV Status: - -
+ON or OFF
+TC and CG (TE1) terminal of
+TC/TE1 DLC3: - Active Test support data
+ON or OFF
+VVT aim angle (bank 1 Intake
+VVTL AIM ANGL#1*2 side): - -
+Min.: 0%, Max.: 100%
+VVT change angle (bank 1 Intake
+Displacement angle during
+VVT CHNG ANGL#1*2 side): 0 to 5°FR: Idling
+intrusive operation
+Min.: 0°FR, Max.: 60°FR
+VVT OCV operation duty (bank 1
+Requested duty value for intrusive
+VVT OCV DUTY B1*2 Intake side): 0 to 100%
+operation
+Min.: 0%, Max.: 100%
+VVT exhaust hold duty ratio
+learning value (bank 1 Exhaust Requested duty value for intrusive
+VVT EX HOLD B1*2 10 to 50%: Idling
+side): operation
+Min.: 0%, Max.: 100%
+VVT change angle (bank 1
+Displacement angle during
+VVT EX CHG ANG1*2 Exhaust side): 0 to 5° FR: Idling
+intrusive operation
+Min.: 0° FR, Max.: 60° FR
+VVT OCV operation duty (bank 1
+Requested duty value for intrusive
+VVT EX OCV D B1*2 Exhaust side): 0 to 100%
+operation
+Min.: 0%, Max.: 100%
+VVT aim angle (bank 2 Intake
+VVTL AIM ANGL #2*2 side): - -
+Min.: 0%, Max.: 100%
+VVT change angle (bank 2 Intake
+Displacement angle during
+VVT CHNG ANGL #2*2 side): 0 to 5° FR: Idling
+intrusive operation
+Min.: 0° FR, Max.: 60° FR
+VVT OCV operation duty (bank 2
+Requested duty value for intrusive
+VVT OCV DUTY B2*2 Intake side): 0 to 100%
+operation
+Min.: 0%, Max.: 100%
+VVT exhaust hold duty ratio
+learning value (bank 2 Exhaust Requested duty value for intrusive
+VVT EX HOLD B2*2 10 to 50%: Idling
+side): operation
+Min.: 0%, Max.: 100%
+VVT change angle (bank 2
+Displacement angle during
+VVT EX CHG ANG2*2 Exhaust side): 0 to 5° FR: Idling
+intrusive operation
+Min.: 0° FR, Max.: 60° FR

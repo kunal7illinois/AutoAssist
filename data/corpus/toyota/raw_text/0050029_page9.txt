@@ -1,0 +1,15 @@
+ES–162
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+16 CHECK WHETHER DTC OUTPUT RECURS (DTC P0171 OR P0172)
+(a) On the intelligent tester, select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / DTC INFO /
+CURRENT CODES.
+(b) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+No output A
+P0171 or P0172 B
+ES
+B Go to step 3
+A
+END

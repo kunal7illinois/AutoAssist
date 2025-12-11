@@ -1,0 +1,62 @@
+Audi TT No. 46 / 20
+Current Flow Diagram
+Engine control unit, sport program button, sports program
+warning lamp
+E461 Operating unit in front of centre console
+E541 Sport program button
+J519 Onboard supply control unit
+J623 Engine control unit
+K91 Sports program warning lamp
+L156 Switch illumination bulb
+T10 10-pin connector, black, in front left engine compartment
+225599 T12c 12-pin connector, black, connector B, on onboard power supply
+control unit
+0,35
+bl/ws T16b 16-pin connector, brown, on switch module centre console
+T52b 52-pin connector, yellow, on onboard supply control unit
+T60 60-pin connector, on engine control unit
+T94 94-pin connector, on engine control unit
+T10/4
+44 Earth point, lower part of left A-pillar
+0,35
+bl/ws
+384 Earth connection 19, in main wiring harness
+J623
+T60/55
+394 Earth connection 29, in main wiring harness
+T94/46
+B340 Connection 1 (58s), in main wiring harness
+225599
+B341
+0,5 0,35 0,35 0,35
+gr/bl gr/bl sw/li bl/ws B341 Connection 2 (58s), in main wiring harness
+* up to May 2009
+58s
+T16b/1 T16b/14 T16b/16 ** from June 2009
+L156 E541
+B340 K91 E461
+T16b/2 T16b/4
+31
+0,5 0,35 0,35
+gr/bl br sw/ro
+58s
+T52b/51✱✱
+T12c/12✱
+394
+J519
+ws = white
+sw = black
+ro = red
+1,5 1,0 0,35 br = brown
+br br sw/ro
+gn = green
+bl = blue
+384 330088
+gr = grey
+44 li = purple
+ge = yellow
+253 254 255 256 257 258 259 260 261 262 263 264 265 266
+or = orange
+8J0-046200410
+rs = pink
+Edition 04.2010

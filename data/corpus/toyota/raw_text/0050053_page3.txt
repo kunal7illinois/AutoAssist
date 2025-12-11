@@ -1,0 +1,52 @@
+ES–291
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+HINT:
+When any of these DTCs are set, check the APP sensor voltage by selecting the following menu items on
+the intelligent tester: DIAGNOSIS / ENHANCED OBD II / DATA LIST / PRIMARY / ACCEL POS #1 and
+ACCEL POS #2.
+ACCEL POS #1 ACCEL POS #2 ACCEL POS #1 ACCEL POS #2
+Trouble Areas
+When AP Released When AP Released When AP Depressed When AP Depressed
+VCP circuit open 0 to 0.2 V 0 to 0.2 V 0 to 0.2 V 0 to 0.2 V
+Open or ground short in VPA circuit 0 to 0.2 V 1.2 to 2.0 V 0 to 0.2 V 3.4 to 5.0 V
+Open or ground short in VPA2 circuit 0.5 to 1.1 V 0 to 0.2 V 2.6 to 4.5 V 0 to 0.2 V
+EPA circuit open 4.5 to 5.0 V 4.5 to 5.0 V 4.5 to 5.0 V 4.5 to 5.0 V
+Normal condition 0.5 to 1.1 V 1.2 to 2.0 V 2.6 to 4.5 V 3.4 to 5.0 V
+HINT:
+ES
+• Accelerator pedal positions are expressed as voltages.
+• AP denotes for Accelerator Pedal.
+MONITOR DESCRIPTION
+When either output voltage of VPA or VPA2 deviates from the standard range, or the difference between
+the output voltages of the 2 sensor circuits is less than the threshold, the ECM determines that there is a
+malfunction in the APP sensor. The ECM then illuminates the MIL and sets a DTC.
+Example:
+When the output voltage of VPA drops below 0.4 V for more than 0.5 seconds when the accelerator pedal
+is fully depressed, DTC P2122 is set.
+If the malfunction is not repaired successfully, a DTC is set 2 seconds after the engine is next started.
+MONITOR STRATEGY
+P2120: APP sensor 1 range check (fluctuating)
+P2122: APP sensor 1 range check (low voltage)
+P2123: APP sensor 1 range check (high voltage)
+Related DTCs P2125: APP sensor 2 range check (fluctuating)
+P2127: APP sensor 2 range check (low voltage)
+P2128: APP sensor 2 range check (high voltage)
+P2138: APP sensor range check (correlation)
+Required Sensors/Components (Main) APP sensor
+Required Sensors/Components (Related) -
+Frequency of Operation Continuous
+0.5 seconds: P2120, P2122, P2125 and P2127
+Duration
+2.0 seconds: P2123, P2128 and P2138
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+Either of following conditions 1 or 2 met: -
+1. Ignition switch ON
+2. Throttle actuator power ON
+TYPICAL MALFUNCTION THRESHOLDS
+P2120:
+Either of following conditions 1 or 2 met: -
+1. VPA voltage when VPA2 voltage 0.04 V or more 0.4 V or less
+2. VPA voltage 4.8 V or more

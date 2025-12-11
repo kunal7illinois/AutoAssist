@@ -1,0 +1,44 @@
+DL–93
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/ Smart Key System)
+2 INSPECT CERTIFICATION ECU (RC0 TERMINAL)
+(a) Measure the voltage according to value(s) in the table
+Connector Wire Harness View: below.
+Standard voltage
+Certification ECU
+Symbol
+Condition Specified Condition
+(Tester Connection)
+E58
+Engine switch off, all
+doors closed and
+Below 1 V
+transmitter switch not
+RC0 (E58-29) - E (E58- pressed
+17) Engine switch off, all
+doors closed and
+4.6 to 5.4 V
+transmitter switch
+pressed
+E
+RC0
+OK Go to step 4
+B139430E03
+NG
+3 CHECK HARNESS AND CONNECTOR (CERTIFICATION ECU - BATTERY - BODY
+GROUND)
+(a) Disconnect the E58 certification ECU connector.
+(b) Measure the voltage and resistance according to
+Connector Wire Harness Side:
+value(s) in the table below.
+Certification ECU Standard resistance
+Symbol
+E58 (Tester Connection) Condition Specified Condition
+RC0 (E58-29) - Body Always Below 1 V
+ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+RC0
+DL
+E125974E10
+OK
+REPLACE CERTIFICATION ECU

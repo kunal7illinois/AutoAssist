@@ -1,0 +1,30 @@
+DL–171
+DOOR LOCK – SMART KEY SYSTEM
+2 CHECK HARNESS AND CONNECTOR (DOOR CONTROL RECEIVER - ELECTRICAL KEY
+ANTENNA)
+(a) Disconnect the O19 antenna connector.
+Door Control Receiver: (b) Measure the resistance according to the value(s) in the
+table below.
+HINT:
+Perform the measurement with the O18 receiver
+connector disconnected.
+Standard resistance
+Tester Connection (Symbols) Condition Specified Condition
+O18-7 (ANT) - O19-1 (ANT) Always Below 1 Ω
+O18
+O18-7 (ANT) - Body ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+ANT CONNECTOR
+Electrical Key Antenna:
+O19
+ANT
+B112462E03
+OK
+3 CHECK AND REPLACE DOOR CONTROL RECEIVER (RECONFIRM DTC) DL
+(a) Replace the receiver.
+(b) Clear the DTCs and repeat the procedure to recheck for
+DTCs (See page DL-156).
+OK:
+DTC is not output.
+OK END (RECEIVER IS DEFECTIVE)
+NG

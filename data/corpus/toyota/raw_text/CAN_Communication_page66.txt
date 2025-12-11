@@ -1,0 +1,38 @@
+CA–66
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+Center Airbag Sensor Communication Stop Mode
+DESCRIPTION
+Detection Item Symptom Trouble Area
+• "SRS Airbag" is not displayed on the
+• Power source circuit of the center
+"Communication Bus Check" screen of the
+airbag sensor
+Center Airbag Sensor Communication Stop intelligent tester
+• Center airbag sensor branch wire or
+Mode • Applies to "Center Airbag Sensor
+connector
+Communication Stop Mode" in the "DTC
+• Center airbag sensor
+COMBINATION TABLE"
+WIRING DIAGRAM
+DLC3
+Combination Meter ECM
+CA
+120 Ω No. 1 CAN J/C No. 2 CAN J/C 120 Ω
+13 E30 E30 22
+CANH CANL 25
+21 E1 E30
+IGN
+E30 IG2 26
+E2 E30
+Center Airbag Sensor
+Trouble Area
+: CAN Main Bus Wire (CANH) : CAN Branch Wire (CANH)
+: CAN Main Bus Wire (CANL) : CAN Branch Wire (CANL)
+C126212E03
+INSPECTION PROCEDURE
+NOTICE:
+• Turn the ignition switch off before measuring the resistance of the CAN main wire and CAN
+branch wires.
+• After the ignition switch is turned off, check that the key reminder warning system and light
+reminder warning system are not operating.

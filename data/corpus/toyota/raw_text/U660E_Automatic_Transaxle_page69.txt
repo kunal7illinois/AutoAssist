@@ -1,0 +1,54 @@
+AX–69
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+INSPECTION PROCEDURE
+1. DATA LIST
+HINT:
+According to the DATA LIST displayed on the intelligent tester, you can read the value of switches,
+sensors, actuators and other items without removing any parts. Reading the DATA LIST as the first
+step in troubleshooting is one method to save labor time.
+AX
+NOTICE:
+In the table below, the values listed under "Normal Condition" are reference values. Do not
+depend solely on these reference values when deciding whether a part is faulty.
+(a) Warm up the engine.
+(b) Turn the ignition switch off.
+(c) Connect the intelligent tester together with the CAN VIM (Controller Area Network Vehicle
+Interface Module) to the DLC3.
+(d) Turn the ignition switch on (IG).
+(e) Turn on the tester.
+(f) Enter the following items: "DIAGNOSIS / OBD/MOBD / ECT / DATA LIST".
+(g) According to the display on the tester, read "DATA LIST".
+Measurement Item/
+Item Normal Condition
+Range (display)
+• After Stall Test;
+ATF Temp. Sensor Value/
+Approx. 80°C (176°F)
+AT OIL TEMP1 min.: -40°C (-40°F)
+• Equal to ambient temperature when cold
+max.: 215°C (419°F)
+soak
+HINT:
+When DTC P0712 is output and the intelligent tester indicates 150°C (302°F) or more, there is a
+short circuit.
+When DTC P0713 is output and the intelligent tester indicates -40°C (-40°F), there is an open
+circuit.
+Measure the resistance between terminal THO1 (OT) and body ground.
+Temperature Displayed Malfunction
+-40°C (-40°F) Open circuit
+150°C (302°F) or more Short circuit
+HINT:
+If a circuit related to the ATF temperature sensor becomes open, P0713 is immediately set (in
+0.5 seconds). When P0713 is set, P0711 cannot be detected.
+It is not necessary to inspect the circuit when P0711 is set.
+1 CHECK OTHER DTCS OUTPUT (IN ADDITION TO DTC P0711)
+(a) Connect the the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the the
+intelligent tester on.
+(c) Select the items: "DIAGNOSIS / OBD/MOBD / ECT /
+DTC INFO / CURRENT CODES".
+(d) Read the DTCs using the intelligent tester.
+Result
+Display (DTC output) Proceed to
+Only "P0711" is output A
+"P0711" and other DTCs B

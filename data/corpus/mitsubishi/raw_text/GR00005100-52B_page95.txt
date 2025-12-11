@@ -1,0 +1,32 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-95
+SRS AIR BAG DIAGNOSIS
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991865: Dummy resister
+• MB991866: Resister harness
+STEP 1. Check the side-airbag module (RH).
+(1) Connect special tool MB991865 to special tool MB991866.
+MB991866
+MB991865
+CAUTION
+INSTURMENT PANEL Do not insert a test probe into the terminal from its front
+WIRING HARNESS
+side directly as the connector contact pressure may be
+weakened.
+SIDE AIR BAG
+(2) Disconnect the side-airbag module (RH) connector D-19,
+MODULE (RH)
+and insert special tool MB991866 into the harness side
+CONNECTOR
+connector by backprobing.
+(3) Connect the negative battery terminal.
+(4) Erase the DTC memory, and then recheck the DTC.
+AC006042AE
+Q:Is DTC 76 output?
+YES : Go to Step 2.
+NO : Replace the seat back assembly of the front seat
+(RH). Refer to GROUP 52A, Front Seat P.52A-16.
+Then go to Step 4.
+TSB Revision

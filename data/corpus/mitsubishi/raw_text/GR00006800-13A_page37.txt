@@ -1,0 +1,43 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-37
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the power supply voltage at volume air flow
+sensor harness side connector B-14.
+(1) Disconnect the connector B-14 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 4 and ground.
+B-14 HARNESS • Voltage should be battery positive voltage.
+SIDE CONNECTOR
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+7 6 5 4 3 2 1
+Q:Is the voltage normal?
+YES : Go to Step 4.
+NO : Repair harness wire between MFI relay connector A-
+18X terminal 4 and volume air flow sensor connector
+B-105 terminal 4 because of open circuit or short
+circuit to ground. Then go to Step 13.
+AKX01405AC
+STEP 4. Check connector B-14 at the volume air flow
+sensor for damage.
+Q:Is the connector in good condition?
+CONNECTOR : B-14
+YES : Repair harness wire between MFI relay connector A-
+18X terminal 4 and volume air flow sensor connector
+B-14 terminal 4 because of harness damage. Then go
+VOLUME AIR
+to Step 13.
+FLOW SENSOR
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 13.
+ACX02480AC
+STEP 5. Check connector B-14 at volume air flow sensor
+for damage.
+Q:Is the connector in good condition?
+CONNECTOR : B-14
+YES : Go to Step 6.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 13.
+VOLUME AIR
+FLOW SENSOR
+ACX02480AC
+TSB Revision

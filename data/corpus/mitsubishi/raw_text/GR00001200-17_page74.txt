@@ -1,0 +1,34 @@
+17-74 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+STEP 6. Check the harness wire between combination
+meter connector C-41 (terminal number 52) and junction
+block connector C-108 (terminal number 25).
+Q:Is any harness wire between combination meter
+CONNECTOR: C-41
+connector C-41 (terminal number 52) and junction block
+connector C-108 (terminal number 25) damaged?
+YES : Repair the harness wire and then check that the
+malfunction is eliminated.
+NO : Go to Step 7.
+AC101196AH
+CONNECTOR: C-108
+JUNCTION BLOCK
+(FRONT VIEW)
+AC103108AC
+STEP 7. Check the combination meter.
+(1) Remove the combination meter and measure at the
+combination meter side. (Refer to GROUP 54A,
+Combination Meter Assembly and Vehicle Speed Sensor
+P.54A-105.)
+(2) Measure the continuity between terminal 44 and 45 at
+CONNECTOR C-41
+conductor C-41.
+41424344454647 484950515253545556
+Q:Is the continuity less than 2 ohm?
+YES : Go to Step 8.
+NO : Replace the combination meter.
+Refer to GROUP 54A, Combination Meter Assembly
+and Vehicle Speed Sensor P.54A-105.
+Then check that the malfunction is eliminated.
+AC002358AC
+TSB Revision

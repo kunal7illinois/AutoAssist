@@ -1,0 +1,17 @@
+ES–288
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(i) Read DTCs.
+HINT:
+The output voltage of the throttle position sensor can be
+checked during step (g) using the intelligent tester. Variations
+in the output voltage indicate that the throttle actuator is in
+operation. To check the output voltage using the intelligent
+tester, select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / ETCS / THROTTLE POS
+#1.
+OK:
+No DTC output.
+NG REPLACE THROTTLE BODY ASSEMBLY
+ES
+OK
+CHECK FOR INTERMITTENT PROBLEMS

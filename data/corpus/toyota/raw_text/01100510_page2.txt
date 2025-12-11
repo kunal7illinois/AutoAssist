@@ -1,0 +1,38 @@
+EC–21
+2AZ-FE EMISSION CONTROL – AIR FUEL RATIO SENSOR
+ON-VEHICLE INSPECTION
+1. CHECK AIR FUEL RATIO COMPENSATION SYSTEM
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Select the following menu items: Data List / A/FS B1
+S1 and O2S B1 S2.
+(d) Warm up the A/F sensor with the engine speed at
+2,500 rpm for approximately 2 minutes.
+(e) Keep the engine speed at 2,500 rpm and confirm
+DLC3 that the display of "A/FS B1 S1" is as shown in the
+illustration.
+HINT:
+• The illustration may slightly differ from the display
+Intelligent Tester
+on the intelligent tester.
+• Only the intelligent tester displays the waveform
+B127990E01
+of the A/F sensor.
+(f) Confirm that the display of "O2S B1 S2" changes
+between 0 to 1 V with the engine speed at 2,500
+rpm.
+Keep Engine Speed
+OK:
+The voltage output oscillates more than 8
+Lean times in 10 seconds.
+NOTICE: EC
+(V) • Perform the check immediately after warming
+the engine up.
+3.3 V 14.6
+Air • If the voltage variation could not be verified,
+Fuel warm up the A/F sensor again. If it could not
+Ratio be verified even after warming up the sensor
+Rich
+again, check for DTCs (see page ES-292).
+Time
+A111996E04

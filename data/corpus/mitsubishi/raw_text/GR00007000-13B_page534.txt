@@ -1,0 +1,25 @@
+13B-534 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check for open circuit, short circuit to ground and
+harness damage between data link connector C-29
+terminal 7 and ECM connector C-62 terminal 85 <M/T> or
+PCM connector C-59 terminal 85 <A/T>.
+NOTE: Check harness after checking intermediate connectors
+CONNECTOR:C-29
+C-77 and C-28. If intermediate connectors are damaged, repair
+or replace them. Refer to GROUP 00E, Harness Connector
+Inspection P.00E-2. Then check that the malfunction is elimi-
+nated.
+DATA LINK
+CONNECTOR Q:Is the harness wire in good condition?
+YES : Refer to, INSPECTION PROCEDURE 29 − Power
+ACCELERATOR Supply System and Ignition Switch − IG System
+PEDAL
+P.13B-607.
+ACX02447AI NO : Repair it. Then confirm that the malfunction symptom
+is eliminated.
+CONNECTOR : C-62<M/T>, C-59<A/T>
+PCM<A/T> ECM<M/T>
+C-59 C-62
+AK000225AL
+TSB Revision

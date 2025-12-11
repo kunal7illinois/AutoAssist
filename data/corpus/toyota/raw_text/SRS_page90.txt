@@ -1,0 +1,42 @@
+RS–90
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+14 CHECK FLOOR WIRE (SHORT)
+(a) Disconnect the service wire from connector C.
+Floor Wire (b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+D A Tester connection Condition Specified condition
+C B N7-1 (BCL+) - N7-2
+Always 1 MΩ or higher
+Rear Airbag Side Airbag (BCL-)
+Sensor LH Sensor LH
+NG REPAIR OR REPLACE FLOOR WIRE
+Connector B
+N7
+4321
+BCL- BCL+
+C C114843E11
+OK
+RS 15 CHECK FLOOR WIRE (SHORT TO B+)
+(a) Connect the negative (-) terminal cable to the battery,
+Floor Wire and wait for at least 2 seconds.
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+table below.
+D A
+Standard voltage
+C B
+Rear Airbag Side Airbag Tester connection Condition Specified condition
+Sensor LH Sensor LH N7-1 (BCL+) - Body
+Ignition switch on (IG) Below 1 V
+ground
+N7-2 (BCL-) - Body
+Ignition switch on (IG) Below 1 V
+ground
+Connector B
+NG REPAIR OR REPLACE FLOOR WIRE
+N7
+4321
+BCL- BCL+
+C C114843E11
+OK

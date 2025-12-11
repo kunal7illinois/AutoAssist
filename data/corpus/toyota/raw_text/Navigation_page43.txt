@@ -1,0 +1,36 @@
+NS–43
+NAVIGATION – NAVIGATION SYSTEM
+Vehicle signal:
+Display Contents
+REV/*1 REV signal ON/OFF state is displayed.
+SPD/*2 SPD signal condition is displayed.
+Sensor signal:
+Display Contents
+Gyro sensor output condition is displayed (when the vehicle runs
+Gyro sensor/*3
+straight or is stationary, the voltage is approximately 2.5 V).
+HINT:
+Signals are updated once per second only when
+vehicle sensor signals are changed.
+(d) Microphone & Voice Recognition Check Screen
+*1
+*2 *3 *4 *5
+E125119E01
+Screen Description:
+Display Contents
+Monitors the microphone input level every 100 ms and displays the
+Microphone input level meter/*1
+results in 8 different levels.
+Recording switch/*2 Starts recording.
+Stop switch/*3 Stops recording.
+Play switch/*4 Plays the recorded voice.
+Recording indicator/*5 Comes on while recording.
+HINT:
+• The microphone input function is on at all times
+when this screen is displayed. NS
+• While recording or playing, the switches other
+than the stop switch cannot be pushed.
+• When no voice is recorded, the play switch
+cannot be pushed.
+• Recording will stop after 5 seconds or by pushing
+the stop switch.

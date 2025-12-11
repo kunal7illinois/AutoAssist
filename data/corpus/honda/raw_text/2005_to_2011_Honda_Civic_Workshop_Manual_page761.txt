@@ -1,0 +1,32 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+37. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+38. Start the engine, run the vehicle with the shift lever in D until the vehicle speed
+reaches 30 mph (48 km/h), then slow down and stop the wheels.
+39. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 38, then go
+to step 40.
+40. Check for DTCs with the HDS.
+Is DTC P0706 indicated?
+YES -Check for poor connections or loose terminals between the transmission
+range switch and the PCM. If the PCM was updated, substitute a known-good
+PCM (see SUBSTITUTING THE PCM ), then go to step 38. If the PCM was
+substituted, go to step 1.
+NO -Go to step 41.
+41. Monitor the OBD STATUS for P0706 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM (see ECM/PCM REPLACEMENT ). If
+any other DTCs were indicated in step 40, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals between the transmission range switch and the PCM. If the PCM was
+updated, substitute a known-good PCM (see SUBSTITUTING THE PCM ),
+then go to step 38. If the PCM was substituted, go to step 1. If the HDS
+indicates NOT COMPLETED, go to step 38.
+DTC P0711: Problem in ATF Temperature Sensor Circuit
+NOTE:
+Before you troubleshoot, record all freeze data and any
+(cid:1)

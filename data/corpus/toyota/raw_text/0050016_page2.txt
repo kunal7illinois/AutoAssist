@@ -1,0 +1,48 @@
+ES–82
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+The ECM uses information from the Air-Fuel Ratio (A/F) sensor to regulate the air-fuel ratio and keep it
+close to the stoichiometric level. This maximizes the ability of the Three-Way Catalytic Converter (TWC) to
+purify the exhaust gases.
+The A/F sensor detects oxygen levels in the exhaust gas and transmits the information to the ECM. The
+inner surface of the sensor element is exposed to the outside air. The outer surface of the sensor element
+is exposed to the exhaust gas. The sensor element is made of platinum coated zirconia and includes an
+integrated heating element.
+The zirconia element generates a small voltage when there is a large difference in the oxygen
+concentrations between the exhaust gas and outside air. The platinum coating amplifies this voltage
+generation.
+The A/F sensor is more efficient when heated. When the exhaust gas temperature is low, the sensor
+cannot generate useful voltage signals without supplementary heating. The ECM regulates the
+ES
+supplementary heating using a duty-cycle approach to adjust the average current in the sensor heater
+element. If the heater current is outside the normal range, the signal transmitted by the A/F sensor
+becomes inaccurate, as a result, the ECM is unable to regulate air-fuel ratio properly.
+When the current in the A/F sensor heater is outside the normal operating range, the ECM interprets this
+as a malfunction in the sensor heater and sets a DTC.
+Example:
+The ECM sets DTC P0032 when the current in the A/F sensor heater is more than 10 A. Conversely,
+when the heater current is less than 0.8 A, DTC P0031 is set.
+MONITOR STRATEGY
+P0031: A/F sensor heater open/short (Low electrical current)
+Related DTCs
+P0032: A/F sensor heater open/short (High electrical current)
+Required Sensors/Components (Main) A/F sensor heater
+Required Sensors/Components (Related) -
+Frequency of Operation Continuous
+Duration 10 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+All:
+Monitor runs whenever following DTCs not present None
+P0031:
+Battery voltage 10.5 V or more
+A/F sensor heater duty-cycle ratio 50 % or more
+Time after engine start 10 seconds or more
+P0032:
+Time after engine start 10 seconds or more
+TYPICAL MALFUNCTION THRESHOLDS
+P0031:
+A/F sensor heater current Less than 0.8 A
+P0032:
+A/F sensor heater current More than 10 A

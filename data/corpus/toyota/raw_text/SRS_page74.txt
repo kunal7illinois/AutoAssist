@@ -1,0 +1,24 @@
+RS–74
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DTC B1610/13 Front Airbag Sensor RH Malfunction
+DESCRIPTION
+The front airbag sensor RH consists of the diagnostic circuit, the frontal deceleration sensor, etc.
+If the center airbag sensor assembly receives signals from the frontal deceleration sensor, it determines
+whether the SRS should be activated.
+DTC B1610/13 is recorded when a malfunction is detected in the front airbag sensor RH circuit.
+DTC No. DTC Detection Condition Trouble Area
+• Front airbag sensor RH malfunction • Front airbag sensor RH
+B1610/13
+• Center airbag sensor assembly malfunction • Center airbag sensor assembly
+WIRING DIAGRAM
+Center Airbag
+A14 Sensor Assembly
+Front Airbag Sensor RH
+2 29
++SR IA1 I34 +SR
+2
+RS
+1 27
+-SR IA1 I34 -SR
+1
+H016901E08

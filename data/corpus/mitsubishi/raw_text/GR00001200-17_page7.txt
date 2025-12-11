@@ -1,0 +1,55 @@
+ENGINE AND EMISSION CONTROL 17-7
+AUTO-CRUISE CONTROL
+AUTO-CRUISE CONTROL
+GENERAL DESCRIPTION
+M1172000100151
+By using the auto-cruise control, the driver can drive
+at the desired speed [in a range of approximately 40
+− 200 km/h (25 − 124 mph)] without depressing the
+accelerator pedal.
+CONSTRUCTION DIAGRAM
+STOPLIGHT
+AUTO-CRUISE
+SWITCH
+CONTROL SWITCH
+CLUTCH PEDAL POSITION
+SWITCH <M/T>
+VACUUM
+ACTUATOR
+MAIN SWITCH
+AUTO-CRUISE
+VACUUM PUMP
+ASSEMBLY
+AUTO-CRUISE CONTROL
+INDICATOR LIGHT
+THROTTLE
+POSITION
+SENSOR
+PARK/NEUTRAL POSITION
+SWITCH <A/T>
+VEHICLES SPEED
+SENSOR <M/T>
+AUTO-CRUISE
+CONTROL-ECU
+AC001446AC
+AUTO-CRUISE CONTROL SYSTEM DIAGNOSIS
+INTRODUCTION TO AUTO-CRUISE CONTROL SYSTEM DIAGNOSIS
+M1172003300143
+The auto-cruise control system allows driving without Based on input signals from those switches and sen-
+stepping on the accelerator pedal by setting a ran- sors, the auto-cruise control-ECU activates the vac-
+dom speed between 40 km/h (25 mph) and 200 km/h uum pump.
+(124 mph). If the auto-cruise control-ECU detects a problem on
+Problems in this system can be investigated by the any of those components, the ECU estimates where
+following methods. the problem may be occurring, and will output a diag-
+Auto-cruise control system diagnostic nostic trouble code.
+Diagnostic trouble codes cover the throttle position
+trouble codes
+sensor, auto-cruise control switch, vehicle speed
+The auto-cruise control system consists of the auto-
+sensor <M/T>, auto-cruise control-ECU and vacuum
+cruise control-ECU, control switches, sensors and
+pump.
+vacuum pump.
+The control switches and sensors monitor the state
+of the vehicle.
+TSB Revision

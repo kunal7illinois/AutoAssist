@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+Fig. 36: Checking Continuity Between Body Ground And PCM Connector
+Terminal A41
+Is there continuity?
+YES -Update the PCM if it does not have the latest software (see UPDATING
+THE PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ), then recheck. If the symptom/indication goes away with a known-good
+PCM, replace the original PCM, refer to the ECM/PCM REPLACEMENT ,
+then disconnect the negative cable from the battery for a few seconds to reset
+the low fuel indicator.
+NO -Repair open in the wire between the fuel pressure switch and the PCM
+(A41), then disconnect the negative cable from the battery for a few seconds to
+reset the low fuel indicator.
+15. Check the FUEL RAIL PRESSURE SENSOR in the DATA LIST with the
+HDS.
+Is about 500 kPa indicated?
+YES -Replace the fuel pressure regulator P1 (see FUEL PRESSURE
+REGULATOR P1 REPLACEMENT ), then disconnect the negative cable
+from the battery for a few seconds to reset the low fuel indicator.
+NO -Replace the original fuel pressure switch (see FUEL PRESSURE
+SWITCH REPLACEMENT ), then disconnect the negative cable from the
+battery for a few seconds to reset the low fuel indicator.

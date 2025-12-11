@@ -1,0 +1,54 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-433
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+EVAPORATIVE EMISSION CANISTER EVAPORATIVE EMISSION PURGE
+SOLENOID <VEHICLE WITHOUT
+VARIABLE INDUCTION SYSTEM>
+FUEL TANK
+AC000183AB AC002073AC
+EVAPORATIVE EMISSION PURGE SOLENOID EVAPORATIVE EMISSION
+VENTILATION SOLENOID
+<VEHICLE WITH VARIABLE INDUCTION
+SYSTEM>
+AIR INTAKE HOSE
+AC106497AB AC002035AB
+. • The engine coolant temperature 20°C (68°F) or
+TECHNICAL DESCRIPTION
+• To judge if there is leak or clog in the fuel system, more <i.e. the amount of remaining fuel is 40 − 85
+percent>.
+the ECM <M/T> or PCM <A/T> measures the
+• Engine speed is 1,600 r/min or more.
+change of the pressure inside the fuel tank.
+• The ECM <M/T> or PCM <A/T> turns on the • Barometric pressure is above 76 kPa (11 psi).
+• Volumetric efficiency is between 20 and 70 per-
+evaporative emission ventilation solenoid to shut
+cent.
+off the evaporative emission canister outlet port.
+• Then the evaporative emission purge solenoid is • The fuel temperature is 36°C (97°F) or less.
+• Fuel tank differential pressure sensor output volt-
+driven to set the fuel system into a negative pres-
+age 1 − 4 volts.
+sure.
+• When the fuel system develops a vacuum of 2 Test Conditions C: For Test to Stop
+kPa (0.29 psi), the evaporative emission purge • Intake air temperature is less than 5°C (41°F).
+solenoid is turned "OFF" and the fuel system vac- • When the evaporative emission purge solenoid
+uum is maintained at 2 kPa (0.29 psi). and evaporative emission ventilation solenoid are
+• The ECM <M/T> or PCM <A/T> determines if closed, the pressure rises higher 451 Pa (0.065
+there is leak or clog in the fuel system by measur- psi) <i.e. the amount of remaining fuel is 15 − 40
+ing the change of vacuum inside the fuel tank. percent>.
+• The test is stopped when fuel vapor pressure is • When the evaporative emission purge solenoid
+judged as too high. and evaporative emission ventilation solenoid are
+closed, the pressure rises higher 324 Pa (0.047
+. DTC SET CONDITIONS psi) <i.e. the amount of remaining fuel is 40 − 85
+percent>.
+Test Conditions A: At Start up
+• Intake air temperature is 36°C (97°F) or less Judgment Criteria
+when the engine is started. • The fuel tank internal pressure is 2 kPa (0.29 psi)
+• The engine coolant temperature 36°C (97°F) or or more after the evaporative emission purge
+less when the engine is started. solenoid has been driven when the fuel tank and
+vapor line were closed.
+Test Conditions B: For Test to Run
+• The engine coolant temperature 60°C (140°F) or NOTE: The monitoring time (136 seconds) depends
+more <i.e. the amount of remaining fuel is 15 − 40 on the fuel level and the temperature in the fuel tank.
+percent>.
+.
+TSB Revision

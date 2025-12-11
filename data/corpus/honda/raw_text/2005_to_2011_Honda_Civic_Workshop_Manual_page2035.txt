@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+Is there continuity?
+YES -Check for loose terminals in the EPS control unit connectors, and repair
+if necessary. If no poor connections are found, replace the EPS control unit
+(see EPS CONTROL UNIT REMOVAL/INSTALLATION ).
+NO -Repair open in the wire between the EPS control unit and the ECM.
+DTC 22-01: ENGINE SPEED SIGNAL (INITIAL DIAGNOSIS)
+NOTE: If the MIL indicator is on, troubleshoot the fuel and
+emissions systems first.
+1. Turn the ignition switch to LOCK (0).
+2. Connect the HDS to the data link connector (DLC).
+3. Start the engine.
+4. Check the ENGINE SPEED in the DATA LIST with the HDS.
+Is there 0 rpm at idle?
+YES -Go to step 5.
+NO -The system is OK at this time.
+5. Turn the ignition switch to LOCK (0).
+6. Disconnect EPS control unit connector D (28P).
+7. Start the engine.
+8. Measure voltage between EPS control unit connector D (28P) terminal No. 3
+and body ground.

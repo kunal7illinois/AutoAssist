@@ -1,0 +1,35 @@
+AC–53
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+DTC B1412/12 Ambient Temperature Sensor Circuit
+DESCRIPTION
+The ambient temperature sensor is installed in front of the condenser to detect the ambient temperature
+which is used to control the air conditioner "AUTO" mode. This sensor is connected to the A/C amplifier
+and detects fluctuations in the ambient temperature. This data is used for controlling the cabin
+temperature. The sensor sends a signal to the A/C amplifier. The resistance of the ambient temperature
+sensor changes in accordance with the ambient temperature. As the temperature decreases, the
+resistance increases. As the temperature increases, the resistance decreases.
+The A/C amplifier applies voltage (5 V) to the ambient temperature sensor and reads voltage changes as
+the resistance of the ambient temperature sensor changes.
+DTC No. DTC Detection Condition Trouble Area
+• Ambient temperature sensor
+• Harness or connector between ambient
+B1412/12 Open or short in ambient temperature sensor circuit
+temperature sensor and A/C amplifier
+• A/C amplifier
+WIRING DIAGRAM
+A/C Amplifier
+AC
+5
+E38 TAM
+2
+A2
+Ambient
+Temperature
+Sensor
+1
+13
+E38 SG-2
+I008282E07
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.

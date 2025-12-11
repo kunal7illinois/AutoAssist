@@ -1,0 +1,53 @@
+54A-252 CHASSIS ELECTRICAL
+MULTI-CENTER DISPLAY
+STEP 3. Check the compass-ECU connector C-37 and
+multi-center display connector C-09 for damage.
+Q:Are the compass-ECU connector C-37 and multi-center
+CONNECTORS : C-09, C-37
+display connector C-09 in good condition?
+YES : Go to Step 4.
+C-37
+C-09 NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2.
+DEVICE SIDE
+C-09
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+C-37
+11121314
+15161718
+AC106563AS
+STEP 4. Check the compass-ECU connector C-37 and
+multi center display connector C-09.
+(1) Disconnect the compass-ECU connector C-37 and multi-
+CONNECTORS : C-09, C-37
+center display connector C-09, measure at the harness
+side.
+C-37
+(2) Measure the resistance between compass-ECU connector
+C-09
+C-37 and multi-center display connector C-09.
+COMPASS-ECU MULTI-CENTER SPECIFIED
+CONNECTOR C-37 DISPLAY CONDITION
+TERMINAL NO. CONNECTOR C-09
+TERMINAL NO.
+11 20 Should be
+less than two
+13 18
+DEVICE SIDE
+ohm
+C-09 14 16
+1 2 3 4 5 6 7 8 910 15 19
+11121314151617181920
+16 13
+17 17
+C-37
+18 Shield wire between
+11121314
+compass-ECU and
+15161718
+multi-center display
+AC106563AS Q:Is the resistance value less than two ohm?
+YES : Go to Step 5.
+NO : Repair the wiring harness.
+TSB Revision

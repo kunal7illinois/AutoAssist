@@ -1,0 +1,32 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-503
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check the output voltage at ECM harness side
+connector C-49 <M/T> or PCM harness side connector C-
+50 <A/T>.
+(1) Disconnect the connector C-49 <M/T> or C-50 <A/T> and
+measure at the harness side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 21 <M/T> or 18 <A/
+<M/T>
+T> and ground.
+C-49 HARNESS
+• Voltage should be between 4.8 and 5.2 volts. (Fan
+SIDE CONNECTOR
+rotates at high speed.)
+(4) Connect a jumper cable between 21 <M/T> or 18 <A/T>
+13121110 9 8 7 6 5 4 3 2 1
+26252423222120191817161514 and ground.
+• The fan should stop.
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage and fan condition normal?
+AK000400AC YES : Replace the ECM or PCM. Then confirm that the
+malfunction symptom is eliminated.
+<A/T>
+NO : Go to Step 3.
+C-50 HARNESS
+SIDE CONNECTOR
+8 7 6 5 4 3 2 1
+2322212019181716151413121110 9
+3534 3332 30 29282726 25 24
+AK000401AD
+TSB Revision

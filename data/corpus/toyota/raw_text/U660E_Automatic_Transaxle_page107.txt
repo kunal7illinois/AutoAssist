@@ -1,0 +1,45 @@
+AX–107
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Electronic throttle system Circuit is not malfunctioning
+OFF malfunction (A):
+TCM selected gear 2nd
+Throttle valve opening angle 3% or more
+TCM indicated pressure value of SL1 1,200 kPa
+AX
+TCM indicated pressure value of SL2 0 kPa
+TCM indicated pressure value of SL3 1,200 kPa
+OFF malfunction (B):
+TCM selected gear 6th
+Throttle valve opening angle 3% or more
+TCM indicated pressure value of SL1 0 kPa
+TCM indicated pressure value of SL2 1,200 kPa
+TCM indicated pressure value of SL3 1,200 kPa
+OFF malfunction (C):
+TCM selected gear 2nd
+Throttle valve opening angle:
+(When condition "D" is not detected) 4.5% or more at engine speed 2,000 rpm (condition varies with engine speed)
+(When condition "D" is detected) 0.5% or more at engine speed 500 rpm (condition varies with engine speed)
+ECT (engine coolant temperature) 40°C (104°F) or more
+OFF malfunction (D):
+Throttle valve opening angle 0.5% or more at engine speed 500 rpm (condition varies with engine speed)
+ON malfunction:
+TCM selected gear 1st
+Vehicle speed 1.2 mph (2 km/h) or more
+Engine speed - Turbine speed 50 rpm or more
+ECT (engine coolant temperature) Above 40°C (104°F)
+TYPICAL MALFUNCTION THRESHOLDS
+Either of the following conditions is met: OFF malfunction (A) or (B) or ((C) and (D)), or ON
+malfunctions
+2 detections are necessary per driving cycle:
+1st detection; temporary flag ON
+2nd detection; pending fault code ON
+OFF malfunction (A):
+Turbine speed - Output speed x 2nd gear ratio 1,000 rpm or more
+OFF malfunction (B):
+Turbine speed - Output speed x 6th gear ratio 1,000 rpm or more
+OFF malfunction (C):
+Input (turbine) speed/Intermediate shaft speed 3.304 to 7.724
+OFF malfunction (D):
+Input (turbine) speed/Intermediate shaft speed 3.304 to 7.724
+ON malfunction:
+Input (turbine) speed/Intermediate shaft speed 1.901 to 2.340

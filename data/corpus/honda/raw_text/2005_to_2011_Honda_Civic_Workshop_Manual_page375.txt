@@ -1,0 +1,26 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+1. Clear the DTC memory (see CLEAR THE DTC MEMORY WITH THE
+HDS).
+2. Turn the ignition switch ON (II), and check that the SRS indicator comes on
+for about 6 seconds and then goes off.
+3. Read the DTC (see CLEAR THE DTC MEMORY WITH THE HDS).
+Does the SRS indicator stays on, and is DTC B2-11 indicated?
+YES -Go to step 4.
+NO -Go to step 5.
+4. Read the DTC (see CLEAR THE DTC MEMORY WITH THE HDS).
+Is DTC 45-11 also indicated?
+YES -Faulty rear safing sensor; replace the rear safing sensor (see REAR
+SAFING SENSOR REPLACEMENT).
+NO -Go to step 7.
+5. Read the DTC (see CLEAR THE DTC MEMORY WITH THE HDS).
+Is DTC B2-1x (except B2-11) also indicated?
+YES -Go to step 6.
+NO -Intermittent failure, system is OK at this time. Go to
+TROUBLESHOOTING INTERMITTENT FAILURES . If another DTC is
+indicated, troubleshoot the DTC.
+6. Read the DTC (see CLEAR THE DTC MEMORY WITH THE HDS).
+Is DTC 45-11 also indicated?
+YES -Go to the Troubleshooting, for DTC 45-1X .
+NO -Faulty rear safing sensor; replace the rear sating sensor (see REAR

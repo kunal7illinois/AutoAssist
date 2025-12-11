@@ -1,0 +1,38 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-63
+SYMPTOM PROCEDURES
+STEP 10. Measure at sunroof motor assembly connector
+D-06 in order to check the ground circuit to the sunroof
+motor assembly.
+(1) Disconnect sunroof motor connector D-06, and measure at
+CONNECTOR <ECLIPSE>: D-06
+the wiring harness side.
+DEVICE SIDE
+D-06
+1 2 3 4
+5 6 7 8 910
+AC106554AF
+(2) Measure the resistance value between terminal 5 and
+ground.
+• The measured value should be 2 ohm or less.
+Q:Does the measured resistance value correspond with
+CONNECTOR D-06
+(HARNESS SIDE) this range?
+YES : Go to Step 13.
+4 3 2 1 NO : Go to Step 11.
+109 8 7 6 5
+ACX01574AC
+STEP 11. Check sunroof motor assembly connector D-06
+for damage.
+Q:Is sunroof motor assembly connector D-06 in good
+CONNECTOR <ECLIPSE>: D-06
+condition?
+DEVICE SIDE
+D-06 YES : Go to Step 12.
+NO : Repair or replace the connector. Refer to GROUP
+1 2 3 4
+00E, Harness Connector Inspection P.00E-2. The
+5 6 7 8 910
+system should communicate with the sunroof motor
+assembly (sunroof-ECU) normally.
+AC106554AF
+TSB Revision

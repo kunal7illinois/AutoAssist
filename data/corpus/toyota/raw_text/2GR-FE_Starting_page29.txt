@@ -1,0 +1,54 @@
+ST–29
+2GR-FE STARTING – SMART KEY SYSTEM
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Starter request signal monitor / ON: ST relay is ON Engine switch pressed and held
+ST REQUEST SIG
+ON or OFF OFF: ST relay is OFF with shift lever in P or N
+ON: Engine switch on (ACC)
+ACC RELAY MON ACC relay monitor / ON or OFF -
+OFF: Engine switch off
+ON: Engine is cranking
+ACC CUT SIG ACC relay cut signal / ON or OFF -
+OFF: Engine is not cranking
+STOP: Engine is stopped
+E/G COND Engine condition / STOP or RUN -
+RUN: Engine is running
+Vehicle speed signal / STOP or STOP: Vehicle is stopped
+VEHICLE SPD SIG -
+RUN RUN: Vehicle is running
+ALL: All relays are OFF
+ACC ON: ACC relay is ON
+Power supply condition / ALL,
+PWR COND IG1: IG1 relay is ON -
+ACC ON, IG1 IG2, ST ON
+IG2: IG2 relay is ON
+ST ON: ST request signal is ON
+Ready Signal / ON or OFF or
+READY SIG -
+Unknown
+Communication for certification OK: Communication
+COM ENTRY&STRT -
+ECU / OK or STOP STOP: No communication
+2. PERFORM ACTIVE TEST
+HINT:
+Performing the intelligent tester's ACTIVE TEST allows
+the relay, VSV, actuator and other items to be operated
+without removing any parts. Performing the ACTIVE
+TEST early in troubleshooting is one way to save time.
+The DATA LIST can be displayed during the ACTIVE
+TEST.
+(a) Connect the intelligent tester to the DLC3
+(b) Turn the engine switch on (IG).
+(c) Enter the following menus: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST.
+(d) Perform the ACTIVE TEST according to the display
+on the tester.
+MAIN BODY:
+Item Test Details Diagnostic Note
+LIGHTING IND Indicator for lighting ON / OFF -
+IND CONDITION Engine switch indicator Green / Amber / No -
+Sig
+STR LOCK PWR Power supply for steering lock ECU ON / OFF -
+ST

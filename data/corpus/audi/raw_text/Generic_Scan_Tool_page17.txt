@@ -1,0 +1,46 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Procedure
+– Connect the scan tool.
+– Start the engine and run at idle.
+Note
+If the engine does not start, crank the engine using starter for at
+least 5 seconds, do not switch the ignition off afterward.
+– Select “Diagnostic Mode 2: Obtain operating conditions.”.
+– From the following table, select the desired the “PID”, e.g. “PID
+05 Coolant temperature” that is to be monitored.
+The current values of the component or system that is being
+monitored will be displayed on the scan tool screen.
+PID Component or System
+$00: supported definition PIDs $01 thru $20
+$02: DTC which triggered Freeze Frame data
+$03: Fuel system status
+$04: Calculated load value
+$05: Engine Coolant temperature
+$06: Short term air fuel ratio
+$07: Long term air fuel ratio
+$0B: Intake Manifold Absolute Pressure
+$0C: Engine RPM
+$0D: Vehicle speed
+$0E: Ignition timing advance for #1 cylinder
+$0F: Intake air temperature
+$11: Absolute throttle valve position
+$1F: Time since engine start
+$20: supported definition PIDs $21 thru $40
+$23: Fuel rail pressure
+$2E: Commanded evap purge
+$33: Barometric pressure
+$40: supported definition PIDs $41 thru $60
+$42: Control module voltage
+$43: Absolute load value
+$44: Air/Fuel Commanded equivalence ratio
+$45: Relative throttle valve position
+$46: Ambient temperature
+$47: Absolute throttle valve position B
+$49: Accelerator pedal position D
+$4A: Accelerator pedal position E
+$4C: Specified throttle valve position
+$56: Long term secondary O2 sensor Fuel Trim Bank 1
+– Switch the ignition OFF.
+13
+3. Diagnosis and Testing

@@ -1,0 +1,52 @@
+13B-656 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TERMINAL TERMINAL INSPECTION ITEM INSPECTION CONDITION (ENGINE CONDITION) NORMAL CONDITION
+NO. <M/T> NO. <A/T>
+3 3 Left bank heated Engine: warming up, idling 9 − 11 V
+oxygen sensor Engine: Revving 9 − 11 V → B+
+heater (front)
+(momentarily)
+4 4 Right bank heated Engine: warming up, idling 9 − 11 V
+oxygen sensor
+Engine: Revving B+
+heater (front)
+6 6 EGR solenoid Ignition switch: "ON" B+
+• Engine: idling From B+, drops
+• Suddenly depress the accelerator pedal. momentarily
+8 8 Generator G • Engine: warming up, idling (radiator fan: Voltage rises by
+terminal stopped) 0.2 − 3.5 V
+• Headlight: OFF to ON
+• Rear defogger switch: OFF to ON
+• Stop light switch: OFF to ON
+52 54 Generator FR • Engine: warming up, idling (radiator fan: Voltage drops
+terminal stopped)
+• Headlight: OFF to ON
+• Rear defogger switch: OFF to ON
+• Stop light switch: OFF to ON
+11 11 Ignition power Engine: 3,000 r/min 0.3 − 3.0 V
+transistor
+14 14 Stepper motor coil • Engine: warming up, idling B+ ⇔ 1 V or less
+<A1> • A/C switch: OFF → ON (changes
+• Headlight switch: OFF → ON repeatedly)
+28 28 Stepper motor coil
+<A2>
+15 15 Stepper motor coil
+<B1>
+29 29 Stepper motor coil
+<B2>
+18 18 Fan controller Radiator fan and A/C condenser fan are not 0 − 0.3V
+operating
+Radiator fan and A/C condenser fan are 0.7 V or more
+operating
+19 19 Volume air flow Engine: idling 0 − 1 V
+sensor reset signal Engine: 3,000 r/min 6 − 9 V
+21 21 Fuel pump relay Ignition switch: "ON" B+
+Engine: idling 0 − 3V
+20 20 A/C compressor • Engine: idling B+ → 1 v or less
+clutch relay • A/C switch: OFF→ ON (A/C compressor is as A/C clutch
+operating) cycles
+22 22 Service engine Ignition switch: "OFF" → "ON" 1 V or less → 9 −
+soon/malfunction 13 V (after
+indicator lamp several seconds
+have elapsed)
+TSB Revision

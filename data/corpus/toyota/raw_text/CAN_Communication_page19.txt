@@ -1,0 +1,56 @@
+CA–19
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+5. STEERING ANGLE SENSOR (W/ VSC)
+Steering Angle Sensor Wire Harness View: (a) Disconnect the E17 connector from the steering
+angle sensor.
+E17
+(b) Measure the resistance according to the value(s) in
+BAT the table below.
+CANH
+ESS
+CANL
+G026357E15
+Standard resistance
+Terminals Wiring Color Terminal Description Condition Specified Condition
+HIGH-level CAN bus wire -
+E17-10 (CANH) - E17-9 (CANL) B - W Ignition Switch off 54 to 69 Ω
+LOW-level CAN bus wire
+HIGH-level CAN bus wire -
+E17-10 (CANH) - E17-2 (ESS) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+LOW-level CAN bus wire -
+E17-9 (CANL) - E17-2 (ESS) W - W-B Ignition Switch off 200 Ω or higher
+Ground
+HIGH-level CAN bus wire -
+E17-10 (CANH) - E17-3 (BAT) B - W Ignition Switch off 6 kΩ or higher
+Battery positive CA
+LOW-level CAN bus wire -
+E17-9 (CANL) - E17-3 (BAT) W - W Ignition Switch off 6 kΩ or higher
+Battery positive
+6. YAW RATE SENSOR (W/ VSC)
+Yaw Rate Sensor Connector Front View: (a) TMC made
+(1) Disconnect the E34 connector from the yaw rate
+sensor.
+E34
+CANL (2) Measure the resistance according to the
+value(s) in the table below.
+GND
+CANH
+DLC3:
+E10
+BAT
+G026641E19
+Standard resistance
+Terminals Wiring Color Terminal Description Condition Specified Condition
+HIGH-level CAN bus wire -
+E34-3 (CANH) - E34-2 (CANL) B - W Ignition Switch off 54 to 69 Ω
+LOW-level CAN bus wire
+HIGH-level CAN bus wire -
+E34-3 (CANH) - E34-1 (GND) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+LOW-level CAN bus wire -
+E34-2 (CANL) - E34-1 (GND) W - W-B Ignition Switch off 200 Ω or higher
+Ground
+HIGH-level CAN bus wire -
+E34-3 (CANH) - E10-16 (BAT) B - O Ignition Switch off 6 kΩ or higher
+Battery positive

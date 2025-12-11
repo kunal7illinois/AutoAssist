@@ -1,0 +1,60 @@
+IG–2
+2GR-FE IGNITION – IGNITION SYSTEM
+SYSTEM DIAGRAM
+C11 ECM
+Ignition Coil (No. 1)
+IG2
+From IG2 40
+Battery +B IGT1 C55 IGT1
+5 3 1 3
+GND IGF
+1 2 4 2
+C13
+E23 Ignition Switch Ignition Coil (No. 2)
+39
+*2
++B IGT2 C55 IGT2
+1 3
+6 5
+IG2 AM2
+GND IGF
+4 2
+*2
+C12
+Ignition Coil (No. 3)
+ST/AM2
+From
+38
+Battery
++B IGT3 C55 IGT3
+1 3
+E6 Main Body ECU
+GND IGF
+4 2
+11 C14
+*1
+E6 IG2D Ignition Coil (No. 4)
+37
++B IGT4 C55 IGT4
+1 3
+GND IGF
+4 2
+C38
+Ignition Coil (No. 5)
+36
++B IGT5 C55 IGT5
+C16 C49 1 3
+Noise Filter Noise Filter
+1 (Ignition RH) 1 (Ignition LH) GND IGF
+4 2
+C39 35
+IG Ignition Coil (No. 6)
+C55 IGT6
+106
++B IGT6 C55 IGF1
+1 3
+*1: with Smart Key System
+GND IGF
+4 2
+*2: without Smart Key System
+A136999E01

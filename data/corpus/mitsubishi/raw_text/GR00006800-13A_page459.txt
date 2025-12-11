@@ -1,0 +1,41 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-459
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Check the following items.
+(1) Carry out the following cleaning.
+a. Clean the throttle valve area. Refer to P.13A-575.
+(2) After cleaning, confirm that the malfunction symptom is
+eliminated.
+Q:Is the malfunction symptom resolved?
+YES : The check is completed.
+NO : Check the following items, and repair or replace the
+defective items.
+a. Broken intake manifold gasket.
+b. Broken air intake hose.
+c. Broken vacuum hose.
+d. Positive crankcase ventilation valve does not
+operate.
+Then confirm that the malfunction symptom is
+eliminated.
+STEP 5. Check the idle air control (IAC) motor operation
+sound.
+(1) Check that the engine coolant temperature is 20°C (68°F)
+CONNECTOR:B-34
+or below.
+IDLE AIR
+CONTROL MOTOR NOTE: Disconnecting the engine coolant temperature sen-
+sor connector and connecting the harness side of the con-
+nector to another engine coolant temperature sensor that is
+at 20°C (68°F) or below is also okay.
+(2) Check the operation sound of the IAC motor can be heard
+after the ignition is switched to the "ON" position (but
+without starting the engine).
+• An operation sound is heard.
+ACX02519AI
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Did you hear the operation sound?
+YES : Go to Step 6.
+NO : Refer to, DTC P0506 − Idle Control System RPM
+Lower Than Expected P.13A-390, DTC P0507 − Idle
+Control System RPM Higher Than Expected P.13A-
+399.
+TSB Revision

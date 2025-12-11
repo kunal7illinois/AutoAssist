@@ -1,0 +1,28 @@
+DL–128
+DOOR LOCK – SMART KEY SYSTEM
+SYSTEM DIAGRAM
+IG Relay Output
+ACC Relay Output
+ECM
+Steering Lock ID Code Main Body ECU
+Actuator Assembly Box
+- Steering Lock ECU
+Front Electrical Front Electrical
+Key Oscillator LH Key Oscillator RH
+To CAN
+Communi-
+cation
+System
+Certification ECU
+Stop Light Switch
+Front Door Front Door
+Outside Handle Outside Handle
+Assembly LH Assembly RH
+- Touch Sensor Engine Switch - Touch Sensor
+- Antenna - Antenna
+- Lock Switch - Lock Switch
+DL
+:CAN
+Electrical Key Oscillator (Console) :LIN
+Electrical Key
+B137952E01

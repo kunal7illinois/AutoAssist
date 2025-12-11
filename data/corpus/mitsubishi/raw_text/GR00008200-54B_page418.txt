@@ -1,0 +1,41 @@
+54B-418 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+Q:Is the wiring harness between dome light connector D-
+CONNECTOR: C-102
+JUNCTION BLOCK 04 (terminal 2) <ECLIPSE-vehicles without sunroof>, D-
+(FRONT VIEW) 03 (terminal 6) <ECLIPSE-vehicles with sunroof, without
+DEVICE SIDE
+vanity mirror light and ECLIPSE SPYDER> or D-25
+1 2 3 (terminal 6) <ECLIPSE-vehicles with sunroof and vanity
+mirror light> and ETACS-ECU connector C-119 in good
+condition?
+YES : Replace the ETACS-ECU. Check that the dome light
+illuminates normally.
+NO : Repair the wiring harness. Check that the dome light
+AC106479AQ illuminates normally.
+STEP 11. Check the luggage compartment light bulb.
+Q:Is the luggage compartment light bulb in good
+condition?
+YES : Go to Step 12.
+NO : Replace the bulb. Check that the luggage
+compartment lights illuminate normally.
+STEP 12. Measure at luggage compartment light connector
+F-21 in order to check the ETACS-ECU line of the power
+supply to the luggage compartment light.
+(1) Disconnect luggage compartment light connector F-21, and
+CONNECTOR <ECLIPSE>: F-21
+measure at the wiring harness side.
+1 DEVICE SIDE
+2
+AC106489AS
+(2) Measure the voltage between terminal 1 and ground.
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 15.
+1 NO : Go to Step 13.
+2
+CONNECTOR: F-21
+(HARNESS SIDE)
+AC102055AC
+TSB Revision

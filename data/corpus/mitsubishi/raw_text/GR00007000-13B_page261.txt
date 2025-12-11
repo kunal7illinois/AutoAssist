@@ -1,0 +1,48 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-261
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Check for harness damage between left bank
+injector connector and ECM connector <M/T> or PCM
+connector <A/T>.
+a. Check the harness wire between injector connector B-02
+CONNECTORS : B-02, B-06, B-25
+terminal 2 and ECM connector C-51 terminal 9 <M/T> or
+PCM connector C-52 terminal 9 <A/T> when checking No. 2
+cylinder injector.
+b. Check the harness wire between injector connector B-06
+terminal 2 and ECM connector C-51 terminal 2 <M/T> or
+PCM connector C-52 terminal 2 <A/T> when checking No. 4
+cylinder injector.
+B-02 B-06 B-25
+c. Check the harness wire between injector connector B-25
+terminal and 2 ECM connector C-51 terminal 25 <M/T> or
+AK000213AB
+PCM connector C-52 terminal 25 <A/T> when checking No.
+CONNECTOR : C-51<M/T>, C-52<A/T> 6 cylinder injector.
+Q:Is the harness wire in good condition?
+PCM<A/T> ECM<M/T>
+YES : Go to Step 11.
+NO : Repair it. Then go to Step 14.
+C-52 C-51
+AK000225AJ
+STEP 11. Check the fuel pressure.
+Refer to Fuel Pressure Test P.13B-680.
+Q:Is the fuel pressure normal?
+YES : Go to Step 12.
+NO : Repair or replace it. Then go to Step 14.
+STEP 12. Check for entry of foreign matter (water,
+kerosene, etc.) into fuel.
+Q:Are there any abnormalities?
+YES : Go to Step 13.
+NO : Replace the fuel. Then go to Step 14.
+STEP 13. Replace the left bank injector.
+(1) Replace the left bank injector.
+CONNECTORS : B-02, B-06, B-25
+(2) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 2 − Fuel Trim Monitor P.13B-6.
+(3) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0174 is output?
+YES : Replace the ECM or PCM. Then go to Step 14.
+NO : The inspection is complete.
+B-02 B-06 B-25
+AK000213AB
+TSB Revision

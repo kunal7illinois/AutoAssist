@@ -1,0 +1,39 @@
+ES–295
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 CHECK ECM (VCPA AND VCP2 VOLTAGE)
+(a) Disconnect the A4 APP sensor connector.
+Wire Harness Side:
+(b) Turn the ignition switch ON.
+(c) Measure the voltage between the terminals of the A4
+APP sensor connector.
+Standard voltage
+A4 APP Sensor Connector
+Tester Connections Specified Conditions
+A4-4 (VCPA) - A4-5 (EPA) 4.5 to 5.5 V
+A4-1 (VCP2) - A4-2 (EPA2) 4.5 to 5.5 V
+1 2 3 4 5 6
+(d) Reconnect the APP sensor connector. ES
+NG REPLACE ECM
+VCP2 EPA2 VCPA EPA
+Front View
+A115666E05
+OK
+4 REPLACE ACCELERATOR PEDAL ASSEMBLY
+NEXT
+5 CHECK WHETHER DTC OUTPUT RECURS (ACCELERATOR PEDAL POSITION SENSOR
+DTCS)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Clear DTCs (see page ES-35).
+(d) Start the engine.
+(e) Allow the engine to idle for 15 seconds.
+(f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(g) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+P2120, P2122, P2123, P2125, P2127, P2128, and/or P2138 A
+No output B
+B SYSTEM OK
+A
+REPLACE ECM

@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+Fig. 43: Measuring Resistance Between Torque Sensor Terminals No. 2
+And No. 3
+Is the resistance between 12-15 ohms?
+YES -Repair open or short between the BLU/RED and WHT/GRN wires in the
+torque sensor circuit between the torque sensor and the EPS control unit.
+NO -Faulty torque sensor (short or open in the internal circuit), replace the
+steering gearbox (see STEERING GEARBOX REMOVAL AND
+INSTALLATION ).
+DTC 61-04: OPEN/SHORT IN THE MOTOR HARNESS (STEERING DIAGNOSIS)
+1. Clear the DTC with the HDS.
+2. Turn the ignition switch to LOCK (0).
+3. Start the engine.
+4. Turn the steering wheel to the right or left, and wait 10 seconds or more.
+Does the EPS indicator come on?
+YES -Go to step 5.
+NO -Check for loose terminals or poor connections. If the connections are
+good, the system is OK at this time.
+5. Check for DTCs with the HDS.
+Is DTC 61-04 indicated?

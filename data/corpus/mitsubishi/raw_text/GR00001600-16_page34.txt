@@ -1,0 +1,59 @@
+16-34 ENGINE ELECTRICAL
+IGNITION SYSTEM
+IGNITION SYSTEM
+GENERAL DESCRIPTION
+M1163000100131
+<2.4L ENGINE> The engine control module controls the two ignition
+power transistors to turn them alternately ON and
+This system is provided with two ignition coils (A and
+OFF. This causes the primary currents in the ignition
+B) with built-in ignition power transistors for the num-
+coils to be alternately interrupted and allowed to flow
+ber 1 and number 4 cylinders, and number 2 and
+to fire the cylinders in the order 1 − 3 − 4 − 2.
+number 3 cylinders respectively.
+The engine control module determines which ignition
+Interruption of the primary current flowing in the pri-
+coil should be controlled by means of the signals
+mary side of ignition coil A generates a high voltage
+from the camshaft position sensor which is incorpo-
+in the secondary side of ignition coil A.
+rated in the camshaft and from the crankshaft posi-
+The high voltage thus generated is applied to the
+tion sensor which is incorporated in the crankshaft.
+spark plugs of number 1 and number 4 cylinders to
+It also detects the crankshaft position in order to pro-
+generate sparks. At the time that the sparks are gen-
+vide ignition at the most appropriate timing in
+erated at both spark plugs, if one cylinder is at the
+response to the engine operation conditions.
+compression stroke, the other cylinder is at the
+When the engine is cold or operated at high alti-
+exhaust stroke, so that ignition of the compressed
+tudes, the ignition timing is slightly advanced to pro-
+air/fuel mixture occurs only for the cylinder which is
+vide optimum performance.
+at the compression stroke.
+In the same way, when the primary current flowing in
+ignition coil B is interrupted, the high voltage thus
+generated is applied to the spark plugs of number 2
+and number 3 cylinders.
+TO TACHOMETER
+VOLUME AIR FLOW SENSOR
+INTAKE AIR TEMPERATURE SENSOR IGNITION COIL A
+BAROMETRIC PRESSURE SENSOR
+ENGINE COOLANT TEMPERATURE
+SENSOR ECM IGNITION
+CAMSHAFT POSITION SENSOR <M/T>, SWITCH
+IGNITION COIL B
+PCM
+CRANKSHAFT POSITION SENSOR
+<A/T>
+VEHICLE SPEED SENSOR
+PARK/NEUTRAL POSITION SWITCH <A/T>
+IGNITION SWITCH-ST BATTERY
+KNOCK SENSOR
+SPARK PLUGS
+CYLINDER NO. 3 2 4 1
+AK100055AB
+TSB Revision

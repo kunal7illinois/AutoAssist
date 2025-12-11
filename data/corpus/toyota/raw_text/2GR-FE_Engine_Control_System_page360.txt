@@ -1,0 +1,58 @@
+ES–360
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+9. Drive the vehicle at a proper vehicle speed to perform fuel-cut operation (refer to the following HINT )
+(Procedure "D").
+HINT:
+Fuel-cut is performed when the following conditions are met:
+• Accelerator pedal is fully released.
+• Engine speed is 2,500 rpm or more (fuel injection resumes at 1,000 rpm).
+10.Accelerate the vehicle to 40 rpm (64 km/h) or more by depressing the accelerator pedal for at least 10
+seconds (Procedure "E").
+11.Soon after performing procedure E above, release the accelerator pedal for at least 4 seconds without
+depressing the brake pedal, in order to execute fuel-cut control (Procedure "F").
+12.Allow the vehicle to decelerate until the vehicle speed declines to less than 6 mph (10 km/h).
+13.Repeat procedure from C through F above at least 3 times in one driving cycle.
+HINT:
+Completion of all A/F sensor monitors is required to change the value in TEST RESULT.
+CAUTION:
+ES
+Strictly observe posted speed limits, traffic laws, and road conditions when performing these
+drive patterns.
+INSPECTION PROCEDURE
+HINT:
+Malfunctioning areas can be identified by performing the A/F CONTROL function provided in the ACTIVE
+TEST. The A/F CONTROL function can help to determine whether the Air-fuel Ratio (A/F) sensor, Heated
+Oxygen (HO2) sensor and other potential trouble areas are malfunctioning.
+The following instructions describe how to conduct the A/F CONTROL operation using the intelligent
+tester.
+1. Connect the intelligent tester to the DLC3.
+2. Start the engine and turn the tester on.
+3. Warm up the engine at an engine speed of 2,500 rpm for approximately 90 seconds.
+4. On the intelligent tester, enter the following menus: DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST
+/ A/F CONTROL.
+5. Perform the A/F CONTROL operation with the engine in an idling condition (press the RIGHT or LEFT
+button to change the fuel injection volume).
+6. Monitor the output voltages of the A/F and HO2 sensors (AFS B1 S1 and O2S B1 S2 or AFS B2 S1
+and O2S B2 S2) displayed on the tester.
+HINT:
+• The A/F CONTROL operation lowers the fuel injection volume by 12.5 % or increases the injection
+volume by 25 %.
+• Each sensor reacts in accordance with increases in the fuel injection volume.
+Tester Display
+Injection Volume Status Voltage
+(Sensor)
+AFS B1S1 or AFS B2S1
++25 % Rich Less than 3.0 V
+(A/F)
+AFS B1S1 or AFS B2S1
+-12.5 % Lean More than 3.35 V
+(A/F)
+O2S B1S2 or O2S B2S2
++25 % Rich More than 0.55 V
+(HO2)
+O2S B1S2 or O2S B2S2
+-12.5 % Lean Less than 0.4 V
+(HO2)
+NOTICE:
+The Air-Fuel Ratio (A/F) sensor has an output delay of a few seconds and the HO2S (sensor 2)
+output has a maximum output delay of 20 seconds.

@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Using a multimeter, check the Evaporative Emission (EVAP)
+Canister Purge Regulator Valve 1 -N80- electrical connector
+terminal 2 to Engine Control Module (ECM) -J623- electrical
+connector T94 terminal 9 for an open circuit. Refer to Wiring
+Diagrams for pin locations.
+Specified value: 1.5 Ω max.
+If the specified value was Not obtained:
+– Check the wiring for a short to voltage, high resistance or an
+open circuit.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the wiring connection.
+If the specified value was obtained:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual .
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.9 Exhaust Flap Valve 1, Checking
+Special tools and workshop equipment required
+♦ multimeter.
+♦ Wiring diagram.
+Test requirements
+• The Engine Control Module (ECM) - J623- fuses OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• On vehicles with automatic transmission, selector lever in po‐
+sition “P” or “N”.
+• A/C switched off.
+• Ground (GND) connections between engine/transmission/
+chassis OK.
+• Ignition switched off.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the engine cover with air filter. Refer to the appropri‐
+ate service manual.
+Checking internal resistance
+126
+Rep. Gr.ST - Generic Scan Tool

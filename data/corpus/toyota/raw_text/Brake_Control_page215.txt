@@ -1,0 +1,49 @@
+BC–209
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+5 CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU - EACH SPEED SENSOR)
+(a) Measure the resistance according to the value(s) in the
+Skid Control ECU Harness Side table below.
+Connector Front View: Standard resistance:
+RH
+FR+ FL- RR+ Tester Connection Condition Specified Condition
+RL-
+A26 A26-3 (FR+) - A35-1 (FR+) Always Below 1 Ω
+A26-3 (FR+) - Body ground Always 10 kΩ or higher
+A26-17 (FR-) - A35-2 (FR-) Always Below 1 Ω
+A26-17 (FR-) - Body ground Always 10 kΩ or higher
+A26-5 (RR+) - f1-1 (RR+) Always Below 1 Ω
+RL+ A26-5 (RR+) - Body ground Always 10 kΩ or higher
+FR- FL+ RR-
+A26-19 (RR-) - f1-2 (RR-) Always Below 1 Ω
+Front Speed Sensor Harness Side
+Connector Front View: A26-19 (RR-) - Body ground Always 10 kΩ or higher
+BC
+LH
+A35 A14 Tester Connection Condition Specified Condition
+A26-18 (FL+) - A14-1 (FL+) Always Below 1 Ω
+A26-18 (FL+) - Body ground Always 10 kΩ or higher
+A26-4 (FL-) - A14-2 (FL-) Always Below 1 Ω
+FR- FR+ FL- FL+ A26-4 (FL-) - Body ground Always 10 kΩ or higher
+Rear Speed Sensor Harness Side A26-20 (RL+) - g1-1 (RL+) Always Below 1 Ω
+Connector Front View: A26-20 (RL+) - Body ground Always 10 kΩ or higher
+A26-6 (RL-) - g1-2 (RL-) Always Below 1 Ω
+A26-6 (RL-) - Body ground Always 10 kΩ or higher
+f1 g1
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+RR- RR+ RL- RL+
+C136025E01
+OK
+6 RECONFIRM DTC
+(a) Reconnect the skid control sensor wire.
+(b) Reconnect the skid control ECU connector and the
+speed sensor connector.
+(c) Clear the DTC (See page BC-141).
+(d) Start the engine.
+(e) Drive the vehicle at the speed of 12 mph (20 km/h) or
+more for at least 60 seconds.
+(f) Check if the same DTC is recorded (See page BC-141).
+Result
+Condition Proceed to
+DTCs (C1235/35, C1236/36, C1238/38 and/or C1239/39) are output (for front) A
+DTCs (C1235/35, C1236/36, C1238/38 and/or C1239/39) are output (for rear) B

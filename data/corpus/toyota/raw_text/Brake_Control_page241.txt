@@ -1,0 +1,39 @@
+BC–235
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+WIRING DIAGRAM
+Brake Actuator Assembly
+Combination Meter - Skid Control ECU
+CANL CANL
+18 25
+CANH
+CANH 17 11
+MPX+B
+IG1 BC
+ECU-IG NO. 2
+From Battery IG1
+5 3 46
+2 1
+ES
+24
+From Ignition Switch (*3),
+Main Body ECU (*4)
+IG+
+ABS
+From IG2 Relay (*1),
+Ignition Switch (*2)
+Power
+GND1
+Supply
+32
+Circuit
+GAUGE NO. 2
+IG+
+13
+(*1): 2GR-FE (*2): 2AZ-FE GND2
+1
+(*3): without Smart Key System
+(*4): with Smart Key System
+C109474E03
+INSPECTION PROCEDURE
+NOTICE:
+When replacing the brake actuator assembly, perform zero point calibration (See page BC-119).

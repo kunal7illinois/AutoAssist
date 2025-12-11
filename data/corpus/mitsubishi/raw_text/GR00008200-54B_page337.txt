@@ -1,0 +1,33 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-337
+SYMPTOM PROCEDURES
+STEP 5. Check combination meter connector C-42 in order
+to check the ignition switch (IG1) line of the power supply
+to the high-beam indicator light.
+(1) Disconnect combination meter connector C-42, and
+CONNECTOR: C-42
+measure at the wiring harness side.
+DEVICE SIDE
+2122232425262728 293031323334
+AC106473AI
+(2) Measure the voltage between terminal 21 and ground.
+• The measured value should be 12 volts (battery positive
+voltage).
+CONNECTOR C-42
+Q:Does the measured voltage correspond with this range?
+(HARNESS SIDE)
+YES : Go to Step 8.
+343332313029 2827262524232221 NO : Go to Step 6.
+AC002140AC
+STEP 6. Check combination meter connector C-42 for
+damage.
+Q:Is combination meter connector C-42 in good
+CONNECTOR: C-42
+condition?
+YES : Go to Step 7.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. Check
+that the high-beam indicator light illuminates normally.
+DEVICE SIDE
+2122232425262728 293031323334
+AC106473AI
+TSB Revision

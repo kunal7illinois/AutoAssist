@@ -1,0 +1,50 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+repair procedure
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+– Switch the ignition OFF.
+Monitor-ID $42 (46): Oxygen Sensor Heater Monitor Bank 1 -
+Sensor 2
+– Connect the scan tool.
+– Start the engine and run at idle.
+– Select “Mode 6: Check test the results of components that are
+not continuously monitored”.
+Select “Monitor-ID $42 (46)”.
+– Select the desired “Test-ID” or “Hex-ID”.
+– Check specified values at idle.
+Test-ID DTC Component or System Min. Max. Additional Information
+$81 P0141 Oxygen sensor heating internal 0 Ω 19.04 k Ω Refer to DTC P0141 in
+resistance test Bank 1 Sensor 2. the DTC summary table.
+⇒ page 42 .
+– If any of components or systems fail to meet the specified val‐
+ues. Refer to Diagnostic “Mode 03: Interrogating Fault Mem‐
+ory” to check for stored DTC's or the corresponding diagnostic
+repair procedure
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+– Switch the ignition OFF.
+Monitor-ID $A2 (162): Mis-Fire Cylinder 1 Data
+– Connect the scan tool.
+– Start the engine and run at idle.
+– Select “Mode 6: Check test the results of components that are
+not continuously monitored”.
+Select “Monitor-ID $A2 (162)”.
+– Select the desired “Test-ID” or “Hex-ID”.
+– Check specified values at idle.
+Test-ID DTC Component or System Min./Max. Values Additional Information
+$0B (11) P0301 Cylinder 1 Data averaged dur‐ 0 - 65535 (counts) Refer to DTC P0301 in
+ing last 10 drive cycles. the DTC summary table.
+⇒ page 56
+$0C (12) P0301 Cylinder 1 Data averaged dur‐ 0 - 65535 (counts) Refer to DTC P0301 in
+ing current drive cycle. the DTC summary table.
+⇒ page 56
+– If any of components or systems fail to meet the specified val‐
+ues. Refer to Diagnostic “Mode 03: Interrogating Fault Mem‐
+ory” to check for stored DTC's or the corresponding diagnostic
+repair procedure
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+– Switch the ignition OFF.
+22
+Rep. Gr.ST - Generic Scan Tool

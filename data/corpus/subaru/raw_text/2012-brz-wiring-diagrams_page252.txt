@@ -1,0 +1,46 @@
+P
+6 C 7 C
+H28(B)
+R V
+19
+Tire Pressure Warning ECU and Receiver
+(Door Control and Tire Pressure
+Monitoring System Receiver Assembly)
+Y
+2
+3D
+19
+3D
+34 HD1 35 HD1
+R
+(IG)
+2
+20
+3C
+R–L
+(BAT)
+7. 5A
+ECU–B
+1
+PRG RDA
+R–Y
+39 HD1
++B
+Y–R
+B
+B
+37 HD1
+IG
+GND
+H3
+W
+Tire Pressure Warning System
+A73(A), D5(B), D6(C)
+Main Body ECU
+PRG RDA
+10A
+ECU IG1
+5 B 4 B 7 B 1 B
+12 B
+252
+BRZ (G4400BE)

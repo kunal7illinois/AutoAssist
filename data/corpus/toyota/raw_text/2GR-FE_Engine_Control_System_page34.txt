@@ -1,0 +1,50 @@
+ES–34
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2. CATALYST MONITOR (ACTIVE AIR-FUEL RATIO
+CONTROL TYPE)
+Vehicle Speed
+NOTICE:
+Between 40 mph and This test will not be completed if
+70 mph (64 km/h and the vehicle is driven under absolute
+constant speed condition such as
+113 km/h)
+with cruise control activated.
+Idling
+ES Ignition Switch off Warm up 10 minutes Time
+Note: Even when vehicle stops during driving pattern, the test can be resumed
+A079199E85
+(a) Preconditions
+The monitor will not run unless:
+• The MIL is OFF.
+(b) Drive Pattern
+(1) Connect an intelligent tester.
+(2) Turn the ignition switch on (IG).
+(3) Turn the tester or scan tool ON.
+(4) Clear the DTCs.
+(5) Start the engine and warm it up.
+(6) Drive the vehicle at between 40 mph and 70
+mph (64 km/h and 113 km/h) for at least 10
+minutes.
+(c) Monitor Status
+(1) Check the Readiness Monitor status displayed
+on the tester.
+(2) If the status does not switch to COMPL
+(complete), extend the driving time.
+3. EVAP MONITOR (KEY-OFF TYPE)
+(a) Preconditions
+The monitor will not run unless:
+• The fuel tank is less than 90% full.
+• The altitude is less than 8,000 ft (2,450 m).
+• The vehicle is stationary.
+• The engine coolant temperature is between
+4.4°C and 35°C (40°F to 95°F).
+• The intake air temperature is between 4.4°C and
+35°C (40°F to 95°F).
+• Vehicle was driven in the city area (or on free-
+way) for 10 minutes or more.
+(b) Monitor Conditions
+(1) Turn the ignition switch off and wait for 6 hours.
+HINT:
+Do not start the engine until checking Readiness
+Monitor status. If the engine is started, the step
+described above must be repeated.

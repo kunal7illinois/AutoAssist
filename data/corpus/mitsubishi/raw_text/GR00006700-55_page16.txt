@@ -1,0 +1,40 @@
+55-16 HEATING AND AIR CONDITIONING
+MANUAL A/C DIAGNOSIS
+INSPECTION PROCEDURE 6: When the A/C is Operating Condenser Fan or Radiator Fan does not
+Turn.
+DIAGNOSIS
+STEP 1. Check the fan control relay continuity.
+Follow the table below to check the fan control relay for conti-
+nuity.
+BATTERY VOLTAGE TESTER SPECIFIED
+CONNECTION CONDITION
+Not applied 1 − 4 Open circuit
+• Connect terminal 3 1 − 4 Less than 2 ohm
+to the positive
+battery terminal
+• Connect terminal 2
+FAN CONTROL RELAY to the negative
+battery terminal
+Q:Is the fan control relay continuity in good condition?
+2 YES : Go to Step 2.
+4
+2 NO : Replace. Then go to Step 4.
+1 3 1 3
+4
+AC102927AB
+STEP 2. Check the condenser fan motor operation
+<vehicles with 3.0L engine>.
+Check to be sure that the condenser fan motor operates when
+battery voltage is applied to terminal 2 and terminal 1
+grounded.
+Q:Is the condenser fan motor operating correctly?
+YES : Go to Step 3.
+NO : Replace. Then go to Step 3.
+AC001383AB
+STEP 3. Measure the fan controller terminal voltage.
+Refer to GROUP 14, On-vehicle Service − Fan Control Module
+Check P.14-19.
+Q:Is the fan controller terminal voltage in good condition?
+YES : Go to Step 4.
+NO : Replace. Then go to Step 4.
+TSB Revision

@@ -1,0 +1,37 @@
+BODY ELECTRICAL - METER BE-27
+(cid:1) Input and output communication signals of the combination meter (cid:2)
+Protocol ECU Input Signal Output Signal
+(cid:3) Engine speed
+(cid:3) Engine coolant temperature
+(cid:3) Fuel injection volume
+(cid:3) Starter condition
+(cid:3) Shift position
+ECM (cid:3) S mode indicator —
+(cid:3) Current range position
+(cid:3) Buzzer sounding request
+(cid:3) Indicator light control
+(cid:3) Diagnosis (Cruise)
+(cid:3) Engine type information
+A/C ECU Outside temperature Vehicle speed
+CCAANN
+(cid:3) Warning light control
+(CAN No.1 Bus) Airbag Sensor
+(cid:3) Seat belt remainder control (D, P) Vehicle speed
+Assembly
+(cid:3) Diagnosis
+(cid:3) Warning light control
+Skid Control
+(cid:3) Indicator light control —
+ECU
+(cid:3) Diagnosis
+(cid:3) Lighting status
+(cid:3) Parking brake switch
+(cid:3) Courtesy switch
+Main Body ECU (cid:3) Buzzer sounding request —
+(cid:3) Key unlock warning switch
+(cid:3) Warning display control
+(cid:3) Diagnosis
+CAN Certification (cid:3) Warning display control
+—
+(MS Bus) ECU* (cid:3) Buzzer sounding request
+*: Only for models with smart key system

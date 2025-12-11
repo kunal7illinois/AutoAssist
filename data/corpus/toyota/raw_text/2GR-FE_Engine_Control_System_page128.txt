@@ -1,0 +1,34 @@
+ES–128
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 INSPECT FUSE (EFI NO. 3)
+(a) Remove the EFI No. 3 fuse from the engine room R/B.
+(b) Measure the EFI No. 3 fuse resistance.
+Standard resistance:
+Below 1 Ω
+(c) Reinstall the EFI No. 3 fuse.
+NG REPLACE EFI NO. 3 FUSE
+EFI No. 3
+Engine Room
+Relay Block
+ES
+A135018E01
+OK
+4 INSPECT ENGINE ROOM JUNCTION BLOCK
+(a) Remove the engine room junction block from the engine
+room R/B.
+(b) Inspect the EFI relay.
+(1) Measure the EFI relay resistance.
+Engine Room Junction Block
+Standard resistance
+Tester Connection Specified Condition
+1E-12 - 1E-6 10 kΩ or higher
+Below 1 Ω (Apply battery voltage between
+1E-12 - 1E-6
+terminals 1E-9 and 1E-10)
+(c) Reinstall the engine room junction block.
+1E
+NG REPLACE ENGINE ROOM JUNCTION
+BLOCK
+Engine Room Relay Block
+A140654E02
+OK

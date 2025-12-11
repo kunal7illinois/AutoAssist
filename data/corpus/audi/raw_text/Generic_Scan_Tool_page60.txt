@@ -1,0 +1,50 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Param‐ Monitoring Frequency of
+sage cedure ria and Threshold eters with Enable Time checks, MIL
+Value Conditions Length Illum
+P0301 Cylinder 1 – Check the • emission • Active after en‐ • 1000 • Continu‐
+Misfire De‐ Spark plugs. threshold mis‐ gine start, > 200 Rev. > ous
+tected ifre rate (MR) > RPM and 1 cam (2.5%
+– Check the in‐ 2 % revolution Misfire • 2 DCY
+take system Rate)
+for leaks. • calibrated • Engine torque, > • immedi‐
+threshold mis‐ = 0 Nm • 200 ate
+– Check the ifre rate (MR) > Rev.
+fuel pres‐ 1.4 % • Engine speed (2.5 to
+sure. Refer range, idle - 24%
+to • catalyst dam‐ 6000 RPM Misfire
+⇒ “3.5.2 Fuel a (M ge R ) m > is 4 if . r . e . 1 ra 7 te • Fuel cutoff, Not Rate)
+Pump Pres‐ % active
+sure, Check‐
+ing”, • ECT at start > -
+page 113 20° C
+• IAT > - 48° C
+– Check Fuel
+Injectors - • if ECT @ start <
+N30, N31, -20° C.
+N32, N33,
+N83- . Refer • than wait until
+to actual ECT >
+⇒ “3.5.27 18° C
+Fuel Injec‐
+tors, Check‐
+ing”,
+page 167
+– Check the Ig‐
+nition Coils
+with Power
+Output Stage
+-N70, N127,
+N291, N292,
+N323- . Refer
+to
+⇒ “3.5.41 Ig‐
+nition Coil
+with Power
+Output
+Stage,
+Checking”,
+page 192 .
+56
+Rep. Gr.ST - Generic Scan Tool

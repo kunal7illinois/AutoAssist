@@ -1,0 +1,33 @@
+EG-132 ENGINE - 2GR-FE ENGINE
+10. Cranking Hold Function (Models with Smart Key System)
+General
+(cid:3) Once the engine switch is pressed, this function continues to operate the starter until the engine has
+started, provided that the brake pedal is depressed. This prevents starting failure and the engine from
+being cranked after it has started.
+(cid:3) When the ECM detects a start signal from the main body ECU, this system monitors the engine speed
+(NE) signal and continues to operate the starter until it has determined that the engine has started.
+Furthermore, even if the ECM detects a start signal from the main body ECU, this system will not operate
+the starter if the ECM has determined that the engine has already started.
+(cid:1) System Diagram (cid:2)
+PRESS STSW STSW
+ACCR ACCR
+STR2 STAR
+Main Body
+Engine Switch ECU IG2D
+DEPRESS
+Starter Cut
+ECM
+Relay
+Brake Pedal
+To IG2 Relay
+STA
+Park /Neutral
+Position Switch
+(cid:3) Engine Speed Signal
+(cid:3) Engine Coolant Temp. Signal
+(cid:3) Brake Signal
+Starter
+Relay
+Starter
+Battery
+01YEG15TE

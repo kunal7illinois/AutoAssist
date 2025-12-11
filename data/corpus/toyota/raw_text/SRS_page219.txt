@@ -1,0 +1,53 @@
+RS–219
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Short in Front Passenger Side Pretensioner
+DTC B1905/74
+Squib Circuit
+Open in Front Passenger Side Pretensioner
+DTC B1906/74
+Squib Circuit
+Short to GND in Front Passenger Side Preten-
+DTC B1907/74
+sioner Squib Circuit
+Short to B+ in Front Passenger Side Front Pre-
+DTC B1908/74
+tensioner Squib Circuit
+DESCRIPTION
+The front passenger side front pretensioner squib circuit consists of the center airbag sensor assembly
+and the front seat outer belt assembly RH.
+This circuit instructs the SRS to deploy when deployment conditions are met.
+These DTCs are recorded when a malfunction is detected in the front passenger side front pretensioner
+squib circuit.
+DTC No. DTC Detection Condition Trouble Area
+• The center airbag sensor assembly receives a line
+short circuit signal 5 times in the front passenger
+• Floor wire No. 2
+side front pretensioner squib circuit during primary
+• Front seat outer belt assembly RH (Front
+B1905/74 check.
+passenger side front pretensioner squib)
+• Front passenger side front pretensioner squib
+• Center airbag sensor assembly
+malfunction
+• Center airbag sensor assembly malfunction RS
+• The center airbag sensor assembly receives an
+open circuit signal in the front passenger side front • Floor wire No. 2
+pretensioner squib circuit for 2 seconds. • Front seat outer belt assembly RH (Front
+B1906/74
+• Front passenger side front pretensioner squib passenger side front pretensioner squib)
+malfunction • Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives a
+short circuit to ground signal in the front passenger • Floor wire No. 2
+side front pretensioner squib circuit for 0.5 seconds. • Front seat outer belt assembly RH (Front
+B1907/74
+• Front passenger side front pretensioner squib passenger side front pretensioner squib)
+malfunction • Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives a
+short circuit to B+ signal in the front passenger side • Floor wire No. 2
+front pretensioner squib circuit for 0.5 seconds. • Front seat outer belt assembly RH (Front
+B1908/74
+• Front passenger side front pretensioner squib passenger side front pretensioner squib)
+malfunction • Center airbag sensor assembly
+• Center airbag sensor assembly malfunction

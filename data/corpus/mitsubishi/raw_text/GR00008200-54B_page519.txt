@@ -1,0 +1,36 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-519
+SYMPTOM PROCEDURES
+STEP 3. Check the wiring harness between column switch
+connector C-86 (terminal 6) and ETACS-ECU connector C-
+118 (terminal 66).
+Q:Is the wiring harness between column switch connector
+CONNECTOR: C-86
+C-86 (terminal 6) and ETACS-ECU connector C-118
+(terminal 66) in good condition?
+DEVICE SIDE YES : Go to 4.
+1 2 3 4 5 NO : Repair the wiring harness. If the wiper interval can be
+6 7 8 910 adjusted normally, it indicates that the windshield
+intermittent wiper interval adjusting knob should send
+a signal to the ECU.
+AC106475AB
+CONNECTOR: C-118
+DEVICE SIDE
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+STEP 4. Replace the ECU.
+(1) Replace the ETACS-ECU.
+(2) If the wiper interval can be adjusted normally, it indicates
+that the windshield intermittent wiper interval adjusting knob
+should send a signal to the ECU.
+Q:Can input signal be confirmed when the windshield
+intermittent wiper interval adjusting knob is operated?
+YES : No action to be taken.
+NO : Replace the column switch (windshield wiper and
+washer switch). If the wiper interval can be adjusted
+normally, it indicates that the windshield intermittent
+wiper interval adjusting knob should send a signal to
+the ECU.
+TSB Revision

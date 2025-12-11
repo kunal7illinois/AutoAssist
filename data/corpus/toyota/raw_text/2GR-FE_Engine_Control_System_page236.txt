@@ -1,0 +1,60 @@
+ES–236
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0340 Camshaft Position Sensor Circuit Malfunction
+Camshaft Position Sensor "A" Circuit Low
+DTC P0342
+Input (Bank 1 or Single Sensor)
+Camshaft Position Sensor "A" Circuit High
+DTC P0343
+Input (Bank 1 or Single Sensor)
+DTC P0345 Camshaft Position Sensor "A" Circuit (Bank 2)
+Camshaft Position Sensor "A" Circuit Low
+ES DTC P0347
+Input (Bank 2)
+Camshaft Position Sensor "A" Circuit High
+DTC P0348
+Input (Bank 2)
+DESCRIPTION
+The intake camshaft's Variable Valve Timing (VVT) sensor (G signal) consists of a magnet and MRE
+(Magneto Resistance Element).
+The VVT camshaft drive gear has a sensor plate with 3 teeth on its outer circumference. When the gear
+rotates, changes occur in the air gaps between the sensor plate and MRE, which affects the magnetic
+field. As a result, the resistance of the MRE material fluctuates. The VVT sensor converts the gear
+rotation data to pulse signals, uses the pulse signals to determine the camshaft angle, and sends it to the
+ECM.
+The crankshaft angle sensor plate has 34 teeth. The pickup coil generates 34 signals for each engine
+revolution. Based on combination of the G signal and NE signal, the ECM detects the crankshaft angle.
+Then the ECM uses this data to control fuel injection time and injection timing. Also, based on the NE
+signal, the ECM detects the engine speed.
+DTC No. DTC Detection Condition Trouble Area
+• Input voltage to ECM remains 0.3 V or less, or 4.7
+• Open or short in VVT sensor for intake camshaft
+V or higher for more than 5 seconds, when 2 or
+circuit
+more seconds have elapsed after turning engine
+P0340 • VVT sensor for intake camshaft
+switch on (IG)
+P0345 • Camshaft timing gear for intake camshaft
+(1 trip detection logic)
+• Jumped tooth of timing chain for intake camshaft
+• No VVT sensor signal to ECM during cranking
+• ECM
+(1 trip detection logic)
+• Open or short in VVT sensor for intake camshaft
+circuit
+Output voltage of VVT sensor 0.3 V or less is for 5
+P0342 • VVT sensor for intake camshaft
+seconds
+P0347 • Camshaft timing gear for intake camshaft
+(1 trip detection logic)
+• Jumped tooth of timing chain for intake camshaft
+• ECM
+• Open or short in VVT sensor for intake camshaft
+circuit
+Output voltage of VVT sensor 4.7 V or more is for 5
+P0343 • VVT sensor for intake camshaft
+seconds
+P0348 • Camshaft timing gear for intake camshaft
+(1 trip detection logic)
+• Jumped tooth of timing chain for intake camshaft
+• ECM

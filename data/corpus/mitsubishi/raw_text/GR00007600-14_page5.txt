@@ -1,0 +1,33 @@
+COOLING SYSTEM 14-5
+ENGINE COOLING DIAGNOSIS
+STEP 2. Check the radiator cap valve opening pressure.
+NOTE: Be sure that the cap is clean before testing. Rust or
+other foreign material on the cap seal will cause an improper
+reading.
+(1) Use a cap adapter to attach the cap to the tester.
+(2) Increase the pressure until the gauge indicator stops
+moving.
+CAP ADAPTER
+Minimum limit: 64 kPa (9.2 psi)
+Standard value: 73 − 103 kPa (11 − 15 psi)
+Q:Does the reading remain at or above the minimum limit?
+YES : Go to Step 3.
+NO : Replace the radiator cap. Then go to Step 5.
+ACX01845AB
+STEP 3. Check thermostat operation.
+Refer to P.14-24.
+Q:Is the thermostat operate correctly?
+YES : Go to Step 4.
+NO : Replace the thermostat, then go to Step 5.
+STEP 4. Check the drive belt for slippage or damage.
+Refer to GROUP 00, Maintenance Service − Drive Belts
+(Check Condition) P.00-44.
+Q:Is the drive belt loose or damaged?
+YES : Adjust or replace the drive belt, then go to Step 5.
+NO : There is no action to be taken.
+STEP 5. Check symptoms.
+Check the coolant temperature gauge.
+Q:Is the coolant temperature abnormally high?
+YES : Return to Step 2.
+NO : This diagnosis is complete.
+TSB Revision

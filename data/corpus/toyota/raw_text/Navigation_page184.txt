@@ -1,0 +1,45 @@
+NS–184
+NAVIGATION – NAVIGATION SYSTEM
+Result
+Type Go to step
+A/T A
+M/T B
+B Go to step 5
+A
+4 INSPECT PARK/NEUTRAL POSITION SWITCH
+(a) Disconnect the park/neutral position switch connector
+Park/Neutral Position Switch:
+C1.
+(b) Measure the resistance according to the value(s) in the
+table below.
+C1 Standard resistance
+Tester connection Condition Specified condition
+Shift lever is moved to
+C1-1 - C1-2 Below 1 Ω
+R.
+Shift lever is moved to
+C1-1 - C1-2 10 kΩ or higher
+E120122E04 any position except R.
+NG REPLACE PARK/NEUTRAL POSITION
+SWITCH
+OK
+REPAIR OR REPLACE HARNESS OR CONNECTOR
+5 INSPECT BACK-UP LIGHT SWITCH
+(a) Disconnect the buck-up light switch connector C28.
+Back-up Light Switch:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+C28
+Tester connection Condition Specified condition
+Shift lever is moved to
+C28-1 - C28-2 Below 1 Ω
+R.
+Shift lever is moved to
+C28-2 C28-1 C28-1 - C28-2 10 kΩ or higher
+any position except R.
+I045225E02
+NG REPLACE BACK-UP LIGHT SWITCH
+NS
+OK
+REPAIR OR REPLACE HARNESS OR CONNECTOR

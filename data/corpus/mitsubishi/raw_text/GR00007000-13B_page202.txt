@@ -1,0 +1,48 @@
+13B-202 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 6 − Other Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0152 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0153: Heated Oxygen Sensor Circuit Slow Responce (bank 2, sensor 1)
+1 2
+3 4
+AK000694
+TSB Revision
+KCALB
+ETIHW
+KCALB
+Left Bank Heated Oxygen Sensor (front) Circuit
+B-24
+MU802605
+LEFT BANKHEATED OXYGEN
+SENSOR (FRONT)
+1 3 2 4
+FROM MFI RELAY
+TO ECM
+OR PCM
+49 <M/T>*1 71 <M/T>*2
+57 <A/T>*3 71 <A/T>*4
+ENGINE CONTROL
+MODULE (ECM) <M/T>
+OR
+POWERTRAIN CONTROL
+MODULE (PCM) <A/T>
+C-58 <M/T> C-62 <M/T>
+(MU803782) (MU803783)
+41424344 45 46 47 7172 7374 75 76 77
+48495051525354555657 58 59 7879808182838485868788 89 90
+6061 626364 6566 67 68 919293 9495 969798 99 100
+C-55 <A/T> C-59 <A/T>
+(MU803781) (MU803782)
+41 42 43 444546 71727374 75 76 77
+47 48 495051525354555657 78798081828384858687 88 89
+58 59 60616263 646566 9091 929394 9596 97 98
+NOTE
+*1:ECM connector C-58 <M/T>
+*2:ECM connector C-62 <M/T>
+*3:PCM connector C-55 <A/T>
+*4:PCM connector C-59 <A/T>

@@ -1,0 +1,56 @@
+Audi TT No. 23 / 2
+Current Flow Diagram
+Steering column electronics control unit, fuses
+E313 Selector lever
+F189 Tiptronic switch
+J519 Onboard supply control unit
+J527 Steering column electronics control unit
+J623 Engine control unit
+SC32 Fuse 32 on fuse holder C
+SD3 Fuse 3 on fuse holder D
+T10p 10-pin connector, on Tiptronic switch
+B299 T12e 12-pin connector, black, connector G, on onboard power supply
+control unit
+T20c 20-pin connector, black, connector A, on steering column
+electronics control unit
+10,0 16,0
+ro ro T52c 52-pin connector, brown, on onboard supply control unit
+44 Earth point, lower part of left A-pillar
+B300 E1
+SD3
+6,0 110A 374 Earth connection 9, in main wiring harness
+ro 
+32
+J527 B299 Positive connection 3 (30), in main wiring harness
+SC32
+5A B300 Positive connection 4 (30), in main wiring harness
+32a T20c/13 T20c/16 T20c T20c T20c T20c
+/17 /18 /19 /20
+15 50 30 31 * main fuse box, in luggage compartment, rear right, on the battery
+ ** models with direct shift gearbox 02E and automatic gearbox
+0,5 0,35 0,35 0,35 0,35 0,5 1,0
+ro/bl sw/ws ge/bl sw/ws ro/sw ro/bl br *** ⇒ Engine Current Flow Diagram
+# up to May 2009
+## from June 2009
+1100 11
+T52c 374
+/31## T52c/14##
+T10p/2 T12e T12e/1#
+/11#
+J623 E313 J519 J519
+ F189
+
+ws = white
+sw = black
+ro = red
+2,5 br = brown
+br
+gn = green
+bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-023020909
+rs = pink
+Edition 04.2010

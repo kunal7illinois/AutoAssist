@@ -1,0 +1,33 @@
+ES–113
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR STRATEGY
+P0115: ECT sensor range check (Fluctuating)
+Related DTCs P0117: ECT sensor range check (Low voltage)
+P0118: ECT sensor range check (High voltage)
+Required Sensors/Components (Main) ECT sensor
+Required Sensors/Components (Related) -
+Frequency of Operation Continuous
+Duration 0.5 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+ES
+Monitor runs whenever following DTCs not present None
+TYPICAL MALFUNCTION THRESHOLDS
+P0115:
+ECT sensor voltage Less than 0.14 V, or more than 4.91 V
+P0117:
+ECT sensor voltage [ECT] Less than 0.14 V [More than 140°C (284°F)]
+P0118:
+ECT sensor voltage [ECT] More than 4.91 V [Less than -40°C (-40°F)]
+COMPONENT OPERATING RANGE
+ECT sensor voltage [ECT] 0.14 to 4.91 V [-40°C to 140°C (-40°F to 284°F)]
+WIRING DIAGRAM
+ECM
+Engine Coolant Temperature Sensor
+5 V
+R
+THW THW
+ETHW
+E2
+A112566E03

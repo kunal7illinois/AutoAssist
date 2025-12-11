@@ -1,0 +1,14 @@
+BC–80
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+ABS Warning Light Remains ON
+DESCRIPTION
+The skid control ECU sends the indicator signals to the combination meter assembly via the CAN
+communication system.
+If any of the following is detected, the ABS warning light remains on.
+• The skid control ECU connectors are disconnected from the skid control ECU.
+• There is a malfunction in the skid control ECU internal circuit.
+• There is an open in the wire harness between the combination meter and the skid control ECU.
+• The ABS and/or EBD is defective.
+HINT:
+The intelligent tester may not be used when the skid control ECU is abnormal.
+BC

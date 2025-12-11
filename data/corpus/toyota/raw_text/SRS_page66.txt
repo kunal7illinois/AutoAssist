@@ -1,0 +1,53 @@
+RS–66
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+INSPECTION PROCEDURE
+1 CHECK DTC
+(a) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+(b) Turn the ignition switch off.
+HINT:
+If a communication error occurs, DTCs for both the LH
+DC
+and RH sides will be stored simultaneously. To identify
+Front Airbag
+the malfunctioning area, turn the ignition switch off and
+Sensor LH
+then on (IG) again.
+Center Airbag
+(c) Turn the ignition switch on (IG), and wait for at least 60
+Sensor Assembly
+seconds.
+(d) Check the DTCs (See page RS-41).
+Result
+DTC 83 Result Proceed to
+DTC B1608, B1618, or 84 is output. A
+DLC3
+DTC B1613/83 is output. B
+DTC B1608, B1618, or 84 and B1613/83 are not
+DTC 84 C
+output.
+HINT:
+CG TC
+• DTCs indicating communication errors will be
+changed to DTCs indicating errors in initialization by
+C123723E02
+turning the ignition switch off and then on (IG) again.
+• Codes other than DTC B1608, B1618, or 84 and
+B1613/83 may be output at this time, but they are not
+RS
+related to this check.
+B GO TO DTC B1613/83
+C USE SIMULATION METHOD TO CHECK (See
+page RS-32)
+A
+2 CHECK CONNECTION OF CONNECTORS
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Check that the connectors are properly connected to the
+center airbag sensor assembly and the front airbag
+sensor LH.
+OK:
+The connectors are properly connected.
+NG CONNECT CONNECTORS PROPERLY
+OK

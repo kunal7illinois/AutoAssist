@@ -1,0 +1,55 @@
+ES–57
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+FAIL-SAFE CHART
+If any of the following DTCs are set, the ECM enters fail-safe
+mode to allow the vehicle to be driven temporarily.
+Fail-Safe Deactivation
+DTCs Components Fail-Safe Operations
+Conditions
+Air-Fuel Ratio (A/F) Sensor
+P0031, P0032, P0051 and P0052 ECM turns off A/F sensor heater Ignition switch off
+Heater
+Heated Oxygen (HO2) Sensor
+P0037, P0038, P0057 and P0058 ECM turns off HO2 sensor heater Ignition switch off
+Heater
+ECM calculates ignition timing
+P0100, P0102 and P0103 Mass Air Flow (MAF) Meter according to engine speed and Pass condition detected
+throttle valve position
+Intake Air Temperature (IAT) ECM estimates IAT to be 20°C
+P0110, P0112 and P0113 Pass condition detected
+Sensor (68°F)
+Engine Coolant Temperature ECM estimates ECT to be 80°C
+P0115, P0117 and P0118 Pass condition detected ES
+(ECT) Sensor (176°F)
+ECM cuts off throttle actuator
+current and throttle valve returned
+to 6.5° throttle position by return
+P0120, P0121, P0122, P0123, spring
+P0220, P0222, P0223, P0604, ECM then adjusts engine output
+Electronic Throttle Control Pass condition detected and then
+P0606, P0607, P0657, P2102, by controlling fuel injection
+System (ETCS) ignition switch turned off
+P2103, P2111, P2112, P2118, (intermittent fuel-cut) and ignition
+P2119 and P2135 timing in accordance with
+accelerator pedal opening angle,
+to allow vehicle to continue at
+minimal speed*
+ECM sets ignition timing to
+P0327, P0328, P0332 and P0333 Knock Sensor Ignition switch off
+maximum retard
+P0351 to P0356 Igniter ECM cuts fuel Pass condition detected
+APP sensor has 2 sensor circuits:
+Main and Sub
+If either of circuits malfunctions,
+ECM controls engine using the
+P2120, P2121, P2122, P2123, Accelerator Pedal Position (APP) other circuit Pass condition detected and then
+P2125, P2127, P2128 and P2138 Sensor If both of circuits malfunction, ignition switch turned off
+ECM regards accelerator pedal
+as being released. As a result,
+throttle valve is closed and engine
+idles
+NOTE:
+*: The vehicle can be driven slowly when the accelerator
+pedal is depressed slowly. If the accelerator pedal is
+depressed quickly, the vehicle may speed up and slow down
+erratically.

@@ -1,0 +1,89 @@
+ES–52
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Intelligent Tester Display Measurement: Range (Display) Normal Condition*1 Diagnostic Note
+VVT control (bank 1) status:
+VVT CTRL B1 - -
+ON or OFF
+Key-off EVAP system leak
+VACUUM PUMP detection pump status: - Active Test support data
+ON or OFF
+Key-off EVAP system vent valve
+EVAP VENT VAL status: - Active Test support data
+ON or OFF
+Electric fan motor:
+FAN MOTOR ON: Electric fan motor operating -
+ON or OFF
+TC and CG (TE1) terminal of
+TC/TE1 DLC3: - Active Test support data
+ON or OFF
+ES
+Engine rpm during No. 1 cylinder
+Output only when FUEL CUT #1 is
+ENG SPEED #1 fuel cut: -
+performed using ACTIVE TEST
+Min.: 0 rpm, Max.: 25,600 rpm
+Engine rpm during No. 2 cylinder
+Output only when FUEL CUT #2 is
+ENG SPEED #2 fuel cut: -
+performed using ACTIVE TEST
+Min.: 0 rpm, Max.: 25,600 rpm
+Engine rpm during No. 3 cylinder
+Output only when FUEL CUT #3 is
+ENG SPEED #3 fuel cut: -
+performed using ACTIVE TEST
+Min.: 0 rpm, Max.: 25,600 rpm
+Engine rpm during No. 4 cylinder
+Output only when FUEL CUT #4 is
+ENG SPEED #4 fuel cut: -
+performed using ACTIVE TEST
+Min.: 0 rpm, Max.: 25,600 rpm
+Average of engine rpm values
+during fuel cut of No. 1 to No. 4 Output only when ACTIVE TEST is
+ENG SPEED ALL -
+cylinders: performed
+Min.: 0 rpm, Max.: 25,600 rpm
+VVT aim angle: VVT duty signal value during
+VVTL AIM ANGL#1*2 0 to 100 %
+Min.: 0 %, Max.: 100 % intrusive operation
+VVT angle: Displacement angle during
+VVT CHNG ANGL#1*2 0 to 56°FR
+Min.: 0°FR, Max.: 60°FR intrusive operation
+VVT OCV operation duty: Requested duty value for intrusive
+VVT OCV DUTY B1*2 0 to 100 %
+Min.: 0 %, Max.: 100 % operation
+FC IDL = "ON" when throttle valve
+Fuel cut idle:
+FC IDL ON: Fuel cut operation fully closed and engine speed over
+ON or OFF
+3,500 rpm
+Fuel cut being performed under
+Fuel cut TAU (Fuel cut during very
+very light load to prevent engine
+FC TAU light load): ON: Fuel cut operating
+combustion from becoming
+ON or OFF
+incomplete
+Ignition counter:
+IGNITION 0 to 800 -
+Min.: 0, Max.: 800
+Misfire of cylinder 1 to 4:
+CYL #1, #2, #3, #4 0 -
+Min.: 0, Max.: 255
+All cylinders misfire:
+CYL ALL 0 -
+Min.: 0, Max.: 255
+Engine speed when misfire occur:
+MISFIRE RPM - -
+Min.: 0 rpm, Max.: 6,375 rpm
+Engine load when misfire occur:
+MISFIRE LOAD - -
+Min.: 0 g/rev, Max.: 3.98 g/rev
+Margin to detect engine misfire:
+MISFIRE MARGIN -100 to 99.22 % Misfire detecting margin
+Min.: -100 %, Max.: 99.22 %
+Number of codes:
+#CODES - Number of detected DTCs
+Min.: 0, Max.: 255
+Check mode:
+CHECK MODE ON: Check mode ON (see page ES-38)
+ON or OFF

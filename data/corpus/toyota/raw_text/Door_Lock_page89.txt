@@ -1,0 +1,31 @@
+DL–86
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/ Smart Key System)
+DTC B1242 Wireless Door Lock Tuner Circuit Malfunction
+DESCRIPTION
+• The electrical key antenna is used to receive electric waves relating to the entry functions of the smart
+access system with push-button start. The certification ECU decodes the requested smart access
+system with push-button start operation by identifying a key code based on electric waves received via
+the electrical key antenna and the door control receiver.
+• The door control receiver receives a signal from the wireless door control transmitter and sends signals
+to the main body ECU through the certification ECU.
+• The certification ECU then sends a command, according to the requested operation, to each ECU.
+(e.g. If door lock operation is requested, the ECU sends a door lock command to the main body ECU.)
+DTC No. DTC Detection Condition Trouble Area
+The certification ECU detects that there is a short in the • Door Control Receiver
+B1242 circuit between terminals RSSI, or between terminals • Wire harness
+DATA and RDA. • Certification ECU
+WIRING DIAGRAM
+O19 O18 E58
+Electrical Key Antenna Door Control Receiver Certification ECU
+4 37
+ASEL ASEL
+5 39
+RSSI RSSI
+1 7
+ANT ANT 3 38
+DATA RDA
+DL 2 29
++5 RC0
+17
+E
+B131913E01

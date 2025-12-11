@@ -1,0 +1,39 @@
+BC–223
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+9 CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU - STOP LIGHT SWITCH)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU Harness Side
+(b) Measure the resistance according to the value(s) in the
+Connector Front View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+A26-27 (STP) - A19-1 Always Below 1 Ω
+A26-27 (STP) - Body ground Always 10 kΩ or higher
+A26
+STP NG REPAIR OR REPLACE HARNESS OR
+Stop Light Switch Harness Side CONNECTOR
+Connector Front View:
+BC
+A19
+F049379E08
+OK
+10 RECONFIRM DTC
+(a) Reconnect the skid control ECU connector and the stop
+light switch connector.
+(b) Clear the DTC (See page BC-141).
+(c) Start the engine.
+(d) Depress the brake pedal several times to test the stop
+light circuit.
+(e) Check if the same DTC is recorded (See page BC-141).
+Result
+Condition Proceed to
+DTC (C1249/49) is not output A
+DTC (C1249/49) is output B
+HINT:
+If troubleshooting has been carried out according to the
+Problem Symptoms Table, refer back to the table and
+proceed to the next step (See page BC-134).
+B REPLACE BRAKE ACTUATOR ASSEMBLY
+A
+INSPECT LIGHTING SYSTEM (STOP LIGHT CIRCUIT)

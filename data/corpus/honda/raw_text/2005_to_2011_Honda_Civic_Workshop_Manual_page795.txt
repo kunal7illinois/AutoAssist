@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+34. Clear the DTC with the HDS.
+35. Test-drive the vehicle with the shift lever in D at speeds over 12 mph (20
+km/h), for at least 10 seconds. Slow down and stop the wheels.
+36. Check for DTCs with the HDS.
+Is DTC P0721 or P0722 indicated?
+YES -Check for poor connections or loose terminals between the output shaft
+(countershaft) speed sensor and the PCM, then go to step 1.
+NO -Go to step 37.
+37. Monitor the OBD STATUS for P0721 or P0722 in the DTCs MENU with the
+HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+36, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals between the output shaft (countershaft) speed sensor and the PCM,
+then go to step 1. If the HDS indicates NOT COMPLETED, go to step 35.
+38. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+39. Test-drive the vehicle with the shift lever in D at speeds over 12 mph (20
+km/h), for at least 10 seconds. Slow down and stop the wheels.
+40. Check for DTCs with the HDS.
+Is DTC P0721 or P0722 indicated?
+YES -Check for poor connections or loose terminals between the output shaft
+(countershaft) speed sensor and the PCM. If the PCM was updated, substitute a
+known-good PCM (see SUBSTITUTING THE PCM ), then go to step 39. If
+the PCM was substituted, go to step 1.

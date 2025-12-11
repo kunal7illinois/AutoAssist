@@ -1,0 +1,34 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-423
+SYMPTOM PROCEDURES
+STEP 17. Check the input signal (by using the Pulse
+Check).
+Check the input signal of the liftgate latch switch <vehicles with
+theft-alarm system> or liftgate light switch <vehicles without
+theft-alarm system>.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Operate the MUT-II as follows:
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+(3) When the liftgate is opened and closed, check if scan tool
+MB991502 sounds or not.
+16 PIN
+Q:When the liftgate is opened and closed, does scan tool
+MB991502 sound?
+MB991502
+AC001252AD
+Yes : Replace the ETACS-ECU.Check that the luggage
+compartment lights illuminate normally.
+No : Refer to Inspection Procedure P-9 "ETACS-ECU does
+not receive a signal from the liftgate latch switch
+P.54B-580."
+STEP 18. Check the trunk light bulb.
+Q:Is the luggage compartment bulb in good condition?
+YES : Go to Step 19.
+NO : Replace the bulb. Check that the trunk lights
+illuminate normally.
+TSB Revision

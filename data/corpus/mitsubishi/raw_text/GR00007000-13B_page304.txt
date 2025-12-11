@@ -1,0 +1,66 @@
+13B-304 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 12. Replace the injector.
+(1) Replace the injector.
+CONNECTORS : B-01, B-02, B-05, B-06,
+B-25, B-26 (2) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 6 − Other Monitor P.13B-6.
+(3) Check the diagnostic trouble code (DTC).
+B-01B-05 B-26
+Q:Is the DTC P0300 is output?
+YES : Replace the ECM or PCM. Then go to Step 13.
+NO : The inspection is complete.
+B-02 B-06 B-25
+AAKK000000221155AB
+STEP 13. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 6 − Other Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0300 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0301: Cylinder 1 Misfire Detected, DTC P0302: Cylinder 2 Misfire Detected, DTC P0303: Cylinder
+3 Misfire Detected, DTC P0304: Cylinder 4 Misfire Detected, DTC P0305: Cylinder 5 Misfire Detected,
+DTC P0306 Cylinder 6 Misfire Detected
+. • Intake air temperature is higher than −10°C
+Misfire Detected Circuit
+• Refer to DTC P0201, P0203, P0205 − Injector
+(14°F).
+• Barometric pressure is higher than 76 kPa (11
+Circuit P.13B-283.
+• Refer to DTC P0202, P0204, P0206 − Injector psi).
+• Volumetric efficiency is at between 30 and 60
+Circuit P.13B-292.
+percent.
+• Adaptive learning is complete for the vane which
+.
+CIRCUIT OPERATION
+generates a crankshaft position signal.
+• Refer to DTC P0201, P0203, P0205 − Injector
+• While the engine is running, excluding gear shift-
+Circuit P.13B-283.
+ing, deceleration, sudden acceleration/decelera-
+• Refer to DTC P0202, P0204, P0206 − Injector
+tion and A/C compressor switching.
+Circuit P.13B-292.
+• The throttle deviation is −0.059 v/10 ms to +0.059
+v/10 ms.
+.
+TECHNICAL DESCRIPTION
+• If a misfire occurs while the engine is running, the Judgement Criteria (change in the angular accel-
+eration of the crankshaft is used for misfire
+engine speed changes for an instant.
+• The ECM <M/T> or PCM <A/T> checks for such detection).
+• Misfire has occurred more frequently than
+changes in engine speed.
+allowed during the last 200 revolutions [when the
+. catalyst temperature is higher than 950°C
+DTC SET CONDITIONS
+(1,742°F)].
+Check Conditions or
+• Engine speed is between 440 and 6,000 r/min. • Misfire has occurred in 20 or more of the last
+• Engine coolant temperature is higher than −10°C 1,000 revolutions (corresponding to 1.5 times the
+(14°F).
+limit of emission standard).
+.
+TSB Revision

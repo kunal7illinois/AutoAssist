@@ -1,0 +1,25 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+4. Check for DTCs with the HDS.
+Is DTC P0967 indicated?
+YES -Go to step 8.
+NO -Go to step 5.
+5. Select Clutch Pressure Control Solenoid Valve B in the Miscellaneous Test
+Menu, and test A/T clutch pressure control solenoid valve B with the HDS.
+Does the HDS indicate NORMAL?
+YES -Go to step 6.
+NO -Go to step 8.
+6. In the Clutch Pressure Control Solenoid Valve Control menu, select A/T clutch
+pressure control solenoid valve B at 0.2 A.
+7. Monitor the OBD STATUS for P0967 in the DTCs MENU with the HDS.
+Does the HDS indicate FAILED?
+YES -Go to step 8.
+NO -If the HDS indicates PASSED, intermittent failure, the system is OK at
+this time. Check for poor connections or loose terminals between A/T clutch
+pressure control solenoid valve B and the PCM. If the HDS indicates NOT
+COMPLETED, go to step 5.
+8. Turn the ignition switch to LOCK (0).
+9. Disconnect the A/T clutch pressure control solenoid valve B connector.
+10. Measure the resistance between A/T clutch pressure control solenoid valve B
+connector terminals No. 1 and No. 2.

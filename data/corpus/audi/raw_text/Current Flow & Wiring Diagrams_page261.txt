@@ -1,0 +1,50 @@
+Audi TT No. 32 / 12
+Current Flow Diagram
+Navigation system with CD drive control unit, CD changer,
+satellite radio
+J401 Navigation system with CD drive control unit
+R41 CD changer
+R146 Satellite radio
+T8m 8-pin connector, black, pin connector A, on satellite radio
+T8n 8-pin connector, black, pin connector B, on satellite radio
+T12a 12-pin connector, black, on CD changer
+T12f 12-pin connector, blue, radio connector B
+50 Earth point, on left in luggage compartment
+V14 Connection (screening), in CD changer wiring harness
+V45 Connection 2 (screening), in CD changer wiring harness
+• CAN bus (data wire)
+* Coupé
+** Roadster
+J401 # vehicles without satellite radio bridged by mating plug
+T12f/2 T12f/8 T12f/9
+115500 2266 1199 118811
+• •
+0,35 0,35 0,35 0,35 0,35 0,35 0,5
+bl li ws sw or/br or/li ro/ws
+R146 30
+T8n/5 T8n/6 T8n/7 T8n/1 T8n/2 T8m/2
+0,35# 0,35# 0,35#
+ws/ge li/gr bl/gn
+112288 T8n/8 T8n/3 T8n/4 115500 C1 C2 T 31 8m/1
+0,35
+sw
+0,35 0,35 0,35 0,35 0,35 0,4 0,5 0,5
+gn gr ge sw sw V45 sw br
+V14
+0,35
+sw 0,5 ws = white
+br
+sw = black
+ro = red
+T12a/9 T12a/10 T12a/7 1111 119955 ✱
+220099 ✱✱ br = brown
+gn = green
+R41
+bl = blue
+gr = grey
+50 li = purple
+ge = yellow
+141 142 143 144 145 146 147 148 149 150 151 152 153 154 or = orange
+8J0-032120407
+rs = pink
+Edition 04.2009

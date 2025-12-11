@@ -1,0 +1,36 @@
+DL–206
+DOOR LOCK – KEY REMINDER WARNING SYSTEM
+Door Courtesy Switch Circuit
+DESCRIPTION
+The main body ECU detects the condition of the front door courtesy light switch assembly (driver's side).
+WIRING DIAGRAM
+N6 Main Body ECU
+Door Courtesy Light
+Switch Assembly
+(Driver’s Side)
+No. 3 J/B
+13 12 10 24
+1 L L L
+EN2 3O 3F E7 DCTY
+B128328E02
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the ignition switch to the ON position and turn the
+intelligent tester main switch on.
+(c) Select D DOR CTY SW in the DATA LIST and read the
+value displayed on the tester.
+DL
+BODY:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+Driver's side door courtesy switch ON: Driver's side door is open
+D DOR CTY SW -
+signal/ON or OFF OFF: Driver's side door is closed
+OK:
+ON (Driver's door is open) appears on the screen.
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+NG

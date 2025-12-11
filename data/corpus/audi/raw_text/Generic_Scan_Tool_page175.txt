@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+If the specified value was obtained:
+Checking activation
+– Remove the Engine Control Module (ECM) Power Supply Re‐
+lay -J271- .
+– Using a diode test lamp (12 V) connected to Battery + check
+the Engine Control Module (ECM) Power Supply Relay Box
+socket 6 (relay terminal 85) while cranking the engine.
+The test lamp should be ON.
+– Switch the ignition OFF.
+If the test lamp was ON:
+– Replace the Engine Control Module (ECM) Power Supply Re‐
+lay -J271- : .
+If the test lamp was not ON:
+– Using a multimeter, check the Engine Control Module (ECM)
+Power Supply Relay socket 4 (relay terminal 85), to the Engine
+Control Module (ECM) -J623- electrical harness connector
+T94 terminal 69 for resistance.
+Specified value: 1.5 Ω Max.
+If the specified value was Not obtained:
+– Check the wiring connection for an open circuit, high resist‐
+ance or short circuit to Battery (+).
+– Check the wiring connection for damage, corrosion, loose or
+broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is found in the wiring and ground was not present
+from the ECM during crank:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.29 Engine Component Power Supply Re‐
+lay, Checking
+Special tools and workshop equipment required
+♦ Multimeter .
+♦ wiring diagrams.
+Test requirements
+• Fuse -SB 1- OK.
+• The Engine Control Module (ECM) Power Supply Relay -
+J271- OK.
+171
+3. Diagnosis and Testing

@@ -1,0 +1,32 @@
+54B-30 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTOR: C-78 CONNECTOR: C-86
+AC106473AN AC106475AC
+CONNECTOR: C-89 CONNECTOR: C-118
+CONNECTOR BLOCK (LH)
+JUNCTION BLOCK
+(REAR VIEW)
+AC106477AD AC106481AE
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+• The power supply to the column switch is pro- The power supply circuit to the column switch (col-
+umn-ECU) may be defective. If the battery power
+vided by the battery and the ignition switch (IG1).
+• If the power supply system from the battery is supply circuit (terminal 1 of the column switch) to the
+ECU is damaged, also check the power supply circuit
+defective, the system operates by the power sup-
+from the ignition switch (IG1) (terminal 9 of the col-
+ply from the ignition switch (IG1).
+umn switch), and repair if necessary.
+.
+.
+TROUBLESHOOTING HINTS
+• Malfunction of the ETACS-ECU
+• Malfunction of the column switch
+• Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+TSB Revision

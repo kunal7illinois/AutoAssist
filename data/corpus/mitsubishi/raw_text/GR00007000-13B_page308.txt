@@ -1,0 +1,24 @@
+13B-308 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Replace the injector.
+(1) Replace the injector.
+CONNECTORS : B-01, B-02, B-05, B-06,
+B-25, B-26 (2) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 6 − Other Monitor P.13B-6.
+(3) Check the diagnostic trouble code (DTC).
+B-01B-05 B-26
+Q:Is the DTC P0301, P0302, P0303, P0304, P0305, P0306 is
+output?
+YES : Replace the ECM or PCM. Then go to Step 9.
+NO : The inspection is complete.
+B-02 B-06 B-25
+AAKK000000221155AB
+STEP 9. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 6 − Other Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0301, P0302, P0303, P0304, P0305, P0306 is
+output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+TSB Revision

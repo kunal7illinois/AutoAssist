@@ -1,0 +1,71 @@
+AC–10
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+SYSTEM DESCRIPTION
+1. GENERAL
+The air conditioning system has the following controls:
+Control Outline Manual A/C Automatic A/C
+This control is capable of effecting complex control by artificially
+simulating the information processing method of the nervous system
+Neural Network Control - (cid:123)
+of living organisms in order to establish a complex input / output
+relationship that is similar to a human brain.
+The A/C amplifier controls the damper positions (air inlet control
+damper, air mix control damper and mode control damper) and blower
+Manual Control speed in accordance with the positions of the switches (temperature (cid:123) -
+control switch, blower switch, mode select switch and air inlet control
+switch).
+Based on the temperature set at the temperature control switch, the
+neural network control calculates the outlet air temperature based on - (cid:123)
+the input signals from various sensors.
+The temperature setting for the driver and front passenger are
+Outlet Air Temp. Control
+controlled independently in order to provide a separate vehicle interior
+temperatures for the right and left side of the cabin. Thus, air - (cid:123)
+conditioning that accommodates the occupants' preferences has been
+realized.
+Controls the blower motor in accordance with the airflow volume that
+Blower Control has been calculated by the neural network control based on the input - (cid:123)
+signals from various sensors.
+Automatically switches the air outlets in accordance with the outlet
+mode that has been calculated by the neural network control based on - (cid:123)
+the input signals from various sensors.
+In accordance with the engine coolant temperature, outside air
+Air Outlet Control
+temperature, amount of sunlight, required blower, outlet temperature,
+AC and vehicle speed conditions, this control automatically switches the - (cid:123)
+blower outlet to the FOOT / DEF mode to prevent the windows from
+becoming fogged when the outside air temperature is low.
+Automatically controls the air inlet control damper to achieve the
+- (cid:123)
+calculated required outlet air temperature.
+Air Inlet Control Drives the servo motor (for air inlet) according to the operation of the
+air inlet control switch and moves the dampers to the FRESH or - (cid:123)
+RECIRC position.
+Through the calculation of the target evaporator temperature based on
+various sensor signals, the A/C amplifier optimally controls the
+(cid:123) (cid:123)
+discharge capacity by regulating the opening extent of the A/C
+compressor solenoid valve.
+Compressor Control The A/C amplifier compares the A/C pulley speed signals, which are
+transmitted by the lock sensor located on the A/C compressor, with
+the engine speed signals, which are transmitted by the ECM (cid:123) (cid:123)
+(crankshaft position sensor). When the A/C amplifier determines that
+the A/C pulley is locked, it turns off the magnetic clutch. (for 2GR-FE)
+When the temperature control switch is in the MAX A/C position, the
+A/C amplifier turns the compressor on and activates the servomotor
+MAX A/C Control (cid:123) -
+(air inlet) to set the air inlet control damper to the RECIRC position,
+improving the cooling efficiency.
+Switches the rear defogger and outside rear view mirror heaters on for
+Rear Window Defogger
+15 minutes when the rear defogger button is pressed. Switches them (cid:123) (cid:123)
+Control
+off if the button is pressed while they are operating.
+Calculates the outside temperature using signals transmitted by the
+Outside Temperature
+outside temperature sensor. Calculated values are corrected by the A/ (cid:123) (cid:123)
+Indication Control
+C amplifier and then indicated on the multi-information display.
+A DTC (Diagnostic Trouble Code) is stored in the memory when the A/
+Self-Diagnosis (cid:123) (cid:123)
+C amplifier detects a problem with the air conditioning system.

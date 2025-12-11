@@ -1,0 +1,50 @@
+RS–129
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+6 CHECK FLOOR WIRE NO. 2 (OPEN)
+(a) Using a service wire, connect terminals 12 (FSP+) and
+13 (FSP-) of connector B.
+Floor Wire No. 2 NOTICE:
+Do not forcibly insert a service wire into the
+terminals of the connector when connecting.
+(b) Measure the resistance according to the value(s) in the
+D A
+table below.
+C B
+Center Airbag
+Standard resistance
+Occupant Sensor Assembly
+Classification Terminal Connection Condition Specified Condition
+ECU O4-8 (FSR+) - O4-4
+Always Below 1 Ω
+(FSR-)
+Connector B
+Connector C O1 NG REPAIR OR REPLACE FLOOR WIRE NO. 2
+O4
+FSR- 5 4 3 2 1
+109 8 7 6
+1514131211
+FSR+ FSP- FSP+
+Service Wire
+C C123687E02
+OK
+7 CHECK FLOOR WIRE NO. 2 (SHORT) RS
+(a) Disconnect the service wire from connector B.
+(b) Measure the resistance according to the value(s) in the
+Floor Wire No. 2
+table below.
+Standard resistance
+Terminal Connection Condition Specified Condition
+D A O4-8 (FSR+) - O4-4
+Always 1 MΩ or higher
+C B (FSR-)
+Center Airbag
+Occupant
+Sensor Assembly
+Classification NG REPAIR OR REPLACE FLOOR WIRE NO. 2
+ECU
+Connector C
+O4
+FSR-
+FSR+
+C C123686E03
+OK

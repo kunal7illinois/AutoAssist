@@ -1,0 +1,38 @@
+BC–302
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+(a) If the skid control ECU detects a malfunction, the
+ABS, VSC (without multi-information display), and
+ABS Warning Light: BRAKE Warning BRAKE warning lights, and master caution and
+Light: SLIP indicator lights will come on and the multi-
+information display shows a warning message in
+USA: USA:
+order to warn the driver.
+The table below indicates which lights will come on
+when there is a malfunction in a particular function.
+CANADA: CANADA:
+Master Caution SLIP Indicator
+Indicator Light: Light:
+BC
+VSC Warning Light (without
+multi-information display)
+C137469E01
+Item/Trouble Area ABS EBD BA TRAC VSC
+ABS Warning Light (cid:123) (cid:123) (cid:123) - -
+BRAKE Warning Light - (cid:123) - - -
+VSC Warning Light
+(without multi-information (cid:123) (cid:123) (cid:123) (cid:123) (cid:123)
+display)
+SLIP Indicator Light (cid:123) (cid:123) (cid:123) (cid:123) (cid:123)
+(cid:123): Light ON
+-: Light OFF
+• The DTCs are simultaneously stored in the
+memory. The DTCs can be read by connecting
+the SST between terminals TC and CG of the
+DLC3 and observing the blinking pattern of the
+ABS warning light by connecting the intelligent
+tester (See page BC-302).
+• This system has a signal check function (TEST
+MODE) (See page BC-290).
+The DTC can be read by connecting the
+intelligent tester and observing the blinking
+pattern of the ABS warning.

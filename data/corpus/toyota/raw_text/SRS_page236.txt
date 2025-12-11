@@ -1,0 +1,39 @@
+RS–236
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+INSPECTION PROCEDURE
+1 CHECK CAN COMMUNICATION SYSTEM
+(a) Check if a CAN communication system DTC is output
+(See page CA-25).
+Result
+Condition Proceed to
+DTC is not output A
+DTC is output B
+B REPAIR CIRCUITS INDICATED BY OUTPUT
+DTCS
+A
+2 CHECK WIRE HARNESS (DLC3 - ECM)
+(a) Turn the ignition switch off.
+(b) Disconnect the connector from ECM.
+DLC3: (c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+E10 for 2GR-FE
+Tester Connection Condition Specified Condition
+(cid:19) (cid:20) (cid:21) (cid:22) (cid:23) (cid:24) (cid:25) (cid:26) E10-13 (TC) - A55-27
+Always Below 1 Ω
+RS (TC)
+(cid:27) (cid:19)(cid:18)(cid:19)(cid:19)(cid:19)(cid:20)(cid:19)(cid:21)(cid:19)(cid:22)(cid:19)(cid:23)(cid:19)(cid:24)
+for 2AZ-FE
+TC
+Tester Connection Condition Specified Condition
+ECM: E10-13 (TC) - A24-27
+Always Below 1 Ω
+(TC)
+NG REPAIR OR REPLACE WIRE HARNESS (TC
+OF DLC3 - TC OF ECM)
+A55 (*1)
+A24 (*2)
+*1: 2GR-FE
+*2: 2AZ-FE
+TC
+E126838E05

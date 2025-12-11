@@ -1,0 +1,67 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-63
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CIRCUIT OPERATION DTC SET CONDITIONS
+• Approximately 5 volts are applied to the intake air
+Check Conditions
+temperature sensor output terminal (terminal 6)
+• Engine coolant temperature is higher than 76°C
+from the ECM (terminal 62) <M/T> or PCM (ter-
+(169°F).
+minal 64) <A/T> via the resistor in the ECM <M/
+• Repeat 5 or more times: drive*1, stop*2.
+T> or PCM <A/T>. The ground terminal (terminal
+5) is grounded with ECM (terminal 34) <M/T> or Drive*1: vehicle speed higher than 50 km/h (31
+PCM (terminal 16) <A/T>. mph) lasting a total of more than 60 seconds.
+• The intake air temperature sensor is a negative Stop*2: vehicle speed lower than 1.5 km/h (0.9
+temperature coefficient type of resistor. When the mph) lasting more than 30 seconds.
+intake air temperature rises, the resistance
+Judgement Criteria
+decreases.
+• The intake air temperature sensor output voltage • Changes in the intake air temperature is lower
+than 1°C (1.8°F).
+increases when the resistance increases and
+decreases when the resistance decreases.
+.
+TROUBLESHOOTING HINTS (The most likely
+. causes for this code to be set are:)
+TECHNICAL DESCRIPTION
+• The intake air temperature sensor converts the • Intake air temperature sensor failed.
+• Open or shorted intake air temperature sensor
+intake air temperature to a voltage.
+• The ECM <M/T> or PCM <A/T> checks whether circuit, or loose connector.
+• ECM failed. <M/T>
+this voltage is within a specified range.
+• PCM failed. <A/T>
+.
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 13:
+Intake Air Temperature Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+CONNECTOR : B-14
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+INTAKE AIR
+(2) Remove the air intake hose from the volume air flow sensor.
+TEMPERATURE
+SENSOR (3) Turn the ignition switch to the "ON" position.
+(4) Set scan tool MB991502 to the data reading mode for item
+13, Intake Air Temperature Sensor.
+ACX02480AG
+(5) Heating the sensor using a hair drier.
+INTAKE AIR • The indicated temperature increases.
+TEMPERATURE
+NOTE: Do not allow it to increase over 80°C (176°F).
+SENSOR
+(6) Turn the ignition switch to the "LOCK" (OFF) position.
+(7) Attach the air intake hose.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+AKX01621AB
+NO : Go to Step 2.
+TSB Revision

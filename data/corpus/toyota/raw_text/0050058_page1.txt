@@ -1,0 +1,62 @@
+ES–325
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Evaporative Emission System Switching Valve
+DTC P2419
+Control Circuit Low
+Evaporative Emission System Switching Valve
+DTC P2420
+Control Circuit High
+DTC SUMMARY
+Detection Detection
+DTCs Monitoring Items Malfunction Detection Conditions Trouble Areas
+Timings Logic
+P043E, P043F, P2401, P2402 and
+P2419 present when one of following ES
+conditions met during key-off EVAP • Canister pump module
+monitor: (Reference orifice, leak
+• EVAP pressure just after reference detection pump, vent
+pressure measurement greater than valve)
+-1 kPa-g (-7.5 mmHg-g) • Connector/wire harness
+• Reference pressure less than -4.85 (Canister pump module -
+While ignition
+P2419 Vent valve stuck closed kPa-g (-36.4 mmHg-g) ECM) 2 trip
+switch OFF
+• Reference pressure greater than - • EVAP system hose (pipe
+1.057 kPa-g (-7.93 mmHg-g) from air inlet port to
+• Reference pressure not saturated canister pump module,
+• Reference pressure difference canister filter, fuel tank
+between first and second 0.7 kPa-g vent hose)
+(5.25 mmHg-g) or more • ECM
+HINT:
+Typical example values
+• Canister pump module
+(Reference orifice, leak
+Following condition met during key-off
+detection pump, vent
+EVAP monitor:
+Vent valve stuck open valve) While ignition
+P2420 • EVAP pressure change when vent 2 trip
+(vent) • Connector/wire harness switch OFF
+valve closed (ON) less than 0.3 kPa-
+(Canister pump module -
+g (2.25 mmHg-g)
+ECM)
+• ECM
+HINT:
+The vent valve is built into the canister pump module.
+DESCRIPTION
+The description can be found in the EVAP (Evaporative Emission) System (see page ES-335).
+INSPECTION PROCEDURE
+Refer to the EVAP System (see page ES-340).
+MONITOR DESCRIPTION
+5 hours* after the ignition switch is turned OFF, the leak detection pump creates negative pressure
+(vacuum) in the EVAP system. The ECM monitors for leaks and actuator malfunctions based on the EVAP
+pressure.
+HINT:
+*: If the engine coolant temperature is not below 35°C (95°F) 5 hours after the ignition switch is turned
+OFF, the monitor check starts 2 hours later. If it is still not below 35°C (95°F) 7 hours after the ignition
+switch is turned OFF, the monitor check starts 2.5 hours later.
+Sequ
+Operations Descriptions Duration
+ence
+- ECM activation Activated by soak timer 5, 7 or 9.5 hours after ignition switch turned OFF. -

@@ -1,0 +1,65 @@
+ES–354
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Ideal Air-Fuel Mixture
+Output Voltage
+Heater
+Solid electrolyte
+(Zirconia Element)
+Element
+Cover Platinum electrode
+ES
+Air
+Rich - Air Fuel Ratio - Lean
+A A
+Exhaust Gas A-A Section
+A107164E14
+DTC No. DTC Detection Condition Trouble Area
+• Open or short in A/F sensor (bank 1, 2 sensor 1)
+circuit
+Conditions (a) and (b) continue for 2 seconds or more
+• A/F sensor (bank 1, 2 sensor 1)
+(2 trip detection logic):
+• A/F sensor (bank 1, 2 sensor 1) heater
+P2195 (a) Air-Fuel Ratio (A/F) sensor voltage is more than 3.8
+• A/F sensor heater relay
+P2197 V
+• A/F sensor heater and relay circuits
+(b) Heated Oxygen (HO2) sensor voltage is 0.15 V or
+• Air induction system
+more
+• Injector
+• ECM
+While fuel-cut operation is performed (during vehicle
+P2195 • A/F sensor
+deceleration), air-fuel ratio (A/F) sensor current is 3.6
+P2197 • ECM
+mA or more for 3 seconds (2 trip detection logic)
+• Open or short in A/F sensor (bank 1, 2 sensor 1)
+circuit
+• A/F sensor (bank 1, 2 sensor 1)
+Conditions (a) and (b) continue for 2 seconds or more
+• A/F sensor (bank 1, 2 sensor 1) heater
+P2196 (2 trip detection logic):
+• A/F sensor heater relay
+P2198 (a) A/F sensor voltage is less than 2.8 V
+• A/F sensor heater and relay circuits
+(b) HO2 sensor voltage is less than 0.85 V
+• Air induction system
+• Injector
+• ECM
+While fuel-cut operation is performed (during vehicle
+P2196 • A/F sensor
+deceleration), air-fuel ratio (A/F) sensor current is 1.4
+P2198 • ECM
+mA for 3 seconds (2 trip detection logic)
+HINT:
+• DTCs P2195 and P2196 indicate malfunctions related to the bank 1 A/F sensor circuit.
+• DTCs P2197 and P2198 indicate malfunctions related to the bank 2 A/F sensor circuit.
+• Bank 1 refers to the bank that includes cylinder No. 1.
+• Bank 2 refers to the bank that includes cylinder No. 2.
+• When any of these DTCs are set, check the A/F sensor output voltage by entering the following menus
+on the intelligent tester: DIAGNOSIS / ENHANCED OBD II / DATA LIST / PRIMARY / AFS B1S1.
+• Short-term fuel trim values can also be read using an intelligent tester.
+• The ECM regulates the voltages at the A1A+, A2A+, A1A- and A2A- terminals of the ECM to a
+constant level. Therefore, the A/F sensor output voltage cannot be confirmed without using the
+intelligent tester.

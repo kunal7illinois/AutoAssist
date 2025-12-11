@@ -1,0 +1,55 @@
+54B-74 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINTS
+If the function does not work normally, the input cir- • Malfunction of front door switches
+cuit system from the switches or the ETACS-ECU • Malfunction of column switch (turn-signal light
+may be defective (refer to "CIRCUIT OPERATION"). and lighting switch)
+• Malfunction of the ETACS-ECU
+. • Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Use scan tool to select "ECU COMM CHECK" on
+the SWS monitor display.
+Check the following ECUs:
+• ETACS-ECU
+• Column
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502. Also con-
+nect SWS monitor kit MB991862 after turning on scan tool
+MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+COLUMN SWITCH (2) Connect SWS monitor kit MB991862 to the column switch
+CONNECTOR
+connector.
+MB991502 (3) Turn the ignition switch to the "LOCK" (OFF) position.
+(4) Operate the MUT-II according to the procedure below to
+display "ECU COMM CHECK."
+1. Select "SYSTEM SELECT."
+DATA LINK 2. Select "SWS."
+CONNECTOR
+3. Select "SWS MONITOR."
+AC101571AB 4. Select "ECU COMM CHECK."
+(5) Scan tool MB991502 should show "OK" on the "ECU
+COLUMN SWITCH COMM CHECK" menu.
+CONNECTOR
+Q:Are "OK" displayed on the "ETACS ECU" and "COLUMN
+ECU" menus?
+SWS MONITOR "OK" are displayed for all the items : Go to Step 2.
+HARNESS (FOR
+"NG" is displayed on the "ETACS ECU" menu : Refer to
+COLUMN-ECU)
+Inspection Procedure A-3 "Communication with
+COLUMN SWITCH ETACS-ECU is impossible P.54B-39."
+CONNECTOR AT
+"NG" is displayed on the "COLUMN ECU" menu : Refer
+HARNESS SIDE
+to Inspection Procedure A-2 "Communication with
+AC101421AB
+column switch (column-ECU) is impossible P.54B-
+54."
+TSB Revision

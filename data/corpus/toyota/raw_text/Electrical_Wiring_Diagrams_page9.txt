@@ -1,0 +1,85 @@
+B HOW TO USE THIS MANUAL
+The ground points circuit diagram shows the connections from all major parts to the respective ground points. When
+troubleshooting a faulty ground point, checking the system circuits which use a common ground may help you identify
+the problem ground quickly. The relationship between ground points ( A1 , A2 and D4 shown below) can also be
+checked this way.
+I GROUND POINT
+8
+CAMRY (EM0250U)
+B
+–
+W
+B
+–
+W
+B – W
+B – W
+B
+–
+W
+B
+– W
+52A
+B
+– W
+B
+–
+W
+)dedleihS(
+noitcnuJ
+rotcennoC
+)dedleihS(
+63B
+RB
+noitcnuJ rotcennoC
+B
+–
+W
+D43
+Junction
+H D 2 L 3 C3 (SG) BR H 1 B 2 4 BR D 9 B1 BR 10 Connecto 6 r (Shielded)
+D63
+5 BR Throttle (L) Position SW
+D60
+H A e 2 a 0 dlamp Leveling W – B 8 4 3 BR (E1) I P n u je m c p tio A n ssembly
+Motor (LH) (LH E)
+P L5 ower Window W – B 3 W – B 7 2 11 BR (E1)
+Master SW (E) LA1 1 D2
+BR Engine ECU
+(E01)
+A22
+Cooling Fan W – B 4
+Motor No.3 (E) BR
+(E02)
+3
+D4 (5L–E)
+A8
+Headlamp Leveling W – B
+Motor (RH) (RH E)
+A5 C2
+Pressure SW W – B W – B Fog Lamp (–S) (E) (Front LH)
+T A u 2 r 3 n Signal Lamp W – B W – B 5 W – B W – B F C o 4 g Lamp
+(Front LH) (E) CA1 (E) (Front RH)
+A11 A10
+Windshield W – B W – B Brake Fluid Level Wiper Motor (E) (E) Warning SW
+H I9 eadlamp W – B 12 W – B 7 W – B W – B T A u 1 rn Signal Lamp
+Leveling SW (E) IH2 HA1 (E) (Front RH)
+A6
+C (F le ro a n ra t R nc H e ) Lamp (E) W – B W – B 3 W – B P K o 5 wer Window
+KA1 (E) Master SW
+A21 Clearance Lamp W – B W – B (Front LH) (E)
+20W – B (Shielded)
+A1
+19W – B (Shielded)
+W – B
+A24 (GND2) 18W – B (Shielded)
+Option Connector
+(Vacuum) W – B (GND1) 17W – B (Shielded)
+W – B 21 W – B 16
+(GND) AB1
+B19
+S w k it i h d A C c o tu n a tr t o o l r ECU W – B 12 W – B W – B 6
+(GND) AB1 AB1
+W – B
+A2
+* The system shown here is an EXAMPLE ONLY. It is different to the actual circuit shown in the SYSTEM CIRCUITS SECTION.

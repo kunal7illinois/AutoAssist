@@ -1,0 +1,57 @@
+17-72 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+CONNECTORS: C-108, C-111
+JUNCTION BLOCK
+(FRONT VIEW)
+C-108
+C-111
+AC103108AB
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+The cause is probably the malfunction of the indica-
+The power for the auto-cruise indicator in the combi-
+tor bulb or the malfunction of the connector or har-
+nation meter is supplied from the ignition switch
+ness.
+(IG1).
+When the auto-cruise control system is operating,
+.
+the transistor inside the auto-cruise control-ECU illu- TROUBLESHOOTING HINTS
+minates the auto-cruise indicator through ECU termi- • Malfunction of the indicator bulb.
+nal number 15. • Damaged harness or connector.
+• Malfunction of the auto-cruise control-ECU.
+.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+STEP 1. Check the auto-cruise control indicator bulb.
+(1) Remove the combination meter.
+Refer to GROUP 54A, Combination Meter Assembly and
+Vehicle Speed Sensor P.54A-105.
+(2) Check the auto-cruise control indicator bulb.
+Q:Is the bulb blown?
+YES : Replace the bulb.
+Then check that the malfunction is eliminated.
+NO : Go to Step 2.
+STEP 2. Check the output circuit voltage at auto-cruise
+control-ECU connector C-20 (terminal number 15) by
+backprobing.
+(1) Do not disconnect auto-cruise control switch connector C-
+20.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 15 and ground by
+backprobing.
+C-20 CONNECTOR
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+HARNESS SIDE VIEW
+Q:Is the voltage approximately battery positive voltage?
+1 2 3 4 5 6 7 8
+YES : Check that the malfunction is eliminated.
+9 10111213141516
+If the malfunction is not eliminated, replace the auto-
+cruise control-ECU. (Refer to P.17-86.)
+Then check that the malfunction is eliminated.
+NO : Go to Step 3.
+AC103110AB
+TSB Revision

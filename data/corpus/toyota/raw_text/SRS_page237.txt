@@ -1,0 +1,40 @@
+RS–237
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+OK
+3 CHECK WIRE HARNESS (CG OF DLC3 - BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+DLC3: table below.
+E10 Standard resistance
+CG
+Tester Connection Condition Specified Condition
+E10-4 (CG) - Body
+1 2 3 4 5 6 7 8 ground Always Below 1 Ω
+9 10 11 1213 1415 16
+NG REPAIR OR REPLACE WIRE HARNESS (CG
+OF DLC3 - BODY GROUND)
+C126742E26
+OK
+4 CHECK WIRE HARNESS (TC OF ECM - BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+ECM: table below.
+Standard resistance:
+for 2GR-FE
+Tester Connection Condition Specified Condition
+A55-27 (TC) - Body
+Always 1 MΩ or higher
+ground
+RS
+for 2AZ-FE
+Tester Connection Condition Specified Condition
+A24-27 (TC) - Body
+Always 1 MΩ or higher
+ground
+NG REPAIR OR REPLACE WIRE HARNESS OR
+EACH ECU
+A55 (*1)
+*1: 2GR-FE A24 (*2)
+*2: 2AZ-FE
+TC
+E126835E04
+OK
+REPLACE CENTER AIRBAG SENSOR ASSEMBLY (See page RS-441)

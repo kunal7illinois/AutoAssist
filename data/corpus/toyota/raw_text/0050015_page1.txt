@@ -1,0 +1,49 @@
+ES–79
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Crankshaft Position - Camshaft Position Corre-
+DTC P0016
+lation (Bank 1 Sensor A)
+DESCRIPTION
+In the VVT (Variable Valve Timing) system, the appropriate intake valve open and close timing is
+controlled by the ECM. The ECM performs intake valve control by performing the following: 1) controlling
+the camshaft and camshaft timing oil control valve, and operating the camshaft timing gear; and 2)
+changing the relative positions of the gaps between the camshaft and crankshaft.
+DTC No. DTC Detection Conditions Trouble Areas
+• Mechanical system (Timing chain has jumped tooth or
+Deviation in crankshaft and camshaft position sensor signals
+P0016 chain stretched)
+(2 trip detection logic)
+• ECM ES
+MONITOR DESCRIPTION
+The ECM optimizes the valve timing by using the VVT (Variable Valve Timing) system to control the intake
+camshaft. The VVT system includes the ECM, the Oil Control Valve (OCV) and the VVT controller.
+The ECM sends a target duty-cycle control signal to the OCV. This control signal regulates the oil
+pressure supplied to the VVT controller. The VVT controller can advance or retard the intake camshaft.
+The ECM calibrates the intake valve timing by setting the intake camshaft to the most retarded angle while
+the engine is idling. The ECM closes the OCV to retard the cam. The ECM stores this value as the VVT
+learning value. When the difference between the target and actual intake valve timings is 5°CA
+(Crankshaft Angle) or less, the ECM stores it.
+If the VVT learning value matches the following conditions, the ECM determines the existence of a
+malfunction in the VVT system, and sets the DTC.
+• VVT learning value: Less than 25°CA, or more than 51°CA.
+• Above condition continues for 18 seconds or more.
+This DTC indicates that the angle between the intake camshaft and the crankshaft is incorrect due to
+factors such as the timing chain having jumped a tooth.
+This monitor begins to run after the engine has idled for 5 minutes.
+MONITOR STRATEGY
+Related DTCs P0016: Camshaft timing misalignment at idling
+Required Sensors/Components VVT actuator
+Required Sensors/Components Camshaft position sensor, Crankshaft position sensor
+Frequency of Operation Once per driving cycle
+Duration Within 1 minute
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+P0011 (VVT system 1 - advance)
+Monitor runs whenever following DTCs not present P0012 (VVT system 1 - retarded)
+P0115 - P0118 (ECT sensor)
+Engine RPM 550 to 1,000 rpm
+TYPICAL MALFUNCTION THRESHOLDS
+One of following conditions met -
+VVT learning value when camshaft maximum retarded Less than 27.8°CA
+VVT learning value when camshaft maximum retarded More than 48°CA

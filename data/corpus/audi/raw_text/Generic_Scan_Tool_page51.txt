@@ -1,0 +1,86 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0171 System Too – Check the fuel • Adaptive value • Engine speed, • 50 • continu‐
+Lean (Bank pressure . Re‐ > 20.0 only 1200...4000 RPM Sec ous
+1) multipli‐ fer to
+cative ⇒ “3.5.2 Fuel • Engine load, • 2 DCY
+Pump Pres‐ 20...95%
+sure, Check‐
+• mass air flow,
+ing”,
+6...25kg/h
+page 113 .
+• ECT, >60.0° C
+– Check the
+Fuel Pressure • lambda control,
+Sensor - closed loop
+G247- . Refer
+• evap purge valve,
+to
+closed
+⇒ “3.5.5 Fuel
+Pressure Sen‐ • delta fuel adapta‐
+sor, Check‐ tion < 10.02
+ing”,
+page 119 .
+– Check the
+Fuel injectors
+-N30, N31,
+N32, N33,
+N83- . Refer to
+⇒ “3.5.27
+Fuel Injectors,
+Checking”,
+page 167 .
+– Check the
+Heated Oxy‐
+gen Sensor
+(HO2S) -
+G39- . Refer
+to
+⇒
+“3.5.20 Heat‐
+ed Oxygen
+Sensor,
+Checking”,
+page 152 .
+– Check the
+Oxygen Sen‐
+sor (O2S) Be‐
+hind Three
+Way Catalytic
+Converter
+(TWC) -
+G130- . Refer
+to
+⇒ “3.5.22 Oxy‐
+gen Sensor
+after Catalytic
+Converter,
+Checking”,
+page 156 .
+– Check the
+Evaporative
+Emission
+(EVAP) Can‐
+ister Purge
+Regulator
+Valve -N80- .
+Refer to
+⇒ “3.5.8 EVAP
+47
+Canister 3. Diagnosis and Testing
+Purge Regu‐
+lator Valve 1,
+Checking”,
+page 124 .
+– Check the in‐
+take system
+for leaks
+(false air) .
+– Check the
+vacuum lines
+for leaks

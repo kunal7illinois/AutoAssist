@@ -1,0 +1,49 @@
+NS–64
+NAVIGATION – NAVIGATION SYSTEM
+DTC 01-D6 No Master
+DTC 01-D7 Connection Check Error
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+When either of the following conditions is met:
+• The component which has stored the code has
+• Radio and navigation assembly power source
+01-D6 (had) been disconnected when the ignition switch is
+circuit
+*1 turned on (ACC or IG).
+• Power source circuit of the component which has
+• The master device has (had) been disconnected
+stored this code
+when this code is stored.
+• AVC-LAN circuit between the radio and navigation
+When either of the following conditions is met:
+assembly and the component which has stored this
+• The component which has stored the code has
+code
+01-D7 (had) been disconnected after the engine starts
+• Component which has stored this code
+*2 (started).
+• Radio and navigation assembly
+• The master device has (had) been disconnected
+when this code is (was) stored.
+HINT:
+• *1: Even if no fault is present, this trouble code may be stored depending on the battery condition or
+engine start voltage.
+• *2: When 210 seconds have elapsed after disconnecting the power supply connector of the master
+component with the ignition switch on (ACC or IG), this code is stored.
+NOTICE:
+• Before starting troubleshooting, be sure to clear DTCs to erase codes stored due to the
+reasons described in the HINT above. Then, check for DTCs and troubleshoot according to the
+output DTCs.
+• The radio and navigation assembly is the master unit.
+• Be sure to clear and recheck DTCs after the inspection is completed to confirm that no DTCs
+are output.
+INSPECTION PROCEDURE
+NOTICE:
+Be sure to read DESCRIPTION before performing the following procedures.
+1 CHECK RADIO AND NAVIGATION ASSEMBLY POWER SOURCE CIRCUIT
+Refer to the radio and navigation assembly power source
+circuit (See page NS-191).
+If the power source circuit is operating normally, proceed to
+the next step.
+NEXT
+NS

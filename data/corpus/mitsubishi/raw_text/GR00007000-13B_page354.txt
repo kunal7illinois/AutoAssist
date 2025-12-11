@@ -1,0 +1,44 @@
+13B-354 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+SYSTEM DIAGRAM <VEHICE WITH VARIABLE INDUCTION SYSTEM>
+INTAKE MANIFOLD
+CHECK VALVE A
+L
+N
+B
+O
+C E
+EVAPORATIVE EMISSION I
+PURGE SOLENOID J CHECK M
+G F VALVE B
+H
+R K P
+FUEL TANK
+Q EVAPORATIVE EVAPORATIVE
+EMISSION EMISSION CANISTER
+VENTILATION
+SOLENOID AC106496AB
+EVAPORATIVE EMISSION CANISTER EVAPORATIVE EMISSION PURGE
+SOLENOID <VEHICLE WITHOUT
+VARIABLE INDUCTION SYSTEM>
+FUEL TANK
+AC000183AB AC002073AC
+EVAPORATIVE EMISSION PURGE SOLENOID EVAPORATIVE EMISSION
+VENTILATION SOLENOID
+<VEHICLE WITH VARIABLE INDUCTION
+SYSTEM>
+AIR INTAKE HOSE
+AC106497AB AC002035AB
+. • Then the evaporative emission purge solenoid is
+TECHNICAL DESCRIPTION
+• To judge if there is leak in the fuel system, ECM driven to set the fuel system into a negative pres-
+sure.
+<M/T> or PCM <A/T> measure the change of the
+• When the fuel system develops a vacuum of 2
+pressure inside the fuel tank.
+• The ECM <M/T> or PCM <A/T> turns on the kPa (0.29 psi), the evaporative emission purge
+solenoid is turned "OFF" and the fuel system vac-
+evaporative emission ventilation solenoid to shot
+uum is maintained at 2 kPa (0.29 psi).
+off the evaporative emission canister outlet port.
+TSB Revision

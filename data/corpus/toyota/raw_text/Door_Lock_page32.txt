@@ -1,0 +1,33 @@
+DL–32
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+w/o SMART KEY SYSTEM:
+Main Body ECU
+J5
+Instrument Panel J/B
+Rear Door Lock Assembly RH
+5
+9 E LSSR 6 20 LSWL
+IL
+B109775E09
+INSPECTION PROCEDURE
+HINT:
+Start the inspection from step 1 when w/ smart key system or w/o smart key system and w/ theft deterrent
+system, and start from step 2 when w/o smart key system and w/o theft deterrent system.
+1 READ VALUE OF DATA LIST (UNLOCK DETECTION SWITCH)
+(a) Check the DATA LIST to ensure proper function of the
+door unlock detection switch.
+MAIN BODY:
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Rear right door lock is in
+Rear right door lock position UNLOCK position
+RR LOCK POS SW -
+switch signal / ON or OFF OFF: Rear right door lock is in
+LOCK position
+OK:
+DL The display is as specified in the normal condition
+column.
+NG Go to step 2
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

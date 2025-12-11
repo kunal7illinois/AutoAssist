@@ -1,0 +1,99 @@
+Audi TT No. 9 / 3
+Current Flow Diagram
+ABS control unit, brake light switch, brake pressure sender
+1, TCS and ESP button
+E256 TCS and ESP button
+E461 Operating unit in front of centre console
+F Brake light switch
+F47 Brake pedal switch
+G201 Brake pressure sender 1
+J104 ABS control unit
+J519 Onboard supply control unit
+J623 Engine control unit
+T4t 4-pin connector, black, on brake light switch
+T16a 16-pin connector, black, connector E, on onboard power supply
+control unit
+T16b 16-pin connector, brown, on switch module centre console
+T47 47-pin connector, on ABS control unit
+T52c 52-pin connector, brown, on onboard supply control unit
+366 Earth connection 1, in main wiring harness
+G201 371 Earth connection 6, in main wiring harness
+J104
+372 Earth connection 7, in main wiring harness
+672 Earth point 2, on front of left longitudinal member
+T47/8 T47/4 T47/3
+15 ✱
+J623 J519 B335 Connection 1 (54), in main wiring harness
+T16a/2
+# * ⇒ Engine Current Flow Diagram
+T52c
+/17## ** up to May 2007
+0,5 0,35 0,35 0,35 ✱ 0,35 *** from June 2007
+ge/sw sw/ge sw/ge sw/ge J623 li/ge # up to May 2009
+2200 ## from June 2009
+11
+B335
+✱✱✱
+0,35 0,35 0,5
+sw/ge ws/gn br
+T16b/10
+T4t/3 T4t/1
+F F47 372 E461
+E256
+T4t/4 T4t/2 T16b/7 ws = white
+sw = black
+ge
+0
+/
+,
+s
+5
+w
+0
+b
+,
+r
+5 ✱✱✱ 0
+b
+,
+r
+5 ✱✱
+371
+1
+b
+,
+r
+5 2
+b
+,
+r
+5
+sw
+0
+/
+,
+r
+5
+o
+r
+b
+o
+r
+=
+=
+r
+b
+e
+r
+d
+own
+366 gn = green
+22 2233 6,0 33 bl = blue
+br
+gr = grey
+672 li = purple
+ge = yellow
+15 16 17 18 19 20 21 22 23 24 25 26 27 28 or = orange
+8J0-009030409
+rs = pink
+Edition 04.2009

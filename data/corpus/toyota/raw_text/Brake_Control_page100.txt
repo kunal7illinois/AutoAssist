@@ -1,0 +1,40 @@
+BC–100
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+TC and CG Terminal Circuit
+DESCRIPTION
+DTC output mode is set by connecting terminals TC and CG of the DLC3.
+DTCs are indicated by the blinking pattern of the ABS warning light.
+WIRING DIAGRAM
+Brake Actuator Assembly
+(Skid Control ECU)
+ECM
+41 41 26
+CANH A55 A24 A25 CANH
+*1 *2
+49 49 15
+BC
+CANL A55 A55 A25 CANL
+*1 *2
+E10
+DLC3
+27 27
+TC A55 A24 TC
+13
+*1 *2
+*1: 2GR-FE CG
+4
+*2: 2AZ-FE
+C136513E01
+HINT:
+When warning lights continue to blink, a ground short in the wiring of terminal TC of the DLC3 or an
+internal ground short in one or more ECUs is suspected.
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).
+1 CHECK CAN COMMUNICATION SYSTEM
+(a) Check if a CAN communication DTC is output (See page
+BC-21).
+Result
+Result Proceed to
+CAN communication system DTC is output A
+CAN communication system DTC is not output B

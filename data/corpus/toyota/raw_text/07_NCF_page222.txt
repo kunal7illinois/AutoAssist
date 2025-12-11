@@ -1,0 +1,40 @@
+CH-58 CHASSIS - U660E AUTOMATIC TRANSAXLE
+(cid:4)ELECTRONIC CONTROL SYSTEM
+1. General
+The electronic control system of the U660E automatic transaxle consists of the control listed below.
+System Outline
+The ECT ECU supplies current to 6 solenoid valves (SL1, SL2, SL3, SL4,
+Shift Timing Control
+SL and/or SLU) based on signals from each sensor to shift the gear.
+Clutch to Clutch Controls the pressure that is applied directly to the C1, C2 clutches and
+Pressure Control B1, B3 brakes by actuating the shift solenoid valves (SL1, SL2, SL3 and
+(See page CH-65) SL4) in accordance with ECT ECU signals.
+Line Pressure Actuates solenoid valve SLT to control the line pressure in accordance
+Optimal Control with information from the ECT ECU and the operating conditions of the
+(See page CH-66) transaxle.
+Powertrain
+Controls both the shift control and engine output control in an integrated
+Cooperative Control
+way, achieving excellent shift characteristics and drivability.
+(See page CH-67)
+Lock-up Timing The ECT ECU supplies current to shift solenoid valves SL and SLU
+Control based on signals from each sensor and engages or disengages the lock-up
+(See page CH-68) clutch.
+Flex Lock-up Controls solenoid valves SLU and SL, provides an intermediate mode
+Clutch Control between the ON/OFF operation of the lock-up clutch, and increases the
+(See page CH-69) operating range of the lock-up clutch to improve fuel economy.
+Coast Downshift Control The ECT ECU performs downshift control so that fuel cut control can
+(See page CH-70) continue for as long as possible during deceleration.
+AI (Artificial Intelligence) Based on the signals from various sensors, the ECT ECU determines the
+-SHIFT road condition and the intention of the driver. Thus, the shift pattern is
+(See page CH-71) automatically regulated to an optimal level, improving drivability.
+Multi-Mode Automatic The ECT ECU appropriately controls the automatic transaxle in
+Transmission accordance with the range position selected while the shift lever is in the
+(See page CH-73) S mode position.
+Diagnosis When the ECT ECU detects a malfunction, the ECT ECU makes a
+(See page CH-75) diagnosis and memorizes the malfunctioning part.
+Even if a malfunction is detected in the sensors or solenoids, the ECT
+Fail-safe
+ECU activates fail-safe control to prevent the vehicle’s drivability from
+(See page CH-75)
+being significantly affected.

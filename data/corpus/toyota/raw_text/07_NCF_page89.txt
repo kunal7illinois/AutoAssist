@@ -1,0 +1,40 @@
+EG-62 ENGINE - 2AZ-FE ENGINE
+Function of Main Components
+Component Function
+Contains activated charcoal to absorb the fuel vapors that are
+Canister
+created in the fuel tank.
+Controls the flow rate of the fuel vapors from the fuel tank to the
+canister when the system is purging or during refueling.
+RReeffuueelliinngg
+Prevents a large amount of vacuum during purge operation or
+Valve Restrictor
+system monitoring operation from affecting the pressure in the fuel
+Passage
+tank.
+Fresh air goes into the canister and the cleaned drain air goes out
+Fresh Air Line
+into the atmosphere.
+Canister Vent Opens and closes the fresh air line in accordance with the signals
+Valve from the ECM.
+Leak Detection
+Applies vacuum pressure to the evaporative emission system in
+Canister Pump Pump & Pump
+accordance with the signals from the ECM.
+Module Motor
+Canister
+Detects the pressure in the evaporative emission system and sends
+Pressure
+the signals to the ECM.
+Sensor
+Opens in accordance with the signals from the ECM when the
+system is purging, in order to send the fuel vapors that were
+Purge VSV absorbed by the canister into the intake manifold. In system
+monitoring mode, this valve controls the introduction of the
+vacuum into the fuel tank.
+Canister Filter Prevents dust and debris in the fresh air from entering the system.
+Controls the canister pump module and the purge VSV in
+accordance with the signals from various sensors, in order to
+ECM achieve a purge volume that suits the driving conditions. In
+addition, the ECM monitors the system for any leakage and outputs
+a DTC if a malfunction is found.

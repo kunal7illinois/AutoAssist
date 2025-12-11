@@ -1,0 +1,81 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+⇒ “1.1 Safety Precautions”, page 2
+⇒ “1.2 Clean Working Conditions”, page 3
+⇒ “1.3 On Board Diagnostic Systems”, page 3
+⇒ “1.4 Malfunction Indicator Lamp Illumination”, page 4
+⇒ “1.5 Controller Area Network Data Link”, page 4
+⇒ “1.6 Electronic Power Control Warning Lamp”, page 4
+1.1 Safety Precautions
+Check for Technical Bulletins that may supersede any information
+included in this manual.
+WARNING
+Failure to follow these instructions may result in personal injury
+or possible death.
+Check the Technical Bulletins for information, cautions and
+warnings that may supersede or supplement any information
+included in this manual.
+When performing the drive cycle operation, pay strict attention
+to driving conditions and observe and obey all posted speed
+limits.
+Test equipment must always be secured to the rear seat and
+operated by a second person. If test and measuring equipment
+is operated from the passenger seat, the person seated could
+be injured in the event of an accident involving deployment of
+the passenger-side airbag.
+The fuel system is under pressure! Before opening the fuel
+system, place rags around the connection area. Then release
+pressure by carefully loosening the connection.
+The engine section of the fuel system, after the high pressure
+pump, is under extremely high pressure! When working on en‐
+gine or fuel injection system, fuel pressure must be relieved to
+residual pressure before opening high pressure components.
+Refer to the Service Manual for the proper procedure.
+If the battery has not been disconnected, the fuel pump fuse
+must be removed before opening the fuel supply system as the
+fuel pump may be activated by the driver's door contact switch.
+Testing of the EVAP and ORVR systems can result in the es‐
+cape of explosive fuel vapor. Do not smoke while testing the
+EVAP system, and make sure the area you are working in is
+well ventilated.
+Observe the following for all procedures, especially in the en‐
+gine compartment due to lack of room:
+♦ Route lines of all types ( e .g. for fuel, hydraulic, EVAP can‐
+ister system, coolant and refrigerant, brake fluid, vacuum)
+and electrical wiring so that the original path is followed.
+♦ Watch for sufficient clearance to all moving or hot com‐
+ponents.
+♦ Do not touch or disconnect the Ignition Coils, ignition
+wires, connecting parts or adapter cables when the igni‐
+tion is on or the engine is running or turning at starting
+RPM.
+♦ Only disconnect and reconnect wires for injection and ig‐
+nition system, including test leads, when the ignition is
+turned off.
+When removing and installing components from full or partially
+full fuel tanks, observe the following:
+2
+Rep. Gr.ST - Generic Scan Tool
+♦ The fuel tank must only be partially full. How much fuel can
+remain in the fuel tank may be read in the respective work
+description. Empty the fuel tank if necessary.
+♦ Before starting work, switch on the exhaust extraction sys‐
+tem and place an extraction hose close to the installation
+opening of the fuel tank to extract escaping fuel fumes. If
+no exhaust extraction system is available, a radial fan (as
+long as motor is not in air flow) with a displacement greater
+than 15 m3 /h can be used.
+♦ Prevent fuel from contacting the skin! Wear fuel-resistant
+gloves!
+When servicing the engine control module (ECM), it may be
+necessary to use a heat gun. The heat gun, shear bolts, and
+parts of the protective housing will become extremely hot. Use
+extreme caution when working with or handling these parts to
+avoid personal injury.
+Observe operating instructions when working with a heat gun.
+To prevent damage (burning) to the wiring and harness con‐
+nections, insulation and the electronic components, perform
+outlined work steps exactly!
+The cooling system is under pressure. To avoid scalding, use
+caution when opening the cooling system and servicing cooling
+system components!

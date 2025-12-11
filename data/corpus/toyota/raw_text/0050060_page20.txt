@@ -1,0 +1,51 @@
+ES–359
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+12 PERFORM ACTIVE TEST USING INTELLIGENT TESTER (PURGE VSV)
+(a) On the intelligent tester, select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST /
+EVAP VSV (ALONE).
+(b) Disconnect the hose (connected to the canister) from the
+purge VSV.
+(c) Start the engine.
+(d) Using the tester, turn off the purge VSV (EVAP VSV:
+Purge VSV
+OFF).
+Hose (to Canister)
+(e) Use your finger to confirm that the purge VSV has no
+suction. ES
+A127790E01
+(f) Using the tester, turn on the purge VSV (EVAP VSV:
+ON).
+(g) Use your finger to confirm that the purge VSV has
+suction.
+Result
+Test Results Suspected Trouble Areas Proceed To
+No suction when purge VSV turned OFF, and suction
+Purge VSV normal A
+applied when turned ON
+Suction applied when purge VSV turned OFF Purge VSV stuck open B
+• Purge VSV stuck closed
+No suction when purge VSV turned ON • Problems with EVAP hose between purge VSV and C
+intake manifold
+(h) Reconnect the hose.
+B Go to step 14
+C Go to step 15
+A
+13 CHECK FUEL CAP ASSEMBLY
+(a) Check that the fuel cap is correctly installed and confirm
+the fuel cap meets OEM specifications.
+(b) Tighten the fuel cap until a few click sounds are heard.
+HINT:
+If an EVAP tester is available, check the fuel cap using
+the tester.
+1. Remove the fuel cap and install it onto a fuel cap
+adapter.
+2. Connect an EVAP tester pump hose to the adapter,
+and pressurize the cap to 3.2 to 3.7 kPa (24 to 28
+mmHg) using an EVAP tester pump.
+3. Seal the adapter and wait for 2 minutes.
+4. Check the pressure. If the pressure is 2 kPa (15
+mmHg) or more, the fuel cap is normal.
+Result
+Test Results Suspected Trouble Areas Proceed To
+Fuel cap correctly installed - A

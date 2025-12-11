@@ -1,0 +1,44 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-49
+SYMPTOM PROCEDURES
+STEP 2. Measure at front-ECU connector A-10X in order to
+check the battery circuit of power supply system to the
+front-ECU.
+(1) Disconnect front-ECU connector A-10X, and measure at
+CONNECTOR: A-10X
+the relay box side.
+FRONT-ECU
+DEVICE SIDE A-10X
+1 2 3 4 5 6 7 8 91011
+AC106535AE
+(2) Measure the voltage between terminal 7 and ground.
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+1110 9 8 7 6 5 4 3 2 1 Q:Does the measured voltage correspond with this range?
+YES : Go to Step 5.
+NO : Go to Step 3.
+CONNECTOR A-10X
+(RELAY BOX SIDE)
+AC101911AB
+STEP 3. Check the front-ECU connector A-10X for damage.
+Q:Is front-ECU connector A-10X in good condition?
+CONNECTOR: A-10X
+YES : Go to Step 4.
+FRONT-ECU NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. The
+system should communicate with the front-ECU
+normally.
+DEVICE SIDE A-10X
+1 2 3 4 5 6 7 8 91011
+AC106535AE
+STEP 4. Check the wiring harness between front-ECU
+connector A-10X (terminal 7) and the battery.
+Q:Is the wiring harness between front-ECU connector A-
+CONNECTOR: A-10X
+10X (terminal 7) and the battery in good condition?
+FRONT-ECU YES : No action to be taken.
+NO : Repair the wiring harness. The system should
+communicate with the front-ECU normally.
+DEVICE SIDE A-10X
+1 2 3 4 5 6 7 8 91011
+AC106535AE
+TSB Revision

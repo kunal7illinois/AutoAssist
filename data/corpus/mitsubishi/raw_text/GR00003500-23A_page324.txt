@@ -1,0 +1,48 @@
+23A-324 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+MUT-II SCAN ITEM INSPECTION ITEM INSPECTION REQUIREMENT NORMAL
+TOOL NO. CONDITION
+DISPLAY
+L/R SOL 31 Low-reverse solenoid Selector lever Driving at constant 0%
+DUTY valve duty % position: L, 2, 3, D speed of 10 km/h
+<Vehicles without (6.2 mph) in 1st gear
+sport mode> or
+Driving at constant 100%
+Sport mode
+speed of 30 km/h (19
+<Vehicles with
+mph) in 2nd gear
+sport mode>
+Driving at constant 100%
+speed of 50 km/h (31
+mph) in 3rd gear
+Driving at constant 100%
+speed of 50 km/h (31
+mph) in 4th gear
+O/D SOL 34 Overdrive solenoid Selector lever Driving at constant 100%
+DUTY valve duty % position: L, 2, 3, D speed of 10 km/h
+<Vehicles without (6.2 mph) in 1st gear
+sport mode> or
+Driving at constant 100%
+Sport mode
+speed of 30 km/h (19
+<Vehicles with
+mph) in 2nd gear
+sport mode>
+Driving at constant 0%
+speed of 50 km/h (31
+mph) in 3rd gear
+Driving at constant 0%
+speed of 50 km/h (31
+mph) in 4th gear
+OD OFF 66 Overdrive off signal While auto-cruise Level road OFF
+SIGNAL (Auto-cruise ECM is engaged
+Uphill grade ON
+signal)
+OUT SHFT 23 Output shaft speed Gear range: 3rd Driving at constant 1,600 − 1,900 r/
+SNSR sensor gear speed of 50 km/h (31 min <2.4L
+mph) Engine>
+1,300 − 1,600 r/
+min <3.0L
+Engine>
+TSB Revision

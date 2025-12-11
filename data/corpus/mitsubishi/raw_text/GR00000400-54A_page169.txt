@@ -1,0 +1,36 @@
+CHASSIS ELECTRICAL 54A-169
+RADIO AND TAPE PLAYER
+STEP 40. Check the tweeter (LH).
+(1) Remove the tweeter (LH).
+(2) Check that the tweeter (LH) generates noise when a five-
+volt voltage is applied on the tweeter (LH) terminal.
+Q: Is the tweeter (LH) generating noise?
+YES : Go to Step 41.
+NO : Replace the tweeter (LH). The tweeter (LH) should
+5V sound.
+ACX01868AB
+STEP 41. Check tweeter (LH) connector E-08 and amplifier
+connector D-20 for damage.
+Q:Are harness connectors D-20 and E-08 in good
+CONNECTOR<ECLIPSE> : D-20
+condition?
+YES : Go to Step 42.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. The
+tweeter (LH) should sound.
+DEVICE SIDE
+1 2 3 4 5 6 7 8
+9101112131415161718
+AC106483AK
+CONNECTOR <ECLIPSE SPYDER> : D-20
+DEVICE SIDE
+1 2 3 4 5 6 7 8
+9101112131415161718
+AC106485AK
+CONNECTOR: E-08
+FRONT DOOR (LH)
+DEVICE SIDE
+E-08
+1 2
+AC106556AL
+TSB Revision

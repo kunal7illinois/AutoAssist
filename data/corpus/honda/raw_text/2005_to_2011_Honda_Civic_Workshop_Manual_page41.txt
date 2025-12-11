@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+YES - Replace the appropriate wheel sensor (see WHEEL SENSOR
+REPLACEMENT ).
+NO - Reinstall the wheel sensor, and check the mounting position (see
+WHEEL SENSOR REPLACEMENT ).
+DTC 12-23: RIGHT-FRONT WHEEL SENSOR INSTALLATION ERROR (0 TO 9 MPH (0 TO 15
+KM/H)); DTC 14-23: LEFT-FRONT WHEEL SENSOR INSTALLATION ERROR (0 TO 9 MPH (0 TO
+15 KM/H)); DTC 16-23: RIGHT-REAR WHEEL SENSOR INSTALLATION ERROR (0 TO 9 MPH (0
+TO 15 KM/H)); DTC 18-23: LEFT-REAR WHEEL SENSOR INSTALLATION ERROR (0 TO 9 MPH
+(0 TO 15 KM/H))
+1. Test-drive the vehicle. Drive the vehicle between 1 mph (1 km/h) and 9 mph
+(15 km/h) in a straight line.
+NOTE: Drive the vehicle on the road, not on the lift.
+2. Check the RF, LF, RR, LR WHEEL SPD in the ABS DATA LIST with the
+HDS.
+Are all four the same indicated value?
+YES - Intermittent failure, the system is OK at this time. Check for loose
+terminals between the wheel sensor 2P connector and the ABS modulator-
+control unit 25P connector. Refer to INTERMITTENT FAILURES
+TROUBLESHOOTING .
+NO - Go to step 3.
+3. Turn the ignition switch to LOCK (0).
+4. Check that the appropriate wheel sensor is properly mounted (see WHEEL
+SENSOR REPLACEMENT ).
+WHEEL SENSOR
+DTC Appropriate Wheel Sensor
+12-23 Right-front
+14-23 Left-front
+16-23 Right-rear

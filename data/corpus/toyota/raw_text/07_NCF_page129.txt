@@ -1,0 +1,44 @@
+EG-102 ENGINE - 2GR-FE ENGINE
+(cid:4)IGNITION SYSTEM
+1. General
+A DIS (Direct Ignition System) is used. The DIS improves the ignition timing accuracy, reduces high-voltage
+loss, and enhances the overall reliability of the ignition system by eliminating the distributor.
+The DIS is an independent ignition system which has one ignition coil (with igniter) for each cylinder.
+Ignition Coil (with Igniter)
++B
+IGT1
+No.1 Cylinder
+VCV1
+Intake and
+VCV2
+Exhaust VVT IGT2
+VCE1, No.2 Cylinder
+Sensors
+VCE2
+IGT3
+No.3 Cylinder
+Crankshaft
+NE+ IGT4
+Position ECM No.4 Cylinder
+Sensor
+IGT5
+No.5 Cylinder
+IGT6
+Various
+No.6 Cylinder
+Sensors
+IGF1
+238EG68
+2. Ignition Coil
+The DIS provides 6 ignition coils, one for each Igniter
+cylinder. The spark plug caps, which provide
+contact to spark plugs, are integrated with an
+ignition coil. Also, an igniter is enclosed to
+simplify the system.
+Iron Core
+Secondary
+Coil
+Primary Coil
+Plug Cap
+Ignition Coil Cross Section
+285EG39

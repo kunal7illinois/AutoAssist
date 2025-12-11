@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+NO -Intermittent failure, system is OK at this time. Go to
+TROUBLESHOOTING INTERMITTENT FAILURES. If another DTC is
+indicated, troubleshoot the DTC.
+3. Disconnect the passenger's airbag cutoff indicator 4P connector (see
+PASSENGER'S AIRBAG CUTOFF INDICATOR ILLUMINATION
+BULB TEST).
+4. Turn the ignition switch OFF. Disconnect the negative cable from the battery,
+then wait for 3 minutes.
+5. Disconnect SRS unit connector A (28P) from the SRS unit (see step 8
+DISCONNECTING SYSTEM CONNECTORS).
+6. Measure the resistance between the No. 4 terminal of the passenger's airbag
+cutoff indicator 4P connector and the No. 13 terminal of SRS unit connector A
+(28P). There should be 0-1.0 ohms.
+Fig. 270: Measuring Resistance Between No. 4 Terminal And No. 13
+Terminal Of SRS Unit Connector A (28P)
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is the resistance as specified?
+YES -Go to step 7.
+NO -Open in the dashboard wire harness; replace the dashboard wire harness.
+7. Measure the resistance between the No. 13 terminal of the SRS unit connector
+A (28P) and body ground. There should be an open circuit or at least 1 M

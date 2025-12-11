@@ -1,0 +1,35 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-327
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 13. Check the harness wire between ECM connector
+C-60 terminal 92 <M/T> or PCM connector C-54 terminal 57
+<A/T> and intermediate connector D-16 terminal 6 for
+damage.
+Q:Is the harness wire in good condition?
+CONNECTOR: C-60 <M/T>, C-54 <A/T>
+YES : Go to Step 14.
+NO : Repair it. Then go to 22.
+ECM <M/T>
+OR
+PCM <A/T>
+C-54 C-60
+<A/T> <M/T>
+AC001689AL
+CONNECTOR: D-16
+AC001787AD
+STEP 14. Check the ground voltage at ECM connector C-60
+<M/T> or PCM connector C-54 <A/T> by backprobing.
+(1) Do not disconnect ECM connector C-60 <M/T> or PCM
+connector C-54 <A/T>.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 92 <M/T> or terminal
+57 <A/T> and ground by backprobing.
+HARNESS SIDE
+CONNECTOR • The voltage should be 0.5 volt or less.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+<M/T> C-60
+Q:Is the voltage normal?
+YES : Go to Step 18.
+NO : Go to Step 21.
+<A/T> C-54
+AC002554AC
+TSB Revision

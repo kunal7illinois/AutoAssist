@@ -1,0 +1,63 @@
+ES–61
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Trouble Areas MIL Memory See page
+P0171 System Too Lean - Air induction system Comes on DTC stored ES-147
+(Bank 1) - Injector blockage
+- MAF meter
+- ECT sensor
+- Fuel pressure
+- Gas leakage from
+exhaust system
+- Open or short in A/F
+sensor (sensor 1)
+circuit
+- A/F sensor (sensor
+1)
+- A/F sensor heater
+(sensor 1)
+- Integration relay
+ES
+(EFI MAIN relay)
+- A/F sensor heater
+and EFI MAIN relay
+circuits
+- PCV hose
+connections
+- PCV valve and hose
+- ECM
+P0172 System Too Rich - Injector leakage or Comes on DTC stored ES-147
+(Bank 1) blockage
+- MAF meter
+- ECT sensor
+- Ignition system
+- Fuel pressure
+- Gas leakage from
+exhaust system
+- Open or short in A/F
+sensor (sensor 1)
+circuit
+- A/F sensor (sensor
+1)
+- A/F sensor heater
+(sensor 1)
+- Integration relay
+(EFI MAIN relay)
+- A/F sensor heater
+and EFI MAIN relay
+circuits
+- ECM
+P0220 Throttle / Pedal - TP sensor (built into Comes on DTC stored ES-114
+Position Sensor / throttle body)
+Switch "B" Circuit - ECM
+P0222 Throttle / Pedal - TP sensor (built into Comes on DTC stored ES-114
+Position Sensor / throttle body)
+Switch "B" Circuit - Short in VTA2 circuit
+Low Input - Open in VC circuit
+- ECM
+P0223 Throttle / Pedal - TP sensor (built into Comes on DTC stored ES-114
+Position Sensor / throttle body)
+Switch "B" Circuit - Open in VTA2 circuit
+High Input - Open in E2 circuit
+- Short between VC
+and VTA2 circuits
+- ECM

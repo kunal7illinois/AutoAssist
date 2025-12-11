@@ -1,0 +1,38 @@
+BE-114 BODY ELECTRICAL - SMART KEY SYSTEM
+Entry Unlock Mode Switching
+a) When the power source is OFF, press the lock button and one of the other three buttons on the key at the
+same time for approximately 5 seconds while the key is in the actuation area.
+b)The certification ECU receives this signal from the tuner and switches the entry unlock mode.
+c) The certification ECU sounds the wireless door lock buzzer and the buzzer of the combination meter to
+inform the user that the mode has been switched.
+d)If the entry unlock mode needs to be switched again, press the lock button and one of the other three
+buttons on the key at the same time for approximately 5 seconds after the LED of the key goes off.
+a)
+Key
+b)
+Tuner
+c)
+Certification Wireless Door
+ECU Lock Buzzer
+c)
+Main Body ECU
+CAN
+(MS Bus)
+CAN (CAN No. 1 Bus)
+Combination Meter
+(cid:3) Buzzer
+025BE94P
+Buzzer in Multi-information
+Mode Wireless Door Lock Buzzer
+Combination Meter Display
+Driver Door
+Sounds once
+(Default)
+Sounds three times
+All Doors
+Sounds once
+(Customized)
+Sounds once
+025BE126TE
+NOTE: This function only switches the entry unlock mode of the smart key system. It is not applied to the
+unlock function using the wireless door lock remote control.

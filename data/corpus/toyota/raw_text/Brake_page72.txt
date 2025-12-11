@@ -1,0 +1,36 @@
+BC–72
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+4 INSPECT SKID CONTROL ECU CONNECTOR (GND TERMINAL CONTINUITY)
+(a) Measure the resistance according to the value(s) in the
+Skid Control ECU (Harness Side
+table below.
+Connector Front View):
+Standard resistance
+GND2 GND1 A25 Tester Connection Specified Condition
+A25-4 (GND1) - Body ground Below 1 Ω
+A25-1 (GND2) - Body ground Below 1 Ω
+(b) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+C131970E05
+CONNECTOR (GND CIRCUIT)
+OK
+BC 5 RECONFIRM DTC
+(a) Clear the DTC (See page BC-21).
+(b) Turn the ignition switch on (IG).
+(c) Check if the same DTC is recorded (See page BC-21).
+HINT:
+Reinstall the sensors, connectors, etc. and restore the
+vehicle to its prior condition before rechecking for DTCs.
+Result
+Condition Proceed to
+DTC (C1241/41) is output A
+DTC (C1241/41) is output (When troubleshooting in accordance with the PROBLEM
+B
+SYMPTOMS TABLE)
+DTC (C1241/41) is not output (When troubleshooting in accordance with the DTC CHART) C
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+(See page BC-16)
+C END
+A
+REPLACE BRAKE ACTUATOR ASSEMBLY (See page BC-432)

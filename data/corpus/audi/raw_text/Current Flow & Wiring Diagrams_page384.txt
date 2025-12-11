@@ -1,0 +1,63 @@
+Audi TT No. 46 / 7
+Current Flow Diagram
+Engine control unit, ignition coil 1 up to 3 with output stage
+J623 Engine control unit
+N70 Ignition coil 1 with output stage
+N127 Ignition coil 2 with output stage
+N291 Ignition coil 3 with output stage
+P Spark plug connector
+Q Spark plugs
+T4h 4-pin connector, black, on ignition coil 1 with output stage
+T4i 4-pin connector, black, on ignition coil 2 with output stage
+T4k 4-pin connector, black, on ignition coil 3 with output stage
+T14 14-pin connector, black, on front left in engine compartment
+T60 60-pin connector, on engine control unit
+T94 94-pin connector, on engine control unit
+15 Earth point, on cylinder head
+4400 5533 2299
+281 Earth connection 1, in engine harness
+0,5 0,35 0,5
+ro/sw ro/gr sw/bl
+283 Earth connection 2, in engine harness
+T94/23
+J623
+T94/45
+1
+T
+5
+94/87
+D101 Connection 1, in engine compartment wiring harness
+T60/58 T60/43 T60/57
+0,35 0,35 0,35
+li/bl li/ws D101 bl
+D101
+1,5 1,5 1,5
+ro ro ro
+6666
+T4h/3 T4h/1 T4i/3 T4i/1 T4k/3 T4k/1
+2,5 2,5
+N70 N127 N291 br ro
+T4h/2 T4h/4 I T4i/2 T4i/4 II T4k/2 T4k/4 III
+31 31 31 31 31 31
+T14 T14
+/9 /5
+1,5 1,5 1,5 1,5 1,5 1,5 2,5 2,5
+br br/gn br br/gn br br/gn br ro
+4477
+P P P
+Q Q Q
+ws = white
+283
+sw = black
+283
+ro = red
+281 br = brown
+281 gn = green
+2,5 bl = blue
+br/gn gr = grey
+15 li = purple
+ge = yellow
+71 72 73 74 75 76 77 78 79 80 81 82 83 84 or = orange
+8J0-046070909
+rs = pink
+Edition 04.2010

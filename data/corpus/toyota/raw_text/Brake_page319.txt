@@ -1,0 +1,42 @@
+BC–308
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+Item (Display) Measurement Item Reference Value
+LATERAL G Lateral G Min.: -25.11 m/s2, Max.: 24.91 m/s2
+FAIL
+1st
+2nd
+3rd
+4th
+GEAR POSITION * Gear position information
+5th
+6th
+P, N
+R
+NOT R
+FAIL
+1st
+2nd
+3rd
+4th
+LEVER POSITION * Shift lever position information
+5th
+6th/B
+D/M
+P, N
+R
+BC
+ABS activated: ABS
+VSC activated: VSC
+TRAC activated: TRAC
+BA activated: BA
+OPERATED SYSTEM Operated system status
+PB activated: PB
+Fail safe mode activated: FAIL
+No system activated: NON
+System prohibited: SYS
+FREEZE TIME Elapsed time after freeze trigger Min.: 0 ms, Max.: 500 ms
+TROUBLE CODE Freeze frame DTC Displays to output DTC
+OTHER: Normal,
+INSPECTION MODE Inspection mode
+INSPECT: Service
+*: Automatic Transaxle

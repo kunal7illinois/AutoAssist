@@ -1,0 +1,13 @@
+EI–7
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+motor until the steering lock is unlocked. After
+unlocking the steering lock, an unlock completed
+signal is sent to the certification ECU. Upon
+receipt of this signal, the certification ECU sends
+an unset command signal to the ID code box.
+Once this signal is received, the ID code box
+confirms that the certification ECU is certified,
+sends an immobiliser unset command signal to
+the ECM and sends a security indicator light off
+signal to the certification ECU.
+EI

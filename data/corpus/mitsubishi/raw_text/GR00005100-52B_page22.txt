@@ -1,0 +1,43 @@
+52B-22 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+CODE NO. ON-BOARD DIAGNOSTIC ITEM REFERENCE PAGE
+72*2 Right hand side-airbag module (squib) system fault 2 (Open in the P.52B-87
+squib circuit)
+73 Right hand side-airbag module (squib) system detected short circuit P.52B-23
+74 Right hand side-airbag module (squib) system detected open circuit P.52B-23
+75 Right hand side-airbag module (squib) system fault power supply circuit P.52B-90
+(Short-circuited to power supply)
+76 Right hand side-airbag module (squib) system fault ground circuit P.52B-94
+(Short-circuited to ground)
+79 Left hand side-airbag module (squib) system fault 5 for power supply P.52B-98
+circuit
+81*2 Left hand side-airbag module (squib) system fault 1 (Short circuit P.52B-101
+between terminals of the squib circuit)
+82*2 Left hand side-airbag module (squib) system fault 2 (Open in the squib P.52B-106
+circuit)
+83 Left hand side-airbag module (squib) system fault 3 for ignition drive P.52B-23
+circuit
+84 Left hand side-airbag module (squib) system fault 4 for ignition drive P.52B-23
+circuit
+85 Left hand side-airbag module (squib) system fault power supply circuit P.52B-109
+(Short-circuited to power supply)
+86 Left hand side-airbag module (squib) system fault ground circuit (Short- P.52B-113
+circuited to ground)
+89 Right hand side-airbag module (squib) system fault 5 for power supply P.52B-98
+circuit
+91*1 Left hand side-impact sensor power supply circuit system P.52B-120
+92 Left hand side-impact sensor system for fault 1 P.52B-124
+93 Left hand side-airbag module (squib) system fault 6 for communication P.52B-98
+system
+94*1 Right hand side-impact sensor power supply circuit system P.52B-125
+95 Right hand side-impact sensor system for fault 1 P.52B-124
+96 Right hand side-airbag module (squib) system fault 6 for P.52B-98
+communication system
+NOTE: .
+1. *1: If the vehicle condition returns to normal, the DTC will be automatically erased, and the SRS warning
+light will return to normal.
+2. *2: However, if no DTC resets, the SRS warning light will be switched off (The DTC will be retained).
+<Vehicles without SRS side-airbag>
+3. If the vehicle has a discharged battery, it will store the DTC 41 or 42. When these DTC are read, check the
+battery condition.
+TSB Revision

@@ -1,0 +1,43 @@
+ES–182
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1 READ VALUE USING INTELLIGENT TESTER (ENGINE SPD)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY / ENGINE
+SPD.
+(e) Start the engine.
+(f) Read the values displayed on the tester while the engine
+is running.
+ES Standard:
+Correct values are displayed.
+HINT:
+• To check the engine speed change, display the graph
+on the tester.
+• If the engine does not start, check the engine speed
+while cranking.
+• If the engine speed indicated on the tester remains
+zero (0), there may be an open or short in the
+Crankshaft Position (CKP) sensor circuit.
+OK CHECK FOR INTERMITTENT PROBLEMS
+NG
+2 INSPECT CRANKSHAFT POSITION SENSOR (RESISTANCE)
+(a) Disconnect the B22 CKP sensor connector.
+Component Side:
+(b) Measure the resistance between terminals 1 and 2.
+Standard resistance
+Tester Connections Conditions Specified Conditions
+1 - 2 Cold 985 to 1,600 Ω
+1 - 2 Hot 1,265 to 1,890 Ω
+HINT:
+CKP Sensor
+Terms cold and hot refer to the temperature of the
+sensor. Cold means approximately -10 to 50°C (14 to
+G037727E07
+122°F). Hot means approximately 50 to 100°C (122 to
+212°F).
+(c) Reconnect the CKP sensor connector.
+NG REPLACE CRANKSHAFT POSITION
+SENSOR
+OK

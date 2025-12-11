@@ -1,0 +1,50 @@
+ES–140
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+High or Low Impedance of Heated Oxygen (HO2) Sensor (DTC P0136 or P0137)
+Relationship between element
+temperature and impedance:
+DTC Detection Area
+(Ω)
+15,000
+1,000
+100
+10
+5
+ES
+300 400 500 600 700 800
+(572)(752)(932)(1,112)(1,292)(1,472)
+°C (°F)
+A076841E04
+During normal air-fuel ratio feedback control, there are small variations in the exhaust gas oxygen
+concentration. In order to continuously monitor the slight variations in the HO2 sensor signal while the
+engine is running, the impedance* of the sensor is measured by the ECM. The ECM determines that there
+is a malfunction in the sensor when the measured impedance deviates from the standard range.
+*: The effective resistance in an alternating current electrical circuit.
+HINT:
+• The impedance cannot be measured using an ohmmeter.
+• DTC P0136 indicates the deterioration of the HO2 sensor. The ECM sets this DTC by calculating the
+impedance of the sensor when the typical enabling conditions are satisfied (2 driving cycles).
+• DTC P0137 indicates an open or short circuit in the HO2 sensor (2 driving cycles). The ECM sets this
+DTC when the impedance of the sensor exceeds the threshold 15 kΩ.
+MONITOR STRATEGY
+P0136: Heated oxygen sensor output voltage (Abnormal voltage
+output)
+P0136: Heated oxygen sensor impedance (Low)
+Related DTCs P0137: Heated oxygen sensor output voltage (Low voltage)
+P0137: Heated oxygen sensor impedance (High)
+P0138: Heated oxygen sensor output voltage (High voltage)
+P0138: Heated oxygen sensor output voltage (Extremely high)
+Required Sensors/Components (Main) Heated oxygen sensor
+Crankshaft position sensor, engine coolant temperature sensor, mass
+Required Sensors/Components (Related)
+air flow meter and throttle position sensor
+Once per driving cycle: Active air-fuel ratio control detection
+Frequency of Operation
+Continuous: Other
+20 seconds: Active air-fuel ratio control detection
+90 seconds: Heated oxygen sensor impedance (High)
+Duration
+30 seconds: Heated oxygen sensor impedance (Low)
+10 seconds: Output voltage (Stuck high)
+MIL Operation 2 driving cycles
+Sequence of Operation None

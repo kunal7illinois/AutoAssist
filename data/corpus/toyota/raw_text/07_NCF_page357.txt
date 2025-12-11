@@ -1,0 +1,23 @@
+BODY ELECTRICAL - LIGHTING BE-23
+(cid:3)AUTOMATIC LIGHT CONTROL SYSTEM
+(cid:3) When the light control switch is in the AUTO position, the automatic light control system detects ambient
+light levels and controls the headlights and taillights (parking lights, taillights and license plate lights).
+(cid:3) The light control sensor detects the ambient light levels. This sensor is integrated into the solar sensor that
+is used for automatic air conditioning control on models with automatic air conditioning.
+(cid:3) The main body ECU controls this system.
+(cid:1) System Diagram (cid:2)
+Ignition*1/Engine Switch*2 Power Distributor
+(IG1 Relay) (cid:3) Headlight Relays
+Headlights
+Main
+Light Control
+Body
+Switch
+ECU
+Taillight Relay
+(cid:3) Parking Lights
+(cid:3) Taillights
+Solar Sensor (cid:3) License Plate Lights
+01YBE23P
+*1: Models without smart key system
+*2: Models with smart key system

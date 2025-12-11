@@ -1,0 +1,47 @@
+ES–81
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Oxygen (A/F) Sensor Heater Control Circuit
+DTC P0031
+Low (Bank 1 Sensor 1)
+Oxygen (A/F) Sensor Heater Control Circuit
+DTC P0032
+High (Bank 1 Sensor 1)
+HINT:
+• Although the DTC titles say oxygen sensor, these DTCs relate to the Air-Fuel Ratio (A/F) sensor.
+• Sensor 1 refers to the sensor mounted in front of the Three-Way Catalytic Converter (TWC) and
+located near the engine assembly.
+ES
+DESCRIPTION
+Refer to DTC P2195 (see page ES-292).
+HINT:
+• When either of these DTCs is set, the ECM enters fail-safe mode. The ECM turns off the A/F sensor
+heater in fail-safe mode. Fail-safe mode continues until the ignition switch is turned OFF.
+• The ECM provides a pulse width modulated control circuit to adjust the current through the heater. The
+A/F sensor heater circuit uses a relay on the B+ side of the circuit.
+Reference (System Diagram of Sensor 1):
+ECM
+A/F Sensor
+EFI MAIN
+EFI MAIN Heater
+From +B HA1A HA1A
+Battery
+EFI No. 1
+Sensor
+A1A- A1A+ A1A+
+Duty
+Control
+A1A-
+MREL
+Ground
+A127244E01
+DTC No. DTC Detection Conditions Trouble Areas
+• Open in A/F sensor heater circuit
+Air-Fuel Ratio (A/F) sensor heater current less than 0.8 A • A/F sensor heater (sensor 1)
+P0031
+(1 trip detection logic) • Integration relay (EFI MAIN relay)
+• ECM
+• Short in A/F sensor heater circuit
+Air-Fuel Ratio (A/F) sensor heater current more than 10 A • A/F sensor heater (sensor 1)
+P0032
+(1 trip detection logic) • Integration relay (EFI MAIN relay)
+• ECM

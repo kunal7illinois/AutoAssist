@@ -1,0 +1,50 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-97
+6. Start Function Operation
+General
+The start function has different power source patterns to suit the brake pedal state and shift lever position.
+Pattern Brake Pedal Shift Lever Power Source Pattern
+When the engine switch is pushed once.
+A Depressed P or N Position
+(cid:3) OFF (cid:1) IG ON (after the engine is started)
+Each time the engine switch is pushed.
+B P Position
+(cid:3) OFF (cid:1) ACC (cid:1) IG ON (cid:1) OFF
+NNoott DDeepprreesssseedd
+Each time the engine switch is pushed.
+C Except P Position
+(cid:3) OFF (cid:1) ACC (cid:1) IG ON (cid:1) ACC
+When the engine switch is pushed in the IG-ON
+D — P Position
+condition.
+When the engine switch is pushed in the IG-ON
+E — Except P Position
+condition.
+(cid:1) Transition of Power Source (cid:2)
+Shift Position P N Except P, N
+Pattern B or D A or D — C or E A or E C or E —
+Engine Switch Push Push — Push Push Push Push
+Brake — Depressed — — Depressed — Depressed
+After
+Hour — — — — — —
+1 hour
+OFF
+Power ACC
+Source
+IG
+Engine
+Start
+: Transition
+285BE144
+: Only when the key certification is OK
+: Only when the vehicle is stopped
+NOTE: (cid:3) Normally, the operation of the engine switch is disabled while the vehicle is being driven.
+However, in an emergency, by pressing the engine switch for approximately 3 seconds or more,
+the driver can stop the engine while the vehicle is in motion.
+(cid:3) If no signals are transmitted to the main body ECU due to malfunctions in the stop light switch
+or park/neutral start switch, the engine may not start when the engine switch is pressed with
+the brake pedal depressed. In such cases, performing the following procedure may be enable
+the engine to start: 1) press the engine switch to turn the power source from OFF to ACC, and
+2) press the engine switch again and hold it for 15 seconds or more.
+(cid:3) Above 2 operations must be applied only in emergency situations. Under normal conditions,
+the engine must not be stopped by pressing the engine switch during driving or started without
+depressing the brake pedal when the shift lever is in any position other than P or N.

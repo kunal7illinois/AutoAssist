@@ -1,0 +1,32 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-95
+5. Construction and Operation
+Engine Switch
+The engine switch consists of a momentary type switch, two color (Amber, Green) LEDs, and transponder
+key amplifier.
+(cid:3) The amber and green LEDs are for the indicator light.
+(cid:3) The driver can determine the present power source and check whether the engine can start or not in
+accordance with the illumination state of the indicator light.
+(cid:3) When the main body ECU detects an abnormality with the smart key system, it makes the amber indicator
+light flash. If the engine is stopped in this state, it might not be possible to restart it.
+Engine Switch
+Indicator Light
+Transponder Key
+Amplifier
+Antenna
+Coil
+Indicator
+Illumination
+263BE05
+01YBE170P
+(cid:1) Indicator Light Condition (cid:2)
+Indicator Light Condition
+Power Source Condition Brake pedal depressed with
+Brake pedal not depressed
+shift lever in P or N
+OFF OFF ON (Green)
+ACC, IG-ON ON (Amber) ON (Green)
+Engine Running OFF OFF
+Steering lock not unlocked Flashes (Green) for 15 seconds Flashes (Green) for 15 seconds
+Smart Key System
+Flashes (Amber) for 15 seconds Flashes (Amber) for 15 seconds
+Malfunction

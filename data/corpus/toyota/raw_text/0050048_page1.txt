@@ -1,0 +1,39 @@
+ES–268
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P1550 Battery Current Sensor Circuit
+DTC P1551 Battery Current Sensor Circuit Low
+DTC P1552 Battery Current Sensor Circuit High
+DESCRIPTION
+Sensor Output Voltage
+ES
+(V)
+(A)
+Current
+A110645E01
+The battery current sensor installed on the positive (+) battery terminal detects the amount of current
+supplied from the generator.
+The battery current sensor changes current to voltage (at the positive (+) battery terminal) and sends it to
+the ECM. The ECM controls the voltage of the generator based on the signals from the battery current
+sensor.
+DTC No. DTC Detection Condition Trouble Area
+The following condition continues for 10
+seconds or more with the ignition switch ON • Open or short in battery current sensor
+(1 trip detection logic): circuit
+P1550
+• Difference between the maximum and • Battery current sensor assembly
+minimum current values of the battery • ECM
+current sensor is 1 A or less
+Battery current sensor output value is 0.2 V or
+• Short in battery current sensor circuit
+less for 0.5 seconds or more with the ignition
+P1551 • Battery current sensor assembly
+switch ON
+• ECM
+(1 trip detection logic):
+Battery current sensor output value is 4.8 V or
+• Open in battery current sensor circuit
+more for 0.5 seconds or more with the ignition
+P1552 • Battery current sensor assembly
+switch ON
+• ECM
+(1 trip detection logic):

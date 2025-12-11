@@ -1,0 +1,53 @@
+Audi TT No. 18 / 3
+Current Flow Diagram
+Drive train CAN bus, low 1
+E313 Selector lever
+F189 Tiptronic switch
+J431 Headlight range control, control unit
+J492 Four-wheel drive control unit
+J500 Power steering control unit
+J527 Steering column electronics control unit
+J533 Data bus diagnostic interface
+J623 Engine control unit
+J743 Mechatronic unit for dual clutch gearbox
+J869 Control unit for structure-borne sound
+T3l 3-pin connector, connector C, on power steering control unit
+T5e 5-pin connector, grey, connector C, on power steering control
+unit
+B390
+T6a 6-pin connector, black, in front left engine compartment
+T6q 6-pin connector, black, on four-wheel drive control unit
+T10p 10-pin connector, on Tiptronic switch
+0,35 0,35 ✱ 0,35 ✱✱ 0,35 ✱✱✱ 0,35 ✱✱✱ 0,35 0,35 # 0,35 0,35 0,35 T20c 20-pin connector, black, connector A, on steering column
+or/br or/br or/br or/br or/br or/br or/br or/br or/br or/br electronics control unit
+T20d 20-pin connector, black, on data bus diagnostic interface
+3366 T20e 20-pin connector, on mechatronic unit for dual clutch gearbox
+T26a 26-pin connector, black, on headlight range control, control unit
+T20d/6 T20e/15 T10p/8 T26a/3 T20c/11
+J533 J623 J869 J743 F189 J431 J527 B390 Connection 1 (drive train CAN bus, low), in main wiring harness
+✱ ✱✱ ✱✱✱ E313
+* ⇒ Engine Current Flow Diagram
+✱✱✱
+T6q/5 T6a/3 ** 2,0 l diesel engine
+*** models with direct shift gearbox
+# models with automatic headlight range control and cornering
+light
+0,35 ## up to May 2008
+or/br
+### from June 2008
+T3l/1 ###
+7 T5e/1##
+J492 J500
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+15 16 17 18 19 20 21 22 23 24 25 26 27 28 or = orange
+8J0-018030409
+rs = pink
+Edition 04.2009

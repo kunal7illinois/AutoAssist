@@ -1,0 +1,60 @@
+ES–54
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+LABEL
+Measurement Item/Range Diagnostic Note
+(Intelligent Tester Display)
+AF FT B1 S1 Fuel trim at A/F sensor -
+AF FT B2 S1 Fuel trim at A/F sensor -
+CAT TEMP B1 S1 Catalyst temperature -
+CAT TEMP B2 S1 Catalyst temperature -
+CAT TEMP B1 S2 Catalyst temperature -
+CAT TEMP B2 S2 Catalyst temperature -
+INI COOL TEMP Initial engine coolant temperature -
+INI INTAKE TEMP Initial intake air temperature -
+INJ VOL Injection volume -
+ING TIMMING D4 Injection timing (D4) -
+FUEL PUMP D4 Fuel pump duty (D4) -
+COMBUSTION D4 Combustion status (D4) -
+ES
+ACC RELAY ACC relay -
+STARTER RELAY Starter relay -
+STARTER SIG Starter signal -
+STARTER CONTROL Starter control -
+CTP SW Closed throttle position switch -
+A/C SIGNAL A/C signal -
+PNP SW (NSW) Neutral position switch signal -
+ELECT LOAD SIG Electrical load signal -
+STOP LIGHT SW Stop light switch -
+ENG OIL PRES SW Engine oil pressure switch signal Always ON while engine is running
+BATTERY VOLTAGE Battery voltage -
+ATM PRESSURE Atmospheric pressure -
+FUEL PMP SP CTL Fuel pump speed control status -
+VVT CTRL B2 VVT control status (bank 2) -
+EVAP (Purge) VSV EVAP Purge VSV -
+A/C MAG CLUTCH A/C magnetic clutch relay -
+FUEL PUMP/SPD Fuel pump/speed status -
+VVT CTRL B1 VVT control status (bank 1) -
+TC/TE1 TC and TE1 terminals of DLC3 -
+SCV DUTY RATIO SCV duty ratio -
+VVTL AIM ANGL#1 VVT aim angle (bank 1) -
+VVT CHNG ANGL#1 VVT change angle (bank 1) -
+VVT OCV D B1 VVT OCV operation duty (bank 1) -
+VVT exhaust hold duty ratio learning value
+VVT EX HOLD B1 -
+(bank 1)
+VVT EX CHG ANG1 VVT exhaust change angle (bank 1) -
+VVT EX OCV D B1 VVT exhaust OCV duty (bank 1) -
+VVTL AIM ANGL#2 VVT aim angle (bank 2) -
+VVT CHNG ANGL#2 VVT change angle (bank 2) -
+VVT OCV DUTY B2 VVT OCV operation duty (bank 2) -
+VVT exhaust hold duty ratio learning value
+VVT EX HOLD B2 -
+(bank 2)
+VVT EX CHG ANG2 VVT exhaust change angle (bank 2) -
+VVT EX OCV D B2 VVT exhaust OCV duty (bank 2) -
+ON: when throttle valve fully closed and
+FC IDL Idle fuel cut
+engine speed over 1,500 rpm
+Fuel cut being performed under very light load
+FC TAU FC TAU
+to prevent incomplete engine combustion

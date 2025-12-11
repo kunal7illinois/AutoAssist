@@ -1,0 +1,43 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+3.5.24 Engine Coolant Temperature Sensor 1
+or 2, Checking
+WARNING
+♦ Cooling system is under pressure.
+♦ Danger of scalding when opening!
+Note
+Use only gold-plated terminals when servicing terminals in the
+electrical harness connector of Engine Coolant Temperature
+(ECT) Sensor -G62 or G83- .
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ jumper wire.
+♦ Wiring diagram.
+Test requirements
+• The Engine Control Module (ECM) - J623- fuses OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• Vehicles with automatic transmission, shift selector lever into
+position “P” or “N”.
+• A/C switched off.
+• Ground connections between engine/transmission/chassis
+OK.
+• Ignition switched OFF.
+• Engine COLD.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Connect the scan tool.
+– Switch the ignition On.
+– Using the scan tool, check the coolant temperature:
+Diagnostic text Specified value
+Coolant temperature near Ambient tempera‐
+ture (veh. completely
+cooled down)
+– Switch the ignition Off.
+If the specified value was Not obtained:
+– Continue test according to the following table:
+160
+Rep. Gr.ST - Generic Scan Tool

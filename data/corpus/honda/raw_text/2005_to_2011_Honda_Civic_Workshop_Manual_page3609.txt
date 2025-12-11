@@ -1,0 +1,25 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Navigation System - Civic (Except Hybrid)
+element when angular velocity is applied.
+Operation
+1. The driving piezoelectric part oscillates the oscillator by repeatedly bending
+and returning when an AC voltage of 6 kHz is applied to the part, The
+monitoring-side oscillator resonates because it is connected to the driving-side
+oscillator by the metal block.
+2. The monitoring piezoelectric part bends in proportion to the oscillation and
+outputs voltage (the monitor signal). The navigation unit control circuit
+controls the drive signal to stabilize the monitor signal.
+3. When the vehicle is stopped, the detecting piezoelectric parts oscillate right
+and left with the oscillators, but no signal is output because the parts are not
+bent (no angular force).
+4. When the vehicle turns to the right, the sensor element moves in a circular
+motion with the right oscillator bending forward and the left oscillator bending
+rearward. The amount of forward/rearward bend varies according to the
+angular velocity of the vehicle.
+5. The detecting piezoelectric parts output voltage (the yaw rate signal) according
+to the amount of bend. The amount of vehicle direction change is determined
+by measuring this voltage.
+Fig. 11: Enlarged View Of Sensor Element
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Global Positioning System (GPS)

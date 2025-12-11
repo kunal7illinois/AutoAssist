@@ -1,0 +1,41 @@
+RS–82
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Lost Communication with Driver Side - Side
+DTC B1622/81
+Airbag Sensor Assembly
+Driver Side - Side Airbag Sensor Assembly Ini-
+DTC B1623/81
+tialization Incomplete
+Lost Communication with Driver Side Rear Air-
+DTC B1632/81
+bag Sensor
+Driver Side Rear Airbag Sensor Initialization
+DTC B1633/81
+Incomplete
+Lost Communication with Driver Side Satellite
+DTC B1642/81
+Sensor Bus
+Driver Side Satellite Sensor Bus Initialization
+DTC B1643/81
+Incomplete
+DESCRIPTION
+The circuit for the side collision sensor LH (to determine deployment of the front seat side airbag
+assembly LH and curtain shield airbag assembly LH) is composed of the center airbag sensor assembly,
+side airbag sensor LH, and rear airbag sensor LH.
+The side airbag sensor LH and rear airbag sensor LH detect impacts to the vehicle and send signals to
+RS
+the center airbag sensor assembly to determine if the airbag should be deployed.
+DTC B1622/81, B1623/81, B1632/81, B1633/81, B1642/81, or B1643/81 is recorded when a malfunction
+is detected in the circuit for the side collision sensor LH (to determine deployment of the front seat side
+airbag assembly LH and curtain shield airbag assembly LH).
+DTC No. DTC Detecting Condition Trouble Area
+• The center airbag sensor assembly receives a line
+short circuit signal, an open circuit signal, a short
+1622/81 circuit to ground signal or a short circuit to B+ signal
+1623/81 in the circuit for the side collision sensor LH (to • Floor wire
+1632/81 determine deployment of the front seat side airbag • Side airbag sensor LH
+1633/81 assembly LH and curtain shield airbag assembly • Rear airbag sensor LH
+1642/81 LH) for 2 seconds. • Center airbag sensor assembly
+1643/81 • Side airbag sensor LH malfunction
+• Rear airbag sensor LH malfunction
+• Center airbag sensor assembly malfunction

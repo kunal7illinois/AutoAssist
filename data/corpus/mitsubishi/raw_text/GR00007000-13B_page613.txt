@@ -1,0 +1,57 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-613
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Check the power supply voltage at ECM harness
+side connector C-58 <M/T> or PCM harness side connector
+C-55 <A/T>.
+(1) Disconnect the connector C-58 <M/T> or C-55 <A/T> and
+measure at the harness side.
+(2) Measure the voltage between terminal 57 <M/T> or 49 <A/
+<M/T>
+T> and ground.
+C-58 HARNESS • Voltage should be battery positive voltage.
+SIDE CONNECTOR
+Q:Is the voltage normal?
+47 46 45 44434241
+59 58 57565554535251504948 YES : Go to Step 9.
+68 67 6665 646362 6160
+NO : Repair harness wire between MFI relay connector A-
+18X terminal 3 and ECM connector C-58 terminal 57
+<M/T> or PCM connector C-55 terminal 49 <A/T>
+because of open circuit. Then confirm that the
+AK000378AC malfunction symptom is eliminated.
+<A/T>
+C-55 HARNESS
+SIDE CONNECTOR
+464544 4342 41
+575655545352515049 48 47
+666564 63626160 59 58
+AK000379AD
+STEP 9. Check the power supply voltage at ECM harness
+side connector C-58 <M/T> or PCM harness side connector
+C-55 <A/T>.
+(1) Disconnect the connector C-58 <M/T> or C-55 <A/T> and
+measure at the harness side.
+(2) Using a jumper wire, connect terminal 57 <M/T> or 49 <A/
+<M/T>
+C-58 HARNESS T> to ground.
+SIDE CONNECTOR (3) Measure the voltage between terminal (47, 59) <M/T> or
+(41, 47) <A/T> and ground.
+• Voltage should be battery positive voltage.
+47 46 45 44434241
+59 58 57565554535251504948 Q:Is the voltage normal?
+68 67 6665 646362 6160
+YES : Replace the ECM or PCM. Then confirm that the
+malfunction symptom is eliminated.
+NO : Repair harness wire between MFI relay connector A-
+18X terminal 4 and ECM connector C-58 terminal (47,
+AK000380AC
+59) <M/T> or PCM connector C-55 terminal (41, 47)
+<A/T>
+<A/T> because of open circuit. Then confirm that the
+C-55 HARNESS malfunction symptom is eliminated.
+SIDE CONNECTOR
+464544 43 42 41
+575655545352515049 48 47
+666564 63626160 59 58
+AKX01438AH
+TSB Revision

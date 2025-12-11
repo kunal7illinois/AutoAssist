@@ -1,0 +1,44 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-623
+CHECK AT ECU TERMINAL
+TERMINAL INSPECTION ITEMS INSPECTION CONDITIONS NORMAL VALUE
+6 Output of signal from Igniting switch: "ACC," 0 → 2.5 V
+windshield intermittent wiper Windshield intermittent wipe interval
+interval adjusting knob adjusting knob: "FAST" → "SLOW"
+8 Output of backup signal from Windshield low-speed wiper switch 0 V
+windshield wiper switch or windshield high-speed wiper
+switch: ON
+9 Power supply to ignition Ignition switch: "ON" Battery positive voltage
+switch (IG1)
+10 Output of backup signal from Ignition switch: "ON," 0 V
+headlight switch Headlight switch: ON
+3. FRONT-ECU
+1 2 3 4 5 6 7 8 9 1011 2122232425262728293031
+ACX01513
+NOTE: Terminal voltages can not be measured as
+the front-ECU is installed directly on the relay box.
+Therefore, this information is only for reference.
+TERMINAL INSPECTION ITEMS INSPECTION CONDITIONS NORMAL VALUE
+1 Output to the fog light relay When the fog light is able to Battery positive voltage
+operate
+2 Output to headlight (high-beam) When headlights (high-beam) Battery positive voltage
+are on
+3, 4 Battery power supply (for headlight) Always Battery positive voltage
+5 Battery power supply (for taillight) Always Battery positive voltage
+6 Output to headlight (low-beam) When headlights (low-beam) Battery positive voltage
+are on
+7 Battery power supply (for ECU) Always Battery positive voltage
+8 Output to taillights When taillights are on Battery positive voltage
+21 Output to windshield washer When windshield washer is on Battery positive voltage
+22 SWS communication line Always 0 − 12 V (pulse signal)
+23 Input of automatic stop signal to When windshield wiper is on Battery positive voltage
+windshield wiper
+24 Power supply to ignition switch Ignition switch: "ACC" Battery positive voltage
+(ACC)
+25 Input of backup signal from Headlight switch: ON 0 V
+headlight switch
+26 Input of backup signal to windshield Windshield low-speed wiper 0 V
+wiper switch or windshield high-
+speed wipe switch: ON
+27 Output to windshield wiper (low- When windshield wiper is on Battery positive voltage
+speed) (at low speed)
+TSB Revision

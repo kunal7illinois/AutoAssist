@@ -1,0 +1,44 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+– Compare the -G263- measured value displayed to the values
+in the graph.
+A - Air temperature measured by -G263-
+B - Ambient temperature
+C - Permissible tolerance range
+Depending on the ambient temperature, the measured air tem‐
+perature must be within the stated tolerance range -C- after 5
+minutes.
+Note
+♦ If the required values are not attained, check the measured
+values of the evaporator output temperature sender -G263-
+and the measured value of the front left chest vent temperature
+sensor -G385- ( front right chest vent temperature sensor -
+G386- on right-hand drive vehicles) and compare the meas‐
+ured values displayed to one another.
+♦ If the measured value for -G263- only differs slightly from the
+measured value for -G385- ( -G386- ): Perform "Measures to
+be taken if readout does not match specification"
+⇒ page 135
+♦ If the measured value of the evaporator output temperature
+sender -G263- is higher than that of the front left chest vent
+temperature sensor -G385- ( front right chest vent temperature
+sensor -G386- on right-hand drive vehicles), check for proper
+installation of the evaporator output temperature sender -
+G263- and perform the electrical checks for this sender ⇒
+"Guided fault-finding" function of vehicle diagnostic, testing
+and information system VAS 5051 .
+♦ Operation of the air conditioner can be seen, for example, from
+the fact that the refrigerant pipe on the low-pressure end (thick
+pipe) cools down.
+If the measured value of the evaporator output temperature send‐
+er -G263- (and thus the system cooling output) is OK:
+– Set the air outflow direction by way of the rotary air distribution
+control on the air conditioner operating unit, Climatronic con‐
+trol unit -J255- to “footwell”.
+– Compare the measured value displayed for -G263- to the
+measured values of the left footwell vent temperature sender
+-G261- and the right footwell vent temperature sender -G262- .
+After 5 minutes, the measured values for -G261- and -G262- must
+not be more than 3 °C higher than that for -G263- .
+134
+Rep. Gr.87 - Air conditioning system

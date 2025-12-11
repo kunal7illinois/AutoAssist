@@ -1,0 +1,59 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-215
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Check the input signal by using "FUNCTION
+DIAG." of the SWS monitor.
+Set each switch to the following condition to check input signals
+from the windshield intermittent wiper interval adjusting knob:
+• Ignition switch: ACC
+• Windshield wiper switch: INT
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502. Also con-
+nect SWS monitor kit MB991862 after turning on scan tool
+MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+COLUMN SWITCH (2) Connect SWS monitor kit MB991862 to the column switch
+CONNECTOR
+connector.
+MB991502 (3) Operate the MUT-II according to the procedure below to
+display "F.WIPER INT."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+DATA LINK 3. Select "SWS MONITOR."
+CONNECTOR
+4. Select "FUNCTION DIAG."
+AC101571AB 5. Select "WIPER."
+6. Select "F.WIPER INT."
+COLUMN SWITCH
+(4) Check that normal conditions are displayed on the items
+CONNECTOR
+described in the table below.
+NOTE: Also check that the windshield wiper interval
+SWS MONITOR changes smoothly when the windshield intermittent wiper
+HARNESS (FOR
+interval adjusting knob is rotated from "SLOW" to "FAST"
+COLUMN-ECU)
+positions.
+COLUMN SWITCH
+CONNECTOR AT ITEM No. ITEM NAME NORMAL CONDITIONS
+HARNESS SIDE
+ITEM INT WIPER TIME 2.4−18.0 S
+AC101421AB
+No.37
+Q:Does the value change within the normal range when
+the windshield intermittent wiper interval adjusting
+knob is rotated?
+YES : Replace the front-ECU. Check that the windshield
+intermittent wiper interval changes according to the
+vehicle speed or while the windshield intermittent
+wiper interval adjusting knob is rotated.
+NO : Refer to Inspection Procedure O-9 "ETACS-ECU
+does not receive a signal from the windshield mist
+switch P.54B-511."
+TSB Revision

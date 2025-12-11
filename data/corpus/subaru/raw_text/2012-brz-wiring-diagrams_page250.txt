@@ -1,0 +1,32 @@
+A73(A), D5(B), D6(C)
+(ACC) Main Body ECU
+10A
+ECU ACC
+2
+22 B
+28 3B
+L–R
+G–R
+W )1∗( W )1∗(
+(IG)
+10A
+ECU IG1
+2 2 2
+8 9
+R–L
+(BAT)
+7. 5A
+MPX–B
+1
+R–G
+(BAT)
+7. 5A
+ECU–B
+1
+R–G
+Tire Pressure Warning System
+IG ACC ACC(∗1)
+25 AD2
+∗ 1 : w/ Smart Entry & Start System
+250
+BRZ (G4400BE)

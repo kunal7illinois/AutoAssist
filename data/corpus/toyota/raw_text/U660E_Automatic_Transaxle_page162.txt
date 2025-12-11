@@ -1,0 +1,52 @@
+AX–162
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+3 INSPECT TRANSMISSION CONTROL SWITCH
+(a) Measure the resistance between each terminal of the
+Switch Side: shift lock control unit assembly when the shift lever is
+AX moved to each position.
+(Connector Front View): Standard resistance
+Shift Position Tester Connection Specified Condition
+S, "+" and "-" Below 1 Ω
+3 - 7
+Except S, "+" and "-" 10 kΩ or higher
+E31 Press continuously
+"+" Below 1 Ω
+(Up shift) 2 - 5
+S 10 kΩ or higher
+Press continuously
+"-" Below 1 Ω
+(Down shift) 1 - 5
+S 10 kΩ or higher
+C110341E16
+NG REPLACE TRANSMISSION CONTROL
+SWITCH
+OK
+4 CHECK HARNESS AND CONNECTOR (TRANSMISSION CONTROL SWITCH - ECM)
+(a) Connect the transmission control switch connector of the
+Wire Harness Side:
+S SFTU shift lock control unit assembly.
+(b) Disconnect the A55 ECM connector.
+(c) Turn the ignition switch on (IG), and measure the voltage
+according to the value(s) in the table below when the
+shift lever is moved to each position.
+Standard voltage
+Shift Position Tester Connection Specified Condition
+ECM Connector (Front view)
+SFTD
+S, "+" and "-" A55-25 (S) - Body 10 to 14 V
+G100098E12 Except S, "+" and "-" ground Below 1 V
+(d) Turn the ignition switch off.
+(e) Disconnect the ECM connector.
+(f) Measure the resistance according to the value(s) in the
+table below when the shift lever is moved to each
+position.
+Standard resistance
+Shift Position Tester Connection Specified Condition
+Press continuously
+"+" A55-16 (SFTU) - Body Below 1 Ω
+(Up shift) ground
+S 10 kΩ or higher
+Press continuously
+"-" A55-51 (SFTD) - Body Below 1 Ω
+(Down shift) ground
+S 10 kΩ or higher

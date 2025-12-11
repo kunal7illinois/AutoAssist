@@ -1,0 +1,37 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Gauges - Civic (All Except Hybrid)
+Before troubleshooting the gauge system, refer to multiplex integrated control
+system B-CAN System Diagnosis Test Mode A (see TROUBLESHOOTING - B-
+CAN SYSTEM DIAGNOSIS TEST MODE A ).
+The gauge control module (tach) has a self-diagnostic function shown, and also has
+a customizable reset function.
+The beeper drive circuit check.
+(cid:1)
+The indicator drive circuit check.
+(cid:1)
+The switch input test.
+(cid:1)
+The LCD segments check.
+(cid:1)
+4-door: The gauges drive circuit check (Tachometer, Fuel gauge, Coolant
+(cid:1)
+temperature gauge).
+2-door: The self-diagnostic function does not operate the Fuel gauge and
+(cid:1)
+Coolant temperature gauge.
+The communication line check (of the body-controller area network (B-CAN)
+(cid:1)
+communication line and the fast-controller area network (F-CAN)
+communication line between the gauges).
+NOTE: Indicators are also controlled via the communication line.
+ENTERING THE SELF-DIAGNOSTIC FUNCTION WITH THE HDS
+4-door: Using the HDS, select Body Electrical, Gauges, then Function Test and do
+the self-diagnostic Function.
+2-door: Use the manual method.
+ENTERING THE SELF-DIAGNOSTIC FUNCTION (MANUAL METHOD)
+Before doing the self-diagnostic function, check the No. 10 (7.5 A) fuse in the
+under-dash fuse/relay box and the No. 23 (10 A) fuse in the under-hood fuse/relay
+box.
+1. Push and hold the SEL/RESET switch button.
+2. Turn the headlights ON.

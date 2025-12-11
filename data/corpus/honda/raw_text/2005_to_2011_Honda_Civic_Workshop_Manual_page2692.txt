@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+12. Reconnect the injector control module relay and PCM connector A (44P).
+13. Open the SCS line with the HDS.
+14. Turn the ignition switch ON (II).
+15. Measure voltage between injector control module relay 5P connector terminal
+No. 2 and body ground.
+Fig. 68: Measuring Voltage Between Injector Control Module Relay 5P
+Connector Terminal No. 2 And Body Ground
+Is there battery voltage?
+YES -Repair open in the wire between the injector control module relay, the
+injector control module, the injector, or the fuel shut-off solenoid valve relay.
+NO -Go to step 16.
+16. Test the injector control module relay (see POWER RELAY TEST ).
+Is the injector control module relay OK?
+YES -Update the PCM if it does not have the latest software (see UPDATING
+THE PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ), then recheck. If the symptom/indication goes away with a known-good
+PCM, replace the original PCM, refer to the ECM/PCM REPLACEMENT .
+NO -Replace the injector control module relay.
+LEAK INSPECTION

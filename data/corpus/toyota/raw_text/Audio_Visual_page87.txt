@@ -1,0 +1,32 @@
+AV–87
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+Vehicle Speed Signal Circuit between Radio Receiver and Combination
+Meter
+DESCRIPTION
+This circuit is necessary for the ASL (Auto Sound Leveliser) built into the radio receiver.
+Speed signals are received from the combination meter and used for the ASL.
+The ASL function automatically adjusts the sound data in order to enable hearing the clear audio sound
+even when vehicle noise increases (as vehicle noise increases, the volume is turned up etc.).
+HINT:
+• A voltage of 12 V or 5 V is output from each ECU and then input to the combination meter. The signal
+is changed to a pulse signal at the transistor in the combination meter. Each ECU controls the
+respective system based on the pulse signal.
+• If a short occurs in an ECU, all systems in the diagram below will not operate normally.
+WIRING DIAGRAM
+Radio Receiver
+3
+*1
+From Main Body ECU F8 SPD
+*2
+From Tire Pressure From Transmission
+Warning ECU Control ECU
+From Engine
+Control Module
+12
++S F2
+Combination Meter
+From Speed Sensor
+AV
+*1: with Smart Key System
+*2: for 2GR-FE
+E129788E01

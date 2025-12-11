@@ -1,0 +1,44 @@
+Audi TT No. 46 / 11
+Current Flow Diagram
+Engine control unit, intake air temperature sender, intake
+manifold pressure sender, fuel pressure sender, intake
+manifold flap potentiometer
+G42 Intake air temperature sender
+G71 Intake manifold pressure sender
+G247 Fuel pressure sender
+G336 Intake manifold flap potentiometer
+J623 Engine control unit
+T14c 14-pin connector, black, on left of engine
+T14d 14-pin connector, brown, on left of engine
+T60 60-pin connector, on engine control unit
+D103 Connection 3, in engine compartment wiring harness
+D106 Connection 4, in engine compartment wiring harness
+J623
+T60/22 T60/26 T60/25 T60/14 T60/7 T60/11
+0,5 0,35
+sw/gr br/bl
+D103
+D103
+D106
+D106
+0,35 0,35 0,35 0,35 0,35 0,35
+sw/gr gn br br/bl ws sw/gr
+T14d T14d T14d/13 T14c T14c T14c/3
+/11 /12 /1 /2
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+sw/gr gn br br ws sw/gr br/gn bl sw/gr gr/ge
+1/+ 2/S 3/-- 1/-- 2/S 3/+ 1 2 3 4
+ws = white
+G336 G247 G42 G71
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+127 128 129 130 131 132 133 134 135 136 137 138 139 140 or = orange
+8J0-046110909
+rs = pink
+Edition 04.2010

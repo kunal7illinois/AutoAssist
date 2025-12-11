@@ -1,0 +1,36 @@
+BC–336
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+INSPECTION PROCEDURE
+1 RECONFIRM DTC
+HINT:
+These codes are detected when a problem is identified in the
+brake actuator assembly.
+The solenoid circuits are located in the brake actuator
+assembly.
+Therefore, solenoid circuit inspection and solenoid unit
+inspection cannot be performed. Be sure to check if the DTC
+is output before replacing the brake actuator assembly.
+(a) Clear the DTC (See page BC-302).
+(b) Start the engine.
+(c) Drive the vehicle at a speed of 12 mph (20 km/h) or more
+for 30 seconds or more.
+(d) Check if the same DTC is recorded (See page BC-302).
+BC Result
+Condition Proceed to
+DTC is not output A
+DTC is output B
+HINT:
+• If the normal system code is output (the trouble code
+is not output), slightly jiggle the connectors, wire
+harness, and fuses of the brake actuator assembly
+(skid control ECU). Make sure that no DTCs are
+output.
+• If any DTCs are output while jiggling a connector or
+wire harness of the brake actuator (skid control ECU),
+inspect and repair the connector or wire harness.
+• It is suspected that the DTCs were output due to a
+bad connection of the connector terminal.
+B REPLACE BRAKE ACTUATOR ASSEMBLY
+(See page BC-432)
+A
+END

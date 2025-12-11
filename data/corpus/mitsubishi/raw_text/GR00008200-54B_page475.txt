@@ -1,0 +1,45 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-475
+SYMPTOM PROCEDURES
+STEP 5. Check fog light switch connector C-76 and
+ETACS-ECU connector C-118 for damage.
+Q:Are fog light switch connector C-76 and ETACS-ECU
+CONNECTOR: C-76
+connector C-118 in good condition?
+YES : Go to Step 6.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. If the for
+light switch operates normally, it indicates that a
+correct signal is sent from the fog light switch.
+1 2
+DEVICE SIDE 3 4 5 6 7
+AC106473AK
+CONNECTOR: C-118
+DEVICE SIDE
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+STEP 6. Check the wiring harness between fog light switch
+connector C-76 (terminal 6) and ETACS-ECU (terminal 54)
+connector C-118.
+Q:Is the wiring harness between fog light switch
+CONNECTOR: C-76
+connector C-76 (terminal 6) and ETACS-ECU connector
+C-118 (terminal 54) in good condition?
+YES : Replace the ETACS-ECU. If the for light switch
+operates normally, it indicates that a correct signal is
+sent from the fog light switch.
+NO : Repair the wiring harness. If the for light switch
+operates normally, it indicates that a correct signal is
+1 2 sent from the fog light switch.
+DEVICE SIDE 3 4 5 6 7
+AC106473AK
+CONNECTOR: C-118
+DEVICE SIDE
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+TSB Revision

@@ -1,0 +1,64 @@
+ES–65
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Trouble Areas MIL Memory See page
+P050A Cold Start Idle Air - Throttle body Comes on DTC stored ES-237
+Control System assembly
+Performance - MAF meter
+- Air induction system
+- PCV hose
+connections
+- VVT system
+- Air cleaner filter
+element
+- ECM
+P050B Cold Start Ignition - Same as DTC Comes on DTC stored ES-237
+Timing Performance P050A
+P0516 Battery Temperature - Battery current - DTC stored ES-243
+Sensor Circuit Low sensor
+- Short in battery ES
+current sensor
+- ECM
+P0517 Battery Temperature - Battery current - DTC stored ES-243
+Sensor Circuit High sensor
+- Open in battery
+current sensor
+- ECM
+P0560 System Voltage - Open in back up Comes on DTC stored ES-245
+power source circuit
+- Battery
+- Battery terminals
+- EFI MAIN fuse
+- ECM
+P0604 Internal Control - ECM Comes on DTC stored ES-249
+Module Random
+Access Memory
+(RAM) Error
+P0606 ECM / PCM - ECM Comes on DTC stored ES-249
+Processor
+P0607 Control Module - ECM Comes on DTC stored ES-249
+Performance
+P0617 Starter Relay Circuit - Park/Neutral Comes on DTC stored ES-251
+High Position (PNP) switch
+- ST relay circuit
+- Ignition switch
+- ECM
+P0630 VIN not Programmed - ECM Comes on DTC stored ES-256
+or Mismatch - ECM /
+PCM
+P0657 Actuator Supply - ECM Comes on DTC stored ES-249
+Voltage Circuit /
+Open
+P0724 Brake Switch "B" - Short in stop light Comes on DTC stored ES-258
+Circuit High switch circuit
+- Stop light switch
+- ECM
+P1550 Battery Current - Short in battery - DTC stored ES-261
+Sensor Circuit current sensor circuit
+- Battery current
+sensor
+- ECM
+P1551 Battery Current - Short in battery - DTC stored ES-261
+Sensor Circuit Low current sensor circuit
+- Battery current
+sensor
+- ECM

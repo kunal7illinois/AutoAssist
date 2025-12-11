@@ -1,0 +1,36 @@
+EI–47
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+Result Proceed to
+B2799 output does not reoccur B
+B END
+A
+2 RE-REGISTER ECU COMMUNICATION ID
+(a) Re-register the ECU communication ID (See page EI-8)
+between the ID code box and ECM.
+(b) Check that the engine starts.
+OK:
+Engine starts.
+OK END
+NG
+3 CHECK HARNESS AND CONNECTOR (ID CODE BOX - ECM)
+(a) Disconnect the E50 ID code box and A55 ECM
+Wire Harness Side Connecter Front View:
+connectors.
+(b) Measure the resistance according to the value(s) in the
+E50 table below.
+ID Code Box Standard resistance
+Tester Connection Specified Condition
+E50-5 (EFII) - A55-10 (IMO)
+Below 1 Ω
+E50-6 (EFIO) - A55-11 (IMI)
+E50-5 (EFII) - Body ground
+10 kΩ or higher
+E50-6 (EFIO) - Body ground
+EI
+EFII EFIO NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+A55
+ECM
+IMO IMI
+B128354E01
+OK

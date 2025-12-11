@@ -1,0 +1,58 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-75
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal by using "FUNCTION
+DIAG." of the SWS monitor.
+Check the input signals from the following switches:
+COLUMN SWITCH • Ignition switch: OFF (key removed)
+CONNECTOR • Lighting switch: TAIL or HEAD
+MB991502 • Driver(cid:146)s door: open
+• Front passenger’s door: closed
+Operate the MUT-II according to the procedure below to dis-
+play "LGT MONI. ALRM."
+DATA LINK 1. Select "SYSTEM SELECT."
+CONNECTOR
+2. Select "SWS."
+3. Select "SWS MONITOR."
+AC101571AB
+4. Select "FUNCTION DIAG."
+COLUMN SWITCH
+5. Select "BUZZER."
+CONNECTOR
+6. Select "LGT MONI. ALRM."
+Check that normal conditions are displayed on the items
+SWS MONITOR described in the table below.
+HARNESS (FOR
+NOTE: The scan tool display changes when the driver’s or the
+COLUMN-ECU)
+front passenger’s door is opened. If any of the doors is open,
+COLUMN SWITCH the system can not be checked correctly.
+CONNECTOR AT
+HARNESS SIDE ITEM No. ITEM NAME NORMAL
+AC101421AB CONDITIO
+NS
+ITEM No.00 HEADLIGHT SW Either of
+items is ON
+ITEM No.01 TAILLIGHT SW
+ITEM No.30 IG SW (IG1) OFF
+ITEM No.32 FRONT DOOR SW ON
+ITEM No.35 H/L AUTO-CUT OFF
+ITEM No.43 BUZZER ON
+Q:Does the scan tool display "HEADLIGHT SW", "TAILLIGHT
+SW", "IG SW IG1", "FRONT DOOR SW", "H/L AUTO-CUT"
+and "BUZZER" as normal condition?
+YES : Replace the ETACS-ECU.The light reminder tone alarm
+function should work normally.
+NO : . • The scan tool does not show the respective normal
+condition for item "HEADLIGHT SW." Refer to
+Inspection Procedure O-8 "ETACS-ECU does not
+receive a signal from the headlight switch P.54B-
+511."
+• The scan tool does not show the respective normal
+condition for item "TAILLIGHT SW." Refer to
+Inspection Procedure O-7 "ETACS-ECU does not
+receive a signal from the taillight switch P.54B-511."
+• The scan tool does not show the respective normal
+condition for item "IG SW (IG1)." Refer to Inspection
+Procedure O-2 "ETACS-ECU does not receive a
+signal from the ignition switch (IG1) P.54B-469."
+TSB Revision

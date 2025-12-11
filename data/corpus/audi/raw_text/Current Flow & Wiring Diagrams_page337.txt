@@ -1,0 +1,49 @@
+Audi TT No. 42 / 17
+Current Flow Diagram
+Engine control unit, low heat output relay, high heat output
+relay, heater element for crankcase breather, auxiliary air
+heater element
+J359 Low heat output relay
+J360 High heat output relay
+J623 Engine control unit
+N79 Heater element for crankcase breather
+T3m 3-pin connector, on auxiliary air heater element
+T94 94-pin connector, on engine control unit
+✱ ✱✱ Z35 Auxiliary heater element
+3 3
+J359 J360 44 Earth point, lower part of left A-pillar
+2/30 6/85 1/30 4/85
+366 Earth connection 1, in main wiring harness
+8/87 4/86 2/87 3/86
+672 Earth point 2, on front of left longitudinal member
+4,0 4,0 0,5 0,5 0,5 10,0 10,0 0,5 0,5
+ro/ge ro/bl ro/gn ro/gn gn/ws ro/sw ro/gn ro/gn gn/ro
+B636 Connection (supplementary heater) in main wiring harness
+2233 221144 5522 222233 2244 222211 221166
+J623
+T94/27 T94/71
+* Relay and fuse carrier in electronics box engine compartment
+** Relay carrier on left under dash panel
+*** countries with cold climate only
+B636
+221144 3366
+4,0 4,0 4,0 1,0 10,0
+ro/bl ro/gn ro/gn sw/bl ro/gn
+222211
+T3m/2 T3m/1 T3m/3 1
+✱✱✱
+Z35 1 2 3 N79
+2/31 ws = white
+--
+116666 sw = black
+ro = red
+10,0 1,0 1,0 6,0 br = brown
+br br br br gn = green
+366 bl = blue
+gr = grey
+44 672 li = purple
+ge = yellow
+211 212 213 214 215 216 217 218 219 220 221 222 223 224 or = orange
+8J0-042170409
+rs = pink
+Edition 09.2009

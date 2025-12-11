@@ -1,0 +1,71 @@
+Audi TT No. 46 / 23
+Current Flow Diagram
+Control unit in dash panel insert, coolant shortage indicator
+switch, oil pressure warning lamp, coolant temperature and
+coolant shortage warning lamp, oil level and oil temperature
+sender
+F22 Oil pressure switch
+F66 Coolant shortage indicator switch
+G266 Oil level and oil temperature sender
+J285 Control unit in dash panel insert
+J533 Data bus diagnostic interface
+K3 Oil pressure warning lamp
+K28 Coolant temperature and coolant shortage warning lamp
+T6a 6-pin connector, black, in front left engine compartment
+T14 14-pin connector, black, on front left in engine compartment
+T20d 20-pin connector, black, on data bus diagnostic interface
+T32 32-pin connector, blue, on control unit in dash panel insert
+Y24 Display in dash panel insert
+410 Earth connection 1 (sender earth), in main wiring harness
+3344
+B278 Positive connection 2 (15a), in main wiring harness
+K28 K3 Y24 J285
+sw
+0
+/
+,
+r
+5
+o
+• CAN bus (data wire)
+* from June 2010
+B278 ** 2.5 bar
+T32/21 T32/15 T32/29 T32/30 T32/8
+• •
+0,35 0,35 0,35 0,35 0,5 0,5 0,35
+br/ge sw or/bl or/br gr/ge sw/ro sw/ro
+225599
+T14/1
+J53
+T
+3
+20d/18
+J53
+T
+3
+20d/8 T6a/6 T6a/4
+0,35 0,35 0,5 0,5
+sw sw/gr gr/ge sw/ro
+9944
+1 1 3 1
+✱
+✱✱
+F66 F22 G266
+2 2/31 ws = white
+3388 sw = black
+ro = red
+0,35
+0,5 0,5 br = brown
+br/bl
+br br
+gn = green
+410 bl = blue
+410 T6a/5
+gr = grey
+li = purple
+ge = yellow
+295 296 297 298 299 300 301 302 303 304 305 306 307 308
+or = orange
+8J0-046230410
+rs = pink
+Edition 04.2010

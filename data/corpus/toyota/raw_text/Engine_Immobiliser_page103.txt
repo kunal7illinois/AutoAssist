@@ -1,0 +1,45 @@
+EI–99
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+2GR-FE:
+No. 3 J/B Transponder Key
+ECU Assembly
+8 J/C 3 21 1 1
+W LG W W
+A41 A42 EA2 3J 3B 1
+E15 +B
+Engine Room R/B
+Instrument Panel J/B
+IG2 Relay
+18 7 IGN 13 2
+5 3 BR BR LG
+1 1 EA1 II IM E15 IG
+B 1 2 BR
+1 1
+E23 Engine Room R/B
+Ignition Switch
+10 1 ST/AM2
+Y 6 IG2 AM2 5 B B
+EA1 AE7 1
+IG2
+Y
+1
+2 EFI NO. 1 1
+1A 1G
+EI
+W
+No. 3 J/B
+E49
+FL MAIN
+J/C
+3 2 16
+9 W-B W-B
+3C 3B E15 GND
+2
+W-B
+BATTERY
+A2 E2
+B128325E01
+INSPECTION PROCEDURE
+NOTICE:
+If the transponder key ECU assembly is replaced, register the key and ECU communication ID
+(See page EI-57).

@@ -1,0 +1,48 @@
+35B-4 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+5. If you can verify the condition but there are no 7. Recreate the ABS DTC set conditions to see if the
+ABS DTCs, or the system cannot communicate same ABS DTC will set again.
+with the scan tool, check that the basic brake • If the same ABS DTC sets again, perform the
+system is operating properly. diagnostic procedures for the DTC. Refer to
+• If the basic brake system is not operating prop- P.35B-7.
+erly, refer to the GROUP 35A, Basic Brake Sys- • If you cannot get the same ABS DTC to set
+tem Diagnosis P.35A-4. again, the malfunction is intermittent. Refer to
+• If the basic brake system is operating properly, GROUP 00, How to use Troubleshooting/Inspec-
+refer to P.35B-26. tion Service Points − How to Cope with Intermit-
+6. If there is an ABS DTC, record the number of the tent Malfunctions P.00-6.
+DTC, then erase the DTC from the memory using
+the scan tool.
+ABS TROUBLE CODE DIAGNOSIS
+M1352011200273
+Retrieving ABS Diagnostic Trouble Codes
+.Using Scan Tool MB991502
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOOK" (OFF) position before con-
+necting or disconnecting the scan tool MB991502.
+1. Connect scan tool MB991502 to the data link connector.
+2. Turn the ignition switch to the "ON" position.
+3. Use scan tool MB991502 to check for ABS diagnostic
+trouble codes.
+4. Turn the ignition switch to the "LOOK" (OFF) position.
+5. Disconnect scan tool MB991502.
+16 PIN
+MB991502 AC001252AF
+.
+Using the ABS Warning Light and Special Tool MB991529
+Required Special Tool:
+• MB991529: Diagnostic Trouble Code Check Harness
+1. Use special tool MB991529 to ground number 1 terminal of
+the data link connector.
+CAUTION
+Do not depress the brake pedal after the ignition switch is
+turned to the "ON" position. If the brake pedal is
+depressed while the ABS is inoperative and the ignition
+MB991529
+switch is "ON," the ABS warning light will remain on.
+Because of this, diagnostic trouble codes will not be read
+DATA LINK out.
+CONNECTOR AC002241AB 2. Turn the ignition switch to the "ON" position.
+TSB Revision

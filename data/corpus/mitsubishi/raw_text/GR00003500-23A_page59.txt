@@ -1,0 +1,41 @@
+AUTOMATIC TRANSAXLE 23A-59
+AUTOMATIC TRANSAXLE DIAGNOSIS
+DTC 14: Throttle Position Sensor System (Maladjusted Sensor)
+. .
+Throttle Position Sensor System Circuit TROUBLESHOOTING HINTS (The most likely
+Refer to P.23A-42. causes for this code to be set:)
+• Malfunction of the throttle position sensor circuit
+CIRCUIT OPERATION
+• Damaged harness, connector
+Refer to P.23A-42.
+• Malfunction of the PCM
+.
+DTC SET CONDITIONS
+If TPS output voltage is 0.2 volts or lower or if it is
+1.2 volts or higher when the engine is idling, the TPS
+adjustment is judged to be incorrect and diagnostic
+trouble code number "14" is output.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Using scan tool MB991502, check the A/T
+diagnostic trouble code.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the A/T diagnostic trouble code.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the A/T diagnostic trouble code number "11" or "12"
+output?
+YES : Refer to P.23A-42, code number 11: Throttle Position
+16 PIN Sensor System (Short Circuit) or P.23A-51 code
+number 12: Throttle Position Sensor System (Open
+MB991502
+AC001252AB Circuit).
+NO : Go to Step 2.
+TSB Revision

@@ -1,0 +1,41 @@
+13B-120 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 11. Check the engine coolant temperature sensor.
+(1) Disconnect the engine coolant temperature sensor
+CONNECTOR : B-11 ENGINE
+connector B-11.
+COOLANT
+TEMPERATURE (2) Remove the engine coolant temperature sensor.
+SENSOR
+ACX02490AC
+(3) With the temperature sensing portion of engine coolant
+temperature sensor immersed in hot water, check
+resistance.
+Standard value:
+14 − 17 kΩ [at −20°C (−4°F)]
+5.1 − 6.5 kΩ [at 0°C (32°F)]
+2.1 − 2.7 kΩ [at 20°C (68°F)]
+0.9 − 1.3 kΩ [at 40°C (104°F)]
+0.48 − 0.68 kΩ [at 60°C (140°F)]
+AKX01622 0.26 − 0.36 kΩ [at 80°C (176°F)]
+(4) Apply 3M(cid:1) AAD part number 8731 or equivalent on the
+screw section of the engine coolant temperature sensor.
+(5) Install the engine coolant temperature sensor, and tighten
+to the specified torque.
+Tightening torque: 29 ± 10 N⋅m (22 ± 7 ft-lb)
+Q:Is the resistance at the standard value?
+YES : Go to Step 12.
+NO : Replace the engine coolant temperature sensor. Then
+go to Step 14.
+AKX01623AB
+STEP 12. Check connector C-58 at ECM <M/T> or
+connector C-55 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-58<M/T>, C-55<A/T>
+YES : Go to Step 13.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 14.
+C-55 C-58
+AK000225AI
+TSB Revision

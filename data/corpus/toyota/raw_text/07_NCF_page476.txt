@@ -1,0 +1,32 @@
+BE-142 BODY ELECTRICAL - SRS AIRBAG SYSTEM
+(cid:3)AIRBAG FOR FRONTAL COLLISION
+1. General
+(cid:1) In conjunction with their impact absorbing structure for frontal collisions, the driver and front passenger
+dual-stage SRS airbags and the driver knee airbag deploy simultaneously, and are supplements to the seat
+belts. The driver and front passenger dual-stage SRS airbags have been designed to help reduce injuries
+to the head and chest in the event of a frontal collision. The driver knee airbag restrict the lower parts of
+the occupant’s body, thus enhancing the excellent passenger protection provided by the seat belt and front
+airbag.
+(cid:1) The deceleration sensor is enclosed in the front airbag sensor. Due to the deceleration of the vehicle during
+a front collision, a distortion is created in the sensor and converted into an electrical signal. Accordingly,
+the extent of the initial collision can be detected in detail.
+(cid:1) Front Airbag Operation (cid:2)
+Collision Impact Front Airbag Sensor
+(LH or RH)
+Driver Seat Belt
+Pretensioner
+Seat Belt Buckle Switch
+Driver Airbag
+Seat Position Sensor
+Airbag Sensor Knee Airbag
+Assembly (for Driver)
+Occupant Classification ECU
+Front Passenger
+Airbag
+CAN (CAN No.1 Bus)
+Combination Meter
+(cid:1) SRS Warning Light
+Fuel Cut Front Passenger Seat
+Signal Belt Pretensioner
+ECM
+025BE110TE

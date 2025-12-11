@@ -1,0 +1,35 @@
+TW–66
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+HINT:
+Enter the following menus: DIAGNOSIS / OBD/MOBD /
+METER / DATA LIST.
+METER
+Item Normal Condition
+VEHICLE SPD Almost same as actual vehicle speed
+(d) Check that the values indicated on the tester and on the
+combination meter are the same.
+OK:
+Vehicle speed indicated on the intelligent tester
+indicates the actual speed.
+NG GO TO METER / GAUGE SYSTEM
+OK
+TW
+2 CHECK HARNESS AND CONNECTOR (ECU - COMBINATION METER)
+(a) Disconnect the E60 ECU connector.
+Wire Harness Side Connector Front View:
+(b) Disconnect the F2 meter connector.
+Tire Pressure Warning ECU (c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Specified Condition
+E60 E60-2 (SPD) - F2-12 (+S) Below 1 Ω
+E60-2 (SPD) - Body ground 10 kΩ or higher
+SPD
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Combination Meter
+F2
++S
+E129462E01
+OK
+REPLACE TIRE PRESSURE WARNING ECU

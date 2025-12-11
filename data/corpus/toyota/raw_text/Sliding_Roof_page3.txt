@@ -1,0 +1,38 @@
+RF–3
+SLIDING ROOF – SLIDING ROOF SYSTEM
+SYSTEM DESCRIPTION
+1. GENERAL
+This system has the following functions: manual slide
+open and close; auto slide open and close; manual tilt up
+and down; auto tilt up and down; jam protection; and key
+off operation.
+2. FUNCTION OF MAIN COMPONENT
+Component Outline
+Sliding Roof Drive Gear Sub-assembly Sliding roof ECU controls sliding roof motor to rotate forward and
+(Sliding roof ECU) backward, which tilts or slides sliding roof glass.
+Output of operation signals from built-in sliding roof switch to sliding
+Overhead Junction Block
+roof ECU is handled by overhead junction block.
+3. SYSTEM OPERATION
+The sliding roof has the following features:
+Function Outline
+This function causes sliding roof to open (or close) when OPEN/
+Manual slide open and close CLOSE switch is pressed for a maximum of 0.3 seconds. Sliding roof RF
+stops as soon as the switch is released.
+This function causes sliding roof to fully open (or close) when OPEN/
+Auto slide open and close
+CLOSE switch is pressed for a minimum of 0.3 seconds.
+This function causes sliding roof to tilt up (or tilt down) when UP/
+Manual tilt up and down
+DOWN switch is pressed for a maximum of 0.3 seconds.
+This function enables sliding roof to tilt up (or down) when UP/DOWN
+Auto tilt up and down
+switch is pressed for a minimum of 0.3 seconds.
+The jam protection function automatically stops sliding roof, or stops
+sliding roof and makes it open halfway (or fully tilted up) if a foreign
+Jam protection
+object gets jammed in sliding roof during auto close operation (or auto
+tilt down operation).
+Key off operation function makes it possible to operate sliding roof for
+Key off operation approximately 43 seconds after ignition switch is turned off, if front
+doors are not opened.

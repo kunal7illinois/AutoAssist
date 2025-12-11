@@ -1,0 +1,32 @@
+CA–5
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+SYSTEM DIAGRAM
+: CAN Main Bus Wire (CANH)
+: CAN Main Bus Wire (CANL)
+*1: with Smart Key System
+*2: with VSC
+: CAN Branch Wire (CANH)
+: CAN Branch Wire (CANL)
+Combination Meter Certification ECU*1
+: CAN MS Bus Wire (CANH)
+120 Ω 120 Ω
+: CAN MS Bus Wire (CANL)
+No. 1 CAN J/C
+120 Ω
+Main Body ECU
+DLC3
+CA
+Yaw Rate Sensor*2
+Steering Angle
+Sensor*2
+Center Airbag Sensor
+Assembly
+No. 2 CAN J/C (Rear of the Vehicle)
+A/C Amplifier
+Accessory Gateway
+Skid Control ECU
+with Actuator
+No. 2 CAN J/C (Front of the Vehicle)
+120 Ω
+ECM
+C136704E04

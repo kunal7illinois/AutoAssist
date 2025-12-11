@@ -1,0 +1,56 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-29
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR: A-18X CONNECTORS:C-49,C-53,C-60<M/T>,
+C-50,C-54<A/T>
+MFI RELAY
+ECM<M/T>
+OR
+PCM<A/T>
+C-49,
+C-50 C-53, C-60
+C-54
+AK101363AB
+AK000280BU
+CONNECTOR : B-14
+VOLUME AIR
+FLOW SENSOR
+ACX02480AC
+. .
+CIRCUIT OPERATION DTC SET CONDITIONS
+• The volume air flow sensor power is supplied
+Check Conditions
+from the MFI relay (terminal 4), and the ground is
+• Throttle position sensor output voltage is 1.5 volts
+provided on the ECM (terminal 40) <M/T> or
+or higher.
+PCM (terminal 16) <A/T>.
+• Engine speed is higher than 2,000 r/min.
+• 5-volt power is applied to the volume air flow sen-
+sor output terminal (terminal 3) from the ECM Judgement Criteria
+(terminal 90) <M/T> or PCM (terminal 65) <A/T>. • Volume air flow sensor output frequency has con-
+The volume air flow sensor generates a pulse tinued to be 60 Hz or lower for 2 seconds.
+signal when the output terminal and ground are
+Check Conditions
+opened/closed (opened/short). • Throttle position sensor output voltage is 2 volts
+or lower.
+.
+TECHNICAL DESCRIPTION • Engine speed is lower than 2,000 r/min.
+• While the engine is running, the volume air flow
+Judgement Criteria
+sensor outputs a pulse signal which corresponds
+• Volume air flow sensor output frequency has con-
+to the volume of air flow.
+• The ECM <M/T> or PCM <A/T> checks whether tinued to be 800 Hz or higher for 2 seconds.
+the frequency of this signal output by the volume
+.
+air flow sensor while the engine is running is at or TROUBLESHOOTING HINTS (The most likely
+above the set value. causes for this code to be set are:)
+• When the throttle position sensor output voltage • Volume air flow sensor failed.
+is low, the ECM <M/T> or PCM <A/T> causes the • Open or shorted volume air flow sensor circuit, or
+power transistor to be "ON" to send an air flow loose connector.
+sensor reset signal to the air flow sensor. In • ECM failed. <M/T>
+response to the reset signal, the air flow sensor • PCM failed. <A/T>
+resets the filter circuit and improves the ability of • Air leak between volume air flow sensor and
+the air flow sensor to measure the amount of air throttle body.
+in a small air intake region.
+TSB Revision

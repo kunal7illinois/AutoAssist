@@ -1,0 +1,26 @@
+ES–278
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK:
+Throttle valve is not contaminated with foreign
+objects and moves smoothly.
+NG REPLACE THROTTLE BODY ASSEMBLY
+OK
+3 CHECK WHETHER DTC OUTPUT RECURS (DTC P2111 OR P2112)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+ES
+(d) Clear DTCs (see page ES-35).
+(e) Start the engine, and fully depress and release the
+accelerator pedal quickly (to fully open and close the
+throttle valve).
+(f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(g) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+No DTC A
+P2111 or P2112 B
+B REPLACE ECM
+A
+CHECK FOR INTERMITTENT PROBLEMS

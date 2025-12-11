@@ -1,0 +1,29 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-561
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+Standard wave pattern
+(V)
+10
+T
+TIME
+0
+AKX01596AB
+Wave Pattern Observation Points
+Check that cycle time T becomes shorter and the frequency
+increases when the engine speed is increased.
+.
+Examples of Abnormal Wave Patterns
+Example 1
+Cause of problem
+• Sensor interface malfunction.
+Wave pattern characteristics
+• Rectangular wave pattern is output even when the
+engine is not started.
+AKX01597
+Example 2
+Cause of problem
+• Damaged rectifier or vortex generation column.
+Wave pattern characteristics
+• Unstable wave pattern with non-uniform frequency. An
+ignition leak will distort the wave pattern temporarily,
+even if the volume air flow sensor is normal.
+TSB Revision

@@ -1,0 +1,43 @@
+ES–217
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(d)Repair the cylinder(s) that has a high misfiring rate or is indicated by the DTC.
+(e)After finishing repairs, conduct the confirmation driving pattern again, in order to verify that DTC
+P0300 is not set.
+• When one of SHORT FT #1, LONG FT #1, SHORT FT #2 or LONG FT #2 in the freeze frame data is
+outside the range of +-20 %, the air-fuel ratio may be RICH (-20 % or less) or LEAN (+20 % or more).
+• When the COOLANT TEMP in the freeze frame data is less than 75°C (167°F), the misfire have
+occurred only while warming up the engine.
+1 CHECK ANY OTHER DTC OUTPUT (IN ADDITION TO MISFIRE DTCS)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Enter the following menus: DIAGNOSIS / ENHANCED
+ES
+OBD II / DTC INFO / CURRENT CODES.
+(e) Read the DTCs.
+Result
+Display (DTC output) Proceed to
+P0300, P0301, P0302, P0303, P0304, P0305 and/or P0306 A
+P0300, P0301, P0302, P0303, P0304, P0305 and/or P0306 and other DTCs B
+HINT:
+If any DTCs other than P0300, P0301, P0302, P0303, P0304,
+P0305 and P0306 are output, troubleshoot those DTCs first.
+B GO TO DTC CHART (See page ES-63)
+A
+2 READ VALUE OF INTELLIGENT TESTER (MISFIRE RPM AND MISFIRE LOAD)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DATA LIST / MISFIRE / MISFIRE RPM and
+MISFIRE LOAD.
+(d) Read and note the MISFIRE RPM and MISFIRE LOAD
+(engine load) values.
+HINT:
+The MISFIRE RPM and MISFIRE LOAD values indicate
+the vehicle conditions under which the misfire occurred.
+NEXT
+3 CHECK PCV HOSE (HOSE CONNECTIONS)
+OK:
+PCV hose is connected correctly and is not damaged.
+NG REPAIR OR REPLACE PCV HOSE
+OK

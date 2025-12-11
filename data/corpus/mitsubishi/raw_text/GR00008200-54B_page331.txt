@@ -1,0 +1,40 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-331
+SYMPTOM PROCEDURES
+STEP 15. Check headlight (LH) connector A-24 and front-
+ECU connector A-10X for damage.
+Q:Are headlight (LH) connector A-24 and front-ECU
+CONNECTOR: A-24
+connector A-10X in good condition?
+YES : Go to Step 16.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. Check
+that the headlights illuminate normally.
+DEVICE SIDE
+1
+2 3
+AC106465AC
+CONNECTOR: A-10X
+FRONT-ECU
+DEVICE SIDE A-10X
+1 2 3 4 5 6 7 8 91011
+AC106535AE
+STEP 16. Check the wiring harness between headlight (LH)
+connector A-24 (terminal 3) and front-ECU connector A-
+10X (terminal 2).
+Q:Is the wiring harness between headlight (LH) connector
+CONNECTOR: A-24
+A-24 (terminal 3) and front-ECU connector A-10X
+(terminal 2) in good condition?
+YES : No action to be taken.
+NO : Repair the wiring harness. Check that the headlights
+illuminate normally.
+DEVICE SIDE
+1
+2 3
+AC106465AC
+CONNECTOR: A-10X
+FRONT-ECU
+DEVICE SIDE A-10X
+1 2 3 4 5 6 7 8 91011
+AC106535AE
+TSB Revision

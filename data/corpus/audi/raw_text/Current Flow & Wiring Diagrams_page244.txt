@@ -1,0 +1,38 @@
+Audi TT No. 31 / 5
+Current Flow Diagram
+Navigation system with CD drive control unit, digital sound
+package control unit, rear left and right treble loudspeaker,
+rear left and right mid-range and bass loudspeaker
+J401 Navigation system with CD drive control unit
+J525 Digital sound package control unit
+R14 Rear left treble loudspeaker
+R16 Rear right treble loudspeaker
+R159 Rear left mid-range and bass loudspeaker
+R160 Rear right mid-range and bass loudspeaker
+T32a 32-pin connector, black, on digital sound package control unit
+T38 38-pin connector, black, on digital sound package control unit
+# up to January 2009
+## from February 2009
+J401
+R159 R14 R160 R16
+1/-- 2/+ 2/+ 1/-- 1/-- 2/+ 2/+ 1/--
+0,5 0,5 0,5 0,5
+br ro br bl
+1,0 1,0 1,0 1,0
+br/gn ro/gn br/ws bl/ws
+T38/20## T38/8## T38/7## T38/19##
+T32a/6# T32a/7# T32a/18# T32a/19#
+ws = white
+J525
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-031051008
+rs = pink
+Edition 04.2009

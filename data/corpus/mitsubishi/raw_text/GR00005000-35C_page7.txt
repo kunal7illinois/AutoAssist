@@ -1,0 +1,54 @@
+TRACTION CONTROL SYSTEM (TCL) 35C-7
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+5. Turn the ignition switch to the "LOCK" (OFF) position.
+6. Disconnect special tool MB991529.
+DIAGNOSTIC TROUBLE CODE CHART
+M1354000600080
+Follow the inspection chart that is appropriate for the
+diagnostic trouble code.
+DIAGNOSTIC TROUBLE INSPECTION ITEM DIAGNOSTIC CONTENT REFERENCE PAGE
+CODE NO.
+11 Front right wheel speed Open circuit or short GROUP 35B, Diagnostic
+sensor circuit Trouble Code Procedures
+P.35B-8
+12 Front left wheel speed
+sensor
+13 Rear right wheel speed
+sensor
+14 Rear left wheel speed
+sensor
+15 Wheel speed sensor Abnormal output signal
+16 Power supply system ABS-ECU power supply Check the battery. (Refer
+voltage below or above to GROUP 54A, Battery −
+the standard value. Not On-vehicle Service −
+displayed if the voltage Battery Check P.54A-5.)
+recovers.
+21 Front right wheel speed sensor GROUP 35B, Diagnostic
+Trouble Code Procedures
+22 Front left wheel speed sensor
+P.35B-8
+23 Rear right wheel speed sensor
+24 Rear left wheel speed sensor
+31 TCL front left solenoid valve (IN) P.35C-8
+32 TCL front left solenoid valve (OUT)
+33 TCL front right solenoid valve (IN)
+34 TCL front right solenoid valve (OUT)
+38 Stoplight switch system GROUP 35B, Diagnostic
+Trouble Code Procedures
+P.35B-19
+41 ABS front right solenoid valve (IN) P.35C-8
+42 ABS front left solenoid valve (IN)
+43 ABS rear right solenoid valve (IN)
+44 ABS rear left solenoid valve (IN)
+45 ABS front right solenoid valve (OUT)
+46 ABS front left solenoid valve (OUT)
+47 ABS rear right solenoid valve (OUT)
+48 ABS rear left solenoid valve (OUT)
+51 Valve power supply
+53 Pump motor
+63 ABS-ECU Replace the hydraulic unit
+(Integrated with ABS-
+ECU). (Refer to GROUP
+35B, Hydraulic Unit
+P.35B-52.)
+TSB Revision

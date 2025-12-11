@@ -1,0 +1,99 @@
+DL–16
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Using mechanical key,
+Below 1 V →
+Driver door key-linked operate driver door lock
+UL3 (E7-8) - Body ground GR - Body ground 10 to 14 V (or pulse
+door unlock input cylinder to LOCK →
+generation)
+UNLOCK
+Using mechanical key,
+Below 1 V →
+Driver door key-linked operate driver door lock
+L2 (IK-16) - Body ground BR - Body ground 10 to 14 V (or pulse
+door lock input cylinder to UNLOCK →
+generation)
+LOCK
+Using mechanical key,
+Below 1 V →
+Front passenger door key- operate passenger door
+UL2 (IK-7) - Body ground GR - Body ground 10 to 14 V (or pulse
+linked door unlock input lock cylinder to LOCK →
+generation)
+UNLOCK
+Using mechanical key,
+Below 1 V →
+Front passenger door key- operate passenger door
+L2 (IJ-5) - Body ground W - Body ground 10 to 14 V (or pulse
+linked door lock input lock cylinder to UNLOCK
+generation)
+→ LOCK
+Door control switch
+(Master switch or
+Door lock motor LOCK Below 1 V →
+passenger side switch) or
+ACT+ (IJ-1) - Body ground L - Body ground drive output (Front 10 to 14 V →
+driver side door key
+passenger door) Below 1 V
+cylinder OFF → LOCK →
+OFF
+Door control switch
+(Master switch or
+Door lock motor LOCK Below 1 V →
+passenger side switch) or
+ACT+ (IP-11) - Body ground W - Body ground drive output (Rear door 10 to 14 V →
+driver side door key
+LH) Below 1 V
+cylinder OFF → LOCK →
+OFF
+Door control switch
+(Master switch or
+Door lock motor LOCK Below 1 V →
+passenger side switch) or
+ACT+ (IF-5) - Body ground L - Body ground drive output (Rear door 10 to 14 V →
+driver side door key
+RH) Below 1 V
+cylinder OFF → LOCK →
+OFF
+Door control switch
+(Master switch or
+Door lock motor UNLOCK Below 1 V →
+passenger side switch) or
+ACT- (IP-6) - Body ground G - Body ground drive output (Rear door 10 to 14 V →
+driver side door key
+LH) Below 1 V
+cylinder OFF → UNLOCK
+→ OFF
+Door control switch
+(Master switch or
+Door lock motor UNLOCK Below 1 V →
+passenger side switch) or
+ACT- (IF-18) - Body ground B - Body ground drive output (Rear door 10 to 14 V →
+driver side door key
+RH) Below 1 V
+cylinder OFF → UNLOCK
+→ OFF
+Luggage compartment
+DL Door lock motor UNLOCK open switch (Transmitter) Below 1 V →
+TR+ (E7-1) - Body ground B - Body ground drive output (Luggage or luggage compartment 10 to 14 V →
+compartment door) door key cylinder OFF → Below 1 V
+UNLOCK → OFF
+Door control switch
+(Master switch or
+Below 1 V →
+Door lock motor UNLOCK passenger side switch) or
+ACTD (E7-5) - Body ground GR - Body ground 10 to 14 V →
+drive output (Driver door) driver side door key
+Below 1 V
+cylinder OFF → UNLOCK
+→ OFF
+Door control switch
+(Master switch or
+Below 1 V →
+Door lock motor LOCK passenger side switch) or
+ACT+ (IK-2) - Body ground W - Body ground 10 to 14 V →
+drive output (Driver door) driver side door key
+Below 1 V
+cylinder OFF → LOCK →
+OFF

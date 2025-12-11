@@ -1,0 +1,37 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-373
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 9. Check connector C-51 at ECM <M/T> or connector
+C-52 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-51<M/T>, C-52<A/T>
+YES : Go to Step 10.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 12.
+C-52 C-51
+AK000225AJ
+STEP 10. Check for harness damage between MFI relay
+connector A-18X terminal 4 and evaporative emission
+purge solenoid connector B-33 terminal 2.
+Q:Is the harness wire in good condition?
+CONNECTOR: A-18X
+YES : Go to Step 11.
+MFI RELAY NO : Repair it. Then go to Step 12.
+AK101363AB
+CONNECTOR: B-33 <WITHOUT VARIABLE
+INDUCTION SYSTEM>
+EVAPORATIVE
+EMISSION
+PURGE
+SOLENOID
+VALVE
+ACX02514AO
+CONNECTOR: B-33 <WITH VARIABLE
+INDUCTION SYSTEM>
+EVAPORATIVE
+EMISSION
+PURGE
+SOLENOID
+VALVE
+AC106191AC
+TSB Revision

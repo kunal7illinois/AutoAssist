@@ -1,0 +1,45 @@
+BE-104 BODY ELECTRICAL - SMART KEY SYSTEM
+When key battery is low
+Step System Operation
+To operate the push button start system when the key battery is low, hold the key against the
+a)
+engine switch as shown below while depressing the brake pedal.
+The main body ECU receives the stop light switch signal and transmits a key certification
+b)
+request signal to the certification ECU.
+The certification ECU does not receive an ID code response from the tuner, so it actuates the
+c)
+transponder key amplifier built into the engine switch.
+d) The transponder key amplifier outputs an engine immobilizer radio wave to the key.
+The key receives the radio wave, and returns a radio wave response to the transponder key
+e)
+amplifier.
+The transponder key amplifier combines the key ID codes with the radio wave response, and
+f)
+transmits it to the certification ECU.
+The certification ECU judges and verifies the ID code, and transmits a key certification OK
+g)
+signal to the main body ECU. The buzzer in the combination meter sounds at the same time.
+After the buzzer sounds, if the engine switch is pressed within five seconds while the brake
+h) pedal is depressed, the power source switches to start the engine running, the same as with
+normal smart key operation.
+After the buzzer sounds, if the engine switch is pressed within five seconds while the brake
+i) pedal is not depressed, the power source will be switched to ACC or IG-ON, the same as with
+normal smart key operation.
+TOYOTA Mark
+Engine Switch
+Within 10 mm Key
+025BE112TE
+Key
+d)
+h), i) a), h), i)
+Main Body ECU Stop Light Switch
+e)
+g)
+c)
+b)
+g)
+Combination Meter
+Certification ECU (cid:3) Buzzer
+f)
+025BE86P

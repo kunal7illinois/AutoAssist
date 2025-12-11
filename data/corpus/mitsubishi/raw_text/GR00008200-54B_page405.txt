@@ -1,0 +1,35 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-405
+SYMPTOM PROCEDURES
+CONNECTORS <ECLIPSE>: D-03, D-04, D-25
+CONNECTORS: C-118, C-119
+JUNCTION BLOCK
+(REAR VIEW) D-03<with sunroof, without vanity mirror light>,
+D-04<without sunroof>,
+D-25<with sunroof and vanity mirror light>
+C-118
+C-119
+AC106481AL AC106554AB
+CONNECTOR: D-03 <ECLIPSE SPYDER> CONNECTOR <ECLIPSE>: F-21
+AC106555AB AC106489AF
+CONNECTOR <ECLIPSE SPYDER>: F-21
+AC106491AE
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+Is the dome light does not flash normally, a burned-
+The ETACS-ECU operates the dome light according
+out dome light bulb, the input circuits from the
+to the following signals:
+• Ignition switch (IG1): ON or OFF switches described in "CIRCUIT OPERATION", the
+• Key reminder switch: ON or OFF power supply line to the switches or the ETACS-ECU
+• Front door switch: ON or OFF may be defective.
+• Driver(cid:146)s door lock actuator switch: LOCK or
+.
+UNLOCK TROUBLESHOOTING HINTS
+• Malfunction of the key reminder switch
+. • Malfunction of the door switch
+• Malfunction of the driver’s door lock actuator
+switch
+• Malfunction of the dome light
+• Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+TSB Revision

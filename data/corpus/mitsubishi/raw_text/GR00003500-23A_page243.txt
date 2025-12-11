@@ -1,0 +1,38 @@
+AUTOMATIC TRANSAXLE 23A-243
+AUTOMATIC TRANSAXLE DIAGNOSIS
+CONNECTOR: C-43 CONNECTOR: C-61 <2.4L ENGINE> OR
+C-43 C-63 <3.0L ENGINE>
+PCM
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001729AW AC001657BC
+CONNECTOR: C-78
+C-78
+AC001729AZ
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+If the PCM detects a fail-safe condition, it will attempt
+If a fail-safe is triggered while driving forward, the
+to illuminate the "N" range light. The PCM sends a 12
+PCM flashes the "N" range light once per second
+volts pulse for 60 − 180 ms. If it does not detect a
+(triggered fail-safe). The PCM does this by switching
+voltage drop during the pulse, it waits about 60 sec-
+battery positive voltage to terminal 121.
+onds and pulses 12 volts again for 60 − 180 ms. If
+the PCM does no detect the voltage drop before the
+.
+ignition switch is turned "LOCK" (OFF), the PCM will
+consider it as an short circuit of the "N" range light
+circuit and output code number "56."
+.
+TROUBLESHOOTING HINTS (The most likely
+causes for this code to be set:)
+• Defective "N" range light bulb
+• Damaged harness, connector
+• Malfunction of the PCM
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+TSB Revision

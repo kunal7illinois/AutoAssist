@@ -1,0 +1,58 @@
+ES–275
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Evaporative Emission Control System Pressure
+DTC P0450
+Sensor / Switch
+Evaporative Emission Control System Pressure
+DTC P0451
+Sensor Range / Performance
+Evaporative Emission Control System Pressure
+DTC P0452
+Sensor / Switch Low Input
+Evaporative Emission Control System Pressure
+DTC P0453
+Sensor / Switch High Input
+ES
+DTC SUMMARY
+Malfunction Detection Detection
+DTC No. Monitoring Item Trouble Area Detection Timing
+Condition logic
+• EVAP
+Sensor output voltage rapidly monitoring
+Pressure sensor
+fluctuates beyond upper and • Pump module (engine switch
+P0450 voltage abnormal 1 trip
+lower malfunction thresholds for • ECM off)
+fluctuation
+0.5 seconds. • Engine switch
+on
+• EVAP
+• Pump module monitoring
+Pressure sensor Sensor output voltage fluctuates • Connector / wire harness (engine switch
+P0451 2 trip
+noising frequently in a certain time period. (Pump module - ECM) off)
+• ECM • Engine switch
+running
+• Pump module • EVAP
+Pressure sensor Sensor output voltage does not • Connector / wire harness monitoring
+P0451 2 trip
+stuck vary in a certain time period. (Pump module - ECM) (engine switch
+• ECM off)
+• EVAP
+• Pump module monitoring
+Pressure sensor Sensor output voltage less than • Connector / wire harness (engine switch
+P0452 1 trip
+voltage low 0.45 V for 0.5 seconds. (Pump module - ECM) off)
+• ECM • Engine switch
+on
+• EVAP
+• Pump module monitoring
+Pressure sensor Sensor output voltage more than • Connector / wire harness (engine switch
+P0453 1 trip
+voltage high 4.9V for 0.5 seconds. (Pump module - ECM) off)
+• ECM • Engine switch
+on
+HINT:
+The pressure sensor is built into the pump module.
+DESCRIPTION
+The circuit description can be found in the EVAP (Evaporative Emission) System (See page ES-400).

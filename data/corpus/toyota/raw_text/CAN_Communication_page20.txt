@@ -1,0 +1,39 @@
+CA–20
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+Terminals Wiring Color Terminal Description Condition Specified Condition
+LOW-level CAN bus wire -
+E34-2 (CANL) - E10-16 (BAT) W - O Ignition Switch off 6 kΩ or higher
+Battery positive
+(b) TMMK made
+(1) Disconnect the E34 connector from the yaw rate
+sensor.
+(2) Measure the resistance according to the
+value(s) in the table below.
+CANL
+E65
+CANH
+GND
+E10
+CA
+BAT
+C136716E01
+Standard resistance
+Terminals Wiring Color Terminal Description Condition Specified Condition
+HIGH-level CAN bus wire -
+E65-3 (CANH) - E65-2 (CANL) B - W Ignition Switch off 54 to 69 Ω
+LOW-level CAN bus wire
+HIGH-level CAN bus wire -
+E65-3 (CANH) - E65-1 (GND) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+LOW-level CAN bus wire -
+E65-2 (CANL) - E65-1 (GND) W - W-B Ignition Switch off 200 Ω or higher
+Ground
+HIGH-level CAN bus wire -
+E65-3 (CANH) - E10-16 (BAT) B - O Ignition Switch off 6 kΩ or higher
+Battery positive
+LOW-level CAN bus wire -
+E65-2 (CANL) - E10-16 (BAT) W - O Ignition Switch off 6 kΩ or higher
+Battery positive
+7. CENTER AIRBAG SENSOR ASSEMBLY
+(a) Disconnect the E30 connector from the center
+airbag sensor assembly.

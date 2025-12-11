@@ -1,0 +1,52 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-185
+SYMPTOM PROCEDURES
+Mist wiper control
+When the ignition switch is at the ACC or ON posi- When the windshield mist switch is turned on briefly,
+tion, if the windshield mist wiper switch of the column the wiper operates at low speed once.
+switch is turned ON, the front ECU turns ON the At the point the windshield mist switch is turned ON,
+windshield wiper drive signal. At the same time, the if the windshield wiper has been operating intermit-
+wiper speed switching relay is turned ON (HIGH- tently, the same operations as the above will be per-
+SPEED). While the windshield mist wiper switch is formed while the windshield mist wiper switch is ON.
+ON, the windshield wiper will operate at high speed. After the windshield mist wiper switch goes OFF, the
+Then, if the windshield mist wiper switch is turned off, intermittent operations will be set again TI seconds
+the wiper operates at low speed until it stops at the after the windshield wiper auto-stop signal is turned
+predetermined park position. ON last.
+ON
+Windshield mist wiper switch
+OFF
+ON
+Windshield wiper auto-stop
+signal OFF
+ON
+Windshield wiper drive signal
+OFF
+Windshield wiper speed ON (HIGH) TI TI
+switching relay OFF (LOW)
+When windshield When windshield intermittent
+wiper switch is OFF wiper is operating AC005436AB
+TI: Intermittent wiper intermittent time
+.
+Low speed wiper, high speed wiper control
+When the ignition switch is at the ACC or ON posi- shield wiper at low speed. Next, when the windshield
+tion, if the windshield low speed wiper switch of the high speed wiper switch is turned ON, the windshield
+column switch is turned ON, the front ECU turns ON wiper drive signal is turned ON, the windshield wiper
+the windshield wiper drive signal, turns OFF (LO) the speed switching relay is turned ON (HI), and the
+windshield wiper speed relay, and operates the wind- windshield wiper is operated at high speed.
+ON
+Windshield low-speed
+wiper switch OFF
+ON
+Windshield high-speed
+wiper switch OFF
+ON
+Windshield wiper auto-stop
+signal OFF
+ON
+Windshield wiper
+drive signa OFF
+Windshield wiper ON (HIGH)
+speed switching relay OFF (LOW)
+Low speed operations High speed operations
+AC005437AB
+.
+TSB Revision

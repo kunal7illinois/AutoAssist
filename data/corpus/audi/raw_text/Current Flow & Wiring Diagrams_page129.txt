@@ -1,0 +1,54 @@
+Audi TT No. 11 / 5
+Current Flow Diagram
+Electronically controlled damping control unit, shock
+absorber damping adjustment button, shock absorber
+damping adjustment warning lamp
+E387 Shock absorber damping adjustment button
+E461 Operating unit in front of centre console
+J250 Electronically controlled damping control unit
+J519 Onboard supply control unit
+J533 Data bus diagnostic interface
+K189 Shock absorber damping adjustment warning lamp
+L156 Switch illumination bulb
+B341 T16b 16-pin connector, brown, on switch module centre console
+0,35 0,5 T20d 20-pin connector, black, on data bus diagnostic interface
+gr/bl gr/bl T47a 47-pin connector, on electronically controlled damping control
+B340 unit
+4433
+44 Earth point, lower part of left A-pillar
+0,5
+gr/bl
+384 Earth connection 19, in main wiring harness
+J519 ✱
+J250 394 Earth connection 29, in main wiring harness
+T47a/21 T47a/9 T47a/22 T47a/23 B340 Connection 1 (58s), in main wiring harness
+4433
+• •
+0,35 0,35 0,35 0,35 0,35 B341 Connection 2 (58s), in main wiring harness
+gr/bl sw/li br/bl or/br or/sw
+58s B383 Connection 1 (drive train CAN bus, high), in main wiring harness
+T16b/1 T16b/14 T16b/4
+B391 B384
+L156 E387 B384 Connection 2 (drive train CAN bus, high), in main wiring harness
+K189
+E461 • • B390 Connection 1 (drive train CAN bus, low), in main wiring harness
+T16b/2 0,35 0,35
+31 or/br or/sw
+B391 Connection 2 (drive train CAN bus, low), in main wiring harness
+384
+B390 B383 • CAN bus (data wire)
+* ⇒ basic equipment Current Flow Diagram
+• •
+0,35 1,0 1,5 0,35 0,35 ws = white
+br br br or/br or/sw sw = black
+ro = red
+394 T20d/6 T20d/16 br = brown
+J533 J533 gn = green
+bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-011050409
+rs = pink
+Edition 09.2009

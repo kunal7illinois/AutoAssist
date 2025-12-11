@@ -1,0 +1,31 @@
+TW–23
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+(d) Select the SIGNAL CHECK on intelligent tester.
+TW
+C110644
+(e) Drive the vehicle at 12 mph (20 km/h) or more for 10
+seconds or more. For checking the vehicle speed
+signal (C2191/91).
+(f) Loosen the valve core and rapidly reduce the
+pressure (at least 40 kPa (0.41 kg/cm2, 5.8 psi)
+within 30 seconds or more). For checking the
+transmitter data (C2181/81 to C2185/85).
+HINT:
+The transmitter ID can be transmitted by rapidly
+reducing the tire pressure.
+(g) Check that the tire pressure warning system test
+mode DTCs are erased.
+SIGNAL CHECK DTC Test Signal Signal Check DTC Clear Condition
+Receive data from the transmitter which has a registered ID in
+C2181/81 to C2185/85 Transmitter Data
+the tire pressure warning ECU
+Vehicle speed of 12 mph (20 km/h) or more is detected for 3
+C2191/91 Vehicle Speed Signal
+seconds or more
+(h) Check the tire pressure warning reset switch.
+(1) Press the tire pressure warning reset switch.
+(2) Check the tire pressure warning indicator light.
+Test Signal Normal Condition
+• Switch ON: TPWS indicator comes on
+Tire Pressure Warning Reset Switch
+• Switch OFF: TPWS indicator blinks

@@ -1,0 +1,41 @@
+ST–62
+2GR-FE STARTING – SMART KEY SYSTEM
+DTC B2281 "P" Signal Malfunction
+DESCRIPTION
+The main body ECU and the shift lock control ECU are connected by a cable and the CAN. If the cable
+information and CAN information are inconsistent, this DTC will be output.
+HINT:
+After the main body ECU is replaced, perform the registration procedures for the engine immobiliser
+system (See page EI-8).
+DTC No. DTC Detection Condition Trouble Area
+• Main body ECU
+Cable information and CAN information between main
+B2281 • Shift lock control ECU
+body ECU and shift lock control ECU are inconsistent
+• Wire harness or connector
+WIRING DIAGRAM
+Shift Lock Control ECU Main Body ECU
+ECM
+P From PNP Switch
+CAN
+CAN CAN
+11 2
+P2 E57 E9 P
+B137990E01
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the engine switch on (IG) and turn the intelligent
+tester main switch on.
+ST
+(c) Read the DATA LIST according to the displays on the
+tester.
+MAIN BODY:
+Measurement Item / Range
+Item Normal Condition Diagnostic Note
+(Display)
+ON: Shift P signal ON (Shift
+position is P)
+SHIFT P SIG Shift P Signal / ON or OFF -
+OFF: Shift P signal OFF (Shift
+position is not P)

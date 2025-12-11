@@ -1,0 +1,55 @@
+EI–14
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+(c) PROCEDURE "C"
+Additional key ID registration
+Process Procedure
+1. Start of registration 1. Connect intelligent tester (with CAN VIM) to DLC3
+2. Turn engine switch on (IG)
+3. Select "SMART ACCESS / ID UTILITY / SMART CODE REG"
+from tester menu
+2. Confirmation of registered key *1 Perform operation according to prompts on intelligent tester screen
+HINT:
+The mode is automatically selected by tester, new registration mode
+or add mode
+Hold unregistered key close to engine switch (For details, refer to
+PROCEDURE "1")
+Confirm that wireless door lock buzzer sounds once
+3. Confirmation of ECU code Perform operation according to prompts on tester screen
+4. Verification of unregistered key *2 Hold unregistered key close to engine switch (For details, refer to
+PROCEDURE "1")
+Confirm that wireless door lock buzzer sounds. Place unregistered
+key on front passenger's side seat
+Confirm that wireless door lock buzzer sounds
+5. Registration of ID code Perform operation according to prompts on tester screen
+6. End of registration Finish key ID code registration
+*1: Perform this process for one of the keys
+registered for the vehicle. Finish the procedure
+within 30 seconds. If the procedure has not been
+finished within the specified time, perform
+registration procedures from process 1 again.
+*2: Repeat this process for each key which is to be
+registered for the vehicle. Finish the procedure for
+each key within 30 seconds. If the procedure for any
+of the keys has not been finished within the
+specified time, perform registration procedures from
+1 again. Make sure that only 1 key is in the cabin
+during registration procedures. If 2 or more keys are
+EI in the cabin simultaneously, electric waves will
+interfere with each other, preventing normal
+registration.
+(d) PROCEDURE "D"
+Key ID erasure
+HINT:
+Erase all registered key codes except one.
+Process Procedure
+1. Start of erasure 1. Connect intelligent tester (with CAN VIM) to DLC3
+2. Turn engine switch on (IG)
+3. Select "SMART ACCESS / ID UTILITY / SMART CODE ERS"
+from tester menu
+2. Confirmation of registered key *1 Perform operation according to prompts on intelligent tester screen
+Hold unregistered key close to engine switch (For details, refer to
+PROCEDURE "1")
+Confirm that wireless door lock buzzer sounds once
+3. Confirmation of ECU code Perform operation according to prompts on tester screen
+4. Erasure of ID code Perform operation according to prompts on tester screen
+5. End of erasure Finish key ID code erasure

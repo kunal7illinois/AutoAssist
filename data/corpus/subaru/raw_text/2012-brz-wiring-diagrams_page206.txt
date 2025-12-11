@@ -1,0 +1,88 @@
+Certification ECU Assembly
+14 3
+∗ 2 : w/ Smart Entry & Start System
+GL P
+13 B 14 B
+)2∗( )2∗( G R
+D40(A), D41(B)
+14 B 15 B
+)2∗( )2∗(
+CANH CANL
+17 A
+GL P
+5 A
+47 HD1 45 HD1
+H26(A)
+Y G
+19 A
+R
+46 HD1
+RB
+B
+RCO RDA RSSI
++5 DATA RSSI
+GND
+Door Control Receiver
+H3
+34D
+rotcennoC
+noitcnuJ
+)2∗(
+)2∗(
+)2∗(
+)2∗(
+)2∗(
+)2∗(
+)2∗(
+15 4
+B
+)2∗(
+A73(A), D5(B), D6(C)
+Main Body ECU
+CANL CANH
+19
+10 B 9 B 6 B
+1 A (∗5)
+12 B (∗4)
+H28(B)
+Tire Pressure Warning ECU and Receiver
+(Door Control and Tire Pressure
+Monitoring System Receiver Assembly)
+Y
+(IG)
+2 2
+20 3D
+19 3C
+3D
+R–L
+(BAT)
+7. 5A
+ECU–B
+1
+R–Y
+39 HD1
++B
+Y–R
+37 HD1
+IG
+W
+10A
+ECU IG1
+7 B 1 B
+)4∗
+2∗(
+)4∗
+2∗(
+)4∗
+2∗(
+)4∗
+2∗(
+)4∗
+2∗(
+Automatic Light Control and Light Auto Turn Off System
+4 A 5 A 2 A (∗5)
+(∗4)
+∗ 4 : w/ Tire Pressure Warning System
+∗ 5 : w/o Tire Pressure Warning System
+206
+BRZ (G4400BE)

@@ -1,0 +1,35 @@
+EI–33
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+Communication Malfunction between ECUs
+DTC B2785
+Connected by LIN
+DESCRIPTION
+This DTC is output when LIN communication from the certification ECU stops for a certain amount of time.
+DTC No. DTC Detection Condition Trouble Area
+• Wire harness
+LIN communication from certification ECU stops for a • Certification ECU
+B2785 certain amount of time • Main body ECU
+• Open or short in wire harness between ECUs • Steering lock ECU
+• ID code box
+WIRING DIAGRAM
+Steering Lock ECU Certification ECU
+No. 4 J/B
+5 8 7 10
+O O
+LIN E51 4A 4F E58 LIN
+Main Body ECU ID Code Box
+Instrument Panel J/B
+EI
+9 1 8 3
+14 O O
+LIN1 IR 4M 4F E50 LIN1
+B128332E01
+INSPECTION PROCEDURE
+NOTICE:
+• If the certification ECU or ID code box is replaced, register the key and ECU communication ID
+(See page EI-8).
+• If the steering lock ECU or main body ECU is replaced, register the ECU code and ECU
+communication ID (See page EI-8).
+1 CHECK DTC OUTPUT
+(a) Delete the DTCs (See page EI-24).
+(b) Recheck for DTCs (See page EI-24).

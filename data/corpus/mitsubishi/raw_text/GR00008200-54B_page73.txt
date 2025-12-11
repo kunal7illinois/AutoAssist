@@ -1,0 +1,39 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-73
+SYMPTOM PROCEDURES
+STEP 3. Check the input signal (by using the Pulse check).
+Check the input signals from the key reminder switch.
+• Check whether scan tool MB991502 sounds or not when
+the ignition key is removed.
+Operate the MUT-II according to the procedure below to dis-
+play "PULSE CHECK."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+16 PIN 3. Select "PULSE CHECK."
+Q:Does scan tool MB991502 sound when the ignition key
+MB991502
+AC001252AD is removed?
+YES : Replace the ETACS-ECU.The ignition key reminder
+tone alarm function should work normally.
+NO : Refer to Inspection Procedure P-1 "ETACS-ECU does
+not receive a signal from the key reminder switch
+P.54B-524."
+INSPECTION PROCEDURE B-2: Tone Alarm: Light Reminder Tone Alarm Function does not Work
+Normally.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+Light Reminder Tone Alarm Function
+. The ETACS-ECU operates the light reminder tone
+CIRCUIT OPERATION
+alarm function under the following conditions:
+The ETACS-ECU operates the light reminder tone
+• Ignition switch: "LOCK" (OFF) position
+alarm function according to the following signals:
+• Ignition switch (IG1): OFF • Ignition key: Removed from the ignition key cylin-
+• Ignition key reminder switch: ON der
+• Driver(cid:146)s door switch: ON • Driver(cid:146)s door: open
+• Taillight switch: ON • Taillight or headlight: Illuminating
+• Headlight switch: ON
+.
+TSB Revision

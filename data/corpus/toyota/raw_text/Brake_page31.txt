@@ -1,0 +1,56 @@
+BC–31
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+DATA LIST / ACTIVE TEST
+1. DATA LIST
+HINT:
+According to the DATA LIST displayed by the intelligent
+tester, the value of the switch, sensor, actuator and other
+items can be read without removing any parts. Reading
+the DATA LIST as a first step in troubleshooting is one of
+the methods to save labor time.
+(a) Connect the intelligent tester to the DLC3.
+Intelligent Tester
+(b) Turn the ignition switch on (IG).
+(c) According to the display on the tester, read the
+"DATA LIST".
+BC
+DLC3
+CAN VIM
+C131977E05
+DATA LIST:
+Measurement Item / Range
+Item Normal Condition Diagnostic Note
+(Display)
+ON: During pump motor
+ABS MOT RELAY ABS motor relay / ON or OFF operation -
+OFF: No pump motor operation
+ON: Solenoid relay ON
+SOL RELAY Solenoid relay / ON or OFF -
+OFF: Solenoid relay OFF
+ON: Brake pedal depressed
+STOP LAMP SW Stop light switch / ON or OFF -
+OFF: Brake pedal released
+ON: Parking brake applied
+PARKING BRAKE SW Parking brake switch / ON or OFF -
+OFF: Parking brake released
+Wheel speed sensor (FR) reading
+FR WHEEL SPD / min.: 0 km/h (0 MPH), max.: 326 Actual wheel speed Speed indicated on speedometer
+km/h (202 MPH)
+Wheel speed sensor (FL) reading
+FL WHEEL SPD / min.: 0 km/h (0 MPH), max.: 326 Actual wheel speed Speed indicated on speedometer
+km/h (202 MPH)
+Wheel speed sensor (RR)
+RR WHEEL SPD reading / min.: 0 km/h (0 MPH), Actual wheel speed Speed indicated on speedometer
+max.: 326 km/h (202 MPH)
+Wheel speed sensor (RL) reading
+RL WHEEL SPD / min.: 0 km/h (0 MPH), max.: 326 Actual wheel speed Speed indicated on speedometer
+km/h (202 MPH)
+Vehicle speed reading / min.: 0
+VEHICLE SPD km/h (0 MPH), max.: 326 km/h Actual wheel speed Speed indicated on speedometer
+(202 MPH)
+ECU power supply voltage / NORMAL: 9.5 V or over
+IG VOLTAGE -
+NORMAL or TOO LOW TOO LOW: Below 9.5 V
+SFRR ABS solenoid (SFRR) ON / OFF ON: Operates -
+SFRH ABS solenoid (SFRH) ON / OFF ON: Operates -
+SFLR ABS solenoid (SFLR) ON / OFF ON: Operates -

@@ -1,0 +1,34 @@
+ES–195
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+ECM
+No.1 Ignition Coil
+IG2
+IGT1
++B IGT1
+GND IGF
+IG2
+No.2 Ignition Coil
+ES
+IGT2
+IG2 +B IGT2
+Igntion Switch
+AM2 GND IGF
+No.3 Ignition Coil
+IGT3
+AM2 +B IGT3
+IGF1
+GND IGF
+No.4 Ignition Coil
+IGT4
+FL MAIN +B IGT4
+GND IGF
+Noise Filter
+Battery
+A134231E01
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.

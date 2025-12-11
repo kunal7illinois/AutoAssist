@@ -1,0 +1,27 @@
+ES–320
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(c) Neutral position switch ON
+(d) R range position switch ON
+TYPICAL MALFUNCTION THRESHOLDS
+1. One of the following conditions is met: Condition (A), (B) and (C)
+Condition (A):
+Number of the following signal input at the same time 2 or more
+Park position switch ON
+Neutral position switch ON
+R range position switch ON
+D range position switch ON
+Condition (B):
+ES Number of the following signal input at the same time 2 or more
+Park neutral position switch ON
+R range switch ON
+D range switch ON
+Condition (C):
+''M'' switch ON
+Condition (D):
+Park position switch OFF
+Neutral position switch OFF
+Park neutral position switch OFF
+R range switch OFF
+D range switch OFF
+COMPONENT OPERATING RANGE
+Park / neutral Position switch The park / neutral position switch sends only one signal to the ECM.

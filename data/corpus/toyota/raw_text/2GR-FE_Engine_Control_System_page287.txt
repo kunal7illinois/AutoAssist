@@ -1,0 +1,43 @@
+ES–287
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0500 Vehicle Speed Sensor "A"
+DESCRIPTION
+The speed sensor detects the wheel speed and sends the appropriate signals to the skid control ECU.
+The skid control ECU converts these wheel speed signals into a 4-pulse signal and outputs it to the ECM
+via the combination meter. The ECM determines the vehicle speed based on the frequency of these pulse
+signals.
+4-Pulse 4-Pulse
+Skid Control
+From ES
+ECU ECM
+Speed Sensor
+Combination Meter
+A079413E16
+DTC No. DTC Detection Condition Trouble Area
+• Vehicle speed sensor
+• Vehicle speed sensor signal circuit
+Vehicle speed signal from vehicle speed sensor is cut
+P0500 • Combination meter
+for 0.14 sec. or more while cruise control is in operation
+• ECM
+• Skid control ECU
+MONITOR DESCRIPTION
+The ECM assumes that the vehicle is being driven when the transmission counter gear indicates more
+than 300 rpm and over 30 seconds have passed since the park/neutral position switch was turned OFF. If
+there is no signal from the vehicle speed sensor with these conditions satisfied, the ECM concludes that
+the vehicle speed sensor is malfunctioning. The ECM will turn on the MIL and a DTC will be set.
+MONITOR STRATEGY
+Related DTCs P0500: Vehicle Speed Sensor Circuit
+Required sensors / components (Main) Vehicle speed sensor, Combination meter, ABS ECU
+Required sensors / components (Sub) Counter gear Speed (CS) sensor, ECT sensor
+Frequency of operation Continuous
+Duration 8 seconds
+MIL operation 2 driving cycles
+Sequence operation None
+TYPICAL ENABLING CONDITIONS
+P0100 - P0103 (MAF sensor)
+P0105 - P0108 (MAP sensor)
+The monitor will run whenever these DTCs are not present P0115 - P0118 (ECT sensor)
+P0120 - P02238 (TP sensor)
+P0125 (VSS/ECT1 sensor, non-ECT)
+Engine coolant temperature 70°C (158°F) or more

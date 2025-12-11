@@ -1,0 +1,37 @@
+17-46 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+STEP 2. Check auto-cruise control-ECU connector C-20.
+Q:Is the connector damaged?
+CONNECTOR: C-20
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that the malfunction is eliminated.
+NO : Go to Step 3.
+AC001451AB
+STEP 3. Check junction block connector C-108 and C-111.
+Q:Is any connector damaged?
+CONNECTORS: C-108, C-111
+JUNCTION BLOCK YES : Repair or replace connector.
+(FRONT VIEW) Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that the malfunction is eliminated.
+C-108
+NO : Go to Step 4.
+C-111
+AC103108AB
+STEP 4. Check the harness wire between ignition switch
+and auto-cruise control-ECU connector C-20 (terminal
+number 6).
+Q:Is any harness wire between ignition switch and auto-
+CONNECTOR: C-20
+cruise control-ECU connector C-20 (terminal number 6)
+damaged?
+YES : Repair the harness wire and then check that the
+malfunction is eliminated.
+NO : Check that the malfunction is eliminated.
+If the malfunction is not eliminated, replace the auto-
+cruise control-ECU. (Refer to P.17-86.)
+Then check that the malfunction is eliminated.
+AC001451AB
+TSB Revision

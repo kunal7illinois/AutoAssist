@@ -1,0 +1,50 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-157
+SYMPTOM PROCEDURES
+STEP 4. Check the input signal (by using the Pulse check).
+Check the input signals from the transmitter.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Operate the MUT-II as follows:
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+(3) Push the transmitter "LOCK" , "UNLOCK" or "TRUNK"
+switch.
+16 PIN (4) Check that scan tool MB991502 sounds
+Q:When the transmitter "LOCK" , "UNLOCK" or "TRUNK"
+MB991502
+AC001252AD switch is pushed, does scan tool MB991502 sound?
+YES : Replace the ETACS-ECU.All the doors can be locked
+or unlocked by means of the transmitter. And the
+trunk lid opened by means of the transmitter.
+NO : Refer to Inspection Procedure P-13 "The ETACS-
+ECU does not receive signal from lock, unlock, panic
+or trunk switch P.54B-609".
+STEP 5. Check the central door locking system.
+Q:Does the central door locking system work normally?
+YES : Go to Step 6.
+NO : Refer to Inspection Procedure C-1 "Central door
+locking system does not work at all P.54B-83."
+STEP 6. Check the input signal (by using the Pulse check).
+Check the input signals from the transmitter.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Operate the MUT-II as follows:
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+(3) Push the transmitter "LOCK" or "UNLOCK" switch.
+(4) Check that scan tool MB991502 sounds
+16 PIN
+Q:When the transmitter "LOCK" or "UNLOCK" switch is
+pushed, does scan tool MB991502 sound?
+MB991502
+AC001252AD
+YES : Replace the ETACS-ECU.All the doors can be locked
+or unlocked by means of the transmitter.
+NO : Refer to Inspection Procedure P-13 "The ETACS-
+ECU does not receive signal from lock, unlock, panic
+or trunk switch P.54B-609".
+TSB Revision

@@ -1,0 +1,45 @@
+13A-368 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check evaporative emission purge solenoid for
+leaks.
+(1) Remove the battery.
+(2) Remove the air intake hose. (Refer to GROUP 15, Air
+Cleaner P.15-6.)
+(3) Disconnect hose B from the evaporative emission purge
+THROTTLE
+BODY solenoid side, and connect a hand vacuum pump to the
+HOSE B nipple of the evaporative emission purge solenoid.
+(4) Apply a pressure on the hand vacuum pump, and confirm
+that air is maintained.
+(5) Disconnect the hand vacuum pump, and connect hose B to
+the evaporative emission purge solenoid.
+Q:Is the evaporative emission purge solenoid in good
+condition?
+AC000223AD YES : Go to Step 3.
+NO : Replace the evaporative emission purge solenoid.
+EVAPORATIVE EMISSION
+PURGE SOLENOID Then go to Step 18.
+AC000182AB
+STEP 3. Check for leaks in the evaporator line hose A to
+hose C.
+The leakage test with a hand vacuum pump on each hose
+THROTTLE
+BODY from hose A to hose C.
+HOSE A Q:Are the hoses in good condition?
+YES : Go to Step 4.
+NO : Replace the inferior hose. Then go to Step 18.
+HOSE B
+HOSE C
+AC000223AE
+STEP 4. Check for leaks in the chamber.
+(1) Connect a hand vacuum pump to the nipple.
+THROTTLE
+BODY (2) Plug the other nipple.
+(3) Apply vacuum with the hand vacuum pump, and confirm
+that the applied vacuum does not fluctuate.
+CHAMBER
+Q:Is the chamber in good condition?
+YES : Go to Step 5.
+NO : Replace the chamber. Then go to Step 18.
+AC000223AF
+TSB Revision

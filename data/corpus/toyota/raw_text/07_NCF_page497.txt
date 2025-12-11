@@ -1,0 +1,57 @@
+BODY ELECTRICAL - CRUISE CONTROL SYSTEM BE-163
+3. System Control
+General
+The cruise control has the following control.
+Control Outline
+The ECM compares the actual vehicle speed and the set speed and if the vehicle
+Constant Speed speed is higher than the set speed, it uses the throttle control motor to decrease
+Control the throttle opening. If the actual vehicle speed is lower than the set speed, it
+uses the throttle control motor to increase the throttle opening.
+While this system fulfils the following conditions, and the cruise control switch
+is pressed to the SET/- side and released when the ON-OFF button on the
+Set Control cruise control switch has been pressed to turn the system on, the ECM stores
+the vehicle speed and maintains the vehicle constantly at that speed.
+(cid:3) The vehicle is running at a vehicle speed of about 40 km/h (25 mph) or more.
+The low speed limit is the lowest speed that cruise control can be set at and it
+is designed to be approx. 40 km/h (25 mph). The cruise control cannot be set
+Low Speed Limit
+below that speed. If the vehicle speed drops below that speed while running in
+Control
+the cruise control, the cruise control will be cancelled automatically. However
+the set speed in the memory is kept.
+While the cruise control switch is held to the SET/- side, the vehicle speed and
+the set vehicle speed change as follows.
+COAST Switch
+(cid:3) The vehicle decelerates constantly.
+Control
+(cid:3) The set vehicle speed changes to the speed that the vehicle is traveling at
+when the COAST switch is released.
+When the cruise control switch is pushed momentarily (approx. 0.6 sec.) to the
+SET/- side, the vehicle speed and the vehicle setting speed change as follows.
+(cid:3) The vehicle will decelerate in increments of approx. 1.6 km/h (1 mph) for
+each time the switch was pressed.
+Tap Down Control
+(cid:3) However, if the difference between the actual vehicle speed and the vehicle
+setting speed is greater than 5 km/h (3.1 mph), the vehicle setting speed will
+change to the speed at which the vehicle was being driven at the time the
+switch was operated.
+When the cruise control switch is pushed to the RES/+ side and held, the
+vehicle speed and the vehicle setting speed change as follows.
+ACC Switch Control
+(cid:3) The vehicle accelerates constantly.
+(cid:3) The set vehicle speed changes to the speed as which the switch is releases.
+When the cruise control switch is pushed momentarily (approx. 0.6 sec.) to the
+RES/+ side, the vehicle speed and the vehicle setting speed change as follows.
+(cid:3) The vehicle accelerates in increments of approx. 1.6 km/h (1 mph) for each
+Tap Up Control time the switch was pressed.
+(cid:3) However, if the difference between the actual vehicle speed and the vehicle
+setting speed is greater than 5 km/h (3.1 mph), the vehicle setting speed does
+not change.
+If cruise control is canceled for any reason other than a malfunction or main
+switch operation and vehicle speed is more than the low speed limit, the vehicle
+speed is returned to the speed before the cancellation of cruise operation by
+RES Switch Control
+setting the cruise control switch to the RES/+ side. The cruise control mode
+can be resumed even if the vehicle speed drops below the low speed limit,
+because the speed in the memory is not cleared.
+(Continued)

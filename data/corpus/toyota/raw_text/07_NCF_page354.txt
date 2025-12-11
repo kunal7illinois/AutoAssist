@@ -1,0 +1,30 @@
+BE-20 BODY ELECTRICAL - LIGHTING
+(cid:3)ILLUMINATED ENTRY SYSTEM
+1. General
+(cid:3) The illuminated entry system of the ’07 Camry controls interior light and ignition switch*1/engine switch
+illumination*2.
+(cid:3) The interior light is operated when the light switch is in the DOOR position.
+*1: Models without smart key system
+*2: Models with smart key system
+(cid:1) System Diagram (cid:2)
+Key Unlock
+Warning Switch*1
+Ignition Switch
+Illumination*1
+Ignition*1/Engine Switch*2
+(IG1 Relay, ACC Relay)
+Interior Light
+Courtesy Switches Main
+(All Door) Body
+ECU
+Door Position
+Switches (All Door)
+Engine Switch
+Illumination*2
+Certification ECU*2 CAN
+(MS Bus)
+Entry Illumination
+Signal
+025BE09P
+*1: Models without smart key system
+*2: Models with smart key system

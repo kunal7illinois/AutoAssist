@@ -1,0 +1,59 @@
+BE-76 BODY ELECTRICAL - POWER WINDOW SYSTEM
+POWER WINDOW SYSTEM
+(cid:4)DESCRIPTION
+(cid:3) A power window motor with built-in ECU is provided on the driver side door of XLE grade models. The
+ECU effects power window control.
+(cid:3) The power window system has the following functions:
+Grade
+Function Outline LE
+XXLLEE
+SE
+This function causes the driver door window to open or close
+while the power window switch is being pulled halfway up or
+Manual
+pushed halfway down. Windows other than the driver door
+up-and-down (cid:5) (cid:5)
+window can be opened or closed by fully pulling up or fully
+(All Doors)
+pushing down the switch. The window stops as soon as the
+switch is released.
+One-touch auto The one-touch auto up-and-down function enables the window
+up-and-down to be fully opened or closed with a single touch of the power (cid:5) —
+(Driver Door) window switch.
+One-touch auto The one-touch auto down function enables the window to be
+— (cid:5)
+down (Driver Door) fully opened with a single touch of the power window switch.
+A jam protection function automatically stops the power
+Jam Protection
+window and moves it downward if a foreign object gets (cid:5) —
+(Driver Door)
+jammed in the window during one-touch auto-up operation.
+Remote Control The power window master switch can control the
+(cid:5) (cid:5)
+(All Doors) up-and-down operations of the windows.
+Power window operation of the 3 passenger windows is
+Window Lock (cid:5) (cid:5)
+disabled when the window lock switch is pressed.
+This function makes it possible to operate the power windows
+Key Off Operation
+for approximately 43 seconds after the power source is turned (cid:5) (cid:5)
+(Driver Door)
+to OFF, if the driver’s door is not opened.
+When the power window ECU detects the following
+conditions, the self-diagnosis function switches the ECU to
+failsafe mode. The power window switch illumination (LED)
+flashes to inform the user.
+Diagnosis (cid:5) —
+(cid:3) An abnormality in the Hall IC that detects the position,
+speed and direction of the window.
+(cid:3) An error in the window detection position and the upper
+limit position recorded in the power window ECU.
+If the Hall IC in the power window ECU malfunctions, some
+power window functions will be prohibited by the failsafe
+mode:
+(cid:3) Power windows can be operated using the power window
+Fail-Safe (cid:5) —
+switches within 40 seconds of failsafe mode being entered.
+(cid:3) Each power window operates when the corresponding
+power window switch is fully pushed down or pulled up and
+held in that position.

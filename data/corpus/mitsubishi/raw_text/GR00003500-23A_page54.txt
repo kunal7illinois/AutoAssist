@@ -1,0 +1,40 @@
+23A-54 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 6. Check connectors B-07 at throttle position sensor
+and C-57 <2.4L Engine> or C-59 <3.0L Engine> at PCM for
+damage.
+Q:Are the connectors in good condition?
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> YES : Repair harness open circuit or damage between
+B-07
+throttle position sensor connector B-07 terminal 3 and
+B-07
+PCM connector C-57 <2.4L Engine> or C-59 <3.0L
+Engine> terminal 78.
+NO : Repair or replace the defective connector(s). Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2.
+AC001831AF
+CONNECTOR: C-57 <2.4L ENGINE> OR
+C-59 <3.0L ENGINE>
+PCM
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+STEP 7. Check the power supply voltage at throttle
+position sensor connector B-07 by backprobing.
+(1) Do not disconnect connector B-07.
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> (2) Turn the ignition switch to the "ON" position.
+B-07
+B-07
+AC001831AF
+(3) Measure the voltage between terminal 4 and ground by
+backprobing.
+• Voltage should be between 4.9 and 5.1 volts.
+B-07 CONNECTOR
+HARNESS SIDE VIEW (4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 12.
+NO : Go to Step 8.
+AC001789AC
+TSB Revision

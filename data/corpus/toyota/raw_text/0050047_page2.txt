@@ -1,0 +1,43 @@
+ES–266
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+ECM
+Stop Light Switch
+FL MAIN ALT STOP
+STP
+ES
+C127682E01
+INSPECTION PROCEDURE
+HINT:
+Using the intelligent tester's DATA LIST allows switch, sensor, actuator and other item values to be read
+without removing any parts. Reading the DATA LIST early in troubleshooting is one way to save time.
+NOTICE:
+In the table below, the values listed under "Normal Condition" are reference values. Do not depend
+solely on these reference values when deciding whether a part is faulty or not.
+1. Warm up the engine.
+2. Turn the ignition switch OFF.
+3. Connect the intelligent tester to the CAN VIM. Then connect the CAN VIM to the DLC3.
+4. Turn the ignition switch ON.
+5. Turn the intelligent tester ON.
+6. Enter the following menus: DIAGNOSIS / ENHANCED OBD II / DATA LIST.
+7. Follow the instructions on the tester and read the DATA LIST.
+Item Measurement Item/ Normal Condition Diagnostic Note
+Range (Display)
+STOP LIGHT SW Stop light switch status/ • Brake pedal is depressed: -
+ON or OFF ON
+• Brake pedal is released: OFF
+1 INSPECT STOP LIGHT SWITCH
+(a) Remove the A3 stop light switch.
+2 1 (b) Measure the resistance of the switch.
+Standard resistance
+Tester Connection Switch Condition Specified Condition
+1 - 2 Pin pushed Below 1 Ω
+Pin (pedal released)
+3 4 1 - 2 Pin not pushed 10 kΩ or higher
+(pedal depressed)
+Not Pushed
+Pushed 3 - 4 Pin pushed 10 kΩ or higher
+(pedal released)
+E065594E14
+3 - 4 Pin not pushed Below 1 Ω
+(pedal depressed)

@@ -1,0 +1,47 @@
+AX–44
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+CHECK MODE PROCEDURE
+1. DESCRIPTION
+(a) Check mode has a higher sensitivity to malfunctions
+and can detect malfunctions that normal mode
+cannot detect. Check mode can also detect all the
+AX malfunctions that normal mode can detect. In check
+mode, DTCs are detected with 1-trip detection logic.
+2. CHECK MODE PROCEDURE
+Intelligent Tester
+(a) Make sure that the items below are satisfied:
+(1) Battery positive voltage is 11 V or more
+(2) Throttle valve is fully closed
+(3) Transaxle is in the P or N position
+(4) A/C is switched OFF
+(b) Turn the ignition switch off.
+(c) Connect the intelligent tester together with the
+Controller Area Network Vehicle Interface Module
+(CAN VIM) to the DLC3.
+(d) Turn the ignition switch on (IG).
+(e) Enter the following menus: DIAGNOSIS / OBD/
+MOBD / ECT / CHECK MODE.
+DLC3
+CAN VIM
+C131977E05
+(f) Change the TCM to check mode. Make sure that
+the MIL flashes as shown in the illustration.
+0.13 seconds NOTICE:
+ON All DTCs and freeze frame data recorded will be
+erased if: 1) the intelligent tester is used to
+change the TCM from normal mode to check
+mode or vice-versa; or 2) during check mode,
+OFF the ignition switch is turned from on (IG) to on
+0.13 seconds (ACC) or off.
+Before entering check mode, make notes of any
+A076900E02
+DTCs and freeze frame data that are present.
+(g) Start the engine. The MIL should turn off after the
+engine starts.
+(h) Perform "MONITOR DRIVE PATTERN" for the ECT
+test (See page AX-27).
+(Or, duplicate the conditions of the malfunction
+described by the customer).
+(i) After duplicating the malfunction conditions, use the
+intelligent tester diagnosis selector to check the
+DTC and freeze frame data.

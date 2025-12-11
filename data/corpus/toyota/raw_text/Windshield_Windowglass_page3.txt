@@ -1,0 +1,49 @@
+WS–3
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+SYSTEM DIAGRAM
+Power Window Regulator Power Window Regulator
+Master Switch Assembly Switch Assembly (Front RH)
+Power Window
+Regulator Motor WS
+from POWER fuse B
+PU SU U
+PD SD D
+Power Window Regulator
+Switch Assembly (Rear RH)
+B from POWER fuse Power Window
+Regulator Motor
+from RR DOOR RH fuse B
+RRU SU U
+RRD SD D
+Power Window Regulator
+Switch Assembly (Rear LH)
+Power Window
+Regulator Motor
+from RR DOOR LH fuse B
+RLU SU U
+RLD SD D
+Power Window Regulator
+Motor (Front LH)
+Power Window Regulator
+Motor (Front LH)
+B
+from PWR fuse
+(*2)
+(*1)
+(*2)
+DN DWN1
+(*1)
+(*2)
+UP UP1
+(*2)
+AUTO AUTO
+(*2)
+E LED LED
+Main Body ECU *1: without Jam Protection
+*2: with Jam Protection
+LIN LIN
+(*2)
+E
+(*2)
+: LIN Communication Line
+B137051E01

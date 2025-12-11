@@ -1,0 +1,47 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-501
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 9. Check connector C-58 at ECM <M/T> or connector
+C-55 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-58<M/T>, C-55<A/T>
+YES : Go to Step 10.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 14.
+C-55 C-58
+AK000225AI
+STEP 10. Check for short circuit to ground between power
+steering pressure switch connector B-19 terminal 1 and
+ECM connector C-58 terminal 54 <M/T> or PCM connector
+C-55 terminal 52 <A/T>.
+NOTE: Check harness after checking intermediate connector
+CONNECTOR : B-19
+POWER B-47. If intermediate connector is damaged, repair or replace
+STEERING them. Refer to GROUP 00E, Harness Connector Inspection
+PRESSURE
+P.00E-2. Then go to Step 14.
+SWITCH
+Q:Is the harness wire in good condition?
+YES : Replace the ECM or PCM. Then go to Step 14.
+NO : Repair it. Then go to Step 14.
+POWER STEERING
+OIL PUMP
+ACX02522AC
+CONNECTOR : C-58<M/T>, C-55<A/T>
+PCM<A/T> ECM<M/T>
+C-55 C-58
+AK000225AI
+STEP 11. Replace the power steering pressure switch.
+(1) Replace the power steering pressure switch.
+CONNECTOR : B-19
+POWER (2) Check the trouble symptoms.
+STEERING (3) Check the diagnostic trouble code (DTC).
+PRESSURE
+Q:Is the DTC P0551 is output?
+SWITCH
+YES : Go to Step 12.
+NO : Go to Step 14.
+POWER STEERING
+OIL PUMP
+ACX02522AC
+TSB Revision

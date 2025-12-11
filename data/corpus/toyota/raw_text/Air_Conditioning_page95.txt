@@ -1,0 +1,26 @@
+AC–95
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+Blower Motor Circuit
+DESCRIPTION
+Blower Level
+HI
+M2
+M1
+LO
+0 233.05 4333 7607 8100.05
+SI Duty (%)
+A
+Duty Ratio = (cid:14852) 100 (%)
+A + B
+A
+ON
+B
+OFF AC
+1 Cycle
+E107334E04
+The blower motor is operated by signals from the A/C amplifier. The blower motor speed is controlled
+using various duty ratios.
+Duty Ratio:
+The duty ratio is the ratio of the blower motor ON time (A) to the total of the blower motor ON and OFF
+time (A + B).
+The blower motor controller controls the blower motor speed.

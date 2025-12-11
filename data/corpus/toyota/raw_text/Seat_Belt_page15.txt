@@ -1,0 +1,41 @@
+SB–15
+SEAT BELT – SEAT BELT WARNING SYSTEM
+INSPECTION PROCEDURE
+1 CHECK FOR DTCs
+(a) Check for DTCs.
+Result
+Result Proceed to
+No output DTC A
+Output DTC (CAN communication) B
+Output DTC (Occupant detection) C
+B GO TO CAN COMMUNICATION SYSTEM
+C GO TO OCCUPANT CLASSIFICATION
+SYSTEM
+A
+2 CHECK WIRE HARNESS (BATTERY POSITIVE AND BODY GROUND)
+(a) Disconnect the clock assembly connector.
+(b) Measure the voltage and resistance according to the
+F3
+value(s) in the table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+F3-3 (IG) - Body ground Ignition switch on (IG) 10 to 14 V
+Standard resistance SB
+Tester Connection Condition Specified Condition
+B137073E01 F3-19 (GND1) - Body
+Always Below 1 Ω
+ground
+NG REPAIR OR REPLACE GAUGE NO. 2 FUSE,
+HARNESS OR CONNECTOR
+OK
+3 CHECK CLOCK ASSEMBLY
+(a) Disconnect the clock assembly connector.
+(b) Apply battery voltage to the connector according to the
+table below.
+F3
+Standard
+Condition Specified Condition
+Battery positive (+) → Terminal 3 (IG)
+Battery negative (-) → Terminal 10 Lights up (Seat belt warning light)
+(PBEW), 19 (GND1)
+B137074E01 NG REPLACE CLOCK ASSEMBLY

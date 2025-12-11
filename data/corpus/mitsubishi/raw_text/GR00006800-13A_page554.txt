@@ -1,0 +1,56 @@
+13A-554 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+MUT-II ITEM INSPECTION DRIVE INSPECTION REQUIREMENT NORMAL INSPECTION REFERENCE
+SCAN NO. ITEM CONTENTS CONDITION PROCEDURE PAGE
+TOOL NO.
+DISPLAY
+FUEL 07 Fuel Fuel pump • Engine: Pinch the Pulse is felt Procedure P.13A-
+PUMP pump operates and cranking return hose No. 30 515
+fuel is • Fuel with fingers
+recirculated pump: to feel the
+activated pulse of the
+Inspect fuel being
+according to recirculated
+both the
+Listen near Sound of
+above
+the fuel tank operation is
+conditions
+for the sound heard
+of fuel pump
+operation
+NO. 1 01 Injectors Cut fuel to Engine: warm, idle (cut the Idling Code No. P.13A-
+INJECT No. 1 injector fuel supply to each injector condition P0201, 216
+OR in turn and check cylinders becomes P0202,
+which don’t affect idling.) different P0203,
+NO. 2 02 Cut fuel to
+(becomes P0204
+INJECT No. 2 injector
+unstable)
+OR
+NO. 3 03 Cut fuel to
+INJECT No. 3 injector
+OR
+NO. 4 04 Cut fuel to
+INJECT No. 4 injector
+OR
+RADIAT. 21 Fan Drive the fan Ignition switch: "ON" Radiator fan Procedure P.13A-
+FAN LO controller motor and No. 28 501
+condenser
+fan rotate at
+high speed
+NOTE: *: Continues for 27 minutes. Can be released by pressing the CLEAR key.
+CHECK AT THE ENGINE CONTROL MODULE (ECU) <M/T> OR POWERTRAIN
+CONTROL MODULE (PCM) <A/T>
+M1131153700094
+TERMINAL VOLTAGE CHECK CHART
+ECM <M/T> or PCM <A/T> Connector Terminal Arrangement
+<M/T>
+1 2 3 4 5 6 7 8 9 10 11 12 13 31 32 33 34 35 36 37 38 51 52 53 54 55 56 71 72 73 74 75 76 77 78 79 80 81
+14 15 16 17 18 19 20 21 22 23 24 25 26 39 40 41 42 43 44 45 46 57 58 59 60 61 62 82 83 84 85 86 87 88 89 90 91 92
+<A/T>
+1 2 3 4 5 6 7 8 41 42 43 444546 71727374 75 76 77 101102 103104 105106 107
+9 10 111213 1415 16171819 20 212223 47 48 495051525354 555657 787980818283848586 87 88 89 108109110111112113114115116117118119 120
+24 25 26272829 30 313233 3435 58 59 60616263 646566 9091 929394 9596 97 98 121122123 124125 126127128 129 130
+AK000056AB
+TSB Revision

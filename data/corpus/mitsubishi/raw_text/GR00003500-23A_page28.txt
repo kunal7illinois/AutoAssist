@@ -1,0 +1,50 @@
+23A-28 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+MEASUREMENT CONDITION STANDARD HYDRAULIC PRESSURE MPa (psi)
+SELECTOR SHIFT ENGINE UNDERDRIV REVERSE OVERDRIVE LOW- SECOND TORQUE
+LEVER POSITION SPEED E CLUTCH CLUTCH CLUTCH REVERSE BRAKE CONVERTER
+POSITION (r/min) PRESSURE PRESSURE PRESSURE BRAKE PRESSURE PRESSURE
+[UD] [RV] [OD] PRESSURE [2ND] [DR]
+[LR]
+L 1st gear 2,500 1.01 − − − 1.01 − − 0.50 −
+<Vehicles 1.05 (147 1.05 (147 0.70 (73 −
+without − 152) − 152) 101)
+sport
+mode> or
+Sport
+mode
+<Vehicles
+with sport
+mode>
+2 2nd gear 2,500 1.01 − − − − 1.01 − 0.50 −
+<Vehicles 1.05 (147 1.05 (147 0.70 (73 −
+without − 152) − 152) 101)
+sport
+mode> or
+Sport
+mode
+<Vehicles
+with sport
+mode>
+3 3rd gear 2,500 0.59 − − 0.59 − − − −
+<Vehicles 0.69 (86 − 0.69 (86 −
+without 100) 100)
+sport
+mode> or
+Sport
+mode
+<Vehicles
+with sport
+mode>
+D 4th gear 2,500 − − 0.59 − − 0.59 − −
+<Vehicles 0.69 (86 − 0.69 (86 −
+without 100) 100)
+sport
+mode> or
+Sport
+mode
+<Vehicles
+with sport
+mode>
+NOTE: If the torque converter pressure is measured, the engine speed should be 1,500 r/min or less.
+TSB Revision

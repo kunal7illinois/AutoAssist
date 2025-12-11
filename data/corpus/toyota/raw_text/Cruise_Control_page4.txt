@@ -1,0 +1,30 @@
+CC–4
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+SYSTEM DIAGRAM
+Stop Light Switch
+Park / Neutral Position
+Switch (A/T)
+Transmission Control
+ECU (2GR-FE)
+CRUISE Main
+Indicator Light
+Accelerator Pedal
+Position Sensor
+Throttle Position
+Sensor and Motor
+ECM
+Cruise Main Switch
+Combination Meter
+Clutch Switch (M/T)
+CC
+Skid Control ECU
+DLC3
+Vehicle Speed
+Sensor
+: CAN
+E129950E01
+Communication Table:
+Sender Receiver Signal Line
+CRUISE main indicator operation
+ECM Combination Meter ECU CAN
+signal

@@ -1,0 +1,37 @@
+DL–232
+DOOR LOCK – FRONT DOOR LOCK
+(d) Check operation of the door unlock detection
+switch.
+(1) Measure the resistance according to the
+value(s) in the table below.
+Standard resistance
+Tester Measurement Door Lock Specified
+Connection Condition Condition Condition
+Battery positive
+(+) → Terminal 4
+7 - 8 Lock 10 kΩ or higher
+Battery negative
+(-) → Terminal 1
+Battery positive
+(+) → Terminal 1
+Unlock 7 - 8 Battery negative Unlock Below 1 Ω
+(-) → Terminal 4
+Lock
+2. INSPECT FRONT DOOR LOCK RH ASSEMBLY
+(a) Remove the front door lock assembly RH.
+B065427E20
+(b) Check operation of the door lock motor.
+(1) Apply battery voltage and check operation of
+the door lock motor.
+OK
+Measurement Condition Specified Condition
+Battery positive (+) → Terminal 4
+Lock
+Battery negative (-) → Terminal 1
+Battery positive (+) → Terminal 1
+Unlock
+Battery negative (-) → Terminal 4
+Unlock
+Lock
+DL
+B065429E21

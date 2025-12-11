@@ -1,0 +1,39 @@
+ES–324
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+5 CHECK HARNESS AND CONNECTOR
+(a) Connect the park / neutral position switch connector.
+Wire Harness Side:
+(b) Disconnect the ECM connectors.
+(c) Turn the ignition switch on (IG), and measure the voltage
+C55 ECM Connector
+according to the value(s) in the table below when the
+shift lever is moved to each position.
+P R N
+D
+ES
+A55 ECM Connector
+S
+C136857E05
+Standard voltage
+Shift Position Tester Connection Specified Condition
+P 10 to 14 V
+C55-24 (P) - Body ground
+Except P Below 1 V
+N 10 to 14 V
+C55-27 (N) - Body ground
+Except N Below 1 V
+R 10 to 14 V*
+C55-25 (R) - Body ground
+Except R Below 1 V
+D and S 10 to 14 V
+C55-26 (D) - Body ground
+Except D and S Below 1 V
+S, ''+'' and ''-'' 10 to 14 V
+A55-25 (S) - Body ground
+Except S, ''+'' and ''-'' Below 1 V
+HINT:
+*: The voltage will drop slightly due to lighting up of the
+back up light.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK

@@ -1,0 +1,51 @@
+ES–274
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+INSPECTION PROCEDURE
+HINT:
+• Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition
+when malfunctions are detected. When troubleshooting, freeze frame data can help determine if the
+vehicle was moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or
+rich, and other data from the time the malfunction occurred.
+• The throttle actuator current (THROTTLE MOT) and the throttle actuator duty ratio (THROTL OPN
+DUTY / THROTL CLS DUTY) can be read using the intelligent tester. However, the ECM shuts off the
+throttle actuator current when the ETCS malfunctions.
+1 INSPECT THROTTLE BODY (RESISTANCE OF THROTTLE ACTUATOR)
+ES (a) Disconnect the B3 throttle body connector.
+Component Side:
+(b) Measure the resistance of the throttle actuator.
+Throttle Body Standard resistance
+Tester Connections Specified Conditions
+0.3 to 100 Ω
+2 (M+) - 1 (M-)
+at 20°C (68°F)
+(c) Reconnect the throttle body connector.
+M+ M-
+NG REPLACE THROTTLE BODY ASSEMBLY
+A059778E21
+OK
+2 CHECK HARNESS AND CONNECTOR (THROTTLE ACTUATOR - ECM)
+(a) Disconnect the B3 throttle body connector.
+Wire Harness Side:
+(b) Disconnect the B30 ECM connector.
+(c) Measure the resistance.
+Standard resistance (Check for open)
+B3 Throttle Body Connector
+Tester Connections Specified Conditions
+M+ B3-2 (M+) - B30-42 (M+) Below 1 Ω
+B3-1 (M-) - B30-41 (M-) Below 1 Ω
+1 2 3 4 5 6
+M- Standard resistance (Check for short)
+Front View Tester Connections Specified Conditions
+B3-2 (M+) or B30-42 (M+) - Body
+10 kΩ or higher
+B30 ECM Connector ground
+M- B3-1 (M-) or B30-41 (M-) - Body
+10 kΩ or higher
+ground
+(d) Reconnect the throttle body connector.
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Front View M+
+A115662E04
+OK

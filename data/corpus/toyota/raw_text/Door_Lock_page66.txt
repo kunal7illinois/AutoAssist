@@ -1,0 +1,33 @@
+DL–66
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Wire Harness Side:
+Instrument Panel J/B
+H5 (*2)
+Door Control Switch
+IK IJ
+M1 (*1)
+Power Window Master Switch
+(Door Control Switch)
+*1: Driver Side
+*2: Passenger Side
+B137936E01
+(b) Disconnect the ECU (instrument panel J/B) connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+*1 M1-2 - IK-15 Always Below 1 Ω
+*1 M1-9 - IK-12 Always Below 1 Ω
+DL
+*1 M1-1 - Body ground Always Below 1 Ω
+*1 IK-15 - Body ground Always 10 kΩ or higher
+*1 IK-12 - Body ground Always 10 kΩ or higher
+*2 H5-4 - IJ-3 Always Below 1 Ω
+*2 H5-2 - IJ-4 Always Below 1 Ω
+*2 H5-3 - Body ground Always Below 1 Ω
+*2 IJ-3 - Body ground Always 10 kΩ or higher
+*2 IJ-4 - Body ground Always 10 kΩ or higher
+*1: Driver Side
+*2: Passenger Side
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR

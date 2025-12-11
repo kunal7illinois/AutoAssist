@@ -1,0 +1,43 @@
+17-48 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+STEP 8. Check the output circuit voltage at data link
+connector C-29 (terminal number 13).
+(1) Turn the ignition switch to the "ON" position.
+(2) Measure the voltage between terminal 13 and ground.
+DATA LINK (3) Turn the ignition switch to the "LOCK" (OFF) position.
+CONNECTOR: C-29
+Q:Is the voltage approximately 4 volts or more?
+1 2 3 4 5 6 7 8
+YES : Check that the malfunction is eliminated.
+9 10111213141516
+If the malfunction is not eliminated, replace the auto-
+cruise control-ECU. (Refer to P.17-86.)
+Then check that the malfunction is eliminated.
+NO : Go to Step 9.
+ACX01921AE
+STEP 9. Check data link connector C-29.
+Q:Is the connector damaged?
+CONNECTOR: C-29
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that the malfunction is eliminated.
+NO : Go to Step 10.
+AC101201AC
+STEP 10. Check the output circuit voltage at auto-cruise
+control-ECU connector C-20 (terminal number 11) by
+backprobing.
+(1) Do not disconnect auto-cruise control switch connector C-
+20.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 11 and ground by
+backprobing.
+C-20 CONNECTOR (4) Turn the ignition switch to the "LOCK" (OFF) position.
+HARNESS SIDE VIEW
+Q:Is the voltage approximately 4 volts or more?
+YES : Go to Step 11.
+1 2 3 4 5 6 7 8
+NO : Go to Step 12.
+9 10111213141516
+AC103154AB
+TSB Revision

@@ -1,0 +1,44 @@
+23A-58 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 14. Check connectors C-54 <2.4L Engine> or C-55
+<3.0L Engine> and C-57 <2.4L Engine> or C-59 <3.0L
+Engine> at PCM for damage.
+Q:Are the connectors in good condition?
+CONNECTORS: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE>, C-57 <2.4L ENGINE> YES : Go to Step 15.
+OR C-59 <3.0L ENGINE> NO : Repair or replace the defective connector(s). Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+PCM
+2.
+C-57 <2.4L ENGINE>
+OR
+C-59 <3.0L ENGINE>
+C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE> AC001657BB
+STEP 15. Check harness for short circuit to ground or
+damage between throttle position sensor connector B-07
+terminal 3 and PCM connector C-57 <2.4L Engine> or C-59
+<3.0L Engine> terminal 78.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> YES : Go to Step 16.
+B-07
+NO : Repair it.
+B-07
+AC001831AF
+CONNECTOR: C-57 <2.4L ENGINE> OR
+C-59 <3.0L ENGINE>
+PCM
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+STEP 16. Check the connector and the harness for short
+circuit to ground between the throttle position sensor
+connector and the auto-cruise control-ECU connector.
+Q:Is the harness wire in good condition?
+YES : Throttle position sensor adjustment. Refer to GROUP
+13A <2.4L Engine>, On-vehicle Service − Throttle
+Position Sensor Adjustment P.13A-576 or 13B <3.0L
+Engine>, On-vehicle Service − Throttle Position
+Sensor Adjustment P.13B-677.
+NO : Repair it.
+TSB Revision

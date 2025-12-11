@@ -1,0 +1,29 @@
+54A-30 CHASSIS ELECTRICAL
+IGNITION SWITCH
+Registration with scan tool MB991502
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+NOTE: Using the key ID register function will cause all key IDs
+that have been previously registered in the immobilizer-ECU to
+be erased. All keys need to be registered. Those which have
+been registered before should be on hand before using this
+function.
+NOTE: If registering more than one key, do not disconnect scan
+tool MB991502 halfway through the registration process.
+NOTE: After registering key IDs, check that the engine can be
+started using all of the keys that have been registered. If the
+engine will not start, refer to Immobilizer System Diagnosis
+P.54A-11.
+1. Connect scan tool MB991502 to data link connector (16
+pin).
+2. Turn the ignition switch to "ON" position.
+16 PIN
+MB991502
+AC001252AB
+3. At "System Select," press "YES."
+AC000522AC
+4. Select "Immobilizer," press "YES".
+AC000523AB
+TSB Revision

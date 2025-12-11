@@ -1,0 +1,42 @@
+ES–45
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+CHECK MODE PROCEDURE
+HINT:
+Intelligent tester only:
+Compared to normal mode, check mode is more sensitive to
+malfunctions. Therefore, check mode can detect the
+malfunctions that cannot be detected by normal mode.
+NOTICE:
+All the stored DTCs and freeze frame data are erased if:
+1) the ECM is changed from normal mode to check mode
+or vice versa; or 2) the ignition switch is turned from ON
+to ACC or OFF while in check mode. Before changing
+modes, always check and make a note of any DTCs and
+freeze frame data. ES
+1. CHECK MODE PROCEDURE (Using intelligent
+Intelligent Tester
+tester)
+(a) Check and ensure the following conditions:
+(1) Battery positive voltage 11 V or more.
+(2) Throttle valve fully closed.
+(3) Transmission in the P or N position.
+(4) A/C switch OFF.
+(b) Turn the ignition switch OFF.
+(c) Connect the intelligent tester to the DLC3.
+(d) Turn the ignition switch ON.
+DLC3 (e) Turn the tester ON.
+(f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II/ CHECK MODE.
+CAN VIM (g) Switch the ECM from normal mode to check mode.
+B127989E01
+(h) Make sure the MIL flashes as shown in the
+illustration.
+0.13 seconds (i) Start the engine.
+(j) Make sure the MIL turns off.
+ON
+(k) Simulate the conditions of the malfunction described
+by the customer.
+(l) Check DTCs and freeze frame data using the tester.
+OFF
+0.13 seconds
+A076900E04

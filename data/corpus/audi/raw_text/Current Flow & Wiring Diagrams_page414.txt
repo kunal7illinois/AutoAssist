@@ -1,0 +1,59 @@
+Audi TT No. 47 / 14
+Current Flow Diagram
+Onboard supply control unit, operating unit in front of centre
+console
+E226 Tyre pressure monitor button
+E387 Shock absorber damping adjustment button
+E461 Operating unit in front of centre console
+E541 Sport program button
+J250 Electronically controlled damping control unit
+J502 Tyre pressure monitor control unit
+J519 Onboard supply control unit
+J623 Engine control unit
+J793 Tyre pressure monitor control unit 2
+K91 Sports program warning lamp
+K189 Shock absorber damping adjustment warning lamp
+T16b 16-pin connector, brown, on switch module centre console
+T18c 18-pin connector, black, on tyre pressure monitor control unit 2
+T20h 20-pin connector, red, on tyre pressure monitor control unit 2
+T47a 47-pin connector, on electronically controlled damping control
+unit
+44 Earth point, lower part of left A-pillar
+J519
+384 Earth connection 19, in main wiring harness
+✱ ✱ 3333
+J623 J623 J793 J502 J250 J250 394 Earth connection 29, in main wiring harness
+T18c T20h/16 T47a/21 T47a/9 0,35
+/8 sw/ro * ⇒ 2.5 l engine Current Flow Diagram
+# ** models with tyre pressure monitor
+0,35 0,35 0,35✱✱ 0,35✱✱ 0,35✱✱✱ 0,35✱✱✱ 0,35 *** models with electronically controlled damping
+sw/li bl/ws ge/bl ge/bl sw/li br/bl sw/ro
+# only USA
+## up to May 2010
+T16b
+T16b/14 T16b/16 T16b/13 /14 T16b/4
+K189
+E541 K91 E226 E387
+##
+a
+b
+E461 T
+31
+16b/8
+384
+0,35 1,0 1,5 ws = white
+br br br sw = black
+ro = red
+br = brown
+gn = green
+394
+bl = blue
+394
+gr = grey
+44 li = purple
+ge = yellow
+169 170 171 172 173 174 175 176 177 178 179 180 181 182
+or = orange
+8J0-047140410
+rs = pink
+Edition 04.2010

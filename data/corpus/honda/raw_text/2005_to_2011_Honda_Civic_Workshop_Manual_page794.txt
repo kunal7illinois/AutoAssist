@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Fig. 111: Checking Continuity Between PCM Connector Terminal C43
+And Output Shaft (Countershaft) Speed Sensor Connector Terminal 2
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES -Go to step 38.
+NO -Repair open in the wire between PCM connector terminal C43 and the
+output shaft (countershaft) speed sensor, then go to step 32.
+28. Connect the output shaft (countershaft) speed sensor connector.
+29. Clear the DTC with the HDS.
+30. Test-drive the vehicle with the shift lever in D and the engine speed 2,000 rpm
+or higher, for at least 10 seconds. Slow down and stop the wheels.
+31. Monitor the OBD STATUS for P0721 or P0722 in the DTCs MENU with the
+HDS.
+Does the HDS indicate FAILED?
+YES -Replace the output shaft (countershaft) speed sensor (see OUTPUT
+SHAFT (COUNTERSHAFT) SPEED SENSOR REPLACEMENT ), then
+go to step 32.
+NO -Go to step 38.
+32. Reconnect all connectors.
+33. Turn the ignition switch to ON (II).

@@ -1,0 +1,25 @@
+54B-472 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE O-3: The ETACS-ECU does not Receive Any Signal from the Fog Light
+Switch.
+Fog Light Switch Iuput Circuit
+CONNECTORS: C-76, C-78
+CONNECTOR: C-118
+JUNCTION BLOCK
+(REAR VIEW)
+C-78
+C-76
+AC106473AU AC106481AE
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the signal is not normal, the fog lights do not work
+The ETACS-ECU operates the fog lights according to
+normally. If the signal is not normal, the fog light
+signal from the fog light switch.
+switch or the ETACS-ECU may be defective.
+.
+. TROUBLESHOOTING HINTS
+• Malfunction of the fog light switch
+• Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+TSB Revision

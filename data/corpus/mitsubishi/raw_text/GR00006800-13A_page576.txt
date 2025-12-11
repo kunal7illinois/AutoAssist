@@ -1,0 +1,47 @@
+13A-576 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+ON-VEHICLE SERVICE
+8. Attach the air intake hose.
+9. Use the scan tool to erase any diagnostic trouble code.
+10.Adjust the basic idle speed. (Refer to P.13A-577.)
+WARNING
+Battery posts, terminals and related accessories con-
+tain lead and lead compounds. WASH HANDS AFTER
+HANDLING.
+NOTE: If the engine hunts while idling after adjustment of
+the basic idle speed, disconnect the negative cable from the
+battery for 10 seconds or more, and then reconnect it and
+run the engine at idle for about 10 minutes after the engine
+is warmed up.
+THROTTLE POSITION SENSOR ADJUSTMENT
+M1131001100038
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991348: Test Harness Set
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting the scan tool MB991502.
+16 PIN
+MB991502
+AKX01177AB
+1. Connect scan tool MB991502 to the data link connector.
+When not using scan tool follow the steps below.
+(1) Disconnect the throttle position sensor connector, and
+THROTTLE
+POSITION connect the special tool MB991348 in between. (All
+SENSOR
+terminals should be connected.)
+(2) Connect a digital voltmeter between throttle position
+sensor terminal 3 (sensor output) and terminal 1 (sensor
+ground).
+2. Turn the ignition switch to the "ON" position (but do not start
+ACX02472AD the engine).
+3. Check the throttle position sensor output voltage.
+TERMINAL 3
+(SENSOR OUTPUT) Standard value: 535 − 735 mV
+MB991348
+TERMINAL 1
+(SENSOR
+GROUND)
+AKX01636AB
+TSB Revision

@@ -1,0 +1,44 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-55
+SRS AIR BAG DIAGNOSIS
+STEP 5. Check the circuit between the SRS-ECU and the
+junction block.
+(1) Measure at junction block connector C-108.
+CONNECTORS: C-108
+JUNCTION BLOCK (2) Disconnect junction block connector C-108, and measure at
+(FRONT VIEW) the wiring harness side.
+CAUTION
+Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+weakened.
+(3) Check the continuity between terminals 7 and body ground.
+• There should be open circuit.
+AC106657AB Q:Is the circuit normal?
+YES : Check the other circuit, which flows through multi-
+C-108 CONNECTOR
+(HARNESS SIDE) REAR VIEW purpose fuse number 22.
+NO : Go to Step 6.
+1 2 3 4 5 6 7 8 91011121314
+1516171819202122232425262728
+AC106858AB
+STEP 6. Check the harness for short circuit to ground
+between the SRS-ECU and the junction block.
+(1) Disconnect SRS-ECU connector C-72, and measure at the
+CONNECTOR: C-72
+wiring harness side.
+CAUTION
+Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+weakened.
+(2) Check the continuity between terminals 9 and body ground.
+SRS-ECU • There should be open circuit.
+ACCELERATOR PEDAL Q:Is the continuity normal?
+CENTER REINFORCEMENT(LH)AC000358AD
+YES : Erase the DTC memory, and recheck if any DTC sets.
+C-72 CONNECTOR If DTC 42 sets, replace the SRS-ECU. Refer to
+(HARNESS SIDE) REAR VIEW
+P.52B-142. Then go to Step 8.
+NO : Go to Step 7.
+1 2 3 4 5 6 7 8
+9 10111213141516
+AC106651AB
+TSB Revision

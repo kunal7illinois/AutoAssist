@@ -1,0 +1,13 @@
+BODY ELECTRICAL - MULTIPLEX COMMUNICATION BE-11
+3. Diagnosis
+(cid:3) If a malfunction occurs on the CAN communication line, the ECU that is connected to the CAN
+communication line stores the DTC (Diagnostic Trouble Code) in its memory.
+(cid:3) The 5-digit DTC can be read by connecting a hand-held tester to the DLC3.
+(cid:3) The DLC3 is equipped with CAN-H and CAN-L terminals for CAN diagnosis. It is possible to determine
+if there is an open or short in the main wire of the CAN No. 1 bus by measuring the resistance value between
+these terminals.
+For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).
+Service Tip
+The diagnostic communication uses the CAN protocol. Therefore, a hand-held tester and a dedicated
+adapter [CAN VIM (Vehicle Interface Module)] are required for accessing diagnostic data. For
+details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).

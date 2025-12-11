@@ -1,0 +1,55 @@
+ES–383
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR STRATEGY
+Related DTC P2420: Vent valve stuck open (vent)
+Required Sensors/Components Purge VSV and pump module
+Frequency of Operation Once per driving cycle
+Duration Within 2 minutes
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+The monitor will run whenever these DTCs are not
+None
+present
+Key-off monitor is run when all of the following
+-
+conditions are met
+ES
+Atmospheric pressure 70 to 110 kPa (525 to 825 mmHg)
+Battery voltage 10.5 V or more
+Vehicle speed 2.5 mph (4 km/h) or less
+Ignition switch OFF
+Time after key-off 5 or 7 or 9.5 hours
+EVAP pressure sensor malfunction (P0450, P0452,
+Not detected
+P0453)
+EVAP canister purge valve Not operated by scan tool
+EVAP canister vent valve Not operated by scan tool
+EVAP leak detection pump Not operated by scan tool
+Both of the following conditions 1 and 2 are set before
+-
+key-off
+1. Duration that vehicle has been driven 5 minutes or more
+2. EVAP purge operation Performed
+ECT 4.4 to 35°C (40 to 95°F)
+IAT 4.4 to 35°C (40 to 95°F)
+Key-off monitor sequence 1 to 8
+1. Atmospheric pressure measurement
+Next sequence is run if the following condition is met -
+Atmospheric pressure change Less than 0.3 kPa (2.25 mmHg) in 1 second
+2. First reference pressure measurement
+Next sequence is run if the following conditions are met Conditions 1, 2 and 3
+1. EVAP pressure just after reference pressure
+-1 kPa (-7.5 mmHg) or less
+measurement start
+2. Reference pressure -4.85 to -1.057 kPa (-36.384 to -7.929 mmHg)
+3. Reference pressure Saturated
+3. EVAP canister vent valve close stuck check
+Next sequence is run if the following condition is met -
+EVAP pressure change after vent valve is ON 0.3 kPa (2.25 mmHg) or more
+4. Vacuum introduction
+Next sequence is run if the following condition is met -
+EVAP pressure Saturated within 15 minutes
+5. EVAP canister purge valve close stuck check
+Next sequence is run if the following condition is met -
+EVAP pressure change after purge valve is open 0.3 kPa (2.25 mmHg) or more

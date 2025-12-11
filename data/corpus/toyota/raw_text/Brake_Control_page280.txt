@@ -1,0 +1,20 @@
+BC–274
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+TS and CG Terminal Circuit
+DESCRIPTION
+In the Test Mode (signal check), a malfunction of the speed sensor that cannot be detected when the
+vehicle is stopped can be detected while driving.
+Transition to the sensor check mode can be performed by connecting terminals TS and CG of the DLC3
+and turning the ignition switch from off to on (IG).
+WIRING DIAGRAM
+Brake Actuator Assembly
+DLC3 - Skid Control ECU
+BC
+TS TS
+12 24
+CG
+4
+C109400E06
+INSPECTION PROCEDURE
+NOTICE:
+When replacing the brake actuator assembly, perform zero point calibration (See page BC-119).

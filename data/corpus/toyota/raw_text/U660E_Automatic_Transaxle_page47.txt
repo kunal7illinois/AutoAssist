@@ -1,0 +1,69 @@
+AX–47
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+DATA LIST / ACTIVE TEST
+1. DATA LIST
+HINT:
+Using the DATA LIST using the intelligent tester allows
+switch, sensor, actuator and other item values to be read
+without removing any parts. Reading the DATA LIST AX
+early in troubleshooting is one way to save labor time.
+NOTICE:
+In the table below, the values listed under "Normal
+Condition" are reference values. Do not depend
+solely on these reference values when deciding
+whether a part is faulty.
+(a) Warm up the engine.
+(b) Turn the ignition switch off.
+(c) Connect the intelligent tester together with the CAN
+VIM (Controller Area Network Vehicle Interface
+Module) to the DLC3.
+(d) Turn the ignition switch on (IG).
+(e) Turn the tester on.
+(f) Enter the following menus: "DIAGNOSIS / OBD/
+MOBD / ECT / DATA LIST".
+(g) According to the display on the tester, read "DATA
+LIST".
+Measurement Item/
+Item Normal Condition Diagnostic Note
+Range (display)
+• 15.0 to 35.0%: Idling
+Calculated load by ECM:
+CALC LOAD • 10.0 to 30.0%: Running -
+Min.: 0%, Max.: 100%
+without load (2,000 rpm)
+Engine speed:
+ENGINE SPD 550 to 800 rpm: Idling -
+Min.: 0 rpm, Max.: 16,383.75 rpm
+Vehicle speed:
+VEHICLE SPD Actual vehicle load -
+Min.: 0 km/h, Max.: 255 km/h
+• If value -40°C (-40°F): sensor
+Engine coolant temperature:
+80 to 105°C (176 to 221°F): After circuit open
+COOLANT TEMP Min.: -40°C (419°F), Max.: 140°C
+warming up • If value 140°C (284°F):
+(258°F)
+sensor circuit shorted
+Throttle position:
+THROTTLE POS 10 to 22%: Idling Calculated value based on VTA1
+Min.: 0%, Max.: 100%
+• 0%: Accelerator pedal
+Throttle position: released Recognition valve for throttle
+THROTTLE POS
+Min.: 0%, Max.: 100% • 64 to 96%: Accelerator pedal opening angle on ECM
+fully depressed
+SPD (NC) Min.: 0 rpm, Max.: 12750 rpm - -
+HINT:
+• Lock-up ON (After warming
+up the engine):
+Input turbine speed (NT)
+Input turbine speed/ equal to the engine speed.
+SPD (NT) -
+display: 50 r/min • Lock-up OFF (Idling at N
+position):
+Input turbine speed (NT)
+nearly equal to the engine
+speed.
+Closed throttle position switch: • ON: Throttle fully closed
+CTP SW -
+ON or OFF • OFF: Throttle open

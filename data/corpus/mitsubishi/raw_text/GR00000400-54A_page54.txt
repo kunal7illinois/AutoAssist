@@ -1,0 +1,32 @@
+54A-54 CHASSIS ELECTRICAL
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+Q:Are the wiring harness between vehicle speed sensor
+CONNECTOR: C-28
+connector C-39 (terminal 1) <M/T> and ignition switch
+(IG1) in good condition?
+YES : There is no action to be taken.
+NO : Repair the wiring harness. The speedometer should
+work normally.
+1 2 3 4
+5 16
+6 7 8 9101112131415
+17 28
+18192021222324252627
+29 38
+3031 32333435 3637
+C-28
+AC106563AC
+STEP 16. Check the vehicle speed sensor ground circuit at
+the vehicle speed sensor connector B-39 <M/T>.
+(1) Disconnect the vehicle speed sensor connector B-39 <M/
+T>.
+(2) Measure the resistance between terminal 2 and ground.
+VEHICLE SPEED • The measured value should be 2 ohm or less.
+SENSOR CONNECTOR
+(HARNESS SIDE) Q:Does measured resistance value correspond with this
+range?
+YES : Go to Step 19.
+NO : Go to Step 17.
+B-39
+AC002045AD
+TSB Revision

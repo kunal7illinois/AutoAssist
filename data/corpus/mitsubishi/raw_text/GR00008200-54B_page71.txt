@@ -1,0 +1,52 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-71
+SYMPTOM PROCEDURES
+The ETACS-ECU operates the ignition key reminder TECHNICAL DESCRIPTION (COMMENT)
+tone alarm function under the following conditions: If the function does not work normally, the input cir-
+• Ignition key position: "LOCK" (OFF) or "ACC" cuit system from the switches or the ETACS-ECU
+position may be defective (refer to "CIRCUIT OPERATION").
+• Ignition key: Inserted in the ignition key cylinder
+• Driver(cid:146)s door: open . TROUBLESHOOTING HINTS
+• Malfunction of the key reminder switch
+. • Malfunction of front door switches
+• Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Use scan tool to select "ECU COMM CHECK" on
+the SWS monitor display.
+Check the ETACS-ECU.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502. Also con-
+nect SWS monitor kit MB991862 after turning on scan tool
+MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+COLUMN SWITCH (2) Connect SWS monitor kit MB991862 to the column switch
+CONNECTOR
+connector.
+MB991502 (3) Turn the ignition switch to the "LOCK" (OFF) position.
+(4) Operate the MUT-II according to the procedure below to
+display "ECU COMM CHECK."
+1. Select "SYSTEM SELECT."
+DATA LINK 2. Select "SWS."
+CONNECTOR
+3. Select "SWS MONITOR."
+AC101571AB 4. Select "ECU COMM CHECK."
+(5) Scan tool MB991502 should show "OK" on the "ETACS
+COLUMN SWITCH ECU" menu.
+CONNECTOR
+Q:Is "OK" displayed on the "ETACS ECU" menu?
+YES : Go to Step 2.
+SWS MONITOR NO : Refer to Inspection Procedure A-3 "Communication
+HARNESS (FOR
+with ETACS-ECU is impossible P.54B-39."
+COLUMN-ECU)
+COLUMN SWITCH
+CONNECTOR AT
+HARNESS SIDE
+AC101421AB
+TSB Revision

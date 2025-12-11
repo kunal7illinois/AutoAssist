@@ -1,0 +1,59 @@
+54A-190 CHASSIS ELECTRICAL
+RADIO AND TAPE PLAYER
+INSPECTION PROCEDURE 11: There is Noise when Starting the Engine.
+. NOTE: Coil: The coil passes DC current, but imped-
+DIAGNOSIS
+ance rises as the number of waves increases relative
+CAUTION
+to the AC current. A noise suppressing coil which
+• Connecting a high tension cable to the noise
+takes advantage of this property is inserted into the
+filter may destroy the noise filter and should
+power line for the noise source, and works by pre-
+never be done.
+venting the noise component from flowing or radiat-
+• Check that there is no external noise. Since ing out of the line.
+failure to do this may result in an incorrect
+diagnosis due to the inability to identify the
+noise source, this operation must be per-
+formed.
+• Noise prevention should be performed by
+suppressing strong sources of noise step by
+step.
+NOTE: Capacitor: The capacitor does not pass DC
+current, but as the number of waves increases when
+it passes AC current, impedance (resistance against
+AC) decreases, and current flow is facilitated. A
+noise suppressing capacitor which take advantage of
+this property is inserted between the power line for
+the noise source and the ground. This suppresses
+noise by grounding the noise component (AC or
+pulse signal) to the body of the vehicle.
+NOISE TYPE SOUNDS CONDITIONS CAUSE REMEDY
+ARE IN PARENTHESES
+AM, FM: ignition noise • Increasing the engine • Mainly due to the • Check or replace the
+(popping, snapping, speed causes the spark plugs ground cable.
+cracking, buzzing) generator whine • Due to engine noise • Check or replace the
+sound to speed up noise capacitor. <2.4L
+and the volume to ENGINE>
+decrease
+• Disappears when the
+ignition switch turned
+to "ACC."
+Other electrical − Noise may occur as the Repair or replace the
+components electrical components electrical components.
+become older.
+Static electricity (cracking, • Disappears when the Occurs when parts or Return parts or wiring to
+crinkling) vehicle is completely wiring move for some their proper position.
+stopped. reason and contact metal
+• Severe when the parts of the body.
+clutch is engaged
+Static electricity (cracking, • Various noise are Due to removal of the Ground parts by bonding.
+crinkling) produced depending front hood, bumpers, Cases where the
+on the body part of the exhaust pipe and muffler, problem is not eliminated
+vehicle. suspension, etc. by a signal response to
+one area are common,
+due to several body parts
+being imperfectly
+grounded.
+TSB Revision

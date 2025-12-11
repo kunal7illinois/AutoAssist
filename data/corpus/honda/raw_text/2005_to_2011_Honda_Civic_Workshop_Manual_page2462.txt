@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (R18A1) - Civic (All Except Hybrid)
+NO - Repair or replace the damaged parts, then go to step 21.
+21. Reconnect all hoses and connectors.
+22. Turn the ignition switch ON (II).
+23. Reset the ECM/PCM with the HDS.
+24. Do the ECM/PCM idle learn procedure (see ECM/PCM IDLE LEARN
+PROCEDURE ).
+25. Do the EVAP FUNCTION TEST in the INSPECTION MENU with the HDS.
+Is the result OK?
+YES - Troubleshooting is complete.
+NO - Check for poor connections or loose terminals at the FTP sensor, the
+EVAP canister purge valve, the EVAP canister vent shut valve, and the
+ECM/PCM, then go to step 1.
+DTC P0457: EVAP SYSTEM LEAK DETECTED/FUEL FILL CAP LOOSE OR MISSING
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Check the fuel fill cap (the cap must say "TIGHTEN TO CLICK"). It should
+turn 1/4 turn after it's tight, then it clicks.
+Is the correct fuel fill cap installed and properly tightened?
+YES - Go to step 2.
+NO - Replace or tighten the cap, then go to step 19.
+2. Check the fuel fill cap seal (A) and the fuel fill pipe mating surface (B). Verify
+that the fuel fill cap tether cord (C) is not caught under the cap.

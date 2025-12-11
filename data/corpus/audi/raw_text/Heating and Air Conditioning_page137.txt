@@ -1,0 +1,53 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+– Operation of radiator fan(s) ( radiator fan -V7- and radiator fan
+2 -V177- ) (actuation and speed are governed by pressure in
+refrigerant circuit and engine temperature).
+Note
+Depending on the version of the air conditioner operating unit,
+Climatronic control unit -J255- , the radiator fan(s) ( radiator fan -
+V7- and radiator fan 2 -V177- ) is/are only switched in as of a
+certain pressure in the refrigerant circuit (currently as of a pres‐
+sure of approx. 9 bar). Actuation of the radiator fan(s) is displayed
+in the measured value block ⇒ "Guided fault-finding" function of
+vehicle diagnostic, testing and information system VAS 5051 .
+– Operation of fresh-air blower -V2- at maximum speed
+– Switching of the air conditioner to recirculated air mode (ap‐
+prox. 1 minute after starting the vehicle, the air flow/fresh-air
+flap is closed and the recirculated air flap opened, air is drawn
+in by the fresh air blower -V2- from the passenger compart‐
+ment beneath the dash panel/glove box).
+Note
+If one of these test requirements is not satisfied, interrogate the
+fault memory, perform final control diagnosis and read out the
+measured value block ⇒ "Guided fault-finding" function of vehicle
+diagnostic, testing and information system VAS 5051 .
+10.1.2 Checking cooling output
+Test requirements satisfied ⇒ page 130
+– Measure the ambient temperature (must be above 15 °C).
+– Close the doors, bonnet, windows and rear lid.
+– Open all dash panel vents.
+– Switch on ignition.
+– Start the engine.
+– Set “Econ” mode on the air conditioner operating unit, Clima‐
+tronic control unit -J255- (lamp in AC button not lit).
+– Start air conditioner guided fault-finding ⇒ "Guided fault-find‐
+ing" function of vehicle diagnostic, testing and information
+system VAS 5051 .
+– In the “Reading measured value block” function, select the
+display group with the measured values for actuation of the air
+conditioner compressor and for the pressure in the refrigerant
+circuit and read out the measured values ⇒ "Guided fault-
+finding" function of vehicle diagnostic, testing and information
+system VAS 5051 .
+– Check the measured values shown in the display zones with
+the values for actuation of the air conditioner compressor reg‐
+ulating valve -N280- and for the pressure in the refrigerant
+circuit.
+♦ The air conditioner compressor is switched off, a current to -
+N280- of 0 A (amps) is displayed.
+♦ At the measured ambient temperature, the pressure in the re‐
+frigerant circuit (measured value of high-pressure sender -
+G65- ) is equal to or higher than the value in the table.
+131
+10. Checking cooling output of air conditioner

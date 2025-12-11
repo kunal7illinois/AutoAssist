@@ -1,0 +1,38 @@
+EI–102
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+1 CHECK HARNESS AND CONNECTOR (TRANSPONDER KEY ECU - DLC3)
+(a) Disconnect the E15 ECU connector.
+Wire Harness Side Connector Rear View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+E15
+Tester Connection Condition Specified Condition
+Transponder Key ECU Assembly
+E15-9 (D) - E10-7 (SIL) Below 1 Ω
+Always
+E15-9 (D) - Body ground 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+D
+Wire Harness Side Connector Front View:
+E10
+Data Link Connector 3
+SIL
+B128341E01
+OK
+EI
+2 CHECK HARNESS AND CONNECTOR (DLC3 - BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+Wire Harness Side Connector Front View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E10
+E10-4 (CG) - Body
+Data Link Connector 3 Always Below 1 Ω
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+CG
+B124215E08

@@ -1,0 +1,32 @@
+54B-570 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the rear wiper.
+Q:Does the rear wiper motor operate (however, the rear
+wiper does not stop at the predetermined park
+position)?
+YES : Go to Step 2.
+NO : Refer to Inspection Procedure H-1 "Rear wiper dose
+not work at all P.54B-231."
+STEP 2. Check the rear wiper motor.
+(1) Disconnect rear wiper motor connector F-07.
+CONNECTOR <ECLIOSE>: F-07
+1 2 3
+DEVICE SIDE
+AC106489AH
+(2) While the rear wiper motor is running, disconnect the
+battery to stop the motor.
+(3) When the battery is connected as shown, the motor should
+run again and stop at the predetermined park position.
+Q:Does the rear wiper motor operate normally?
+YES : Go to Step 3.
+NO : Replace the rear wiper motor. If the rear wiper
+operates normally, it indicates that a correct auto-stop
+signal is sent from the rear wiper motor.
+REAR WIPER MOTOR OPERATE
+AUTOMATIC STOP
+AC003713AB
+TSB Revision

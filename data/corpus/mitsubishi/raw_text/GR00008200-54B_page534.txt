@@ -1,0 +1,32 @@
+54B-534 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINTS
+If the signal is not normal, the equipment and func- • Malfunction of the driver’s inner seat belt (driver’s
+tions, which are described in "CIRCUIT OPERA- seat belt switch)
+TION", do not work normally. • Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the driver’s seat belt switch.
+Disconnect driver’s seat belt switch connector D-13.Then
+CONNECTOR <ECLIPSE>: D-13
+check continuity between the switch terminals.
+ITEM TESTER SPECIFIED
+CONNECTION CONDITION
+Fastened seat belt 1 − 2 Open circuit
+Unfastened seat belt 1 − 2 Less than 2 ohm
+Q:Is the driver’s seat belt switch in good condition?
+YES : Go to Step 2.
+AC106483AC NO : Replace the driver’s inner seat belt. If the functions,
+which are described in "CIRCUIT OPERATION", work
+CONNECTOR <ECLIPSE SPYDER>: D-13
+normally, the input signal from the driver’s seat belt
+switch should be normal.
+AC106485AC
+TONGUE
+BUCKLE
+ACX00636AC
+TSB Revision

@@ -1,0 +1,44 @@
+23A-332 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+TERMINAL INSPECTION ITEMS INSPECTION REQUIREMENT NORMAL CONDITION
+NO.
+122 Park/Neutral position • Ignition switch: ON Battery positive voltage
+switch: 2 <Vehicles • Selector lever operation: 2
+without sport mode> • Ignition switch: ON 0 V
+• Selector lever operation: Other than
+above
+Select switch (Up) • Ignition switch: ON Battery positive voltage
+<Vehicles with sport • Selector lever operation: Upshift and
+mode> hold the selector lever
+• Ignition switch: ON 0 V
+• Selector lever operation: Other than
+above
+123 Stoplight switch • Ignition switch: ON Battery positive voltage
+• Brake pedal: Depressed
+• Ignition switch: ON 0 V
+• Brake pedal: Released
+124 A/T fluid temperature A/T fluid temperature: 20°C (68°F) 3.8 − 4.0 V
+sensor A/T fluid temperature: 40°C (104°F) 3.2 − 3.4 V
+A/T fluid temperature: 80°C (176°F) 1.7 − 1.9 V
+128 Shift indicator light: 4th • Engine: Idling Battery positive voltage
+<Vehicles with sport • Gear range: 4th gear
+mode> • Engine: Idling 0 − 0.9 V
+• Gear range: other than 4th gear
+129 Low-reverse solenoid • Engine: Idling Battery positive voltage
+valve • Selector lever position: P
+• Engine: Idling 7 − 9 V
+• Selector lever position: 2 (2nd gear)
+<Vehicles without sport mode>, Sport
+mode (2nd gear) <Vehicles with sport
+mode>
+130 Overdrive solenoid • Engine: Idling Battery positive voltage
+valve • Selector lever position: 3 (3rd gear)
+<Vehicles without sport mode>, Sport
+mode (3rd gear) <Vehicles with sport
+mode>
+• Engine: Idling 7 − 9 V
+• Selector lever position: P
+PCM TERMINAL RESISTANCE AND CONTINUITY INSPECTION CHART
+M1231013400129
+ACAXC0X10917987A8C
+TSB Revision

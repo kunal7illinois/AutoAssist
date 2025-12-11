@@ -1,0 +1,47 @@
+EG-44 ENGINE - 2AZ-FE ENGINE
+Throttle Position Sensor
+The no-contact type throttle position sensor uses a Hall IC, which is mounted on the throttle body.
+(cid:1) The Hall IC is surrounded by a magnetic yoke. The Hall IC converts the changes that occur in the
+magnetic flux at that time into electrical signals and outputs them in the form of a throttle valve effort
+to the ECM.
+(cid:1) The Hall IC contains circuits for the main and sub signals. It converts the throttle valve opening angles
+into electric signals with two differing characteristics and outputs them to the ECM.
+Throttle Body
+Throttle Position
+Sensor Portion
+Reduction
+Gears
+A
+View from A
+Magnet
+Hall IC
+(for Throttle
+Position Sensor)
+Magnet
+Throttle Valve
+Throttle Control
+Motor
+025EG13TE
+Cross Section
+Throttle Position Sensor
+V
+Magnet
+5
+VTA1 4 VTA2
+Output 3
+Hall E Voltage
+IC 2 VAT1
+VC ECM
+Hall 1
+IC
+VTA2
+0
+10 20 30 40 50 60 70 80 90
+Throttle Valve Throttle Valve
+Magnet
+Fully Close Fully Open
+Throttle Valve Opening Angle
+230LX12 238EG79
+Service Tip
+The inspection method differs from the conventional throttle position sensor because this sensor
+uses a hall IC. For details, refer to the 2007 Camry Repair Manual (Pub. No. RM0250U).

@@ -1,0 +1,43 @@
+Audi TT No. 31 / 10
+Current Flow Diagram
+Navigation system with CD drive control unit, TV card reader
+J401 Navigation system with CD drive control unit
+R204 TV card reader
+T12n 12-pin connector, connector K, on navigation system with CD
+drive control unit
+T12o 12-pin connector, black, on TV card reader
+* from June 2008
+J401
+T12n/1 T12n/2 T12n/3 T12n/4 T12n/5 T12n/6 T12n/7 T12n/8 T12n/9 T12n T12n T12n
+/10 /11 /12
+0,35
+sw
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+ge bl ge/bl gr li gn/li ws ro/bl ws/sw gn br/ws
+0,35
+sw
+T12o T12o T12o
+T12o/1 T12o/2 T12o/3 T12o/4 T12o/5 T12o/6 T12o/7 T12o/8 T12o/9 /10 /11 /12
+R204 ✱ w
+sw
+s =
+=
+w
+bl
+h
+a
+i
+c
+te
+k
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+113 114 115 116 117 118 119 120 121 122 123 124 125 126 or = orange
+8J0-031100408
+rs = pink
+Edition 04.2009

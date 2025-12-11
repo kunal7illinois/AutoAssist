@@ -1,0 +1,47 @@
+ES–153
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Engine Coolant Temperature Circuit Malfunc-
+DTC P0115
+tion
+DTC P0117 Engine Coolant Temperature Circuit Low Input
+DTC P0118 Engine Coolant Temperature Circuit High Input
+DESCRIPTION
+A thermistor is built into the Engine Coolant Temperature (ECT) sensor, of which the resistance value
+varies according to the ECT.
+The structure of the sensor and its connection to the ECM are the same as those of the Intake Air
+Temperature (IAT) sensor.
+HINT: ES
+When any of DTCs P0115, P0117 and P0118 are set, the ECM enters fail-safe mode. During fail-safe
+mode, the ECT is estimated to be 80°C (176°F) by the ECM. Fail-safe mode continues until a pass
+condition is detected.
+DTC No. Proceed to DTC Detection Condition Trouble Area
+Open or short in Engine Coolant Temperature • Open or short in ECT sensor circuit
+P0115 Step 1 (ECT) sensor circuit for 0.5 seconds (1 trip • ECT sensor
+detection logic) • ECM
+Short in Engine Coolant Temperature (ECT) • Short in ECT sensor circuit
+P0117 Step 4 sensor circuit for 0.5 seconds (1 trip detection • ECT sensor
+logic) • ECM
+Open in Engine Coolant Temperature (ECT) • Open in ECT sensor circuit
+P0118 Step 2 sensor circuit for 0.5 seconds (1 trip detection • ECT sensor
+logic) • ECM
+HINT:
+When any of these DTCs are set, check the ECT by entering the following menus on the intelligent tester:
+DIAGNOSIS / ENHANCED OBD II / DATA LIST / PRIMARY / COOLANT TEMP.
+Temperature Displayed Malfunction
+-40°C (-40°F) Open circuit
+140°C (284°F) or higher Short circuit
+MONITOR DESCRIPTION
+The Engine Coolant Temperature (ECT) sensor is used to monitor the ECT. The ECT sensor has a
+thermistor with a resistance that varies according to the temperature of the engine coolant. When the
+coolant temperature drops, the resistance in the thermistor increases. When the temperature rises, the
+resistance drops. These variations in resistance are reflected in the output voltage from the sensor. The
+ECM monitors the sensor voltage and uses this value to calculate the ECT. When the sensor output
+voltage deviates from the normal operating range, the ECM interprets this as a fault in the ECT sensor
+and sets a DTC.
+Example:
+If the sensor output voltage is -40°C (-40°F) for 0.5 seconds or more, the ECM determines that there
+is an open in the ECT sensor circuit, and sets DTC P0118. Conversely, if the voltage output is more
+than 140°C (284°F) for 0.5 seconds or more, the ECM determines that there is a short in the sensor
+circuit, and sets DTC P0117.
+If the malfunction is not repaired successfully, a DTC is set 0.5 seconds after the engine is next
+started.

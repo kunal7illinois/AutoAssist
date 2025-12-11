@@ -1,0 +1,38 @@
+ANTI-LOCK BRAKING SYSTEM (ABS) 35B-5
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+3. Read out a diagnostic trouble code by observing how the
+ABS WARNING LIGHT warning light flashes.
+AC004361AB
+WHEN THE DIAGNOSTIC TROUBLE CODE NO. 24 WHEN NO DIAGNOSTIC TROUBLE CODE IS
+IS OUTPUT OUTPUT
+1.5s 0.5s 0.25s
+0.5s
+ILLUMINATED
+ILLUMINATED
+SWITCHED SWITCHED
+OFF OFF
+PAUSE TENS PLACE UNITS
+TIME 3s SIGNAL DIVISION SIGNAL ACX01778AB
+2s
+ACX01777AB
+4. Disconnect special tool MB991529.
+Erasing ABS Diagnostic Trouble Codes
+NOTE: If the ABS-ECU functions have stopped due to the fail-
+safe function, the diagnostic trouble code cannot be erased.
+.
+Using Scan Tool MB991502
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOOK" (OFF) position before con-
+necting or disconnecting the scan tool.
+1. Connect scan tool MB991502 to the data link connector.
+2. Turn the ignition switch to the "ON" position.
+3. Use scan tool MB991502 to erase ABS diagnostic trouble
+codes.
+4. Turn the ignition switch to the "LOOK" (OFF) position.
+5. Disconnect scan tool MB991502.
+16 PIN
+MB991502 AC001252AF
+TSB Revision

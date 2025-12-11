@@ -1,0 +1,62 @@
+Audi 100 1991 ➤ , Audi 80 1992 ➤ , Audi A1 2011 ➤ , Audi A2 2001 ➤ , A ...
+Air conditioner with refrigerant R134a - Edition 06.2010
+frost button; the air conditioner functions properly again after
+a short delay following engine shut-off.
+Remedy:
+– In the case of vehicles as of Model Year 2001 and an air con‐
+ditioner compressor with air conditioner compressor regulat‐
+ing valve -N280- , check the measured value of the evaporator
+output temperature sender -G263- (by way of the „Reading
+measured value block“ function). If the sender measured value
+is too low under the usage conditions outlined by the customer
+(at ambient temperature above 0 °C, colder than 0 °C for a
+lengthy period although -N280- is currently not being actuated)
+or too high (greater than approx. 10 °C although the air con‐
+ditioner is functioning properly), the evaporator may ice up due
+to the incorrect measured value ⇒ Vehicle diagnostic tester
+( „self-diagnosis“ or „guided fault-finding“ function for air con‐
+ditioner) and ⇒ Heating, air conditioning; Rep. gr. 87 or ⇒ Air
+conditioning; Rep. gr. 87 (vehicle-specific workshop manual).
+– On vehicles with no evaporator output temperature sender -
+G263- use the footwell vent temperature sender -G192- for
+example to check the output temperature in the settings: "Lo
+temperature" for driver and front passenger side, 4 or 5 bars
+for the fresh air blower speed, air outlet to the footwell and
+fresh-air mode under the usage conditions described by the
+customer. If the measured value of the sender is too low (at
+ambient temperature above 0 °C, colder than 0 °C for lengthy
+period).
+– Check refrigerant pipe between evaporator and reservoir
+(thick pipe, low-pressure side) with engine running. If this pipe
+is severely iced up when the problem occurs (a thin ice layer
+is permissible), this is a further indication that the temperature
+in the evaporator is too low.
+– Discharge refrigerant circuit, renew reservoir or receiver with
+dryer and then evacuate refrigerant circuit for at least 3 hours.
+♦ Test requirements ⇒ page 104 .
+♦ Checking pressures ⇒ page 106 .
+♦ Continuation of testing depending on design of refrigerant cir‐
+cuit ⇒ page 108
+7.1.1 Test requirements
+• Radiator and condenser clean (clean if necessary)
+• Thermal insulation at expansion valve OK and properly instal‐
+led.*
+• Poly V-belt OK and properly tensioned / belts for air condi‐
+tioner compressor and alternator OK and properly tensioned.*
+• All air ducts, covers and seals OK and properly installed.
+• Electrical system and vacuum system fault-finding has not re‐
+vealed any faults* ⇒ Vehicle diagnostic tester ( „self-diagno‐
+sis“ or „guided fault-finding“ function for air conditioner) and ⇒
+Heating, air conditioning; Rep. gr. 87 or ⇒ Air conditioning;
+Rep. gr. 87 (vehicle-specific workshop manual).
+• Air conditioner self-diagnosis has not revealed any faults (with
+engine running and air conditioner switched on), no compres‐
+sor shut-off criteria displayed in measured value block (vehi‐
+cles with „air conditioner“ self-diagnosis only) * ⇒ Vehicle
+diagnostic tester ( „self-diagnosis“ or „guided fault-finding“
+function for air conditioner) and ⇒ Heating, air conditioning;
+Rep. gr. 87 or ⇒ Air conditioning; Rep. gr. 87 (vehicle-specific
+workshop manual).
+• Air flow through dust and pollen filter not impeded by dirt*
+104
+Rep. gr.87 - Air conditioning system

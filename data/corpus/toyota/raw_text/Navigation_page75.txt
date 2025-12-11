@@ -1,0 +1,38 @@
+NS–75
+NAVIGATION – NAVIGATION SYSTEM
+DTC 01-DF Master Error
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+• Radio and navigation assembly power source
+circuit
+• AVC-LAN circuit between the radio and navigation
+• The device with a display fails and the master is
+assembly and the component which has stored this
+01-DF switched to the audio device.
+code
+*1 • A communication error between the sub-master
+• AVC-LAN circuit between the radio and navigation
+(radio receiver) and master occurs.
+assembly and the radio receiver
+• Radio and navigation assembly
+• Component which has stored this code
+HINT:
+*1: When 210 seconds have elapsed after disconnecting the power supply connector of the master
+component with the ignition switch on (ACC or IG), this code is stored.
+NOTICE:
+• Before starting troubleshooting, be sure to clear DTCs to erase codes stored due to the
+reasons described in the HINT above. Then, check for DTCs and troubleshoot according to the
+output DTCs.
+• The radio and navigation assembly is the master unit.
+• Be sure to clear and recheck DTCs after the inspection is completed to confirm that no DTCs
+are output.
+INSPECTION PROCEDURE
+NOTICE:
+Be sure to read DESCRIPTION before performing the following procedures.
+1 CHECK RADIO AND NAVIGATION ASSEMBLY POWER SOURCE CIRCUIT
+Refer to the radio and navigation assembly power source
+circuit (See page NS-191).
+If the power source circuit is operating normally, proceed to
+the next step.
+NEXT
+NS

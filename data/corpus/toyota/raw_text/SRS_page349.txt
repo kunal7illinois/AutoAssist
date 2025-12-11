@@ -1,0 +1,38 @@
+RS–347
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+3 PERFORM SENSITIVITY CHECK
+(a) Using the intelligent tester, perform "sensitivity check"
+(See page RS-242).
+Standard value:
+27 to 33 kg (59.52 to 72.75 lb)
+OK END
+NG
+4 RETIGHTEN FRONT SEAT ASSEMBLY RH BOLT
+(a) Turn the ignition switch off.
+(b) Loosen the 4 installation bolts of the front seat assembly
+RH.
+(c) Tighten the 4 installation bolts of the front seat assembly
+RH to the specified torque.
+Torque:37 N*m (377 kgf*cm, 27 ft.*lbf)
+NEXT
+5 PERFORM ZERO POINT CALIBRATION
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Using the intelligent tester, perform "zero point
+RS
+calibration" (See page RS-242).
+OK:
+"COMPLETE" is displayed.
+NG Go to step 7
+OK
+6 PERFORM SENSITIVITY CHECK
+(a) Using the intelligent tester, perform "sensitivity check"
+(See page RS-242).
+Standard value:
+27 to 33 kg (59.52 to 72.75 lb)
+OK END
+NG
+7 CHECK CONNECTORS
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery.

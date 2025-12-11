@@ -1,0 +1,41 @@
+SB–14
+SEAT BELT – SEAT BELT WARNING SYSTEM
+Front Passenger Side Seat Belt Warning Light Malfunction
+DESCRIPTION
+The occupant detection ECU detects the state of the front seat inner belt assembly RH and road sensor
+when the front passenger seat is occupied with the ignition switch on (IG). If the front passenger seat belt
+is not fastened, the front seat belt warning light on the clock display blinks. If the seat belt is fastened, the
+warning light goes off.
+WIRING DIAGRAM
+F1 Center Airbag Occupant Front Seat Inner
+Combination Sensor Assembly Detection ECU Belt RH
+Meter Assembly
+CANH CANH BSW
+9
+P/SB FSP+ FSR+
+CANL CANL BGN
+FSP- FSR-
+Road Sensor FL
+SV1
+SIG1
+F3
+Clock Assembly
+Road Sensor RL SGD1
+SB
+10
+PBEW SV3
+Road Sensor FR
+3 from GAUGE
+IG SIG3
+No. 2 fuse
+19
+GND1 SV2
+SGD3
+SIG2
+Road Sensor RR
+SGD2
+SV4
+SIG4
+SGD4
+: CAN
+B140735E01

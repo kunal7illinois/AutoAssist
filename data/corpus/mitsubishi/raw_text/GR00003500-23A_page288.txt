@@ -1,0 +1,26 @@
+23A-288 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+Q:Are the connectors in good condition?
+CONNECTOR: C-94
+YES : Go to Step 11.
+NO : Repair or replace the defective connector(s). Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+CONNECTOR BLOCK (RH) 2.
+C-94
+AC106628AB
+STEP 11. Check harness for short circuit to ground or
+open circuit between dual pressure switch connector A-36
+terminal 2 and PCM connector C-57 <2.4L Engine> or C-59
+<3.0L Engine> terminal 83.
+Q:Is the harness wire in good condition?
+CONNECTOR: A-36
+YES : Go to Step 12.
+NO : Repair it.
+A-36
+AC004374AC
+CONNECTOR: C-57 <2.4L ENGINE> OR
+C-59 <3.0L ENGINE>
+PCM
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+TSB Revision

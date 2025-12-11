@@ -1,0 +1,52 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+6.7 Removing/installing and checking con‐
+densate drain hose
+Note
+♦ This vehicle is only fitted with one condensate drain.
+♦ Vehicles with no air conditioner (heater only) are fitted with a
+plug to seal the opening at the transmission tunnel (no con‐
+densate drain is provided).
+♦ There is neither a valve nor a flap at the end of the condensate
+drain -C-.
+♦ In the event of moisture problems in the passenger compart‐
+ment, check the following in addition to the condensate drain:
+– Water drains for plenum chamber ⇒ page 67
+– Plenum ch amber cover and cover for fresh-air intake housing
+for correct installation and damage ⇒ page 68
+– Dust and pollen filter for contamination and correct installation
+⇒ page 96
+– Forced air extraction in luggage compartment ⇒ page 65
+– Actuation and operation of the air flow flap ⇒ page 101 and
+recirculated-air flap ⇒ page 89 and ⇒ "Guided fault-finding"
+function of vehicle diagnostic, testing and information system
+VAS 5051.
+♦ In the event of problems with moisture in the passenger com‐
+partment which only occurs with the air conditioner compres‐
+sor switched on under certain ambient conditions, additionally
+check the temperature of the air flowing out of the evaporator
+as follows ⇒ "Guided fault-finding" function of vehicle diag‐
+nostic, testing and information system VAS 5051 :
+– In the “Reading measured value block” function of the guided
+fault-finding routine, select the measured value block with the
+measured value of the evaporator output temperature sender
+-G263- .
+– Check the temperature of the air flowing out of the evaporator
+under the usage conditions described by the customer or with
+the following settings on the air conditioner operating unit, Cli‐
+matronic control unit -J255- : “Auto” mode, air conditioner
+compressor switched on (lamp in AC button lights), “cold” tem‐
+perature setting, medium fresh air blower speed with a voltage
+of approx. 7 V at the fresh air blower -V2- , fresh air mode (lamp
+in “recirculated air button” not lit) and dash panel vents open.
+– If the measured value of the evaporator output temperature
+sender -G263- is too low (at ambient temperature above 0 °C,
+colder than 0 °C for lengthy period) or too high (greater than
+e.g. 10 °C although air conditioner is functioning properly),
+eliminate the cause of the deviation, paying attention to the
+information on checking the cooling output ⇒ page 130 .
+Removing and checking condensate drain hose
+– Remove the left and right centre console trim and the front
+centre console ⇒ General body repairs, interior; Rep. Gr. 68
+84
+Rep. Gr.87 - Air conditioning system

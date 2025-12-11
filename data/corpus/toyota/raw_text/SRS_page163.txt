@@ -1,0 +1,56 @@
+RS–163
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+1 CHECK STEERING PAD (DRIVER SIDE SQUIB)
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Disconnect the connectors from the steering pad.
+F E DC (d) Connect the white wire side of SST (resistance 2.1 Ω) to
+connector E (orange connector).
+Spiral Cable
+CAUTION:
+Driver Side Squib Center Airbag Never connect the tester to the steering pad (driver
+Sensor Assembly side squib) for measurement, as this may lead to a
+serious injury due to airbag deployment.
+NOTICE:
+Connector E
+• Do not forcibly insert the SST into the terminals of
+the connector when connecting.
+• Insert straight the SST into the terminals of the
+SST connector.
+SST 09843-18060
+(e) Connect the negative (-) terminal cable to the battery,
+Color: Orange
+and wait for at least 2 seconds.
+(f) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+(g) Clear the DTCs stored in the memory (See page RS-41).
+DLC3
+(h) Turn the ignition switch off.
+(i) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+(j) Check the DTCs (See page RS-41).
+CG TC
+DTC 51 RS
+OK:
+C
+C114804E01 DTC B1800, B1801, B1802, B1803, or 51 is not
+output.
+HINT:
+Codes other than DTC B1800, B1801, B1802, B1803,
+and 51 may be output at this time, but they are not
+related to this check.
+OK REPLACE STEERING PAD
+NG
+2 CHECK CONNECTOR
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Disconnect the SST from connector E.
+(d) Check that the spiral cable connectors (on the steering
+pad side) are not damaged.
+OK:
+The lock button is not disengaged, or the claw of
+the lock is not deformed or damaged.
+NG REPLACE SPIRAL CABLE (See page RS-
+363)

@@ -1,0 +1,36 @@
+TD–62
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/o Smart Key System)
+2 CHECK HARNESS AND CONNECTOR (ENGINE HOOD COURTESY SWITCH - BODY
+GROUND)
+(a) Disconnect the A5 switch connector.
+Wire Harness Side Connector (b) Measure the resistance according to the value(s) in the
+Front View:
+table below.
+Standard resistance
+Tester Connection Specified Condition
+Engine Hood Courtesy Switch A5-1 - Body ground Below 1 Ω
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+A5
+B144361E01
+OK
+3 CHECK HARNESS AND CONNECTOR (MAIN BODY ECU - ENGINE HOOD COURTESY
+SWITCH)
+(a) Disconnect the E7 ECU connector.
+Connector Wire Harness View: (b) Measure the resistance according to the value(s) in the
+table below.
+Main Body ECU
+Standard resistance
+(Symbol) Tester Connection Specified Condition
+TD HCTY (E7-16) - (A5-2) Below 1 Ω
+HCTY (E7-16) - Body ground 10 kΩ or higher
+E7
+NG REPAIR OR REPLACE HARNESS OR
+HCTY
+CONNECTOR
+Wire Harness Side Connector Front View:
+Engine Hood Courtesy Switch
+A5
+B144366E01
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

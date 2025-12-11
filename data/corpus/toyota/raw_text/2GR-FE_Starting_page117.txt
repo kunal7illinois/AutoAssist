@@ -1,0 +1,40 @@
+ST–117
+2GR-FE STARTING – SMART KEY SYSTEM
+WIRING DIAGRAM
+Engine Room J/B Main Body ECU
+1 AM2 6
+From Battery 1G 1 E7 AM1
+1
+E6 AM2
+From IG2 Fuse
+Engine Room R/B
+IG2
+5 3
+1 1 To Each System
+11
+2 1
+1 1 E6 IG2D
+E52
+Engine Switch
+17
+SS1 7
+E7 SSW1
+5 GND
+16
+SS2 2
+E7 SSW2
+Instrument Panel J/B
+E50
+ID Code Box
+9
+8 3 14
+GND LIN1 IR LIN1
+10
+5
+E58 IF GND1
+Certification ECU
+9
+17 10 4
+E LIN IM GND2
+ST
+B137991E01

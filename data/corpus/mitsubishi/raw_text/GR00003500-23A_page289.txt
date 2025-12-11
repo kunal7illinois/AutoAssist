@@ -1,0 +1,40 @@
+AUTOMATIC TRANSAXLE 23A-289
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 12. Check the dual pressure switch.
+Refer to GROUP 55A, Dual Pressure Switch Check P.55-25.
+Q:Is the switch operating properly?
+YES : Go to Step 13.
+NO : Replace the dual pressure switch. Refer to GROUP
+55A, Refrigerant Line P.55-52.
+STEP 13. Using scan tool MB991502, check data list item
+65: Dual Pressure Switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to data reading mode for item65:
+Dual Pressure Switch.
+• When the A/C is in operation, the scan tool display
+should be "ON."
+• When the A/C is not in operation, the scan tool display
+should be "OFF."
+16 PIN
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 AC001252AE Q:Is the switch operating properly?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Replace the PCM.
+STEP 14. Check connector C-57 <2.4L Engine> or C-59
+<3.0L Engine> at PCM for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-57 <2.4L ENGINE> OR
+C-59 <3.0L ENGINE> YES : Go to Step 13.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM Connector Inspection P.00E-2.
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+TSB Revision

@@ -1,0 +1,40 @@
+23A-82 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 7. Check the power supply voltage at A/T control
+solenoid valve assembly connector B-40.
+(1) Disconnect connector B-40 and measure at the harness
+CONNECTOR: B-40
+side.
+(2) Turn the ignition switch to the "ON" position.
+B-40
+ACX02479AK
+(3) Measure the voltage between terminal 1 and ground.
+• Voltage should be between 4.5 and 4.9 volts.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 8.
+NO : Repair harness short circuit to ground between A/T
+HARNESS control solenoid valve assembly connector B-40
+CONNECTOR: B-40
+terminal 1 and PCM connector C-61 <2.4L Engine> or
+C-63 <3.0L Engine> terminal 124.
+ACX02104AC
+STEP 8. Check harness for damage between A/T control
+solenoid valve assembly connector B-40 terminal 1 and
+PCM connector C-54 <2.4L Engine> or C-55 <3.0L Engine>
+terminal 124.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-40
+YES : Repair harness damage between solenoid valve
+assembly connector B-40 terminal 2 and PCM
+connector C-54 <2.4L Engine> or C-55 <3.0L
+Engine> terminal 57.
+NO : Repair it.
+B-40
+ACX02479AK
+CONNECTOR: C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE>
+PCM
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+TSB Revision

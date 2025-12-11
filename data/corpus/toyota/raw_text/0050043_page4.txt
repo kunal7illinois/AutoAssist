@@ -1,0 +1,25 @@
+ES–255
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK BATTERY TERMINAL
+(a) Check that the battery terminals are not loose or
+corroded.
+OK:
+Battery terminals are not loose or corroded
+NG REPAIR OR REPLACE BATTERY TERMINAL
+OK
+5 CHECK WHETHER DTC OUTPUT RECURS ES
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Clear DTCs (see page ES-35).
+(d) Turn the ignition switch OFF and turn the tester OFF.
+(e) Start the engine and turn the tester ON.
+(f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(g) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+P0560 A
+No output B
+B CHECK FOR INTERMITTENT PROBLEMS
+A
+REPLACE ECM

@@ -1,0 +1,55 @@
+RS–179
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+4 CHECK CENTER AIRBAG SENSOR ASSEMBLY
+(a) Connect the connectors to the steering pad and the
+center airbag sensor assembly.
+(b) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+FE DC
+(c) Turn the ignition switch on (IG), and wait for at least 60
+Spiral Cable
+seconds.
+(d) Clear the DTCs stored in the memory (See page RS-41).
+Driver Side Center Airbag
+Squib 2nd Step Sensor Assembly (e) Turn the ignition switch off.
+(f) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+DLC3 DTC 53 (g) Check the DTCs (See page RS-41).
+OK:
+DTC B1810, B1811, B1812, B1813, or 53 is not
+output.
+HINT:
+CG TC
+C C114816E01 Codes other than DTC B1810, B1811, B1812, B1813,
+and 53 may be output at this time, but they are not
+related to this check.
+NG REPLACE CENTER AIRBAG SENSOR
+ASSEMBLY (See page RS-441)
+OK
+USE SIMULATION METHOD TO CHECK (See page RS-32)
+RS
+5 CHECK INSTRUMENT PANEL WIRE
+(a) Check for a short to B+ in the circuit.
+Instrument Panel Wire (1) Restore the released activation prevention
+mechanism of connector B to the original condition.
+(2) Disconnect the instrument panel wire connector
+from the spiral cable.
+A (3) Connect the negative (-) terminal cable to the
+F E D C B battery, and wait for at least 2 seconds.
+Spiral Cable (4) Turn the ignition switch on (IG).
+(5) Measure the voltage according to the value(s) in the
+Center Airbag
+Driver Side Squib table below.
+Sensor Assembly
+2nd Step Standard voltage
+Tester Connection Condition Specified Condition
+Connector C E16-4 (D2+) - Body Ignition switch on (IG) Below 1 V
+ground
+E16 D2- E16-3 (D2-) - Body Ignition switch on (IG) Below 1 V
+ground
+D2+
+(b) Check for an open in the circuit.
+(1) Turn the ignition switch off.
+(2) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+C C114807E16

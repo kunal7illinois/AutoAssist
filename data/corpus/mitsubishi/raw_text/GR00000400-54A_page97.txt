@@ -1,0 +1,40 @@
+CHASSIS ELECTRICAL 54A-97
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+CONNECTOR: B-08 CONNECTOR: B-08
+<2.4L ENGINE> <3.0L ENGINE>
+ENGINE COOLANT
+TEMPERATURE GAUGE UNIT
+ENGINE COOLANT
+TEMPERATURE GAUGE UNIT
+AC001750AB AC001751AB
+CONNECTOR: C-28 CONNECTORS: C-41, C-43
+C-41
+C-43
+AC003599AB AC003552AI
+CONNECTOR: C-108, C-111
+JUNCTION BLOCK
+(FRONT VIEW)
+C-108
+C-111
+AC101808AI
+. • The engine coolant temperature gauge moves
+CIRCUIT OPERATION
+• The ignition switch (IG1) circuit is the power the needle according to the circuit current.
+source for the engine coolant temperature gauge.
+.
+• Resistance value, which the engine coolant tem- TECHNICAL DESCRIPTION (COMMENT)
+perature gauge unit sends to the combination If the ignition switch (IG1) circuit is open, the gauge
+meter, is dependent on temperature of the engine needle will not move at all. If the ground circuit is
+coolant. This causes circuit current to fluctuate. open, the gauge needle will move up to its extreme
+position.
+.
+TROUBLESHOOTING
+• Malfunction of the engine coolant temperature gauge unit
+• Malfunction of the combination meter (printed-circuit board
+or engine coolant temperature gauge assembly)
+• Damaged wiring harness or connectors
+.
+DIAGNOSIS
+Required Special Tool:
+MB991223: Harness Set
+TSB Revision

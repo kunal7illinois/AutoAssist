@@ -1,0 +1,68 @@
+AV–17
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specification
+"Bluetooth" handsfree A waveform synchronized
+IVO- (F8-12) - GND (F26-20) G - BR Voice signal
+voice signal is playing with sounds is output
+Shielded - Body
+SLD (F8-13) - Body ground Shield ground Always Below 1 V
+ground
+External device is playing A waveform synchronized
+ARI (F8-15) - GND (F26-20) G - BR Sound signal (Right)
+(When stereo jack is used) with sounds is output
+ASGN (F8-16) - GND (F26-20) BR - BR Shield ground Always Below 1 V
+External device is playing A waveform synchronized
+ALI (F8-17) - GND (F26-20) R - BR Sound signal (Left)
+(When stereo jack is used) with sounds is output
+External device
+External device is
+AUXI (F8-19) - GND (F26-20) G - BR connection detection Below 1 V
+connected
+signal
+Bluetooth handsfree A waveform synchronized
+MIC- (F11-1) - GND (F26-20) R - BR Microphone voice signal
+function is ON with sounds is output
+Bluetooth handsfree A waveform synchronized
+MIC+ (F11-2) - GND (F26-20) G - BR Microphone voice signal
+function is ON with sounds is output
++B (F11-5) - GND (F26-20) L - BR Battery Always 10 to 14 V
+Microphone AMP power Turn ignition switch off →
+MCVD (F11-7) - GND (F26-20) LG - BR Below 1 V → 5 V
+supply on (IG)
+GND (F11-14) - Body ground BR - Body ground Ground Always Below 1 V
+Turn ignition switch off →
+ACC (F11-16) - GND (F26-20) GR - BR Accessory (ON) Below 1 V → 10 to 14 V
+on (ACC)
+2. RADIO RECEIVER (STANDARD MODEL)
+F6 F7 F8
+E119761E04
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specification
+A waveform synchronized
+FR+ (F6-1) - GND (F6-7) LG - BR Sound signal (Front Right) Audio system is playing
+with sounds is output
+A waveform synchronized
+FL+ (F6-2) - GND (F6-7) P - BR Sound signal (Front Left) Audio system is playing
+with sounds is output
+Turn ignition switch off→
+ACC (F6-3) - GND (F6-7) GR - BR Accessory (ON) Below 1 V → 10 to 14 V
+on (ACC)
+B (F6-4) - GND (F6-7) L-Y - BR Battery Always 10 to 14 V
+A waveform synchronized
+FR- (F6-5) - GND (F6-7) L - BR Sound signal (Front Right) Audio system is playing
+with sounds is output
+A waveform synchronized AV
+FL- (F6-6) - GND (F6-7) V - BR Sound signal (Front Left) Audio system is playing
+with sounds is output
+GND (F6-7) - Body ground BR - Body ground Ground Always Below 1 V
+Radio switch ON and AM
+ANT (F6-8) - GND (F6-7) O - BR Power source of antenna 10 to 14 V
+or FM
+Light control switch OFF
+ILL+ (F6-10) - GND (F6-7) G - BR Illumination signal Below 1 V → 10 to 14 V
+→ TAIL or HEAD
+A waveform synchronized
+RR+ (F7-1) - GND (F6-7) R - BR Sound signal (Rear Right) Audio system is playing
+with sounds is output
+A waveform synchronized
+RL+ (F7-2) - GND (F6-7) B - BR Sound signal (Rear Left) Audio system is playing
+with sounds is output

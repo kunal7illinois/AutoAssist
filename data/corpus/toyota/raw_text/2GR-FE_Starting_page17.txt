@@ -1,0 +1,42 @@
+ST–17
+2GR-FE STARTING – SMART KEY SYSTEM
+Result
+Result Proceed to
+CAN DTC is not output A
+CAN DTC is output B
+B GO TO CAN COMMUNICATION SYSTEM
+A
+5 CHECK FOR DTC
+(a) Check for DTCs and note any codes that are output (See
+page ST-26).
+(b) Delete DTCs.
+(c) Recheck for DTCs.
+Result
+Result Proceed to
+DTC does not reoccur A
+DTC reoccurs B
+B GO TO DIAGNOSTIC TROUBLE CODE
+CHART
+A
+6 INSPECT BASIC OPERATION
+(a) Turn the engine switch on (START) and check that the
+engine starts normally. Make sure the brake pedal is
+depressed and the shift position is P at this time.
+(b) Check that the engine switch mode can be changed by
+pushing the engine switch.
+HINT:
+Without depressing the brake pedal, push the engine
+switch repeatedly. Engine switch mode should turn from
+off to on (ACC) to on (IG) and back to off.
+With the brake pedal depressed, push the engine switch
+repeatedly. Engine switch mode should turn to ENGINE
+START from any status.
+OK:
+Engine can start normally.
+NEXT
+ST
+7 PROBLEM SYMPTOMS TABLE
+Result
+Result Proceed to
+Fault is not listed in the problem symptoms table A
+Fault is listed in the problem symptoms table B

@@ -1,0 +1,49 @@
+54A-62 CHASSIS ELECTRICAL
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 23. Using scan tool MB991502, check data list item
+29: Vehicle Speed Signal.
+(1) Start the engine.
+(2) Set scan tool MB991502 to data reading mode for item 29:
+Vehicle Speed Signal.
+• Check that the speedometer and scan tool display
+speed match when driving at a vehicle speed of 40 km/h
+(25 mph).
+(3) Turn the ignition switch to "LOCK" (OFF) position.
+16 PIN Q:Is the sensor operating properly?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+MB991502
+AC001252AB How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Go to Step 24.
+STEP 24. Using the oscilloscope, check the waveform at
+PCM connector C-57 <2.4L> or C-59 <3.0L>.
+(1) Do not disconnect connector C-57 <2.4L> or C-59 <3.0L>.
+CONNECTORS: C-57 <2.4L-A/T>,
+C-59 <3.0L-A/T>
+PCM
+AC001689AX
+(2) Connect an oscilloscope probe to PCM connector C-57
+C-57 <2.4L>, C-59 <3.0L> CONNECTOR
+<2.4L> or C-59 <3.0L> terminal 80 by backprobing.
+HARNESS SIDE VIEW
+(3) Start the engine.
+OSCILLO-
+71727374 75 76 77 SCOPE
+78798081828384 8586 87 88 89
+9091 929394 9596 97 98
+PROBE
+AC101968AC
+(4) Check the waveform.
+NORMAL WAVEFORM
+• The waveform should show a pattern similar to the illus-
+(V)
+tration when running the vehicle.
+12
+(5) Turn the ignition switch to "LOCK" (OFF) position.
+Q:Is the waveform normal?
+YES : Go to Step 25.
+NO : Go to Step 26.
+0
+AC102343AB
+TSB Revision

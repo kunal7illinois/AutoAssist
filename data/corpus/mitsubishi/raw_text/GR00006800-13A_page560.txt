@@ -1,0 +1,42 @@
+13A-560 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+INSPECTION PROCEDURE USING AN
+OSCILLOSCOPE
+M1131154500167
+VOLUME AIR FLOW SENSOR
+Required Special Tool:
+• MB991709: Test Harness Set
+.
+Measurement Method
+1. Disconnect the volume air flow sensor connector, and
+AIR FLOW SENSOR OSCILLOSCOPE
+connect the test harness special tool (MB991709) in
+CONNECTOR
+between. (All terminals should be connected.)
+1 2 3 4 5 6 7
+2. Connect the oscilloscope probe to volume air flow sensor
+connector terminal 3.
+MB991709
+.
+Alternate method (Test harness not available)
+<M/T>
+Connect the oscilloscope probe to ECM terminal 90.
+AK102975AB <A/T>
+Connect the oscilloscope probe to PCM terminal 65.
+Standard Wave Pattern
+Observation conditions
+Function Special pattern
+Pattern height Low
+Pattern selector Display
+Engine r/min Idle speed
+Standard wave pattern (V)
+THE TIME (CYCLE TIME) T IS REDUCED WHEN THE
+10 T AMOUNT OF INTAKE AIR INCREASES.
+T1 T2 TIMES T1 AND T2 ARE EQUAL
+TIME
+0
+AKX01595AB
+Observation conditions
+Rev engine, observe T and T remain equal.
+1 2
+TSB Revision

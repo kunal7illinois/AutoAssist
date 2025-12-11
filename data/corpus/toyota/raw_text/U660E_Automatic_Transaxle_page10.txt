@@ -1,0 +1,32 @@
+AX–10
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+HINT:
+• The TCM of this system is connected to the CAN
+communication system. Therefore, before starting
+AX
+troubleshooting, make sure to check that there is no
+trouble in the CAN communication system.
+• *: Use the intelligent tester.
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 CUSTOMER PROBLEM ANALYSIS
+NEXT
+3 INSPECT BATTERY VOLTAGE
+Standard voltage:
+11 to 14 V
+If the voltage is below 11 V, recharge or replace the battery
+before proceeding.
+NEXT
+4 CONNECT INTELLIGENT TESTER TO DLC3*
+NEXT
+5 CHECK AND CLEAR DTCS AND FREEZE FRAME DATA*
+(a) Refer to the DTC CHECK / CLEAR (See page AX-38).
+NEXT
+6 VISUAL INSPECTION
+NEXT
+7 SETTING CHECK MODE DIAGNOSIS*
+(a) Refer to the CHECK MODE PROCEDURE (See page
+AX-39).
+NEXT

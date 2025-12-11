@@ -1,0 +1,41 @@
+EI–93
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+NG
+2 CHECK HARNESS AND CONNECTOR (TRANSPONDER KEY ECU - SECURITY
+INDICATOR LIGHT)
+(a) Disconnect the E15 ECU and F3 combination meter
+Wire Harness Side Connector Rear View:
+connectors.
+(b) Measure the resistance according to the value(s) in the
+E15
+table below.
+Transponder Key ECU Assembly
+Standard resistance
+Tester Connection Condition Specified Condition
+E15-8 (IND) - F3-8 (LP) Below 1 Ω
+E15-8 (IND) - Body Always
+10 kΩ or higher
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+IND
+F3
+Clock Assembly (Security Indicator Light)
+LP
+B128342E01
+EI
+OK
+3 CHECK HARNESS AND CONNECTOR (SECURITY INDICATOR LIGHT - BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+Wire Harness Side Connector Rear View:
+table below.
+Standard resistance
+F3
+Clock Assembly (Security Indicator Light) Tester Connection Condition Specified Condition
+F3-19 (GND1) - Body
+Always Below 1 Ω
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+GND1
+B128343E01

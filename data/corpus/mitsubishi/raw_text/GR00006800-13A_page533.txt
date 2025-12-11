@@ -1,0 +1,39 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-533
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check the park/neutral position switch.
+Refer to GROUP 23A, On-vehicle Service − Essential Service −
+Park/Neutral Position Switch Continuity Check P.23A-351.
+Q:Are there any abnormalities?
+YES : Go to Step 3.
+NO : Repair or replace it. Then confirm that the malfunction
+symptom is eliminated.
+STEP 3. Check the power supply voltage at park/neutral
+position switch connector B-41.
+(1) Disconnect the connector B-41 and measure at the harness
+side.
+(2) Turn the ignition switch to the "START" position.
+(3) Measure the voltage between terminal 10 and ground.
+• Voltage should be battery positive voltage.
+B-41 HARNESS
+SIDE CONNECTOR (4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+6 5 4 3 2 1 YES : Go to Step 4.
+10 9 8 7 NO : Check connector C-28 at intermediate connector for
+damage, and repair or replace as required. Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2. If intermediate connector is in good condition,
+repair harness wire between ignition switch connector
+AAKK000000338866AD
+C-87 terminal 5 and park/neutral position switch
+connector B-41 terminal 10 because of open circuit.
+Then confirm that the malfunction symptom is
+eliminated.
+STEP 4. Check connector C-54 at PCM for damage.
+Q:Is the connector in good condition?
+CONNECTOR:C-54
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK000280BN
+TSB Revision

@@ -1,0 +1,28 @@
+52B-132 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+STEP 2. Check the communication line between the SRS-
+ECU and the scan tool.
+(1) Disconnect SRS-ECU connector C-72 and data link
+CONNECTOR: C-72
+connector C-29 and measure at the wiring harness side.
+CAUTION
+Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+weakened.
+(2) Check the continuity between the following terminals.
+SRS-ECU C-72 connector C-29 connector
+ACCELERATOR PEDAL 16 - 7
+CENTER REINFORCEMENT(LH)AC000358AD • Should be less than 2 ohm.
+Q:Is the continuity normal?
+CONNECTOR: C-29
+COMBINATION METER YES : Go to Step 3.
+NO : Go to Step 5.
+AC000800AC
+C-72 CONNECTOR
+C-29 CONNECTOR (HARNESS SIDE)
+(HARNESS SIDE) REAR VIEW
+REAR VIEW
+1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8
+910111213141516 910111213141516
+AC106702AB
+TSB Revision

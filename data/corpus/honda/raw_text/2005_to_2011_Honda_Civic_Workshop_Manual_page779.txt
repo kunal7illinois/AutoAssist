@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Fig. 98: Checking Continuity Between PCM Connector Terminal B17 And
+Input Shaft (Mainshaft) Speed Sensor Connector Terminal 2
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES -Go to step 38.
+NO -Repair open in the wire between PCM connector terminal B17 and the
+input shaft (mainshaft) speed sensor, then go to step 32.
+28. Connect the input shaft (mainshaft) speed sensor connector.
+29. Clear the DTC with the HDS.
+30. Test-drive the vehicle with the shift lever in D, and keep the vehicle at speeds
+over 12 mph (20 km/h) for at least 10 seconds. Slow down and stop the wheels.
+31. Monitor the OBD STATUS for P0716 or P0717 in the DTCs MENU with the
+HDS.
+Does the HDS indicate FAILED?
+YES -Replace the input shaft (mainshaft) speed sensor (see INPUT SHAFT
+(MAINSHAFT) SPEED SENSOR REPLACEMENT ), then go to step 32.
+NO -Go to step 38.
+32. Reconnect all connectors.
+33. Turn the ignition switch to ON (II).
+34. Clear the DTC with the HDS.

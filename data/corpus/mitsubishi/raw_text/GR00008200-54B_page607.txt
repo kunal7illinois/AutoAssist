@@ -1,0 +1,30 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-607
+SYMPTOM PROCEDURES
+STEP 2. Check ETACS-ECU connector C-118 and
+powertrain control module connector C-57 <2.4 L ENGINE>
+or C-59 <3.0 L ENGINE> for damage.
+Q:Are ETACS-ECU connector C-118 and powertrain
+CONNECTOR: C-118
+control module connector C-57 <2.4 L ENGINE> or C-59
+DEVICE SIDE
+<3.0 L ENGINE> in good condition?
+51 52 53545556575859 YES : Go to Step 3.
+60 61 62636465666768 NO : Repair or replace the connector. Refer to GROUP
+69 70 71 727374
+00E, Harness Connector Inspection P.00E-2. If the
+wiper interval can be adjusted normally, it indicates
+that the windshield intermittent wiper interval
+adjusting knob should send a signal to the ECU.
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+CONNECTORS: C-57, C-59
+C-57 <2.4L A/T>
+C-59 <3.0L A/T>
+DEVICE SIDE
+77 76 75 74737271
+89 88 87868584838281807978
+98 97 9695 949392 9190
+C-57 <2.4L A/T>
+C-59 <3.0L A/T>
+AC106563AB
+TSB Revision

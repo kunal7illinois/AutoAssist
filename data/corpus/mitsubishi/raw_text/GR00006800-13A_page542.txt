@@ -1,0 +1,54 @@
+13A-542 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+INSPECTION PROCEDURE 34: A/C system.
+AK000684
+. With this, the A/C compressor clutch relay turns
+COMMENT
+• When the A/C is "ON", the battery positive volt- "ON", and the A/C compressor clutch functions.
+age is applied on the ECM (terminal 45) <M/T>
+.
+PCM (terminal 83) <A/T> from the automatic TROUBLESHOOTING HINTS (The most likely
+compressor controller. causes for this case: )
+When battery positive voltage is applied to the • Malfunction of the A/C control system.
+ECM <M/T> or PCM <A/T>, the ECM <M/T> or • Malfunction of the A/C switch.
+PCM <A/T> turns "ON" the power transistor in the • Improper connector contact, open circuit or short-
+ECM <M/T> or PCM <A/T>. The ECM <M/T> or circuited harness wire.
+PCM <A/T> delays A/C engagement momentarily • Malfunction of the ECM <M/T> or PCM <A/T>.
+while it increases idle rpm. Then the A/C com-
+pressor clutch relay coil will be energized.
+TSB Revision
+-NEERG
+DER
+NEERG
+A/C Circuit
+AUTOMATIC
+COMPRESSOR A/C COMPRESSOR
+CONTROLLER RELAY
+C-53 <M/T>
+C-49 <M/T>
+(MU803771) 45 <M/T>*2 8 <M/T>*1 (MU803773)
+83 <A/T>*4 20 <A/T>*3
+3132333435363738
+1 2 3 4 5 6 7 8 910111213
+3940414243444546
+14151617181920212223242526
+C-57 <A/T> C-50 <A/T>
+(MU803782) (MU803784)
+71727374 7576 77 1 2 3 4 5 6 7 8
+7879808182838485868788 89 ENGINE CONTROL 9 10 11121314151617181920212223
+9091 929394 9596 97 98 MODULE (ECM) <M/T> 24 25 26272829 30313233 3435
+OR
+POWERTRAIN CONTROL
+NOTE MODULE (PCM) <A/T>
+*1:ECM connector C-49 <M/T>
+*2:ECM connector C-53 <M/T>
+*3:PCM connector C-50 <A/T>
+*4:PCM connector C-57 <A/T>
+CONNECTORS:C-49,C-53<M/T>,
+C-50,C-57<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-49, C-57
+C-50 C-53
+AK000280BQ

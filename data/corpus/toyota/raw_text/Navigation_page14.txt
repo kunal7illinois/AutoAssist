@@ -1,0 +1,57 @@
+NS–14
+NAVIGATION – NAVIGATION SYSTEM
+(b) Purpose:
+Recently, car audio systems have rapidly developed
+and the functions have vastly changed. The
+conventional car audio system is being integrated
+with multi-media interfaces similar to those in
+navigation systems. At the same time, customers
+are demanding higher quality from their audio
+systems. This is merely an overview of the
+standardization background. The specific purposes
+are as follows:
+(1) To solve sound problems, etc. caused by using
+components of different manufacturers through
+signal standardization.
+(2) To allow each manufacturer to concentrate on
+developing products they do best. From this,
+reasonably priced products can be produced.
+HINT:
+• If a short to +B or short to ground is detected
+in the AVC-LAN circuit, communication is
+interrupted and the audio system will stop
+functioning.
+• If the audio system has a navigation system
+installed, the multi-display unit acts as the
+master unit.
+If the navigation system is not installed, the
+audio head unit acts as the master unit
+instead. If the radio and navigation assembly
+is installed, it is the master unit.
+• The radio and navigation assembly contains
+a resistor that is necessary to enable
+communication on the different AVC-LAN
+circuits.
+• The car audio system with an AVC-LAN
+circuit has a diagnostic function.
+• Each component has a specified number (3-
+digit) called a physical address. Each function
+has a number (2-digit) called a logical
+address.
+7. Communication system outline
+(a) Components of the navigation system communicate
+with each other via the AVC-LAN.
+(b) The radio and navigation assembly has enough
+resistance (60 to 80 Ω) necessary for
+communication.
+(c) If a short circuit or open circuit occurs in the AVC-
+LAN circuit, communication is interrupted and the
+NS
+navigation system will stop functioning.
+8. Diagnostic function outline
+(a) The audio system has a diagnostic function (the
+result is indicated on the master unit).
+(b) A 3-digit hexadecimal component code (physical
+address) is allocated to each component on the
+AVC-LAN. Using this code, the component in the
+diagnostic function can be displayed.

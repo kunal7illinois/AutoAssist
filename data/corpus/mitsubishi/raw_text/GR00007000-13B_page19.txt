@@ -1,0 +1,56 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-19
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+.
+PROCEDURE 5
+EXHAUST GAS RECIRCULATION (EGR) SYSTEM MONITOR
+DTC P0401
+Drive cycle This monitor [from start to ignition switch to the "LOCK" (OFF) position] will be completed
+pattern while traveling with the following drive cycle pattern. It will take 10 minutes. You must
+complete this drive twice.
+NOTE: Vehicle speed and throttle opening angle should be within the shadedrange.
+20 SECONDS OR MORE
+56 - 64 km/h (35 - 40 mph)
+M/T: 4TH SPEED
+20 SECONDS OR MORE
+64
+(40) (3) (5) (5) (5) (5)
+(4) (4) (4) (4) (4)
+VEHICLE ((22))
+32
+SPEED
+(20)
+km/h (mph)
+1 ST 2 ND 7 TH 8 TH
+MON- MON- MON- MON-
+(1) ITOR ITOR ITOR ITOR
+0
+ENGINE START IGNITION
+SWITCH:"LOCK"
+(OFF) position
+100
+CALCULATED
+LOAD (%)
+50
+0
+FULL FULL FULL FULL FULL
+DECEL- DECEL- DECEL- DECEL- DECEL-
+ERATION ERATION ERATION ERATION ERATION
+AAAKKKXXX000111333444999AC
+Inspection • Engine coolant temperature: 80°C (176°F) or more
+conditions • Atmospheric temperature: 5°C (41°F) or more
+• A/C switch: OFF
+• Condition of A/T: Selector lever D range
+Test 1.Engine: start
+procedure 2.Accelerate until the vehicle speed is 56 − 64 km/h (35 − 40 mph).
+3.Travel for 20 seconds or more while keeping the vehicle speed at 56 − 64 km/h (35 − 40
+mph). (M/T = 4th speed)
+4.Fully close the throttle from an engine speed of 2,000 − 3,000 r/min, and decelerate to
+approx. 900 r/min without applying the brakes. Do not steer the handle or turn the light
+ON/OFF during this time. (During monitor)
+5.Accelerate until the vehicle speed reaches 56 − 64 km/h (35 − 40 mph), and travel for 20
+seconds or more. Then, repeat steps 4 and 5 and complete 8 monitor sessions.
+6.Return the vehicle to the shop, then turn the ignition switch to the "LOCK" (OFF) position.
+7.Confirm that the diagnostic trouble code (DTC) is not output.
+8.If DTC P0401 is output, refer to DTC P0401 − Exhaust Gas Recirculation Flow Insufficient
+detected P.13B-336.
+TSB Revision

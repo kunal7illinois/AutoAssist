@@ -1,0 +1,39 @@
+AX–61
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Transmission Fluid Temperature Sensor "A"
+DTC P0710
+Circuit
+Transmission Fluid Temperature Sensor "A"
+DTC P0712
+AX
+Circuit Low Input
+Transmission Fluid Temperature Sensor "A"
+DTC P0713
+Circuit High Input
+DESCRIPTION
+The ATF (Automatic Transmission Fluid) temperature sensor converts the fluid temperature into a
+resistance value for use by the TCM.
+Resistance
+Acceptable range
+Temperature
+G031389E14
+The TCM applies a voltage to the temperature sensor through terminal OIL of the TCM.
+The sensor resistance changes with the transmission fluid temperature. As the temperature becomes
+higher, the sensor resistance decreases.
+One terminal of the sensor is grounded so that the sensor resistance decreases and the voltage goes
+down as the temperature becomes higher.
+The TCM calculates the fluid temperature based on the voltage signal.
+DTC No. DTC Detection Condition Trouble Area
+(a) and (b) are detected momentarily within 0.5 sec.
+when neither P0712 nor P0713 is detected (1-trip
+detection logic)
+(a) ATF temperature sensor resistance is less than 79
+• Open or short in ATF temperature sensor circuit
+Ω.
+P0710 • Transmission wire (ATF temperature sensor)
+(b) ATF temperature sensor resistance is more than
+• TCM
+156 kΩ.
+HINT:
+Within 0.5 sec., the malfunction switches from (a) to (b)
+or from (b) to (a)

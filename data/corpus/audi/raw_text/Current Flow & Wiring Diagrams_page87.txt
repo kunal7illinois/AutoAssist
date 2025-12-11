@@ -1,0 +1,65 @@
+Audi TT No. 6 / 4
+Current Flow Diagram
+Airbag control unit, driver and front passenger seat belt
+tensioner igniter 1, side airbag igniter on driver side and
+passenger side, rear belt tensioner igniter on driver and
+front passenger side
+J234 Airbag control unit
+N153 Driver seat belt tensioner igniter 1
+N154 Front passenger side seat belt tensioner igniter 1
+N196 Rear belt tensioner igniter on driver side
+N197 Rear belt tensioner igniter on front passenger side
+N197 N196 N199 Side airbag igniter on driver side
+N200 Side airbag igniter on front passenger side
+T2n 2-pin connector, left B-pillar
++ -- + -- T2o 2-pin connector, right B-pillar
+T2w 2-pin connector, left B-pillar
+T2x/1 T2x/2 T2w/1 T2w/2 T2x 2-pin connector, right B-pillar
+T3c 3-pin connector, yellow, under driver seat
+T3d 3-pin connector, yellow, under front passenger seat
+0,5 0,5 0,5 0,5 T3o 3-pin connector, yellow, on left B-pillar
+ge sw bl sw
+T3p 3-pin connector, yellow, on right B-pillar
+T75 75-pin connector, yellow, on airbag control unit
+J234
+T75/9 T75/10 T75/13 T75/12
+383 Earth connection 18, in main wiring harness
+* Coupé
+T75/51 T75/19 T75/20 T75/44 T75/45 T75/47 T75/48 T75/49 T75/50
+31 ** Roadster
+✱
+0,35 0,5 0,5 0,5 0,5 0,5 0,5 0,5 0,5
+br gn ws bl ws bl ge gr bl
+✱✱
+0,5
+ro
+✱✱✱✱
+T3c/1 T3c/2 T3d/1 T3d/2 T2n/2 T2n/1 T2o/1 T2o/2
+✱✱✱✱✱ ✱✱✱✱✱
+T3o/2 T3o/1 T3p/1 T3p/2
++ -- + -- -- + + --
+N199 N200 N153 N154
+ws = white
+T3c/3 T3d/3 sw = black
+ro = red
+br = brown
+0
+b
+,
+r
+5 0
+b
+,
+r
+5 gn = green
+bl = blue
+383
+gr = grey
+383
+li = purple
+ge = yellow
+29 30 31 32 33 34 35 36 37 38 39 40 41 42
+or = orange
+8J0-006040410
+rs = pink
+Edition 10.2010

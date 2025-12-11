@@ -1,0 +1,41 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-23
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC CODE DIAGNOSTIC ITEMS REFERENCE
+PAGE
+P0137 Heated oxygen sensor circuit low voltage (bank 1 sensor 2) P.13B-166
+P0138 Heated oxygen sensor circuit high voltage (bank 1 sensor 2) P.13B-171
+P0139 Heated oxygen sensor circuit slow response (bank 1 sensor 2) P.13B-174
+P0141 Heated oxygen sensor heater circuit (bank 1 sensor 2) P.13B-177
+P0150 Heated oxygen sensor circuit (bank 2 sensor 1) P.13B-184
+P0151 Heated oxygen sensor circuit low voltage (bank 2 sensor 1) P.13B-194
+P0152 Heated oxygen sensor circuit high voltage (bank 2 sensor 1) P.13B-199
+P0153 Heated oxygen sensor circuit slow response (bank 2 sensor 1) P.13B-202
+P0154* Heated oxygen sensor circuit no activity detected (bank 2 sensor 1) P.13B-205
+P0155 Heated oxygen sensor heater circuit (bank 2 sensor 1) P.13B-211
+P0156 Heated oxygen sensor circuit (bank 2 sensor 2) P.13B-218
+P0157 Heated oxygen sensor circuit low voltage (bank 2 sensor 2) P.13B-228
+P0158 Heated oxygen sensor circuit high voltage (bank 2 sensor 2) P.13B-233
+P0159 Heated oxygen sensor circuit slow response (bank 2 sensor 2) P.13B-236
+P0161 Heated oxygen sensor heater circuit (bank 2 sensor 2) P.13B-239
+P0171 System too lean (bank 1) P.13B-245
+P0172 System too rich (bank 1) P.13B-252
+P0174 System too lean (bank 2) P.13B-256
+P0175 System too rich (bank 2) P.13B-262
+P0181 Fuel temperature sensor circuit range/performance P.13B-266
+P0182 Fuel temperature sensor circuit low input P.13B-273
+P0183 Fuel temperature sensor circuit high input P.13B-277
+P0201 Injector circuit-cylinder 1 P.13B-283
+P0202 Injector circuit-cylinder 2 P.13B-292
+P0203 Injector circuit-cylinder 3 P.13B-283
+P0204 Injector circuit-cylinder 4 P.13B-292
+P0205 Injector circuit-cylinder 5 P.13B-283
+P0206 Injector circuit-cylinder 6 P.13B-292
+P0300 Random/multiple cylinder misfire detected P.13B-298
+P0301 Cylinder 1 misfire detected P.13B-304
+P0302 Cylinder 2 misfire detected P.13B-304
+P0303 Cylinder 3 misfire detected P.13B-304
+P0304 Cylinder 4 misfire detected P.13B-304
+P0305 Cylinder 5 misfire detected P.13B-304
+P0306 Cylinder 6 misfire detected P.13B-304
+P0325 Knock sensor circuit P.13B-309
+TSB Revision

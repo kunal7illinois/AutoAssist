@@ -1,0 +1,27 @@
+AC–91
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+DTC B1497/97 BUS IC Communication Malfunction
+DESCRIPTION
+The air conditioning harness connects the air conditioning amplifier and each servo motor. The air
+conditioning amplifier supplies power and sends operation instructions to each servo motor through the
+air conditioning harness. Each servo motor sends the damper position information to the air conditioning
+amplifier.
+DTC No. DTC Detection Condition Trouble Area
+• Air conditioning harness
+B1497/97 Communication line error or open
+• A/C amplifier
+WIRING DIAGRAM
+Servo Motor Air Conditioning Harness A/C Amplifier
+4
+e1 B BUS
+3
+e1 BUS
+AC
+2
+e1 BUS G
+14
+E38 GND
+E130105E01
+INSPECTION PROCEDURE
+1 CHECK HARNESS AND CONNECTOR
+(a) Remove the A/C amplifier.

@@ -1,0 +1,24 @@
+ES–384
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+6. Second reference pressure measurement
+Next sequence is run if the following conditions are met Conditions 1, 2, 3 and 4
+1. EVAP pressure just after reference pressure -1 kPa (-7.5 mmHg) or less
+2. Reference pressure -4.85 to -1.057 kPa (-36.384 to -7.929 mmHg)
+3. Reference pressure Saturated
+4. Difference between first reference pressure and
+Less than 0.7 kPa (5.25 mmHg)
+second reference pressure
+7. Leak check
+Next sequence is run if the following condition is met -
+EVAP pressure when vacuum introduction is complete Lower than second reference pressure
+8. Atmospheric pressure measurement
+EVAP monitor is complete if the following condition is
+-
+met
+ES Atmospheric pressure difference between sequence 1
+Within 0.3 kPa (2.25 mmHg)
+and 8
+TYPICAL MALFUNCTION THRESHOLDS
+EVAP pressure change after EVAP canister vent valve is ON Less than 0.3 kPa (2.25 mmHg)
+MONITOR RESULT
+Refer to CHECKING MONITOR STATUS (See page ES-25).

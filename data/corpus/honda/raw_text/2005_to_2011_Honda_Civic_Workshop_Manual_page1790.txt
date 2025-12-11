@@ -1,0 +1,34 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EGR System (R18A1) - Civic (All Except Hybrid)
+4. Do the EGR TEST in the INSPECTION MENU with the HDS.
+Is the result OK?
+YES - Go to step 5.
+NO - Go to step 7.
+5. Test-drive under these conditions:
+Engine coolant temperature (ECT SENSOR 1) above 158°F (70°C)
+(cid:1)
+A/T in D position (M/T in 4th gear)
+(cid:1)
+Drive at a steady speed between 55-75 mph (88-120 km/h) for at least 10
+(cid:1)
+seconds
+During the drive, decelerate (with the throttle fully closed) for 5 seconds
+(cid:1)
+6. Monitor the OBD STATUS for DTC P0401 in the DTCs MENU with the
+HDS.
+Does the screen indicate FAILED?
+YES - Clean the intake manifold EGR port and EGR pipe (see EGR VALVE
+REPLACEMENT ) with throttle plate and induction cleaner. Also, clean the
+passage inside the EGR valve with throttle plate and induction cleaner, then go
+to step 9.
+NO - If the screen indicates PASSED, intermittent failure, the system is OK at
+this time. Check for poor connections or loose terminals at the EGR valve and
+the ECM/PCM. If the screen indicates EXECUTING, keep driving until a
+result comes on. If the screen indicates OUT OF CONDITION, go to step 5
+and recheck.
+7. Turn the ignition switch OFF.
+8. Replace the EGR valve (see EGR VALVE REPLACEMENT ).
+9. Turn the ignition switch ON (II).
+10. Reset the ECM/PCM with the HDS.
+11. Do the ECM/PCM idle learn procedure (see ECM/PCM IDLE LEARN

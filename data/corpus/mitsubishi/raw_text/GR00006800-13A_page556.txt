@@ -1,0 +1,47 @@
+13A-556 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TERMINAL TERMINAL INSPECTION ITEM INSPECTION CONDITION (ENGINE CONDITION) NORMAL CONDITION
+NO. <M/T> NO. <A/T>
+33 8 Generator G Engine: warming up, idling (radiator fan: stopped) Voltage rises by
+terminal Headlight: OFF to ON 0.2 − 3.5 V
+Rear defogger switch: OFF to ON
+Stoplight switch: OFF to ON
+36 22 Service engine Ignition switch: "LOCK" (OFF) → "ON" 1 V or less → 9 −
+soon/malfunction 13 V (after
+indicator lamp several seconds
+have elapsed)
+37 52 Power steering Engine: warming When steering wheel is B+
+pressure switch up, idling stationary
+When steering wheel is 1 V or less
+turned
+38 49 MFI relay (power Ignition switch: "OFF" B+
+supply)
+Ignition switch: "ON" 1 V or less
+41 54 Generator FR Engine: warming up, idling (radiator fan: stopped) Voltage drops
+terminal Headlight: OFF to ON
+Rear defogger switch: OFF to ON Stop light
+switch: OFF to ON
+45 83 A/C switch Engine: idling Turn the A/C switch OFF 1 V or less
+Turn the A/C switch ON (A/C B+
+compressor is operating)
+54 26 Heated oxygen Engine: warming up, idling 1 V or less
+sensor heater
+Engine: Revving B+
+(rear)
+55 35 Evaporative Ignition switch: "ON" B+
+emission
+Carry out the Actuator test to drive the solenoid For
+ventilation solenoid
+valve approximately
+Six seconds 1 V
+or less
+58 43 Tachometer signal Engine: 3,000 r/min 0.3 − 3.0 V
+60 3 Heated oxygen Engine: warming up, idling 9 − 11 V
+sensor heater Engine: Revving 9 − 11 V → B+
+(front)
+(momentarily)
+61 92 Fuel tank Engine: idling 1.2 − 3.8 V
+differential
+pressure sensor
+71 58 Ignition switch-ST Engine: cranking 8 V or more
+TSB Revision

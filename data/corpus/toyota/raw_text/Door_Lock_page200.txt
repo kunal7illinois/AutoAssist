@@ -1,0 +1,29 @@
+DL–190
+DOOR LOCK – SMART KEY SYSTEM
+Room Oscillator Circuit
+DESCRIPTION
+The certification ECU activates the front and rear cabin oscillators. The power is supplied from the
+certification ECU to both the front and rear cabin oscillators. The front and rear cabin oscillator circuits
+have the same wiring. If the smart key system does not operate properly inside the vehicle, check both
+the front and rear cabin oscillator circuits.
+WIRING DIAGRAM
+E58
+Certification ECU
+E56
+Electrical Key Oscillator (Console)
+CLGB 12
+CG5B
+3
+CLG3 11
+CLG5
+1
+N11
+Electrical Key Oscillator (Rear Seat)
+CLGB 14
+CG6B
+3
+DL
+CLG4 13
+CLG6
+1
+B112473E07

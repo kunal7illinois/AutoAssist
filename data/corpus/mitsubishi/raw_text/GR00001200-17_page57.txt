@@ -1,0 +1,38 @@
+ENGINE AND EMISSION CONTROL 17-57
+AUTO-CRUISE CONTROL
+CONNECTOR: C-89
+CONNECTOR
+BLOCK (LH)
+AC103104AD
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+The cause is probably a malfunction of the clutch
+This circuit indicates the operation status of the
+pedal position switch circuit.
+clutch pedal position switch. When the clutch pedal
+position switch is ON (clutch pedal is depressed), the
+.
+voltage of auto-cruise control-ECU terminal number TROUBLESHOOTING HINTS
+13 will indicate 0 volt. • Malfunction of the clutch pedal position switch.
+• Damaged harness or connector.
+• Malfunction of the auto-cruise control-ECU.
+.
+.
+DIAGNOSIS
+STEP 1. Check the clutch pedal position switch.
+1.Disconnect clutch pedal position switch connector C-01.
+2.Measure the continuity between the terminals.
+MEASUREMENT TERMINAL SPECIFIED
+CONDITIONS CONNECTOR CONDITION
+OF TESTER
+When clutch pedal is 1 − 2 Less than 2 ohm
+depressed.
+When clutch pedal is not 1 − 2 Open circuit
+CLUTCH PEDAL POSITION depressed.
+SWITCH CONNECTOR: C-01 ACX02256AF
+Q:Is the continuity meet the table above?
+YES : Go to Step 2.
+NO : Replace the clutch pedal position switch.
+Refer to GROUP 21A, Clutch P.21A-10.
+Then check that the malfunction is eliminated.
+TSB Revision

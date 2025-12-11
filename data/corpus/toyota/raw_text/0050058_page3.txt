@@ -1,0 +1,34 @@
+ES–327
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1. P2419: Vent valve stuck closed
+In operation B, the leak detection pump creates negative pressure (a vacuum) through the reference
+orifice. The EVAP system pressure is then measured by the ECM, using the canister pressure sensor,
+to determine the reference pressure. If the pressure exceeds -1.057 kPa-g (-7.93 mmHg-g) 4 seconds
+after the leak detection pump is turned ON, the ECM interprets this as the vent valve being stuck
+closed.
+The ECM illuminates the MIL and sets the DTC (2 trip detection logic).
+EVAP Pressure when Vent Valve Stuck ON:
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed ES
+ON
+Vent Valve
+OFF: Vent
+Leak Detection
+ON
+Pump
+EVAP Pressure
+Malfunction
+Positive
+Negative
+OK
+First Reference
+4 seconds
+Pressure
+Sequence A B C D E
+10 seconds 60 Within 15 minutes 10 60
+Time
+seconds seconds seconds
+A106066E04

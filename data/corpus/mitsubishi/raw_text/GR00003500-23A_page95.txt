@@ -1,0 +1,44 @@
+AUTOMATIC TRANSAXLE 23A-95
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 14. Check the ground voltage at PCM connector C-50
+<2.4L Engine> or C-52 <3.0L Engine> by backprobing.
+(1) Do not disconnect connector C-50 <2.4L Engine> or C-52
+CONNECTOR: C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE> <3.0L Engine>.
+(2) Turn the ignition switch to the "ON" position.
+PCM
+C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE> AC001657BE
+(3) Measure the voltage between terminal 16 and ground by
+backprobing.
+C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE> CONNECTOR • Voltage should be 0.5 volt or less.
+HARNESS SIDE VIEW
+(4) Turn the ignition switch to the "LOCK"(OFF) position.
+1 2 3 4 5 6 7 8 Q:Is the voltage normal?
+9 10 11121314151617181920212223
+24 25 26272829 30313233 3435 YES : Go to Step 15.
+NO : Go to Step 16.
+AC100047AF
+STEP 15. Check connector C-50 <2.4L Engine> or C-52
+<3.0L Engine> at PCM for damage.
+Q:Is the harness connector in good condition?
+CONNECTOR: C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE> YES : Repair harness open circuit or damage between
+crankshaft position sensor connector B-20 terminal 1
+PCM and PCM connector C-50 <2.4L Engine> or C-52
+<3.0L Engine> terminal 16.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE> AC001657BE
+STEP 16. Check connector C-50 <2.4L Engine> or C-52
+<3.0L Engine> at PCM for damage.
+Q:Is the harness connector in good condition?
+CONNECTOR: C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE> YES : Go to Step 17.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM Connector Inspection P.00E-2.
+C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE> AC001657BE
+TSB Revision

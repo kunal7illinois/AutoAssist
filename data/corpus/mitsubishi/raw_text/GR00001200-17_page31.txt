@@ -1,0 +1,32 @@
+ENGINE AND EMISSION CONTROL 17-31
+AUTO-CRUISE CONTROL
+STEP 14. Check intermediate connector C-89.
+Q:Is the connector damaged?
+CONNECTOR: C-89
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that diagnostic trouble code 14 is not
+output.
+NO : Check the harness wire between auto-cruise control-
+ECU connector C-20 and stoplight switch connector
+CONNECTOR
+C-03 for open circuit or damage.
+BLOCK (LH)
+AC103104AD Then repair if necessary.
+Then check that diagnostic trouble code 14 is not
+output.
+STEP 15. Check auto-cruise control-ECU connector C-20.
+Q:Is the connector damaged?
+CONNECTOR: C-20
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that diagnostic trouble code 14 is not
+output.
+NO : Check that diagnostic trouble code 14 is not output.
+If diagnostic trouble code 14 is output, replace the
+auto-cruise control-ECU. (Refer to P.17-86.)
+AC001451AB Then check that diagnostic trouble code 14 is not
+output.
+TSB Revision

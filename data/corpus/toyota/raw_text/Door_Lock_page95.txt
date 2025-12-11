@@ -1,0 +1,33 @@
+DL–92
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/ Smart Key System)
+Power Source Circuit
+DESCRIPTION
+The certification ECU provides power for the door control receiver operation.
+WIRING DIAGRAM
+O18 E58
+Door Control Receiver Certification ECU
+2
+29
++5 RC0
+1
+From Battery +B
+6 17
+GND E
+B139463E01
+INSPECTION PROCEDURE
+1 INSPECT CERTIFICATION ECU (+B TERMINAL)
+(a) Measure the voltage according to value(s) in the table
+Connector Wire Harness View: below.
+Standard voltage
+Certification ECU
+Symbol
+Condition Specified Condition
+(Tester Connection)
+E58
++B (E58-1) - E (E58-17) Always 10 to 14 V
+DL
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E +B
+B139430E02
+OK

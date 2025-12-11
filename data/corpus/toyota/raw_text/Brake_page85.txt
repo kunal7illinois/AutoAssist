@@ -1,0 +1,41 @@
+BC–85
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).
+1 INSPECT CAN COMMUNICATION SYSTEM
+(a) Check if a CAN communication system DTC is output
+(See page BC-21).
+Result
+Condition Proceed to
+CAN communication system DTC is not output A
+CAN communication system DTC is output B
+B REPAIR CAN COMMUNICATION SYSTEM
+(See page CA-8)
+A
+BC
+2 INSPECT ABS WARNING LIGHT
+HINT:
+When disconnecting the skid control ECU connector, the ABS
+warning light comes on.
+(a) Turn the ignition switch off.
+(b) Disconnect the skid control ECU connector.
+(c) Turn the ignition switch on (IG).
+(d) Check that the ABS warning light comes on.
+OK:
+The ABS warning light comes on.
+(e) Connect the connector.
+NG Go to step 3
+OK
+REPLACE BRAKE ACTUATOR ASSEMBLY (See page BC-432)
+3 INSPECT COMBINATION METER ASSEMBLY
+(a) Connect the intelligent tester to the DLC3.
+(b) Select the "ACTIVE TEST" on the tester (See page BC-
+25).
+ACTIVE TEST: METER
+Item Vehicle Condition / Test Details Diagnostic Note
+ABS WRN LIGHT Turn ABS warning light ON / OFF Observe combination meter
+(c) Check the ABS warning light operation.
+OK:
+The ABS warning light turns on or off in
+accordance with the intelligent tester.

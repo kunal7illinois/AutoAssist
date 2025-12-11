@@ -1,0 +1,72 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Pa‐ Monitor‐ Frequency of
+sage cedure ria and Threshold rameters with ing Time checks, MIL Il‐
+Value Enable Condi‐ Length lum
+tions
+P2004 Intake – Check the In‐ signal range check --- 25 Sec • Once
+Manifold take Flap Mo‐ @ upper mechani‐
+Runner tor -V157- / In‐ cal stop • 2 DCY
+Control take Manifold • normal closed
+Stuck Open Runner Posi‐ position unable
+Bank 1 tion Sensor - to reach
+G336- . Refer
+to • signal voltage <
+⇒ “3.5.12 In‐ 2.62 or > 4.65 V
+take Manifold
+signal range check
+Runner Posi‐
+@ lower mechani‐
+tion Sensor,
+cal stop
+Checking”,
+• normal closed
+page 134 .
+position unable
+to reach
+• signal voltage<
+0.35 or > 2.38 V
+P2008 Intake – Check the In‐ • signal duty cy‐ --- • Continuous
+Manifold take Flap Mo‐ cle > 80%
+Runner tor -V157- / In‐ • 2 DCY
+Control Cir‐ take Manifold • ECM power
+cuit/Open Runner Posi‐ stage failure
+Bank 1 tion Sensor -
+G336- . Refer
+to
+⇒ “3.5.12 In‐
+take Manifold
+Runner Posi‐
+tion Sensor,
+Checking”,
+page 134 .
+P2014 Intake – Check the In‐ signal voltage < --- .2 Sec • Continuous
+Manifold take Flap Mo‐ 0.2 V
+Runner Po‐ tor -V157- / In‐ • 2 DCY
+sition Sen‐ take Manifold
+sor/Switch Runner Posi‐
+Circuit Bank tion Sensor -
+1 G336- . Refer
+to
+⇒ “3.5.12 In‐
+take Manifold
+Runner Posi‐
+tion Sensor,
+Checking”,
+page 134 .
+P2015 Intake – Check the In‐ • signal duty cy‐ • Engine • 5 Sec • Continuous
+Manifold take Flap Mo‐ cle > 80% speed >400
+Runner Po‐ tor -V157- / In‐ rpm • 2 DCY
+sition Sen‐ take Manifold • deviation vs.
+sor/Switch Runner Posi‐ calculated val‐ • ECT > 10° C
+Circuit tion Sensor - ue > 5%
+Range/Per‐ G336- . Refer
+formance to
+Bank 1 ⇒ “3.5.12 In‐
+take Manifold
+Runner Posi‐
+tion Sensor,
+Checking”,
+page 134 .
+83
+3. Diagnosis and Testing

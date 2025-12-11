@@ -1,0 +1,36 @@
+54B-84 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+FUSIBLE LINK (1) CONNECTORS: C-89, C-91
+CONNECTOR
+BLOCK (LH)
+C-89
+BATTERY
+C-91
+AC101134AH AC001991AL
+CONNECTOR: C-117, C-119 CONNECTOR: E-13
+JUNCTION BLOCK DOOR (LH)
+C-117
+(REAR VIEW)
+C-119
+AC102793AE AC002000AC
+CONNECTOR: C-108, C-113
+JUNCTION BLOCK
+(FRONT VIEW)
+C-108
+C-113
+AC102788AQ
+. • Door lock switch, which is incorporated in the
+CIRCUIT OPERATION
+• The ETACS-ECU operates the central door lock power window main switch or power window
+sub switch (front RH)
+system according to the following signals:
+• Driver’s or passenger’s door lock actuator • The ETACS-ECU locks or unlocks all the doors
+by operating the central door lock relay (incorpo-
+switch
+• Driver’s or passenger’s door lock key cylinder rated in the ECU) in response to input signals.
+switch
+.
+TROUBLESHOOTING HINTS
+• Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+TSB Revision

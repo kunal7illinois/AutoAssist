@@ -1,0 +1,30 @@
+RS–78
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DTC B1620/21 Driver Side - Side Airbag Sensor Malfunction
+DESCRIPTION
+The side airbag sensor LH consists of the safing sensor, the diagnostic circuit, the lateral deceleration
+sensor, etc.
+If the center airbag sensor assembly receives signals from the lateral deceleration sensor, it determines
+whether the SRS should be activated.
+DTC B1620/21 is recorded when a malfunction is detected in the driver side - side airbag sensor circuit.
+DTC No. DTC Detection Condition Trouble Area
+• Side airbag sensor LH malfunction • Side airbag sensor LH
+B1620/21
+• Center airbag sensor assembly malfunction • Center airbag sensor assembly
+WIRING DIAGRAM
+N7
+Side Airbag Sensor LH Center Airbag Sensor Assembly
+8
+BBL+ N1 BBD+
+4
+15
+BBL- N1 BBD-
+3
+RS
+N12
+Rear Airbag Sensor LH
+BCL+ BCL+
+1 2
+BCL- BCL-
+2 1
+H045218E08

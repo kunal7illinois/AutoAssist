@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+1. Turn the ignition switch ON (II).
+2. Check the BRK PRESS in the VSA DATA LIST with the HDS. Do not press
+the brake pedal.
+Is there 10 MPa or less?
+YES -Go to step 3.
+NO -Check for brake drag or a miss-adjusted brake pedal position switch. If
+they are normal, replace the VSA modulator-control unit (see VSA
+MODULATOR-CONTROL UNIT REMOVAL AND INSTALLATION ).
+3. Check the BRAKE SWITCH in the VSA DATA LIST with the HDS while
+moving the brake pedal.
+Does it indicate ON when the pedal is pressed, and OFF when pedal is
+released?
+YES -Intermittent failure, the system is OK at this time. Check for loose
+terminals between the brake pedal position switch 4P connector, ECM
+connector A (44P), and the VSA modulator-control unit 37P connector. Refer
+to INTERMITTENT FAILURES TROUBLESHOOTING (see ).
+NO -Go to step 4.
+4. Turn the ignition switch to LOCK (0).
+5. Disconnect the brake pedal position switch 4P connector.
+6. Connect brake pedal position switch 4P connector terminal No. 1 and No. 2 to
+with a jumper wire.

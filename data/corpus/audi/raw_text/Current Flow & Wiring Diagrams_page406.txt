@@ -1,0 +1,68 @@
+Audi TT No. 47 / 6
+Current Flow Diagram
+Steering column electronics control unit, ignition/starter
+switch, steering angle sender, ignition key withdrawal lock
+solenoid
+D Ignition/starter switch
+E313 Selector lever
+F189 Tiptronic switch
+G85 Steering angle sender
+J527 Steering column electronics control unit
+J623 Engine control unit
+N376 Ignition key withdrawal lock solenoid
+T10p 10-pin connector, on Tiptronic switch
+D N376 ✱ T10ag 10-pin connector, on steering column electronics control unit
+T12i 12-pin connector, on steering column electronics control unit
+T20c 20-pin connector, black, connector A, on steering column
+electronics control unit
+5533 * models with direct shift gearbox 02E
+** ⇒ Engine Current Flow Diagram
+0,5
+ro/bl
+30
+J527
+T12i/7 T12i/8 T12i/9
+T
+/1
+1
+0
+2i T
+/1
+1
+1
+2i T
+/1
+1
+2
+2i
+T12i/3 T12i/4
+T
+/1
+2
+9
+0c
+T20c T20c T10ag T10ag T10ag T10ag T10ag T10ag T10ag T10ag T10ag T10ag T20c
+/13 /16 /1 /2 /3 /4 /5 /6 /7 /8 /9 /10 /20
+31
+✱✱ ✱
+0,35 0,35 1,0
+sw/ws ge/bl br
+111177
+G85
+T10p/2
+J623 E313
+✱✱ F189
+✱
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 or = orange
+8J0-047060409
+rs = pink
+Edition 04.2010

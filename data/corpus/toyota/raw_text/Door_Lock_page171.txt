@@ -1,0 +1,76 @@
+DL–161
+DOOR LOCK – SMART KEY SYSTEM
+DATA LIST / ACTIVE TEST
+1. READ DATA LIST
+HINT:
+Using the intelligent tester's DATA LIST allows switch,
+sensor, actuator and other item values to be read without
+removing any parts. Reading the DATA LIST relay in
+troubleshooting is one way to save time.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the engine switch on (IG). When the intelligent
+tester cannot be turned on due to a malfunction or
+other problem, refer to "precautions when using the
+intelligent tester" (See page DL-118).
+(c) Enter the following menus: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST.
+(d) Read the DATA LIST according to the display on the
+tester.
+SMART ACCESS (Certification ECU):
+Measurement Item / Range
+Item Normal Condition Diagnostic Note
+(Display)
+Driver side door touch sensor / ON: Sensor is touched
+D TOUCH SENSOR -
+ON or OFF OFF: Sensor is not touched
+Front passenger side door touch ON: Sensor is touched
+P TOUCH SENSOR -
+sensor / ON or OFF OFF: Sensor is not touched
+Driver side door lock switch / ON ON: Switch is touched
+D TRIGGER SW -
+or OFF OFF: Switch is not touched
+Front passenger side door lock ON: Switch is touched
+P TRIGGER SW -
+switch / ON or OFF OFF: Switch is not touched
+Luggage compartment door ON: Switch is pushed
+TR/B-DOOR UNLK -
+unlock switch / ON or OFF OFF: Switch is not pushed
+ON: Engine switch is on (IG)
+IG SW Engine switch / ON or OFF -
+OFF: Engine switch is off
+ON: Engine switch is on (ACC)
+ACC SW Engine switch / ON or OFF -
+OFF: Engine switch is off
+P/S Power save counter - 10 minutes Power save counter after door
+-
+10-MIN / Min: 0; Max: 255 LOCK/UNLOCK-10 minutes
+P/S Power save counter - 5 days / Power save counter after door
+-
+5-DAY Min: 0; Max: 255 LOCK/UNLOCK-5 days
+P/S Power save counter - 14 days / Power save counter after door
+-
+14-DAY Min: 0; Max: 255 LOCK/UNLOCK-14 days
+YES: Key ID matches vehicle
+Unmatched vehicle-ID / YES or
+UNMATCH V-ID NO: Key ID does not match -
+NO
+vehicle
+DL
+YES: Response from key
+NO RESPONSE No response / YES or NO -
+NO: No response from key
+Unmatched response code and YES: Key ID code matches
+UNMATCH FORMAT -
+format / YES or NO NO: Key ID code does not match
+YES: Key battery voltage drops
+LOW BATTERY Key low battery / YES or NO NO: Key battery voltage is -
+normal
+YES: Key ID code matches
+WRONG CODE ID code difference / YES or NO -
+NO: Key ID code does not match
+Challenge code difference YES: Key ID code matches
+WRONG C CODE -
+(Response) / YES or NO NO: Key ID code does not match
+YES: Key ID code matches
+WRONG ID CODE ID code difference / YES or NO -
+NO: Key ID code does not match

@@ -1,0 +1,51 @@
+LI–29
+LIGHTING – LIGHTING SYSTEM
+6 CHECK HARNESS AND CONNECTOR (MAIN BODY ECU - AUTOMATIC LIGHT CONTROL
+SENSOR)
+(a) Disconnect the E11 automatic light control sensor
+Wire Harness Side: connector.
+(b) Disconnect the E6 main body ECU connector.
+Automatic Light Control Sensor Standard resistance
+Specified
+Tester Connection Condition
+E11 Condition
+E6-18 (CLTE) - E11-3 (CLTE) Always Below 1 Ω
+CLTE
+E6-19 (CLTS) - E11-5 (CLTS) Always Below 1 Ω
+CLTS CLTB
+E6-20 (CLTB) - E11-6 (CLTB) Always Below 1 Ω
+E6-18 (CLTE) - Body ground Always 10 kΩ or higher
+Main Body ECU E6-19 (CLTS) - Body ground Always 10 kΩ or higher
+E6-20 (CLTB) - Body ground Always 10 kΩ or higher
+E6
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+CLTB
+CLTS
+CLTE
+E121476E04
+OK
+7 INSPECT MAIN BODY ECU (INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY )
+(a) Reconnect the main body ECU connector.
+(b) Measure the voltage and resistance according to the
+Wire Harness Side:
+value(s) in the table below.
+Standard voltage
+Automatic Light Control Sensor
+Tester Connection Condition Specified Condition
+E11-6 (CLTB) - E11-3
+Ignition switch off Below 1 V LI
+(CLTE)
+E11
+CLTE E11-6 (CLTB) - E11-3
+Ignition switch on (IG) 10 to 14 V
+CLTB (CLTE)
+Standard resistance
+B109993E16
+Specified
+Tester Connection Condition
+Condition
+E11-3 (CLTE) - Body ground Always Below 1 Ω
+NG REPLACE INSTRUMENT PANEL JUNCTION
+BLOCK ASSEMBLY
+OK

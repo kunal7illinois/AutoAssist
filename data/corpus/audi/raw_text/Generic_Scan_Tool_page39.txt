@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0111 Intake Air – Check the In‐ • IAT minus en‐ • Engine off time > 0 Sec. • Once
+Tempera‐ take Air Tem‐ gine tempera‐ 6...18 h
+ture Circuit perature (IAT) ture @ engine • 2 DCY
+Range/Per‐ Sensor -G42- start • engine tempera‐
+formance ture @ engine start
+. Refer to • AND < 1.5° C
+⇒ “3.5.11 Intake
+• IAT minus am‐ • AAT at start <=
+Air Temperature
+bient air tem‐ 40…25 K
+Sensor and Mani‐
+perature @ en‐
+fold Absolute gine start • IAT at start <=
+Pressure Sensor, 5.25° C
+Checking”, • = >40…25 K
+page 130 . • intake air tempera‐
+ture @ condition:
+vehicle speed > 25
+mph
+P0112 Intake Air – Check the In‐ • IAT < 0,15 V --- 2 Sec. • Continu‐
+Tempera‐ take Air Tem‐ ous
+ture Sensor perature (IAT)
+1 Circuit Sensor -G42- • 2 DCY
+Low Input
+. Refer to
+⇒ “3.5.11 Intake
+Air Temperature
+Sensor and Mani‐
+fold Absolute
+Pressure Sensor,
+Checking”,
+page 130 .
+P0113 Intake Air – Check the In‐ • IAT > 4,47 V --- 2 Sec. • Continu‐
+Tempera‐ take Air Tem‐ ous
+ture Sensor perature (IAT)
+1 Circuit Sensor -G42- • 2 DCY
+High Input
+. Refer to
+⇒ “3.5.11 Intake
+Air Temperature
+Sensor and Mani‐
+fold Absolute
+Pressure Sensor,
+Checking”,
+page 130
+35
+3. Diagnosis and Testing

@@ -1,0 +1,68 @@
+BC–138
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+PROBLEM SYMPTOMS TABLE
+If there are no DTCs output and the problem still occurs,
+check the circuits for each problem symptom in the order
+given in the table below and proceed to the relevant
+troubleshooting page.
+HINT:
+• Inspect the fuse and relay before investigating the
+suspected areas as shown in the table below.
+• Inspect each malfunction circuit in numerical order for the
+corresponding symptom.
+Vehicle Stability Control System:
+Symptom Suspected Area See page
+1. Check the DTC again and make sure that the normal
+BC-141
+system code is output.
+2. IG power source circuit BC-207
+3. Front speed sensor circuit BC-156
+4. Rear speed sensor circuit BC-164
+BC 5. Check the brake actuator assembly with the intelligent
+ABS, BA and/or EBD does not operate
+tester. (Check brake actuator assembly operation using the
+BC-425
+Active Test function.) If abnormal, check the hydraulic circuit
+for leakage.
+6. If the symptoms still occur even after the above circuits in
+suspected areas have been inspected and proved to be
+BC-426
+normal, replace the brake actuator assembly (skid control
+ECU).
+1. Check the DTC again and make sure that the normal
+BC-141
+system code is output.
+2. Front speed sensor circuit BC-156
+3. Rear speed sensor circuit BC-164
+4. Stop light switch circuit BC-213
+5. Check the brake actuator assembly with the intelligent
+ABS, BA and/or EBD does not operate efficiently
+tester. (Check brake actuator assembly operation using the
+BC-425
+Active Test function.) If abnormal, check the hydraulic circuit
+for leakage.
+6. If the symptoms still occur even after the above circuits in
+suspected areas have been inspected and proved to be
+BC-426
+normal, replace the brake actuator assembly (skid control
+ECU).
+1. Check the DTC again and make sure that the normal
+BC-141
+system code is output.
+2. TC and CG terminal circuit BC-266
+ABS sensor DTC check cannot be done
+3. If the symptoms still occur even after the above circuit in
+suspected areas has been inspected and proved to be normal, BC-426
+replace the brake actuator assembly (skid control ECU).
+1. ABS warning light circuit BC-229
+ABS warning light abnormal (Remains on)
+2. Brake actuator assembly (Skid control ECU) BC-426
+1. ABS warning light circuit BC-233
+ABS warning light abnormal (Does not come on)
+2. Brake actuator assembly (Skid control ECU) BC-426
+1. BRAKE warning light circuit BC-244
+BRAKE warning light abnormal (Remains on)
+2. Brake actuator assembly (Skid control ECU) BC-426
+1. BRAKE warning light circuit BC-252
+BRAKE warning light abnormal (Does not come on)
+2. Brake actuator assembly (Skid control ECU) BC-426

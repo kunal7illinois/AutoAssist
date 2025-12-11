@@ -1,0 +1,46 @@
+ES–173
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Insufficient Coolant Temperature for Closed
+DTC P0125
+Loop Fuel Control
+DESCRIPTION
+A thermistor is built into the Engine Coolant Temperature (ECT) sensor, and its resistance value varies
+according to the ECT.
+The structure of the sensor and its connection to the ECM are the same as those of the Intake Air
+Temperature (IAT) sensor.
+DTC No. DTC Detection Condition Trouble Area
+Engine coolant temperature (ECT) does not reach • Engine coolant temperature sensor
+P0125 closed-loop enabling temperature for 20 minutes (this • Cooling system
+period varies with ECT when engine start) • Thermostat
+ES
+MONITOR DESCRIPTION
+The resistance of the ECT varies in proportion to the actual ECT. The ECT supplies a constant voltage to
+the sensor and monitors the signal output voltage of the sensor. The signal voltage output varies
+according to the changing resistance of the sensor. After the engine is started, the ECT is monitored
+through this signal. If the ECT sensor indicates that the engine is not yet warm enough for closed-loop fuel
+control, despite a specified period of time having elapsed since the engine was started, the ECM
+interprets this as a malfunction in the sensor or cooling system and sets the DTC.
+Example:
+The ECT is 0°C (32°F) at engine start. After 5 minutes running time, the ECT sensor still indicates that
+the engine is not warm enough to begin closed-loop fuel (air-fuel ratio feedback) control. The ECM
+interprets this as a malfunction in the sensor or cooling system and sets the DTC.
+MONITOR STRATEGY
+Related DTCs P0125: Insufficient engine coolant temperature for closed-loop fuel control
+Required Sensors/Components (Main) Thermostat, cooling system
+Required Sensors/Components (Related) Engine coolant temperature sensor and mass air flow meter
+Frequency of Operation Once per driving cycle
+64 seconds: Closed-loop enabling temperature - 8.34°C (15°F) or more
+111.2 seconds: Closed-loop enabling temperature - 19.45 to 8.34°C (35 to
+Duration
+15°F)
+1,200 seconds: Less than closed-loop enabling temperature - 19.45°C (35°F)
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+P0100 - P0103 (MAF sensor)
+Monitor runs whenever following DTCs are not present P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+MAF sensor circuit fail Not detected
+IAT sensor circuit fail Not detected
+ECT sensor circuit fail Not detected
+Thermostat fail Not detected

@@ -1,0 +1,48 @@
+ES–197
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Tester Connections Specified Conditions
+B10-2 (IGF) or B30-81 (IGF1) - Body
+10 kΩor higher
+ground
+B11-2 (IGF) or B30-81 (IGF1) - Body
+10 kΩor higher
+ground
+B12-2 (IGF) or B30-81 (IGF1) - Body
+10 kΩor higher
+ground
+Standard resistance (Check for short)
+Tester Connections Specified Conditions
+B12-3 (IGT1) or B30-85 (IGT1) - Body
+10 kΩor higher
+ground
+B11-3 (IGT2) or B30-84 (IGT2) - Body
+10 kΩor higher
+ground ES
+B10-3 (IGT3) or B30-83 (IGT3) - Body
+10 kΩor higher
+ground
+B9-3 (IGT4) or B30-82 (IGT4) - Body
+10 kΩor higher
+ground
+(d) Reconnect the ECM connector.
+(e) Reconnect the ignition coil with igniter connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+3 CHECK WHETHER DTC OUTPUT RECURS (DTC P0351, P0352, P0353 OR P0354)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Clear DTCs (see page ES-35).
+(d) Shuffle arrangement of the ignition coils with igniters
+(among No. 1 to No. 4 cylinders).
+NOTICE:
+Do not shuffle the connectors.
+(e) Perform a simulation test.
+(f) Check DTCs displayed on the tester.
+Result
+Display (DTC Output) Proceed To
+Same DTC output A
+Different ignition coil DTC output B
+B REPLACE IGNITION COIL ASSEMBLY
+A
+REPLACE ECM

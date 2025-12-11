@@ -1,0 +1,35 @@
+TRACTION CONTROL SYSTEM (TCL) 35C-17
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+CONNECTOR: A-02 CONNECTORS: C-41, C-42 COMBINATION
+METER
+C-42
+C-41
+AC001985AD AC004428AB
+CONNECTOR: C-94 CONNECTORS: C-108, C-111
+CONNECTOR
+JUNCTION BLOCK
+BLOCK (RH)
+(FRONT VIEW)
+C-108
+C-111
+AC003604AB AC102831AC
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+The cause may be: an open circuit in the TCL indica-
+• Power to the TCL indicator light is supplied from
+tor light power supply circuit, a blown TCL indicator
+the ignition switch. The ABS-ECU grounds the
+light bulb or ABS-ECU malfunction.
+circuit to turn the light ON.
+• The ABS-ECU illuminates the TCL indicator light .
+TROUBLESHOOTING HINTS (The most likely
+for three seconds on start-up <ignition key: "ON"
+causes for this case:)
+(with engine stopped)>. When the ABS-ECU
+• Blown fuse
+completes the self-check, it turns off the light.
+• Damaged wiring harness or connector
+• Burnt out TCL indicator light bulb
+.
+• Malfunction of the ABS-ECU
+TSB Revision

@@ -1,0 +1,37 @@
+Audi TT 2007 ➤
+Direct petrol injection and ignition system (4-cyl. 2.0 ltr. 4-valve turbo) - Edition 01.2008
+– Detach coolant pipe and dipstick guide tube from intake mani‐
+fold -arrows- and pull dipstick guide tube upwards off engine.
+– Release connector on fuel pressure sender -G247- using as‐
+sembly tool -T10118- .
+– Unscrew fuel pressure sender -G247- using double hexagon
+socket, 27 mm -VAS 5301/7- .
+Installing:
+– Install in reverse order.
+– Make sure that connecting piece is tightened to specified tor‐
+que “30 Nm” before installing fuel pressure sender -G247- .
+♦ Tightening torque for fuel pressure sender -G247- , refer to
+fuel rail - exploded view ⇒ page 30 .
+2.15 Checking fuel pressure (low pressure)
+up to high-pressure pump
+Note
+♦ Control unit for electric fuel pump OK.
+♦ Fuel pump OK.
+♦ Fuel filter OK
+♦ Battery voltage at least 11 Volt
+– Switch on ignition.
+– Connect vehicle diagnosis and service information system -
+VAS 5052- and select engine control unit.
+– Select “Engine electronics” in vehicle self-diagnosis.
+– Then select function read “Measured values”.
+– Select measured value block 103.
+– With ignition on, the fuel pressure (low pressure) is indicated
+in display zone 1.
+Note
+When the ignition is switched off and on, the control unit for the
+electric fuel pump -J538- will activate the fuel pump for several
+seconds.
+– Measure the fuel pressure (low pressure).
+♦ Specification: approx. 6 bar (5 ... 7 bar)
+37
+2. Injection system

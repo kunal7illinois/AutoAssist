@@ -1,0 +1,43 @@
+AX–39
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Symbols (Terminals No.) Wiring Color Terminal Description Condition Specified Condition
+Pulse generation
+CAN- (C56-7) - E1 (C56-8) Y - B-W CAN communication line Ignition switch ON (IG)
+(See waveform 3)
+(a) Waveform 1
+Reference:
+5 V/DIV.
+Terminal SPD1 - E1 AX
+Tool setting 2 V/DIV., 20 ms./DIV.
+Vehicle condition Vehicle speed 12 mph (20 km/h)
+GND
+20 ms./DIV.
+G034872E02
+(b) Waveform 2
+Reference:
+1 V/DIV
+Terminal CAN+ - E1
+Tool setting 1 V/DIV., 10 ms./DIV.
+Vehicle condition Engine is stopped, ignition ON (IG)
+GND
+10 ms./DIV
+G036660E06
+(c) Waveform 3
+Reference:
+1 V/DIV
+Terminal CAN- - E1
+Tool setting 1 V/DIV., 10 ms./DIV.
+Vehicle condition Engine is stopped, ignition ON (IG)
+2. ECM
+GND
+HINT:
+10 ms./DIV
+Each ECM terminal's standard voltage is shown in the
+table below.
+G036661E05
+In the table, first follow the information under "Condition".
+Look under "Symbols (Terminals No.)" for the terminals
+to be inspected. The standard voltage between the
+terminals is shown under "Specified Condition".
+Use the illustration below as a reference for the ECM
+terminals.

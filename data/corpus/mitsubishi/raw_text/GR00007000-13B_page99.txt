@@ -1,0 +1,31 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-99
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Check for harness damage between throttle
+position sensor connector B-07 terminal 4 and ECM
+connector C-58 terminal 42 <M/T> or PCM connector C-55
+terminal 46 <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-07
+YES : Replace the ECM or PCM. Then go to Step 14.
+NO : Repair it. Then go to Step 14.
+THROTTLE
+POSITION
+SENSOR
+ACX02484AC
+CONNECTOR : C-58<M/T>, C-55<A/T>
+PCM<A/T> ECM<M/T>
+C-55 C-58
+AK000225AI
+STEP 7. Check the continuity at throttle position sensor
+harness side connector B-07.
+(1) Disconnect the connector B-07 and measure at the harness
+side.
+(2) Measure the continuity between terminal 1 and ground.
+• Should be less than 2 ohm.
+B-07 HARNESS
+SIDE CONNECTOR Q:Is the continuity normal?
+YES : Go to Step 10.
+4 3 2 1
+NO : Go to Step 8.
+AK000237AB
+TSB Revision

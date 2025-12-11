@@ -1,0 +1,53 @@
+13B-570 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 7. Using scan tool MB991502, check data list.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check the following items in the data list. Refer to, Data List
+Reference Table P.13B-640.
+a. Item 21: Engine Coolant Temperature Sensor.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : Go to Step 8.
+16 PIN
+NO : Repair or replace. Then confirm that the malfunction
+MB991502 symptom is eliminated.
+AKX01177AB
+STEP 8. Check the fuel pressure.
+Refer to, Fuel Pressure Test P.13B-680.
+Q:Is the fuel pressure normal?
+YES : Go to Step 9.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+STEP 9. Check the ignition timing.
+Refer to GROUP 11C, On-vehicle Service − Ignition Timing
+Check P.11C-5.
+Q:Is the ignition timing normal?
+YES : Check the following items, and repair or replace the
+defective items.
+a. Check the ignition coil, spark plugs, spark plug
+cables.
+b. Check compression pressure.
+c. Check the engine oil viscosity.
+Then confirm that the malfunction symptom is
+eliminated.
+NO : Check that the crankshaft position sensor and timing
+belt cover are in the correct position. Then confirm
+that the malfunction symptom is eliminated.
+INSPECTION PROCEDURE 12: When the Engine Is Hot, It Stalls at Idle (Die Out).
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+• In cases such as the above, the ignition system, causes for this case:)
+• Malfunction of the ignition system.
+air/fuel mixture, idle air control motor or compres-
+• Malfunction of air/fuel ratio control system.
+sion pressure may be faulty. In addition, if the
+• Malfunction of the IAC system.
+engine suddenly stalls, the cause may also be a
+• Vacuum leak.
+loose connector.
+• Improper connector contact.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

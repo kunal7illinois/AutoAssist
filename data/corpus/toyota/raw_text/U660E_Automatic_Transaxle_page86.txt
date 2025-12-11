@@ -1,0 +1,47 @@
+AX–86
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+OFF malfunction:
+TCM selected gear 1st, 2nd, 3rd or 4th
+TCM indicated pressure value of SL1 1,200 kPa
+Throttle valve opening angle 3% or more
+ON malfunction:
+AX
+TCM selected gear 5th or 6th
+Vehicle speed 1.2 mph (2 km/h) or more
+ETC (Engine coolant temperature) 40°C (104°F) or more
+4.5% or more at engine speed 2,000 rpm
+Throttle valve opening angle
+(Varies with engine speed)
+TYPICAL MALFUNCTION THRESHOLDS
+Either of the following conditions is met:
+OFF malfunction:
+Turbine speed - Output speed x Gear ratio 1,000 or more
+ON malfunction:
+Input (turbine) speed/Intermediate shaft speed when output
+0.998 to 1.138
+speed less than 1,000 rpm
+INSPECTION PROCEDURE
+1 CHECK OTHER DTCS OUTPUT (IN ADDITION TO DTC P0746)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the intelligent tester on.
+(c) Enter the following items: "DIAGNOSIS / OBD/MOBD /
+ECT / DTC INFO / CURRENT CODES".
+(d) Read the DTCs using the intelligent tester.
+Result
+Display (DTC output) Proceed to
+Only "P0746" is output A
+"P0746" and other DTCs B
+HINT:
+If a solenoid is stuck OFF, DTCs for several solenoids
+including the malfunctioning solenoid will be detected.
+A Go to step 3
+B
+2 PERFORM ACTIVE TEST BY SHIFT
+NOTICE:
+This test should always be performed with at least 2
+people.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester on.
+(c) Enter the following items: "DIAGNOSIS / OBD/MOBD /
+ECT / ACTIVE TEST / SHIFT".

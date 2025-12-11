@@ -1,0 +1,67 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0138 O2 Circuit For CBTA (Fed) Signal voltage > • engine speed > 25 5 Sec. • continu‐
+High Volt‐ ONLY: 1.08 V rpm ous
+age Bank 1, – Check the
+Sensor 2 Oxygen Sen‐ • O2S rear dewpoint • 2 DCY
+sor (O2S) - exceeded
+G130- . Refer
+• O2S rear fully
+to
+heated up
+⇒ “3.5.22 Oxy‐
+gen Sensor • modeled exhaust
+after Catalytic temperature >700°
+Converter, C for 10 Sec
+Checking”,
+page 156 .
+P0139 O2 Circuit – Check the • transient time • O2S rear dewpoint • 100 • 2 DCY
+Slow Re‐ Oxygen Sen‐ at fuel cut off > exceeded Sec.
+sponse sor (O2S) - 0.6 Sec.
+Bank 1, G130- . Refer • modeled exhaust
+Sensor 2 to temperature >
+⇒ “3.5.22 Oxy‐ 400° C
+gen Sensor
+after Catalytic
+Converter,
+Checking”,
+page 156 .
+P0140 O2 Circuit – Check the • Signal voltage . • engine speed > 25 100 Sec. • continu‐
+No Activity Oxygen Sen‐ 461 to .499 V rpm ous
+Detected sor (O2S) - for > 3 Sec.
+Bank 1, G130- . Refer • O2S rear dewpoint • 2 DCY
+Sensor 2 to • exhaust gas exceeded
+⇒ “3.5.22 Oxy‐ temperature
+gen Sensor >600° C • O2S rear fully
+heated up
+after Catalytic
+• and internal re‐
+Converter, sistance • modeled exhaust
+Checking”, >40000 Ω temperature >700°
+page 156 . C for 10 Sec
+P0141 O2 Heater – Check the • internal resist‐ • Heater comman‐ 6 Sec. • continu‐
+Circuit Bank Oxygen Sen‐ ance > 0.59… ded ON ous
+1, Sensor 2 sor (O2S) 1.9 kΩ
+Heater - • Modeled exhaust • 2 DCY
+G130- . Refer gas temp, 400 -
+to 650 °C
+⇒ “3.5.23 Oxy‐
+• Engine shutoff
+gen Sensor 1
+time > 120 Sec.
+after Catalytic
+(during ECM keep
+Converter
+alive time after
+Heater,
+shutoff < 500 Sec.)
+Checking ”,
+page 158 . • Fuel cutoff not ac‐
+tive
+• Number of checks
+= 10
+42
+Rep. Gr.ST - Generic Scan Tool

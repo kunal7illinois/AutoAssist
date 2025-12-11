@@ -1,0 +1,52 @@
+Audi A1 2011 ➤ , Audi A2 2001 ➤ , Audi A3 2004 ➤ , Audi A4 2001 ➤ , Au ...
+Electrical system; General information - Edition 10.2010
+4.2 Checking battery using battery tester
+with printer -VAS 5097A-
+♦ Measuring voltage under load simulates starting engine at low
+temperatures. During the test, a high current flows through the
+battery, causing the voltage to drop. The amount of the voltage
+drop will depend on the state of charge of the battery. The
+voltage must not fall below the minimum value specified by the
+battery tester.
+♦ After the test, the voltage will remain at a low level for a long
+time, rising only slowly.
+♦ If the battery is defective or only weakly charged, the battery
+voltage will drop very rapidly below the specified minimum
+voltage level.
+♦ The battery must be renewed if the voltage drops below the
+specified minimum level.
+♦ Only perform the test once. Repeating the test would falsify
+the result.
+♦ The battery tester must be allowed to cool down for approxi‐
+mately 30 minutes before checking another battery.
+The battery tester with printer -VAS 5097 A- can be used to check
+12 V batteries with the following low temperature test currents:
+Low temperature test current in A (Ampere)
+According to DIN 1) According to EN / According to IEC 4)
+2) SAE 3)
+80 – 104 136 – 177 95 – 124
+105 – 129 178 – 219 125 – 154
+130 – 154 220 – 261 155 – 184
+155 – 179 262 – 303 185 – 214
+180 – 204 304 – 345 215 – 244
+204 – 229 346 – 387 245 – 274
+230 – 254 388 – 429 275 – 304
+255 – 279 430 – 471 305 – 334
+280 – 304 472 – 513 335 – 364
+305 –329 514 – 555 365 – 394
+330 – 354 556 – 597 395 – 424
+355 – 379 598 – 639 425 – 454
+380 – 389 640 – 657 455 – 464
+390 – 399 658 – 675 465 – 474
+400 – 409 676 – 693 475 – 484
+410 – 419 694 – 711 485 – 494
+420 – 429 712 – 729 495 – 504
+430 – 439 730 – 747 505 – 514
+440 – 449 748 – 765 515 – 524
+450 – 459 766 – 783 525 – 534
+460 – 469 784 – 801 535 – 544
+470 – 479 802 – 819 545 – 554
+480 – 489 820 – 837 555 – 564
+490 – 499 4) 838 – 855 565 – 574
+21
+4. Checking battery - vehicles without battery monitor control unit J367 or energy management control unit J644

@@ -1,0 +1,53 @@
+HEATING AND AIR CONDITIONING 55-23
+MANUAL A/C DIAGNOSIS
+TERMINAL INSPECTION INSPECTION REQUIREMENTS NORMAL CONDITION
+NO.
+4, 5 Output from controller to engine Air thermistor sensor detection 0 V
+control module <M/T>/ temperature: 5°C (41.0°F) or less
+powertrain control module <A/
+Air thermistor sensor detection Battery positive voltage
+T>
+temperature: 55C (46.45F) or less
+6 − − −
+7 Input from A/C switch (outside/ • Outside air switch: ON 0 V
+inside air selection damper • Inside air switch: OFF
+control switch) to controller • Outside air switch: OFF Battery positive voltage
+• Inside air switch: ON
+8 Input from defroster switch Defroster switch (FOOT): ON 0 V
+(FOOT) to controller
+Defroster switch (FOOT): OFF Battery positive voltage
+9 Input from defroster switch Defroster switch (DEF): ON 0 V
+(DEF) to controller
+Defroster switch (DEF): OFF Battery positive voltage
+10 Input from A/C switch to A/C switch: OFF 0 V
+controller
+A/C switch: ON Battery positive voltage
+11 Ground Always 0 V
+12 − − −
+13 Input from A/C switch (outside/ • Outside air switch: ON Battery positive voltage
+inside air selection damper • Inside air switch: OFF
+control switch) to controller • Outside air switch: OFF 0 V
+• Inside air switch: ON
+14 Input from A/C switch (IND) to A/C switch: OFF 0 V
+controller
+A/C switch: ON Battery positive voltage
+15 − − −
+16 Output from controller to • Outside air switch: ON Battery positive voltage
+outside/inside air selection • Inside air switch: OFF
+damper control motor • Outside air switch: OFF 0 V
+• Inside air switch: ON
+17 Output from controller to • Outside air switch: ON 0 V
+outside/inside air selection • Inside air switch: OFF
+damper control motor • Outside air switch: OFF Battery positive voltage
+• Inside air switch: ON
+18 Input from taillight relay to Taillight relay: OFF 0 V
+controller
+Taillight relay: ON Battery positive voltage
+19 Input from blower switch (LO) to Blower switch (LO): OFF 0 V
+controller
+Blower switch (LO): ON Battery positive voltage
+20 − − −
+21 Input from A/C compressor A/C compressor relay: OFF 0 V
+relay to controller
+A/C compressor relay: ON Battery positive voltage
+TSB Revision

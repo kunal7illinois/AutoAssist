@@ -1,0 +1,42 @@
+BC–163
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+B Go to step 11
+C Go to step 5
+A
+2 READ VALUE OF INTELLIGENT TESTER (FRONT SPEED SENSOR)
+(a) Turn the ignition switch off.
+(b) Connect the intelligent tester to the DLC3.
+(c) Start the engine.
+(d) Select the Data List mode on the intelligent tester.
+ABS / VSC:
+Item (Display) Measurement Item / Range (Display) Normal Condition
+FR wheel speed sensor reading / min.: 0 mph (0 km/
+FR WHEEL SPD Actual wheel speed
+h), max.: 202 mph (326 km/h)
+FL wheel speed sensor reading /min.: 0 mph (0 km/h),
+FL WHEEL SPD Actual wheel speed
+max.: 202 mph (326 km/h) BC
+(e) Check that there is no difference between the speed
+value output from the speed sensor displayed on the
+intelligent tester and the speed value displayed on the
+speedometer when driving the vehicle.
+OK:
+The speed value output from the speed sensor
+displayed on the intelligent tester is the same as
+the actual vehicle speed.
+NG Go to step 5
+OK
+3 PERFORM TEST MODE (SIGNAL CHECK)
+(a) Perform sensor check in the Test Mode procedure (See
+page BC-123).
+OK:
+All Test Mode DTCs are erased.
+NG Go to step 5
+OK
+4 RECONFIRM DTC
+(a) Turn the ignition switch off.
+(b) Clear the DTC (See page BC-141).
+(c) Start the engine.
+(d) Drive the vehicle at the speed of 20 mph (32 km/h) or
+more for at least 60 seconds.
+(e) Check if the same DTC is recorded (See page BC-141).

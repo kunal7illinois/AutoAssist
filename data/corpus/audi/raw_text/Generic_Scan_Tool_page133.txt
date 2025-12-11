@@ -1,0 +1,43 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• Vehicles with automatic transmission, shift selector lever into
+position “P” or “N”.
+• A/C switched off.
+• Ground (GND) connections between engine/transmission/
+chassis OK.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+Checking internal resistance
+– Disconnect the Exhaust Gas Temperature (EGT) Sensor 1 -
+G235- electrical harness connector.
+– Using a multimeter, check the Exhaust Gas Temperature
+(EGT) Sensor 1 -G235- terminals 1 to 2 for resistance.
+Specified value: ∞ Ω (INFINITE)
+If the specification was not obtained:
+– Replace the Exhaust Gas Temperature (EGT) Sensor 1 -
+G235- .
+If the specification was obtained:
+Checking Voltage supply
+– Disconnect the Exhaust Gas Temperature (EGT) Sensor 1 -
+G235- electrical harness connector -1-.
+– Switch the ignition on.
+– Using a multimeter, check the Exhaust Gas Temperature
+(EGT) Sensor 1 -G235- electrical harness connector terminals
+1 to 2 for voltage.
+Specified value: 0.400 to 0.500 V.
+– Switch the ignition off.
+If any of the specified values was not obtained:
+Checking wiring
+If the manufacturers test box is being used, perform the following
+step.
+– Install the Test Box.
+If the manufacturers test box is not being used, perform the fol‐
+lowing step.
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+appropriate Repair manual.
+129
+3. Diagnosis and Testing

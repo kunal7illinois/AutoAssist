@@ -1,0 +1,22 @@
+BE-16 BODY ELECTRICAL - POWER DISTRIBUTOR
+POWER DISTRIBUTOR
+(cid:2)DESCRIPTION
+(cid:1) The power distributor is built into the engine room relay block, and uses a small mechanical relay and
+semiconductor relay for a compact and lightweight design.
+(cid:1) The power distributor has a headlight control function. This function dims the headlights (Hi beam) in
+accordance with operation signals from the main body ECU while the daytime running light system is
+operating. For details, see page BE-19.
+Engine Room Relay Block
+Power Distributor
+01YBE09Y
+(cid:1) The components of the power distributor are shown below.
+Component Relay
+(cid:1) Horn Relay
+(cid:1) A/F Relay
+(cid:1) Security Horn Relay*
+Mechanical Relay (cid:1) EFI Relay
+(cid:1) Circuit Opening Relay
+(cid:1) Headlight Relay (RH)
+(cid:1) Headlight Relay (LH)
+Semiconductor Relay (cid:1) Daytime Running Light Relay (Headlight HI Beam Relay)
+*: Only for models with theft deterrent system

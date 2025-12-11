@@ -1,0 +1,25 @@
+NS–40
+NAVIGATION – NAVIGATION SYSTEM
+(b) CAN Connection Check Screen
+*1
+E120075E01
+Screen Description:
+Name Contents
+• For systems connected to the CAN system, the results of the CAN
+connection check are displayed.
+• "NG" - The ignition switch is on (ACC or IG) and the CAN
+communication lines are malfunctioning or the CAN bus lines are
+CAN connection check result/*1 not connected.
+• "OK" - The ignition switch is on (ACC or IG) and the CAN
+communication lines are normal.
+• Blank - CAN connection check is performed with the ignition
+switch on (ACC) or off.
+HINT:
+• This function operates only for the systems
+connected to the CAN system.
+• When the ignition switch is turned off, the bus
+lines are disconnected, or a malfunction occurs
+in the bus lines while the CAN connection check
+result is being displayed, the problem will be
+reflected on the screen in real time.
+NS

@@ -1,0 +1,56 @@
+DL–18
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+DIAGNOSIS SYSTEM
+1. DESCRIPTION
+(a) Power door lock control system data and Diagnostic
+Trouble Codes (DTCs) can be read through the
+Data Link Connector 3 (DLC3) of the vehicle. When
+the system seems to be malfunctioning, use the
+intelligent tester to check for malfunctions and
+perform repairs.
+2. CHECK DLC3
+HINT:
+CG SG CANH SIL
+The vehicle uses the ISO 15765-4 communication
+protocol. The terminal arrangement of the DLC3
+complies with SAE J1962 and matches the ISO 15765-4
+format.
+CANL BAT
+H100769E16
+Symbols (Terminal No.) Terminal Description Condition Specified Condition
+CG (4) - Body ground Chassis ground Always Below 1 Ω
+SG (5) - Body ground Signal ground Always Below 1 Ω
+SIL (7) - SG (5) Bus "+" line During transmission Pulse generation
+BAT (16) - Body ground Battery positive Always 10 to 14 V
+CANH (6) - CANL (14) CAN bus line Ignition Switch OFF* 54 to 69 Ω
+CANH (6) - CG (4) HIGH-level CAN bus line Ignition Switch OFF* 200 Ω or more
+CANL (14) - CG (4) LOW-level CAN bus line Ignition Switch OFF* 200 Ω or more
+CANH (6) - BAT (16) HIGH-level CAN bus line Ignition Switch OFF* 6 kΩ or more
+CANL (14) - BAT (16) LOW-level CAN bus line Ignition Switch OFF* 6 kΩ or more
+NOTICE:
+*: Before measuring the resistance, leave the vehicle
+as is for at least 1 minute and do not operate the
+ignition switch, any other switches or the doors.
+If the result is not as specified, the DLC3 may have a
+malfunction. Repair or replace the harness and
+connector.
+HINT:
+Connect the cable of the intelligent tester to the DLC3,
+turn the ignition switch on (IG) and attempt to use the
+DL
+tester. If the display indicates that a communication error
+has occurred, there is a problem either with the vehicle
+or with the tester.
+• If communication is normal when the tester is
+connected to another vehicle, inspect the DLC3 of the
+original vehicle.
+• If communication is still not possible when the tester
+is connected to another vehicle, the problem may be
+in the tester itself. Consult the Service Department
+listed in the tester's instruction manual.
+DLC3
+3. INSPECT BATTERY VOLTAGE
+Intelligent Tester
+Standard Voltage:
+C131977E01
+11 to 14 V

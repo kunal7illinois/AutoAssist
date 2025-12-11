@@ -1,0 +1,82 @@
+ES–44
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Symbols (Terminal No.) Wiring Colors Terminal Descriptions Conditions STD Voltages
+Ignition coil with igniter
+IGF1 (C55-106) - E1 (C55-81) BR - W-B (ignition confirmation Ignition switch on (IG) 4.5 to 5.0 V
+signal)
+Ignition coil with igniter
+Pulse generation
+IGF1 (C55-106) - E1 (C55-81) BR - W-B (ignition confirmation Idling
+(see waveform 6)
+signal)
+VSV for Air intake control
+AICV (A55-4) - E1 (C55-81) V - W-B Ignition switch on (IG) 9 to 14 V
+system operation signal
+Earth (ground) circuit of
+E2G (C55-73) - E1 (C55-81) LG - W-B sensor for mass air flow Always Below 1 V
+meter
+Mass Air Flow (MAF) Idling, Shift lever position P or N,
+VG (C55-72) - E2G (C55-73) L-B - LG 0.5 to 3.0 V
+meter signal A/C switch OFF
+VSV for ACIS (Acoustic
+ACIS (C55-107) - E1 (C55-81) R - W-B Control Induction System) Ignition switch on (IG) 9 to 14 V
+ES operation signal
+Purge VSV for EVAP
+PRG (C55-108) - E1 (C55-81) G-R - W-B Ignition switch on (IG) 9 to 14 V
+system operation signal
+Purge VSV for EVAP Pulse generation
+PRG (C55-108) - E1 (C55-81) G-R - W-B Idling
+system operation signal (see waveform 7)
+A/F sensor heater
+HA2A (C55-109) - E05 (C55-46) B-W - W Idling Below 3.0 V
+operation signal
+A/F sensor heater
+HA2A (C55-109) - E05 (C55-46) B-W - W Ignition switch on (IG) 9 to 14 V
+operation signal
+A/F sensor heater
+HA1A (C55-86) - E04 (C55-23) G - W Idling Below 3.0 V
+operation signal
+A/F sensor heater
+HA1A (C55-86) - E04 (C55-23) G - W Ignition switch on (IG) 9 to 14 V
+operation signal
+Earth (ground) circuit of
+ME01 (C55-20) - E1 (C55-81) B - W-R Always Below 1 V
+ECM
+Earth (ground) circuit of
+E03 (C55-104) - E1 (C55-81) B - W-B Always Below 1 V
+ECM
+HT2B (C55-47) - E1 (C55-81) Y - W-B Heated oxygen sensor
+Idling Below 3.0 V
+HT1B (C55-48) - E1 (C55-81) LG - W-B heater operation signal
+HT2B (C55-47) - E1 (C55-81) Y - W-B Heated oxygen sensor
+Ignition switch on (IG) 9 to 14 V
+HT1B (C55-48) - E1 (C55-81) LG - W-B heater operation signal
+Earth (ground) circuit of
+E05 (C55-46) - E1 (C55-81) W - W-B Always Below 1 V
+ECM
+Earth (ground) circuit of
+E04 (C55-23) - E1 (C55-81) W - W-B Always Below 1 V
+ECM
+Park/Neutral position Ignition switch on (IG), Shift lever
+NSW (C55-62) - E1 (C55-81) R - W-B Below 3.0 V
+switch signal position P or N
+Park/Neutral position Ignition switch on (IG), Shift lever
+NSW (C55-62) - E1 (C55-81) R - W-B 9 to 14 V
+switch signal position other than P or N
+EKN2 (C55-117) - KNK2 (C55- Earth (ground) circuit of With engine speed at 4,000 rpm Pulse generation
+W - B
+118) knock sensor after warming up (see waveform 4)
+KNK2 (C55-118) - EKN2 (C55- With engine speed at 4,000 rpm Pulse generation
+B - W Knock sensor signal
+117) after warming up (see waveform 4)
+A1A+ (C55-93) - E1 (C55-81) P - W-B A/F sensor signal Ignition switch on (IG) 3.3 V*1
+A1A+ (C55-93) - E1 (C55-81) P - W-B A/F sensor signal Ignition switch on (IG) 3.0 V*1
+A2A+ (C55-120) - E1 (C55-81) L - W-B A/F sensor signal Ignition switch on (IG) 3.3 V*1
+A2A+ (C55-120) - E1 (C55-81) L - W-B A/F sensor signal Ignition switch on (IG) 3.0 V*1
+Earth (ground) circuit of With engine speed at 4,000 rpm Pulse generation
+EKNK (C55-94) - KNK1 (C55-95) G - R
+knock sensor after warming up (see waveform 4)
+With engine speed at 4,000 rpm Pulse generation
+KNK1 (C55-95) - EKNK (C55-94) R - G Knock sensor signal
+after warming up (see waveform 4)
+A1A- (C55-116) - E1 (C55-81) P - W-B A/F sensor Ignition switch on (IG) 3.3 V*1

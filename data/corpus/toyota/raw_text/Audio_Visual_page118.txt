@@ -1,0 +1,35 @@
+AV–118
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+AVC-LAN Circuit
+DESCRIPTION
+Each unit of the audio system connected to the AVC-LAN (communication bus) transfers the signal of
+each switch by communication.
+When a short to +B or short to ground occurs in this AVC-LAN, the audio system will not function normally
+as the communication is discontinued.
+INSPECTION PROCEDURE
+1 INSPECT RADIO RECEIVER
+(a) Disconnect the radio receiver connector.
+Premium Model Wire Harness View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester connection Condition Specified condition
+F26 ATX+
+ATX+ (F26-5) - ATX-
+Always 60 to 80 Ω
+(F26-15)
+NG REPLACE RADIO RECEIVER
+ATX-
+E129798E04
+OK
+2 CHECK HARNESS AND CONNECTOR
+HINT:
+For details of the connectors, refer to the "TERMINALS OF
+ECU" (See page AV-15).
+(a) Referring to the AVC-LAN wiring diagram below, check
+all AVC-LAN circuits.
+(1) Disconnect all connectors in all AVC-LAN circuits.
+(2) Check for an open or short in all AVC-LAN circuits.
+OK:
+There is no open or short circuit.
+AV

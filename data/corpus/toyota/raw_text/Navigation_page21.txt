@@ -1,0 +1,34 @@
+NS–21
+NAVIGATION – NAVIGATION SYSTEM
+SYSTEM NORMAL CONDITION CHECK
+1. CHECK NORMAL CONDITION
+(a) If the symptom is applicable to any of the following,
+it is intended behavior, and not a malfunction.
+Symptom Answer
+Depending on the road conditions, the radio and navigation assembly
+A longer route than expected is chosen.
+may determine that a longer route is quicker.
+Even when distance priority is high, the shortest route is not shown. Some paths may not be advised due to safety concerns.
+When the vehicle is put into motion immediately after the engine If the vehicle starts before the navigation system activates, the system
+starts, the navigation system deviates from the actual position. may not react.
+When the vehicle is driving on new roads not available on the map
+When running on certain types of roads, especially new roads, the
+disc, the system attempts to match it to another nearby road, causing
+vehicle position deviates from the actual position.
+the position mark to deviate.
+(b) The following symptoms are not a malfunction, but
+are caused by errors inherent in the GPS, gyro
+sensor, speed sensor, and radio and navigation
+assembly.
+(1) The current position mark may be displayed on a
+nearby parallel road.
+I100066
+(2) Immediately after a fork in the road, the current
+vehicle position mark may be displayed on the
+wrong road.
+I100067
+(3) When the vehicle turns right or left at an
+intersection, the current vehicle position mark
+may be displayed on a nearby parallel road.
+I100068
+NS

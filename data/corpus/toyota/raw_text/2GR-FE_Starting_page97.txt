@@ -1,0 +1,30 @@
+ST–97
+2GR-FE STARTING – SMART KEY SYSTEM
+Engine does not Start
+DESCRIPTION
+1. ENGINE START SYSTEM FUNCTION
+(a) If the engine switch is pressed with the shift lever in the P or N position and the brake pedal
+depressed, the main body ECU determines that it is an engine start request.
+(b) The certification ECU and other ECUs perform key verification via the LIN communication line.
+(c) The main body ECU activates the ACC relay.
+(d) The main body ECU activates the IG1 and IG2 relays.
+(e) The certification ECU outputs a steering UNLOCK signal. The signal is sent to the main body
+ECU via the steering lock ECU.
+(f) The main body ECU sends an engine start request signal to the ECM.
+(g) The ECM sends an ACC cut request signal to the main body ECU.
+(h) The ECM and main body ECU activate the ST relay.
+(i) The main body ECU deactivates the ACC relay until the ECU detects an engine start.
+(j) When engine revolution speed reaches 200 rpm, the main body ECU determines that the engine
+has been started.
+The ECU reactivates the ACC relay and turns off the engine switch indicator light.
+Symbols of main body ECU Signals
+STP Stop light switch ON signal
+SSW1/SSW2 Engine switch ON signal
+ACCD ACC relay operation signal
+IG2D IG2 relay operation signal
+STR2 ST relay operation signal
+STR Park/neutral position switch signal
+TACH Engine start detection signal
+STSW Starter activation request signal
+ACCR ACC cut request signal
+ST

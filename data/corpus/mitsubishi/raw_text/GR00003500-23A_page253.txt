@@ -1,0 +1,63 @@
+AUTOMATIC TRANSAXLE 23A-253
+AUTOMATIC TRANSAXLE DIAGNOSIS
+INSPECTION PROCEDURE 3: Does not Move Backward
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+causes for this case:)
+If the vehicle does not backward when the selector
+• Abnormal reverse clutch pressure
+lever is shifted from "N" to "R" range while the engine
+• Abnormal low-reverse brake pressure
+is idling, the cause is probably abnormal pressure or
+• Malfunction of the low-reverse solenoid valve
+a malfunction of the reverse clutch, low-reverse
+• Malfunction of the reverse clutch
+brake, or valve body.
+• Malfunction of the low-reverse brake
+• Malfunction of the valve body
+.
+• Malfunction of the PCM
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Using scan tool MB991502, carry out the actuator
+test item 01: Low-Reverse Solenoid Valve.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+. (1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to actuator test mode for item 01:
+Low-Reverse Solenoid Valve.
+• An operation sound should be heard from solenoid
+valve when solenoid valve is operated.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the solenoid valve operating properly?
+16 PIN
+YES : . Go to Step 2.
+NO : . Repair or replace the low-reverse solenoid valve.
+MB991502
+AC001252AB
+Refer to GROUP 23B, Valve Body P.23B-74. Then
+confirm that the symptom is eliminated.
+STEP 2. Check the hydraulic pressure (for reverse clutch).
+Measure the hydraulic pressure for reverse clutch when the
+selector lever is at the "R" range, and check if the hydraulic
+pressure is within the standard value. Refer to P.23A-26,
+Hydraulic Pressure Test.
+Q:Is the hydraulic pressure within the standard value?
+YES : . Go to Step 3.
+NO : . Go to Step 5.
+STEP 3. Check the hydraulic pressure (for low-reverse
+brake).
+Measure the hydraulic pressure for low-reverse brake when the
+selector lever is at the "R" range, and check if the hydraulic
+pressure is within the standard value. Refer to P.23A-26,
+Hydraulic Pressure Test.
+Q:Is the hydraulic pressure within the standard value?
+YES : . Go to Step 4.
+NO : . Go to Step 5.
+TSB Revision

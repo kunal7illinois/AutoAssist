@@ -1,0 +1,34 @@
+AX–168
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+ECU Power Source Circuit
+DESCRIPTION
+When the ignition switch is turned on (IG), voltage from the ECM's MREL terminal is applied to the EFI
+relay. This causes the contacts of the EFI relay to close, which supplies power to terminal +B of the TCM.
+AX
+WIRING DIAGRAM
+TCM
+EFI MAIN
+18
+C56 +B
+To ECM
+EFI Relay
+FL MAIN
+8
+C56 E1
+Battery
+C133264E01
+INSPECTION PROCEDURE
+1 INSPECT ECU TERMINAL VOLTAGE (+B TERMINAL)
+(a) Disconnect the TCM connector.
+Wire Harness Side:
+(b) Turn the ignition switch on (IG).
+TCM Connector (Front View)
+(c) Measure the voltage according to the value(s) in the
+table below.
+C56
+Standard voltage
+Tester Connection Specified Condition
++B (C56-18) - E1 (C56-8) 9 to 14 V
++B E1 OK CHECK FOR INTERMITTENT PROBLEMS
+C133210E06
+NG

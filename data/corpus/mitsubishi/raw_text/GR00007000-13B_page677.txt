@@ -1,0 +1,40 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-677
+ON-VEHICLE SERVICE
+THROTTLE BODY (THROTTLE VALVE AREA)
+CLEANING
+M1131001000064
+1. Start the engine and warm it up until the coolant is heated to
+80°C (176°F) or higher. Stop the engine.
+2. Remove the air intake hose from the throttle body.
+CAUTION
+Do not allow cleaning solvent to enter the bypass passage.
+3. Plug the bypass passage inlet (arrow) of the throttle body.
+4. Spray cleaning solvent into the valve through the throttle
+body intake port and leave it for approximately five minutes.
+5. Start the engine, rev it several times and then idle it for about
+one minute. If the idling speed becomes unstable (or if the
+engine stalls) due to the bypass passage being plugged,
+slightly open the throttle valve to keep the engine running.
+6. If the throttle valve deposits are not removed, repeat steps 4
+and 5.
+AK000112AB
+7. Unplug the bypass passage inlet.
+8. Attach the air intake hose.
+9. Use scan tool MB991502 to erase any diagnostic trouble
+code.
+10.Adjust the basic idle speed. (Refer to P.13B-679.)
+WARNING
+Battery posts, terminals and related accessories con-
+tain lead and lead compounds. WASH HANDS AFTER
+HANDLING.
+NOTE: If the engine hunts while idling after adjustment of
+the basic idle speed, disconnect the negative cable from the
+battery for 10 seconds or more, and then reconnect it and
+run the engine at idle for about 10 minutes after the engine
+is warmed up.
+THROTTLE POSITION SENSOR ADJUSTMENT
+M1131001100049
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991348: Test Harness Set
+TSB Revision

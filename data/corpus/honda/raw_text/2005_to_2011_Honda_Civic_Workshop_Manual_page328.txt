@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+Does the SRS indicator stay on, and is 85-71 or 85-78 indicated?
+YES -Go to step 3.
+NO -Intermittent failure, system is OK at this time. Go to
+TROUBLESHOOTING INTERMITTENT FAILURES. If another DTC is
+indicated, troubleshoot the DTC.
+3. Initialize the ODS unit (see ODS UNIT INITIALIZATION).
+4. Turn the ignition switch ON (II), and check that the SRS indicator comes on
+for about 6 seconds and then goes off.
+Does the SRS indicator go off?
+YES -The system is OK.
+NO -Go to step 5.
+5. Replace the ODS unit (see ODS UNIT REPLACEMENT).
+6. Turn the ignition switch ON (II), and check that the SRS indicator comes on
+for about 6 seconds and then goes off.
+Does the SRS indicator go off?
+YES -The system is OK.
+NO -Replace the SRS unit (see SRS UNIT REPLACEMENT).
+DTC 81-4X, 81-5X, 81-63, 81-64, 85-4X, 85-5X, 85-63, 85-64 ("X" CAN BE 0 THRU 9 OR A THRU F):
+INTERNAL FAILURE OF THE ODS UNIT
+NOTE:
+Before doing this troubleshooting procedure, review
+(cid:1)
+SRS Precautions and Procedures (see PRECAUTIONS
+AND PROCEDURES) and General Troubleshooting
+Information (see GENERAL TROUBLESHOOTING
+INFORMATION).
+An incorrect ODS unit can cause DTC 85-63.
+(cid:1)

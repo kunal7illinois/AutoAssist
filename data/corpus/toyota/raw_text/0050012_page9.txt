@@ -1,0 +1,66 @@
+ES–66
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Trouble Areas MIL Memory See page
+P1552 Battery Current - Short in battery - DTC stored ES-261
+Sensor Circuit High current sensor circuit
+- Battery current
+sensor
+- ECM
+P1602 Deterioration of - Battery - DTC stored ES-264
+Battery - ECM back-up power
+source circuit
+P2102 Throttle Actuator - Open in throttle Comes on DTC stored ES-265
+Control Motor Circuit actuator circuit
+Low - Throttle actuator
+- ECM
+P2103 Throttle Actuator - Short in throttle Comes on DTC stored ES-265
+Control Motor Circuit actuator circuit
+ES
+High - Throttle actuator
+- Throttle valve
+- Throttle body
+assembly
+- ECM
+P2111 Throttle Actuator - Throttle actuator Comes on DTC stored ES-269
+Control System - - Throttle body
+Stuck Open assembly
+- Throttle valve
+P2112 Throttle Actuator - Same as DTC Comes on DTC stored ES-269
+Control System - P2111
+Stuck Closed
+P2118 Throttle Actuator - Open in ETCS Comes on DTC stored ES-272
+Control Motor Current power source circuit
+Range / Performance - Battery
+- Battery terminals
+- ETCS fuse
+- ECM
+P2119 Throttle Actuator - ETCS Comes on DTC stored ES-279
+Control Throttle Body - ECM
+Range / Performance
+P2120 Throttle / Pedal - Accelerator Pedal Comes on DTC stored ES-282
+Position Sensor / Position (APP)
+Switch "D" Circuit sensor
+- ECM
+P2121 Throttle / Pedal - APP sensor Comes on DTC stored ES-289
+Position Sensor / - ECM
+Switch "D" Circuit
+Range / Performance
+P2122 Throttle / Pedal - APP sensor Comes on DTC stored ES-282
+Position Sensor / - Open in VCP1
+Switch "D" Circuit circuit
+Low Input - Open or ground
+short in VPA circuit
+- ECM
+P2123 Throttle / Pedal - APP sensor Comes on DTC stored ES-282
+Position Sensor / - Open in EPA circuit
+Switch "D" Circuit - ECM
+High Input
+P2125 Throttle / Pedal - APP sensor Comes on DTC stored ES-282
+Position Sensor / - ECM
+Switch "E" Circuit
+P2127 Throttle / Pedal - APP sensor Comes on DTC stored ES-282
+Position Sensor / - Open in VCP2
+Switch "E" Circuit circuit
+Low Input - Open or ground
+short in VPA2 circuit
+- ECM

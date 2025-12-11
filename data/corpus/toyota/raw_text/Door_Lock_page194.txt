@@ -1,0 +1,60 @@
+DL–184
+DOOR LOCK – SMART KEY SYSTEM
+OK
+3 CHECK AND REPLACE ELECTRICAL KEY OSCILLATOR (CHECK OPERATION OF
+OSCILLATOR)
+(a) Replace the door oscillator.
+(b) Check that the entry UNLOCK function operates
+normally.
+OK:
+Entry UNLOCK function operates normally.
+NG END (ELECTRICAL KEY OSCILLATOR IS
+DEFECTIVE)
+OK
+4 INSPECT CERTIFICATION ECU
+(a) Reconnect the ECU and the oscillator connectors.
+Certification ECU:
+(b) Connect the intelligent tester to the DLC3.
+(c) Turn the engine switch on (IG).
+(d) Measure the voltage according to the value(s) in the
+SEL2
+SEL1 table below.
+Standard voltage
+E58 Tester Connection
+Condition Specified Condition
+(Symbols)
+Move the key more than 5
+E58-5 (SEL1) - Body
+m (16.4 ft) away from the 10 to 14 V
+ground
+front door LH
+E58-5 (SEL1) - Body Bring it to the outside
+SEN2 SEN1 ground handle Below 1 V
+Move the key more than 5
+E58-6 (SEL2) - Body
+m (16.4 ft) away from the 10 to 14 V
+ground
+front door RH
+B137963E03
+E58-6 (SEL2) - Body Bring it to the outside
+Below 1 V
+ground handle
+Front door LH outside
+E58-22 (SEN1) - Body handle is not held (Bring
+10 to 14 V
+ground the electrical key to the
+outside handle)
+E58-22 (SEN1) - Body Front door LH outside
+Below 1 V
+DL ground handle is held
+Front door RH outside
+E58-23 (SEN2) - Body handle is not held (Bring
+10 to 14 V
+ground the electrical key to the
+outside handle)
+E58-23 (SEN2) - Body Front door RH outside
+Below 1 V
+ground handle is held
+NG REPLACE CERTIFICATION ECU
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

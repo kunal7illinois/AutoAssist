@@ -1,0 +1,44 @@
+ST–104
+2GR-FE STARTING – SMART KEY SYSTEM
+11 INSPECT ECM (ACCR VOLTAGE)
+(a) Reconnect the connector.
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Main Body ECU Tester Connection Condition Specified Condition
+(Symbols)
+E6 Brake pedal depressed, 0.1 to 0.8 V*1 → Output
+ACCR (E6-3) - GND2 shift lever P position,
+voltage at terminal AM1
+(IM-9) engine switch is
+or AM2 is -2 V or more.
+pushed once → on (IG)
+*1: Voltage is output only when the engine is cranking.
+ACCR HINT:
+If the result is not as specified, perform troubleshooting
+for DTC B2276 first (See page ST-51).
+B138007E01 NG GO TO DTC B2276
+OK
+12 INSPECT ECM (STR2 VOLTAGE)
+(a) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Main Body ECU
+Tester Connection
+Condition Specified Condition
+E9 (Symbols)
+Brake pedal depressed,
+Output voltage at
+STR2 (E9-6) - GND2 (IM- shift lever P or N
+terminal AM1 or AM2 is -
+9) position, engine switch
+3.5 V or more.*1
+on (ST)
+STR2 *1: Voltage is output for 0.3 seconds when the engine is
+cranking to start.
+NG REPLACE ECM
+B138004E02
+ST
+OK
+13 CHECK WIRE HARNESS (MAIN BODY ECU -ECM - ENGINE ROOM R/B)
+(a) Remove the ST CUT relay from the engine room R/B.

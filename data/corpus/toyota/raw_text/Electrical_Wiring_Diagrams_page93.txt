@@ -1,0 +1,38 @@
+Smart Key System
+System Outline
+∗ Steering lock
+Receiving signals from the power SW and the key, the certification ECU sends instruction for locking and unlocking the
+steering lock to the steering lock ECU (Built in the steering lock) in order to activate the motor. The steering lock ECU detects
+position of the lock bar and stops the motor at the specified position.
+: Parts Location
+Code See Page Code See Page Code See Page
+A3 48 (2GR–FE) E8 C 56 N11 60
+A4 48 (2GR–FE) E9 D 56 A 60
+NN1133
+A5 48 (2GR–FE) E14 56 B 60
+A19 59 E41 B 57 N25 60
+A23 48 (2GR–FE) E42 A 57 N28 60
+A25 C 48 (2GR–FE) E43 B 57 N29 60
+A26 A 48 (2GR–FE) E44 C 57 O6 60
+A40 A 59 E49 57 O10 60
+A41 A 59 E50 57 O18 60
+A42 B 59 E51 57 O19 60
+A43 49 (2GR–FE) E52 57 O21 60
+A48 49 (2GR–FE) E56 57 Q6 61
+A55 A 49 (2GR–FE) E58 A 57 Q9 61
+A60 B 49 (2GR–FE) E59 B 57 S5 61
+C1 A 50 (2GR–FE) F1 A 58 S8 61
+C3 A 50 (2GR–FE) F2 B 58 S9 61
+C50 51 (2GR–FE) F3 58 S14 61
+C55 B 51 (2GR–FE) H8 61 S15 61
+C56 51 (2GR–FE) I7 61 W1 61
+C57 51 (2GR–FE) J5 61 W2 61
+D1 C 51 (2GR–FE) K5 61 X1 61
+E6 A 56 A 60 X2 61
+NN66
+E7 B 56 B 60
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+92
+CAMRY (EM0250U)

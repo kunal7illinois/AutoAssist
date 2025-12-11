@@ -1,0 +1,37 @@
+ES–379
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK HARNESS AND CONNECTOR (A/F SENSOR - ECM)
+(a) Disconnect the C15 and C35 A/F sensor connectors.
+Wire Harness Side:
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+table below.
+A/F Sensor Connector
+Standard voltage
+Tester Connection Specified Condition
+C15 : Bank 1
++B (C15-2) - Body ground 9 to 14 V
+C35 : Bank 2 +B (C35-2) - Body ground 9 to 14 V
+(d) Turn the ignition switch off.
+(e) Disconnect the C55 ECM connector.
+C55 ECM Connector (f) Measure the resistance according to the value(s) in the ES
+A1A+ table below.
+Standard resistance (Check for open)
+Tester Connection Specified Condition
+HA1A (C15-1) - HA1A (C55-86) Below 1 Ω
+A1A+ (C15-3) - A1A+ (C55-93) Below 1 Ω
+A1A- (C15-4) - A1A- (C55-116) Below 1 Ω
+A1A- A2A- A2A+ HA2A HA1A HA2A (C35-1) - HA2A (C55-109) Below 1 Ω
+A2A+ (C35-3) - A2A+ (C55-120) Below 1 Ω
+A127715E20
+A2A- (C35-4) - A2A- (C55-119) Below 1 Ω
+Standard resistance (Check for short)
+Tester Connection Specified Condition
+HA1A (C15-1) or HA1A (C55-86) - Body ground 10 kΩ or higher
+A1A+ (C15-3) or A1A+ (C55-93) - Body ground 10 kΩ or higher
+A1A- (C15-4) or A1A- (C55-116) - Body ground 10 kΩ or higher
+HA2A (C35-1) or HA2A (C55-109) - Body ground 10 kΩ or higher
+A2A+ (C35-3) or A2A+ (C55-120) - Body ground 10 kΩ or higher
+A2A- (C35-4) or A2A- (C55-119) - Body ground 10 kΩ or higher
+(g) Reconnect the ECM connector.
+(h) Reconnect the A/F sensor connector.

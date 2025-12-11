@@ -1,0 +1,46 @@
+ES–213
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(b)Purge VSV stuck closed
+In operation D, the canister pressure sensor measures the EVAP system pressure. The pressure
+measurement for purge VSV monitor is begun when the purge VSV is turned ON (open) after the
+EVAP leak check. When the measured pressure indicates an increase of 0.3 kPa-g (2.25 mmHg-g)
+or more, the purge VSV is functioning normally. If the pressure does not increase, the ECM
+interprets this as the purge VSV being stuck closed. The ECM illuminates the MIL and sets the DTC
+(2 trip detection logic).
+EVAP Pressure when Purge VSV Stuck Closed:
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed ES
+Vent Valve ON
+OFF: Vent
+Leak Detection
+Pump
+ON
+EVAP Pressure
+OK
+Positive
+Negative
+Malfunction
+First Reference
+Pressure
+Sequence A B C D E
+10 seconds 60 Within 15 minutes 10 60
+Time
+seconds seconds seconds
+A106059E06
+2. PURGE FLOW MONITOR
+EVAP Pressure During Purge Flow Monitor:
+Purge VSV Open
+Vent Valve ON (Closed)
+Malfunction
+EVAP Pressure
+0.1 kPa-g (0.75 mmHg-g)
+OK
+0.5 kPa-g (3.75 mmHg-g)
+OK
+1st Monitor 2nd Monitor
+A112640E01
+The purge flow monitor consists of the two step monitors. The 1st monitor is conducted every time and
+the 2nd monitor is activated if necessary.

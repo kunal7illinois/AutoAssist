@@ -1,0 +1,56 @@
+TD–20
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/ Smart Key System)
+(b) Measure the voltage and resistance of the wire
+harness side connector.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
++B (E58-1) - E (E58-17) W - W-B Battery power supply Always 10 to 14 V
+E (E58-17) - Body ground W-B - Body ground Ground Always Below 1 Ω
+HSW (E59-24) - Body Engine hood courtesy Engine hood OPEN (OFF) 10 kΩ or higher → Below
+R - Body ground
+ground switch → CLOSED (ON) 1 Ω
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the E58 and E59 ECU connectors.
+(d) Measure the voltage of the connector.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Security indicator light up
+(It lights up only in arming
+preparation state or alarm
+IND (E58-2) - Body ground Y - Body ground Security indicator output 3 to 6 V
+sounding state. It flashes
+when immobiliser is
+operating.)
+Security horn is sounding
+SH (E59-20) - Body Pulse generation
+P - Body ground Security horn drive (Theft deterrent system is
+ground (0 V ← → 12 V)
+in alarm sounding state)
+If the result is not as specified, the ECU may have a
+malfunction.
+DIAGNOSIS SYSTEM
+CG SG CANH SIL 1. CHECK DLC3
+(a) The main body ECU uses ISO 15765-4 for
+communication protocol. The terminal arrangement
+of the DLC3 complies with SAE J1962 and matches
+the ISO 15765-4 format.
+CANL BAT
+TD
+H100769E16
+Symbols (Terminal No.) Terminal Description Condition Specified condition
+SIL (7) - SG (5) Bus "+" line During transmission Pulse generation
+CG (4) - Body ground Chassis ground Always Below 1 Ω
+SG (5) - Body ground Signal ground Always Below 1 Ω
+BAT (16) - Body ground Battery positive Always 10 to 14 V
+CANH (6) - CANL (14) CAN bus line Engine switch off* 54 to 67 Ω
+CANH (6) - CG (4) HIGH-level CAN bus line Engine switch off* 200 Ω or higher
+CANL (14) - CG (4) LOW-level CAN bus line Engine switch off* 200 Ω or higher
+CANH (6) - BAT (16) HIGH-level CAN bus line Engine switch off* 6 kΩ or higher
+CANL (14) - BAT (16) LOW-level CAN bus line Engine switch off* 6 kΩ or higher
+NOTICE:
+*: Before measuring the resistance, leave the
+vehicle as is for at least 1 minute and do not
+operate the engine switch, any other switches or
+the doors.
+If the result is not as specified, the DLC3 may have
+a malfunction. Repair or replace the harness and
+connector.

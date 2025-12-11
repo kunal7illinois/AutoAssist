@@ -1,0 +1,39 @@
+54B-296 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 18. Check the position light bulb (RH).
+(1) Remove the position light bulb (RH).
+(2) Check that the position light bulb (RH) is not broken.
+Q:Is the position light bulb (RH) in good condition?
+YES : Go to Step 19.
+NO : Replace the position light bulb (RH). Check that the
+position light (RH) illuminates normally.
+STEP 19. Measure at position light (RH) connector A-32 in
+order to check the ground circuit to the position light (RH).
+(1) Disconnect position light (RH) connector A-32, and
+CONNECTOR: A-32
+measure at the wiring harness side.
+DEVICE SIDE
+1 2 3
+AC106465AI
+(2) Measure the resistance value between terminal 2 and
+ground.
+• The measured value should be 2 ohm or less.
+Q:Does the measured resistance value correspond with
+CONNECTOR: A-32
+this range?
+(HARNESS SIDE)
+YES : Go to Step 22.
+3 2 1 NO : Go to Step 20.
+AC102030AD
+STEP 20. Check position light (RH) connector A-32 for
+damage.
+Q:Is position light (RH) connector A-32 in good condition?
+CONNECTOR: A-32
+YES : Go to Step 21.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness connector Inspection P.00E-2. Check
+that the position light (RH) illuminates normally.
+DEVICE SIDE
+1 2 3
+AC106465AI
+TSB Revision

@@ -1,0 +1,35 @@
+ES–337
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).
+1 CHECK FUSE (ETCS FUSE)
+(a) Remove the ETCS fuse from the engine room R/B.
+(b) Measure the resistance of the ETCS fuse.
+Engine Room
+Standard resistance:
+Relay Block
+Below 1 Ω
+ES
+(c) Reinstall the ETCS fuse.
+NG REPLACE ETCS FUSE
+ETCS
+A135037E01
+OK
+2 INSPECT ECM (+BM VOLTAGE)
+(a) Disconnect the A55 ECM connector.
+(b) Measure the voltage according to the value(s) in the
+Wire Harness Side:
+table below.
+Standard voltage
+Tester Connection Specified Condition
+A55 ECM Connector +BM (A55-3) - Body ground 9 to 14 V
+(c) Reconnect the ECM connector.
+OK CHECK FOR INTERMITTENT PROBLEMS
++BM
+A115671E46
+NG

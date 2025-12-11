@@ -1,0 +1,63 @@
+ST–21
+2GR-FE STARTING – SMART KEY SYSTEM
+(b) Measure the voltage and resistance of the wire
+harness side connector.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+AM1 (E7-6) - Body ground L - Body ground +B power supply Always 10 to 14 V
+AM2 (E6-1) - Body ground L - Body ground +B power supply Always 10 to 14 V
+SSW1 (E7-17) - Body ground L - Body ground Engine switch signal Engine switch pushed Below 1 Ω
+SSW1 (E7-17) - Body ground L - Body ground Engine switch signal Engine switch not pushed 10 kΩ or higher
+SSW2 (E7-16) - Body ground V - Body ground Engine switch signal Engine switch pushed Below 1 Ω
+SSW2 (E7-16) - Body ground V - Body ground Engine switch signal Engine switch not pushed 10 kΩ or higher
+GND3 (E8-1) - Body ground W-B - Body ground Ground Always Below 1 Ω
+LIN1 (IR-9) - Body ground O - Body ground LIN line Always 10 kΩ or higher
+BATB (IA-1) - Body ground B - Body ground +B Power supply Always 10 to 14 V
+GND1 (IF-10) - Body ground W-B - Body ground Ground Always Below 1 Ω
+GND2 (IM-9) - Body ground W-B - Body ground Ground Always Below 1 Ω
+CANN (E8-15) - Body ground W - Body ground CAN Line Always 10 kΩ or higher
+CANP (E8-16) - Body ground L - Body ground CAN Line Always 10 kΩ or higher
+CANH (E8-5) - Body ground R - Body ground CAN Line Always 10 kΩ or higher
+CANL (E8-6) - Body ground W - Body ground CAN Line Always 10 kΩ or higher
+ACC (IA-1) - Body ground B - Body ground ACC power supply Always 10 to 14 V
+IG (IA-1) - Body ground B - Body ground IG power supply Always 10 to 14 V
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the ECU connectors.
+(d) Measure the voltage of the connector.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Output voltage at terminal
+ACCD (E7-22) - GND3 (E8-1) W - W-B ACC signal Engine switch on (ACC) AM1 or AM2 is -2 V or
+more.
+ACCD (E7-22) - GND3 (E8-1) W - W-B ACC signal Engine switch off Below 1 V
+Output voltage at terminal
+IG1D (E7-3) - GND3 (E8-1) P - W-B IG1 signal Engine switch on (IG) AM1 or AM2 is -2 V or
+more.
+IG1D (E7-3) - GND3 (E8-1) P - W-B IG1 signal Engine switch on (ACC) Below 1 V
+Output voltage at terminal
+IG2D (E6-11) - GND3 (E8-1) LG - W-B IG2 signal Engine switch on (IG) AM1 or AM2 is -2 V or
+more.
+IG2D (E6-11) - GND3 (E8-1) LG - W-B IG2 signal Engine switch on (ACC) Below 1 V
+Output voltage at terminal
+STP (IL-7) - GND3 (E8-1) L - W-B Stop light signal Brake pedal depressed AM1 or AM2 is -2 V or
+more.
+STP (IL-7) - GND3 (E8-1) L - W-B Stop light signal Brake pedal released Below 1 V
+Steering lock motor
+SLR+ (E7-19) - GND3 (E8-1) BR - W-B Steering lock motor signal Below 1 V
+operating
+Output voltage at terminal
+Steering lock motor does
+SLR+ (E7-19) - GND3 (E8-1) BR - W-B Steering lock motor signal AM1 or AM2 is -2 V or
+not operate
+more. ST
+Steering lock actuator Pulse generation
+SLP (E7-18) - GND3 (E8-1) P - W-B Steering lock is locked
+position signal (See waveform 3)
+Steering lock actuator Pulse generation
+SLP (E7-18) - GND3 (E8-1) P - W-B Steering lock is released
+position signal (See waveform 3)
+Engine switch on (IG), Pulse generation
+SPD (E8-9) - GND3 (E8-1) V - W-B Vehicle speed signal
+rotate rear wheel slowly (See waveform 1)
+Pulse generation
+TACH (E8-8) - GND3 (E8-1) B - W-B Tachometer signal Engine running
+(See waveform 2)

@@ -1,0 +1,63 @@
+AX–45
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+FAIL-SAFE CHART
+1. Fail-safe
+This function minimizes the loss of operation when any
+abnormality occurs in a sensor or solenoid.
+Fail-safe Control List
+AX
+Malfunction Part Function
+Input Turbine Speed Sensor Shifting to only either the 1st or 3rd gears is allowed.
+• The counter gear speed is determined based on the signals from the skid control ECU (speed
+Counter Gear Speed Sensor sensor signals).
+• Shifting between 1st to 4th gears is allowed.
+ATF Temp. Sensor Shifting between 1st to 4th gears is allowed.
+ECT ECU When the vehicle is being driven in 6th gear, the transaxle is fixed in 6th gear. When being driven in
+Power Supply (Voltage is Low) any of the 1st to 5th gears, the transaxle is fixed in 5th gear.
+CAN communication Shifting to only either 1st or 3rd gears is allowed.
+Knock Sensor Shifting between 1st to 4th gears is allowed.
+The current to the failed solenoid valve is cut off and operating the other solenoid valves with
+Solenoid Valve SL1, SL2, SL3 and SL4 normal operation performs shift control. (Shift controls in fail-safe mode are described in the table
+on the next page. For details, refer to Fail-Safe Control Chart)
+Solenoid Valve Operation when Normal:
+Gear Position 1st 2nd 3rd 4th 5th 6th
+SL1 ON ON ON ON OFF OFF
+SL2 OFF OFF OFF ON ON ON
+Solenoid
+SL3 OFF ON OFF OFF OFF ON
+SL4 OFF OFF ON OFF ON OFF
+Fail-safe Control Chart:
+Gear Position in Normal Operation 1st 2nd 3rd 4th 5th 6th
+ON Malfunction (without Fail-safe
+1st 2nd 3rd 4th 5th 6th
+Control) *1
+OFF Malfunction (without Fail-safe
+1st to N 2nd to N 3rd to N 4th to N 5th 6th
+Control)
+SL1
+Fail-safe Control during OFF Malfunction Fixed in 3rd or 5th
+Fail-safe Control during OFF Malfunction
+(ATF Pressure Switches 1 and 2 Fixed in 3rd or 5th
+Malfunctions)
+ON Malfunction (without Fail-safe
+1st to 4th 2nd to 4th 3rd to 4th 4th 5th 6th
+Control) *1
+OFF Malfunction (without Fail-safe
+1st 2nd 3rd 4th to 1st 5th to N 6th to N
+Control)
+SL2
+Fail-safe Control during OFF malfunction 1st 2nd 3rd 3rd 3rd 3rd
+Fail-safe Control during OFF Malfunction
+(ATF Pressure Switches 1 and 2 Fixed in 2nd or 3rd
+Malfunctions)
+ON Malfunction (without Fail-safe
+1st to 2nd 2nd 3rd 4th 5th 6th
+Control) *1
+OFF Malfunction (without Fail-safe
+1st 2nd to 1st 3rd 4th 5th 6th to N
+Control)
+SL3
+Fail-safe Control during OFF malfunction 1st 3rd 3rd 4th 5th 5th
+Fail-safe Control during OFF Malfunction
+(ATF Pressure Switches 1 and 2 Fixed in 3rd
+Malfunctions)

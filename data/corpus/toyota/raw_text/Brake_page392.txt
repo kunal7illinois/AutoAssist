@@ -1,0 +1,21 @@
+BC–381
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+E10 F1
+DLC3 Combination Meter
+CANH CANH
+6 17
+CANL CANL
+14 18
+E8
+Main Body ECU
+CANH
+5
+BC
+CANL
+6
+C132000E01
+INSPECTION PROCEDURE
+Proceed to CAN communication system troubleshooting (See page CA-8).
+HINT:
+When a DTC indicating a CAN communication system malfunction is output, repair the CAN
+communication system before repairing each corresponding sensor.

@@ -1,0 +1,37 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Catalytic Converter System (R18A1) - Civic (Except Hybrid)
+troubleshooting information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+If some of the DTCs listed below are stored at the same
+(cid:1)
+time as DTC P0420, troubleshoot them first, then
+recheck for DTC P0420.
+P0137, P0138: Secondary H02S (Sensor 2) P0141:
+Secondary H02S (Sensor 2) heater
+Poor quality fuel may cause this DTC.
+(cid:1)
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Start the engine. Hold the engine speed at 3,000 rpm without load (in Park or
+neutral) until the radiator fan comes on, then let it idle.
+4. Test-drive under these conditions:
+Engine coolant temperature (ECT SENSOR 1) above 158 °F (70 °C)
+(cid:1)
+A/T in D position (M/T in 5th gear)
+(cid:1)
+Vehicle speed between 45-75 mph (72-120 km/h) for 5 minutes or more
+(cid:1)
+with cruise control set
+Maintain the vehicle speed at 55 mph (88 km/h) for 5 minutes or more
+(cid:1)
+with cruise control set
+5. Monitor the OBD STATUS for DTC P0420 in the DTCs MENU with the
+HDS.
+Does the screen indicate EXECUTING?
+YES -Go to step 6.
+NO -If the screen indicates OUT OF CONDITION, go to step 4 and recheck. If
+the screen indicates PASSED, intermittent failure, the system is OK at this
+time. If the screen indicates FAILED, go to step 8.
+6. Continue the test-drive until a result comes on.
+7. Monitor the OBD STATUS for DTC P0420 in the DTCs MENU with the

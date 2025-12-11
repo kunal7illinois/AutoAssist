@@ -1,0 +1,38 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-141
+SYMPTOM PROCEDURES
+Q:Is the wiring harness between power window relay
+CONNECTOR: C-95 CONNECTOR
+connector C-116 (terminal 4) and power window sub
+BLOCK (RH)
+switch connector E-05 (terminal 7) in good condition?
+YES : No action to be taken.
+NO : Repair the wiring harness. When the power window
+sub-switch is operated, the power window (RH)
+should open or close normally.
+C-95
+1 2 3 4 5 6 7 8 9
+101112131415161718192021
+2223 24252627282930 3132
+AC106666AC
+STEP 8. Measure at power window sub switch connector
+E-05 in order to check the ground circuit to the power
+window sub switch.
+(1) Disconnect power window sub-switch connector E-05, and
+CONNECTOR: E-05
+DOOR (RH) measure at the harness side.
+E-05
+HARNESS SIDE
+3 2 1
+8 7 6 5 4
+AC106601AD
+(2) Measure the resistance value between terminal 8 and
+ground.
+CONNECTOR: E-05 • The measured value should be 2 ohm or less.
+(HARNESS SIDE)
+Q:Does the measured resistance value correspond with
+3 2 1 this range?
+8 7 6 5 4
+YES : Go to Step 11.
+NO : Go to Step 9.
+AC106643AB
+TSB Revision

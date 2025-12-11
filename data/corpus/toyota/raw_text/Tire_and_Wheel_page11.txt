@@ -1,0 +1,48 @@
+TW–11
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+SYSTEM DESCRIPTION
+1. DESCRIPTION OF SYSTEM
+(a) A tire pressure warning valve and transmitter is
+equipped with a tire pressure sensor and a
+transmitter and is installed in a tire wheel assembly.
+The sensor measures the tire pressure. The
+measured value and transmitter ID are transmitted
+to the tire pressure warning antenna and receiver on
+the body as radio waves and then sent to the tire
+pressure warning ECU from the tire pressure
+warning antenna and receiver. If the transmitter ID
+has already been registered, the ECU compares the
+measured air pressure value with the standard
+value. When the value is less than the standard
+value registered in the tire pressure monitor ECU,
+the warning light on the combination meter comes
+TW
+on.
+• For the differences in the air pressure settings by
+the type of tires, a tire pressure warning reset
+switch has been adopted.
+Combination Meter Assembly Tire Pressure Warning Valve and Transmitter
+- Tire Pressure Warning Light
+Tire Pressure Warning
+Antenna and Receiver
+Tire Pressure
+Warning Reset
+Switch
+Tire Pressure
+Front
+Warning Valve and
+Transmitter (*)
+Tire Pressure Warning ECU
+Tire Pressure Warning Valve and Transmitter *: Ground Spare Tire
+E129451E02
+2. WHEN TIRE PRESSURE WARNING LIGHT IS LIT
+(a) When the tire pressure warning light does not go off,
+or when it comes on during driving, check tire
+pressure. If the tire pressure warning light comes on
+within several hours after adjusting the tire
+pressure, the tire may have a slow air leak.
+(b) Under the following conditions, the system may not
+function properly.
+• Facilities or devices that use similar radio
+frequencies are located in the vicinity of the
+vehicle.

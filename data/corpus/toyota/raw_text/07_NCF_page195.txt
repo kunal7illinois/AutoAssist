@@ -1,0 +1,57 @@
+CHASSIS - U250E AUTOMATIC TRANSAXLE CH-31
+8. Flex Lock-up Clutch Control
+(cid:3) In addition to the conventional lock-up timing control, flex lock-up clutch control is used.
+(cid:3) This flex lock-up clutch control regulates solenoid valve SL2 as an intermediate mode between the ON
+and OFF operations of the lock-up clutch.
+(cid:3) The flex lock-up clutch control operates during acceleration, in the 4th and 5th gear in the D range, and
+during deceleration, in the 4th and 5th gear in the D range, and in the 4th gear in the 4 range.
+(cid:3) During acceleration, the partition control of the power transmission between the lock-up clutch and torque
+converter greatly boosts the transmission efficiency in accordance with the driving conditions, improving
+the fuel economy.
+(cid:3) During deceleration, the lock-up clutch is made to operate. Therefore the fuel-cut area is expanded and
+fuel economy is improved.
+ECM
+Engine Speed
+Engine
+Signal
+Speed
+Input Turbine
+Speed Signal
+Linear
+Vehicle Speed Current
+Solenoid
+Signal
+Engine
+Time
+Throttle Position Sensor Speed
+Signal
+Input Turbine
+Speed Sensor
+Engine Coolant
+Temp. Sensor
+Lock-up
+Control Valve ATF Temp. Sensor
+Solenoid Valve SL2
+025CH25Y
+(cid:1) Flex Lock-up Operation (cid:2)
+Acceleration Deceleration
+Lock-up Operating Range Gear
+Flex Lock-up Flex Lock-up
+Large Range
+1st X X
+Flex Lock-up
+Operating Range 2nd X X
+Throttle
+Operating DD 3rd X X
+Acceleration
+Angle 4th (cid:6) (cid:6)
+5th (cid:6) (cid:6)
+High 1st X X
+Deceleration
+2nd X X
+Vehicle Speed 44
+3rd X X
+275TU89
+4th X (cid:6)
+Flex Lock-up Timing
+(cid:6): Operates X: Does not operate

@@ -1,0 +1,53 @@
+AC–71
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+(b) Disconnect the A/C amplifier connector.
+Air Conditioning Amplifier
+(c) Measure the resistance according to the value(s) in the
+Connector Wire Harness View:
+table below.
+Standard resistance
+E38 Tester Connection Condition Specified Condition
+A27-2 (PR) - E38-9
+Always Below 1 Ω
+(PRE)
+A27-3 (+) - E38-10 (S5-3) Always Below 1 Ω
+A27-1 (-) - E38-13 (SG-2) Always Below 1 Ω
+E38-9 (PRE) - Body
+Always 10 kΩ or higher
+ground
+E38-10 (S5-3) - Body
+Always 10 kΩ or higher
+ground
+SG-2 S5-3 PRE E38-13 (SG-2) - Body
+Always 10 kΩ or higher
+ground
+E124470E08
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+3 INSPECT PRESSURE SENSOR
+(a) Install the manifold gauge set (See page AC-120).
+(b) Connect the three 1.5 V dry cell batterie's positive (+)
+A/C Pressure Sensor Connector
+lead to terminal 3, and the negative (-) lead to terminal 1.
+Front View:
+B4 Then connect the voltmeter's positive (+) lead to terminal AC
+2, and the negative (-) lead to terminal 1. Measure the
+voltage.
+2 (PR)
+3 (+) OK:
+1 (-) The voltage changes according to refrigerant
+pressure, as shown in the graph.
+Result
+Result Proceed to
+NG A
+OK (When troubleshooting according to the DTC) B
+(V) Voltage OK (When troubleshooting according to the C
+PROBLEM SYMPTOMS TABLE)
+B REPLACE AIR CONDITIONING AMPLIFIER
+C PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+MPa
+(57) (463) (psi)
+Refrigerant Pressure
+E107326E05

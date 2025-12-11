@@ -1,0 +1,11 @@
+BC–397
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+Brake Warning Light Remains ON
+DESCRIPTION
+The skid control ECU is connected to the combination meter assembly via CAN communication.
+If any of the following is detected, the BRAKE warning light remains on:
+• The skid control ECU connector is disconnected from the skid control ECU.
+• The brake fluid level is insufficient.
+• The parking brake is applied.
+• EBD operation is not possible.
+BC

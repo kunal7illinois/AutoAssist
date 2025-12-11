@@ -1,0 +1,33 @@
+ES–316
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 INSPECT IGNITION SWITCH ASSEMBLY
+(a) Disconnect the E23 ignition switch connector.
+(b) Measure the resistance according to the value(s) in the
+Component Side:
+table below.
+Standard resistance
+Switch Condition Tester Connection Specified Condition
+LOCK 3-4, 5-7 10 kΩ or higher
+START 3-4, 5-7 Below 1 Ω
+E23
+(c) Reconnect the ignition switch connector.
+NG REPAIR OR REPLACE IGNITION SWITCH
+ES ASSEMBLY
+Ignition Switch
+A135034E01
+OK
+4 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DATA LIST / ALL / STARTER SIG.
+(d) Check the value displayed on the tester when the
+ignition switch is turned on (IG) and the ignition is
+started.
+OK
+Engine Switch Condition ON (IG) ENGINE START
+STARTER SIG OFF ON
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+SYSTEM IS OK

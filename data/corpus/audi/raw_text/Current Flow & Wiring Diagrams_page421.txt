@@ -1,0 +1,56 @@
+Audi TT No. 47 / 21
+Current Flow Diagram
+Onboard supply control unit, heated rear window button,
+high level brake light bulb, number plate left and right light
+E230 Heated rear window button
+J255 Climatronic control unit
+J519 Onboard supply control unit
+M25 High level brake light bulb
+T8e 8-pin connector, brown, in left side panel, to rear lid
+T16c 16-pin connector, brown, connector C, on Climatronic control
+unit
+T52a 52-pin connector, black, on onboard supply control unit
+X4 Number plate left light
+X5 Number plate right light
+218 Earth connection 1, in rear lid wiring harness
+662 Earth point, rear left side panel
+Connection 2 (convenience CAN bus, high), in main wiring
+B398
+harness
+J519 Connection 2 (convenience CAN bus, low), in main wiring
+B407
+harness
+T52a/45
+Q22 Connection 1, in rear lid wiring harness
+440022 113388
+✱✱ • CAN bus (data wire)
+1,5 0,5 0,5
+br ws gr/bl * Coupé
+** Roadster
+*** Operation for heated rear window via CAN bus
+T8e/2 T8e/6 T8e/1 J255✱✱✱
+0,5
+E230
+gr/bl
+T16c/12 T16c/13
+Q22
+• •
+0,5 0,5 0,5 0,35 0,35
+ws gr/bl gr/bl or/br or/gn
+1 1 1
+B407 B398
+M25 X4 X5
+2/31 2/31 2/31 ws = white
+sw = black
+ro = red
+✱✱ ✱
+1,5 0,5 1,5 0,5 0,5 0,35 0,35 br = brown
+br br br br br or/br or/gn gn = green
+218 bl = blue
+9955 8855 gr = grey
+662 li = purple
+ge = yellow
+267 268 269 270 271 272 273 274 275 276 277 278 279 280 or = orange
+8J0-047210409
+rs = pink
+Edition 04.2010

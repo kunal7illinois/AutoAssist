@@ -1,0 +1,35 @@
+54B-530 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Measure at hazard warning light switch connector
+C-10 in order to check the ground circuit to the hazard
+warning light switch.
+(1) Disconnect hazard warning light switch connector C-10,
+CONNECTOR: C-10
+and measure at the wiring harness side.
+DEVICE SIDE
+1 2 3 4
+AC106557AB
+(2) Measure the resistance value between terminal 2 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR C-10
+(HARNESS SIDE) Q:Does the measured resistance value correspond with
+this range?
+4 3 2 1 YES : Go to Step 5.
+NO : Go to Step 3.
+AC002151AD
+STEP 3. Check hazard warning light switch connector C-10
+for damage.
+Q:Is hazard warning light switch connector C-10 in good
+CONNECTOR: C-10
+condition?
+YES : Go to Step 4.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. If the
+equipment, which are described in "CIRCUIT
+OPERATION", work normally, the input signal from
+the hazard warning light switch should be normal.
+DEVICE SIDE
+1 2 3 4
+AC106557AB
+TSB Revision

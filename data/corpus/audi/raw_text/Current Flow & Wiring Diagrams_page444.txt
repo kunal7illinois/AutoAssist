@@ -1,0 +1,45 @@
+Audi TT No. 48 / 11
+Current Flow Diagram
+Onboard power supply control unit, fuses
+J519 Onboard supply control unit
+SD2 Fuse 2 on fuse holder D
+SF1 Fuse 1 on fuse holder F
+SF2 Fuse 2 on fuse holder F
+SF7 Fuse 7 on fuse holder F
+SF8 Fuse 8 on fuse holder F
+SF10 Fuse 10 on fuse holder F
+SF12 Fuse 12 on fuse holder F
+✱ T52a 52-pin connector, black, on onboard supply control unit
+SD2/110A
+T52b 52-pin connector, yellow, on onboard supply control unit
+T52c 52-pin connector, brown, on onboard supply control unit
+10,0 16,0
+ro ro B301 Positive connection 5 (30), in main wiring harness
+B302
+B301
+B302 Positive connection 6 (30), in main wiring harness
+4,0 4,0 6,0 * main fuse box, in luggage compartment, rear right, on the battery
+ro ro ro
+1 2 7 8 10 12
+J519
+SF1 SF2 SF7 SF8 SF10 SF12
+5A 40A 40A 20A 20A 5A
+1a 2a 7a 8a 10a 12a T52b/1 T52c T52a/1 T52a
+30 /42 30 /24
+30 30
+0,5 4,0 4,0 2,5 4,0 4,0 0,5
+ro/li ro/li ro/gn ro/ge ro/li ro/gn ro/li
+113399 113377 113388 112288 113300 112277
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+127 128 129 130 131 132 133 134 135 136 137 138 139 140 or = orange
+8J0-048110409
+rs = pink
+Edition 04.2010

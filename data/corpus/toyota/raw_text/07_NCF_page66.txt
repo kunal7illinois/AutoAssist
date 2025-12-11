@@ -1,0 +1,63 @@
+ENGINE - 2AZ-FE ENGINE EG-39
+5. Main Component of Engine Control System
+General
+The main components of the 2AZ-FE engine control system are as follows:
+Components Outline Quantity Function
+The ECM optimally controls the SFI, ESA
+and ISC to suit the operating conditions of the
+ECM 32-bit CPU 1
+engine in accordance with the signals
+provided by the sensors.
+This sensor detects the oxygen concentration
+OOxxyyggeenn SSeennssoorr CCuupp TTyyppee iinn tthhee eexxhhaauusstt eemmiissssiioonn bbyy mmeeaassuurriinngg tthhee
+11
+(Bank 1, Sensor 2) with Heater electromotive force which is generated in the
+sensor itself.
+As with the oxygen sensor, this sensor detects
+AAiirr FFuueell tthhee ooxxyyggeenn ccoonncceennttrraattiioonn iinn tthhee eexxhhaauusstt
+Planar Type
+Ratio Sensor 1 emission. However, it detects the oxygen
+wwiitthh HHeeaatteerr
+((BBankk 11, SSensor 11)) concenttrattiion iin tthhe exhhaustt emiissiion
+linearly.
+This sensor has a built-in hot-wire to directly
+Mass Air Flow Meter Hot-wire Type 1
+detect the intake air mass.
+CCrraannkksshhaafftt
+PPiickk-up CCoiill TType TThhiis sensor ddettectts tthhe engiine speedd andd
+Position Sensor 11
+((3366-22)) ppeerrffoorrmmss tthhee ccyylliinnddeerr iiddeennttiiffiiccaattiioonn.
+(Rotor Teeth)
+CCaammsshhaafftt
+PPiickk-up CCoiill TType
+Position Sensor 11 TThhiiss sseennssoorr ppeerrffoorrmmss tthhee ccyylliinnddeerr iiddeennttiiffiiccaattiioonn..
+((3366-22))
+(Rotor Teeth)
+This sensor detects the engine coolant
+EEnnggiinnee CCoooollaanntt
+TThheerrmmiissttoorr TTyyppee 11 tteemmppeerraattuurree bbyy mmeeaannss ooff aann iinntteerrnnaall
+Temperature Sensor
+thermistor.
+IInnttaakkee AAiirr TThhiiss sseennssoorr ddeetteeccttss tthhee iinnttaakkee aaiirr tteemmppeerraattuurree
+TThheerrmmiissttoorr TTyyppee 11
+Temperature Sensor by means of an internal thermistor.
+This sensor detects an occurrence of the
+BBuuiilltt--iinn
+engiine kknockkiing iinddiirectlly ffrom thhe viibbratiion
+Knock Sensor Piezoelectric Tyyppe 1
+ooff tthhee ccyylliinnddeerr bblloocckk ccaauusseedd bbyy tthhee ooccccuurrrreennccee
+(Flat Type)
+of engine knocking.
+TThhrroottttllee TThhiiss sseennssoorr ddeetteeccttss tthhee tthhrroottttllee vvaallvvee ooppeenniinngg
+NNoo-ccoonnttaacctt TTyyppee 11
+Position Sensor angle.
+(cid:1) This sensor detects the amount of pedal
+effort applied to the accelerator pedal.
+AAcccceelleerraattoorr PPeeddaall (cid:1)(cid:1) TThhee sseennssoorr sshhaappee iiss ddiiffffeerreenntt bbeettwweeeenn TTMMCC
+NNoo-ccoonnttaacctt TTyyppee 11
+Position Sensor made models and TMMK made models.
+However, those are the no-contact type
+sensors using Hall IC.
+The injector is an electromagnetically-operated
+Injector 12-Hole Type 4 nozzle which injects fuel in accordance with
+signals from the ECM.

@@ -1,0 +1,46 @@
+13A-458 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+INSPECTION PROCEDURE 8: Unstable Idle (Rough Idle, Hunting).
+. • Malfunction of air/fuel ratio control system.
+COMMENT
+• In cases such as the above, the cause is proba- • Malfunction of the IAC system.
+• Malfunction of the evaporative emission purge
+bly the air/fuel mixture or idle air control motor.
+solenoid system.
+Other systems affecting idle quality include the
+• Poor compression pressure.
+ignition system and compression.
+• Vacuum leak.
+• Malfunction of the EGR solenoid system.
+.
+TROUBLESHOOTING HINTS (The most likely
+causes for this case: )
+• Malfunction of the ignition system.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check if the battery terminal is disconnected.
+Q:Has the battery terminal been disconnected lately?
+YES : Start the engine and let it run at idle for approximate
+10 minutes after engine warm up. Then, if a
+malfunction occurs, go to Step 2.
+NO : Go to Step 2.
+STEP 2. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch is to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC is output?
+MB991502 YES : Refer to, Diagnostic Trouble Code Chart P.13A-22.
+AKX01177AB NO : Go to Step 3.
+STEP 3. Check the engine idling state.
+Q:Is it hunting remarkably?
+YES : Go to Step 4.
+NO : Go to Step 5.
+TSB Revision

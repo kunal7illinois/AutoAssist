@@ -1,0 +1,37 @@
+IN–36
+INTRODUCTION – REPAIR INSTRUCTION
+(3) The certification ECU sounds the buzzers of the
+wireless door lock buzzer and combination
+meter to inform the user that the mode has been
+switched.
+IN
+Combination Meter
+Wireless Door Lock Buzzer
+Mode Multi-information Display Buzzer
+Passenger, rear LH and
+Driver Door
+RH door “open” indication
+(Default) ON Sounds
+once
+OFF Displayed
+Sounds 3 times for 5 sec.
+All Doors
+(Customized) All door “open” indication
+ON Sounds
+once
+OFF Displayed
+Sounds 2 times for 5 sec.
+Multi-information dispaly
+B137954E01
+HINT:
+The function only changes the entry unlock
+mode of the smart key system. It does not switch
+the unlocking of the wireless door lock control.
+(c) Electrical Key Cancel
+The electrical key cancel operation disables the
+following functions:
+• Entry Ignition
+• Entry Unlock/Lock
+• Entry Luggage Compartment Open
+• Electrical Key Lock-in Prevention
+• Warning

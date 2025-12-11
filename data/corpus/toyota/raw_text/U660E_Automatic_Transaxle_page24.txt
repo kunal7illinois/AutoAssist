@@ -1,0 +1,62 @@
+AX–24
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+(o) Select "INPUT A/T CODE".
+A/T CODE REGIST (p) Press "ENTER".
+SET A/T CODE
+Select a way of
+setting the code.
+1. INPUT A/T CODE
+2. SAVED A/T CODE
+AX
+PRESS [ENTER]
+C133199
+(q) Register the compensation code.
+INPUT A/T CODE (1) Press "ENTER".
+code input method
+Press [(cid:2)(cid:2)] / [ ] to
+shift the cursor
+right/left.
+Press [(cid:2)(cid:2)] / [ ] to
+shift the cursor
+up/down.
+Input alphanumeric
+with 10 key and
+* key.
+PRESS [ENTER]
+C133200
+(2) Manually input the transaxle compensation
+A/T CODE REGIST code. The code is a 60-digit alphanumeric
+Input the code
+printed on the A/T. value imprinted on the QR label.
+(r) Check that the compensation code displayed on the
+screen is correct by comparing it with the 60-digit
+alphanumeric value on the QR label.
+NOTICE:
+If an incorrect transaxle compensation code is
+PRESS [ENTER] input into the TCM, shift shock will occur.
+HINT:
+C133201
+Input letters by operating the keys from 0 to 5 while
+pressing the * key.
+(s) Press "ENTER" to set the compensation code to the
+A/T CODE REGIST TCM.
+SET CODE
+HINT:
+• If the registration process fails, the compensation
+A/T CODE REGIST code may be incorrect. Check the compensation
+is complete.
+code again.
+• If the attempted compensation code is correct, a
+problem with the wire harness or a bad
+PRESS [EXIT] connection with the DLC3 may cause a
+registration failure. Check the wire harness and
+C133203
+the DLC3 connection. If no problem is found, the
+TCM may be malfunctioning. Check the TCM
+and repeat this operation.
+2. TRANSFER COMPENSATION CODE
+NOTICE:
+Transaxle compensation codes are 60-digit
+alphanumeric values imprinted on the QR label. If an
+incorrect transaxle compensation code is input into
+the TCM, shift shock may occur.

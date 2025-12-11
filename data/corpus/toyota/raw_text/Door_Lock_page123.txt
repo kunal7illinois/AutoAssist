@@ -1,0 +1,23 @@
+DL–117
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/o Smart Key System)
+DTC B1242 Wireless Door Lock Tuner Circuit Malfunction
+DESCRIPTION
+The door control receiver receives signals from the transmitter and sends these signals to the main body
+ECU.
+DTC No. DTC Detection Condition Trouble Area
+In diagnostic mode, an applicable RDA signal cannot • Wire harness
+B1242 be received within 1 second after an PRG signal has • Door control receiver
+been output from the main body ECU. • Main body ECU (Instrument panel J/B)
+WIRING DIAGRAM
+Instrument Panel J/B
+E6
+Main Body ECU
+O17
+Door Control Receiver
+1 2 12
+GND RDA RDA
+From 5 3 10
++B PRG PRG
+Battery
+B128409E01
+DL

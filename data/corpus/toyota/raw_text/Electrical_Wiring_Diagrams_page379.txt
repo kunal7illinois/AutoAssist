@@ -1,0 +1,56 @@
+Cooling Fan for 2GR–FE
+System Outline
+System Operation
+When the power SW is pushed to IG ON position (Power SW type), or when the ignition SW is turned to ON (Ignition SW
+type), the current from the ECU IG NO.1 fuse is sent to the coil side and the FAN MAIN relay is turned to ON. Then the
+current flows to TERMINAL 3 of the cooling fan ECU. At the same time, the conditions of the A/C SW, A/C pressure sensor,
+engine coolant temp. sensor and engine rotation are sent to the TERMINAL 2 as signals from engine control module. As a
+result of that, the cooling fan ECU continuously controls the rotation of the fan motor and keeps a balance between the
+cooling efficiency and silentness with the optimal fan rotation.
+: Parts Location
+Code See Page Code See Page Code See Page
+A25 C 48 (2GR–FE) A57 B 59 E40 B 57
+A26 A 48 (2GR–FE) A58 A 59 E41 B 57
+A27 48 (2GR–FE) A60 B 49 (2GR–FE) E42 A 57
+A40 A 59 C4 50 (2GR–FE) E43 B 57
+A41 A 59 C50 51 (2GR–FE) F1 A 58
+A42 B 59 C55 B 51 (2GR–FE) F2 B 58
+A54 49 (2GR–FE) C57 51 (2GR–FE) F16 58
+A55 A 49 (2GR–FE) E18 A 56 a1 B 59
+A56 A 59 E38 A 57
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+1A 25 Engine Room Main Wire and Engine Room J/B (Engine Compartment Left)
+3A
+3B
+3D
+3E
+3333366666 IIIIInnnnnssssstttttrrrrruuuuummmmmeeeeennnnnttttt PPPPPaaaaannnnneeeeelllll WWWWWiiiiirrrrreeeee aaaaannnnnddddd JJJJJ/////BBBBB NNNNNooooo.....33333 (((((BBBBBeeeeehhhhhiiiiinnnnnddddd ttttthhhhheeeee CCCCCooooommmmmbbbbbiiiiinnnnnaaaaatttttiiiiiooooonnnnn MMMMMeeeeettttteeeeerrrrr)))))
+3G
+3K
+3L
+3M
+3P
+3Q
+333666 IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll NNNooo...222 WWWiiirrreee aaannnddd JJJ///BBB NNNooo...333 (((BBBeeehhhiiinnnddd ttthhheee CCCooommmbbbiiinnnaaatttiiiooonnn MMMeeettteeerrr)))
+3S
+3U
+IC
+3300 EEnnggiinnee RRoooomm MMaaiinn WWiirree aanndd IInnssttrruummeenntt PPaanneell JJ//BB ((CCoowwll SSiiddee LLeefftt))
+ID
+IF 30
+IInnssttrruummeenntt PPaanneell WWiirree aanndd IInnssttrruummeenntt PPaanneell JJ//BB ((CCoowwll SSiiddee LLeefftt))
+IG 31
+: Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+AE5
+6666 EEnnggiinnee RRoooomm MMaaiinn WWiirree aanndd IInnssttrruummeenntt PPaanneell WWiirree ((IInnssttrruummeenntt PPaanneell RRiigghhtt))
+AE6
+CA3 64 (2GR–FE) Engine Wire and Engine Room Main Wire (Inside of the Engine Room R/B and Engine Room J/B)
+EA1 66 Instrument Panel Wire and Engine Room Main Wire (Left Kick Panel)
+FE3 66 Instrument Panel No.2 Wire and Instrument Panel Wire (Instrument Panel Center)
+378
+CAMRY (EM0250U)

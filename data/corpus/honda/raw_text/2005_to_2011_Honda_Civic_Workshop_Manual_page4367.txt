@@ -1,0 +1,18 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+Fig. 42: Identifying Brake Pedal Position Switch 4P Connector Terminal
+No. 1 And No. 2 To With Jumper Wire
+7. Turn the ignition switch ON (II).
+8. Check the BRAKE SWITCH in the VSA DATA LIST with the HDS.
+Does it indicate ON?
+YES -Check the brake pedal position switch adjustment (see BRAKE PEDAL
+AND BRAKE PEDAL POSITION SWITCH ADJUSTMENT ). If it is OK,
+replace the brake pedal position switch.
+NO -Go to step 9.
+9. Disconnect the jumper wire.
+10. Turn the ignition switch to LOCK (0).
+11. Short the SCS line with the HDS.
+12. Disconnect ECM connector A (44P).
+13. Check for continuity between brake pedal position switch 4P connector
+terminal No. 2 and ECM connector A (44P) terminal No. 40.

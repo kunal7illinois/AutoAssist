@@ -1,0 +1,39 @@
+ES–168
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+3 INSPECT ECM (VC VOLTAGE)
+(a) Disconnect the C5 throttle body connector.
+Wire Harness Side Front View:
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+C5 Throttle Body Connector table below.
+Standard voltage
+E2 VC
+Tester Connection Specified Condition
+ES 1 2 3 4 5 6
+VC (C5-5) - E2 (C5-3) 4.5 to 5.0 V
+(d) Reconnect the throttle body connector.
+A107895E07
+NG REPLACE ECM (See page ES-518)
+OK
+4 REPLACE THROTTLE BODY
+(a) Replace the throttle body assembly (See page ES-503).
+NEXT
+5 CHECK WHETHER DTC OUTPUT RECURS (THROTTLE POSITION SENSOR DTCS)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Clear the DTCs (See page ES-45).
+(d) Start the engine.
+(e) Allow the engine to idle for 15 seconds or more.
+(f) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DTC INFO / CURRENT CODES.
+(g) Read the DTCs.
+Result
+Display (DTC Output) Proceed to
+P0120, P0122, P0123, P0220, P0223, and/or P2135 A
+No output B
+B SYSTEM IS OK
+A
+REPLACE ECM (See page ES-518)

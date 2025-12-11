@@ -1,0 +1,38 @@
+: Parts Location
+Code See Page Code See Page Code See Page
+A33 A 42 D52 A 41 H23 45
+A51 39 E4 44 H25 45
+A58 39 F2 44 H30 45
+D7 40 G1 B 42 b1 45
+D10 40 G11 44 c1 45
+D18 40 G14 44 e1 45
+D27 A 40 G16 44 e2 45
+D30 A 40 G17 44 z6 B 42
+D43 41 H16 45 z7 C 42
+D46 A 41 H17 C 42
+D47 B 41 H22 45
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 24 Engine Room R/B (Engine Compartment Right)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+3A
+26 Instrument Panel Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+3B
+3C 26 Engine Room Main Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+: Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+AD2 47 Engine Room Main Wire and Instrument Panel Wire (Instrument Panel Reinforcement)
+DA3 47 Instrument Panel Wire and Engine Room Main Wire (Behind Glove Box)
+EH1 47 Front Door Wire LH and No. 2 Floor Wire (Cowl Side Panel LH)
+FG1 47 Front Door Wire RH and No. 1 Floor Wire (Cowl Side Panel RH)
+GD1 47 No. 1 Floor Wire and Instrument Panel Wire (Cowl Side Panel RH)
+Gc1 48 No. 1 Floor Wire and Seat Wire RH (Under Front Seat Cushion RH)
+Ge1 48 No. 1 Floor Wire and Occupant Detection Sensor Wire (Under Front Seat Cushion RH)
+Hb1 48 No. 2 Floor Wire and Seat Wire LH (Under Front Seat Cushion LH)
+: Ground Points
+Code See Page Ground Points Location
+D3 47 Instrument Panel Brace RH
+D4 47 Cowl Side Panel RH
+239
+BRZ (G4400BE)

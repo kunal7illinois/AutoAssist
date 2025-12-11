@@ -1,0 +1,41 @@
+EXTERIOR 51-21
+REAR WIPER AND WASHER
+SWITCH POSITION TESTER SPECIFIED
+CONNECTION CONDITION
+Windshield low-speed 23 − 30 Less than 2
+wiper switch ohm
+Windshield high-speed 21 − 23 Less than 2
+wiper switch ohm
+Windshield washer 22 − 23 Less than 2
+switch ohm
+2. Windshield intermittent wiper interval adjusting knob
+Measure the resistance value at terminal numbers 27 and
+28. The resistance value should rise smoothly from
+approximately 0 Ω ("FAST" position) to approximately 1 kΩ
+("SLOW" position).
+REAR WIPER AND WASHER
+GENERAL INFORMATION
+M1511000100138
+OPERATION Rear Washer Operation
+Rear Wiper Operation • If the rear wiper and washer switch is turned the
+• If the rear wiper and washer switch is turned to "WASHER" position with the ignition switch at
+the "INT" position with the ignition switch at "ACC" or "ON" position, the rear washer ON sig-
+"ACC" or "ON" position, the ETACS-ECU causes nal is sent to the ETACS-ECU, causing the rear
+the rear wiper to operate continuously two times, wiper signal to turn on after 0.9 seconds. After the
+then intermittently at eight-second intervals. rear washer switch signal turns off, the rear wiper
+• If the selector lever is moved to the "R" position signal turns off in three seconds.
+when the rear wiper and washer switch is turned • If the rear wiper and washer switch is turned to
+the "INT" position and the ignition switch at the "WASHER" position while the rear wiper is at
+"ACC" or "ON" position, park/neutral position intermittent mode, the rear washer works for that
+switch "R" turns ON. One second later, the period when the washer switch remains on. Then
+ETACS-ECU causes the rear wiper to operate the rear wipers return to the intermittent mode.
+two times continuously to ensure good rearward
+visibility. The ETACS-ECU then causes the rear
+wiper to again operate intermittently at eight-sec-
+ond intervals.
+EXTERIOR DIAGNOSIS
+M1511000700118
+The rear wiper and washer are controlled by ETACS-
+ECU. For troubleshooting, refer to GROUP 54B,
+SWS Diagnosis P.54B-17.
+TSB Revision

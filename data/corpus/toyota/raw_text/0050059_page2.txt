@@ -1,0 +1,35 @@
+ES–334
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Vehicle Speed
+Between
+(h)
+40 and 120 km/h
+(25 and 75 mph)
+Idling
+ES (g)
+Ignition Switch OFF
+Time
+Warming up 3 minutes
+A115372E02
+(a) Connect the intelligent tester to the DLC3.
+Tester
+Display
+G034992E01
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Clear DTCs (if set) (see page ES-35).
+(e) Select the following menu items: DIAGNOSIS / ENHANCED OBD II / MONITOR INFO / MONITOR
+RESULT.
+(f) Check that RES RATE B1S1 is INCOMP.
+(g) Start the engine and warm it up.
+(h) Drive the vehicle at a constant speed of between 40 km/h and 120 km/h (25 mph and 75 mph) for 3
+minutes.
+(i) Check the monitor result values on the intelligent tester by selecting the following menu items:
+DIAGNOSIS / ENHANCED OBD II / MONITOR INFO / TEST RESULT.
+(j) If the values indicated on the tester do not change, perform READINESS MONITOR DRIVE PATTERN
+for the A/F sensor and the heated oxygen sensor (see page ES-19).
+HINT:
+Completion of all A/F sensor monitors is required to change the value in TEST RESULT.
+(k) Note the value of the Monitor Result.
+(l) Select the following menu items: DIAGNOSIS / ENHANCED OBD II / DTC INFO / PENDING CODES.
+(m) Check if any DTCs (any pending DTCs) are set.

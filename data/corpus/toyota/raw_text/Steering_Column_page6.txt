@@ -1,0 +1,27 @@
+SR–4
+STEERING COLUMN – ELECTRIC STEERING LOCK
+ELECTRIC STEERING LOCK
+PRECAUTION
+1. PRECAUTIONS WHEN WORKING ON ELECTRIC
+STEERING LOCK
+(a) After replacing the steering lock actuator assembly
+(steering lock ECU), perform the key ID code
+registration.
+(b) If the steering lock actuator assembly is replaced,
+open and close the driver's door. The engine may
+not start until the driver's door is opened or closed.
+HINT:
+Opening and closing the driver's door causes the
+steering lock actuator assembly (steering lock ECU)
+to memorize the correct steering lock bar position.
+(c) If checking for DTCs of the smart access system
+with push-button start function or if checking the
+DATA LIST with the engine switch off, make sure
+that the driver's door is open.
+HINT:
+When the engine switch is off, the main body ECU
+may be in a sleep mode. If the main body ECU is in
+SR this sleep mode, it will not be possible for the
+intelligent tester to communicate with it. Opening
+and closing the driver's door will cause the ECU to
+exit the sleep mode.

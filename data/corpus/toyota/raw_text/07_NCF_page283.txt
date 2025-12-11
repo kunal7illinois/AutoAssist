@@ -1,0 +1,36 @@
+CHASSIS - BRAKE CH-119
+(cid:1) Pressure Increase Mode (TMC Made Models) (cid:2)
+Master Cylinder
+Brake Actuator
+Master Cylinder
+Pressure Sensor
+Port (A) Port (B)
+Port (E)
+Port (D)
+(1) (2)
+Port (C) Port (F)
+Pumps
+(3) Port (H) (4) (5) Port (I) (6)
+Port (G)
+Port (J)
+Pressure
+Regulator
+Valves
+(7) (8)
+Front Left Rear Right Rear Left Front Right
+Reservoirs
+Brake Assist Activated 259ESI08
+Brake Assist Brake Assist
+Item
+Not Activated Activated
+Master Cylinder Cut Solenoid Valve
+((11)), ((22)) OOFFFF//OOppeenn OONN**
+Port: (A), (B)
+((33)),, ((44)),, Pressure Holding Solenoid Valve
+OOFFFF//OOppeenn (cid:1)(cid:1)
+(5), (6) Port: (C), (D), (E), (F)
+((7)),, ((8)),, Pressure Reduction Solenoid Valve
+OOFFFF//CClloossee (cid:1)(cid:1)
+(9), (10) Port: (G), (H), (I), (J)
+*: The solenoid valve controls the hydraulic pressure between “open” and “close” according to the
+operating condition by adjusting continually.

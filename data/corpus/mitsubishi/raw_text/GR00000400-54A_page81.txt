@@ -1,0 +1,31 @@
+CHASSIS ELECTRICAL 54A-81
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 8. Check the wiring harness from combination meter
+connector C-42 (terminal 33) to ECM connector C-56
+(terminal 58) <2.4L M/T> or PCM connector C-54 (terminal
+43) <2.4L A/T>, distributor assembly connector B-22
+(terminal 2) <3.0L engine> and automatic compressor
+controller connector C-13 (terminal 22) <3.0L engine>.
+CONNECTORS <2.4L ENGINE>: C-54, C-56
+C-54<A/T>
+C-56 <M/T>
+DEVICE SIDE
+C-54
+41 4243 444546
+47 48495051525354555657
+58 59 60616263 646566
+C-56
+515253545556
+575859606162
+AC106563AO
+CONNECTOR<3.0L ENGINE WITH OUT
+VARIABLE INDUCTION SYSTEM>: B-22
+DEVICE SIDE
+1 2 3 4 5 6 7
+AC106469AJ
+CONNECTOR: C-13
+DEVICE SIDE
+21222324
+25262728
+AC106552AB
+TSB Revision

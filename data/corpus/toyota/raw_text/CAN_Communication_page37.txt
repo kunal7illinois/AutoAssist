@@ -1,0 +1,45 @@
+CA–37
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+3 CHECK SHORT TO GND IN CAN MS BUS WIRE
+(a) Turn the ignition switch off.
+Certification ECU Connector:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E58
+E58-27 (CANH) - E58-17
+Ignition switch off 200 Ω or higher
+(E)
+E58-28 (CANL) - E58-17
+Ignition switch off 200 Ω or higher
+(E)
+NG Go to step 7
+E CANL CANH
+B139430E07
+CA
+OK
+4 CHECK CERTIFICATION ECU (POWER SOURCE CIRCUIT)
+(a) Turn the ignition switch off.
+Certification ECU Connector
+(b) Disconnect the E58 certification ECU connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
++B E58-17 (E) - Body
+E58 ground Always Below 1 Ω
+(d) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+E ACC IG Tester Connection Condition Specified Condition
+E58-1 (B) - Body ground Always 10 to 14 V
+E58-18 (IG) - Body
+C136713E06 Ignition switch on (IG) 10 to 14 V
+ground
+E58-19 (ACC) - Body Ignition switch on
+10 to 14 V
+ground (ACC)
+OK REPLACE CERTIFICATION ECU
+NG
+REPAIR OR REPLACE HARNESS OR CONNECTOR (FUSES - ECU, ECU - BODY GROUND)

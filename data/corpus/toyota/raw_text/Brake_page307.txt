@@ -1,0 +1,56 @@
+BC–296
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+(g) Turn the engine switch on (IG) to cancel the Test
+Mode.
+HINT:
+• If the ignition switch is not turned on (IG) after the
+SST is removed from the DLC3, the previous
+Test Mode will continue.
+• If the ignition switch is turned on (IG) with
+terminals TS and CG shorted, the previous Test
+Mode will continue.
+4. DTC OF TEST MODE (SIGNAL CHECK) FUNCTION
+(Procedure "A")
+DTC of Test Mode (Signal Check):
+Code No. Diagnosis Trouble Area
+• Front speed sensor RH
+C1271/71 Low output signal of front speed sensor RH • Sensor installation
+• Speed sensor rotor
+• Front speed sensor LH
+C1272/72 Low output signal of front speed sensor LH • Sensor installation
+• Speed sensor rotor
+BC
+• Rear speed sensor RH
+C1273/73 Low output signal of rear speed sensor RH • Sensor installation
+• Speed sensor rotor
+• Rear speed sensor LH
+C1274/74 Low output signal of rear speed sensor LH • Sensor installation
+• Speed sensor rotor
+• Front speed sensor RH
+Abnormal change in output signal of front speed sensor
+C1275/75 • Sensor installation
+RH
+• Sensor rotor
+• Front speed sensor LH
+Abnormal change in output signal of front speed sensor
+C1276/76 • Sensor installation
+LH
+• Sensor rotor
+• Rear speed sensor RH
+Abnormal change in output signal of rear speed sensor
+C1277/77 • Sensor installation
+RH
+• Sensor rotor
+• Rear speed sensor LH
+Abnormal change in output signal of rear speed sensor
+C1278/78 • Sensor installation
+LH
+• Sensor rotor
+HINT:
+The codes in this table are output only in Test Mode
+(signal check).
+5. ENGINE VARIANT LEARNING
+• Engine variant learning is automatically performed
+immediately after the Test Mode is entered.
+• The ABS, VSC, BRAKE, and SLIP indicators come on
+for 3 seconds after learning.

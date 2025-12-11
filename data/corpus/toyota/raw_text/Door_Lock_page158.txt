@@ -1,0 +1,34 @@
+DL–148
+DOOR LOCK – SMART KEY SYSTEM
+• Driver door unlock mode:
+When the driver door's touch sensor is touched,
+only the driver door unlocks. When another touch
+sensor is touched, all doors unlock.
+• All door unlock mode:
+When the touch sensor is touched, all doors
+unlock.
+(b) The certification ECU receives this signal from the
+entry door control receiver and changes the smart
+key system to the entry unlock mode.
+(c) The certification ECU sounds the buzzers of the
+wireless door lock buzzer and combination meter to
+inform the user that the mode has been switched.
+Combination Meter
+Wireless Door Lock Buzzer
+Mode Multi-information Display Buzzer
+Passenger, rear LH and
+Driver Door
+RH door “open” indication
+(Default) ON Sounds
+once
+OFF Displayed
+Sounds 3 times for 5 sec.
+All Doors
+(Customized) All door “open” indication
+ON Sounds
+once
+OFF Displayed
+Sounds 2 times for 5 sec.
+Multi-information dispaly
+DL
+B137954E01

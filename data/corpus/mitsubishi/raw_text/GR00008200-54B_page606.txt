@@ -1,0 +1,27 @@
+54B-606 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CIRCUIT OPERATION .
+TROUBLESHOOTING HINTS
+The ETACS-ECU controls the windshield intermittent • Malfunction of the powertrain control module
+wiper interval according to the vehicle speed signal, • Malfunction of the ETACS-ECU
+which the powertrain control module sends. • Damaged harness wipes or connectors
+.
+TECHNICAL DESCRIPTION (COMMENT)
+If the signal is not normal, the wiper interval, which is
+described in "CIRCUIT OPERATION", will not be
+changed correctly. If the signal is not normal, the
+powertrain control module or the ETACS-ECU may
+be defective.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check that the combination meter (speedometer)
+works normally.
+Q:Does the combination meter (speedometer) work
+normally?
+YES : Go to Step 2.
+NO : Refer to Inspection Procedure O-8 "ETACS-ECU
+does not receive a signal from the windshield mist
+switch P.54B-514."
+TSB Revision

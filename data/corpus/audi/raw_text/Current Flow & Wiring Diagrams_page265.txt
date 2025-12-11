@@ -1,0 +1,58 @@
+Audi TT No. 32 / 16
+Current Flow Diagram
+Roadster, navigation system with CD drive control unit,
+aerial amplifier, navigation system aerial, satellite aerial
+J401 Navigation system with CD drive control unit
+R11 Aerial
+R24 Aerial amplifier
+R50 Navigation system aerial
+R93 Radio aerial 2
+R111 Aerial amplifier 2
+R170 Satellite aerial
+R111 ✱✱ R50 ✱✱✱ R170
+T2an 2-pin connector, green, left in rear lid
+* rod aerial rear left
+** rear right
+A1 A2 C1 C2 B1 B2 *** on centre windscreen
+# models with CD changer
+## models with iPod holder
+A1 A2
+0,5 0,5 0,5 0,5
+sw sw sw sw
+R93
+0,14 0,4 0,4 0,4
+119977
+J401
+220011 220033 220066
+F3 F4 F1 F2 G1 G2
+0,5 0,5 0,5
+sw sw sw
+0,4 0,4 0,4
+T2an T2an
+✱ /1 /2
+220011 220033 220066
+R11
+s
+0
+w
+,5
+119977
+0,14
+0,4
+0,5 115522 #
+sw 118800 ##
+A1 A2
+ws = white
+R24
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+197 198 199 200 201 202 203 204 205 206 207 208 209 210 or = orange
+8J0-032160407
+rs = pink
+Edition 04.2009

@@ -1,0 +1,30 @@
+13B-310 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR: B-35 <WITH VARIABLE CONNECTOR : C-62<M/T>, C-59<A/T>
+INDUCTION SYSTEM>
+PCM<A/T> ECM<M/T>
+C-59 C-62
+AK103513AB AK000225AL
+. • Engine speed is higher than 3,000 r/min.
+CIRCUIT OPERATION
+• The knock sensor sends a signal voltage to the Judgment Criteria
+ECM (terminal 91) <M/T> or PCM (terminal 90) • Knock sensor output voltage (knock sensor peak
+<A/T>. voltage in each 1/3 turn of the crankshaft) has not
+changed more than 0.06 volt in the last consecu-
+. TECHNICAL DESCRIPTION tive 200 periods.
+• The knock sensor converts the vibration of the
+.
+cylinder block into a voltage and outputs it. If TROUBLESHOOTING HINTS (The most likely
+there is a malfunction of the knock sensor, the causes for this code to be set are: )
+voltage output will not change. • Knock sensor failed.
+• The ECM <M/T> or PCM <A/T> checks whether • Open or shorted knock sensor circuit, or loose
+the voltage output changes. connector.
+• ECM <M/T> failed.
+. DTC SET CONDITIONS • PCM <A/T> failed.
+Check Conditions
+• 2 seconds or more have passed since the start-
+ing sequence was completed.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

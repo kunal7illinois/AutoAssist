@@ -1,0 +1,41 @@
+AV–138
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+OK
+5 CHECK HARNESS AND CONNECTOR ("BLUETOOTH" HANDSFREE MODULE -
+COMPONENT SHOWN BY SUB-CODE)
+HINT:
+• Start the check from the circuit that is near the component
+shown by the sub-code first.
+• For details of the connectors, refer to the "TERMINALS OF
+ECU" (See page AV-15).
+(a) Referring to the AVC-LAN wiring diagram below, check
+the AVC-LAN circuit between the "Bluetooth" handsfree
+module and the component shown by the sub-code.
+(1) Disconnect all connectors between the "Bluetooth"
+handsfree module and the component shown by the
+sub-code.
+(2) Check for an open or short in the AVC-LAN circuit
+between the "Bluetooth" handsfree module and the
+component shown by the sub-code.
+OK:
+There is no open or short circuit.
+AVC-LAN WIRING DIAGRAM
+Premium Model:
+5 8
+ATX+ F26 F19 TX+
+Stereo Component
+Radio Receiver
+Amplifier (*2)
+(*1)
+15 7
+ATX- F26 F19 TX-
+*1: Master Unit
+*2: Slave Unit
+E111831E15
+AV
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+6 REPLACE COMPONENT SHOWN BY SUB-CODE
+(a) Replace the component shown by the sub-code with a
+normal one and check if the same problem occurs again.

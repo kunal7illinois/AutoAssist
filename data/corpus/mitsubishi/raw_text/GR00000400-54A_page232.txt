@@ -1,0 +1,45 @@
+54A-232 CHASSIS ELECTRICAL
+REMOTE CONTROLLED RADIO SWITCH
+INSPECTION PROCEDURE 2: The system does not accept the remote controlled radio switch (RH)
+only.
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+Refer to Inspection Procedure 1 P.54A-227.
+Refer to Inspection Procedure 1 P.54A-227.
+.
+. TROUBLESHOOTING HINTS
+Refer to Inspection Procedure 1 P.54A-227.
+.
+DIAGNOSIS
+STEP 1. Check the remote controlled radio switch (RH).
+(1) Remove the airbag module (Refer to GROUP 52B, Air Bag
+Module and Clock Spring P.52B-144).
+(2) Check the continuity by operating the remote controlled
+radio switch (RH) in each position.
+SWITCH POSITION MEASUREMENT VALUE
+No push 24 kΩ
+1 2 Upper 5.3 kΩ
+Center 0 Ω
+Lower 9.2 kΩ
+Q:Is the remote controlled radio switch normal?
+AC106744AB
+YES : Go to Step 2.
+NO : Replace the remote controlled radio switch (RH).
+STEP 2. Check the switch (RH) connector C-97 and clock
+spring connector C-96 for damage.
+Q: Is remote controlled radio switch (RH) connector C-97
+CONNECTORS: C-96, C-97
+and clock spring connector C-96 in good condition?
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. The remote controlled
+DEVICE SIDE
+radio switch (RH) should work normally.
+C-97
+1 2
+C-96
+C-96
+C-97
+1 2 3 4 5
+AC106475AG
+TSB Revision

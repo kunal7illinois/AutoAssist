@@ -1,0 +1,58 @@
+COOLING SYSTEM 14-13
+ENGINE COOLING DIAGNOSIS
+STEP 11. Check the fan control module at ECM connector
+C-49 (terminal number 21) <2.4L-M/T>, C-51 (terminal
+number 18) <3.0L-M/T> or PCM connector C-50 (terminal
+number 18) <2.4L-A/T>, C-52 (terminal number 18) <3.0L-A/
+T>.
+(1) Disconnect ECM connector C-49 (terminal number 21)
+<2.4L-M/T>
+CONNECTOR C-49 <2.4L-M/T>, C-51 (terminal number 18) <3.0L-M/T> or
+PCM connector C-50 (terminal number 18) <2.4L-A/T>, C-
+52 (terminal number 18) <3.0L-A/T>.
+(2) Pull out pin 21 <2.4L-M/T> or 18 <2.4L-A/T, 3.0L> to
+<2.4L-A/T, 3.0L>
+disconnect it.
+CONNECTOR C-50, C-51, C-52
+(3) Reconnect ECM connector C-49 (terminal number 21)
+<2.4L-M/T>, C-51 (terminal number 18) <3.0L-M/T> or
+PCM connector C-50 (terminal number 18) <2.4L-A/T>, C-
+52 (terminal number 18) <3.0L-A/T> with pin 21 <2.4L-M/T>
+AC000257AC
+or 18 <2.4L-A/T, 3.0L> still removed.
+(4) Turn the ignition switch to "ON" position.
+Q:Do the radiator fan motor and condenser fan motor
+operate?
+YES : Replace the ECM <M/T> or PCM <A/T>. Then go to
+Step 12.
+NO : Replace the radiator fan motor and fan control module
+assembly. Then go to Step 12 .
+STEP 12. Check the symptoms.
+Q:Do the radiator fan and condenser fan operate
+correctly?
+YES : This diagnosis is complete.
+NO : Return to Step 1.
+INSPECTION PROCEDURE 4: Radiator Fan and Condenser Fan do not Change Speed or Stop
+NOTE: if the engine coolant temperature reaches 110°C (230°F) or higher, the radiator fan control runs the
+radiator fan for up to 5 minutes even after the ignition switch is turned to the "LOCK" (OFF) position [the fan
+stops its rotation when the engine coolant temperature decreases to 110C (230F) or lower.]
+.Radiator Fan and Condenser Fan Drive Circuit . TECHNICAL DESCRIPTION
+Refer to P.14-6. The fan controller has variable control of the radiator
+fan motor and the condenser fan motor speeds using
+.CIRCUIT OPERATION signals transmitted from the ECM <M/T> or PCM <A/
+• The fan controller is powered from fusible link T>.
+number 2.
+• The ECM <M/T> or PCM <A/T> judges the .
+TROUBLESHOOTING HINTS
+required revolution speed of radiator fan motor
+• Malfunction of fan control relay
+and condenser fan motor using the input signals
+• Malfunction of fan controller
+transmitted from A/C switch, automatic compres-
+• Malfunction of ECM <M/T> or PCM <A/T>
+sor controller, vehicle speed sensor and engine
+coolant temperature sensor. The ECM <M/T> or
+PCM <A/T> activates the fan controller to drive
+the radiator fan motor and condenser fan motor.
+.
+TSB Revision

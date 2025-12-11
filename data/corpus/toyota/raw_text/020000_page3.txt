@@ -1,0 +1,51 @@
+IG–7
+2AZ-FE IGNITION – IGNITION SYSTEM
+Result
+Result Proceed to
+NG Replace crankshaft position sensor
+OK Go to next step
+(6) Check the IGT signal from the ECM.
+Result
+Result Proceed to
+NG Check ECM (see page ES-183)
+OK Repair wiring between ignition coil
+and ECM
+2. CHECK SPARK PLUG
+(a) Check the electrode.
+(1) Using a megohmmeter, measure the insulation
+resistance.
+Standard insulation resistance:
+10 MΩ or more
+HINT:
+• If a megohmmeter is not available, perform
+the following simple inspection instead.
+Ground
+• If the result is 10 MΩ or less, clean the plug
+I039522E10
+and measure the resistance again.
+(b) Alternative inspection method:
+(1) Quickly accelerate the engine to 4,000 rpm 5
+times.
+(2) Remove the spark plug.
+(3) Visually check the spark plug.
+If the electrode is dry, the spark plug is
+functioning properly. If the electrode is damp,
+proceed to the next step.
+(c) Check the spark plug for any damage on its threads
+and insulator.
+A126881
+If there is damage, replace the spark plug.
+Recommended spark plug
+Manufacturer Spark plug type
+DENSO SK20R11
+NGK IFR6A11
+IG
+(d) Check the spark plug electrode gap.
+Maximum electrode gap for used spark plug:
+1.3 mm (0.051 in.)
+If the gap is greater than the maximum, replace the
+spark plug.
+Electrode gap for new spark plug:
+1.0 to 1.1 mm (0.039 to 0.043 in.)
+1.0 to 1.1 mm
+A126880E01

@@ -1,0 +1,41 @@
+54B-536 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 3. Check driver’s seat belt switch connector D-13 for
+damage.
+Q:Is the driver’s seat belt switch connector D-13 in good
+CONNECTOR <ECLIPSE>: D-13
+condition?
+YES : Go to Step 4.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. If the
+functions, which are described in "CIRCUIT
+OPERATION", work normally, the input signal from
+DEVICE SIDE the driver’s seat belt switch should be normal.
+D-13
+1 2
+AC106483AF
+CONNECTOR <ECLIPSE SPYDER>: D-13
+DEVICE SIDE
+D-13
+1 2
+AC106485AF
+STEP 4. Check the wiring harness between driver’s seat
+belt switch connector D-13 (terminal 2) and ground.
+Q:Is the wiring harness between driver’s seat belt switch
+CONNECTOR <ECLIPSE>: D-13
+connector D-13 (terminal 2) and ground in good
+condition?
+YES : No action to be taken.
+NO : Repair the wiring harness. If the functions, which are
+described in "CIRCUIT OPERATION", work normally,
+the input signal from the driver’s seat belt switch
+DEVICE SIDE should be normal.
+D-13
+1 2
+AC106483AF
+CONNECTOR <ECLIPSE SPYDER>: D-13
+DEVICE SIDE
+D-13
+1 2
+AC106485AF
+TSB Revision

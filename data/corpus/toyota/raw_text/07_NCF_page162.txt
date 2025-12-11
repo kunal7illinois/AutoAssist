@@ -1,0 +1,14 @@
+ENGINE - 2GR-FE ENGINE EG-135
+12. Diagnosis
+(cid:1) When the ECM detects a malfunction, the ECM makes a diagnosis and memorizes the failed section.
+Furthermore, the MIL (Malfunction Indicator Lamp) in the combination meter illuminates or blinks to
+inform the driver.
+(cid:1) The ECM will also store the DTC (Diagnostic Trouble Code) of the malfunctions. The DTC can be
+accessed by using the hand-held tester.
+(cid:1) For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).
+Service Tip
+(cid:1) The ECM of the ’07 Camry uses the CAN protocol for diagnostic communication. Therefore, a
+hand-held tester and a dedicated adapter [CAN VIM (Vehicle Interface Module)] are required for
+accessing diagnostic data. For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).
+(cid:1) To clear the DTC that is stored in the ECM, use a hand-held tester, disconnect the battery terminal
+or remove the EFI No.1 fuse and ETCS fuse for 1 minute or longer.

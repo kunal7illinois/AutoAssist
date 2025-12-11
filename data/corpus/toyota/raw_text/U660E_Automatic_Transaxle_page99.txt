@@ -1,0 +1,16 @@
+AX–99
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+WIRING DIAGRAM
+TCM
+AX
++B
+SL2+
+Shift Solenoid Valve SL2
+SL2-
+Transaxle Assembly
+C133261E03
+INSPECTION PROCEDURE
+HINT:
+The shift solenoid valve SL2 is turned on or off automatically when the shift lever is in the D position:
+TCM command gearshift 1st 2nd 3rd 4th 5th 6th
+Shift solenoid valve SL2 OFF OFF OFF ON ON ON

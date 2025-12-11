@@ -1,0 +1,40 @@
+BC–269
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Result
+Condition Proceed to
+Buzzer does not sound or sounds constantly A
+Buzzer sounds/stops B
+HINT:
+If troubleshooting has been carried out according to the
+Problem Symptoms Table, refer back to the table and
+proceed to the next step (See page BC-134).
+B END
+A
+2 INSPECT SKID CONTROL BUZZER (POWER SOURCE TERMINAL)
+(a) Turn the ignition switch off.
+Skid Control Buzzer Harness Side
+(b) Disconnect the skid control buzzer connector.
+Connector Front View:
+BC
+(c) Turn the ignition switch on (IG).
+(d) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+E13
+Tester Connection Condition Specified Condition
+E13-2 - Body ground Ignition switch on (IG) 10 to 14 V
+C107604E17
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (POWER SOURCE CIRCUIT)
+OK
+3 INSPECT SKID CONTROL BUZZER
+(a) Apply battery negative voltage to terminal 1, and battery
+Skid Control Buzzer: positive voltage to terminal 2 of the skid control buzzer,
+and then check that the buzzer sounds.
+OK:
+The skid control buzzer sounds.
+NG REPLACE SKID CONTROL BUZZER
+(+) (-)
+1 2
+C125130E01
+OK

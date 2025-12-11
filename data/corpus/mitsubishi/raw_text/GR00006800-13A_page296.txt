@@ -1,0 +1,38 @@
+13A-296 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 7. Check connector C-56 at ECM <M/T> or connector
+C-50 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-56<M/T>,C-50<A/T>
+YES : Go to Step 8.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 12.
+OR
+PCM<A/T>
+C-49
+C-56
+AK000280BG
+STEP 8. Check for open circuit and short circuit to ground
+between evaporative emission ventilation solenoid
+connector D-10 (terminal 1) and ECM connector C-56
+(terminal 55) <M/T> or PCM connector C-50 (terminal 35)
+<A/T>.
+NOTE: Check harness after checking intermediate connectors
+CONNECTOR:D-10
+D-16, C-90 and C-28. If intermediate connectors are damaged,
+EVAPORATIVE EMISSION
+VENTILATION SOLENOID repair or replace them. Refer to GROUP 00E, Harness Con-
+nector Inspection P.00E-2. Then go to Step 12.
+Q:Is the harness wire in good condition?
+YES : Replace the ECM or PCM. Then go to Step 12.
+NO : Repair it. Then go to Step 12.
+ACX02516AJ
+CONNECTORS:C-56<M/T>,C-50<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-49
+C-56
+AK000280BG
+TSB Revision

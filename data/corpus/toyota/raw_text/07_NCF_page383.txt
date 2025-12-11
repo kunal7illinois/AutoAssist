@@ -1,0 +1,24 @@
+BODY ELECTRICAL - AIR CONDITIONING BE-49
+Servo Motor
+The pulse pattern type servo motor consists of a printed circuit board and servo motor. The printed circuit
+board has three contact points, and transmits to the A/C ECU two ON-OFF signals for the difference of the
+pulse phase. The smart connector detects the damper position and movement direction with this signal.
+Contact Points Conduction Portion Printed-circuit Board
+Contact Points
+A
+GND
+B
+A
+B
+GND
+Hi
+A
+Lo
+Hi
+B
+Lo
+1 Rotation
+Conduction
+Portion
+Printed-circuit Board
+285BE46

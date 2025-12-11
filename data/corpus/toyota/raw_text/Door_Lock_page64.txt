@@ -1,0 +1,29 @@
+DL–64
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+PASSENGER SIDE:
+Main Body ECU
+H5
+Door Control Switch Instrument Panel J/B
+LOCK 3
+4 9
+IJ L1
+3
+4
+2 12
+IJ UL1
+UNLOCK
+B109774E08
+INSPECTION PROCEDURE
+1 INSPECT DOOR CONTROL SWITCH ASSEMBLY
+(a) Inspect driver side.
+Lock (1) Remove the master switch.
+(2) Measure the resistance of the door control switch.
+Unlock
+Standard resistance
+Tester Connection Switch Condition Specified Condition
+2 - 1 Lock Below 1 Ω
+2 - 1 OFF (Free) 10 kΩ or higher
+9 - 1 Unlock Below 1 Ω
+9 - 1 OFF (Free) 10 kΩ or higher
+DL
+E123893E04

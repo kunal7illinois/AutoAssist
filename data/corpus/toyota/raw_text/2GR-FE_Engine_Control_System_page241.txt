@@ -1,0 +1,27 @@
+ES–241
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK:
+Sensor plate teeth do not have any cracks or
+deformation.
+NG REPLACE CAMSHAFT TIMING GEAR
+ASSEMBLY
+OK
+5 REPLACE VVT SENSOR
+NEXT
+6 CHECK WHETHER DTC OUTPUT RECURS ES
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch to on (IG).
+(c) Turn the intelligent tester on.
+(d) Clear the DTCs (See page ES-45).
+(e) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / PENDING CODES.
+(f) Read the DTCs.
+Result
+Display (DTC Output) Proceed to
+No output A
+P0340, P0342, P0343, P0345, P0347 or P0348 B
+HINT:
+If the engine does not start, replace the ECM.
+B REPLACE ECM (See page ES-518)
+A
+END

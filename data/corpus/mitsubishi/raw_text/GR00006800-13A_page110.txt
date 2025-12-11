@@ -1,0 +1,42 @@
+13A-110 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 7. Check connector C-60 at ECM <M/T> or connector
+C-54, C-57 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-60<M/T>,C-54,C-57<A/T>
+YES : Go to Step 8.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 11.
+OR
+PCM<A/T>
+C-54 C-60
+C-57
+AK000280BD
+STEP 8. Check for open circuit and short circuit to ground
+between throttle position sensor connector B-07 (terminal
+1) and ECM connector C-60 (terminal 84) <M/T> or PCM
+connector C-57 (terminal 78) <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-07
+YES : Go to Step 9.
+NO : Repair it. Then go to Step 11.
+THROTTLE
+POSITION
+SENSOR
+ACX02472AE
+CONNECTORS:C-60<M/T>,C-57<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-60
+C-57
+AK000280BE
+STEP 9. Check for short circuit to ground between throttle
+position sensor connector and auto-cruise control-ECU.
+Refer to GROUP 17, Auto Cruise Control System − Diagnostic
+Trouble Code Chart P.17-11.
+Q:Is the harness wire in good condition?
+YES : Go to Step 10.
+NO : Repair it. Then go to Step 11.
+TSB Revision

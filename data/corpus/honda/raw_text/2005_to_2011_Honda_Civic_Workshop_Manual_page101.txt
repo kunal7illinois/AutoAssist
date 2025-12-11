@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+NOTE: Only read DTCs from the SRS menu, not from the SWS
+menu. SWS (ODS unit) DTCs are subcode of SRS unit
+DTCs. Only troubleshoot the corresponding SRS DTCs.
+6. Read and record the DTC.
+7. Turn the ignition switch OFF.
+8. Disconnect the HDS from the DLC.
+9. Do the troubleshooting procedure for the DTC.
+CLEAR THE DTC MEMORY WITH THE HDS
+NOTE: Make sure the battery is fully charged before you begin.
+1. Make sure the ignition switch is OFF.
+2. Connect the HDS to the data link connector (DLC) (A).
+Fig. 34: Identifying Data Link Connector (DLC)
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+3. Turn the ignition switch ON (II).
+4. Make sure the HDS communicates with the vehicle and the SRS unit. If it does
+not communicate, troubleshoot the DLC circuit (see DLC CIRCUIT
+TROUBLESHOOTING ).
+5. In the SRS MENU of the HDS, select SRS, then DTC to clear DTC(s).
+6. Turn the ignition switch OFF.

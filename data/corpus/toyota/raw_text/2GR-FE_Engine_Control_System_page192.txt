@@ -1,0 +1,36 @@
+ES–192
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+7 READ VALUE OF OXYGEN SENSOR (OUTPUT VOLTAGE)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Start the engine.
+(d) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DATA LIST / ALL / O2S B1S2 or O2S B1S2.
+(e) After warming up the engine, run the engine at an engine
+speed of 2,500 rpm for 3 minutes.
+(f) Read the output voltage of the HO2 sensor when the
+engine rpm is suddenly increased.
+HINT:
+Quickly accelerate the engine to 4,000 rpm 3 times using
+ES
+the accelerator pedal.
+Standard voltage:
+Fluctuates between 0.4 V or less and 0.5 V or more.
+NG Go to step 14
+OK
+8 PERFORM CONFIRMATION DRIVING PATTERN
+NEXT
+9 CHECK WHETHER DTC OUTPUT RECURS (DTC P0136 or P0156)
+(a) On the intelligent tester, enter the following menus:
+DIAGNOSIS / ENHANCED OBD II / DTC INFO /
+CURRENT CODES.
+(b) Read the DTCs.
+Result
+Display (DTC Output) Proceed to
+P0136 or P0156 A
+No output B
+B CHECK FOR INTERMITTENT PROBLEMS
+A
+10 REPLACE HEATED OXYGEN SENSOR
+(a) Replace the hated oxygen sensor (See page EC-20).
+NEXT

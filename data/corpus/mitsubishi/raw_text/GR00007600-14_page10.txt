@@ -1,0 +1,40 @@
+14-10 COOLING SYSTEM
+ENGINE COOLING DIAGNOSIS
+STEP 4. Check for continuity between fan control relay
+connector A-09X (terminal number 2) and fan controller
+connector A-30 (terminal number 3).
+Q:Are the harness wires between fan control relay
+CONNECTOR: A-09X
+connector A-09X (terminal number 2) and fan controller
+connector A-30 (terminal number 3) damaged?
+YES : Repair or replace them, then go to Step 12.
+NO : Go to Step 5.
+A-09X
+AC102598AC
+CONNECTOR: A-30
+RADIATOR
+FAN
+AC000270AB
+STEP 5. Check for continuity between MFI relay connector
+A-18X (terminal number 4) and fan control relay connector
+A-09X (terminal number 1).
+Q:Are the harness wires between MFI relay connector A-
+CONNECTORS: A-09X, A-18X
+18X (terminal number 4) and fan control relay connector
+A-18X
+A-09X (terminal number 1) damaged?
+YES : Repair or replace them, then go to Step 12.
+NO : Go to Step 6.
+A-09X
+AC102598AB
+STEP 6. Check for continuity between fan control relay
+connector A-09X (terminal number 3) and ground.
+Q:Are the harness wires between fan control relay
+CONNECTOR: A-09X
+connector A-09X (terminal number 3) and ground
+damaged?
+YES : Repair or replace them, then go to Step 12.
+NO : Go to Step 7.
+A-09X
+AC102598AC
+TSB Revision

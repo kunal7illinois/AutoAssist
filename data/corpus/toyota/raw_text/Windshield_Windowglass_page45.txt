@@ -1,0 +1,49 @@
+WS–42
+WINDSHIELD / WINDOWGLASS – POWER WINDOW MASTER SWITCH
+POWER WINDOW MASTER
+SWITCH
+INSPECTION
+WS 1. INSPECT POWER WINDOW MASTER SWITCH (w/
+Jam Protection Function)
+(a) Measure the resistance when the switch is operated
+according to the value(s) in the table below.
+B050518E04
+Standard resistance
+Tester Connection Switch Condition Specified Condition
+8 (UP) - 1 (E) - 4 (AUTO) Below 1 Ω
+Auto UP
+5 (DN) - 6 (B) Below 1 Ω
+8 (UP) - 1 (E) Below 1 Ω
+Manual UP
+5 (DN) - 6 (B) Below 1 Ω
+8 (UP) - 5 (DN) - 6 (B) OFF Below 1 Ω
+5 (DN) - 1 (E) Below 1 Ω
+Manual DOWN
+8 (UP) - 6 (B) Below 1 Ω
+4 (AUTO) - 5 (DN) - 1 (E) Below 1 Ω
+Auto DOWN
+8 (UP) - 6 (B) Below 1 Ω
+1 (E) - 10 (RRU)
+1 (E) - 12 (RLU)
+1 (E) - 13 (RLD) UNLOCK (Below 1 Ω) →
+Lock/Unlock switch
+1 (E) - 15 (PD) LOCK (10 kΩ or higher)
+1 (E) - 16 (PU)
+1 (E) - 18 (RRD)
+2. INSPECT POWER WINDOW MASTER SWITCH (w/o
+Jam Protection Function)
+(a) Measure the resistance when the switch is operated
+according to the value(s) in the table below.
+Standard resistance
+Tester Connection Switch Condition Specified Condition
+1 (E) - 3 (DU) Below 1 Ω
+OFF
+1 (E) - 4 (DD) Below 1 Ω
+1 (E) - 10 (RRU)
+B050518E04
+1 (E) - 12 (RLU)
+1 (E) - 13 (RLD) UNLOCK (Below 1 Ω) →
+Lock/Unlock switch
+1 (E) - 15 (PD) LOCK (10 kΩ or higher)
+1 (E) - 16 (PU)
+1 (E) - 18 (RRD)

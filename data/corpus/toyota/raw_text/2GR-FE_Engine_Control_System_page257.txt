@@ -1,0 +1,51 @@
+ES–257
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Catalyst System Efficiency Below Threshold
+DTC P0420
+(Bank 1)
+Catalyst System Efficiency Below Threshold
+DTC P0430
+(Bank 2)
+MONITOR DESCRIPTION
+The ECM uses the sensors mounted in front of and behind the Three-Way Catalytic Converter (TWC) to
+monitor its efficiency.
+The first sensor, the Air-Fuel Ratio (A/F) sensor, sends pre-catalyst information to the ECM. The second
+sensor, the Heated Oxygen (HO2) sensor, sends post-catalyst information to the ECM.
+In order to detect any deterioration in the TWC, the ECM calculates the Oxygen Storage Capacity (OSC)
+of the TWC. This calculation is based on the voltage output of the HO2 sensor while performing active air- ES
+fuel ratio control, rather than the conventional detecting method, which uses the locus ratio.
+The OSC value is an indication of the oxygen storage capacity of the TWC. When the vehicle is being
+driven with a warm engine, active air-fuel ratio control is performed for approximately 15 to 20 seconds.
+When it is performed, the ECM deliberately sets the air-fuel ratio to lean or rich levels. If a rich-lean cycle
+of the HO2 sensor is long, the OSC becomes greater. There is a direct correlation between the OSCs of
+the HO2 sensor and the TWC.
+The ECM uses the OSC value to determine the state of the TWC. If any deterioration has occurred, it
+illuminates the MIL and sets a DTC.
+DTC No. DTC Detection Condition Trouble Area
+• Gas leakage from exhaust system
+OSC value is smaller than standard value under active • A/F sensor (bank 1 sensor 1)
+P0420
+air-fuel ratio control (2 trip detection logic) • HO2 sensor (bank 1 sensor 2)
+• Exhaust manifold (TWC)
+• Gas leakage from exhaust system
+OSC value is smaller than standard value under active • A/F sensor (bank 2 sensor 1)
+P0430
+air-fuel ratio control (2 trip detection logic) • HO2 sensor (bank 2 sensor 2)
+• Exhaust manifold (TWC)
+HINT:
+• Bank 1 refers to the bank that includes cylinder No. 1.
+• Bank 2 refers to the bank that does not include cylinder No. 1.
+• Sensor 1 refers to the sensor closest to the engine assembly.
+• Sensor 2 refers to the sensor farthest away from the engine assembly.
+MONITOR STRATEGY
+P0420: Catalyst Deterioration
+Related DTCs
+P0420: Catalyst Deterioration
+Required Sensors/Components (Main) TWC
+A/F sensor, heated oxygen sensor, intake air temperature sensor, mass air flow
+Required Sensors/Components (Sub)
+meter, crankshaft position sensor and engine coolant temperature sensor
+Frequency of Operation Once per driving cycle
+Duration Approximately 30 seconds
+MIL Operation 2 driving cycles
+Sequence of Operation None

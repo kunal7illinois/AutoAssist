@@ -1,0 +1,49 @@
+TW–24
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+(i) Result
+HINT:
+After the signal check is completed, check for a
+DTC and signal check DTC to confirm the system
+status.
+Condition Procedure
+SIGNAL CHECK DTC is output Repair the faulty part and enter SIGNAL CHECK again
+SIGNAL CHECK DTCs are cleared No problem
+(j) End of SIGNAL CHECK
+After completing the test mode (SIGNAL CHECK), turn the
+ignition switch off and disconnect the tester.
+DTC of SIGNAL CHECK (TEST DIAGNOSIS) function:
+If a trouble code is displayed during the test mode DTC
+check, check the circuit listed for that code. For details
+of each code, refer to the relevant page listed under
+TW respective "DTC No." in the chart.
+DTC No. Detection Item Trouble Area
+• Tire pressure warning valve and transmitter
+C2181/81 • Tire pressure warning antenna and receiver
+Transmitter ID1 not received
+(TW-38) • Wire harness or connector
+• Tire pressure warning ECU
+• Tire pressure warning valve and transmitter
+C2182/82 • Tire pressure warning antenna and receiver
+Transmitter ID2 not received
+(TW-38) • Wire harness or connector
+• Tire pressure warning ECU
+• Tire pressure warning valve and transmitter
+C2183/83 • Tire pressure warning antenna and receiver
+Transmitter ID3 not received
+(TW-38) • Wire harness or connector
+• Tire pressure warning ECU
+• Tire pressure warning valve and transmitter
+C2184/84 • Tire pressure warning antenna and receiver
+Transmitter ID4 not received
+(TW-38) • Wire harness or connector
+• Tire pressure warning ECU
+• Tire pressure warning valve and transmitter
+• Tire pressure warning antenna and receiver
+C2185/85 (TW-38) Transmitter ID5 not received
+• Wire harness or connector
+• Tire pressure warning ECU
+• Vehicle speed sensor
+C2191/91 • Combination meter assembly
+Vehicle speed signal error
+(TW-61) • Wire harness or connector
+• Tire pressure warning ECU

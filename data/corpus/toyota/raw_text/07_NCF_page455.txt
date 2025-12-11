@@ -1,0 +1,43 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-121
+(cid:3) Key is in the vehicle.
+(cid:3) The wireless door lock buzzer stops.
+(cid:3) Multi-information Display:
+025BE99P
+(cid:3) Vehicle speed is above 0 mph (0 km/h).
+WWaarrnniinngg SSttoopp CCoonnddiittiioonn
+(cid:3) The wireless door lock buzzer stops.
+(cid:3) Multi-information Display:
+025BE100P
+(cid:3) Power source is OFF.
+All warning operations stop.
+3) Situation: B
+There are two patterns for situation B.
+(cid:3) Pattern 1: When the driver’s door is open, the driver changes the power source mode to ACC and
+attempts to leave the vehicle.
+(cid:3) Pattern 2: When the driver’s door is open, the driver changes the power source mode from ON to OFF
+and attempts to leave the vehicle.
+In these situations, the following control is performed:
+Pattern 1. and Pattern 2.
+Possible Effects without Warning Vehicle theft
+The warning is activated when one of the following conditions
+is met:
+(cid:3) Power source is in ACC mode and the driver door is
+Warning Condition
+opened.
+(cid:3) Power source is in OFF mode the steering is unlocked, and
+the driver door is opened.
+Buzzer Continues to sound at short and even intervals
+Multi-information
+Combination —
+Display
+MMeetteerr
+Master Warning
+—
+Light
+Wireless Door Lock Buzzer —
+Engine Switch Indicator Light —
+The warning is stopped when one of the following conditions
+is met:
+Warning Stop Condition (cid:3) Power source is in ON mode.
+(cid:3) Driver door is closed.
+(cid:3) Power source is in OFF mode and the steering is locked.

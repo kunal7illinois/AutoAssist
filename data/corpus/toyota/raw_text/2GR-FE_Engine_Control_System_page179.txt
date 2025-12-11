@@ -1,0 +1,39 @@
+ES–179
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Oxygen Sensor Circuit Malfunction (Bank 1
+DTC P0136
+Sensor 2)
+Oxygen Sensor Circuit Low Voltage (Bank 1
+DTC P0137
+Sensor 2)
+Oxygen Sensor Circuit High Voltage (Bank 1
+DTC P0138
+Sensor 2)
+Oxygen Sensor Circuit Malfunction (Bank 2
+DTC P0156
+Sensor 2)
+ES
+Oxygen Sensor Circuit Low Voltage (Bank 2
+DTC P0157
+Sensor 2)
+Oxygen Sensor Circuit High Voltage (Bank 2
+DTC P0158
+Sensor 2)
+DESCRIPTION
+A three-way catalytic converter (TWC) is used in order to convert the carbon monoxide (CO), hydrocarbon
+(HC), and nitrogen oxide (NOx) into less harmful substances. To allow the TWC to function effectively, it is
+necessary to keep the air-fuel ratio of the engine near the stoichiometric air-fuel ratio. For the purpose of
+helping the ECM to deliver accurate air-fuel ratio control, the Heated Oxygen (HO2) sensor is used.
+The HO2 sensor is located behind the TWC, and detects the oxygen concentration in the exhaust gas.
+Since the sensor is integrated with the heater that heats the sensing portion, it is possible to detect the
+oxygen concentration even when the intake air volume is low (the exhaust gas temperature is low).
+When the air-fuel ratio becomes lean, the oxygen concentration in the exhaust gas becomes rich. The
+HO2 sensor informs the ECM that the post-TWC air-fuel ratio is lean (low voltage, i.e. less than 0.45 V).
+Conversely, when the air-fuel ratio is richer than the stoichiometric air-fuel level, the oxygen concentration
+in the exhaust gas becomes lean. The HO2 sensor informs the ECM that the post-TWC air-fuel ratio is
+rich (high voltage, i.e. more than 0.45 V). The HO2 sensor has the property of changing its output voltage
+drastically when the air-fuel ratio is close to the stoichiometric level.
+The ECM uses the supplementary information from the HO2 sensor to determine whether the air-fuel ratio
+after the TWC is rich or lean, and adjusts the fuel injection time accordingly. Thus, if the HO2 sensor is
+working improperly due to internal malfunctions, the ECM is unable to compensate for deviations in the
+primary air-fuel ratio control.

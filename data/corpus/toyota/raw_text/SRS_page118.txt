@@ -1,0 +1,30 @@
+RS–118
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DTC B1630/23 Driver Side Rear Airbag Sensor Malfunction
+DESCRIPTION
+The rear airbag sensor LH consists of the safing sensor, the diagnostic circuit, the lateral deceleration
+sensor, etc.
+If the center airbag sensor assembly receives signals from the lateral deceleration sensor, it determines
+whether the SRS should be activated.
+DTC B1630/23 is recorded when a malfunction is detected in the driver side rear airbag sensor circuit.
+DTC No. DTC Detection Condition Trouble Area
+• Rear airbag sensor LH malfunction • Rear airbag sensor LH
+B1630/23
+• Center airbag sensor assembly malfunction • Center airbag sensor assembly
+WIRING DIAGRAM
+N7
+Side Airbag Sensor LH Center Airbag Sensor Assembly
+8
+BBL+ N1 BBD+
+4
+15
+BBL- N1 BBD-
+3
+RS
+N12
+Rear Airbag Sensor LH
+BCL+ BCL+
+1 2
+BCL- BCL-
+2 1
+H045218E08

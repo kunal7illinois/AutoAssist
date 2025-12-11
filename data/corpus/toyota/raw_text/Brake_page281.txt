@@ -1,0 +1,31 @@
+BC–275
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+1 CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU - TS of DLC3)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU Harness Side (b) Measure the resistance according to the value(s) in the
+Connector Front View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+A26-24 (TS) - E10-12 (TS) Always Below 1 Ω
+A26 NG REPAIR OR REPLACE HARNESS OR
+TS
+CONNECTOR
+DLC3:
+BC
+E10
+TS
+C128347E08
+OK
+2 CHECK HARNESS AND CONNECTOR (CG of DLC3 - BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+DLC3:
+CG table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E10-4 (CG) - Body ground Always Below 1 Ω
+E10
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+G022987E21
+OK

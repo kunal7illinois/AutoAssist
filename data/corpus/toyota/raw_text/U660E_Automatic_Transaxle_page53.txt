@@ -1,0 +1,62 @@
+AX–53
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+DIAGNOSTIC TROUBLE CODE CHART
+If a DTC is displayed during the DTC check, check the parts
+listed in the table below and proceed to the page given.
+HINT:
+• *1: MIL (Malfunction Indicator Lamp) comes on
+• *2: "DTC stored" mark means TCM memorizes the trouble AX
+code if the TCM detects that the DTC detection condition
+is satisfied.
+• A DTC may be output when the clutch, brake and gear
+components, etc. inside the automatic transaxle are
+damaged.
+AUTOMATIC TRANSAXLE SYSTEM
+DTC No. Detection Item Trouble Area MIL *1 Memory *2 See page
+P0500 Vehicle Speed Sensor "A" 1. Vehicle speed sensor Comes on DTC stored AX-50
+2. Vehicle speed sensor signal
+circuit
+3. Combination meter
+4. TCM
+P0560 System Voltage 1. Open in back-up power source Comes on DTC stored AX-53
+circuit
+2. TCM
+P0710 Transmission Fluid Temperature 1. Open or short in ATF temperature Comes on DTC stored AX-55
+Sensor "A" Circuit sensor circuit
+2. Transmission wire (ATF
+temperature sensor)
+3. TCM
+P0711 Transmission Fluid Temperature Transmission wire (ATF temperature Comes on DTC stored AX-60
+Sensor "A" Performance sensor)
+P0712 Transmission Fluid Temperature 1. Short in ATF temperature sensor Comes on DTC stored AX-55
+Sensor "A" Circuit Low Input circuit
+2. Transmission wire (ATF
+temperature sensor)
+3. TCM
+P0713 Transmission Fluid Temperature 1. Open in ATF temperature sensor Comes on DTC stored AX-55
+Sensor "A" Circuit High Input circuit
+2. Transmission wire (ATF
+temperature sensor)
+3. TCM
+P0715 Input / Turbine Speed Sensor 1. Transmission revolution sensor Comes on DTC stored AX-66
+Circuit Malfunction (speed sensor NT)
+2. TCM
+P0717 Input Speed Sensor Circuit No 1. Transmission revolution sensor Comes on DTC stored AX-66
+Signal (speed sensor NT)
+2. TCM
+P0724 Brake Switch "B" Circuit High 1. Short in stop light switch signal Comes on DTC stored AX-71
+circuit
+2. Stop light switch
+3. TCM
+P0741 Torque Converter Clutch 1. Shift solenoid valve SL remains Comes on DTC stored AX-74
+Solenoid Performance (Shift closed
+Solenoid Valve SL) 2. Valve body is blocked
+3. Torque converter clutch
+4. Automatic transaxle (clutch, brake
+or gear etc.)
+5. Line pressure is too low
+P0746 Pressure Control Solenoid "A" 1. Shift solenoid valve SL1 remains Comes on DTC stored AX-79
+Performance (Shift Solenoid open or closed
+Valve SL1) 2. Valve body is blocked
+3. Automatic transaxle (clutch, brake
+or gear etc.)

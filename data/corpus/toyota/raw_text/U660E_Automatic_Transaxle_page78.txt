@@ -1,0 +1,40 @@
+AX–78
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+WIRING DIAGRAM
+TCM
+AX
+12
+C56 STP
+ALT STOP
+A19
+Stop Light Switch
+FL MAIN
+To Stop Light
+8
+C56 E1
+Battery
+C133263E01
+INSPECTION PROCEDURE
+1 READ VALUE OF DATA LIST (STP SIGNAL)
+HINT:
+According to the DATA LIST displayed on the intelligent
+tester, you can read the value of switches, sensors, actuators
+and other items without removing any parts. Reading the
+DATA LIST as the first step in troubleshooting is one method
+to save labor time.
+(a) Turn the ignition switch off.
+(b) Connect the intelligent tester together with the CAN VIM
+(Controller Area Network Vehicle Interface Module) to
+the DLC3.
+(c) Turn the ignition switch on (IG).
+(d) Turn on the tester.
+(e) Enter the following items: "DIAGNOSIS / OBD/MOBD /
+ECT / DATA LIST".
+(f) According to the display on the tester, read "DATA LIST".
+Standard
+Measurement Item/
+Item Normal Condition
+Range (display)
+Stop light switch status/ • Brake pedal is depressed: ON
+STOP LIGHT SW
+ON or OFF • Brake pedal is released: OFF

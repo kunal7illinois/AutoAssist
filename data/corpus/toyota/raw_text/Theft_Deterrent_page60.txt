@@ -1,0 +1,43 @@
+TD–58
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/o Smart Key System)
+DIAGNOSIS SYSTEM
+CG SG CANH SIL 1. CHECK DLC3
+(a) The main body ECU uses ISO 15765-4 for
+communication protocol. The terminal arrangement
+of the DLC3 complies with SAE J1962 and matches
+the ISO 15765-4 format.
+CANL BAT
+H100769E16
+Symbols (Terminal No.) Terminal Description Condition Specified condition
+SIL (7) - SG (5) Bus "+" line During transmission Pulse generation
+CG (4) - Body ground Chassis ground Always Below 1 Ω
+SG (5) - Body ground Signal ground Always Below 1 Ω
+BAT (16) - Body ground Battery positive Always 10 to 14 V
+CANH (6) - CANL (14) CAN bus line Ignition switch OFF* 54 to 67 Ω
+CANH (6) - CG (4) HIGH-level CAN bus line Ignition switch OFF* 200 Ω or higher
+CANL (14) - CG (4) LOW-level CAN bus line Ignition switch OFF* 200 Ω or higher
+CANH (6) - BAT (16) HIGH-level CAN bus line Ignition switch OFF* 6 kΩ or higher
+CANL (14) - BAT (16) LOW-level CAN bus line Ignition switch OFF* 6 kΩ or higher
+NOTICE:
+*: Before measuring the resistance, leave the
+vehicle as is for at least 1 minute and do not
+operate the ignition switch, any other switches
+or the doors.
+If the result is not as specified, the DLC3 may have
+a malfunction. Repair or replace the harness and
+connector.
+TD (b) Connect the cable of the intelligent tester (with CAN
+VIM) to the DLC3, turn the ignition switch ON and
+attempt to use the intelligent tester. If the screen
+displays a communication error message, a
+problem exists in the vehicle or in the tester.
+• If communication is normal when the tool is
+connected to another vehicle, inspect the DLC3
+on the original vehicle.
+• If communication is still impossible when the tool
+is connected to another vehicle, the problem is
+probably in the tool itself. Consult the Service
+Department listed in the tool's instruction manual.
+DLC3
+Intelligent Tester
+C131977E01

@@ -1,0 +1,42 @@
+EI–15
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+*1: Perform this process for one of the keys
+registered for the vehicle. Finish the procedure
+within 30 seconds. If the procedure has not been
+finished within the specified time, perform erasure
+procedures from process 1 again.
+(e) PROCEDURE "E"
+ECU code registration
+Process Procedure
+1. Start of registration 1. Connect intelligent tester (with CAN VIM) to DLC3
+2. Turn engine switch on (IG)
+3. Select "SMART ACCESS / ID UTILITY / ECU COMM ID REG / ID
+Code Box and Steering Lock" from tester menu
+2. Confirmation of registered key *1 Hold unregistered key close to engine switch (For details, refer to
+PROCEDURE "1")
+Confirm that wireless door lock buzzer sounds once
+3. Registration of ECU code Perform operation according to prompts on tester screen
+4. End of registration Finish ECU code registration
+*1: Perform this process for one of the keys
+registered for the vehicle. Finish the procedure
+within 30 seconds. If the procedure has not been
+finished within the specified time, perform erasure
+procedures from process 1 again.
+(f) PROCEDURE "F"
+ECU communication ID registration
+NOTICE:
+• The ECU communication ID should be
+registered when the ID code box and/or the
+ECM is replaced in order to match these ECM
+communication ID.
+• The engine cannot be started unless the ECM
+communication ID matches.
+Register the ECU communication ID.
+EI
+CG
+TC
+SST
+B139171E01
+(1) Using SST, connect terminals TC and CG of
+the DLC3.
+SST 09843-18040

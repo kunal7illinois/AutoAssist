@@ -1,0 +1,25 @@
+Audi TT 2007 ➤
+Fuel supply system, petrol engines - Edition 11.2010
+♦ Vehicle diagnostic, testing and information system -VAS
+5051B-
+Procedure
+• No faults stored in event memory.
+– Connect vehicle diagnostic, testing and information system -
+VAS 5051B- to diagnostic connection -arrow- and start engine.
+– Select following menu options:
+♦ „Vehicle self-diagnosis“
+♦ „01 - Engine electronics“
+♦ „Basic setting, display group 103“
+♦ „Activate“
+– Check display in zone „4“.
+Indicated on display: „ADP runs“. When the fuel pump has been
+successfully adapted, the display will show „ADP OK“.
+Note
+If display shows „ADP n.OK“: interrogate event memory.
+– End „vehicle self-diagnosis“.
+– Switch off ignition and unplug diagnostic connector.
+6.11 Checking fuel gauge sender -G-
+Special tools and workshop equipment required
+♦ Hand-held multimeter -V.A.G 1526D-
+78
+Rep. gr.20 - Fuel supply system

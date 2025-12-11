@@ -1,0 +1,31 @@
+ES–364
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Test Results Suspected Trouble Areas Proceed To
+Not operating Vent valve B
+(e) Reconnect the canister connector.
+B Go to step 29
+A
+21 CHECK HARNESS AND CONNECTOR (ECM - CANISTER PUMP MODULE)
+(a) Disconnect the A9 ECM connector.
+Wire Harness Side:
+(b) Disconnect the S3 canister pump module connector.
+ES
+(c) Measure the resistance between VPMP terminal of the
+A9 ECM Connector ECM connector and VGND terminal of the canister pump
+module connector.
+Front View
+VPMP
+Canister Pump Module Connector
+S3 1 2 3 4 5
+6 7 8 910
+VGND
+Front View
+A112621E03
+Result
+Test Results Suspected Trouble Areas Proceed To
+Below 1 Ω ECM A
+10 kΩ or higher Wire harness between ECM and canister pump module B
+(d) Reconnect the ECM connector.
+(e) Reconnect the canister pump module connector.
+A Go to step 34
+B Go to step 31

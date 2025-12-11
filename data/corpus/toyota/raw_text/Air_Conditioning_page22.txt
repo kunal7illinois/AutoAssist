@@ -1,0 +1,38 @@
+AC–22
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+11. ROOM TEMPERATURE SENSOR (for AUTO A/C)
+The room temperature sensor detects the cabin
+temperature based on changes in the resistance of its
+built-in thermistor and sends a signal to the A/C
+amplifier.
+12. AMBIENT TEMPERATURE SENSOR
+The ambient temperature sensor detects the outside
+temperature based on changes in the resistance of its
+built-in thermistor and sends a signal to the A/C
+amplifier.
+13. SOLAR SENSOR (for AUTO A/C)
+(a) The solar sensor consists of a photo diode, two
+amplifier circuits for the solar sensor, and frequency
+converter circuit for the light control sensor.
+(b) A solar sensor detects (in the form of changes in the
+current that flows through the built-in photo diode)
+the changes in the amount of sunlight from the LH
+and RH sides (2 directions) and outputs these
+sunlight strength signals to the A/C amplifier.
+Internal circuit of the solar sensor
+LH Side RH Side
+Photo Diode
+AC
+Frequency Amplifier Circuit
+Convert Circuit (LH)
+Amplifier Circuit
+Sensor
+(RH)
+Portion
+To Main Body ECU To A/C Amplifier
+E116951E01
+14. EVAPORATOR TEMPERATURE SENSOR
+The evaporator temperature sensor detects the
+temperature of the cool air immediately past the
+evaporator in the form of resistance changes, and
+outputs it to the A/C amplifier.

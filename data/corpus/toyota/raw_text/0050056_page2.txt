@@ -1,0 +1,55 @@
+ES–314
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR STRATEGY
+P2238: A/F sensor open circuit between AF+ and AF-
+P2238: A/F sensor short circuit between AF+ and AF-
+P2238: A/F sensor short circuit between AF+ and GND
+Related DTCs
+P2239: A/F sensor short circuit between AF+ and +B
+P2252: A/F sensor short circuit between AF- and GND
+P2253: A/F sensor short circuit between AF- and +B
+Required Sensors/Components (Main) A/F sensor
+Required Sensors/Components (Related) Engine Coolant Temperature (ECT) sensor, Crankshaft position sensor
+Frequency of Operation Once per driving cycle
+10 seconds: A/F sensor open circuit between AF+ and AF-
+Duration
+5 seconds: Other
+MIL Operation 2 driving cycles
+ES Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+P0031, P0032 (A/F sensor heater - Sensor 1)
+P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+P0125 (Insufficient ECT for Closed Loop)
+Monitor runs whenever following DTCs not present
+P0171, P0172 (Fuel system)
+P0300 - P0304 (Misfire)
+P0335 (CKP sensor)
+P0340 (CMP sensor)
+P0455, P0456 (EVAP system)
+P0500 (VSS)
+P2238 (open circuit between AF+ and AF-):
+AF+ terminal voltage 0.5 to 4.5 V
+AF- terminal voltage 0.5 to 4.5 V
+Difference between AF+ and AF- terminal voltages 0.1 to 0.8 V
+ECT 10°C (50°F) or more (varies with ECT at engine start)
+Engine Running
+Fuel-cut OFF
+Time after fuel-cut OFF 2.5 seconds or more
+A/F sensor heater ON
+Battery voltage 10.5 V or more
+Ignition switch ON
+Time after ignition switch is OFF to ON 5 seconds or more
+Other:
+Battery voltage 10.5 V or more
+Ignition switch ON
+Time after ignition switch is OFF to ON 5 seconds or more
+TYPICAL MALFUNCTION THRESHOLDS
+P2238 (Open circuit between AF+ and AF-):
+A/F sensor admittance Below 0.022 1/Ω
+P2238 (Short circuit between AF+ and GND):
+AF+ terminal voltage 0.5 V or less
+P2238 (Short circuit between AF+ and AF-):
+Difference between AF+ and AF- terminal voltages 0.1 V or less

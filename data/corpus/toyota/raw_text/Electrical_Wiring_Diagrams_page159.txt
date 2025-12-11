@@ -1,0 +1,26 @@
+Multiplex Communication System – CAN
+System Outline
+CAN has two lines as a pair which make communication with operating voltage. CAN has excellent data speed and error
+detecting capacity. It consists of vehicle control systems such as engine control module, yaw rate sensor, skid control ECU
+with actuator, steering sensor, data link connector 3, A/C amplifier, transmission control ECU, airbag sensor assembly center,
+combination meter, certification ECU and main body ECU.
+: Parts Location
+Code See Page Code See Page Code See Page
+A24 A 52 (2AZ–FE) C56 51 (2GR–FE) E44 C 57
+48 (2GR–FE) E8 C 56 E45 D 57
+AA2255
+52 (2AZ–FE) E10 56 E46 E 57
+48 (2GR–FE) E17 56 E58 A 57
+AA2266 AA
+52 (2AZ–FE) E30 A 56 E61 57
+A40 A 59 E34 A 57 E62 G 57
+A55 A 49 (2GR–FE) E38 A 57 E63 H 57
+49 (2GR–FE) E41 B 57 E65 B 57
+AA6600 BB
+53 (2AZ–FE) E42 A 57 F1 A 58
+C55 B 51 (2GR–FE) E43 B 57
+: Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+FE3 66 Instrument Panel No.2 Wire and Instrument Panel Wire (Instrument Panel Center)
+158
+CAMRY (EM0250U)

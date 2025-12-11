@@ -1,0 +1,42 @@
+52B-134 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+STEP 5. Check the harness wires between SRS-ECU
+connector C-72 (terminal No.16) and data link connector C-
+29 (terminal No.7).
+NOTE: After inspecting intermediate connector C-77 inspect
+CONNECTOR: C-72
+the wiring harness.
+If the intermediate connector C-77 is damaged, repair or
+HARNESS SIDE
+(REAR VIEW) replace it. Refer to GROUP 00E, Harness Connector Inspec-
+tion P.00E-2.
+1 2 3 4 5 6 7 8 Go to Step 8.
+9 10111213141516
+Q:Are the harness wires between SRS-ECU connector C-
+SRS-ECU 72 (terminal No.16) and data link connector C-29
+ACCELERATOR PEDAL (terminal No.7) in good condition?
+CENTER REINFORCEMENT(LH) AC000358AH YES : Go to step 8.
+NO : Repair the harness wires between SRS-ECU
+CONNECTOR: C-29
+connector C-72 and data link connector C-29. Then
+COMBINATION METER
+go to Step 8.
+AC000800AD
+CONNECTOR: C-77
+COMBINATION
+METER
+AC004427AB
+STEP 6. Check the harness wires between SRS-ECU
+connector C-72 (terminal No.3) and ground.
+Q:Are the harness wires between SRS-ECU connector C-
+CONNECTOR: C-72
+72 (terminal No.3) and ground in good condition?
+HARNESS SIDE YES : Go to Step 8.
+(REAR VIEW) NO : Repair the harness wires between SRS-ECU
+connector C-72 and ground. Then go to Step 8.
+1 2 3 4 5 6 7 8
+9 10111213141516
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH) AC000358AH
+TSB Revision

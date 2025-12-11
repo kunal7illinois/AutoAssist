@@ -1,0 +1,33 @@
+ST–108
+2GR-FE STARTING – SMART KEY SYSTEM
+18 CHECK HARNESS AND CONNECTOR (ECM AND STARTER - ST RELAY)
+(a) Disconnect the A55 ECM connector.
+ECM
+Engine Room R/B
+Starter
+C3
+A55
+ST Relay Terminal
+STA
+B138011E01
+(b) Disconnect the C3 starter connector.
+(c) Measure the resistance according the the value(s) in the
+table below.
+Standard resistance
+Tester Connection
+Condition Specified Condition
+(Symbols)
+A55-48 (STA) - ST relay
+Always Below 1 Ω
+terminal - 1
+A55-48 (STA) - Body
+Always 10 kΩ or higher
+ground
+C3-1 - ST relay terminal
+Always Below 1 Ω
+- 3
+C3-1 - Body ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+ST

@@ -1,0 +1,23 @@
+ES–366
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+23 CHECK HARNESS AND CONNECTOR (CANISTER PUMP MODULE - BODY GROUND)
+(a) Turn the ignition switch OFF.
+(b) Disconnect the S3 canister pump module connector.
+(c) Check the resistance between MGND terminal of the
+canister pump module connector and the body ground.
+ES
+Wire Harness Side:
+S3 1 2 3 4 5
+6 7 8 910
+MGND
+Canister Pump Module Connector
+A127718E04
+Result
+Test Results Suspected Trouble Areas Proceed To
+Below 1 Ω Leak detection pump A
+Wire harness between canister pump module and body
+10 kΩ or higher B
+ground
+(d) Reconnect the canister pump module connector.
+A Go to step 29
+B Go to step 31

@@ -1,0 +1,60 @@
+AX–41
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+DIAGNOSIS SYSTEM
+1. DESCRIPTION
+(a) When troubleshooting On-Board Diagnostic (OBD
+II) vehicles, the vehicle must be connected to the
+OBD II scan tool (complying with SAE J1987).
+Various data output from the vehicle's TCM can be AX
+read then.
+(b) OBD II regulations require that the vehicle's on-
+board computer illuminate the Malfunction Indicator
+Lamp (MIL) on the instrument panel when the
+computer detects a malfunction in:
+(1) The emission control system/components
+(2) The power train control components (which
+affect vehicle emissions)
+(3) The computer
+In addition, the applicable Diagnostic Trouble
+Codes (DTCs) prescribed by SAE J2012 are
+FI00534E01
+recorded in the TCM memory.
+If the malfunction does not reoccur in 3
+consecutive trips, the MIL turns off automatically
+but the DTCs remain recorded in the TCM
+memory.
+(c) To check DTCs, connect the intelligent tester to the
+Intelligent Tester
+Data Link Connector 3 (DLC3) of the vehicle. The
+intelligent tester displays DTCs, the freeze frame
+data and a variety of the engine data.
+The DTCs and freeze frame data can be erased
+with the intelligent tester (See page AX-38).
+2. NORMAL MODE AND CHECK MODE
+(a) The diagnosis system operates in "normal mode"
+during normal vehicle use. In normal mode, "2 trip
+detection logic" is used to ensure accurate detection
+of malfunctions. "Check mode" is also available to
+technicians as an option. In check mode, "1 trip
+detection logic" is used for simulating malfunction
+DLC3
+symptoms and increasing the system's ability to
+CAN VIM
+detect malfunctions, including intermittent
+C131977E05
+malfunctions.
+3. 2 TRIP DETECTION LOGIC
+(a) When a malfunction is first detected, the
+malfunction is temporarily stored in the TCM
+memory (1st trip). If the ignition switch is turned off
+and then on (IG) again, and the same malfunction is
+detected again, the MIL will illuminate.
+4. FREEZE FRAME DATA
+(a) The TCM records vehicle and driving condition
+information as freeze frame data the moment a DTC
+is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle
+was running or stopped, whether the engine was
+warmed up or not, whether the air/fuel ratio was
+lean or rich, as well as other data recorded at the
+time of a malfunction.

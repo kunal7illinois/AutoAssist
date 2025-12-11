@@ -1,0 +1,22 @@
+13B-344 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Check for harness damage between MFI relay
+connector A-18X terminal 4 and EGR solenoid connector
+B-31 terminal 1.
+Q:Is the harness wire in good condition?
+CONNECTOR: A-18X
+YES : Go to Step 11.
+MFI RELAY NO : Repair it. Then go to Step 12.
+AK101363AB
+CONNECTOR: B-31 <WITHOUT VARIABLE
+INDUCTION SYSTEM>
+EGR
+SOLENOID
+VALVE
+ACX02514AN
+CONNECTOR: B-31 <WITH VARIABLE
+INDUCTION SYSTEM>
+EGR SOLENOID
+VALVE
+AC106190AD
+TSB Revision

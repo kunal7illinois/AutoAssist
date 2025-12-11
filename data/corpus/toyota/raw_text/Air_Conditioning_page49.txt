@@ -1,0 +1,30 @@
+AC–49
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+DTC B1411/11 Room Temperature Sensor Circuit
+DESCRIPTION
+This sensor detects the cabin temperature that is used as the basis for temperature control and sends a
+signal to the A/C amplifier.
+DTC No. DTC Detection Condition Trouble Area
+• A/C room temperature sensor
+• Harness or connector between A/C room
+B1411/11 Room temperature sensor circuit (Open or short)
+temperature sensor and A/C amplifier
+• A/C amplifier
+WIRING DIAGRAM
+A/C Amplifier
+29
+E38 TR
+1
+E27
+A/C Room
+Temperature AC
+Sensor
+2
+34
+E38 SG-1
+I008282E06
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.

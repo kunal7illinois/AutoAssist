@@ -1,0 +1,37 @@
+BE-48 BODY ELECTRICAL - AIR CONDITIONING
+BUS Connector
+(cid:1) A BUS connector is used in the wire harness connection that connects the servo motor from the A/C
+ECU.
+BUS Connector BUS Connector To A/C ECU
+To Air Mix Servo To Air Inlet
+Motor (For Driver) Servo Motor
+BUS Connector
+To Air Vent
+Servo Motor
+Evaporator Temp. Sensor
+BUS Connector
+To Air Mix Servo Motor
+(For Front Passenger)
+285BE43
+(cid:1) The BUS connector has a built-in communication/drive IC which communicates with each servo motor
+connector, actuates the servo motor, and has a position detection function. This enables bus
+communication for the servo motor wire harness, for a more lightweight construction and a reduced
+number of wires.
+Communication/Drive IC
+BUS Connector
+A/C ECU
+Communication
+Servo Motor
+IC
+CPU
+With BUS Connector
+285BE44
+A/C ECU
+Drive
+Servo Motor
+IC
+CPU
+Drive
+IC
+Without BUS Connector
+285BE45

@@ -1,0 +1,37 @@
+54B-250 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+Q:Is the wiring harness between rear washer motor
+CONNECTOR: C-94 CONNECTOR
+connector A-34 (terminal 1) and ETACS-ECU connector
+BLOCK (RH)
+C-117 (terminal 23) in good condition?
+YES : Replace the ETACS-ECU. Check that the rear washer
+works normally.
+NO : Repair the wiring harness. Check that the rear washer
+works normally.
+C-94
+AC106666AB
+SEAT BELT WARNING LIGHT
+GENERAL DESCRIPTION CONCERNING SEAT BELT WARNING LIGHT
+M1549023900013
+The following ECUs affects the seat belt warning
+light function.
+Functions Control ECU
+Seat belt warning light function ETACS-ECU
+SEAT BELT WARNING LIGHT FUNCTION
+If the ignition switch is turned to the "ON" position without wear-
+ON ing the driver’s seat belt, the seat belt warning light will illumi-
+Ignition
+switch nate to warn the driver.
+(IG1) OFF
+ON
+Seat belt (Fastened)
+switch
+OFF
+(Unfastened)
+ON
+Seat belt (Illminated)
+warning
+lamp OFF
+(Unillminated) AC106176AB
+TSB Revision

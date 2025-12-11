@@ -1,0 +1,26 @@
+13B-290 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Check for open circuit and short circuit to
+ground and harness damage between injector
+intermediate connector and ECM connector <M/T> or PCM
+connector <A/T>.
+a. Check the harness wire between intermediate connector B-
+CONNECTOR:B-48
+48 terminal 2 and ECM connector C-51 terminal 1 <M/T> or
+PCM connector C-52 terminal 1 <A/T> when checking No. 1
+cylinder.
+b. Check the harness wire between intermediate connector B-
+48 terminal 3 and ECM connector C-51 terminal 24 <M/T>
+or PCM connector C-52 terminal 24 <A/T> when checking
+No. 3 cylinder.
+c. Check the harness wire between intermediate connector B-
+48 terminal 4 and ECM connector C-51 terminal 10 <M/T>
+AK000209AC or PCM connector C-52 terminal 10 <A/T> when checking
+No. 5 cylinder.
+CONNECTOR : C-51<M/T>, C-52<A/T>
+Q:Is the harness wire in good condition?
+PCM<A/T> ECM<M/T> YES : Go to Step 11.
+NO : Repair it. Then go to Step 12.
+C-52 C-51
+AK000225AJ
+TSB Revision

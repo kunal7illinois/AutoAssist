@@ -1,0 +1,38 @@
+DL–22
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Driver Side Door UNLOCK Detection Switch Circuit
+DESCRIPTION
+The driver's door unlock detection switch is built into the driver's door lock assembly. The switch turns on
+when the driver's door is locked and turns off when the door is unlocked.
+The main body ECU is connected to the driver's door lock assembly via terminal LSWD and driver's door
+lock/unlock state signals are input to the main body ECU.
+The main body ECU applies voltage to the door unlock detection switch via terminal LSWD. When the
+door unlock detection switch is on (there is continuity between the switch terminals), a lock state signal is
+input to the main body ECU. When the switch is off (there is no continuity between the switch terminals),
+an unlock state signal is input.
+WIRING DIAGRAM
+E7
+Main Body ECU
+I7
+Front Door Lock Assembly LH
+7 E LSSR 8 9
+LSWD
+B109777E18
+INSPECTION PROCEDURE
+1 READ VALUE OF DATA LIST (DOOR UNLOCK DETECTION SWITCH)
+DL
+(a) Check the DATA LIST to ensure proper function of the
+door unlock detection switch.
+MAIN BODY:
+Measurement Item /
+Item Normal Condition Diagnostic Note
+Display (Range)
+Driver side door unlock detection
+ON: Driver side door is unlocked
+D LOCK POS SW switch signal -
+OFF: Driver side door is locked
+/ON or OFF
+OK:
+The display is as specified in the normal condition
+column.
+NG Go to step 2

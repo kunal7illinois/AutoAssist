@@ -1,0 +1,70 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Param‐ Monitoring Frequency of
+sage cedure ria and Threshold eters with Enable Time checks, MIL
+Value Conditions Length Illum
+P0322 Engine – Check the • comparison --- 2.5 Sec. • 2 DCY
+Speed Input Engine with phase
+Circuit No Speed sensor- no sig‐
+Signal (RPM) Sen‐ nal
+sor -G28- .
+Refer to
+⇒ “3.5.26 En‐
+gine Speed
+Sensor,
+Checking ”,
+page 166 .
+P0324 Knock Con‐ – Check the • Signal fault • Engine speed > 0.5 Sec. • 2 DCY
+trol System Knock Sen‐ counter (com‐ 2000 RPM
+Error sors -G61, bustion) > 30
+G66- . Refer OR Signal fault
+to counter meas‐
+⇒ uring window >
+“3.5.40 Knoc 2
+k Sensor,
+Checking”,
+page 190 .
+P0327 Knock Sen‐ – Check the • Lower thresh‐ • Engine speed > 0.5 to 2 • 2 DCY
+sor 1 Circuit Knock Sen‐ old < - 0.70 V 1000 RPM or > Sec.
+Low Input sors -G61, 2000 RPM for
+G66- . Refer • Signal range signal range
+to check < 0.55 to check
+⇒ 5.60 V
+“3.5.40 Knoc
+k Sensor,
+Checking”,
+page 190 .
+P0328 Knock Sen‐ – Check the • Upper thresh‐ • Signal circuit > 0.5 to 2 • 2 DCY
+sor 1 Circuit Knock Sen‐ old > 1 V 1000 RPM Sec.
+High Input sors -G61,
+G66- . Refer • Signal range • Signal range
+to check > 16.50 check > 2000
+⇒ to 92 V RPM
+“3.5.40 Knoc
+• ECT > 41 °C
+k Sensor,
+Checking”, • Engine load 30
+page 190 . to 37.50%
+P0332 Knock Sen‐ – Check the • Lower thresh‐ • Engine speed > 0.5 to 2 • 2 DCY
+sor 2 Circuit Knock Sen‐ old < - 0.70 V 1000 RPM or > Sec.
+Low Input sors -G61, 2000 RPM for
+G66- . Refer • Signal range signal range
+to check < 0.55 to check
+⇒ 5.60 V
+“3.5.40 Knoc
+k Sensor,
+Checking”,
+page 190 .
+P0333 Knock Sen‐ – Check the • Upper thresh‐ • Signal circuit > 0.5 to 2 • Multiple
+sor 2 Circuit Knock Sen‐ old > 1 V 1000 RPM Sec.
+High Input sors -G61, • 2 DCY
+G66- . Refer • Signal range • Signal range
+to check > 16.50 check > 2000
+⇒ to 92 V RPM
+“3.5.40 Knoc
+• ECT > 41 °C
+k Sensor,
+Checking”, • Engine load 30
+page 190 . to 37.50%
+61
+3. Diagnosis and Testing

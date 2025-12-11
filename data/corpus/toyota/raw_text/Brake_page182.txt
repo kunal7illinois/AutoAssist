@@ -1,0 +1,29 @@
+BC–176
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+A
+REPLACE BRAKE ACTUATOR ASSEMBLY
+11 REPAIR OR REPLACE HARNESS OR CONNECTOR (SKID CONTROL ECU - REAR SPEED
+SENSOR)
+(a) Turn the ignition switch off.
+(b) Repair or replace the harness or connector.
+(c) Check for any momentary interruption between the skid
+control ECU and rear speed sensor (See page BC-118).
+(d) Check that there is no momentary interruption.
+NEXT
+BC 12 RECONFIRM DTC
+(a) Clear the DTC (See page BC-141).
+(b) Start the engine.
+(c) Drive the vehicle at the speed of 20 mph (32 km/h) or
+more for at least 60 seconds.
+(d) Check if the same DTC is recorded (See page BC-141).
+Result
+Condition Proceed to
+DTCs (C0210/33 and/or C0215/34) are not output A
+DTCs (C0210/33 and/or C0215/34) are output B
+HINT:
+If troubleshooting has been carried out according to the
+Problem Symptoms Table, refer back to the table and
+proceed to the next step (See page BC-134).
+B Go to step 2
+A
+END

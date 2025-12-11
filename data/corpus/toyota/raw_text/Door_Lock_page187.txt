@@ -1,0 +1,36 @@
+DL–177
+DOOR LOCK – SMART KEY SYSTEM
+4 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (CERTIFICATION ECU OUTPUT
+SIGNAL)
+(a) Reconnect the ECU and the oscillator connectors.
+Certification ECU:
+(b) Connect the intelligent tester to the DLC3.
+(c) Turn the engine switch on (IG).
+(d) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / ACTIVE TEST.
+(e) Following the display on the tester, select the "ACTIVE
+TEST".
+E58
+SMART ACCESS (Certification ECU):
+Item Vehicle Condition/Test Details
+D TRANSMITTER Door Oscillator ON/OFF
+P TRANSMITTER Door Oscillator ON/OFF
+CLG1
+CG2B CG1B (f) Measure the frequency according to the value(s) in the
+CLG2
+table below.
+Standard
+B137963E02
+Tester Connection
+Condition Specified Condition
+(Symbols)
+E58-33 (CLG1) - E58-34 Frequency is generated
+During ACTIVE TEST
+(CG1B) (higher than 0 Hz)
+E58-35 (CLG2) - E58-36 Frequency is generated
+During ACTIVE TEST
+(CG2B) (higher than 0 Hz)
+NG REPLACE CERTIFICATION ECU
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+DL

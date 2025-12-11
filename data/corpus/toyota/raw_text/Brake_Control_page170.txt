@@ -1,0 +1,41 @@
+BC–164
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Result
+Condition Proceed to
+DTCs (C0200/31 and/or C0205/32) are not output A
+DTCs (C0200/31 and/or C0205/32) are output B
+HINT:
+If troubleshooting has been carried out according to the
+Problem Symptoms Table, refer back to the table and
+proceed to the next step (See page BC-134).
+B Go to step 7
+A
+USE SIMULATION METHOD TO CHECK
+BC 5 CHECK FRONT SPEED SENSOR INSTALLATION
+(a) Turn the ignition switch off.
+Front Speed Sensor:
+(b) Check the speed sensor installation.
+OK:
+There is no clearance between the sensor and the
+8.0 N*m (82 kgf*cm,
+71 in.*lbf) front steering knuckle.
+The installation bolt is tightened properly.
+Torque:
+8.0 N*m (82 kgf*cm, 71 in.*lbf)
+No clearance
+OK NG
+NG INSTALL FRONT SPEED SENSOR
+BR03795E52
+CORRECTLY
+OK
+6 CHECK FRONT SPEED SENSOR TIP
+(a) Remove the front speed sensor (See page BC-438).
+(b) Check the speed sensor tip.
+OK:
+No scratches or foreign matter on the sensor tip.
+NOTICE:
+Check the speed sensor signal after cleaning or
+replacement (See page BC-123).
+NG CLEAN OR REPLACE FRONT SPEED
+SENSOR
+OK

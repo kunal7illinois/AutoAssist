@@ -1,0 +1,51 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Disconnect the Ignition Coils with Power Output Stage -N70,
+N127, N291, N292, N323- electrical harness connectors from
+the Ignition Coils with Power Output Stage -N70, N127, N291,
+N292, N323- .
+Checking voltage supply
+– Switch the ignition ON.
+– Using a multimeter, check the Ignition Coil electrical harness
+connector terminals 1 to 4 for voltage.
+Specified value: Battery voltage.
+– Switch the ignition OFF.
+If the specified value was Not obtained:
+– Check the Ignition Coil electrical harness connector terminal
+1 through fuse SB8 in fuse panel B to the Engine Control Mod‐
+ule (ECM) Power Supply Relay -J271 - terminal 2 (relay ter‐
+minal 87) for an open circuit. Refer to Wiring Diagrams for
+circuit locations.
+Specified value: 1.5 Ω Max.
+If the specified value was Not obtained:
+– Check the wiring connection for an open circuit, high resist‐
+ance or short circuit to Ground.
+– Check the wiring connection for damage, corrosion, loose or
+broken terminals.
+– If necessary, repair the faulty wiring connection and replace
+fuse if blown.
+If the specified value was obtained:
+Checking activation
+WARNING
+Do not touch the Ignition Coils connecting parts or adapter ca‐
+bles during the following test.
+– Disable the power supply to the Fuel Injectors -N30, N31, N32,
+N33, N83- by removing fuse.
+– Connect a diode test lamp to the Ignition Coil electrical har‐
+ness connector terminals 2 and 3.
+– Crank the engine while monitoring the diode test lamp.
+The LED should flicker.
+– Switch the ignition OFF.
+If the LED flickers and the voltage was OK:
+– Replace the faulty Ignition Coils with Power Output Stage -
+N70, N127, N291, N292, N323- Refer to the Repair Manual.
+If the LED does not flicker:
+Checking wiring
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Using a multimeter, Check the Ignition Coil electrical harness
+connector to the Engine Control Module (ECM) -J623- elec‐
+trical harness connector T60 for an open circuit. Refer to
+Wiring Diagrams for pin locations.
+193
+3. Diagnosis and Testing

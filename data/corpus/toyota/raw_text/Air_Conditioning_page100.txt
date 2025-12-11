@@ -1,0 +1,39 @@
+AC–100
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+(b) Measure the voltage on the A/C amplifier connector side
+Air Conditioning Amplifier
+according to the value(s) in the table below.
+Connector Wire Harness View:
+Standard voltage
+Tester Connection Condition Specified Condition
+E38
+E38-23 (BLW) - Body
+Ignition switch on (IG) 4.5 to 5.5 V
+ground
+NG REPLACE BLOWER MOTOR
+BLW
+E124470E12
+OK
+7 INSPECT AIR CONDITIONING AMPLIFIER
+(a) Remove the A/C amplifier.
+(b) Reconnect the connector to the A/C amplifier.
+Air Conditioning Amplifier
+Connector Wire Harness View:
+AC E38
+BLW
+E124471E06
+(c) Turn the ignition switch on (IG) .
+(d) Turn the blower switch ON.
+(e) Measure the waveform between terminal E38-23 (BLW)
+of the A/C amplifier and body ground.
+OK:
+Waveform is as shown in the illustration.
+HINT:
+Waveform varies with the blower level.
+GND
+Item Contents
+E103396E01 Tool setting 1 V/DIV., 500 µs/DIV.
+Ignition switch on (IG)
+Vehicle condition
+Blower switch: ON
+NG REPLACE AIR CONDITIONING AMPLIFIER

@@ -1,0 +1,48 @@
+AV–47
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+DTC 01-DF Master Error
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+• Radio receiver power source circuit
+The device with a display fails and the master is
+• AVC-LAN circuit between the radio receiver and the
+01-DF switched to the audio device.
+component which has stored this code
+*1 Also when a communication error between the sub-
+• Radio receiver
+master (audio) and master occurs, this code is stored.
+• Component which has stored this code
+HINT:
+*1: When 210 seconds have elapsed after disconnecting the power supply connector of the master
+component with the ignition switch on (ACC or IG), this code is stored.
+NOTICE:
+• Before starting troubleshooting, be sure to clear DTCs to erase codes stored due to the
+reasons described in the HINT above. Then, check for DTCs and troubleshoot according to the
+output DTCs.
+• The radio receiver is the master unit.
+• Be sure to clear and recheck DTCs after the inspection is completed to confirm that no DTCs
+are output.
+INSPECTION PROCEDURE
+NOTICE:
+Be sure to read DESCRIPTION before performing the following procedures.
+1 CHECK RADIO RECEIVER POWER SOURCE CIRCUIT
+Refer to the radio receiver power source circuit (See page
+AV-140).
+If the power source circuit is operating normally, proceed to
+the next step.
+NEXT
+2 INSPECT RADIO RECEIVER
+(a) Disconnect the radio receiver connector.
+Premium Model Wire Harness View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester connection Condition Specified condition
+F26 ATX+
+ATX+ (F26-5) - ATX-
+Always 60 to 80 Ω
+(F26-15)
+AV
+NG REPLACE RADIO RECEIVER
+ATX-
+E129798E04

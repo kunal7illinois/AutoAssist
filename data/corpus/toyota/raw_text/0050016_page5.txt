@@ -1,0 +1,34 @@
+ES–85
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK HARNESS AND CONNECTOR (A/F SENSOR - EFI RELAY)
+(a) Check the EFI No. 1 fuse.
+Wire Harness Side: (b) Disconnect the B7 A/F sensor connector.
+(c) Remove the integration relay from the engine room No. 1
+relay block.
+A/F Sensor Connector
+(d) Check the resistance.
+Standard resistance (Check for open)
++B
+Tester Connections Specified Conditions
+B7
+B7-2 (+B) - 1A-4 (Engine room No. 1
+Below 1 Ω
+R/B)
+ES
+Standard resistance (Check for short)
+Integration Relay
+Tester Connections Specified Conditions
+B7-2 (+B) or 1A-4 (Engine room No. 1
+10 kΩ or higher
+1A R/B) - Body ground
+(e) Reconnect the A/F sensor connector.
+(f) Reinstall the integration relay.
+4 NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Engine Room
+No. 1 Relay
+Block
+EFI No. 1
+A127733E01
+OK
+CHECK ECM POWER SOURCE CIRCUIT

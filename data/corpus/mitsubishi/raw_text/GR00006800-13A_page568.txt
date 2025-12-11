@@ -1,0 +1,46 @@
+13A-568 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+Example 2
+OPEN • Cause of problem
+CIRCUIT
+Open circuit in the line between the idle air control motor
+SIDE
+and the ECM or PCM.
+• Wave pattern characteristics
+Current is not supplied to the motor coil on the open circuit
+side. (Voltage does not drop to 0 volt.) Furthermore, the
+induced electromotive force wave pattern at the normal side
+NORMAL
+SIDE is slightly different from the normal wave pattern.
+AKX01609AB
+IGNITION COIL AND IGNITION POWER
+TRANSISTOR
+Required Special Tool:
+• MB991348: Test Harness Set
+.
+Measurement Method
+1. Disconnect the ignition coil connector, and connect test
+OSCILLOSCOPE
+IGNITION COIL
+harness special tool, MB991348, in between. (All terminals
+CONNECTOR
+should be connected.)
+1 2 3 2. Connect the oscilloscope probe to ignition coil connector
+MB991348 terminal 3.
+.
+Alternate method (Test harness not available)
+<M/T>
+Connect the oscilloscope probe to ECM terminal 10 (for
+AK102984AB number 1 − number 4), terminal 23 (for number 2 − number
+3) respectively.
+<A/T>
+Connect the oscilloscope probe to PCM terminals 11 (for
+number 1 − number 4), terminal 12 (for number 2 − number
+3) respectively.
+Standard Wave Pattern
+Observation conditions
+Function Special pattern
+Pattern height Low
+Pattern selector Display
+Engine r/min Approximately 1,200 r/min
+TSB Revision

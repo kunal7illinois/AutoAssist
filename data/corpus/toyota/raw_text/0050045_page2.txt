@@ -1,0 +1,27 @@
+ES–259
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+ECM
+Ignition Switch
+AM1 ST1 STA
+Park/Neutral
+Position Switch
+ST
+AM1
+AM2 ST2 ES
+ALT AM2
+To Starter
+FL MAIN
+Battery
+A134232E01
+INSPECTION PROCEDURE
+HINT:
+• The following troubleshooting flowchart is based on the premise that the engine is cranked normally.
+If the engine will not crank, proceed to the problem symptoms table (see page ES-24).
+• Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition
+when malfunctions are detected. When troubleshooting, freeze frame data can help determine if the
+vehicle was moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or
+rich, and other data from the time the malfunction occurred.
+1 READ VALUE USING INTELLIGENT TESTER (STARTER SIGNAL)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.

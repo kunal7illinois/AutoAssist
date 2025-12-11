@@ -1,0 +1,41 @@
+ST–46
+2GR-FE STARTING – SMART KEY SYSTEM
+(b) Turn the engine switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Read the Data List according to the displays on the
+tester.
+HINT:
+When using the intelligent tester with the engine switch
+off, turn on and off any of the door courtesy light switches
+repeatedly at 1.5 second intervals or less until
+communication between the tester and vehicle starts.
+MAIN BODY:
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Status of ACC Relay Monitor / ON ON: Engine switch on (ACC)
+ACC RELAY MON -
+or OFF OFF: Engine switch off
+OK:
+"ON" (engine switch on (ACC)) appears on the
+screen.
+NG Go to step 3
+OK
+2 CHECK ENGINE SWITCH CONDITION
+(a) Check the power source mode change.
+(1) When the key is inside the vehicle and the shift lever
+is in the P position, check that pressing the engine
+switch causes the power source mode to change as
+follows:
+OK:
+off → on (ACC) → on (IG) → off
+HINT:
+• If power mode does not change to ON (IG and
+ACC) (See page ST-114).
+• If power mode does not change to ON (IG) (See
+page ST-122).
+• If power mode does not change to ON (ACC)
+(See page ST-131).
+NG GO TO OTHER PROBLEM
+OK
+ST

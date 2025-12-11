@@ -1,0 +1,54 @@
+AUTOMATIC TRANSAXLE 23A-21
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP CONDITION BEFORE TEST/OPERATION STANDARD INSPECTION DTC INSPECTION
+TEST/OPERATION ITEM PROCEDURE
+PAGE
+5 Engine: Idling Brake pedal (Retest) Data list No. 26 Stoplight 26 Stoplight
+Selector lever (1) Depressed (1) ON switch switch system
+position: N (2) Released (2) OFF (P.23A-129.)
+A/C switch Data list No. 65 Dual - Vehicle shifts
+(1) ON (1) ON pressure differently with
+(2) OFF (2) OFF switch A/C engaged
+(P.23A-279.)
+Accelerator pedal Data list No. 21 Crankshaft 21 Crankshaft
+(1) Fully closed (1) Engine position position sensor
+(2) Depressed tachometer and sensor system (P.23A-
+the MUT-II 83.)
+shows the same
+engine speed
+(2) Gradually
+rises from (1)
+Selector lever position Should be no Malfunction - Engine stalls
+(1) N → D abnormal shift when when moving
+(2) N → R shocks starting selector lever
+Time delay when from N to D or
+engaging should N to R (P.23A-
+be within 2 256.)
+seconds
+- Shift shock
+when shifting
+from N to D
+and long delay
+(P.23A-258.)
+- Shift shock
+when shifting
+from N to R
+and long delay
+(P.23A-260.)
+- Shift shock
+when shifting
+from N to D, N
+to R and long
+delay (P.23A-
+263.)
+Does not - Does not move
+move forward
+(P.23A-251.)
+- Does not move
+backward
+(P.23A-253.)
+- Does not move
+(forward or
+backward)
+(P.23A-255.)
+TSB Revision

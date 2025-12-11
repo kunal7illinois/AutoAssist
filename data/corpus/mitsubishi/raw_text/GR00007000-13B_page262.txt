@@ -1,0 +1,54 @@
+13B-262 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 14. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 2 − Fuel Trim Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0174 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0175: System too Rich (bank 2)
+. • Volume air flow sensor output frequency is 75 Hz
+System too Rich (bank 2) Circuit
+• Refer to DTC P0202, P0204, P0206 − Injector or less.
+Circuit P.13B-292. Judgment Criteria
+• Long-term fuel trim has continued to be lower
+. CIRCUIT OPERATION than −12.5 percent for 5 seconds.
+• Refer to DTC P0202, P0204, P0206 − Injector or
+Circuit P.13B-292. • Short-term fuel trim has continued to be lower
+than −12.5 percent for 5 seconds.
+.
+TECHNICAL DESCRIPTION Check Area
+• If a malfunction occurs in the fuel system, the fuel • Engine coolant temperature is higher than 77°C
+trim value becomes too small. (171°F).
+• The ECM <M/T> or PCM <A/T> checks whether • Under the closed loop air/fuel ratio control.
+the fuel trim value is within a specified range.
+Judgment Criteria
+• Long-term fuel trim has continued to be −12.5
+.
+DTC SET CONDITIONS
+percent for 5 seconds.
+Check Area or
+• Under the closed loop air/fuel ratio control. • Short-term fuel trim has continued to be −7.4 per-
+• Engine coolant temperature is higher than 77°C cent for 5 seconds.
+(171°F).
+• Volume air flow sensor output frequency is 75 Hz . TROUBLESHOOTING HINTS (The most likely
+or more. causes for this code to be set are: )
+• Volume air flow sensor failed.
+Judgment Criteria
+• Long-term fuel trim has continued to be lower • Injector (Number 2, 4, 6) failed.
+than −12.5 percent for 5 seconds. • Incorrect fuel pressure.
+• Left bank heated oxygen sensor failed.
+or
+• Short-term fuel trim has continued to be lower • Engine coolant temperature sensor failed.
+than −7.4 percent for 5 seconds. • Intake air temperature sensor failed.
+• Barometric pressure sensor failed.
+Check Area • Exhaust leak.
+• Under the closed loop air/fuel ratio control. • Use of incorrect or contaminated fuel.
+• Engine coolant temperature is higher than 77°C • ECU failed. <M/T>
+(171°F).
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

@@ -1,0 +1,57 @@
+13A-408 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC P0551: Power Steering Pressure Sensor Circuit Range/Performance
+3132333435363738
+3940414243444546
+1
+AK000670
+. • When the steering wheel is turned, hydraulic
+CIRCUIT OPERATION
+• A battery positive voltage is applied to the power pressure rises. The power steering pressure
+switch closes, and the applied battery positive
+steering pressure switch output terminal (terminal
+voltage will be grounded. With this, the power
+1) from the ECM (terminal 37) or PCM (terminal
+steering pressure switch output voltage will fluc-
+52) <A/T> via the resistor in the ECM <M/T> or
+tuate between 12 volts and 0 volt.
+PCM <A/T>.
+• While driving with the steering wheel held
+straight, the power steering pressure switch turns
+.
+TECHNICAL DESCRIPTION
+"OFF".
+• The power steering pressure switch converts the
+• The ECM <M/T> or PCM <A/T> checks whether
+existence of a power steering load into a high/low
+the power steering pressure switch turns "OFF"
+voltage, and inputs it into the ECM <M/T> or PCM
+or "ON" during driving.
+<A/T>.
+.
+TSB Revision
+WOLLEY
+Power Steering Pressure Switch Circuit
+C-53 <M/T>
+(MU803771)
+ENGINE CONTROL
+MODULE (ECM) <M/T>
+C-54 <A/T> OR
+(MU803781) POWERTRAIN CONTROL
+MODULE (PCM) <A/T>
+41 42 43 444546
+47 48 495051525354555657
+58 59 60616263 646566 37 <M/T>
+52 <A/T>
+B-19 1
+POWER STEERING
+PRESSURE SWITCH
+CONNECTOR : B-19 CONNECTORS:C-53<M/T>,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+POWER STEERING
+PRESSURE SWITCH
+C-53,C-54
+ACX02520AD
+AK000280BH

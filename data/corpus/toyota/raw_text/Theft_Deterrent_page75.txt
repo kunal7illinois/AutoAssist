@@ -1,0 +1,19 @@
+TD–73
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/o Smart Key System)
+Security Indicator Light Circuit
+DESCRIPTION
+Even when the theft deterrent system is in the disarmed state, the security indicator blinks due to a signal
+output from the immobiliser system. The security indicator blinks continuously due to a continuous signal
+received from the immobiliser system while in the armed state.
+The main body ECU causes the security indicator to light up or blink only during the arming preparation
+state and alarm sounding states.
+WIRING DIAGRAM
+Instrument Panel J/B
+F3
+Main Body ECU
+Clock Assembly
+Security Indicator
+4
+19 8
+GND1 LP E9 IND
+B139445E01 TD

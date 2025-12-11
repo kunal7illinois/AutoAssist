@@ -1,0 +1,40 @@
+TW–70
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+1 CHECK HARNESS AND CONNECTOR (COMBINATION METER - TIRE PRESSURE
+WARNING ECU)
+(a) Disconnect the F1 combination meter connector.
+Combination Meter Assembly
+Wire Harness View:
+F1
+TW
+TIRE
+E123360E03
+(b) Disconnect the E60 tire pressure warning ECU
+Tire Pressure Warning ECU
+connector.
+(c) Measure the resistance according to the value(s) in the
+E60 table below.
+Standard resistance
+Tester Connection Specified Condition
+F1-7 (TIRE) - E60-5 (IND) Below 1 Ω
+F1-7 (TIRE) - Body ground 10 kΩ or higher
+IND
+E133089E01
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+2 INSPECT COMBINATION METER
+(a) Disconnect the connector from the tire pressure warning
+Tire Pressure Warning ECU
+ECU.
+(b) Turn the ignition switch on (IG), check the condition of
+the tire pressure warning light illumination.
+E60
+Result
+Condition Proceed to
+Illuminates A
+Does not illuminate B
+E133089E04
+B REPLACE COMBINATION METER
+A
+REPLACE TIRE PRESSURE WARNING ECU

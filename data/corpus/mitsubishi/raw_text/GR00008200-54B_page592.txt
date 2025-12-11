@@ -1,0 +1,22 @@
+54B-592 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTOR: C-90 CONNECTOR: C-117
+CONNECTOR BLOCK (LH) JUNCTION BLOCK
+(REAR VIEW)
+AC106477AF AC106481AC
+CONNECTOR <ECLIPSE>: F-10 CONNECTOR <ECLIPSE SPYDER>: F-10
+AC106489AE AC106491AD
+. .
+CIRCUIT OPERATION TROUBLESHOOTING HINTS
+The ETACS-ECU uses the input signal from the lift- • Malfunction of the liftgate lock key cylinder switch
+gate lock key cylinder switch <ECLIPSE> or the <ECLIPSE>
+trunk lid lock key cylinder switch <ECLIPSE SPY- • Malfunction of the trunk lid lock key cylinder
+DER> to arm the theft-alarm system. switch <ECLIPSE SPYDER>
+• Malfunction of the ETACS-ECU
+. TECHNICAL DESCRIPTION (COMMENT) • Damaged harness wires or connectors
+The liftgate lock key cylinder switch <ECLIPSE> or
+The Trunk Lid Lock Key Cylinder Switch <ECLIPSE
+SPYDER> input signal is used to arm the theft-alarm
+system. If the input signal is an error, the theft-alarm
+system will not be armed normally.
+TSB Revision

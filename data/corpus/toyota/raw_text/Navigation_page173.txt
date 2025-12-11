@@ -1,0 +1,26 @@
+NS–173
+NAVIGATION – NAVIGATION SYSTEM
+Sound Signal Circuit between Radio and Navigation Assembly and
+Stereo Component Amplifier
+DESCRIPTION
+The radio and navigation assembly sends a sound signal to the stereo component amplifier through this
+circuit.
+The sound signal that has been sent is amplified by the stereo component amplifier, and then is sent to
+the speakers.
+If there is an open or short in the circuit, sound cannot be heard from the speakers even if there is no
+malfunction in the stereo component amplifier or speakers.
+WIRING DIAGRAM
+Stereo Component Amplifier Radio and Navigation Assembly
+6 (Sielded) 10
+SLD F19 F9 SLD
+2 19
+L- F19 F9 L-
+3 9
+L+ F19 F9 L+
+18
+4
+R- F19 F9 R-
+5 8
+R+ F19 F9 R+
+E129783E01
+NS

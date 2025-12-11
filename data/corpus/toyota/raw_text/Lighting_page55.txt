@@ -1,0 +1,49 @@
+LI–55
+LIGHTING – LIGHTING SYSTEM
+Door Courtesy Switch Circuit
+DESCRIPTION
+The main body ECU detects the condition of the door courtesy switches.
+WIRING DIAGRAM
+*1: without Smart Key System *2: with Smart Key System
+Main Body ECU
+24
+E7 DCTY
+21
+E6 PCTY
+7 (*2)
+E6 RCTY
+5 (*1)
+Instrument Panel J/B
+7
+IO LCTY
+17
+1 1 1 1
+M6 O6 O10 N13
+Door Courtesy Door Courtesy Door Courtesy Door Courtesy
+Switch (Driver Switch (Front Switch (Rear RH) Switch (Rear LH)
+Side) Passenger Side)
+C
+B110597E05
+INSPECTION PROCEDURE
+LI
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Select the items below in the DATA LIST, and read the
+display on the intelligent tester.
+MAIN BODY (MAIN BODY ECU):
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Driver side door courtesy switch ON: Driver side door is open
+D DOR CTY SW -
+signal / ON or OFF OFF: Driver side door is closed
+ON: Passenger side door is open
+Passenger side door courtesy
+P DOR CTY SW OFF: Passenger side door is -
+switch signal / ON or OFF
+closed
+Rear right door courtesy switch ON: Rear right door is open
+RR DOR CTY SW -
+signal / ON or OFF OFF: Rear right door is closed

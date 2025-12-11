@@ -1,0 +1,48 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-81
+SYMPTOM PROCEDURES
+Operating the Driver(cid:146)s or Passenger(cid:146)s Door Lock Switch
+When the door is unlocked by driver(cid:146)s or passenger’s door lock
+Driver's or
+UNLOCK switch, the ETACS-ECU activates the unlock relay output for
+Passenger's
+door lock OFF 0.25 seconds and unlocks all doors.
+switch
+ON
+Unlock relay output
+OFF t
+Driver's and
+LOCK
+passenger's
+door lock
+UNLOCK
+actuator switch
+t: 0.25 seconds AC106699AC
+.
+Forgotten Key Prevention Function
+If the driver’s door is opened with the ignition key ond after approximately 0.3 second. This prevents
+inserted in the ignition key cylinder and then locked the door from being locked unintentionally. If the sys-
+(ie, the unlock switch integrated in the driver’s door tem fails to unlock the door, the ETACS-ECU try to
+lock actuator is off, and the lock switch is on), the turn on the unlock relay five times in maximum for
+ETACS-ECU turns on the unlock relay for 0.25 sec- 2.25 second every one second.
+KEY REMINDER
+SWITCH
+DRIVER'S DOOR(OPEN)ON
+SWITCH
+(CLOSE)OFF
+DRIVER'S DOOR LOCK
+LOCK ACTUATOR
+SWITCH UNLOCK
+LOCK RELAY ON
+OUTPUT
+OFF
+UNLOCK RELAY ON
+OUTPUT
+OFF
+t : 0.3 seconds
+AC101499AD
+T1 : 0.25 seconds
+T2 : 1 second
+NOTE: The dotted line indicates that the system is
+trying to turn on the unlock relay if the door can not
+be unlocked.
+TSB Revision

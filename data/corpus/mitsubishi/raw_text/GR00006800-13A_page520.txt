@@ -1,0 +1,42 @@
+13A-520 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the power supply voltage at fuel pump relay
+1 harness side connector C-107.
+(1) Disconnect the connector C-107 and measure at the
+harness side.
+(2) Turn the ignition switch to the "ON" position.
+AK103836
+(3) Measure the voltage between terminal 3 and ground.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 6.
+NO : Check harness connector C-111 at intermediate
+connector for damage, and repair or replace as
+required. Refer to, GROUP 00E, Harness Connector
+Inspection P.00E-2. If intermediate connector is in
+good condition, repair harness wire between ignition
+switch connector C-87 (terminal 2) and fuel pump
+relay 1 connector C-107 (terminal 3) because of open
+circuit. Then confirm that the malfunction symptom is
+eliminated.
+TSB Revision
+44
+33
+44
+33
+22
+11
+22
+11
+CONNECTOR: C-107
+JUNCTION BLOCK
+C-107
+HARNESS SIDE
+CONNECTOR
+AB
+C-107 HARNESS
+SIDE CONNECTOR
+2 1
+4 3
+AK101347AG

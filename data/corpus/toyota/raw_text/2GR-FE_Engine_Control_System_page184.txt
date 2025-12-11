@@ -1,0 +1,47 @@
+ES–184
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Engine rpm Less than 3,200 rpm
+A/F sensor status Activated
+Fuel system status Closed loop
+Fuel-cut OFF
+Engine load 10 to 70%
+Shift position 4th or more
+HO2S low impedance (P0136, P0156):
+Battery voltage 11 V or more
+Estimated rear HO2S temperature Less than 700°C (1,292°F)
+ECM monitor Completed
+P0606 Not set
+HO2S high impedance (P0137, P0157):
+ES Battery voltage 11 V or more
+Estimated rear HO2S temperature 450°C (842°F) or more
+P0606 Not preset
+HO2S high voltage (Extremely high) (P0138, P0158):
+Battery voltage 11 V or more
+Time after engine start 2 seconds or more
+TYPICAL MALFUNCTION THRESHOLDS
+HO2S voltage (P0136, P0156):
+Either of the following conditions 1 or 2 is met: -
+1. All of the following conditions (a), (b) and (c) are met: -
+(a) Commanded air-fuel ratio 14.3 or less
+(b) Rear HO2S voltage 0.21 to 0.59 V
+(c) OSC (Oxygen capacity of catalyst) 2 g or more
+2. All of the following conditions (d), (e) and (f) are met: -
+(d) Commanded air-fuel ratio 14.9 or more
+(e) Rear HO2S voltage 0.21 to 0.59 V
+(f) OSC (Oxygen capacity of catalyst) 2 g or more
+HO2S low impedance (P0136, P0156):
+Duration that following condition is met: 30 seconds or more
+Rear HO2S impedance Less than 5 Ω
+HO2S high impedance (P0137, P0157):
+Duration that following condition is met: 90 seconds or more
+Rear HO2S impedance 15 kΩ or more
+HO2S low voltage (P0137, P0157):
+All of the following conditions 1, 2 and 3 are met: -
+1. Commanded air-fuel ratio 14.3 or less
+2. Rear HO2S voltage Less than 0.21 V
+3. OSC (Oxygen capacity of catalyst) 2 g or more
+HO2S high voltage (P0138, P0158):
+All of the following conditions 1, 2 and 3 are met: -
+1. Commanded air-fuel ratio 14.9 or more
+2. Rear HO2S voltage More than 0.59 V
+3. OSC (Oxygen capacity of catalyst) 2 g or more

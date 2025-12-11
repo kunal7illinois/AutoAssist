@@ -1,0 +1,51 @@
+FUEL SUPPLY 13C-5
+FUEL SUPPLY DIAGNOSIS
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(4) Connect scan tool MB991502 to the data link connector.
+(5) Use the Actuator test 07 to drive the fuel pump. Check that
+there is no fuel leaking from any section when the fuel
+pump is operating.
+16 PIN (6) Stop the fuel pump.
+(7) Start the engine and run at idle.
+MB991502 (8) Measure fuel pressure while the engine is running at idle.
+AC000077AB
+Standard value: Approximately 270 kPa (38 psi) at
+curb idle
+(9) Disconnect the vacuum hose from the fuel pressure
+<2.4L>
+regulator and measure fuel pressure with the hose end
+closed with your finger.
+Standard value: 330 − 350 kPa (47 − 50 psi) at curb
+idle
+(10)Check to see that fuel pressure at idle does not drop even
+after the engine has been revved several times.
+(11)Revving the engine repeatedly, hold the fuel return hose
+lightly with your fingers to feel that fuel pressure is present
+AC106099AB in the return hose.
+NOTE: If the fuel flow rate is low, there will be no fuel pres-
+<3.0L>
+sure in the return hose.
+(12)If any of fuel pressure measured in steps 10 to 13 is out of
+specification, troubleshoot and repair according to the table
+below.
+AC106100AB
+SYMPTOM PROBABLE CAUSE REMEDY
+• Fuel pressure too low Clogged fuel filter Replace fuel filter
+• Fuel pressure drops after racing
+Fuel leaking to return side due to Replace fuel pressure regulator
+• No fuel pressure in fuel return
+poor fuel regulator valve seating or
+hose
+settled spring
+Low fuel pump delivery pressure Replace fuel pump
+Fuel pressure too high Binding valve in fuel pressure Replace fuel pressure regulator
+regulator
+Clogged fuel return hose or pipe Clean or replace hose or pipe
+Same fuel pressure when vacuum Damaged vacuum hose or Replace vacuum hose or clean
+hose is connected and when clogged nipple nipple
+disconnected
+Defective fuel pressure regulator Replace fuel pressure regulator
+TSB Revision

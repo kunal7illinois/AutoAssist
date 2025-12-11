@@ -1,0 +1,42 @@
+SE–102
+SEAT – SEAT HEATER SWITCH
+(b) Inspect the front passenger side seat heater switch
+operation.
+(1) Measure the resistance according to the
+value(s) in the table below.
+Standard resistance
+Tester Connection Switch Position Specified Condition
+E55-5 (IG) - E55-6 (RH) OFF 10 kΩ or higher
+E55-5 (IG) - E55-6 (RH) ON Below 1 Ω
+If the result is not as specified, replace the
+switch.
+SE (2) Turn the seat heater switch on and check if the
+seat heater switch indicator comes on.
+E55
+OK
+Measurement Condition Specified Condition
+Battery positive (+) → Terminal E55-5 (IG)
+Comes on
+RH Battery negative (-) → Terminal E55-4 (E)
+If the result is not as specified, replace the
+IG E switch.
+B126242E01
+(c) Check if the seat heater switch indicator comes on.
+OK
+Measurement Condition Specified Condition
+Battery positive (+) → Terminal E55-1 (ILL+)
+Comes on
+Battery negative (-) → Terminal E55-2 (ILL-)
+If the result is not as specified, replace the switch.
+E55
+ILL- ILL+
+B126241E01
+INSTALLATION
+1. INSTALL SEAT HEATER SWITCH
+(a) Engage the 2 claws and install the seat heater
+switch.
+2. INSTALL FLOOR SHIFT POSITION INDICATOR
+HOUSING SUB-ASSEMBLY (See page IP-53)
+3. INSTALL NO. 2 INSTRUMENT CLUSTER FINISH
+PANEL GARNISH (See page IP-54)
+B140583E01

@@ -1,0 +1,61 @@
+Audi TT No. 17 / 2
+Current Flow Diagram
+Lumbar support adjustment switch, lumbar support
+adjustment motors, fuses
+E176 Driver seat lumbar support adjustment switch
+E177 Front passenger seat lumbar support adjustment switch
+SA4 Fuse 4 on fuse holder A
+SB8 Fuse 8 on fuse holder B
+SB10 Fuse 10 on fuse holder B
+T6aa 6-pin connector, in driver seat
+T6ab 6-pin connector, in front passenger seat
+SA4/110A ✱
+T10f 10-pin connector, red, under driver seat
+22 33 T10g 10-pin connector, red, under front passenger seat
+V125 Driver seat lumbar support longitudinal adjustment motor
+16,0 1,5 1,5 1,5 1,5 V126 Front passenger seat lumbar support longitudinal adjustment
+ro br ro/gn br ro/gn
+motor
+V129 Driver seat lumbar support height adjustment motor
+B272 V130 Front passenger seat lumbar support height adjustment motor
+6
+ro
+,0
+3 4
+E176
+3 4
+E177 43 Earth point, lower part of right A-pillar
+44 Earth point, lower part of left A-pillar
+8 10
+ST1 S 30 B A 8 S 10 B A 10 374 Earth connection 9, in main wiring harness
+8a 10a 1 2 5 6 1 2 5 6
+389 Earth connection 24, in main wiring harness
+1,0 1,0 1,5 1,5 1,5 1,5 1,5 1,5 1,5 1,5
+ro/ws ro/ws ro/ge ge sw bl sw bl ge ro/ge
+390 Earth connection 25, in main wiring harness
+T10f T10g T10f/5 T6aa T6aa T6aa T6aa T10g T6ab T6ab T6ab T6ab B272 Positive connection (30), in main wiring harness
+/4 /4 /4 /3 /2 /1 /5 /2 /1 /4 /5
+* Main fuse holder, electronics box, in front left engine
+compartment
+1,5 1,5 1,0 1,5 1,5 1,5 1,5 1,0 1,5 1,5 1,5 1,5
+ro/gn ro/gn br ro/ge ge sw bl br sw bl ge ro/ge
+389
+88 1133 374
+B A B A B A A B
+M M M M
+2,5
+br ws = white
+V129 V125 V130 V126
+sw = black
+390 ro = red
+br = brown
+2,5 4,0 gn = green
+br br
+bl = blue
+gr = grey
+44 43 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-017020806
+rs = pink
+Edition 08.2006

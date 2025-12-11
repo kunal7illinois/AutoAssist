@@ -1,0 +1,25 @@
+ES–118
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Time after engine start 10 seconds or more
+P0032 and P0052:
+Battery voltage Less than 20 V
+Engine Running
+Heater output duty More than 0 %
+TYPICAL MALFUNCTION THRESHOLDS
+P0031 and P0051:
+A/F sensor heater current Less than 0.8 A
+P0032 and P0052:
+Hybrid IC high current limiter port Fail
+ES
+COMPONENT OPERATING RANGE
+P0031 and P0051:
+A/F sensor heater current 1.8 to 3.4 A at 20°C (68°F)
+WIRING DIAGRAM
+Refer to DTC P2195 (See page ES-350)
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).

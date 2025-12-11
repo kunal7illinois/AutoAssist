@@ -1,0 +1,28 @@
+35B-22 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+STEP 5. Check the harness wire between the ABS-ECU
+connector A-02 (terminal 14) and the stoplight switch
+connector C-03 (terminal 1).
+NOTE: After inspecting the intermediate connector C-06,
+CONNECTOR: C-06
+inspect the wire. If the intermediate connector C-06 is dam-
+aged, repair or replace it. Refer to GROUP 00E, Harness Con-
+nector Inspection P.00E-2. If the connector has been repaired
+or replaced, go to Step 7.
+COMBINATION
+METER
+AC001989BH
+Q:Is the harness wire between the ABS-ECU connector A-
+CONNECTOR: A-02
+02 (terminal 14) and the stoplight switch connector C-03
+(terminal 1) damaged?
+YES : Repair it and then go to Step 7.
+NO : No action is to be taken.
+HARNESS SIDE
+AC001985AF
+CONNECTOR: C-03
+COMBINATION METER
+C-03
+(HARNESS SIDE)
+AC001989BI
+TSB Revision

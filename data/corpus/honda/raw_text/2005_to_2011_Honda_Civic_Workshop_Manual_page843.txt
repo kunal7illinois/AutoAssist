@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Is the 2nd PRESSURE SWITCH OFF?
+YES -Replace the 2nd clutch transmission fluid pressure switch (see 2ND
+CLUTCH TRANSMISSION FLUID PRESSURE SWITCH
+REPLACEMENT ), then go to step 15.
+NO -Go to step 11.
+11. Turn the ignition switch to LOCK (0).
+12. Jump the SCS line with the HDS.
+13. Disconnect PCM connector B (44P).
+14. Check for continuity between PCM connector terminal B8 and body ground.
+Fig. 121: Checking Continuity Between PCM Connector Terminal B8 And
+Body Ground
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES -Repair short to body ground in the wire between PCM connector
+terminal B8 and the 2nd clutch transmission fluid pressure switch, then go to
+step 15.
+NO -Go to step 22.
+15. Reconnect all connectors.
+16. Turn the ignition switch to ON (II).
+17. Clear the DTC with the HDS.

@@ -1,0 +1,50 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-257
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC P0401: Exhaust Gas Recirculation Flow Insufficient Detected
+. • The throttle valve is closed.
+TECHNICAL DESCRIPTION
+• When the EGR solenoid switches from "OFF" to • Volumetric efficiency is lower than 15 <M/T> or
+24 <A/T> percent.
+"ON" while the engine is running, EGR gas flows.
+• The ECM <M/T> or PCM <A/T> checks how the • While fuel is being shut off. <M/T>
+• The ECM<M/T> or PCM<A/T> monitors for this
+EGR gas flow signal changes.
+condition for 3 cycles of 2 second each during the
+drive cycle.
+.
+DTC SET CONDITIONS
+Judgement Criteria
+Check Conditions
+• When intake manifold pressure fluctuation width
+• At least 20 seconds have passed since the last
+is lower than 2.6 kPa (0.38 psi). When the EGR
+monitor was complete.
+solenoid is turned ON.
+• Engine coolant temperature is higher than 76°C
+(169°F).
+.
+• Engine speed is at between 1,000 and 2,000 <M/ TROUBLESHOOTING HINTS (The most likely
+causes for this code to be set are: )
+T> or 940 and 2,000 <A/T> r/min.
+• Intake air temperature is higher than 0°C (32°F). • EGR valve does not open.
+• Barometric pressure is higher than 76 kPa (11 • EGR control vacuum is too low.
+• EGR solenoid failed.
+psi).
+• Vehicle speed is 1.5 km/h (0.9 mph) <M/T> or 30 • Open or shorted EGR solenoid circuit, or loose
+connector.
+km/h (18.7 mph) <A/T> or more.
+• At least 90 seconds have passed since manifold • Manifold differential pressure sensor failed.
+• ECM failed. <M/T>
+differential pressure sensor output voltage fluctu-
+• PCM failed. <A/T>
+ated 1.5 volts or more.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the EGR system.
+Refer to GROUP 17, Emission Control System − Exhaust Gas
+Recirculation (EGR) System − EGR System Check P.17-106.
+Q:Are there any abnormalities?
+YES : Go to Step 2.
+NO : Repair it. Then go to Step 3.
+TSB Revision

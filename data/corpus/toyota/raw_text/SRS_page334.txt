@@ -1,0 +1,62 @@
+RS–332
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+Tester connection Condition Specified condition
+T11-12 (SVC2) - Body
+Always 1 MΩ or Higher
+ground
+for Manual seat
+Tester connection Condition Specified condition
+d1-5 (SVC3) - Body
+Always 1 MΩ or Higher
+ground
+d1-6 (SVC4) - Body
+Always 1 MΩ or Higher
+ground
+d1-11 (SVC1) - Body
+Always 1 MΩ or Higher
+ground
+d1-12 (SVC2) - Body
+Always 1 MΩ or Higher
+ground
+NG REPAIR OR REPLACE FRONT SEAT WIRE
+RH
+OK
+5 CHECK FRONT SEAT WIRE RH (OPEN)
+(a) Measure the resistance according to the value(s) in the
+table below.
+T11 (*1)
+SVC3 Standard resistance:
+d1 (*2)
+SVC4 for Power seat
+Tester connection Condition Specified condition
+SVC2
+T11-5 (SVC3) - T15-1
+Always Below 1 Ω
+RS SVC1 (SVC3)
+*1: for Power Seat
+T11-6 (SVC4) - T17-1
+Always Below 1 Ω
+*2: for Manual Seat (SVC4)
+H043111E44 T11-11 (SVC1) - T14-1
+Always Below 1 Ω
+(SVC1)
+T11-12 (SVC2) - T16-1
+Always Below 1 Ω
+(SVC2)
+for Manual seat
+Tester connection Condition Specified condition
+d1-5 (SVC3) - d3-1
+Always Below 1 Ω
+(SVC3)
+d1-6 (SVC4) - d5-1
+Always Below 1 Ω
+(SVC4)
+d1-11 (SVC1) - d2-1
+Always Below 1 Ω
+(SVC1)
+d1-12 (SVC2) - d4-1
+Always Below 1 Ω
+(SVC2)
+NG REPAIR OR REPLACE FRONT SEAT WIRE
+RH
+OK

@@ -1,0 +1,22 @@
+AC–60
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+DTC B1421/21 Solar Sensor Circuit (Passenger Side)
+DESCRIPTION
+Resistance of Photodiode
+High
+Low
+Weak Strong
+Strength of Solar Radiation
+E107008E01
+The solar sensor, which is installed on the upper side of the instrument panel, detects sunlight and
+controls the air conditioning in AUTO mode. The output voltage from the solar sensor varies according to
+the amount of sunlight. When the sunlight increases, the output voltage increases. As the sunlight
+decreases, the output voltage decreases. The A/C amplifier detects voltage output from the solar sensor.
+DTC No. DTC Detection Condition Trouble Area
+• Solar sensor
+AC • Harness or connector between solar sensor and A/
+C amplifier
+B1421/21 Open or short in passenger side solar sensor circuit • Harness or connector between solar sensor and
+main body ECU
+• A/C amplifier
+• Main body ECU

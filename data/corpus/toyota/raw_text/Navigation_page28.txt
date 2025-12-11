@@ -1,0 +1,28 @@
+NS–28
+NAVIGATION – NAVIGATION SYSTEM
+(c) Select "Software Version" from the "'Bluetooth'
+Check Menu" screen.
+E120066
+(1) Check the software version of the "Bluetooth"
+module.
+*1
+*2
+*3
+*4
+E120067E02
+Screen Description:
+Display Contents
+• General software version of "Bluetooth" module
+General Version/*1 • If any of the API version, upper stack version, and low stack
+version is updated, the general version is upgraded.
+API Version/*2 API software version is displayed.
+Upper Stack Version/*3 Upper Stack version is displayed.
+Lower Stack Version/*4 Lower Stack version is displayed.
+HINT:
+This function is controlled by the built-in display
+ECU.
+4. HANDSFREE VOICE QUALITY SET
+(a) Select "Handsfree Voice Quality Set" from the
+"'Bluetooth' Handsfree Check Menu" screen.
+E120068
+NS

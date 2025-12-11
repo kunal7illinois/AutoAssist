@@ -1,0 +1,28 @@
+BE-52 BODY ELECTRICAL - AIR CONDITIONING
+4. A/C Compressor
+General
+(cid:1) The A/C compressor is a continuously variable capacity type in which its capacity can be varied in
+accordance with the cooling load of the air conditioning.
+(cid:1) This compressor consists of the A/C pulley, shaft, lug plate, swash plate, piston, shoe, crank chamber,
+cylinder, and solenoid valve.
+(cid:1) The A/C pulley with built-in magnetic clutch and the lock sensor that detects whether the magnetic
+clutch is locked are installed on models with the 2GR-FE engine.
+(cid:1) The DL (Damper Limiter) type A/C pulley is installed on models with the 2AZ-FE engine.
+(cid:1) A solenoid valve that adjusts the suction pressure so that the compressor capacity can be controlled as
+desired is provided.
+(cid:1) The internal valve is provided on models with 2AZ-FE engine to improve the A/C compressor durability
+under the high speed and large thermal load conditions. The internal valve is integrated into the solenoid
+valve.
+Crank Chamber Swash Plate
+Lug Plate Shoe
+Piston
+A/C Pulley
+(cid:1) Magnetic Clutch
+Cylinder
+Solenoid Valve
+025BE48TE
+Lock Sensor Shaft
+A/C Compressor for Models with 2GR-FE Engine
+Lock Sensor (Only for Models with 2GR-FE Engine)
+The lock sensor sends A/C pulley speed signals to the A/C ECU. The A/C ECU determines whether the
+magnetic clutch is locked or not by using those signals and engine speed signals.

@@ -1,0 +1,62 @@
+CH-10 CHASSIS - U250E AUTOMATIC TRANSAXLE
+(cid:2)PLANETARY GEAR UNIT
+1. Construction
+(cid:1) The U250E automatic transaxle uses the gear layout in which the front and rear planetary gear units are
+placed on the input shaft (intermediate shaft), the counter drive and driven gears are placed on the front
+of the front planetary gear unit, and the U/D planetary gear unit is placed on the counter shaft.
+(cid:1) A centrifugal fluid pressure canceling mechanism is used in the C , C , C , and C clutches that are applied
+0 2 3 1
+when shifting from 2nd to 3rd, from 3rd to 4th and from 4th to 5th. For detail, refer to Centrifugal Fluid
+Pressure Canceling Mechanism on page CH-16.
+Front Planetary
+Gear Unit
+Pinion Gear
+B 1 F 1 B 2 Sun Gear C 1
+C C
+0 2
+Input Shaft
+Sun Gear Intermediate Shaft
+Ring
+Gear Counter Drive Gear
+Rear Planetary Ring Gear
+C
+Gear Unit 3
+Differential
+Drive Pinion
+Counter Shaft
+Sun Gear Pinion Gear
+Ring Gear
+F 2 B 3 U/D Planetary Counter
+Gear Unit Driven Gear
+212CH01
+2. Function of Components
+Component Function
+C Forward Clutch Connects input shaft and front planetary sun gear.
+1
+C Reverse Clutch Connects input shaft and rear planetary sun gear.
+2
+C U/D Direct Clutch Connects U/D planetary sun gear and U/D planetary carrier.
+3
+C Direct & O/D Clutch Connects input shaft and rear planetary carrier.
+0
+Prevents rear planetary sun gear from turning either clockwise or
+B 2nd & O/D Brake
+1
+counterclockwise.
+Prevents rear planetary carrier and front planetary ring gear from
+B 1st & Reverse Brake
+2
+turning either clockwise or counterclockwise.
+Prevents U/D planetary sun gear from turning either clockwise or
+B U/D Brake
+3
+counterclockwise.
+Prevents rear planetary carrier and front planetary ring gear from
+F No.1 One-Way Clutch
+1
+turning counterclockwise.
+F U/D One-Way Clutch Prevents U/D planetary sun gear from turning clockwise.
+2
+These gears change the route through which driving force is
+Planetary Gears transmitted, in accordance with the operation of each clutch and
+brake, in order to increase or reduce the input and output speeds.

@@ -1,0 +1,42 @@
+54B-460 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 16. Check horn relay connector A-05X and horn
+connector A-27 for damage.
+Q:Are horn relay connector A-05X and horn connector A-
+CONNECTOR: A-05X
+27 in good condition?
+YES : Go to Step 17.
+FRONT-ECU NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. All the
+vehicle horn (including the theft-alarm horn) should
+DEVICE SIDE sound when the theft-alarm system is triggered.
+A-05X
+1 2
+X
+3 4
+AC106537AH
+CONNECTOR: A-27
+DEVICE SIDE
+1
+AC106465AF
+STEP 17. Check the wiring harness between horn relay
+connector A-05X (terminal 4) and horn connector A-27
+(terminal 1).
+Q:Is the wiring harness between horn relay connector A-
+CONNECTOR: A-05X
+05X (terminal 4) and horn connector A-27 (terminal 1) in
+good condition?
+FRONT-ECU YES : Go to Step 18.
+NO : Repair the wiring harness. All the vehicle horn
+(including the theft-alarm horn) should sound when
+DEVICE SIDE the theft-alarm system is triggered.
+A-05X
+1 2
+X
+3 4
+AC106537AH
+CONNECTOR: A-27
+DEVICE SIDE
+1
+AC106465AF
+TSB Revision

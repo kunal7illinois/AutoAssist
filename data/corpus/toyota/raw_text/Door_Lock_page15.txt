@@ -1,0 +1,74 @@
+DL–15
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+(a) Disconnect the E6, E7, IO, IK, IM, ID, IA, IF, IJ, and
+E9 J/B and ECU connectors.
+(b) Measure the voltage and resistance according to
+the value(s) in the table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Driver door courtesy Driver door CLOSED → 10 kΩ or higher →
+DCTY (E7-24) - Body ground L - Body ground
+switch OPEN Below 1 Ω
+RCTY (E6-5 (*1), 7 (*2)) - Body Rear right door courtesy Rear right door CLOSED 10 kΩ or higher →
+GR - Body ground
+ground switch input → OPEN Below 1 Ω
+Passenger door courtesy Passenger door CLOSED 10 kΩ or higher →
+PCTY (E6-21) - Body ground Y - Body ground
+switch input → OPEN Below 1 Ω
+Rear left door courtesy Rear left door CLOSED → 10 kΩ or higher →
+LCTY (IO-7) - Body ground LG - Body ground
+switch input OPEN Below 1 Ω
+GND2 (IM-9) - Body ground W-B - Body ground Ground Always Below 1 Ω
+Ignition switch on (IG) → 10 to 14 V →
+IG (IA-1) - Body ground B - Body ground Engine power supply
+off Below 1 V
+GND1 (IF-10) - Body ground W-B - Body ground Ground Always Below 1 Ω
+ACC (IA-1) - Body ground B - Body ground ACC power supply Always 10 to 14 V
+Passenger door control Passenger door control 10 kΩ or higher →
+L1 (IJ-3) - Body ground L - Body ground
+switch LOCK input switch OFF → LOCK Below 1 Ω
+Passenger door control Passenger door control 10 kΩ or higher →
+UL1 (IJ-4) - Body ground G - Body ground
+switch UNLOCK input switch OFF → UNLOCK Below 1 Ω
+Driver door control switch Driver door control switch 10 kΩ or higher →
+L1 (IK-15) - Body ground V - Body ground
+LOCK input OFF → LOCK Below 1 Ω
+Driver door control switch Driver door control switch 10 kΩ or higher →
+UL1 (IK-12) - Body ground G - Body ground
+UNLOCK input OFF → UNLOCK Below 1 Ω
+No key is in ignition key
+Unlock warning switch 10 kΩ or higher →
+KSW (*1) (E9-5) - Body ground L - Body ground cylinder → Key is in
+signal input Below 1 Ω
+ignition key cylinder
+Luggage compartment Luggage compartment 10 kΩ or higher →
+LGCY (E6-25) - Body ground W - Body ground
+door courtesy switch input door CLOSED → OPEN Below 1 Ω
+Using mechanical key,
+Luggage compartment operate luggage 10 kΩ or higher →
+TSW (E6-2) - Body ground R - Body ground door key-linked door compartment door lock Below 1 Ω →
+unlock input cylinder to LOCK → 10 kΩ or higher →
+OPEN → UNLOCK
+BECU (*1) (ID-10) - Body ground O - Body ground +B (BECU) power supply Always 10 to 14 V
+*1: w/o Smart Key System
+*2: w/ Smart Key System
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the J/B and ECU connectors.
+(d) Measure the voltage according to the value(s) in the DL
+table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Below 1 V →
+LSWL (*2), LSR (*1) (IP-5) - Body Rear left door lock position Rear left door UNLOCK →
+GR - Body ground 10 to 14 V (or pulse
+ground switch input LOCK
+generation)
+Below 1 V →
+Rear right door lock Rear right door UNLOCK
+LSWL (*1) (IL-5) - Body ground GR - Body ground 10 to 14 V (or pulse
+position switch input → LOCK
+generation)
+Below 1 V →
+Driver door lock position Driver door UNLOCK →
+LSWD (E7-9) - Body ground L - Body ground 10 to 14 V (or pulse
+switch input LOCK
+generation)

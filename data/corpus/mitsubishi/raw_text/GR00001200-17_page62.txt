@@ -1,0 +1,44 @@
+17-62 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+CONNECTOR: C-28
+AC101201AB
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+The cause is probably an open-circuit in the output
+This circuit transmits the "N" or "P" position signal of
+signal circuit in "N" range.
+the park/neutral position switch to the auto-cruise
+control-ECU.
+.
+When the park/neutral position switch is at the "N" or TROUBLESHOOTING HINTS
+"P" position, auto-cruise control-ECU terminal num- • Malfunction of the park/neutral position switch.
+ber 13 will receives 0 volt. • Damaged harness or connector.
+• Malfunction of the auto-cruise control-ECU.
+.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+STEP 1. Check the output circuit voltage at park/neutral
+position switch connector B-41 (terminal number 10) by
+backprobing.
+(1) Do not disconnect park/neutral position switch connector B-
+41.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 10 and ground by
+backprobing.
+B-41 CONNECTOR
+HARNESS SIDE VIEW • Voltage should be battery positive voltage.
+(When select lever is in a position other than "N"
+range.)
+1 2 3 4 5 6
+7 8 9 10 • Voltage should be 0.5 volts or less.
+(When select lever is in "N" range.)
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage within specifications?
+AC002393AD YES : Check that the malfunction is eliminated.
+If the malfunction is not eliminated, replace the auto-
+cruise control-ECU. (Refer to P.17-86.)
+Then check that the malfunction is eliminated.
+NO : Go to Step 2.
+TSB Revision

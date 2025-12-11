@@ -1,0 +1,79 @@
+Audi TT No. 54 / 6
+Current Flow Diagram
+Headlight range control, control unit, rear left vehicle level
+sender
+G76 Rear left vehicle level sender
+J431 Headlight range control, control unit
+SC1 Fuse 1 on fuse holder C
+SC5 Fuse 5 on fuse holder C
+T4u 4-pin connector, black, on rear left vehicle level sender
+T26a 26-pin connector, black, on headlight range control, control unit
+44 Earth point, lower part of left A-pillar
+4,0 B163 4,0
+sw sw
+1 5 384 Earth connection 19, in main wiring harness
+SC1 SC5 111111
+10A 5A
+1a 5a 4433 4411 3399 4422 4400 4466 4444 4455 B163 Positive connection 1 (15), in interior wiring harness
+0,5 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 B467 Connection 3 in main wiring harness
+gr/ge gr/bl gn/gr gn/ge gr/sw gn/br gr/sw gr/br gr
+T
+15
+26a/23
+J431 T
+/1
+2
+5
+6a T
+/1
+2
+6
+6a T
+/1
+2
+7
+6a T
+/1
+2
+8
+6a T
+/1
+2
+9
+6a T
+/2
+2
+0
+6a T
+/2
+2
+1
+6a T
+/2
+2
+2
+6a B468 Connection 4 in main wiring harness
+B469 Connection 5 in main wiring harness
+T26a/11 T26a/10 T26a/7 T26a
+/24
+31 * not for electronically controlled damping
+0,35 0,35 0,35 0,35
+br sw bl br
+B467 B468 B469 384
+0,35 0,35 0,35 1,5
+br sw bl br
+T4u/1 T4u/2 T4u/4
+ws = white
+G76✱
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 or = orange
+8J0-054060409
+rs = pink
+Edition 04.2009

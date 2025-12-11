@@ -1,0 +1,9 @@
+BC–2
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+(c) In order to enable CAN communication, a specific
+type of wiring is used for the CAN communication
+lines. The wiring used for each communication line
+is a twisted pair of wires that have an equal length.
+A bypass wire should not be used, because the data
+being transmitted will be corrupted.
+BC

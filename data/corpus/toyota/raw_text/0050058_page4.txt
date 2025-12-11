@@ -1,0 +1,50 @@
+ES–328
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2. P2420: Vent valve stuck open (vent)
+In operation C, the vent valve turns ON (closes) and the EVAP system pressure is then measured by
+the ECM, using the canister pressure sensor, to conduct an EVAP leak check. If the pressure does not
+increase when the vent valve is open, the ECM interprets this as the vent valve being stuck open. The
+ECM illuminates the MIL and sets the DTC.
+EVAP Pressure when Vent Valve Stuck OFF:
+ON: Open
+Purge VSV ON
+OFF: Closed
+ON: Closed
+ON
+Vent Valve
+OFF: Vent
+ES
+Leak Detection
+ON
+Pump
+EVAP Pressure
+Positive
+Negative
+OK
+First Reference
+Pressure
+Malfunction
+Sequence A B C D E
+10 seconds 60 Within 15 minutes 10 60
+Time
+seconds seconds seconds
+A106067E04
+MONITOR STRATEGY
+Required Sensors/Components Purge VSV and canister pump module
+Frequency of Operation Once per driving cycle
+Duration Within 2 minutes (varies with amount of fuel in tank)
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+EVAP key-off monitor runs when all of following conditions met -
+Atmospheric pressure 70 to 110 kPa-a (525 to 825 mmHg-a)
+Battery voltage 10.5 V or more
+Vehicle speed Below 4 km/h (2.5 mph)
+Ignition switch OFF
+Time after key off 5 or 7 or 9.5 hours
+Canister pressure sensor malfunction (P0450, P0451, P0452 and
+Not detected
+P0453)
+Purge VSV Not operated by scan tool
+Vent valve Not operated by scan tool

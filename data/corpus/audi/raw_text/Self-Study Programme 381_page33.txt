@@ -1,0 +1,34 @@
+Final control diagnostics
+The shock absorber dampers can be activated selec-
+tively in the final control diagnostics.
+The shock absorber dampers are activated by apply-
+ing a current of 2A.
+Data blocks
+The data blocks are used to check key system status
+information.The temperature values calculated for
+the dampers and control unit, for example, are rep-
+resente d in data block 28.
+Cold starting
+When control unit J250 or shock absorber dampers
+are replaced, the control unit must determine the
+electrical resistance values of the damper coils at
+ambient temperature. The control unit saves these
+values as "standard values" for purposes of temper-
+ature compensation (refer to "Special functions -
+temperature model").
+This function is activated automatically after igni-
+tion on, provided the vehicle has been out of use for
+at least 3 hours (e.g. even after a a cold start in the
+morning) . During this time not in use, the tempera-
+tures of the dampers have adjusted to the ambient
+temperature. If the mechanic has fitted shock
+absorber dampers which are already at ambient
+temperature (e.g. parts sourced directly from the
+spare parts warehouse), the resistance measure-
+ment function can be started immediately by acti-
+vating the "Cold start" function with the diagnostic
+tester.
+Flashing
+The control unit software can be flashed by an exter-
+nal data carrier (CD, online interface) .
+33

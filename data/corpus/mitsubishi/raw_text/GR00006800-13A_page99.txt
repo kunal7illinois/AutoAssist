@@ -1,0 +1,56 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-99
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+• When the throttle valve shaft is turned from the Judgement Criteria
+idle position to the fully opened position, the • Throttle position sensor output voltage has con-
+resistor between the throttle position sensor out- tinued to be 0.8 volt or lower for 2 seconds.
+put terminal (terminal 3) and ground terminal will
+Check Conditions
+increase according to the rotation.
+• 2 seconds or more have passed since the staring
+sequence was completed.
+.
+TECHNICAL DESCRIPTION • Engine speed is lower than 3,000 r/min.
+• The throttle position sensor outputs voltage which • Volumetric efficiency is lower than 30 percent.
+corresponds to the throttle valve opening angle.
+• The ECM <M/T> or PCM <A/T> checks whether Judgement Criteria
+• Throttle position sensor output voltage has con-
+the voltage is within a specified range.
+tinued to be 4.6 volts or higher for 2 seconds.
+.
+DTC SET CONDITIONS
+.
+TROUBLESHOOTING HINTS (The most likely
+Check Conditions
+causes for this code to be set are: )
+• 2 seconds or more have passed since the staring • Throttle position sensor failed or maladjusted.
+sequence was completed. • Open or shorted throttle position sensor circuit, or
+• Engine speed is higher than 2,000 r/min.
+loose connector.
+• Volumetric efficiency is higher than 60 percent. • ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 14:
+Throttle Position Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the data reading mode for item
+14, Throttle Position Sensor.
+16 PIN • With the throttle valve in the idle position, voltage should
+be between 0.535 and 0.735 volt.
+MB991502
+• With the throttle valve in the full-open position, voltage
+AKX01177AB
+should be between 4.5 and 5.5 volts.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+TSB Revision

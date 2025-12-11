@@ -1,0 +1,69 @@
+RS–256
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+Measurement Item/
+Item Normal Condition Diagnostic Note
+Range (Display)
+Front right sensor range
+information/
+OK: Sensor range is -17 to 27 kg
+FR SENS RANGE OK -
+(-37.48 to 59.52 lb)
+Min.: Less than -17 kg (-37.48 lb)
+Max.: More than 27 kg (59.52 lb)
+Rear left sensor range
+information/
+OK: Sensor range is -17 to 37 kg
+RL SENS RANGE OK -
+(-37.48 to 81.57 lb)
+Min.: Less than -17 kg (-37.48 lb)
+Max.: More than 37 kg (81.57 lb)
+Rear right sensor range
+information/
+OK: Sensor range is -17 to 37 kg
+RR SENS RANGE OK -
+(-37.48 to 81.57 lb)
+Min.: Less than -17 kg (-37.48 lb)
+Max.: More than 37 kg (81.57 lb)
+Front left sensor voltage/
+FL SENS VOL Min.: 0 V 0 to 4.7 V -
+Max.: 19.8 V
+Front right sensor voltage/
+FR SENS VOL Min.: 0 V 0 to 4.7 V -
+Max.: 19.8 V
+Rear left sensor voltage/
+RL SENS VOL Min.: 0 V 0 to 4.7 V -
+Max.: 19.8 V
+Rear right sensor voltage/
+RR SENS VOL Min.: 0 V 0 to 4.7 V -
+Max.: 19.8 V
+Front left sensor weight
+RS information/ -17 to 27 kg
+FL SENS WEIGHT -
+Min.: -17 kg (-37.48 lb) (-37.48 to 59.52 lb)
+Max.: 27 kg (59.52 lb)
+Front right sensor weight
+information/ -17 to 27 kg
+FR SENS WEIGHT -
+Min.: -17 kg (-37.48 lb) (-37.48 to 59.52 lb)
+Max.: 27 kg (59.52 lb)
+Rear left sensor weight
+information/ -17 to 37 kg
+RL SENS WEIGHT -
+Min.: -17 kg (-37.48 lb) (-37.48 to 81.57 lb)
+Max.: 37 kg (81.57 lb)
+Rear right sensor weight
+information/ -17 to 37 kg
+RR SENS WEIGHT -
+Min.: -17 kg (-37.48 lb) (-37.48 to 81.57 lb)
+Max.: 37 kg (81.57 lb)
+Total weight information/
+-68 to 128 kg
+TOTAL WEIGHT Min.: -68 kg (-149.91 lb) -
+(-149.91 to 282.19 lb)
+Max.: 128 kg (282.19 lb)
+Number of present DTC
+#PRESENT CODES recorded/ 0 -
+Min.: 0, Max.: 255
+Number of past DTC recorded/
+#PAST CODES 0 -
+Min.: 0, Max.: 255

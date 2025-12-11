@@ -1,0 +1,40 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-265
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the left bank injector.
+(1) Disconnect the left bank injector connector B-02, B-06, B-
+CONNECTORS : B-02, B-06, B-25
+25.
+B-02 B-06 B-25
+AK000213AB
+(2) Measure the resistance between each injector side
+connector terminal 1 and 2.
+INJECTOR SIDE Standard value: 13 − 16 ohm [at 20°C (68°F)]
+CONNECTOR
+Q:Is the resistance standard value?
+1 2 YES : Go to Step 6.
+NO : Replace the faulty injector. Then go to Step 8.
+AK000241AB
+STEP 6. Check the fuel pressure.
+Refer to Fuel Pressure Test P.13B-680.
+Q:Is the fuel pressure normal?
+YES : Go to Step 7.
+NO : Repair or replace it. Then go to Step 8.
+STEP 7. Replace the left bank injector.
+(1) Replace the left bank injector.
+CONNECTORS : B-02, B-06, B-25
+(2) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 2 − Fuel Trim Monitor P.13B-6.
+(3) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0175 is output?
+YES : Replace the ECM or PCM. Then go to Step 8.
+NO : The inspection is complete.
+B-02 B-06 B-25
+AK000213AB
+STEP 8. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 2 − Fuel Trim Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0175 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+TSB Revision

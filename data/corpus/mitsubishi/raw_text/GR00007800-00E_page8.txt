@@ -1,0 +1,33 @@
+00E-8 GENERAL <ELECTRICAL>
+HOW TO DIAGNOSE
+CAUTION
+Never use a test light for checking ECU-related circuits or
+ECUs.
+2. Self-powered test light
+A self-powered test light consists of a bulb, battery and lead
+wires connected in series. It is used to check continuity or
+grounding.
+ACX00940
+3. Jumper wire
+A jumper wire is used to close an open circuit.
+CAUTION
+Never use a jumper wire to connect a power supply
+directly to a load.
+ACX00941
+4. Voltmeter
+A voltmeter is used to measure the circuit voltage. Normally,
+POWER LINE
+the positive (red lead) probe is applied to the point of voltage
+BLACK LEAD WIRE measurement and the negative (black lead) probe to the
+body ground. Use a digital voltmeter to check for voltage
+drop before or after a component.
+RED LEAD WIRE
+GROUND
+ACX00942AB
+5. Ohmmeter
+An ohmmeter is used to check continuity or measure
+resistance of a switch or coil. If the measuring range has
+been changed, the zero point must be adjusted before
+measurement.
+ACX00943
+TSB Revision

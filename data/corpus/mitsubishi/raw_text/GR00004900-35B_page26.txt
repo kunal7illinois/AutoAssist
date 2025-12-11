@@ -1,0 +1,42 @@
+35B-26 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+Q:Is any of the harness wires between the relay box
+RELAY BOX FUSIBLE LINK (3)
+fusible link number 3 and the ABS-ECU connector A-02
+(terminals 17 and 18) damaged?
+YES : Repair it and then go to Step 3.
+NO : Go to Step 3.
+BATTERY
+AC101134AM
+CONNECTOR: A-02
+HARNESS SIDE
+AC001985AF
+STEP 3. Check the diagnostic trouble codes.
+Q:Do the diagnostic trouble codes 41, 42, 43, 44, 45, 46,
+47, 48, 51 or 53 reset?
+YES : Go to Step 1.
+NO : This diagnosis is complete.
+SYMPTOM CHART
+M1352011400318
+NOTE: If steering movements are made when driv- NOTE: During ABS operation, the brake pedal may
+ing at high speed, or when driving on road surfaces vibrate a little or may not be able to be pressed. Such
+with low frictional resistance, or when passing over conditions are due to intermittent changes in hydrau-
+bumps, the ABS may operate although sudden brak- lic pressure inside the brake line to prevent the
+ing is not being applied. Because of this, when get- wheels from locking. This is normal.
+ting information from the customer, check if the
+problem occurred while driving under such condi-
+tions as these.
+SYMPTOMS INSPECTION REFERENCE PAGE
+PROCEDURE NO.
+Communication between the scan tool and the whole system − GROUP 13A, Diagnosis
+is not possible. P.13A-434 or GROUP
+13B, Diagnosis P.13B-
+530.
+Communication between the scan tool and the ABS-ECU is 1 P.35B-27
+not possible.
+When the ignition key is turned to the "ON" position (Engine 2 P.35B-32
+stopped), the ABS warning light does not illuminate.
+The ABS warning light remains illuminated after the engine 3 P.35B-38
+is started.
+Faulty ABS operation 4 P.35B-42
+TSB Revision

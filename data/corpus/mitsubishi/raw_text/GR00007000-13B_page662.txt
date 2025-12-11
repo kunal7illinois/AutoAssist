@@ -1,0 +1,31 @@
+13B-662 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+Standard wave pattern (V)
+THE TIME (CYCLE TIME) T IS REDUCED WHEN THE
+10 T AMOUNT OF INTAKE AIR INCREASES.
+T1 T2 TIMES T1 AND T2 ARE EQUAL
+TIME
+0
+AKX01595AB
+Observation conditions
+Rev engine, observe T1 and T2 remain equal.
+Standard wave pattern
+(V)
+10
+T
+TIME
+0
+AKX01596AB
+Wave Pattern Observation Points
+1. Check that cycle time T becomes shorter and the frequency
+increases when the engine speed is increased.
+.
+Examples of Abnormal Wave Patterns
+Example 1
+• Cause of problem
+Sensor interface malfunction.
+• Wave pattern characteristics
+Rectangular wave pattern is output even when the engine is
+not started.
+AKX01597
+TSB Revision

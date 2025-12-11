@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ELECTRICAL Charging System (K20Z3) - Civic (All Except Si)
+SYSTEM) ).
+2. Turn the ignition switch ON (II).
+3. Make sure the HDS communicates with the vehicle and the engine control
+module (ECM). If it doesn't, troubleshoot the DLC circuit (see DLC
+CIRCUIT TROUBLESHOOTING ).
+4. Check for DTCs (see GENERAL TROUBLESHOOTING
+INFORMATION ). If a DTC is present, diagnose and repair the cause before
+continuing with this test.
+5. Disconnect the alternator 4P connector from the alternator.
+6. Start the engine, and turn on the headlights to high beam.
+7. Measure the voltage between alternator 4P connector terminal No. 2 and the
+positive terminal of the battery.
+Fig. 7: Measuring Voltage Between Alternator 4P Connector Terminal No.
+2 And Positive Terminal Of Battery
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there 1 V or less?
+YES - Go to step 11.
+NO - Go to step 8.
+8. Jump the SCS line with the HDS, then turn the ignition switch OFF.
+NOTE: This step must be done to protect the ECM from
+damage.

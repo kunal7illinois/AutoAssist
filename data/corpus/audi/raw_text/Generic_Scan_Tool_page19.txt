@@ -1,0 +1,44 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+U 0 x x x Trouble codes defined by SAE with specified malfunction
+texts
+Procedure
+– Connect the scan tool.
+– Switch the ignition to the ON position.
+– Select Diagnostic Mode 03: Interrogating fault memory.
+– The stored DTC or DTCs will be displayed on the scan tool
+screen.
+The following table is an example of the DTC information that may
+be displayed on the scan tool screen:
+Indication example Explanation
+P0444 SAE Diagnostic Trouble Code
+Evaporative emission canister purge regulator Malfunctioning wiring path or malfunctioning component
+valve
+Circuit open Malfunction type as next
+– Refer to the DTC tables for the diagnostic repair procedures.
+– Switch the ignition OFF.
+3.3.4 Diagnostic Mode 04 - Erase DTC Mem‐
+ory
+Diagnostic Mode 04 makes it possible to erase the DTC memory
+and to reset all emissions-related diagnostic data. In that way, all
+faults in the DTC memory in the ECM and TCM are erased. The
+adaptation values may also be reset.
+Emissions-related diagnostic data includes (as applicable):
+♦ - MIL Status
+♦ - Number of DTCs
+♦ - Readiness bits
+♦ - Confirmed DTCs
+♦ - Pending DTCs
+♦ - DTC that belongs to freeze frame
+♦ - Freeze frame data
+♦ - Test results of specific diagnostic functions
+♦ - Distance driven with “MIL ON”
+♦ - Number of warm-up cycles after erasing the DTC memory
+♦ - Distance driven after erasing the DTC memory
+♦ - Misfire counter
+Note
+Depending on scan tool and protocol used, diagnostic mode 04
+and the information provided may be referred to by a different
+name.
+15
+3. Diagnosis and Testing

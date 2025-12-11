@@ -1,0 +1,84 @@
+ES–48
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Intelligent Tester Display Measurement: Range (Display) Normal Condition*1 Diagnostic Note
+Learning value of purge density:
+PURGE DENSITY -40 to 10: Idling -
+Min.: -50, Max.: 350
+Ratio of evaporative purge flow to
+EVAP PURGE FLOW intake air volume: 0 to 10 %: Idling -
+Min.: 0 %, Max.: 102.4 %
+EVAP (PURGE) VSV control duty:
+EVAP PURGE VSV 10 to 50 %: Idling Order signal from ECM
+Min.: 0 %, Max.: 100 %
+Vapor pressure:
+Approximately 100 kPa: Ignition EVAP system pressure monitored
+VAPOR PRES PUMP Min.: 33.853 kPa, Max.: 125.596
+switch ON by canister pressure sensor
+kPa
+Vapor pressure (calculated):
+Approximately 100 kPa: Ignition EVAP system pressure monitored
+VAPOR PRES CALC Min.: -5.632 kPa, Max.: 715.264
+switch ON by canister pressure sensor
+kPa
+ES
+Knock correction learning value: 0 to 20°CA: Driving at 70 km/h
+KNOCK CRRT VAL Service data
+Min: -64°CA, Max.: 1,984°CA (44 mph)
+Knock feedback value: -20 to 0°CA: Driving at 70 km/h
+KNOCK FB VAL Service data
+Min: -64°CA, Max.: 1,984°CA (44 mph)
+Clutch current:
+CLUTCH - -
+Min.: 0 A, Max.: 2.49 A
+EVAP vapor pressure: Approximately 100 kPa: Ignition EVAP system pressure monitored
+EVAP VAPOR PRES
+Min.: 0 kPa, Max.: 327.675 kPa switch ON by canister pressure sensor
+10 to 22 %: Accelerator pedal
+Absolute Accelerator Pedal
+released Read value with ignition switch ON
+ACCEL POS #1 Position (APP) No. 1:
+52 to 90 %: Accelerator pedal (Do not start engine)
+Min.: 0 %, Max.: 100 %
+fully depressed
+24 to 40 %: Accelerator pedal
+Absolute APP No. 2: released Read value with ignition switch ON
+ACCEL POS #2
+Min.: 0 %, Max.: 100 % 68 to 100 %: Accelerator pedal (Do not start engine)
+fully depressed
+APP sensor No. 1 voltage:
+ACCEL POS #1 - ETCS freeze data
+Min.: 0 V, Max.: 4.98 V
+APP sensor No. 2 voltage:
+ACCEL POS #2 - ETCS freeze data
+Min.: 0 V, Max.: 4.98 V
+0.5 to 1.1 V: Accelerator pedal
+APP sensor No. 1 voltage: released Read value with ignition switch ON
+ACCEL POS #1
+Min.: 0 V, Max.: 5 V 2.6 to 4.5 V: Accelerator pedal (Do not start engine)
+fully depressed
+1.2 to 2.0 V: Accelerator pedal
+APP sensor No. 2 voltage: released Read value with ignition switch ON
+ACCEL POS #2
+Min.: 0 V, Max.: 5 V 3.4 to 5.0 V: Accelerator pedal (Do not start engine)
+fully depressed
+Whether or not accelerator pedal
+ACCEL IDL POS position sensor detecting idle: ON: Idling -
+ON or OFF
+Throttle valve fully closed
+THRTL LEARN VAL (learned value): 0.4 to 0.8 V -
+Min.: 0 V, Max.: 5 V
+APP sensor No. 1 voltage (AD):
+ACCEL SSR #1 AD - ETCS service data
+Min.: 0 V, Max.: 4.98 V
+Accelerator fully closed learning
+ACCEL LRN VAL#1 value No. 1: - ETCS service data
+Min.: 0 deg, Max.: 124.512 deg
+Accelerator fully closed learning
+ACCEL LRN VAL#2 value No. 2: - ETCS service data
+Min.: 0 deg, Max.: 124.512 deg
+Whether or not fail safe function
+FAIL #1 executed: ON: ETCS has failed -
+ON or OFF
+Whether or not fail safe function
+FAIL #2 executed: ON: ETCS has failed -
+ON or OFF

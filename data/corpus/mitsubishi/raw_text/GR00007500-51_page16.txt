@@ -1,0 +1,43 @@
+51-16 EXTERIOR
+WINDSHIELD WIPER AND WASHER
+WINDSHIELD WIPER AND WASHER
+GENERAL INFORMATION
+M1511000100116
+OPERATION Windshield Mist Wiper Operation
+Windshield Low-speed (and High-speed) Wiper • If the wiper switch is turned to the "MIST" position
+Operation with the ignition switch at "ACC" or "ON" position,
+• If the wiper switch is turned to the "LO" position the mist wiper high-speed operation signal is sent
+with the ignition switch at the "ACC" or "ON" posi- to the front-ECU. This signal turns on the wiper
+tion, the column switch sends a low-speed wiper speed switching relay, causing the wipers to work
+ON and high-speed wiper OFF signals to the at high-speed while the mist switch is on.
+front-ECU. This turns the wiper signal on and the • While the mist wiper switch remains turned on
+wiper speed switching relay off (low-speed), when the intermittent mode is still working, the
+causing the wipers to operate at low-speed. wipers work as the mist wiper. However, the wip-
+• If the wiper switch is turned to the "HI" position, ers return to the intermittent mode again when
+the column switch sends a low-speed wiper OFF the wiper auto stop signal turns on after the mist
+and high-speed wiper ON signals to the front- wiper switch is turned off.
+ECU. This turns both the wiper signal and the
+Windshield Washer Operation
+wiper speed switching relay on (high-speed), • If the wiper switch is turned to the "WASHER"
+causing the wipers to operate at high-speed.
+position with the ignition switch at "ACC" or "ON"
+Windshield Intermittent Wiper Operation position, the washer ON signal is sent to the
+• The ETACS-ECU calculates the wiper operation front-ECU, causing the wiper signal to turn on
+interval according to the voltage signal sent from after 0.6 seconds. After the washer switch signal
+the column switch. Then the ETACS-ECU sends turns off, the wiper signal turns off in three sec-
+a signal to the front-ECU. The front-ECU deter- onds. If the wiper switch is turned the "WASHER"
+mines the wiper operation interval and turns on position while the wiper is at intermittent mode,
+the wiper relay signal. This causes the wiper auto the washer works for that period when the
+stop relay to turn on. Then the wiper auto stop washer switch remains on. Then the wipers
+relay will turn off after the wipers reach the park return to the intermittent mode.
+position. This causes the wiper signal relay and
+then the wipers to turn off. If the wiper signal relay
+remains off for the wiper operation interval, the
+relay turns on again, causing the wipers to oper-
+ate in intermittent mode.
+WINDSHIELD WIPER AND WASHER DIAGNOSIS
+M1511000700099
+The windshield wiper and washer are controlled by
+ETACS-ECU. For troubleshooting, refer to GROUP
+54B, SWS Diagnosis P.54B-17.
+TSB Revision

@@ -1,0 +1,49 @@
+54B-14 SIMPLIFIED WIRING SYSTEM (SWS)
+SWS DIAGNOSIS
+ITEMS ITEM INPUT SIGNALS DISPLAY ON SCAN NORMAL CONDITIONS
+NO. TOOL
+REV. 13 Rear wiper switch REAR WIPER SW ON
+INTERLOCK
+31 Ignition switch (ACC) IG SW (ACC) ON
+41 Park/neutral switch ("R" position) PNP SW (R) ON
+• LIGHTING
+ITEMS ITEM INPUT SIGNALS DISPLAY ON SCAN NORMAL CONDITIONS
+NO. TOOL
+H/L AUTO- 00 Headlight switch HEADLIGHT SW Either is on
+CUT
+01 Tail light switch TAILLIGHT SW
+30 Ignition switch (IG1) IG SW (IG1) OFF
+32 Front switch FRONT DOOR SW ON
+35 Headlight automatic shutdown H/L AUTO-CUT ON
+function
+70 Response by the front-ECU FRONT ECU ACK NORMAL ACK or HI-
+BEAM ACK
+OFF 00 Headlight switch HEADLIGHT SW OFF
+01 Tail light switch TAILLIGHT SW OFF
+03 Passing light switch PASSING SW OFF
+04 Automatic lighting switch AUTO LIGHT SW OFF
+30 Ignition switch (IG1) IG SW (IG1) ON
+35 Headlight automatic shutdown H/L AUTO-CUT OFF
+function
+70 Response by the front-ECU FRONT ECU ACK NORMAL ACK or
+SLEEP ACK
+HEADLIGHT 00 Headlight switch HEADLIGHT SW ON
+HI
+02 Dimmer switch DIMMER SW ON
+03 Passing light switch PASSING SW ON
+30 Ignition switch (IG1) IG SW (IG1) ON
+35 Headlight automatic shutdown H/L AUTO-CUT OFF
+function
+70 Response by the front-ECU FRONT ECU ACK HI-BEAM ACK
+HEADLIGHT 00 Headlight switch HEADLIGHT SW ON
+LO
+03 Passing light switch PASSING SW OFF
+30 Ignition switch (IG1) IG SW (IG1) ON
+35 Headlight automatic shutdown H/L AUTO-CUT OFF
+function
+70 Response by the front-ECU FRONT ECU ACK NORMAL ACK
+PASSING 03 Passing light switch PASSING SW ON
+LIGHT
+70 Response by the front-ECU FRONT ECU ACK NORMAL ACK or HI-
+BEAM ACK
+TSB Revision

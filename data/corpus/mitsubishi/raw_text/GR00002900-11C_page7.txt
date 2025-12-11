@@ -1,0 +1,43 @@
+ENGINE MECHANICAL <3.0L> 11C-7
+ON VEHICLE SERVICE
+• Ignition coil, spark plug cable, spark plug
+• EGR system and EGR valve leak
+• Evaporative emission control system
+• Compression pressure
+CURB IDLE SPEED CHECK
+M1111003500256
+Required Special Tool:
+MB991502: Scan Tool (MUT-II)
+1. Before inspection and adjustment set vehicles in the
+following condition.
+• Engine coolant temperature: 80 − 95°C (176 − 203°F)
+• Lights and all accessories: OFF
+• Transaxle: Neutral (P range on vehicles with A/T)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+2. Connect scan tool MB991502 to the data link connector.
+3. Check the basic ignition timing.
+Standard value: 5° BTDC ± 3°
+16 PIN 4. Start the engine.
+5. Run the engine at idle for 2 minutes.
+MB991502
+AKX01177AB 6. Check the idle speed. Select item number 22 and take a
+reading of the idle speed.
+Curb idle speed: 700 ± 100 r/min
+NOTE: The idle speed is controlled automatically by the idle
+air control system.
+7. If the idle speed is outside the standard value, refer to
+GROUP 13B, Diagnosis − Symptom Chart P.13B-26.
+COMPRESSION PRESSURE CHECK
+M1111002600227
+1. Before inspection, check that the engine oil, starter and
+battery are normal. Also, set the vehicle in the following
+condition:
+• Engine coolant temperature: 80 − 95°C (176 − 203°F)
+• Lights, and all accessories: OFF
+• Transaxle: Neutral (P range on vehicles with A/T)
+2. Disconnect the spark plug cables.
+3. Remove all of the spark plugs.
+TSB Revision

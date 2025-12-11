@@ -1,0 +1,36 @@
+BC–418
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).
+1 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (SKID CONTROL BUZZER)
+(a) Connect the intelligent tester to the DLC3.
+(b) Select the "ACTIVE TEST" on the intelligent tester (See
+page BC-307).
+ACTIVE TEST: ABS/TRAC/VSC
+Item (Display) Vehicle Condition / Test Details Diagnostic Note
+BUZZER Turns skid control buzzer ON / OFF Buzzer can be heard
+(c) Check that the buzzer sounds/stops when turning the
+skid control buzzer on/off by using the intelligent tester.
+Result
+Condition Proceed to
+BC Buzzer does not sound or sounds constantly A
+Buzzer sounds/stops B
+B CHECK FOR INTERMITTENT PROBLEMS
+(SYMPTOM SIMULATION) (See page BC-298)
+A
+2 INSPECT SKID CONTROL BUZZER (POWER SOURCE TERMINAL)
+(a) Disconnect the skid control buzzer connector.
+Skid Control Buzzer (Harness Side
+(b) Turn the ignition switch on (IG).
+Connector Front View):
+(c) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+E13
+E13-2 - Body ground Ignition switch on (IG) 10 to 14 V
+NG REPAIR OR REPLACE HARNESS OR
+C107604E18
+CONNECTOR (POWER SOURCE CIRCUIT)
+OK

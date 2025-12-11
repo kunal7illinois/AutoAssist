@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency of
+sage cedure ria and Threshold ters with Enable ing Time checks, MIL
+Value Conditions Length Illum
+P12A Fuel Rail – Check the • pressure con‐ • engine speed • 5 Sec • Continu‐
+2 Pressure Fuel Pres‐ trol activity, 600...900 RPM ous
+Sensor In‐ sure Sensor - <0.14 mPa
+appropri‐ G247- . Re‐ • evap purge adap‐ • 2 DCY
+ately High fer to Check • AND tation < 20
+the Fuel
+• fuel trim activi‐ • lambda control
+Pressure
+ty, >1.5 closed loop
+Sensor -
+G247- . Re‐ • engine load >
+fer to 10...30%
+⇒ “3.5.5 Fuel
+Pressure • fuel cut off not ac‐
+Sensor, tive
+Checking”,
+page 119 ..
+P12A Fuel Rail – Check the • pressure con‐ • lambda control 5 Sec • Continu‐
+4 Pump Con‐ Fuel Pres‐ trol activity, closed loop ous
+trol Valve sure Sensor - <6.00 mPa
+Stuck G247- . Re‐ • fuel cut off not ac‐ • 2 DCY
+Closed fer to • AND tive
+⇒ “3.5.5 Fuel
+• fuel trim activi‐
+Pressure
+ty, >0.9
+Sensor,
+\0...1.15
+Checking”,
+page 119 .
+P150 Comparing Check the ECM • difference be‐ • Key ON during 0 Sec. • once
+A engine off battery voltage tween engine- ECM after run
+time from inputs. The off-time and timer - active • 2 DCY
+instrument ECM must have ECM after run-
+cluster con‐ voltage input time < 12 • CAN active
+trol unit with with key off. Re‐
+engine after fer to wiring dia‐ • difference be‐
+run time grams for pin lo‐ tween engine-
+cations. If key off off-time and
+voltage supply is ECM after run-
+present at the time > 12 Sec
+ECM, replace
+the ECM. Refer
+to the Repair
+Manual
+82
+Rep. Gr.ST - Generic Scan Tool

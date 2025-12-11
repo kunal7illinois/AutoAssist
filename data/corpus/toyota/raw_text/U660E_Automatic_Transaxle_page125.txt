@@ -1,0 +1,31 @@
+AX–125
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+A
+2 CHECK TRANSMISSION WIRE (SHORT TO GROUND)
+(a) Remove the TCM.
+AX
+(b) Measure the resistance according to the value(s) in the
+TPS3 table below.
+Standard resistance
+Tester Condition Specified Condition
+19 (TPS3) - Body ground (Valve body
+10 kΩ or higher
+assembly)
+OK REPLACE TCM
+C133212E12
+NG
+3 CHECK ATF TEMPERATURE SENSOR ASSEMBLY (ATF PRESSURE SWITCH NO. 3)
+(a) Disconnect the connector from the ATF temperature
+sensor assembly.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Condition Specified Condition
+5 (TPS3) - Body ground (Valve body
+10 kΩ or higher
+assembly)
+TPS3 NG REPLACE ATF TEMPERATURE SENSOR
+ASSEMBLY
+C142709E01
+OK
+REPLACE TRANSMISSION WIRE

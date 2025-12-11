@@ -1,0 +1,36 @@
+ES–448
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+10 CHECK HARNESS AND CONNECTOR (IG2 RELAY - BODY GROUND)
+(a) Remove the IG2 relay from the engine room R/B.
+Wire Harness Side: (b) Measure the resistance between the terminals.
+Standard resistance
+Tester Connection Specified Condition
+Engine Room IG2 relay terminal 2 - Body ground Below 1 Ω
+Relay Block
+(c) Reinstall the IG2 relay.
+Result
+Result Proceed to
+OK (Without smart key system) A
+ES OK (With smart key system) B
+NG C
+IG2 Relay
+B GO TO SMART ACCESS SYSTEM WITH
+PUSH-BUTTON START
+C REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+A137039E01
+A
+11 INSPECT IGNITION SWITCH ASSEMBLY
+(a) Disconnect the E23 ignition switch connector.
+Component Side:
+(b) Measure the resistance between the terminals.
+Standard resistance
+Tester Connection Ignition Switch Position Specified Condition
+All terminals LOCK 10 kΩ or higher
+2 - 4 ACC
+1 - 2 - 4, 5 - 6 ON Below 1 Ω
+1 - 3 - 4, 5 - 6 - 7 START
+A056879E35 (c) Reconnect the ignition switch connector.
+NG REPLACE IGNITION SWITCH ASSEMBLY
+OK
+REPAIR OR REPLACE HARNESS OR CONNECTOR (ECM - BATTERY)

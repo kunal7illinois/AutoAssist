@@ -1,0 +1,30 @@
+Terminal 75
+Terminal 30
+Terminal 15
+Terminal 31
+N280
+G65 V2
+380_037
+N280 Air conditioning system compressor Input signal for J255
+regulating valve
+Output signal from J255
+V2 Fresh air blower
+V42 Temperature sensor blower Positive 5V / 12V
+V70 Central flap control motor
+V71 Air flow flap control motor Terminal 13 / earth
+V107 Defroster flap control motor
+V113 Air recirculation flap control motor CAN data bus
+V158 Temperature flap control motor, left
+V159 Temperature flap control motor, right
+47
+sub
+atad
+NAC
+ecneinevnoC
+J126
+PWM PWM PWM Diagnosis
+V42 G56 Dash panel temperature sensor
+Positive 5 V
+Earth
+V113 G143 V158 G220 V159 G221
+Termin

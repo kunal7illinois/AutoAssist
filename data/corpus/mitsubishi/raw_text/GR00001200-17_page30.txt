@@ -1,0 +1,40 @@
+17-30 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+STEP 12. Check the harness wire between auto-cruise
+control vacuum pump connector A-01 (terminal numbers
+2, 3 and 4) and auto-cruise control-ECU connector C-20
+(terminal numbers 7, 8 and 16).
+Q:Is any harness wire between auto-cruise control
+CONNECTOR: A-01
+vacuum pump connector A-01 (terminal numbers 2,3
+RESERVE and 4) and auto-cruise control-ECU connector C-20
+TANK
+(terminal numbers 7,8 and 16) damaged?
+YES : Repair harness wire and then check that diagnostic
+trouble code 14 is not output.
+NO : Check that diagnostic trouble code 14 is not output.
+If diagnostic trouble code 14 is output, replace the
+auto-cruise control-ECU. (Refer to P.17-86.)
+Then check that diagnostic trouble code 14 is not
+AC001449AB
+output.
+CONNECTOR: C-20
+AC001451AB
+STEP 13. Check the output circuit voltage at auto-cruise
+control-ECU connector C-20 (terminal number 5) by
+backprobing.
+(1) Do not disconnect auto-cruise control-ECU connector C-20.
+(2) Turn the ignition switch to the "ON" position and the auto-
+cruise control main switch to the "ON" position.
+(3) Measure the voltage between terminal 5 and ground by
+backprobing.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage approximately battery positive voltage?
+1 2 3 4 5 6 7 8
+YES : Go to Step 14.
+9 10111213141516
+NO : Go to Step 15.
+C-20 CONNECTOR
+HARNESS SIDE VIEW
+AC103113AB
+TSB Revision

@@ -1,0 +1,27 @@
+CHASSIS - TIRE PRESSURE WARNING SYSTEM CH-145
+DTC No. Detection Item DTC Deletion Condition
+C2169/69 Abnormal temperature inside ID5 tire When a DTC deletion
+operation is implemented or
+C2171/71 Tire pressure sensor ID not registered
+tthhe IIDD codde off tthhe ttiire pressure
+C2176/76 Tire pressure warning system antenna & receiver is error
+wwaarrnniinngg vvaallvvee && ttrraannssmmiitttteerr iiss
+C2177/77 Initialization incomplete newly registered in the ECU.
+Data from tire pressure warning system valve &
+C2181/81
+transmitter registered to ID1 not received (test diagnosis)
+Data from tire pressure warning system valve &
+C2182/82
+transmitter registered to ID2 not received (test diagnosis)
+Whhen ddelletiion conddiitiions off
+Data from tire pressure warning system valve &
+C2183/83 the ID codes have been
+transmitter registered to ID3 not received (test diagnosis)
+eessttaabblliisshheedd oorr ddeeppaarrttiinngg ffrroomm
+Data from tire pressure warning system valve &
+C2184/84 the test mode.
+transmitter registered to ID4 not received (test diagnosis)
+Data from tire pressure warning system valve &
+C2185/85
+transmitter registered to ID5 not received (test diagnosis)
+C2191/91 Vehicle speed signal error (test diagnosis)

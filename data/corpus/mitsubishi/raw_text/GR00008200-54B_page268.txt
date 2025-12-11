@@ -1,0 +1,54 @@
+54B-268 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal by using "FUNCTION
+DIAG." of the SWS monitor.
+Check the input signals from the following switches:
+COLUMN SWITCH • Ignition switch: ON
+CONNECTOR • Lighting switch: TAIL
+MB991502 NOTE: Turn the ignition switch to the "ON" position in order to
+disable the headlight automatic shutdown function.
+Operate the MUT-II according to the procedure below to dis-
+play "TAILLIGHT."
+DATA LINK 1. Select "SYSTEM SELECT."
+CONNECTOR
+2. Select "SWS."
+AC101571AB 3. Select "SWS MONITOR."
+4. Select "FUNCTION DIAG."
+COLUMN SWITCH
+5. Select "LIGHTING."
+CONNECTOR
+6. Select "TAILLIGHT."
+Check that normal conditions are displayed on the items
+SWS MONITOR described in the table below.
+HARNESS (FOR
+COLUMN-ECU) ITEM No. ITEM NAME NORMAL
+CONDITIONS
+COLUMN SWITCH
+CONNECTOR AT
+ITEM TAILLIGHT SW ON
+HARNESS SIDE
+No.01
+AC101421AB
+ITEM H/L AUTO-CUT OFF
+No.35
+ITEM FRONT ECU ACK NORMAL ACK
+No.70
+Q:Does the scan tool display the items "TAILLIGHT SW",
+"H/L AUTO-CUT" and "FRONT ECU ACK" as normal
+condition?
+YES : Go to Step 3.
+NO : • The scan tool does not show the respective
+normal condition for item "TAILLIGHT SW." Refer
+to Inspection Procedure O-7 "ETACS-ECU does
+not receive a signal from the tail light switch
+P.54B-511."
+• The scan tool does not show the respective
+normal condition for item "H/L AUTO-CUT." Refer
+to Inspection Procedure J-9 "The headlight
+automatic shutdown function does not work
+normally P.54B-340."
+• The scan tool does not show the respective
+normal condition for item "FRONT ECU SW."
+Replace the front-ECU.Check that the tail lights
+illuminate normally.
+TSB Revision

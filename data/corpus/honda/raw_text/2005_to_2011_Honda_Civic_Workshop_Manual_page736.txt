@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Is DTC P0107 or P0108 indicated in the A/T SYSTEM?
+YES -Check for poor connections or loose terminals at the PCM. If the PCM
+was updated, substitute a known-good PCM (see SUBSTITUTING THE
+PCM ), then go to step 7. If the PCM was substituted, go to step 1.
+NO -Go to step 9.
+9. Monitor the OBD STATUS for P0107 or P0108 in the DTCs MENU with the
+HDS.
+Does the HDS indicate PASSED?
+YES -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM (see ECM/PCM REPLACEMENT ). If
+any other DTCs were indicated in step 8, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals at the PCM. If the PCM was updated, substitute a known-good PCM
+(see SUBSTITUTING THE PCM ), then go to step 7. If the PCM was
+substituted, go to step 1. If the HDS indicates NOT COMPLETED, go to step
+7.
+DTC P0335: Crankshaft Position (CKP) Sensor No Signal; DTC P0365: Camshaft Position (CMP) Sensor No Signal
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+1. Turn the ignition switch to ON (II).
+2. Clear the DTC with the HDS.
+3. Start the engine.
+4. Check for Temporary DTCs or DTCs in the PGM-FI SYSTEM with the HDS.
+Is DTC P0335 or P0365 indicated in the PGM-FI SYSTEM?

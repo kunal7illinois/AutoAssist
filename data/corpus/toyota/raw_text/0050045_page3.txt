@@ -1,0 +1,46 @@
+ES–260
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY /
+STARTER SIG.
+(d) Check the value displayed on the tester when the
+ignition switch is turned to the ON and START positions.
+OK
+Ignition Switch Positions STARTER SIG
+ON OFF
+START ON
+OK CHECK FOR INTERMITTENT PROBLEMS
+ES NG
+2 INSPECT PARK/NEUTRAL POSITION SWITCH ASSEMBLY
+(a) Disconnect the B26 PNP switch connector.
+Component Side:
+(b) Measure the resistance when the transmission gear
+selector lever is moved to each position.
+Standard resistance
+B(+) 2L(-) RB(+) RL(-)
+Gear Selector
+Tester Connections Specified Conditions
+Lever Positions
+P 2 - 6, 4 - 5 Below 1 Ω
+R 1 - 2 Below 1 Ω
+N 2 - 9, 4 - 5 Below 1 Ω
+D 2 - 7 Below 1 Ω
+2 2 - 3 Below 1 Ω
+NL(-) L(-)
+LL(-) DL(-) PL(-) L 2 - 8 Below 1 Ω
+PNP Switch (c) Reconnect the PNP switch connector.
+A107908E01 OK Go to step 5
+NG
+3 REPLACE PARK/NEUTRAL POSITION SWITCH ASSEMBLY
+NEXT
+4 READ VALUE USING INTELLIGENT TESTER (STARTER SIGNAL)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY /
+STARTER SIG.
+(d) Check the value displayed on the tester when the
+ignition switch is turned to the ON and START positions.
+OK
+Ignition Switch Positions STARTER SIG
+ON OFF

@@ -1,0 +1,59 @@
+DL–20
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+DATA LIST / ACTIVE TEST
+1. READ DATA LIST
+HINT:
+Using the intelligent tester's DATA LIST allows switch,
+sensor, actuator, and other item values to be read
+without removing any parts. Reading the DATA LIST
+early in troubleshooting is one way to save time.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Enter the following menus: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST.
+(d) Read the DATA LIST according to the display on the
+tester.
+MAIN BODY:
+Item Measurement Item/Display Normal Condition Diagnostic Note
+(Range)
+D DOR CTY SW Driver side door courtesy light ON: Driver side door is CLOSED -
+switch signal/ON or OFF OFF: Driver side door is OPEN
+P DOR CTY SW Passenger side door courtesy ON: Passenger side door is -
+light switch signal/ON or OFF CLOSED
+OFF: Passenger side door is
+OPEN
+RR DOR CTY SW Rear right door courtesy light ON: Rear right door is CLOSED -
+switch signal/ON or OFF OFF: Rear right door is OPEN
+RL DOR CTY SW Rear left door courtesy light ON: Rear left door is CLOSED -
+switch signal/ON or OFF OFF: Rear left door is OPEN
+D LOCK POS SW Driver side door lock position ON: Driver side door is unlocked -
+switch signal/ON or OFF ON: Driver side door is locked
+P LOCK POS SW Front passenger side door lock ON: Front passenger side door is -
+position switch signal/ON or OFF unlocked
+ON: Front passenger side door is
+locked
+RR LOCK POS SW (*1) Rear right door lock position ON: Rear right door is unlocked -
+switch signal/ON or OFF OFF: Rear right door is locked
+RL LOCK POS SW (*1) Rear left door lock position switch ON: Rear left door is unlocked -
+signal/ON or OFF OFF: Rear left door is locked
+LUGG COURTSY SW Luggage compartment door ON: Luggage compartment door -
+courtesy light switch signal/ON or is OPEN
+OFF OFF: Luggage compartment door
+is CLOSED
+D/L SW-LOCK Door control switch lock signal/ ON: Door control switch is -
+ON or OFF pushed to lock position
+OFF: Door control switch is not
+DL pushed to lock position
+D/L SW-UNLOCK Door control switch unlock signal/ ON: Door control switch is -
+ON or OFF pushed to unlock position
+OFF: Door control switch is not
+pushed to unlock position
+DOR KEY SW-LOCK Driver door lock/unlock switch ON: Driver side door key cylinder -
+lock signal (key-linked lock is turned to lock position
+switch)/ON or OFF OFF: Driver side door key
+cylinder is turned to unlock
+position
+DOR KEY SW-ULCK Driver door lock/unlock switch ON: Driver side door key cylinder -
+unlock signal (key-linked unlock is turned to unlock position
+switch)/ON or OFF OFF: Driver side door key
+cylinder is turned to lock position

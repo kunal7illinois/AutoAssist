@@ -1,0 +1,52 @@
+AUTOMATIC TRANSAXLE 23A-239
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 11. Using scan tool MB991502, check data list item
+54: A/T control relay output Voltage.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+. (1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to data reading mode for item 54:
+A/T Control Relay Output Voltage.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the relay operating properly?
+16 PIN YES : . This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+MB991502 Points − How to Cope with Intermittent Malfunction
+AC001252AB
+P.00-6.
+NO : . Replace the PCM.
+STEP 12. Check the relay output voltage at PCM connector
+C-57 <2.4L Engine> or C-59 <3.0L Engine> by backprobing.
+(1) Do not disconnect connector C-57 <2.4L Engine> or C-59
+CONNECTOR: C-57 <2.4L ENGINE> OR
+<3.0L Engine>.
+C-59 <3.0L ENGINE>
+(2) Turn the ignition switch to the "ON" position.
+PCM
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+(3) Measure the voltage between terminal 77 and ground by
+backprobing.
+• Voltage should be battery positive voltage.
+C-57 <2.4L ENGINE> OR
+C-59 <3.0L ENGINE>
+CONNECTOR HARNESS
+SIDE VIEW
+AC002011AD
+(4) Measure the voltage between terminal 89 and ground by
+backprobing.
+• Voltage should be battery positive voltage.
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 11.
+C-57 <2.4L ENGINE> OR
+NO : Go to Step 13.
+C-59 <3.0L ENGINE>
+CONNECTOR HARNESS
+SIDE VIEW
+AC002012AD
+TSB Revision

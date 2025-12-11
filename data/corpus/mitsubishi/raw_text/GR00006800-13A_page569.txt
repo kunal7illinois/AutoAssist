@@ -1,0 +1,52 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-569
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+Standard wave pattern
+(V) T T: REVOLUTION TIME CORRESPONDING
+TO A CRANK ANGLE OF 180˚
+75˚BTDC 5˚BTDC COMPRESSION TOP DEAD CENTER
+6
+CRANKSHAFT
+POSITION 4
+SENSOR OUTPUT
+WAVE PATTERN 2
+0
+6 T1 θ: SPARK
+θ
+IGNITION POWER ADVANCE IGNITION PERIOD
+TRANSISTOR 4 ANGLE
+CONTROL SIGNAL
+WAVE PATTERN 2
+0
+OFF ON
+DWELL
+SECTION
+TIME
+T1: TIME COMPUTED BY THE ECM or PCM
+AK000068AB
+Wave Pattern Observation Points
+Point: Condition of wave pattern build-up section and maximum
+voltage (Refer to abnormal wave pattern examples 1 and 2.
+CONDITION OF WAVE PROBABLE CAUSE
+PATTERN BUILD-UP
+SECTION AND MAXIMUM
+VOLTAGE
+Rises from approximate 2 Normal
+volts to approximate 4.5 volts
+at the top-right
+2-volt rectangular wave Open-circuit in ignition primary
+circuit
+Rectangular wave at power Ignition power transistor
+voltage malfunction
+.
+Examples of Abnormal Wave Patterns
+Example 1 (Wave pattern during engine cranking)
+• Cause of problem
+NORMAL WAVE
+Open-circuit in ignition primary circuit
+PATTERN
+• Wave pattern characteristics
+Top-right part of the build-up section cannot be seen, and
+voltage value is approximately 2 volts too low.
+2V
+AKX01612AB
+TSB Revision

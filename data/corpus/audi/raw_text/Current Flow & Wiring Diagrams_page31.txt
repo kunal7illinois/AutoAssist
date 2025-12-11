@@ -1,0 +1,47 @@
+Audi TT No. 1 / 31
+Current Flow Diagram
+Power steering control unit, steering moment sender
+G269 Steering moment sender
+J500 Power steering control unit
+T2s 2-pin connector, black, connector A, on power steering control
+unit
+T3l 3-pin connector, connector C, on power steering control unit
+T5d 5-pin connector, connector B, on power steering control unit
+T5e 5-pin connector, grey, connector C, on power steering control unit
+T6a 6-connector, black, in front left engine compartment
+671 Earth point 1, on front of left longitudinal member
+• CAN bus (data wire)
+* up to May 2008
+** from June 2008
+8888 9900 4422
+0,35 0,35 0,5
+or/br or/sw sw/bl
+G269
+T6a/3 T6a/2 T6a
+/1
+1188 1✱✱ 4✱ 3 1✱ 2✱
+2✱✱ 4✱✱ 5✱✱
+• •
+10,0 0,35 0,35 0,5
+ro or/br or/sw sw/bl
+15
+30 T3l/1✱✱ T3l/2✱✱ T3l/3✱✱
+T2s/2 T5d/1 T5d/2 T5d/3 T5d/4 T5d/5 T5e/1✱ T5e/2✱ T5e/4✱
+J500
+T2s/1
+31
+10,0
+br
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+671 li = purple
+ge = yellow
+407 408 409 410 411 412 413 414 415 416 417 418 419 420 or = orange
+8J0-001310408
+rs = pink
+Edition 04.2008

@@ -1,0 +1,53 @@
+13B-26 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+SYMPTOM CHART
+M1131151500157
+.
+NOTE: Check that the engine control module (ECM) <M/T> or powertrain control module (PCM) <A/T>
+ground circuit is normal before checking for the cause of the problem.
+SYMPTOMS INSPECTION REFERENCE
+PROCEDURE PAGE
+Communication Communication with all systems is not possible 1 P.13B-530
+with scan tool is
+Communication with ECM <M/T> or PCM <A/T> only 2 P.13B-532
+impossible
+is not possible
+Service engine The service engine soon/malfunction indicator lamp 3 P.13B-535
+soon/ does not illuminate right after the ignition switch is
+malfunction turned to the "ON" position
+indicator lamp
+The service engine soon/malfunction indicator lamp 4 P.13B-540
+and related
+remains illuminated and never goes out
+parts
+Starting Cranks, won’t start 5 P.13B-542
+Starts up and dies 6 P.13B-548
+Hard starting 7 P.13B-554
+Idling stability Unstable idle (rough idle, hunting) 8 P.13B-560
+(improper
+Idle speed is high (improper idle speed) 9 P.13B-565
+idling)
+Idle speed is low (improper idle speed) 10 P.13B-566
+Idling stability When the engine is cold, it stalls at idle (die out) 11 P.13B-568
+(engine stalls)
+When the engine is hot, it stalls at idle (die out) 12 P.13B-570
+The engine stalls when accelerating (pass out) 13 P.13B-575
+The engine stalls when decelerating 14 P.13B-576
+Driving Hesitation, sag or stumble 15 P.13B-577
+Acceleration shock 16 P.13B-580
+Deceleration shock 17 P.13B-581
+Poor acceleration 18 P.13B-582
+Surge 19 P.13B-585
+Knocking 20 P.13B-588
+Dieseling (Run-on) 21 P.13B-589
+Too high CO and HC concentration when idling 22 P.13B-590
+IM240 test Transient, mass emission tailpipe test failure 23 P.13B-592
+failure
+Purge flow test of the evaporative emission canister 24 P.13B-597
+failure
+Pressure test of the evaporative system failure 25 P.13B-598
+Generator output voltage is low (approximately 12.3 volts) 26 P.13B-599
+Improper idle speed when the A/C is on (A/C switch 2 signal) 27 P.13B-602
+Fans (radiator fan, A/C condenser fan) are inoperative 28 P.13B-604
+Power supply system and ignition switch-IG system 29 P.13B-607
+TSB Revision

@@ -1,0 +1,32 @@
+AC–62
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+C REPLACE AIR CONDITIONING AMPLIFIER
+A
+2 CHECK HARNESS AND CONNECTOR (SOLAR SENSOR)
+(a) Disconnect the solar sensor connector.
+A/C Solar Sensor Connector
+(b) Measure the voltage according to the value(s) in the
+Wire Harness View:
+table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+E11-6 (CLTB) - E11-3
+Ignition switch off Below 1 V
+(CLTE)
+E11-6 (CLTB) - E11-3
+E11 Ignition switch on (IG) 10 to 14 V
+(CLTE)
+OK Go to step 4
+CLTE
+CLTB
+E124476E02
+AC NG
+3 CHECK HARNESS AND CONNECTOR (MAIN BODY ECU - SOLAR SENSOR)
+(a) Disconnect the main body ECU connector.
+Main Body ECU
+Connector Front View:
+E6
+CLTE CLTB
+E124475E02

@@ -1,0 +1,69 @@
+BC–361
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+7 CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU TO EACH SPEED SENSOR)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Harness Side (b) Measure the resistance according to the value(s) in the
+Connector Front View): table below.
+Standard resistance:
+A60
+RR- FRONT
+FL- RL+
+FR-
+FL+ FR+ Tester Connection Condition Specified Condition
+A60-5 (FL+) - A14-1
+Always Below 1 Ω
+(FL+)
+A60-5 (FL+) - Body
+Always 10 kΩ or higher
+ground
+RL- RR+ A60-6 (FL-) - A14-2 (FL-) Always Below 1 Ω
+A60-6 (FL-) - Body
+Always 10 kΩ or higher
+Front Speed Sensor Harness Side ground
+Connector Front View: A60-10 (FR+) - A35-1
+Always Below 1 Ω
+(FR+)
+BC
+A60-10 (FR+) - Body
+Always 10 kΩ or higher
+ground
+A60-9 (FR-) - A35-2 (FR-
+A14 A35 ) Always Below 1 Ω
+A60-9 (FR-) - Body
+Always 10 kΩ or higher
+FL- FL+ FR- FR+ ground
+REAR
+Rear Speed Sensor Harness Side
+Tester Connection Condition Specified Condition
+Connector Front View:
+A60-7 (RL+) - g1-1
+Always Below 1 Ω
+(RL+)
+A60-7 (RL+) - Body
+Always 10 kΩ or higher
+g1 f1 ground
+A60-27 (RL-) - g1-2 (RL-
+Always Below 1 Ω
+)
+A60-27 (RL-) - Body
+Always 10 kΩ or higher
+ground
+RL- RL+ RR- RR+
+A60-29 (RR+) - f1-1
+Always Below 1 Ω
+C139146E02 (RR+)
+A60-29 (RR+) - Body
+Always 10 kΩ or higher
+ground
+A60-8 (RR-) - f1-2 (RR-) Always Below 1 Ω
+A60-8 (RR-) - Body
+Always 10 kΩ or higher
+ground
+(c) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (SKID CONTROL ECU TO
+EACH SPEED SENSOR)
+OK
+8 RECONFIRM DTC
+(a) Clear the DTC (See page BC-302).
+(b) Start the engine.

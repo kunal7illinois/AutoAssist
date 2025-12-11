@@ -1,0 +1,73 @@
+BC–32
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+Measurement Item / Range
+Item Normal Condition Diagnostic Note
+(Display)
+SFLH ABS solenoid (SFLH) ON / OFF ON: Operates -
+ABS solenoid (SRRR (SRR)) ON
+SRRR ON: Operates -
+/ OFF
+ABS solenoid (SRRH (SRH)) ON
+SRRH ON: Operates -
+/ OFF
+SRLR ABS solenoid (SRLR) ON / OFF ON: Operates -
+SRLH ABS solenoid (SRLH) ON / OFF ON: Operates -
+NORMAL: Normal mode
+TEST MODE Test mode / NORMAL or TEST -
+TEST: During test mode
+Number of DTCs recorded / min.:
+#CODES Min.: 0, max.: 19 -
+0, max.: 255
+ON: ABS warning light ON
+ABS WARN LAMP ABS warning light ON /OFF -
+OFF: ABS warning light off
+ON: Brake warning light ON
+BRAKE WARN LAMP Brake warning light ON / OFF -
+OFF: Brake warning light off
+Front right wheel acceleration /
+FR WHEEL ACCEL Min.: -200.84 m/s, Max.: 199.27 0 m/s -
+BC m/s
+Front left wheel acceleration /
+FL WHEEL ACCEL Min.: -200.84 m/s, Max.: 199.27 0 m/s -
+m/s
+Rear right wheel acceleration /
+RR WHEEL ACCEL Min.: -200.84 m/s, Max.: 199.27 0 m/s -
+m/s
+Rear left wheel acceleration /
+RL WHEEL ACCEL Min.: -200.84 m/s, Max.: 199.27 0 m/s -
+m/s
+Front right ABS control status / ON: During ABS control
+FR ABS STATUS -
+ON or OFF OFF: Not ABS control
+Front left ABS control status / ON ON: During ABS control
+FL ABS STATUS -
+or OFF OFF: Not ABS control
+Rear right ABS control status / ON: During ABS control
+RR ABS STATUS -
+ON or OFF OFF: Not ABS control
+Rear left ABS control status / ON ON: During ABS control
+RL ABS STATUS -
+or OFF OFF: Not ABS control
+Front right EBD control status / ON: During EBD control
+FR EBD STATUS -
+ON or OFF OFF: Not EBD control
+Front left EBD control status / ON ON: During EBD control
+FL EBD STATUS -
+or OFF OFF: Not EBD control
+Rear right EBD control status / ON: During EBD control
+RR EBD STATUS -
+ON or OFF OFF: Not EBD control
+Rear left EBD control status / ON ON: During EBD control
+RL EBD STATUS -
+or OFF OFF: Not EBD control
+2. ACTIVE TEST
+HINT:
+Performing the ACTIVE TEST using the intelligent tester
+allows the relay, actuator and other items to operate
+without removing any parts. Performing the ACTIVE
+TEST as a first step in troubleshooting is one of the
+methods to save labor time.
+It is possible to display the DATA LIST during the
+ACTIVE TEST.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).

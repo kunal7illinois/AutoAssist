@@ -1,0 +1,52 @@
+13C-6 FUEL SUPPLY
+FUEL SUPPLY DIAGNOSIS
+(13)Stop the engine and observe fuel pressure gauge reading.
+It is normal if the reading does not drop within two minutes.
+If it does, observe the rate of drop and troubleshoot and
+repair according to the table below. Start, then stop the
+engine.
+a. Squeeze the fuel return line closed to confirm leak-down
+occurs from defective fuel pressure regulator.
+b. Squeeze the fuel supply line closed to confirm leak-
+down occurs from defective fuel pump check valve.
+c. If pressure continues to drop with both fuel lines
+squeezed closed, injector(s) are leaking.
+SYMPTOM PROBABLE CAUSE REMEDY
+Fuel pressure drops gradually Leaky injector Replace injector
+after engine is stopped
+Leaky fuel regulator valve seat Replace fuel pressure regulator
+Fuel pressure drops sharply Check valve in fuel pump is held Replace fuel pump
+immediately after engine is open
+stopped
+(14)Release residual pressure from the fuel pipe line. <2.4L>
+(Refer to P.13A-580.) <3.0L> (Refer to P.13B-682.)
+WARNING
+Cover the hose connection with shop towels to pre-
+MD998709 vent splash of fuel that could be caused by some
+residual pressure in the fuel pipe line.
+HIGH- (15)Remove the fuel pressure gauge or special tool
+PRESSURE
+MB991637, and special tools MD998709 and MD998742
+FUEL HOSE
+from the fuel rail.
+(16)Replace the O-ring at the end of the high-pressure fuel
+FUEL RAIL
+hose with a new one.
+MD998742
+(17)Fit the high-pressure fuel hose into the fuel rail and tighten
+the bolts to specified torque.
+AC106598AB
+Tightening torque: 4.9 ± 1.0 N⋅m (44 ± 8 in-lb)
+(18)Check for fuel leaks.
+a. Use scan tool MB991502 to operate the fuel pump.
+b. Check the fuel line for leaks, and repair as needed.
+(19)Disconnect scan tool MB991502.
+Q:Is the fuel pressure test in good condition?
+YES : Go to Step 5.
+NO : Repair or replace. Then go to Step 3.
+STEP 3. Check for bending, twisting or clogging of the fuel
+pipe or hose.
+Q:Are the fuel pipe and hose in good condition?
+YES : Go to Step 4.
+NO : Repair or replace. Then go to Step 6.
+TSB Revision

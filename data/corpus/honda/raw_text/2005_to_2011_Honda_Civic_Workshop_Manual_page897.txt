@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES -Repair short to body ground in the wire between PCM connector
+terminal B26 and the shift solenoid harness connector, then go to step 15.
+NO -Go to step 14.
+14. Inspect shift solenoid valve B and the shift solenoid harness (see SHIFT
+SOLENOID VALVE TEST ).
+Is shift solenoid valve B and the harness OK?
+YES -Go to step 21.
+NO -Replace shift solenoid valve B or the shift solenoid harness (see SHIFT
+SOLENOID VALVE AND SHIFT SOLENOID WIRE HARNESS
+REPLACEMENT ), then go to step 15.
+15. Reconnect all connectors.
+16. Turn the ignition switch to ON (II).
+17. Clear the DTC with the HDS.
+18. Test-drive the vehicle in 1st gear with the shift lever in D, for at least 1 second.
+Then drive in 3rd gear for at least 1 second.
+19. Check for DTCs with the HDS.
+Is DTC P0976 indicated?
+YES -Check for intermittent short to body ground in the wire between shift
+solenoid valve B and the PCM, then go to step 1.
+NO -Go to step 20.
+20. Monitor the OBD STATUS for P0976 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?

@@ -1,0 +1,49 @@
+AX–166
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+2 INSPECT TRANSMISSION CONTROL SWITCH
+(a) Connect the park/neutral position switch connector.
+Switch Side: (b) Disconnect the transmission control switch connector of
+AX the shift lock control unit assembly.
+(Connector Front View): (c) Measure the resistance according to the value(s) in the
+table below when the shift lever is moved to each
+position.
+Standard resistance
+Shift Position Tester Connection Specified Condition
+E31
+S, "+" and "-" Below 1 Ω
+3 - 7
+Except S, "+" and "-" 10 kΩ or higher
+NG REPLACE TRANSMISSION CONTROL
+SWITCH
+C110341E16
+OK
+3 CHECK ECU TERMINAL VOLTAGE (STA TERMINAL)
+(a) Connect the transmission control switch connector of the
+Wire Harness Side:
+shift lock control unit assembly.
+TCM Connector (Front View)
+(b) Measure the voltage according to the value(s) in the
+table below while cranking the engine.
+C56
+Standard voltage
+Tester Connection Specified Condition
+STA (C56-10) - Body ground 9 to 14 V
+STA NG REPAIR OR REPLACE HARNESS OR
+C133210E04
+CONNECTOR (TCM - ECM)
+OK
+4 CHECK HARNESS AND CONNECTOR (PARK/NEUTRAL POSITION SWITCH - TCM)
+(a) Disconnect the TCM connector.
+Wire Harness Side:
+(b) Turn the ignition switch on (IG), and measure the voltage
+TCM Connector (Front View)
+according to the value(s) in the table below when the
+shift lever is moved to each position.
+C56
+Standard voltage
+Shift Position Tester Connection Specified Condition
+R R (C56-15) - Body 10 to 14 V *
+Except R ground Below 1 V
+R D D D (C56-16) - Body 10 to 14 V
+C133210E05
+Except D ground Below 1 V

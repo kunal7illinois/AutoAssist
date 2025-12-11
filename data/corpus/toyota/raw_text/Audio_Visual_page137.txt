@@ -1,0 +1,41 @@
+AV–137
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+• For details of the DTC display, refer to "DTC CHECK/
+CLEAR" (See page AV-19).
+NEXT
+2 CHECK COMPONENT SHOWN BY SUB-CODE
+(a) Select the component shown by sub-code.
+HINT:
+The "Bluetooth" handsfree module is built into the radio
+receiver. If there is a problem between the "Bluetooth"
+handsfree module and radio receiver, replace the radio
+receiver.
+Component Table:
+Component Proceed to
+Radio Receiver (190) A
+Except Radio Receiver B
+A REPLACE RADIO RECEIVER
+B
+3 CHECK POWER SOURCE CIRCUIT OF COMPONENT SHOWN BY SUB-CODE
+(a) Inspect the power source circuit of the component shown
+by the sub-code.
+If the power source circuit is operating normally, proceed
+to the next step.
+Component Table:
+Component Proceed to
+Stereo component amplifier (440) Stereo component amplifier power source circuit (See page AV-142)
+NEXT
+4 INSPECT RADIO RECEIVER
+(a) Disconnect the radio receiver connector.
+Premium Model Wire Harness View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester connection Condition Specified condition
+F26 ATX+
+ATX+ (F26-5) - ATX-
+Always 60 to 80 Ω AV
+(F26-15)
+NG REPLACE RADIO RECEIVER
+ATX-
+E129798E04

@@ -1,0 +1,37 @@
+BODY ELECTRICAL - METER BE-33
+Warning Detail Warning Detail
+Engine oil pressure is low. Engine coolant temperature
+is high.
+: Flash : Flash
+Buzzer: Sound Buzzer: Sound
+025BE30P 025BE31P
+Washer fluid level is low. The sliding roof is open
+and the driver door is open.
+: Illuminate Displayed for 8 sec.
+Buzzer: Sound : Flash
+Buzzer: Sound
+025BE32P
+025BE33P
+Comes on approximately Comes on approximately
+4500 miles after the engine 5000 miles after the engine
+oil is changed. (Only for oil has been changed.
+U.S.A. models) (Only for U.S.A. models)
+: Illuminate : Illuminate
+Buzzer: Sound Buzzer: Sound
+025BE34P 025BE35P
+2) Oil Replacement Reminder
+(cid:3) The oil replacement reminder appears to remind the driver to change the engine oil in accordance with
+the vehicle driving distance. This reminder is not provided on models equipped with destination
+package options (reminder provided only on U.S.A. models).
+(cid:3) The meter ECU calculates the vehicle driving distance based on the signals from the skid control ECU.
+(cid:3) There are two types of warnings: one is displayed when the vehicle driving distance has reached 4,500
+miles or more since the last time the system was reset, and the other is displayed when the driving
+distance has reached 5,000 miles or more.
+(cid:3) The “OIL MAINT REQD SOON” warning appears for approximately 15 seconds after the power
+source is changed to IG-ON, and then goes off.
+(cid:3) The “OIL MAINT REQD” warning remains on while the power source is IG-ON.
+4,500 miles or more 5,000 miles or more
+025BE36P
+(cid:3) After the engine oil has been changed, the accumulated vehicle driving distance is memorized in the
+meter ECU and should be reset through the operation of the “TRIP” meter reset knob. At this point,
+the accumulated vehicle driving distance is reset to zero.

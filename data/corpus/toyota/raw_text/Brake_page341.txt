@@ -1,0 +1,26 @@
+BC–330
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+6 INSPECT REAR SPEED SENSOR
+(a) Disconnect the rear speed sensor connector.
+(b) Measure the resistance according to the value(s) in the
+Rear Speed Sensor: table below.
+Standard resistance:
+LH
+Tester Connection Specified Condition
+g1-1 (RR+) - g1-2 (RR-) Below 2.2 kΩ
+g1-1 (RR+) - Body ground 10 kΩ or higher
+g1-2 (RR-) - Body ground 10 kΩ or higher
+2
+RH
+1
+Tester Connection Specified Condition
+f1-1 (RL+) - f1-2 (RL-) Below 2.2 kΩ
+f1-1 (RL+) - Body ground 10 kΩ or higher
+BC
+C113377E01 f1-2 (RL-) - Body ground 10 kΩ or higher
+NOTICE:
+Check the speed sensor signal after replacement
+(See page BC-290).
+NG REPLACE REAR SPEED SENSOR (See page
+BC-443)
+OK

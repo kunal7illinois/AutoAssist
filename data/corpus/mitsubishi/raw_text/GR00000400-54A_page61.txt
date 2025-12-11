@@ -1,0 +1,39 @@
+CHASSIS ELECTRICAL 54A-61
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+CONNECTORS: C-60 2.4L-M/T>,
+C-62 <3.0L-M/T>
+ECM
+C-60, C-62
+AC001689BI
+NOTE: After checking joint connector C-77 and intermediate
+CONNECTOR: C-28
+connector C-28,check the wires. If joint connector C-77 and
+intermediate connector C-28 are damaged, repair or replace
+the wiring harness. Refer to GROUP 00E, Harness Connector
+Inspection P.00E-2.
+Q:Are the wiring harness from vehicle speed sensor
+connector B-39 (terminal 3) to auto-cruise control-ECU
+connector C-20 (terminal 10), ECM <M/T> connector C-
+60 (terminal 86) <2.4L-M/T>, C-62 (terminal 80) <3.0L-M/
+AC003599AB T> and combination meter connector C-42 (terminal 30)
+in good condition?
+CONNECTOR: C-77
+YES : Go to Step 43.
+NO : Repair the wiring harness. The speedometer should
+work normally.
+AC003553AH
+STEP 22. Using scan tool MB991502, read the A/T
+diagnostic trouble code.
+CAUTION
+To prevent damage to scan tool always turn the ignition
+switch to "LOCK" (OFF) position before connecting or dis-
+connecting scan tool.
+(1) Read the A/T diagnostic trouble code.
+(2) Turn the ignition switch to "LOCK" (OFF) position.
+Q:Is A/T diagnostic trouble code number "23" output?
+YES : Go to Step 29.
+NO : Go to Step 23.
+16 PIN
+MB991502
+AC001252AB
+TSB Revision

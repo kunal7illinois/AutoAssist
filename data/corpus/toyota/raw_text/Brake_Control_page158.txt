@@ -1,0 +1,85 @@
+BC–152
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DATA LIST / ACTIVE TEST
+1. DATA LIST
+HINT:
+With the intelligent tester connected to the DLC3 and the
+ignition switch on (IG), the ABS, TRAC and VSC Data
+List can be displayed. Follow the prompts on the tester
+screen to access the Data List.
+Measurement Item / Range
+Item (Display) Normal Condition Diagnostic Note
+(Display)
+ON: Motor relay ON
+ABS MTR RELAY ABS motor relay / ON or OFF -
+OFF: Motor relay OFF
+ON: Solenoid relay ON
+SOL RELAY Solenoid relay / ON or OFF -
+OFF: Solenoid relay OFF
+ON: Motor relay ON
+FAIL MTR RELAY Fail safe motor relay / ON or OFF -
+OFF: Motor relay OFF
+ON: Accelerator pedal released
+IDLE SW Main idle switch / ON or OFF OFF: Accelerator pedal -
+depressed
+BC
+ON: Brake pedal depressed
+STOP LAMP SW Stop light switch / ON or OFF -
+OFF: Brake pedal released
+ON: Parking brake applied
+PARKING BRAKE SW Parking brake switch / ON or OFF -
+OFF: Parking brake released
+Engine revolutions / min.: 0 r/min,
+ENG REVOLUTIONS - -
+max.: 65535 r/min
+Gear position information / P/N,
+GEAR POSITION - -
+R, 1st-6th, FAIL, NOT R
+Shift lever position information /
+LEVER POSITION - -
+P/N, R, D/M, 1st-6th/B, FAIL
+SHIFT INFO Shift information / ON or OFF ON: During gear change -
+FR wheel speed sensor reading /
+Similar speed as indicated on
+FR WHEEL SPD min.: 0 mph (0 km/h), max.: 202 Actual wheel speed
+speedometer
+mph (326 km/h)
+FL wheel speed sensor reading /
+Similar speed as indicated on
+FL WHEEL SPD min.: 0 mph (0 km/h), max.: 202 Actual wheel speed
+speedometer
+mph (326 km/h)
+RR wheel speed sensor reading /
+Similar speed as indicated on
+RR WHEEL SPD min.: 0 mph (0 km/h), max.: 202 Actual wheel speed
+speedometer
+mph (326 km/h)
+RL wheel speed sensor reading /
+Similar speed as indicated on
+RL WHEEL SPD min.: 0 mph (0 km/h), max.: 202 Actual wheel speed
+speedometer
+mph (326 km/h)
+Acceleration sensor 1 reading / Approximately 0+-0.13 G while Reading changes when vehicle is
+DECELERAT SEN
+min.: -1.889 G, max.: 1.875 G stationary bounced
+Acceleration sensor 2 reading / Approximately 0+-0.13 G while Reading changes when vehicle is
+DECELERAT SEN 2
+min.: -1.889 G, max.: 1.875 G stationary bounced
+ABS solenoid (SFRR) / ON or
+SFRR ON: Operates -
+OFF
+ABS solenoid (SFRH) / ON or
+SFRH ON: Operates -
+OFF
+ABS solenoid (SFLR) / ON or
+SFLR ON: Operates -
+OFF
+ABS solenoid (SFLH) / ON or
+SFLH ON: Operates -
+OFF
+ABS solenoid (SRRR) / ON or
+SRRR ON: Operates -
+OFF
+ABS solenoid (SRRH) / ON or
+SRRH ON: Operates -
+OFF

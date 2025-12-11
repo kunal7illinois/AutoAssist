@@ -1,0 +1,44 @@
+AUTOMATIC TRANSAXLE 23A-177
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 16. Check harness for damage between Park/Neutral
+position switch connector B-41 terminal 1 and shift switch
+assembly connector C-65 terminal 1.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-41
+B-41 YES : Repair harness damage between shift switch
+assembly connector C-65 terminal 2 and combination
+meter connector C-41 terminal 50.
+NO : Repair it.
+DIPSTICK
+AC001844AK
+CONNECTOR: C-65
+C-65
+AC001741AS
+STEP 17. Check the switch output voltage at PCM
+connector C-61 by backprobing. ("3" position) <Vehicles
+without sport mode>
+Measure the voltage between terminal 109 and ground by
+backprobing.
+• When selector lever position is "P," voltage should be 0.5
+volt or less.
+• When selector lever position is "R," voltage should be 0.5
+volt or less.
+• When selector lever position is "N," voltage should be 0.5
+volt or less.
+C-61 CONNECTOR
+HARNESS SIDE VIEW • When selector lever position is "D," voltage should be 0.5
+volt or less.
+AC001907AI
+• When selector lever position is "3," voltage should be bat-
+tery positive voltage.
+• When selector lever position is "2," voltage should be 0.5
+volt or less.
+• When selector lever position is "L," voltage should be 0.5
+volt or less.
+Q:Is the voltage normal?
+YES : Go to Step 18.
+NO : Tern the ignition switch to the "LOCK" (OFF) position.
+Repair harness damage between the Park/Neutral
+position switch connector B-41 terminal 5 and PCM
+connector C-61 terminal 109.
+TSB Revision

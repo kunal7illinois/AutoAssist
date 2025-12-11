@@ -1,0 +1,28 @@
+ENGINE AND EMISSION CONTROL 17-85
+AUTO-CRUISE CONTROL
+Auto-cruise Control Check
+Measure the resistance between the terminals when each of
+the "SET," "RESUME," "CANCEL" and "MAIN" switches is
+pressed. If the values measured at the time correspond to
+those in the table below, the resistance values are correct.
+SWITCH TERMINAL SPECIFIED
+POSITION CONNECTOR CONDITION
+OF TESTER
+"MAIN" switch 1 − 2 Open circuit
+"OFF"
+1
+"MAIN" switch 1 − 2 Approximately 3.9 kΩ
+"ON"
+MAIN "CANCEL" switch 2 − 3 Less than 2 Ω
+OFF OFF OFF "ON"
+OFF ON
+ON ON ON "RESUME" 2 − 3 Approximately 910 Ω
+CAN SET RES switch "ON"
+"SET" switch 2 − 3 Approximately 220 Ω
+3 2
+"ON"
+ACX01178AB
+Vehicle Speed Sensor Check
+Refer to GROUP 54A, Combination Meters Assembly and
+Vehicle Speed Sensor P.54A-105.
+TSB Revision

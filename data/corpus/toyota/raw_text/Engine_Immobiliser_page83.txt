@@ -1,0 +1,36 @@
+EI–79
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+DTC B2784 Antenna Coil Open / Short
+DESCRIPTION
+The transponder key coil is built into the transponder key amplifier and receives a key code signal from
+the transponder chip in the key. This signal is amplified by the amplifier, then it is output to the transponder
+key ECU assembly.
+DTC No. DTC Detection Condition Trouble Area
+• Wire harness
+B2784 Antenna coil is open/shorted • Transponder key amplifier
+• Transponder key ECU assembly
+WIRING DIAGRAM
+E25 E15
+Transponder Key Amplifier Transponder Key ECU Assembly
+Amplifier
+ANT1 VC5 1 O 14
+VC5
+CODE 4 BR 15
+CODE
+Coil
+TXCT 5 R 4
+TXCT
+AGND 7 V 5
+AGND
+ANT2
+EI
+B111588E13
+INSPECTION PROCEDURE
+NOTICE:
+If the transponder key ECU assembly is replaced, register the key and ECU communication ID
+(See page EI-57).
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the ignition switch to the ON position and turn the
+intelligent tester on.

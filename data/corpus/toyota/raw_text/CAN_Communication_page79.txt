@@ -1,0 +1,63 @@
+CA–79
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+: CAN Main Bus Line (CANH)
+: CAN Main Bus Line (CANL)
+: CAN Branch Line (CANH)
+: CAN Branch Line (CANL)
+(x)
+A25
+B W Skid Control ECU*1
+4 E41 E41 10
+No. 2 CAN J/C 2
+B 26 CANH
+A40
+8 (x) (x)
+W15 CANL
+A40
+A26
+Skid Control ECU*2
+CA
+2
+B 11 CANH
+A40
+1
+CANH 11 B 8 (x) (x)
+E41 W25 CANL
+(x) (x) 7 A40
+CANL 12 W
+E41
+(x)
+A60
+Skid Control ECU*3
+E38
+A/C Amplifier
+2
+P B 35 CANH
+A40
+1 2
+B 8 (x) (x)
+E61 E41 W W14 CANL
+A40
+2 (x) 8
+W
+E61 E41
+*1 : without VSC
+1 A40 A40 7
+(x)
+*2 : with VSC (TMC mode)
+B W
+17 18
+*3 : with VSC (TMMK mode)
+CANH (x) CANL
+: Suspected Area
+*4 : 2AZ-FE
+(Short in CAN bus lines)
+*5 : 2GR-FE
+A 24*4
+ECM
+A 55*5
+C133251E01
+INSPECTION PROCEDURE
+NOTICE:
+• Turn the ignition switch off before measuring the resistance of the CAN main wire and CAN
+branch wires.

@@ -1,0 +1,47 @@
+BC–347
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+• When U0073/94, U0100/65, U0123/62 and/or U0126/63 is output together with C0365/28, inspect and
+repair the trouble areas indicated by U0073/94, U0100/65, U0123/62 and/or U0126/63 first.
+1 CHECK DTC
+(a) Clear the DTCs (See page BC-302).
+(b) Start the engine.
+(c) At a speed of 18 mph (30 km/h) or more, drive the
+vehicle, turn the steering wheel, and decelerate (depress
+the brake pedal) the vehicle.
+(d) Turn the ignition switch on (IG) again and check that no
+CAN communication system DTC is output (See page
+BC-302).
+Result
+Condition Proceed to
+CAN communication system DTC is not output A
+CAN communication system DTC is output B
+BC
+B INSPECT CAN COMMUNICATION SYSTEM
+(See page CA-8)
+A
+2 INSPECT YAW RATE AND ACCELERATION SENSOR INSTALLATION
+(a) Check that the yaw rate and acceleration sensor has
+been installed properly (See page BC-448).
+OK:
+The sensor should be tightened to the specified
+torque.
+The sensor should not be titled.
+NG INSTALL YAW RATE AND ACCELERATION
+SENSOR CORRECTLY
+OK
+3 INSPECT YAW RATE AND ACCELERATION SENSOR (IG TERMINAL)
+(a) Disconnect the yaw rate and acceleration sensor
+Yaw Rate and Acceleration Sensor
+connector.
+(Harness Side Connector Front View):
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+E65 table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+E65-1 (IG) - Body
+Ignition switch on (IG) 10 to 14 V
+IG ground
+F048983E13
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (IG CIRCUIT)

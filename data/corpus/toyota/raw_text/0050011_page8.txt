@@ -1,0 +1,73 @@
+ES–54
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Intelligent Tester Display Measurement: Range (Display) Normal Condition*1 Diagnostic Note
+Comprehensive component
+CCM CMPL monitor: - -
+COMPL or INCMPL
+Fuel system monitor:
+FUEL ENA - -
+UNABLE or ENABLE
+Fuel system monitor:
+FUEL CMPL - -
+COMPL or INCMPL
+Misfire monitor:
+MISFIRE ENA - -
+UNABLE or ENABLE
+Misfire monitor:
+MISFIRE CMPL - -
+COMPL or INCMPL
+O2S (A/FS) heater monitor:
+HTR ENA - -
+UNABLE or ENABLE
+ES
+O2S (A/FS) heater monitor:
+HTR CMPL - -
+COMPL or INCMPL
+O2S (A/FS) monitor:
+O2S (A/FS) ENA - -
+UNABLE or ENABLE
+O2S (A/FS) monitor:
+O2S (A/FS) CMPL - -
+COMPL or INCMPL
+EVAP monitor:
+EVAP ENA - -
+UNABLE or ENABLE
+EVAP monitor:
+EVAP CMPL - -
+COMPL or INCMPL
+Catalyst monitor:
+CAT ENA - -
+UNABLE or ENABLE
+Catalyst monitor:
+CAT CMPL - -
+COMPL or INCMPL
+MODEL CODE Identifying model code ACA3# -
+ENGINE TYPE Identifying engine type 2AZFE -
+Identifying cylinder number:
+CYLINDER NUMBER 4 -
+Min.: 0, Max.: 255
+TRANSMISSION Identifying transmission type 4AT -
+DESTINATION Identifying destination A (America) -
+Identifying model year:
+MODEL YEAR 200# -
+Min.: 1900, Max.: 2155
+SYSTEM Identifying engine system GASLIN (gasoline engine) -
+HINT:
+• *1: If no idling conditions are specified, the transmission
+gear selector lever should be in the N or P position, and
+the A/C switch and all accessory switches should be OFF.
+• *2: DATA LIST values are only displayed when performing
+the following ACTIVE TEST: VVT B1. For other ACTIVE
+TESTs, the DATA LIST value will be 0.
+2. ACTIVE TEST
+HINT:
+Performing an ACTIVE TEST enables components
+including the relays, VSV (Vacuum Switching Valve) and
+actuators, to be operated without removing any parts.
+The ACTIVE TEST can be performed with the intelligent
+tester. Performing the ACTIVE TEST as the first step of
+troubleshooting is one method of shortening diagnostic
+time.
+DATA LIST can be displayed during ACTIVE TEST.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.

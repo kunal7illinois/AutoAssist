@@ -1,0 +1,47 @@
+13A-432 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the backup power supply voltage at ECM
+harness side connector C-60 <M/T> or PCM harness side
+connector C-54 <A/T>.
+(1) Disconnect the ECM connector C-60 <M/T> or PCM
+connector C-54 <A/T> and measure at the harness side.
+(2) Measure the voltage between terminal 80 <M/T> or 66 <A/
+<M/T>
+T> and ground.
+• Voltage should be battery positive voltage.
+Q:Is the voltage normal?
+YES : Go to Step 4.
+8180797877767574737271
+9291908988878685848382 NO : Check connector C-07 at intermediate connector for
+damage, and repair or replace as required. Refer to
+C-60 HARNESS
+SIDE CONNECTOR GROUP 00E, Harness Connector Inspection P.00E-
+2. If intermediate connector are in good condition,
+AK000403AC repair harness wire between relay box (9) and ECM
+connector C-60 (terminal 80) <M/T> or PCM
+<A/T>
+connector C-54 (terminal 66) <A/T> because of open
+C-54 HARNESS circuit or short circuit to ground. Then go to Step 6.
+SIDE CONNECTOR
+464544 43 42 41
+575655545352515049 48 47
+666564 63626160 59 58
+AKX01436AF
+STEP 4. Check connector C-60 at ECM <M/T> or connector
+C-54 at PCM <A/T> for damage.
+Q:Is the harness connector in good condition?
+CONNECTORS:C-60<M/T>,C-54<A/T>
+YES : Check connector C-07 at intermediate connector for
+damage, and repair or replace as required. Refer to
+ECM<M/T>
+GROUP 00E, Harness Connector Inspection P.00E-
+OR
+PCM<A/T> 2. If intermediate connector are in good condition,
+repair harness wire between relay box (9) and ECM
+connector C-60 terminal 80 <M/T> or PCM connector
+C-54 terminal 66 <A/T> because of harness damage.
+C-54 C-60 Then go to Step 6.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+AK000280BB
+Connector Inspection P.00E-2. Then go to Step 6.
+TSB Revision

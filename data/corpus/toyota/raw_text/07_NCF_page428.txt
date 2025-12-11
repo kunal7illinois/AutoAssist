@@ -1,0 +1,44 @@
+BE-94 BODY ELECTRICAL - SMART KEY SYSTEM
+4. Function of Main Components
+Component Function
+(cid:3) Transmits the engine switch signal to the main body ECU.
+(cid:3) Informs the driver of any power source or system abnormality
+Engine Switch through the illumination stage of the indicator light.
+(cid:3) Transponder Key Amplifier (cid:3) Receives the ID code and transmits it to the certification ECU
+when the key battery is too weak to respond to the tuner based
+on the room oscillators.
+Receives the signals from the oscillators and returns the ID code
+Key
+to the tuner. For details, see page BE-110.
+Room Oscillator Receives a request signal from the certification ECU and forms the
+(cid:3) Front and Rear actuation area in the vehicle interior.
+Receives the ID code from the key and transmits it to certification
+Tuner
+ECU.
+(cid:3) Switches the power source among four modes (OFF, ACC,
+IG-ON, START) in accordance with the shift position and the
+Main Body ECU state of the stop light switch.
+(cid:3) Controls the smart key system in accordance with the signals
+received from the switches and each ECU.
+Certifies the ID code received from the tuner and transmits the
+Certification ECU
+certification results to the ID code box and steering lock ECU.
+Stop Light Switch Outputs the state of the brake pedal to main body ECU.
+Receives the steering unlock or engine immobilizer
+disengage/engage signals from the certification ECU, certifies
+ID Code Box
+them, and transmits each disengage/engage signal to the steering
+lock ECU or ECM.
+Receives the steering unlock/lock signal from ID code box, and
+Steering Lock ECU
+activates the steering lock motor.
+(cid:3) Receives the engine start request signal from the main body
+ECU, turns ON the ST relay, and starts the engine.
+ECM
+(cid:3) Receives the signal from the ID code box and performs engine
+ignition and injection.
+Multi-information
+Informs the driver of malfunctions in the smart key system.
+CCoommbbiinnaattiioonn Display
+Meter Master Warning Illuminates simultaneously with a buzzer sound to inform the
+Light driver of malfunctions in the smart key system.

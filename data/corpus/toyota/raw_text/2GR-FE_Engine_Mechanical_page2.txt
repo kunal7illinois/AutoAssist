@@ -1,0 +1,65 @@
+EM–2
+2GR-FE ENGINE MECHANICAL – ENGINE
+(c) When not using the intelligent tester:
+DLC3 Check the ignition timing.
+(1) Using SST, connect terminals 13 (TC) and 4
+CG
+(CG) of the DLC3.
+SST 09843-18040
+1 2 3 4 5 6 7 8 NOTICE:
+• Confirm the terminal numbers before
+9 10111213141516 connecting them. Connection with a
+wrong terminal can damage the engine.
+TC
+• Turn off all electrical systems before
+A122830E14
+connecting the terminals.
+• Perform this inspection after the cooling
+fan motor is turned off.
+(2) Remove the V-bank cover.
+(3) Pull out the red lead wire harness.
+Red Lead
+(4) Connect the tester terminal of the timing light to
+Wire
+the red lead wire as shown in the illustration.
+NOTICE:
+EM
+Use a timing light which can detect the first
+signal.
+Tester Terminal (5) Check the ignition timing at idle.
+Ignition timing:
+8 to 12° BTDC at idle
+NOTICE:
+A129620E01
+When checking the ignition timing, the
+transmission should be in neutral.
+HINT:
+Run the engine at 1,000 to 1,300 rpm for 5
+seconds, and then check that the engine rpm
+returns to idle speed.
+(6) Disconnect terminals 13 (TC) and 4 (CG) of the
+DLC3.
+(7) Check the ignition timing at idle.
+Ignition timing:
+12 to 22° BTDC at idle
+(8) Confirm that the ignition timing moves to the
+advanced angle side when the engine rpm is
+increased.
+(9) Remove the timing light.
+8. INSPECT ENGINE IDLE SPEED
+(a) Warm up the engine.
+(b) When using the intelligent tester:
+Intelligent Tester
+Check the idle speed.
+(1) Connect the intelligent tester to the DLC3.
+(2) Enter DATA LIST mode with the intelligent
+tester.
+Idle speed:
+600 to 700 rpm
+NOTICE:
+CAN VIM
+DLC3 • When checking the idle speed, the
+transmission should be in neutral.
+C110200E02
+• Check the idle speed with the cooling fan
+off.

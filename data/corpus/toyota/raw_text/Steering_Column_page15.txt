@@ -1,0 +1,33 @@
+SR–13
+STEERING COLUMN – ELECTRIC STEERING LOCK
+SMART ACCESS SYSTEM WITH PUSH-BUTTON START FUNCTION:
+Symptom Suspected area See page
+1. Initialization SR-9
+2. Check for DTCs in the smart access system with push- ST-26
+button start.
+3. Check for DTCs in the engine immobiliser system. EI-24
+4. Check that the engine switch is turned on (IG). -
+5. Check cranking operation. (If cranking operation is possible, -
+see "Engine does not start due to the engine immobiliser" in
+this table.)
+6. Check SHIFT P SIG in the DATA LIST of the power source -
+Engine does not start.
+control ECU and confirm that the shift signal is normal.
+7. Check whether the steering wheel is locked or unlocked. (If -
+it is locked, see "Steering wheel cannot be unlocked" in the
+steering lock function table.)
+8. Check the output from the SLP terminal of the steering lock SR-28
+ECU.
+9. Check the output signal from the ST SW of the certification ST-48
+ECU (DTC B2275).
+10. Replace the main body ECU. -
+1. Check that the L CODE MACH item in the DATA LIST of the -
+certification ECU displays OK. (If it displays NG, replace the ID
+code box.)
+2. Check that the ENG START REQ item in the DATA LIST of -
+the certification ECU displays YES. (If it displays NO, replace
+Engine does not start due to the engine immobiliser. the certification ECU.) SR
+3. Check that the S CODE MACH item in the DATA LIST of the -
+certification ECU displays OK. (If it displays NG, replace the ID
+code box.)
+4. Replace the ID code box. -

@@ -1,0 +1,51 @@
+Audi TT No. 52 / 2
+Current Flow Diagram
+Parking aid control unit, fuses
+J446 Parking aid control unit
+J533 Data bus diagnostic interface
+J681 Terminal 15 voltage supply relay 2
+SC7 Fuse 7 on fuse holder C
+T16e 16-pin connector, brown, connector A, on parking aid control unit
+T20d 20-pin connector, black, on data bus diagnostic interface
+51 Earth point, on right in luggage compartment
+J681 ✱
+8/87 395 Earth connection 30, in main wiring harness
+4,0
+sw B163 Positive connection 1 (15), in interior wiring harness
+B163
+B281 Positive connection 5 (15a), in main wiring harness
+4,0
+sw
+B383 Connection 1 (drive train CAN bus, high), in main wiring harness
+7
+J446
+B384 Connection 2 (drive train CAN bus, high), in main wiring harness
+SC7
+5A
+7a T16e/1 T16e/15 T16e T16e
+15 /6 /8 B390 Connection 1 (drive train CAN bus, low), in main wiring harness
+31
+• •
+0,5 0,5 0,35 0,35 0,5
+sw/ge sw/ge or/br or/sw br B391 Connection 2 (drive train CAN bus, low), in main wiring harness
+B281 • CAN bus (data wire)
+* Relay carrier on onboard power supply control unit
+B391 B384 395
+0,35 0,35
+or/br or/sw
+ws = white
+B390 B383
+sw = black
+ro = red
+0,35 0,35 1,5
+or/br or/sw br br = brown
+gn = green
+T20d/6 T20d bl = blue
+/16 gr = grey
+J533 J533
+51 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-052020409
+rs = pink
+Edition 04.2009

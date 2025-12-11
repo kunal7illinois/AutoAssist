@@ -1,0 +1,46 @@
+CHASSIS ELECTRICAL 54A-25
+IGNITION SWITCH
+CONNECTOR: C-79 CONNECTOR: C-89
+CENTER CONNECTOR
+REINFORCEMENT BLOCK (LH)
+IMMOBILIZER-ECU
+AC001652AC AC001991AG
+. NOTE: The "SECURITY" indicator light is shared by
+CIRCUIT OPERATION
+the "SECURITY" system. If a problem can not be
+If the requirements for starting the engine are not sat-
+resolved, observe the "SECURITY" system trouble-
+isfied, the immobilizer-ECU flashes the "SECURITY"
+shooting P.54A-269.
+indicator for 30 seconds.
+.
+. TROUBLESHOOTING HINTS
+TECHNICAL DESCRIPTION (COMMENT)
+• Burned out bulb of "SECURITY" indicator light
+There may be burned out bulb of the "SECURITY"
+• Malfunction of combination meter (printed-circuit
+indicator light or a malfunction of the combination
+board)
+meter (printed-circuit board) or immobilizer-ECU.
+• Malfunction of immobilizer-ECU
+• Damaged wiring harness or connectors
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the "SECURITY" indicator light circuit of
+immobilizer-ECU connector C-79.
+(1) Disconnect the immobilizer-ECU connector C-79 and
+measure at the harness side.
+(2) Connect terminal 9 to the ground.
+(3) Ignition switch "ON" position.
+Q:Is the only "SECURITY" indicator light illuminate?
+(other indicator lights are good condition)
+YES : Replace the immobilizer-ECU. Then register the
+password (secret code) and encrypted code P.54A-28
+NO : Go to Step 2.
+CONNECTOR C-79
+(HARNESS SIDE)
+AC002739AC
+TSB Revision

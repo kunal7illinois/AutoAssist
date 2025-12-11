@@ -1,0 +1,48 @@
+ES–197
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+17 CHECK HARNESS AND CONNECTOR (HEATED OXYGEN SENSOR - ECM)
+(a) Disconnect the C52 oxygen sensor connector (Bank 1
+Wire Harness Side: Sensor 2) or C51 oxygen sensor connector (Bank 2
+sensor 2).
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+Heated Oxygen Sensor Connector
+table below.
+HT1B Standard voltage
++B
+Terminal Connection Specified Condition
+C52
++B (C52-2) - Body ground 9 to 14 V
+Bank 1
++B (C51-2) - Body ground 9 to 14 V
+E2
+OX1B ES
+(d) Turn the engine switch off.
+(e) Disconnect the C55 ECM connector.
+HT2B
++B (f) Measure the resistance according to the value(s) in the
+table below.
+C51
+Standard resistance (Check for open)
+Bank 2
+Terminal Connection Specified Condition
+HT1B (C52-1) - HT1B (C55-48) Below 1 Ω
+OX2B E2
+OX1B (C52-3) - OX1B (C55-88) Below 1 Ω
+E2 (C52-4) - EX1B (C55-65) Below 1 Ω
+C55 ECM Connector HT2B (C51-1) - HT2B (C55-47) Below 1 Ω
+OX2B (C51-3) - OX2B (C55-87) Below 1 Ω
+EX2B HT2B HT1B
+E2 (C51-4) - EX2B (C55-64) Below 1 Ω
+Standard resistance (Check for short)
+Terminal Connection Specified Condition
+HT1B (C52-1) or HT1B (C55-48) - Body ground 10 kΩ or higher
+OX1B (C52-3) or OX1B (C55-88) - Body ground 10 kΩ or higher
+OX2B EX1B E2 (C52-4) or EX1B (C55-65) - Body ground 10 kΩ or higher
+OX1B
+HT2B (C51-1) or HT2B (C55-47) - Body ground 10 kΩ or higher
+OX2B (C51-3) or OX2B (C55-87) - Body ground 10 kΩ or higher
+A137615E05
+E2 (C51-4) or EX2B (C55-64) - Body ground 10 kΩ or higher
+(g) Reconnect the HO2 sensor connector.
+(h) Reconnect the ECM connector.

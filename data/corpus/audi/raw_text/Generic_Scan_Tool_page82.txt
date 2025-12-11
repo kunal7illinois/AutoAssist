@@ -1,0 +1,71 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0638 Throttle Ac‐ – Check the • time to open • engine speed <= 5 Sec. • 2 DCY
+tuator Con‐ Throttle Valve over reference 300 rpm
+trol Range/ Control Mod‐ point + 12% >
+Perform‐ ule -J338- . 0.14 Sec • IAT, > 5.3° C
+ance - Bank Refer to
+1 ⇒ • time to close • ECT > 5.3° C
+“3.5.19 Throt‐ below refer‐ • Vehicle speed, 0
+tle Valve Con‐ ence point + km/h
+trol Module, 3% > 0.56 Sec
+Checking”,
+or
+page 149 .
+• TPS 1 signal
+voltage not
+(0.42 .. 0.77) V
+• or TPS 2 signal
+voltage not
+(4.26 .. 4.58) V
+P0641 Sensor Ref‐ – If any sensor • internal com‐ --- 0.5 Sec. • continu‐
+erence Volt‐ specific codes munication fail‐ ous
+age “A” Cir‐ are present, ure
+cuit/Open perform the • 2 DCY
+diagnostic for
+those codes
+first. If no sen‐
+sor codes are
+set, replace
+the Engine
+Control Mod‐
+ule (ECM) -
+J623- . Refer
+to the Repair
+Manual.
+P0642 Sensor Ref‐ – Replace the • signal voltage < --- 0.5 Sec. • continu‐
+erence Volt‐ Engine Con‐ 4.6 .. 5 V ous
+age A Cir‐ trol Module
+cuit Low (ECM) - • 2 DCY
+J623- . Refer
+to the appro‐
+priate service
+manual.
+P0643 Sensor Ref‐ – Replace the • signal voltage > --- 0.5 Sec. • continu‐
+erence Volt‐ Engine Con‐ 5 .. 5.4 V ous
+age A Cir‐ trol Module
+cuit High (ECM) - • 2 DCY
+J623- . Refer
+to the appro‐
+priate service
+manual.
+P0651 Sensor Ref‐ – If any sensor • internal com‐ --- 0.5 Sec. • continu‐
+erence Volt‐ specific codes munication fail‐ ous
+age “B” Cir‐ are present, ure
+cuit/Open perform the • 2 DCY
+diagnostic for
+those codes
+first. If no sen‐
+sor codes are
+set, replace
+the Engine
+Control Mod‐
+ule (ECM) -
+J623- . Refer
+to the Repair
+Manual.
+78
+Rep. Gr.ST - Generic Scan Tool

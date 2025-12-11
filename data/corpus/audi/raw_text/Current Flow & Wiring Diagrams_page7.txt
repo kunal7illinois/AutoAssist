@@ -1,0 +1,46 @@
+Audi TT No. 1 / 7
+Current Flow Diagram
+Steering column electronics control unit, turn signal switch,
+headlight dipper/flasher switch, intermittent wiper switch,
+cruise control system switch, horn plate
+E2 Turn signal switch
+E4 Headlight dipper/flasher switch
+E22 Intermittent wiper switch
+E45 Cruise control system switch
+F138 Airbag coil connector and return spring with slip ring
+H Horn plate
+J234 Airbag control unit
+J527 Steering column electronics control unit
+E45 ✱ E2 E4 J234 N95 Driver side airbag igniter
+N250 Driver side airbag igniter 2
+T4d 4-pin connector, yellow, on steering column electronics control
+unit
+T75/22 T75/23 T75/37 T75/38
+T8f 8-pin connector, on steering column electronics control unit
+T10ab 10-pin connector, on steering column electronics control unit
+0,5 0,5 0,5 0,5 T10ah 10-pin connector, on steering column electronics control unit
+ws ge br sw T75 75-pin connector, yellow, on airbag control unit
+* models with cruise control system
+T10ab T10ab T10ab T10ab T10ab T10ab T10ab T10ab T10ab T10ab
+/1 /2 /3 /4 /5 /6 /7 /8 /9 /10 T4d/1 T4d/2 T4d/4 T4d/3
+J527
+T8f/1 T8f/2 T8f/3 T8f/5 T8f/6 T8f/7 T10ah T10ah/7 T10ah T10ah T10ah T10ah
+/8 /4 /3 /6 /5
+F138
+E22
+-- + -- +
+H
+ws = white
+N95 N250
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+71 72 73 74 75 76 77 78 79 80 81 82 83 84 or = orange
+8J0-001070806
+rs = pink
+Edition 04.2008

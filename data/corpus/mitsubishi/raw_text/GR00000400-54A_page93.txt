@@ -1,0 +1,27 @@
+CHASSIS ELECTRICAL 54A-93
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 5. Check the fuel pump module ground circuit at the
+fuel pump module connector D-17 by back probing.
+(1) Do not disconnect the fuel gauge unit connector D-17.
+CONNECTOR: C-41
+DEVICE SIDE
+41424344454647 484950515253545556
+AC106473AH
+CONNECTOR <ECLIPSE> : D-17
+DEVICE SIDE
+1 2 3
+4 5
+AC106483AI
+(2) Measure the resistance between terminal 1 and ground by
+HARNESS SIDE
+back probing.
+D-17
+• The measured value should be 2 ohm or less.
+Q:Does the measured resistance value correspond with
+this range?
+YES : Go to Step 8.
+NO : Go to Step 6.
+1 2 3
+4 5
+AC106899AB
+TSB Revision

@@ -1,0 +1,79 @@
+RF–13
+SLIDING ROOF – SLIDING ROOF SYSTEM
+DATA LIST / ACTIVE TEST
+1. READ DATA LIST
+HINT:
+Using the intelligent tester's Data List allows switch,
+sensor, actuator and other item values to be read without
+removing any parts. Reading the Data List early in
+troubleshooting is one way to save time.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Read the Data List according to the display on the
+tester.
+SLIDE ROOF:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: OPEN switch is pressed.
+Slide switch open signal/ON or
+OPEN SW OFF: OPEN switch is not -
+OFF
+pressed.
+ON: CLOSE switch is pressed.
+Slide switch close signal/ON or RF
+CLOSE SW OFF: CLOSE switch is not -
+OFF
+pressed.
+ON: UP switch is pressed.
+UP SW Tilt switch up signal/ON or OFF -
+OFF: UP switch is not pressed.
+ON: DOWN switch is pressed.
+Tilt switch down signal/ON or
+DOWN SW OFF: DOWN switch is not -
+OFF
+pressed.
+NORMAL: Sliding roof motor is
+Sliding roof operation signal/ operating.
+HALL IC1 STATUS -
+NORMAL or LOCK LOCK: Sliding roof motor is not
+operating.
+LO: Sliding roof motor is not
+Sliding roof operation signal/LO operating.
+HALL IC1 PULSE -
+or HI HI: Sliding roof motor is
+operating.
+NORMAL: Sliding roof motor is
+Sliding roof operation signal/ operating.
+HALL IC2 STATUS -
+NORMAL or LOCK LOCK: Sliding roof motor is not
+operating.
+LO: Sliding roof motor is not
+Sliding roof operation signal/LO operating.
+HALL IC2 PULSE -
+or HI HI: Sliding roof motor is
+operating.
+Driver's door courtesy light switch ON: Driver's door is open.
+D-DOOR WARN SW -
+signal/ON or OFF OFF: Driver's door is closed.
+Ignition switch signal (MPX ON: Ignition switch on (IG)
+IG (MPX) -
+signal)/ON or OFF OFF: Ignition switch off
+ON: Ignition switch on (IG)
+IG (DIRCT SIG) Ignition switch signal/ON or OFF -
+OFF: Ignition switch off
+ON: Driver's side door is not
+Key-OFF sliding roof operation closed within 45 sec. after ignition
+KEY OFF PERMS permit signal (Current)/ON or switch is turned off. -
+OFF OFF: Any status except "ON"
+status
+Fail: Sliding roof tilt down signal
+Down switch failure signal failure (Current)
+CURRENT DOWN SW -
+(Current)/Fail or Not Fail Not Fail: Sliding roof tilt down
+signal not fail (Current)
+Fail: Sliding roof tilt up signal
+Up switch failure signal (Current)/ failure (Current)
+CURRENT UP SW -
+Fail or Not Fail Not Fail: Sliding roof tilt up signal
+not fail (Current)

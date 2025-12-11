@@ -1,0 +1,15 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Fig. 26: Shift Control - Grade Logic Control System Diagram
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Grade Logic Control: Ascending Control
+When the PCM determines that the vehicle is climbing a hill in D, the PCM extends
+the engagement area of 2nd gear, 3rd gear, and 4th gear to prevent the transmission
+from frequently shifting between 2nd and 3rd gears, between 3rd and 4th gears, and
+between 4th and 5th gears, so the vehicle can run smooth and have more power
+when needed.
+NOTE: Shift commands stored in the PCM between 2nd and 3rd
+gears, between 3rd and 4th gears, and between 4th and 5th
+gears, enable the PCM to automatically select the most
+suitable gear according to the magnitude of a gradient.

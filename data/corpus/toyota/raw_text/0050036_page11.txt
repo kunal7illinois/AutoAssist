@@ -1,0 +1,53 @@
+ES–215
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4. Vacuum introduction
+Next sequence run if following condition set -
+EVAP pressure Saturated within 15 minutes
+5. Purge VSV stuck closed check
+Next sequence run if following condition set -
+EVAP pressure change after purge VSV ON (open) 0.3 kPa-g (2.25 mmHg-g) or more
+6. Second reference pressure measurement
+Next sequence run if all of following conditions set Condition 1, 2, 3 and 4
+1. EVAP pressure just after reference pressure -1 kPa-g (-7.5 mmHg-g) or less
+2. Reference pressure -4.85 to -1.057 kPa-g (-36.4 to -7.93 mmHg-g)
+3. Reference pressure Saturated within 60 seconds
+ES
+4. Reference pressure difference between first and second Less than 0.7 kPa-g (5.25 mmHg-g)
+7. Leak check
+Next sequence run if following condition set -
+EVAP pressure when vacuum introduction complete Second reference pressure or less
+8. Atmospheric pressure measurement
+EVAP monitor complete if following condition set -
+Atmospheric pressure difference between sequence 1 and 8 Within 0.3 kPa-g (2.25 mmHg-g)
+Typical Malfunction Thresholds
+Purge VSV stuck open: -
+EVAP pressure when vacuum introduction complete Higher than reference pressure x 0.2
+Purge VSV stuck closed: -
+EVAP pressure change after purge VSV ON (open) Less than 0.3 kPa-g (2.25 mmHg-g)
+OBD II MONITOR SPECIFICATIONS
+1. Purge Flow Monitor
+Monitor Strategy
+Required Sensors/Components Purge VSV and canister pump module
+Frequency of Operation Once per driving cycle
+Duration Within 10 minutes
+MIL Operation 2 driving cycles
+Sequence of Operation None
+Typical Enabling Conditions
+P0011 (VVT System 1 - Advance)
+P0012 (VVT System 1 - Retard)
+P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+P0125 (Insufficient ECT for Closed Loop)
+Monitor runs whenever following DTCs not present
+P0171, P0172 (Fuel system)
+P0300 - P0304 (Misfire)
+P0335 (CKP sensor)
+P0340 (CMP sensor)
+P0351 - P0354 (Igniter)
+P0450 - P0453 (EVAP press sensor)
+P0500 (VSS)
+Engine Running
+ECT 4.4°C (40°F) or more
+IAT 4.4°C (40°F) or more

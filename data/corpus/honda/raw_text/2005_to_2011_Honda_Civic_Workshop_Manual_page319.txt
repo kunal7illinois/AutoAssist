@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+Unit Connector B (28P)
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is the resistance as specified?
+YES -Faulty driver's seat position sensor or SRS unit; replace the driver's seat
+position sensor (see DRIVER'S SEAT POSITION SENSOR
+REPLACEMENT). If the problem is still present, replace the SRS unit (see
+SRS UNIT REPLACEMENT).
+NO -Open in the floor wire harness, driver's seat wire harness (with seat
+heater) or the seat position sensor harness; replace the faulty harness.
+DTC 71-2X ("X" CAN BE 0 THRU 9 OR A THRU F): SHORT IN DRIVER'S SEAT POSITION
+SENSOR
+NOTE: Before doing this troubleshooting procedure, review SRS
+Precautions and Procedures (see PRECAUTIONS AND
+PROCEDURES) and General Troubleshooting Information
+(see GENERAL TROUBLESHOOTING INFORMATION).
+1. Clear the DTC memory (see CLEAR THE DTC MEMORY WITH THE
+HDS).
+2. Turn the ignition switch ON (II), and check that the SRS indicator comes on
+for about 6 seconds and then goes off.
+Does the SRS indicator stay on, and is DTC 71-2x indicated?
+YES -Go to step 3.
+NO -Intermittent failure, system is OK at this time. Go to
+TROUBLESHOOTING INTERMITTENT FAILURES. If another DTC is
+indicated, troubleshoot the DTC.
+3. Turn the ignition switch OFF. Disconnect the negative cable from the battery,
+then wait for 3 minutes.
+4. Disconnect the driver's seat wire harness 2P connector from the driver's seat

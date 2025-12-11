@@ -1,0 +1,28 @@
+ES–386
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+Ignition Switch
+ECM
+AM2 IG2
+AM2
+IG2
+IG2
+ES
+EFI MAIN
+P/I
+MREL
+FL MAIN EFI MAIN
+Battery C/OPN
+IGN
+FC
+Fuel Pump
+A127290E01
+INSPECTION PROCEDURE
+1 PERFORM ACTIVE TEST USING INTELLIGENT TESTER (FUEL PUMP/SPD)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST / FUEL PUMP /
+SPD.
+(d) Check whether the fuel pump operating sound occurs
+when performing the Active Test on the tester.

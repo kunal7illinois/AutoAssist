@@ -1,0 +1,38 @@
+EI–67
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+Terminal
+Symbols (Terminal No.) Wiring Color Condition Specified Condition
+Description
+Ignition switch OFF Below 1 V
+EFIO (E15-13) - GND (E15-16) L - W-B ECM output signal
+Ignition switch ON Waveform 3
+Ignition switch OFF Below 1 V
+EFII (E15-12) - GND (E15-16) G - W-B ECM input signal
+Ignition switch ON Waveform 4
+Diagnostic tester Without communication Below 1 V
+D (E15-9) - GND (E15-16) GR - W-B
+communication During communication Pules generation
+Switch pushed 10 to 14 V
+CTY (E15-7) - GND (E15-16) Y - W-B Door courtesy signal
+Switch free Below 1 V
+Security indicator Security indicator light is on 10 to 14 V
+IND (E15-8) - GND (E15-16) P - W-B
+signal Security indicator light is off Below 1 V
+If the result is not as specified, the ECU may have a
+malfunction.
+(c) Inspect using an oscilloscope.
+(1) Waveform 1 (Reference)
+Terminal TXCT (E15-4) - AGND (E15-5)
+Tool Setting 2 V/DIV., 10 ms./DIV.
+Condition Key is in ignition key cylinder
+GND
+Tool Setting: 2 V/DIV., 10 ms./DIV.
+B139205E01
+(2) Waveform 2 (Reference)
+EI
+Terminal CODE (E15-15) - AGND (E15-5)
+Tool Setting 2 V/DIV., 20 ms./DIV.
+Condition Key is in ignition key cylinder
+GND
+Tool Setting: 2 V/DIV., 20 ms./DIV.
+B139208E01

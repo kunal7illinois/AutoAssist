@@ -1,0 +1,38 @@
+ECT and A/T Indicator for 2GR–FE
+System Outline
+1. Line Pressure Optimal Control
+Through the use of the solenoid valve SLT, the line pressure is optimally controlled in accordance with the engine torque
+information, as well as with the internal operating conditions of the torque converter and the transaxle. Accordingly, the line
+pressure can be controlled minutely in accordance with the engine output, traveling condition, and the ATF temperature, thus
+realizing smooth shift characteristics and optimizing the workload in the oil pump.
+2. Clutch Pressure Optimal Control
+The engine control module monitors the signals from various types of sensor such as the input turbine speed sensor,
+allowing shift solenoid valves SL1, SL2 and SL3 to minutely control the clutch pressure in accordance with engine output
+and driving conditions. As a result, smooth shift characteristics have been realized.
+3. Shifting Control in Uphill/Downhill Traveling
+This control minimizes the shifting of gears when the driver operates the accelerator pedal while driving on a winding road
+with ups and downs, in order to ensure a smooth drive.
+4. Flex Lock–Up Clutch Control
+The flex lock–up clutch control operates during acceleration, in the 4th and 5th gear in the D range, and during deceleration,
+in the 4th and 5th gear in the D range and in the 4th gear in the 4 range.
+5. Multi Mode Automatic Transmission
+Multi mode automatic transmission have [S]–position is beside of [D]–position. If moving the selector lever ”S” side, you can
+select shift range just link manual shifting.
+: Parts Location
+Code See Page Code See Page Code See Page
+A17 59 C1 A 50 (2GR–FE) E23 56
+A19 59 C2 50 (2GR–FE) E31 56
+A25 C 48 (2GR–FE) C4 50 (2GR–FE) E40 B 57
+A26 A 48 (2GR–FE) C5 50 (2GR–FE) E41 B 57
+A40 A 59 C55 B 51 (2GR–FE) E42 A 57
+A41 A 59 C56 51 (2GR–FE) E43 B 57
+A42 B 59 C57 51 (2GR–FE) E62 G 57
+A43 49 (2GR–FE) E6 A 56 F1 A 58
+A55 A 49 (2GR–FE) E7 B 56 F2 B 58
+A58 A 59 E9 D 56
+A60 B 49 (2GR–FE) E10 56
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+310
+CAMRY (EM0250U)

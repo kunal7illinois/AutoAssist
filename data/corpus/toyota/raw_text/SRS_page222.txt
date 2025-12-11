@@ -1,0 +1,53 @@
+RS–222
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+OK:
+The lock button is not disengaged, or the claw of
+the lock is not deformed or damaged.
+NG REPAIR OR REPLACE FLOOR WIRE NO. 2
+OK
+3 CHECK FLOOR WIRE NO. 2 (FRONT PASSENGER SIDE FRONT PRETENSIONER SQUIB
+CIRCUIT)
+(a) Disconnect the connectors from the center airbag sensor
+assembly.
+Floor Wire No. 2
+(b) Check for a short to B+ in the circuit.
+(1) Connect the negative (-) terminal cable to the
+battery, and wait for at least 2 seconds.
+A (2) Turn the ignition switch on (IG).
+D C B Center Airbag (3) Measure the voltage according to the value(s) in the
+Front Passenger Side Sensor Assembly table below.
+Front Pretensioner Squib
+Standard voltage
+Tester Connection Condition Specified Condition
+O8-1 (R+) - Body ground Ignition switch on (IG) Below 1 V
+O8-2 (R-) - Body ground Ignition switch on (IG) Below 1 V
+Connector C
+(c) Check for an open in the circuit.
+R+ R- (1) Turn the ignition switch off.
+(2) Disconnect the negative (-) terminal cable from the
+O8
+battery, and wait for at least 90 seconds.
+(3) Measure the resistance according to the value(s) in
+RS
+the table below.
+Standard resistance
+C C114784E10 Tester Connection Condition Specified Condition
+O8-1 (R+) - O8-2 (R-) Always Below 1 Ω
+(d) Check for a short to ground in the circuit.
+(1) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+O8-1 (R+) - Body
+Always 1 MΩ or higher
+ground
+O8-2 (R-) - Body ground Always 1 MΩ or higher
+(e) Check for a short in the circuit.
+(1) Release the activation prevention mechanism built
+into connector B (See page RS-32).
+(2) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+O8-1 (R+) - O8-2 (R-) Always 1 MΩ or higher
+NG REPAIR OR REPLACE FLOOR WIRE NO. 2

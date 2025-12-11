@@ -1,0 +1,66 @@
+ENGINE - 2GR-FE ENGINE EG-111
+3. Engine Control System Diagram
+Combination Meter
+(cid:1) Vehicle Speed Signal
+(cid:1) MIL
+Engine Switch Park/Neutral
+Position Switch
+IG2 Relay Power Steering Electronic Controlled
+Main Body ECU Oil Pressure Switch Transmission Solenoid Valve
+Starter Cut Relay
+ECT ECU
+Park/Neutral Battery Local CAN
+Position Switch Accelerator Pedal
+Circuit
+Position Sensor
+Opening
+Cooling Fan ECU
+Starter Relay Relay DLC3
+CAN
+(CAN No.1 Bus)
+Cooling Fan
+Fuel Pump Stop Light Switch
+ECM
+Vent Valve
+VSV
+(for Purge
+VSV)
+Intake Air
+Temp. Sensor Throttle VSV (For Active
+Control Control Engine
+Motor Mount)
+ACIS Actuator
+Canister
+Canister
+Pump
+Pressure
+Sensor Module VSV (For Throttle Position
+(For EVAP) Air Intake Mass Air Sensor
+Control) Air Flow Meter
+Intake Camshaft Timing
+Oil Control Valve LH
+Injector Injector
+Intake Camshaft Timing Intake VVT
+Sensor LH
+Oil Control Valve RH
+Intake VVT Sensor RH
+Ignition Coil With Igniter
+Exhaust VVT Sensor RH
+Exhaust Camshaft Timing Exhaust VVT
+Oil Control Valve RH Sensor LH
+Knock
+Sensor
+TWC TWC
+Air Fuel Ratio Sensor Exhaust Camshaft
+(Bank 1, Sensor 1) Engine Coolant Timing Oil Control
+Temp. Sensor Valve LH
+Air Fuel
+Ratio Sensor
+TWC
+(Bank 2, Sensor 1)
+Crankshaft
+Position
+Heated Oxygen Sensor Heated Oxygen Sensor
+Sensor
+(Bank 1, Sensor 2) (Bank 2, Sensor 2)
+025EG24TE

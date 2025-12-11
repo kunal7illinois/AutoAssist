@@ -1,0 +1,41 @@
+ES–307
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• COMPL indicates that the component is functioning
+normally.
+• INCMPL indicates that the component is
+malfunctioning.
+(g) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / MONITOR INFO / TEST RESULT /
+RANGE B1 S1; then press the ENTER button.
+(h) Check the test value of the A/F sensor output current
+during fuel-cut.
+Result
+Test Value Proceed To
+Within normal range (1.0 mA or more, and less than 3.6 mA) A
+Outside normal range (Less than 1.0 mA, or 3.6 mA or more) B ES
+B Go to step 12
+A
+3 READ VALUE USING INTELLIGENT TESTER (OUTPUT VOLTAGE OF A/F SENSOR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine.
+(c) Turn the tester ON.
+(d) Warm up the A/F sensor at an engine speed of 2,500
+rpm for 90 seconds.
+(e) On the tester, select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / SNAPSHOT /
+MANUAL SNAPSHOT / USER DATA / AFS B1 S1 and
+ENGINE SPD.
+(f) Check the A/F sensor voltage 3 times, when the engine
+is in each of the following conditions:
+(1) While idling (check for at least 30 seconds)
+(2) At an engine speed of approximately 2,500 rpm
+(without any sudden changes in engine speed)
+(3) Raise the engine speed to 4,000 rpm and then
+quickly release the accelerator pedal so that the throttle
+valve is fully closed.
+Standard voltage
+Conditions A/F Sensor Voltage Variations Reference
+(1) and (2) Remains at approximately 3.3 V Between 3.1 V and 3.5 V
+This occurs during engine deceleration
+(3) Increases to 3.8 V or more
+(when fuel-cut performed)

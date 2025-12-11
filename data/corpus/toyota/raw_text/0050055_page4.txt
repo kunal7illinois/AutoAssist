@@ -1,0 +1,33 @@
+ES–302
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Sensor voltage detection monitor (Lean side malfunction P2195):
+Duration while all of following conditions met 2 seconds or more
+Rear HO2 sensor voltage 0.15 V or more
+Time after engine start 30 seconds or more
+A/F sensor status Activated
+Fuel system status Closed-loop
+Engine Running
+Sensor voltage detection monitor (Rich side malfunction P2196):
+Duration while all of following conditions met 2 seconds or more
+Rear HO2 sensor voltage Below 0.6 V
+Time after engine start 30 seconds or more
+ES A/F sensor status Activated
+Fuel system status Closed-loop
+Engine Running
+Sensor current detection monitor P2195 and P2196
+Battery voltage 11 V or more
+Atmospheric pressure 76 kPa (570 mmHg) or more
+A/F sensor status Activated
+Continuous time of fuel cut 3 to 10 seconds
+ECT 75°C (167°F) or more
+TYPICAL MALFUNCTION THRESHOLDS
+Sensor voltage detection monitor (Lean side malfunction P2195):
+A/F sensor voltage More than 3.8 V for 10 seconds
+Sensor voltage detection monitor (Rich side malfunction P2196):
+A/F sensor voltage Less than 2.8 V for 10 seconds
+Sensor current detection monitor (High side malfunction P2195):
+A/F sensor current during fuel cut 3.6 mA or more
+Sensor current detection monitor (Rich side malfunction P2196):
+A/F sensor current during fuel cut Less than 1 mA
+MONITOR RESULT
+Refer to CHECKING MONITOR STATUS (see page ES-17).

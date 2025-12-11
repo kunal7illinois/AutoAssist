@@ -1,0 +1,44 @@
+ES–171
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+6 CHECK SPARK PLUG
+(a) Remove the ignition coil and the spark plug of the
+misfiring cylinder.
+(b) Measure the spark plug electrode gap.
+Standard gap:
+1.0 to 1.1 mm (0.039 to 0.043 in.)
+(c) Check the electrode for carbon deposits.
+Recommended spark plug:
+Manufacturers Products
+Electrode Gap DENSO SK20R11
+ES
+A088861E01 NGK IFR6A11
+NOTICE:
+If the electrode gap is larger than standard, replace
+the spark plug. Do not adjust the electrode gap.
+NG REPLACE SPARK PLUG
+OK
+7 CHECK FOR SPARKS AND IGNITION
+(a) Remove the ignition coil from the cylinder head.
+(b) Install the spark plug onto the ignition coil.
+(c) Connect the intelligent tester to the DLC3.
+(d) Turn the ignition switch ON and turn the tester ON.
+(e) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST / FUEL CUT ALL.
+(f) Attach the spark plug assembly to the cylinder head.
+(g) Perform the FUEL CUT ALL operation (press the RIGHT
+or LEFT button to change the ON).
+NOTICE:
+A124396
+When FUEL CUT ALL is OFF and the engine is
+cranked, fuel injection will occur.
+(h) Crank the engine for less than 2 seconds and check the
+spark.
+OK:
+Sparks jump across electrode gap.
+(i) Install the ignition coil.
+NG Go to step 9
+OK
+8 CHECK CYLINDER COMPRESSION PRESSURE OF MISFIRING CYLINDER
+(a) Measure the cylinder compression pressure of the
+misfiring cylinder.
+OK Go to step 10

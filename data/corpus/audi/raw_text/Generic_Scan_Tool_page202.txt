@@ -1,0 +1,50 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+• Vehicles with automatic transmission, shift selector lever into
+position “P” or “N”.
+• A/C switched off.
+• Ground connections between engine/transmission/chassis
+OK.
+• Ignition switched Off.
+Function
+The Engine Control Module -J623- communicates with other
+CAN-Bus capable control modules.
+The control modules are connected by two Data Bus wires which
+are twisted together (CAN High and CAN Low), and exchange
+information (messages). Missing information on the CAN-Bus is
+recognized as a malfunction by the Engine Control Module -J623-
+and the other control modules connected to the CAN-Bus.
+Trouble-free operation of the CAN-Bus requires that it have a ter‐
+minal resistance. This central terminal resistance is located in the
+Engine Control Module -J623- .
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Disconnect the Direct Shift Gearbox (DSG) Mechatronic -
+J743- electrical harness connector.
+Note
+The Engine Control Module -J623- must remain connected for the
+following step.
+– Using a multimeter, check the Direct Shift Gearbox (DSG)
+Mechatronic -J743- electrical harness connector terminals 10
+to 15 for resistance.
+Specified value: 60 to 72 Ω (at approx. 20° C)
+If the specified value was obtained:
+– Check the TCM power and grounds at the module. Refer to
+the Wiring Diagram. If power or ground is lost, the TCM will
+not communicate. Correct any power or ground fault before
+replacement of any component.
+If the TCM has power and ground present, Bus resistance was
+OK and the TCM does not communicate:
+– Replace the Direct Shift Gearbox (DSG) Mechatronic -J743- .
+Refer to the Repair Manual.
+If the specified Bus resistance was Not obtained:
+– Remove the Engine Control Module -J623- . Refer to the Re‐
+pair Manual.
+– Using a multimeter, check the Direct Shift Gearbox (DSG)
+Mechatronic -J743- electrical harness connector to the Engine
+Control Module -J623- electrical harness connector T94 for
+resistance.
+198
+Rep. Gr.ST - Generic Scan Tool

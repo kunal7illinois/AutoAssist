@@ -1,0 +1,51 @@
+13B-48 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check the sensor output voltage at barometric
+pressure sensor connector B-14 by backprobing.
+(1) Do not disconnect the connector B-14.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 2 and ground by
+backprobing.
+• When altitude is 0 m (0 foot), voltage should be 3.7 and
+4.3 volts.
+B-14 CONNECTOR • When altitude is 600 m (1,969 feet), voltage should be
+HARNESS 3.4 and 4.0 volts.
+SIDE VIEW • When altitude is 1,200 m (3,937 feet), voltage should be
+1 2 3 4 5 6 7 3.2 and 3.8 volts.
+• When altitude is 1,800 m (5,906 feet), voltage should be
+2.9 and 3.5 volts.
+AKX01520AC
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 3.
+NO : Go to Step 7.
+STEP 3. Check the sensor output voltage at ECM
+connector C-58 <M/T> or PCM connector C-55 <A/T> by
+backprobing.
+(1) Do not disconnect the connector C-58 <M/T> or C-55 <A/
+T>.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 51 <M/T> or terminal
+<M/T>
+55 <A/T> and ground by backprobing.
+• When altitude is 0 m (0 foot), voltage should be 3.7 and
+C-58 CONNECTOR 4.3 volts.
+HARNESS SIDE VIEW
+• When altitude is 600 m (1,969 feet), voltage should be
+41424344 4546 47 3.4 and 4.0 volts.
+4849505152535455565758 59
+6061 626364 6566 67 68 • When altitude is 1,200 m (3,937 feet), voltage should be
+3.2 and 3.8 volts.
+• When altitude is 1,800 m (5,906 feet), voltage should be
+2.9 and 3.5 volts.
+AK000229AC (4) Turn the ignition switch to the "LOCK" (OFF) position.
+<A/T> Q:Is the voltage normal?
+C-55 CONNECTOR
+YES : Go to Step 4.
+HARNESS SIDE VIEW
+NO : Go to Step 6.
+41 42 43 444546
+47 48 495051525354555657
+58 59 60616263 646566
+AKX01522AE
+TSB Revision

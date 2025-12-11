@@ -1,0 +1,39 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-499
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+INSPECTION PROCEDURE 27: Incorrect Idle Speed When the A/C is Operating (A/C Switch 2 Signal)
+AK000677
+. • The automatic compressor-ECU detects how the
+CIRCUIT OPERATION
+• The ECM <M/T> or PCM <A/T> increases the air conditioning is applying load to the engine,
+and converts the information to a voltage signal
+engine idle speed by driving the IAC motor when
+(High voltage = low load, Low voltage = high
+the automatic compressor-ECU sends a "A/C on"
+load). This voltage signal is called "A/C switch 2
+signal to the module.
+signal". The ECM <M/T> or PCM <A/T> receives
+TSB Revision
+ETIHW-EULB
+A/C Switch 2 signal Circuit
+AUTOMATIC COMPRESSOR CONTROLLER
+C-49 <M/T>
+(MU803773)
+24 <M/T>
+1 2 3 4 5 6 7 8 910111213 61 <A/T>
+14151617181920212223242526
+ENGINE CONTROL
+MODULE (ECM) <M/T>
+C-54 <A/T>
+OR
+(MU803781)
+POWERTRAIN CONTROL
+MODULE (PCM) <A/T>
+41 42 43 444546
+47 48 495051525354555657
+58 59 60616263 646566
+CONNECTORS:C-49<M/T>,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-49 C-54
+AK000280BL

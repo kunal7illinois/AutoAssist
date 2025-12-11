@@ -1,0 +1,40 @@
+ES–150
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Intake Air Temperature Sensor Gradient Too
+DTC P0111
+High
+DESCRIPTION
+Fig. 1
+Resistance
+(kΩ)
+Acceptable
+ES
+(°C)
+Temperature
+(°F)
+A067628E20
+The Intake Air Temperature (IAT) sensor, mounted on the Mass Air Flow (MAF) meter, monitors the IAT.
+The IAT sensor has a built-in thermistor with a resistance that varies according to the temperature of the
+intake air. When the IAT drops, the resistance of the thermistor increases. When the temperature rises,
+the resistance drops. These variations in resistance are transmitted to the ECM as voltage changes (See
+Fig. 1).
+The IAT sensor is powered by a 5 V supply from the THA terminal of the ECM, via resistor R.
+Resistor R and the IAT sensor are connected in series. When the resistance value of the IAT sensor
+changes, according to changes in the IAT, the voltage at terminal THA also varies. Based on this signal,
+the ECM increases the fuel injection volume when the engine is cold to improve driveability.
+DTC No. DTC Detection Condition Trouble Area
+1. The intake air temperature rise is large, from the
+previous trip warm-up to the following trip. (2 trip
+P0111 detection logic) Mass air flow meter assembly
+2. When the change in the intake air temperature after
+engine start is less than the threshold value.
+MONITOR DESCRIPTION
+The ECM performs OBD II monitoring based on the values from the intake air temperature sensor. If there
+is no change of the sensor value within the normal range, the ECM will not be able to perform OBD II
+monitoring or will misdiagnose that there is a malfunction in the sensor. The ECM detects the stuck intake
+air temperature sensor value by performing monitoring after the engine switch is turned off or the engine
+is started (short soak or long soak).
+MONITOR STRATEGY
+P0111: Intake air temperature sensor rationality (After engine stop)
+Related DTCs P0111: Intake air temperature sensor rationality (After cold engine
+start)

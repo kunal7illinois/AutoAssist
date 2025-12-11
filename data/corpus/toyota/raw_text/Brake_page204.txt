@@ -1,0 +1,56 @@
+BC–198
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC C1232/32 Stuck in Acceleration Sensor
+DTC C0371/71 Yaw Rate Sensor (Test Mode DTC)
+DTC C1234/34 Yaw Rate Sensor Malfunction
+DTC C1243/43 Acceleration Sensor Stuck Malfunction
+DTC C1244/44 Open or Short in Acceleration Sensor Circuit
+DTC C1245/45 Acceleration Sensor Output Malfunction
+Acceleration Sensor Output Voltage Malfunc-
+DTC C1279/79
+tion (Test Mode DTC)
+BC
+Yaw Rate and / or Acceleration Sensor Power
+DTC C1381/97
+Supply Voltage Malfunction
+DESCRIPTION
+The skid control ECU receives signals from the yaw rate and acceleration sensor via the CAN
+communication system.
+The yaw rate sensor has a built in acceleration sensor and detects the vehicle's condition using 2 circuits
+(GL1, GL2).
+If there is trouble in the bus lines between the yaw rate and acceleration sensor and the CAN
+communication system, the DTC U0123/62 (malfunction in CAN communication with the yaw rate sensor)
+and U0124/95 (malfunction in CAN communication with the acceleration sensor) are output.
+These DTCs are also output when calibration has not been completed.
+DTCs C0371/71 and C1279/79 can be deleted when the yaw rate and acceleration sensor sends a yaw
+rate and/or acceleration signal or the Test Mode ends. DTCs C0371/71 and C1279/79 are output only in
+the Test Mode.
+DTC No. DTC Detection Condition Trouble Area
+At a vehicle speed of 6 mph (10 km/h) or more, either GL1 or • Yaw rate and acceleration sensor
+C1232/32
+GL2 (input signal) does not change for 30 seconds or more. • Yaw rate and acceleration sensor circuit
+Sensor malfunction signal is received from the yaw rate • Yaw rate and acceleration sensor
+C1234/34
+sensor. • Yaw rate and acceleration sensor circuit
+While the vehicle speed changes from 19 mph (30 km/h) to 0
+• Yaw rate and acceleration sensor
+C1243/43 mph (0 km/h), the condition that the values of GL1 and GL2
+• Yaw rate and acceleration sensor circuit
+do not change occurs 16 times or more.
+When either of the following is detected:
+1. A data malfunction signal is received from the
+acceleration sensor. • Yaw rate and acceleration sensor
+C1244/44
+2. After the difference between GL1 and GL2 becomes 0.6 • Yaw rate and acceleration sensor circuit
+G or more with the vehicle stationary, the difference
+remains 0.4 G or more for 60 seconds or more.
+At a vehicle speed of 19 mph (30 km/h) or more, the
+difference between the forward and backward G calculated
+• Yaw rate and acceleration sensor
+C1245/45 from the acceleration sensor value and that calculated from
+• Yaw rate and acceleration sensor circuit
+the vehicle speed sensor exceeds 0.35 G for 60 seconds or
+more.
+At a vehicle speed of more than 2 mph (3 km/h), the • Yaw rate and acceleration sensor
+C1381/97 acceleration sensor power source malfunction signal is • Yaw rate and acceleration sensor power source
+received for 10 seconds or more. circuit

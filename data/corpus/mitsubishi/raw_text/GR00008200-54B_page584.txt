@@ -1,0 +1,29 @@
+54B-584 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check the trunk lid latch switch ground circuit at
+liftgate latch switch connector F-16 <ECLIPSE-Vehicle with
+theft-alarm system> or the trunk lid latch switch connector
+F-16 <ECLIPSE SPYDER-Vehicle with theft-alarm system>.
+(1) Disconnect liftgate latch switch connector F-16 <ECLIPSE-
+CONNECTOR <ECLIPSE>: F-16
+Vehicle with theft-alarm system> or trunk lid latch switch
+connector F-16 <ECLIPSE SPYDER-Vehicle with theft-
+alarm system> and measure at the harness side.
+DEVICE SIDE
+1
+2
+AC106489AP
+CONNECTOR <ECLIPSE SPYDER>: F-16
+DEVICE SIDE
+1
+2
+AC106491AM
+(2) Measure the resistance between terminal 2 and ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR F-16
+(HARNESS SIDE) Q:Does the measured resistance value correspond with
+this range?
+YES : Go to Step 5.
+NO : Go to Step 3.
+AC003614AC
+TSB Revision

@@ -1,0 +1,45 @@
+BC–26
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+(4) As an example, refer to the chart below for the
+blinking patterns of the normal system code and
+trouble codes 11 and 21.
+Normal System Code: Trouble Code (Example Codes 11 and 21):
+0.25 sec. 0.5 sec.
+2.5 sec.
+0.25 sec. 0.5 sec.
+1.5 sec.
+2 sec.
+4 sec. 4 sec.
+Repeat
+ON ON
+OFF OFF
+Code 11 Code 21
+BC
+I042843E01
+(5) The codes are explained in the code table (See
+page BC-27).
+(6) After completing the check, disconnect terminals
+TC and CG of the DLC3, and turn off the display.
+If 2 or more DTCs are detected at the same
+time, the DTCs will be displayed in ascending
+order.
+(b) DTC clear
+DLC3:
+CG (1) Using SST, connect terminals TC and CG of the
+DLC3.
+SST 09843-18040
+(2) Turn the ignition switch on (IG).
+TC
+G022986E01
+(3) Clear the DTCs stored in the ECU by depressing
+the brake pedal 8 times or more within 5
+seconds.
+(4) Check that the warning light indicates the normal
+system code.
+(5) Remove the SST from the terminals of the
+DLC3.
+HINT:
+Clearing the DTCs cannot be performed by
+disconnecting the battery terminal or the ECU-IG
+BR03890
+fuse.

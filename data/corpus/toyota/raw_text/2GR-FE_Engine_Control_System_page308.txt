@@ -1,0 +1,48 @@
+ES–308
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2 CHECK HARNESS AND CONNECTOR
+(a) Check the harness and connector between the EFI No. 1
+fuse and ECM.
+(1) Remove the EFI No. 1 fuse from the engine room R/
+B.
+(2) Disconnect the A55 ECM connector.
+(3) Measure the resistance between the terminals.
+Standard resistance (Check for open)
+EFI No. 1 Tester Connection Specified Condition
+Fuse Engine room R/B EFI No. 1 fuse terminal 2 - BATT
+Below 1 Ω
+(A55-20)
+ES Standard resistance (Check for short)
+Tester Connection Specified Condition
+Engine Room
+Engine room R/B EFI No. 1 fuse terminal 2 or BATT
+Relay Block (A55-20) - Body ground 10 kΩ or higher
+(4) Reinstall the ECM connector.
+(b) Check the harness and the connector between the EFI
+No. 1 fuse and battery.
+(1) Disconnect the negative battery terminal.
+(2) Disconnect the positive battery terminal.
+(3) Measure the resistance between the terminals.
+Standard resistance (Check for open)
+Tester Connection Specified Condition
+Battery positive terminal - Engine room R/B EFI No 1
+Below 1 Ω
+fuse terminal 1
+Standard resistance (Check for short)
+Tester Connection Specified Condition
+ECM Connector Battery positive terminal or Engine room R/B EFI No. 10 kΩ or higher
+1 fuse terminal 1 - Body ground
+(4) Reconnect the positive battery terminal.
+(5) Disconnect the negative battery terminal.
+A55
+(6) Reinstall the EFI No. 1 fuse.
+NG REPAIR OR REPLACE HARNESS OR
+BATT CONNECTOR
+A132292E02
+OK
+3 INSPECT BATTERY
+(a) Check that the battery is not depleted.
+OK:
+Battery is not depleted.
+NG REPLACE BATTERY
+OK

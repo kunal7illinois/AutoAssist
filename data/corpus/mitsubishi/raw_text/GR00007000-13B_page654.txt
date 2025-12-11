@@ -1,0 +1,40 @@
+13B-654 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+ACTUATOR TEST REFERENCE TABLE
+M1131152500149
+NOTE: *: Continues for 27 minutes. Can be released
+by pressing the CLEAR key.
+MUT-II SCAN ITEM INSPECTION DRIVE INSPECTION REQUIREMENT NORMAL INSPECTION REFERENCE
+TOOL NO. ITEM CONTENTS CONDITION PROCEDURE PAGE
+DISPLAY NO.
+EGR 10 EGR Solenoid valve Ignition switch: "ON" Clicks when Code No. P.13B-
+SOLENOID solenoid turns from solenoid P0403 338
+OFF to ON. valve is
+driven.
+EVAP 08 Evaporative Solenoid valve Ignition switch: "ON" Clicks when Code No. P.13B-
+PURGE emission turns from solenoid P0443 367
+purge OFF to ON. valve is
+solenoid driven.
+EVAP 29 Evaporative Solenoid valve Ignition switch: "ON" Clicks when Code P.13B-
+VENT emission turns from solenoid No.P0446 375
+ventilation OFF to ON. valve is
+solenoid driven.
+FUEL 07 Fuel pump Fuel pump • Ignition Pinch the Pulse is felt Procedure P.13B-
+PUMP operates and switch: return hose No. 29 614
+fuel is "ON" with fingers to
+recirculated • Fuel pump: feel the pulse
+activated of the fuel
+Inspect being
+according to recirculated
+both the above
+Listen near the Sound of
+conditions
+fuel tank for operation is
+the sound of heard
+fuel pump
+operation
+IG 5° BTDC 17* Basic Set to ignition • Engine: idling 5°BTDC − −
+ignition timing • Connect timing light
+timing adjustment
+mode
+TSB Revision

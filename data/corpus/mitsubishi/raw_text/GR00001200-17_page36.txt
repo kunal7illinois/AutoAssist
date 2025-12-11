@@ -1,0 +1,37 @@
+17-36 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+STEP 8. Check the auto-cruise control switch.
+(1) Disconnect auto-cruise control switch. (Refer to P.17-86.)
+(2) Measure the resistance between the terminals when each
+of the "SET," "RESUME," "CANCEL" and MAIN switch is
+pressed.
+SWITCH TERMINAL SPECIFIED
+POSITION CONNECTOR CONDITION
+OF TESTER
+"MAIN" switch 1 − 2 Open circuit
+"OFF"
+"MAIN" switch 1 − 2 Approximately 3.9 kΩ
+1
+"ON"
+"CANCEL" 2 − 3 Less than 2 Ω
+MAIN switch "ON"
+OFF OFF OFF
+OFF ON "RESUME" 2 − 3 Approximately 910 Ω
+ON ON ON switch "ON"
+CAN SET RES
+"SET" switch 2 − 3 Approximately 220 Ω
+"ON"
+3 2
+Q:Is the values measured correspond to those in the table
+ACX01178AB
+below?
+YES : Check that diagnostic trouble code 15 is not output. If
+diagnostic trouble code 15 is output, replace the auto-
+cruise control-ECU. (Refer to P.17-86.)
+Then check that diagnostic trouble code 15 is not
+output.
+NO : Replace the auto-cruise control switch. (Refer to
+P.17-86.)
+Then check that diagnostic trouble code 15 is not
+output.
+TSB Revision

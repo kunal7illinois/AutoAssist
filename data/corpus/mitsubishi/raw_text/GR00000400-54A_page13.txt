@@ -1,0 +1,45 @@
+CHASSIS ELECTRICAL 54A-13
+IGNITION SWITCH
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Harness Set
+• MB991502: Scan Tool
+STEP 1. Check there is another key near the ignition key.
+Q:Is there any other key near the ignition key?
+YES : Move the other key well away from key being used.
+Confirm that diagnostic trouble code 11 is not output.
+NO : Go to Step 2.
+STEP 2. Check that the engine starts using the spare
+ignition key which encrypted code has been registered.
+Q:Does the engine start using the spare ignition key which
+encrypted code has been registered?
+YES : Replace the ignition key that does not work. Then
+register the password (secret code) and encrypted
+code P.54A-28. Confirm that diagnostic trouble code
+11 is not output.
+NO : Go to Step 3.
+STEP 3. Check which DTC is output, DTC11 or DTC12.
+Q:Which DTC is output, DTC 11 or 12?
+DTC12 is output : Refer to DTC 12 P.54A-15.
+DTC11 is output : Go to Step 4.
+STEP 4. Check the ignition key ring antenna by
+backprobing.
+(1) Disconnect column switch connector C-88, and measure at
+CONNECTOR: C-88
+the wiring device side.
+COLUMN SWITCH
+1 2
+3 4 5 6 7
+AC002363AC
+(2) Measure the resistance value between terminal number 3
+and terminal number 7 by backprobing.
+• The measured value should be 2 ohm or less.
+Q:Does the measured resistance value correspond with
+1 2
+3 4 5 6 7 this range?
+YES : Go to Step 5.
+NO : Replace the ignition key ring antenna. Confirm that
+diagnostic trouble code 11 is not output.
+AC106907
+TSB Revision

@@ -1,0 +1,38 @@
+ES–261
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Ignition Switch Positions STARTER SIG
+START ON
+OK SYSTEM OK
+NG
+5 INSPECT IGNITION OR STARTER SWITCH ASSEMBLY
+(a) Disconnect the E3 ignition switch connector.
+(b) Check the resistance.
+Standard resistance
+ES
+Ignition Switch
+Tester Connections Specified Conditions
+Positions
+All Terminals LOCK 10 kΩ or higher
+2 - 3 ACC
+2 - 3, 2 - 4, 6 - 7 ON Below 1 Ω
+1 - 2, 2 - 4, 6 - 7, 7 - 8 START
+A056879E31
+(c) Reconnect the ignition switch connector.
+OK Go to step 7
+NG
+6 REPLACE IGNITION OR STARTER SWITCH ASSEMBLY
+NEXT
+7 READ VALUE USING INTELLIGENT TESTER (STARTER SIGNAL)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY /
+STARTER SIG.
+(d) Check the value displayed on the tester when the
+ignition switch is turned to the ON and START positions.
+OK
+Ignition Switch Positions STARTER SIG
+ON OFF
+START ON
+OK SYSTEM OK
+NG

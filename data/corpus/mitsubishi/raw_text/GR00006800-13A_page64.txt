@@ -1,0 +1,22 @@
+13A-64 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 11. Check connector C-53 at ECM <M/T> or
+connector C-50 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-53<M/T>,C-50<A/T>
+YES : Replace the volume air flow sensor. Then go to Step
+12.
+ECM<M/T>
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+OR
+PCM<A/T> Connector Inspection P.00E-2. Then go to Step 12.
+C-50 C-53
+AK000280BK
+STEP 12. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0108 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+TSB Revision

@@ -1,0 +1,31 @@
+54B-478 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the backup light switch.
+Disconnect backup light switch connector B-37. Then check
+CONNECTOR<2.4L ENGINE>: B-37
+continuity between the switch terminals.
+SWITCH POSITION TESTER SPECIFIED
+CONNECTION CONDITION
+Other than "R" 1 − 2 Open circuit
+R 1 − 2 Less than 2 ohm
+DEVICE SIDE
+Q:Is the backup light switch in good condition?
+1 2 YES : Go to Step 2.
+AC106467AB NO : Replace the backup light switch. If the rear wiper
+operates normally, it indicates that a correct "R"
+CONNECTOR<3.0L ENGINE WITH OUT
+position signal is sent from the backup light switch.
+VARIABLE INDUCTION SYSTEM>: B-37
+DEVICE SIDE
+1 2
+AC106469AB
+CONNECTOR<3.0L ENGINE WITH
+VARIABLE INDUCTION SYSTEM>: B-37
+DEVICE SIDE
+1 2
+AC106471AB
+TSB Revision

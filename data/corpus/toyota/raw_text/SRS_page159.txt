@@ -1,0 +1,52 @@
+RS–159
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+17 CHECK PASSENGER AIRBAG ON / OFF INDICATOR
+(a) Turn the ignition switch off.
+Center Airbag Sensor Assembly Side: (b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Connect the connector to the clock assembly.
+(d) Disconnect the connectors from the center airbag sensor
+assembly.
+(e) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+E30
+(f) Turn the ignition switch on (IG).
+(g) Check the indicator according to the conditions in the
+table below.
+Result
+P-AB PAON
+Passenger airbag ON/
+Tester Connection Condition
+OFF indicator
+E30-23 (PAON) - Body
+C C123661E03 ground Ignition switch on (IG) "ON" comes on
+E30-17 (P-AB) - Body
+Ignition switch on (IG) "OFF" comes on
+ground
+NG REPLACE CLOCK ASSEMBLY (See page OT-
+4)
+OK
+18 CHECK CENTER AIRBAG SENSOR ASSEMBLY RS
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Connect the connectors to the center airbag sensor
+assembly.
+Clock Assembly
+(d) Connect the negative (-) terminal cable to the battery
+Center Airbag and wait for at least 2 seconds.
+Sensor Assembly (e) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+(f) Clear the DTCs stored in the memory (See page RS-41).
+DLC3 DTC 43 (g) Turn the ignition switch off.
+(h) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+(i) Check for DTCs (See page RS-41).
+CG TC
+OK:
+C123656E01 DTC B1660/43 is not output.
+HINT:
+Codes other than DTC B1660/43 may be output at this
+time, but they are not related to this check.
+NG REPLACE CENTER AIRBAG SENSOR
+ASSEMBLY (See page RS-441)

@@ -1,0 +1,22 @@
+Wheels and tyres
+Design and function
+Using a new evaluation method, it is now possible
+to detect simultaneous pressure loss to at multiple
+wheels. Tyre pressures are monitored simultane-
+ously using two different concepts.
+1. Tyre circumference monitoring 2. Tyre vibration monitoring
+– Tyre circumference decreases as a function of – Torsional vibration is excited in each tyre while
+loss of pressure. As a result the wheel must rolling, due to road surface unevenness. These
+rotate more quickly to cover the same distance as vibrations can be determined by evaluating the
+a fully inflated tyre. Wheel speeds are transmit- wheel speed signals. When the tyre pressure
+ted to control unit J793 by the ESP control unit. In decreases, the vibration characteristics
+the current Audi A3, the wheel speeds of the change.This monitoring concept, which is an
+diagonal wheels are added and both diagonal additional feature compared to the Audi A3, it is
+sums are correlated with one another. In this now possible to reliably detect simultaneous loss
+way, allowance is made for different wheel of pressure at multiple wheels, as for example
+speeds when cornering. In the Audi TT, the tyre occurs over time at all four wheels due to diffu-
+circumferences are compared axle by axle and sion.
+side by side.
+Allowance is made for yaw rate and steering
+angle when cornering.
+38

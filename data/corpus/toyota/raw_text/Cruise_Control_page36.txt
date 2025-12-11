@@ -1,0 +1,41 @@
+CC–36
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+Cruise Main Indicator Light Circuit
+DESCRIPTION
+• The ECM detects a cruise control switch signal and sends it to the combination meter through CAN.
+Then the CRUISE main indicator light comes on.
+• The CRUISE main indicator light circuit uses CAN for communication. If there is a malfunction in this
+circuit, check for DTCs in the CAN communication system before troubleshooting this circuit.
+INSPECTION PROCEDURE
+1 PERFORM ACTIVE TEST USING INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Check the CRUISE main indicator light by performing the
+ACTIVE TEST.
+Combination meter:
+Item Test Details Diagnostic Note
+CRUISE INDIC Turns CRUISE main indicator light ON / OFF -
+OK:
+Indicator light comes on / goes off.
+NG REPLACE COMBINATION METER
+ASSEMBLY
+OK
+2 READ VALUE ON INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Check the DATA LIST for proper functioning of the
+CRUISE main indicator light.
+CC
+ECM (Cruise control):
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Cruise indicator signal (Main ON: "CRUISE" on
+CCS INDICATOR M -
+CPU) / ON or OFF OFF: "CRUISE" off
+OK:
+When the cruise control main switch is operated,
+the display changes as shown above.
+NG REPLACE ECM
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

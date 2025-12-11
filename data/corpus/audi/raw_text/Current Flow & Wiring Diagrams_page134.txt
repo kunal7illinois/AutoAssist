@@ -1,0 +1,62 @@
+Audi TT No. 13 / 2
+Current Flow Diagram
+Parking aid control unit, fuses
+J446 Parking aid control unit
+J519 Onboard supply control unit
+J533 Data bus diagnostic interface
+SC7 Fuse 7 on fuse holder C
+SD2 Fuse 2 on fuse holder D
+SF5 Fuse 5 on fuse holder F
+SF8 Fuse 8 on fuse holder F
+T2t 2-pin connector, black connector L, on onboard supply control
+✱
+SD2/110A J519 unit
+T16e 16-pin connector, brown, connector A, on parking aid control unit
+T2t/2
+T20d 20-pin connector, black, on data bus diagnostic interface
+16,0 4,0
+ro sw 51 Earth point, on right in luggage compartment
+B301 B163 395 Earth connection 30, in main wiring harness
+6,0 4,0
+ro sw B163 Positive connection 1 (15), in interior wiring harness
+5 8 7
+J446
+B281 Positive connection 5 (15a), in main wiring harness
+SF5 SF8 SC7
+5A 20A 5A
+5a 8a 7a T16e/1 T16e/3 T16e/7 T16e T16e B301 Positive connection 5 (30), in main wiring harness
+15 30 /14 /8
+31
+• • Connection 1 (convenience CAN bus, high), in main wiring
+0,5 0,5 0,5 0,35 0,35 0,5 B397
+sw/ge sw/ge li or/br or/gn br harness
+Connection 2 (convenience CAN bus, high), in main wiring
+B281 B398
+harness
+Connection 1 (convenience CAN bus, low), in main wiring
+B406
+harness
+Connection 2 (convenience CAN bus, low), in main wiring
+B407
+harness
+• CAN bus (data wire)
+B407 B398 395
+* main fuse box, in luggage compartment, rear right, on the battery
+0,35 0,35
+or/br or/gn
+ws = white
+B406 B397
+sw = black
+ro = red
+0,35 0,35 1,5
+or/br or/gn br br = brown
+gn = green
+T20d/5 T20d bl = blue
+/15 gr = grey
+J533 J533
+51 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-013020408
+rs = pink
+Edition 04.2008

@@ -1,0 +1,39 @@
+54B-554 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 7. Check the wiring harness between driver’s door
+lock actuator switch connector E-13 (terminals 2 and 3)
+and ETACS-ECU connector C-117 (terminals 36 and 35).
+NOTE: Also check intermediate connector C-91. If intermediate
+CONNECTOR: E-13 connectors C-91 is damaged, repair or replace the connector
+FRONT DOOR (LH) as described in GROUP 00E, Harness Connector Inspection
+P.00E-2.
+DEVICE SIDE
+E-13
+1 2 3
+4 5 6
+AC106556AF
+CONNECTOR: C-117
+DEVICE SIDE
+21 22 23242526272829
+30 31 32333435363738
+39 40 41 424344
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AB
+Q:Is the wiring harness between driver’s door lock
+CONNECTOR: C-91
+actuator switch connector E-13 (terminals 2 and 3) and
+CONNECTOR BLOCK (LH)
+ETACS-ECU connector C-117 (terminals 36 and 35) in
+good condition?
+YES : Replace the ETACS-ECU. If the functions, which are
+described in "CIRCUIT OPERATION", work normally,
+the input signal from the driver’s door lock actuator
+switch should be normal.
+1 2 3 4 5 6 7 8 9
+NO : Repair the wiring harness. If the functions, which are
+101112131415161718192021
+2223 24252627282930 3132 described in "CIRCUIT OPERATION", work normally,
+AC106477AG the input signal from the driver’s door lock actuator
+switch should be normal.
+TSB Revision

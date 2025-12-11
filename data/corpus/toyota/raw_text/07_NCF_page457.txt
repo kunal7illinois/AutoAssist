@@ -1,0 +1,53 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-123
+Pattern 2.
+Possible Effects without Warning Vehicle theft, Discharged battery
+The warning is activated when all of the following conditions
+are met:
+(cid:3) Shift lever is P.
+Warning Condition (cid:3) Power source is in a mode other than OFF.
+(cid:3) All doors are closed.
+(cid:3) The key is outside the vehicle (within one of the actuation
+areas).
+Buzzer —
+Multi-information
+Combination —
+Display
+MMeetteerr
+Master Warning
+—
+Light
+Wireless Door Lock Buzzer Sounds for 2 seconds
+Engine Switch Indicator Light —
+The warning is stopped when one of the following conditions
+is met:
+Warning Stop Condition (cid:3) The power source is OFF and the key is not within the
+actuation areas.
+(cid:3) Key is in the vehicle.
+5) Situation: D
+The lock switch on the door outside handle is pressed to perform entry lock with a door open.
+In this situation, the following control is performed:
+Possible Effects without Warning Vehicle theft, Discharged battery
+The warning is activated when all of the following conditions
+are met:
+Warning Condition (cid:3) Power source is OFF.
+(cid:3) Any doors are opened.
+(cid:3) Entry lock button on the outer door handle is operated.
+Buzzer —
+Multi-information
+Combination —
+Display
+MMeetteerr
+Master Warning
+—
+Light
+Wireless Door Lock Buzzer Sounds continuously
+Engine Switch Indicator Light —
+The warning is stopped when one of the following conditions
+is met:
+(cid:3) Power source is in a mode other than OFF
+(cid:3) All doors are closed.
+Warning Stop Condition
+(cid:3) Wireless door lock remote function is unlocked.
+(cid:3) Entry unlock is operated
+(cid:3) 10 seconds have elapsed since the wireless door lock
+buzzer was activated.

@@ -1,0 +1,52 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-193
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 10. Check for harness damage between injector
+connector and ECM connector <M/T> or PCM connector
+<A/T>.
+a. Check the harness wire between injector connector B-01
+CONNECTOR : B-01, B-02, B-05, B-06
+terminal 2 and ECM connector C-49 terminal 1 <M/T> or
+B-01 B-02 B-05B-06
+PCM connector C-50 terminal 1 <A/T> when checking No. 1
+cylinder.
+b. Check the harness wire between injector connector B-02
+terminal 2 and ECM connector C-49 terminal 14 <M/T> or
+PCM connector C-50 terminal 9 <A/T> when checking No. 2
+cylinder.
+c. Check the harness wire between injector connector B-05
+terminal 2 and ECM connector C-49 terminal 2 <M/T> or
+AAKK000000227733AB
+PCM connector C-50 terminal 24 <A/T> when checking No.
+CONNECTORS:C-49<M/T>,C-50<A/T> 3 cylinder.
+d. Check the harness wire between injector connector B-06
+terminal 2 and ECM connector C-49 terminal 15 <M/T> or
+ECM<M/T>
+OR PCM connector C-50 terminal 2 <A/T> when checking No. 4
+PCM<A/T>
+cylinder.
+Q:Is the harness wire in good condition?
+YES : Go to Step 11.
+NO : Repair it. Then go to Step 14.
+C-49,C-50
+AK000280BC
+STEP 11. Check the fuel pressure.
+Refer to, Fuel Pressure Test P.13A-578.
+Q:Is the fuel pressure normal?
+YES : Go to Step 12.
+NO : Repair or replace it. Then go to Step 14.
+STEP 12. Check for entry of foreign matter (water,
+kerosene, etc.) into fuel.
+Q:Are there any abnormalities?
+YES : Go to Step 13.
+NO : Replace the fuel. Then go to Step 14.
+STEP 13. Replace the injector.
+(1) Replace the injector.
+CONNECTOR : B-01, B-02, B-05, B-06
+(2) Carry out a test drive with the drive cycle pattern. Refer to,
+B-01 B-02 B-05B-06 Procedure 2 − Fuel Trim Monitor P.13A-5.
+(3) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0171 is output?
+YES : Replace the ECM or PCM. Then go to Step 14.
+NO : The inspection is complete.
+AAKK000000227733AB
+TSB Revision

@@ -1,0 +1,57 @@
+23A-258 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+INSPECTION PROCEDURE 6: Shift Shock when Shifting from "N" to "D" and Long Delay
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+causes for this case:)
+If abnormal shock or delay of two seconds or more
+• Abnormal underdrive clutch pressure
+occurs when the selector lever is shifted from "N" to
+• Malfunction of the underdrive solenoid valve
+"D" range while the engine is idling, the cause is
+• Malfunction of the underdrive clutch
+probably abnormal underdrive clutch pressure or a
+• Malfunction of the valve body
+malfunction of the underdrive clutch, valve body or
+• Malfunction of the throttle position sensor
+throttle position sensor.
+• Malfunction of the PCM
+.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Using scan tool MB991502, carry out the actuator
+test item 02: Underdrive Solenoid Valve.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to actuator test mode for item 02:
+Underdrive Solenoid Valve.
+• An operation sound should be heard from solenoid
+valve when solenoid valve is operated.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN Q:Is the solenoid valve operating properly?
+YES : Go to Step 2.
+MB991502
+AC001252AB NO : Repair or replace the underdrive solenoid valve.
+Refer to GROUP 23B, Valve Body P.23B-74. Then
+confirm that the symptom is eliminated.
+STEP 2. Check when shock occurs.
+Q:When does the shock occur?
+When engaging from N to D : Go to Step 3.
+When the vehicle starts moving : Go to Step 6.
+STEP 3. Check the hydraulic pressure (for underdrive
+clutch).
+Measure the hydraulic pressure for underdrive clutch when the
+selector lever is shifted from "N" to "D" range. Check if the
+hydraulic pressure is within the standard value. Refer to P.23A-
+26, Hydraulic Pressure Test.
+Q:Is the hydraulic pressure within the standard value?
+YES : Go to Step 4.
+NO : Go to Step 8.
+TSB Revision

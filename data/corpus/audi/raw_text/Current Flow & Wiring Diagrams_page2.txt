@@ -1,0 +1,61 @@
+Audi TT No. 1 / 2
+Current Flow Diagram
+Battery, starter, battery isolation igniter, main fuse box, in
+luggage compartment, rear right, on the battery
+A Battery
+B Starter
+J104 ABS control unit
+J234 Airbag control unit
+N253 Battery isolation igniter
+SD1 Fuse 1 on fuse holder D
+SD2 Fuse 2 on fuse holder D
+SD3 Fuse 3 on fuse holder D
+T2b 2-pin connector, purple, on battery isolation igniter
+T47 47-pin connector, on ABS control unit
+✱ T75 75-pin connector, yellow, on airbag control unit
+U6 Slave start socket
+SD1 SD2 SD3
+N253
+40A 110A 110A
+14 Earth point, on gearbox
+A1 B1 C1 D1 E1 T2b/1 T2b/2 F1
+B+
+51 Earth point, on right in luggage compartment
+4,0 16,0 16,0 0,5 0,5 70,0
+ro/gn ro ro br ge sw
+A
+671 Earth point 1, on front of left longitudinal member
+T47/1 T75/28 T75/27
+-- J104 115511 J234 J234
+B299 Positive connection 3 (30), in main wiring harness
+6,0
+ro
+P2 B300 Positive connection 4 (30), in main wiring harness
+B301 5566 B299
+B301 Positive connection 5 (30), in main wiring harness
+6,0 10,0 2,5 6,0 35,0
+ro ro ro ro sw
+✱✱
+✱✱ P2 Positive connection (30), in battery wiring harness
+110022 9999 B300 5522 U6 P4
+P4 Positive connection 2 (30), in battery wiring harness
+6,0 6,0 4,0 4,0 35,0 35,0
+ro ro ro ro sw sw
+* main fuse box, in luggage compartment, rear right, on the battery
+4433 5533 111111 1155 ** models with slave start socket
+50 30
+M
+ws = white
+B sw = black
+ro = red
+50,0 35,0 br = brown
+sw sw
+gn = green
+bl = blue
+gr = grey
+51 14 671 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-001020407
+rs = pink
+Edition 04.2008

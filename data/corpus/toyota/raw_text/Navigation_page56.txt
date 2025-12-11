@@ -1,0 +1,21 @@
+NS–56
+NAVIGATION – NAVIGATION SYSTEM
+5. DTC CLEAR/RECHECK
+(a) Clear DTC
+(1) Press the "Code CLR" switch for 3 seconds.
+(2) The check results are cleared.
+I038211E02
+(b) Recheck
+(1) Press the "Recheck" switch.
+I038212E01
+(2) Confirm that all diagnostic codes are "OK" when
+the check results are displayed. If a code other
+than "OK" is displayed, troubleshoot again.
+I038213E01
+(3) Press the "LAN Mon" switch to change to the
+"LAN Monitor" screen.
+I038213E02
+(4) Confirm that all diagnostic codes are "No Err". If
+a code other than "No Err" is displayed,
+NS troubleshoot again.
+I038214E01

@@ -1,0 +1,30 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-79
+SRS AIR BAG DIAGNOSIS
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991865: Dummy resister
+• MB991866: Resister harness
+STEP 1. Check the passenger’s air bag module.
+(1) Disconnect the negative battery terminal.
+(2) Unclip passenger(cid:146)s air bag module connector C-11.
+CONNECTOR: C-11 PASSENGER'S (FRONT)
+AIR BAG
+AC000363AD
+(3) Connect special tool MB991865 to special tool MB991866.
+DUMMY RESISTOR
+RESISTOR (3Ω) HARNESS CAUTION
+(MB991865) (MB991866) Do not insert a test probe into the terminal from its front
+side directly as the connector contact pressure may be
+HARNESS SIDE weakened.
+CONNECTOR (4) Disconnect the passenger’s air bag module connector C-11,
+and insert special tool MB991866 into the harness side
+connector by backprobing.
+(5) Connect the negative battery terminal.
+(6) Erase the DTC memory, and then recheck the DTC.
+Q:Is DTC 64 output?
+C-11 PASSENGER'S
+(FRONT) AIR BAG MODULE YES : Go to Step 2.
+CONNECTOR AC102572AD NO : Replace the passenger’s air bag module. Refer to
+P.52B-144. Then go to Step 4.
+TSB Revision

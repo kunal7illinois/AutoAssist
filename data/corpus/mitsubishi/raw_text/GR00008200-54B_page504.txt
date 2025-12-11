@@ -1,0 +1,30 @@
+54B-504 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 1. Check the input signal (by using the Pulse check).
+Check the input signals from the front door switches.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Operate the MUT-II according to the procedure below to
+display "PULSE CHECK."
+1. Select "SYSTEM SELECT."
+16 PIN 2. Select "SWS."
+3. Select "PULSE CHECK."
+(3) When each front door is opened and closed, check if scan
+tool MB991502 sounds or not.
+MB991502
+Q:Does scan tool MB991502 sound when each front door
+AC006106AB is opened and closed?
+When the driver’s door is opened and closed, scan tool
+MB991502 does not sound. : Go to Step 2.
+When the front passenger’s door is opened and closed,
+scan tool MB991502 does not sound. : Go to Step 6.
+when each front door is opened and closed, scan tool
+MB991502 sounds. : Replace the ETACS-ECU. If the
+functions, which are described in "CIRCUIT
+OPERATION", work normally, the input signal from
+the driver’s or the front passenger’s door switch
+should be normal.
+TSB Revision

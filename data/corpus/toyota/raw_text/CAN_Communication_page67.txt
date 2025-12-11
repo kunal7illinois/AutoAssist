@@ -1,0 +1,44 @@
+CA–67
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+• Before measuring the resistance, leave the vehicle as is for at least 1 minute and do not operate
+the ignition switch, any other switches or the doors. If doors need to be opened in order to
+check connectors, open the doors and leave them open.
+HINT:
+Operating the ignition switch, any other switches or any triggers related ECU and sensor communication
+on the CAN, which would cause resistance reading variations.
+1 CHECK OPEN IN CAN BUS WIRE (CENTER AIRBAG SENSOR BRANCH LINE)
+(a) Turn the ignition switch off.
+Center Airbag Sensor Wire Harness View:
+(b) Disconnect the center airbag sensor connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+E30 Tester Connection Condition Specified Value
+CANH
+E30-13 (CANH) - E30-22
+Ignition switch off 54 to 69 Ω
+CANL (CANL)
+C104732E06 NG REPAIR OR REPLACE CENTER AIRBAG
+CA
+SENSOR BRANCH WIRE OR CONNECTOR
+OK
+2 CHECK WIRE HARNESS (IG2, E1, E2)
+(a) Measure the resistance according to the value(s) in the
+Center Airbag Sensor Wire Harness View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Value
+E30-25 (E1) - Body ground Always Below 1 Ω
+E30
+E30-26 (E2) - Body ground Always Below 1 Ω
+(b) Measure the voltage according to the value(s) in the
+IG2
+table below.
+E2 E1 Standard voltage
+C104732E07
+Tester Connection Condition Specified Value
+E30-21 (IG2) - Body ground Ignition switch on (IG) 10 to 14 V
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE CENTER AIRBAG SENSOR

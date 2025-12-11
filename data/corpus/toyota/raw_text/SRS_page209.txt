@@ -1,0 +1,52 @@
+RS–209
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DTC B1860/64 Short in Driver Side Knee Airbag Squib Circuit
+DTC B1861/64 Open in Driver Side Knee Airbag Squib Circuit
+Short to GND in Driver Side Knee Airbag Squib
+DTC B1862/64
+Circuit
+Short to B+ in Driver Side Knee Airbag Squib
+DTC B1863/64
+Circuit
+DESCRIPTION
+The driver side knee airbag squib circuit consists of the center airbag sensor assembly and the driver side
+knee airbag assembly.
+This circuit instructs the SRS to deploy when deployment conditions are met.
+These DTCs are recorded when a malfunction is detected in the driver side knee airbag squib circuit.
+DTC No. DTC Detecting Condition Trouble Area
+• The center airbag sensor assembly receives a line
+• Instrument panel wire
+short circuit signal 5 times in the driver side knee
+• Driver side knee airbag assembly (Driver side knee
+B1860/64 airbag squib circuit during primary check.
+airbag squib)
+• Driver side knee airbag squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The center airbag sensor assembly receives an
+• Instrument panel wire
+open circuit signal in the driver side knee airbag
+• Driver side knee airbag assembly (Driver side knee
+B1861/64 squib circuit for 2 seconds.
+airbag squib)
+• Driver side knee airbag squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• he airbag sensor assembly center receives a short RS
+• Instrument panel wire
+circuit to ground signal in the knee airbag (D side)
+• Driver side knee airbag assembly (Driver side knee
+B1862/64 squib circuit for 0.5 seconds.
+airbag squib)
+• Driver side knee airbag squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+• The airbag sensor assembly center receives a
+• Instrument panel wire
+short circuit to B+ signal in the knee airbag (D side)
+• Driver side knee airbag assembly (Driver side knee
+B1863/64 squib circuit for 0.5 seconds.
+airbag squib)
+• Driver side knee airbag squib malfunction
+• Center airbag sensor assembly
+• Center airbag sensor assembly malfunction

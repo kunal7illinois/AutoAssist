@@ -1,0 +1,55 @@
+35A-20 BASIC BRAKE SYSTEM
+ON-VEHICLE SERVICE
+CHECK VALVE OPERATION CHECK
+M1351009000194
+CAUTION
+The check valve should not be removed from the vacuum
+hose.
+1. Remove the vacuum hose. (Refer to P.35A-32.)
+CAUTION
+If the check valve is defective, replace it as an assembly
+unit together with the vacuum hose.
+2. Check the operation of the check valve by using a vacuum
+VALVE SPRING
+pump.
+A B
+VACUUM PUMP CRITERIA
+INTAKE
+BOOST- MANIFOLD CONNECTION
+ER SIDE SIDE
+(HOLDS)
+(DOES NOT Connection at the brake A negative pressure
+HOLD)
+booster side (A) (vacuum) is created and
+held.
+Connection at the intake A negative pressure
+AC000873AB manifold side (B) (vacuum) is not created.
+PROPORTIONING VALVE FUNCTION TEST
+M1351001100197
+1. Connect two pressure gauges, one each to the input side
+PRESSURE GAUGE and output side of the proportioning valve, as shown.
+2. Air bleed the brake line and the pressure gauge.
+3. While gradually depressing the brake pedal, make the
+following measurements and check to be sure that the
+measured values are within the allowable range.
+PROPORTIONING VALVE AC000874AB
+(1) Output fluid pressure begins to drop relative to input fluid
+pressure (split point).
+SPLIT POINT
+Standard value:
+<2.4L engine> 3.7 − 4.2 MPa (537 − 609 psi)
+<3.0L engine> 3.2 − 3.7 MPa (464 − 537 psi)
+OUTPUT
+FLUID (2) Check that the output fluid pressure is at standard value
+PRESSURE
+when the input fluid pressure indicates 9.8 MPa (1,422
+psi).
+INPUT FLUID PRESSURE Standard value:
+AC000875AB <2.4L engine> 5.0 − 5.8 MPa (725 − 841 psi)
+<3.0L engine> 4.6 − 5.4 MPa (667 − 783 psi)
+(3) Output fluid pressure difference between left and right
+brake lines.
+Limit: 0.8 MPa (116 psi)
+4. If the measured fluid pressures are not within allowable
+ranges, replace the proportioning valve.
+TSB Revision

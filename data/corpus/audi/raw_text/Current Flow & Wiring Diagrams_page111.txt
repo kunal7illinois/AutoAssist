@@ -1,0 +1,77 @@
+Audi TT No. 8 / 13
+Current Flow Diagram
+Convenience system central control unit, alarm horn, anti-
+theft alarm sensor, aerial amplifier
+G273 Interior monitoring sensor
+G384 Vehicle inclination sender
+G578 Anti-theft alarm sensor
+H12 Alarm horn
+J393 Convenience system central control unit
+R11 Aerial
+R24 Aerial amplifier
+R47
+R47 Central locking and anti-theft alarm system aerial
+6
+ro
+,0 B272 1
+r
+6
+o
+,0 R11 R130
+R130 Rear window aerial 1
+SA4 Fuse 4 on fuse holder A
+5 8 SB5 Fuse 5 on fuse holder B
+ST1 SB5 SB8 SA4 ♦♦ ♦ SB8 Fuse 8 on fuse holder B
+5A 30A 110A R24 R24 T2ad 2-pin connector, grey, on right in luggage compartment
+5a 8a # B1 B2 B1 B2 T4p 4-pin connector, black, on interior monitoring sensor
+0,4 0,5 T6g 6-pin connector, connector C, on convenience system central
+0,35 0,35 sw 0,4 0,5 control unit
+gn/ro gn/ro sw
+T18g 18-pin connector, brown, connector A, on convenience system
+central control unit
+115566 116633 116666
+J393 T
+/1
+1
+6
+8g T
+/1
+1
+7
+8g
+44 Earth point, lower part of left A-pillar
+T6g/6 T18g T18g 370 Earth connection 5, in main wiring harness
+/16 /17
+♦
+0,5 B272 Positive connection (30), in main wiring harness
+sw
+* models with anti-theft alarm
+** models with interior monitor
+# Main fuse holder, electronics box, in front left engine
+♦ 0,5 ♦ compartment
+0,4 sw ♦ Coupé
+115566 115577 ♦♦ Roadster
+T2ad T2ad/2
+/1
+0,35 0,35 0,35 0,35
+gn/ro li/bl li/bl gn/ro 0,4 ♦ 0,5 ♦
+sw
+3 1 T4p/3 T4p/4
+✱ ✱✱ G273 G384
+116666
+H12 G578
+2/31 T4p/2 ws = white
+31 sw = black
+ro = red
+br = brown
+0,35 0,35 1,0 gn = green
+br br br
+370 bl = blue
+gr = grey
+2222
+44 li = purple
+ge = yellow
+155 156 157 158 159 160 161 162 163 164 165 166 167 168 or = orange
+8J0-008130906
+rs = pink
+Edition 04.2008

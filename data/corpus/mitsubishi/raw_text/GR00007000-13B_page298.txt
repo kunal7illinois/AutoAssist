@@ -1,0 +1,58 @@
+13B-298 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 9. Using the oscilloscope, check the injector.
+(1) Disconnect the injector connector B-02 <No. 2 cylinder> or
+B-06 <No. 4 cylinder> or B-25 <No. 6 cylinder> and
+connect the test harness special tool (MB991348)
+inbetween. (All terminals should be connected)
+(2) Connect the oscilloscope probe to the injector side
+OSCILLOSCOPE
+INJECTOR connector terminal 2.
+CONNECTOR
+MB991348 NOTE: When measuring with the ECM or PCM side con-
+1 2 nector, connect an oscilloscope probe to the each of the fol-
+lowing terminals.
+.
+• ECM or PCM terminal 9 when checking No. 2 cylinder.
+• ECM or PCM terminal 2 when checking No. 4 cylinder.
+• ECM or PCM terminal 25 when checking No. 6 cylinder.
+(3) Start the engine and run at idle.
+AK102980AB
+(4) Measure the waveform.
+NORMAL WAVEFORM
+• The waveform should show a normal pattern similar to
+the illustration.
+A:INJECTOR DRIVE TIME
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the waveform normal?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+A NO : Replace the ECM or PCM. Then go to Step 10.
+AKX01557AB
+STEP 10. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 6 − Other Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0202, P0204, P0206 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0300: Random/Multiple Cylinder Misfire Detected
+. TECHNICAL DESCRIPTION
+Random Misfire Circuit
+• Refer to DTC P0201, P0203, P0205 − Injector • If a misfire occurs while the engine is running, the
+engine speed changes for an instant.
+Circuit P.13B-283.
+• Refer to DTC P0202, P0204, P0206 − Injector • The ECM <M/T> or PCM <A/T> checks for such
+changes in engine speed.
+Circuit P.13B-292.
+.
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+• Refer to DTC P0201, P0203, P0205 − Injector Check Conditions
+Circuit P.13B-283. • Engine speed is between 440 and 6,000 r/min.
+• Refer to DTC P0202, P0204, P0206 − Injector • Engine coolant temperature is higher than −10°C
+Circuit P.13B-292. (14°F).
+• Intake air temperature is higher than −10°C
+. (14°F).
+TSB Revision

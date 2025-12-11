@@ -1,0 +1,56 @@
+Audi TT 2007 ➤
+Electrical system - Edition 11.2010
+Contents
+27 - Starter, current supply, CCS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+1 Contact corrosion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+2 Battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2.1 Battery - general notes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2.2 Maintenance-free batteries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2.3 Exploded view of battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.4 Disconnecting and connecting battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.5 Removing and installing earth cable with battery monitor control unit J367 . . . . . . . . . . . . 5
+2.6 Removing and installing battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.7 Checking battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.8 Charging battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.9 Preparations before charging battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2.10 Preparations for back-up power supply of battery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+2.11 Removing and installing battery isolation igniter N253 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+3 Removing and installing alternator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3.1 Exploded view of alternator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3.2 Audi TT and TTS with 2.0 ltr. TFSI engine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3.3 Audi TT RS with 2.5 ltr. TFSI engine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+3.4 Audi TT with 3.2 ltr. MPI engine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+3.5 Audi TT with 2.0 ltr. TDI engine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+4 Checking and servicing alternator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+4.1 Checking alternator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+4.2 Servicing alternator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+5 Removing and installing starter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+5.1 Exploded view of starter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+5.2 Audi TT with 2.0 ltr. TFSI engine and manual gearbox . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+5.3 Audi TT with 2.0 ltr. TFSI engine and direct shift gearbox . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+5.4 Audi TTS with 2.0 ltr. TFSI engine and direct shift gearbox . . . . . . . . . . . . . . . . . . . . . . . . 27
+5.5 Audi TT RS with 2.5 ltr. TFSI engine and manual gearbox . . . . . . . . . . . . . . . . . . . . . . . . 28
+5.6 Audi TT with 3.2 ltr. MPI engine and manual gearbox . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+5.7 Audi TT with 3.2 ltr. MPI engine and direct shift gearbox . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+5.8 Audi TT with 2.0 ltr. TDI engine and manual gearbox . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+5.9 Exploded view of starter - Audi TT RS with dual clutch gearbox . . . . . . . . . . . . . . . . . . . . 34
+5.10 Audi TT RS with 2.5 ltr. TFSI engine and dual clutch gearbox . . . . . . . . . . . . . . . . . . . . . . 35
+6 Cruise control system (CCS) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+90 - Gauges, instruments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+1 Contact corrosion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+2 Instrument cluster . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+2.1 Exploded view of instrument cluster and radio-controlled clock receiver . . . . . . . . . . . . . . 38
+2.2 Removing and installing instrument cluster . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+2.3 Pin assignment at multi-pin connectors on instrument cluster . . . . . . . . . . . . . . . . . . . . . . 40
+2.4 Pin assignment at fuel gauge sender G . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+2.5 Pin assignment at fuel gauge sender 2 G169 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+2.6 Pin assignment at coolant temperature senders - 2.0 ltr. TFSI engine . . . . . . . . . . . . . . . . 43
+2.7 Pin assignment at coolant temperature sender - 2.5 ltr. TFSI engine . . . . . . . . . . . . . . . . 44
+2.8 Pin assignment at coolant temperature senders - 3.2 ltr. MPI engine . . . . . . . . . . . . . . . . 45
+2.9 Pin assignment at coolant temperature senders - 2.0 ltr. TDI engine . . . . . . . . . . . . . . . . 46
+2.10 Removing and installing ambient temperature sensor G17 . . . . . . . . . . . . . . . . . . . . . . . . 47
+2.11 Removing and installing ambient temperature sensor G17 - Audi TT RS . . . . . . . . . . . . . . 47
+2.12 Removing and installing radio-controlled clock receiver J489 . . . . . . . . . . . . . . . . . . . . . . 48
+3 Cigarette lighter, 12 V electric socket . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+i
+Contents

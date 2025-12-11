@@ -1,0 +1,32 @@
+CHASSIS ELECTRICAL 54A-43
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 1. Check the speedometer.
+CAUTION
+To prevent damage to scan tool always turn the ignition
+switch to "LOCK" (OFF) position before connecting or dis-
+connecting scan tool.
+1. Connect scan tool MB991502 to the data link connector.
+2. Use scan tool MB991502 to enter a simulated vehicle
+speed.
+Q:Dose the speedometer correspond with the simulated
+vehicle speed?
+YES : Go to Step 2.
+NO : Go to Step 4.
+16 PIN
+MB991502
+AC001252AB
+STEP 2. Check the vehicle speed sensor.
+(1) Turn the ignition switch to "ON" position.
+(2) Read the MFI system diagnostic trouble code.
+Q:Is MFI system DTC P0500 set?
+YES : • For M/T, Go to Step 13.
+• For A/T, Go to Step22.
+NO : Go to Step 3.
+16 PIN
+MB991502
+AC001252AB
+STEP 3. Check the odometer and trip odometer operation.
+Q:Do the odometer and trip odometer work correctly?
+YES : Go to Step 10.
+NO : Go to Step 4.
+TSB Revision

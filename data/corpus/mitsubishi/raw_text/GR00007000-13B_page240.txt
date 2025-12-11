@@ -1,0 +1,48 @@
+13B-240 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR: A-18X CONNECTOR : C-51<M/T>, C-52<A/T>
+MFI RELAY
+PCM<A/T> ECM<M/T>
+C-52 C-51
+AK101363AB AK000225AJ
+. • Engine coolant temperature is higher than 20°C
+CIRCUIT OPERATION
+• Power is supplied from the MFI relay (terminal 4)
+(68°F).
+• While the left bank heated oxygen sensor (rear)
+to the left bank heated oxygen sensor (rear)
+heater is on.
+heater.
+• The ECM (terminal 26) <M/T> or PCM (terminal • Battery positive voltage is between 11 and 16
+volts.
+26) <A/T> controls continuity to the left bank
+heated oxygen sensor (rear) heater by turning Judgment Criteria
+the power transistor in the ECM <M/T> or PCM • Heater current of the left bank heated oxygen
+<A/T> "ON" and "OFF". sensor (rear) heater has continued to be lower
+than 0.16 ampere or higher than 5.0 ampere for 4
+. BACKGROUND seconds.
+• The ECM <M/T> or PCM <A/T> checks whether
+.
+the heater current is within a specified range TROUBLESHOOTING HINTS (The most likely
+when the heater is energized. causes for this code to be set are: )
+• Open or shorted left bank heated oxygen sensor
+. DTC SET CONDITIONS (rear) heater circuit.
+• Open circuit in left bank heated oxygen sensor
+Check Conditions
+(rear) heater.
+• 60 seconds have elapsed from the start of the
+• ECM failed. <M/T>
+previous monitoring.
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tool:
+• MB991316: Test Harness Set
+STEP 1. Check connector B-23 at the left bank heated
+oxygen sensor (rear) for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-23
+YES : Go to Step 2.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+AK103510AB
+TSB Revision

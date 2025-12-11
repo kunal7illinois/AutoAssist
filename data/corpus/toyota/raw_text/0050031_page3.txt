@@ -1,0 +1,42 @@
+ES–177
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 READ VALUE USING INTELLIGENT TESTER (KNOCK FB VAL)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the tester ON.
+(c) Warm up the engine.
+(d) Select the following menu items: DIAGNOSIS / ES
+ENHANCED OBD II / DATA LIST / USER DATA /
+KNOCK FB VAL.
+(e) Read the values displayed on the tester while driving the
+vehicle.
+Standard:
+The values change.
+HINT
+Malfunction does not occur Knock Feedback Values change
+Malfunctions occur Knock Feedback Values do not change
+HINT:
+The knock feedback value change can be confirmed by
+running the engine at high load, for example, by
+activating the air conditioning system and revving up the
+engine.
+OK CHECK FOR INTERMITTENT PROBLEMS
+NG
+2 CHECK HARNESS AND CONNECTOR (ECM - KNOCK SENSOR)
+(a) Disconnect the B30 ECM connector.
+Wire Harness Side:
+(b) Measure the resistance between the terminals.
+Standard
+B30 ECM Connector Tester Connections Specified Conditions
+B30-110 (KNK1) - B30-111 (EKNK) 120 to 280 kΩ at 20°C (68°F)
+(c) Reconnect the ECM connector.
+NG Go to step 4
+Front View
+KNK1 EKNK
+A107892E43
+OK

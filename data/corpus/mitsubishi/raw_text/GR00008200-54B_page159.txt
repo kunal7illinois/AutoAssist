@@ -1,0 +1,42 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-159
+SYMPTOM PROCEDURES
+STEP 9. Measure at trunk lid opener actuator assembly
+connector F-38 in order check the ground system to trunk
+lid opener actuator assembly.
+(1) Disconnect trunk lid opener actuator assembly connector F-
+CONNECTOR : F-38
+38, and measure at the harness side.
+F-38
+DEVICE SIDE
+1 2
+AC107049AB
+(2) Measure the resistance value between terminal 2 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR: F-38 Q:Does the measured resistance value correspond with
+(HARNESS SIDE) this range?
+YES : Go to Step 12.
+2 1
+NO : Go to Step 10.
+AC107048AB
+STEP 10. Check the trunk lid opener actuator connector F-
+38 for damage.
+Q:Is the trunk lid opener actuator connector F-38 in good
+condition?
+YES : Go to Step 11.
+NO : Repair or replace the connector. Refer to GROUP
+00E,Harness Connector Inspection. P.54B-
+609.Check that the trunk lid opener work normally.
+STEP 11. Check the wiring harness between trunk lid
+opener actuator connector F-38 (terminal 2) and ground
+Q:Is the wiring harness between the trunk lid opener
+CONNECTOR : F-38
+actuator connector F-38 (terminal 2) and ground in good
+F-38
+condition?
+DEVICE SIDE YES : No action to be taken.
+1 2
+NO : Repair the wiring harness. Check that the trunk lid
+opener work normally.
+AC107049AB
+TSB Revision

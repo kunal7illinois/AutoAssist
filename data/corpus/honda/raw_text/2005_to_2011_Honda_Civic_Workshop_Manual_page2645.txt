@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+DTC P0193: FUEL RAIL PRESSURE SENSOR CIRCUIT HIGH VOLTAGE
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Turn the ignition switch ON (II).
+2. Check the FUEL RAIL PRESSURE SENSOR in the DATA LIST with the
+HDS.
+Is there about 4.77 V or more?
+YES -Go to step 3.
+NO -Intermittent failure, the system is OK at this time. Check for poor
+connections or loose terminals at the fuel rail pressure sensor and the PCM.
+3. Try to start the engine when the ambient temperature is 32 °F (0 °C) or more.
+Does the engine start?
+YES -Go to step 8.
+NO -Go to step 4.
+4. Turn the ignition switch OFF.
+5. Disconnect the fuel pressure regulator switch 2P connector (see FUEL
+PRESSURE SWITCH REPLACEMENT ).
+6. Turn the ignition switch ON (II).
+7. Check the LOW FUEL INDICATOR in the DATA LIST with the HDS.
+Is OFF indicated?
+YES -Replace fuel pressure regulator P1 (see FUEL PRESSURE
+REGULATOR P1 REPLACEMENT ), then go to step 35.

@@ -1,0 +1,40 @@
+DL–55
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+3 INSPECT LUGGAGE COMPARTMENT DOOR LOCK CYLINDER
+(a) Disconnect the luggage compartment door lock cylinder
+connector.
+(b) Measure the resistance according to the value(s) in the
+UNLOCK table below.
+Standard resistance
+OPEN Tester Connection
+Condition Specified Condition
+(Symbols)
+Luggage compartment door
+*1 S8-1 - S8-3 10 kΩ or higher
+lock cylinder LOCK
+LOCK
+Luggage compartment door
+*1 S8-1 - S8-3 Below 1 Ω
+lock cylinder OPEN
+Luggage compartment door
+*1 S8-1 - S8-3 10 kΩ or higher
+lock cylinder UNLOCK
+Luggage compartment door
+*2 S6-2 - S6-1 10 kΩ or higher
+lock cylinder LOCK
+S6 (*2) Luggage compartment door
+*2 S6-2 - S6-1 Below 1 Ω
+lock cylinder OPEN
+Luggage compartment door
+*2 S6-2 - S6-1 10 kΩ or higher
+lock cylinder UNLOCK
+*1: w/ SMART KEY SYSTEM
+*2: w/o SMART KEY SYSTEM
+NG REPLACE LUGGAGE COMPARTMENT
+DOOR LOCK CYLINDER
+S8 (*1)
+B137942E01
+OK
+REPAIR OR REPLACE HARNESS OR CONNECTOR (MAIN BODY ECU, BODY GROUND - DOOR
+DL
+LOCK CYLINDER)

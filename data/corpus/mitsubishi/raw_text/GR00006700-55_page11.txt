@@ -1,0 +1,39 @@
+HEATING AND AIR CONDITIONING 55-11
+MANUAL A/C DIAGNOSIS
+STEP 3. Check the refrigerant-temperature switch
+operation.
+Q:When the A/C is off, check that there is continuity
+between the refrigerant-temperature switch terminals. Is
+the circuit open loop?
+YES : Replace the switch. Then go to Step 6.
+NO : If less than 2 ohm, go to Step 4.
+REFRIGERANT
+TEMPERATURE
+SWITCH TERMINALS
+AC001372AB
+STEP 4. Measure the automatic compressor controller
+terminal voltage.
+Q:Is the automatic compressor controller terminal voltage
+in good condition?
+YES : Go to Step 5.
+NO : Replace. Then go to Step 6.
+STEP 5. Measure the engine control module <M/T>/the
+powertrain control module <A/T> terminal voltage.
+(1) Refer to GROUP 13A, Diagnosis − Check at The Engine
+Control Module (ECM) <M/T> or Powertrain Control Module
+(PCM) <A/T> <2.4L engine>P.13A-554 .
+(2) Refer to GROUP 13B, Diagnosis − Check at The Engine
+Control Module (ECM) <M/T> or Powertrain Control Module
+(PCM) <A/T> <3.0L engine>P.13B-655 .
+Q:Is the voltage in good condition?
+YES : Go to Step 6.
+NO : Replace. Then go to Step 6.
+STEP 6. Check symptoms.
+Q:Is the cool air discharged?
+YES : This diagnosis is complete. (If no malfunctions are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to GROUP 00, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+NO : Go to Step 1.
+TSB Revision

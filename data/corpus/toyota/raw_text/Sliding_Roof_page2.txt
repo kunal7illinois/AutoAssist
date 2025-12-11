@@ -1,0 +1,15 @@
+RF–2
+SLIDING ROOF – SLIDING ROOF SYSTEM
+SYSTEM DIAGRAM
+Overhead Junction Block
+(Sliding Roof Control
+Switch)
+Serial Line
+RF Sliding Roof Drive Gear Main Body ECU
+LIN Bus Line
+(Sliding Roof Control
+ECU)
+B130036E02
+Communication table
+Sender Receiver Signal Line
+Main Body ECU Sliding Roof Control ECU Key-off operation signal LIN

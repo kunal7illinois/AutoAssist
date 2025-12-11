@@ -1,0 +1,37 @@
+ES–397
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC U0101 Lost Communication with TCM
+DESCRIPTION
+The Transmission Control Module (TCM) and ECM perform 2-way communications with each other via
+the Controller Area Network (CAN). The TCM sends signals to the ECM concerning required engine rpm,
+required engine torques, warning indicators in the combination meter, DTCs and other data. The ECM
+sends signals to the TCM concerning engine rpm, opening angles of the throttle valve, temperature of
+intake air, temperature of engine coolant, engine torques and other data. If the TCM cannot communicate
+with the ECM, the TCM will conclude that there is a malfunction in the CAN system, illuminate the MIL and
+set a DTC.
+DTC No. DTC Detection Condition Trouble Area
+• Open or short in TCM and ECM circuit
+U0101 No communication from TCM continues • TCM
+• ECM
+ES
+MONITOR STRATEGY
+Related DTCs U0101: Verify communication
+Required Sensors/Components (Main) ECM
+Required Sensors/Components (Sub) -
+Frequency of Operation Continuous
+Duration 1.25 seconds
+MIL Operation immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs are not present None
+Battery Voltage 10.5 V or more (0.5 second or more)
+Engine switch ON
+Starter OFF
+TYPICAL MALFUNCTION THRESHOLDS
+Communication signal Lost communication with TCM
+TCM ECM
+7 1
+CAN- C56 C55 CAN-
+6 2
+CAN+ C56 C55 CAN+
+A113695E02

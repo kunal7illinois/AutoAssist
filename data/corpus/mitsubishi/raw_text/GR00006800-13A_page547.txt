@@ -1,0 +1,52 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-547
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+MUT-II SCAN ITEM INSPECTION ITEM INSPECTION REQUIREMENT NORMAL INSPECTION REFERENCE
+TOOL NO. CONDITION PROCEDURE PAGE
+DISPLAY NO.
+ECT 21*6 Engine coolant Ignition switch: Engine coolant −20°C (4°F) Code No. P.13A-80,
+SENSOR temperature "ON" or with temperature is P0116, P.13A-88,
+sensor engine running −20°C (−4°F) P0117,
+P.13A-92
+P0118
+Engine coolant 0°C (32°F)
+temperature is
+0°C (32°F)
+Engine coolant 20°C (68°F)
+temperature is
+20°C (68°F)
+Engine coolant 40°C (104°F)
+temperature is
+40°C (104°F)
+Engine coolant 80°C (176°F)
+temperature is
+80°C (176°F)
+ENGINE 87*6 Calculation Engine: Engine is idling 12 − 32 % − −
+LOAD load value warming up 2,500 r/min 10 − 30 %
+ENGINE 22*6 Crankshaft • Engine: cranking Engine Code No. P.13A-236
+SPEED position sensor • Tachometer: connected speeds P0335
+*1 displayed on
+the scan tool
+and
+tachometer
+are identical.
+Engine: idling Engine coolant 1,275 −
+temperature is 1,475 r/min
+−20°C (−4°F)
+Engine coolant 1,220 −
+temperature is 1,420 r/min
+0°C (32°F)
+Engine coolant 1,100 −
+temperature is 1,300 r/min
+20°C (68°F)
+Engine coolant 930 − 1,130
+temperature is r/min
+40°C (104°F)
+Engine coolant 600 − 800 r/
+temperature is min
+80°C (176°F)
+FUEL 4A Fuel In cooled srateignittion switch: approximately Code No. P.13A-
+TEMP tempreature "ON" the same as P0181, 198,P.13A
+sensor the outdoor P0182, -
+temperature P0183 205,P.13A
+-210
+TSB Revision

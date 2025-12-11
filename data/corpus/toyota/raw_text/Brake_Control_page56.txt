@@ -1,0 +1,37 @@
+BC–56
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+• Check the condition of each related circuit connector before troubleshooting (See page IN-40).
+1 INSPECT FUSIBLE LINK (ABS NO. 1 FUSE)
+(a) Remove the fusible link from the engine room R/B.
+Engine Room R/B Fusible Link (b) Check if the fusible link is melted.
+OK:
+The fusible link is not melted.
+(c) Install the fusible link to the engine room R/B with the
+nut.
+Torque: 5.4 N*m (55 kgf*cm, 48 in.*lbf)
+NG REPLACE FUSIBLE LINK
+ABS No. 1
+BC
+C136500E01
+OK
+2 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (ABS MOTOR RELAY)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine.
+(c) Select "ACTIVE TEST" on the intelligent tester (See
+page BC-25).
+ACTIVE TEST: ABS
+Measurement Item /
+Item Normal Condition
+Range (Display)
+ABS MTR RELAY Turns ABS motor relay ON / OFF Operating sound of motor is heard
+(d) Check the operating sound of the ABS motor relay when
+operating it with the intelligent tester.
+OK:
+The operating sound of the ABS motor relay
+should be heard.
+Result
+Result Proceed to
+The operating sound is not heard A
+The operating sound is heard B
+B Go to step 5
+A

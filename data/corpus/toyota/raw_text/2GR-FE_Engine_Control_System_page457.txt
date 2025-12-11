@@ -1,0 +1,13 @@
+ES–457
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Fuel Pump Control Circuit
+DESCRIPTION
+In the diagram below, when the engine is cranked, current flows from terminal ST1 (STR) of the ignition
+switch (power source control ECU) to the starter relay (Marking: ST) coil and also current flows to terminal
+STA of ECM (STA signal).
+When the STA signal and NE signal are input to the ECM, Tr is turned ON, current flows to coil of the
+circuit opening relay (Marking: C/OPN), the relay switches on, power is supplied to the fuel pump and the
+fuel pump operates.
+While the NE signal is generated (engine running), the ECM keeps Tr ON (circuit opening relay ON) and
+the fuel pump also keeps operating.
+ES

@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Using a Multimeter , check the Camshaft Adjustment Valve 1
+(exhaust) -N318- electrical harness connector terminal 1 to the
+Engine Control Module (ECM) -J623- electrical harness con‐
+nector T60 for an open circuit.
+Camshaft Adjustment Valve Engine Control Module (ECM) -
+1 (exhaust) -N318- electrical J623- electrical harness connector
+harness connector terminal T60 terminal or test box socket
+1 5
+Specified value: 1.5 Ω Max.
+If the specified value was not obtained:
+– Check the wiring connection for an open circuit, short circuit
+to Battery (+) or Ground (GND).
+– Check the wiring connection for damage, corrosion, lose or
+broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is found in the wiring and voltage supply was not
+OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+Repair Manual.
+– Assembly is performed in the reverse order of removal.
+Final procedures
+After repair work, the following work steps must be performed in
+the following sequence:
+1 - Che ck the DTC memory. Refer to
+⇒ “3 . 3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.40 Knock Sensor, Checking
+The following procedure is used to diagnose all Knock Sensors .
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Wiring diagram.
+Test requirements
+• The mounting bolt of Knock Sensor (KS) 1 -G61- / Knock Sen‐
+sor (KS) 2 -G66- tightened to 20 Nm.
+• The Engine Control Module (ECM) - J623- fuses OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• Vehicles with automatic transmission, shift selector lever into
+position “P” or “N”.
+• A/C switched off.
+• Ground connections between engine/transmission/chassis
+OK.
+190
+Rep. Gr.ST - Generic Scan Tool

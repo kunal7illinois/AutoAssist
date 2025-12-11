@@ -1,0 +1,21 @@
+AC–88
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+DTC B1451/51 Compressor Solenoid Circuit
+DESCRIPTION
+In this circuit, the compressor receives a refrigerant compression demand signal from the air conditioning
+amplifier.
+Based on this signal, the compressor changes the amount of compressor output.
+DTC No. DTC Detection Condition Trouble Area
+• A/C compressor
+Open or short in solenoid of the externally changeable • Harness or connector between A/C amplifier and
+B1451/51
+compressor circuit solenoid of externally changeable compressor
+• A/C amplifier
+WIRING DIAGRAM
+A/C Amplifier
+C21
+A/C Compressor
+AC 2
+1 SOL- SOL+ 2
+E38 SOL+
+E116880E04

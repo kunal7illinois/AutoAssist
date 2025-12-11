@@ -1,0 +1,40 @@
+ES–364
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• The ECM stops fuel injection (fuel cut) during engine
+deceleration. This causes a lean condition and results in a
+momentary increase in the A/F sensor output voltage.
+• The ECM must establish a closed throttle valve position
+learning value to perform fuel cut. If the battery terminal
+has been reconnected, the vehicle must be driven over 10
+mph (16 km/h) to allow the ECM terminal to be
+reconnected, the vehicle must be driven at over 10 mph
+(16 km/h) to allow the ECM to learn the closed throttle
+valve position.
+• When the vehicle is driven:
+The output voltage of the A/F sensor may be below 2.8 V
+during fuel enrichment. For the vehicle, this translates to a
+sudden increase in speed with the accelerator pedal fully
+depressed when trying to overtake another vehicle. The A/
+ES
+F sensor is functioning normally.
+• The A/F sensor is a current output element; therefore, the
+current is converted into a voltage inside the ECM.
+Measuring the voltage at the connectors of the A/F sensor
+or ECM will show a constant voltage result.
+NG Go to step 10
+OK
+4 PERFORM CONFIRMATION DRIVING PATTERN
+NEXT
+5 CHECK WHETHER DTC OUTPUT RECURS (DTC P2195, P2196, P2197 OR P2198)
+(a) Read the DTCs using the intelligent tester.
+(b) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DTC INFO / CURRENT CODES.
+Result
+Display (DTC Output) Proceed to
+P2195, P2196, P2197, or P2198 A
+No output B
+B Go to step 9
+A
+6 REPLACE AIR FUEL RATIO SENSOR
+(a) Replace the air fuel ratio sensor (See page EC-19).
+NEXT

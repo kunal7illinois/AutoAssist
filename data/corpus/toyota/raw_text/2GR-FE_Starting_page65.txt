@@ -1,0 +1,33 @@
+ST–65
+2GR-FE STARTING – SMART KEY SYSTEM
+DTC B2282 Vehicle Speed Signal Malfunction
+DESCRIPTION
+The main body ECU and the combination meter are connected by a cable and the CAN. DTC B2282 is
+output when: 1) the cable information and CAN information are inconsistent; and 2) a malfunction is
+detected between the vehicle speed sensor and combination meter.
+HINT:
+When the main body ECU is replaced with a new one and the negative (-) battery terminal is connected,
+the power source mode becomes the IG-ON mode. When the battery is removed and reinstalled, the
+power source mode that was selected when the battery was removed is restored.
+After the main body ECU is replaced, perform the registration procedures for the engine immobiliser
+system (See page EI-8).
+DTC No. DTC Detection Condition Trouble Area
+When both conditions below are met:
+• Cable information and CAN information between • CAN communication system
+the main body ECU and the combination meter are • Combination meter system
+B2282
+inconsistent • Main body ECU
+• Malfunction is detected between the vehicle speed • Wire harness or connector
+sensor and the combination meter
+Combination
+Meter (Meter
+Skid Control ECU
+4 pulses ECU) 4 pulses
+Main Body ECU
+Front
+Speed CAN
+Sensor
+B2282 Detection Area
+B2283 Detection Area
+A109248E08
+ST

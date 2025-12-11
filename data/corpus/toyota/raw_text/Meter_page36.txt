@@ -1,0 +1,69 @@
+ME–36
+METER – METER / GAUGE SYSTEM
+Measurement Item/Range
+ITEM Normal Condition Diagnostic Note
+(Display)
+The temperature displayed on the
+Outside temperature: Min.: -40°C Almost same as actual outside
+AMBIENT TEMP multi-information display is -22 to
+(-40°F) to 87.5°C (189.5°F) temperature
+122°C (-30 to 50 °F)
+Light Control Rheostat/Min.: 0, Light control rheostat switch is
+RHEOSTAT -
+Max.: 100 Dark (0) → Bright (100)
+The cycle of the key reminder The customized setting of the
+KEY REMND SOUND warning buzzer is FAST, cycle of the key reminder warning -
+NORMAL, SLOW buzzer is displayed.
+The volume of the seat belt The customized setting of the
+SEAT-BELT WARN warning buzzer is D/P ON, D ON, volume of the seat belt warning -
+P ON, D/P OFF buzzer is displayed.
+The volume of the key reminder The customized setting of the
+KEY REMND VOLUM warning buzzer is LARGE, volume of the key reminder -
+MEDIUM, SMALL warning buzzer is displayed.
+ABS/TRAC/VSC:
+Measurement Item/Range
+ITEM Normal Condition Diagnostic Note
+(Display)
+Vehicle speed/Min.: 0 km/h (0 Almost same as actual vehicle
+FR/FL/RR/RL WHEEL SPD -
+mph), Max.: 326 km/h (202 mph) speed (When driving)
+Vehicle speed/Min.: 0 km/h (0 Almost same as actual vehicle
+VEHICLE SPD -
+mph), Max.: 326 km/h (202 mph) speed (When driving)
+ENGINE:
+Measurement Item/Range
+ITEM Normal Condition Diagnostic Note
+(Display)
+Vehicle speed/Min.: 0 rpm, Max.: Almost same as actual vehicle
+ENGINE SPD -
+16,383.75 rpm speed (When driving)
+• If -40°C (-40°F): sensor circuit
+Engine coolant temperature:
+80 to 100°C (176 to 212°F): open
+COOLANT TEMP Min.: -40°C (-40°F), Max.: 140°C
+After warming up • If 140°C (284°F) or more:
+(284°F)
+sensor circuit shorted
+2. ACTIVE TEST
+Performing the ACTIVE TEST using the intelligent tester
+allows the meters, indicators and so on to operate
+without parts removal. Performing the ACTIVE TEST as
+the first step of troubleshooting is one way to shorten
+labor time.
+It is possible to display the DATA LIST on the intelligent
+tester during the ACTIVE TEST.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester ON.
+(d) Enter following menus: DIAGNOSIS / OBD/MOBD /
+ME METER / ACTIVE TEST.
+(e) From the display on the tester, performing the
+"ACTIVE TEST".
+METER:
+Item Test Details Diagnostic Note
+SPEED METER 0, 40 (24), 80 (48), 120 (72), 160 (96), 200 (120) km/h (mph) -
+TACHOMETER 0, 1,000, 2,000, 3,000, 4,000, 5,000, 6,000, 7,000 (rpm) -
+FUEL GAUGE EMPTY, 1/2, FULL -
+COOLANT TEMP LOW, NORM, HIGH -
+A/T INDIC (1) (*1) A/T shift indicator light L, 2, 3, 4, S, D, N, R, P is OFF/ON -
+A/T INDIC (2) (*1) A/T gear range indicator light is OFF/ON

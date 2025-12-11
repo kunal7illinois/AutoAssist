@@ -1,0 +1,47 @@
+13B-346 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC P0421: Warm Up Catalyst Efficiency Below Threshold (bank 1)
+. • Barometric pressure is higher than 76 kPa (11
+TECHNICAL DESCRIPTION
+• The signal from the rear heated oxygen sensor psi).
+• Under the closed loop air/fuel ratio control.
+differs from the front heated oxygen sensor. That
+• Vehicle speed is 1.5 km/h (0.93 mph) or more.
+is because the catalytic converter purifies
+• The ECM <M/T> or PCM <A/T> monitors for this
+exhaust gas. When the catalytic converter has
+condition for 7 cycles of 12 second each during
+deteriorated, the signal from the front heated oxy-
+the drive cycle.
+gen sensor becomes similar to the rear heated
+• Short-term fuel trim is higher than −30 percent
+oxygen sensor.
+• The ECM <M/T> or PCM <A/T> compares the and lower than +25 percent.
+• The cumulative volume air flow sensor output fre-
+output of the front and rear heated oxygen sensor
+quency is higher than 4,000 Hz.
+signals.
+Judgment Criteria
+. DTC SET CONDITIONS • The right bank heated oxygen sensor (rear) sig-
+nal frequency divided by right bank heated oxy-
+Check Conditions
+gen sensor (front) signal frequency = 0.8 or more.
+• Engine speed is lower than 3,000 r/min.
+• The throttle valve is open.
+.
+• Volume air flow sensor output frequency is TROUBLESHOOTING HINTS (The most likely
+causes for this code to be set are: )
+between 69 and 169 Hz.
+• More than 3 seconds have elapsed after the • Right bank side catalytic converter deteriorated.
+• Right bank heated oxygen sensor failed.
+abovementioned three conditions have been met.
+• Intake air temperature is higher than −10°C • ECM failed. <M/T>
+(14°F). • PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the exhaust leaks.
+Q:Are there any abnormalities?
+YES : Go to Step 2.
+NO : Repair it. Then go to Step 7.
+TSB Revision

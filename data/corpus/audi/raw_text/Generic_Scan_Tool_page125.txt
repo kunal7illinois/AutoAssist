@@ -1,0 +1,34 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Test requirements
+• The Engine Component Power Supply Relay -J757- OK.
+• The Fuse -SA5- OK.
+• The fuel filter OK.
+• The parking brake engaged.
+• The battery voltage at least 12.5 V.
+• The selector lever of automatic transmission in position “P” or
+“N”.
+• All electrical consumers switched off.
+• A/C switched off.
+• The fuel tank at least 1/4 filled.
+• The ignition switched off.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8 .
+Start diagnosis
+– Located on the high pressure pump, right side of cylinder
+head.
+– Disconnect the Fuel Metering Valve -N290- electrical harness
+connector -2-.
+Checking internal resistance
+– Using a multimeter , check the Fuel Metering Valve -N290-
+terminals 1 to 2 for resistance
+Specified value: 450 to 1000 Ω.
+If the specified value was not obtained:
+– Replace the Fuel Metering Valve -N290- . Refer to the appro‐
+priate service manual
+If the specified value was obtained:
+Checking voltage
+Crank the engine.
+121
+3. Diagnosis and Testing

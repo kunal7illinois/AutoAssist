@@ -1,0 +1,32 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-479
+SYMPTOM PROCEDURES
+STEP 2. Check at backup light switch connector B-37 in
+order to check the ignition switch (IG1) line of the power
+supply to the backup light switch.
+(1) Disconnect backup light switch connector B-37, and
+CONNECTOR<2.4L ENGINE>: B-37
+measure at the wiring harness side.
+(2) Turn the ignition switch to the "ON" position.
+DEVICE SIDE
+1 2
+AC106467AB
+CONNECTOR<3.0L ENGINE WITH OUT
+VARIABLE INDUCTION SYSTEM>: B-37
+DEVICE SIDE
+1 2
+AC106469AB
+CONNECTOR<3.0L ENGINE WITH
+VARIABLE INDUCTION SYSTEM>: B-37
+DEVICE SIDE
+1 2
+AC106471AB
+(3) Measure the voltage between terminal 1 and ground.
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+CONNECTOR: B-37
+(HARNESS SIDE) Q:Does the measured voltage correspond with this range?
+YES : Go to Step 5.
+2 1
+NO : Go to Step 3.
+AC101073AC
+TSB Revision

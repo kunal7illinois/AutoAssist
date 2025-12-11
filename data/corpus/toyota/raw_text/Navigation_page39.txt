@@ -1,0 +1,19 @@
+NS–39
+NAVIGATION – NAVIGATION SYSTEM
+2. DISPLAY CHECK
+(a) Vehicle Signal Check Mode Screen
+E120073
+Screen Description:
+Name Contents
+Battery Battery voltage is displayed.
+PKB Parking brake ON/OFF state is displayed.
+REV Reverse signal ON/OFF state is displayed.
+IG IG switch ON/OFF state is displayed.
+TAIL TAIL signal (Light control switch) ON/OFF state is displayed.
+SPEED Vehicle speed is displayed in km/h.
+HINT:
+• Only items sending a vehicle signal will be
+displayed.
+• This screen is updated once per second when
+input signals to the vehicle are changed.
+NS

@@ -1,0 +1,38 @@
+13A-162 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, check data list item 59:
+Heated Oxygen Sensor (rear).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+59, Heated Oxygen Sensor (rear).
+16 PIN • Warming up the engine. When the engine is revved, the
+output voltage should repeat 0 volt and 0.6 to 1.0 volt
+MB991502
+alternately.
+AKX01177AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+STEP 2. Check the sensor output voltage at heated oxygen
+sensor (rear) connector C-11 by backprobing.
+(1) Do not disconnect the connector C-23.
+(2) Start the engine and run at idle.
+(3) Measure the voltage between terminal 3 and ground by
+backprobing.
+C-23 CONNECTOR • Warming up the engine. When the engine is revved, the
+HARNESS SIDE VIEW output voltage should repeat 0 volt and 0.6 to 1.0 volt
+1 2 alternately.
+3 4 5 6 (4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 3.
+NO : Go to Step 7.
+AK000291AD
+TSB Revision

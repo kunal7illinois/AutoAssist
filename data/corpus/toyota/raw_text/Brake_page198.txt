@@ -1,0 +1,20 @@
+BC–192
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC C1203/53 ECM Communication Circuit Malfunction
+DESCRIPTION
+The circuit is used to send TRAC and VSC control information from the skid control ECU to the ECM, and
+engine control information from the ECM to the skid control ECU.
+DTC No. DTC Detection Condition Trouble Area
+Engine, drive source and destination variations that are sent
+C1203/53 ECM
+from the ECM do not match the ones of the skid control ECU.
+INSPECTION PROCEDURE
+1 CHECK PART NUMBER (ECM AND BRAKE ACTUATOR ASSEMBLY)
+(a) Check that the proper ECM and brake actuator assembly
+(skid control ECU) are installed.
+OK:
+BC
+Proper ECUs are installed.
+NG REPLACE ECUS WITH PROPER ONES
+OK
+REPLACE ECM

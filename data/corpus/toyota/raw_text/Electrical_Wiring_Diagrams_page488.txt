@@ -1,0 +1,194 @@
+488
+CAMRY
+(EM0250U)
+M
+OVERALL
+ELECTRICAL
+WIRING
+DIAGRAM B
++SL –SL +SR –SR BBD+
+A A A A B
+BCL+ BCL–
+B–Y Y B–Y Y
+Spiral Cable
+G
+B C C
+SFP+ SFP– ICP–
+–SL
+A13
+Y B–Y
+Z1
+B 7
+SFD+ SFD–
+4
+BCR+ BCR–
+A28
+Y
+N21
+DK+ DK–
+1 2 1 2 1 2 1 2 1 2
+A A B B C C 6 7 6 B C C
+DK+ DK– PD+ PD– PP+ PP– ICD+ ICD– ICP+
+D+ D– D2+ D2– P+ P– P2+ P2– BBD– BBP+ BBP–
+A A A A A A A A B C C
+3 4 3
+BBL+ BBL– BBR+ BBR–
+3 AE4 4 AE4 2 AE4 1 AE4
+1 2 1 2 1 2 4 3
+2 1 2 1
++SL +SR –SR 2 1 2 1 BCL+ BCL– BCR+ BCR–
+B–Y
+Y1
+E54
+N8 O8
+E30(A), N1(B), O1(C)
+E16 c1(A), c2(B)
+Y
+B–Y
+B–Y
+Y R–Y
+B–Y
+G–Y
+Y B–Y Y
+G
+R
+R
+W
+W
+B
+B
+G
+R
+R
+G
+G
+R
+R
+G
+SRS
+9
+7N 7O
+O16
+9 10 2 1 4 5 9 10 10
+5 6 8 7 4 3 1 2 30 28 29 27 8 15 8 11
+21N 9O
+15 CAMRY (Cont. next page)
+1 2 3 4
+∗ 1 : 2GR–FE ∗ 2 : 2AZ–FE
+L+ L– R+ R– ICL+ ICL– ICR+ ICR–
+D+ D– D2+ D2–
+P+ P– P2–
+B–Y Y R–Y G–Y
+GR
+5 3Q 17 A
+18 B
+10 3D
+BR(∗1) 4 CA3
+BR 15 GR(∗2) EA1
+4 CA3
+3
+C6 C7
+B–W
+B–W
+7 3Q
+2 3U
+F1
+BS
+(IG)
+V
+2 EA1
+V
+IG2
+DRIVE IC
+ES CANH
+12 A
+(∗1) RB
+B–W )2∗(
+)B(24A
+,)A(14A RG
+B–W
+)1∗(
+)1∗(
+75C
+B2 B
+MICRO COMPUTER
+E2 CANL
+Multiplex Communication System (CAN)<2–3><2–4>
+SRS
+1
+24 A 17 A 18 A
+V
+(BAT)
+10A MPX–B
+1A
+1 3D
+12 3Q
+2 A
+IG+
+GL
+R
+R
+(BAT)
+10A DOME
+2
+1
+13 ID 12 3L
+7 IF 1 3Q
+A 13
+Power Supply
+Circuit
+RG
+RG
+7. 5A GAUGE NO. 2
+12 IG
+2 3G
+9 3Q
+A
+)A(1F
+Airbag Sensor Airbag Sensor
+(Front LH) (Front RH)
+noitcnuJ rotcennoC
+noitcnuJ
+rotcennoC
+Airbag Squib
+(Knee Airbag)
+Airbag Sensor Assembly Center
+Airbag Squib Airbag Squib
+(Steering Wheel Pad) (Front Passenger's
+Airbag Assembly)
+reteM
+noitanibmoC
+gabriA
+ediS
+)HL raeR(
+rosneS
+Side Airbag Squib (LH)
+Curtain Shield
+Airbag Squib (LH)
+gabriA
+ediS
+)HL
+tnorF(
+rosneS
+Side Airbag Squib (RH)
+Curtain Shield
+Pretensioner (LH) Airbag Squib (RH)
+gabriA
+ediS
+)HR
+tnorF(
+rosneS
+Pretensioner (RH)
+Y B–Y Y B–Y
+gabriA
+ediS
+)HR raeR(
+rosneS
+1 2 1 2
+1 Ec1 2 Ec1 3 Ec1 4 Ec1
+1 B 2 B 1 A 2 A
+RG–Y P–Y R–Y G–Y
+3
+1 NZ2 2 NZ2 1 OY2 2 OY2
+CAN I/F
+P2+

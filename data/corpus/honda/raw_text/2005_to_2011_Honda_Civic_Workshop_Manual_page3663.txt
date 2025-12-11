@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Navigation System - Civic (Except Hybrid)
+Fig. 53: Diagnostic Menu Screen Display - Radio
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Navi ECU
+This screen looks for problems with the navigation unit. When you initiate this
+diagnostic, the navigation unit may delay up to a minute while the diagnostic runs.
+If V-RAM or D-RAM is NG, then replace the navigation unit.
+(cid:1)
+If GPS indicates NG (ANT), then check the entire GPS antenna wire from the
+(cid:1)
+navigation unit to the antenna. If the wire is crushed or damaged, try a known-
+good antenna. If this diagnostic reads OK, then order a new GPS antenna. If
+the diagnostic still reads NG (ANT), then replace the navigation unit.
+DVD ROM represents the database version on the DVD. You can also find this
+(cid:1)
+information in setup by selecting System Information.
+Serial No. should be the same as the serial number found on the underside of
+(cid:1)
+the navigation unit. You need this number to obtain the security code from the
+Interactive Network system.
+Mem Clear is for factory use, and should never be used unless instructed by the
+(cid:1)
+factory. Accidental selection will erase the customer's personal data, PINS, and
+settings. If selected, a popup box appears asking if you want to clear the
+memory. If so, select Yes.

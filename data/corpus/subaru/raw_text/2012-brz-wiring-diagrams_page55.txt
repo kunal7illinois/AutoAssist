@@ -1,0 +1,56 @@
+1 1
+1C 1B
+25A D FR DOOR
+1 2
+25A ABS NO. 2
+1 2
+25A D FL DOOR
+1 2
+25A D–OP 30A RR DEF
+1 2 1 2
+25A CDS
+1 2
+40A ABS NO. 1
+1 2
+34 AD2
+9 C 4 B 6 B
+28 B 30 B
+V
+24 B
+)2∗( BS )2∗( W )2∗(
+D41(B), D48(C)
+Certification
+ECU Assembly
+5 1 6
+P )2∗( EB )2∗( B )2∗(
+W B–R
+W–G(∗3)
+SB(∗3)
+W(∗3)
+50A HEATER
+1 2 R
+1
+(∗1)
+∗ 1 : Manual A/C
+∗ 2 : w/ Smart Entry & Start System
+∗ 3 : w/o Smart Entry & Start System
+W–G
+G–O (∗3)
+(∗2)
+SB
+(∗3)
+SB
+(∗2)
+IG2D ACCD IG1D
+SSW1 SSW2 AGND W
+(∗3)
+W
+(∗2)
+D25
+SSW1 SSW2 AGND Engine Switch
+SS1 SS2 GND
+Free
+Full
+Traveling
+55
+BRZ (G4400BE)

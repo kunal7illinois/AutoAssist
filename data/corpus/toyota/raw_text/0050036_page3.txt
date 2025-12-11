@@ -1,0 +1,31 @@
+ES–207
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+EVAP Pressure when Reference Orifice Clogged:
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed
+ON
+Vent Valve
+OFF: Vent
+Leak Detection
+ON
+Pump
+EVAP Pressure
+Positive ES
+Negative
+OK
+First Reference
+Pressure Malfunction
+Sequence A B C D E
+10 seconds 60 Within 15 minutes 10 60
+Time
+seconds seconds seconds
+A106056E04
+(b) P043F: Reference orifice high-flow
+In operation B, the leak detection pump creates negative pressure (vacuum) through the reference orifice.
+The EVAP system pressure is then measured by the ECM using the canister pressure sensor to
+determine the reference pressure. If the pressure is higher than -1.057 kPa-g (-7.93 mmHg-g), the ECM
+interprets this as a high-flow malfunction in the reference orifice, and stops the EVAP system monitor. The
+ECM then illuminates the MIL and sets the DTC (2 trip detection logic).

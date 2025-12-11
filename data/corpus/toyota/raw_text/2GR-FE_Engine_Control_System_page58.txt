@@ -1,0 +1,73 @@
+ES–58
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DATA LIST / ACTIVE TEST
+1. DATA LIST
+HINT:
+By reading the DATA LIST displayed on an intelligent
+tester, you can check values, including those of the
+switches, sensors, and actuators, without removing any
+parts. Reading the DATA LIST as the first step in
+troubleshooting is one method of shortening diagnostic
+time.
+NOTICE:
+In the table below, the values listed under Normal
+Condition are reference only. Do not depend solely
+on these values when determining whether or not a
+part is faulty.
+ES
+(a) Warm up the engine.
+(b) Turn the ignition switch off.
+(c) Connect the intelligent tester to the DLC3.
+(d) Turn the ignition switch on (IG).
+(e) Turn the tester on.
+(f) Enter the following menus: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST.
+(g) Check the values by referring to the table below.
+Measurement Item: Range
+Intelligent Tester Display Normal Condition*1 Diagnostic Note
+(Display)
+Injection period of No. 1 cylinder:
+INJECTOR 1.2 to 2.4 ms: Idling -
+Min.: 0 ms, Max.: 32.64 ms
+Ignition timing advance for No. 1
+IGN ADVANCE cylinder: BTDC 7 to 24 deg: Idling -
+Min.: -64 deg, Max.: 63.5 deg
+• 10 to 20%: Idling
+Load calculated by ECM:
+CALC LOAD • 10 to 20%: Running without Load value
+Min.: 0%, Max.: 100%
+load at 2,500 rpm
+Vehicle load: Load percentage in terms of
+VEHICLE LOAD Actual vehicle load
+Min.: 0%, Max.: 25,700% maximum intake air flow amount
+If value is approximately 0.0 g/
+sec.:
+2 to 5 g/sec.: Idling • Mass air flow meter power
+Air flow rate from MAF meter:
+MAF 8 to 19 g/sec.: Running without source circuit open
+Min.: 0 g/sec., Max.: 655.35 g/sec.
+load at 2,500 rpm • VG circuit open or shorted
+If value is 160.0 g/sec. or more:
+• E2G circuit open
+Engine speed:
+ENGINE SPD 600 to 700 rpm: Idling -
+Min.: 0 rpm, Max.: 16,383.75 rpm
+Vehicle speed:
+VEHICLE SPD Actual vehicle speed Speed indicated on speedometer
+Min.: 0 km/h, Max.: 255 km/h
+• If value is -40°C (-40°F):
+Engine coolant temperature: 80 to 100°C (176 to 212°F): sensor circuit open
+COOLANT TEMP
+Min.: -40°C, Max.: 140°C After warming up • If value is 140°C (284°F) or
+more: sensor circuit shorted
+• If value is -40°C (-40°F):
+Intake air temperature: Equivalent to ambient air sensor circuit open
+INTAKE AIR
+Min.: -40°C, Max.: 140°C temperature • If value is 140°C (284°F) or
+more: sensor circuit shorted
+Ratio compared to stoichiometric
+AIR-FUEL RATIO level: 0.8 to 1.2: Idling -
+Min.: 0, Max.: 1.999
+Learning value of purge density:
+PURGE DENSITY -40 to 0: Idling Service data
+Min.: -50, Max.: 350

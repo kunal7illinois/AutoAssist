@@ -1,0 +1,58 @@
+ES–126
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+HINT:
+TP#1 denotes THROTTLE POS #1, and TP#2 denotes
+THROTTLE POS #2.
+B Go to step 5
+A
+2 CHECK HARNESS AND CONNECTOR (THROTTLE POSITION SENSOR - ECM)
+(a) Disconnect the B3 throttle body connector.
+Wire Harness Side:
+(b) Disconnect the B30 ECM connector.
+(c) Measure the resistance.
+ES
+Standard resistance (Check for open)
+B3 Throttle Body Connector
+Tester Connections Specified Conditions
+VTA2
+E2 B3-5 (VC) - B30-67 (VCTA) Below 1 Ω
+VTA
+B3-6 (VTA) - B30-115 (VTA1) Below 1 Ω
+1 2 3 4 5 6
+B3-4 (VTA2) - B30-114 (VTA2) Below 1 Ω
+VC
+Front View B3-3 (E2) - B30-91 (ETA) Below 1 Ω
+Standard resistance (Check for short)
+VCTA B30 ECM Connector
+ETA Tester Connections Specified Conditions
+B3-5 (VC) or B30-67 (VCTA) - Body
+10 kΩ or higher
+ground
+B3-6 (VTA) or B30-115 (VTA1) - Body
+10 kΩ or higher
+ground
+B3-4 (VTA2) or B30-114 (VTA2) - Body
+10 kΩ or higher
+ground
+(d) Reconnect the throttle body connector.
+VTA2 VTA1 Front View
+(e) Reconnect the ECM connector.
+A107944E04
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+3 INSPECT ECM (VC VOLTAGE)
+(a) Disconnect the B3 throttle body connector.
+Wire Harness Side:
+(b) Turn the ignition switch ON.
+(c) Measure the voltage between the terminals of the throttle
+B3 Throttle Body Connector body connector.
+Standard voltage
+E2 VC
+Tester Connections Specified Conditions
+1 2 3 4 5 6
+B3-5 (VC) - B3-3 (E2) 4.5 to 5.5 V
+Front View (d) Reconnect the throttle body connector.
+A107895E04
+NG REPLACE ECM
+OK

@@ -1,0 +1,23 @@
+TRACTION CONTROL SYSTEM (TCL) 35C-27
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+STEP 8. Check the continuity between the ignition switch
+(IG1) and the combination meter.
+Check the continuity between the ignition switch (IG1) and the
+CONNECTOR: C-41
+combination meter connector C-41 (terminal 52).
+COMBINATION METER
+HARNESS SIDE Q:Is there any continuity (less than 2 ohm) between the
+ignition switch (IG1) and the combination meter
+connector C-41 (terminal 52)?
+YES : Replace the hydraulic unit (integrated with ABS-ECU)
+(Refer to GROUP 35B, Hydraulic Unit P.35B-52.) and
+then go to Step 9.
+NO : Repair the harness wire and then go to Step 9.
+AC004482AC
+STEP 9. Check symptom.
+Q:Does the TCL warning light illuminate for 3 seconds
+when the ignition switch is turned to the "ON" position
+with engine stopped or upon startup?
+YES : This diagnosis is complete.
+NO : Return to Step 1.
+TSB Revision

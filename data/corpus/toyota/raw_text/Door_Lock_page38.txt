@@ -1,0 +1,21 @@
+DL–38
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Front Passenger Side Door Lock Motor Circuit
+DESCRIPTION
+The front passenger door lock motor is built into the front passenger door lock assembly.
+The main body ECU controls the front passenger door lock motor to lock/unlock the front passenger door.
+This ECU applies current from terminal ACT+ to terminal ACT- to operate the motor to lock the door. It
+reverses the direction of the current flow to operate the motor to unlock the door.
+WIRING DIAGRAM
+Main Body ECU
+H8
+Front Door Lock Assembly RH
+Instrument Panel J/B
+3
+L 4 1
+IJ ACT+
+2
+UL 1 3
+IJ ACT-
+B109771E16
+DL

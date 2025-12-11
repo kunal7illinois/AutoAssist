@@ -1,0 +1,27 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-529
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check connector C-58 at ECM <M/T> or connector
+C-55 at PCM <A/T> for damage.
+Q:Is the harness connector in good condition?
+CONNECTOR : C-58<M/T>, C-55<A/T>
+YES : Replace the ECM or PCM. Then go to Step 6.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 6.
+C-55 C-58
+AK000225AI
+STEP 6. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC P1603 is output?
+MB991502 YES : Retry the troubleshooting.
+AKX01177AB NO : The inspection is complete.
+TSB Revision

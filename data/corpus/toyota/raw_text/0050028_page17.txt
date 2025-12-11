@@ -1,0 +1,50 @@
+ES–152
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+17 CHECK HARNESS AND CONNECTOR (HEATED OXYGEN SENSOR - ECM)
+(a) Disconnect the B19 HO2 sensor connector.
+Wire Harness Side:
+HO2 Sensor (b) Turn the ignition switch ON.
+Connector (c) Measure the voltage between the +B terminal of the HO2
+sensor connector and body ground.
+HT1B +B
+Standard voltage
+B19 Tester Connections Specified Conditions
+B19-2 (+B) - Body ground 9 to 14 V
+OX1B E2
+(d) Turn the ignition switch OFF.
+Front View
+ES (e) Disconnect the B30 ECM connector.
+(f) Measure the resistance.
+Standard resistance (Check for open)
+B30 ECM Connector
+HT1B Tester Connections Specified Conditions
+B19-1 (HT1B) - B30-47 (HT1B) Below 1 Ω
+B19-3 (OX1B) - B30-64 (OX1B) Below 1 Ω
+B19-4 (E2) - B30-87 (EX1B) Below 1 Ω
+Standard resistance (Check for short)
+Tester Connections Specified Conditions
+Front View
+EX1B OX1B B19-1 (HT1B) or B30-47 (HT1B) -
+10 kΩ or higher
+A104950E06 Body ground
+B19-3 (OX1B) or B30-64 (OX1B) -
+10 kΩ or higher
+Body ground
+B19-4 (E2) or B30-87 (EX1B) - Body
+10 kΩ or higher
+ground
+(g) Reconnect the HO2 sensor connector.
+(h) Reconnect the ECM connector.
+Reference (System Diagram of Sensor 2):
+HO2 Sensor ECM
+EFI MAIN
+EFI MAIN Heater
+from +B HT1B HT1B
+Battery
+EFI NO. 1
+Sensor
+E2 OX1B OX1B
+EX1B
+MREL
+Ground
+A133556E01

@@ -1,0 +1,67 @@
+ES–79
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Suspected Trouble MIL Memory See page
+Area
+P0340 Camshaft Position 1. Open or short in Comes on DTC stored ES-228
+Sensor Circuit VVT sensor for intake
+Malfunction camshaft circuit
+2. VVT sensor for
+intake camshaft
+3. Camshaft timing
+gear for intake
+camshaft
+4. Jumped tooth of
+timing chain for
+intake camshaft
+5. ECM
+P0342 Camshaft Position Same as DTC P0340 Comes on DTC stored ES-228
+Sensor "A" Circuit
+Low Input (Bank 1 or
+Single Sensor)
+ES
+P0343 Camshaft Position Same as DTC P0340 Comes on DTC stored ES-228
+Sensor "A" Circuit
+High Input (Bank 1 or
+Single Sensor)
+P0345 Camshaft Position Same as DTC P0340 Comes on DTC stored ES-228
+Sensor "A" Circuit
+(Bank 2)
+P0347 Camshaft Position Same as DTC P0340 Comes on DTC stored ES-228
+Sensor "A" Circuit
+Low Input (Bank 2)
+P0348 Camshaft Position Same as DTC P0340 Comes on DTC stored ES-228
+Sensor "A" Circuit
+High Input (Bank 2)
+P0351 Ignition Coil "A" 1. Ignition system Comes on DTC stored ES-234
+Primary / Secondary 2. Open or short in
+Circuit IGF1 or IGT circuit (1
+to 6) between ignition
+coil and ECM
+3. No. 1 to No. 6
+ignition coils
+4. ECM
+P0352 Ignition Coil "B" Same as DTC P0351 Comes on DTC stored ES-234
+Primary / Secondary
+Circuit
+P0353 Ignition Coil "C" Same as DTC P0351 Comes on DTC stored ES-234
+Primary / Secondary
+Circuit
+P0354 Ignition Coil "D" Same as DTC P0351 Comes on DTC stored ES-234
+Primary / Secondary
+Circuit
+P0355 Ignition Coil "E" Same as DTC P0351 Comes on DTC stored ES-234
+Primary / Secondary
+Circuit
+P0356 Ignition Coil "F" Same as DTC P0351 Comes on DTC stored ES-234
+Primary / Secondary
+Circuit
+P0365 Camshaft Position 1. Open or short in Comes on DTC stored ES-243
+Sensor "B" Circuit VVT sensor for
+(Bank 1) exhaust camshaft
+circuit
+2. VVT sensor for
+exhaust camshaft
+3. Exhaust camshaft
+4. Jumped tooth of
+timing chain
+5. ECM

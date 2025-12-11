@@ -1,0 +1,49 @@
+17-68 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+STEP 1. Check the vehicle speed sensor.
+(1) Remove the vehicle speed sensor and connect a 3 − 10 kΩ
+resistor as shown in the illustration.
+(2) Turn the shaft of the vehicle speed sensor and check that
+TURN there is voltage between terminals 2 − 3. (one turn = four
+pulses.)
+SHAFT
+Q:Is the voltage within specifications?
+YES : Go to Step 2.
+NO : Replace the vehicle speed sensor.
+Refer to GROUP 54A, Combination Meter Assembly
+and Vehicle Speed Sensor P.54A-105.
+Then check that the malfunction is eliminated.
+RESISTOR
+3 – 10 kΩ
+AC004598AB
+STEP 2. Check the auto-cruise vacuum pump.
+(1) Disconnect the vacuum hose from the auto-cruise vacuum
+pump and connect a vacuum gauge to the vacuum pump.
+(2) Disconnect the vacuum pump connector.
+(3) Check the auto-cruise vacuum pump and valves according
+VACUUM to the following procedure:
+GAUGE • Connect the positive battery terminal to auto-cruise vac-
+uum pump connector terminal 1, and the negative bat-
+tery terminal to terminals 2, 3, and 4.
+Then the vacuum gauge should read 27 kPa (8.0 in Hg)
+or more.
+• The vacuum should be maintained when terminal 4 is
+disconnected from the negative battery terminal while
+terminals 1, 2, and 3 remain connected.
+Then the vacuum gauge should read 0 kPa (0 in Hg)
+when terminal 2 is disconnected from the negative bat-
+tery terminal while terminals 1, and 3 remain connected.
+• The vacuum should be maintained when terminal 4 is
+disconnected from the negative battery terminal while
+terminals 1, 2, and 3 remain connected.
+CONTROL RELEASE
+VALVE VALVE Then the vacuum gauge should read 0 kPa (0 in Hg)
+when terminal 3 is disconnected from the negative bat-
+tery terminal while terminals 1, and 2 remain connected.
+Q:Are all of the above values satisfied?
+ACX01181AB
+YES : Go to Step 3.
+NO : Replace the auto-cruise vacuum pump. (Refer to
+P.17-86.)
+Then that the malfunction is eliminated.
+TSB Revision

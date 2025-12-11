@@ -1,0 +1,38 @@
+ES–247
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK Go to step 12
+NG
+3 PERFORM ACTIVE TEST USING INTELLIGENT TESTER (OPERATE OCV)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the tester ON.
+(c) Warm up the engine.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST / VVT CTRL B1.
+(e) Check the engine speed while operating the Oil Control
+ES
+Valve (OCV) using the tester.
+OK
+Tester Operations Specified Conditions
+OCV OFF Normal engine speed
+OCV ON Engine idles roughly or stalls (soon after OCV switched from OFF
+to ON)
+NG Go to step 8
+OK
+4 CHECK PCV HOSE CONNECTIONS
+OK:
+PCV hose is connected correctly and is not damaged.
+NG Go to step 9
+OK
+5 CHECK AIR INDUCTION SYSTEM
+(a) Check the air induction system for vacuum leakage.
+OK:
+No leakage from air induction system.
+NG Go to step 10
+OK
+6 CHECK AIR CLEANER FILTER ELEMENT SUB-ASSEMBLY
+(a) Visually check that the air cleaner filter element is not
+excessively contaminated with dirt or oil.
+OK:
+Air cleaner filter element is not excessively
+contaminated with dirt or oil.
+NG Go to step 11

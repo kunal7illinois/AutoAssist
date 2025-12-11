@@ -1,0 +1,27 @@
+Display of cruise control system speed setting
+When the cruise control system is active, the current speed setting is indicated on the centre display of the
+dash panel insert in the Audi TT Coupé ´07. If one of the two onboard computer levels is shown on the centre
+display, the set speed is indicated continuously. The speed is normally displayed in the position where the
+ambient temperature is indicated.
+If the digital speedometer is shown on the centre display or if it is currently being used by the navigation
+system, the set speed is displayed after activating the cruise control system for 3 seconds, after which the
+display returns automatically to the original screen.
+After "terminal 15 on", the function shown on the dash panel insert centre display before "terminal 15 off" is
+restored. In the example below, the digital speedometer is displayed.
+DISPLAY TYPE
+SET
+QUERY
+>MENU OFF
+On-board computer On-board computer
+Level 1 Level 2
+HELP
+START SCREEN Navigation display
+382_020
+Description of the various options
+1 Press Reset key on onboard computer
+2 Press Reset key on onboard computer when cruise control system is inactive
+3 Press Reset key on onboard computer when cruise control system is active
+4 Set a speed when the cruise control system is active
+5 Cancel set speed when the cruise control system is active
+6 automatically after 3 seconds
+15

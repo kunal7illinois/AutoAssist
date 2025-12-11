@@ -1,0 +1,52 @@
+54B-164 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 1. Check trouble symptom.
+Q:Can the encrypted code register mode be set?
+YES : Go to Step 3.
+NO : Go to Step 2.
+STEP 2. Check the input signal (by using the Pulse check).
+Check the input signals from the following switches:
+• Key reminder switch
+• Hazard warning light switch
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Operate the MUT-II as follows:
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+(3) Check the scan tool MB991502 sounds or not.
+(4) If the switches (see table below), which are applicable for
+16 PIN the input signal check, are operated.
+ITEM NAME CHECK CONDITIONS
+MB991502
+AC001252AD
+Key reminder switch Remove and reinsert the ignition key
+Hazard warning Turn the hazard warning light switch
+light switch from the "OFF" to "ON" position.
+Q:When the key reminder switch and the hazard warning
+light switch are operated, does scan tool MB991502
+sound in each case?
+YES : Replace the ETACS-ECU. Check that the encrypted
+code can be registered in the transmitter.
+NO : • Scan tool MB991502 does not sound when the
+ignition key is removed and reinserted: Refer to
+Inspection Procedure O-1 "ETACS-ECU does not
+receive a signal from the key reminder switch
+P.54B-524."
+• Scan tool MB991502 does not sound when the
+hazard warning light switch is turned from "OFF"
+to "ON": Refer to Inspection Procedure O-2
+"ETACS-ECU does not receive a signal from the
+hazard warning light switch P.54B-528."
+STEP 3. Check the transmitter.
+Q:When the transmitter’s battery is replaced, can the
+encrypted code be registered?
+YES : No action to be taken.
+NO : Replace the transmitter. If the encrypted code can not
+be registered by means of the new transmitter,
+replace the ETACS-ECU. Check that the encrypted
+code can be registered in the transmitter.
+TSB Revision

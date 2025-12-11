@@ -1,0 +1,40 @@
+LI–64
+LIGHTING – LIGHTING SYSTEM
+Parking Brake Switch Circuit
+DESCRIPTION
+The main body ECU receives a parking brake switch signal to control the daytime running light system.
+WIRING DIAGRAM
+Main Body ECU
+Instrument Panel J/B
+2
+(*1)
+IM PKB
+19
+14
+(*2)
+IC
+1 1
+E33 A18
+Parking Brake Switch Parking Brake Switch
+*1: with Lever Type
+*2: with Pedal Type
+E121499E02
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch and turn the intelligent tester
+LI main switch on.
+(c) Select the item below in the DATA LIST, and read the
+display on the intelligent tester.
+MAIN BODY (MAIN BODY ECU):
+Measurement Item/
+Item Normal Condition Diagnostic Note
+Display (Range)
+Parking brake SW signal / ON or ON: Parking brake switch is ON
+PARKING BRAKE SW -
+OFF OFF: Parking brake switch is OFF
+OK:
+Normal conditions listed above are displayed.
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+NG

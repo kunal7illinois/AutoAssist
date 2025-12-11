@@ -1,0 +1,55 @@
+ES–47
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(h) WAVEFORM 8
+(1) Vehicle speed signal
+2 V/DIV
+ECM Terminal Names Between SPD and E1
+Tester Ranges 2 V/DIV, 20 ms./DIV
+Conditions Driving at 12 mph (20 km/h)
+Ground
+HINT:
+• The wavelength becomes shorter as the
+vehicle speed increases.
+20 ms./DIV
+• Depending on the vehicle, the output
+A093224E20
+waveform voltage may rise to 12 V if
+influenced by optionally installed systems.
+(i) WAVEFORM 9
+(1) Throttle drive motor operation signal (positive
+5 V/DIV
+terminal) ES
+ECM Terminal Names Between M+ and ME01
+Tester Ranges 5 V/DIV, 1 ms./DIV
+Conditions Idling with warm engine
+Ground
+HINT:
+The duty ratio varies depending on the throttle
+1 ms./DIV
+actuator operation.
+A093274E21
+(j) WAVEFORM 10
+(1) Throttle drive motor operation signal (negative
+5 V/DIV
+terminal)
+ECM Terminal Names Between M- and ME01
+Tester Ranges 5 V/DIV, 1 ms./DIV
+Conditions Idling with warm engine
+Ground
+HINT:
+The duty ratio varies depending on the throttle
+1 ms./DIV
+actuator operation.
+A093275E21
+(k) WAVEFORM 11
+(1) Engine speed signal
+5 V/DIV
+ECM Terminal Names Between TACH and E1
+Tester Ranges 5 V/DIV, 10 ms./DIV
+Conditions Idling
+Ground
+HINT:
+The wavelength becomes shorter as the engine
+rpm increases.
+10 ms./DIV
+A093225E18

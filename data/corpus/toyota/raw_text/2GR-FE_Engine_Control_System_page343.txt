@@ -1,0 +1,57 @@
+ES–343
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Accelerator Pedal Position Sensor Output Voltage (V)
+*1 *2
+Accelerator Pedal Position Sensor
+5
+Magnet ECM 3.4 to 5.0
+VPA
+2.6 to 4.5
+IC No. 1
+EPA
+VCPA 1.6 ES
+VPA2 0.8
+EPA2 25
+0 Usable Range
+VCP2
+IC No. 2
+Accelerator Pedal Turning Angle (deg)
+Magnet
+*1: Accelerator Pedal Fully Released
+*2: Accelerator Pedal Fully Depressed
+A019803E27
+DTC No. DTC Detection Condition Trouble Area
+VPA fluctuates rapidly beyond upper and lower
+• Accelerator Pedal Position (APP) sensor
+P2120 malfunction thresholds for 0.5 seconds or more (1 trip
+• ECM
+detection logic)
+• APP sensor
+VPA is 0.4 V or less for 0.5 seconds or more when • Open in VCP1 circuit
+P2122
+accelerator pedal is fully released (1 trip detection logic) • Open or ground short in VPA circuit
+• ECM
+• APP sensor
+VPA is 4.8 V or more for 2.0 seconds or more
+P2123 • Open in EPA circuit
+(1 trip detection logic)
+• ECM
+VPA2 fluctuates rapidly beyond upper and lower
+• APP sensor
+P2125 malfunction thresholds for 0.5 seconds or more (1 trip
+• ECM
+detection logic)
+• APP sensor
+VPA2 is 1.2 V or less for 0.5 seconds or more when
+• Open in VCP2 circuit
+P2127 accelerator pedal is fully released (1 trip detection
+• Open or ground short in VPA2 circuit
+logic)
+• ECM
+Conditions (a) and (b) continue for 2.0 seconds or more
+• APP sensor
+(1 trip detection logic):
+P2128 • Open in EPA2 circuit
+(a) VPA2 is 4.8 V or more
+• ECM
+(b) VPA is between 0.4 V and 3.45 V

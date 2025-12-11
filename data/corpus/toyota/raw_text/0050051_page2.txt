@@ -1,0 +1,27 @@
+ES–280
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR STRATEGY
+Related DTCs P2118: Throttle actuator power supply
+Required Sensors/Components (Main) Throttle actuator, throttle valve, ETCS fuse
+Required Sensors/Components (Related) None
+Frequency of Operation Continuous
+Duration 0.8 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+ES
+Monitor runs whenever following DTCs not present None
+Battery voltage 8 V or more
+Electronic throttle actuator power ON
+TYPICAL MALFUNCTION THRESHOLDS
+Throttle actuator power supply voltage (+BM) Less than 4 V
+COMPONENT OPERATING RANGE
+Throttle actuator power supply voltage (+BM) 9 to 14 V
+FAIL-SAFE
+When this DTC, or other DTCs relating to ETCS (Electronic Throttle Control System) malfunctions, are
+set, the ECM enters fail-safe mode. During fail-safe mode, the ECM cuts the current to the throttle
+actuator off, and the throttle valve is returned to a 6° throttle angle by the return spring. The ECM then
+adjusts the engine output by controlling the fuel injection (intermittent fuel-cut) and ignition timing, in
+accordance with the accelerator pedal opening angle, to allow the vehicle to continue at a minimal speed.
+If the accelerator pedal is depressed firmly and gently, the vehicle can be driven slowly.
+Fail-safe mode continues until a pass condition is detected, and the ignition switch is then turned OFF.

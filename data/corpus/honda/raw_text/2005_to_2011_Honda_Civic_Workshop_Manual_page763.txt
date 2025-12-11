@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Does the ATF temperature read about the same as ECT SENSOR?
+YES -Go to step 12.
+NO -Replace the ATF temperature sensor (see ATF TEMPERATURE
+SENSOR TEST/REPLACEMENT ), then go to step 6.
+6. Clear the DTC with the HDS.
+7. Start the engine, and warm it up to normal operating temperature (the radiator
+fan comes on).
+8. Allow the engine coolant temperature to cool to the ambient air temperature.
+9. Start the engine, and warm it up to normal operating temperature (the radiator
+fan comes on), and wait for at least 20 seconds, then drive the vehicle at speeds
+over 19 mph (31 km/h) for at least 5 minutes.
+10. Check for DTCs with the HDS.
+Is DTC P0711 indicated?
+YES -Check for poor connections or loose terminals between the ATF
+temperature sensor and the PCM, then go to step 1.
+NO -Go to step 11.
+11. Monitor the OBD STATUS for P0711 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+10, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals between the ATF temperature sensor and the PCM, then go to step 1.
+If the HDS indicates NOT COMPLETED, go to step 7.
+12. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).

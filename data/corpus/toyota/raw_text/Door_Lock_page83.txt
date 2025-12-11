@@ -1,0 +1,36 @@
+DL–80
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/ Smart Key System)
+2. CHECK CERTIFICATION ECU ASSEMBLY
+(a) Disconnect the E58 ECU connector.
+E58
+E125964E04
+(b) Measure the voltage and resistance of the wire
+harness side connector.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
++B (E58-1) - E (E58-17) W - W-B Battery power supply Always 10 to 14 V
+E (E58-17) - Body ground W-B - Body ground Ground Always Below 1 Ω
+IG (E58-18) - E (E58-17) LG - W-B IG power supply Engine switch on (IG) 10 to 14 V
+IG (E58-18) - E (E58-17) LG - W-B IG power supply Engine switch off Below 1 V
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the E58 ECU connector.
+(d) Measure the voltage of the connector.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+BZR (E58-21) - Body Wireless door lock buzzer
+O - Body ground Wireless door lock buzzer 0 V → Pulse generation
+ground OFF → ON
+RC0 (E58-29) - E (E58-17) G - W-B Door control receiver Engine switch off, all doors Below 1 V
+power supply closed and transmitter
+switch not pressed
+RC0 (E58-29) - E (E58-17) G - W-B Door control receiver Engine switch off, all doors 4.6 to 5.4 V
+power supply closed and transmitter
+switch pressed
+RDA (E58-38) - E (E58- Y - W-B Door control receiver Engine switch off, all doors 10 to 14 V
+17) output signal closed and transmitter
+switch not pressed
+RDA (E58-38) - E (E58- Y - W-B Door control receiver Engine switch off, all doors Pulse generation
+17) output signal closed and transmitter
+switch pressed
+If the result is not as specified, the ECU may have a
+malfunction.
+DL

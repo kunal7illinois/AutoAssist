@@ -1,0 +1,42 @@
+ES–116
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Ideal Air-Fuel Mixture
+Output Voltage
+Heater
+Solid electrolyte
+(Zirconia Element)
+Element
+Cover Platinum electrode
+ES
+Air
+Rich - Air Fuel Ratio - Lean
+A A
+Exhaust Gas A-A Section
+A107164E13
+HINT:
+• When any of these DTCs are set, the ECM enters fail-safe mode. The ECM turns off the A/F sensor
+heater in fail-safe mode. Fail-safe mode continues until the engine switch is turned off.
+• The ECM provides a pulse width modulated control circuit to adjust the current through the heater. The
+A/F sensor heater circuit uses a relay on the B+ side of the circuit.
+Reference (System Diagram of Bank 1 Sensor 1):
+A/F Relay A/F Sensor ECM
+Heater
+From A/F +B HA1A HA1A
+Battery
+Sensor
+A1A- A1A+ A1A+
+Duty
+Control
+From
+A1A-
+EFI
+Relay
+A133850E04
+DTC No. DTC Detection Condition Trouble Area
+• Open in A/F sensor heater (bank 1, 2, sensor 1)
+circuit
+P0031 Air-Fuel Ratio (A/F) sensor heater (bank 1, 2, sensor 1)
+• A/F sensor heater (bank 1, 2, sensor 1)
+P0051 current is less than 0.8 A (1 trip detection logic)
+• A/F HTR relay
+• ECM

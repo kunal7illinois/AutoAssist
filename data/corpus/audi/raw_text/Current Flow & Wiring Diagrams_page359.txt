@@ -1,0 +1,48 @@
+Audi TT No. 43 / 18
+Current Flow Diagram
+Engine control unit, fuel pump control unit, radiator fan
+control unit, radiator fan
+J293 Radiator fan control unit
+J538 Fuel pump control unit
+J623 Engine control unit
+SF6 Fuse 6 on fuse holder F
+SF8 Fuse 8 on fuse holder F
+T4c 4-pin connector, black, on radiator fan control unit
+T10k 10-pin connector, black, on fuel pump control unit
+T94 94-pin connector, on engine control unit
+V7 Radiator fan
+V177 Radiator fan 2
+672 Earth point 2, on front of left longitudinal member
+55
+6,0
+ro
+J623
+6 8
+SF6 SF8
+15A 20A
+T94/50 T94/30 6a 8a
+0,5 0,5
+ge/li ge/bl
+4466 2200 3311
+1,0 6,0 1,0 1,5
+ws/ro ro/gn sw/bl ro/bl
+15 30
+T4c/3 T4c/2 T4c/1 T10k/2 T10k/3 T10k/1
+M M
+V7
+J293
+T4c/4
+250W 300W V177 J538
+ws = white
+31 sw = black
+ro = red
+6,0 br = brown
+br gn = green
+bl = blue
+gr = grey
+672 li = purple
+ge = yellow
+225 226 227 228 229 230 231 232 233 234 235 236 237 238 or = orange
+8J0-043180808
+rs = pink
+Edition 04.2009

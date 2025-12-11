@@ -1,0 +1,35 @@
+13B-506 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check connector B-45 at generator connector for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR:B-45
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 10.
+AK000735AB
+STEP 3. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC P0622 is output?
+MB991502 YES : Replace the ECM or PCM. Then go to Step 10.
+AKX01177AB NO : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+STEP 4. Check connector B-45 at generator intermediate
+connector for damage.
+Q:Is the connector in good condition?
+CONNECTOR:B-45
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 10.
+AK000735AB
+TSB Revision

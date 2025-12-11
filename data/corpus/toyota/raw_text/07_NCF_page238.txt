@@ -1,0 +1,29 @@
+CH-74 CHASSIS - U660E AUTOMATIC TRANSAXLE
+Operation
+(cid:3) The driver selects the S mode position by engaging the shift lever. At this time, the shift range position
+selects the 4th or 5th range according to the vehicle speed. (During AI-Shift control, the shift range that
+has the currently controlled gear position as the maximum usable gear position is displayed.) Then, the
+shift range positions change one at a time, as the driver moves the shift lever to the front (“+” position)
+or to the rear (“-” position).
+(cid:3) Under this control, the ECT ECU effects optimal shift control within the usable gear range that the driver
+has selected. As with an ordinary automatic transmission, it shifts to the 1st gear when the vehicle is
+stopped.
+(cid:3) When the shift lever is in the S mode position, the S mode indicator light in the combination meter
+illuminates. The shift range indicator light indicates the state of the shift range position that the driver
+has selected.
+Transition of Shift
+Range Positions S Mode
+Position
+Shift Pattern
+: Default Shift Range
+030SC29C
+(cid:1) Usable Gear Chart (cid:2)
+Shift Range Indicator
+Shift Range Usable Gear
+Light Indication
+6 6 6th (cid:2) 5th (cid:2) 4th (cid:2) 3rd (cid:2) 2nd (cid:2) 1st
+5 5 5th (cid:2) 4th (cid:2) 3rd (cid:2) 2nd (cid:2) 1st
+4 4 4th (cid:2) 3rd (cid:2) 2nd (cid:2) 1st
+3 3 3rd (cid:2) 2nd (cid:2) 1st
+2 2 2nd (cid:2) 1st
+1 1 1st

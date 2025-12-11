@@ -1,0 +1,63 @@
+DL–69
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/ Smart Key System)
+SYSTEM DESCRIPTION
+1. WIRELESS DOOR LOCK CONTROL SYSTEM
+The wireless door lock control system functions to lock
+and unlock all the doors from a distance. The system is
+controlled by a hand-held transmitter which sends radio
+waves to the door control receiver. The certification ECU
+performs an ID code identification process and engages
+the door lock control.
+2. FUNCTION OF MAIN COMPONENTS
+Component Function
+• Has LOCK, UNLOCK, LUGGAGE OPEN, and PANIC switches.
+Door control transmitter • Transmits weak radio waves (recognition codes and function codes) to the door control
+receiver.
+Receives weak radio waves from the door control transmitter and sends them to the
+Door control receiver
+certification ECU.
+• Front door courtesy light switch
+• Rear door courtesy light switch Turns on when a door is opened and turns off when it is closed. Outputs door status codes
+• Luggage compartment door courtesy light (open or closed) to the main body ECU.
+switch
+Door lock position switch Transmits the door lock positions of each door to the main body ECU.
+Emits beep (answer back) when doors are locked or unlocked, or luggage compartment
+Wireless door lock buzzer
+door is opened by wireless operation.
+Sends wireless door lock control signals in response to the code data from the door control
+Certification ECU
+receiver and signals from each ECU.
+3. SYSTEM FUNCTION
+The door control transmitter has the LOCK, UNLOCK,
+LUGGAGE OPEN, and PANIC switches. Operating
+these switches activates each function.
+The wireless door lock control system has the following
+functions:
+HINT:
+The default settings of the following functions are ON.
+Part of these functions can be customized (See page
+DL-73).
+Function Operation
+All door lock Pressing the LOCK switch locks all doors.
+All door unlock Pressing the UNLOCK switch twice within 3 seconds unlocks all the doors after the driver's
+(2-step unlock) door is unlocked.
+If none of the doors is opened within 60 seconds after they are unlocked by the wireless
+Automatic lock
+door lock control, all the doors will lock again automatically.
+Pressing the LUGGAGE OPEN switch of the transmitter opens the luggage compartment DL
+Luggage compartment door open
+door.
+• When the doors are locked by wireless operation, the hazard warning lights flash once
+and the wireless door lock buzzer sounds once.
+• When the doors are unlocked by wireless operation, the hazard warning lights flash
+Answer back
+twice and the wireless door lock buzzer sounds twice.
+• When the luggage compartment door is opened by wireless operation, the wireless door
+lock buzzer sounds.
+Pressing the PANIC switch of the transmitter for longer than about 0.8 seconds causes the
+following alarms to activate:
+• Sounds the horn and security horn.
+Panic alarm • Flashes the hazard lights, headlights, and taillights.
+• Illuminates the front interior light (when the switch is in the DOOR position).
+While the panic alarm is operating, pressing any switch of the transmitter cancels the alarm
+operation.

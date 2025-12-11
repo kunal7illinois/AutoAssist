@@ -1,0 +1,55 @@
+ES–16
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+REGISTRATION
+NOTICE:
+The Vehicle Identification Number (VIN) must be input
+into the replacement ECM.
+HINT:
+The VIN is a 17-digit alphanumeric number. The intelligent
+tester is required to register the VIN.
+1. DESCRIPTION
+This registration section consists of 3 parts: Input
+Instructions, Read VIN and Write VIN.
+(a) Input Instructions: Explains the general VIN input
+instructions when using the intelligent tester.
+ES
+(b) Read VIN: Explains the VIN reading process in a
+flowchart. This process allows the VIN stored in the
+ECM to be read in order to confirm that the two
+VINs, provided with the vehicle and stored in the
+vehicle's ECM, are the same.
+(c) Write VIN: Explains the VIN writing process in a
+flowchart. This process allows the VIN to be input
+into the ECM. If the ECM is changed, or the vehicle
+VIN and ECM VIN do not match, the VIN can be
+registered or overwritten in the ECM by following
+this procedure.
+2. INPUT INSTRUCTIONS
+(a) Intelligent tester
+The arrow buttons (UP, DOWN, RIGHT and LEFT)
+and numerical buttons (0 to 9) are used to input the
+VIN.
+(b) Cursor Operation
+To move the cursor around the tester screen, press
+the RIGHT and LEFT buttons.
+(c) Alphabetical Character Input
+(1) Press the UP and DOWN buttons to select the
+desired alphabetical character.
+(2) After selection, the cursor should move.
+(d) Numeric Character Input
+(1) Press the numerical button corresponding to
+the number that you want to input.
+(2) After input, the cursor should move.
+HINT:
+Numerical characters can also be selected by
+using the UP and DOWN buttons.
+(e) Correction
+(1) When correcting the input character(s), put the
+cursor onto the character using the RIGHT and
+LEFT buttons.
+(2) Select or input the correct character using the
+UP/DOWN buttons, or the numerical buttons.
+(f) Finishing Input Operation
+(1) Make sure that the input VIN matches the
+vehicle VIN after input.
+(2) Press the ENTER button on the tester.

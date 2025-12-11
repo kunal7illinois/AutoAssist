@@ -1,0 +1,45 @@
+RS–157
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+13 CHECK PASSENGER AIRBAG ON/OFF INDICATOR CIRCUIT (SHORT)
+(a) Disconnect the service wire from connector B.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+D A
+Tester Connection Condition Specified Condition
+C B
+F3-13 (PAON) - F3-14
+Clock Assembly Always 1 MΩ or higher
+(P-AB)
+Center Airbag
+Sensor Assembly NG REPAIR OR REPLACE WIRE HARNESS
+Connector C
+F3
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+PAON P-AB
+C C123729E01
+OK
+14 CHECK PASSENGER AIRBAG ON/OFF INDICATOR CIRCUIT (SHORT TO GROUND) RS
+(a) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+D A
+F3-13 (PAON) - Body
+C B Always 1 MΩ or higher
+ground
+Clock Assembly
+F3-14 (P-AB) - Body
+Always 1 MΩ or higher
+ground
+Center Airbag
+Sensor Assembly
+NG REPAIR OR REPLACE WIRE HARNESS
+Connector C
+F3
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+PAON P-AB
+C C123729E01
+OK

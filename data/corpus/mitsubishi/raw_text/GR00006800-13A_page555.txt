@@ -1,0 +1,51 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-555
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TERMINAL TERMINAL INSPECTION ITEM INSPECTION CONDITION (ENGINE CONDITION) NORMAL CONDITION
+NO. <M/T> NO. <A/T>
+1 1 No.1 injector • Engine: warming up, idling From 11 − 14 V
+• Suddenly depress the accelerator pedal momentarily
+14 9 No.2 injector
+drops slightly
+2 24 No.3 injector
+15 2 No.4 injector
+4 14 Stepper motor coil • Engine: warming up, idling B+ ⇔ 1 V or less
+<A1> • A/C switch: OFF → ON (changes
+• Headlight switch: OFF → ON repeatedly)
+17 28 Stepper motor coil
+<A2>
+5 15 Stepper motor coil
+<B1>
+18 29 Stepper motor coil
+<B2>
+6 6 EGR solenoid Ignition switch: "ON" B+
+• Engine: idling From B+,
+• Suddenly depress the accelerator pedal. momentarily
+drops
+8 20 A/C compressor • Engine: idling B+ → 1 V or less
+clutch relay • A/C switch: OFF → ON (A/C compressor is as A/C clutch
+operating) cycles
+9 34 Evaporative Ignition switch: "ON" B+
+emission purge Engine: warm up, 3,000 r/min 3 − 13 V
+solenoid
+10 11 Ignition coil − No. Engine: 3,000 r/min 0.3 − 3.0 V
+1, No. 4 (Ignition
+power transistor)
+23 12 Ignition coil − No.
+2, No. 3 (Ignition
+power transistor)
+12 41 Power supply Ignition switch: "ON" B+
+25 47
+19 19 Volume air flow Engine: idling 0 − 1 V
+sensor reset signal Engine: 3,000 r/min 6 − 9 V
+21 18 Fan controller Radiator fan and condenser fan are not operating 0 − 0.3 V
+Radiator fan and condenser fan are operating 0.7 V or more
+22 21 Fuel pump relay Ignition switch: "ON" B+
+Engine: idling 1 V or less
+24 61 A/C switch 2 Engine: idling when A/C is MAX. COOL 1 V or less
+Outside air condition (when the load by
+temperature: 25°C A/C is high)
+or more
+when A/C is MAX. HOT B+
+condition (when the load by
+A/C is low)
+TSB Revision

@@ -1,0 +1,28 @@
+CC–17
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+FAIL-SAFE CHART
+HINT:
+If the following conditions are detected while the cruise
+control is in operation, the system clears the stored vehicle
+speed in the ECM and cancels the cruise control operation.
+Vehicle Condition Auto Cancel Condition Re-operation Condition
+• There is open or short in stop light switch
+circuit
+• There is problem with vehicle speed
+CRUISE main indicator light blinks Turn cruise control main switch on again
+signal
+• There is problem with throttle position
+sensor and motor
+• There is problem with input circuit of stop
+• Turn cruise control main switch on again
+CRUISE main indicator light blinks light switch circuit
+• Turn ignition switch off then on again
+• There is problem with cancel circuit
+• Vehicle speed is lower than low speed
+Push cruise control main switch to +
+limit (approx. 40 km/h (25 mph)) while
+CRUISE main indicator light remains on running with cruise control on (ACCEL)/RES (RESUME)
+(Cruise control is canceled)
+• Vehicle speed is lower than stored speed Push cruise control main switch to - (COAST)/
+by approx. 16 km/h (9.9 mph) or more SET
+CC

@@ -1,0 +1,37 @@
+NS–71
+NAVIGATION – NAVIGATION SYSTEM
+DTC 01-DD Master Reset
+DTC 01-E1 Voice Processing Device ON Error
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+01-DD The device that should be the master has been • Radio and navigation assembly power source
+*1 disconnected after the engine starts. circuit
+• AVC-LAN circuit between the radio and navigation
+assembly and the component which has stored this
+01-E1 The AMP device records that the AMP output does not
+code
+*2 function even while the source device is operating.
+• Radio and navigation assembly
+• Component which has stored this code
+HINT:
+• *1: This code may be stored if the engine is started and the ignition switch is turned to the START
+position again. (Key type ignition switch only)
+• *2: Even if no fault is present, this trouble code may be stored depending on the battery condition or
+engine start voltage.
+NOTICE:
+• Before starting troubleshooting, be sure to clear DTCs to erase codes stored due to the
+reasons described in the HINT above. Then, check for DTCs and troubleshoot according to the
+output DTCs.
+• The radio and navigation assembly is the master unit.
+• Be sure to clear and recheck DTCs after the inspection is completed to confirm that no DTCs
+are output.
+INSPECTION PROCEDURE
+NOTICE:
+Be sure to read DESCRIPTION before performing the following procedures.
+1 CHECK RADIO AND NAVIGATION ASSEMBLY POWER SOURCE CIRCUIT
+Refer to the radio and navigation assembly power source
+circuit (See page NS-191).
+If the power source circuit is operating normally, proceed to
+the next step.
+NEXT
+NS

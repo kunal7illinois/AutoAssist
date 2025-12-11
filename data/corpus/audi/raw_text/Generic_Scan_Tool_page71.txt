@@ -1,0 +1,45 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P043 Evaporative For Model Year • EVAP pump • ECT > 60° C 3 Sec. • 2 DCY
+E Emission 2011 > current during
+System – Check the reference • ECT at start < 60°
+Leak Detec‐ Leak Detec‐ measurement C
+tion Refer‐ tion Pump > 40 mA
+• AAT > 4 and < 35°
+ence Orifice (LDP) -
+C
+Low Flow V144- . Refer
+to • Altitude <= 2700 m
+⇒
+“3.5.13 Leak • Time since engine
+Detection start >= 600 Sec.
+Pump,
+• Integrated EVAP
+Checking ”,
+purge flow since
+page 136
+last purge stop > 2
+g
+• Integrated EVAP
+purge flow since
+last monitoring run
+> 0 g
+• Intake manifold
+vacuum > 100 hPa
+• Vehicle speed <
+120 km/h
+• Fuel volume flow
+<= 5 ml/s
+• Change in battery
+voltage during
+monitoring < 1.50
+V
+• Engine speed not
+at idle and above
+20 RPM
+• O2S front ready
+67
+3. Diagnosis and Testing

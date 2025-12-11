@@ -1,0 +1,61 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Param‐ Monitoring Frequency of
+sage cedure ria and Threshold eters with Enable Time checks, MIL
+Value Conditions Length Illum
+P2310 Ignition Coil – Check the Ig‐ • Signal voltage • Engine speed > 0.5 Sec. • Continu‐
+D Primary nition Coils > 5.2 .. 6.0 V 1500 RPM ous
+Control Cir‐ with Power
+cuit High Output • 2 DCY
+Stage . Refer
+to
+⇒ “3.5.41 Ig‐
+nition Coil
+with Power
+Output
+Stage,
+Checking”,
+page 192 .
+P2312 Ignition Coil – Check the Ig‐ • Signal current • Engine speed, > 0.5 Sec. • Continu‐
+“E” Primary nition Coils > 24 mA 1500 RPM ous
+Control Cir‐ with Power
+cuit Low Output • 2 DCY
+Stage . Refer
+to
+⇒ “3.5.41 Ig‐
+nition Coil
+with Power
+Output
+Stage,
+Checking”,
+page 192 .
+P2313 Ignition Coil – Check the Ig‐ • Signal voltage • Engine speed > 0.5 Sec. • Continu‐
+“E” Primary nition Coils > 5.2 .. 6.0 V 1500 RPM ous
+Control Cir‐ with Power
+cuit High Output • 2 DCY
+Stage . Refer
+to
+⇒ “3.5.41 Ig‐
+nition Coil
+with Power
+Output
+Stage,
+Checking”,
+page 192 .
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P240 Evaporative – Check the • Signal voltage • EVAP pump elec‐ 0.5 Sec. • 2 DCY
+A Emission Leak Detec‐ > 4.7 to 5.4 V tric drive comman‐
+System tion Pump ded off
+Leak Detec‐ (LDP) -
+tion Pump V144- . Refer
+Heater to
+Control Cir‐ ⇒
+cuit Open “3.5.13 Leak
+Detection
+Pump,
+Checking ”,
+page 136
+100
+Rep. Gr.ST - Generic Scan Tool

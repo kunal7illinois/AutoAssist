@@ -1,0 +1,19 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+Fig. 27: Checking Continuity Between Body Ground And Steering Angle
+Sensor 5P Connector Terminals No. 2 And No. 4
+Is there continuity?
+YES -Repair short to body ground in the wire between the steering angle
+sensor and the VSA modulator-control unit.
+NO -Go to step 7.
+7. Check for continuity between the VSA modulator-control unit 37P connector
+terminal and the steering angle sensor 5P connector terminal individually.
+CONNECTOR TERMINAL DESCRIPTION
+Connector Terminal No.
+Sign
+VSA Modulator-control UnitSteering Angle Sensor
+STR-A 34 2
+STR-B 17 4
+SVCC 7 5
+SGND 10 1

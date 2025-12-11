@@ -1,0 +1,65 @@
+B
+The ”Current Flow Chart” section, describes which parts each power source (fuses, fusible links, and circuit breakers)
+transmits current to. In the Power Source circuit diagram, the conditions when battery power is supplied to each system
+are explained. Since all System Circuit diagrams start from the power source, the power source system must be fully
+understood.
+9
+CAMRY (EM0250U)
+CCA
+R
+–
+W
+1MA
+1GI 1TS
+W
+2MA
+2GI 2TS
+J POWER SOURCE (Current Flow Chart)
+The chart below shows the route by which current flows from the battery to each electrical source
+(Fusible Link, Circuit Breaker, Fues, etc.) and other parts
+10A ECU–B
+Short Pin 2 2
+7.5A DOME
+15A EFI
+Battery 30A AM2 2 Fusible Link Block 6 10A HAZARD
+2
+20A RADIO NO.1
+Starter S 2
+10A HORN
+100A ALT 6 60A ABS 5
+Engine Room R/B (See Page 20)
+Fuse System Page
+ABS 194
+ABS and Traction Control 187
+20A STOP Cruise Control 180
+Electronically Controlled Transmission 166
+Multiplex Communication System 210
+Cigarette Lighter 214
+Combination Meter 230
+Headlight 112
+10A DOME Interior Light 122
+Key Reminder and Seat Belt Warning
+Light Auto Turn Off System
+Theft Deterrent and Door Lock Control
+Power Source
+1.25B
+B 1 W FL MAIN
+BA1
+Battery
+50A MAIN 7.5A DOME
+B 1 2 W 7 W W 1 2 R
+2 2 AH1 1 1
+7.5A AM1
+B 1 2 W – R 6
+2 2 AH1
+15A HAZ–RADIO
+1 2 W
+2
+8 4
+H8
+Ignition SW
+2
+20A DEFOG
+B – Y 1 2 W – R
+1 1
+∗ The system shown here is an EXAMPLE ONLY. It is different to the actual circuit shown in the SYSTEM CIRCUITS SECTION.

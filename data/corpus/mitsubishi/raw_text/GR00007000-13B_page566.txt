@@ -1,0 +1,36 @@
+13B-566 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Using scan tool MB991502, check data list.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Check the following items in the data list. Refer to, Data List
+Reference Table P.13B-640.
+16 PIN a. Item 21: Engine Coolant Temperature Sensor.
+b. Item 28: A/C Switch.
+MB991502
+AKX01177AB (4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Are they operating properly?
+YES : Go to Step 4.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+STEP 4. Adjust the basic idle speed.
+Refer to, Basic Idle Speed Adjustment for the adjustment pro-
+cedure P.13B-679.
+Standard value: 700 ± 50 r/min
+Q:Is the Idle speed normal?
+YES : Refer to, Clean the throttle valve area P.13B-677.
+NO : The check is completed.
+INSPECTION PROCEDURE 10: Idle Speed Is Low (Improper Idle Speed).
+. .
+COMMENT TROUBLESHOOTING HINTS (The most likely
+• In cases such as the above, the cause is proba- causes for this case:)
+bly that the intake air volume during idle is too • Malfunction of the IAC system.
+small. • Malfunction of the throttle body.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

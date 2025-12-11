@@ -1,0 +1,29 @@
+BE-54 BODY ELECTRICAL - AIR CONDITIONING
+(cid:1) When the solenoid valve opens (solenoid coil is not energized), the difference in pressure disappears.
+Then, the pressure that is applied to the left side of the piston becomes the same as the pressure that is
+applied to the right side of the piston. Thus, the spring elongates and eliminates the tilt of the swash plate.
+As a result, there is no piston stroke and the discharge capacity is reduced.
+Suction
+A/C ECU A/C ECU
+Crank Chamber
+Discharge Pressure
+Discharge Pressure
+Crank Chamber Solenoid Valve
+Pressure + Spring (2GR-FE Engine)
+Force
+Piston Stroke: Small
+Solenoid Valve
+025BE58TE
+(2AZ-FE Engine)
+Internal Valve Operation (Only for Models with 2AZ-FE Engine)
+The internal valve operates when the A/C compressor speed has increased rapidly, the A/C compressor
+speed is high, or when thermal load has suddenly changed. As a result, the A/C compressor capacity is
+reduced, increasing the durability of the A/C compressor.
+A/C ECU
+Crank Chamber Pressure
+Discharge Pressure
+Discharge Pressure
+Internal
+Crank Chamber Pressure Valve
+Solenoid Valve
+(2AZ-FE Engine) 0280BE11C

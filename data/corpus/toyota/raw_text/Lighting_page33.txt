@@ -1,0 +1,53 @@
+LI–33
+LIGHTING – LIGHTING SYSTEM
+(c) Select the items below in the DATA LIST, and read the
+display on the intelligent tester.
+MAIN BODY (MAIN BODY ECU):
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Ignition switch on (IG or
+Ignition switch or engine switch
+ACC SW ACC) -
+ACC signal / ON or OFF
+OFF: Ignition switch off
+Ignition switch or engine switch ON: Ignition switch on (IG)
+IG SW -
+IG signal / ON or OFF OFF: Ignition switch off
+OK:
+Normal conditions listed above are displayed.
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+NG
+2 INSPECT ACC RELAY
+(a) Remove the ACC relay from the instrument panel J/B
+3
+assembly.
+(b) Measure the resistance according to the value(s) in the
+table below.
+3 5
+Standard resistance
+Tester Connection Specified Condition
+1 2
+10 kΩ or higher
+3 - 5 Below 1 Ω (When battery voltage is applied to
+2 5 1 terminals 1 and 2)
+B087894E05
+NG REPLACE ACC RELAY
+OK
+3 INSPECT NO. 1 IGNITION RELAY
+(a) Remove the No. 1 ignition relay from the instrument LI
+3
+panel J/B assembly.
+(b) Measure the resistance according to the value(s) in the
+table below.
+3 5
+Standard resistance
+Tester Connection Specified Condition
+1 2
+10 kΩ or higher
+3 - 5 Below 1 Ω (When battery voltage is applied to
+2 5 1 terminals 1 and 2)
+B087894E05
+NG REPLACE NO. 1 IGNITION RELAY
+OK

@@ -1,0 +1,26 @@
+CA–91
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+16 CHECK FOR SHORT IN CAN BUS WIRES
+(a) Disconnect the connector that includes terminals CANH
+E10
+DLC3: and CANL from the ECU (or sensor) to which the short-
+CANH
+circuited branch wire is connected. (See page CA-10)
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Value
+E10-6 (CANH) - E10-14
+Ignition switch off 54 to 69 Ω
+CANL (CANL)
+C126231E11
+HINT:
+If the resistance becomes normal (between 54 and 69 Ω)
+when the connector is disconnected from the ECU (or
+sensor), there may be a short in the ECU (or sensor).
+NG REPAIR OR REPLACE CORRESPONDING
+ECU OR SENSOR BRANCH WIRE OR
+CA
+CONNECTOR
+OK
+REPLACE CORRESPONDING ECU OR SENSOR

@@ -1,0 +1,47 @@
+AX–127
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Pressure Control Solenoid "D" Performance
+DTC P2714
+(Shift Solenoid Valve SLT)
+SYSTEM DESCRIPTION
+The linear solenoid valve (SLT) controls the transmission line pressure for smooth transmission operation
+AX
+based on signals from the throttle position sensor and the vehicle speed sensor. The TCM adjusts the
+duty ratio (*) of the SLT solenoid valve to control hydraulic line pressure coming from the primary regulator
+valve. Appropriate line pressure assures smooth shifting with varying engine outputs.
+(*): Duty Ratio
+The duty ratio is the ratio of the period of continuity in one cycle. For example, if A is the period of
+continuity in one cycle, and B is the period of non-continuity, then
+Duty Ratio= A/(A+B) x 100 (%)
+Spool Valve
+Hydraulic
+Sleeve
+Solenoid Coil
+A
+ON
+B
+OFF
+1 Cycle Current
+C133225E01
+DTC No. DTC Detection Condition Trouble Area
+The ECM detects a malfunction in the shift solenoid • Shift solenoid valve SLT remains open
+valve SLT (ON side) according to the difference in the • Shift solenoid valve SL1, SL2, SL3 or SL4 remains
+P2714 speed between the turbine and the output shaft, and open or closed
+also by the transmission fluid pressure. (2-trip detection • Valve body is blocked
+logic) • Automatic transaxle (clutch, brake or gear, etc.)
+MONITOR DESCRIPTION
+The TCM calculates the amount of heat absorbed by the friction material based on the difference in
+revolution (clutch slippage) between the turbine and output shaft. The TCM turns on the MIL and outputs
+this DTC when the amount of heat absorption exceeds the specified value.
+When the shift solenoid valve SLT remains on, oil pressure goes down and clutch engagement force
+decreases.
+NOTICE:
+If driving continues under these conditions, the clutches will burn out and the vehicle will no
+longer be drivable.
+MONITOR STRATEGY
+Related DTCs P2714: Shift solenoid valve SLT/ON malfunction
+Required sensors/Components Shift solenoid valve SLT
+Frequency of operation Continuous
+Duration Immediate
+MIL operation 2 driving cycles
+Sequence of operation None

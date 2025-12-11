@@ -1,0 +1,34 @@
+ES–357
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Sensor current detection monitor (High and low side malfunction P2195, P2196, P2197 and
+P2198):
+P0031, P0032, P0051, P0052 (A/F sensor heater - Sensor 1)
+P0037, P0038, P0057, P0058 (HO2 sensor heater - Sensor 2)
+P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+Monitor runs whenever following DTCs are not present P0125 (Insufficient ECT for Closed Loop)
+P0136, P0156 (O2 Sensor - Sensor 2)
+P0171, P0172 (Fuel system)
+P0300 - P0308 (Misfire)
+P0335 (CKP sensor)
+P0340, P0341 (CMP sensor)
+P0500 (VSS)
+Battery voltage 11 V or more
+Atmospheric pressure 22.5 kPa (570 mmHg) or more
+ES
+A/F sensor status Activated
+Continuous time of fuel cut 3 to 10 seconds
+ECT 75°C (167°F) or more
+TYPICAL MALFUNCTION THRESHOLDS
+Sensor voltage detection monitor (Lean side malfunction P2195, P2197):
+A/F sensor voltage More than 3.8 V
+Sensor voltage detection monitor (Rich side malfunction P2196, P2198):
+A/F sensor voltage Less than 2.8 V
+Sensor current detection monitor (High side malfunction P2195, P2197):
+A/F sensor current 3.6 mA or more
+Sensor current detection monitor (Low side malfunction P2196, P2198):
+A/F sensor current Less than 1.4 mA
+MONITOR RESULT
+Refer to CHECKING MONITOR STATUS (See page ES-49).

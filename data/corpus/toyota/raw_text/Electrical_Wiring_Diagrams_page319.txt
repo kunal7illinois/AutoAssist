@@ -1,0 +1,55 @@
+ECT and A/T Indicator for 2AZ–FE
+System Outline
+1. Line Pressure Optimal Control
+Through the use of the solenoid valve SLT, the line pressure is optimally controlled in accordance with the engine torque
+information, as well as with the internal operating conditions of the torque converter and the transaxle. Accordingly, the line
+pressure can be controlled minutely in accordance with the engine output, traveling condition, and the ATF temperature, thus
+realizing smooth shift characteristics and optimizing the workload in the oil pump.
+2. Clutch Pressure Optimal Control
+The engine control module monitors the signals from various types of sensor such as the input turbine speed sensor,
+allowing shift solenoid valves SL1, SL2 and SL3 to minutely control the clutch pressure in accordance with engine output
+and driving conditions. As a result, smooth shift characteristics have been realized.
+3. Shifting Control in Uphill/Downhill Traveling
+This control minimizes the shifting of gears when the driver operates the accelerator pedal while driving on a winding road
+with ups and downs, in order to ensure a smooth drive.
+4. Flex Lock–Up Clutch Control
+The flex lock–up clutch control operates during acceleration, in the 4th and 5th gear in the D range, and during deceleration,
+in the 4th and 5th gear in the D range and in the 4th gear in the 4 range.
+: Parts Location
+Code See Page Code See Page Code See Page
+A17 59 A60 B 53 (2AZ–FE) E10 56
+A19 59 C1 B 54 (2AZ–FE) E31 56
+A24 A 52 (2AZ–FE) C2 54 (2AZ–FE) E40 B 57
+A25 C 52 (2AZ–FE) C4 54 (2AZ–FE) E41 B 57
+A26 A 52 (2AZ–FE) C5 54 (2AZ–FE) E42 A 57
+A40 A 59 C24 B 55 (2AZ–FE) E43 B 57
+A41 A 59 C25 55 (2AZ–FE) E62 G 57
+A42 B 59 C26 55 (2AZ–FE) F1 A 58
+A58 A 59 C27 55 (2AZ–FE) F2 B 58
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+1A
+2255 EEnnggiinnee RRoooomm MMaaiinn WWiirree aanndd EEnnggiinnee RRoooomm JJ//BB ((EEnnggiinnee CCoommppaarrttmmeenntt LLeefftt))
+1E
+3B
+3D
+3F
+3G 3333366666 IIIIInnnnnssssstttttrrrrruuuuummmmmeeeeennnnnttttt PPPPPaaaaannnnneeeeelllll WWWWWiiiiirrrrreeeee aaaaannnnnddddd JJJJJ/////BBBBB NNNNNooooo.....33333 (((((BBBBBeeeeehhhhhiiiiinnnnnddddd ttttthhhhheeeee CCCCCooooommmmmbbbbbiiiiinnnnnaaaaatttttiiiiiooooonnnnn MMMMMeeeeettttteeeeerrrrr)))))
+3H
+3K
+3L
+3P
+3Q 333666 IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll NNNooo...222 WWWiiirrreee aaannnddd JJJ///BBB NNNooo...333 (((BBBeeehhhiiinnnddd ttthhheee CCCooommmbbbiiinnnaaatttiiiooonnn MMMeeettteeerrr)))
+3U
+IC
+3300 EEnnggiinnee RRoooomm MMaaiinn WWiirree aanndd IInnssttrruummeenntt PPaanneell JJ//BB ((CCoowwll SSiiddee LLeefftt))
+ID
+IF 30
+IG IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll WWWiiirrreee aaannnddd IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll JJJ///BBB (((CCCooowwwlll SSSiiidddeee LLLeeefffttt)))
+3311
+IH
+318
+CAMRY (EM0250U)

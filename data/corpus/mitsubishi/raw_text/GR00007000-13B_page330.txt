@@ -1,0 +1,26 @@
+13B-330 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Check connector B-22 at camshaft position
+sensor for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-22
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 20.
+AAKK000000221177AB
+STEP 5. Check the sensor supply voltage at camshaft
+position sensor connector B-22.
+(1) Disconnect the connector B-22 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 5 and ground.
+• Voltage should be between 4.8 and 5.2 volts.
+B-22 HARNESS
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+SIDE CONNECTOR
+Q:Is the voltage normal?
+7 6 5 4 3 2 1
+YES : Go to Step 10.
+NO : Go to Step 6.
+AK000250AB
+TSB Revision

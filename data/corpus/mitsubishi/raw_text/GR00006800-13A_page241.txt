@@ -1,0 +1,29 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-241
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Check connector C-60 at ECM <M/T> or connector
+C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-60<M/T>,C-54<A/T>
+YES : Repair it because of open circuit between crankshaft
+position sensor connector B-20 terminal 2 and ECM
+ECM<M/T>
+connector C-60 terminal 89 <M/T> or PCM connector
+OR
+PCM<A/T> C-54 terminal 45 <A/T>. Then go to Step 21.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 21.
+C-54 C-60
+AK000280BB
+STEP 9. Check connector C-60 at ECM <M/T> or connector
+C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-60<M/T>,C-54<A/T>
+YES : Go to Step 10.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 21.
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+TSB Revision

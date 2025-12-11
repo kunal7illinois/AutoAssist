@@ -1,0 +1,34 @@
+RF–60
+SLIDING ROOF – SLIDING ROOF SWITCH ASSEMBLY
+SLIDING ROOF SWITCH
+Roof Console Box Assembly
+ASSEMBLY
+Connector:
+ON-VEHICLE INSPECTION
+1. INSPECT ROOF CONSOLE BOX ASSEMBLY
+(a) Remove the roof console box assembly.
+(b) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Switch Position Specified Condition
+Q6-1 (CLS) - Q6-3 (GND) CLOSE Below 100 Ω
+Q6-2 (OPN) - Q6-3
+OPEN Below 100 Ω
+(GND)
+Q6-4 (DOWN) - Q6-3
+DOWN Below 100 Ω
+Sliding Roof Control Switch (GND)
+Q6-5 (UP) - Q6-3 (GND) UP Below 100 Ω
+RF
+Q6-1 (CLS) - Q6-3 (GND) OPEN 1 kΩ or higher
+Q6
+Q6-2 (OPN) - Q6-3
+CLOSE 1 kΩ or higher
+(GND)
+Q6-4 (DOWN) - Q6-3
+UP 1 kΩ or higher
+(GND)
+Q6-5 (UP) - Q6-3 (GND) DOWN 1 kΩ or higher
+If the result is not as specified, replace the roof
+console box assembly.
+B131165E02

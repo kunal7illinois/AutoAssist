@@ -1,0 +1,43 @@
+ES–122
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+7 CHECK HARNESS AND CONNECTOR
+(a) Disconnect the C15 or C35 A/F sensor connector.
+Wire Harness Side:
+(b) Disconnect the C55 ECM connector.
+(c) Measure the resistance between the terminals.
+Standard resistance (Check for open)
+A/F Sensor Connector
+Tester Connection Specified Condition
+HA1A (C55-86) - HA1A (C15-1) Below 1 Ω
+C15 : Bank 1
+HA2A (C55-109) - HA2A (C35-1) Below 1 Ω
+C35 : Bank 2
+Standard resistance (Check for short)
+Tester Connection Specified Condition
+ES C55 ECM Connector HA1A (C55-86) or HA1A (C15-1) - Body ground 10 kΩ or higher
+HA2A (C55-109) or HA2A (C35-1) - Body ground 10 kΩ or higher
+A1A+
+(d) Reconnect the ECM connector.
+(e) Reconnect the A/F sensor connectors.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+A1A- A2A- A2A+ HA2A HA1A
+A127715E19
+OK
+8 CHECK WHETHER DTC OUTPUT RECURS
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the intelligent tester on.
+(d) Clear the DTCs (See page ES-45).
+(e) Start the engine.
+(f) Allow the engine to idle for 1 minute or more.
+(g) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(h) Read the DTCs.
+Result
+Display (DTC Output) Proceed to
+No output A
+P0031, P0032, P0051 and/or P0052 B
+B REPLACE ECM (See page ES-518)
+A
+CHECK FOR INTERMITTENT PROBLEMS

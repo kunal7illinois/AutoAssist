@@ -1,0 +1,46 @@
+ENGINE MECHANICAL <3.0L> 11C-5
+ON VEHICLE SERVICE
+TOOL TOOL NUMBER AND SUPERSESSION APPLICATION
+NAME
+MD998051 MD998051-01 or Cylinder head bolt
+Cylinder head bolt General service tool loosening and tightening
+wrench
+MD998767 MD998752-01 Timing belt tension
+Tensioner pulley socket adjustment
+wrench
+D998767
+MD998769 General service tool Used if the crankshaft
+Crankshaft sprocket needs to be rotated to
+spacer attach the timing belt, etc.
+ON VEHICLE SERVICE
+DRIVE BELT TENSION CHECK AND
+ADJUSTMENT
+M1111003100139
+Refer to GROUP 00, Maintenance Service − Drive Belts
+(Check Condition) P.00-44.
+IGNITION TIMING CHECK
+M1111001700113
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+1. Before inspection, set vehicles in the following condition:
+• Engine coolant temperature: 80 − 95°C (176 − 203°F)
+• Lights and all accessories: OFF
+• Transaxle: Neutral (P range on vehicles with A/T)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+2. Connect scan tool MB991502 to the data link connector.
+3. Set up a timing light.
+4. Start the engine and run it at idle.
+5. Check that the idle speed is approximately 700 r/min.
+16 PIN
+6. Select scan tool MB991502 actuator test "item number 17".
+MB991502
+7. Check that basic ignition timing is within the standard value.
+AKX01177AB
+Standard value: 5° BTDC ± 3°
+8. If the basic ignition timing is not within the standard value,
+check the following items:
+• Diagnosis output
+TSB Revision

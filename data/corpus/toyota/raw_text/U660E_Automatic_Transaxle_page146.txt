@@ -1,0 +1,19 @@
+AX–146
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+TYPICAL MALFUNCTION THRESHOLDS
+P2769: Range check (Low resistance):
+Intelligent power MOS diagnosis fail signals detected while the
+Fail at solenoid resistance: 8 Ω or less
+solenoid is operated
+P2770: Range check (High resistance):
+AX Intelligent power MOS diagnosis fail signals detected while the
+Fail at solenoid resistance: 100 kΩ or more
+solenoid is not operated
+COMPONENT OPERATING RANGE
+Shift solenoid valve SL Resistance: 11 to 15 Ω at 20°C (68°F)
+WIRING DIAGRAM
+TCM
+SL
+Shift Solenoid Valve SL
+Transaxle Assembly
+C133259E01

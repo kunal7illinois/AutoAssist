@@ -1,0 +1,36 @@
+EI–8
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+HINT:
+• Use the following procedures to troubleshoot the engine
+immobiliser system.
+• The intelligent tester should be used in steps 3 and 5.
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 CRANK ENGINE FOR MORE THAN 10 SECONDS
+NEXT
+3 CHECK FOR DTCS
+(a) Check for DTCs and note any codes that are output (see
+page EI-24).
+(b) Delete the DTCs.
+(c) Recheck for DTCs. Based on the DTCs output above, try
+to duplicate the SFI system DTC or engine immobiliser
+system DTC by simulating the symptoms indicated by
+the DTC.
+Result
+Result Proceed to
+DTC output does not reoccur A
+SFI system DTC output reoccurs B
+Engine immobiliser system DTC output reoccurs C
+EI
+B GO TO SFI SYSTEM
+C GO TO DTC CHART
+A
+4 PROBLEM SYMPTOMS TABLE
+(a) If the fault is not listed on the problem symptoms table,
+proceed to A.
+(b) If the fault is listed on the problem symptoms table,
+proceed to B.
+B GO TO STEP 6
+A

@@ -1,0 +1,59 @@
+BC–37
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+DTC No. DTC Detecting Condition Trouble Area
+When either of the following is detected:
+• Front speed sensor RH and/or LH
+• Vehicle speed is more than 25 mph (40 km/h), and
+• Front speed sensor circuit RH and/or LH
+C0200/31 pulses are not input for 0.03 sec.
+• Front speed sensor rotor RH and/or LH
+C0205/32 • When the vehicle speed has reached 8 mph (12
+• Sensor installation
+km/h) after the initial start or restart, a wheel speed
+• Brake actuator assembly (skid control ECU)
+of 0 mph (0 km/h) is detected.
+• Front speed sensor RH and/or LH
+C1330/35 Abnormality in the resistance value of each speed
+• Front speed sensor circuit RH and/or LH
+C1331/36 sensor is detected.
+• Sensor installation
+• Front speed sensor
+C1271/71
+Detected only during test mode. • Sensor installation
+C1272/72
+• Sensor rotor
+• Front speed sensor
+C1275/75
+Detected only during test mode. • Front speed sensor circuit
+C1276/76
+• Sensor installation
+HINT:
+DTC No. C0200/31 and C1330/35 are for the front speed sensor RH.
+DTC No. C0205/32 and C1331/36 are for the front speed sensor LH.
+BC
+WIRING DIAGRAM
+Brake Actuator Assembly (Skid Control ECU)
+5
+A25 FL+
+1
+A14
+ABS Speed Sensor
+Front LH
+6
+2
+A25 FL-
+10
+A25 FR+
+1
+A35
+ABS Speed Sensor
+Front RH 9
+2
+A25 FR-
+F040884E12
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).
+1 READ VALUE OF INTELLIGENT TESTER (FRONT SPEED SENSOR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine.

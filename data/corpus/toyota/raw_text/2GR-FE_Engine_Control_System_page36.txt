@@ -1,0 +1,40 @@
+ES–36
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(9) Soon after performing procedure "A" above,
+release the accelerator pedal for at least 4
+seconds without depressing the brake pedal, in
+order to execute fuel-cut control (Procedure "B").
+(10)Allow the vehicle to decelerate until the vehicle
+speed declines to less than 6 mph (10 km/h)
+(Procedure "C").
+(11)Repeat procedures from "A" through "C" above
+at least 3 times in one driving cycle.
+(c) Monitor Status
+(1) Check the Readiness Monitor status displayed
+on the tester.
+(2) If the status does not switch to COMPL
+(complete), make sure that the preconditions
+have been met and then perform the Drive
+ES
+Pattern again.
+5. AIR-FUEL RATIO (A/F) AND HEATED OXYGEN (HO2)
+SENSOR HEATER MONITORS (FRONT A/F AND
+REAR HO2 SENSOR TYPE)
+Vehicle Speed
+25 mph
+(40 km/h)
+Idling
+Ignition Switch off
+10 minutes or more 2 minutes or more
+A078886E24
+(a) Preconditions
+The monitor will not run unless:
+• The MIL is OFF.
+(b) Drive Pattern
+(1) Connect an intelligent tester to the DLC3.
+(2) Turn the ignition switch on (IG).
+(3) Clear the DTCs.
+(4) Start the engine.
+(5) Allow the engine to idle for 10 minutes or more.
+(6) Drive the vehicle at 25 mph (40 km/h) or more
+for at least 2 minutes.

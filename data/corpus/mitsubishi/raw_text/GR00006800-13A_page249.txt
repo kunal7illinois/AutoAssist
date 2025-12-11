@@ -1,0 +1,45 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-249
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using the oscilloscope, check the camshaft
+position sensor.
+(1) Disconnect the camshaft position sensor connector B-09,
+and connect test harness special tool (MB991709) in
+between. (All terminals should be connected.)
+(2) Connect the oscilloscope probe to the camshaft position
+OSCILLOSCOPE
+CAMSHAFT POSITION sensor side connector terminal 2.
+SENSOR CONNECTOR
+NOTE: When measuring with the ECM or PCM side con-
+nector, connect an oscilloscope probe to terminal 88 <M/T>
+1 2 3
+or terminal 56 <A/T>.
+(3) Start the engine and run at idle.
+MB991709
+AK102976AB
+(4) Check the waveform.
+NORMAL WAVEFORM
+• The waveform should show a pattern similar to the illus-
+tration.
+2 ENGINE REVOLUTIONS
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+5V Q:Is the waveform normal?
+YES : Go to Step 2.
+NO : Go to Step 4.
+AK103570AB
+STEP 2. Check connector B-09 at camshaft position
+sensor for damage.
+CONNECTOR : B-09 Q:Is the connector in good condition?
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 20.
+AAKK000000227766AB
+STEP 3. Check the trouble symptoms.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0340 is output?
+YES : Replace the ECM or PCM. Then go to Step 20.
+NO : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+TSB Revision

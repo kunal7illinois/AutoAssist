@@ -1,0 +1,71 @@
+RS–48
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DIAGNOSTIC TROUBLE CODE CHART
+If a trouble code is displayed during the DTC check, check
+the circuit listed for the code in the table below (refer to the
+appropriate page).
+HINT:
+• When the SRS warning light remains on and the DTC
+output is the normal system code, a voltage source drop is
+likely to occur. This malfunction is not stored in the
+memory by the center airbag sensor assembly. If the
+power source voltage returns to normal, the SRS warning
+light will automatically go off.
+• When 2 or more codes are indicated, the code with the
+lower number appears first.
+• If a code is not listed on the display chart, the center airbag
+sensor assembly may have failed.
+• In the case of any malfunction concerning an open circuit,
+short to ground, or short to B+ due to a squib, other trouble
+codes may not be detected. In this case, repair the
+malfunction currently indicated and then perform
+malfunction diagnosis again.
+• Mark in the check mode column:
+*1: DTC is not corresponding to the check mode.
+*2: DTC is corresponding to the check mode.
+AIRBAG SYSTEM:
+DTC No. Detection Item Trouble Area Check Mode See page
+Center Airbag Sensor Center airbag sensor
+B1000/31 *1 RS-51
+Assembly Malfunction assembly
+1. Instrument panel wire
+RS Front Satellite Sensor Bus 2. Engine room main wire
+B1603/83 RH Initialization 3. Front airbag sensor RH *1 RS-52
+Incomplete 4. Center airbag sensor
+assembly
+1. Instrument panel wire
+Front Satellite Sensor Bus 2. Engine room main wire
+B1608/84 LH Initialization 3. Front airbag sensor LH *1 RS-62
+Incomplete 4. Center airbag sensor
+assembly
+1. Front airbag sensor RH
+Front Airbag Sensor RH
+B1610/13 2. Center airbag sensor *1 RS-72
+Malfunction
+assembly
+1. Instrument panel wire
+2. Engine room main wire
+Lost Communication with
+B1612/83 3. Front airbag sensor RH *1 RS-52
+Front Airbag Sensor RH
+4. Center airbag sensor
+assembly
+1. Instrument panel wire
+2. Engine room main wire
+Front Airbag Sensor RH
+B1613/83 3. Front airbag sensor RH *1 RS-52
+Initialization Incomplete
+4. Center airbag sensor
+assembly
+1. Front airbag sensor LH
+Front Airbag Sensor LH
+B1615/14 2. Center airbag sensor *1 RS-74
+Malfunction
+assembly
+1. Instrument panel wire
+2. Engine room main wire
+Lost Communication with
+B1617/84 3. Front airbag sensor LH *1 RS-62
+Front Airbag Sensor LH
+4. Center airbag sensor
+assembly

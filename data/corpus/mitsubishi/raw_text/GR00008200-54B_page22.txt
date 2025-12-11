@@ -1,0 +1,25 @@
+54B-22 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+SYMPTOM INSPECTION REFERENCE
+PROCEDURE PAGE
+ETACS-ECU does not receive a signal from the door lock switch P-6 P.54B-559
+(incorporated in the power window main switch).
+ETACS-ECU does not receive an auto-stop signal from the rear wiper P-7 P.54B-559
+motor.
+ETACS-ECU does not receive a signal from the hood switch. P-8 P.54B-575
+ETACS-ECU does not receive a signal from the liftgate latch switch P-9 P.54B-580
+<ECLIPSE> or trunk lid latch switch <ECLIPSE SPYDER>.
+The liftgate lock key cylinder switch <ECLIPSE> or the trunk lid lock key P-10 P.54B-591
+cylinder switch <ECLIPSE SPYDER> signal is not sent to the ETACS-
+ECU.
+ETACS-ECU does not receive a signal from the vehicle speed signal <M/ P-11 P.54B-599
+T>.
+ETACS-ECU does not receive vehicle speed signal <A/T>. P-12 P.54B-605
+Transmitter ETACS-ECU does not receive a signal P-13 P.54B-609
+from the lock, unlock, trunk or panic
+switch.
+ETACS-ECU does not Receive a Interior Light Loaded Signal. P-14 P.54B-611
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE A-1: Communication with the SWS Monitor Kit is Impossible.
+Scan Tool Communication and ETACS-ECU Ground Circuit
+TSB Revision

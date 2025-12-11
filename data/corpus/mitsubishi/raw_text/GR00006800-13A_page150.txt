@@ -1,0 +1,48 @@
+13A-150 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 9. Check for harness damage between heated
+oxygen sensor (front) connector B-17 (terminal 4) and ECM
+connector C-60 (terminal 76) <M/T> or PCM connector C-57
+(terminal 71) <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-17
+YES : Go to Step 10.
+NO : Repair it. Then go to Step 12.
+AAKK110033552266AB
+CONNECTORS:C-60<M/T>,C-57<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-60
+C-57
+AK000280BE
+STEP 10. Check for harness damage between injector
+connector B-01, B-02, B-05, B-06 and ECM connector C-49
+<M/T> or PCM connector C-50 <A/T>.
+a. Check the harness wire between injector connector B-01
+CONNECTOR : B-01, B-02, B-05, B-06
+terminal 2 and ECM connector C-49 terminal 1 <M/T> or
+B-01 B-02 B-05B-06
+PCM connector C-50 terminal 1 <A/T> when checking No. 1
+cylinder.
+b. Check the harness wire between injector connector B-02
+terminal 2 and ECM connector C-49 terminal 14 <M/T> or
+PCM connector C-50 terminal 9 <A/T> when checking No. 2
+cylinder.
+c. Check the harness wire between injector connector B-05
+terminal 2 and ECM connector C-49 terminal 2 <M/T> or
+AAKK000000227733AB
+PCM connector C-50 terminal 24 <A/T> when checking No.
+CONNECTORS:C-49<M/T>,C-50<A/T> 3 cylinder.
+d. Check the harness wire between injector connector B-06
+terminal 2 and ECM connector C-49 terminal 15 <M/T> or
+ECM<M/T>
+OR PCM connector C-50 terminal 2 <A/T> when checking No. 4
+PCM<A/T>
+cylinder.
+Q:Is the harness wire in good condition?
+YES : Go to Step 11.
+NO : Repair it. Then go to Step 12.
+C-49,C-50
+AK000280BC
+TSB Revision

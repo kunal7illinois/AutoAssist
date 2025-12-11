@@ -1,0 +1,18 @@
+ES–269
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+Battery Current Sensor
+ECM
+IB IB
+VC5 VCIB ES
+E2 EIB
+THB THB
+A127296E01
+INSPECTION PROCEDURE
+HINT:
+• If different DTCs that are related to a different system are output simultaneously while terminal E2 is
+used as a ground terminal, terminal E2 may be open.
+• Read freeze frame data using the intelligent tester. Freeze frame data records the engine conditions
+when malfunctions are detected. When troubleshooting, freeze frame data can help determine if the
+vehicle was running or stopped, if the engine was warmed up or not, if the air-fuel ratio was lean or
+rich, and other data from the time the malfunction occurred.

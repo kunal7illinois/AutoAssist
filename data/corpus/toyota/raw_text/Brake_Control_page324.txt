@@ -1,0 +1,65 @@
+BC–313
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+2. ACTIVE TEST
+HINT:
+Performing the Active Test using the intelligent tester
+allows the relay, actuator, and other items to operate
+without removing any parts. Performing the Active Test
+as the first step in troubleshooting is one of the methods
+to save labor time.
+It is possible to display the Data List during the Active
+Test.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) From the display on the tester, select the Active
+Test.
+HINT:
+The ignition switch must be turned on (IG) to
+proceed to the Active Test using the intelligent
+tester.
+Item (Display) Vehicle Condition / Test Details Diagnostic Note
+BC
+Operating sound of solenoid
+SFRR Turns ABS solenoid (SFRR) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SFRH Turns ABS solenoid (SFRH) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SFLR Turns ABS solenoid (SFLR) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SFLH Turns ABS solenoid (SFLH) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SRRR Turns ABS solenoid (SRRR) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SRRH Turns ABS solenoid (SRRH) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SRLR Turns ABS solenoid (SRLR) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SRLH Turns ABS solenoid (SRLH) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SRM2 Turns master cut solenoid (SRM2) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SRM1 Turns master cut solenoid (SRM1) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SRC2 Turns master cut solenoid (SRC2) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SRC1 Turns master cut solenoid (SRC1) ON / OFF
+(clicking sound) can be heard
+Operating sound of relay (clicking
+MOTOR RELAY Turns ABS motor relay ON / OFF
+sound) and motor can be heard
+ABS WARN LAMP Turns ABS warning light ON / OFF Observe combination meter
+VSC WARN LAMP Turns VSC warning (master caution indicator) light ON / OFF Observe combination meter
+SLIP INDI LAMP Turns SLIP indicator light ON / OFF Observe combination meter
+BRAKE WARN LAMP Turns BRAKE warning light ON / OFF Observe combination meter
+BUZZER Turns skid control buzzer ON / OFF Buzzer can be heard

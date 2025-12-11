@@ -1,0 +1,40 @@
+WS–39
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+Front Passenger Side Power Window Motor Circuit
+DESCRIPTION
+This circuit transmits signals from the power window regulator switch assembly (Front RH) to the power
+window regulator motor (Front RH).
+WS
+WIRING DIAGRAM
+H6
+Power Window Regulator Switch
+Assembly (Front RH)
+H4
+Power Window Regulator Motor (Front RH)
+2 4
+U
+1 1
+D
+C
+B137065E01
+INSPECTION PROCEDURE
+1 INSPECT POWER WINDOW REGULATOR MOTOR
+(a) Remove the power window motor.
+Motor Gear (b) Apply battery voltage to the motor connector according
+to the table below.
+NOTICE:
+Do not apply battery voltage to any terminals except
+Clockwise
+terminals 1 and 2.
+Standard
+Couterclockwise
+Measurement Condition Specified Condition
+Battery positive (+) → Terminal 1
+Motor gear rotates clockwise
+B127536E02 Battery negative (-) → Terminal 2
+Battery positive (+) → Terminal 2
+Motor gear rotates counterclockwise
+Battery negative (-) → Terminal 1
+NG REPLACE POWER WINDOW REGULATOR
+MOTOR
+OK

@@ -1,0 +1,62 @@
+ST–22
+2GR-FE STARTING – SMART KEY SYSTEM
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Output voltage at terminal
+P (E9-2) - GND3 (E8-1) G - W-B Shift lock signal Shift lever P position AM1 or AM2 is -2 V or
+more.
+P (E9-2) - GND3 (E8-1) G - W-B Shift lock signal Shift lever not P position Below 1 V
+Brake pedal depressed, 0.1 to 0.8 V *1
+shift lever P position, → Output voltage at
+ACCR (E6-3) - GND3 (E8-1) P - W-B Starter assist signal
+engine switch is pushed terminal AM1 or AM2 is -2
+once → on (IG) V or more.
+Output voltage at terminal
+Starter activation request Brake pedal depressed,
+STSW (E9-4) - GND3 (E8-1) GR - W-B AM1 or AM2 is -2 V or
+signal engine switch held on (ST)
+more.
+Park/neutral position
+STR (E7-8) - GND3 (E8-1) G - W-B Shift lever P or N position Below 1 V
+switch
+Brake pedal depressed, Output voltage at terminal
+STR2 (E9-6) - GND3 (E8-1) V - W-B Starter signal shift lever P or N position, AM1 or AM2 is -3.5 V or
+engine switch on (ST) more. *2
+Output voltage at terminal
+Brake pedal depressed,
+INDS (E7-15) - GND3 (E8-1) LG - W-B Vehicle condition signal AM1 or AM2 is -3 V or
+shift lever P position.
+more.
+Brake pedal depressed,
+Output voltage at terminal
+shift lever P position,
+INDW (E7-14) - GND3 (E8-1) P - W-B Warning signal AM1 or AM2 is -3 V or
+engine switch on (ACC,
+more.
+IG)
+Output voltage at terminal
+Light control switch TAIL
+SWIL (E7-25) - GND3 (E8-1) O - W-B Illumination signal AM1 or AM2 is -2 V or
+or HEAD
+more.
+HINT:
+*1: Voltage is output only when the engine is
+cranking.
+*2: Voltage is output for 0.3 seconds when the
+engine is cranking to start. Disconnect the C55
+connector from the ECM before measuring the
+voltage.
+If the result is not as specified, the ECU may have a
+malfunction.
+(e) Using an oscilloscope, check the signal waveform of
+the ECU.
+(1) Waveform 1
+Waveform 1 (Reference):
+Terminal No. E8-9 (SPD) - Body ground
+Tool Setting 5 V/DIV., 10 ms./DIV.
+GND
+Vehicle Condition Driving at approx. 20 km/h (12 mph)
+HINT:
+As the vehicle speed increases, the wavelength
+I042329E01
+shortens.
+ST

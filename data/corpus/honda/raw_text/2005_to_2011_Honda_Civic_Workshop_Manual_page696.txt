@@ -1,0 +1,38 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Battery voltage
+With engine
+running in P,
+R, N, 1, and D
+(in 1st, 3rd,
+and 5th gears),
+and D3 (in 1st
+and 3rd gears)
+About 0 V
+B11 GRN/RED SH D (SHIFT Drivers shift With engine
+SOLENOID VALVE solenoid running in P
+D) valve D and R: Battery
+voltage
+With engine
+running in N:
+About 0 V
+B12 RED/BLK ATP N Detects In N: About 0
+(TRANSMISSION transmission V
+RANGE SWITCH N) range switch In any position
+N position other than N:
+signal About 5.0 V
+B13 BLU/BLK ATP P Detects In P: About 0
+(TRANSMISSION transmission V
+RANGE SWITCH P) range switch In any position
+P position other than P:
+signal About 5.0 V
+B14 WHT/GRN ATP R Detects In R: About 0
+(TRANSMISSION transmission V
+RANGE SWITCH R) range switch In any position
+R position other than R:
+signal About 5.0 V
+B15 RED ATP D3 Detects In D3: About 0
+(TRANSMISSION transmission V
+RANGE SWITCH range switch In any position
+D3) D3 position other than D3:

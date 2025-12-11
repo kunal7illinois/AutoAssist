@@ -1,0 +1,38 @@
+ES–238
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1 CHECK STOP LIGHT SWITCH ASSEMBLY (TERMINAL B VOLTAGE)
+(a) Disconnect the A3 stop light switch connector.
+Wire Harness Side:
+(b) Turn the ignition switch ON.
+(c) Measure the voltage between the terminals of the A3
+A3
+B stop light switch connector and body ground.
+Stop Light Standard voltage
+Switch
+Connector Tester Connections Specified Conditions
+A3-2 (B) - Body ground 9 to 14 V
+B
+Front View
+A3-3 (B) - Body ground 9 to 14 V
+ES (d) Reconnect the stop light switch connector.
+A056986E08
+NG Go to step 4
+OK
+2 INSPECT STOP LIGHT SWITCH ASSEMBLY
+(a) Remove the stop light switch.
+Not Pushed
+(b) Check the resistance.
+Standard resistance
+2 1
+Pushed
+Tester Connections Switch Positions Specified Conditions
+Switch pin not pushed Below 1 Ω
+1 - 2
+Switch pin pushed 10 kΩ or higher
+Switch pin not pushed 10 kΩ or higher
+3 - 4
+Switch pin pushed Below 1 Ω
+4 3
+A072924E25 (c) Reinstall the stop light switch.
+NG REPLACE STOP LIGHT SWITCH ASSEMBLY
+OK

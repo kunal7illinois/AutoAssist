@@ -1,0 +1,29 @@
+BOSE Surround Sound
+In the Audi TT Coupé ’07, a BOSE surround sound system is optional in combination with the concert and
+symphony radios as well as Audi navigation systems. The sound system features BOSE 6000 amplifier
+technology with 8-channel DSP amplifier and Audio Pilot which set new standards for this automobile class.
+The amplifier drives a total of 12 loudspeakers. It was adapted specially for use in the TT Coupé.
+Compared with the standard sound system, a three-way system and an additional subwoofer are installed in
+the left-hand side trim of the rear seat bench. As with other current BOSE sound systems - a microphone is
+integrated in the overhead module to record background noise. The DSP amplifier utilises the background
+noise information picked up by the microphone to frequency-adjust the output signals to the loudspeakers,
+resulting in a well-balanced sound.
+All loudspeakers are diagnosed via the amplifier, i.e. via address word 47. Vehicle model, equipment,
+networking and type of driving noise compensation are also coded in the amplifier.
+R164 R22 R104
+R23
+R158
+R160
+R16
+R20
+R103
+R21
+J525
+R159
+R14
+R148 382_052
+R164 R158 R22 R104 R23 R160 R16
+J525
+R148 R20 R103 R21 R159 R14
+382_055
+49

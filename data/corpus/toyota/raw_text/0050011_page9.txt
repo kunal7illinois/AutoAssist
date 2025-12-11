@@ -1,0 +1,76 @@
+ES–55
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(c) Turn the tester ON.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST.
+(e) Perform the ACTIVE TEST by referring to the table
+below.
+ECM:
+Intelligent Tester Displays Test Details Control Ranges Diagnostic Notes
+• All injectors tested at same
+time
+• Perform test at less than
+INJ VOL Change injection volume Between -12.5 and 24.8 % 3,000 rpm
+• Injection volume can be
+changed in 0.1 % graduations
+within control range
+ES
+• Perform test at less than
+3,000 rpm
+• A/F CONTROL enables
+checking and graphing of A/F
+(Air-Fuel Ratio) sensor and
+Heated Oxygen (HO2) sensor
+Decrease by 12.5 % or increase voltage outputs
+A/F CONTROL Change injection volume
+by 24.8 % • To conduct test, select
+following menu items:
+ACTIVE TEST / A/F
+CONTROL / USER DATA /
+AFS B1S1 and O2S B1S2;
+then press YES and ENTER
+followed by F4.
+EVAP VSV (ALONE) Activate purge VSV control ON/OFF -
+-128 to 127 %
+Engine stall or rough idle when
+This value added to present OCV
+VVT actuator operated by 100 %.
+VVT B1 Control VVT (bank 1) control duty
+Test possible while vehicle
+100 %: Maximum advance
+stopped and engine idling
+-100 %: Maximum retard
+• Engine stalls or idles roughly
+when OCV turned ON
+Turn on and off OCV • Normal engine running or
+VVT CTRL B1 ON/OFF
+(Oil Control Valve) idling when OCV OFF
+• Test possible while vehicle
+stopped and engine idling
+Activate fuel pump (C/OPN Test possible when engine
+FUEL PUMP / SPD ON/OFF
+Relay) stopped
+• ON: TC and TE1 connected
+Turn on and off TC and TE1
+TC/TE1 ON/OFF • OFF: TC and TE1
+connection
+disconnected
+FC IDL PROHBT Prohibit idling fuel cut control ON/OFF -
+COOLING FAN Control electric cooling fan ON/OFF -
+ETCS OPEN SLOW Throttle actuator ON: Throttle valve opens slowly Test possible when following
+conditions met:
+ETCS CLOSE SLOW Throttle actuator ON: Throttle valve closes slowly
+• Engine stopped
+ETCS OPEN FAST Throttle actuator ON: Throttle valve opens fast • Shift position in P
+• Fully depressing accelerator
+ETCS CLOSE FAST Throttle actuator ON: Throttle valve closes fast
+pedal (APP: 59° or more)
+FUEL CUT #1 Cylinder #1 injector fuel cut ON/OFF
+Test possible during vehicle
+FUEL CUT #2 Cylinder #2 injector fuel cut ON/OFF stopping and engine idling
+FUEL CUT #3 Cylinder #3 injector fuel cut ON/OFF ON: All cylinder injector fuel cut
+and ignition stop
+FUEL CUT #4 Cylinder #4 injector fuel cut ON/OFF
+FUEL CUT ALL All cylinder injector fuel cut ON/OFF ON: All cylinder injector fuel cut
+VACUUM PUMP Leak detection pump ON/OFF -
+VENT VALVE Vent valve ON/OFF -

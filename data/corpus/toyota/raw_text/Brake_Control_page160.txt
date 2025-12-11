@@ -1,0 +1,83 @@
+BC–154
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Measurement Item / Range
+Item (Display) Normal Condition Diagnostic Note
+(Display)
+FR wheel acceleration / min.: - Min.: -200.84 m/s2
+FR WHEEL ACCEL -
+200.84 m/s2, max.: 199.27 m/s2 Max.: 199.27 m/s2
+FL wheel acceleration / min.: - Min.: -200.84 m/s2
+FL WHEEL ACCEL -
+200.84 m/s2, max.: 199.27 m/s2 Max.: 199.27 m/s2
+RR wheel acceleration / min.: - Min.: -200.84 m/s2
+RR WHEEL ACCEL -
+200.84 m/s2, max.: 199.27 m/s2 Max.: 199.27 m/s2
+RL wheel acceleration / min.: - Min.: -200.84 m/s2
+RL WHEEL ACCEL -
+200.84 m/s2, max.: 199.27 m/s2 Max.: 199.27 m/s2
+Memorized zero value / min.: - Min.: -25.11 m/s2
+ZERO DECELERAT -
+25.11 m/s2, max.: 24.91 m/s2 Max.: 24.91 m/s2
+Memorized zero value / min.: - Min.: -25.11 m/s2
+ZERO DECELERAT 2 -
+25.11 m/s2, max.: 24.91 m/s2 Max.: 24.91 m/s2
+Memorized zero value / min.: - Min.: -3,276.8 deg
+ZERO STEERING -
+3,276.8 deg, max.: 3,276.7 deg Max.: 3,276.7 deg
+Lateral G / min.: -25.11 m/s2, Min.: -25.11 m/s2
+LATERAL G -
+BC max.: 24.91 m/s2 Max.: 24.91 m/s2
+Forward and rearward G / min.: - Min.: -25.11 m/s2
+FORWARD&REA G -
+25.11 m/s2, max.: 24.91 m/s2 Max.: 24.91 m/s2
+Yaw rate value / min.: -128 deg/s, Min.: -128 deg/s
+YAW RATE VALUE -
+max.: 127 deg/s Max.: 127 deg/s
+Steering angle value / min.: - Min.: -3,276.8 deg
+STEERING ANGLE -
+3,276.8 deg, max.: 3,276.7 deg Max.: 3,276.7 deg
+TRAC STATUS TRAC control status / ON or OFF ON: During the control -
+TRAC engine control status / ON
+TRAC ENG STATUS ON: During the control -
+or OFF
+TRAC brake control status / ON
+TRAC BRK STATUS ON: During the control -
+or OFF
+FR wheel VSC control status / ON
+FR VSC STATUS ON: During the control -
+or OFF
+FL wheel VSC control status / ON
+FL VSC STATUS ON: During the control -
+or OFF
+RR wheel VSC control status /
+RR VSC STATUS ON: During the control -
+ON or OFF
+RL wheel VSC control status / ON
+RL VSC STATUS ON: During the control -
+or OFF
+FR wheel ABS control status / ON
+FR ABS STATUS ON: During the control -
+or OFF
+FL wheel ABS control status / ON
+FL ABS STATUS ON: During the control -
+or OFF
+RR wheel ABS control status /
+RR ABS STATUS ON: During the control -
+ON or OFF
+RL wheel ABS control status / ON
+RL ABS STATUS ON: During the control -
+or OFF
+RR wheel EBD control status /
+RR EBD STATUS ON: During the control -
+ON or OFF
+RL wheel EBD control status / ON
+RL EBD STATUS ON: During the control -
+or OFF
+BA STATUS BA control status / ON or OFF ON: During the control -
+PBA STATUS PBA control status / ON or OFF ON: During the control -
+Inspection mode / OTHER or
+INSPECTION MODE - -
+INSPECT
+Number of ignition switch on (IG)
+#IG ON2 after entering the inspection - -
+mode / min.: 0, max.: 255

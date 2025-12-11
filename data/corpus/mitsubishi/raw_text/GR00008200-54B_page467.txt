@@ -1,0 +1,47 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-467
+SYMPTOM PROCEDURES
+CONNECTOR: C-119
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the signal is not normal, the equipment and func-
+The ETACS-ECU operates the following equipment
+tion(s), which are described in "CIRCUIT OPERA-
+and function(s) according to signal from the ignition
+TION", do not work normally.
+switch (ACC):
+• Windshield wiper and washer
+.
+• Interior light automatic-shutdown function TROUBLESHOOTING HINTS
+• Malfunction of the ETACS-ECU
+. • Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Measure at ETACS-ECU connector C-119 in order
+to check the line from the ignition switch (ACC).
+(1) Disconnect ETACS-ECU connector C-119, and measure at
+CONNECTOR: C-119 the junction block side.
+DEVICE SIDE
+(2) Turn the ignition switch to the "ACC" position.
+1 2 3 4 5 6 7 8 91011121314151617181920
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+(3) Measure the voltage between terminal 4 and ground.
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Replace the ETACS-ECU. If the equipment, which
+are described in "CIRCUIT OPERATION", work
+CONNECTOR C-119
+normally, the input signal from the ignition switch
+(JUNCTION BLOCK SIDE)
+(ACC) should be normal.
+NO : Go to Step 2.
+20191817161514131211109 8 7 6 5 4 3 2 1
+AC101929AD
+TSB Revision

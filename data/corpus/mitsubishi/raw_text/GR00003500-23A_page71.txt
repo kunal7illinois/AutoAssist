@@ -1,0 +1,51 @@
+AUTOMATIC TRANSAXLE 23A-71
+AUTOMATIC TRANSAXLE DIAGNOSIS
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Using scan tool MB991502, check data list item 15:
+A/T Fluid Temperature Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine.
+(3) Set scan tool MB991502 to data reading mode for item 15:
+A/T Fluid Temperature Sensor.
+• At cool condition: Almost equal to the ambient tempera-
+ture (atmospheric temperature)
+• At warm condition: 70 to 80°C (158 to 176°F)
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the sensor operating properly?
+MB991502
+AC001252AB YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Go to Step 2.
+STEP 2. Check the ground voltage at PCM connector C-54
+<2.4L Engine> or C-55 <3.0L Engine> by backprobing.
+(1) Do not disconnect connector C-54 <2.4L Engine> or C-55
+CONNECTOR: C-54 <2.4L ENGINE> OR
+<3.0L Engine>.
+C-55 <3.0L ENGINE>
+(2) Turn the ignition switch to the "ON" position.
+PCM
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+(3) Measure the voltage between terminal 57 and ground by
+backprobing.
+• Voltage should be 0.5 volt or less.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 5.
+C-54 <2.4L ENGINE> OR
+C-55 <3.0L ENGINE> NO : Go to Step 3.
+CONNECTOR HARNESS
+SIDE VIEW
+AC001791AD
+TSB Revision

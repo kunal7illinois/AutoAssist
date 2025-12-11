@@ -1,0 +1,48 @@
+CA–22
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+(2) Measure the resistance according to the
+value(s) in the table below.
+Standard resistance
+Terminals Condition Specified Condition
+A24-41 (CANH) - A29-49 (CANL) Ignition Switch off 108 to 132 Ω
+(3) Measure the resistance according to the
+ECM Wire Harness View:
+value(s) in the table below.
+A24 CANH C24
+BATT
+E1
+CANL
+C136709E05
+Standard resistance
+Terminals Wiring Color Terminal Description Condition Specified Condition
+HIGH-level CAN bus wire -
+CA A24-41 (CANH) - A24-49 (CANL) B - W LOW-level CAN bus wire Ignition Switch off 108 to 132 Ω
+HIGH-level CAN bus wire -
+A24-41 (CANH) - C24-104 (E1) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+LOW-level CAN bus wire -
+A24-49 (CANL) - C24-104 (E1) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+HIGH-level CAN bus wire -
+A24-41 (CANH) - A24-20 (BATT) B - Y Ignition Switch off 6 kΩ or higher
+Battery positive
+LOW-level CAN bus wire -
+A24-49 (CANL) - A24-20 (BATT) W - Y Ignition Switch off 6 kΩ or higher
+Battery positive
+(b) 2GR-FE
+ECM:
+CANH A55
+(cid:20)(cid:21) (cid:20)(cid:20) (cid:20)(cid:19) (cid:20)(cid:18) (cid:19)(cid:27) (cid:19)(cid:26) (cid:19)(cid:25) (cid:19)(cid:24) (cid:19)(cid:23) (cid:19)(cid:22) (cid:19)(cid:21) (cid:19)(cid:20) (cid:19)(cid:19) (cid:19)(cid:18) (cid:27) (cid:26) (cid:25) (cid:24) (cid:23) (cid:22) (cid:21) (cid:20) (cid:19) (cid:19)(cid:19) (cid:19)(cid:18) (cid:27) (cid:26) (cid:25) (cid:24) (cid:23) (cid:22) (cid:21) (cid:20) (cid:19)
+(cid:22)(cid:18) (cid:21)(cid:27) (cid:21)(cid:26) (cid:21)(cid:25) (cid:21)(cid:24) (cid:21)(cid:23) (cid:21)(cid:22) (cid:21)(cid:21) (cid:21)(cid:20) (cid:21)(cid:19) (cid:21)(cid:18) (cid:20)(cid:27) (cid:20)(cid:26) (cid:20)(cid:25) (cid:20)(cid:24) (cid:20)(cid:23) (cid:20)(cid:22) (cid:19)(cid:27) (cid:19)(cid:26) (cid:19)(cid:25) (cid:19)(cid:24) (cid:19)(cid:23) (cid:19)(cid:22) (cid:19)(cid:21) (cid:19)(cid:20)
+(cid:22)(cid:24) (cid:22)(cid:23) (cid:22)(cid:22) (cid:22)(cid:21) (cid:22)(cid:20) (cid:22)(cid:19) (cid:24)(cid:21) (cid:24)(cid:20) (cid:24)(cid:19) (cid:24)(cid:18) (cid:23)(cid:27) (cid:23)(cid:26) (cid:23)(cid:25) (cid:23)(cid:24) (cid:23)(cid:23) (cid:23)(cid:22) (cid:23)(cid:21) (cid:23)(cid:20) (cid:23)(cid:19) (cid:23)(cid:18) (cid:22)(cid:27) (cid:22)(cid:26) (cid:22)(cid:25) (cid:21)(cid:18) (cid:20)(cid:27) (cid:20)(cid:26) (cid:20)(cid:25) (cid:20)(cid:24) (cid:20)(cid:23) (cid:20)(cid:22) (cid:20)(cid:21) (cid:20)(cid:20) (cid:20)(cid:19) (cid:20)(cid:18)
+(cid:26)(cid:24) (cid:26)(cid:23) (cid:26)(cid:22) (cid:26)(cid:21) (cid:26)(cid:20) (cid:26)(cid:19) (cid:26)(cid:18) (cid:25)(cid:27) (cid:25)(cid:26) (cid:25)(cid:25) (cid:25)(cid:24) (cid:25)(cid:23) (cid:25)(cid:22) (cid:25)(cid:21) (cid:25)(cid:20) (cid:25)(cid:19) (cid:25)(cid:18) (cid:24)(cid:27) (cid:24)(cid:26) (cid:24)(cid:25) (cid:24)(cid:24) (cid:24)(cid:23) (cid:24)(cid:22) (cid:22)(cid:19) (cid:22)(cid:18) (cid:21)(cid:27) (cid:21)(cid:26) (cid:21)(cid:25) (cid:21)(cid:24) (cid:21)(cid:23) (cid:21)(cid:22) (cid:21)(cid:21) (cid:21)(cid:20) (cid:21)(cid:19)
+(cid:19)(cid:18)(cid:21)(cid:19)(cid:18)(cid:20)(cid:19)(cid:18)(cid:19)(cid:19)(cid:18)(cid:18) (cid:27)(cid:27) (cid:27)(cid:26) (cid:27)(cid:25) (cid:27)(cid:24) (cid:27)(cid:23) (cid:27)(cid:22) (cid:27)(cid:21) (cid:27)(cid:20) (cid:27)(cid:19) (cid:27)(cid:18) (cid:26)(cid:27) (cid:26)(cid:26) (cid:26)(cid:25) (cid:22)(cid:27) (cid:22)(cid:26) (cid:22)(cid:25) (cid:22)(cid:24) (cid:22)(cid:23) (cid:22)(cid:22) (cid:22)(cid:21) (cid:22)(cid:20)
+(cid:19)(cid:18)(cid:27) (cid:19)(cid:18)(cid:26) (cid:19)(cid:18)(cid:25) (cid:19)(cid:18)(cid:24) (cid:19)(cid:18)(cid:23) (cid:19)(cid:18)(cid:22) (cid:19)(cid:20)(cid:24)(cid:19)(cid:20)(cid:23)(cid:19)(cid:20)(cid:22)(cid:19)(cid:20)(cid:21)(cid:19)(cid:20)(cid:20)(cid:19)(cid:20)(cid:19)(cid:19)(cid:20)(cid:18)(cid:19)(cid:19)(cid:27)(cid:19)(cid:19)(cid:26)(cid:19)(cid:19)(cid:25)(cid:19)(cid:19)(cid:24)(cid:19)(cid:19)(cid:23)(cid:19)(cid:19)(cid:22)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)(cid:20)(cid:19)(cid:19)(cid:19)(cid:19)(cid:19)(cid:18) (cid:24)(cid:18) (cid:23)(cid:27) (cid:23)(cid:26) (cid:23)(cid:25) (cid:23)(cid:24) (cid:23)(cid:23) (cid:23)(cid:22) (cid:23)(cid:21) (cid:23)(cid:20) (cid:23)(cid:19) (cid:23)(cid:18)
+CANL
+A107881E23
+(1) Disconnect the A55 connector from the ECM.
+(2) Measure the resistance according to the
+value(s) in the table below.
+Standard resistance
+Terminals Condition Specified Condition
+A55-41 (CANH) - A55-49 (CANL) Ignition Switch off 108 to 132 Ω

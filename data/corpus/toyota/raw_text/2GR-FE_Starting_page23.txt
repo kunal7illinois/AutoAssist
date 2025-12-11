@@ -1,0 +1,35 @@
+ST–23
+2GR-FE STARTING – SMART KEY SYSTEM
+(2) Waveform 2
+Waveform 2 (Reference):
+Terminal No. E8-8 (TACH) - Body ground
+Tool Setting 5 V/DIV., 10 ms./DIV.
+Vehicle Condition Engine idling
+GND HINT:
+As the engine revolution speed increases, the
+wavelength shortens.
+I042330E01
+(3) Waveform 3
+Waveform 3 (Reference):
+Terminal No. E7-18 (SLP) - Body ground
+Tool Setting 2 V/DIV., 100 ms./DIV.
+Vehicle Condition Steering lock/unlock
+Lock
+2. CHECK CERTIFICATION ECU
+GND
+Unlock
+A130277E01
+E58 E59
+E125964E05
+(a) Disconnect the E58 ECU connector.
+(b) Measure the voltage and resistance of the wire
+harness side connector.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
++B (E58-1) - Body ground W - Body ground +B power supply Always 10 to 14 V
+IG (E58-18) - Body ground LG - Body ground Ignition power supply Engine switch on (IG) 10 to 14 V
+IG (E58-18) - Body ground LG - Body ground Ignition power supply Engine switch off Below 1 V
+LIN (E58-10) - Body ground O - Body ground LIN line Always 10 kΩ or higher
+E (E58-17) - Body ground W-B - Body ground Ground Always Below 1 Ω
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+ST

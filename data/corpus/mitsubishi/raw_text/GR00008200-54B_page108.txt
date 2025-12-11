@@ -1,0 +1,24 @@
+54B-108 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE C-6: Central Door Locking System: Forgotten Key Prevention Function
+does not Work Normally.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+Forgotten Key Prevention Function Circuit
+. .
+CIRCUIT OPERATION TECHNICAL DESCRIPTION (COMMENT)
+The ETACS-ECU operates the forgotten key preven- If the function does not work normally, the input cir-
+tion function according to the following switches: cuit system from the switches or the ETACS-ECU
+• Key reminder switch: OFF may be defective (refer to "CIRCUIT OPERATION").
+• Driver’s or front passenger’s door switch: ON
+• Driver’s or front passenger’s door lock actuator . TROUBLESHOOTING HINTS
+switch: being turned on • Malfunction of the key reminder switch
+The ETACS-ECU operates the forgotten key preven- • Malfunction of the driver’s or front passenger’s
+tion function under the following conditions: door switch
+• Ignition key: inserted into the ignition key cylinder • Malfunction of the driver’s or front passenger’s
+• Driver’s or front passenger’s door: open door lock actuator switch
+• Driver(cid:146)s or front passenger(cid:146)s door lock: being • Malfunction of the ETACS-ECU
+locked • Damaged harness wires or connectors
+TSB Revision

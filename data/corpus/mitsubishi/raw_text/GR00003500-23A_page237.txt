@@ -1,0 +1,39 @@
+AUTOMATIC TRANSAXLE 23A-237
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 7. Check the power supply voltage at A/T control
+relay connector A-17X.
+(1) Disconnect the A/T control relay and measure at the
+connector side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 2 and ground.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+2 1
+YES : Go to Step 11.
+4 3
+NO : Go to Step 8.
+HARNESS
+CONNECTOR: A-17X
+AC100118AD
+STEP 8. Check the power supply voltage at PCM connector
+C-54 <2.4L Engine> or C-55 <3.0L Engine> by backprobing.
+(1) Do not disconnect connector C-54 <2.4L Engine> or C-55
+CONNECTOR: C-54 <2.4L ENGINE> OR
+<3.0L Engine>.
+C-55 <3.0L ENGINE>
+(2) Turn the ignition switch to the "ON" position.
+PCM
+C-54 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+AC001657BA
+(3) Measure the voltage between terminal 50 and ground by
+backprobing.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+C-54 <2.4L ENGINE> OR YES : Go to Step 9.
+C-55 <3.0L ENGINE> NO : Go to Step 10.
+CONNECTOR HARNESS
+SIDE VIEW
+AC002010AD
+TSB Revision

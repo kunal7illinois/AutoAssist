@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 ACCESSORIES & EQUIPMENT Keyless/Power Door Locks/Security System - Civic (All Except Hybrid)
+NO - Go to step 12.
+12. Turn the ignition switch OFF.
+13. Disconnect the driver's door lock actuator 10P connector.
+14. Disconnect under-dash fuse/relay box connector T (34P).
+15. Check for continuity between the No. 31 (UNLOCK) and No. 32 (LOCK)
+terminals of the under-dash fuse/relay box connector T (34P).
+Fig. 11: Checking Continuity Between No. 31 And No. 32 Terminals Of
+Under-Dash Fuse/Relay Box Connector T (34P)
+Is there continuity?
+YES - Repair a short in the wire between the LOCK and UNLOCK wires.
+NO - Substitute a known-good MICU, and recheck. If the symptom/indication
+goes away, replace the original MICU, if not, replace the driver's door lock
+actuator.
+DTC B1128: DRIVER'S DOOR LOCK SWITCH SIGNAL ERROR
+NOTE: If you are troubleshooting multiple DTCs, be sure to follow
+the instructions in B-CAN System Diagnosis Test Mode A
+(see TROUBLESHOOTING - B-CAN SYSTEM DIAGNOSIS
+TEST MODE A ).
+1. Clear the DTCs with the HDS.
+2. Turn the ignition switch OFF, and then back ON (II).
+3. Operate the driver's door lock switch LOCK/UNLOCK several times.

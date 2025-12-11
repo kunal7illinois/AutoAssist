@@ -1,0 +1,30 @@
+CHASSIS - BRAKE CH-107
+5. Outline of TRAC Function
+(cid:3) If the driver presses the accelerator pedal aggressively when initially acceleration or when accelerating
+on a slippery surface, the drive wheels could slip due to the excessive amount of torque that is generated.
+By applying hydraulic brake control to the drive wheels and regulating the throttle to control the engine
+output, the TRAC helps minimize the slippage of the drive wheels, thus generating the drive force that
+is appropriate for the road surface conditions.
+(cid:3) For example, a comparison may be made between two vehicles, one with the TRAC function and the
+other without. If the driver of each vehicle operates the accelerator pedal in a rough manner while driving
+over a surface with different surface friction characteristics, the drive wheel on the slippery surface could
+slip as illustrated. As a result, the vehicle could become unstable.
+However, when the vehicle is equipped with the TRAC function, the skid control ECU instantly
+determines the state of the vehicle and operates the brake actuator in order to apply the brake of the
+slipping drive wheel. Furthermore, the ECM receives the signals from the skid control ECU and regulates
+the throttle in order to control the engine output. Thus, this function can constantly maintain a stable
+vehicle posture.
+(cid:1) Driving condition on road with different surface friction characteristics (cid:2)
+Slippery Surface
+Slippery Surface
+Without TRAC System
+Brake Actuator
+with Skid Control
+With TRAC System
+ECU
+Brake
+ECM the slipping
+drive-wheel
+Regulating the throttle to
+control the engine output
+025CH41TE

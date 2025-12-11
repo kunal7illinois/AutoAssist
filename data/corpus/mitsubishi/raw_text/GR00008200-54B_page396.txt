@@ -1,0 +1,35 @@
+54B-396 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 19. Check the wiring harness between fog light relay
+connector A-04X (terminal 4) and combination meter
+connector C-43 (terminal 13).
+NOTE: Also check intermediate connector C-89. If intermediate
+CONNECTOR: A-04X
+connectors C-89 is damaged, repair or replace the connector
+as described in GROUP 00E, Harness Connector Inspection
+FRONT-ECU P.00E-2.
+DEVICE SIDE
+A-04X
+1 2
+X
+3 4
+AC106537AG
+CONNECTOR: C-43
+DEVICE SIDE
+1 2 3 4 5 6 7 8 9 10111213141516
+AC106473AJ
+Q:Is the wiring harness between fog light relay connector
+CONNECTOR: C-89
+A-04X (terminal 4) and combination meter connector C-
+CONNECTOR BLOCK (LH)
+43 (terminal 13) in good condition?
+YES : Replace the combination meter. Check that the fog
+light indicator light illuminates normally.
+NO : Repair the wiring harness. Check that the fog light
+indicator light illuminates normally.
+1 2 3 4 5 6 7 8 910 111213
+141516171819202122232425
+262728 29 30 31 38
+3233 34 35 36 37
+AC106477AC
+TSB Revision

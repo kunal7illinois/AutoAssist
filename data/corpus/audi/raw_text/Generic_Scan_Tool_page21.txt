@@ -1,0 +1,48 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Work procedure
+– Connect the scan tool.
+– Start the engine and run at idle.
+Note
+If the engine does not start, crank the engine using starter for at
+least 5 seconds, do not switch the ignition off afterward.
+– Select “Mode 6: Check test the results of components that are
+not continuously monitored”.
+– Select the desired “Monitor-ID” of the component or system
+that is to be monitored, e.g. “Monitor-ID 01: Oxygen Sensor
+Monitor Bank 1 - Sensor 1”.
+– Select the desired “Test-ID”.
+The current minimum and maximum values will be displayed on
+the scan tool screen.
+The following table is a numerical list of all“Monitor ID's” or “Hex
+ID's” that may be selected.
+Monitor-ID Component or System
+$01: ⇒ page 17 Oxygen Sensor Monitor Bank 1 - Sensor 1
+$02: ⇒ page 18 Oxygen Sensor Monitor Bank 1 - Sensor 2
+$21 ⇒ page 18 Catalytic Converter Monitoring
+$35 ⇒ page 19 VVT Monitor Response Time/Target Error
+$3A ⇒ page 19 Fuel Tank EVAP System Integrity/Leak Test (0.90)
+$3B: ⇒ page 20 Fuel Tank EVAP System Integrity/Leak Test (0.40/1.0 mm)
+$3C: ⇒ page 20 Fuel Tank EVAP System Integrity/Leak Test (0.20/0.5 mm)
+$3D: ⇒ page 21 EVAP Valve Function Check
+$41: ⇒ page 21 Oxygen Sensor Heater Monitor Bank 1 - Sensor 1
+$42: ⇒ page 22 Oxygen Sensor Heater Monitor Bank 1 - Sensor 2
+$A2: ⇒ page 22 Misfire Cylinder 1 Data
+$A3: ⇒ page 23 Misfire Cylinder 2 Data
+$A4: ⇒ page 23 Misfire Cylinder 3 Data
+$A5: ⇒ page 23 Misfire Cylinder 4 Data
+$A6 ⇒ page 24 Misfire Cylinder 5 Data
+Monitor-ID $01 (01): Oxygen Sensor Monitor Bank 1 - Sensor 1
+– Connect the scan tool.
+– Start the engine and run at idle.
+– Select “Mode 6: Check test the results of components that are
+not continuously monitored”.
+Select “Monitor-ID $01 (01)”.
+– Select the desired “Test-ID” or “Hex-ID”.
+– Check specified values at idle.
+Test-ID DTC Component or System Min. Max. Additional Information
+$83 P0133 Oxygen sensor signal dynamic 0.3 1.999 Refer to DTC P0133 in
+Bank 1 Sensor 1 the DTC summary table.
+⇒ page 40 .
+17
+3. Diagnosis and Testing

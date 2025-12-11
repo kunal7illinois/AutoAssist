@@ -1,0 +1,47 @@
+Audi TT No. 1 / 17
+Current Flow Diagram
+Onboard supply control unit, left and right tail light
+J519 Onboard supply control unit
+M6 Rear left turn signal bulb
+M8 Rear right turn signal bulb
+M16 Left reversing light bulb
+M17 Right reversing light bulb
+M21 Left brake and tail light bulb
+M22 Right brake and tail light bulb
+M58 Left brake and tail light bulb 2
+M59 Right brake and tail light bulb 2
+T6k 6-pin connector, black, on left tail light
+T6l 6-pin connector, black, on right tail light
+T12c 12-pin connector, black, connector B, on onboard power supply
+control unit
+T12d 12-pin connector, brown, connector C, on onboard supply
+control unit
+43 Earth point, lower part of right A-pillar
+51 Earth point, on right in luggage compartment
+J519
+390 Earth connection 25, in main wiring harness
+T12d T12d T12c/7 T12d/2 T12d/12 T12c/1 T12c/5 T12d/3 T12c/9 T12c
+/11 /10 /10
+395 Earth connection 30, in main wiring harness
+✱
+0,5 0,5 0,5 0,5 0,5 0,35 0,5 0,5 0,5 0,5 0,5
+gr/ro gr/sw gr/ws ws sw/bl sw/bl sw/bl ws gr/ws gr/sw gr/ro
+662 Earth point, rear left side panel
+330099 * models with automatic anti-dazzle interior mirror only
+T6k/6 T6k/5 T6k/4 T6k/3 T6k/2 T6l/6 T6l/3 T6l/4 T6l/1 T6l/2
+M6 M21 M6 M58 M16 M17 M59 M8 M22 M8
+T6k/1 T6l/5
+31 31
+ws = white
+sw = black
+ro = red
+4,0 1,5 1,5 1,5 br = brown
+br br br br gn = green
+390 395 bl = blue
+390 395 gr = grey
+43 662 51 li = purple
+ge = yellow
+211 212 213 214 215 216 217 218 219 220 221 222 223 224 or = orange
+8J0-001170806
+rs = pink
+Edition 04.2008

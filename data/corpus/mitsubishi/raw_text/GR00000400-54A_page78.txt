@@ -1,0 +1,22 @@
+54A-78 CHASSIS ELECTRICAL
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 6. Check the ignition signal input circuit at the
+combination meter connector C-42.
+(1) Disconnect the combination meter connector C-42.
+CONNECTOR: C-42
+(2) Start the engine and run at idle.
+DEVICE SIDE
+2122232425262728 293031323334
+AC106473AI
+(3) Measure the voltage between terminal 33 and ground.
+CONNECTOR: C-42
+• The measured value should be between approximately
+(HARNESS SIDE)
+10 and 12 volts.
+(4) Check that the voltage drops below the standard value.
+Q:Does the measured voltage correspond with this range?
+YES : Repair or replace the combination meter (printed-
+circuit board or speedometer and tachometer).
+NO : Go to Step 7.
+AC001277AD
+TSB Revision

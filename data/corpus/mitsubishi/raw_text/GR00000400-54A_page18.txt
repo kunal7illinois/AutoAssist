@@ -1,0 +1,50 @@
+54A-18 CHASSIS ELECTRICAL
+IGNITION SWITCH
+STEP 2. Check the immobilizer-ECU power supply circuit
+by backprobing.
+(1) Do not disconnect immobilizer-ECU connector C-79.
+CONNECTOR: C-79
+(2) Turn the ignition switch to the "ON" position.
+CENTER
+REINFORCEMENT
+IMMOBILIZER-ECU DEVICE SIDE
+1 2 3 4 5
+6 7 8 91011 12
+AC001652AD
+(3) Measure the voltage between terminal 7 and ground by
+HARNESS SIDE
+backprobing.
+C-79
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+1 2 3 4 5
+Q:Does the measured voltage correspond with this range?
+6 7 8 9 10 11 12
+YES : Go to Step 5.
+NO : Go to Step 3.
+AC106893AB
+STEP 3. Check immobilizer-ECU connector C-79 and MFI
+relay connector A-18X for damage.
+Q:Are immobilizer-ECU connector C-79 and MFI relay
+CONNECTOR: A-18X
+connector A-18X damaged?
+YES : Repair or replace the connector. Refer to GROUP
+FRONT-ECU 00E, Harness Connector Inspection P.00E-2. Confirm
+that scan tool MB991502 communicates normally.
+NO : Go to Step 4.
+1
+3
+AC106537AL
+TSB Revision
+X
+DEVICE SIDE
+A-18X
+2
+4
+CONNECTOR: C-79
+CENTER
+REINFORCEMENT
+IMMOBILIZER-ECU DEVICE SIDE
+1 2 3 4 5
+6 7 8 91011 12
+AC001652AD

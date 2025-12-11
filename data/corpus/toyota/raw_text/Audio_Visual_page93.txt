@@ -1,0 +1,43 @@
+AV–93
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+INSPECTION PROCEDURE
+NOTICE:
+The vehicle is equipped with an SRS (Supplemental Restraint System) which includes
+components such as airbags. Before servicing (including removal or installation of parts), be sure
+to read the precautionary notice for the Supplemental Restraint System (See page RS-1).
+1 INSPECT RADIO RECEIVER
+(a) Disconnect the radio receiver connector F8.
+Wire Harness View (Premium Model): (b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester connection Condition Specified condition
+SW1 - SWG No switch is pushed Approx. 100 kΩ
+SW1 - SWG SEEK+ switch: push 0 to 2.5 Ω
+SW1 - SWG SEEK- switch: push Approx. 0.3 kΩ
+F8
+SW1 - SWG VOL+ switch: push Approx. 1 kΩ
+SW1 - SWG VOL- switch: push Approx. 3.1 kΩ
+SW2 - SWG No switch is pushed Approx. 100 kΩ
+SW2
+SW2 - SWG MODE switch: push 0 to 2.5 Ω
+SW1 SWG ON HOOK switch: push
+SW2 - SWG Approx. 0.3 kΩ
+(*1)
+OFF HOOK switch:
+SW2 - SWG Approx. 1 kΩ
+push (*1)
+*1: for Premium model
+Wire Harness View (Standard Model):
+NG Go to step 2
+F8
+SW2
+SWG
+SW1
+E129803E02
+OK
+AV
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+2 INSPECT STEERING PAD SWITCH ASSEMBLY
+(a) Disconnect the steering pad switch assembly connector.
+(b) Measure the resistance according to the values in the
+table below.

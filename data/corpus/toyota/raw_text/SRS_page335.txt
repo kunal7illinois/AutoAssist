@@ -1,0 +1,66 @@
+RS–333
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+6 CHECK FRONT SEAT WIRE RH (SHORT)
+(a) Measure the resistance according to the value(s) in the
+table below.
+T11 (*1)
+SVC3 Standard resistance:
+d1 (*2)
+SVC4 for Power seat
+Tester connection Condition Specified condition
+SVC2
+T11-5 (SVC3) - T11-6
+Always 1 MΩ or Higher
+SVC1 (SVC4)
+*1: for Power Seat
+T11-5 (SVC3) - T11-11
+Always 1 MΩ or Higher
+*2: for Manual Seat (SVC1)
+H043111E44 T11-5 (SVC3) - T11-12
+Always 1 MΩ or Higher
+(SVC2)
+T11-6 (SVC4) - T11-11
+Always 1 MΩ or Higher
+(SVC1)
+T11-6 (SVC4) - T11-12
+Always 1 MΩ or Higher
+(SVC2)
+T11-11 (SVC1) - T11-12
+Always 1 MΩ or Higher
+(SVC2)
+for Manual seat
+Tester connection Condition Specified condition
+d1-5 (SVC3) - d1-6
+Always 1 MΩ or Higher
+(SVC4)
+d1-5 (SVC3) - d1-11
+Always 1 MΩ or Higher
+(SVC1)
+d1-5 (SVC3) - d1-12
+Always 1 MΩ or Higher
+(SVC2)
+RS
+d1-6 (SVC4) - d1-11
+Always 1 MΩ or Higher
+(SVC1)
+d1-6 (SVC4) - d1-12
+Always 1 MΩ or Higher
+(SVC2)
+d1-11 (SVC1) - d1-12
+Always 1 MΩ or Higher
+(SVC2)
+NG REPAIR OR REPLACE FRONT SEAT WIRE
+RH
+OK
+7 CHECK DTC
+(a) Connect the connectors to the occupant classification
+ECU and the 4 occupant classification sensors.
+(b) Connect the negative (-) terminal cable to the battery.
+(c) Turn the ignition switch on (IG).
+(d) Clear the DTCs stored in the center airbag sensor
+assembly (See page RS-41).
+(e) Clear the DTCs stored in the occupant classification
+ECU (See page RS-251).
+(f) Turn the ignition switch off.
+(g) Turn the ignition switch on (IG).
+(h) Check the DTCs (See page RS-251).

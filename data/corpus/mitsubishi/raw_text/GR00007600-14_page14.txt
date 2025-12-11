@@ -1,0 +1,44 @@
+14-14 COOLING SYSTEM
+ENGINE COOLING DIAGNOSIS
+DIAGNOSIS
+Required Special Tool:
+MB991223: Harness Set
+STEP 1. Check the fan control relay.
+Refer to P.14-20.
+Q:Is the fan control relay in good condition?
+YES : Go to Step 2.
+NO : Replace the part, then go to Step 6.
+STEP 2. Check the harness wire between fan control relay
+connector A-09X (terminal number 2) and fan controller
+connector A-30 (terminal number 3).
+Q:Are the harness wire between fan control relay
+CONNECTOR: A-09X
+connector A-09X (terminal number 2) and fan controller
+connector A-30 (terminal number 3) damaged?
+YES : Repair or replace the part, then go to Step 6.
+NO : Go to Step 3.
+A-09X
+AC102598AC
+CONNECTOR: A-30
+RADIATOR
+FAN
+AC000270AB
+STEP 3. Check the circuit at ECM connector C-49 (terminal
+number 21) <2.4L-M/T>, C-51 (terminal number 18) <3.0L-
+M/T> or PCM connector C-50 (terminal number 18) <2.4L-A/
+T>, C-52 (terminal number 18) <3.0L-A/T>.
+(1) Connect ECM connector C-49 (terminal number 21) <2.4L-
+<2.4L-M/T>
+CONNECTOR C-49 M/T>, C-51 (terminal number 18) <3.0L-M/T> or PCM
+connector C-50 (terminal number 18) <2.4L-A/T>, C-52
+(terminal number 18) <3.0L-A/T>.
+(2) Start the engine and run it at idle. [Engine coolant
+<2.4L-A/T, 3.0L> temperature: 80°C (176°F) or less]
+CONNECTOR C-50, C-51, C-52
+(3) Measure the voltage between terminal number 21 <2.4L-M/
+T> or 18 <2.4L-A/T, 3.0L> and ground.
+Q:Is the voltage 0 − 0.3 volt when radiator fan is not
+AC000257AC operating?
+YES : Go to Step 6.
+NO : Go to Step 4.
+TSB Revision

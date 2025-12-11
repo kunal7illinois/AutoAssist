@@ -1,0 +1,36 @@
+ES–463
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Cranking Holding Function Circuit
+DESCRIPTION
+The cranking holding control system provides current to the starter when the ECM detects the engine
+switch's start signal (STSW). When the ECM performs a firing judgment, the system cuts current to the
+starter. When an ECM receives the STSW signal, it turns on the ST CUT relay, which prevents flickering
+of the combination meter, clock, audio system, etc. Also, the ECM sends a signal to the ECM's STAR
+terminal. Then the STAR output signal travels through the park/neutral position (PNP) switch to the
+STARTER relay, causing the starter to activate.
+When the engine is cranking, the starter operation signal is sent to the ECM's STA terminal.
+Keeps cranking until the firing
+ES
+of the engine is judged
+ON
+Start Input Signal (STSW) OFF
+When no cranking holding
+ON control is effected
+OFF
+Start Output Signal (STAR)
+Prevents meters, clock, etc.
+ON from flickering
+ACC Cut Input Signal
+(ACCR) (for start control)
+OFF
+Firing judgment line
+When the NE signal reaches a
+Engine Speed Signal (NE)
+predetermined value, the ECM
+determines that the engine has
+Engine Switch ST Position
+started successfully
+Elapse of Time
+A103821E19
+WIRING DIAGRAM
+Refer to DTC P0617 (See page ES-305).

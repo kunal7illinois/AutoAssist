@@ -1,0 +1,39 @@
+23A-250 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 3. Check the engine.
+Refer to GROUP 13A <2.4L Engine>, Diagnosis − Trouble
+Symptom Chart − Starting P.13A-25 or GROUP 13B <3.0L
+Engine>, Diagnosis − Trouble Symptom Chart − Starting
+P.13B-26.
+Q:Are the engine checks satisfactory?
+YES : Go to Step 4.
+NO : Repair or replace the defective engine components.
+STEP 4. Check the torque converter.
+(1) Remove the starter.
+(2) Turn the torque converter and check for a binding or
+sticking condition. Check the ring gear for damaged or
+missing teeth.
+NOTE: Since the torque converter drives the oil pump, turn-
+ing the torque converter also checks for a binding oil pump.
+If either of these components are damaged the transaxle
+will need to be removed for inspection.
+Q:Dose the torque converter turn freely without any
+missing or damaged teeth?
+AC001857
+YES : Replace the starter and go to Step 5.
+NO : Replace the torque converter. Refer to GROUP 23B,
+Transaxle P.23B-10.
+STEP 5. Replace the oil pump.
+Replace the oil pump (Oil pump cannot be repaired). Refer to
+GROUP 23B, Transaxle P.23B-10. Confirm that the malfunc-
+tion symptom is eliminated.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Go to Step 6.
+AC001858
+STEP 6. Replace the PCM.
+Q:Dose the engine crank when the selector lever is placed
+in the "P" or "N" position?
+YES : Diagnosis is complete.
+NO : Start over at Step 1.
+TSB Revision

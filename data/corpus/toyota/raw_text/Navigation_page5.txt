@@ -1,0 +1,39 @@
+NS–5
+NAVIGATION – NAVIGATION SYSTEM
+Operation Description
+The radio and navigation assembly calculates the current vehicle
+position (direction and current position) using the direction deviation
+Vehicle Position Calculation
+signal from the gyro sensor and the running distance signal from the
+vehicle speed sensor and creates the driving route.
+The radio and navigation assembly displays the vehicle track on the
+Map Display Processing map by processing the vehicle position data, vehicle running track,
+and map data from the map disc.
+The map data from the map disc is compared to the vehicle position
+Map Matching and running track data. Then, the vehicle position is matched with the
+nearest road.
+The vehicle position is matched to the position measured by GPS.
+Then, the measurement position data from the GPS unit is compared
+GPS Correction
+with the vehicle position and running track data. If the position is
+widely different, the GPS measurement position is used.
+The running distance signal from the vehicle speed sensor includes
+the error caused by tire wear and slippage between the tires and road
+surface. Distance correction is performed to account for this. The
+Distance Correction
+radio and navigation assembly automatically offsets the running
+distance signal to make up for the difference between it and the
+distance data of the map. The offset is automatically updated.
+Navigation is performed even where the GPS
+radio wave does not reach.
+GPS Satellite
+In a tunnel
+In an indoor parking lot
+Between tall buildings
+Under an overpass
+On a forest or tree-lined path
+Autonomous Navigation
+Autonomous Navigation and
+GPS Wave Navigation
+NS
+I100028E07

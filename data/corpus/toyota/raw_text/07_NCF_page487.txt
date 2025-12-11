@@ -1,0 +1,28 @@
+BODY ELECTRICAL - SRS AIRBAG SYSTEM BE-153
+Adult Judgment
+(cid:1) When the judgment value is higher than criteria value B, the occupant classification ECU judges that the
+seat is being occupied by an adult.
+(cid:1) If the ignition*1/engine*2 switch is turned ON in this state, the system performs an initial check and
+illuminates the AIRBAG ON indicator light, indicating that the front passenger airbag and the front
+passenger side airbag are active.
+*1: Models without smart key system
+*2: Models with smart key system
+Occupant Classification ECU
+Adult: B < Judgment Value
+ON or OFF Signal
+Front Passenger
+Airbag AIRBAG OFF
+Indicator Light
+Airbag
+Front Passenger
+Sensor
+Side Airbag
+Assembly
+AIRBAG ON
+Indicator Light
+Front Passenger Seat
+Belt Pretensioner
+D13N57
+(cid:1) After the occupant classification ECU judges that the occupant is as adult, and if the judgment value is
+determined as criteria value B or less according to occupant load movement, the ECU continues adult
+judgment for approximately ten seconds before switching the child judgment.

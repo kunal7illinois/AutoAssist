@@ -1,0 +1,50 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+• Ignition switched OFF.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the engine cover. Refer to the Repair Manual.
+Note
+Before disconnecting the Knock Sensor electrical harness con‐
+nectors, mark the component location.
+– Disconnect the Knock Sensor (KS) 1 -G61- electrical harness
+connector or the Knock Sensor (KS) 2 -G66- electrical harness
+connector.
+Checking internal resistance
+– Using a multimeter, check the Knock Sensor terminals 1 to 3
+for an internal short.
+Specified value: ∞ (Infinity or OL reading).
+If the specified value was Not obtained:
+– Replace the shorted Knock Sensor (KS) 1 -G61- / Knock Sen‐
+sor (KS) 2 -G66- .
+If the specified value was obtained:
+Checking wiring
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Using a multimeter, Check the Knock Sensor electrical har‐
+ness connector to the Engine Control Module (ECM) -J623-
+electrical harness connector T60 for an open circuit. Refer to
+Wiring Diagrams for pin locations.
+Knock Sensor (KS) 1 -G61 Engine Control Module (ECM) elec‐
+- electrical harness connec‐ trical harness connector T60 termi‐
+tor terminals nals or test box sockets
+1 39
+2 54
+3 52
+Knock Sensor (KS) 2 -G66 Engine Control Module (ECM) elec‐
+- electrical harness connec‐ trical harness connector T60 termi‐
+tor terminals nals or test box sockets
+1 9
+2 24
+3 52
+Specified value: 1.5 Ω Max.
+If the specified value was Not obtained:
+– Check the wiring connection for an open circuit, short circuit
+to Battery (+) or Ground.
+– Check the wiring connection for damage, corrosion, loose or
+broken terminals.
+– If necessary, repair the faulty wiring connection.
+191
+3. Diagnosis and Testing

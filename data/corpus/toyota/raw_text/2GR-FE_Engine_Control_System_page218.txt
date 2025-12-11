@@ -1,0 +1,47 @@
+ES–218
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK MISFIRE COUNT (CYL #1, #2, #3, #4, #5 AND #6)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Clear DTCs.
+(e) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DATA LIST / MISFIRE / CYL #1, #2, #3, #4, #5
+and #6 (Step "A").
+(f) Allow the engine to idle (Step "B").
+(g) Read the value of CYL #1 to #6 displayed on the tester. If
+no misfire counts occur in any cylinders, perform the
+following operations (Step "C"):
+ES
+(1) Shift the gear selector lever to the D position.
+(2) Repeat steps "A" to "C" above.
+(3) Check the CYL #1 to #6.
+(4) If misfire counts are still no displayed, perform steps
+"D" and "E" and then check the misfire counts again.
+(h) Drive the vehicle with the MISFIRE RPM and MISFIRE
+LOAD noted in step 2 (Step "D").
+(i) Read the CYL #1 to #6 or DTCs displayed on the tester
+(Step "E").
+Result
+Misfire count Proceed to
+1 or 2 cylinders have misfire counts A
+3 cylinders or more have misfire counts B
+B Go to step 13
+A
+5 CHECK SPARK PLUG
+(a) Remove the ignition coil and the spark plug of the
+misfiring cylinder.
+(b) Measure the spark plug electrode gap.
+Standard:
+Between 1.0 mm and 1.4 mm (0.039 in. and 0.055
+in.)
+(c) Check the electrode for carbon deposits.
+Recommended spark plug:
+Electrode Gap
+Manufacture Product
+A107715E01 DENSO FK20HBR11
+NOTICE:
+If the electrode gap is larger than standard, replace
+the spark plug. Do not adjust the electrode gap.
+NG REPLACE SPARK PLUG
+OK

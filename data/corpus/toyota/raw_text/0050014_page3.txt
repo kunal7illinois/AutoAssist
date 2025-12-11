@@ -1,0 +1,49 @@
+ES–75
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+TYPICAL ENABLING CONDITIONS
+P0100 - P0103 (MAF meter)
+P0115 - P0118 (ECT sensor)
+P0125 (Insufficient ECT for closed loop)
+Monitor runs whenever following DTCs not present
+P0335 (CKP sensor)
+P0340 (CMP sensor)
+P0351 - P0354 (Igniter)
+Battery voltage 11 V or more
+Engine RPM 550 to 4,000 rpm
+ECT 75°C (167°F) to 100°C (212°F)
+TYPICAL MALFUNCTION THRESHOLDS
+ES
+Advanced camshaft timing:
+All of following conditions met -
+Crank angle between reference position and actual intake camshaft 67°CA or more
+angle
+Valve timing No change at advanced valve timing
+Retard camshaft timing:
+All of following conditions met -
+Crank angle between reference point and actual intake camshaft Less than 67°CA
+angle
+Valve timing No change at retarded valve timing
+If the difference between the target and actual camshaft timings is greater than the specified value, the
+ECM operates the VVT actuator.
+Then, the ECM monitors the camshaft timing change for 5 seconds.
+WIRING DIAGRAM
+Refer to DTC P0010 (see page ES-64).
+INSPECTION PROCEDURE
+NOTICE:
+DTC P0011 or P0012 may be set when foreign objects in the engine oil are caught in some parts of
+the system. The DTC will remain set even if the system returns to normal after a short time.
+Foreign objects are filtered out by the oil filter.
+HINT:
+If DTC P0011 or P0012 is present, check the VVT (Variable Valve Timing) system.
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P0011 OR P0012)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(d) Read DTCs.
+Result
+Display (DTC Output) Proceed To

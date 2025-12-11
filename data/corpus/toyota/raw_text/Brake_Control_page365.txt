@@ -1,0 +1,41 @@
+BC–354
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+INSPECTION PROCEDURE
+HINT:
+• When U0073/94, U0100/63, U0123/62 and/or U0126/63 is output together with C1231/31, inspect and
+repair the trouble areas indicated by U0073/94, U0100/65, U0123/62 and/or U0126/63 first.
+• When the speed sensor or the yaw rate and acceleration sensor has trouble, DTCs for the steering
+angle sensor may be output even when the steering angle sensor is normal. When DTCs for the speed
+sensor or yaw rate and acceleration sensor are output together with other DTCs for the steering angle
+sensor, inspect and repair the speed sensor and yaw rate and acceleration sensor first, and then
+inspect and repair the steering angle sensor.
+• Check the condition of each related circuit connector before troubleshooting (See page IN-40).
+1 CHECK DTC
+(a) Clear the DTC (See page BC-302).
+(b) Turn the ignition switch off.
+(c) Turn the ignition switch on (IG) again and check that no
+CAN communication system DTC is output.
+BC (d) Drive the vehicle and turn the steering wheel to the right
+and left at the speed of 22 mph (35 km/h) and check that
+no speed sensor and yaw rate and acceleration sensor
+DTCs are output (See page BC-302).
+Result
+Condition Proceed to
+No CAN communication system DTC and the speed sensor or yaw rate and
+A
+acceleration sensor DTC are output
+CAN communication system DTC is output B
+Speed sensor or yaw rate and acceleration sensor DTC is output C
+HINT:
+• If there is a malfunction in the speed sensor or the
+yaw rate and acceleration sensor, an abnormal value
+may be output although the steering angle sensor is
+normal.
+• If the speed sensor and the yaw rate and acceleration
+sensor DTCs are output simultaneously, repair the
+sensors and inspect the steering angle sensor.
+B INSPECT CAN COMMUNICATION SYSTEM
+(See page CA-8)
+C REPAIR CIRCUITS INDICATED BY OUTPUT
+DTCS (See page BC-311)
+A

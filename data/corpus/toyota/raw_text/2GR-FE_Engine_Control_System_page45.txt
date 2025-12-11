@@ -1,0 +1,50 @@
+ES–45
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Symbols (Terminal No.) Wiring Colors Terminal Descriptions Conditions STD Voltages
+A1A- (B46-30) - E1 (C55-81) P - W-B A/F sensor Ignition switch on (IG) 3.0 V*1
+A2A- (C55-119) - E1 (C55-81) Y - W-B A/F sensor Ignition switch on (IG) 3.3 V*1
+A2A- (C55-119) - E1 (C55-81) Y - W-B A/F sensor Ignition switch on (IG) 3.0 V*1
+OX2B (C55-87) - EX2B (C55-64) B - W-R Heated oxygen sensor With engine speed at 2,500 rpm Pulse generation
+OX1B (C55-88) - EX1B (C55-65) W - BR signal for 2 minutes after warming up (see waveform 2)
+*1: The ECM terminal voltage is constant regardless of
+the output voltage from the sensor.
+*2: With Smart Key system
+(a) WAVEFORM 1
+5 V/DIV (1) Camshaft timing Oil Control Valve (OCV)
+operation signal
+Between OC1+ and OC1- , OC2+ and OC2- , OE1+ ES
+ECM Terminal Names
+and OE1- , or OE2+ and OE2-
+Ground Tester Ranges 5 V/DIV, 1 ms./DIV
+Conditions Idling
+HINT:
+1 ms./DIV
+The wavelength becomes shorter as the engine
+A093229E19
+rpm increases.
+(b) WAVEFORM 2
+(1) Heated oxygen sensor signal
+0.2 V/DIV
+ECM Terminal Names Between OX1B and EX1B, or OX2B and EX2B
+Tester Ranges 0.2 V/DIV, 200 ms./DIV
+Engine speed is maintained at 2,500 rpm for 2
+Conditions
+minutes after sensor is warmed up
+Ground HINT:
+In the DATA LIST, item O2S B1S2 shows the
+200 ms./DIV
+ECM input values from the heated oxygen
+A088863E21
+sensor.
+(c) WAVEFORM 3
+(1) Fuel injector operation signal
+30 V/DIV
+ECM Terminal Names Between #10 (to 60) and E01
+Tester Ranges 30 V/DIV, 20 ms./DIV
+Conditions Idling
+Ground
+HINT:
+The wavelength becomes shorter as the engine
+rpm increases.
+20 ms./DIV
+G035622E06

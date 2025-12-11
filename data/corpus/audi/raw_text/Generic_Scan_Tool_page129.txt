@@ -1,0 +1,49 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Note
+Voltage for the Evaporative Emission (EVAP) Canister Purge
+Regulator Valve 1 -N80- is supplied via the Engine Component
+Power Supply Relay -J757- .
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+etc.)
+– Remove the engine cover with air filter. Refer to the Repair
+Manual .
+– Disconnect the Evaporative Emission (EVAP) Canister Purge
+Regulator Valve 1 -N80- electrical harness connector.
+Checking internal resistance
+– Using a multimeter, check the Evaporative Emission (EVAP)
+Canister Purge Regulator Valve 1 -N80- terminals 1 and 2 for
+resistance.
+Specified value: 15.0 to 22.0 Ω.
+If the specified value was Not obtained:
+– Replace the Evaporative Emission (EVAP) Canister Purge
+Regulator Valve 1 -N80- .
+If the specification is obtained:
+Checking voltage supply
+– Using a multimeter, check the purge valve electrical harness
+connector terminal 1 to 2 for voltage.
+– Turn ignition switch ON.
+Specified value: 8.60 volts +/- 2 volts.
+Turn the ignition switch OFF.
+If the specified value was Not obtained:
+– Leave the multimeter positive lead on terminal 1 and connect
+the multimeter negative lead to engine ground.
+– Ignition switch ON.
+Specified value: Near battery voltage.
+Turn the ignition switch OFF.
+If the specified value was Not obtained:
+– Check the circuit from the Fuel Pump relay (J17) to EVAP sol‐
+enoid terminal 1for open or high resistance. Refer to Wiring
+Diagrams for circuit.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the wiring connection.
+If the specified value was obtained:
+Check Ground activation
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual .
+125
+3. Diagnosis and Testing

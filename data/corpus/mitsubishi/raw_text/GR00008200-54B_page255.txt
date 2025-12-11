@@ -1,0 +1,48 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-255
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal by using "DATA LIST" of
+the SWS monitor.
+Tun the ignition switch to the "ON" position before checking
+COLUMN SWITCH input signals from the ignition switch (IG1).
+CONNECTOR
+Operate the MUT-II according to the procedure below to dis-
+MB991502 play "ETACS ECU."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "SWS MONITOR."
+DATA LINK
+4. Select "DATA LIST."
+CONNECTOR
+5. Select "ETACS ECU."
+AC101571AB Check that normal conditions are displayed on the items
+described in the table below.
+COLUMN SWITCH
+CONNECTOR ITEM No. ITEM NAME NORMAL CONDITIONS
+ITEM No.30 IG SW (IG1) ON
+SWS MONITOR
+HARNESS (FOR Q:Does the scan tool display "IG SW (IG1)" as normal
+COLUMN-ECU) condition?
+COLUMN SWITCH YES : Go to Step 3.
+CONNECTOR AT NO : Refer to Inspection Procedure O-2 "ETACS-ECU
+HARNESS SIDE
+does not receive a signal from the ignition switch
+AC101421AB
+(IG1) P.54B-469."
+STEP 3. Check the input signal (by using the Pulse Check).
+Check input signal from the driver’s side seat belt switch.
+Operate the MUT-II according to the procedure below to dis-
+play "PULSE CHECK."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "PULSE CHECK."
+• Check if scan tool MB991502 sounds or not.
+16 PIN
+Q:Does scan tool MB991502 sound when the driver’s side
+seat belt is fastened?
+MB991502
+AC001252AD
+YES : Go to Step 4.
+NO : Refer to Inspection Procedure P-3 "ETACS-ECU does
+not receive a signal from the driver’s side seat belt
+switch P.54B-533."
+TSB Revision

@@ -1,0 +1,39 @@
+35B-34 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+STEP 2 Check the ABS warning light bulb.
+(1) Remove the combination meter (Refer to GROUP 54A,
+Combination Meter P.54A-105 and P.54A-107.)
+(2) Check the ABS warning light bulb.
+Q:Is the bulb burned out?
+YES : Replace the bulb and then go to Step 9.
+NO : Go to Step 3.
+STEP 3. Check the combination meter for continuity.
+(1) Remove the combination meter.
+(2) Remove the ABS warning light bulb. Then measure the
+resistance between the bulb terminals.
+(3) Install the ABS warning light bulb to the combination meter,
+and then measure the resistance between connector C-41
+CONNECTOR C-41
+terminal 52 and connector C-42 terminal 24. The resistance
+reading at this time should be much the same as the
+resistance measured at step (2).
+Q:Are the two resistance values extremely different each
+other?
+CONNECTOR C-42 YES : Replace the combination meter (printed circuit board)
+and then go to Step 9.
+AC004480AB NO : Go to Step 4.
+STEP 4. Check the combination meter power supply
+circuit.
+(1) Disconnect connector C-41, and check at the harness side.
+CONNECTOR: C-41
+(2) Turn the ignition switch to the "ON" position.
+COMBINATION METER
+(3) Measure the voltage between terminal 52 and ground. It
+HARNESS SIDE
+should be approximately 12 volts (battery positive voltage).
+Q:Is the voltage approximately 12 volts (battery positive
+voltage)?
+YES : Go to Step 5.
+NO : Go to Step 7.
+AC004482AC
+TSB Revision

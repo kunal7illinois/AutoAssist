@@ -1,0 +1,34 @@
+TW–52
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+NEXT
+2 REPLACE TIRE PRESSURE WARNING VALVE AND TRANSMITTER
+(a) Replace the identified tire pressure warning valve and
+transmitter with a new one.
+HINT:
+• Before installing a new tire pressure warning valve
+and transmitter, read and write down its transmitter
+ID.
+• The IDs for the tire pressure warning valve and
+transmitter not be replaced should be checked using
+the tester and recorded.
+NEXT
+TW
+3 REGISTRATION OF TRANSMITTER ID
+(a) Register the transmitter ID for all wheels (See page TW-
+15).
+(b) Set the tire air pressure of all wheels to the specified
+value (For the specified value, see step 1).
+NEXT
+4 CHECK DTC
+(a) Check for a DTC (See page TW-28).
+Result
+Condition Proceed to
+Any of the DTCs from C2141/41 to C2144/44 or C2145/45 are
+A
+output.
+Any of the DTCs from C2141/41 to C2144/44 or C2145/45 are not
+B
+output.
+B END
+A
+REPLACE TIRE PRESSURE WARNING ECU

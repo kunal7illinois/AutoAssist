@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (K20Z3) - Civic (Except GX & Si)
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Do the EVAP FUNCTION TEST in the INSPECTION MENU with the HDS.
+Is the result OK?
+YES - Intermittent failure, the system is OK at this time. Check for poor
+connections or loose terminals at the FTP sensor, the EVAP canister purge
+valve, the EVAP canister vent shut valve, and the ECM.
+NO - Go to step 4.
+4. Turn the ignition switch OFF.
+5. Replace the EVAP canister purge valve (see EVAP CANISTER VENT
+SHUT VALVE REPLACEMENT ).
+6. Turn the ignition switch ON (II).
+7. Reset the ECM with the HDS.
+8. Do the ECM idle learn procedure (see ECM IDLE LEARN PROCEDURE ).
+9. Do the EVAP FUNCTION TEST in the INSPECTION MENU with the HDS.
+Is the result OK?
+YES - Troubleshooting is complete.
+NO - Check for poor connections or loose terminals at the FTP sensor, the
+EVAP canister purge valve, the EVAP canister vent shut valve, and the ECM,
+then go to step 1.
+DTC P0497: EVAP SYSTEM LOW PURGE FLOW DETECTED ('06 MODEL)
+Special Tools Required
+Vacuum/pressure gauge, 0-4 in.Hg, 07JAZ-001000B
+(cid:1)
+Vacuum pump/gauge, 0-30 in.Hg, Snap-on YA4000A or equivalent,
+(cid:1)
+commercially available

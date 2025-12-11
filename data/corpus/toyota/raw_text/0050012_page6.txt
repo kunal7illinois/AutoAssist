@@ -1,0 +1,60 @@
+ES–63
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Trouble Areas MIL Memory See page
+P0352 Ignition Coil "B" - Same as DTC Comes on DTC stored ES-183
+Primary / Secondary P0351
+Circuit
+P0353 Ignition Coil "C" - Same as DTC Comes on DTC stored ES-183
+Primary / Secondary P0351
+Circuit
+P0354 Ignition Coil "D" - Same as DTC Comes on DTC stored ES-183
+Primary / Secondary P0351
+Circuit
+P0420 Catalyst System - Front exhaust pipe Comes on DTC stored ES-191
+Efficiency Below (with Three-Way
+Threshold (Bank 1) Catalytic Converter)
+- Gas leakage from
+exhaust system
+ES
+- A/F sensor (sensor
+1)
+- HO2 sensor (sensor
+2)
+P043E Evaporative Emission - Canister pump Comes on DTC stored ES-198
+System Reference module (Reference
+Orifice Clog Up orifice, leak detection
+pump, vent valve)
+- Connector/wire
+harness (Canister
+pump module - ECM)
+- EVAP system hose
+(pipe from air inlet
+port to canister pump
+module, canister
+filter, fuel tank vent
+hose)
+- ECM
+P043F Evaporative Emission - Same as DTC Comes on DTC stored ES-198
+System Reference P043E
+Orifice High Flow
+P0441 Evaporative Emission - Purge VSV Comes on DTC stored ES-203
+Control System - Connector/wire
+Incorrect Purge Flow harness (Purge VSV
+- ECM)
+- Canister pump
+module
+- Leakage from EVAP
+system
+- Leakage from EVAP
+line (Purge VSV -
+Intake manifold)
+- ECM
+P0450 Evaporative Emission - Canister pump Comes on DTC stored ES-210
+Control System module
+Pressure Sensor / - EVAP system hose
+Switch (pipe from air inlet
+port to canister pump
+module, canister
+filter, fuel tank vent
+hose)
+- ECM

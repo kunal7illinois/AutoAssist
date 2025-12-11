@@ -1,0 +1,30 @@
+54B-604 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+Q:Is the wiring harness between ETACS-ECU connector C-
+CONNECTOR: C-28
+118 (terminal 63) and vehicle speed sensor connector B-
+39 (terminal 3) in good condition?
+YES : Replace the ETACS-ECU. If the wiper interval can be
+adjusted normally, it indicates that the windshield
+intermittent wiper interval adjusting knob should send
+a signal to the ECU.
+NO : Repair the wiring harness. If the wiper interval can be
+adjusted normally, it indicates that the windshield
+intermittent wiper interval adjusting knob should send
+a signal to the ECU.
+1 2 3 4
+5 16
+6 7 8 9101112131415
+17 28
+18192021222324252627
+29 38
+3031 32333435 3637
+C-28
+AC106563AC
+CONNECTOR: C-77
+DEVICE SIDE
+1 2 3 4 5 6 7 8 91011
+1213141516171819202122
+2324252627282930313233
+AC106473AL
+TSB Revision

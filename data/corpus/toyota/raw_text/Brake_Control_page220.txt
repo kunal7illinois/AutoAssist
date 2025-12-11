@@ -1,0 +1,35 @@
+BC–214
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+OK
+4 INSPECT SKID CONTROL ECU (GND TERMINAL)
+(a) Turn the ignition switch off.
+Skid Control ECU Harness Side
+(b) Measure the resistance according to the value(s) in the
+Connector Front View:
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+A26-32 (GND1) - Body ground Always Below 1 Ω
+A26-1 (GND2) - Body ground Always Below 1 Ω
+A26
+GND2 GND1 NG REPAIR OR REPLACE HARNESS OR
+F049362E97
+CONNECTOR (GND CIRCUIT)
+OK
+BC
+5 RECONFIRM DTC
+(a) Reconnect the skid control ECU connector.
+(b) Clear the DTC (See page BC-141).
+(c) Turn the ignition switch on (IG).
+(d) Check if the same DTC is recorded (See page BC-141).
+Result
+Condition Proceed to
+DTC (C1241/41) is not output A
+DTC (C1241/41) is output B
+HINT:
+If troubleshooting has been carried out according to the
+Problem Symptoms Table, refer back to the table and
+proceed to the next step (See page BC-134).
+B REPLACE BRAKE ACTUATOR ASSEMBLY
+A
+USE SIMULATION METHOD TO CHECK

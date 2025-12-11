@@ -1,0 +1,49 @@
+TRACTION CONTROL SYSTEM (TCL) 35C-35
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+ACTUATOR TEST REFERENCE TABLE
+M1354003100084
+The scan tool activates the following actuators for NOTE: Actuator testing is only possible when the
+testing. vehicle is stationary. If the vehicle speed during actu-
+ator testing exceeds 10 km/h (6 mph), forced actua-
+NOTE: If the ABS-ECU is inoperative, actuator test-
+tion will be canceled.
+ing cannot be carried out.
+.
+ACTUATOR TEST SPECIFICATIONS
+ACTIVATION PATTERN (NO.06,07) NO. ITEM PARTS TO BE ACTIVATED
+01 ABS solenoid valve for Solenoid valves and pump
+front-left wheel motor in the hydraulic unit
+START OF END OF (simple inspection mode)
+02 ABS solenoid valve for
+FORCED FORCED
+ACTION ACTION front-right wheel
+TCL A 03 ABS solenoid valve for
+SOLENOID rear-left wheel
+VALVE B 1 s
+C 2 s 04 ABS solenoid valve for
+rear-right wheel
+PUMP ON
+06 TCL solenoid valve for TCL valves and pump motor
+MOTOR
+OFF front-right wheel in the hydraulic unit (simple
+inspection mode)
+07 TCL solenoid valve for
+front-left wheel
+12 Pump motor Activate the pump motor for
+NOTE
+A: HYDRAULIC PRESSURE DECREASES two seconds.
+B: HYDRAULIC PRESSURE HOLDS
+C: HYDRAULIC PRESSURE INCREASES
+AC000971AB
+CHECK AT ABS-ECU
+M1354003200081
+. 2. The terminal layouts are shown in the illustration
+TERMINAL VOLTAGE CHECK CHART
+below.
+1. Measure the voltages between terminals (16),
+(19) and (30) (ground terminals) and each
+respective terminal.
+AC002089AB
+NOTE: Do not measure terminal voltage for approximately three seconds after the ignition switch is turned to
+"ON." The ABS-ECU performs the initial check during that period.
+TSB Revision

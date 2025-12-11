@@ -1,0 +1,38 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+signal Battery voltage
+B16 BRN ATP 2-1 Detects In 2 and 1:
+(TRANSMISSION transmission About 0 V
+RANGE SWITCH 2- range switch In any position
+1) 2 position and other than 2
+1 position and 1: Battery
+signal voltage
+B17 WHT/RED NM (INPUT SHAFT Detects input With the
+(MAINSHAFT) shaft ignition switch
+SPEED SENSOR) (mainshaft) ON (II): About
+speed sensor 0 V or about
+signal 5.0 V
+With engine
+idling in N:
+About 2.5 V
+(pulses)
+B18 YEL/BLU VCC2 (SENSOR Provides With the
+VOLTAGE) sensor ignition switch
+reference ON (II): About
+voltage 5.0 V
+B20 GRN SH C (SHIFT Drives shift With engine
+SOLENOID VALVE solenoid running in R,
+C) valve C D3 (in 3rd
+gear), and D
+(in 3rd gear):
+Battery voltage
+With engine
+running in P,
+N, 2, D3 (in 1st
+and 2nd gears),
+and D (in 1st,
+2nd, 4th, and
+5th gears):
+About 0 V
+B21 YEL/GRN ATP D Detects In D: About 0

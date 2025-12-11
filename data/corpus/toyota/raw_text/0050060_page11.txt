@@ -1,0 +1,52 @@
+ES–350
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(b) On the tester, select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / SYSTEM CHECK /
+EVAP SYS CHECK / AUTO OPERATION.
+(c) After the EVAP SYSTEM CHECK is completed, check
+for pending DTCs by selecting the following menu items:
+DIAGNOSIS / ENHANCED OBD II / DTC INFO /
+PENDING CODES.
+HINT:
+If no pending DTCs are displayed, perform the
+MONITOR CONFIRMATION (see "Diagnostic Help"
+menu). After this confirmation, check for pending DTCs.
+If no DTCs are displayed, the EVAP system is normal.
+ES NEXT
+3 PERFORM EVAP SYSTEM CHECK (MANUAL OPERATION)
+EVAP SYSTEM CHECK
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed
+Vent Valve ON
+OFF: Vent
+Leak Detection
+Pump
+ON
+EVAP Pressure
+Positive
+Gross Leak
+Negative
+First Reference
+Small Leak [Second
+Pressure
+Reference
+Pressure] x 0.2
+No Leak
+Normal Pressure
+Steps 1/5 2/5 3/5 4/5 5/5
+Time
+10 seconds 60 Within 15 minutes 10 60
+(Reference) seconds seconds seconds
+A106735E08
+NOTICE:
+• In the EVAP SYSTEM CHECK (MANUAL OPERATION),
+perform the series of 5 EVAP SYSTEM CHECK steps
+manually using the intelligent tester.
+• Do not perform the EVAP SYSTEM CHECK when the
+fuel tank is more than 90% full because the cut-off
+valve may be closed, making the fuel tank leak check
+unavailable.
+• Do not run the engine during this operation.

@@ -1,0 +1,29 @@
+BC–340
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+(b) Start the engine.
+(c) Drive the vehicle at a speed of 12 mph (20 km/h) or more
+for 30 seconds or more.
+(d) Check if the same DTC is recorded (See page BC-302).
+HINT:
+Reinstall the sensors, connectors, etc. and restore the
+vehicle to its prior condition before rechecking for DTCs.
+Result
+Condition Proceed to
+DTC is not output A
+DTC is output B
+HINT:
+• If the normal system code is output (the trouble code
+is not output), slightly jiggle the connectors, wire
+harness, and fuses of the brake actuator assembly
+(skid control ECU). Make sure that no DTCs are
+output.
+BC • If any DTCs are output while jiggling a connector or
+wire harness of the brake actuator assembly (skid
+control ECU), inspect and repair the connector or wire
+harness.
+• It is suspected that the DTCs were output due to a
+bad connection of the connector terminal.
+B REPLACE BRAKE ACTUATOR ASSEMBLY
+(See page BC-432)
+A
+CHECK FOR INTERMITTENT PROBLEMS (SYMPTOM SIMULATION) (See page BC-298)

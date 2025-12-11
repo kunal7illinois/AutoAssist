@@ -1,0 +1,65 @@
+ES–74
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Suspected Trouble MIL Memory See page
+Area
+P0112 Intake Air 1. Short in IAT sensor Comes on DTC stored ES-136
+Temperature Circuit circuit
+Low Input 2. IAT sensor (built
+into MAF meter)
+3. ECM
+P0113 Intake Air 1. Open in IAT sensor Comes on DTC stored ES-136
+Temperature Circuit circuit
+High Input 2. IAT sensor (built
+into MAF meter)
+3. ECM
+P0115 Engine Coolant 1. Open or short in Comes on DTC stored ES-145
+Temperature Circuit Engine Coolant
+Malfunction Temperature (ECT)
+sensor circuit
+2. ECT sensor
+ES 3. ECM
+P0116 Engine Coolant 1. Thermostat Comes on DTC stored ES-151
+Temperature Circuit 2. ECT sensor
+Range / Performance
+Problem
+P0117 Engine Coolant 1. Short in ECT Comes on DTC stored ES-145
+Temperature Circuit sensor circuit
+Low Input 2. ECT sensor
+3. ECM
+P0118 Engine Coolant 1. Open in ECT Comes on DTC stored ES-145
+Temperature Circuit sensor circuit
+High Input 2. ECT sensor
+3. ECM
+P0120 Throttle / Pedal 1. Throttle Position Comes on DTC stored ES-154
+Position Sensor / (TP) sensor (built into
+Switch "A" Circuit throttle body)
+Malfunction 2. ECM
+P0121 Throttle / Pedal TP sensor (built into Comes on DTC stored ES-161
+Position Sensor / throttle body)
+Switch "A" Circuit
+Range / Performance
+Problem
+P0122 Throttle / Pedal 1. TP sensor (built Comes on DTC stored ES-154
+Position Sensor / into throttle body)
+Switch "A" Circuit 2. Short in VTA1
+Low Input circuit
+3. Open in VC circuit
+4. ECM
+P0123 Throttle / Pedal 1. TP sensor (built Comes on DTC stored ES-154
+Position Sensor / into throttle body)
+Switch "A" Circuit 2. Open in VTA1
+High Input circuit
+3. Open in E2 circuit
+4. Short between VC
+and VTA1 circuits
+5. ECM
+P0125 Insufficient Coolant 1. Cooling system Comes on DTC stored ES-165
+Temperature for 2. ECT sensor
+Closed Loop Fuel 3. Thermostat
+Control
+P0128 Coolant Thermostat 1. Thermostat Comes on DTC stored ES-168
+(Coolant 2. Cooling system
+Temperature Below 3. ECT sensor
+Thermostat 4. ECM
+Regulating
+Temperature)

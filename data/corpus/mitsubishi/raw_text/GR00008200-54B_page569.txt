@@ -1,0 +1,27 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-569
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE P-7: ETACS-ECU does not Receive an Auto-stop Signal from the Rear
+Wiper Motor.
+Rear Wiper Auto-stop Signal Input
+CONNECTORS: C-101, C-111 CONNECTOR: C-119
+JUNCTION BLOCK JUNCTION BLOCK
+(FRONT VIEW) (REAR VIEW)
+C-101
+C-111
+AC106479AK AC106481AF
+CONNECTOR <ECLIPSE>: CONNECTOR <ECLIPSE>: F-24
+F-07
+AC106489AB AC106489AG
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If this signal is not normal, the rear wiper does not
+The ETACS-ECU makes the rear wiper stop at the
+stop at the predetermined park position.
+predetermined park position according to the auto-
+stop signal from the rear wiper motor.
+.
+TROUBLESHOOTING HINTS
+. • Malfunction of the rear wiper motor
+• Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+TSB Revision

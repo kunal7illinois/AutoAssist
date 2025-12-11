@@ -1,0 +1,30 @@
+ANTI-LOCK BRAKING SYSTEM (ABS) 35B-11
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+Q:Is any of the harness wires between the ABS-ECU
+CONNECTOR: A-02
+connector A-02 (terminals 6 and 7) and the wheel speed
+sensor <front: LH> connector A-22 (terminals 1 and 2)
+damaged?
+YES : Repair it and go to Step 9.
+NO : Go to Step 7.
+HARNESS SIDE
+AC001985AF
+CONNECTOR: A-22
+HARNESS
+SIDE
+AC002137AC
+STEP 4. Check the harness wires between the ABS-ECU
+connector A-02 (terminals 4 and 5) and the wheel speed
+sensor <front: RH> connector A-37 (terminals 1 and 2).
+Q:Is any of the harness wires between the ABS-ECU
+CONNECTORS: A-02, A-37
+connector A-02 (terminals 4 and 5) and the wheel speed
+(HARNESS sensor <front: RH> connector A-37 (terminals 1 and 2)
+SIDE)
+damaged?
+YES : Repair it and then go to Step 9.
+A-37
+NO : Go to Step 7.
+A-02 (HARNESS SIDE)
+AC001985AG
+TSB Revision

@@ -1,0 +1,35 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-75
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 7. Check connector C-58 at ECM <M/T> or connector
+C-55 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-58<M/T>, C-55<A/T>
+YES : Replace the ECM or PCM. Then go to Step 11.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 11.
+C-55 C-58
+AK000225AI
+STEP 8. Check the continuity at intake air temperature
+sensor harness side connector B-14.
+(1) Disconnect the connector B-14 and measure at the harness
+side.
+(2) Check for the continuity between terminal 5 and ground.
+B-14 HARNESS • Should be less than 2 ohm.
+SIDE CONNECTOR
+Q:Is the continuity normal?
+7 6 5 4 3 2 1
+YES : Replace the ECM or PCM. Then go to Step 11.
+NO : Go to Step 9.
+AKX01409AC
+STEP 9. Check connector C-51 at ECM <M/T> or connector
+C-52 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-51<M/T>, C-52<A/T>
+YES : Go to Step 10.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 11.
+C-52 C-51
+AK000225AJ
+TSB Revision

@@ -1,0 +1,53 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+If a malfunction is recognized during the drive cycle, it will be
+stored in the DTC memory.
+The OBD drive cycle operation will be monitored with a hand held
+diagnostic tool. Consult the manufacturer's instruction manual for
+correct tool operation.
+The readiness code is erased every time the DTC memory is
+erased or any time the battery is disconnected. If the DTC mem‐
+ory has been erased or the battery is disconnected, a new read‐
+iness code must be generated.
+Only erase the DTC memory if a DTC has been stored.
+General recommendations
+Most monitors will complete easier and quicker using a “steady-
+foot” and “smooth” acceleration during the drive cycle operation,
+cruise, and acceleration modes.
+Operating conditions
+For the EVAP monitor test, the coolant temperature and the am‐
+bient air temperature must be between 10° C and 35° C with a
+difference between them no greater than 4° C. The ambient air
+temperature must not change more than 4° C during the drive
+cycle procedure (e.g. when driving out of a heated workshop in
+the winter).
+Test requirements
+• Erase the DTC memory.
+• Coolant temperature must be between 80° C and 110° C.
+• The intake air temperature must be between 10° C and 35° C.
+• Battery voltage must be a minimum of 12.5 volts.
+• Fuel tank level 1/4 to 3/4 full.
+Drive Cycle Procedure
+– Connect the scan tool.
+– Switch the ignition on and start the vehicle.
+– Idle the vehicle for 2-3 minutes. This executes the O2 heater,
+misfire, secondary air injection, fuel trim, and purge system
+monitors.
+– Drive the vehicle at 45-55 mph for a continuous 7 minute pe‐
+riod - avoid stopping. This executes the evaporative, O2 sen‐
+sor, fuel trim, and misfire monitors.
+– Accelerate the vehicle to an engine speed of 5000 RPM; lift
+off the throttle until the engine speed is around 1200 RPM.
+This executes the fuel cut off.
+– Accelerate the vehicle smoothly to 60-65 mph, cruise con‐
+stantly for 5 min, this executes the catalyst; O2 sensor, misfire,
+fuel trim, and purge system monitors.
+– Decelerate and idle the vehicle again for 3 minutes. This ex‐
+ecutes the misfire, secondary sir injection, fuel trim, and purge
+system monitors.
+– Check the status of the readiness code.
+Note
+Depending on the scan tool used. The readiness code status may
+be displayed as complete, passed or OK.
+9
+3. Diagnosis and Testing

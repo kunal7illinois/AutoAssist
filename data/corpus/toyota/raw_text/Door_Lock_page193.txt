@@ -1,0 +1,45 @@
+DL–183
+DOOR LOCK – SMART KEY SYSTEM
+(c) Following the display on the tester, select "DATA LIST".
+SMART ACCESS (Certification ECU):
+Measurement Item/Range
+Item Normal Condition Diagnostic Note
+(Display)
+Status of touch sensor front LH/ ON: Touch sensor is touched
+D TOUCH SENSOR -
+ON or OFF OFF: Touch sensor is not touched
+Status of touch sensor front RH/ ON: Touch sensor is touched
+P TOUCH SENSOR -
+ON or OFF OFF: Touch sensor is not touched
+OK:
+"ON" (screen is touched) or "OFF" (screen is not
+touched) appears on the tester screen.
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+NG
+2 CHECK HARNESS AND CONNECTOR (CERTIFICATION ECU - ELECTRICAL KEY
+OSCILLATOR)
+(a) Disconnect the E58 ECU connector.
+Certification ECU: (b) Disconnect the oscillator connectors.
+Standard resistance
+Tester Connection (Symbols) Condition Specified Condition
+E58-5 (SEL1) - X2-4 (SEL) Always Below 1 Ω
+E58-22 (SEN1) - X2-6 (SENS) Always Below 1 Ω
+E58 SEL2 SEL1
+E58-6 (SEL2) - W2-4 (SEL) Always Below 1 Ω
+E58-23 (SEN2) - W2-6 (SENS) Always Below 1 Ω
+E58-5 (SEL1) - Body ground Always 10 kΩ or higher
+E58-22 (SEN1) - Body ground Always 10 kΩ or higher
+E58-6 (SEL2) - Body ground Always 10 kΩ or higher
+E58-23 (SEN2) - Body ground Always 10 kΩ or higher
+SEN1
+SEN2
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Door Oscillator:
+DL
+X2
+W2
+SEL
+SENS
+B137964E02

@@ -1,0 +1,37 @@
+13A-276 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Pressure test for evaporator line from hose D to
+hose N.
+(1) Remove the module bracket mounting bolts, and
+disconnect hose E from the evaporative emission
+ventilation solenoid side, and plug the hoses from which the
+hoses have been disconnected.
+(2) Confirm that the evaporative emission system pressure
+pump (Miller number 6872A) is operating properly. Perform
+the self-test as described in the manufacturer’s instructions.
+HOSE E
+AC002028AC
+(3) Connect an evaporative emission system pressure pump to
+the fuel filler neck.
+(4) Pressure test the system to determine whether any leaks
+are present.
+NOTE: "Pressure test" in this procedure refers to the I/
+M240 Simulation Test (8 simple steps) described in the
+evaporative emission system pressure pump (Miller number
+6872A) manufacturer’s instructions located in the lid of the
+pump box.
+AC000186 Q:Are the evaporator line in good condition?
+YES : Go to Step 17.
+NO : Go to Step 7.
+STEP 7. Pressure test for evaporator line from hose G to
+hose N.
+(1) Disconnect hose G from the evaporative emission canister
+HOSE G
+side, and plug the hose from which the pipes have been
+disconnected.
+(2) Perform the pressure test again.
+Q:Are the evaporator line in good condition?
+YES : Go to Step 8.
+NO : Go to Step 10.
+AC002036AC
+TSB Revision

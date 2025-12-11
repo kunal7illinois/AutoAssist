@@ -1,0 +1,40 @@
+ANTI-LOCK BRAKING SYSTEM (ABS) 35B-33
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+CONNECTOR: A-02 CONNECTORS: C-41, C-42 COMBINATION
+METER
+C-42
+C-41
+AC001985AD AC004428AB
+CONNECTOR: C-94 CONNECTORS: C-108, C-111
+JUNCTION BLOCK
+(FRONT VIEW)
+C-108
+C-111
+AC004410AD AC102831AC
+. .
+CIRCUIT OPERATION TECHNICAL DESCRIPTION (COMMENT)
+• The ABS warning light power is supplied from the The cause may be: an open circuit in the ABS warn-
+ignition switch. The ABS-ECU grounds the circuit ing light power supply circuit, a blown ABS warning
+to illuminate the light. light bulb, or malfunction of the ABS-ECU.
+• The ABS-ECU illuminates the ABS warning light
+for 3 seconds while running self-check. This light . TROUBLESHOOTING HINTS (The most likely
+can be illuminated for 3 seconds upon start-up or causes for this case:)
+when the ignition switch is turned to the "ON" • Blown fuse
+position with engine stopped. • Damaged wiring harness or connector
+• When the ABS-ECU connector is disconnected, • Burnt out ABS warning light bulb
+the circuit is grounded to illuminate the light by • Malfunction of the hydraulic unit (integrated with
+the connector lock switch OFF operation. ABS-ECU)
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+.
+STEP 1. Check the ABS warning light circuit at the ABS-
+ECU connector A-02.
+(1) Disconnect the ABS-ECU connector A-02.
+(2) Turn the ignition switch to the "ON" position.
+Q:Does the ABS warning light illuminate?
+YES : Replace the hydraulic unit (integrated with ABS-ECU)
+and then go to Step 9.
+NO : Go to Step 2.
+TSB Revision

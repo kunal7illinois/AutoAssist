@@ -1,0 +1,33 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Catalytic Converter System (R18A1) - Civic (Except Hybrid)
+HDS.
+Does the screen indicate FAILED?
+YES -Go to step 8.
+NO -If the screen indicates PASSED, intermittent failure, the system is OK at
+this time. If the screen indicates EXECUTING, keep driving until a result
+comes on. If the screen indicates OUT OF CONDITION, go to step 4 and
+recheck.
+8. Turn the ignition switch OFF.
+9. Replace the TWC (see CATALYTIC CONVERTER
+REMOVAL/INSTALLATION ).
+10. Turn the ignition switch ON (II).
+11. Reset the ECM/PCM with the HDS.
+12. Do the ECM/PCM idle learn procedure (see ECM/PCM IDLE LEARN
+PROCEDURE ).
+13. Start the engine. Hold the engine speed at 3,000 rpm without load (in Park or
+neutral) until the radiator fan comes on, then let it idle.
+14. Test-drive for about 10 minutes, varying the vehicle speed.
+15. Check the CATA MONITOR CONDITION in the DATA LIST with the HDS.
+Is the temperature OK?
+YES -Go to step 16.
+NO -Go to step 13 and recheck.
+16. Test-drive under these conditions:
+Engine coolant temperature (ECT SENSOR 1) above 158 °F (70 °C)
+(cid:1)
+A/T in D position (M/T in 5th gear)
+(cid:1)
+Vehicle speed at 55 mph (88 km/h) for 5 minutes or more with cruise
+(cid:1)
+control set
+17. Monitor the OBD STATUS for DTC P0420 in the DTCs MENU with the

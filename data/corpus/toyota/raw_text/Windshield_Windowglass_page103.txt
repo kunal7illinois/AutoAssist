@@ -1,0 +1,33 @@
+WS–98
+WINDSHIELD / WINDOWGLASS – WINDOW DEFOGGER SYSTEM
+INSPECTION PROCEDURE
+1 CHECK FOR DTCs
+(a) Select the DTC check on the intelligent tester to check
+WS for communication errors.
+Result
+Result Proceed to
+Not output DTC codes A
+Output DTC codes (LIN communication) B
+B GO TO MULTIPLEX COMMUNICATION
+SYSTEM
+A
+2 PERFORM ACTIVE TEST BY INTELLIGENT TESTER
+(a) Select the ACTIVE TEST, use the intelligent tester to
+issue a control command, and then check the window
+defogger operation.
+Air Conditioner
+Item Test Details
+Defogger Relay (Rear) Turns rear window defogger OFF/ON
+OK Go to step 5
+NG
+3 REPLACE AIR CONDITIONER CONTROL ASSEMBLY
+(a) Replace the air conditioner control assembly.
+NEXT
+4 CONFIRM REAR WINDOW DEFOGGER OPERATION
+(a) Turn the ignition switch on (IG), press the defogger
+switch, and check that the window defogger operates.
+OK:
+System operates normally
+NG REPLACE A/C AMPLIFIER ASSEMBLY
+OK
+END

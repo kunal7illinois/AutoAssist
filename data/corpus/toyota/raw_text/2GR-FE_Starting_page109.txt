@@ -1,0 +1,32 @@
+ST–109
+2GR-FE STARTING – SMART KEY SYSTEM
+19 INSPECT ENGINE ROOM RELAY BLOCK (ST RELAY VOLTAGE)
+(a) Measure the voltage according to the value(s) in the
+table below.
+Engine Room R/B
+Standard voltage
+Tester Connection Condition Specified Condition
+ST relay terminal - 5 -
+Always 9 to 14 V
+Body ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+ST Relay Terminal
+B138012E01
+OK
+20 INSPECT STARTER ASSEMBLY
+HINT:
+See page ST-143.
+NG REPAIR OR REPLACE STARTER ASSEMBLY
+OK
+REPAIR OR REPLACE HARNESS OR CONNECTOR (PNP SWITCH - ST RELAY, STARTER -
+BATTERY)
+21 READ VALUE OF INTELLIGENT TESTER (L CODE)
+(a) Reconnect the connectors.
+(b) Connect the intelligent tester to the DLC3.
+ST
+HINT:
+When using the intelligent tester with the engine switch
+off, turn on and off any of the door courtesy light switches
+repeatedly at 1.5 second intervals or less until
+communication between the tester and vehicle starts.

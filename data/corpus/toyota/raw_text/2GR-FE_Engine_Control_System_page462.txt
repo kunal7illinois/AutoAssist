@@ -1,0 +1,34 @@
+ES–462
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+6 CHECK HARNESS AND CONNECTOR (C/OPN RELAY - FUEL PUMP - BODY GROUND)
+(a) Check the harness and the connectors between the
+Wire Harness Side: engine room relay block and the fuel pump.
+(1) Disconnect the integration relay connector.
+(2) Disconnect the N10 fuel pump connector.
+Fuel Pump Connector (3) Measure the resistance.
+Standard resistance (Check for open)
+Tester Connections Specified Conditions
+1 2 3
+N10 1E-13 - N10-4 (Fuel pump) Below 1 Ω
+4 5
+Standard resistance (Check for short)
+Tester Connections Specified Conditions
+ES
+1E-13 or N10-4 (Fuel pump) - Body ground 10 kΩ or higher
+Engine Room Junction Block
+(b) Check the harness and the connectors between the fuel
+pump and body ground.
+(1) Disconnect the N10 fuel pump connector.
+(2) Measure the resistance.
+Standard resistance (Check for open)
+Tester Connection Specified Condition
+N10-5 (Fuel pump) - Body ground Below 1 Ω
+1E
+(c) Reconnect the integration relay connector.
+(d) Reconnect the fuel pump connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Engine Room Relay Block
+A140662E01
+OK
+REPLACE ECM (See page ES-518)

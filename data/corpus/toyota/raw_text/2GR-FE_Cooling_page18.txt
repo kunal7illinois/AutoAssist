@@ -1,0 +1,42 @@
+CO–17
+2GR-FE COOLING – COOLING FAN ECU
+(e) Inspect the input signal and output current.
+NOTICE:
+Waveform 1 Be sure to perform the inspection with the
+radiator coolant temperature less than 95°C (203
+1 V/DIV °F).
+(1) Connect the 400 A probe of the ammeter to
+20 ms/DIV
+terminal M+ of the cooling fan motor.
+(2) Set the intelligent tester to the oscilloscope
+function.
+(3) Using the intelligent tester, check the waveform
+GND
+between terminals RFC and E1 of the ECM.
+Standard waveform
+Condition Input Signal Output Current
+Waveform 2
+Engine stopped Waveform 1 (Fan stops)
+(Ignition switch on (IG)) (Duty ratio 0 %)
+1 V/DIV Engine idling Waveform 1 (Fan stops)
+(A/C OFF) (0 %)
+20 ms/DIV
+Engine idling Waveform 2 2 to 11 A
+(A/C ON) (30 to 70 %) (Fan operates)
+Engine idling Waveform 3 2 to 11 A
+(Coolant temperature (30 to 70 %) (Fan operates)
+sensor connector
+GND
+disconnected)
+HINT:
+• If the input signal is abnormal, there is a
+Waveform 3
+malfunction in the ECM or cooling fan ECU.
+• If the output current is abnormal even when
+1 V/DIV
+the input signal is normal, there is a
+20 ms/DIV malfunction in the cooling fan ECU (RFC) or
+motor.
+GND
+CO
+A126255E01

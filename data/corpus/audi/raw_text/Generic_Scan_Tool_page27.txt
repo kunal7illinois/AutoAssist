@@ -1,0 +1,51 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Monitor-ID $A3 (163): Mis-Fire Cylinder 2 Data
+– Connect the scan tool.
+– Start the engine and run at idle.
+– Select “Mode 6 Check test the results of components that are
+not continuously monitored”.
+Select “Monitor-ID $A3 (163):”.
+– Select the desired “Test-ID” or “Hex-ID”.
+– Check specified values at idle.
+Test-ID DTC Component or System Min./Max. Values Additional Information
+$0B (11) P0302 Misfire cylinder 2, Average val‐ 0 - 65535 (counts) Refer to DTC P0302 in
+ue over 10 Driving Cycles. the DTC summary table.
+⇒ page 57 .
+$0C (12) P03 0 2 Misfire cylinder 2, in this Driving 0 - 65535 (counts) Refer to DTC P0302 in
+Cycle. the DTC summary table.
+⇒ page 57 .
+– If any of components or systems fail to meet the specified val‐
+ues. Refer to Diagnostic “Mode 03: Interrogating Fault Mem‐
+ory” to check for stored DTC's or the corresponding diagnostic
+repair procedure
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+– Switch the ignition OFF.
+Monitor-ID $A4 (164): Mis-Fire Cylinder 3 Data
+– Connect the scan tool.
+– Start the engine and run at idle.
+– Select “Mode 6: Check test the results of components that are
+not continuously monitored”.
+Select “Monitor-ID $A4 (164)”.
+– Select the desired “Test-ID” or “Hex-ID”.
+– Check specified values at idle.
+Test-ID DTC Component or System Min./Max. Values Additional Information
+$0B (11) P0303 Misfire cylinder 3, Average val‐ 0 - 65535 (counts) Refer to DTC P0303 in
+ue over 10 Driving Cycles. the DTC summary table.
+⇒ page 58 .
+$0C (12) P0303 Misfire cylinder 3, in this Driving 0 - 65535 (counts) Refer to DTC P0303 in
+Cycle. the DTC summary table.
+⇒ page 58 .
+– If any of components or systems fail to meet the specified val‐
+ues. Refer to Diagnostic “Mode 03: Interrogating Fault Mem‐
+ory” to check for stored DTC's or the corresponding diagnostic
+repair procedure
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+– Switch the ignition OFF.
+Monitor-ID $A5 (165): Mis-Fire Cylinder 4 Data
+– Connect the scan tool.
+– Start the engine and run at idle.
+23
+3. Diagnosis and Testing

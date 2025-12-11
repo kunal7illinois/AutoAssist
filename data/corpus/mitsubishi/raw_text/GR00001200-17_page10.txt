@@ -1,0 +1,48 @@
+17-10 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+Without using scan tool MB991502
+1. Turn the ignition switch to the "ON" position while holding
+RESUME SWITCH: the auto-cruise control switch in the "SET" (down) position.
+ON
+Then, within one second, more the auto-cruise control
+switch up to the "RES" position.
+2. Check to make sure the "CRUISE" light on the instrument
+panel is flashing.
+3. Put the auto-cruise control switch in the "SET" (down)
+SET SWITCH: position.
+ON Depress the brake pedal and hold for five seconds or more.
+AUTO-CRUISE
+CONTROL SWITCH Release the brake pedal, auto-cruise control switch, then
+turn the ignition switch to the "LOCK" (OFF) position.
+The DTC(s) are now erased.
+STOPLIGHT SWITCH
+ON POSITION
+BRAKE PEDAL
+ACX02250AB
+INSPECTION USING SCAN TOOL MB991502
+DATA LIST
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+1. Connect scan tool MB991502 to the data link connector.
+2. Turn the ignition switch to the "ON" position.
+3. Carry out inspection by means of the data list.
+If there is an abnormality, check and repair the chassis
+harnesses and components. (Refer to P.17-77, Data List
+Reference Table.)
+4. Re-check using scan tool MB991502 and check to be sure
+16 PIN
+that the abnormal input and output have returned to normal
+because of the repairs.
+MB991502
+AC001252AB
+5. Erase the diagnostic trouble code(s).
+6. Turn the ignition switch to the "LOCK" (OFF) position.
+7. Disconnect scan tool MB991502 from the data link
+connector.
+8. Start the engine again and do a test drive to confirm that the
+problem is eliminated.
+TSB Revision

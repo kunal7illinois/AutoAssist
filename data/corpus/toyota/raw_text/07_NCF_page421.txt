@@ -1,0 +1,40 @@
+BODY ELECTRICAL - WIRELESS DOOR LOCK REMOTE CONTROL SYSTEM BE-87
+(cid:1)FUNCTION
+1. General
+The wireless door lock remote control system has following functions:
+Function Outline
+All Doors Lock Pressing the LOCK button of the transmitter lock all doors.
+All Doors Unlock* Pressing the UNLOCK button of the transmitter once unlocks the driver’s door,
+(2-step unlock) and pressing it again within 3 seconds unlocks all doors.
+Keeping the TRUNK button of the transmitter pressed longer about 0.6 seconds
+Trunk Opener*
+opens the trunk lid.
+(cid:1) The hazard light flashes once when locking, and flashes twice when
+unlocking, to inform that the operation has been completed.
+Answer Back*
+(cid:1) The wireless door lock buzzer sounds once when locking, and sounds twice
+when unlocking, to inform that the operation has been completed.
+Keeping the PANIC button of the transmitter pressed longer that about 1
+seconds causes the following alarms to activate.
+Panic Alarm (cid:1) Sounds the horn and security horn.
+(cid:1) Flashes the hazard warning lights head lights, and taillights.
+(cid:1) Illuminates the interior light.
+If none of the doors are opened within 60 seconds of being unlocked by the
+Automatic Lock* wireless door lock remote control, all the doors will be locked again
+automatically.
+If any door is open or ajar, pressing the LOCK button of the transmitter will
+Door Ajar Warning*
+cause the wireless door lock buzzer to sound for about 10 seconds.
+If a door is not locked in response to the locking operation of the transmitter,
+Repeat
+the integration relay will output a lock signal after the unlock operation.
+When all the doors are locked, pressing the UNLOCK button causes the interior
+Illuminated Entry*
+lights to illuminate simultaneously with the unlock operation.
+Transmitter
+Enables the registering (writing or storing) of 6 types of transmitter recognition
+Recognition Code
+codes in the EEPROM that is contained in the main body ECU.
+Registration Function
+*: The setting function can be changed using the customized body electronics system. For details, refer to
+Customized Body Electrical System section on page BE-13.

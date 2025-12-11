@@ -1,0 +1,45 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-559
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TERMINAL TERMINAL INSPECTION ITEM NORMAL CONDITION (INSPECTION CONDITION)
+NO. NO.
+4 − 12 14 − 41 Stepper motor coil (A1) 28 − 33 Ω [at 20°C (68°F)]
+17 − 12 28 − 41 Stepper motor coil (A2)
+5 − 12 15 − 41 Stepper motor coil (B1)
+18 − 12 29 − 41 Stepper motor coil (B2)
+6 − 12 6 − 41 EGR solenoid 29 − 35 Ω [at 20°C (68°F)]
+9 − 12 34 − 41 Evaporative emission purge solenoid 30 − 34 Ω [at 20°C (68°F)]
+13 − 42 − ECM or PCM ground Continuity (approximately 0 Ω)
+Body Body
+ground ground
+26 − 48 − ECM or PCM ground
+Body Body
+ground ground
+54 − 12 26 − 41 Heated oxygen sensor heater (rear) 11 − 18 Ω [at 20°C (68°F)]
+55 − 12 35 − 41 Evaporative emission ventilation 17 − 21 Ω [at 20°C (68°F)]
+solenoid
+60 − 12 3 − 41 Heated oxygen sensor heater (front) 4.5 − 8.0 Ω [at 20°C (68°F)]
+72 − 92 57 − 64 Intake air temperature sensor 13 − 17 kΩ [when intake air temperature is −
+20°C (−4°F)]
+5.3 − 6.7 kΩ [when intake air temperature is
+0°C (32°F)]
+2.3 − 3.0 kΩ [when intake air temperature is
+20°C (68°F)]
+1.0 − 1.5 kΩ [when intake air temperature is
+40°C (104°F)]
+0.56 − 0.76 kΩ [when intake air temperature is
+60°C (140°F)]
+0.30 − 0.42 kΩ [when intake air temperature is
+80°C (176°F)]
+83 − 92 44 − 57 Engine coolant temperature sensor 14 − 17 kΩ [when engine coolant temperature
+is −20°C (−4°F)]
+5.1 − 6.5 kΩ [when engine coolant temperature
+is 0°C (32°F)]
+2.1 − 2.7 kΩ [when engine coolant temperature
+is 20°C (68°F)]
+0.9 − 1.3 kΩ [when engine coolant temperature
+is 40°C (104°F)]
+0.48 − 0.68 kΩ [when engine coolant
+temperature is 60°C (140°F)]
+0.26 − 0.36 kΩ [when engine coolant
+temperature is 80°C (176°F)]
+TSB Revision

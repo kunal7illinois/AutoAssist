@@ -1,0 +1,47 @@
+EI–69
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+*1: for 2AZ-FE
+*2: for 2GR-FE
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(b) Reconnect the C24*1 or C55*2 ECM connector.
+Measure the voltage between each terminal of the
+connector according to the value(s) in the table
+below.
+Terminal
+Symbols (Terminal No.) Wiring Color Condition Specified Condition
+Description
+IMI (A24-11)*1 - E1 (C24-104)*1 Transponder key ECU Ignition switch OFF Below 1 V
+Y - W-B
+IMI (A55-11)*2 - E1 (C55-81)*2 input signal Ignition switch ON Waveform 1
+IMO (A24-10)*1 - E1 (C24-104)*1 Transponder key ECU Ignition switch OFF Below 1 V
+G - W-B
+IMO (A55-10)*2 - E1 (C55-81)*2 output signal Ignition switch ON Waveform 2
+*1: for 2AZ-FE
+*2: for 2GR-FE
+If the result is not as specified, the ECM may have a
+malfunction.
+(c) Inspect using an oscilloscope.
+(1) Waveform 1 (Reference)
+IMI (A24-11)*1 - E1 (C24-104)*1
+Terminal
+IMI (A55-11)*2 - E1 (C55-81)*2
+Tool Setting 2 V/DIV., 1 s./DIV.
+Condition Ignition switch ON
+*1: for 2AZ-FE
+*2: for 2GR-FE
+GND
+Tool Setting: 2 V/DIV., 1 s./DIV.
+EI
+B139206E01
+(2) Waveform 2 (Reference)
+IMO (A24-10)*1 - E1 (C24-104)*1
+Terminal
+IMO (A55-10)*2 - E1 (C55-81)*2
+Tool Setting 2 V/DIV., 1 s./DIV.
+Condition Ignition switch ON
+*1: for 2AZ-FE
+*2: for 2GR-FE
+GND
+Tool Setting: 2 V/DIV., 1 s./DIV.
+B139207E01

@@ -1,0 +1,31 @@
+BE-144 BODY ELECTRICAL - SRS AIRBAG SYSTEM
+Service Tip
+Follow the procedure indicated below to install the seat position sensor.
+1)Insert a 1.5 mm (0.06 in.) feeler gauge between the seat position sensor and the lower rail
+portion.
+2)Tighten the mounting bolt to the specified torque with the seat position sensor pushed down
+as shown.
+For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).
+Seat Position Sensor
+1.5 mm (0.06 in.)
+Lower Rail
+01YBE94Y
+Seat Belt Buckle Switch
+The seat belt buckle switch detects whether or not the seat belt is fastened.
+(cid:1) The non-contact type switch is composed of a Hall IC and two magnets, installed into the front seat inner
+belt assembly.
+(cid:1) The ejector inside the front seat inner belt assembly and the plate installed to the ejector move when the
+seat belt is removed or inserted. The movement of the plate changes the magnetic flux density of the
+magnet.
+(cid:1) The Hall IC detects the changes in the magnetic flux density in accordance with the seat belt removal
+or insertion, and outputs a signal to the airbag sensor assembly (for driver seat) and occupant
+classification ECU (for front passenger seat).
+Seat belt not fastened
+Plate
+Hall IC
+Magnet
+Ejector
+Hall IC Seat belt fastened
+Magnet
+285BE143
+Magnet Flux

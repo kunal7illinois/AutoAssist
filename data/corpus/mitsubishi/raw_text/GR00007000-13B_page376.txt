@@ -1,0 +1,46 @@
+13B-376 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR:D-10 CONNECTOR:C-28
+EVAPORATIVE EMISSION
+VENTILATION SOLENOID
+ACX02516AJ
+AK000733AC
+CONNECTOR : C-51<M/T>, C-52<A/T>
+CONNECTOR:C-90
+PCM<A/T> ECM<M/T>
+C-52 C-51
+AK000225AJ
+AK000345AD
+CONNECTOR: A-18X
+CONNECTOR:D-16
+MFI RELAY
+AK101363AB
+AK000734AB
+. .
+CIRCUIT OPERATION DTC SET CONDITIONS
+• The evaporative emission ventilation solenoid
+Check Conditions
+power is supplied from the MFI relay (terminal 4).
+• Engine is being cranked.
+• The ECM <M/T> or PCM <A/T> controls the
+• Battery positive voltage is at between 10 and 16
+evaporative emission ventilation solenoid ground
+volts.
+by turning the power transistor in the ECM <M/T>
+or PCM <A/T> ON and OFF. Judgment Criteria
+• The evaporative emission ventilation solenoid
+. coil surge voltage (battery positive voltage + 2
+TECHNICAL DESCRIPTION
+• To judge if there is open circuit in the evaporative volts) is not detected for 0.2 second.
+• The ECM <M/T> or PCM <A/T> monitors for this
+emission ventilation solenoid drive circuit, ECM
+condition once during the drive cycle.
+<M/T> or PCM <A/T> measures the surge volt-
+age of the evaporative emission ventilation sole- Check Conditions
+noid coil. • Battery positive voltage is at between 10 and 16
+• The ECM <M/T> or PCM <A/T> drives the evapo- volts.
+rative emission ventilation solenoid. After the • ON duty cycle of the evaporative emission purge
+solenoid is turned off, the ECM <M/T> or PCM solenoid is 0 percent.
+<A/T> will check if the solenoid coil produces a • ON duty cycle of the EGR solenoid is 0 percent.
+surge voltage of 2 V or more. • Evaporative emission ventilation solenoid is ON.
+TSB Revision

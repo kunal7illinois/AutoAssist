@@ -1,0 +1,41 @@
+ES–203
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P0171, P0172, P0174 OR
+P0175)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(d) Read the DTCs.
+Result
+Display (DTC Output) Proceed to
+P0171, P0172, P0174 or P0175 A
+P0171, P0172, P0174 or P0175 and other DTCs B
+HINT: ES
+If any DTCs other than P0171, P0172, P0174 or P0175
+are output, troubleshoot those DTCs first.
+B GO TO DTC CHART (See page ES-63)
+A
+2 CHECK PCV HOSE CONNECTIONS
+OK:
+PCV hose is connected correctly and is not damaged.
+NG REPAIR OR REPLACE PCV HOSE
+OK
+3 CHECK AIR INDUCTION SYSTEM
+(a) Check the air induction system for vacuum leakage.
+OK:
+No leakage from the air induction system.
+NG REPAIR OR REPLACE AIR INDUCTION
+SYSTEM
+OK
+4 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (A/F CONTROL)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the tester on.
+(c) Warm up the engine at an engine speed of 2,500 rpm for
+approximately 90 seconds.
+(d) Select the following menu items on the tester:
+DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST / A/F
+CONTROL.
+(e) Perform the A/F CONTROL operation with the engine in
+an idling condition (press the RIGHT or LEFT button to
+change the fuel injection volume).

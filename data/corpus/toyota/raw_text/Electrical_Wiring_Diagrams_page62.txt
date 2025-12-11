@@ -1,0 +1,64 @@
+G
+Position of Parts in Body
+(*2) (*1)
+Q7 Q6 Q13 Q3 Q9 Q12 Q5 H2 Q8 Q2 H4 H5 H6 Q11 Q10 W1 H8 H7 J1
+J3
+Q1
+J5
+H1
+S10
+W2
+S11
+I3
+S9
+I1
+g1
+I5
+S4
+I4
+S13
+M1
+S12
+X1
+S2
+X2
+S1
+* 1:TMC Made
+* 2:TMMK Made
+* 3:w/ Smart Key System
+* 4:w/o Smart Key System
+I6 I7 K1 K3 K5 f1 S15 S16 S3 S14 S5 S6 S8
+(*4) (*3)
+H 1 Speaker (Front Door RH) Q 8 Vanity Lamp (RH)
+H 2 Outer Rear View Mirror (RH) Q 9 Room Lamp (Center)
+H 4 Power Window Regulator Motor Q10 Map Lamp (RH)
+(Front Passenger’s Side) Q11 Map Lamp (LH)
+H 5 Door Lock Control SW Q12 Microphone (Navigation)
+H 6 Power Window SW (Front Passenger’s Side) Q13 Sliding Roof Control ECU and Motor
+H 7 Courtesy Lamp (Front Door RH)
+H 8 Door Lock Assembly (Front Passenger’s Side) S 1 License Plate Lamp (RH)
+S 2 Rear Combination Lamp (RH)
+I 1 Speaker (Front Door LH) S 3 Rear Combination Lamp (LH)
+I 3 Outer Rear View Mirror (LH) S 4 License Plate Lamp (LH)
+I 4 Power Window Regulator Motor (Front LH) S 5 Door Lock Assembly (Luggage)
+I 5 Power Window Regulator Motor (Front LH) S 6 Luggage Compartment Door Lock Cylinder
+I 6 Courtesy Lamp (Front Door LH) S 8 Luggage Compartment Door Lock Cylinder
+I 7 Door Lock Assembly (Driver’s Side) S 9 Luggage Electrical Key SW
+S10 Turn Signal Lamp (Rear LH)
+J 1 Power Window SW (Rear RH) S11 Rear Combination Lamp (LH)
+J 3 Power Window Regulator Motor (Rear RH) S12 Rear Combination Lamp (RH)
+J 5 Door Lock Assembly (Rear RH) S13 Turn Signal Lamp (Rear RH)
+S14 Electrical Key Oscillator (Outside Luggage Room)
+K 1 Power Window SW (Rear LH) S15 Junction Connector
+K 3 Power Window Regulator Motor (Rear LH) S16 Junction Connector
+K 5 Door Lock Assembly (Rear LH)
+W 1 Door Outside Handle (Front RH)
+M 1 Power Window Master SW W 2 Electrical Key Oscillator (Front Door RH)
+Q 1 Vanity Lamp SW (LH) X 1 Door Outside Handle (Front LH)
+Q 2 Vanity Lamp SW (RH) X 2 Electrical Key Oscillator (Front Door LH)
+Q 3 Inner Rear View Mirror
+Q 5 Microphone (Navigation) f 1 Speed Sensor (Rear LH)
+Q 6 Overhead J/B
+Q 7 Vanity Lamp (LH) g 1 Speed Sensor (Rear RH)
+61
+CAMRY (EM0250U)

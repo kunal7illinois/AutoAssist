@@ -1,0 +1,77 @@
+ES–33
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Specified
+Symbols (Terminal No.) Wiring Colors Terminal Descriptions Conditions
+Conditions
+Pulse generation (see
+M- (B30-41) - ME01 (B30-43) W - W-B Throttle actuator Idling with warm engine
+waveform 10)
+Ignition switch ON 9 to 14 V
+FC (A9-7) - E1 (B30-104) W - BR Fuel pump control
+Idling Below 1.5 V
+Ignition switch ON Below 1.5 V
+W (A9-24) - E1 (B30-104) R - BR MIL
+Idling 9 to 14 V
+TC (A9-27) - E1 (B30-104) G - BR Terminal TC of DLC3 Ignition switch ON 9 to 14 V
+Pulse generation (see
+TACH (A9-15) - E1 (B30-104) GR - BR Engine speed Idling
+waveform 11)
+Vent valve (built into
+VPMP (A9-42) - E1 (B30-104) W - BR Ignition switch ON 9 to 14 V
+canister pump module)
+ES
+Leak detection pump (built Leak detection pump OFF Below 3 V
+MPMP (A9-34) - E1 (B30-104) B - BR into canister pump
+Leak detection pump ON 9 to 14 V
+module)
+Power source for canister
+VCPP (B30-70) - EPPM (B30-94) Y - BR pressure sensor (specific Ignition switch ON 4.5 to 5.5 V
+voltage)
+Canister pressure sensor
+PPMP (B30-71) - EPPM (B30-94) V - BR (built into canister pump Ignition switch ON 3 to 3.6 V
+module)
+Taillight switch ON 7.5 to 14 V
+ELS1 (A9-31) - E1 (B30-104) O - BR Electric load
+Taillight switch OFF Below 1.5 V
+Defogger switch ON 7.5 to 14 V
+ELS3 (A9-33) - E1 (B30-104) G - BR Electric load
+Defogger switch OFF Below 1.5 V
+Ignition switch ON 9 to 14 V
+FANL (A9-21) - E1 (B30-104) R - BR Fan No. 1 relay Idling with A/C ON, or high engine
+Below 1.5 V
+coolant temperature
+Idling with high engine coolant
+FANH (A9-22) - E1 (B30-104) W - BR Fan No. 2 relay Below 1.5 V
+temperature
+ALT (B30-50) - E1 (B30-104) B - BR Generator Ignition switch ON 9 to 14 V
+Pulse generation (see
+CANH (A9-41) - E1 (B30-104) Y - BR CAN communication line Ignition switch ON
+waveform 12)
+Pulse generation (see
+CANL (A9-49) - E1 (B30-104) W - BR CAN communication line Ignition switch ON
+waveform 13)
+VCIB (B30-69) - EIB (B30-92) R - BR Battery current sensor Ignition switch ON 4.5 to 5.5 V
+IB (B30-68) - EIB (B30-92) B - BR Battery current sensor Ignition switch ON 0.5 to 2.5 V
+Ignition switch ON, Battery
+Battery temperature
+THB (B30-120) - EIB (B30-92) LG - BR temperature -30 to 80°C (-22 to 0.5 to 4.5 V
+sensor
+176°F)
+After engine warmed up, during
+Pulse generation (see
+RLO (B30-51) - E1 (B30-104) GR - BR Generator charging control, vehicle driven at
+waveform 14)
+constant speed
+After engine warmed up, during
+Pulse generation (see
+RLO (B30-51) - E1 (B30-104) GR - BR Generator charging control, vehicle
+waveform 15)
+accelerated
+After engine warmed up, during
+Pulse generation (see
+RLO (B30-51) - E1 (B30-104) GR - BR Generator charging control, vehicle
+waveform 16)
+decelerated
+HINT:
+*: The ECM terminal voltage is constant regardless of the
+output voltage from the sensor.

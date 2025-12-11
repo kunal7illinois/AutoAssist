@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+YES - Go to step 6.
+NO - Intermittent failure, the system is OK at this time. Check for loose
+terminals between ECM/PCM connector A (44P) and the ABS modulator-
+control unit 25P connector. Refer to INTERMITTENT FAILURES
+TROUBLESHOOTING .
+6. Turn the ignition switch to LOCK (0).
+7. Short the SCS line with the HDS.
+8. Disconnect ECM/PCM connector A (44P).
+9. Disconnect the ABS modulator-control unit 25P connector.
+10. Check for continuity between ABS modulator-control unit 25P connector
+terminal and ECM/PCM connector A (44P) terminal (see ABS
+MODULATOR-CONTROL UNIT 25P CONNECTOR TERMINAL AND
+ECM/PCM CONNECTOR A (44P) TERMINAL ).
+ABS MODULATOR-CONTROL UNIT 25P CONNECTOR TERMINAL
+AND ECM/PCM CONNECTOR A (44P) TERMINAL
+Connector Terminal No.
+Sign
+ABS Modulator-control UnitECM/PCM
+CAN-L 17 37
+CAN-H 1 36

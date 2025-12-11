@@ -1,0 +1,52 @@
+ES–214
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• The 1st monitor
+While the engine is running and the purge VSV is ON (open), the ECM monitors the purge flow by
+measuring the EVAP pressure change. If negative pressure is not created, the ECM begins the 2nd
+monitor.
+• The 2nd monitor
+The vent valve is turned ON (closed) and the EVAP pressure is then measured. If the variation in the
+pressure is less than 0.5 kPa-g (3.75 mmHg-g), the ECM interprets this as the purge VSV being stuck
+closed, and illuminates the MIL and sets DTC P0441 (2 trip detection logic).
+Atmospheric pressure check:
+In order to ensure reliable malfunction detection, the variation between the atmospheric pressures, before
+and after conduction of the purge flow monitor, is measured by the ECM.
+OBD II MONITOR SPECIFICATIONS
+ES
+1. Key-off Monitor
+Monitor Strategy
+Required Sensors/Components Purge VSV and canister pump module
+Frequency of Operation Once per driving cycle
+Duration Within 15 minutes (varies with fuel in tank)
+MIL Operation 2 driving cycles
+Sequence of Operation None
+Typical Enabling Conditions
+EVAP key-off monitor runs when all of following conditions met -
+Atmospheric pressure 70 to 110 kPa-a (525 to 825 mmHg-a)
+Battery voltage 10.5 V or more
+Vehicle speed Below 4 km/h (2.5 mph)
+Ignition switch OFF
+Time after key off 5 or 7 or 9.5 hours
+Canister pressure sensor malfunction (P0450, P0451, P0452 and
+Not detected
+P0453)
+Purge VSV Not operated by scan tool
+Vent valve Not operated by scan tool
+Leak detection pump Not operated by scan tool
+Both of following conditions met before key off Conditions 1 and 2
+1. Duration that vehicle driven 5 minutes or more
+2. EVAP purge operation Performed
+ECT 4.4° to 35°C (40° to 95°F)
+IAT 4.4°to 35°C (40° to 95°F)
+2. Key-off monitor sequence 1 to 8
+1. Atmospheric pressure measurement
+Next sequence run if following condition set -
+Atmospheric pressure change Less than 0.3 kPa-g (2.25 mmHg-g) in 1 second
+2. First reference pressure measurement
+Next sequence run if all of following conditions set Condition 1, 2 and 3
+1. EVAP pressure just after reference pressure measurement start -1 kPa-g (-7.5 mmHg-g) or less
+2. Reference pressure -4.85 to -1.057 kPa-g (-36.4 to -7.93 mmHg-g)
+3. Reference pressure Saturated within 60 seconds
+3. Vent valve stuck closed check
+Next sequence run if following condition set -
+EVAP pressure change after vent valve ON (closed) 0.3 kPa-g (2.25 mmHg-g) or more

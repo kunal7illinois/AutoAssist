@@ -1,0 +1,46 @@
+BC–60
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+1 INSPECT FUSIBLE LINK (ABS NO. 2 FUSE)
+(a) Remove the fusible link from the engine room R/B.
+Engine Room R/B (b) Check if the fusible link is melted.
+OK:
+The fusible link is not melted.
+(c) Install the fusible link to the engine room R/B with the
+nut.
+Torque: 5.4 N*m (55 kgf*cm, 48 in.*lbf)
+ABS
+No. 2
+NG REPLACE FUSIBLE LINK
+BC
+C136500E02
+OK
+2 INSPECT SKID CONTROL ECU CONNECTOR (+BS CIRCUIT)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Harness Side
+(b) Measure the voltage according to the value(s) in the
+Connector Front View):
+table below.
+Standard voltage
+A25
++BS
+Tester Connection Condition Specified Condition
+A25-3 (+BS) -
+Always 10 to 14 V
+Body ground
+NG REPAIR OR REPLACE HARNESS OR
+C131970E10 CONNECTOR (+BS CIRCUIT)
+OK
+3 INSPECT SKID CONTROL ECU CONNECTOR (GND TERMINAL CONTINUITY)
+(a) Measure the resistance according to the value(s) in the
+Skid Control ECU (Harness Side
+table below.
+Connector Front View):
+Standard resistance
+GND2 GND1 A25 Tester Connection Specified Condition
+A25-4 (GND1) - Body ground Below 1 Ω
+A25-1 (GND2) - Body ground Below 1 Ω
+(b) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+C131970E05
+CONNECTOR (GND CIRCUIT)
+OK

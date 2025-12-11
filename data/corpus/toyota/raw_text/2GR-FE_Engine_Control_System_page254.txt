@@ -1,0 +1,49 @@
+ES–254
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1 CHECK HARNESS AND CONNECTOR (SENSOR POWER SOURCE)
+(a) Disconnect the C40 or C44 VVT sensor connector.
+Wire Harness Side:
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+C40 Bank 1 C44 Bank 2
+Tester Connection Specified Condition
+VC2 (C40-3) - Body ground 4.5 to 5.0 V
+VC2 (C44-3) - Body ground 4.5 to 5.0 V
+(c) Reconnect the VVT sensor connector.
+NG REPAIR OR REPLACE HARNESS OR
+ES CONNECTOR
+VC2
+VVT Sensor
+A107149E17
+OK
+2 CHECK HARNESS AND CONNECTOR (VVT SENSOR - ECM)
+(a) Disconnect the C40 or C44 VVT sensor connector.
+Wire Harness Side: (b) Disconnect the C55 ECM connector.
+(c) Measure the resistance according to the value(s) in the
+VVT Sensor
+table below.
+Standard resistance (Check for open)
+C40
+Tester Connection Specified Condition
+Bank 1
+EX+ (C40-1) - EV1+ (C55-68) Below 1 Ω
+EX- (C40-2) - EV1- (C55-91) Below 1 Ω
+C44 EX+ (C44-1) - EV2+ (C55-66) Below 1 Ω
+Bank 2 EX- (C44-2) - EV2- (C55-89) Below 1 Ω
+Standard resistance (Check for short)
+Tester Connection Specified Condition
+ECM Connector
+EX+ (C40-1) or EV1+ (C55-68) - Body ground 10 kΩ or higher
+C55 EX- (C40-2) or EV1- (C55-91) - Body ground 10 kΩ or higher
+EV2+ EX+ (C44-1) or EV2+ (C55-66) - Body ground 10 kΩ or higher
+EX- (C44-2) or EV2- (C55-89) - Body ground 10 kΩ or higher
+(d) Reconnect the VVT sensor connector.
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+EV1+
+EV2-
+EV1-
+A135027E02
+OK

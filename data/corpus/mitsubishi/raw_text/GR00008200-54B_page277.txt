@@ -1,0 +1,34 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-277
+SYMPTOM PROCEDURES
+• The scan tool does not show the respective
+normal condition for item "FRONT ECU SW."
+Replace the front-ECU. Check that the headlights
+(high beam) illuminate normally.
+INSPECTION PROCEDURE J-4: Headlight, Tail Light: When the Passing Switch is Turned "ON", the
+Headlights (Low-beam or High-beam) do not Illuminate.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+. .
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINTS
+If both of the headlights (low-beam and high-beam) • Malfunction of the column switch
+do not illuminate, the input circuit from the passing • Malfunction of the front-ECU
+switch or the front-ECU may be defective. • Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Check the headlights.
+Q:Do the headlights (low-beam and high-beam) illuminate
+normally?
+YES : Go to Step 2.
+NO : • Headlights (low-beam) do not illuminate normally:
+Refer to Inspection Procedure J-2 "Headlights
+(low-beam) do not illuminate normally P.54B-270."
+• Headlights (high-beam) do not illuminate normally:
+Refer to Inspection Procedure J-3 "Headlights
+(high-beam) do not illuminate normally P.54B-
+274."
+TSB Revision

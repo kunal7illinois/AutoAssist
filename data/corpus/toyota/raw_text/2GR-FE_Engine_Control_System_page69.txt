@@ -1,0 +1,65 @@
+ES–69
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Intelligent Tester Displays Test Details Control Ranges Diagnostic Note
+Test is possible when following
+conditions are met:
+COOLING FAN Control Electric Cooling Fan ON/OFF
+• Ignition switch is on (IG)
+• Ignition is stopped
+Test is possible when following
+conditions are met:
+ACC CUT Active ACC cut relay ON/OFF
+• Ignition switch is on (IG)
+• Ignition is stopped
+STARTER Starter ON/OFF -
+Test is possible when following
+conditions are met:
+• Ignition switch is on (IG)
+ETCS OPEN SLOW Throttle actuator ON: Throttle valve opens slowly • Ignition is stopped
+• Accelerator pedal is fully
+depressed (APP: 58 degrees
+or more)
+ES
+ETCS CLOSE SLOW Throttle actuator ON: Throttle valve closes slowly Same as above
+ETCS OPEN FAST Throttle actuator ON: Throttle valve opens fast Same as above
+ETCS CLOSE FAST Throttle actuator ON: Throttle valve closes fast Same as above
+Test is possible during vehicle
+FUEL CUT #1 Cylinder #1 injector fuel cut ON/OFF
+stopping and engine idling.
+FUEL CUT #2 Cylinder #2 injector fuel cut ON/OFF Same as above
+FUEL CUT #3 Cylinder #3 injector fuel cut ON/OFF Same as above
+FUEL CUT #4 Cylinder #4 injector fuel cut ON/OFF Same as above
+FUEL CUT #5 Cylinder #5 injector fuel cut ON/OFF Same as above
+FUEL CUT #6 Cylinder #6 injector fuel cut ON/OFF Same as above
+Check the cylinder compression Fuel injection and ignition stop in
+COMPRESS CHECK ON/OFF
+pressure all cylinders.
+-128 to 127 %
+Engine stalls or roughly idles
+This valve added to present OCV
+when VVT actuator is operated by
+VVT B1 Control VVT (bank 1) control duty
+100 %.
+100 %: Maximum advance
+Test is possible during idling.
+-100 %: Maximum retard
+VVT B2 Control VVT (bank 2) Between -128 and 127% Same as above
+-128 to 127 %
+This valve added to present OCV
+VVT EX B1 Control VVT (bank 1) control duty -
+100 %: Maximum advance
+-100 %: Maximum retard
+VVT EX B2 Control VVT (bank 2) Between -128 and 127 % Same as above
+Test is possible during vehicle
+TARGET FUEL PRS Control the target fuel pressure Between -12.5 and 24.8 %
+stopping and engine idling.
+Test is possible during vehicle
+INJ TIMING #1 Control injection timing #1 Between -16 CA and 16 CA
+stopping and engine idling.
+INJ TIMING #2 Control injection timing #2 Between -16 CA and 16 CA Same as above
+INJ TIMING #3 Control injection timing #3 Between -16 CA and 16 CA Same as above
+INJ TIMING #4 Control injection timing #4 Between -16 CA and 16 CA Same as above
+INJ TIMING #5 Control injection timing #5 Between -16 CA and 16 CA Same as above
+INJ TIMING #6 Control injection timing #6 Between -16 CA and 16 CA Same as above
+VACUUM PUMP Vacuum pump ON/OFF -
+VENT VALVE Vent valve ON/OFF -

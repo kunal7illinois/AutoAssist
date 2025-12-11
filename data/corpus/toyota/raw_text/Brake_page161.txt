@@ -1,0 +1,71 @@
+BC–155
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Measurement Item / Range
+Item (Display) Normal Condition Diagnostic Note
+(Display)
+Freeze frame DTC / min.:0, max.:
+TROUBLE CODE - -
+65,535
+(*1): Models without multi information display
+(*2): Models with multi information display
+2. ACTIVE TEST
+HINT:
+Performing the Active Test using the intelligent tester
+allows the relay, actuator, and other items to operate
+without removing any parts. Performing the Active Test
+as the first step in troubleshooting is one of the methods
+to save labor time.
+It is possible to display the Data List during the Active
+Test.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) On the tester display, select the Active Test.
+BC
+HINT:
+The ignition switch must be turned on (IG) to
+proceed to the Active Test using the intelligent
+tester.
+Item (Display) Vehicle Condition / Test Details Diagnostic Note
+Operating sound of solenoid
+SFRR Turns ABS solenoid (SFRR) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SFRH Turns ABS solenoid (SFRH) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SFLR Turns ABS solenoid (SFLR) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SFLH Turns ABS solenoid (SFLH) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SRRR Turns ABS solenoid (SRRR) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SRRH Turns ABS solenoid (SRRH) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SRLR Turns ABS solenoid (SRLR) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SRLH Turns ABS solenoid (SRLH) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SMF Turns master cut solenoid (SM1) ON / OFF
+(clicking sound) can be heard
+Operating sound of solenoid
+SMR Turns master cut solenoid (SM2) ON / OFF
+(clicking sound) can be heard
+SOL RELAY Turns ABS solenoid relay ON / OFF -
+Operating sound of relay (clicking
+MOTOR RELAY Turns ABS motor relay ON / OFF
+sound) and motor can be heard
+ABS WARN LAMP Turns ABS warning light ON / OFF Observe combination meter
+Turns VSC warning light (*1) or multi information display (*2) ON /
+VSC WARN LAMP Observe combination meter
+OFF
+SLIP INDI LAMP Turns SLIP indicator light ON / OFF Observe combination meter
+BRAKE WARN LAMP Turns BRAKE warning light ON / OFF Observe combination meter
+BUZZER Turns skid control buzzer ON / OFF Buzzer can be heard
+(*1): Models without multi information display
+(*2): Models with multi information display

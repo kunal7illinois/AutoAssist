@@ -1,0 +1,48 @@
+TRACTION CONTROL SYSTEM (TCL) 35C-9
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+. TCL DTC SET CONDITIONS
+CIRCUIT OPERATION
+These codes are displayed if the power supply circuit
+Power is continuously supplied to the ABS-ECU
+of solenoid valve or motor is open or short.
+through the relay box fusible link number 3 to oper-
+ate the solenoid valves and motor. The ABS-ECU
+.
+supplies power to the solenoids. If controls each TROUBLESHOOTING HINTS (The most likely
+solenoid by switching the ground circuit ON or OFF, causes for these DTCs are to set are:)
+depending on driving conditions. • Damaged wiring harness or connector
+• Malfunction of the hydraulic unit (integrated with
+. ABS-ECU)
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991529: Diagnostic Trouble Code Check Harness
+.
+STEP 1. Check the solenoid valve and motor power supply
+circuit at the ABS-ECU connector A-02.
+(1) Disconnect the ABS-ECU connector A-02 and measure at
+the harness side.
+(2) Measure the voltages between terminal 18 and ground, and
+A-02 (HARNESS SIDE)
+17 and ground.
+Q:Are the voltages approximately 12 volts (battery
+positive voltage)?
+YES : Replace the hydraulic unit (integrated with ABS-
+ECU). (Refer to GROUP 35B, Hydraulic Unit P.35B-
+52.) Then go to Step 3.
+NO : Go to Step 2.
+AC000945AB
+STEP 2. Check the harness wire between the relay box
+fusible link number 3 and the ABS-ECU connector A-02
+(terminals 17 and 18).
+NOTE: After inspecting the intermediate connector C-05,
+CONNECTOR: C-05
+inspect the wires. If the intermediate connector C-05 is dam-
+COMBINATION METER
+aged, repair or replace it. Refer to GROUP 00E, Harness Con-
+nector Inspection P.00E-2. If the connector has been repaired
+or replaced, go to Step 3.
+AC004431AB
+TSB Revision

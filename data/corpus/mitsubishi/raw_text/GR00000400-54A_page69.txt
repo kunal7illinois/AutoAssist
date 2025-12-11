@@ -1,0 +1,54 @@
+CHASSIS ELECTRICAL 54A-69
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 35. Using the oscilloscope, check the waveform at
+PCM connectors C-50, C-61 <2.4L> or C-52, C-63 <3.0L> by
+backprobing.
+(1) Do not disconnect connectors C-50, C-61 <2.4L> or C-52,
+CONNECTORS: C-50, C-61 <2.4L-A/T>,
+C-52, C-63 <3.0L-A/T> C-63 <3.0L>.
+PCM
+C-50 <2.4L-A/T> C-61 <2.4L-A/T>
+C-52 <3.0L-A/T> C-63 <3.0L-A/T>
+AC001689BA
+(2) Connect an oscilloscope probe to PCM connector C-50
+PROBE <2.4L> or C-52 <3.0L> terminal 16 and to PCM connector
+C-61 <2.4L> or C-63 <3.0L> terminal 104 by backprobing.
+OSCILLO- (3) Start the engine and run at constant speed of 50km/h
+101102 103104 105106107 SCOPE
+108109110111112113114115116117118119120 (31mph). (Gear range: 3rd gear)
+121122123 124125 126127128 129130
+C-61 <2.4L>, C-63 <3.0L> CONNECTOR
+HARNESS SIDE VIEW
+1 2 34 5 6 7 8
+9 1011121314151617181920212223
+24 25 26272829 30313233 3435
+C-50 <2.4L>, C-52 <3.0L> CONNECTOR
+HARNESS SIDE VIEW
+AC101971AC
+(4) Check the waveform.
+NORMAL WAVEFORM
+• The waveform should show a pattern similar to the illus-
+(V)
+tration. The maximum value should be 4.8 volts and
+5
+more and the minimum value 0.8 volts and less. The
+output waveform should not contain the noise.
+(5) Turn the ignition switch to "LOCK" (OFF) position.
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 36.
+0
+NO : Go to Step 37.
+AC100335AB
+STEP 36. Check connectors C-50, C-61 <2.4L> or C-52, C-
+63 <3.0L> at PCM for damage.
+Q:Are the connectors in good condition?
+CONNECTORS: C-50, C-61 <2.4L-A/T>,
+C-52, C-63 <3.0L-A/T> YES : Go to Step 24.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. The
+PCM
+speedometer should work normally.
+C-50 <2.4L-A/T> C-61 <2.4L-A/T>
+C-52 <3.0L-A/T> C-63 <3.0L-A/T>
+AC001689BA
+TSB Revision

@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Gauges - Civic (All Except Hybrid)
+NO - Replace the gauge control module (tach).
+DTC B1177: BATTERY VOLTAGE ABNORMAL
+NOTE: If you are troubleshooting multiple DTCs, be sure to follow
+the instructions in B-CAN System Diagnosis Test Mode A
+(see TROUBLESHOOTING - B-CAN SYSTEM DIAGNOSIS
+TEST MODE A ).
+1. Clear the DTCs with the HDS.
+2. Turn the ignition switch OFF, and then back ON (II).
+3. Check for DTCs with the HDS.
+Is DTC B1177 indicated?
+YES - Go to step 8.
+NO - Go to step 4.
+4. Clear the DTCs with the HDS.
+5. Turn the ignition switch OFF, and then back ON (II).
+6. Crank the engine.
+7. Check for DTCs with the HDS.
+Is DTC B1177 indicated?
+YES - Go to step 8.
+NO - Intermittent failure. The gauge control module (tach) and power supply
+voltage (IG1) that is supplied to the gauge control module (tach) are OK at this
+time. The battery may have been discharged, and recovered.
+8. Check the battery (see BATTERY TEST ) and the charging system.
+Is the battery condition normal and the charging system OK?
+YES - Go to step 9.

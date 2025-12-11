@@ -1,0 +1,46 @@
+54B-610 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CIRCUIT OPERATION TECHNICAL DESCRIPTION (COMMENT)
+The ETACS-ECU receives signal through its receiver If the signal is not normal, the systems, which are
+from the transmitter, and operates the keyless entry described in "CIRCUIT OPERATION", do not work
+system according to the signal. normally.
+. .
+TROUBLESHOOTING HINTS
+• Malfunction of the transmitter
+• Malfunction of the ETACS-ECU
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Register the transmitter.
+Replace the transmitter.Refer to GROUP 42, Keyless Entry
+System, On-vehicle Service, How To Secret Registration
+Method P.42-84.
+Q:Can the transmitter be registered correctly?
+YES : If the systems, which are described in "CIRCUIT
+OPERATION", work normally, the input signal from
+the transmitter should be normal.
+NO : Go to Step 2.
+STEP 2. Check the transmitter battery.
+Measure the voltage of the transmitter battery.
+• The value should be approximately 2.5 - 3.2 volts.
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 3.
+NO : Replace the battery. If the transmitter can be
+registered normally, and the systems, which are
+described in "CIRCUIT OPERATION", operate
+normally, it indicates that the transmitter is sending
+normal signal to the ECU.
+ACX01609
+STEP 3. Check the transmitter.
+Substantial other transmitter in order to register encrypted
+code.Refer to GROUP 42, Keyless Entry System, On-vehicle
+Service, How To Secret Registration Method P.42-84.
+Q:Can the transmitter be registered correctly?
+YES : If the systems, which are described in "CIRCUIT
+OPERATION", work normally, the input signal from
+the transmitter should be normal.
+NO : Replace the ETACS-ECU. If the systems, which are
+described in "CIRCUIT OPERATION", work normally,
+the input signal from the transmitter should be normal.
+TSB Revision

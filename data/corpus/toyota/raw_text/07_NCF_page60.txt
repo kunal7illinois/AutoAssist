@@ -1,0 +1,71 @@
+ENGINE - 2AZ-FE ENGINE EG-33
+(cid:2)ENGINE CONTROL SYSTEM
+1. General
+The engine control system of the 2AZ-FE engine has the following features.
+System Outline
+(cid:1) An L-type SFI system directly detects the intake air mass with a hot wire
+type mass air flow meter.
+(cid:1) The fuel injection system is a sequential multiport fuel injection system.
+(cid:1) Fuel injection takes two forms:
+Synchronous injection, which always takes place with the same timing
+SFI
+in accordance with the basic injection duration and an additional
+ Sequential Multiport 
+  correction based on the signals provided by the sensors.
+ Fuel Injection 
+Non-synchronous injection, which takes place at the time an injection
+request based on the signals provided by the sensors is detected,
+regardless of the crankshaft position.
+(cid:1) Synchronous injection is further divided into group injection during a
+cold start, and independent injection after the engine is started.
+(cid:1) Ignition timing is determined by the ECM based on signals from various
+sensors. The ECM corrects ignition timing in response to engine
+ESA
+knocking.
+ Electronic Spark 
+  (cid:1) This system selects the optimal ignition timing in accordance with the
+ Advance 
+signals received from the sensors and sends the (IGT) ignition signal to
+the igniter.
+ETCS-i
+ Electronic  Optimally controls the throttle valve opening in accordance with the
+ 
+Throttle Control amount of accelerator pedal effort and the condition of the engine and the
+ 
+ System-intelligent  vehicle.
+[See page EG-49]
+VVT-i
+ 
+Variable Valve Controls the intake camshaft to an optimal valve timing in accordance with
+ 
+ Timing-intelligent  the engine condition.
+[See page EG-51]
+During idling while the engine is cold, this control closes the intake
+Intake Manifold
+manifold runner valve in order to create a strong tumble airflow in the intake
+Runner Valve Control*
+air. This promotes the mixture of air and fuel and improves combustion
+[See page EG-55]
+efficiency.
+(cid:1) Fuel pump operation is controlled by signals from the ECM.
+Fuel Pump Control
+(cid:1) The fuel pump is stopped, when the SRS airbag is deployed in a frontal,
+[See page EG-58]
+side, and rear of side collision.
+Air Conditioning By turning the air conditioning compressor ON or OFF in accordance with
+Cut-off Control the engine condition, drivability is maintained.
+Cooling Fan Control Cooling fan operation is controlled by signals from the ECM based on the
+[See page EG-59] engine coolant temperature sensor signal and air conditioning operation.
+Air Fuel Ratio Maintains the temperature of the air fuel ratio sensor or oxygen sensor at an
+Sensor and Oxygen appropriate level to increase accuracy of detection of the oxygen
+Sensor Heater Control concentration in the exhaust gas.
+(cid:1) The ECM controls the purge flow of evaporative emission (HC) in the
+canister in accordance with engine conditions.
+Evaporative Emission
+(cid:1) Approximately five hours after the engine switch has been turned OFF,
+Control
+the ECM operates the canister pump module to detect any evaporative
+[See page EG-60]
+emission leakage occurring between the fuel tank and the canister
+through changes in the fuel tank pressure.
+*: Only for California package models. (Continued)

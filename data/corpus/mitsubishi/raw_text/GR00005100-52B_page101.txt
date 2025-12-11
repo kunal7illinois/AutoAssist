@@ -1,0 +1,24 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-101
+SRS AIR BAG DIAGNOSIS
+DTC 81: Left Hand Side-Air Bag Module (Squib) System Fault 1 (Short Circuit between Terminals of
+the Squib Circuit)
+Side Air Bag Module (LH) (Squib) Circuit
+NOTE
+: CONNECTOR LOCK SWITCH
+AC106625AB
+CONNECTOR: C-74 CONNECTOR: D-15
+SRS-ECU
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT (LH) AC000358AF AC002981AB
+CIRCUIT OPERATION • The ignition signal is input to the air bag module
+• The SRS-ECU judges how severe a collision is to inflate the air bag.
+by detecting signals from the left and right side
+DTC SET CONDITIONS
+impact sensors. If the impact is over a predeter-
+• This DTC is set if there is abnormal resistance
+mined level, the SRS-ECU outputs an ignition
+between the input terminals of the side air bag
+signal. At this time, if the side-airbag safing G-
+module (LH) (squib).
+sensor is on, the SRS air bag will inflate.
+TSB Revision

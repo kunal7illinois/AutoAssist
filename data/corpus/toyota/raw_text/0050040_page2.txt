@@ -1,0 +1,39 @@
+ES–241
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Example:
+Idling Speed Learned Idling Air Volume
+Maximum
+Large
+Target Speed
+ES
+0
+Actual Idling Speed Minimum
+Small
+Time
+Time
+A121611E02
+MONITOR STRATEGY
+Related DTCs P0505: ISC function
+Required Sensors/Components (Main) ETCS
+Crankshaft position sensor, Engine coolant temperature sensor, and
+Required Sensors/Components (Related)
+Vehicle speed sensor
+Once per driving cycle: Functional check
+Frequency of Operation
+Continuous: Range check
+10 minutes: Functional check
+Duration
+10 seconds: Range check
+2 driving cycles: Functional check
+MIL Operation
+Immediate: Range check
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Engine Running
+TYPICAL MALFUNCTION THRESHOLDS
+Either of following conditions 1 or 2 met -
+1. Frequency that both of following conditions (a) and (b) set 5 times or more
+(a) Engine rpm - Target engine rpm Less than -100 rpm, or more than 150 rpm
+(b) Vehicle condition Stop after vehicle was driven by 10 km/h (6.25 mph) or more
+2. Frequency that both of following conditions (c) and (d) set Once
+(c) Engine rpm - Target engine rpm Less than -100 rpm, or more than 150 rpm

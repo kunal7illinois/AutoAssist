@@ -1,0 +1,46 @@
+54B-122 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+Q:Is the wiring harness between power window relay
+CONNECTOR: C-89
+connector C-116 (terminal 5) and fusible link (5) in good
+CONNECTOR condition?
+BLOCK (LH)
+YES : No action to be taken.
+NO : Repair the wiring harness. Check that the power
+windows work normally.
+C-89
+1 2 3 4 5 6 7 8 910 111213
+141516171819202122232425
+262728 29 30 31 38
+3233 34 35 36 37
+AC106683AB
+STEP 7. Measure at power window relay connector C-116
+in order to check the ground system to the power window
+relay.
+(1) Disconnect power window relay connector C-116, and
+CONNECTOR: C-116
+measure at the junction block side.
+JUNCTION BLOCK
+(FRONT VIEW)
+C-116
+JUNCTION
+BLOCK
+SIDE
+3 2 1
+4
+5
+AC102788AY
+(2) Measure the resistance value between terminal 3 and
+ground.
+• The measured value should be 2 ohm or less.
+Q:Does the measured resistance value correspond with
+3 2 1
+this range?
+4
+YES : Go to Step 10.
+5
+NO : Go to Step 8.
+CONNECTOR: C-116
+(JUNCTION BLOCK SIDE)
+AC102193AD
+TSB Revision

@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Navigation System - Civic (Except Hybrid)
+Fig. 57: Diagnostic Menu Screen Display - Hard Key
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+CAR STATUS
+Use this screen to confirm that navigation unit is properly receiving input signals.
+Signals equal to (0) are OFF, and signals equal to (1) are ON. If the value on the
+display does not match the actual vehicle status, then check the wire carrying the
+signal.
+Fig. 58: Diagnostic Menu Screen Display - Car Status
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+VSP-Vehicle Speed Pulse from ECM/PCM connector A (Navigation unit
+(cid:1)
+connector A (17P) terminal No. 13)
+a. OFF (0) when vehicle is not moving
+b. ON (1) when vehicle is moving
+The VSP comes from the ECM/PCM as a dedicated signal. Internally, the
+navigation unit compares the actual VP on the map against street data to adjust the
+pulse to speed scaling factor.
+BACK-Reverse indication from taillight relay (Navigation unit connector C
+(cid:1)
+(12P) terminal No. 7)

@@ -1,0 +1,49 @@
+ES–87
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Camshaft Position "A" Actuator Circuit (Bank
+DTC P0010
+1)
+Camshaft Position "A" Actuator Circuit (Bank
+DTC P0020
+2)
+DESCRIPTION
+The Variable Valve Timing (VVT) system includes the ECM, Oil Control Valve (OCV) and VVT controller.
+The ECM sends a target duty-cycle control signal to the OCV. This control signal regulates the oil
+pressure supplied to the VVT controller. Camshaft timing control is performed according to engine
+operating conditions such as intake air volume, throttle valve position and engine coolant temperature.
+The ECM controls the OCV, based on the signals transmitted by several sensors. The VVT controller
+regulates the intake camshaft angle using oil pressure through the OCV. As a result, the relative positions ES
+of the camshaft and crankshaft are optimized, the engine torque and fuel economy improves, and the
+exhaust emissions decrease under overall driving conditions. The ECM detects the actual intake valve
+timing using signals from the camshaft and crankshaft position sensors, and performs feedback control.
+This is how the target intake valve timing is verified by the ECM.
+ECM
+Crankshaft Position Sensor
+Duty Control
+Target Valve Timing
+MAF Meter
+Throttle Position Sensor
+Feedback
+Camshaft Timing
+ECT Sensor
+Oil Control Valve
+Correction (OCV)
+Vehicle Speed Signal
+Actual Valve Timing
+Camshaft Position Sensor
+A103843E02
+DTC No. DTC Detection Condition Trouble Area
+• Open or short in OCV for intake camshaft (bank 1)
+Open or short in OCV for intake camshaft (bank 1)
+circuit
+P0010 circuit
+• OCV for intake camshaft (bank 1)
+(1 trip detection logic)
+• ECM
+• Open or short in OCV for intake camshaft (bank 2)
+Open or short in OCV for intake camshaft (bank 2)
+circuit
+P0020 circuit
+• OCV for intake camshaft (bank 2)
+(1 trip detection logic)
+• ECM

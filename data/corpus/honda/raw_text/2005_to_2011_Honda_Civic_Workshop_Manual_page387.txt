@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+not troubleshoot the DLC circuit (see DLC CIRCUIT
+TROUBLESHOOTING ).
+6. Select Body Electrical Status with the HDS.
+7. Check for DTCs in the Gauge Menu with the HDS.
+Is DTC B1187 indicated?
+YES -Go to the DTC B1187 troubleshooting (see DTC B1168: GAUGE
+CONTROL MODULE LOST COMMUNICATION WITH ECM/PCM
+(ENGINE MESSAGES); DTC B1169: GAUGE CONTROL MODULE
+LOST COMMUNICATION WITH THE PCM (A/T MESSAGES); DTC
+B1170: GAUGE CONTROL MODULE LOST COMMUNICATION
+WITH THE ABS/VSA MODULATOR-CONTROL UNIT ( ).
+NO -Go to step 8.
+8. Do the gauge control module self-diagnostic function (see SELF-
+DIAGNOSTIC FUNCTION ).
+Does the side airbag cutoff indicator flashing?
+YES -Initialize the ODS unit (see ODS UNIT INITIALIZATION). If
+problem is still present, replace the OPDS sensor/seat-back (see FRONT
+SEAT-BACK COVER REPLACEMENT ).
+NO -Faulty gauge control module (tach); replace the gauge control module
+(tach) (see GAUGE CONTROL MODULE (TACH) INPUT TEST ).
+SIDE AIRBAG CUTOFF INDICATOR DOES NOT COME ON
+NOTE: If the SRS indicator also stays on, go to SRS indicator stays
+on, but no DTCs are stored (see SRS INDICATOR DOES
+NOT COME ON).
+1. Turn the ignition switch OFF, then wait for 10 seconds.
+2. Turn the ignition switch ON (II), and check that the side airbag cutoff indicator
+comes on for about 6 seconds.

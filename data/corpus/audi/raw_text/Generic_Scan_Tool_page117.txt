@@ -1,0 +1,48 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+If voltage is within specification :
+– Connect the multimeter ground lead to terminal 5 of the Fuel
+Delivery Unit harness connector.
+– Connect the multimeter positive lead to terminal 1
+– Crank the engine and note voltage displayed on multimeter
+during crank. Voltage should be within 2.0 volts of battery volt‐
+age.
+Turn the ignition switch OFF.
+If voltage is below specification:
+– Check for open ground circuit or poor ground connection. Re‐
+pair as necessary. Refer to Wiring Diagrams for pin locations.
+If voltage is within specification :
+– Replace the Fuel Delivery Unit (Fuel Pump). Refer to the Re‐
+pair Manual
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.2 Fuel Pump Pressure, Checking
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ fuel line adapter set -V.A.G. 1318/17A- . These tools may be
+substituted with an equivalent aftermarket tool and are also
+available for rental or purchase through the local dealer.
+♦ In line Fuel pressure gauge with shutoff. (high pressure).
+Test conditions
+• Battery voltage 12.5 V
+• Function and voltage supply for the Fuel Pump is OK.
+• Fuel tank at least 1/4 filled.
+• Ignition switched OFF.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+WARNING
+Fuel system is under pressure! Before opening the system,
+place rags around the connection area. Then release the pres‐
+sure by carefully loosening the connection.
+113
+3. Diagnosis and Testing

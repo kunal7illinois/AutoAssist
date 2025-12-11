@@ -1,0 +1,30 @@
+CH-30 CHASSIS - U250E AUTOMATIC TRANSAXLE
+7. Shifting Control in Uphill/Downhill Traveling
+General
+This control helps minimize the shifting of gears when the driver operates the accelerator pedal while
+driving on a winding road with ups and downs, in order to ensure a smooth drive.
+Shift Control in Uphill Traveling
+(cid:3) When the ECM determines uphill travel, it prohibits the transaxle from shifting up into 5th after the
+transaxle has shifted down below 4th.
+(cid:3) When the ECM determines uphill travel with a steeper grade, it prohibits the transaxle from shifting up
+into 4th after the transaxle has shifted down below 3rd.
+Shift Control in Downhill Traveling
+(cid:3) When the ECM determines downhill travel, it shifts down the transaxle from 5th to 4th in accordance
+with the brake operation signal that is input when the driver operates the brake pedal.
+(cid:3) When the ECM determines downhill travel with a steeper grade, and a brake operation signal is input
+again, the ECM shifts the transaxle down from 4th to 3rd.
+5th
+5th 4th 5th 3rd 5th 4th (Brake Operating) Without Control
+5th 4th 3rd 4th 3rd 4th 5th
+With Control
+Brake Operating 229LC183
+Uphill/Downhill Judgment
+The actual acceleration calculated from the speed sensor signal is compared with the reference acceleration
+stored in the ECM to judge uphill or downhill traveling.
+Actual Acceleration < Reference Acceleration Actual Acceleration > Reference Acceleration
+Reference acceleration
+Actual acceleration
+Smaller
+Greater
+Uphill Downhill
+162CH10

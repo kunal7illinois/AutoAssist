@@ -1,0 +1,39 @@
+13B-628 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Check the power supply voltage at interlock
+switch connector C-02.
+(1) Disconnect the connector C-02 and measure at the harness
+side.
+(2) Turn the ignition switch to the "START" position.
+(3) Measure the voltage between terminal 2 and ground.
+• Voltage should be battery positive voltage.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+C-02 HARNESS
+SIDE CONNECTOR Q:Is the voltage normal?
+YES : Go to Step 9.
+2 1
+NO : Check connector C-07 at intermediate connector for
+damage, and repair or replace as required. Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2. If intermediate connectors is in good condition,
+AK000384AB repair harness wire between starter relay connector
+A-13X terminal 1 and interlock switch connector C-02
+terminal 2 because of open circuit. Then confirm that
+the malfunction symptom is eliminated.
+STEP 9. Check the continuity at interlock switch harness
+side connector C-02.
+(1) Disconnect the connector C-02 and measure at the harness
+side.
+(2) Check for the continuity between terminal 1 and ground.
+• Should be less than 2 ohm.
+Q:Is the continuity normal?
+C-02 HARNESS
+SIDE CONNECTOR YES : Replace the ECM. Then confirm that the malfunction
+symptom is eliminated.
+2 1
+NO : Repair harness wire between interlock switch
+connector C-02 terminal 1 and ground because of
+open circuit or harness damage. Then confirm that
+the malfunction symptom is eliminated.
+AK000385AB
+TSB Revision

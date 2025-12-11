@@ -1,0 +1,50 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-79
+SYMPTOM PROCEDURES
+CENTRAL DOOR LOCKING SYSTEM
+GENERAL DESCRIPTION CONCERNING CENTRAL DOOR LOCKING SYSTEM
+M1549021100011
+The following ECUs affect the functions and control
+of the central door locking system.
+Functions Control ECU
+Operating the Driver(cid:146)s or Passenger(cid:146)s Door Lock Key ETACS-ECU
+Cylinder
+Operating the Driver(cid:146)s Door Lock Key Cylinder ETACS-ECU
+Operating the Passenger(cid:146)s Door Lock Key Cylinder ETACS-ECU
+Operating the Driver(cid:146)s or Passenger(cid:146)s Door Lock Switch ETACS-ECU
+Operating the Driver(cid:146)s Door Inside Lock Knob ETACS-ECU
+Forgotten Key Prevention Function ETACS-ECU
+DOOR LOCK FUNCTION
+.Operating the Driver(cid:146)s or Passenger(cid:146)s Door Lock Key Cyl-
+inder
+When the driver(cid:146)s or passenger(cid:146)s door is locked, the ETACS-
+Driver's or ON ECU activates the lock relay output for 0.25 seconds and locks
+passenger's door (UNLOCK)
+all doors.
+lock key cylinder OFF
+switch (LOCK)
+ON
+Lock relay output
+OFF t
+Driver's and
+passenger's LOCK
+door lock
+UNLOCK
+actuator switch
+t: 0.25 seconds AC106696AB
+.
+Operating the Driver(cid:146)s or Passenger(cid:146)s Door Lock Switch
+When the door is locked by driver(cid:146)s or passenger(cid:146)s door lock
+Driver's or OFF switch, the ETACS-ECU activates the lock relay output for 0.25
+passenger's door seconds and locks all doors.
+lock switch LOCK
+ON
+Lock relay output
+OFF t
+Driver's and
+passenger's LOCK
+door lock
+UNLOCK
+actuator switch
+t: 0.25 seconds AC106696AC
+.
+TSB Revision

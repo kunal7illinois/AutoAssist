@@ -1,0 +1,33 @@
+BE-172 BODY ELECTRICAL - REAR WINDOW DEFOGGER SYSTEM
+REAR WINDOW DEFOGGER SYSTEM
+(cid:4)DESCRIPTION
+(cid:3) The rear window defogger system uses the heater wire on the rear window glass to defog the rear window
+glass.
+(cid:3) This system is standard equipment on all models.
+(cid:3) The rear window defogger system operates at the same time as the heater function of the outside rear view
+mirror.*1
+(cid:3) This system is activated when the ignition switch/engine switch*2 is turned on and the rear window
+defogger switch is pushed. This switch is provided with a timer function to turn off the defogger and mirror
+heater after approx. 15 minutes. The operation period of the timer may extend to approx. 45 minutes
+depending on the circumstances of the outside air temperature and vehicle speed.
+*1: Available as an option on XLE grade models
+*2: Only for models with Smart Key System
+(cid:1) System Diagram (cid:2)
+Battery
+≈
+Outside
+Temp. Sensor
+Heater Control Panel
+RR DEF
+Local Relay
+(cid:3) Rear Window Communication A/C ECU
+Defogger Switch
+Outside Outside
+Rear
+Meter ECU CAN Window R M e i a rr r o V r iew R M e i a rr r o V r iew
+(CAN No.1 Bus) Defogger
+Heater LH Heater RH
+(cid:3) Vehicle Speed
+Outside Rear View Mirror Heater*
+025BE176Y
+*: Available as an option on XLE grade models

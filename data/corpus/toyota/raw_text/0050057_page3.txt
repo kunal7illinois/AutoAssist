@@ -1,0 +1,30 @@
+ES–321
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1. P2401: Leak detection pump stuck OFF
+In operation B, the leak detection pump creates negative pressure (a vacuum) through the reference
+orifice. The EVAP system pressure is then measured by the ECM, using the canister pressure sensor,
+to determine the reference pressure. If the pressure is higher than -1.057 kPa-g (-7.93 mmHg-g), or
+lower than -4.85 kPa-g (-36.4 mmHg-g), the ECM interprets this as the leak detection pump being
+stuck OFF (not operating). The ECM illuminates the MIL and sets the DTC (2 trip detection logic).
+EVAP Pressure when Leak Detection Pump Stuck OFF:
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed
+ON
+Vent Valve ES
+OFF: Vent
+Leak Detection
+ON
+Pump
+EVAP Pressure
+Malfunction
+Positive
+Negative
+First Reference OK
+Pressure
+Sequence A B C D E
+Time 10 seconds 60 Within 15 minutes 10 60
+seconds seconds seconds
+A106064E05

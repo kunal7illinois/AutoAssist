@@ -1,0 +1,31 @@
+13A-378 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR:D-17 CONNECTOR:C-28
+AK000734AC AK000733AC
+CONNECTORS:C-60<M/T>,C-54<A/T> CONNECTOR:C-90
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB AK000345AD
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+• The fuel gauge drive signal is input in ECM (ter- Check Conditions, Judgement Criteria
+minal 74) <M/T> or PCM (terminal 60) <A/T>. • When the fuel consumption calculated from the
+operation time of the injector amounts to 20 litter,
+. TECHNICAL DESCRIPTION the diversity of the amount of fuel in tank calcu-
+• Branch the drive signal from the fuel gauge cir- lated from the fuel level sensor is 2 litter or less.
+cuit, and input it into ECM <M/T> or PCM<A/T>.
+• The ECM <M/T> or PCM<A/T> detects the . TROUBLESHOOTING HINTS (The most likely
+amount of fuel left in the fuel tank with this signal, causes for this code to be set are:)
+and also controls the fuel level warning light. • Fuel gauge unit failed.
+• Open or shorted fuel gauge unit circuit, or loose
+. connector.
+• ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+STEP 1. Check fuel gauge.
+Q:Is the fuel gauge functioning?
+YES : Go to Step 3.
+NO : Go to Step 2.
+TSB Revision

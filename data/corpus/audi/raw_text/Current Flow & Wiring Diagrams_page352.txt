@@ -1,0 +1,56 @@
+Audi TT No. 43 / 11
+Current Flow Diagram
+Engine control unit, radiator outlet coolant temperature
+sender, intake air temperature sender, coolant temperature
+sender, air mass meter
+G42 Intake air temperature sender
+G62 Coolant temperature sender
+G70 Air mass meter
+G83 Radiator outlet coolant temperature sender
+G299 Intake air temperature sender 2
+J623 Engine control unit
+T5b 5-pin connector, black, on air mass meter
+T60 60-pin connector, on engine control unit
+T94 94-pin connector, on engine control unit
+Earth connection (sender earth), in engine compartment wiring
+327
+harness
+B490 Connection 26 in main wiring harness
+* not for USA
+J623
+T94/23 T94/65 T94/60 T94/12 T94/36 T60/42 T60/57 T60/14
+✱
+0,35 0,35 0,35 0,5 0,5 0,35 0,35 0,35
+ws br ge br gn g e gn/br ws/br
+B490
+3377
+✱
+0,5 0,35 0,5
+ge/ro br br
+T5b/1 T5b/2 T5b/3 T5b/5 T5b/4 1 1 1
+ϑ ϑ G83 ϑ G42 ϑ G62
+G70 G299 2 2 2 w
+sw
+s =
+=
+w
+bl
+h
+a
+i
+c
+te
+k
+ro = red
+0,35 0,35
+br = brown
+br ws/br
+gn = green
+327 bl = blue
+gr = grey
+li = purple
+ge = yellow
+127 128 129 130 131 132 133 134 135 136 137 138 139 140 or = orange
+8J0-043111008
+rs = pink
+Edition 04.2009

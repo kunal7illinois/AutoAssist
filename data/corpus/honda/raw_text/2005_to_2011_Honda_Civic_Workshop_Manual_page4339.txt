@@ -1,0 +1,32 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+2. Clear the DTC with the HDS.
+3. Do the VSA sensor neutral position memorization (see VSA SENSOR
+NEUTRAL POSITION MEMORIZATION ).
+4. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+5. Wait 10 seconds or more.
+6. Check for DTCs with the HDS.
+Is DTC 25-23 indicated?
+YES -Replace the yaw rate-lateral acceleration sensor (see YAW RATE-
+LATERAL ACCELERATION SENSOR REPLACEMENT ).
+NO -Intermittent failure, the system is OK at this time.
+DTC 25-24: YAW RATE SENSOR GAIN LOW; DTC 25-25: YAW RATE SENSOR GAIN HIGH; DTC
+26-24: LATERAL ACCELERATION SENSOR GAIN LOW; DTC 26-25: LATERAL
+ACCELERATION SENSOR GAIN HIGH
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Do the VSA sensor neutral position memorization (see VSA SENSOR
+NEUTRAL POSITION MEMORIZATION ).
+4. Test-drive the vehicle. Drive the vehicle at 10 mph (15 km/h)or more.
+5. Check for DTCs with the HDS.
+Is DTC 25-24, 25-25, 26-24, or 26-25 indicated?
+YES -Replace the yaw rate-lateral acceleration sensor (see YAW RATE-
+LATERAL ACCELERATION SENSOR REPLACEMENT ).
+NO -Intermittent failure, the system is OK at this time.
+DTC 26-11: LATERAL ACCELERATION SENSOR INTERNAL CIRCUIT MALFUNCTION
+(INITIAL); DTC 26-12: LATERAL ACCELERATION SENSOR INTERNAL CIRCUIT
+MALFUNCTION (OPEN, SHORT); DTC 26-13: LATERAL ACCELERATION SENSOR
+COMMUNICATION ERROR; DTC 26-21: LATERAL ACCELERATION SENSOR NEUTRAL
+POSITION MALFUNCTION; DTC 26-23: LATERAL ACCELERATION SENSOR CIRCUIT
+INTERMITTENT INTERRUPTION

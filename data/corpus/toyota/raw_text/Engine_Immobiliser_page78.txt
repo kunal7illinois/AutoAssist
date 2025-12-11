@@ -1,0 +1,40 @@
+EI–76
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+(c) Select KEY SW in the DATA LIST and read the value
+displayed on the tester.
+IMMOBILISER:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+OFF: Key is in ignition key
+Unlock warning switch signal/ON cylinder
+KEY SW -
+or OFF ON: No key is in ignition key
+cylinder
+OK:
+ON (Key is in ignition key cylinder) appears on the
+screen.
+OK REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+NG
+2 INSPECT UNLOCK WARNING SWITCH ASSEMBLY
+(a) Remove the unlock warning switch assembly (See page
+Unlock Warning Switch Assembly:
+DL-225).
+(b) Measure the resistance according to the value(s) in the
+Free table below.
+Standard resistance
+Push
+Tester Connection Switch Position Specified Condition
+Switch pushed
+Below 1 Ω
+(Key set)
+1 - 2
+Switch free
+10 kΩ or higher
+(Key removed)
+NG REPLACE UNLOCK WARNING SWITCH
+ASSEMBLY
+EI
+B118535E02
+OK

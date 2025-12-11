@@ -1,0 +1,76 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0142 O2 Sensor – Check the • Delta voltage 1 • Sensor voltage <= 60 Sec. • 2 DCY
+Circuit Bank Oxygen Sen‐ step at heater 0.40 V or 0.50 to
+1 Sensor 3 sor (O2S) 2 switching > 1.08 V
+Behind Three 2.00 V
+Way Catalytic • Lambda control,
+Converter • Heater cou‐ Not at max
+(TWC) - pling >= 6 times
+• Exhaust temp >=
+G130- . Refer
+1263 °C for > 8.8
+to
+Sec.
+⇒ “3.5.22 Oxy‐
+gen Sensor • Heater power >=
+after Catalytic 24% for > 18 Sec.
+Converter,
+Checking”,
+page 156 .
+P0143 O2 Sensor – Check the • Signal voltage . • Sensor voltage <= 3 Sec. • 2 DCY
+Circuit Low Oxygen Sen‐ 40 to .60 V for > 0.40 V or 0.50 to
+Voltage sor (O2S) 2 3 Sec. 1.08 V
+Bank 1 Sen‐ Behind Three
+sor 3 Way Catalytic • Voltage differ‐ • Lambda control,
+Converter ence between Not at max
+(TWC) - load pulse and
+G130- . Refer no load pulse • Exhaust temp >=
+to >= 2.80 V 1263 °C for > 18
+Sec.
+⇒ “3.5.22 Oxy‐
+• Internal resist‐
+gen Sensor ance > 40 k and • Heater power >=
+after Catalytic exhaust temp > 24% for > 18 Sec.
+Converter,
+670 °C
+Checking”,
+page 156 .
+P0144 O2 Sensor – Check the • Signal voltage • Sensor voltage <= 5 Sec. • 2 DCY
+Circuit High Oxygen Sen‐ > 1.08 V for > 5 0.40 V or 0.50 to
+Voltage sor (O2S) 2 Sec. 1.08 V
+Bank 1 Sen‐ Behind Three
+sor 3 Way Catalytic • Lambda control,
+Converter Not at max
+(TWC) -
+• Exhaust temp >=
+G130- . Refer
+1263 °C for > 18
+to
+Sec.
+⇒ “3.5.22 Oxy‐
+gen Sensor • Heater power >=
+after Catalytic 24% for > 18 Sec.
+Converter,
+Checking”,
+page 156 .
+P0145 O2 Sensor – Check the • EWMA filtered • O2S rear, Fully 4.5 Sec. • 2 DCY
+Circuit Slow Oxygen Sen‐ transient time heated up
+Response sor (O2S) 2 at fuel cut off >
+Bank 1 Sen‐ Behind Three 1.5 Sec. • Rich voltage ena‐
+sor 3 Way Catalytic ble > = 548 mV
+Converter • O2 voltage be‐
+(TWC) - tween 201 - • Modeled exhaust
+G130- . Refer 401 mV temp. > 480 °C
+to • No other O2 sen‐
+⇒ “3.5.22 Oxy‐ sor faults set.
+gen Sensor
+after Catalytic
+Converter,
+Checking”,
+page 156 .
+43
+3. Diagnosis and Testing

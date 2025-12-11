@@ -1,0 +1,64 @@
+Audi TT No. 5 / 6
+Current Flow Diagram
+Key operated switch to deactivate front passenger side
+airbag, front passenger side airbag deactivated warning
+lamp
+E224 Key operated switch to deactivate front passenger side airbag
+J234 Airbag control unit
+K145 Front passenger side airbag deactivated warning lamp
+SC1 Fuse 1 on fuse holder C
+T8k 8-pin connector, black, behind right dash panel
+55 T75 75-pin connector, yellow, on airbag control unit
+4,0 B277 Positive connection 1 (15a), in main wiring harness
+sw
+1
+SC1
+10A
+1a
+1,0
+sw/bl
+5588 J234
+T75/60 T75/61 T75/59
+0,35 0,35 0,35
+ge/li bl/gr gn
+T8k/8 T8k/6
+2
+K145
+b
+0
+l
+,
+/
+3
+g
+5
+r
+0
+g
+,3
+n
+5
+1
+1 2
+0,5
+sw/bl
+E224
+3/31
+B277
+1,0 0,35
+sw/bl br
+ws = white
+5588 sw = black
+T8k/5
+ro = red
+br = brown
+gn = green
+0,35
+br bl = blue
+gr = grey
+5544 li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 or = orange
+8J0-005060409
+rs = pink
+Edition 09.2009

@@ -1,0 +1,45 @@
+ES–218
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Detection Detection
+DTC Monitoring Items Malfunction Detection Conditions Trouble Areas
+Timings Logic
+• Canister pump module
+• Connector/wire
+harness
+(Canister pump
+• Ignition ON
+module - ECM)
+Canister pressure sensor EVAP pressure more than 123.8 kPa for • EVAP
+P0453 • EVAP system hose 1 trip
+high input 0.5 seconds. monitoring
+(pipe from air inlet port
+(ignition OFF)
+to canister pump
+module, canister filter,
+fuel tank vent hose)
+• ECM
+HINT:
+The canister pressure sensor is built into the canister pump module.
+ES
+DESCRIPTION
+The description can be found in the EVAP (Evaporative Emission) System (see page ES-335).
+MONITOR DESCRIPTION
+Canister Pressure Sensor Specification:
+Output Voltage Malfunction Area
+4.900 V
+4.150 V
+Usable Range
+1.425 V
+Malfunction Area
+0.450 V
+Pressure
+60 110 kPa-a
+(450) (825) (mmHg-a)
+HINT:
+Standard atmospheric pressure is 101.3 kPa-a (760 mmHg-a)
+A115543E05
+1. DTC P0450: Canister pressure sensor abnormal fluctuation
+If the canister pressure sensor output [pressure] rapidly fluctuates between less than 42.1 kPa-a
+(315.9 mmHg-a) and more than 123.8 kPa-a (928.4 mmHg-a), the ECM interprets this as an open or
+short circuit malfunction in the canister pressure sensor or its circuit, and stops the EVAP (Evaporative
+Emission) system monitor. The ECM then illuminates the MIL and sets the DTC (1 trip detection logic).

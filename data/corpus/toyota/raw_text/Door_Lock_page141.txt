@@ -1,0 +1,15 @@
+DL–131
+DOOR LOCK – SMART KEY SYSTEM
+Transmitting ECU (Transmitter) Receiving ECU Signals Communication method
+• Shift position P signal
+• Power ON operation status signal
+Main body ECU Certification ECU • Engine starting status signal LIN
+• ACC relay operating status signal
+• IG relay operating status signal
+Main body ECU Steering lock ECU Steering lock relay power supply status signal LIN
+• Steering lock catching malfunction signal
+• Certification ECU
+Steering lock ECU • Push button start malfunction signal LIN
+• Main body ECU
+• Engine operation signal
+DL

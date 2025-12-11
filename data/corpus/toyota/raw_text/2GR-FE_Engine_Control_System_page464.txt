@@ -1,0 +1,37 @@
+ES–464
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+INSPECTION PROCEDURE
+1 CHECK CRANKING
+(a) When starting the engine, check whether the starter
+motor starts.
+OK CHECK FOR INTERMITTENT PROBLEMS
+NG
+2 READ VALUE OF INTELLIGENT TESTER (STA SIGNAL)
+(a) Connect the intelligent tester to the DLC3.
+ES
+(b) Turn the ignition switch on (IG).
+(c) Turn the intelligent tester on.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / ALL / STARTER SIG.
+Read the values.
+(e) Check the result when the ignition switch is turned on
+(IG) and when the engine is started.
+Standard
+Display (STARTER SIG) Ignition Switch Position
+OFF ON
+ON START
+OK Go to step 7
+NG
+3 INSPECT ECM (STSW VOLTAGE)
+(a) Disconnect the A55 ECM Connector.
+Wire Harness Side:
+(b) Measure the voltage between the terminals of the ECM
+connector and body ground while cranking the engine.
+Standard voltage
+A55 ECM Connector Tester Connection Specified Condition
+STSW (A55-14) - Body ground 9 to 14 V
+(c) Reconnect the ECM connector.
+OK Go to step 11
+STSW
+A115671E32
+OK

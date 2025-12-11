@@ -1,0 +1,38 @@
+NS–191
+NAVIGATION – NAVIGATION SYSTEM
+NEXT
+3 CHECK RADIO AND NAVIGATION ASSEMBLY
+(a) Disconnect the radio and navigation assembly
+Wire Harness View:
+connector.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester connection Condition Specified condition
+ATX+ (F9-5) -
+Always 60 to 80 Ω
+ATX- (F9-15)
+F9
+NG REPLACE RADIO AND NAVIGATION
+ASSEMBLY
+ATX+
+ATX-
+E120099E03
+OK
+4 CHECK HARNESS AND CONNECTOR (STEREO COMPONENT AMPLIFIER -
+COMPONENT SHOWN BY SUB-CODE)
+HINT:
+• Start the check from the circuit that is near the component
+shown by the sub-code first.
+• For details of the connectors, refer to "TERMINALS OF
+ECU" (See page NS-45).
+(a) Referring to the AVC-LAN wiring diagram below, check
+the AVC-LAN circuit between the stereo component
+amplifier and the component shown by the sub-code.
+(1) Disconnect all connectors between the stereo
+component amplifier and the component shown by
+the sub-code.
+(2) Check for an open or short in the AVC-LAN circuit
+between the stereo component amplifier and the
+component shown by the sub-code.
+NS

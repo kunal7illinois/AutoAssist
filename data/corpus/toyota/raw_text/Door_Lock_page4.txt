@@ -1,0 +1,33 @@
+DL–4
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+SYSTEM DIAGRAM
+Door Lock Control System:
+Main Body ECU (Instrument Panel J/B)
+Multiplex Network Master Switch Assembly
+Front Passenger Side Door Control Switch
+Assembly
+- Manual Door Lock Switch (Driver Side)
+Front Door Lock Assembly LH Front Door Lock Assembly RH
+- Door Key Lock and Unlock Switch - Door Key Lock and Unlock Switch
+- Door Lock Motor - Door Lock Motor
+- Door Unlock Detection Switch - Door Unlock Detection Switch
+Rear Door Lock Assembly LH Rear Door Lock Assembly RH
+- Door Lock Motor - Door Lock Motor
+- Door Unlock Detection Switch - Door Unlock Detection Switch
+Front Door Courtesy Switch Assembly LH Front Door Courtesy Switch Assembly RH
+Rear Door Courtesy Switch Assembly LH Rear Door Courtesy Switch Assembly RH
+Unlock Warning Switch (*1)
+Luggage Compartment Door Lock Assembly
+- Luggage Compartment Door
+Courtesy Switch
+DL
+Shift Lock Control ECU (*2)
+- Door Lock Motor
+ECM
+*1: w/o Smart Key System
+: CAN Communication Line (MS bus) *2: w/ Smart Key System
+B112604E01
+Transmitting ECU (Transmitter) Receiving ECU (Receiver) Signals Communication method
+Park / Neutral Position Switch
+ECM Main Body ECU CAN (MS bus)
+Signal

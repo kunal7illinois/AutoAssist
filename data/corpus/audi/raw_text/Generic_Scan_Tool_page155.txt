@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Specified value: 3.0 to 7.0 Ω (at 20° C)
+If the specified value was Not obtained:
+– Replace the Throttle Valve Control Module - J338- . Refer to
+the Repair Manual .
+If the specified value was obtained:
+– Check the voltage supply of the Throttle Valve Control Module
+-J338- from the Engine Control Module (ECM) -J623- as in‐
+structed below.
+Checking voltage supply and wiring
+– Switch the ignition ON.
+– Using a multimeter, check the Throttle Valve Control Module
+-J338- electrical harness connector, terminals 2 to 6 for volt‐
+age from the ECM.
+Specified value: 4.5 to 5.2 V
+– Switch the ignition OFF.
+If the specified value was Not obtained:
+Checking wiring
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Using a multimeter, check the Throttle Valve Control Module
+-J338- electrical harness connector terminals to the Engine
+Control Module (ECM) -J623- electrical harness connector
+T60 terminals for an open circuit according to the wiring dia‐
+gram. Refer to Wiring Diagrams for pin locations.
+Throttle Valve Control Engine Control Module (ECM) -
+Module -J338- electrical J623- electrical connector T60 ter‐
+harness connector termi‐ minals or test box socket
+nals
+1 27
+2 28
+3 15
+4 12
+5 30
+6 29
+Specified value: 1.5 Ω max.
+If the specified value was Not obtained:
+– Check the wiring for an open, high resistance or short to
+ground.
+– If necessary, repair the faulty wiring connection.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+If no fault is detected in the wiring and the voltage supply was Not
+OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual .
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+151
+3. Diagnosis and Testing

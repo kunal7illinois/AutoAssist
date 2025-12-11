@@ -1,0 +1,39 @@
+13B-586 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "ON" position.
+16 PIN
+Q:Is the DTC is output?
+MB991502 YES : Refer to, Diagnostic Trouble Code Chart P.13B-22.
+AKX01177AB NO : Go to Step 2.
+STEP 2. Using scan tool MB991502, check actuator test
+items 01, 02, 03, 04, 05, 06: Injector.
+(1) Turn the ignition switch to the "ON" position.
+(2) Check following items in the actuator test. Refer to, Actuator
+Test Reference Table P.13B-654.
+a. Item 01, 02, 03, 04, 05, 06: Injector.
+(3) Turn the ignition switch to the "ON" position.
+Q:Is the actuator operating properly?
+YES : Go to Step 3.
+16 PIN
+NO : Refer to, DTC P0201, P0203, P0205 − Injector Circuit
+MB991502 P.13B-283, DTC P0202, P0204, P0206 − Injector
+AKX01177AB
+Circuit P.13B-292.
+STEP 3. Check the ignition timing.
+Refer to GROUP 11C, On-vehicle Service − Ignition Timing
+Check P.11C-5.
+Q:Is the ignition timing normal?
+YES : Go to Step 4.
+NO : Check that the crankshaft position sensor and timing
+belt cover are in the correct position. Then confirm
+that the malfunction symptom is eliminated.
+TSB Revision

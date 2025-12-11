@@ -1,0 +1,32 @@
+ES–70
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3. SYSTEM CHECK
+HINT:
+Performing a SYSTEM CHECK enables the system,
+which consists of multiple actuators, to be operated
+without removing any parts. In addition, it can show
+whether or not any DTCs are set, and can detect
+potential malfunctions in the system. The SYSTEM
+CHECK can be performed with an intelligent tester.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Enter the following menus: DIAGNOSIS /
+ENHANCED OBD II / SYSTEM CHECK.
+(e) Perform the SYSTEM CHECK by referring to the
+table below.
+ES
+Intelligent Tester Display Test Detail Recommended Fuel Diagnostic Note
+Temperature
+• If no DTCs are in PENDING
+Perform 4 steps in order to CODE after performing this
+EVAP SYS CHECK
+operate EVAP key-off monitor 35°C (95°F) or less test, system is functioning
+(AUTO OPERATION)
+automatically normally
+• Refer to EVAP system
+Perform 4 steps in order to • Used to detect malfunctioning
+EVAP SYS CHECK
+operate EVAP key-off monitor 35°C (95°F) or less parts
+(MANUAL OPERATION)
+automatically • Refer to EVAP system

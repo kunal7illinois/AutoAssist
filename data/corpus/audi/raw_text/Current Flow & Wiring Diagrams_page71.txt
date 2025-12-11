@@ -1,0 +1,53 @@
+Audi TT No. 3 / 20
+Current Flow Diagram
+Control unit in dash panel insert, oil pressure switch,
+coolant shortage indicator switch, fuel gauge sender, fuel
+gauge, fuel system pressurisation pump, fuel gauge sender
+2
+F1 Oil pressure switch
+F66 Coolant shortage indicator switch
+G Fuel gauge sender
+G1 Fuel gauge
+G6 Fuel system pressurisation pump
+G169 Fuel gauge sender 2
+J285 Control unit in dash panel insert
+K3 Oil pressure warning lamp
+K28 Coolant temperature and coolant shortage warning lamp
+T5a 5-pin connector, black, on fuel gauge sender
+T14 14-pin connector, black, on front left in engine compartment
+T32 32-pin connector, blue, on control unit in dash panel insert
+Y24 Display in dash panel insert
+43 Earth point, lower part of right A-pillar
+390 Earth connection 25, in main wiring harness
+G1 Y24 J285 K28 K3
+410 Earth connection 1 (sender earth) in main wiring harness
+* output sender earth
+T32/27 T32/25 T32/26 T32/6 T32/28 T32/21 T32/15
+✱ ** models with four-wheel drive
+0,35 0,35 0,35 0,35 0,35 0,35
+li/sw bl/ge ge/gr ge/gn br/ge sw
+T14/1
+112288
+1,5 0,5
+ro/sw sw
+✱✱
+T5a/1 T5a/3 T5a/4 2 3
+G169
+1 1
+M G6 G
+F66 F1
+T5a/5 T5a/2 1 2 ws = white
+sw = black
+1,5 ro = red
+br 0,35 0,35 0,35 0,35 br = brown
+br/bl br/bl br/bl br/bl
+390 gn = green
+4,0 410 bl = blue
+br
+gr = grey
+43 li = purple
+ge = yellow
+253 254 255 256 257 258 259 260 261 262 263 264 265 266 or = orange
+8J0-003200806
+rs = pink
+Edition 10.2010

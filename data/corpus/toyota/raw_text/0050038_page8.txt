@@ -1,0 +1,47 @@
+ES–234
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK COMBINATION METER ASSEMBLY (SPD SIGNAL WAVEFORM)
+(a) Shift the transmission gear selector lever to the neutral
+Wire Harness Side:
+position.
+(b) Jack up the vehicle.
+E19 Combination Meter Connector (c) Turn the ignition switch ON.
+(d) Check the voltage between the terminal of the
+combination meter and the body ground while the wheel
+is turned slowly.
+Standard voltage
+Tester Connections Specified Conditions
+ES
++S
+E19-39 (+S) - Body ground Voltage generated intermittently
+HINT:
+The output voltage should fluctuate up and down,
+0 to 12 V
+similarly to the diagram, when the wheel is turned slowly.
+NG REPLACE COMBINATION METER
+ASSEMBLY
+0 V
+Turn Wheel
+A12A79114536E8002
+OK
+5 CHECK HARNESS AND CONNECTOR (COMBINATION METER ASSEMBLY - ECM)
+(a) Disconnect the E19 combination meter connector.
+Wire Harness Side:
+(b) Disconnect the A9 ECM connector.
+(c) Check the resistance.
+Standard resistance (check for open)
+E19 Combination Meter Connector
+Tester Connections Specified Conditions
+E19-39 (+S) - A9-8 (SPD) Below 1 Ω
+Standard resistance (check for short)
+Tester Connections Specified Conditions
+Front View E19-39 (+S) or A9-8 (SPD) - Body 10 kΩ or higher
++S ground
+(d) Reconnect the combination meter connector.
+A9 ECM Connector
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Front View
+SPD
+A127855E03

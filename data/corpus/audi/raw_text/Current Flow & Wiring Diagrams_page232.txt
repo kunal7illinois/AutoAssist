@@ -1,0 +1,65 @@
+Audi TT No. 30 / 10
+Current Flow Diagram
+Navigation system with CD drive control unit, microphone
+unit in front roof module
+J401 Navigation system with CD drive control unit
+R36 Telephone transmitter and receiver unit
+R38 Telephone microphone
+R74 Internal microphone
+R164 Microphone unit in front roof module
+T4g 4-pin connector, black, on microphone unit in front roof
+module
+T8a 8-pin connector, black, radio pin connector D
+T12g 12-pin connector, green, radio connector C
+T18b 18-pin connector, black, supply telephone preparation
+T54 54-pin connector, connector A, on telephone transmitter and
+receiver unit
+R36 R36
+T18b/7 T18b/16 T54/9 T54/8
+385 Earth connection 20, in main wiring harness
+✱ ✱ ✱✱ ✱✱ * models with preparation for mobile telephone (9ZD)
+0,5 0,5 0,5 0,5
+sw gn sw gn ** models with preparation for mobile telephone (9ZF)
+# models without speech recognition
+## models with speech recognition
+J401
+T12g/6 T12g/12 T12g/6
+T
+/1
+1
+2
+2g
+T12g/1 T12g/7 T8a/11 T12g/4 T12g/10
+0,35 ✱ 0,35 R16
+#
+4
+R38
+li sw
+T4g/1 T4g/2
+0,35
+## ## T18b/4 sw
+0,35 0,35 0,35
+sw gn sw
+#
+385 0,35 0,35
+ws gn
+1,5 0,5 0,5 0,35 0,35
+br br br sw sw
+T4g/2 T4g/1 T54/12 T54/11 T54/11 T54/12
+1144 112277 112277
+R74
+R36 ✱✱
+ws = white
+sw = black
+ro = red
+R164 br = brown
+## gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+113 114 115 116 117 118 119 120 121 122 123 124 125 126
+or = orange
+8J0-030100409
+rs = pink
+Edition 04.2009

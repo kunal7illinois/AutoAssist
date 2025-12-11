@@ -1,0 +1,55 @@
+AX–122
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Transmission Fluid Pressure Switch No.3 Cir-
+DTC P0989
+cuit Low
+Transmission Fluid Pressure Switch No.3 Cir-
+DTC P0990
+AX
+cuit High
+DESCRIPTION
+ATF pressure switch No. 3 is installed in the lock-up solenoid ATF output passage and is used to detect a
+malfunction in the lock-up solenoid.
+DTC No. DTC Detection Condition Trouble Area
+Transmission fluid pressure switch No. 3 is OFF when
+P0989 lock-up occurs in response to a lock-up request (2 trip
+detection logic).
+• ATF temperature sensor assembly (ATF pressure
+When both of the following are detected (2 trip
+switch No. 3)
+detection logic):
+• Transmission wire
+• Transmission fluid pressure switch No. 3 is ON
+P0990 • TCM
+when lock-up does not occur.
+• Lock-up does not occur when shift solenoid valve
+(SLU) is requested to turn off in the lock-up range.
+MONITOR DESCRIPTION
+The TCM illuminates the MIL and stores the DTC when the TCM detects that the ATF pressure switch is
+OFF with the lock-up solenoid ON or when the TCM detects that the ATF pressure switch is ON with the
+lock-up solenoid OFF.
+MONITOR STRATEGY
+P0989: Transmission fluid pressure switch No. 3 OFF malfunction
+Related DTCs
+P0990: Transmission fluid pressure switch No. 3 ON malfunction
+Required sensors/Components Transmission fluid pressure switch No. 3
+Frequency of operation Continuous
+Duration 4 sec.
+MIL operation 2 driving cycles
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+ALL:
+The monitor will run whenever these DTCs are not present None
+Turbine speed sensor circuit Circuit is not malfunctioning
+Intermediate shaft speed sensor circuit Circuit is not malfunctioning
+Shift solenoid valve SL1 circuit Circuit is not malfunctioning
+Shift solenoid valve SL2 circuit Circuit is not malfunctioning
+Shift solenoid valve SL3 circuit Circuit is not malfunctioning
+Shift solenoid valve SL4 circuit Circuit is not malfunctioning
+Shift solenoid valve SLU circuit Circuit is not malfunctioning
+TFT sensor circuit Circuit is not malfunctioning
+Torque converter clutch circuit Circuit is not malfunctioning
+ECT sensor circuit Circuit is not malfunctioning
+CAN communication system Circuit is not malfunctioning
+Electric throttle system Circuit is not malfunctioning
+TFT (Transmission fluid temperature) Above -10°C (14°F)

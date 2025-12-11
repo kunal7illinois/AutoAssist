@@ -1,0 +1,31 @@
+CA–125
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+INSPECTION PROCEDURE
+HINT:
+Perform the following inspection for the ECUs (sensors) which are not displayed on the intelligent tester. If
+the malfunction cannot be identified, then perform the following inspections for the ECUs (sensors)
+connected to CAN communication.
+1 CHECK FOR OPEN IN ONE SIDE OF CAN BRANCH WIRE
+(a) Confirm the systems (ECUs and sensors), which use
+CAN communication, equipped on the vehicle. (See
+page CA-25)
+(b) Using the intelligent tester, select and perform
+"Communication Bus Check". (See page CA-25) [*1]
+(c) Disconnect the connectors from the ECUs or sensors
+that are not displayed on the screen. [*2]
+(d) Check that only the ECUs and sensors from which the
+connectors were disconnected in the previous step are
+not displayed on the "Communication Bus Check"
+screen. [*3]
+CA
+HINT:
+If any ECUs or sensors, other than those from which the
+connectors were disconnected in the previous step, are
+not displayed on the "Communication Bus Check"
+screen, reconnect the disconnected connectors and
+repeat the procedures [*1], [*2], and [*3].
+(e) Perform the communication stop mode check for the
+ECUs and sensors which correspond to the
+disconnected connectors. (See page CA-10)
+NEXT
+GO TO CORRESPONDING COMMUNICATION STOP MODE

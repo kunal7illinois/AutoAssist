@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+3. Check the BRAKE SWITCH in the VSA DATA LIST with the HDS while
+moving the brake pedal.
+Does it indicate ON when the pedal is pressed, and OFF when the pedal is
+released?
+YES -Intermittent failure, the system is OK at this time.
+NO -Go to step 4.
+4. Check the BRAKE SWITCH in the VSA DATA LIST with the HDS, and
+disconnect the brake pedal position switch 4P connector.
+Does the indicator change from ON to OFF?
+YES -Replace the brake pedal position switch (see BRAKE PEDAL AND
+BRAKE PEDAL POSITION SWITCH ADJUSTMENT ).
+NO -Go to step 5.
+5. Turn the ignition switch to LOCK (0).
+6. Short the SCS line with the HDS.
+7. Disconnect ECM connector A (44P).
+8. Turn the ignition switch ON (II).
+9. Measure voltage between brake pedal position switch 4P connector terminal
+No. 2 and body ground.
+Fig. 44: Measuring Voltage Between Brake Pedal Position Switch 4P

@@ -1,0 +1,48 @@
+54B-12 SIMPLIFIED WIRING SYSTEM (SWS)
+SWS DIAGNOSIS
+• FRONT ECU
+CHECK ITEM DISPLAY ON CHECK CONDITIONS NORMAL
+ITEMS NO. SCAN TOOL CONDITIONS
+Response by 70 FRONT ECU Lighting switch: Other than OFF (excluding NORMAL ACK
+the front- ACK when high-beam is on) or the wiper switch is at
+ECU position other than OFF
+• Ignition switch: ON or START SLEEP ACK
+• Lighting switch: OFF
+• Wiper switch: OFF
+• Lighting switch: HEAD HI-BEAM ACK
+• Headlights: at high beam
+- NO ACK
+NOTE: For item number 70, the scan tool also dis-
+plays "NG" under the "ECU COMM CHECK" when it
+displays "NO ACK" under the front-ECU CHECK.
+• SUNROOF ECU (sunroof motor assembly)
+CHECK ITEM DISPLAY ON CHECK CONDITIONS NORMAL CONDITIONS
+ITEMS NO. SCAN TOOL
+Response by 72 S/R ECU ACK 1.Ignition switch: ON or START NORMAL ACK → SLEEP
+the sunroof- 2.While sunroof is off ACK (after approximately 30
+ECU seconds)
+1.Ignition switch: ON or START INPUT CHECK → NORMAL
+2.One of the sunroof switches is on ACK
+- NO ACK
+NOTE: For item number 72, the scan tool also dis-
+plays "NG" under the "ECU COMM CHECK" when it
+displays "No response" under the sunroof-ECU
+check.
+<FUNCTION DIAGNOSIS>
+The table below shows the service data and their
+normal condition, which are displayed during the
+"FUNCTION DIAG." The row "Normal conditions"
+shows values, which are shown when each opera-
+tion is made.
+• WIPER
+ITEMS ITEM INPUT SIGNALS DISPLAY ON SCAN NORMAL CONDITIONS
+NO. TOOL
+F.WIPER HI 05 Windshield intermittent wiper switch INT WIPER SW OFF
+06 Windshield low-speed wiper switch LO WIPER SW OFF
+07 Windshield high-speed wiper switch HI WIPER SW ON
+08 Wind shield mist wiper switch MIST WIPER SW OFF
+09 Windshield washer switch FRONT WASH.SW OFF
+31 Ignition switch (ACC) IG SW (ACC) ON
+70 Response by the front-ECU FRONT ECU ACK NORMAL ACK or HI-
+BEAM ACK
+TSB Revision

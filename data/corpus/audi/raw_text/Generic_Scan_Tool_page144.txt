@@ -1,0 +1,40 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.15 Turbocharger Recirculating Valve,
+Checking
+Special tools and workshop equipment required
+♦ multimeter.
+♦ Wiring diagram.
+Test requirements
+• The Engine Control Module (ECM) - J623- fuses OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• On vehicles with automatic transmission, selector lever in po‐
+sition “P” or “N”.
+• A/C switched off.
+• Ground (GND) connections between engine/transmission/
+chassis OK.
+• Ignition switched off.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the engine cover with air filter. Refer to the appropri‐
+ate service manual.
+Checking internal resistance
+– Disconnect the Turbocharger Recirculating Valve -N249- elec‐
+trical harness connector-2-.
+140
+Rep. Gr.ST - Generic Scan Tool

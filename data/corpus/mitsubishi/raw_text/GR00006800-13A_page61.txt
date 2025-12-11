@@ -1,0 +1,52 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-61
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Using scan tool MB991502, check data list item 25:
+Barometric Pressure Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the data reading mode for item
+25, Barometric Pressure Sensor.
+16 PIN • When altitude is 0 m (0 foot), 101 kPa.
+• When altitude is 600 m (1,969 feet), 95 kPa.
+MB991502
+• When altitude is 1,200 m (3,937 feet), 88 kPa.
+AKX01177AB
+• When altitude is 1,800 m (5,906 feet), 81 kPa.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Replace the ECM or PCM. Then go to Step 12.
+STEP 5. Check the sensor supply voltage at barometric
+pressure sensor connector B-14 by backprobing.
+(1) Do not disconnect the connector B-14.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 1 and ground by
+backprobing.
+• Voltage should be between 4.8 and 5.2 volts.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+B-14 CONNECTOR
+Q:Is the voltage normal?
+HARNESS
+SIDE VIEW YES : Go to Step 7.
+NO : Go to Step 6.
+1 2 3 4 5 6 7
+AKX01521AC
+STEP 6. Check connector C-60 at ECM <M/T> or connector
+C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-60<M/T>,C-54<A/T>
+YES : Replace the ECM or PCM. Then go to Step 12.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 12.
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+TSB Revision

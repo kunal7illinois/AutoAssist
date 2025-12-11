@@ -1,0 +1,50 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+This pattern will appear on the oscilloscope screen (e.g. on the
+vehicle diagnostic, testing and information system -VAS 5051 A- )
+if the following conditions are satisfied.
+– Ignition on (positive at contact “3” and earth at contact “1” at
+high-pressure sender -G65- )
+– Setting on oscilloscope: 5 V/div. DC (5 V per unit DC voltage)
+5 ms/div. (5 milliseconds per unit)
+– Test lead (signal wire) connected to contact “2” at high-pres‐
+sure sender -G65- .
+– Test lead (screen) connected to contact “1” (earth at high-
+pressure sender -G65- ).
+Note
+♦ The illustration shows the signal transmitted at a refrigerant
+circuit pressure of approx. 7 bar absolute, corresponding to a
+signal ratio of approx. 25 % (level occurring with air conditioner
+compressor not running, ambient temperature of 30 °C and
+refrigerant circuit charged).
+♦ Pulse width -A- is governed by pressure in refrigerant circuit
+(area -A- becomes broader as pressure increases).
+♦ The signal distance -B- is always 20 milliseconds (correspond‐
+ing to a frequency of 50 hertz).
+♦ The duty cycle is derived from the ratio of pulse width -A- to
+signal distance -B-.
+♦ Test leads from the adapter set -V.A.G 1594/C- can be em‐
+ployed for example for this test or an adapter lead can be
+made. For this, use one connector -A- and -B- each (with part
+number 1J0 973 703 and 1J0 973 803 and the corresponding
+plug contacts), two commercially available sockets for banana
+plugs -C- and three wires with a cross section of 0.5 mm2 for
+example.
+3.4 O-ring seals for refrigerant circuit
+♦ O-ring seals are only ever to be used once and then replaced.
+♦ Coat O-ring seals with refrigerant oil before fitting.
+♦ Pay attention to correct positioning of O-ring seals on pipe or
+in groove.
+♦ Ensure absolute cleanliness when working (even the slightest
+contamination, e.g. a single hair, could cause leakage).
+Note
+♦ Only O-ring seals which are resistant to the refrigerant R134a
+and the corresponding refrigerant oil may be installed. Such
+O-rings are colour coded to prevent mix-ups (currently “red”,
+“lilac” or “violet”) ⇒ Electronic parts catalogue .
+♦ Dimensions -a- and -b- differ depending on the fitting location
+of the O-ring: ⇒ Electronic parts catalogue
+♦ In addition to the coloured O-ring seals, black O-ring seals are
+also used at the factory for certain connections.
+39
+3. Servicing work on refrigerant circuit

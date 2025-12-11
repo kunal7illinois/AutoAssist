@@ -1,0 +1,45 @@
+R–G
+R–L R–G
+A73(A), D5(B), D6(C)
+(BAT) Main Body ECU
+7. 5A
+ECU–B
+32 1
+1
+25 AD2
+R–G
+(BAT)
+7. 5A
+MPX–B
+1
+R–L
+(IG) (ACC)
+10A 10A
+ECU IG1 ECU ACC
+ACC(∗2)
+2 2 2 2
+22 B 9 8
+28 3B
+19 3C 27 3A
+D16(A), D17(B)
+Junction Connector
+12 21
+B A
+G G
+R R
+L–W L–W
+L–Y L–Y
+B–P B–P
+O O
+W )2∗(
+(BAT)
+15A
+HAZ
+1
+G
+ACC IG BMPX BECU
+2
+G
+∗ 2 : w/ Smart Entry & Start System
+347
+BRZ (G4400BE)

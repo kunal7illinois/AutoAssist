@@ -1,0 +1,38 @@
+ES–363
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+19 INSPECT CANISTER PUMP MODULE (POWER SOURCE FOR VENT VALVE)
+(a) Turn the ignition switch OFF.
+(b) Disconnect the S3 canister pump module connector.
+(c) Turn the ignition switch ON.
+(d) Measure the voltage between VLVB terminal of the
+canister pump module connector and the body ground.
+ES
+Wire Harness Side:
+S3 1 2 3 4 5
+6 7 8 910
+VLVB
+Canister Pump Module Connector
+A127718E02
+Result
+Test Results Suspected Trouble Areas Proceed To
+1. Wire harness between vent valve and ECM
+9 to 14 V 2. Vent valve A
+3. ECM
+Below 3 V Power source wire harness of vent valve B
+(e) Reconnect the canister pump module connector.
+B Go to step 31
+A
+20 INSPECT CANISTER PUMP MODULE (VENT VALVE OPERATION)
+(a) Turn the ignition switch OFF.
+Charcoal Canister Assembly:
+(b) Disconnect the S3 canister pump module connector.
+VGND (-) (c) Apply the battery voltage to VLVB and VGND terminals
+VLVB (+) of the canister pump module.
+(d) Touch the canister pump module to confirm the vent
+valve operation.
+A112598E01
+Result
+Test Results Suspected Trouble Areas Proceed To
+1. Wire harness between vent valve and ECM
+Operating A
+2. ECM

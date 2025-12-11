@@ -1,0 +1,39 @@
+23A-84 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+CONNECTOR: B-20 CONNECTOR: C-07
+<3.0L ENGINE> C-07
+B-20
+AC004927AC AC001729AY
+CONNECTORS: C-50 <2.4L ENGINE> OR
+C-52 <3.0L ENGINE>, C-54 <2.4L ENGINE>
+OR C-55 <3.0L ENGINE>
+PCM
+C-54 <2.4L ENGINE> OR
+C-50 <2.4L ENGINE> OR C-55 <3.0L ENGINE>
+C-52 <3.0L ENGINE> AC001657BF
+. DTC SET CONDITIONS
+CIRCUIT OPERATION
+If no output pulse is detected from the crankshaft
+The crankshaft position sensor power is supplied
+position sensor for five seconds or more while driving
+from the MFI relay (terminal 3), and the ground (ter-
+at 25 km/h (16 mph) or more, it is judged that there is
+minal 1) is provided on the PCM. The PCM supplies
+an open circuit in the crankshaft position sensor and
+a five-volts voltage to crankshaft position sensor out-
+diagnostic trouble code number "21" is output.
+put terminal (terminal 2). The crankshaft position
+sensor generates a pulse signal when the output ter-
+.
+minal is opened and grounded. The sensor is TROUBLESHOOTING HINTS (The most likely
+opened and closed as the flat on the crankshaft causes for this code to be set:)
+passes by. • Malfunction of the crankshaft position sensor cir-
+cuit
+. • Damaged harness, connector
+• Malfunction of the PCM
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+TSB Revision

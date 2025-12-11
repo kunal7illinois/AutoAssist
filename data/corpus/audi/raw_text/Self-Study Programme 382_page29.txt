@@ -1,0 +1,19 @@
+Integration of the function into the vehicle
+The "electrically adjustable rear spoiler" function is implemented in the convenience system central control
+unit J393. The control unit activates the adjustable rear spoiler motor V52 and reads in the two limit switches
+F135 and F136, which are used to identify both limit positions of the rear spoiler.
+The convenience system control unit J393 also reads in the adjustable rear spoiler switch E127 and activates
+the adjustable rear spoiler warning lamp K242 in the button according to the current status.
+Convenience system central control unit
+J393
+V52
+F135 F136 E127 K242
+382_008
+Legend
+E127 Adjustable rear spoiler switch
+F135 Rear spoiler adjustment limit switch 1
+F136 Rear spoiler adjustment limit switch 2
+J393 Convenience system central control unit
+K242 Adjustable rear spoiler warning lamp
+V52 Adjustable rear spoiler motor
+29

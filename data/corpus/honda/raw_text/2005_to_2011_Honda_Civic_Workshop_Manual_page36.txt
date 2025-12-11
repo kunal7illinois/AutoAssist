@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+terminals between the wheel sensor 2P connector and the ABS modulator-
+control unit 25P connector. Refer to INTERMITTENT FAILURES
+TROUBLESHOOTING .
+5. Turn the ignition switch to LOCK (0).
+6. Check that the appropriate wheel sensor is properly mounted (see WHEEL
+SENSOR REPLACEMENT ).
+WHEEL SENSOR
+DTC Appropriate Wheel Sensor
+12-11 Right-front
+14-11 Left-front
+16-11 Right-rear
+18-11 Left-rear
+Is the wheel sensor installation OK?
+YES - Check for loose terminals in the ABS modulator-control unit 25P
+connector. If necessary, substitute a known-good ABS modulator-control unit:
+Except Si model (see REMOVAL - EXCEPT SI MODEL ), Si model (see
+REMOVAL - SI MODEL ), and retest.
+NO - Reinstall the wheel sensor, and check the mounting position (see
+WHEEL SENSOR REPLACEMENT ).
+DTC 12-12: RIGHT-FRONT WHEEL SENSOR SHORT TO THE OTHER SENSOR CIRCUIT; DTC
+14-12: LEFT-FRONT WHEEL SENSOR SHORT TO THE OTHER SENSOR CIRCUIT; DTC 16-12:
+RIGHT-REAR WHEEL SENSOR SHORT TO THE OTHER SENSOR CIRCUIT; DTC 18-12: LEFT-
+REAR WHEEL SENSOR SHORT TO THE OTHER SENSOR CIRCUIT
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Test-drive the vehicle. Drive the vehicle at 13 mph (20 km/h) or more, and go a
+distance of 328 ft (100 m) or more.
+NOTE: Drive the vehicle on the road, not on the lift.

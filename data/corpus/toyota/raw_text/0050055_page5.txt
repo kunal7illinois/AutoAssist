@@ -1,0 +1,42 @@
+ES–303
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+Integration Relay ECM
+A/F Sensor
+EFI MAIN
+EFI MAIN
++B HA1A HA1A
+EFI NO. 1
+Shielded
+A1A- A1A+
+A1A+
+P/I
+ES
+A1A-
+FL
+MAIN
+MREL
+Battery
+A127851E01
+CONFIRMATION DRIVING PATTERN
+This confirmation driving pattern is used in the "PERFORM CONFIRMATION DRIVING PATTERN"
+procedure of the following diagnostic troubleshooting procedure.
+Monitor Drive Pattern:
+ECT: 75°C (167°F) or more
+Accelerator Pedal Accelerator Pedal
+Between 60 and 120 km/h Depressed At least 3 times Released (Fuel-cut)
+Vehicle Speed
+(38 and 75 mph)
+(g) (i) (j)
+64 km/h (40 mph)
+or more
+(k)
+10 km/h
+(6 mph)
+(e) (h)
+Idling
+Time
+Warming up 10 minutes 10 seconds 4 seconds
+or more or more or more
+Refer to figure below
+A107162E16

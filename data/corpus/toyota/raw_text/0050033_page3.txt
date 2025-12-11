@@ -1,0 +1,51 @@
+ES–187
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1 INSPECT CAMSHAFT POSITION SENSOR (RESISTANCE)
+(a) Disconnect the B6 Camshaft Position (CMP) sensor
+Component Side:
+connector.
+(b) Measure the resistance between terminals 1 and 2.
+Standard resistance
+CMP Sensor
+Tester Connections Conditions Specified Conditions
+1 - 2 Cold 1,630 to 2,740 Ω
+1 - 2 Hot 2,065 to 3,225 Ω
+Front View
+HINT:
+Terms cold and hot refer to the temperature of the ES
+G037727E04
+sensor. Cold means approximately -10° to 50°C (14 °to
+122°F). Hot means approximately 50° to 100°C (122°to
+212°F).
+(c) Reconnect the CMP sensor connector.
+NG REPLACE CAMSHAFT POSITION SENSOR
+OK
+2 CHECK HARNESS AND CONNECTOR (CAMSHAFT POSITION SENSOR - ECM)
+(a) Disconnect the B6 CMP sensor connector.
+Wire Harness Side: CMP Sensor
+(b) Disconnect the B30 ECM connector.
+Connector
+(c) Measure the resistance.
+B6 Standard resistance (Check for open)
+Tester Connections Specified Conditions
+1 2
+G2+ G2- B6-1 (G2+) - B30-99 (G2+) Below 1 Ω
+B6-2 (G2-) - B30-98 (G2-) Below 1 Ω
+Front View
+Standard resistance (Check for short)
+Tester Connections Specified Conditions
+B6-1 (G2+) or B30-99 (G2+) - Body
+10 kΩor higher
+ground
+B30 ECM Connector
+B6-2 (G2-) or B30-98 (G2-) - Body
+10 kΩor higher
+ground
+(d) Reconnect the ECM connector.
+(e) Reconnect the CMP sensor connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+Front View
+G2- G2+
+A106885E03
+OK

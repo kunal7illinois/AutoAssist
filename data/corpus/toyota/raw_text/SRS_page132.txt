@@ -1,0 +1,42 @@
+RS–132
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+11 CHECK OCCUPANT CLASSIFICATION SYSTEM CIRCUIT (SHORT)
+(a) Disconnect the service wire from connector B.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+F A Tester Connection Condition Specified Condition
+E DC B Center Airbag T10-8 (FSR+) - T10-4
+Always 1 MΩ or higher
+Occupant Sensor (FSR-)
+Classification Assembly
+ECU NG Go to step 15
+Connector E
+T10
+FSR-
+FSR+
+C C110462E29
+OK
+RS 12 CHECK OCCUPANT CLASSIFICATION SYSTEM CIRCUIT (SHORT TO B+)
+(a) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+table below.
+F A
+Standard voltage
+E DC B Center Airbag
+Occupant Sensor Tester Connection Condition Specified Condition
+Classification Assembly T10-8 (FSR+) - Body
+Ignition switch on (IG) Below 1 V
+ECU ground
+T10-4 (FSR-) - Body
+Ignition switch on (IG) Below 1 V
+ground
+NG Go to step 16
+Connector E
+T10
+FSR-
+FSR+
+C C110462E29
+OK

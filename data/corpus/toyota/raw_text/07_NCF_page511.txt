@@ -1,0 +1,25 @@
+BODY ELECTRICAL - SLIDING ROOF SYSTEM BE-177
+3. Sliding Roof Open Warning
+When the ignition switch/engine switch* is changed from IG-ON to OFF and the driver door is opened when
+the sliding roof is open, the siding roof ECU sounds the buzzer in the combination meter. Then, a warning
+message appears on the multi-information display.
+The warning is activated if all of the following conditions are met:
+(cid:3) Sliding roof is not fully closed.
+Warning Condition
+(cid:3) Ignition switch/engine switch* is “OFF”
+(cid:3) Driver door is opened.
+Buzzer Sounds once
+Multi-information
+Combination
+Display
+Meter
+025BE179P
+Master Warning
+Flash
+Light
+The warning is stopped when one of the following conditions is
+met.
+Warning Stop Condition (cid:3) 8 seconds have elapsed after the warning condition is detected.
+(cid:3) Ignition switch/engine switch* is “ON”
+(cid:3) Driver door is closed.
+*: Only for models with smart key system

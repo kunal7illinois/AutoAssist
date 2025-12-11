@@ -1,0 +1,28 @@
+BC–396
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+1 CHECK CAN COMMUNICATION SYSTEM
+(a) Check if a CAN communication system DTC is output
+(See page BC-302).
+Result
+Condition Proceed to
+CAN communication system DTC is not output A
+CAN communication system DTC is output B
+B INSPECT CAN COMMUNICATION SYSTEM
+(See page CA-8)
+A
+2 INSPECT COMBINATION METER ASSEMBLY
+BC
+(a) Connect the intelligent tester to the DLC3.
+(b) Perform "ACTIVE TEST" of the combination meter
+assembly using the intelligent tester (See page ME-32).
+(c) Check that "ON" and "OFF" of the VSC warning (multi-
+information display) or VSC warning light are indicated
+on the combination meter assembly when using the
+intelligent tester.
+OK:
+The VSC warning (multi-information display) turns
+on or off in accordance with the intelligent tester.
+NG REPLACE COMBINATION METER
+ASSEMBLY (See page ME-63)
+OK
+REPLACE BRAKE ACTUATOR ASSEMBLY (See page BC-432)

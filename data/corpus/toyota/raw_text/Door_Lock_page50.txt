@@ -1,0 +1,28 @@
+DL–50
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Luggage Compartment Door Lock Circuit
+DESCRIPTION
+The luggage compartment door lock motor is built into the luggage compartment door lock assembly.
+The main body ECU receives a luggage compartment door unlock signal from the luggage compartment
+door lock cylinder or electrical key switch (w/ smart key system) and operates the door lock motor.
+WIRING DIAGRAM
+S5
+Luggage Compartment Main Body ECU
+Door Lock Assembly
+1
+1
+E7 TR+
+Door Lock Motor
+2
+DL
+B137939E01
+INSPECTION PROCEDURE
+1 PERFORM ACTIVE TEST (LUGGAGE COMPARTMENT DOOR)
+(a) Select the ACTIVE TEST, use the intelligent tester to
+generate a control command, and then check that the
+door lock operates.
+MAIN BODY:
+Item Test Details Diagnostic Note
+Operate luggage compartment door lock motor
+TRUNK/BDOR OPEN -
+LOCK/UNLOCK

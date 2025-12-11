@@ -1,0 +1,46 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+– Unplug the connector -B- at the air conditioning system com‐
+pressor regulating valve -N280- -A-.
+– Use an adapter lead from the adapter set -V.A.G 1594 C- to
+re-establish the connection between the connector -A- and the
+connector -B- at the air conditioner compressor regulating
+valve -N280- .
+Note
+♦ Actuation of the air conditioner compressor regulating valve -
+N280- and the current measured by the air conditioner oper‐
+ating unit, Climatronic control unit -J255- which flows via the
+air conditioner compressor regulating valve -N280- are dis‐
+played in the measured value block of the air conditioner
+operating unit, Climatronic control unit -J255- ⇒ "Guided fault-
+finding" function of vehicle diagnostic, testing and information
+system VAS 5051.
+♦ An adapter lead may also be made for this test. This requires,
+for example, one connector -A- and -B- each (with part number
+1J0 973 702 and 1J0 973 802 and the corresponding plug
+contacts), two commercially available sockets for banana
+plugs -C- and two wires with a cross section of 0.5 mm2 .
+– Connect the probe -VAS 5051/8- to the adapter leads.
+– Test lead (signal wire) to contact -2- of connector -B-.
+– Test lead (screen, earth) to contact -1- of connector -B-.
+– On the vehicle diagnostic, testing and information system -
+VAS 5051 A- , set Measurement mode: DSO (digital storage
+oscilloscope).
+– Then select the settings 5 V / div DC, 0.5 ms/div (5 V DC and
+0.5 milliseconds per unit).
+– Start the engine.
+– On the air conditioner operating unit, Climatronic control unit
+-J255- , set the temperature to the “cold” stop (maximum cool‐
+ing output).
+– On the air conditioner operating unit, Climatronic control unit
+-J255- press the “AC” button (with air conditioner compressor
+ON indicator) to activate and deactivate the air conditioner
+compressor regulating valve -N280- .
+Display on oscilloscope screen will be as follows depending on
+setting on air conditioner operating unit, Climatronic control unit -
+J255- :
+– In “OFF” or “AC off” mode (lamp in “AC” button not lit), no
+square-wave signal ( air conditioner compressor regulating
+valve -N280- is not actuated).
+46
+Rep. Gr.87 - Air conditioning system

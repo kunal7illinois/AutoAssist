@@ -1,0 +1,37 @@
+EG-46 ENGINE - 2AZ-FE ENGINE
+3) Operation
+The knocking vibration is transmitted to the
+steel weight and its inertia applies pressure to Steel Weight
+the piezoelectric element. The action
+generates electromotive force. Inertia
+Piezoelectric
+Element
+214CE08
+4) Open/Short Circuit Detection Resistor
+During the ignition is ON, the open/short circuit detection resistor in the knock sensor and the resistor
+in the ECM keep the voltage at the terminal KNK1 of engine constant.
+An IC (Integrated Circuit) in the ECM is always monitoring the voltage of the terminal KNK1. If the
+open/short circuit occurs between the knock sensor and the ECM, the voltage of the terminal KNK1 will
+change and the ECM detects the open/short circuit and stores DTC (Diagnostic Trouble Code).
+ECM
+Piezoelectric
+Element 5 V
+Flat Type Knock Sensor
+200 kW
+KNK1
+IC
+200 kW
+EKNK
+Open/Short Circuit
+Detection Resistor
+214CE06
+Service Tip
+(cid:1) In accordance with the adoption of open/short circuit detection resistor, the inspection method
+for the sensor has been changed. For details, refer to 2007 Camry Repair Manual (Pub. No.
+RM0250U).
+(cid:1) To prevent the water accumulation in the connector, make sure to install the flat type knock
+sensor in the position as shown in the following illustration.
+10(cid:2)
+10(cid:2)
+Knock Sensor
+251EG12

@@ -1,0 +1,34 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+NO -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM (see ECM/PCM REPLACEMENT ). If
+any other DTCs were indicated, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+DTC P0705: Short in Transmission Range Switch Circuit (Multiple Shift-position Input)
+NOTE:
+Before you troubleshoot, record all freeze data and any
+(cid:1)
+on-board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+This code is caused by an electrical circuit problem and
+(cid:1)
+cannot be caused by a mechanical problem in the
+transmission.
+1. Turn the ignition switch to ON (II).
+2. Clear the DTC with the HDS.
+3. Start the engine.
+4. With the brake pedal pressed, move the shift lever through all positions. Stop
+for at least 1 second in each position.
+5. Monitor the OBD STATUS for P0705 in the DTCs MENU with the HDS.
+Does the HDS indicate FAILED?
+YES -Go to step 6.
+NO -If the HDS indicates PASSED, intermittent failure, the system is OK at
+this time. Check for intermittent short to body ground in the wires between the
+transmission range switch and the PCM. If the HDS indicates NOT
+COMPLETED, go to step 3.
+6. Turn the ignition switch to LOCK (0).
+7. Inspect the transmission range switch (see TRANSMISSION RANGE
+SWITCH TEST ).
+Is the switch OK?

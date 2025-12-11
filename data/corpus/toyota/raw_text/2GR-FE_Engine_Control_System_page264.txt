@@ -1,0 +1,61 @@
+ES–264
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Sequence Operations Descriptions Duration
+Vent valve turned OFF (vent) and EVAP system pressure measured
+Atmospheric pressure by ECM in order to register atmospheric pressure.
+A 10 seconds
+measurement If pressure in EVAP system is not between 70 kPa and 110 kPa (525
+mmHg and 825 mmHg), ECM cancels EVAP system monitor.
+In order to determine 0.02 inch leak pressure standard, vacuum pump
+First 0.02 inch leak pressure
+B creates negative pressure (vacuum) through 0.02 inch orifice and then 60 seconds
+measurement
+ECM checks if vacuum pump and vent valve operate normally.
+Vent valve turned ON (closed) to shut EVAP system.
+Negative pressure (vacuum) is created in EVAP system, and EVAP
+EVAP system pressure system pressure then measured. Write down measured value as it will
+C 15 minutes*2
+measurement be used in leak check.
+If EVAP pressure does not stabilize within 15 minutes, ECM cancels
+EVAP system monitor.
+Purge VSV is opened and then EVAP system pressure is measured
+D Purge VSV monitor by ECM. 10 seconds
+Large increase indicates normal.
+ES
+After second 0.02 inch leak pressure measurement, leak check is
+performed by comparing first and second 0.02 inch leak pressure
+Second 0.02 inch leak pressure
+E standards. 60 seconds
+measurement
+If stabilized system pressure is higher than second 0.02 inch leak
+pressure standard, ECM determines that EVAP system leaking.
+Atmospheric pressure is measured and then monitoring result is
+F Final check -
+recorded by ECM.
+*2: If there is only a small amount of fuel in the fuel tank, stabilizing the EVAP pressure takes longer than
+usual.
+Operation A: Operation B, E:
+Atmospheric Pressure Measurement 0.02 Inch Leak Pressure Measurement
+Canister
+Fuel Tank
+Purge VSV:
+OFF OFF OFF
+Vent Valve: OFF (vent)
+(vent)
+0.02 Inch Orifice
+Pressure Sensor
+Air Filter
+ON
+Vacuum Pump: OFF
+Pump Module
+Operation C: EVAP System Pressure Measurement Operation D: Purge VSV Monitor
+ON (closed)
+OFF ON
+ON
+(closed)
+Atmospheric
+Pressure
+Negative
+Pressure
+ON ON
+A096746E31

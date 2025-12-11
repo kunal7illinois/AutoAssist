@@ -1,0 +1,93 @@
+DL–154
+DOOR LOCK – SMART KEY SYSTEM
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Outside door handle not
+Touch sensor detection touched (Have the
+SEN1 (E58-22) - E (E58-17) B - W-B 10 to 14 V
+signal electrical key outside the
+cabin)
+Move the key more than 5
+Touch sensor activation
+SEL1 (E58-5) - E (E58-17) V - W-B m (16.4 ft) away from the 10 to 14 V
+control signal
+front door LH
+Touch sensor activation Bring it to the outside
+SEL1 (E58-5) - E (E58-17) V - W-B Below 1 V
+control signal handle
+Door electrical key All doors closed, all doors
+Alternating between 5
+CLG2 (E58-35) - CG2B (E58-36) GR - BR oscillator (front RH) locked and engine switch
+V and below 1 V
+sensor signal off
+Door electrical key
+Door unlocked or door
+CLG2 (E58-35) - CG2B (E58-36) GR - BR oscillator (front RH) Below 1 V
+open
+sensor signal
+Touch sensor detection Outside door handle
+SEN2 (E58-23) - E (E58-17) O - W-B Below 1 V
+signal touched
+Outside door handle not
+Touch sensor detection touched (Have the
+SEN2 (E58-23) - E (E58-17) O - W-B 10 to 14 V
+signal electrical key outside the
+cabin)
+Move the key more than 5
+Touch sensor activation
+SEL2 (E58-6) - E (E58-17) P - W-B m (16.4 ft) away from the 10 to 14 V
+control signal
+front door RH
+Touch sensor activation Bring it to the outside
+SEL2 (E58-6) - E (E58-17) P - W-B Below 1 V
+control signal handle
+Indoor electrical key Within 30 seconds driver
+Alternating between 5
+CLG5 (E58-11) - CG5B (E58-12) R - W oscillator (front) sensor side door opened and
+V and below 1 V
+signal closed, engine switch off
+Indoor electrical key
+CLG5 (E58-11) - CG5B (E58-12) R - W oscillator (front) sensor Engine switch on (IG) Below 1 V
+signal
+Within 30 seconds after
+Indoor electrical key
+driver side door opened Alternating between 5
+CLG6 (E58-13) - CG6B (E58-14) Y - B oscillator (rear) sensor
+and closed, engine switch V and below 1 V
+signal
+off
+Indoor electrical key
+CLG6 (E58-13) - CG6B (E58-14) Y - B oscillator (rear) sensor Engine switch on (IG) Below 1 V
+signal
+Luggage electrical key
+Luggage compartment Alternating between 5
+CLG7 (E58-15) - CG7B (E58-16) R - W oscillator (inner) sensor
+door opening switch ON V and below 1 V
+signal
+Luggage electrical key
+Luggage compartment
+CLG7 (E58-15) - CG7B (E58-16) R - W oscillator (inner) sensor Below 1 V
+door opening switch OFF
+signal
+DL Luggage electrical key
+Luggage compartment Alternating between 5
+CLG8 (E58-31) - CG8B (E58-32) V - P oscillator (outer) sensor
+door opening switch ON V and below 1 V
+signal
+Luggage electrical key
+Luggage compartment
+CLG8 (E58-31) - CG8B (E58-32) V - P oscillator (outer) sensor Below 1 V
+door opening switch OFF
+signal
+Engine switch off, all doors
+Entry door control receiver
+RC0 (E58-29) - E (E58-17) G - W-B closed and electrical key 4.5 to 5.5 V
+power source
+switch on
+Engine switch off, all doors
+Entry door control receiver
+RC0 (E58-29) - E (E58-17) G - W-B closed and electrical key Below 1 V
+power source
+switch off
+Entry door control receiver Engine switch off, all doors
+RSSI (E58-39) - E (E58-17) R - W-B electric wave existence closed, the electrical key is 10 to 14 V
+signal not in the action area

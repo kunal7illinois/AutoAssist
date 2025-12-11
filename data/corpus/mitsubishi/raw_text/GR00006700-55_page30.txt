@@ -1,0 +1,51 @@
+55-30 HEATING AND AIR CONDITIONING
+ON-VEHICLE SERVICE
+FAN CONTROL RELAY CONTINUITY CHECK
+BATTERY VOLTAGE TESTER SPECIFIED
+CONNECTION CONDITION
+Not applied 1 − 4 Open circuit
+• Connect terminal 3 1 − 4 Less than 2 ohm
+to the positive
+battery terminal
+• Connect terminal 2
+to the negative
+battery terminal
+FAN CONTROL RELAY
+4
+2
+2
+1 3
+1 3
+4
+AC101586AB
+IDLE-UP OPERATION CHECK
+M1552001600188
+1. Before inspection and adjustment, set vehicle in the following
+condition:
+• Engine coolant temperature: 80 − 90 °C (176.0 - 194.0 °F)
+• Lights, electric cooling fan and accessories: Set to OFF
+• Transmission: Neutral ("N" or "P" for vehicles with A/T)
+• Steering wheel: Straightforward
+2. Check whether or not the idle speed is the standard value.
+<2.4L Engine>: Refer to GROUP 13A, On-vehicle Service −
+Basic Idle Speed Adjustment P.13A-577.
+<3.0L Engine>: Refer to GROUP 13B, On-vehicle Service −
+Basic Idle Speed Adjustment P.13B-679.
+Standard value:
+• <2.4L engine> 750 ± 100 r/min
+• <3.0L engine> 700 ± 100 r/min
+NOTE: . Check 4 minutes after idling begins.
+3. When the A/C is running after turning the A/C switch to ON,
+and the blower switch to the 3(MH) or 4(HI) position, check to
+be sure that the idle speed is at the standard value.
+Standard value: 850 ± 100 r/min
+NOTE: . The engine control module <M/T>/the powertrain
+control module <A/T> determines whether the A/C load is low
+or high according to the output signal from the automatic
+compressor controller.
+NOTE: . It is not necessary to make an adjustment, because
+the idling speed is automatically adjusted by the ISC system.
+If, however, a deviation from the standard value occurs for
+some reason, check the ISC system.
+NOTE: . Check 4 minutes after idling begins.
+TSB Revision

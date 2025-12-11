@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+ABS indicator or VSA indicator does not go off, and no DTCs are stored
+1. Check for the communication between the vehicle and the HDS.
+Is there the communication?
+YES -Check for loose terminals in the gauge control module (tach) 36P
+connector. If necessary, substitute a known-good gauge control module (tach),
+then recheck. If it is OK, replace the original gauge control module (tach) (see
+REPLACEMENT ).
+NO -If the HDS does not communicate with all the system of the vehicle,
+troubleshoot the DLC circuit (see DLC CIRCUIT TROUBLESHOOTING ).
+If the HDS does not communicate with only VSA, go to step 2.
+2. Turn the ignition switch to LOCK (0).
+3. Check the No. 4 (7.5 A) fuse in the under-dash fuse/ relay box.
+Is the fuse blown?
+YES -Install the new No. 4 (7.5 A) fuse, and recheck. If the fuse continues to
+blow, check for short to body ground in the wire between the No. 4 (7.5 A)
+fuse in the under-dash fuse/relay box and the VSA modulator-control unit. If
+necessary, substitute a known-good VSA modulator-control unit (see VSA
+MODULATOR-CONTROL UNIT REMOVAL AND INSTALLATION ),
+and retest.
+NO -Reinstall the checked fuse, then go to step 4.
+4. Disconnect the VSA modulator-control unit 37P connector.
+5. Turn the ignition switch ON (II).
+6. Measure voltage between VSA modulator-control unit 37P terminal No. 28 and
+body ground.

@@ -1,0 +1,54 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-651
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+MUT-II SCAN ITEM INSPECTION ITEM INSPECTION REQUIREMENT NORMAL INSPECTION REFERENCE
+TOOL NO. CONDITION PROCEDURE PAGE
+DISPLAY NO.
+INJECTOR 41 Injectors Engine: When engine 13.2 − − −
+B2 (bank 2)*3 cranking coolant 19.8 mS
+temperature is
+0°C (32°F)
+When engine 33.2 −
+coolant 49.8 mS
+temperature is
+20°C (68°F)
+When engine 8.2 −
+coolant 12.4 mS
+temperature is
+80°C (176°F)
+Injectors • Engine Engine is idling 2.1 − 3.3 mS
+(bank 2)*4 coolant 2,500 r/min 1.8 − 3.0 mS
+temperature
+: 80 − 95°C When engine Increases
+(176 − is suddenly
+203°F) revved
+• Lights,
+electric
+cooling fan
+and all
+accessories
+: OFF
+• Transaxle:
+neutral (A/T:
+"P" range)
+LONG 81*6 Long-term fuel Engine: warming up, 2,500 r/min −12.5 − Code No. P.13B-
+TRIM B1 compensation without any load (during closed 12.5% P0171, 245,
+(bank 1) loop) P0172 P.13B-
+252
+LONG 83*6 Long-term fuel Engine: warming up, 2,500 r/min −12.5 − Code No. P.13B-
+TRIM B2 compensation without any load (during closed 12.5% P0174, 256,
+(bank 2) loop) P0175 P.13B-
+262
+MANIFOL 95 Manifold Engine: warming up, idling 22.6 − Code No. P.13B-
+D SNSR differential 36.0 kPa P1400 518
+pressure
+sensor
+PSP 27 Power steering Engine: idling Steering wheel OFF Code No. P.13B-
+SWITCH pressure stationary P0551 496
+switch
+Steering wheel ON
+turning
+SHORT 82*6 Short-term fuel Engine: warming up, 2,500 r/min −25 − 25% Code No. P.13B-
+TRIM B1 compensation without any load (during closed P0171, 245,
+(bank 1) loop) P0172 P.13B-
+252
+TSB Revision

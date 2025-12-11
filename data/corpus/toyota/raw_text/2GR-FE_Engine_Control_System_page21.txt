@@ -1,0 +1,16 @@
+ES–21
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+CHECK FOR INTERMITTENT
+PROBLEMS
+HINT:
+Inspect the vehicle's ECM using check mode. Intermittent
+problems are easier to detect with an intelligent tester when
+the ECM is in check mode. In check mode, the ECM uses 1
+trip detection logic, which is more sensitive to malfunctions
+than normal mode (default), which uses 2 trip detection logic.
+1. Clear the DTCs.
+2. Switch the ECM from normal mode to check mode using
+an intelligent tester (See page ES-49).
+3. Perform a simulation test (See page IN-40).
+4. Check and wiggle the harness(es), connector(s) and
+terminal(s) (See page IN-45). ES

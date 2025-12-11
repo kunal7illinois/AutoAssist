@@ -1,0 +1,50 @@
+EC–4
+2GR-FE EMISSION CONTROL – EMISSION CONTROL SYSTEM
+C15 ECM
+Air Fuel Ratio Sensor (Bank 1 Sensor 1)
+A/F
+A/F 86
++B HA1A C55 HA1A
+2 1
+(*1)
+93
+A1A- A1A+ C55 A1A+
+4 3
+116
+C55 A1A-
+C35
+Air Fuel Ratio Sensor (Bank 2 Sensor 1)
+109
++B HA2A C55 HA2A
+2 1
+(*1)
+120
+A2A- A2A+ C55 A2A+
+4 3
+119
+C55 A2A-
+C52
+Heated Oxgen Sensor (Bank 1 Sensor 2)
+EC
+65
++B E2 C55 EX1B
+2 4
+48
+OX1B HT1B C55 HT1B
+3 1
+(*1)
+88
+C55 OX1B
+C51
+Heated Oxgen Sensor (Bank 2 Sensor 2)
+64
++B E2 C55 EX2B
+2 4
+47
+OX2B HT2B C55 HT2B
+3 1
+(*1)
+87
+C55 OX2B
+*1 : Shielded
+A135721E02

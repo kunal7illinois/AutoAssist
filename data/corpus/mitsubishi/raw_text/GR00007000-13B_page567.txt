@@ -1,0 +1,55 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-567
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, read the diagnostic
+trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the DTC output?
+MB991502 YES : Refer to, Diagnostic Trouble Code Chart P.13B-22.
+AKX01177AB NO : Go to Step 2.
+STEP 2. Check the idle air control (IAC) motor operation
+sound.
+(1) Check that the engine coolant temperature is 20°C (68°F)
+CONNECTOR:B-34
+or below.
+NOTE: If necessary, you can disconnect the engine coolant
+temperature sensor connector and connect the harness
+side of the connector to another engine coolant temperature
+sensor that is at 20°C (68°F) or below.
+(2) Check that the operation sound of the IAC motor can be
+heard after the ignition is switched to the "ON" position (but
+IDLE AIR
+CONTROL without starting the engine).
+MOTOR • An operation sound should be heard.
+ACX02523AI
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Did you hear the operation sound?
+YES : Go to Step 3.
+NO : Refer to, DTC P0506 − Idle Control System RPM
+Lower Than Expected P.13B-478, DTC P0507 − Idle
+Control System RPM Higher Than Expected P.13B-
+487.
+STEP 3. Using scan tool MB991502, check data list.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Check the following items in the data list. Refer to, Data List
+Reference Table P.13B-640.
+16 PIN a. Item 21: Engine Coolant Temperature Sensor.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AKX01177AB Q:Are they operating properly?
+YES : Go to Step 4.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+TSB Revision

@@ -1,0 +1,54 @@
+ENGINE ELECTRICAL 16-35
+IGNITION SYSTEM
+<3.0L Engine> The engine control module makes and breaks the
+primary current of the ignition coil to regulate the igni-
+Interruption of the primary current flowing in the pri-
+tion timing.
+mary side of the ignition coil generates high voltage
+The engine control module detects the crankshaft
+in the secondary side of the ignition coil. The high
+position by the crankshaft position sensor. This sen-
+voltage thus generated is directed by the distributor
+sor is installed at the front end of the crankshaft to
+to the applicable spark plug. The engine firing order
+is 1 − 2 − 3 − 4 − 5 − 6 cylinders. provide ignition at the most appropriate timing for the
+engine operating condition.
+On application of high voltage, the spark plug gener-
+When the engine is cold, the ignition timing is slightly
+ates a spark to ignite the compressed air fuel mixture
+advanced to provide optimum performance to the
+in the combustion chamber.
+operating condition.
+BATTERY
+VOLUME AIR FLOW SENSOR
+IGNITION
+INTAKE AIR TEMPERATURE SENSOR
+SWITCH
+BAROMETRIC PRESSURE SENSOR
+CAMKSHAFT
+ENGINE COOLANT TEMPERATURE ECM POSITION
+SENSOR <M/T>, SENSOR SPARK PLUGS
+PCM
+CRANKSHAFT POSITION SENSOR
+<A/T>
+VEHICLE SPEED SENSOR
+IGNITION
+POWER
+PARK/NEUTRAL POSITION SWITCH <A/T> TRANSIST-
+OR IGNITION COIL
+IGNITION SWITCH-ST
+DISTRIBUTOR
+KNOCK SENSOR TO TACHOMETER
+AKX01291AB
+SPECIAL TOOLS
+M1163000600051
+TOOL TOOL NUMBER AND SUPERSESSION APPLICATION
+NAME
+MB991348 Tool not available Inspection of ignition
+Test harness set primary voltage (Ignition
+power transistor
+connection)
+MB991348
+MD998773 MD998773-01 Knock sensor removal
+Knock sensor wrench and installation
+TSB Revision

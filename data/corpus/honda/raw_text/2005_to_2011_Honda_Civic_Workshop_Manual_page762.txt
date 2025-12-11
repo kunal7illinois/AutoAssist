@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+on-board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+This code is caused by an electrical circuit problem and
+(cid:1)
+cannot be caused by a mechanical problem in the
+transmission.
+1. Turn the ignition switch to ON (II).
+2. Check the ATF TEMP SENSOR in the DATA LIST with the HDS.
+Does the ATF temperature exceed the ambient air temperature?
+YES -Record the ATF temperature. Leave the engine off for at least 30
+minutes, then go to step 3.
+NO -Record the ATF temperature. Test the stall speed RPM (see STALL
+SPEED TEST ) three times, then go to step 3.
+3. Check the ATF TEMP SENSOR in the DATA LIST with the HDS.
+Did the ATF temperature change?
+YES -Leave the engine off for at least 30 minutes, then go to step 4.
+NO -Replace the ATF temperature sensor (see ATF TEMPERATURE
+SENSOR TEST/REPLACEMENT ), then go to step 6.
+4. Check the ECT SENSOR in the DATA LIST with the HDS.
+Does the ECT SENSOR read about the same as the ambient air temperature?
+YES -Go to step 5.
+NO -Leave the engine off until ECT SENSOR reads the same as the ambient
+air temperature, then go to step 5.
+5. Check the ATF TEMP SENSOR in the DATA LIST with the HDS.

@@ -1,0 +1,44 @@
+54A-22 CHASSIS ELECTRICAL
+IGNITION SWITCH
+STEP 11. Replace the ECM <M/T> or PCM <A/T>.
+Q:Did the communication with MUT-II become possible
+after replacing the Engine control module <M/T> or the
+power train control module <A/T>?
+YES : Register the password (secret code) and encrypted
+code (Refer to P.54A-28.). Confirm that scan tool
+MB991502 communicates normally.
+NO : Go to Step 12.
+STEP 12. Recheck for malfunction
+Q:Is a malfunction eliminated?
+YES : This diagnosis is complete. (If no malfunction are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to GROUP 00, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+NO : Replace the ECM <M/T> or PCM <A/T>.
+INSSPECTION PROCEDURE 2: Registering the Ignition Key is Impossible.
+. .
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINTS
+The transponder built-in ignition key or the immobi- • Malfunction of ignition key
+lizer-ECU is suspected to be defective. • Malfunction of immobilizer-ECU
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Harness Set
+• MB991502: Scan Tool
+STEP 1. Check the DTC 11.
+Q:Does DTC11 reset?
+YES : Refer to P.54A-12.
+NO : Replace the ignition key that cannot be registered.
+Then re-register the encrypted code P.54A-28. Check
+that the ignition key can be registered. Then Go to
+Step 2.
+STEP 2. Recheck for malfunction
+Q:Is a malfunction eliminated?
+YES : This diagnosis is complete. (If no malfunction are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to INTRODUCTION, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+NO : Replace the immobilizer-ECU.
+TSB Revision

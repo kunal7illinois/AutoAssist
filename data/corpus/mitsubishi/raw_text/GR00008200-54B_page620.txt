@@ -1,0 +1,48 @@
+54B-620 SIMPLIFIED WIRING SYSTEM (SWS)
+CHECK AT ECU TERMINAL
+TERMINAL INSPECTION ITEMS INSPECTION CONDITIONS NORMAL VALUE
+5 Output to dome light When dome light is on 2V or less
+6 Interior light (dome light and Always (when interior light Battery positive voltage
+luggage compartment light shutoff function is not
+<ECLIPSE> and trunk light operating)
+<ECLIPSE SPYDER>) power
+supply
+7 − − −
+8 Power supply to ignition switch Ignition switch: "ON" Battery positive voltage
+(IG1)
+9 Output to turn-signal light (RH) When turn-signal light (RH) is Battery positive voltage
+on
+10 Input from driver’s door switch Driver’s door switch: ON 0 V
+(driver’s door open)
+11 Battery power supply for turn-signal Always Battery positive voltage
+light
+12 Output to door lock When door lock actuator is Battery positive voltage
+operating (doors locked)
+13 Output to door unlock (excluding When door lock actuator is Battery positive voltage
+direr’s door) operating (doors unlocked)
+14 Output to turn-signal light (LH) When turn-signal light (LH) is Battery positive voltage
+on
+16 Rear wiper output When rear wiper is operating Battery positive voltage
+17 Input of rear wiper automatic stop When rear wiper is operating Battery positive voltage
+signal
+18 Power supply to ignition switch Ignition switch: "ACC" Battery positive voltage
+(ACC)
+19 − − −
+20 Battery power supply (for ECU) Always Battery positive voltage
+21 Input of driver’s seat belt switch Driver’s seat belt switch: ON 0 V
+signal (seat belts unfastened)
+22 Output to door unlock (for driver’s When driver’s door lock Battery positive voltage
+door) actuator is operating (doors
+unlocked)
+23 Rear washer output When rear washer is operating 0 V
+24 Input signal from the hood switch Hood switch: ON 0 V
+25 Input of driver’s door lock key Driver’s door lock key cylinder 0 V
+cylinder switch (UNLOCK) signal switch: UNLOCK
+27 Input of liftgate lock key cylinder liftgate lock key cylinder switch: 0 V
+switch signal <ECLIPSE> ON
+Input of trunk lid lock key cylinder trunk lid lock key cylinder 0 V
+switch signal <ECLIPSE> switch: ON
+29 − − −
+30 Input of key reminder switch signal Key reminder switch: ON 0 V
+(when ignition key is removed)
+TSB Revision

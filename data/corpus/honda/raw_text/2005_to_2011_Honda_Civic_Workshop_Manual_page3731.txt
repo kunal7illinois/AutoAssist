@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 ACCESSORIES & EQUIPMENT Keyless/Power Door Locks/Security System - Civic (All Except Hybrid)
+Is there continuity?
+YES - Repair a short in the wire between the LOCK and UNLOCK wires.
+NO - Substitute a known-good power window master switch, and recheck. If
+the symptom/indication goes away, replace the original power window master
+switch. If not, the MICU is faulty, replace the under-dash fuse/relay box.
+DTC B1129: DRIVER'S DOOR LOCK KNOB SWITCH SIGNAL ERROR
+NOTE: If you are troubleshooting multiple DTCs, be sure to follow
+the instructions in B-CAN System Diagnosis Test Mode A
+(see TROUBLESHOOTING - B-CAN SYSTEM DIAGNOSIS
+TEST MODE A ).
+1. Clear the DTCs with the HDS.
+2. Turn the ignition switch OFF, and then back ON (II).
+3. Operate the driver's door lock knob switch several times.
+4. Check for DTCs with the HDS.
+Is DTC B1129 indicated?
+YES - Go to step 5.
+NO - Intermittent failure. The driver's door lock knob switch system is OK at
+this time.
+5. Select KEYLESS from the BODY ELECTRICAL menu, and enter the DATA
+LIST.
+6. Check the ON/OFF information of the DRIVER'S DOOR LOCK KNOB
+SWITCH (LOCK) and the DRIVER'S DOOR LOCK KNOB SWITCH
+(UNLOCK).
+Does the DRIVER'S DOOR LOCK KNOB SWITCH (LOCK) information
+indicator ON and DRIVER'S DOOR LOCK KNOB SWITCH (UNLOCK)
+information indicator OFF with the driver's door lock knob switch in LOCK
+position, and does the DRIVER'S DOOR LOCK KNOB SWITCH (LOCK)

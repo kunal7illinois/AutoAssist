@@ -1,0 +1,34 @@
+13B-286 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the injector resistance at injector
+intermediate connector B-48.
+(1) Disconnect the injector intermediate connector B-48.
+CONNECTOR:B-48
+AK000209AC
+(2) Measure the resistance between each male connector side
+INJECTOR terminal.
+INTERMEDIATE
+CONNECTOR a. Measure the resistance between terminal 1 and 2 when
+measuring No. 1 cylinder.
+b. Measure the resistance between terminal 1 and 3 when
+1 2 measuring No. 3 cylinder.
+3 4 c. Measure the resistance between terminal 1 and 4 when
+measuring No. 5 cylinder.
+• Resistance should be between 13 and 16 ohm.
+AK000240AB Q:Is the resistance normal?
+YES : Go to Step 6.
+NO : Go to Step 4.
+STEP 4. Check the connector at injector for damage.
+(1) Remove the intake manifold.
+CONNECTORS : B-01, B-05, B-26
+a. Check the connector B-01 when checking No. 1 cylin-
+der.
+B-05 B-26 b. Check the connector B-05 when checking No. 3 cylin-
+der.
+c. Check the connector B-26 when checking No. 5 cylin-
+der.
+B-01 Q:Is the harness connector in good condition?
+YES : Go to Step 5.
+AK000210AB NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+TSB Revision

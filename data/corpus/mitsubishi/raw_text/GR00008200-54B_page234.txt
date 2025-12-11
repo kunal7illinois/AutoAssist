@@ -1,0 +1,38 @@
+54B-234 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal by using "FUNCTION
+DIAG." of the SWS monitor.
+Check the input signals from the following switches:
+• Ignition switch: ACC
+• Rear wiper switch: INT
+Operate the MUT-II according to the procedure below to dis-
+COLUMN play "REAR WIPER."
+SWITCH
+1. Select "SYSTEM SELECT."
+CONNECTOR
+2. Select "SWS."
+3. Select "SWS MONITOR."
+4. Select "FUNCTION DIAG."
+16 PIN 5. Select "REAR WIPER."
+6. Select "REAR WIPER."
+MB991502 Check that normal conditions are displayed on the items
+AC101570AB described in the table below.
+ITEM No. ITEM NAME NORMAL
+COLUMN SWITCH CONDITIONS
+CONNECTOR
+SWS MONITOR ITEM No.13 REAR WIPER SW ON
+COLUMN SWITCH HARNESS (FOR ITEM No.31 IG SW (ACC) ON
+CONNECTOR AT COLUMN-ECU)
+HARNESS SIDE
+Q:Are normal conditions displayed on the "REAR WIPER
+SW" and "IG SW (ACC)"?
+YES : Go to Step 3.
+AC102200AB NO : • Normal condition is not displayed "REAR WIPER
+SW": Refer to Inspection Procedure O-8 "ETACS-
+ECU does not receive a signal from the ignition
+switch (ACC) P.54B-514."
+• Normal condition is not displayed for "IG SW
+(ACC)": Refer to Inspection Procedure O-1
+"ETACS-ECU does not receive a signal from the
+ignition switch (ACC) P.54B-466."
+TSB Revision

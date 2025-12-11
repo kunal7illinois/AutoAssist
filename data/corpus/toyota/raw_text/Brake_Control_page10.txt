@@ -1,0 +1,63 @@
+BC–10
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+Operation description
+The skid control ECU receives a speed signal from
+each wheel speed sensor, and uses these signals to
+detect locking of the wheels. The ECU uses this
+information in order to determine appropriate control
+of the solenoid valves. The solenoid valves control
+the hydraulic pressure applied to the brake cylinder
+at each wheel. In this way, the solenoid valves are
+used to control the brake power split between the
+front and rear, and left and right wheels. The ABS
+and BRAKE warning lights come on if there is a
+malfunction in the EBD system.
+2. ABS with EBD OPERATION
+(a) Based on the signals received from the 4 wheel
+speed sensors, the skid control ECU calculates the
+deceleration and speed of each wheel, while
+monitoring for wheel lock. If wheel lock is occurring,
+the ECU controls the solenoid valves in the brake
+BC
+actuator in order to adjust the hydraulic pressure
+applied to the brakes at each wheel.
+3. FAIL SAFE FUNCTION
+(a) When a failure occurs in the anti-lock brake system,
+the ABS warning light comes on and operation is
+prohibited. In addition, when a failure which disables
+EBD operation occurs, the brake warning light also
+comes on and operation is prohibited (See page
+BC-24).
+4. INITIAL CHECK
+(a) When the vehicle speed first becomes
+approximately 4 mph (6 km/h) or more after the
+ignition switch is turned on (IG), each solenoid valve
+and motor of the brake actuator is sequentially
+activated to perform an electrical check. During the
+initial check, the operating sound of solenoid valve
+and motor can be heard from the engine
+compartment, but this is not a malfunction.
+5. FUNCTION OF COMPONENTS
+Components Function
+• Composed of the holding solenoid valve, pressure reduction
+solenoid valve, pump motor, reservoir, etc., and adjusts the
+Brake actuator assembly
+hydraulic pressure applied to each wheel cylinder.
+• Houses the skid control ECU.
+Skid control ECU Processes the signals sent from each sensor to control ABS and EBD.
+Detects speed of each wheel and inputs the data into the skid control
+Speed sensor
+ECU.
+Master cylinder Generates pressure according to pedal effort.
+Illuminates the stop light when the brake pedal is depressed. (Sends a
+Stop light switch
+brake on signal to the skid control ECU)
+• Supplies power to each solenoid.
+Solenoid relay
+• Housed in the skid control ECU.
+• Supplies power to the pump motor.
+Motor relay
+• Housed in the skid control ECU.
+• Comes on to inform the driver that a malfunction in the ABS and
+ABS warning light EBD has occurred.
+• Blinks to output DTC.

@@ -1,0 +1,37 @@
+RS–142
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+8 CHECK SEAT POSITION AIRBAG SENSOR
+(a) Connect the connectors to the center airbag sensor
+assembly and the seat position airbag sensor.
+(b) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+(c) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+Seat Position
+Center Airbag (d) Clear the DTCs stored in the memory (See page RS-41).
+Airbag Sensor
+Sensor Assembly (e) Turn the ignition switch off.
+(f) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+DLC3
+(g) Check the DTCs (See page RS-41).
+OK:
+DTC B1653/35 is not output.
+HINT:
+CG TC
+DTC 35 Codes other than DTC B1653/35 may be output at this
+C C114797E01 time, but they are not related to this check.
+OK USE SIMULATION METHOD TO CHECK (See
+page RS-32)
+NG
+9 REPLACE SEAT POSITION AIRBAG SENSOR
+(a) Turn the ignition switch off.
+RS
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Replace the seat position airbag sensor (See page RS-
+460).
+HINT:
+Perform inspection using parts from a normal vehicle if
+possible.
+NEXT

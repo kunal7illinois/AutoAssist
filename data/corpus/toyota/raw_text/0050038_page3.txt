@@ -1,0 +1,53 @@
+ES–229
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(b) P0456: EVAP very small leak
+In operation C, the leak detection pump creates negative pressure (vacuum) in the EVAP system and the
+EVAP system pressure is measured. If the stabilized system pressure is higher than the second reference
+pressure, the ECM determines that the EVAP system has a small leakage, illuminates the MIL and sets
+the DTC (2 trip detection logic).
+EVAP Pressure when EVAP System Leaks:
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed
+Vent Valve ON
+OFF: Vent
+ES
+Leak Detection
+Pump ON
+EVAP Pressure P0455
+Positive
+Negative
+P0456
+First Reference [Second
+Pressure Reference
+Pressure] x 0.2
+[Second
+OK
+Reference
+Sequence A B C D E
+Pressure]
+10 seconds 60 Within 15 minutes 10 60
+Time
+seconds seconds seconds
+A106061E05
+MONITOR STRATEGY
+Required Sensors/Components Purge VSV and canister pump module
+Frequency of Operation Once per driving cycle
+Duration Within 15 minutes (varies with amount of fuel in tank)
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+EVAP key-off monitor runs when all of following conditions met -
+Atmospheric pressure 70 to 110 kPa-a (525 to 825 mmHg-a)
+Battery voltage 10.5 V or more
+Vehicle speed Below 4 km/h (2.5 mph)
+Ignition switch OFF
+Time after key off 5 or 7 or 9.5 hours
+Canister pressure sensor malfunction (P0450, P0451, P0452 and
+Not detected
+P0453)
+Purge VSV Not operated by scan tool
+Vent valve Not operated by scan tool

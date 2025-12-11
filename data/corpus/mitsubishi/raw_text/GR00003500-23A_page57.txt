@@ -1,0 +1,38 @@
+AUTOMATIC TRANSAXLE 23A-57
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 12. Check connector B-07 at throttle position sensor
+for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> YES : Go to Step 13.
+B-07
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+B-07
+Connector Inspection P.00E-2.
+AC001831AF
+STEP 13. Check the throttle position sensor.
+(1) Disconnect connector B-07 and measure at the sensor
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> side.
+B-07
+B-07
+AC001831AF
+(2) Measure the resistance between connector terminal 1 and
+4.
+Standard value: 3.5 − 6.5 kΩ
+HARNESS
+CONNECTOR: B-07
+ACX02093AC
+(3) Measure resistance between the throttle position sensor
+side connector terminal 1 and 3.
+(4) Move the throttle valve from the idle position to full-open
+HARNESS position.
+CONNECTOR: B-07 • Resistance should change smoothly in proportion to
+opening angle of the throttle valve.
+Q:Is the resistance normal?
+YES : Go to Step 14.
+NO : Replace the throttle position sensor. Refer to GROUP
+ACX02094AC 13A <2.4L Engine>, Throttle Body Assembly P.13A-
+592 or 13B <3.0L Engine>, Throttle Body Assembly
+P.13B-689.
+TSB Revision

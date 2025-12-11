@@ -1,0 +1,50 @@
+54B-272 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal by using "FUNCTION
+DIAG." of the SWS monitor.
+Check the input signals from the following switches:
+COLUMN SWITCH • Ignition switch: ON
+CONNECTOR • Lighting switch: HEAD
+MB991502 Operate the MUT-II according to the procedure below to dis-
+play "HEADLIGHT LO."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+DATA LINK 3. Select "SWS MONITOR."
+CONNECTOR
+4. Select "FUNCTION DIAG."
+AC101571AB 5. Select "LIGHTING."
+6. Select "HEADLIGHT LO."
+COLUMN SWITCH
+Check that normal conditions are displayed on the items
+CONNECTOR
+described in the table below.
+ITEM No. ITEM NAME NORMAL
+SWS MONITOR
+CONDITIONS
+HARNESS (FOR
+COLUMN-ECU) ITEM No.00 HEADLIGHT SW ON
+COLUMN SWITCH
+ITEM No.35 H/L AUTO-CUT OFF
+CONNECTOR AT
+HARNESS SIDE ITEM No.70 FRONT ECU NORMAL ACK
+AC101421AB
+ACK
+Q:Does the scan tool display the items "HEADLIGHT SW",
+"H/L AUTO-CUT" and "FRONT ECU ACK" as normal
+condition?
+YES : Go to Step 3.
+NO : • The scan tool does not show the respective
+normal condition for item "HEADLIGHT SW."
+Refer to Inspection Procedure O-7 "ETACS-ECU
+does not receive a signal from the headlight switch
+P.54B-511."
+• The scan tool does not show the respective
+normal condition for item "H/L AUTO-CUT." Refer
+to Inspection Procedure J-9 "Headlight automatic
+shutdown function does not work normally P.54B-
+340."
+• The scan tool does not show the respective
+normal condition for item "FRONT ECU SW."
+Replace the ECU.Check that the headlights (low-
+beam) illuminate normally.
+TSB Revision

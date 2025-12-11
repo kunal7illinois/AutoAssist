@@ -1,0 +1,76 @@
+AV–19
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specification
+AVC-LAN communication Turn ignition switch on
+TX+ (F19-8) - GND (F20-6) R - BR 2 to 3 V
+signal (ACC)
+Turn ignition switch on
+Speed signal from
+SPD (F19-11) - GND (F20-6) V - BR (IG). Pulse generation
+combination meter
+Turn drive wheels slowly.
+Turn ignition switch off →
+ACC (F19-12) - GND (F20-6) GR - BR Accessory (ON) Below 1 V → 10 to 14 V
+on (ACC)
+Navigation or "Bluetooth "
+A waveform synchronized
+INT- (F19-22) - GND (F20-6) G - BR Voice signal handsfree voice signal is
+with sounds is output
+provided
+Navigation or "Bluetooth "
+A waveform synchronized
+INT+ (F19-23) - GND (F20-6) R - BR Voice signal handsfree voice signal is
+with sounds is output
+provided
++B (F18-1) - GND (F20-6) GR - BR Battery Always 10 to 14 V
+A waveform synchronized
+FR+ (F18-2) - GND (F20-6) LG - BR Sound signal (Front Right) Audio system is playing
+with sounds is output
+A waveform synchronized
+RL+ (F18-3) - GND (F20-6) B - BR Sound signal (Rear Left) Audio system is playing
+with sounds is output
+A waveform synchronized
+RR- (F18-4) - GND (F20-6) W - BR Sound signal (Rear Right) Audio system is playing
+with sounds is output
++B2 (F18-5) - GND (F20-6) GR - BR Battery Always 10 to 14 V
+A waveform synchronized
+FR- (F18-6) - GND (F20-6) L - BR Sound signal (Front Right) Audio system is playing
+with sounds is output
+A waveform synchronized
+FL- (F18-7) - GND (F20-6) V - BR Sound signal (Front Left) Audio system is playing
+with sounds is output
+A waveform synchronized
+FL+ (F18-8) - GND (F20-6) P - BR Sound signal (Front Left) Audio system is playing
+with sounds is output
+A waveform synchronized
+RL- (F18-9) - GND (F20-6) Y - BR Sound signal (Rear Left) Audio system is playing
+with sounds is output
+A waveform synchronized
+RR+ (F18-10) - GND (F20-6) R - BR Sound signal (Rear Right) Audio system is playing
+with sounds is output
+A waveform synchronized
+WFL- (F20-1) - GND (F20-6) V - BR Sound signal (Front Left) Audio system is playing
+with sounds is output
+A waveform synchronized
+WFL+ (F20-2) - GND (F20-6) P - BR Sound signal (Front Left) Audio system is playing
+with sounds is output
+A waveform synchronized
+WFR- (F20-3) - GND (F20-6) L - BR Sound signal (Front Right) Audio system is playing
+with sounds is output
+A waveform synchronized
+SL+ (F20-4) - GND (F20-6) G-W - BR Sound signal (Rear Left) Audio system is playing
+with sounds is output
+A waveform synchronized
+SR+ (F20-5) - GND (F20-6) L - BR Sound signal (Rear Right) Audio system is playing
+with sounds is output
+GND (F20-6) - Body ground BR - Body ground Ground Always Below 1 V
+E (F20-7) - Body ground BR - Body ground Ground Always Below 1 V
+A waveform synchronized
+WFR+ (F20-9) - GND (F20-6) LG - BR Sound signal (Front Right) Audio system is playing
+with sounds is output
+A waveform synchronized
+SL- (F20-10) - GND (F20-6) BR - BR Sound signal (Rear Left) Audio system is playing
+with sounds is output AV
+A waveform synchronized
+SR- (F20-12) - GND (F20-6) Y - BR Sound signal (Rear Right) Audio system is playing
+with sounds is output

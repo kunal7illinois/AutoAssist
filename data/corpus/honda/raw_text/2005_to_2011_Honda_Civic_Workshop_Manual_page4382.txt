@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+Fig. 50: Checking Continuity Between VSA Modulator-Control Unit And
+Gauge Control Module 36P Connector Terminal
+Is there continuity?
+YES -Check for loose terminals in the gauge control module (tach) 36P
+connector. If necessary, substitute a known-good gauge control module (tach),
+then go to step 1 and recheck. If no DTCs are indicated, replace the original
+gauge control module (tach) (see REPLACEMENT ). If DTC 86-31 resets,
+replace the VSA modulator-control unit (see VSA MODULATOR-
+CONTROL UNIT REMOVAL AND INSTALLATION ).
+NO -Repair open in the wire between the gauge control module (tach) and the
+VSA modulator-control unit.
+DTC 86-71: F-CAN COMMUNICATION WITH YAW RATE-LATERAL ACCELERATION SENSOR
+MALFUNCTION
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Check for DTCs with the HDS.
+Is 86-71 DTC indicated?
+YES -If the DTC 86-01 is indicated at the same time, do the DTC 86-01
+troubleshooting (see DTC 86-01: F-CAN Bus-off Malfunction ). If 86-01 is

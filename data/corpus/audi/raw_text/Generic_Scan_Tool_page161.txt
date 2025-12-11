@@ -1,0 +1,50 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+If the specified value was Not obtained:
+Checking wiring
+If the manufacturers test box is being used, perform the following
+step.
+– Install the test box.
+If the manufacturers test box is not being used, perform the fol‐
+lowing step.
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Using a multimeter, check the Oxygen Sensor (O2S) Behind
+Three Way Catalytic Converter (TWC) -G130- electrical har‐
+ness connector terminals to the Engine Control Module (ECM)
+-J623- electrical harness connector T94 terminals for resist‐
+ance. Refer to Wiring Diagrams for pin locations.
+2009 - 2010 Models
+Oxygen Sensor (O2S) Engine Control Module (ECM) -J623-
+Behind Three Way Cat‐ electrical connector T94 terminals or
+alytic Converter (TWC) test box sockets
+-G130- electrical har‐
+ness connector termi‐
+nals
+3 76
+4 77
+Specified value: 1.5 Ω Max.
+If the specified value was Not obtained:
+– Check the wiring for an open, high resistance, short circuit to
+each other, Battery (+) or Ground.
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is detected in the wiring and the voltage supply
+was Not OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual .
+– Assembly is performed in the reverse of the removal.
+Final procedures
+After repair work, the following work steps must be performed in
+the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+157
+3. Diagnosis and Testing

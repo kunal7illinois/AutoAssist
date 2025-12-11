@@ -1,0 +1,27 @@
+BC–107
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+SYSTEM DESCRIPTION
+1. FUNCTION DESCRIPTION
+HINT:
+• The skid control ECU is located within the brake
+actuator assembly.
+• The yaw rate sensor and acceleration sensor are
+combined in a single unit. This unit communicates
+with the skid control ECU through CAN
+communication.
+(a) ABS (Anti-lock Brake System)
+The ABS helps prevent the wheels from locking
+when the brakes are applied firmly or when braking
+on a slippery surface.
+Brake Actuator Assembly
+BC
+Pump Motor
+Each Speed Skid Control ECU Each Wheel
+Sensor Cylinder
+Solenoid Valve
+Combination Meter
+ABS Warning
+Light
+: CAN Communication System
+: Hydraulic Pressure
+C109467E01

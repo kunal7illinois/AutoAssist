@@ -1,0 +1,64 @@
+DL–79
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/ Smart Key System)
+(b) Measure the resistance and voltage between each
+terminal of the wire harness side connectors and
+body ground.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+RCTY (E6-7) - Body Rear courtesy light switch Rear door RH CLOSED 10 kΩ or higher → Below
+GR - Body ground
+ground RH input (OFF) → OPEN (ON) 1 Ω
+Passenger side door
+PCTY (E6-21) - Body Passenger side courtesy 10 kΩ or higher → Below
+Y - Body ground CLOSED (OFF) → OPEN
+ground light switch input 1 Ω
+(ON)
+Luggage compartment Luggage compartment
+LGCY (E6-25) - Body 10 kΩ or higher → Below
+W - Body ground door courtesy light switch door CLOSED (OFF) →
+ground 1 Ω
+input OPEN (ON)
+DCTY (E7-24) - Body Driver side door courtesy Driver side door CLOSED 10 kΩ or higher → Below
+L - Body ground
+ground light switch input (OFF) → OPEN (ON) 1 Ω
+Ignition power supply Engine switch on (ACC) →
+ACC (IA-1) - Body ground B - Body ground 10 to 14 V → Below 1 V
+(ACC signal) off
+Ignition power supply (IG Engine switch on (IG) →
+IG (IA-1) - Body ground B - Body ground 10 to 14 V → Below 1 V
+signal) off
++B (power battery system)
+BATB (IA-1) - Body ground B - Body ground Always 10 to 14 V
+power supply
++B (power system
+ALTB (ID-16) - Body
+W - Body ground alternator system) power Always 10 to 14 V
+ground
+supply
+GND1 (IF-10) - Body
+W-B - Body ground Ground Always Below 1 Ω
+ground
+GND2 (IM-9) - Body
+W-B - Body ground Ground Always Below 1 Ω
+ground
+LCTY (IO-7) - Body Rear courtesy light switch Rear door LH CLOSED 10 kΩ or higher → Below
+LG - Body ground
+ground LH input (OFF) → OPEN (ON) 1 Ω
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the main body (instrument panel J/B)
+connectors.
+(d) Measure the voltage between each terminal of the
+wire harness side connectors and body ground.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Luggage compartment
+Luggage compartment
+TR+ (E7-1) - Body ground B - Body ground door CLOSED (LOCKED) Below 1 V → 10 to 14 V*1
+door opener motor input
+→ OPEN (UNLOCKED)
+Turn signal flasher relay Any transmitter switch is
+HAZ (E8-4) - Body ground W - Body ground Below 1 V → 10 to 14 V*2
+signal pressed → not pressed
+HINT:
+DL
+• *1: When operating the motor.
+• *2: When operating the answer back function.

@@ -1,0 +1,46 @@
+CHASSIS ELECTRICAL 54A-7
+BATTERY
+BATTERY TEST
+M1541001200249
+BATTERY TESTING PROCEDURE
+STEP 4. Check the open circuit voltage.
+(1) Turn headlights on for 15 seconds.
+STEP 1. Check the battery cables. (2) Turn headlights off for two minutes to allow
+Remove the negative cable, then the positive cable. battery positive voltage to stabilize.
+Check for dirty or corroded connections. (3) Disconnect the battery cables.
+(4) Read open circuit voltage.
+Q: Are the battery cables dirty or have corroded
+connections? Q: Is open circuit voltage 12.4 volts or more?
+YES : Clean the battery cables. Then go to Step 2. NO : Go to Step 5.
+NO : Go to Step 2. YES : Go to Step 6.
+STEP 2. Check the battery post. STEP 5. Charge battery.
+Check for loose battery post.
+Q: Charging the battery?
+Q: Are the battery post faulty? YES : Charge the battery at 5 amps for 15 hours.
+Yes : Replace the battery. Then go to Step 4. Then re-test, go to Step 4.
+NO : Go to Step 3. NO : Go to Step 6.
+STEP 3. Check the battery case and cover. STEP 6. Check the load test.
+(1) Remove the hold-downs and shields. (1) Connect a load tester to the battery.
+(2) Check for broken/cracked case or cover. (2) Load the battery at the recommended discharge
+rate (See LOAD TEST RATE CHART) for 15
+Q: Is the battery case or cover faulty?
+seconds.
+YES : Replace the battery. Then go to Step 4.
+NO : Go to Step 4. (3) Read voltage after 15 seconds, then remove
+load.
+(4) Compare the measured value with the minimum
+voltage. (See LOAD TEST CHART.)
+Q: Is the voltage higher than minimum voltage?
+NO : Replace the battery. Then go to Step 4.
+YES : The battery is normal.
+LOAD TEST CHART
+TEMPERATURE 21 (70) 16 (60) 10 (50) 4 (40) −1 (30) −7 (20) −12 (10) −18 (0)
+°C (°F) AND
+ABOVE
+Minimum voltage 9.6 9.5 9.4 9.3 9.1 8.9 8.7 8.5
+LOAD TEST RATE CHART
+LOAD TEST 252 amps
+Cranking ratio (0°F) 525 amps
+Reserve capacity 90 minutes
+Application BCI Group size 86
+TSB Revision

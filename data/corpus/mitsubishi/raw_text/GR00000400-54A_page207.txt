@@ -1,0 +1,33 @@
+CHASSIS ELECTRICAL 54A-207
+RADIO AND TAPE PLAYER
+STEP 10. Check the motor antenna assembly power
+supply circuit [ignition switch "ON (IG1)"] by backprobing
+(1) Do not disconnect motor antenna F-35 connector.
+CONNECTOR
+<ECLIPSE SPYDER>: F-35 (2) Turn the ignition switch "ON."
+DEVICE SIDE
+1 2 3 4
+5 6 7 8
+AC106491AQ
+(3) Measure the voltage between terminal number 6 and
+HARNESS SIDE
+ground by backprobing.
+F-35
+Q:Are the voltages proximately 12 volts (battery positive
+1 2 3 4
+voltage)?
+5 6 7 8
+YES : Go to Step 13.
+NO : Go to Step 11.
+AC106902AB
+STEP 11. Check motor antenna connector F-35 for
+damage.
+Q:Are motor antenna connector F-35 in good condition?
+CONNECTOR
+<ECLIPSE SPYDER>: F-35 YES : Go to Step 12.
+DEVICE SIDE NO : Repair or replace the connector. Refer to GROUP
+1 2 3 4 00E, Harness Connector Inspection P.00E-2. The
+5 6 7 8
+motor antenna should work normally.
+AC106491AQ
+TSB Revision

@@ -1,0 +1,71 @@
+Audi TT No. 42 / 4
+Current Flow Diagram
+Terminal 50 voltage supply relay, fuses
+J104 ABS control unit
+J519 Onboard supply control unit
+J681 Terminal 15 voltage supply relay 2
+J682 Terminal 50 voltage supply relay
+SC1 Fuse 1 on fuse holder C
+SC2 Fuse 2 on fuse holder C
+SC4 Fuse 4 on fuse holder C
+SC7 Fuse 7 on fuse holder C
+SC11 Fuse 11 on fuse holder C
+4,0 # 4,0 ## 4,0 4,0 B163 4,0
+SC29 Fuse 29 on fuse holder C
+sw sw sw sw sw
+SC31 Fuse 31 on fuse holder C
+T2t/2 8/87 1 2 4 7 11 29 31 T2t 2-pin connector, black connector L, on onboard supply control
+J519 J681 SC1 SC2 SC4 SC7 SC11 SC29 SC31 unit
+ 10A 5A 5A 5A 10A 15A 40A T8h 8-pin connector, black, connector F, on onboard supply control
+1a 2a 4a 7a 11a 29a 31a unit
+T11b 11-pin connector, black, connector A, on onboard power supply
+control unit
+1,0 0,5 0,5 0,5 1,0 0,5
+sw/bl ge/sw ge/sw sw/ro sw/bl ge/ro T47 47-pin connector, on ABS control unit
+T52b 52-pin connector, yellow, on onboard supply control unit
+220000 226655 B283 227711
+J519
+44 Earth point, lower part of left A-pillar
+T11b/11 #
+J10
+T
+4
+47/8
+8899
+T52b/29##
+374 Earth connection 9, in main wiring harness
+#
+0,5 1,0 0,5 0,5 0,5 0,35 4,0
+sw/bl sw/bl sw/bl ro/sw ro/sw ro/sw sw/bl
+375 Earth connection 10, in main wiring harness
+110088 222200 227700 T8h/1
+J519
+B163 Positive connection 1 (15), in interior wiring harness
+ 4/86 2/30
+B277 44
+J682 B277 Positive connection 1 (15a), in main wiring harness
+6/85 8/87
+1,0 0,5 4,0 B283 Positive connection 7 (15a), in main wiring harness
+sw/bl br ro
+* Relay carrier under left dash panel
+375
+8811 1100 ** Relay carrier on onboard power supply control unit
+# up to May 2009
+## from June 2009
+0,5 1,0
+br br
+ws = white
+sw = black
+226622 374
+ro = red
+br = brown
+0,5 2,5 gn = green
+br br
+bl = blue
+gr = grey
+227722 44 li = purple
+ge = yellow
+29 30 31 32 33 34 35 36 37 38 39 40 41 42 or = orange
+8J0-042040909
+rs = pink
+Edition 09.2009

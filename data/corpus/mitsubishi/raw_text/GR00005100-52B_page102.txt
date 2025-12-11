@@ -1,0 +1,44 @@
+52B-102 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+TROUBLESHOOTING HINTS
+• Improper engaged connector or defective short
+bar*
+• Short circuit between the left-side air bag module
+(squib) circuit terminals
+• Damaged connector(s)
+• Malfunction of the SRS-ECU
+NOTE: *: The squib circuit connectors integrate a "short" bar (which prevents the air bag from deploying
+unintentionally due to static electricity by shorting the positive wire to the ground wire in the squib circuit when
+the connectors are disconnected) (Refer to P.52B-3.) Therefore, if connector C-74 or D-15 is damaged or
+improperly engaged, the short bar may not be released when the connector is connected.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+• MB991865: Dummy resister
+• MB991866: Resister harness
+STEP 1. Check the DTC.
+Q:Is DTC 34 output?
+YES : Go to Step 2.
+NO : Go to Step 3.
+STEP 2. Check SRS-ECU connector C-74.
+Q:Is the connector correctly engaged?
+YES : Go to Step 3.
+NO : Engage the connector correctly. Then go to Step 7.
+STEP 3. Check SRS-ECU connector C-74 and side-airbag
+module (LH) connector D-15.
+(1) Disconnection connectors C-74 and D-15, and then
+CONNECTOR: C-74
+reconnect them.
+(2) Connect the negative battery terminal.
+(3) Erase DTC memory, and then recheck the DTC.
+Q:Is DTC 81 output?
+YES : Go to Step 4.
+NO : The inspection is complete. (It is assumed that DTC
+SRS-ECU
+81 set as connector C-74 or D-15 was engaged
+ACCELERATOR PEDAL improperly.)
+CENTER REINFORCEMENT (LH) AC000358AF
+CONNECTOR: D-15
+AC002981AB
+TSB Revision

@@ -1,0 +1,68 @@
+GENERAL <BODY AND CHASSIS> 00-7
+HOW TO USE TROUBLESHOOTING/INSPECTION SERVICE POINTS
+4. DIAGNOSTIC TROUBLE CODE CHART Checks don’t have to be carried out in the order
+If the scan tool displays a diagnostic trouble code, given in the chart.
+retrieve an applicable inspection procedure accord- 3. If voltage readings differ from normal condition
+ing to this chart. values, check related sensors, actuators, and
+wiring, then replace or repair.
+.
+5. SYMPTOM CHART 4. After repair or replacement, recheck with the
+If there are symptoms, even though the results of voltmeter to confirm that the repair has corrected
+inspection using the scan tool show that all diagnos- the problem.
+tic trouble codes are normal, inspection procedures
+for each symptom will be found by using this chart. .
+Terminal Resistance and Continuity Checks
+1. Turn the ignition switch to "LOCK" (OFF) position.
+.
+6. DIAGNOSTIC TROUBLE CODE PROCEDURES
+2. Disconnect the ECU connector.
+Indicates the inspection procedures corresponding to
+each diagnostic trouble code. CAUTION
+If resistance and continuity checks are per-
+. formed on the wrong terminals, damage to the
+7. SYMPTOM PROCEDURES
+vehicle wiring, sensors, ECU, and/or ohmmeter
+Indicates the inspection procedures corresponding to
+may occur. Use care to prevent this!
+each symptoms classified in the Symptom Chart.
+3. Measure the resistance and check for continuity
+. between the terminals of the ECU harness-side
+8. SERVICE DATA REFERENCE TABLE
+connector while referring to the check chart.
+Inspection items and normal judgement values have
+been provided in this chart as reference information. NOTE: Checks don’t have to be carried out in the
+order given in the chart.
+. 9. CHECK AT ECU TERMINALS 4. If the ohmmeter shows any deviation from the
+Terminal numbers for the ECU connectors, inspec- Normal Condition value, check the corresponding
+tion items, and standard values have been provided sensor, actuator and related electrical wiring, then
+in this chart as reference information. repair or replace.
+5. After repair or replacement, recheck with the
+. Terminal Voltage Checks ohmmeter to confirm that the repair has corrected
+the problem.
+1. Connect a needle-nosed wire probe to a voltmeter
+probe.
+.
+10. INSPECTION PROCEDURES USING AN
+CAUTION
+OSCILLOSCOPE
+Short-circuiting the positive (+) probe between a
+When there are inspection procedures using an
+connector terminal and ground could damage
+oscilloscope, these are listed here.
+the vehicle wiring, the sensor, the ECU, or all
+three. Use care to prevent this!
+HOW TO USE THE INSPECTION
+2. Insert the needle-nosed wire probe into each of
+PROCEDURES
+the ECU connector terminals from the wire side,
+and measure the voltage while referring to the The causes of many of the problems occurring in
+check chart. electric circuitry are generally the connectors, com-
+ponents, the ECU, and the harnesses between con-
+NOTE: Measure voltage with the ECU connectors
+nectors, in that order. These inspection procedures
+connected.
+follow this order. They first try to discover a problem
+You may find it convenient to pull out the ECU to
+with a connector or a defective component.
+make it easier to reach the connector terminals.
+TSB Revision

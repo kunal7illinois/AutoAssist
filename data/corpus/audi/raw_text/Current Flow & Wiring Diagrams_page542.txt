@@ -1,0 +1,50 @@
+Audi TT No. 61 / 21
+Current Flow Diagram
+Fuel gauge sender, Fuel system pressurisation pump,
+Control unit in dash panel insert, Fuel pump control unit
+G Fuel gauge sender
+G1 Fuel gauge
+G6 Fuel system pressurisation pump
+J285 Control unit in dash panel insert
+J519 Onboard supply control unit
+G1 J285
+J538 Fuel pump control unit
+T10k 10-pin connector
+T32 32-pin connector
+T52b 52-pin connector
+T32 T32 T32
+/27 /25 /28
+43 Earth point, lower part of right A-pillar
+*
+390 Earth connection 25, in main wiring harness
+0.35 0.35
+vi/sw bl/ge
+410 Earth connection 1 (sender earth) in main wiring harness
+G6 G
+M
+J519 * Output for sender earth
+1 5 2 3 4 T52b
+/38
+0.35
+vi
+T10k T10k T10k
+/7 /4 /8
+J538
+T10k T10k
+/6 /5
+31
+1.5 0.35 0.35
+br br/bl br/bl
+390 ws = white
+sw = black
+ro = red
+410 br = brown
+4.0
+br 410 gn = green
+bl = blue
+gr = grey
+43 li = purple
+ge = yellow
+267 268 269 270 271 272 273 274 275 276 277 278 279 280 or = orange
+8J0-061210410 rs = pink
+04.2010

@@ -1,0 +1,28 @@
+BC–299
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+TERMINALS OF ECU
+1. TERMINALS OF ECU
+Skid Control ECU:
+A60
+C113404E05 BC
+Symbols (Terminal No.) Terminal Description
+GND2 (1) Skid control ECU ground
++BM (2) Power supply for motor
++BS (3) Power supply for solenoid
+GND1 (4) Skid control ECU ground
+FL+ (5) Front left wheel speed sensor input
+FL- (6) Front left wheel speed sensor ground
+RL+ (7) Rear left wheel speed sensor input
+RR- (8) Rear right wheel speed sensor ground
+FR- (9) Front right wheel speed sensor ground
+FR+ (10) Front right wheel speed sensor input
+D/G (11) Diagnosis tester communication line
+CANL (14) CAN communication line L
+BZ (23) Buzzer output
+RL- (27) Rear left wheel speed sensor ground
+IG1 (28) ECU power supply
+RR+ (29) Rear right wheel speed sensor input
+STP1 (30) Stop light switch input
+SP1 (33) Speed signal output
+CANH (35) CAN communication line H
+TS (39) Sensor check switch input

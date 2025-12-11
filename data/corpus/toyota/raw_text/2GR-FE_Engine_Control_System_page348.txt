@@ -1,0 +1,22 @@
+ES–348
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK
+4 REPLACE ACCELERATOR PEDAL ROD ASSEMBLY
+NEXT
+5 CHECK WHETHER DTC OUTPUT RECURS (ACCELERATOR PEDAL POSITION SENSOR
+DTCS)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Clear the DTCs (See page ES-45).
+ES (d) Start the engine.
+(e) Allow the engine to idle for 15 seconds.
+(f) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DTC INFO / CURRENT CODES
+(g) Read the DTCs.
+Result
+Display (DTC Output) Proceed to
+P2120, P2122, P2123, P2125, P2127, P2128, and/or P2138 A
+No output B
+B SYSTEM IS OK
+A
+REPLACE ECM (See page ES-518)

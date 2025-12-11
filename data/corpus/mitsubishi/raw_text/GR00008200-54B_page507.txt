@@ -1,0 +1,40 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-507
+SYMPTOM PROCEDURES
+STEP 5. Check the wiring harness between driver’s door
+switch connector D-11 (terminal 2) and ETACS-ECU
+connector C-119 (terminal 10).
+NOTE: Also check junction block connector C-101. If junction
+CONNECTOR <ECLIPSE>: D-11
+block connector C-101 is damaged, repair or replace the con-
+nector as described in GROUP 00E, Harness Connector
+Inspection P.00E-2.
+DEVICE SIDE
+D-11
+1 2 3
+AC106483AE
+CONNECTOR <ECLIPSE SPYDER>: D-11
+DEVICE SIDE
+D-11
+1 2 3
+AC106485AE
+CONNECTOR: C-119
+DEVICE SIDE
+1 2 3 4 5 6 7 8 91011121314151617181920
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+Q:Is the wiring harness between driver’s door switch
+CONNECTOR: C-101
+connector D-11 (terminal 2) and ETACS-ECU connector
+DEVICE SIDE C-119 (terminal 10) in good condition?
+1 2 3 4 5 6 7
+YES : Replace the ETACS-ECU. If the functions, which are
+8 91011 12 131415
+described in "CIRCUIT OPERATION", work normally,
+the input signal from the driver’s door switch should
+be normal.
+NO : Repair the wiring harness. If the functions, which are
+described in "CIRCUIT OPERATION", work normally,
+JUNCTION BLOCK the input signal from the driver’s door switch should
+(FRONT VIEW) AC106479AB be normal.
+TSB Revision

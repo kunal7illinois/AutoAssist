@@ -1,0 +1,36 @@
+BE-118 BODY ELECTRICAL - SMART KEY SYSTEM
+3) Inside Luggage Room
+a) When the trunk lid is closed while the key is still inside the luggage room and all doors are locked,
+the certification ECU recognizes that a trunk lid close condition has occurred based on signals from
+the main body ECU.
+b)The certification ECU receives this signal, and transmits a request signal for the trunk inner oscillator
+to form an actuation area.
+c) The key receives this signal and returns the ID code to the tuner.
+d)The certification ECU judges and certifies the ID code, and checks the location of the key. The ECU
+sounds the wireless door lock buzzer for 2 seconds to inform the driver.
+e) If the trunk open switch is turned ON (pressed) while the key is inside the luggage room, the
+certification ECU sends another request signal for the trunk inner oscillator to form an actuation area.
+The ECU judges and certifies the key and checks its location, before transmitting a trunk open signal
+to the main body ECU.
+f) The main body ECU receives the signal and operates the luggage door lock motor to open the trunk.
+Key
+b)
+b)
+Trunk Inner
+Oscillator
+Trunk Antenna
+Certification
+ECU d) c)
+Tuner
+d)
+Wireless Door
+Lock Buzzer
+f)
+Luggage Door lock Motor
+CAN e) a) Door Position Switch
+(MS Bus) Main Body ECU (All Doors)
+a)
+Courtesy Switch (Trunk Lid)
+e)
+Trunk Open Switch
+025BE98P

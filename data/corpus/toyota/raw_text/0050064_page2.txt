@@ -1,0 +1,30 @@
+ES–394
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+A
+2 CHECK WHETHER MIL TURNS OFF
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(d) Check if any DTCs have been stored. Note down any
+DTCs.
+(e) Clear DTCs (see page ES-35).
+(f) Check if the MIL goes off.
+ES
+Standard:
+MIL should go off.
+OK REPAIR CIRCUITS INDICATED BY OUTPUT
+DTCS
+NG
+3 CHECK HARNESS AND CONNECTOR (CHECK FOR SHORT IN WIRE HARNESS)
+(a) Disconnect the A9 ECM connector.
+Wire Harness Side:
+(b) Turn the ignition switch ON.
+(c) Check that the MIL is not illuminated.
+OK:
+A9 ECM Connector MIL is not illuminated.
+(d) Reconnect the ECM connector.
+W OK REPLACE ECM
+Front View
+A115671E12
+NG

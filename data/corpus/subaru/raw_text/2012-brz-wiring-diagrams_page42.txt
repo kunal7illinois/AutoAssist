@@ -1,0 +1,56 @@
+G ELECTRICAL WIRING ROUTING
+Position of Parts in Instrument Panel
+(*2) (*1) (*3) (*4)
+A19 A20 A23 z1 A22 A30 A64 A29 A37 A36 A35 A34 A33
+(*2)
+A18
+(*1)
+A21
+A9
+A10
+A17
+A13
+A32
+z2
+A28
+A73
+A31
+* 1:A/T
+* 2:M/T (*5)
+* 3:w/ Smart Entry & Start System A26
+* 4:w/o Smart Entry & Start System
+* 5:Manual A/C (*6)
+* 6:Automatic A/C A27
+* 7:w/ Cruise Control
+* 8:w/o Cruise Control
+A15 A14 A24 A25 z5 z8 z4 z7 z6 H17 G1 a1 a2
+(*7) (*8)
+A9 Junction Connector A73 Main Body ECU
+A10 Junction Connector
+A13 Noise Filter G1 Airbag Control Module
+A14 Power Steering ECU Assembly
+A15 Power Steering ECU Assembly H17 Airbag Control Module
+A17 Junction Connector
+A18 Transmission Control Module a1 No. 1 Stereo Jack Adapter Assembly
+A19 Transmission Control Module a2 Radio Receiver Assembly
+A20 Clutch Start Switch Assembly
+A21 Clutch Switch Assembly z1 Power Steering ECU Assembly
+A22 Stop Light Switch Assembly Steering Column Assembly
+A23 Accelerator Pedal Sensor Assembly z2 Power Steering ECU Assembly
+A24 No. 1 A/C Radiator Damper Servo Sub-Assembly Steering Column Assembly
+A25 Cooler Thermistor (Room Temperature Sensor) z4 Roll Connector
+A26 Blower Resistor Paddle Shift Switch
+A27 Blower Assembly z5 Roll Connector
+A28 No. 3 A/C Radiator Damper Servo Sub-Assembly Cruise Control Main Switch
+A29 No. 4 A/C Radiator Damper Servo Sub-Assembly z6 Roll Connector
+A30 ID Code Box Driver's Airbag Module
+A31 Blower with Fan Motor Sub-Assembly z7 Roll Connector
+A32 No. 5 A/C Radiator Damper Servo Sub-Assembly Driver's Airbag Module
+A33 ECM z8 Roll Connector
+A34 ECM Horn Button Assembly
+A35 ECM
+A36 ECM
+A37 Junction Connector
+A64 Transponder Key ECU Assembly
+42
+BRZ (G4400BE)

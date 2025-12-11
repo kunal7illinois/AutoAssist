@@ -1,0 +1,42 @@
+AX–82
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+(g) According to the display on the tester, perform "ACTIVE TEST".
+Item Test Details Diagnostic Note
+[Test Details]
+Control the shift solenoid SL to set the automatic transaxle to the lock-
+LOCK UP up condition. Possible to check the SL operation.
+[Vehicle Condition]
+AX Vehicle Speed: 37 mph (60km/h) or more
+HINT:
+• This test can be conducted when the vehicle speed is 37 mph (60km/h) or more.
+• This test can be conducted in the 5th gear.
+(h) Lightly depress the accelerator pedal and check that the engine speed does not change
+abruptly.
+HINT:
+• When changing the accelerator pedal opening angle while driving, if the engine speed does
+not change, lock-up is on.
+• Slowly release, but not fully, the accelerator pedal in order to decelerate. (Fully releasing the
+pedal will close the throttle valve and lock-up may be turned off.)
+Accelerator Pedal
+Opening Angle
+Accelerator Pedal
+Lock-up OFF
+Fully Released
+Engine speed Lock-up ON
+Time
+G029214E08
+1 CHECK OTHER DTCS OUTPUT (IN ADDITION TO DTC P0741)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester on.
+(c) Enter the following items: "DIAGNOSIS / OBD/MOBD /
+ECT / DTC INFO / CURRENT CODES".
+(d) Read the DTCs using the intelligent tester.
+Result
+Display (DTC output) Proceed to
+Only "P0741" is output A
+"P0741" and other DTCs B
+HINT:
+If any other codes besides "P0741" are output, perform
+the troubleshooting for those DTCs first.
+B GO TO DTC CHART

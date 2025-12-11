@@ -1,0 +1,32 @@
+ES–212
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(a)Purge VSV stuck open
+In operation C, the leak detection pump creates negative pressure (vacuum) in the EVAP system.
+The EVAP system pressure is then measured by the ECM using the canister pressure sensor. If the
+stabilized system pressure is higher than [second reference pressure x 0.2], the ECM interprets this
+as the purge VSV (Vacuum Switching Valve) being stuck open. The ECM illuminates the MIL and
+sets the DTC (2 trip detection logic).
+EVAP Pressure when Purge Stuck Open:
+ON: Open
+ON
+Purge VSV
+OFF: Closed
+ON: Closed
+Vent Valve ON
+ES
+OFF: Vent
+Leak Detection
+Pump
+ON
+EVAP Pressure
+Malfunction
+Positive
+Negative
+[Second
+First Reference Reference
+Pressure OK Pressure] x 0.2
+Sequence
+A B C D E
+Time 10 seconds 60 Within 15 minutes 10 60
+seconds seconds seconds
+A108008E06

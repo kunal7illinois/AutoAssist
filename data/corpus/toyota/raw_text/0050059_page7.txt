@@ -1,0 +1,27 @@
+ES–339
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(d) Read pending DTCs.
+Result
+Display (DTC Output) Proceed To
+P2A00 A
+No output B
+B CHECK FOR INTERMITTENT PROBLEMS
+A
+6 REPLACE AIR-FUEL RATIO SENSOR
+ES
+NEXT
+7 PERFORM CONFIRMATION DRIVING PATTERN
+NEXT
+8 CHECK WHETHER DTC OUTPUT RECURS (DTC P2A00)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / PENDING CODES.
+(d) Read pending DTCs.
+Result
+Display (DTC Output) Proceed To
+No output A
+P2A00 B
+B REPLACE ECM
+A
+END

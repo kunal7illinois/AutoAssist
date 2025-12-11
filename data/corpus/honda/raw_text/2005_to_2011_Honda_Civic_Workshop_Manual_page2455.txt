@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EVAP System (R18A1) - Civic (All Except Hybrid)
+27. Replace the FTP sensor (see FTP SENSOR REPLACEMENT ).
+28. Reconnect all connectors.
+29. Turn the ignition switch ON (II).
+30. Reset the ECM/PCM with the HDS.
+31. Do the ECM/PCM idle learn procedure (see ECM/PCM IDLE LEARN
+PROCEDURE ).
+32. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0453 indicated?
+YES - Check for poor connections or loose terminals at the FTP sensor and the
+ECM/PCM, then go to step 1.
+NO - Go to step 33.
+33. Monitor the OBD STATUS for DTC P0453 in the DTCs MENU with the
+HDS.
+Does the screen indicate PASSED?
+YES - Troubleshooting is complete. If any other Temporary DTCs or DTCs
+were indicated in step 32, go to the indicated DTCs troubleshooting.
+NO - If the screen indicates FAILED, check for poor connections or loose
+terminals at the FTP sensor and the ECM/PCM, then go to step 1. If the screen
+indicates NOT COMPLETED, keep idling until a result comes on.
+34. Reconnect all connectors.
+35. Update the ECM/PCM if it does not have the latest software (see UPDATING
+ECM/PCM ), or substitute a known-good ECM/PCM (see SUBSTITUTING
+THE ECM/PCM ).
+36. Start the engine, and let it idle.
+37. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0453 indicated?

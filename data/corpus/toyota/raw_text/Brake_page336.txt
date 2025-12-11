@@ -1,0 +1,43 @@
+BC–325
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+NG REPLACE BRAKE ACTUATOR ASSEMBLY
+(See page BC-432)
+OK
+10 RECONFIRM DTC
+(a) Clear the DTCs (See page BC-302).
+(b) Drive the vehicle at a speed of approximately 25 mph (40
+km/h) or more for 60 seconds or more.
+(c) Check if the same DTCs are recorded (See page BC-
+302).
+HINT:
+Reinstall the sensors, connectors, etc. and restore the
+vehicle to its prior condition before rechecking for DTCs.
+Result
+Condition Proceed to
+BC
+DTCs (C0200/31, C0205/32, C1330/35 and C1331/36) are output A
+DTCs (C0200/31, C0205/32, C1330/35 and C1331/36) are output (When
+B
+troubleshooting in accordance with the PROBLEM SYMPTOMS TABLE)
+DTCs (C0200/31, C0205/32, C1330/35 and C1331/36) are not output (When
+C
+troubleshooting in accordance with the DTC CHART)
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+(See page BC-295)
+C END
+A
+11 INSPECT SPEED SENSOR TIP
+(a) Remove the front speed sensor.
+(b) Check the sensor tip.
+OK:
+Speed Sensor Rotor
+No scratches or foreign matter on the sensor tip.
+NOTICE:
+Check the speed sensor signal after cleaning or
+replacement (See page BC-290).
+(c) Install the speed sensor.
+NG CLEAN OR REPLACE SPEED SENSOR
+R000948E03
+OK
+CLEAN OR REPLACE SPEED SENSOR ROTOR

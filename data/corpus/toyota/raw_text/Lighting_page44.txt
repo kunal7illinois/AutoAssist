@@ -1,0 +1,53 @@
+LI–44
+LIGHTING – LIGHTING SYSTEM
+(c) Disconnect the 1E engine room J/B assembly connector.
+Wire Harness Side:
+(d) Measure the resistance according to the value(s) in the
+Engine Room J/B Assembly table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+1E
+1E-11 - Body ground Always Below 1 Ω
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E121481E01
+OK
+4 INSPECT ENGINE ROOM JUNCTION BLOCK ASSEMBLY
+(a) Reconnect the 1G and 1E engine room J/B assembly
+connectors.
+(b) Disconnect the 1D engine room J/B assembly connector.
+(c) Measure the voltage according to the value(s) in the
+Engine Room J/B Assembly
+table below.
+Standard voltage
+1D
+Tester Connection Condition Specified Condition
+1D-8 - Body ground Always 10 to 14 V
+1D-9 - Body ground Always 10 to 14 V
+NG REPLACE ENGINE ROOM JUNCTION
+E121531E01
+BLOCK ASSEMBLY (POWER DISTRIBUTOR)
+OK
+5 CHECK HARNESS AND CONNECTOR (ENGINE ROOM J/B ASSEMBLY - INSTRUMENT
+PANEL J/B ASSEMBLY)
+(a) Reconnect the 1D engine room J/B assembly connector.
+(b) Disconnect the ID instrument panel J/B connector.
+Wire Harness Side:
+(c) Measure the voltage according to the value(s) in the
+LI
+table below.
+Instrument Panel J/B Assembly
+Standard voltage
+Tester Connection Condition Specified Condition
+HRLY
+ID ID-3 (DRL) - Body
+Always 10 to 14 V
+ground
+ID-9 (HRLY) - Body
+Always 10 to 14 V
+DRL ground
+E121479E02
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY

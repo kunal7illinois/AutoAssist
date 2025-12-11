@@ -1,0 +1,37 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-175
+SYMPTOM PROCEDURES
+STEP 7. Check the sunroof motor assembly power supply
+circuit [ignition switch (IG2)] at the sunroof motor
+assembly connector D-06 by backprobing.
+(1) Do not disconnect the sunroof motor assembly connector
+CONNECTOR: D-06
+D-06 D-06.
+HARNESS SIDE (2) Turn the ignition switch to (cid:147)ON(cid:148) position.
+4 3 2 1
+10 9 8 7 6 5
+AC106231AD
+(3) Measure the voltage between terminal 2 and ground by
+CONNECTOR D-06
+backprobing.
+(HARNESS SIDE)
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 10.
+NO : Go to Step 8.
+4 3 2 1
+10 9 8 7 6 5
+AC106230AB
+STEP 8. Check the sunroof motor assembly connector D-
+06 for damage.
+Q:Is sunroof motor assembly connector D-06 in good
+CONNECTOR: D-06
+condition?
+D-06
+YES : Go to Step 9.
+1 2 3 4
+NO : Repair or replace the connector. Refer to GROUP
+5 6 7 8 9 10 00E, Harness Connector Inspection P.00E-2. The
+sunroof should work normally.
+AC106231AC
+TSB Revision

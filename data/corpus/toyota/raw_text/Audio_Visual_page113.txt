@@ -1,0 +1,22 @@
+AV–113
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+Sound Signal Circuit between Radio Receiver and Stereo Jack Adapter
+DESCRIPTION
+The stereo jack adapter sends an external device sound signal to the radio receiver through this circuit.
+The sound signal that has been sent is amplified by the stereo component amplifier or radio receiver, and
+then is sent to the speakers.
+If there is an open or short in the circuit, sound cannot be heard from the speakers even if there is no
+malfunction in the stereo component amplifier, radio receiver, or speakers.
+WIRING DIAGRAM
+Stereo Jack Adapter Radio Receiver
+4 19
+AUXO F17 F8 AUXI
+2 15
+ARO F17 F8 ARI
+1 17
+ALO F17 F8 ALI
+3 16
+ASGN F17 F8 ASGN
+(Shielded)
+E129784E03
+AV

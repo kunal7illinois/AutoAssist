@@ -1,0 +1,48 @@
+BODY 42-81
+KEYLESS ENTRY SYSTEM
+KEYLESS ENTRY SYSTEM
+GENERAL DESCRIPTION
+M1428000100058
+Some models are equipped with a radio-controlled • The signal causes the room light to flash twice
+keyless entry system. The main features are: when the door is locked, or light for 15 seconds
+• Antenna and receiver are incorporated in the when the door is unlocked.
+ETACS-ECU. • The signal causes the turn signal light to flash
+• ID code can be registered by using the scan tool twice when the door is locked, or flash four times
+(MUT-II). when the door is unlocked.
+• Transmitter is a key holder type, which incorpo-
+rates lock switch, unlock switch, and panic
+switch.
+KEYLESS ENTRY SYSTEM DIAGNOSIS
+M1428000700050
+The keyless entry system is controlled by the Smart
+Wiring System (SWS). For troubleshooting, refer to
+GROUP 54B, Diagnosis P.54B-17.
+SPECIAL TOOLS
+M1428000600053
+TOOL TOOL NUMBER AND NAME SUPERSESSION APPLICATION
+MB991502 Scan tool (MUT-II) MB991496-OD For checking of keyless entry
+system [Input signal check]
+B991502
+MB991529 Diagnostic trouble Tool not necessary if For checking of keyless entry
+code check harness scan tool (MUT-II) is system [Input signal check]
+available
+MB991529
+ON-VEHICLE SERVICE
+HOW TO REPLACE THE TRANSMITTER
+BATTERY
+M1428000900054
+CAUTION
+• Do not allow water or dust to enter the inside of the
+transmitter when it is open. Also, do not touch the pre-
+cision electronic device.
+1. Remove the set screw to remove the battery from the
+BATTERY transmitter.
+2. Install a battery with its (+) side face-down.
+Battery required for replacement: Coin type battery
+CR2032
+3. Insert the claw first, and assemble the transmitter.
+CLAW
+4. Verify that the keyless entry system operates.
+SCREW
+AC000123AB
+TSB Revision

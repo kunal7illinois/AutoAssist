@@ -1,0 +1,38 @@
+CHASSIS ELECTRICAL 54A-67
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 32. Check the sensor output voltage at PCM
+connector C-61 <2.4L> or C-63 <3.0L> by backprobing.
+(1) Do not disconnect connector C-61 <2.4L> or C-63 3.0L>.
+CONNECTORS: C-61 <2.4L-A/T>,
+C-63 <3.0L-A/T> (2) Disconnect connector B-38 at the output shaft speed
+sensor.
+(3) Turn the ignition switch to "ON" position.
+PCM
+AC001689AZ
+(4) Measure the voltage between terminal 104 and ground by
+backprobing.
+• The measured value should be between 4.9 and 5.1
+volts.
+(5) Turn the ignition switch to "LOCK" (OFF) position.
+101102 103104 105106107
+108109110111112113114115116117118119120 Q:Does the measured voltage correspond with this range?
+121122123 124125 126127128 129130
+YES : Go to Step 35.
+NO : Go to Step 33.
+C-61 <2.4L>, C-63 <3.0L>
+CONNECTOR
+HARNESS SIDE VIEW
+AC101970AC
+STEP 33. Check connectors C-61 <2.4L> or C-63 <3.0L> at
+PCM and B-38 at output shaft speed sensor for damage.
+Q:Are the connectors in good condition?
+CONNECTORS: C-61 <2.4L-A/T>,
+C-63 <3.0L-A/T> YES : Go to Step 34.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. The
+PCM
+speedometer should work normally.
+AC001689AZ
+CONNECTOR: B-38
+AC101972AC
+TSB Revision

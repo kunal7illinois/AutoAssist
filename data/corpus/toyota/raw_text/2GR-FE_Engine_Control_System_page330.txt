@@ -1,0 +1,43 @@
+ES–330
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+C5
+Throttle Actuator Shielded ECM
+19
+M+ 2 M+
+C55
+Throttle Actuator
+Control Circuit
+18
+M- 1 M-
+C55
+ES
+41
+C55 GE01
+A133860E01
+INSPECTION PROCEDURE
+HINT:
+• Read freeze frame data using an intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame
+data can be helpful in determining whether the vehicle was running or stopped, whether the engine
+was warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the
+time of a malfunction (See page ES-45).
+• The throttle actuator current (THROTTLE MOT) and the throttle actuator duty ratio (THROTTLE OPN /
+THROTTLE CLS) can be read using the intelligent tester. However, the ECM shuts off the throttle
+actuator current when the ETCS malfunctions.
+1 INSPECT THROTTLE BODY (RESISTANCE OF THROTTLE CONTROL MOTOR)
+(a) Disconnect the C5 throttle body connector.
+Component Side:
+(b) Measure the resistance according to the value(s) in the
+Throttle Body
+table below.
+Standard resistance
+C5
+Tester Connection Condition Specified Condition
+M+ (C5-2) - M- (C5-1) 20°C (68°F) 0.3 to 100 Ω
+(c) Reconnect the throttle body connector.
+M+ M-
+NG REPLACE THROTTLE BODY (See page ES-
+A059778E40
+503)
+OK

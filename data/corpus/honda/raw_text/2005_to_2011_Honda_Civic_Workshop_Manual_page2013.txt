@@ -1,0 +1,35 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+Fig. 1: Locating EPS Components
+GENERAL TROUBLESHOOTING INFORMATION
+EPS INDICATOR
+Under normal conditions, the EPS indicator comes on when the ignition switch is
+turned to the ON (II) position, then goes off after the engine is started. This
+indicates that the LED and its circuit are operating correctly. If there is a failure in
+the system after the engine is started, the EPS indicator will stay on, and the power
+assist is turned off.
+When the EPS indicator comes on, the control unit memorizes the DTC. In this
+case, the control unit will not activate the EPS system after the engine starts again,
+but it keeps the EPS indicator on.
+When DTC 51-01, 51-02 or 51-06 is stored in the control unit, the EPS indicator
+will stay on until the DTC is erased. When a problem is detected and the EPS
+indicator comes on, there are cases when the indicator stays on until the ignition
+switch is turned OFF, and cases when the indicator goes off automatically when the
+system returns to normal. Even though the system is operating normally, the EPS
+indicator will come on under the following conditions:
+The vehicle speed decreases abruptly from 12mph (20 km/h) or more (by
+(cid:1)
+applying brake), and it is less than 1 mph (1 km/h) and engine speed is 2,000
+rpm or above for 5 seconds (continuously) after the abrupt deceleration.
+While turning the steering wheel with the vehicle speed of 1 mph (1 km/h) or
+(cid:1)
+less for 20 seconds, and the engine speed is 2,000 rpm or above for at least 10
+seconds.
+When the engine speed is 500 rpm or less, and the vehicle is travelling at a
+(cid:1)
+speed of 6 mph (10 km/h) or more for about 3 seconds.
+To determine the actual cause of the problem, question the customer about the
+conditions during which the problem occured, taking the above conditions into
+consideration.
+DIAGNOSTIC TROUBLE CODE (DTC)

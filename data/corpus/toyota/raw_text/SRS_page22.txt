@@ -1,0 +1,36 @@
+RS–22
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+ECM
+Main Body ECU
+Combination Meter Assembly
+DLC3
+: CAN
+C123737E01
+Transmitting ECU
+Receiving ECU Signals Communication method
+(Transmitter)
+Center Airbag Sensor Assembly ECM Crash detection signal
+Center Airbag Sensor Assembly Main Body ECU Driver seat buckle switch signal
+• SRS warning light ON
+demand signal
+• SRS warning light blink
+RS
+demand signal
+Center Airbag Sensor Assembly Combination Meter Assembly • Passenger seat occupant
+detection signal
+• Passenger seat buckle switch
+signal
+• Diagnosis signal (DTC)
+CAN
+• Vehicle speed signal
+Combination Meter Assembly Center Airbag Sensor Assembly • Meter diagnoses polling
+signal
+• Engine speed signal
+• Accelerator opening angle
+information
+• Accelerator opening angle
+ECM Center Airbag Sensor Assembly
+signal
+• Shift position signal
+• Test mode signal
+• Stop signal

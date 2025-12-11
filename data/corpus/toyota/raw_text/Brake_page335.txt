@@ -1,0 +1,57 @@
+BC–324
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+8 INSPECT SPEED SENSOR SIGNAL WAVEFORM
+(a) Lift up the vehicle.
+(b) Perform the inspection using an oscilloscope.
+A14 :LH A35 :RH
+(1) Disconnect the front speed sensor connector.
+(2) Connect the oscilloscope to terminals 1 and 2 of the
+front speed sensor.
+(3) Check that a waveform is output when the tires are
+rotated.
+OK:
+FL+ FL- FR+ FR- The same waveform is output from all the 4
+wheels and there is no noise or interference in
+Normal Signal Waveform: the waveform.
+HINT:
+• As vehicle speed (wheel rotation speed)
+increases, the width of the waveform narrows
+and the output voltage becomes greater.
+BC
+GND
+• When noise is identified in the waveform on the
+oscilloscope, the erratic signals are generated
+due to rotor scratches, looseness or foreign
+matter attached to the speed sensor.
+1 V/Division, 2 ms./Division
+(4) Connect the connector.
+C136488E02 NG Go to step 11
+OK
+9 READ VALUE OF INTELLIGENT TESTER (FRONT SPEED SENSOR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine.
+(c) Select "DATA LIST" and read the value displayed on the
+intelligent tester (See page BC-307).
+DATA LIST: ABS/TRAC/VSC
+Measurement Item /
+Item Normal Condition
+Range (Display)
+Wheel speed sensor (FR) reading / min.: 0 MPH (0
+FR WHEEL SPD Actual wheel speed
+km/h), max.: 202 MPH (326 km/h)
+Wheel speed sensor (FL) reading / min.: 0 MPH (0
+FL WHEEL SPD Actual wheel speed
+km/h), max.: 202 MPH (326 km/h)
+(d) Check that there is no difference between the speed
+value output from the speed sensor displayed on the
+intelligent tester and the speed value displayed on the
+speedometer when driving the vehicle.
+OK:
+The speed value output from the speed sensor
+displayed on the intelligent tester is the same as
+the actual vehicle speed.
+HINT:
+If troubleshooting has been carried out according to the
+"PROBLEM SYMPTOMS TABLE", refer back to the table
+and proceed to the next step before replacing the part
+(See page BC-295).

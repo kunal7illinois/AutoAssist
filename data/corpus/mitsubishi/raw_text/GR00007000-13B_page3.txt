@@ -1,0 +1,87 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-3
+GENERAL INFORMATION
+GENERAL INFORMATION
+.
+M1131000100325
+.The Multiport Fuel Injection System consists of sen- IGNITION TIMING CONTROL
+sors which detect the engine conditions, the ENGINE The ignition power transistor located in the ignition
+CONTROL MODULE (ECM) <M/T>/POWERTRAIN primary circuit turns ON and OFF to control the pri-
+mary current flow to the ignition coil. This controls the
+CONTROL MODULE (PCM) <A/T> which controls
+ignition timing to provide the optimum ignition timing
+the system based on signals from these sensors,
+with respect to the engine operating conditions. The
+and actuators which operate under the control of the
+ignition timing is determined by the ECM <M/T>/
+ECM <M/T>/PCM <A/T>. The ECM <M/T>/PCM <A/
+PCM <A/T> from engine speed, intake air volume,
+T> carries out activities such as fuel injection control,
+engine coolant temperature, and atmospheric pres-
+idle air control, and ignition timing control. In addition,
+sure.
+the ECM <M/T>/PCM <A/T> is equipped with several
+diagnostic test modes which simplify troubleshooting
+.DIAGNOSTIC TEST MODE
+when a problem develops.
+• When an abnormality is detected in one of the
+. sensors or actuators related to emission control,
+FUEL INJECTION CONTROL
+the SERVICE ENGINE SOON/MALFUNCTION
+The injection drive times and injector timing are con-
+INDICATOR LAMP illuminates to warn the driver.
+trolled so that the optimum air/fuel mixture is sup- • When an abnormality is detected in one of the
+plied to the engine to correspond to the continually-
+sensors or actuators, a diagnostic trouble code
+changing engine operation conditions. A single injec-
+corresponding to the abnormality is stored in the
+tor is mounted at the intake port of each cylinder.
+ECM <M/T>/PCM <A/T>.
+Fuel is sent under pressure from the fuel tank to the • The RAM data inside the ECM <M/T>/PCM <A/
+fuel injectors by the fuel pump, with the pressure
+T> that is related to the sensors and actuators
+being regulated by the fuel pressure regulator. The
+can be read with the scan tool. In addition, the
+regulated fuel is distributed to each of the injectors.
+actuators can be controlled by scan tool MUT-II
+Fuel injection is normally carried out once for each
+(MB991502) under certain circumstances.
+cylinder for every two rotations of the crankshaft. The
+firing order is 1-2-3-4-5-6. Each cylinder has a dedi- .OTHER CONTROL FUNCTIONS
+cated fuel injector. This is called multiport. The ECM
+• Fuel Pump Control
+<M/T>/PCM <A/T> provides a richer air/fuel mixture
+Turns the fuel pump relay ON so that current is
+by carrying out "open-loop" control when the engine
+supplied to the fuel pump while the engine is
+is cold or operating under high load conditions in
+cranking or running.
+order to maintain engine performance. In addition,
+• A/C Compressor Clutch Relay Control
+when the engine is under normal operating tempera-
+Turns the compressor clutch of the A/C ON and
+ture after warming-up, the ECM <M/T>/PCM <A/T>
+OFF.
+controls the air/fuel mixture by using the heated oxy-
+gen sensor signal to carry out "closed-loop" control. • Fan Relay Control
+The closed-loop control achieves the theoretical air/ The radiator fan and condenser fan speeds are
+fuel mixture ratio where the catalytic converter can controlled in response to the engine coolant tem-
+obtains the maximum cleaning performance. perature and vehicle speed.
+• Generator Output Current Control
+. IDLE AIR CONTROL Prevents generator output current from increas-
+ing suddenly and idle speed from dropping at
+The idle speed is kept at the optimum speed by con-
+times such as when the headlights are turned on.
+trolling the amount of air that bypasses the throttle
+valve in accordance with changes in idling conditions • Variable Induction Control
+and engine load during idling. The ECM <M/T>/PCM Turns the solenoid of the variable induction ON
+<A/T> drives the idle air control (IAC) motor to keep and OFF.
+the engine running at the pre-set idle target speed in • Evaporative Emission Purge Control
+accordance with the engine coolant temperature and (Refer to GROUP 17, Emission Control System −
+A/C and other electrical load. In addition, when the A/ Evaporative Emission Control System − General
+C switch is turned off and on while the engine is Information.P.17-97)
+idling, the IAC motor adjusts the throttle valve bypass • EGR Control
+air amount according to the engine load conditions to (Refer to GROUP 17, Emission Control System −
+avoid fluctuations in the engine speed. Exhaust Gas Recirculation (EGR) System − Gen-
+eral Information.P.17-103)
+.
+TSB Revision

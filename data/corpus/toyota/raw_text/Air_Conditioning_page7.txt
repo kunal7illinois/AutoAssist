@@ -1,0 +1,30 @@
+AC–7
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+SYSTEM DIAGRAM
+Auto A/C, Manual A/C:
+A/C Control Assembly
+A/C Amplifier Main Body ECU DLC3
+AC
+CAN (V-BUS) Combination Meter ECM
+LIN
+E124510E01
+Transmitter Receiver Line Signal
+Magnetic Clutch Request Signal
+Heater Idle Up Request Signal
+A/C Idle Up Request Signal
+Outside Temperature Data
+A/C Amplifier ECM CAN
+External Variable Control
+Solenoid Current Signal
+Prior A/C Control Request Signal
+Refrigerant Gas Pressure Sensor
+Signal
+A/C Amplifier Combination Meter CAN Outside Temperature Data
+A/C Amplifier DLC3 CAN Diagnostic Tool Response
+A/C Amplifier A/C Control Assembly LIN A/C Operating State Signal
+Auto Dimmer Signal
+Destination Package
+Main Body ECU A/C Amplifier CAN
+Destination Symbol Steering
+Wheel
+Combination Meter A/C Amplifier CAN Vehicle Speed Signal

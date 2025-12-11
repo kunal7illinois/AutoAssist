@@ -1,0 +1,19 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-507
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+• The ECM (terminal 13, 26) <M/T> or PCM (termi- • Malfunction of the MFI relay.
+nals 42, 48) <A/T> is grounded to the vehicle • Improper connector contact, open circuit or short-
+body. circuited harness wire.
+• Disconnected ECM <M/T> or PCM <A/T> ground
+. TROUBLESHOOTING HINTS (The most likely wire.
+causes for this code to be set are: ) • Malfunction of the ECM <M/T> or PCM <A/T>.
+• Malfunction of the ignition switch.
+DIAGNOSIS
+STEP 1. Check connector A-18X at MFI relay for damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-18X
+YES : Go to Step 2.
+MFI RELAY NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK101363AB
+TSB Revision

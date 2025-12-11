@@ -1,0 +1,55 @@
+42-84 BODY
+KEYLESS ENTRY SYSTEM
+SECRET CODE REGISTRATION METHOD
+M1428001000054
+Each individual secret code is registered inside the transmitter,
+and so it is necessary to resister these codes with the
+EEPROM inside the receiver in the following cases.
+• When the transmitter or ETACS-ECU is replaced
+• If more transmitters are to be used
+• If it appears that a problem is occurring because of faulty
+registration of a code.
+A maximum of four different codes can be stored in the
+EEPROM memory (four different transmitters can be used).
+When the code for the first transmitter is registered, the previ-
+ously registered codes for all transmitters are cleared. There-
+fore, if you are using four transmitters or are adding more
+transmitters, the codes for all transmitters must be registered at
+the same time.
+1. Check that the doors lock normally when the key is used.
+2. Insert the ignition key.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to "LOCK" (OFF) position before connect-
+ing or disconnecting scan tool MB991502.
+16 PIN
+MB991502
+AC000510AB
+3. Connect the scan tool to the data link connector. If the scan
+tool is not used, ground terminal (1) of the data link
+connector.
+NOTE: This will connect terminal (1) of the data link connec-
+tor to ground, and the system will be in secret code registra-
+tion standby mode.
+GROUND
+DATALINK
+CONNECTOR
+AC000511AB
+4. Press the hazard switch six times within 10 seconds.
+MUT-II CONNECTED NOTE: At this time the code registration monitor request is
+output (all doors locked and unlocked) and becomes regis-
+tration mode.
+WITHIN 10 SECONDS
+NOTE: The hazard warning light switch is turned on and off
+alternately whenever it is pushed.
+1 2 3 4 5 6
+ON 5. Press the transmitter switch, and then press it two times
+HAZARD
+within 10 seconds of the first press. This will register the
+SWITCH
+OFF
+code.
+ACX00571AB
+6. When registration is completed, the code registration
+monitor request is output (all doors locked and unlocked).
+TSB Revision

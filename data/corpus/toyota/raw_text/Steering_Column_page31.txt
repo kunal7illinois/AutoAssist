@@ -1,0 +1,57 @@
+SR–29
+STEERING COLUMN – ELECTRIC STEERING LOCK
+(c) Select the item below in the DATA LIST, and read its
+value displayed on the intelligent tester.
+SMART ACCESS
+Item Measurement Item / Range (Display) Normal Condition
+YES: Steering lock / unlock signal
+Steering lock command reception record / received
+LCK/UNLCK REC
+YES or NO NO: Steering lock / unlock signal not
+received
+(d) Check if steering unlock command signal has been
+received.
+OK:
+"YES" is displayed on the tester display.
+NG CHECK SMART ACCESS SYSTEM WITH
+PUSH-BUTTON START
+OK
+3 INSPECT STEERING LOCK ACTUATOR ASSEMBLY (STEERING LOCK ECU)
+(a) Measure the voltage according to the value(s) in the
+Steering Lock Actuator Assembly:
+table below.
+Standard voltage
+SR
+Tester connection
+Condition Specified condition
+(Symbols)
+E51
+• Motor activated:
+1. Engine switch off
+E51-3 (IGE) - E51-1 Below 1 V
+2. Turn the engine
+(GND) • Motor not activated:
+IGE GND switch on (ACC or IG)
+10 to 12 V
+C106483E22
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+NG
+4 CHECK HARNESS AND CONNECTOR (STEERING LOCK ACTUATOR ASSEMBLY - BODY
+GROUND)
+(a) Disconnect the E51 connector from the steering lock
+Steering Lock Actuator Assembly:
+actuator assembly.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+E51 GND Tester connection
+Condition Specified condition
+(Symbols)
+E51-1 (GND) - Body
+Always Below 1 Ω
+ground
+C106484E28
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK

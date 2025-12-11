@@ -1,0 +1,25 @@
+SR–9
+STEERING COLUMN – ELECTRIC STEERING LOCK
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+The intelligent tester can be used at steps 2, 6, 9 and 12.
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 CHECK AND CLEAR DTCS
+NEXT
+3 PROBLEM SYMPTOM CONFIRMATION
+SYMPTOM DOES NOT OCCUR (Go to step 4)
+SYMPTOM OCCURS (Go to step 5)
+SR
+4 SYMPTOM SIMULATION
+NEXT
+5 CHECK CAN COMMUNICATION SYSTEM
+HINT:
+Check that there are no problems in the CAN communication
+system before troubleshooting the steering lock system.
+NEXT
+6 DTC CHECK
+DTC IS NOT OUTPUT (Go to step 7)
+DTC IS OUTPUT (Go to step 8)
+7 PROBLEM SYMPTOMS TABLE
+Go to step 9

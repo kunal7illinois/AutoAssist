@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Fig. 78: Measuring Voltage Between Transmission Range Switch
+Connector Terminals No. 1 And No. 10
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there battery voltage?
+YES -Go to step 57.
+NO -Go to step 46.
+46. Turn the ignition switch to LOCK (0).
+47. Jump the SCS line with the HDS.
+48. Disconnect PCM connector B (44P).
+49. Check for continuity between PCM connector terminal B22 and body ground.
+Fig. 79: Checking Continuity Between PCM Connector Terminal B22 And
+Body Ground
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES -Repair short to body ground in the wire between PCM connector
+terminal B22 and the transmission range switch, then go to step 50.
+NO -Go to step 57.
+50. Reconnect all connectors.
+51. Turn the ignition switch to ON (II).

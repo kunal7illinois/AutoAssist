@@ -1,0 +1,56 @@
+Audi TT No. 47 / 13
+Current Flow Diagram
+Onboard supply control unit, operating unit in front of centre
+console
+E127 Adjustable rear spoiler switch
+E229 Hazard warning lights button
+E256 TCS and ESP button
+E461 Operating unit in front of centre console
+J104 ABS control unit
+J519 Onboard supply control unit
+K6 Hazard warning light system warning lamp
+K242 Rear spoiler position warning lamp
+L156 Switch illumination bulb
+T16b 16-pin connector, brown, on switch module centre console
+T47 47-pin connector, on ABS control unit
+T52a 52-pin connector, black, on onboard supply control unit
+T52b 52-pin connector, yellow, on onboard supply control unit
+T52c 52-pin connector, brown, on onboard supply control unit
+394 Earth connection 29, in main wiring harness
+* models with adjustable rear spoiler
+J519
+T52c/7 T52b/24 T52a/35 T52b/14
+J104
+T47/3
+ 
+0,35 0,35 0,35 0,35 0,35
+br/ro gn/ro li/ge sw/bl gr/ge
+T16b/3 T16b/11 T16b/10 T16b/12 T16b/6
+E229 K6 E256 E127 K242
+L156 a
+b
+T
+31
+16b/2 T16b/7 T
+58
+1
+s
+6b/1 T
+31
+16b/16 E461
+330099
+0,35 0,5 0,35 0,35 0,35 ws = white
+br sw/ro gr/bl br br sw = black
+ro = red
+3344 112277 br = brown
+gn = green
+394
+bl = blue
+394
+gr = grey
+li = purple
+ge = yellow
+155 156 157 158 159 160 161 162 163 164 165 166 167 168 or = orange
+8J0-047130909
+rs = pink
+Edition 04.2010

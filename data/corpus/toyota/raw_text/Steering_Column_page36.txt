@@ -1,0 +1,21 @@
+SR–34
+STEERING COLUMN – ELECTRIC STEERING LOCK
+Power Source Circuit
+DESCRIPTION
+This circuit supplies voltage from the battery to terminal B of the steering lock ECU. This circuit is used as
+power source for the steering lock CPU, motor, communication, and peripheral circuits.
+WIRING DIAGRAM
+Steering Lock Actuator Assembly
+(Steering Lock ECU)
+7 M+
+FL MAIN STR LOCK
+E51 B
+M-
+SR 2 LK+
+E51 SGND
+LK-
+1 ULK+
+E51 GND
+ULK-
+Battery
+C113504E01

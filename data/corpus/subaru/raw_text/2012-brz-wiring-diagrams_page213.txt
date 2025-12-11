@@ -1,0 +1,34 @@
+: Parts Location
+Code See Page Code See Page Code See Page
+A9 A 42 A75 A 36, 39 D9 B 40
+A10 B 42 D3 40 D16 A 40
+A40 39 D5 B 40 D17 B 40
+A62 39 D6 C 40 D50 A 41
+A73 A 42 D8 A 40
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 24 Engine Room R/B (Engine Compartment Right)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+1B
+24 Engine Room Main Wire and Engine Room J/B (Engine Compartment Right)
+1C
+3A
+26 Instrument Panel Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+3B
+3C
+26 Engine Room Main Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+3E
+: Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+AD1 47 Engine Room Main Wire and Instrument Panel Wire (Cowl Side Panel RH)
+AD2 47 Engine Room Main Wire and Instrument Panel Wire (Instrument Panel Reinforcement)
+: Ground Points
+Code See Page Ground Points Location
+A3 47 Cowl Side Panel LH
+A7 46 Front Fender Apron RH
+D1 47 Cowl Side Panel LH
+D3 47 Instrument Panel Brace RH
+D4 47 Cowl Side Panel RH
+213
+BRZ (G4400BE)

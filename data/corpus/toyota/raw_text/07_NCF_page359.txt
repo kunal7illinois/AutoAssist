@@ -1,0 +1,24 @@
+BODY ELECTRICAL - METER BE-25
+METER
+(cid:4)COMBINATION METER
+1. General
+(cid:3) An optitron display type combination meter is used on XLE and LE grade models. The optitron display
+type meter realizes excellent visibility through the use of smoke acrylic in the protective panel, and bright
+LEDs (Light Emitting Diodes) that have high contrast to illuminate the indicator and the dial.
+(cid:3) A multi-information display is provided on the speedometer on XLE grade models.
+(cid:3) A meter ECU and buzzer are enclosed in the combination meter. This ECU maintains communication with
+other ECUs through the CAN (Controller Area Network).
+(cid:3) Illumination control, which turns on the combination meter illumination at different time intervals when
+the power source* is switched to IG-ON, has been provided.
+(cid:3) A step-motor type movement is used to actuate the indicators of the speedometer, the fuel gauge, the
+engine coolant temperature gauge and the tachometer.
+*: The power source condition can be changed by operating the engine switch on models with the smart key
+system, and the ignition switch on models without the smart key system.
+Multi-information Display
+025BE13Y
+XLE Grade Models with 2GR-FE Engine for U.S.A.
+LE Grade Models with 2GR-FE Engine for U.S.A.
+025BE52Y
+Service Tip
+If the LEDs malfunction, the entire combination meter assembly must be replaced. Refer to the 2007
+Camry Repair Manual (Pub. No. RM0250U).

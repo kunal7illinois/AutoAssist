@@ -1,0 +1,40 @@
+ST–36
+2GR-FE STARTING – SMART KEY SYSTEM
+DTC B2272 Ignition 1 Monitor Malfunction
+DESCRIPTION
+This DTC is output when there is a problem in the IG1D output circuit, which is from the inside of the main
+body ECU to the IG1 relay.
+HINT:
+When the main body ECU is replaced with a new one and the negative (-) battery terminal is connected,
+the power source mode becomes the IG-ON mode. When the battery is removed and reinstalled, the
+power source mode that was selected when the battery was removed is restored.
+After the main body ECU is replaced, perform the registration procedures for the engine immobiliser
+system (See page EI-8).
+DTC No. DTC Detection Condition Trouble Area
+• Main body ECU
+IG1 relay actuation circuit inside main body ECU or
+B2272 • IG1 relay
+other related circuit is malfunctioning
+• Wire harness or connector
+WIRING DIAGRAM
+Instrument Panel J/B Main Body ECU
+IG1 Relay
+10 9 3
+1 2
+IF II E7 IG1D
+GAUGE No. 1
+1
+3 5
+IA
+ECU IG No. 1
+WIP
+WASH From Battery
+To Each System
+A/C No. 2
+S-HTR
+ECU IG No. 2
+B137972E01
+ST
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.

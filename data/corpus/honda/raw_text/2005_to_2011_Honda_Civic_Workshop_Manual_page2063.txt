@@ -1,0 +1,20 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+YES -Go to step 5.
+NO -Check for loose terminals or poor connections. If the connections are
+good, the system is OK at this time.
+5. Check for DTCs with the HDS.
+Is DTC 71-01, 71-02, 71-03, 71-05 or 71-06 indicated?
+YES -Go to step 6.
+NO -Troubleshoot the indicated DTC. If there are no DTCs, the system is OK
+at this time.
+6. Turn the ignition switch to LOCK (0).
+7. Disconnect EPS control unit connector D (28P).
+8. Measure the resistance between the following terminals of EPS control unit
+connector D (28P).
+Fig. 50: Measuring Resistance Between Following Terminals Of EPS
+Control Unit Connector D (28P)
+Is the resistance between R1-R2 13-25 ohms, S1-S3 26-49 ohms, and S2-S4 26-
+49 ohms?
+YES -Go to step 9.

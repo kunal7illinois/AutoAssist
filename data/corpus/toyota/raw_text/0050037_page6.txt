@@ -1,0 +1,42 @@
+ES–222
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1 CONFIRM DTC AND EVAP PRESSURE
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON (do not start the engine).
+(c) Turn the tester ON.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(e) Read DTCs.
+(f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / EVAP / EVAP VAPOR
+PRESS.
+ES (g) Read the EVAP (Evaporative Emission) pressure
+displayed on the tester.
+Result
+Display (DTC
+Test Results Suspected Trouble Areas Proceed To
+Output)
+P0451 - Canister pressure sensor C
+• Wire harness/connector (ECM - Canister
+pressure sensor)
+P0452 Less than 45 kPa-a (430 mmHg-a) A
+• Canister pressure sensor
+• Short in ECM circuit
+• Wire harness/connector (ECM - Canister
+pressure sensor)
+P0453 More than 120 kPa-a (900 mmHg-a) B
+• Canister pressure sensor
+• Open in ECM circuit
+B Go to step 4
+C GO TO EVAP SYSTEM
+A
+2 CHECK HARNESS AND CONNECTOR (CANISTER PUMP MODULE - ECM)
+(a) Turn the ignition switch OFF.
+Wire Harness Side:
+(b) Disconnect the B30 ECM connector.
+(c) Measure the resistance between PPMP terminal of the
+ECM connector and the body ground.
+B30 ECM Connector
+Front View
+PPMP
+A107892E44

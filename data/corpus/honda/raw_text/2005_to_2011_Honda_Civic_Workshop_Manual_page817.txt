@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+YES -Go to step 9.
+NO -Follow the instructions indicated on the HDS by the test result. Go to step
+12 if any part is replaced.
+9. Test-drive the vehicle on a level road with a steady throttle at 60 mph (96
+km/h) for at least 20 seconds.
+10. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 9, then go
+to step 11.
+11. Monitor the OBD STATUS for P0741 in the DTCs MENU with the HDS.
+Does the HDS indicate FAILED?
+YES -Repair the faulty torque converter clutch mechanism, the torque
+converter clutch hydraulic circuit, the lock-up shift valve, or the lock-up
+control valve, or replace the transmission, then go to step 15.
+NO -If the HDS indicates PASSED, intermittent failure, the system is OK at
+this time. If the HDS indicates NOT COMPLETED, go to step 9.
+12. Reconnect all connectors.
+13. Turn the ignition switch to ON (II).
+14. Clear the DTC with the HDS.
+15. Test-drive the vehicle on a level road with a steady throttle at 60 mph (96
+km/h) for at least 20 seconds, or test-drive the vehicle for several minutes
+under the same condition as those indicated by the freeze data.
+16. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 15, then go
+to step 17.
+17. Check for DTCs with the HDS.
+Is DTC P0741 indicated?
+YES -Go to step 5.
+NO -Go to step 18.

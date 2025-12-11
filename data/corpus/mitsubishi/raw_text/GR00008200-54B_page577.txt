@@ -1,0 +1,43 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-577
+SYMPTOM PROCEDURES
+STEP 2. Measure at hood switch connector A-23 in order to
+check the ground circuit to the hood switch.
+(1) Disconnect hood switch connector A-23, and measure at
+CONNECTOR: A-23
+the wiring harness side.
+DEVICE SIDE
+1 2
+AC106465AB
+(2) Measure the resistance value between terminal 1 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR A-23
+(HARNESS SIDE) Q:Does the measured resistance value correspond with
+this range?
+YES : Go to Step 5.
+NO : Go to Step 3.
+AC003418AC
+STEP 3. Check hood switch connector A-23 for damage.
+Q:Is hood switch connector A-23 in good condition?
+CONNECTOR: A-23
+YES : Go to Step 4.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. If the
+theft-alarm system operates normally, it indicates that
+a correct signal is sent from the hood switch.
+DEVICE SIDE
+1 2
+AC106465AB
+STEP 4. Check the wiring harness between hood switch
+connector A-23 (terminal 1) and ground.
+Q:Is the wiring harness between hood switch connector A-
+CONNECTOR: A-23
+23 (terminal 1) and the ground in good condition?
+YES : No action to be taken.
+NO : Repair the wiring harness. If the theft-alarm system
+operates normally, it indicates that a correct signal is
+sent from the hood switch.
+DEVICE SIDE
+1 2
+AC106465AB
+TSB Revision

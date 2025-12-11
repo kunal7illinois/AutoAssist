@@ -1,0 +1,48 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-407
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 14. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0507 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0513: Immobilizer Malfunction
+. Judgment Criteria
+TECHNICAL DESCRIPTION
+• ECM <M/T> or PCM <A/T> monitors the commu- • When the communication error between ECM
+<M/T> or PCM <A/T> and the immobilizer-ECU
+nication condition with the immobilizer-ECU and
+continues for 2 seconds or more.
+the message from the immobilizer-ECU, and
+when the abnormality is found, ECM <M/T> or
+.
+PCM <A/T> makes the engine not to start. TROUBLESHOOTING HINTS (The most likely
+causes for this code to be set are: )
+. DTC SET CONDITIONS • Malfunction of harness or connector.
+• Malfunction of immobilizer-ECU.
+Check Conditions
+• Malfunction of ECM <M/T> or PCM <A/T>.
+• Ignition switch: ON
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, read the immobilizer
+diagnostic trouble code (DTC).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Read the immobilizer system-DTC.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the immobilizer system-DTC is output?
+MB991502 YES : Refer to GROUP 54A, Ignition Switch and
+AKX01177AB Immobilizer System − Diagnostic Trouble Code Chart
+P.54A-11.
+NO : If DTC P0513 is output again after the MFI-DTC has
+been erased, replace the ECM <M/T> or PCM <A/T>.
+Then check that the DTC P0513 does not reset.
+TSB Revision

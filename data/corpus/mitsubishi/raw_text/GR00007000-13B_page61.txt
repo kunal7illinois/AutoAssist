@@ -1,0 +1,41 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-61
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 9. Check for open circuit between barometric
+pressure sensor connector B-14 terminal 5 and ECM
+connector C-51 terminal 34 <M/T> or PCM connector C-52
+terminal 16 <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-14
+YES : Replace the ECM or PCM. Then go to Step 12.
+NO : Repair it. Then go to Step 12.
+BAROMETRIC
+PRESSURE
+SENSOR
+ACX02480AF
+CONNECTOR : C-51<M/T>, C-52<A/T>
+PCM<A/T> ECM<M/T>
+C-52 C-51
+AK000225AJ
+STEP 10. Check connector B-14 at barometric pressure
+sensor for damage.
+Q:Is the connector in good condition?
+CONNECTOR : B-14
+YES : Go to Step 11.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+BAROMETRIC
+PRESSURE
+SENSOR
+ACX02480AF
+STEP 11. Check connector C-51 at ECM <M/T> or
+connector C-52 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-51<M/T>, C-52<A/T>
+YES : Replace the volume air flow sensor. Then go to Step
+12.
+PCM<A/T> ECM<M/T>
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+C-52 C-51
+AK000225AJ
+TSB Revision

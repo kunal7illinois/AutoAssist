@@ -1,0 +1,50 @@
+13B-270 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Check the sensor supply voltage at ECM
+connector C-62 <M/T> or PCM connector C-55 <A/T> by
+backprobing.
+(1) Do not disconnect the ECM connector C-62 <M/T> or PCM
+connector C-55 <A/T>.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 96 <M/T> or terminal
+<M/T>
+51 <A/T> and ground by backprobing.
+C-62 CONNECTOR • When fuel temperature is 0°C (32°F), voltage should be
+HARNESS SIDE VIEW
+2.7 and 3.1 volts.
+7172 7374 75 76 7777
+7879808182838485868788 89 9900 • When fuel temperature is 20°C (68°F), voltage should
+919293 9495 969798 99 110000 be 2.1 and 2.5 volts.
+• When fuel temperature is 40°C (104°F), voltage should
+be 1.6 and 2.0 volts.
+• When fuel temperature is 80°C (176°F), voltage should
+be 0.8 and 1.2 volts.
+AK101408AC (4) Turn the ignition switch to the "LOCK" (OFF) position.
+<A/T> Q:Is the voltage normal?
+YES : Go to Step 7.
+NO : Go to Step 8.
+41 4243 444546
+47 48495051525354555657
+58 59 60616263 646566
+C-55 CONNECTOR
+HARNESS SIDE VIEW
+AK101075AG
+STEP 7. Check connector C-62 at ECM <M/T> or connector
+C-55 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS : C-62<M/T>, C-55<A/T>
+YES : Check connector C-28 and C-90 at intermediate
+connector for damage, and repair or replace as
+PCM<A/T> ECM<M/T>
+required. Refer to GROUP 00E, Harness Connector
+Inspection P.00E-2. If intermediate connector are in
+good condition, repair harness wire between fuel
+gauge unit connector D-17 terminal 3 and ECM
+connector C-62 terminal 96 <M/T> or PCM connector
+C-55 terminal 51 <A/T> because of open circuit. Then
+C-55 C-62
+go to Step 12.
+AK000225AP
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 12.
+TSB Revision

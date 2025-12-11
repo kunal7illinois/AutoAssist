@@ -1,0 +1,48 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-335
+SYMPTOM PROCEDURES
+CONNECTORS: C-108, C-113
+CONNECTOR: C-118
+JUNCTION BLOCK
+JUNCTION BLOCK
+(FRONT VIEW)
+(REAR VIEW)
+C-113
+C-108
+AC106479AO AC106481AE
+. .
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINTS
+If the high-beam indicator light does not illuminate, • Malfunction of the high-beam indicator light bulb
+the high-beam indicator light bulb or the ETACS- • Malfunction of the ETACS-ECU
+ECU may be defective. • Damaged harness wires or connectors
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+STEP1. Check the headlight operation.
+Q:Do the headlights illuminate?
+YES : Go to Step 2.
+NO : Repair the headlights first (Refer to P.54B-274).
+STEP 2. Check at ETACS-ECU connector C-118 in order to
+check the high-beam indicator light circuit.
+(1) Disconnect ETACS-ECU connector C-118, and measure at
+CONNECTOR: C-118
+the wiring harness side.
+DEVICE SIDE
+(2) Turn the ignition switch to the "ON" position.
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+(3) Connect terminal 72 to ground.
+CONNECTOR: C-118
+Q:Does the high-beam indicator light illuminate?
+(HARNESS SIDE)
+YES : Replace the ETACS-ECU. Check that the high-beam
+indicator light illuminates normally.
+59 58 57565554535251
+NO : Go to Step 3.
+68 67 66656463626160
+74 73 72 717069
+AC101936AD
+TSB Revision

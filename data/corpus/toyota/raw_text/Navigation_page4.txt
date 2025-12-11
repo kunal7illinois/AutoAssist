@@ -1,0 +1,35 @@
+NS–4
+NAVIGATION – NAVIGATION SYSTEM
+2. Navigation system outline
+(a) Vehicle position tracking methods
+It is essential that the navigation system correctly
+tracks the current vehicle position and displays it on
+the map. There are 2 methods to track the current
+vehicle position: autonomous (dead reckoning) and
+GPS* (satellite) navigation. Both navigation
+methods are used in conjunction with each other.
+*GPS (Global Positioning System)
+GPS satellite
+Location by autonomous
+navigation
+Navigation
+Gyro Sensor
+GPS Antenna
+Location by
+GPS navigation ECU
+Vehicle Speed Sensor
+Radio and Navigation Assembly
+GPS Antenna
+Receive satellite radio wave Detect the measurement position GPS correction
+Vehicle Speed Sensor
+Detect vehicle running
+distance Create the current vehicle
+position tracking data
+Detect direction change Navigation screen
+Gyro Sensor
+Map matching correction Map and current vehicle position
+data processing
+NS
+Map disc Map scrolling
+Map scale switching
+E120052E01

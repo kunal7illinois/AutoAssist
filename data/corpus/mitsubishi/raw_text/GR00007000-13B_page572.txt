@@ -1,0 +1,39 @@
+13B-572 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Using scan tool MB991502, check actuator test
+items 01, 02, 03, 04, 05, 06: Injector.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Check following items in the actuator test. Refer to, Actuator
+Test Reference Table P.13B-654.
+16 PIN a. Item 01, 02, 03, 04, 05, 06: Injector.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AKX01177AB Q:Is the actuator operating properly?
+YES : Go to Step 5.
+NO : Refer to, DTC P0201, P0203, P0205 − Injector Circuit
+P.13B-283, DTC P0202, P0204, P0206 − Injector
+Circuit P.13B-292.
+STEP 5. Checking by operating the accelerator pedal.
+Q:Does the engine stall right after the accelerator pedal is
+released?
+YES : Refer to, Clean the throttle valve area P.13B-677.
+NO : Go to Step 6.
+STEP 6. Engine stall reproduction test.
+Q:Is it easy to reproduce the engine stall?
+YES : Go to Step 7.
+NO : Check if the following signals change suddenly by
+wiggling the circuit harness and connectors.
+a. Crankshaft position sensor signal.
+b. Volume air flow sensor signal.
+c. Injector drive signal.
+d. Primary and secondary ignition signal.
+e. Fuel pump drive signal.
+f. PCM or ECM power supply voltage.
+Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+TSB Revision

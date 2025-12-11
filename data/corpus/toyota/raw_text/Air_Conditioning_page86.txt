@@ -1,0 +1,31 @@
+AC–86
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+Air Mix Damper Control Servo Motor Circuit
+DTC B1446/46
+(Driver Side)
+DESCRIPTION
+The air mix damper servo sends pulse signals to inform the air conditioning amplifier of the damper
+position. The air conditioning amplifier activates the motor (normal, reverse) based on the signals to move
+the air mix damper (driver seat) to any position. As a result, the amount of air passing through the heater
+core after passing through the evaporator is adjusted, and the temperature of the air blowing toward the
+driver seat side is controlled.
+HINT:
+Confirm that no mechanical problem is present because this diagnostic code can be output when either a
+damper link or damper is mechanically locked.
+DTC No. DTC Detection Condition Trouble Area
+Air mix damper position sensor value does not change • Air mix control servo motor
+B1446/46 even if air conditioning amplifier operates air mix control • Air conditioning harness
+servo motor • Air amplifier
+WIRING DIAGRAM
+Air Mix Control
+Air Conditioning Harness
+Servo Motor
+A/C Amplifier
+AC
+4
+e1 BBUS
+3
+e1 BUS
+2
+e1 BUSG
+E116879E09

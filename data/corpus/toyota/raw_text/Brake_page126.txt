@@ -1,0 +1,54 @@
+BC–120
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+CHECK FOR INTERMITTENT
+PROBLEMS
+1. CHECK FOR INTERMITTENT PROBLEMS
+HINT:
+A momentary interruption (open circuit) in the connectors
+and/or wire harness between the sensors and ECUs can
+be detected using the ECU Data List function of the
+intelligent tester.
+(a) Turn the ignition switch off and connect the
+intelligent tester to the DLC3.
+BC
+DLC3
+Intelligent Tester
+C131977E06
+(b) Turn the ignition switch on (IG). Follow the
+directions on the intelligent tester to display the Data
+Harness Signal:
+List and select areas where momentary interruption
+should be monitored.
+OK HINT:
+• A momentary interruption (open circuit) cannot
+Momentary
+be detected for 3 seconds after the ignition
+interruption
+switch is turned on (IG) (initial check).
+1 sec. 1 sec. 1 sec.
+• If the status remains on (ERROR displayed),
+check the continuity between the ECU and the
+Intelligent Tester Display: sensors, or between ECUs.
+• The ERROR display on the intelligent tester
+ERROR remains on for 1 second after the harness signal
+NORMAL changes from momentary interruption (open
+circuit) to normal condition.
+C106657E02
+Measurement Item /
+Item (Display) Normal Condition Diagnostic Note
+Range (Display)
+FR speed sensor open detection / ERROR: Momentary interruption
+FR SPD OPN -
+ERROR or NORMAL NORMAL: Normal
+FL speed sensor open detection / ERROR: Momentary interruption
+FL SPD OPN -
+ERROR or NORMAL NORMAL: Normal
+RR speed sensor open detection ERROR: Momentary interruption
+RR SPD OPN -
+/ ERROR or NORMAL NORMAL: Normal
+RL speed sensor open detection / ERROR: Momentary interruption
+RL SPD OPN -
+ERROR or NORMAL NORMAL: Normal
+EFI communication open ERROR: Momentary interruption
+EFI COM OPN -
+detection / ERROR or NORMAL NORMAL: Normal

@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Gauges - Civic (All Except Hybrid)
+Error 12 F-CAN and B-CAN communication
+Error 13 F-CAN and B-CAN communication
+Error 23 F-CAN and B-CAN communication
+Error 123 F-CAN and B-CAN communication
+Example Indication
+Fig. 6: Example Of Indication
+If the word "Error 1" is indicated, there is a malfunction in the communication
+(cid:1)
+line between the gauge control module (tach) and the fast-controller area
+network (F-CAN). Check for DTCs in the ECM/PCM and troubleshoot any
+DTCs found. If no DTCs are found, go to indicated troubleshooting.
+If the word "Error 2" is indicated, there is a malfunction in the communication
+(cid:1)
+line between the gauge control module (tach) and the body-controller area
+network (B-CAN). Go to troubleshooting DTC B1155 to DTC B1160 .
+4-door: the word "Error 3" is indicated, there is a malfunction in the UART
+(cid:1)
+communication line between the gauge control module (tach) and the gauge
+control module (speedo). Go to GAUGE CONTROL MODULE (TACH)
+INPUT TEST and check the No. 20 terminal . If the wire harness is OK,
+substitute a known-good gauge control module (speedo) and recheck.
+If any F-CAN or B-CAN communication line errors are found, go to DTC check
+using HDS .
+ENDING THE SELF-DIAGNOSTIC FUNCTION
+Turn the ignition switch OFF.
+NOTE: If the vehicle speed exceeds 1.2 mph (2 km/h), the self-

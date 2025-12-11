@@ -1,0 +1,44 @@
+17-64 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+STEP 4. Check the output circuit voltage at auto-cruise
+control-ECU connector C-20 (terminal number 13) by
+backprobing.
+(1) Do not disconnect auto-cruise control switch connector C-
+20.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 13 and ground by
+backprobing.
+C-20 CONNECTOR • Voltage should be battery positive voltage.
+HARNESS SIDE VIEW
+(When select lever is in a position other than "N"
+range.)
+1 2 3 4 5 6 7 8
+• Voltage should be 0.5 volts or less.
+9 10111213141516
+(When select lever is in "N" range.)
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage within specifications?
+AC103109AC YES : Check that the malfunction is eliminated.
+If the malfunction is not eliminated, replace the auto-
+cruise control-ECU. (Refer to P.17-86.)
+Then check that the malfunction is eliminated.
+NO : Go to Step 5.
+STEP 5. Check auto-cruise control-ECU connector C-20.
+Q:Is the connector damaged?
+CONNECTOR: C-20
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that the malfunction is eliminated.
+NO : Go to Step 6.
+AC001451AB
+STEP 6. Check intermediate connector C-28.
+Q:Is the connector damaged?
+CONNECTOR: C-28
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that the malfunction is eliminated.
+NO : Go to Step 7.
+AC101201AB
+TSB Revision

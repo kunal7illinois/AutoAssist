@@ -1,0 +1,51 @@
+BC–189
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+2 INSPECT SKID CONTROL ECU (+BS TERMINAL)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU Harness Side
+(b) Measure the voltage according to the value(s) in the
+Connector Front View:
+table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+A26-31 (+BS) - Body ground Always 10 to 14 V
+A26
+NG REPAIR OR REPLACE HARNESS OR
++BS
+CONNECTOR (+BS CIRCUIT)
+F049362E96
+OK
+3 INSPECT SKID CONTROL ECU (GND TERMINAL)
+BC
+(a) Measure the resistance according to the value(s) in the
+Skid Control ECU Harness Side
+table below.
+Connector Front View:
+Standard resistance
+Tester Connection Condition Specified Condition
+A26-32 (GND1) - Body ground Always Below 1 Ω
+A26-1 (GND2) - Body ground Always Below 1 Ω
+A26
+NG REPAIR OR REPLACE HARNESS OR
+GND2 GND1 CONNECTOR (GND CIRCUIT)
+F049362E97
+OK
+4 RECONFIRM DTC
+(a) Reconnect the skid control ECU connector.
+(b) Clear the DTC (See page BC-141).
+(c) Start the engine.
+(d) Drive the vehicle at the speed of 4 mph (6 km/h) or more.
+(e) Check if the same DTC is recorded (See page BC-141).
+Result
+Condition Proceed to
+DTCs (C0278/11 and/or C0279/12) are not output A
+DTCs (C0278/11 and/or C0279/12) are output B
+HINT:
+• If a speed signal of 4 mph (6 km/h) or more is input to
+the skid control ECU, with the ignition switch on (IG)
+and the stop light switch off, the ECU performs self
+diagnosis of the motor and solenoid circuits.
+• If the normal system code is output (the trouble code
+is not output), slightly jiggle the connectors, wire
+harnesses, and fuses of the brake actuator assembly.
+Make sure that no DTCs are output.

@@ -1,0 +1,40 @@
+BC–259
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+1 CHECK CAN COMMUNICATION SYSTEM
+(a) Check if the CAN communication system DTC is output
+(See page CA-25).
+Result
+Condition Proceed to
+DTC is not output A
+DTC is output B
+B INSPECT CAN COMMUNICATION SYSTEM
+A
+2 CHECK BRAKE WARNING LIGHT
+(a) Disconnect the skid control ECU connector. BC
+(b) Turn the ignition switch on (IG).
+(c) Check that the BRAKE warning light comes on.
+OK:
+The BRAKE warning light comes on.
+HINT:
+If troubleshooting has been carried out according to the
+Problem Symptoms Table, refer back to the table and
+proceed to the next step before replacing the part (See
+page BC-134).
+OK REPLACE BRAKE ACTUATOR ASSEMBLY
+NG
+3 INSPECT COMBINATION METER ASSEMBLY
+(a) Turn the ignition switch off.
+(b) Reconnect the skid control ECU connector.
+(c) Perform Active Test of the combination meter (meter
+CPU) using the intelligent tester (See page ME-32).
+OK:
+The BRAKE warning light turns on or off in
+accordance with the intelligent tester.
+HINT:
+If troubleshooting has been carried out according to the
+Problem Symptoms Table, refer back to the table and
+proceed to the next step (See page BC-134).
+NG REPLACE COMBINATION METER
+ASSEMBLY
+OK
+REPLACE BRAKE ACTUATOR ASSEMBLY

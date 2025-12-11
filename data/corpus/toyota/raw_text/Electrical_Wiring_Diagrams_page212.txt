@@ -1,0 +1,43 @@
+System Outline
+1. Manual Down or Up Operation
+When the power window master SW is pushed one step, the motor rotates to open the window.
+When the power window master SW is pulled up one step, the motor rotates in the opposite direction, to close the window.
+All the other windows can be opened/closed as well, by the operation of the power window master SW or respective power
+window SW.
+2. Auto Down or Up Operation
+When the power window master SW is pushed two steps, the motor rotates to open the window automatically.
+When the power window master SW is pulled up two steps, the motor rotates to close the window automatically. (w/ jam
+protection)
+3. Jam Protection Function
+When any foreign object gets caught during power window UP operation, the motor rotates in the opposite direction to open
+the window.
+: Parts Location
+Code See Page Code See Page Code See Page
+E7 B 56 I4 61 A 61
+MM11
+E8 C 56 I5 61 B 61
+E48 57 J1 61 A 60
+NN66
+E49 57 J3 61 B 60
+H4 61 K1 61
+H6 61 K3 61
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+1F 22 Engine Room Main Wire and Engine Room J/B (Engine Compartment Left)
+3D
+3F 333666 IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll WWWiiirrreee aaannnddd JJJ///BBB NNNooo...333 (((BBBeeehhhiiinnnddd ttthhheee CCCooommmbbbiiinnnaaatttiiiooonnn MMMeeettteeerrr)))
+3O
+IA
+3300 EEnnggiinnee RRoooomm MMaaiinn WWiirree aanndd IInnssttrruummeenntt PPaanneell JJ//BB ((CCoowwll SSiiddee LLeefftt))
+ID
+IF
+IJ
+IK 33330000 IIIInnnnssssttttrrrruuuummmmeeeennnntttt PPPPaaaannnneeeellll WWWWiiiirrrreeee aaaannnndddd IIIInnnnssssttttrrrruuuummmmeeeennnntttt PPPPaaaannnneeeellll JJJJ////BBBB ((((CCCCoooowwwwllll SSSSiiiiddddeeee LLLLeeeefffftttt))))
+IL
+IM
+IP 30 Floor Wire and Instrument Panel J/B (Cowl Side Left)
+211
+CAMRY (EM0250U)

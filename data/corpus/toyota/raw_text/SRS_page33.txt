@@ -1,0 +1,62 @@
+RS–33
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Terminal No. Terminal Symbol Destination
+Curtain shield airbag assembly LH (Driver side curtain
+N1-7 ICD+
+shield squib)
+N1-8 BBD+ Side airbag sensor LH
+Front seat side airbag assembly LH (Driver side - side
+N1-9 SFD+
+squib)
+Front seat side airbag assembly LH (Driver side - side
+N1-10 SFD-
+squib)
+Front seat inner belt assembly LH (Driver side seat belt
+N1-11 DBE+
+buckle switch)
+Front seat inner belt assembly LH (Driver side seat belt
+N1-12 DBE-
+buckle switch)
+N1-13 DSP- Seat position airbag sensor
+N1-14 DSP+ Seat position airbag sensor
+N1-15 BBD- Side airbag sensor LH
+Front seat outer belt assembly RH (Front passenger
+O1-4 PP+
+side front pretensioner squib)
+Front seat outer belt assembly RH (Front passenger
+O1-5 PP-
+side front pretensioner squib)
+Front seat side airbag assembly RH (Front passenger
+O1-6 SFP-
+side - side squib)
+Front seat side airbag assembly RH (Front passenger
+O1-7 SFP+
+side - side squib)
+O1-8 BBP+ Side airbag sensor RH
+Curtain shield airbag assembly RH (Front passenger
+O1-9 ICP+
+side curtain shield squib)
+Curtain shield airbag assembly RH (Front passenger
+O1-10 ICP-
+side curtain shield squib)
+O1-11 BBP- Side airbag sensor RH
+O1-12 FSP+ Occupant classification ECU RS
+O1-13 FSP- Occupant classification ECU
+DIAGNOSIS SYSTEM
+CG SG CANH SIL 1. CHECK DLC3
+(a) The ECU uses ISO 15765-4 for communication.
+The terminal arrangement of the DLC3 complies
+with SAE J1962 and matches the ISO 15765-4
+format.
+CANL BAT
+H100769E16
+Symbols (Terminal No.) Terminal Description Condition Specified condition
+SIL (7) - SG (5) Bus "+" line During transmission Pulse generation
+CG (4) - Body ground Chassis ground Always Below 1 Ω
+SG (5) - Body ground Signal ground Always Below 1 Ω
+BAT (16) - Body ground Battery positive Always 10 to 14 V
+CANH (6) - CANL (14) CAN bus line Ignition switch off (*) 54 to 69 Ω
+CANH (6) - BAT (16) HIGH-level CAN bus line Ignition switch off (*) 6 kΩ or higher
+CANH (6) - CG (4) HIGH-level CAN bus line Ignition switch off (*) 200 Ω or higher
+CANL (14) - BAT (16) LOW-level CAN bus line Ignition switch off (*) 6 kΩ or higher
+CANL (14) - CG (4) LOW-level CAN bus line Ignition switch off (*) 200 Ω or higher

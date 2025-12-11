@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Gauges - Civic (All Except Hybrid)
+Are DTCs B1155, B1156, B1157, B1159, B1160, and/or B1188 indicated?
+YES - Faulty MICU; replace the under-dash fuse/relay box (see UNDER-
+DASH FUSE/RELAY BOX ).
+NO - Replace the gauge control module (tach) (see REPLACEMENT).
+DTC B1157: GAUGE CONTROL MODULE LOST COMMUNICATION WITH THE MICU (MICU
+MESSAGE)
+NOTE: If you are troubleshooting multiple DTCs, be sure to follow
+the instructions in B-CAN System Diagnosis Test Mode A
+(see TROUBLESHOOTING - B-CAN SYSTEM DIAGNOSIS
+TEST MODE A ).
+1. Clear the DTCs with the HDS.
+2. Turn the ignition switch OFF, and then back ON (II).
+3. Check for DTCs with the HDS.
+Is DTC B1157 indicated?
+YES - Go to step 5.
+NO - Intermittent failure. The gauge control module is OK at this time. Check
+for loose or poor connections. If the connections are good, check the battery
+condition (see BATTERY TEST ), and the charging system.
+4. Check for DTCs with the HDS.
+Are DTCs B1905 or B1211 also indicated?
+YES - Faulty MICU; replace the under-dash fuse/relay box.
+NO - Replace the gauge control module (tach).
+DTC B1160: GAUGE CONTROL MODULE LOST COMMUNICATION WITH THE MICU
+(DRLOCKSW MESSAGE)

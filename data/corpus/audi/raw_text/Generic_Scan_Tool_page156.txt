@@ -1,0 +1,48 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.20 Heated Oxygen Sensor, Checking
+Note
+Use only gold-plated terminals when servicing terminals in the
+electrical harness connector of the Heated Oxygen Sensor
+(HO2S) -G39/Z19- .
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Wiring diagram.
+Test requirements
+• The Heated Oxygen Sensor (HO2S) -G39- fuse OK.
+• The Oxygen Sensor (O2S) Heater -Z19- before catalytic con‐
+verter OK. (No heater code set).
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• A/C switched off.
+• Ground connections between engine/transmission/chassis
+OK.
+• Exhaust system between catalytic converter and cylinder head
+properly sealed.
+• Coolant Temperature at least 80° C.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Connect scan tool.
+– Start the engine and let it run at idle.
+– Select “Diagnostic mode 6: Check test results of components
+that are not continuously monitored”.
+– Select “Monitor-ID $01: Oxygen sensor monitoring before cat‐
+alytic converter”.
+– Select “Test-ID $83: Dynamic test” .
+– Check the specified values at idle.
+Dynamic test Specified value
+min. max.
+Normal operation 0.350 V ---
+152
+Rep. Gr.ST - Generic Scan Tool

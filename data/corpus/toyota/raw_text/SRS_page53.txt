@@ -1,0 +1,37 @@
+RS–53
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+DTC B1000/31 Center Airbag Sensor Assembly Malfunction
+DESCRIPTION
+The center airbag sensor assembly consists of the airbag sensor, the safing sensor, the drive circuit, the
+diagnosis circuit, the ignition control, etc.
+If the center airbag sensor assembly receives signals from the airbag sensor, it determines whether the
+SRS should be activated.
+DTC B1000/31 is recorded when a malfunction is detected in the center airbag sensor assembly.
+DTC No. DTC Detecting Condition Trouble Area
+B1000/31 Center airbag sensor assembly malfunction Center airbag sensor assembly
+HINT:
+When a trouble code is displayed simultaneously with B1000/31, repair the malfunction indicated by this
+code (except B1000/31) first.
+INSPECTION PROCEDURE
+1 CHECK CENTER AIRBAG SENSOR ASSEMBLY
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+DLC3 DTC 31
+(c) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+(d) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+CG TC (e) Clear the DTCs stored in the memory (See page RS-41).
+RS
+(f) Turn the ignition switch off.
+(g) Turn the ignition switch on (IG), and wait for at least 60
+H041086E03
+seconds.
+(h) Check the DTCs (See page RS-41).
+OK:
+DTC B1000/31 is not output.
+NG REPLACE CENTER AIRBAG SENSOR
+ASSEMBLY (See page RS-441)
+OK
+USE SIMULATION METHOD TO CHECK (See page RS-32)

@@ -1,0 +1,47 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-161
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS:C-60<M/T>,C-54,C-57<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-60
+C-57
+AK000280BD
+. • Heated oxygen sensor (rear) signal voltage has
+CIRCUIT OPERATION
+• A voltage corresponding to the oxygen concen- continued to be 0.15 volt or lower.
+• Engine coolant temperature is higher than 76°C
+tration in the exhaust gas is sent to the ECM (ter-
+(169°F).
+minal 75) <M/T> or PCM (terminal 73) <A/T>
+• Engine speed is higher than 1,200 r/min.
+from the output terminal (terminal 3) of the heated
+• Volumetric efficiency is higher than 25 percent.
+oxygen sensor (rear).
+• Terminal 4 of the heated oxygen sensor (rear) is • Monitoring time: 7 seconds.
+grounded with ECM (terminal 92) <M/T> or PCM Judgment Criteria
+(terminal 57) <A/T>. • Input voltage supplied to the ECM <M/T> or PCM
+<A/T> interface circuit is higher than 4.5 volts
+. TECHNICAL DESCRIPTION when 5 volts is applied to the heated oxygen sen-
+• The output signal of the heated oxygen sensor sor (rear) output line via a resistor.
+(front) is compensated by the output signal of the • The ECM<M/T> or PCM<A/T> monitors for this
+heated oxygen sensor (rear). condition once during the drive cycle.
+• The ECM <M/T> or PCM <A/T> checks for an
+.
+open circuit in the heated oxygen sensor (rear) TROUBLESHOOTING HINTS (The most likely
+output line. causes for this code to be set are: )
+• Heated oxygen sensor (rear) failed.
+. DTC SET CONDITIONS • Open circuit in heated oxygen sensor (rear) out-
+put line.
+Check Conditions
+• Open circuit in heated oxygen sensor (rear)
+• 3 minutes or more have passed since the starting
+ground line.
+sequence was completed.
+• ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991658: Test Harness
+TSB Revision

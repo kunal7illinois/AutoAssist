@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+• Ground connections between engine/transmission/chassis
+OK.
+• Ignition switched OFF.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the engine cover with air filter. Refer to the Repair
+Manual.
+– Disconnect the Camshaft Position Sensor electrical harness
+connector.
+– Switch the ignition on.
+– Using a multimeter, Check the Camshaft Position (CMP) Sen‐
+sor -G40- electrical harness connector terminals 1 to 3 for
+voltage.
+Specified value: about 5.0 V
+– Switch the ignition OFF.
+If the specified value was Not obtained:
+Checking wiring
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Using a multimeter, Check the Camshaft Position (CMP) Sen‐
+sor -G40- electrical harness connector to the Engine Control
+Module (ECM) electrical harness connector T60 for an open
+circuit. Refer to Wiring Diagrams for pin locations.
+Camshaft Position (CMP) Engine Control Module (ECM) elec‐
+Sensor -G40- electrical trical harness connector T60 termi‐
+harness connector termi‐ nals or test box sockets
+nals
+1 26
+2 44
+3 52
+Specified value: 1.5 Ω Max.
+If the specified value was Not obtained:
+– Check the wiring connection for an open circuit, short circuit
+to Battery (+) or Ground.
+– Check the wiring connection for damage, corrosion, loose or
+broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is found in the wiring and voltage supply was
+OK:
+– Replace the Camshaft Position (CMP) Sensor -G40- .
+If no malfunction is found in the wiring and voltage supply was not
+OK:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Install the engine cover with air filter. Refer to the Repair Man‐
+ual.
+183
+3. Diagnosis and Testing

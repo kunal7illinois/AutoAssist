@@ -1,0 +1,89 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0106 Manifold NOTE: The • Difference • No BARO, CMP, • 2.5 • multiple
+Absolute BARO sensor is manifold pres‐ Throttle, EVAP, or Sec
+Pressure to an internal part of sure - lower IAT codes set • 2 DCY
+Barometric the ECM and is threshold mod‐ • 3.5
+Pressure not repairable. If el < 0. Model • Time after engine Sec • Continu‐
+Circuit the BARO read‐ range 45 to 845 start < 25 Sec. ous
+Range/Per‐ ing is off by more hPa • Engine speed < • 2 DCY
+formance than 10%, re‐
+place the ECM. • Difference 330 RPM
+Refer to the Re‐ manifold pres‐
+pair Manual. sure - upper
+– Check the threshold mod‐
+⇒ “3.5.11 In‐ el > 0. Model
+take Air Tem‐ range 640 -
+perature Sen‐ 1055
+sor and Mani‐
+• Difference. alti‐
+fold Absolute
+tude sensor
+Pressure Sen‐
+signal vs. mani‐
+sor, Check‐
+fold pressure
+ing”,
+signal at en‐
+page 130 .
+gine start > 60
+hPa
+• boost pressure
+sensor signal
+vs. altitude
+sensor signal >
+22 kPa - <22
+k P a
+P0107 Manifold – Check the • Signal voltage --- 1 Sec. • Continu‐
+Absolute Manifold Ab‐ < 0.2V ous
+Pressure solute Pres‐
+Circuit Low sure (MAP) Range check: • 2 DCY
+Input Sensor - • manifold pres‐
+G71- . Refer sure signal <
+to 100.00 hPa
+⇒ “3.5.11 In‐
+Cross check:
+take Air Tem‐
+• diff. manifold
+perature Sen‐
+pressure to
+sor and Mani‐
+average value
+fold Absolute
+of all pressure
+Pressure Sen‐
+sensors @
+sor, Check‐
+start < -60.00
+ing”,
+hPa
+page 130 .
+P0108 Manifold – Check the • Signal voltage --- 1 Sec. • Continu‐
+Absolute Manifold Ab‐ > 4.86 V ous
+Pressure solute Pres‐
+Circuit High sure (MAP) Range check: • 2 DCY
+Input Sensor - • manifold pres‐
+G71- . Refer sure signal >
+to 2950 hPa
+⇒ “3.5.11 In‐
+Cross check:
+take Air Tem‐
+• diff. manifold
+perature Sen‐
+pressure to
+sor and Mani‐
+average value
+fold Absolute
+of all pressure
+Pressure Sen‐
+sensors @
+sor, Check‐
+start > 60.00
+ing”,
+hPa
+page 130 .
+34
+Rep. Gr.ST - Generic Scan Tool

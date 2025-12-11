@@ -1,0 +1,66 @@
+Audi TT No. 42 / 13
+Current Flow Diagram
+Engine control unit, variable intake manifold position
+sender, charge pressure control solenoid valve, exhaust
+gas recirculation cooler changeover valve, pump for
+exhaust gas recirculation cooler
+G513 Variable intake manifold position sender
+J623 Engine control unit
+N75 Charge pressure control solenoid valve
+N345 Exhaust gas recirculation cooler change-over valve
+T5g 5-pin connector, on intake manifold flap potentiometer
+116622 116644
+T10 10-pin connector, black, in front left engine compartment
+T14 14-pin connector, black, on front left in engine compartment
+1,0 0,5 T60 60-pin connector, on engine control unit
+gn/sw br/gr
+T94 94-pin connector, on engine control unit
+V183 Variable intake manifold motor
+T10/5 T14/14 V400 Exhaust gas recirculation cooler motor
+Earth connection (sender earth), in engine compartment wiring
+327
+harness
+0,5 1,0
+gn/sw br/gr
+D141 Connection (5V), in engine wiring harness
+J623
+T94/47 T60/20
+T60/27 T60/35 T60/50 T60/30
+116622 116644 222222 5544
+0,5 1,0 1,0 1,0 0,5 1,0 1,0 1,0
+ge/bl br/gn ro/gn ge/sw br/gr br li/ro ro/ge
+2 2
+T14 T14
+D141 N345 N75 /9 /12
+1 1
+D141
+0,5 1,0 1,0 1,0 1,0
+ge/gr ge/sw ge/sw br li/ro
+T5g/1 T5g/2 T5g/4 T5g/5 1/31 2/+ 3/S
+ϑ M T10/4
+G513
+T5g/3 V183 M w
+sw
+s =
+=
+w
+bl
+h
+a
+i
+c
+te
+k
+0,5 1,0 V400 ro = red
+br ge/sw
+br = brown
+327
+gn = green
+327 4488 5500 bl = blue
+gr = grey
+li = purple
+ge = yellow
+155 156 157 158 159 160 161 162 163 164 165 166 167 168 or = orange
+8J0-042130808
+rs = pink
+Edition 09.2009

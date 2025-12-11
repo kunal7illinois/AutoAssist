@@ -1,0 +1,52 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Checking wiring connections
+If the manufacturers test box is being used, perform the following
+step.
+– Install the test box.
+If the manufacturers test box is not being used, perform the fol‐
+lowing step.
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+appropriate service manual.
+– Using a multimeter, check the Fuel Pressure Sensor -G247-
+electrical harness connector terminals to the Engine Control
+Module (ECM) -J623- electrical harness connector T60 termi‐
+nals for an open circuit according to the wiring diagram.
+Fuel Pressure Sensor - Engine Control Module (ECM) -
+G247- electrical harness J623- electrical connector T60 ter‐
+connector terminals minals or test box socket
+1 14
+2 25
+3 26
+Specified value: 1.5 Ω Max.
+If the specification is not obtained:
+– Check the wiring for a short circuit to each other, Battery (+),
+and Ground (GND).
+– Check the electrical harness connector for damage, corrosion,
+loose or broken terminals.
+– If necessary, repair the faulty wiring connection.
+If no malfunction is detected in the wiring:
+– Replace the Engine Control Module (ECM) -J623- . Refer to
+appropriate service manual.
+– Install the engine cover with air filter. Refer to appropriate
+service manual.
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.6 Fuel Metering Valve, Checking
+The following procedure is used to diagnose the Fuel Metering
+Valve -N290- which is controlled by Engine Control Module -
+J623- .
+Special tools and workshop equipment required
+♦ multimeter.
+♦ Wiring diagram.
+120
+Rep. Gr.ST - Generic Scan Tool

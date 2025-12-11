@@ -1,0 +1,29 @@
+NS–190
+NAVIGATION – NAVIGATION SYSTEM
+Stereo Component Amplifier Communication Error
+INSPECTION PROCEDURE
+1 IDENTIFY THE COMPONENT SHOWN BY SUB-CODE
+(a) Enter the diagnostic mode.
+Example:
+(b) Press the "LAN Mon" switch to change to "LAN Monitor"
+mode.
+(c) Identify the component shown by the sub-code.
+HINT:
+• "110 (multi-display)" is the component shown by the
+sub-code in the example shown in the illustration.
+• The sub-code will be indicated by its physical
+address.
+• For the component list, refer to "DIAGNOSIS
+DISPLAY DETAILED DESCRIPTION" (See page NS-
+30).
+DTC Component shown by sub-code
+E121199E05
+NEXT
+2 CHECK POWER SOURCE CIRCUIT OF COMPONENT SHOWN BY SUB-CODE
+NS (a) Inspect the power source circuit of the component shown
+by the sub-code.
+If the power source circuit is operating normally, proceed
+to the next step.
+Component Table:
+Component Proceed to
+Radio and navigation assembly (140) Radio and navigation assembly power source circuit (See page NS-191)

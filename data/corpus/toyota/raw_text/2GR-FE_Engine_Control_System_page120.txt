@@ -1,0 +1,41 @@
+ES–120
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+OK
+4 INSPECT ENGINE ROOM JUNCTION BLOCK (EFI RELAY, A/F RELAY)
+(a) Remove the engine room junction block from the engine
+room R/B.
+(b) Inspect the EFI relay.
+(1) Measure the EFI relay resistance.
+Engine Room Junction Block
+Standard resistance
+Tester Connection Specified Condition
+1G
+1E-12 - 1E-6 10 kΩ or higher
+1A
+Below 1 Ω
+1E-12 - 1E-6 (Apply battery voltage between terminals 1E-9 and
+ES 1E-10)
+1E (c) Inspect the A/F relay.
+(1) Measure the A/F relay resistance.
+Standard resistance
+Tester Connection Specified Condition
+1G-1 - 1A-4 10 kΩ or higher
+Below 1 Ω
+1G-1 - 1A-4 (Apply battery voltage between terminals 1E-9 and
+1E-10)
+NG REPLACE ENGINE ROOM JUNCTION
+BLOCK
+Engine Room Relay Block
+A140654E01
+OK
+5 INSPECT FUSE (EFI MAIN)
+(a) Remove the EFI MAIN fuse from the engine room R/B.
+(b) Measure the EFI MAIN fuse resistance.
+EFI MAIN
+Standard resistance:
+Below 1 Ω
+(c) Reinstall the EFI MAIN fuse.
+NG REPLACE EFI MAIN FUSE
+Engine Room
+Relay Block
+A135017E01

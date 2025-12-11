@@ -1,0 +1,86 @@
+AC–45
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+DIAGNOSTIC TROUBLE CODE CHART
+AIR CONDITIONING SYSTEM
+Memory
+DTC No. Detection Item Trouble Area See page
+*4
+1. Room temperature
+sensor
+2. Harness or connector
+B1411/11 Room Temperature Memorized
+between room AC-45
+*1, *5 Sensor Circuit (8.5 min. or more)
+temperature sensor and A/
+C amplifier
+3. A/C amplifier
+1. Ambient temperature
+sensor
+2. Harness or connector
+Ambient Temperature Memorized
+B1412/12 between ambient AC-49
+Sensor Circuit (8.5 min. or more)
+temperature sensor and A/
+C amplifier
+3. A/C amplifier
+1. Air conditioning harness
+Evaporator Temperature (evaporator temperature Memorized
+B1413/13 AC-53
+Sensor Circuit sensor) (8.5 min. or more)
+2. A/C amplifier
+1. Solar sensor
+2. Harness or connector
+between solar sensor and
+Memorized
+A/C amplifier
+B1421/21 Solar Sensor Circuit (8.5 min. or more)
+3. Harness or connector AC-56
+*3, *5 (Passenger Side) (only when circuit is
+between solar sensor and
+shorted)
+main body ECU
+4. A/C amplifier
+5. Main body ECU
+1. A/C compressor (A/C AC
+lock sensor)
+2. Compressor drive belt
+3. Harness or connector
+Compressor Lock Sensor between compressor and
+B1422/22 - AC-61
+Circuit magnetic clutch (A/C lock
+sensor)
+4. A/C amplifier
+5. CAN communication
+system
+1. Pressure sensor
+2. Harness or connector
+between pressure sensor
+B1423/23 Pressure Switch Circuit - AC-65
+and A/C amplifier
+3. Refrigerant pipe line
+4. A/C amplifier
+1. Solar sensor
+2. Harness or connector
+between solar sensor and
+Memorized
+A/C amplifier
+B1424/24 Solar Sensor Circuit (8.5 min. or more)
+3. Harness or connector AC-69
+*3, *5 (Driver Side) (only when circuit is
+between solar sensor and
+shorted)
+main body ECU
+4. A/C amplifier
+5. Main body ECU
+1. A/C amplifier
+Air Mix Damper Control
+2. Air conditioning harness Memorized
+B1441/41 Servo Motor Circuit AC-74
+3. Air mix control servo (30 sec.)
+(Passenger Side)
+motor
+1. A/C amplifier
+Air Inlet Damper Control 2. Air conditioning harness Memorized
+B1442/42 AC-77
+Servo Motor Circuit 3. Air inlet control servo (30 sec.)
+motor

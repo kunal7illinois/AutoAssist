@@ -1,0 +1,99 @@
+Audi TT No. 3 / 13
+Current Flow Diagram
+Engine control unit, radiator outlet coolant temperature
+sender, throttle valve module, accelerator position sender
+E45 Cruise control system switch
+G79 Accelerator position sender
+G83 Radiator outlet coolant temperature sender
+G185 Accelerator position sender 2
+G186 Throttle valve drive (electric power control)
+G187 Throttle valve drive angle sender 1 for electric throttle
+G188 Throttle valve drive angle sender 2 for electric throttle
+J338 Throttle valve module
+J527 Steering column electronics control unit
+J623 Engine control unit
+✱ G186 G187 G188
+T6b 6-pin connector, black, on throttle valve module
+E45
+T6o 6-pin connector, black, on accelerator position sender
+J527
+J338
+M
+T12m 12-pin connector, brown, in luggage compartment, rear right
+T20c/13 T M 6 + b/3 T M 6 -- b/5 T6b/6 T6b/1 T6b/4 T6b/2 T20c 20-pin connector, black, connector A, on steering column
+0,35 1,0 1,0 0,35 0,35 0,35 0,35 electronics control unit
+sw/ws sw/li br/li li/br bl/gn gn/ge sw/gn T40 40-pin connector, black, on engine control unit
+✱✱ ✱✱ ✱✱ ✱✱ ✱✱ ✱✱ T81 81-pin connector, black, on engine control unit
+1,0 1,0 0,35 0,35 0,35 0,35
+bl/sw br/sw ge/gr ge/br br sw
+B486 Connection 22 in main wiring harness
+T81/38
+J623 T
+/1
+4
+1
+0
+7
+T
+/1
+4
+1
+0
+8 T40/91 T40/92 T40/84 T40/83
+B487 Connection 23 in main wiring harness
+T81/50 T81/17 T81/73 T81/36 T81/35 T81/34 T81/33 T81/72
+115522 * models with cruise control system
+** phased-in modification
+# # ## # Only models with emissions concept LEV2 (7GA)
+1,0 0,35 0,35
+br br ge/gn ## from June 2007
+B486
+B487
+# ## ##
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+br br ge ge/gn ge/gn gn/ge gn/gr ws/gr gn/ro ws/ro gr/sw
+2 1
+T12m
+T
++
+6o/2 T
+--
+6o/3 T
+S
+6
+1
+o/4 T
+S
+6
+2
+o/6 T
+--
+6o/5 T
++
+6o/1
+/10
+ϑ
+G83 G79 G185 w
+sw
+s =
+=
+w
+bl
+h
+a
+i
+c
+te
+k
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+155 156 157 158 159 160 161 162 163 164 165 166 167 168
+or = orange
+8J0-003130410
+rs = pink
+Edition 10.2010

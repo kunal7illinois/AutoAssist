@@ -1,0 +1,32 @@
+BC–309
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+FAIL-SAFE CHART
+1. FAIL SAFE OPERATION
+(a) If there is a problem with sensor signals or actuator
+systems, the skid control ECU prohibits power
+supply to the brake actuator assembly and informs
+the ECM of the VSC system failure.
+(b) The brake actuator assembly turns off each
+solenoid and the ECM shuts off the VSC control
+(traction control signal) from the skid control ECU
+accordingly, which turns out to be as if the vehicle
+stability control system was not installed.
+(c) ABS, VSC, and TRAC control will be prohibited, but
+EBD control continues as much as possible. If EBD
+control is impossible, the brake warning light comes
+on to warn the driver (See page BC-298).
+Malfunction Symptom
+ABS system Prohibits the ABS, BA, TRAC, and VSC control
+BC
+BA system Prohibits the ABS, BA, TRAC, and VSC control
+EBD system Prohibits the ABS, EBD, BA, TRAC, and VSC control
+TRAC system Prohibits the TRAC and VSC control
+VSC system Prohibits the TRAC and VSC control
+HINT:
+• A malfunction in either the ABS or BA system
+results in an identical operation, with ABS, BA,
+TRAC, and VSC system control prohibited.
+• If control is prohibited due to a malfunction during
+operation, control will be disabled gradually to
+prevent the vehicle from becoming unstable
+suddenly.

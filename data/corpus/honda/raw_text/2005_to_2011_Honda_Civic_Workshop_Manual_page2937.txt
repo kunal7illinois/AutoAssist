@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 HVAC Heating - Civic (All Except Hybrid)
+symptom/indication goes away, replace the original heater control panel.
+DTC INDICATOR 4: AN OPEN OR SHORT IN THE MODE CONTROL MOTOR CIRCUIT
+1. Clear the DTC (see CLEAR THE DTCS ).
+2. Turn the ignition switch to LOCK (0), and then ON (II).
+3. Do the self-diagnostic with the heater control panel (see HOW TO USE THE
+SELF-DIAGNOSTIC FUNCTION ).
+4. Check for DTCs.
+Is DTC 4 indicated?
+YES -Go to step 5.
+NO -Intermittent failure, check for loose wires or poor connections on the
+mode control motor circuit.
+5. Turn the ignition switch to LOCK (0).
+6. Test the mode control motor (see MODE CONTROL MOTOR TEST ).
+Is the mode control motor OK?
+YES -Go to step 7.
+NO -Replace the mode control motor (see MODE CONTROL MOTOR
+TEST ).
+7. Disconnect the mode control motor 7P connector.
+8. Disconnect the heater control panel 24P connector.
+9. Check for continuity between the following terminals of the heater control
+panel 24P connector and the mode control motor 7P connector.
+CONTINUITY CHECK INDEX
+24P 7P
+3 6
+4 5

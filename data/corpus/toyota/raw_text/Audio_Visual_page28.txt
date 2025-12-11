@@ -1,0 +1,62 @@
+AV–28
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+DIAGNOSTIC TROUBLE CODE CHART
+COMMUNICATION DIAGNOSIS:
+DTC No. Detection Item Trouble Area See page
+01-21 ROM Error Radio receiver AV-31
+01-22 RAM Error Radio receiver AV-31
+01-D5 Absence of Registration Unit 1. Power source circuit of the AV-32
+component shown by the sub-
+code
+2. AVC-LAN circuit between the
+radio receiver and the component
+shown by the sub-code
+3. Component shown by the sub-
+code
+01-D6 No Master 1. Radio receiver power source AV-34
+circuit
+2. Power source circuit of the
+component which has stored this
+code
+3. AVC-LAN circuit between the
+radio receiver and the component
+which has stored this code
+4. Component which has stored
+this code
+5. Radio receiver
+01-D7 Connection Check Error 1. Radio receiver power source AV-34
+circuit
+2. Power source circuit of the
+component which has stored this
+code
+3. AVC-LAN circuit between the
+radio receiver and the component
+which has stored this code
+4. Component which has stored
+this code
+5. Radio receiver
+01-D8 No Response for Connection 1. Power source circuit of the AV-32
+Check component shown by the sub-
+code
+2. AVC-LAN circuit between the
+radio receiver and the component
+shown by the sub-code
+3. Component shown by the sub-
+code
+01-D9 Last Mode Error 1. Power source circuit of the AV-32
+component shown by the sub-
+code
+2. AVC-LAN circuit between the
+radio receiver and the component
+shown by the sub-code
+3. Component shown by the sub-
+code
+01-DA No Response Against ON / OFF 1. Power source circuit of the AV-32
+Command component shown by the sub-
+AV
+code
+2. AVC-LAN circuit between the
+radio receiver and the component
+shown by the sub-code
+3. Component shown by the sub-
+code

@@ -1,0 +1,46 @@
+CA–10
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+NOTICE:
+• DTCs for the CAN communication system are as
+follows: U0101, U0073, U0100, U0123, U0124, U0126,
+B1207, B1499, and B2326.
+• Refer to troubleshooting of each system if DTCs
+regarding the CAN communication system are not
+output.
+1 CHECK AND CLEAR DTCS
+NEXT
+2 CHECK FOR INSTALLED SYSTEMS (ECUS & SENSORS) THAT ADOPT CAN
+COMMUNICATION)
+CA
+(a) Check which of the following is adopted: SFI system,
+automatic transaxle system, brake control system,
+supplemental restraint system, smart key system, air
+conditioning system and meter / gauge system (See
+page CA-25).
+NEXT
+3 CHECK CAN BUS LINE
+(a) Check the CAN bus wires (See page CA-65).
+NEXT
+4 CHECK INTELLIGENT TESTER
+(a) Select "Communication Bus Check" (See page CA-25).
+Result
+Symptom Proceed See procedure
+All the ECUs and sensors connected to the CAN communication
+A Go to step 5
+system are displayed on the screen.
+An ECU or sensor not connected to the CAN communication
+B CA-10
+system is displayed on the screen.
+More than one of the ECUs and sensors not connected to the
+CAN communication system are displayed on the screen. (If the
+C CA-119
+displayed ECUs and sensors are only those relating to the
+"Engine" and "ECT", proceed to B.)
+NOTICE:
+• The systems (ECUs, sensors) that adopt CAN
+communication vary depending on the vehicle
+and option settings. Check which systems (ECUs,
+sensors) are installed on the vehicle (See page
+CA-25).

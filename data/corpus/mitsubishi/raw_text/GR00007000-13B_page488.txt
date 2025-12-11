@@ -1,0 +1,55 @@
+13B-488 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR:B-34 CONNECTOR : C-51<M/T>, C-52<A/T>
+PCM<A/T> ECM<M/T>
+IDLE AIR
+CONTROL C-52 C-51
+MOTOR
+ACX02523AI AK000225AJ
+CONNECTOR: A-18X
+MFI RELAY
+AK101363AB
+. • Under the closed loop idle speed control.
+CIRCUIT OPERATION
+• The idle air control motor power is supplied from • Engine coolant temperature is higher than 77°C
+(171°F).
+the MFI relay (terminal 4).
+• The ECM (terminals 14, 15, 28, 29) <M/T> or • Battery positive voltage is higher than 10 volts.
+• Barometric pressure is higher than 76 kPa (11
+PCM (terminals 14, 15, 28, 29) <A/T> drives the
+psi).
+stepper motor by sequentially turning "ON" the
+• Intake air temperature is higher than −10°C
+power transistors in the ECM <M/T> or PCM <A/
+(14°F).
+T> and providing ground to the idle air control
+• 60 seconds have elapsed from the start of the
+motor (terminals 1, 3, 4, 6).
+previous monitoring.
+• Target idle air control motor position is 0 steps.
+.
+TECHNICAL DESCRIPTION
+• The amount of air taken in during idling is regu- Judgment Criteria
+lated by the opening and closing of the servo • Actual idle speed has continued to be higher than
+valve located in the air passage that bypasses the target idle speed by 200 r/min (300 r/min*) or
+the throttle body. more for 12 seconds.
+• If there is a malfunction of the IAC system, the *: Specs in parentheses are applicable if the max-
+actual engine speed will not be identical to the imum air temperature during the previous opera-
+target engine speed. tion was more than 45°C (113°F).
+• The ECM <M/T> or PCM <A/T> checks the differ-
+.
+ence between the actual engine speed and the TROUBLESHOOTING HINTS (The most likely
+target engine speed. causes for this code to be set are:)
+• Idle air control motor failed.
+. DTC SET CONDITIONS • Open or shorted idle air control motor circuit, or
+loose connector.
+Check Conditions
+• ECM failed. <M/T>
+• Vehicle speed has reached 1.5 km/h (0.93 mph)
+• PCM failed. <A/T>
+or more at least once.
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+• MB991709: Test Harness
+TSB Revision

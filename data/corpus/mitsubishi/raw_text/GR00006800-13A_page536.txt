@@ -1,0 +1,34 @@
+13A-536 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS : B-16, B-21 CONNECTOR: C-111
+B-21 B-16
+AAKK000000336622AB AK101421AD
+CONNECTORS:C-49,C-56<M/T>, CONNECTOR:C-07
+C-50,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-49,
+C-60
+C-50 C-54
+AK000280BO AK000312AJ
+CONNECTOR:C-87 CONNECTOR: A-12X AC101133
+ENGINE SPEED
+DETECTION
+CONNECTOR
+AK000219AC AC101151AC
+CONNECTOR: C-108 CONNECTOR:C-89
+AK101420AD AK000345AE
+. • If the ignition power transistor is turned on, the
+CIRCUIT OPERATION
+• The ignition coil is energized by Battery positive primary circuit of the ignition coil is energized by
+grounding the ignition coil through terminal 2,
+voltage from the ignition switch.
+• When the ECM <M/T> or PCM <A/T> turns off its causing the primary current to flow to the ignition
+coil.
+internal power transistor, battery positive voltage
+is applied to the ignition power transistor (termi-
+.
+nal 3) inside the ignition coil, causing the ignition
+power transistor to be turned on.
+TSB Revision

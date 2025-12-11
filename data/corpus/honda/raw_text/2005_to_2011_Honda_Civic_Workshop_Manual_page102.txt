@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+7. Disconnect the HDS from the DLC.
+CLEAR THE DTC MEMORY USING MES CONNECTOR WITHOUT THE HDS
+Special Tools Required
+SCS Service Connector 07PAZ-001010A
+To clear the DTC(s) from the SRS unit, use the HDS or the following procedure.
+1. Make sure the ignition switch is OFF.
+2. Connect the SCS service connector (A) to the yellow MES 2P connector (B).
+Do not use a jumper wire.
+Fig. 35: Identifying SCS Service And MES 2P Connectors
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+3. Turn the ignition switch ON (II).
+4. The SRS indicator will come on for about 6 seconds, and then go off. Remove
+the SCS service connector from the MES connector (2P) within 4 seconds after
+the indicator goes off.
+5. The SRS indicator will come on again. Reconnect the SCS service connector to
+the MES connector (2P) within 4 seconds after the indicator comes on.
+6. When the SRS indicator goes off, remove the SCS service connector from the
+MES connector (2P) within 4 seconds.
+7. The SRS indicator blinks two times, indicating that the memory has been
+cleared.

@@ -1,0 +1,34 @@
+BC–135
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+• Do not turn the ignition switch off while
+turning.
+• Do not move the shift lever to the P position
+(A/T) or do not apply the parking brake (M/T)
+while turning, but changing in the vehicle
+speed, stopping, or driving in reverse is
+possible.
+• Complete the turn within 20 seconds.
+14. END OF SENSOR CHECK (SST CHECK WIRE)
+Blinking Pattern in TEST MODE:
+(a) If the sensor check is completed, the ABS warning
+light blinks (Test Mode) when the vehicle stops and
+0.13 sec. 0.13 sec.
+the ABS warning light is off while the vehicle is
+ON driving.
+NOTICE:
+• When the yaw rate sensor, acceleration
+sensor, speed sensor, and master cylinder
+OFF
+pressure sensor checks are completed, the
+sensor check is completed.
+BR03904E16 BC
+• If the sensor check is not completed, the ABS
+warning light blinks even while the vehicle is
+driving and the ABS does not operate.
+15. READ DTC OF SIGNAL CHECK FUNCTION (SST
+DLC3: CG CHECK WIRE)
+(a) Using SST, connect terminals TC and CG of the
+DLC3.
+SST 09843-18040
+TS TC
+G022988E01

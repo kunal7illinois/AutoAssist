@@ -1,0 +1,55 @@
+ES–88
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+The sensing position of the Heated Oxygen (HO2) sensor has a zirconia element which is used to detect
+the oxygen concentration in the exhaust gas. If the zirconia element is at the appropriate temperature,
+and the difference between the oxygen concentrations surrounding the inside and outside surfaces of the
+sensor is large, the zirconia element generates voltage signals. In order to increase the oxygen
+concentration detecting capacity of the zirconia element, the ECM supplements the heat from the exhaust
+with heat from a heating element inside the sensor.
+Heated oxygen sensor heater range check (P0037 and P0038):
+The ECM monitors the current applied to the O2 sensor heater to check the heater for malfunctions. If the
+current is below the threshold value, the ECM determines that there is an open circuit in the heater. If the
+current is above the threshold value, the ECM determines that there is a short circuit in the heater.
+The ECM constantly monitors the current applied to the heater. If the ECM detects an open or short
+ES
+circuit, the ECM turns the MIL on and sets a DTC.
+If a malfunction is detected, the ECM cuts off the current applied to the heater.
+Example:
+The ECM sets DTC P0038 when the current in the HO2 sensor heater is more than 2 A. Conversely,
+when the heater current is less than 0.3 A, DTC P0037 is set.
+Heated oxygen sensor heater performance (P0141):
+After the accumulated heater ON time exceeds 100 seconds, the ECM calculates the heater resistance
+using the battery voltage and the current applied to the heater.
+If the resistance is above the threshold value, the ECM determines that there is a malfunction in the HO2
+sensor heater and set DTC P0141.
+MONITOR STRATEGY
+P0037: Heated oxygen sensor heater range check (Low electrical
+current)
+Related DTCs P0038: Heated oxygen sensor heater range check (High electrical
+current)
+P0141: Heated oxygen sensor heater performance
+Required Sensors/Components (Main) Heated oxygen sensor heater
+Required Sensors/Components (Related) -
+Continuous: P0037 and P0038
+Frequency of Operation
+Once per driving cycle: P0141
+1 second: P0037 and P0038
+Duration
+10 seconds: P0141
+Immediate: P0037 and P0038
+MIL Operation
+2 driving cycles: P0141
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+All:
+Monitor runs whenever following DTCs not present None
+P0037:
+Battery voltage 10.5 to 20 V
+P0038:
+Battery voltage 10.5 to 20 V
+P0141 (Heater performance monitor check):
+All of following conditions met: -
+Battery voltage 10.5 V or more
+Fuel cut OFF
+Time after fuel cut ON to OFF 30 seconds or more

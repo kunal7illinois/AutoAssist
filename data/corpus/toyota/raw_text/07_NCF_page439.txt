@@ -1,0 +1,13 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-105
+7. Diagnosis
+Main body ECU and certification ECU can detect malfunctions in the smart key system when the power
+source is in the IG-ON mode.
+When the ECUs detect a malfunction, the amber indicator light of the engine switch flashes to warn the driver.
+At the same time, the ECUs store 5-digit DTC (Diagnostic Trouble Code) in their memories.
+(cid:3) The indicator light warning continues for 15 seconds even after the power source is switched to OFF.
+(cid:3) The DTC can be read by connecting a hand-held tester to the DLC3.
+(cid:3) The push button start system may not operate successfully if a malfunction occurs.
+Service Tip
+The ECM of the ’07 Camry uses CAN protocol for diagnostic communication. Therefore, a hand-held
+tester and a dedicated adapter [CAN VIM (Vehicle Interface Module)] are required for accessing
+diagnostic data. For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).

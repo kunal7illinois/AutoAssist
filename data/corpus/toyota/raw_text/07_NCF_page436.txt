@@ -1,0 +1,37 @@
+BE-102 BODY ELECTRICAL - SMART KEY SYSTEM
+3) IG ON (cid:1) OFF
+Step System Operation
+When the engine switch is pressed once with the following conditions satisfied, the main
+body ECU recognizes the engine switch signal and turns OFF the ACC, IG relays.
+(cid:3) Shift position is P.
+a)
+(cid:3) Brake pedal is not depressed.
+(cid:3) Vehicle speed is 0 km/h (0 mph).
+(cid:3) Power source is in IG-ON mode.
+When the power source is switched from IG-ON to OFF, the main body ECU will turn OFF
+b)
+the indicator light of the engine switch.
+If the driver’s door is opened, the main body ECU receives a signal from the courtesy switch
+c) (for driver door). Then, the power supply to the steering lock ECU stops in order to lock the
+steering.
+a)
+Park/Neutral Position Switch
+a)
+Engine Switch
+ACC Relay
+a)
+b)
+Main Body
+a)
+ECU
+IG Relays
+a)
+Combination Meter
+(cid:3) Vehicle Speed Signal
+a)
+c)
+Stop Light Switch Courtesy Switch
+(For Driver Door)
+Steering Lock c)
+ECU
+01YBE70P

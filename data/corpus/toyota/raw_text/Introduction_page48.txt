@@ -1,0 +1,57 @@
+IN–48
+INTRODUCTION – HOW TO TROUBLESHOOT ECU CONTROLLED SYSTEMS
+HINT:
+• In troubleshooting, confirm that the problem symptoms
+have been accurately identified. Preconceptions should be
+discarded in order to make an accurate judgment. To
+clearly understand what the problem symptoms are, it is
+extremely important to ask the customer about the
+IN
+problem and the conditions at the time the malfunction
+occurred.
+• Gather as much information as possible for reference.
+Past problems that seem unrelated may also help in some
+cases.
+• The following 5 items are important points in the problem
+analysis:
+What Vehicle model, system name
+When Date, time, occurrence frequency
+Where Road conditions
+Under what conditions? Running conditions, driving conditions, weather conditions
+How did it happen? Problem symptoms
+3. SYMPTOM CONFIRMATION AND DIAGNOSTIC
+TROUBLE CODE
+HINT:
+The diagnostic system in the CAMRY has various
+functions.
+• The first function is the Diagnostic Trouble Code
+(DTC) check. A DTC is a code stored in the ECU
+memory whenever a malfunction in the signal circuits
+to the ECU occurs. In a DTC check, a previous
+malfunction's DTC can be checked by a technician
+during troubleshooting.
+• Another function is the Input Signal Check, which
+checks if the signals from various switches are sent to
+the ECU correctly.
+By using these functions, the problem areas can be
+narrowed down and troubleshooting is more effective.
+Diagnostic functions are incorporated in the following
+system in the CAMRY.
+System DTC Check DTC Check Sensor Check/Test Data List Active Test
+(Normal Mode) (Check Mode) Mode (Input Signal
+Check)
+2AZ-FE SFI System (cid:123) (cid:123) (cid:123) (cid:123)
+2GR-FE SFI System (cid:123) (cid:123) (cid:123) (cid:123)
+Smart Key System (cid:123) (cid:123) (cid:123)
+(Starting)
+U250E Automatic (cid:123) (cid:123) (cid:123) (cid:123)
+Transaxle System
+U660E Automatic (cid:123) (cid:123) (cid:123) (cid:123)
+Transaxle System
+Tire Pressure (cid:123) (cid:123) (cid:123)
+Warning System
+Anti-lock Brake (cid:123) (cid:123) (cid:123) (cid:123)
+System
+Vehicle Stability (cid:123) (cid:123) (cid:123) (cid:123)
+Control System (for
+BOSCH made)

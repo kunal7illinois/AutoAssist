@@ -1,0 +1,57 @@
+Audi TT No. 42 / 18
+Current Flow Diagram
+Engine control unit, fuel pump relay, radiator fan control
+unit, radiator fan, radiator fan 2
+G6 Fuel system pressurisation pump
+J17 Fuel pump relay
+J293 Radiator fan control unit
+J623 Engine control unit
+SF6 Fuse 6 on fuse holder F
+SF8 Fuse 8 on fuse holder F
+T4c 4-pin connector, black, on radiator fan control unit
+55 T5a 5-pin connector, black, on fuel gauge sender
+T94 94-pin connector, on engine control unit
+6,0
+ro V7 Radiator fan
+V177 Radiator fan 2
+6 8 43 Earth point, lower part of right A-pillar
+SF6 SF8
+15A 20A
+6a 8a 390 Earth connection 25, in main wiring harness
+0,35 1,5
+li ro/bl
+672 Earth point 2, on front of left longitudinal member
+J623
+T94/46 2/85 3/30
+* Relay carrier on left under dash panel
+2.1 ✱
+J17
+T94/90 1/86 4/87a 5/87
+0,5 0,5
+ge/li ro/bl
+4466
+5511 1199
+1,0 6,0 1,5
+bl/ro ro/gn ro/sw
+T4c/3 T4c/2 T4c/1 T5a/1
+J293
+T4c/4
+M 250W M 300W V V 7 177 M
+T5
+G
+a/5
+6
+ws = white
+31 31 sw = black
+4444 225500
+ro = red
+6,0 4,0 2,5 2,5 1,5 br = brown
+br br br br br gn = green
+390 bl = blue
+gr = grey
+672 43 li = purple
+ge = yellow
+225 226 227 228 229 230 231 232 233 234 235 236 237 238 or = orange
+8J0-042180409
+rs = pink
+Edition 09.2009

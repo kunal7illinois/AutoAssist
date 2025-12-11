@@ -1,0 +1,36 @@
+CHASSIS ELECTRICAL 54A-75
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+CONNECTORS<2.4L ENGINE>: B-16, B-21 CONNECTOR<3.0L ENGINE WITH OUT
+VARIABLE INDUCTION SYSTEM>: B-22
+B-16
+B-21
+AC106467AK AC106469AK
+CONNECTOR: C-13 CONNECTOR: C-28
+AC106552AC AC106557AD
+CONNECTOR: C-42 CONNECTORS<2.4L ENGINE>:
+C-49, C-50, C-54, C-56
+C-49 <M/T>
+C-56 <A/T>
+C-50 <A/T>
+C-54 <A/T>
+AC106473AY AC106557AO
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+• The tachometer power is supplied from the igni- The ignition signal may not be sent from the engine,
+or there may be a malfunction in the power supply or
+tion switch (IG) circuit.
+• For vehicles with 2.4L engine, the tachometer ground circuit.
+detects the ignition signal by the engine control
+.
+module via the ignition coils. TROUBLESHOOTING HINTS
+• For vehicles with 3.0L engine, the tachometer • Malfunction of the combination meter (printed cir-
+detects the ignition signal control via the distribu- cuit board or speedometer and tachometer)
+tor assembly. • Damaged wiring harness or connectors
+• Malfunction of the ECM <M/T> or PCM <A/T>
+.
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Harness Set
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

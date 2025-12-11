@@ -1,0 +1,53 @@
+ST–102
+2GR-FE STARTING – SMART KEY SYSTEM
+(b) Turn the engine switch on (IG).
+(c) Read the DATA LIST according to the displays on the
+tester screen.
+MAIN BODY:
+Measurement Item/Range
+Item Normal Condition Diagnostic Note
+(Display)
+ON: Shift position is P
+SHIFT P SIG Shift P signal / ON or OFF -
+OFF: Shift position is not P
+OK:
+ON (P signal is ON) and OFF (P signal is OFF)
+appear on the screen.
+HINT:
+If the result is not as specified, perform troubleshooting
+for DTC B2281 first (See page ST-60).
+NG GO TO DTC B2281
+OK
+7 READ VALUE OF INTELLIGENT TESTER (STOP LIGHT SWITCH)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the engine switch on (IG).
+(c) Check the DATA LIST for proper functioning of the stop
+light switch.
+MAIN BODY:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Brake pedal depressed
+STOP LAMP SW Stop light Switch / ON or OFF -
+OFF: Brake pedal released
+OK:
+ON (brake pedal depressed) and OFF (brake pedal
+released) appear on the screen.
+HINT:
+If the result is not as specified, perform troubleshooting
+for DTC B2284 first (See page ST-72).
+NG GO TO DTC B2284
+OK
+8 READ VALUE OF INTELLIGENT TESTER (STEERING LOCK)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the engine switch on (IG).
+ST MAIN BODY:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+Steering lock condition / ON or ON: Steering is unlocked
+STR UNLOCK SW -
+OFF OFF: Steering is locked
+OK:
+ON (steering is unlocked) and OFF (steering is
+locked) appear on the screen.

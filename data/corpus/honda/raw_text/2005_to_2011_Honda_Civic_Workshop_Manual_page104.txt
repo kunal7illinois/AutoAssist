@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+NOTE: A faulty cable reel can cause intermittent connections
+related to the driver's airbag inflator DTCs.
+12. If you cannot duplicate the concern, ask the customer about the conditions
+when it occurred, or ask the customer to demonstrate the concern.
+13. If you cannot duplicate the intermittent failure, the system is OK at this time.
+CHECKING FRONT PASSENGER'S WEIGHT SENSORS AFTER A VEHICLE COLLISION
+1. Position the front passenger's seat to the rearmost position, adjust the recliner
+to the forward most position. Do not move it from this position.
+2. Drive the vehicle, accelerate to 20 mph (36 km/h), then stop on level ground.
+3. Make sure the ignition switch is OFF.
+4. Connect the HDS to the data link connector (DLC) (A).
+Fig. 36: Identifying Data Link Connector (DLC)
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+5. Turn the ignition switch ON (II).
+6. Make sure the HDS communicates with the vehicle and the SRS unit. If it does
+not communicate, troubleshoot the DLC circuit (see DLC CIRCUIT
+TROUBLESHOOTING ).
+7. From the SRS inspection menu, select Seat Weight Sensor, then Misc test, then
+"SEAT OUTPUT CHK" and follow the prompts until the front passenger's
+weight sensor operation check is complete.

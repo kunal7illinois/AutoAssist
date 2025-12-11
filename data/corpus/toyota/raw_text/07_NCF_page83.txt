@@ -1,0 +1,49 @@
+EG-56 ENGINE - 2AZ-FE ENGINE
+Construction
+1) Intake Manifold Runner Valve Assembly
+(cid:3) The intake manifold runner valve assembly consists primarily of an intake manifold runner valve,
+valve shaft, valve body, and an intake manifold runner valve motor assembly.
+(cid:3) Each cylinder contains 1 intake manifold runner valve, which is mounted on the valve shaft axis.
+(cid:3) The intake manifold runner valve motor assembly consists primarily of a DC motor that rotates the
+runner valve (valve shaft), a position sensor (Hall IC) that detects the rotating position, and a gear
+portion that transmits the rotation of the DC motor to the valve shaft.
+Hall IC
+(Valve Position Sensor)
+Intake Manifold Runner
+Valve Assembly
+Magnet
+DC Motor
+Valve
+Intake Manifold
+Shaft
+Runner Valve
+Motor Assembly
+Gear Portion
+246EG15
+2) Valve Position Sensor
+(cid:3) The valve position sensor, which is a non-contact type that uses a Hall IC and a magnet, is mounted
+on the valve shaft axis.
+(cid:3) The valve position sensor, which is located in the intake manifold runner valve motor assembly,
+detects the opening position of the runner valve. This sensor gives the ECM feedback on the opening
+position of the runner valve, which is used for SFI control, as well as for detecting the failure of the
+runner valve, such as if the runner valve is stuck.
+(cid:3) The ECM detects a “low sensor output failure” (DTC P2016) when the output voltage of the valve
+position sensor is 0.2V or less, and a “high sensor output failure” (DTC P2017) when the output
+voltage is 4.8V or more.
+Magnet Hall IC
+VC
+4.8
+3.5
+IACA Output
+Voltage
+(V)
+E2
+0.6
+0.2
+0
+Valve Position ECM 0(cid:4) 75(cid:4)
+Sensor (Close) (Open)
+246EG18
+246EG17
+Intake Manifold Runner Valve
+Opening Angle (Degree)

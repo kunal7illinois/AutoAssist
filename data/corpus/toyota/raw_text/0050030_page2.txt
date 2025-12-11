@@ -1,0 +1,58 @@
+ES–164
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+The ECM illuminates the MIL and sets a DTC when either of the following conditions, which could cause
+emission deterioration, is detected (2 trip detection logic).
+• Within the first 1,000 crankshaft revolutions of the engine starting, an excessive misfiring rate
+(approximately 20 to 50 misfires per 1,000 crankshaft revolutions) occurs once.
+• After the first 1,000 crankshaft revolutions, an excessive misfiring rate (approximately 20 to 50 misfires
+per 1,000 crankshaft revolutions) occurs 4 times in sequential crankshaft revolutions.
+The ECM flashes the MIL and sets a DTC when either of the following conditions, which could cause
+Three-Way Catalytic Converter (TWC) damage, is detected (2 trip detection logic).
+• In every 200 crankshaft revolutions at a high engine rpm, the threshold misfiring percentage is
+recorded once.
+• In every 200 crankshaft revolutions at a normal engine rpm, the threshold misfiring percentage is
+recorded 3 times.
+ES
+MONITOR STRATEGY
+P0300: Multiple cylinder misfire
+P0301: Cylinder 1 misfire
+Related DTCs P0302: Cylinder 2 misfire
+P0303: Cylinder 3 misfire
+P0304: Cylinder 4 misfire
+Required Sensors/Components (Main) Crankshaft position sensor and Camshaft position sensor
+Engine coolant temperature and intake air temperature sensors and
+Required Sensors/Components (Related)
+Mass air flow meter
+Frequency of Operation Continuous
+1,000 to 4,000 crankshaft revolutions: Emission related misfire
+Duration
+200 to 600 crankshaft revolutions: Catalyst damaged misfire
+2 driving cycles: Emission related misfire
+MIL Operation
+MIL flashes immediately: Catalyst damaged misfire
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Misfire:
+P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+Monitor runs whenever following DTCs not present P0125 (Insufficient ECT for Closed Loop)
+P0327, P0328 (Knock sensor)
+P0335 (CKP sensor)
+P0340 (CMP sensor)
+P0500 (VSS)
+Battery voltage 8 V or more
+VVT system Not operated by scan tool
+Engine RPM 400 to 6,400 rpm
+Either of following conditions (a) or (b) met -
+(a) ECT at engine start More than -7°C (19°F)
+(b) ECT More than 20°C (68°F)
+Fuel cut OFF
+Monitor period of emission-related-misfire:
+First 1,000 revolutions after engine start, or Check Mode Crankshaft 1,000 revolutions
+Except above Crankshaft 1,000 revolutions x 4
+Monitor period of catalyst-damaged-misfire (MIL blinks):
+All of following conditions 1, 2 and 3 met Crankshaft 200 revolutions x 3
+1. Driving cycles 1st

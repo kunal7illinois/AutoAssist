@@ -1,0 +1,36 @@
+Audi TT No. 3 / 10
+Current Flow Diagram
+Engine control unit, Hall sender, coolant temperature
+sender
+G40 Hall sender
+G62 Coolant temperature sender
+G163 Hall sender 2
+J623 Engine control unit
+T40 40-pin connector, black, on engine control unit
+220 Earth connection (sender earth), in engine wiring harness
+D141 Connection (5V), in engine wiring harness
+J623
+T40/86 T40/98 T40/87 T40/93 T40/108
+0,35 0,35 0,35 0,35
+ws/li sw gn/li br/bl
+220
+220
+D141
+0,35 0,35 0,35 0,35 0,35 0,35
+sw br/bl sw br/bl br/bl gn
+1 2 3 1 2 3 2 1
+ϑ
+ws = white
+G40 G163 G62
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+113 114 115 116 117 118 119 120 121 122 123 124 125 126 or = orange
+8J0-003100806
+rs = pink
+Edition 10.2010

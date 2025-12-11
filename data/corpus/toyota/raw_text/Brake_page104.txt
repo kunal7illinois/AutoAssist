@@ -1,0 +1,35 @@
+BC–104
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+1 CHECK HARNESS AND CONNECTOR (SKID CONTROL ECU TO DLC3)
+(a) Disconnect the skid control ECU connector.
+Skid Contorl ECU (Harness (b) Measure the resistance according to the value(s) in the
+Side Connector Front View): table below.
+Standard resistance
+A25 Tester Connection Condition Specified Condition
+A25-25 (TS) - E10-12
+Always Below 1 Ω
+(TS)
+(c) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+TS
+CONNECTOR (SKID CONTROL ECU TO
+DLC3: DLC3)
+BC
+E10
+TS
+C133301E02
+OK
+2 CHECK HARNESS AND CONNECTOR (DLC3 TO BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+DLC3:
+CG table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E10-4 (CG) - Body
+Always Below 1 Ω
+ground
+E10
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (DLC3 TO BODY GROUND)
+G022987E23
+OK

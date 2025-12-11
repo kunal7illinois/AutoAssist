@@ -1,0 +1,37 @@
+ES–345
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Components Operations
+(c) Leak detection
+Creates negative pressure (vacuum) in EVAP system for leak check.
+pump
+Has opening with 0.02 inch diameter. Vacuum produced through orifice by closing purge VSV, turning off vent valve
+(d) Reference orifice
+and operating leak detection pump, to monitor reference pressure. Reference pressure indicates small leak of EVAP.
+Canister Pump Module (fig. 1): : Airflow
+Condition: Purge Flow Condition: Leak Check
+Vent Valve: OFF
+(vent) To Canister
+Filter
+(Atmosphere) ES
+Canister
+Reference Orifice
+(0.02 Inch)
+From Refueling
+Valve
+Canister Pressure Leak Detection Vent Valve: ON Leak Detection
+Sensor Pump: OFF (closed) Pump: ON
+A115902E02
+Canister Pressure Sensor Specification (fig. 2):
+Output Voltage Malfunction Area
+4.900 V
+4.150 V
+Usable Range
+1.425 V
+Malfunction Area
+0.450 V
+Pressure
+60 110 kPa-a
+(450) (825) (mmHg-a)
+HINT:
+Standard atmospheric pressure is 101.3 kPa-a (760 mmHg-a)
+A115543E06

@@ -1,0 +1,39 @@
+BC–62
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+DTC C1237/37 Speed Sensor Rotor Faulty
+DESCRIPTION
+The skid control ECU measures the speed of each wheel by receiving signals from the speed sensor.
+These signals are used for recognizing that all 4 wheels are operating properly.
+Therefore, all wheel signals must be equal.
+DTC No. DTC Detecting Condition Trouble Area
+• Brake actuator assembly (skid control ECU)
+• Speed sensor rotor (Front)
+When any of the following is detected:
+• Rear axle hub and bearing assembly
+• Wheel speed difference between the wheels.
+C1237/37 • Speed sensor
+• Wheel sensor signal failure.
+• Speed sensor circuit
+• ABS control continues for 60 sec. or more.
+• Tire and wheel size
+• Tire deformation
+WIRING DIAGRAM
+BC Brake Actuator Assembly (Skid Control ECU)
+5
+A25 FL+
+1
+A14
+ABS Speed Sensor
+Front LH
+6
+2
+A25 FL-
+10
+A25 FR+
+1
+A35
+ABS Speed Sensor
+Front RH 9
+2
+A25 FR-
+F040884E12

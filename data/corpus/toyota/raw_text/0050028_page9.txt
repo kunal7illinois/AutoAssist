@@ -1,0 +1,41 @@
+ES–144
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+NOTICE:
+This test will not be completed
+Vehicle Speed if the vehicle is driven at
+absolutely constant speed
+(h)
+such as with cruise control
+Between 64 km/h and
+activated.
+113 km/h (40 mph and
+70 mph)
+(g)
+ES
+Idling
+Ignition Switch OFF
+Warm up Time
+10 minutes
+(Note: Even if vehicle stops during driving pattern, test can be resumed)
+A115372E26
+A098191E02
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Clear DTCs (if set) (see page ES-35).
+(e) Select the following menu items: DIAGNOSIS / CARB OBD II / READINESS TESTS.
+(f) Check that O2S EVAL is INCMPL (incomplete).
+(g) Start the engine and warm it up.
+(h) Drive the vehicle at between 64 km/h and 113 km/h (40 mph and 70 mph) for at least 10 minutes.
+(i) Note the state of the Readiness Tests items. Those items will change to COMPL (complete) as the O2S
+EVAL monitor operates.
+(j) On the tester, select the following menu items: DIAGNOSIS / ENHANCED OBD II / DTC INFO /
+PENDING CODES and check if any DTCs (any pending DTCs) are set.
+HINT:
+If O2S EVAL does not change to COMPL, and any pending DTCs fail to set, extend the driving time.
+INSPECTION PROCEDURE
+HINT:
+Sensor 2 refers to the sensor mounted behind the Three-Way Catalytic Converter (TWC) and located far
+from the engine assembly.
+HINT:
+Intelligent tester only:

@@ -1,0 +1,39 @@
+AC–24
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+HINT:
+• Use the following procedures to troubleshoot the air
+conditioning system.
+• *: Use the intelligent tester.
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 INSPECT BATTERY VOLTAGE
+(a) Inspect the battery voltage.
+Standard voltage:
+11 to 14 V
+If the voltage is below 11 V, recharge or replace the
+battery before proceeding.
+NEXT
+3 CHECK COMMUNICATION FUNCTION OF CAN COMMUNICATION SYSTEM*
+AC (a) Use the intelligent tester to check if the CAN
+Communication System is functioning normally.
+Result
+Result Proceed to
+CAN DTC is not output A
+CAN DTC is output B
+B Go to CAN COMMUNICATION SYSTEM
+A
+4 CHECK FOR DTC*
+(a) Check for DTCs and note any codes that are output.
+HINT:
+Refer to the DTC CHECK / CLEAR (See page AC-32).
+(b) Delete the DTCs.
+(c) Recheck for DTCs. Based on the DTCs output above, try
+to force output of the A/C system DTC by simulating the
+operation indicated by the DTC.
+Result
+Result Proceed to
+DTC is not output A
+DTC is output B
+B Go to step 7

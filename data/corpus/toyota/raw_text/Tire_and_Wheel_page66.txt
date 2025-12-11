@@ -1,0 +1,26 @@
+TW–67
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+Tire Pressure Warning Reset Switch Circuit
+DESCRIPTION
+Receiving a signal from the tire pressure warning reset switch, the tire pressure warning ECU and
+receiver indicates the initialization of the pressure warning system.
+WIRING DIAGRAM
+Tire Pressure Warning ECU
+E53
+Tire Pressure Warning Reset Switch
+1 TW
+2 1
+E60 CLSW
+E129459E03
+INSPECTION PROCEDURE
+1 CHECK TIRE PRESSURE WARNING RESET SWITCH FUNCTION
+(a) Perform the tire pressure warning reset switch test in
+TEST MODE PROCEDURE (See page TW-20).
+OK:
+Reset switch ON:
+Tire pressure warning light comes on.
+Reset switch OFF:
+Tire pressure warning light blinks.
+NG Go to step 2
+OK
+END

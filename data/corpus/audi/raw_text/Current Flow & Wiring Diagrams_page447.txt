@@ -1,0 +1,50 @@
+Audi TT No. 48 / 14
+Current Flow Diagram
+Onboard supply control unit, adjustable rear spoiler switch,
+rear spoiler position warning lamp, adjustable rear spoiler
+motor
+E127 Adjustable rear spoiler switch
+E461 Operating unit in front of centre console
+F135 Rear spoiler adjustment limit switch 1
+F136 Rear spoiler adjustment limit switch 2
+J519 Onboard supply control unit
+K242 Rear spoiler position warning lamp
+T6f 6-pin connector, black, left side panel
+T8l 8-pin connector, black, on rear spoiler
+T16b 16-pin connector, brown, on switch module centre console
+T52a 52-pin connector, black, on onboard supply control unit
+T52b 52-pin connector, yellow, on onboard supply control unit
+V52 Adjustable rear spoiler motor
+44 Earth point, lower part of left A-pillar
+384 Earth connection 19, in main wiring harness
+J519
+393 Earth connection 28, in main wiring harness
+T52a/35 T52b/14 T52b T52a/49 T52a T52a/41
+/8 /30 394 Earth connection 29, in main wiring harness
+✱ ✱ ✱ ✱ ✱ ✱
+0,35 0,35 1,0 1,0 0,35 0,35
+sw/bl gr/ge ro/bl sw/bl br/bl gn/bl 662 Earth point, rear left side panel
+394 * models with adjustable rear spoiler
+T6f/1 T6f/2 T6f/3 T6f/5 T6f/6
+✱✱ ✱ ✱ ✱ ✱
+1,0 0,35 1,0 1,0 0,35 0,35 1,0 1,0
+br br ro/bl sw/bl br/bl gn/bl br br
+31 M+ M-- 31
+T16b/2 T16b/12 T16b/6 T8l/1 T8l/4 T8l/5 T8l/7 T8l/8
+384 E127 K242 M V52 F135 F136 393
+ws = white
+E461 ✱
+sw = black
+1,5 1,0
+ro = red
+br br br = brown
+gn = green
+bl = blue
+gr = grey
+44 662 li = purple
+ge = yellow
+169 170 171 172 173 174 175 176 177 178 179 180 181 182
+or = orange
+8J0-048140410
+rs = pink
+Edition 04.2010

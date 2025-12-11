@@ -1,0 +1,29 @@
+Audi TT No. 42 / 21
+Current Flow Diagram
+Control unit for structure-borne sound, actuator for structure-
+borne sound
+J869 Control unit for structure-borne sound
+T12s 12-pin connector, black, on control unit for structure-borne sound
+R214 Actuator for structure-borne sound
+• CAN bus (data wire)
+* from September 2009
+J869
+T12s/1 T12s/2 T12s/6 T12s/12 T12s/7 T12s/8
+ 
+0,5 0,5 0,5 0,35 0,35 0,35 0,35
+sw/bl ge/ro br or/br or/sw ro/gn li
+3377 3377 3399 9944 9977 1 2
+R214
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+267 268 269 270 271 272 273 274 275 276 277 278 279 280 or = orange
+8J0-042210909
+rs = pink
+Edition 09.2009

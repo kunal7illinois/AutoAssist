@@ -1,0 +1,26 @@
+54B-400 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+INSPECTION PROCEDURE M-1: Interior Light: Dome Light, Luggage Compartment Light <ECLIPSE>,
+Trunk Light <ECLIPSE SPYDER> and Door-ajar Indicator Light does not Illuminate or Turn off
+Normally.
+NOTE: This troubleshooting requires use of scan tool
+MB991502 and SWS monitor kit MB991862. For
+details of how to use the SWS monitor, refer to "How
+to use SWS monitor P.54B-8."
+Interior Light Automatic Shut-down Function Circuit
+. • Liftgate latch switch (vehicles with theft-alarm
+CIRCUIT OPERATION
+system) or liftgate light switch (vehicles without
+The ETACS-ECU illuminates the dome light, the lug-
+theft-alarm system): ON or OFF <ECLIPSE>
+gage compartment light <ECLIPSE> and the trunk
+• Trunk lid latch switch (vehicles with theft-alarm
+light <ECLIPSE SPYDER> according to the following
+system) or trunk light switch (vehicles without
+signals:
+• Ignition switch (IG1): ON or OFF theft-alarm system): ON or OFF <ECLIPSE SPY-
+• Key reminder switch: ON or OFF DER>
+• Front door switch: ON or OFF • Interior light loaded signal: ON
+• Driver(cid:146)s door lock actuator switch: ON or OFF
+.
+TSB Revision

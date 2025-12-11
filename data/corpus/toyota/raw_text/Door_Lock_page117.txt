@@ -1,0 +1,55 @@
+DL–111
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/o Smart Key System)
+(b) Connect the cable of the intelligent tester (with CAN
+VIM) to the DLC3, turn the ignition switch ON and
+attempt to use the intelligent tester. If the screen
+displays a communication error message, a
+problem exists in the vehicle or in the tester.
+• If communication is normal when the tool is
+connected to another vehicle, inspect the DLC3
+on the original vehicle.
+• If communication is still impossible when the tool
+is connected to another vehicle, the problem is
+probably in the tool itself. Consult the Service
+Department listed in the tool's instruction manual.
+DLC3
+Intelligent Tester
+C131977E01
+DTC CHECK / CLEAR
+1. DTC CHECK/CLEAR (USING INTELLIGENT TESTER)
+(a) DTC check
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch ON.
+(3) Read DTCs on the tester screen.
+(b) DTC clear
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch ON.
+(3) Clear the DTCs following the prompts on the
+tester screen.
+HINT:
+DLC3 The intelligent tester has a SNAPSHOT function
+Intelligent Tester
+which records the monitored data.
+C131977E01 Refer to the intelligent tester operator's manual
+for further details.
+2. SELF-DIAGNOSTIC MODE (OPERATING IGNITION
+KEY CYLINDER)
+(a) Switch to self-diagnostic mode.
+(1) Establish the vehicle's initial conditions (See
+page DL-99).
+(2) Insert the key into the ignition key cylinder and
+remove it.
+(3) Within 5 seconds after the key is removed, insert
+DL
+it into the ignition key cylinder and then turn the
+ignition switch ON then OFF 1 time (End in
+OFF).
+(4) Within 30 seconds of turning the ignition switch
+OFF, perform the following 9 times: Turn the
+ignition switch ON then OFF (End in OFF).
+HINT:
+• Turning the ignition switch ON after the
+procedure above has been completed will
+end the self-diagnostic mode.
+• Do not lock or unlock doors while performing
+the self-diagnostic mode.

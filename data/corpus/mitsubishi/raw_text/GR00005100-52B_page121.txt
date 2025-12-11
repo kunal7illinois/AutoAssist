@@ -1,0 +1,34 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-121
+SRS AIR BAG DIAGNOSIS
+CONNECTOR: D-12
+<ECLIPSE>
+FRONT
+SEAT BELT
+REAR
+FRONT OF
+SPEAKER
+VEHICLE
+<ECLIPSE SPYDER>
+FRONT
+SEAT BELT
+REAR SPEAKER FRONT OF
+BRACKET VEHICLE
+AC003136AB
+CIRCUIT OPERATION DTC SET CONDITIONS
+• The SRS-ECU judges how severe a collision is • This DTC will set when the power supply voltage
+by detecting signals from the side impact sensor. to the left-side impact sensor remains less than a
+If the impact is over a predetermined level, the predetermined value for five seconds. However, if
+SRS-ECU outputs an ignition signal. At this time, the system returns to normal condition, code
+if the side-airbag safing G-sensor is on, the SRS number 91 will be erased automatically and the
+air bag will inflate. SRS warning light will go out.
+TROUBLESHOOTING HINTS
+• Damaged wiring harness or connectors
+• Malfunction of the side-airbag module (LH)
+(squib)
+• Malfunction of the SRS-ECU
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991223 (MB991222): Harness set (Probe)
+TSB Revision

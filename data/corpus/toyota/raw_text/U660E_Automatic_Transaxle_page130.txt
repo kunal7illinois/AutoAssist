@@ -1,0 +1,56 @@
+AX–130
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+*: "SOLENOID (SLT)" in the ACTIVE TEST is performed
+to check that the line pressure changes by connecting
+the SST to the automatic transaxle. The same SST is
+used in the HYDRAULIC TEST (See page AX-17) as
+well.
+HINT:
+AX
+The pressure values in ACTIVE TEST and HYDRAULIC
+TEST are different from each other.
+OK:
+The line pressure changes as specified when
+performing the ACTIVE TEST.
+NG Go to step 5
+OK
+3 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (SHIFTING TEST)
+NOTICE:
+This test should always be performed with at least 2
+people.
+HINT:
+Performing the ACTIVE TEST using the intelligent tester
+allows relays, VSVs, actuators and other items to be
+operated without removing any parts. Performing the ACTIVE
+TEST as the first step in troubleshooting is one method to
+save labor time.
+The DATA LIST can be displayed during the ACTIVE TEST.
+(a) Warm up the engine.
+(b) Turn the ignition switch off.
+(c) Connect the intelligent tester together with the CAN VIM
+(Controller Area Network Vehicle Interface Module) to
+the DLC3.
+(d) Start the engine.
+(e) Turn on the tester.
+(f) Enter the following items: "DIAGNOSIS / OBD/MOBD /
+ECT / ACTIVE TEST".
+(g) Follow the instructions on the tester and read the
+ACTIVE TEST.
+Item Test Details Diagnostic Note
+[Test Details]
+Operate the shift solenoid valve and set the each shift position by
+yourself.
+It is possible to check the
+[Vehicle Condition]
+SHIFT operation of the shift solenoid
+• IDL: ON
+valves.
+[Others]
+• Press "→" button: Shift up
+• Press "←" button: Shift down
+NOTICE:
+• This test can be conducted when the vehicle is
+stopped.
+• When shifting gears using the Active Test
+function, do not operate the accelerator pedal for
+2 seconds before and after shifting gears.

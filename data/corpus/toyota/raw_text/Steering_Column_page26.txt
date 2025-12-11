@@ -1,0 +1,27 @@
+SR–24
+STEERING COLUMN – ELECTRIC STEERING LOCK
+3 CHECK HARNESS AND CONNECTOR (STEERING LOCK ACTUATOR ASSEMBLY - MAIN
+BODY ECU)
+(a) Disconnect the E7 connector from the main body ECU.
+Steering Lock Actuator Assembly: (b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester connection
+Condition Specified condition
+(Symbols)
+E51
+E51-3 (IGE) - E7-19
+Always Below 1 Ω
+(SLR+)
+E51-3 (IGE) - Body
+Always 10 kΩ or higher
+ground
+IGE
+Main Body ECU: NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E7
+SR
+SLR+
+C113502E01
+OK
+REPLACE MAIN BODY ECU

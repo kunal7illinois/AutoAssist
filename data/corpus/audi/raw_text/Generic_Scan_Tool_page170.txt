@@ -1,0 +1,48 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.26 Engine Speed Sensor, Checking
+Note
+Use only gold-plated terminals when servicing terminals in the
+electrical harness connector of the Engine Speed (RPM) Sensor
+-G28- .
+Spe c ial tools and workshop equipment required
+♦ Multimeter.
+♦ Wiring diagram.
+Test requirements
+• The Engine Control Module (ECM) - J623- fuses OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• Vehicles with automatic transmission, shift selector lever into
+position “P” or “N”.
+• A/C switched off.
+• Ground connections between engine/transmission/chassis
+OK.
+• Ignition switched OFF.
+Function
+The Engine Speed (RPM) Sensor -G28- detects RPM and refer‐
+ence marks. Without an engine speed signal, the engine will not
+start. If the engine speed signal fails while the engine is running,
+the engine will stall.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Connect the scan tool.
+– Switch the ignition ON.
+– Using the scan tool, check the engine speed:
+Diagnostic text Specified value
+Engine rotations per minute (RPM) Idle speed
+– Switch ignition OFF.
+If the specified value was Not obtained:
+Checking internal resistance
+– Disconnect the Engine Speed (RPM) Sensor -G28- electrical
+harness connector.
+– Using a multimeter, connect the RED meter lead to terminal 1
+of the Engine Speed (RPM) Sensor -G28- and the BLACK
+meter lead to terminal 2 for resistance.
+Specified value: 11.4 MΩ (+/- 1.4 M)
+166
+Rep. Gr.ST - Generic Scan Tool

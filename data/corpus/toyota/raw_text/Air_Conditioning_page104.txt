@@ -1,0 +1,31 @@
+AC–104
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+Air Conditioning Compressor Magnetic Clutch Circuit
+DESCRIPTION
+When the A/C amplifier is turned on, a magnetic clutch ON signal is sent from the MGC terminal of the A/
+C amplifier. Then, the MG CLT relay turns on to operate the magnetic clutch.
+WIRING DIAGRAM
+A/C Amplifier
+Engine Room R/B and J/B
+MG CLT
+5 3
+1 1
+20
+1 2
+1 1 E38 MGC
+A/C No. 2
+AC From IG1 Relay
+3
+C53
+MG+
+A/C Compressor 1
+(Magnetic Clutch) A
+E124490E01
+INSPECTION PROCEDURE
+1 CHECK CAN COMMUNICATION SYSTEM
+(a) Use the intelligent tester to check if the CAN
+Communication System is functioning normally.
+Result
+Result Proceed to
+CAN DTC is not output A
+CAN DTC is output B

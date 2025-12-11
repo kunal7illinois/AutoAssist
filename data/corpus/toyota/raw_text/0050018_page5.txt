@@ -1,0 +1,28 @@
+ES–97
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+4 CHECK HARNESS AND CONNECTOR (MASS AIR FLOW METER - ECM)
+(a) Disconnect the B1 MAF meter connector.
+Wire Harness Side: (b) Disconnect the B30 ECM connector.
+(c) Measure the resistance.
+Standard resistance (Check for open)
+MAF Meter Connector
+B1 Tester Connections Specified Conditions
+B1-5 (VG) - B30-118 (VG) Below 1 Ω
+B1-4 (E2G) - B30-116 (E2G) Below 1 Ω
+VG
+Standard resistance (Check for short)
+E2G
+ES
+Tester Connections Specified Conditions
+B1-5 (VG) or B30-118 (VG) - Body
+10 kΩ or higher
+ground
+B30 ECM Connector
+(d) Reconnect the MAF meter connector.
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E2G VG
+A127959E01
+OK
+REPLACE ECM

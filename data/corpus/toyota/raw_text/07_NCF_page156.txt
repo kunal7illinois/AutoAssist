@@ -1,0 +1,41 @@
+ENGINE - 2GR-FE ENGINE EG-129
+8. Air Intake Control System
+General
+The system has a dual path design for air intake. An air intake control valve and actuator control the air flow
+path.
+As a result, a reduction in intake noise in the low-speed range and an increase in the power output in the
+high-speed range is realized.
+(cid:1) Layout of Components (cid:2)
+VSV Actuator
+Air Cleaner Cap
+(cid:3) Vacuum Tank
+Air Intake Control Valve
+025EG31Y
+Operation
+(cid:3) When the engine is operating in the low- to mid-speed range, this control operates the air intake control
+valve to close one side of the air cleaner inlet. As a result, the intake area has been minimized and the
+intake noise is reduced.
+(cid:3) When the engine is operating in the high-speed range, this control operates the air intake control valve
+to open both sides of the air cleaner inlet. As a result, the intake area has been maximized and the intake
+efficiency is improved.
+Throttle Position
+Engine
+Sensor Signal
+Speed ECM
+Signal Vacuum Tank
+VSV Open
+Open
+Throttle
+Actuator Intake Air
+Opening
+Chamber
+Angle
+Air Close
+Air
+Low High
+Air Cleaner Engine Speed
+Air Intake Element
+Air Intake Control Valve Condition
+Control Valve
+Resonator
+285EG68

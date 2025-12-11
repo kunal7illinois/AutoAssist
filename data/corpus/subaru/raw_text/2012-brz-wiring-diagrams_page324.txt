@@ -1,0 +1,40 @@
+Audio System
+: Parts Location
+Code See Page Code See Page Code See Page
+A5 39 D38 40 G15 44
+A53 39 D39 40 H13 A 45
+D11 E 40 D46 A 41 H14 B 45
+D12 A 40 D49 41 H24 45
+D13 B 40 D65 41 K4 45
+D14 C 40 D66 41 L2 39
+D16 A 40 D71 41 a1 42
+D17 B 40 E6 44 a2 D 42
+D31 40 F9 44
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 24 Engine Room R/B (Engine Compartment Right)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+3B 26 Instrument Panel Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+3C 26 Engine Room Main Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+3D 26 Instrument Panel Wire and Instrument Panel J/B Assembly (Instrument Panel Reinforcement)
+: Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+AD1 47 Engine Room Main Wire and Instrument Panel Wire (Cowl Side Panel RH)
+AD2 47 Engine Room Main Wire and Instrument Panel Wire (Instrument Panel Reinforcement)
+AL2 46 Engine Room Main Wire and Transmission Wire (Dash Panel)
+DK1 47 Instrument Panel Wire and Roof Wire (Front Body Inner Pillar RH)
+ED1 47 Front Door Wire LH and Instrument Panel Wire (Cowl Side Panel LH)
+FD1 47 Front Door Wire RH and Instrument Panel Wire (Cowl Side Panel RH)
+GD2 47 No. 1 Floor Wire and Instrument Panel Wire (Cowl Side Panel RH)
+HD1
+47 No. 2 Floor Wire and Instrument Panel Wire (Cowl Side Panel LH)
+HD2
+aD1 47 Instrument Panel Wire Assembly and Instrument Panel Wire (Cowl Side Panel RH)
+: Ground Points
+Code See Page Ground Points Location
+D2 47 Instrument Panel Brace LH
+D3 47 Instrument Panel Brace RH
+H1 48 Lower Back Panel
+324
+BRZ (G4400BE)

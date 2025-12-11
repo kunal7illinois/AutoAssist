@@ -1,0 +1,41 @@
+ES–349
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Throttle / Pedal Position Sensor / Switch "D"
+DTC P2121
+Circuit Range / Performance
+DESCRIPTION
+This ETCS (Electronic Throttle Control System) does not use a throttle cable.
+The Accelerator Pedal Position (APP) sensor is mounted on the accelerator pedal bracket and has 2
+sensor circuits: VPA (main) and VPA2 (sub). This sensor is a non-contact type, and uses Hall-effect
+elements, in order to yield accurate signals, even in extreme driving conditions, such as at high speeds as
+well as very low speeds. The voltage, which is applied to terminals VPA and VPA2 of the ECM, varies
+between 0 V and 5 V in proportion to the operating angle of the accelerator pedal (throttle valve). A signal
+from VPA indicates the actual accelerator pedal opening angle (throttle valve opening angle) and is used
+for engine control. A signal from VPA2 conveys the status of the VPA circuit and is used to check the APP
+sensor itself.
+The ECM monitors the actual accelerator pedal opening angle (throttle valve opening angle) through the ES
+signals from VPA and VPA2, and controls the throttle actuator according to these signals.
+Accelerator Pedal Position Sensor Output Voltage (V)
+*1 *2
+Accelerator Pedal Position Sensor
+5
+Magnet ECM 3.4 to 5.0
+VPA
+2.6 to 4.5
+IC No. 1
+EPA
+VCPA 1.6
+VPA2 0.8
+EPA2 25
+0 Usable Range
+VCP2
+IC No. 2
+Accelerator Pedal Turning Angle (deg)
+Magnet
+*1: Accelerator Pedal Fully Released
+*2: Accelerator Pedal Fully Depressed
+A019803E27
+DTC No. DTC Detection Condition Trouble Area
+Difference between VPA and VPA2 is less than 0.4 V, or • Accelerator Pedal Position (APP) sensor
+P2121
+more than 1.2 V for 0.5 seconds (1 trip detection logic) • ECM

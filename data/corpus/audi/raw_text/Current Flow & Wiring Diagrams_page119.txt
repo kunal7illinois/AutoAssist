@@ -1,0 +1,48 @@
+Audi TT No. 9 / 5
+Current Flow Diagram
+ABS control unit, ABS hydraulic unit, ESP sensor unit, brake
+servo vacuum sender
+G200 Lateral acceleration sender
+G202 Yaw rate sender
+G251 Longitudinal acceleration sender
+G419 ESP sensor unit
+G483 Brake servo vacuum sender
+J104 ABS control unit
+N55 ABS hydraulic unit
+N99 Front right ABS inlet valve
+N100 Front right ABS outlet valve
+N101 Front left ABS inlet valve
+N102 Front left ABS outlet valve
+N133 Rear right ABS inlet valve
+N134 Rear left ABS inlet valve
+N135 Rear right ABS outlet valve
+N136 Rear left ABS outlet valve
+N225 Vehicle stabilization program switch valve 1
+N226 Vehicle stabilization program switch valve 2
+N227 Vehicle stabilization program high pressure valve 1
+N55 N228 Vehicle stabilization program high pressure valve 2
+N99 N100 N101 N102 N133 N134 N135 N136 N225 N226 N227 N228
+T47 47-pin connector, on ABS control unit
+J104 • CAN bus (data wire)
+* models with four-wheel drive
+** 3.2 l engine only, engine code BUB
+T47/18 T47/19 T47/22 T47/29 T47/5 T47/30 T47/40 T47/41
+• •
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+ws/ge gn/ge ge/sw ro/ws ro/li li/ro br/li li/ge
+4 2 1/15 3/31 3 1 2 4
+G200 G202 G251 ✱
+ws = white
+G419 G483 ✱✱
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-009050906
+rs = pink
+Edition 04.2009

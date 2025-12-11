@@ -1,0 +1,72 @@
+TW–33
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+DATA LIST / ACTIVE TEST
+1. DATA LIST
+(a) Connect the intelligent tester to DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Following the display on the intelligent tester, read
+"DATA LIST".
+Measurement item/
+Item Normal Condition Diagnostic Note
+Range (Display)
+Tire pressure warning system
+NORMAL: Normal mode
+MODE STATUS mode/NORMAL or REG 2nd or -
+TEST: Test mode
+REG M or TEST
+Number of main tire ID to be registered/
+MAIN TIRE 0 to 5 should be displayed -
+0 or 1 or 2 or 3 or 4 or 5
+ON: Switch on
+INITIAL SW Tire pressure warning reset switch/ON, OFF -
+OFF: Switch off
+Vehicle speed reading/
+Speed indicated on the
+VEHICLE SPEED min.: 0 km/h (0 mph), Actual vehicle speed TW
+combination meter
+max.: 255 km/h (158 mph)
+Registered ID1 code/min.: 0, The ID No. registered in the transmitter
+REGIT ID1 CODE -
+max.: FFFFFFF ID1 is displayed
+Registered ID2 code/min.: 0, The ID No. registered in the transmitter
+REGIT ID2 CODE -
+max.: FFFFFFF ID2 is displayed
+Registered ID3 code/min.: 0, The ID No. registered in the transmitter
+REGIT ID3 CODE -
+max.: FFFFFFF ID3 is displayed
+Registered ID4 code/min.: 0, The ID No. registered in the transmitter
+REGIT ID4 CODE -
+max.: FFFFFFF ID4 is displayed
+Registered ID5 code/min.: 0, The ID No. registered in the transmitter
+REGIT ID5 CODE -
+max.: FFFFFFF ID5 is displayed
+ID code transmission status/
+TRANS STATUS FINISH or NOW -
+FINISH or NOW
+ID1 tire inflation pressure/
+TIREPRESS1 min.: 0 kPa (0 kgf/cm2, 0 psi), Actual tire inflation pressure -
+max.: 637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+ID2 tire inflation pressure/
+TIREPRESS2 min.: 0 kPa (0 kgf/cm2, 0 psi), Actual tire inflation pressure -
+max.: 637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+ID3 tire inflation pressure/
+TIREPRESS3 min.: 0 kPa (0 kgf/cm2, 0 psi), Actual tire inflation pressure -
+max.: 637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+ID4 tire inflation pressure/
+TIREPRESS4 min.: 0 kPa (0 kgf/cm2, 0 psi), Actual tire inflation pressure -
+max.: 637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+ID5 tire inflation pressure/
+TIREPRESS5 min.: 0 kPa (0 kgf/cm2, 0 psi), Actual tire inflation pressure -
+max.: 637.5 kPa (6.48 kgf/cm2, 92.2 psi)
+ID1 temperature in tire/
+TIRE TEMP1 min.: -40°C (-40°F), Actual tire temperature -
+max.: 215°C (419°F)
+ID2 temperature in tire/
+TIRE TEMP2 min.: -40°C (-40°F), Actual tire temperature -
+max.: 215°C (419°F)
+ID3 temperature in tire/
+TIRE TEMP3 min.: -40°C (-40°F), Actual tire temperature -
+max.: 215°C (419°F)
+ID4 temperature in tire/
+TIRE TEMP4 min.: -40°C (-40°F), Actual tire temperature -
+max.: 215°C (419°F)

@@ -1,0 +1,20 @@
+ANTI-LOCK BRAKING SYSTEM (ABS) 35B-37
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+STEP 8. Check the continuity between the ignition switch
+(IG1) and the combination meter.
+Q:Is there any continuity (less than 2 ohm) between the
+CONNECTOR: C-41
+ignition switch (IG1) and the combination meter
+COMBINATION METER
+connector C-41 (terminal 52)?
+HARNESS SIDE
+YES : Go to Step 9.
+NO : Repair the harness wire and then go to Step 9.
+AC004482AC
+STEP 9. Check symptom.
+Q:Does the ABS warning light illuminate for 3 seconds
+when the ignition switch is turned to the "ON" position
+with engine stopped or upon start-up?
+YES : This diagnosis is complete.
+NO : Return to Step 1.
+TSB Revision

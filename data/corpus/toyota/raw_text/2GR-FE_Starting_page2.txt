@@ -1,0 +1,34 @@
+ST–2
+2GR-FE STARTING – STARTING SYSTEM
+SYSTEM DIAGRAM
+without Smart Key System:
+Transmission Control ECU ECM
+11 62
+NSW C56 C55 NSW
+4
+C1 L B
+Park/Neutral
+P
+Position Switch
+N
+9
+10 48
+STA C56 A55 STA
+E23 Ignition Switch
+ACC
+AM1 IG1
+4
+ST1
+ST
+3
+AM1 AM2 IG2
+5 1 2
+ST2
+7 5 3
+ALT ST/AM2
+Starter
+FL MAIN 1 1
+D1 C3
+M
+ST Battery
+A135061E01

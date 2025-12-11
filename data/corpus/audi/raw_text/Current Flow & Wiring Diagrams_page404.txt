@@ -1,0 +1,47 @@
+Audi TT No. 47 / 4
+Current Flow Diagram
+Fuses
+J104 ABS control unit
+SC1 Fuse 1 on fuse holder C
+SC2 Fuse 2 on fuse holder C
+SC3 Fuse 3 on fuse holder C
+SC4 Fuse 4 on fuse holder C
+SC5 Fuse 5 on fuse holder C
+SC6 Fuse 6 on fuse holder C
+SC7 Fuse 7 on fuse holder C
+T47 47-pin connector, on ABS control unit
+B163
+4,0 4,0 B163 Positive connection 1 (15), in interior wiring harness
+sw sw
+4499 111122 B277 Positive connection 1 (15a), in main wiring harness
+B278 Positive connection 2 (15a), in main wiring harness
+4,0 4,0
+sw sw
+B279 Positive connection 3 (15a), in main wiring harness
+1 2 3 4 5 6 7
+SC1 SC2 SC3 SC4 SC5 SC6 SC7 B282 Positive connection 6 (15a), in main wiring harness
+10A 5A 5A 5A 10A 5A 5A
+1a 2a 3a 4a 5a 6a 7a
+1,0 0,5 0,5 0,5 1,0 0,5 0,5 0,5
+sw/bl ge/sw ge/sw sw/ro gr/ge gr/ge sw/bl sw/ge
+228833 119988 226622
+T47/8
+J104
+B277 B278 B282 B279
+0,5 0,5 0,35 0,5 0,5 0,5 1,5 1,5 0,5 0,5 0,5
+sw/bl sw/bl sw/ro sw/ro sw/ro sw/ro gr/ge gr/ge gr/ge sw/bl sw/bl
+339933 113344 118822 115588 229933 442211 115544 115500 119933 337755 444488
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+29 30 31 32 33 34 35 36 37 38 39 40 41 42
+or = orange
+8J0-047040410
+rs = pink
+Edition 04.2010

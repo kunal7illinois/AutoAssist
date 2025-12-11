@@ -1,0 +1,39 @@
+ES–176
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Coolant Thermostat (Coolant Temperature
+DTC P0128
+Below Thermostat Regulating Temperature)
+DESCRIPTION
+This DTC is set when the Engine Coolant Temperature (ECT) does not reach 75°C (167°F) despite
+sufficient engine warm-up time.
+DTC No. DTC Detection Condition Trouble Area
+Conditions (a), (b) and (c) are met for 5 seconds (2 rip
+• Thermostat
+detection logic):
+• Cooling system
+P0128 (a) Cold start
+• ECT sensor
+(b) Engine warmed up
+• ECM
+(c) ECT less than 75°C (167°F)
+ES MONITOR DESCRIPTION
+5 seconds
+Estimated ECT
+Threshold (75°C
+(167°F))
+Indicated Coolant Temperature Reading
+ECT
+Time
+DTC Set (after 2 Driving Cycles)
+A082385E20
+The ECM estimates the ECT based on the starting temperature, engine loads, and engine speeds. The
+ECM then compares the estimated temperature with the actual ECT. When the estimated ECT reaches
+75°C (167°F), the ECM checks the actual ECT. If the actual ECT is less than 75°C (167°F), the ECM
+interprets this as a malfunction in the thermostat or the engine cooling system and sets the DTC.
+MONITOR STRATEGY
+Related DTCs P0128: Coolant Thermostat
+Required Sensors/Components (Main) Thermostat
+Engine Coolant Temperature (ECT) sensor, Intake Air Temperature (IAT)
+Required Sensors/Components (Sub)
+sensor, Vehicle speed sensor
+Frequency of Operation Once per driving cycle

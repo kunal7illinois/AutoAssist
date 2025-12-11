@@ -1,0 +1,34 @@
+ES–178
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(d) Enter the following menus: DIAGNOSIS / ENHANCED II
+/ DTC INFO / CURRENT CODES.
+(e) Read the DTC.
+Result
+Display (DTC Output) Proceed to
+P0128 A
+P0128 and other DTCs B
+HINT:
+If any DTC other than P0128 are output, troubleshoot
+those DTCs first.
+B GO TO DTC CHART (See page ES-63)
+A
+ES
+2 CHECK COOLING SYSTEM
+(a) Check for defects in the cooling system that might cause
+the system to be too cold, such as abnormal radiator fan
+operation or any modifications.
+NG REPAIR OR REPLACE COOLING SYSTEM
+OK
+3 INSPECT THERMOSTAT
+(a) Remove the thermostat (See page CO-13).
+(b) Check the valve opening temperature of the thermostat.
+Standard:
+80 to 84°C (176 to 183°F)
+HINT:
+In addition to the above check, confirm that the valve is
+completely closed when the temperature is below the
+standard.
+(c) Reinstall the thermostat (See page CO-14).
+NG REPLACE THERMOSTAT (See page CO-13)
+OK
+REPLACE ECM (See page ES-518)

@@ -1,0 +1,25 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Navigation System - Civic (Except Hybrid)
+You can touch Reset to clear ANG-Disp, and dotted line.
+3. If either test fails, please enter "Yaw rate sensor defective" for the problem
+description, on the "Navigation core return form".
+Fig. 62: Diagnostic Menu Screen Display - Yaw Rate Tuning
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+TIRE CALIBRATION
+As the vehicle moves, the navigation system receives speed pulses from the
+ECM/PCM. These pulses are converted using a conversion factor to a mph speed
+that moves the vehicle position (VP) on the map. The navigation system has an
+internal tuning function that generates and refines this factor based on actual
+driving. The Level indicates the status of the tuning. At navigation initialization, it
+begins at 0, and increases to 10 as the navigation system is used.
+The Auto Tuning is factory set to ON, and should remain on.
+(cid:1)
+The Study indicates the tuning status. If it is less than 10, the unit is still
+(cid:1)
+calibrating.
+The Tire-Cal. Tuning and Set should not be used. It is for factory use only.
+(cid:1)
+Fig. 63: Diagnostic Menu Screen Display - Tire Calibration
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+FUNCTIONAL SETUP

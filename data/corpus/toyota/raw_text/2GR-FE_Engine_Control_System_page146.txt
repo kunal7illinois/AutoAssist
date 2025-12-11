@@ -1,0 +1,41 @@
+ES–146
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+C2
+ECM
+IAT Sensor (Built into MAF Meter)
+5 V
+71
+THA 1 THA R
+C55
+74
+E2 2 ETHA
+C55
+ES
+A110108E15
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).
+1 CHECK DTC OUTPUT
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the intelligent tester on.
+(d) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(e) Read the DTCs.
+Result
+Display (DTC output) Proceed to
+P0110 A
+P0112 B
+P0113 C
+B Go to step 6
+C Go to step 4
+A
+2 READ VALUE OF INTAKE AIR TEMPERATURE SENSOR (INTAKE AIR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.

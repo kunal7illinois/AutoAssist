@@ -1,0 +1,54 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-685
+ON-VEHICLE SERVICE
+<Right bank and left bank heated oxygen sensor (rear)>
+1. Use scan tool MB991502, observe HO2S reading. If values
+are unsatisfactory, or if the scan tool is not available, use the
+following procedure:
+(1) Disconnect the heated oxygen sensor connector and
+connect special tool MB991316 to the connector on the
+heated oxygen sensor side.
+(2) Make sure that there is continuity [11 − 18 ohm at 20°C
+HEATED (68°F)] between terminal 1 (red clip of special tool) and
+OXYGEN
+terminal 3 (blue clip of special tool) on the heated oxygen
+SENSOR
+RED EQUIPMENT sensor connector.
+SIDE (3) If there is no continuity, replace the heated oxygen
+CONNECTOR sensor.
+BLUE
+(4) Warm up the engine until engine coolant is 80°C (176°F)
+or higher.
+MB991316 AKX01624AB
+CAUTION
+Be very careful when connecting the jumper wires; incor-
+rect connection can damage the heated oxygen sensor.
+JUMPER
+WIRES (5) Use the jumper wires to connect terminal 1 (red clip) of
+BLACK the heated oxygen sensor connector to the positive
+RED
+battery terminal and terminal 3 (blue clip) to the negative
+battery terminal.
+(6) Connect a digital voltage meter between terminal 2 (black
+BLUE clip) and terminal 4 (white clip).
+WHITE
+2. While repeatedly revving the engine, measure the heated
+MB991316
+oxygen sensor output voltage.
+AKX01625AB
+Standard value:
+ENGINE HEATED OXYGEN REMARKS
+SENSOR OUTPUT
+VOLTAGE
+When revving 0.6 − 1.0 volt If you make the air/
+engine fuel ratio rich by
+revving the engine
+repeatedly, a
+normal heated
+oxygen sensor will
+output a voltage of
+0.6 − 1.0 volt.
+3. If the sensor is defective, replace the heated oxygen sensor.
+NOTE: For removal and installation of the heated oxygen sen-
+sor, refer to GROUP 15, Exhaust Pipe and Main Muffler P.15-
+22.
+TSB Revision

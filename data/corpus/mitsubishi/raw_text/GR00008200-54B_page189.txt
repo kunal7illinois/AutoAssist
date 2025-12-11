@@ -1,0 +1,28 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-189
+SYMPTOM PROCEDURES
+CONNECTOR: A-03 CONNECTOR: A-11X
+FRONT-ECU
+AC102772AB AC101880AC
+CONNECTOR: C-89 CONNECTOR: C-111, C-112
+CONNECTOR JUNCTION BLOCK
+BLOCK (LH) (FRONT VIEW)
+C-111 C-112
+AC001991AG AC102788AL
+. .
+CIRCUIT OPERATION TECHNICAL DESCRIPTION (COMMENT)
+• The windshield wiper and washer switch sends a If the windshield wiper does not work at all, the wind-
+signal through the column-ECU (incorporated in shield wiper motor, column switch (windshield wiper
+the column switch) to the front-ECU. If the col- and washer switch) or the front-ECU may be defec-
+umn-ECU sends a windshield wiper and washer tive.
+switch "ON" signal to the front-ECU, the front-
+ECU turns on the relay (incorporated in the front- . TROUBLESHOOTING HINTS
+ECU), thus causing the windshield wiper and • Malfunction of the wiper motor
+washer motor to be turned on. • Malfunction of the column switch (windshield
+• If the SWS communication line is defective, the wiper and washer switch)
+front-ECU operates windshield wiper motor by • Malfunction of the front-ECU
+using the other communication lines (wiper • Damaged harness wires or connectors
+backup circuit) instead of that line. In this case,
+the windshield wiper works at low speed regard-
+less of the windshield wiper and washer switch
+positions ("LO" or "HIGH").
+TSB Revision

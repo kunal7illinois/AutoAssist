@@ -1,0 +1,47 @@
+13A-16 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+.
+PROCEDURE 2
+FUEL TRIM MONITOR
+DTC P0171, P0172
+Drive cycle This monitor [from start to ignition switch to the "LOCK" (OFF) position] will be completed
+pattern while traveling with the following drive cycle pattern. It will take 35 minutes. You must
+complete this drive twice.
+NOTE: Vehicle speed and throttle opening angle should be within the shaded range.
+30 MINUTES OR MORE
+89 - 97 km/h (55 - 60 mph)
+M/T: 5TH SPEED
+97
+(60)
+(3)
+64
+(40) WITH 120 SECONDS
+VEHICLE SPEED
+km/h (mph)
+DURING MONITOR (4)
+32 (2)
+(20)
+(1)
+0
+ENGINE START IGNITION SW-
+ITCH: "LOCK"
+100 (OFF) position
+CALCULATED
+LOAD (%)
+50
+0
+AAAKKKXXX000111333444666AC
+Inspection • Engine coolant temperature: 80 − 97°C (176 − 207°F)
+conditions • Atmospheric temperature: −10 − 60°C (14 − 140°F)
+• Condition of A/T: Selector lever D range
+Test 1.Engine: start
+procedure 2.Accelerate until the vehicle speed is 89 − 97 km/h (55 − 60 mph).
+3.Travel for 30 minutes or more while keeping the vehicle speed at 89 − 97 km/h (55 − 60
+mph). (M/T: 5th speed) Carry out one gradual deceleration/acceleration returning to 89 −
+97 km/h (55 − 60 mph) within 120 seconds. (During monitor)
+4.Return the vehicle to the shop, then turn the ignition switch to "LOCK" (OFF) position.
+5.Confirm that the diagnostic trouble code (DTC) is not output.
+If DTC P0171 is output, refer to DTC P0171 − System too lean P.13A-188.
+If DTC P0172 is output, refer to DTC P0172 − System too rich P.13A-194.
+.
+TSB Revision

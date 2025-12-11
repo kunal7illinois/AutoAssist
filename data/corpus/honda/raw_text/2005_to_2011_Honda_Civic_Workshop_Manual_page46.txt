@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+4. Wait 5 seconds.
+5. Operate each SOLENOID in the ABS FUNCTION TEST five times with the
+HDS.
+6. Check for DTCs with the HDS.
+Is DTC 51-11 or 51-13 indicated?
+YES - Replace the ABS modulator-control unit: Except Si model (see
+REMOVAL - EXCEPT SI MODEL ), Si model (see REMOVAL - SI
+MODEL ).
+NO - Intermittent failure, the system is OK at this time.
+DTC 51-12: MOTOR LOCK CIRCUIT MALFUNCTION
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+4. Check for DTCs with the HDS.
+Is DTC 51-12 indicated?
+YES - Go to step 5.
+NO - Intermittent failure, the system is OK at this time. Check for loose
+terminals at the ABS modulator-control unit 25P connector. Refer to
+INTERMITTENT FAILURES TROUBLESHOOTING .
+5. Turn the ignition switch to LOCK (0).
+6. Check the No. 3 MTR (30 A) fuse in the under-hood fuse/relay box.
+Is the fuse blown?
+YES - Go to step 7.
+NO - Reinstall the checked fuse, then go to step 9.

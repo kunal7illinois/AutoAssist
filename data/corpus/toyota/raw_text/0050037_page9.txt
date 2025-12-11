@@ -1,0 +1,26 @@
+ES–225
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Inspection Area*
+Fuel Tank Vent Hose
+Air Inlet Port ES
+Vent Hose
+Vent Hose
+Inspection Area*
+*: Check for disconnection and/or cracks
+A127720E01
+NEXT Go to step 8
+6 REPAIR OR REPLACE HARNESS OR CONNECTOR
+HINT:
+If the exhaust tailpipe has been removed, go to the next step
+before reinstalling it.
+NEXT Go to step 8
+7 REPLACE ECM
+(a) Replace the ECM (see page ES-429).
+NEXT Go to step 8
+8 CHECK WHETHER DTC OUTPUT RECURS (AFTER REPAIR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Wait for at least 60 seconds.
+(d) On the tester, select the following menu items:
+DIAGNOSIS / ENHANCED OBD II / DTC INFO /
+PENDING CODES.

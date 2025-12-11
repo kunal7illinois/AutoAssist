@@ -1,0 +1,46 @@
+13A-118 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TECHNICAL DESCRIPTION Check Conditions, Judgement Criteria
+• The engine coolant temperature sensor converts • About 60 − 300 seconds have passed for the
+the engine coolant temperature to a voltage and engine coolant temperature to rise to about 7°C
+output it. (45°F) after starting sequence was completed.
+• The ECM <M/T> or PCM <A/T> checks whether • However, time is not counted when fuel is shut
+this voltage is within a specified range. off.
+. .
+DTC SET CONDITIONS TROUBLESHOOTING HINTS (The most likely
+causes for this code to be set are: )
+Check Conditions, Judgement Criteria
+• Engine coolant temperature sensor failed.
+• Engine coolant temperature decreases from
+• Open or shorted engine coolant temperature sen-
+higher than 40°C (104°F) to lower than 40°C
+sor circuit, or loose connector.
+(104°F).
+• ECM failed. <M/T>
+• Then the engine coolant temperature has contin-
+• PCM failed. <A/T>
+ued to be 40°C (104°F) or lower for 5 minutes.
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 21:
+Engine Coolant Temperature Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the data reading mode for item
+21, Engine Coolant Temperature Sensor.
+16 PIN • The engine coolant temperature and temperature
+shown with the scan tool should approximately match.
+MB991502
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+AKX01177AB
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+TSB Revision

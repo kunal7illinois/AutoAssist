@@ -1,0 +1,40 @@
+54A-246 CHASSIS ELECTRICAL
+MULTI-CENTER DISPLAY
+STEP 10. Check the multi-center display power supply
+circuit [ignition switch (IG1)] at the multi-center display
+connector C-09 by backprobing.
+(1) Do not disconnect the multi-center display connector C-09
+CONNECTOR : C-09
+and measure at the harness side by backprobing.
+(2) Turn the ignition switch to "ON" position.
+DEVICE SIDE
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+AC106557AY
+(3) Measure the voltage between terminal 2 and ground by
+HARNESS SIDE
+backprobing.
+C-09
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Replace the multi-center display. The multi-center
+display should work normally.
+NO : Go to Step 11.
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+AC106888AB
+STEP 11. Check the multi-center display connector C-09
+for damage.
+Q:Is multi-center display connector C-09 in good
+CONNECTOR : C-09
+condition?
+YES : Go to Step 12.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. The
+multi-center display should work normally.
+DEVICE SIDE
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+AC106557AY
+TSB Revision

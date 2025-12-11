@@ -1,0 +1,56 @@
+Audi TT No. 48 / 5
+Current Flow Diagram
+Driver door control unit, operating unit for window regulator
+in driver door, rear lid remote release button, front left
+window regulator switch, fuel tank flap release button
+E40 Front left window regulator switch
+E81 Front right window regulator switch in driver door
+E233 Rear lid remote release button
+E319 Fuel tank flap release button
+E512 Operating unit for window regulator in driver door
+J386 Driver door control unit
+L156 Switch illumination bulb
+T32f 32-pin connector, connector C, on driver door control unit
+V147 Driver side window regulator motor
+205 Earth connection, in driver door wiring harness
+303 Earth connection 3, in driver door wiring harness
+R52 Connection (58s), in driver side door wiring harness
+J386
+M V147
+T32f/31 T32f/15 T32f/21 T32f/26 T32f/13 T32f
+31 58s /30
+0,35 0,35 0,35 0,35 0,35
+br/gn gn bl/br li/gn br/li
+R52
+0,35 0,35 0,35
+bl/br bl/br bl/br
+4422
+E512
+2 3 1/58s 7/58s 3 5
+L156 E319 E233
+L156
+E40 E81 5/31 1/31 2/31 4/31 w
+sw
+s =
+=
+w
+bl
+h
+a
+i
+c
+te
+k
+5599 6688
+ro = red
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 br = brown
+br br/ro br br br br br
+gn = green
+bl = blue
+205 303 gr = grey
+205 303 li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-048050409
+rs = pink
+Edition 04.2010

@@ -1,0 +1,61 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Pa‐ Monitor‐ Frequency of
+sage cedure ria and Threshold rameters with En‐ ing Time checks, MIL Il‐
+Value able Conditions Length lum
+P0506 Idle Air – Check the • Engine speed • ECT > 40.5° C 5 Sec. • Continuous
+Control Throttle deviation > 100
+System Valve Con‐ RPM • Engine speed • 2 DCY
+RPM Lower trol Module - at idle
+Than Ex‐ J338- . Refer • RPM controller
+pected to torque value >= • Vehicle speed
+⇒ calculated max 0 MPH
+“3.5.19 Throt value. • external torque
+tle Valve request not de‐
+Control Mod‐ manded
+ule, Check‐
+ing”, • Altitude < 2700
+page 149 . m
+• IAT > 9.8° C
+• Engine load <
+34.50%
+P0507 Idle Air – Check the • engine speed • ECT > 40.5° C 5 Sec. • Continuous
+Control Throttle deviation >
+System Valve Con‐ 80…200 rpm • Engine speed • 2 DCY
+RPM High‐ trol Module - at idle
+er Than Ex‐ J338- . Refer • idle controller
+pected to at min. value • Vehicle speed
+⇒ 7% 0 MPH
+“3.5.19 Throt • external torque
+tle Valve request not de‐
+Control Mod‐ manded
+ule, Check‐
+ing”, • Altitude < 2700
+page 149 . m
+• IAT > 9.8° C
+• Engine load <
+34.50%
+P050 Idle Air – Check the • Engine speed • external torque 30 Sec. • Once
+A Control Throttle deviation < 150 request not de‐
+System Out Valve Con‐ RPM manded. • 2 DCY
+of Range trol Module -
+J338- . Refer • RPM controller • Engine speed
+to value 0...8% idle
+⇒
+OR • Vehicle speed
+“3.5.19 Throt
+• Engine speed 0 km/h
+tle Valve
+deviation > 150
+Control Mod‐ RPM • Altitude < 2700
+ule, Check‐ m
+ing”, • RPM controller
+page 149 . min. value 7% • ECT at start < 4
+to 40° C
+• IAT > 9.8° C
+• engine load
+<66…78%
+• Catalyst heat‐
+ing active
+75
+3. Diagnosis and Testing

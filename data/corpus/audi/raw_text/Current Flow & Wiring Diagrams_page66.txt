@@ -1,0 +1,52 @@
+Audi TT No. 3 / 15
+Current Flow Diagram
+Engine control unit, continued coolant circulation relay,
+continued coolant circulation pump, fuses
+J151 Continued coolant circulation relay
+J623 Engine control unit
+SB6 Fuse 6 on fuse holder B
+SB7 Fuse 7 on fuse holder B
+SB8 Fuse 8 on fuse holder B
+SB9 Fuse 9 on fuse holder B
+SB10 Fuse 10 on fuse holder B
+4488
+SB11 Fuse 11 on fuse holder B
+6,0
+ro/ge T14 14-pin connector, black, on front left in engine compartment
+T81 81-pin connector, black, on engine control unit
+6 7 8 9 10 11 V51 Continued coolant circulation pump
+ST2 SB6 SB7 SB8 SB9 SB10 SB11 * Relay and fuse carrier in electronics box engine compartment
+10A 10A 30A 25A 10A 5A # up to May 2007
+6a 7a 8a 9a 10a 11a
+## from June 2007
+1,0 1,0 1,0 2,5 2,5 1,5 1,0 1,0 0,5
+sw/gn bl/ro bl/ro ro/gn ro/gn ro/gn ws/ro ws/ro ro/gn
+220011 223355 117799 7700 8844 118844 118877 222244
+J623
+T81/3
+T81/48
+0,35
+li/br
+T14/3
+1,0 1,0
+li/ro li/ro
+12/85## ##42/87a 52/87##
+✱ 8/85# # 9/87a 7/87# 1
+2.2
+M
+J151 V51
+10/86# 6/30 # 2/31 ws = white
+22/86## 32/30## sw = black
+ro = red
+1,0 1,0 1,0
+ws/ro ws/ro br br = brown
+gn = green
+bl = blue
+119922 119933 7711
+gr = grey
+li = purple
+ge = yellow
+183 184 185 186 187 188 189 190 191 192 193 194 195 196 or = orange
+8J0-003150407
+rs = pink
+Edition 10.2010

@@ -1,0 +1,20 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+NO -Go to step 15.
+15. Check for continuity between VSA modulator-control unit 37P connector
+terminals No. 1 and No. 15.
+Fig. 62: Checking Continuity Between VSA Modulator-Control Unit 37P
+Connector Terminals No. 1 And No. 15
+Is there continuity?
+YES -Repair short in the wire between VSA modulator-control unit 37P
+connector terminals No. 1 (CAN-L line) and No. 15 (CAN-H line).
+NO -Go to step 16.
+16. Check for continuity between VSA modulator-control unit 37P connector
+terminal and gauge control module (tach) 36P connector terminal (see table).
+CONNECTOR TERMINAL DESCRIPTION
+Connector Terminal No.
+Sign
+VSA Modulator-control UnitGauge Control Module (Tach)
+CAN-L 1 19
+CAN-H 15 1

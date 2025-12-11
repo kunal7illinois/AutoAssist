@@ -1,0 +1,31 @@
+CHASSIS - U660E AUTOMATIC TRANSAXLE CH-61
+4. Construction and Operation of Main Components
+ECT ECU
+(cid:3) The ECT ECU has been isolated from the ECM and directly fitted to the transaxle. Thus, the wiring
+harness has been shortened allowing the weight to be reduced. All the solenoid valves and sensors used
+for automatic transaxle control are directly connected to the ECT ECU through the connector located in
+front of the automatic transaxle.
+(cid:3) The ECT ECU maintains communication with the ECM through the CAN (Controller Area Network).
+Thus, engine control is effected in coordination with ECT control.
+(cid:3) A label, on which the automatic transaxle compensation values and QR (Quick Response) code are
+printed, is attached on the top of the automatic transaxle. The label contains encoded automatic transaxle
+property information. When the automatic transaxle is replaced, allow the ECT ECU to learn the
+automatic transaxle property information by inputting the automatic transaxle compensation values into
+the ECT ECU using a hand-held tester. In this way, the shift control performance immediately after
+replacement of the automatic transaxle is improved. For details, see the 2007 Camry Repair Manual (Pub.
+No. RM0250U).
+(cid:3) The QR code, which requires a special scan tool, is used at the vehicle assembly plant.
+QR Code
+ECT ECU
+Automatic Transaxle
+Compensation Value
+Transaxle Connector Transaxle Front View 025CH28TE
+— REFERENCE —
+What are QR (Quick Response) Codes?
+(cid:3) QR code, a matrix symbology consisting of an array of nominally square cells, allows omni-directional,
+high-speed reading of large amounts of data.
+(cid:3) QR codes encode many types of data such as numeric, alphanumeric, kanji, kana and binary codes. A
+maximum of 7,089 characters (numeric) can be encoded.
+(cid:3) QR codes (2D code) contain information in the vertical and horizontal directions, whereas bar codes
+only contain data in one direction. QR codes (2D code) hold considerably greater volumes of information
+than bar codes.

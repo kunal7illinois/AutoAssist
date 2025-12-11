@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+YES -Go to step 16.
+NO -Replace the transmission range switch (see TRANSMISSION RANGE
+SWITCH REPLACEMENT ), then go to step 9.
+9. Reconnect all connectors.
+10. Turn the ignition switch to ON (II).
+11. Clear the DTC with to the HDS.
+12. Test-drive the vehicle with the shift lever in R at speeds below 3 mph (5 km/h)
+for at least 2 seconds. Then increase the speed and drive over 3 mph (5 km/h)
+for at least 2 seconds.
+13. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 12, then go
+to step 14.
+14. Check for DTCs with the HDS.
+Is DTC P0812 indicated?
+YES -Check for poor connections or loose terminals between the transmission
+range switch and the PCM, then go to step 1.
+NO -Go to step 15.
+15. Monitor the OBD STATUS for P0812 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+14, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals between the transmission range switch and the PCM, then go to step
+1. If the HDS indicates NOT COMPLETED, go to step 12.
+16. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).

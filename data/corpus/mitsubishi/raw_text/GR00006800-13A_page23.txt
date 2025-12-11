@@ -1,0 +1,41 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-23
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC CODE DIAGNOSTIC ITEMS REFERENCE
+PAGE
+P0139 Heated oxygen sensor circuit slow response (sensor 2) P.13A-178
+P0141 Heated oxygen sensor heater circuit (sensor 2) P.13A-181
+P0171 System too lean P.13A-188
+P0172 System too rich P.13A-194
+P0181 Fuel temperature sensor circuit range/performance P.13A-198
+P0182 Fuel temperature sensor circuit low input P.13A-205
+P0183 Fuel temperature sensor circuit high input P.13A-210
+P0201 Injector circuit-Cylinder 1 P.13A-216
+P0202 Injector circuit-Cylinder 2 P.13A-216
+P0203 Injector circuit-Cylinder 3 P.13A-216
+P0204 Injector circuit-Cylinder 4 P.13A-216
+P0300 Random/multiple cylinder misfire detected P.13A-222
+P0301 Cylinder 1 misfire detected P.13A-227
+P0302 Cylinder 2 misfire detected P.13A-227
+P0303 Cylinder 3 misfire detected P.13A-227
+P0304 Cylinder 4 misfire detected P.13A-227
+P0325 Knock sensor circuit P.13A-231
+P0335 Crankshaft position sensor circuit P.13A-236
+P0340 Camshaft position sensor circuit P.13A-247
+P0401 Exhaust gas recirculation flow insufficient detected P.13A-257
+P0403 Exhaust gas recirculation control circuit P.13A-259
+P0421 Warm up catalyst efficiency below threshold P.13A-266
+P0441 Evaporative emission control system incorrect purge flow P.13A-269
+P0442 Evaporative emission control system leak detected (Small leak) P.13A-271
+P0443 Evaporative emission control system purge control valve circuit P.13A-283
+P0446 Evaporative emission control system vent control circuit P.13A-291
+P0451 Evaporative emission control system pressure sensor range/performance P.13A-299
+P0452 Evaporative emission control system pressure sensor low input P.13A-316
+P0453 Evaporative emission control system pressure sensor high input P.13A-332
+P0455 Evaporative emission control system leak detected (Gross leak) P.13A-348
+P0456 Evaporative emission control system leak detected (Very small leak) P.13A-364
+P0461 Fuel level sensor circuit range/performance P.13A-377
+P0500 Vehicle speed sensor <M/T> P.13A-381
+P0506 Idle control system RPM lower than expected P.13A-390
+P0507 Idle control system RPM higher than expected P.13A-399
+P0513 Immobilizer malfunction P.13A-407
+TSB Revision

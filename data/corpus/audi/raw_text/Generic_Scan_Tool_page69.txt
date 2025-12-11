@@ -1,0 +1,76 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0410 Secondary – Check the • Deviation SAI • Mass airflow 7 to 0.5 Sec. • 2 DCY
+Air Injection Secondary pressure > 50 120 kg/h
+System Air Injection hPa
+relay. Refer • Delta engine load
+to -10 to 10 %
+⇒
+• Modeled catalyst
+“3.5.33 Sec‐
+temp < 700° C
+ondary Air In‐
+jection Pump • ECT 3 to 105° C
+Relay,
+Checking”, • Altitude < 2700 m
+page 177 .
+• IAT 4.5 to 143.3° C
+Check the Sec‐ • SAI commanded
+ondary Air Injec‐ off
+tion pump. Refer
+to
+⇒ “3.5.32 Sec‐
+ondary Air Injec‐
+tion Pump Mo‐
+tor, Checking”,
+page 175
+P0413 Secondary – Check the • Signal voltage • Air valve comman‐ 0.5 Sec. • 2 DCY
+Air Injection Secondary 4.70 to 5.40 V ded OFF
+System Air Injection
+Switching Solenoid • Engine speed > 80
+Valve Cir‐ Valve - RPM
+cuit Open N112- . Refer
+to
+⇒ “3.5.34
+Secondary
+Air Injection
+Solenoid
+Valve,
+Check i n g”,
+page 179 .
+P0414 Secondary – Check the • Signal voltage • Air valve comman‐ 0.5 Se • 2 DCY
+Air Injection Secondary 0 to 3.25 V ded OFF • He
+System Air Injection
+Switching Solenoid OR • Engine speed > 80
+Valve Cir‐ Valve - • Signal current RPM
+cuit Shorted N112- . Refer > 2.20 A
+OR
+to
+• • Air valve comman‐
+⇒ “3.5.34
+ded ON
+Secondary
+Air Injection • Engine speed > 80
+Solenoid RPM
+Valve,
+Checking”,
+page 179 .
+P0418 Secondary – Check the • Signal voltage • Pump relay com‐ 0.5 Sec. • 2 DCY
+Air Injection Secondary 4.70 to 5.40 V manded OFF
+System Air Injection
+Control Cir‐ Solenoid • Engine speed > 80
+cuit Valve - RPM
+N112- . Refer
+to
+⇒ “3.5.34
+Secondary
+Air Injection
+Solenoid
+Valve,
+Checking”,
+page 179 .
+65
+3. Diagnosis and Testing

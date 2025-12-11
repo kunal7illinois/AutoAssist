@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Navigation System - Civic (Except Hybrid)
+diagram below), any open or short in the GA-Net bus harness will cause any or all
+of these functions to become inoperative. The addition of any factory audio
+accessory must maintain the continuity of the GA-Net bus by installing the Y cable
+included with the accessory kit.
+Fig. 10: GA-NET Bus Configuration - Communication Diagram
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Yaw Rate Sensor
+The yaw rate sensor (located in the navigation unit) detects the direction change
+(angular speed) of the vehicle. The sensor is an oscillation gyro built into the
+navigation unit.
+Sensor Element Structure
+The sensor element is shaped like a tuning fork, and it consists of the piezoelectric
+parts, the metal block, and the support pin. There are four piezoelectric parts: one to
+drive the oscillators, one to monitor and maintain the oscillation at a regular
+frequency, and two to detect angular velocity. The two oscillators, which have a 90-
+degree twist in the center, are connected at the bottom by the metal block and
+supported by the support pin. A detection piezoelectric part is attached to the top of
+each oscillator. The driving piezoelectric part is attached to the bottom of one
+oscillator, and the monitoring piezoelectric part is attached to the bottom of the
+other oscillator.
+Oscillation Gyro Principles
+The piezoelectric parts have electric/mechanical transfer characteristics. They bend
+vertically when voltage is applied to both sides of the parts, and voltage is generated
+between both sides of the piezoelectric parts when they are bent by an external
+force. The oscillation gyro functions by utilizing this characteristic of the
+piezoelectric parts and Coriolis force. (Coriolis force deflects moving objects as a
+result of the earth's rotation.) In the oscillation gyro, this force moves the sensor

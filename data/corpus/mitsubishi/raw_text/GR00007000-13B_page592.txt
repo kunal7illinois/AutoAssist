@@ -1,0 +1,43 @@
+13B-592 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Check the following items.
+(1) Check the following items, and repair or replace the
+defective items.
+a. Check the injectors for fuel leakage.
+b. Check the ignition coil, spark plugs, spark plug cables.
+c. Check compression pressure.
+d. Check the positive crank case ventilation system.
+e. Check the evaporative emission control system.
+f. Check the EGR system.
+(2) Then check the malfunction symptom.
+Q:Is the malfunction symptom is eliminated.
+YES : The check is completed.
+NO : Replace the catalytic converter. Then confirm that the
+malfunction symptom is eliminated.
+INSPECTION PROCEDURE 23: Transient, Mass Emission Tailpipe Test Failure.
+. NOTE: If the three-way catalyst temperature is low
+COMMENT
+• The test is failed when the air/fuel ratio is not con- when checking the exhaust gas, the three-way cata-
+lyst cannot sufficiently clean the emissions. Warm up
+trolled to the ideal air/fuel ratio. This occurs due
+the engine sufficiently before checking the exhaust,
+to the feedback control by heated oxygen sensor
+and check immediately.
+signals, insufficient EGR flow rate, or deteriorated
+catalyst.
+.
+TROUBLESHOOTING HINTS (The most likely
+causes for this case:)
+• Malfunction of air/fuel ratio control system.
+• Malfunction of the EGR system.
+• Deteriorated catalyst.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the exhaust gas with the engine at normal
+operating temperature.
+Q:After enough warm up, was the exhaust gas checked
+enough?
+YES : Go to Step 2.
+NO : Check it again after enough warm up.
+TSB Revision

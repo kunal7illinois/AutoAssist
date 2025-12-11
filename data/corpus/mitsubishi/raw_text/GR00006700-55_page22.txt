@@ -1,0 +1,47 @@
+55-22 HEATING AND AIR CONDITIONING
+MANUAL A/C DIAGNOSIS
+STEP 2. Check the water shut valve controller continuity.
+Follow the table below to check the water shut valve controller
+for continuity.
+SWITCH BATTERY TESTER SPECIFIED
+POSITION CONNECTION CONNECTION CONDITION
+At the • Connect 5 − 6 Less than 2
+"MAX terminal 1 to ohm
+1 2 3
+COOL" the positive
+2 − 5 Open circuit
+4 5 6 7 8 position battery
+terminal
+AC103200 • Connect
+terminal 5 to
+the negative
+battery
+terminal
+At the other Not applied 2 − 5 Less than 2
+positions ohm
+5 − 6 Open circuit
+Q:Is the water shut valve controller in good condition?
+YES : Go to Step 3.
+NO : Replace. Then go to Step 3.
+STEP 3. Check symptoms.
+Q:Is the cool air discharged?
+YES : This diagnosis is complete. (If no malfunctions are not
+found in all steps, an intermittent malfunction is
+suspected. Refer to Introduction, How to Use
+Troubleshooting/Inspection Service Points − How to
+Cope with Intermittent Malfunction P.00-6.)
+NO : Go to Step 1 .
+CHECK AT ECU TERMINAL
+M1552010300237
+1 2 3 4 5 6 7 8 9 10 21222324
+11121314151617181920 25262728
+AC002292AB
+TERMINAL INSPECTION INSPECTION REQUIREMENTS NORMAL CONDITION
+NO.
+1 Power supply Ignition switch: "LOCK" (OFF) 0 V
+Ignition switch: "ON" Battery positive voltage
+2 Input from thermistor sensor to Ignition switch and A/C switch: OFF 0 V
+controller Ignition switch and A/C switch: ON 2 − 5 V
+3 Thermistor sensor power supply Ignition switch and A/C switch: OFF 0 V
+Ignition switch and A/C switch: ON 5 V
+TSB Revision

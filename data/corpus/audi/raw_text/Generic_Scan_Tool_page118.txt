@@ -1,0 +1,48 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Start diagnosis
+– Disconnect fuel supply line and catch any fuel coming out with
+a shop towel. Refer to the Repair Manual for location.
+Note
+Pull circlip upward to unlock fuel line
+– Install a fuel pressure gauge with appropriate adapters.
+– Open shut off valve on fuel gauge.
+– Switch ignition on and off repeatedly until fuel pressure stops
+increasing pressure.
+– Read fuel pressure on the gauge.
+♦ Specified value: 3.5 to 4.3 bar
+♦ Turn the ignition switch OFF.
+If specification is exceeded:
+– Check return line between fuel filter and fuel pump for kinks or
+blockage.
+If no malfunction in fuel return line is found:
+– Pressure relief valve in fuel filter is malfunctioning.
+– Replace the fuel filter. Refer to the Repair Manual .
+If specified value was Not obtained:
+– Check fuel pressure at the fuel filter between fuel pump and
+fuel filter using appropriate adapters
+– Open shut off valve on gauge and start the engine. Allow to
+idle.
+– Slowly close the pressure gauge shut off and note the fuel
+pressure.
+♦ Pressure must increase to 4 bar.
+When 4 bar is reached: Open shut off tap immediately!
+Turn the ignition switch OFF.
+If pressure has increased during test:
+– Fuel pump is OK. Pressure relief valve in fuel filter is malfunc‐
+tioning.
+– Replace the fuel fi l ter. Refer to the Repair Manual .
+If pressure did not increase:
+– Fuel pump is faulty
+– Replace the fuel pump. Refer to the Repair Manual .
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+114
+Rep. Gr.ST - Generic Scan Tool

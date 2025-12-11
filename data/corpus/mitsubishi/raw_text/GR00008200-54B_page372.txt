@@ -1,0 +1,31 @@
+54B-372 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 27. Check the wiring harness between combination
+meter connector C-41 (terminal 48) and ETACS-ECU
+connector C-119 (terminal 14).
+NOTE: Also check junction block connector C-108. If junction
+CONNECTOR: C-41
+block connector C-108 is damaged, repair or replace the con-
+nector as described in GROUP 00E, Harness Connector
+Inspection P.00E-2.
+DEVICE SIDE
+41424344454647 484950515253545556
+AC106473AH
+CONNECTOR: C-119
+DEVICE SIDE
+1 2 3 4 5 6 7 8 91011121314151617181920
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+Q: Is the wiring harness between combination meter
+CONNECTOR: C-108
+connector C-41 (terminal 48) and ETACS-ECU connector
+DEVICE SIDE
+C-119 (terminal 14) in good condition?
+1 2 3 4 5 6 7 8 91011121314 YES : Replace the combination meter. Check that the turn-
+1516171819202122232425262728 signal lights illuminate normally.
+NO : Repair the wiring harness. Check that the turn-signal
+lights illuminate normally.
+JUNCTION BLOCK
+(FRONT VIEW) AC106479AD
+TSB Revision

@@ -1,0 +1,44 @@
+Audi TT 2007 ➤
+TDI injection and glow plug system (4-cyl. 2.0 ltr. 4-valve common rail, generation II) - Edition 05.2010
+4 Bleeding fuel system
+Caution
+If components of the fuel system between the fuel tank and the
+high-pressure fuel pump are removed or renewed, the basic
+setting “Checking fuel system pressurisation pump” must be
+performed to bleed the fuel system.
+If the supplementary fuel pump, fuel line (between fuel tank
+and high-pressure fuel pump) or fuel filter is removed or re‐
+newed, the basic setting “Checking fuel system pressurisation
+pump” must be performed before the engine is started for the
+first time.
+Proceed as follows to fill fuel system with fuel:
+– Connect a vehicle diagnostic tester.
+– Switch on ignition.
+– Select “Engine electronics” in vehicle self-diagnosis.
+– Then select “Basic setting”.
+– Select “Checking fuel system pressurisation pump” from the
+list.
+– Press “Start” button.
+– The fuel pumps start running.
+– The fuel pumps must run for approx. 1 minute to ensure that
+the fuel system is filled sufficiently with fuel.
+Note
+To repeat basic setting, switch ignition off and on once. Then start
+basic setting again.
+– Start engine after filling fuel system.
+– Run engine at moderate speed for several minutes and then
+switch off.
+– Check fuel system for leaks.
+– Erase entry in event memory using diagnostic tester.
+– After completing the repair, road-test the vehicle over a dis‐
+tance of at least 20 km. Accelerate with full throttle at least
+once. Then inspect the high-pressure section of the fuel sys‐
+tem again for leaks.
+Note
+If there is any air left in the fuel system, the engine may switch to
+the backup mode ('emergency running' mode) during the road
+test. Switch off the engine and erase the event memory. Then
+continue the road test.
+– Interrogate event memory.
+14
+Rep. Gr.23 - Mixture preparation - injection

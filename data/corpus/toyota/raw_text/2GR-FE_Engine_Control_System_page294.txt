@@ -1,0 +1,48 @@
+ES–294
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1 CHECK STOP LIGHT (OPERATION OF STOP LIGHT)
+(a) Check whether the stop lights turn on and off normally
+when the brake pedal is depressed and released.
+OK:
+Stop lights turn ON when brake pedal is depressed.
+NG REPAIR OR REPLACE STOP LIGHT SWITCH
+CIRCUIT
+OK
+2 READ VALUE OF INTELLIGENT TESTER (STP SIGNAL AND ST1 - VOLTAGE)
+ES
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DATA LIST / PRIMARY / STOP LIGHT SW.
+(d) Check the STP signal when the brake pedal is
+depressed and released.
+OK
+Brake Pedal Operation Specified Condition
+Depressed Released
+Depressed STP signal ON
+FI07052E06
+Released STP signal OFF
+(e) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DATA LIST / PRIMARY / ST1.
+(f) Check the ST1 signal when the brake pedal is
+depressed and released.
+OK
+Brake Pedal Operation Specified Condition
+Depressed ST1 signal OFF
+Released ST1 signal ON
+OK CHECK FOR INTERMITTENT PROBLEMS
+NG
+3 INSPECT STOP LIGHT SWITCH ASSEMBLY
+(a) Remove the stop light switch assembly.
+Not Pushed
+(b) Measure the resistance according to the value(s) in the
+2 1 table below.
+Pushed Standard resistance
+Switch Position Tester Connection Specified Condition
+Switch pin free 1 - 2 Below 1 Ω
+Switch pin free 3 - 4 10 kΩ or higher
+Switch pin pushed in 1 - 2 10 kΩ or higher
+4 3
+Switch pin pushed in 3 - 4 Below 1 Ω
+A072924E25
+(c) Reinstall the stop light switch assembly.

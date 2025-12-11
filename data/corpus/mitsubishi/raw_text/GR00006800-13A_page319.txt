@@ -1,0 +1,50 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-319
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+• Open fuel tank differential pressure sensor cir- • To check a system blockage, do a performance
+cuit, or loose connector. test which uses a mechanical vacuum gauge and
+• ECM <M/T> or PCM <A/T> failed. scan tool MB991502 set on the fuel tank differen-
+tial pressure sensor (TANK PRS SNSR 73.)
+. OVERVIEW OF TROUBLESHOOTING The mechanical gauge reading is used to verify
+• The DTC P0452 can be set if either of the follow- scan tool MB991502 reading.
+ing conditions occur: A comparison of the mechanical gauge to scan
+tool MB991502 determines the problem in the
+1. Faulty fuel differential pressure sensor,
+system.
+related circuit, or ECM <M/T> or PCM <A/T>.
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991502: Scan Tool (MUT-II)
+• MB991658: Test Harness Set
+• MB991709: Test Harness Set
+STEP 1. Using scan tool MB991502, check data list item 73:
+Fuel Tank Differential Pressure Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+16 PIN
+MB991502
+AC001252AB
+(2) Disconnect hose G from the evaporative emission canister
+HOSE G
+side, and plug the hose from which the pipes have been
+disconnected.
+(3) Turn the ignition switch to the "ON" position.
+(4) Remove the fuel cap.
+(5) Set scan tool MB991502 to the data reading mode for item
+73, Fuel Tank Differential Pressure Sensor.
+• The fuel tank pressures should be −1.5 to 1.5 kPa (−285
+to 285 inHg.)
+AC002036AC
+(6) Connect an evaporative emission system pressure pump to
+the fuel filler neck, and apply pressure.
+• The scan tool reading should increase.
+(7) Turn the ignition switch to the "LOCK" (OFF) position. Then
+disconnect scan tool MB991502.
+Q:Is the scan tool reading within the specified value?
+YES : Go to Step 22.
+NO : Go to Step 2.
+AC000186
+TSB Revision

@@ -1,0 +1,38 @@
+CH-126 CHASSIS - BRAKE
+(cid:1) System Diagram (TMMK Made Models) (cid:2)
+Brake Actuator
+Solenoid Relay
+Master Cylinder Cut
+Solenoid Valve (2)
+Reservoir Cut
+Speed Sensor (4)
+Solenoid Valve (2)
+Solenoid Valve (8)
+Master Cylinder
+Skid Control
+Pressure Sensor
+ECU
+Pump Motor
+Motor Relay
+VSC
+CAN From Battery
+Warning Buzzer
+(CAN No.1 Bus)
+Yaw Rate & Lateral
+Acceleration Sensor
+Steering Angle
+Sensor
+Combination Meter
+Crankshaft
+Position Sensor Throttle Body
+Brake System Warning Light
+Throttle Position Sensor
+Accelerator Pedal ECM Slip Indicator Light
+Position Sensor
+Throttle Control Motor VSC Warning Light*1
+Park/Neutral Master Warning Light*2
+Position Switch
+Multi-information Display*2
+*1: LE and SE grade models
+025CH48P
+*2: XLE grade models

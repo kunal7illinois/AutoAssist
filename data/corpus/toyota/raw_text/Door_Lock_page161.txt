@@ -1,0 +1,63 @@
+DL–151
+DOOR LOCK – SMART KEY SYSTEM
+Symptom Suspected area See page
+1. Check for DTCs in the smart key system (Starting function). ST-26
+2. Power door lock control system DL-11
+3. Courtesy light switch circuit LI-52
+4. Lock position switch circuit -
+- Driver door DL-19
+- Front passenger door DL-22
+- Rear passenger door LH DL-38
+- Rear passenger door RH DL-28
+Function to prevent electrical key confinement in the
+luggage compartment does not operate. (The luggage 5. Check if any function is not cancelled due to customization. DL-145
+compartment does not open.)
+6. Operate the LOCK/UNLOCK SW on the key to check the DL-71
+wireless function.
+7. Refer to PROBLEM SYMPTOMS TABLE of the wireless DL-74
+door lock control system ("The wireless door lock control
+system does not operate").
+8. Check operation of the cabin oscillator in active test. DL-156
+9. Luggage oscillator circuit DL-182
+10. Replace the main body ECU. -
+11. Replace the certification ECU. -
+1. Check if the function to prevent electrical key confinement in DL-160
+the luggage compartment operates.
+Function to prevent electrical key confinement in the
+luggage compartment does not operate. (The alarm 2. Check if answer back is performed when the wireless door DL-74
+does not sound.) lock is operated.
+3. Replace the certification ECU. -
+1. Check if the function to prevent electrical key confinement in DL-160
+the luggage compartment operates.
+2. Check that "WIRLS BUZZ RESP" and "HAZARD ANS DL-81
+The outside alarm of the answer back and entry BACK" in the DATA LIST of the main body ECU are YES. (If it
+systems does not sound. is NO, go to power door lock system.)
+3. Wireless door lock tuner circuit (DTC B1242) DL-164
+4. Replace the certification ECU. -
+1. Operate the LOCK/UNLOCK SW on the electrical key to DL-71
+check the wireless function.
+2. Refer to PROBLEM SYMPTOMS TABLE of the wireless DL-74
+The inside alarm of the entry system does not sound. door lock control system ("Wireless door lock function").
+3. Check if the electrical key reminder buzzer sounds. DL-160
+4. Replace the certification ECU. -
+1. Check if any function is cancelled due to customization. DL-145
+2. Operate the LOCK/UNLOCK SW on the key to check the DL-71
+wireless function.
+3. Refer to PROBLEM SYMPTOMS TABLE of the wireless DL-74
+DL
+door lock control system ("The wireless door lock control
+ID code matching inside the cabin cannot be
+system does not operate").
+performed.
+4. Check the cabin oscillator operation in the active test. DL-156
+5. Room oscillator circuit DL-185
+6. Luggage oscillator circuit DL-182
+7. Replace the certification ECU. -
+1. Check if any function is cancelled due to customization. DL-145
+2. Operate the LOCK/UNLOCK SW on the electrical key to DL-71
+check the wireless function.
+ID code matching outside the cabin cannot be 3. Refer to PROBLEM SYMPTOMS TABLE of the wireless DL-74
+performed. door lock control system ("The wireless door lock control
+system does not operate").
+4. Check operation of each door oscillator in active test. DL-156
+5. Door oscillator circuit DL-168

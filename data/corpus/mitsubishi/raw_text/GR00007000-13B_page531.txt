@@ -1,0 +1,49 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-531
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR: C-108 CONNECTOR:C-89
+AK101420AD AK000345AE
+. COMMENT
+CIRCUIT OPERATION
+• A battery positive voltage is applied on the data • The cause is probably a defect in power supply
+system (including ground) for the on-board diag-
+link connector power terminal (terminal 16). The
+nostic test mode line.
+ground terminals (terminal 4, 5) are grounded to
+the vehicle body.
+.
+TROUBLESHOOTING HINTS (The most likely
+. causes for this case:)
+• Malfunction of the data link connector.
+• Damaged harness wire.
+DIAGNOSIS
+STEP 1. Check the power supply voltage at data link
+connector C-29.
+(1) Measure voltage between terminal 16 and ground.
+• Voltage should be battery positive voltage.
+C-29 HARNESS
+SIDE CONECTOR
+Q:Is the voltage normal?
+1 2 3 4 5 6 7 8 YES : Go to step 2.
+910111213141516
+NO : Check harness connectors C-108, C-113 and C-89 at
+intermediate connector for damage, and repair or
+replace as required. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. If intermediate
+connectors are in good condition, repair harness wire
+AKX01430AF between fusible link (1) and data link connector C-29
+terminal 16 because of open circuit. Then confirm that
+the malfunction symptom is eliminated.
+STEP 2. Check the continuity at data link connector C-29.
+(1) Check for the continuity between terminal 4, 5 and ground.
+• Should be less than 2 ohm.
+Q:Is the continuity normal?
+YES : Replace the scan tool. Then confirm that the
+1 2 3 4 5 6 7 8
+910111213141516 malfunction symptom is eliminated.
+NO : Repair harness wire between data link connector C-
+C-29 HARNESS
+SIDE CONECTOR 29 terminal 4, 5 and ground because of open circuit or
+harness damage. Then confirm that the malfunction
+symptom is eliminated.
+AKX01431AE
+TSB Revision

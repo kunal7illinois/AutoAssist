@@ -1,0 +1,47 @@
+ES–133
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0100 Mass or Volume Air Flow Circuit
+DTC P0102 Mass or Volume Air Flow Circuit Low Input
+DTC P0103 Mass or Volume Air Flow Circuit High Input
+DESCRIPTION
+The Mass Air Flow (MAF) meter is a sensor that measures the amount of air flowing through the valve.
+The ECM uses this information to determine the fuel injection time and to prove appropriate air-fuel ratio.
+Inside the MAF meter, there is a heated platinum wire which is exposed to the flow of intake air.
+By applying a specific electrical current to the wire, the ECM heats it to a given temperature. The flow of
+incoming air cools both the wire and an internal thermistor, affecting their resistance. To maintain a
+constant current value, the ECM varies the voltage applied to these components in the MAF meter. The
+ES
+voltage level is proportional to the airflow through the sensor, and the ECM uses it to calculate the intake
+air volume.
+The circuit is constructed so that the platinum hot wire and the temperature sensor provide a bridge
+circuit, and the power transistor is controlled so that the potentials of A and B remain equal to maintain the
+predetermined temperature.
+HINT:
+When any of these DTCs are set, the ECM enters fail-safe mode. During fail-safe mode, the ignition
+timing is calculated by the ECM, according to the engine RPM and throttle valve position. Fail-safe mode
+continues until a pass condition is detected.
++B
+Temperature Sensor
+Power Transistor
+(Thermistor)
+Platinum Hot Wire (Heater)
+A B
+Output Voltage
+Temperature Sensor (Thermistor) Platinum Hot Wire (Heater)
+A140749E04
+DTC No. DTC Detection Condition Trouble Area
+• Open or short in MAF meter circuit
+Open or short in Mass Air Flow (MAF) meter circuit for 3
+P0100 • MAF meter
+seconds
+• ECM
+• Open in MAF meter circuit
+Open in Mass Air Flow (MAF) meter circuit for 3 • Short in MAF meter circuit
+P0102
+seconds • MAF meter
+• ECM
+• Short in MAF meter circuit (+B circuit)
+Short in Mass Air Flow (MAF) meter circuit for 3
+P0103 • MAF meter
+seconds
+• ECM

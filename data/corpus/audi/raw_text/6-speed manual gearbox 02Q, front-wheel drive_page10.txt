@@ -1,0 +1,14 @@
+Audi TT 2007 ➤
+6-speed manual gearbox 02Q, front-wheel drive - Edition 04.2010
+3 Calculating ratio “i”
+Example:
+6th gear Final drive
+Drive gear ZG1 = 40 ZA1 = 23
+Driven gear ZG2 = 39 ZA2 = 71
+i = ZG2 : ZG1 1)
+iG = gear ratio = ZG2 : ZG1 = 39 : 40 = 0.975
+iA = axle ratio = ZA2 : ZA1 = 71 : 23 = 3.087
+iov = overall ratio = iG x iA = 0.975 x 3.087 = 3.010
+1) Z1 = No. of teeth on drive gear, Z2 = No. of teeth on driven gear
+6
+Rep. Gr.00 - Technical data

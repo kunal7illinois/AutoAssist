@@ -1,0 +1,30 @@
+ES–273
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Throttle actuator power supply 8 V or more
+P2103:
+Throttle actuator Activated
+Throttle actuator power supply 8 V or more
+Battery voltage 8 V or more
+Starter OFF
+TYPICAL MALFUNCTION THRESHOLDS
+P2102:
+Throttle actuator current Less than 0.5 A
+P2103: ES
+Hybrid IC current limiter port Fail
+FAIL-SAFE
+When either of these DTCs, or other DTCs relating to ETCS (Electronic Throttle Control System)
+malfunctions, are set, the ECM enters fail-safe mode. During fail-safe mode, the ECM cuts the current to
+the throttle actuator off, and the throttle valve is returned to a 6° throttle angle by the return spring. The
+ECM then adjusts the engine output by controlling the fuel injection (intermittent fuel-cut) and ignition
+timing, in accordance with the accelerator pedal opening angle, to allow the vehicle to continue at a
+minimal speed. If the accelerator pedal is depressed firmly and gently, the vehicle can be driven slowly.
+Fail-safe mode continues until a pass condition is detected, and the ignition switch is then turned OFF.
+WIRING DIAGRAM
+Throttle Actuator ECM
+Shielded
+M+ M+
+Throttle Actuator
+Control Circuit
+M- M-
+GE01
+A112572E01

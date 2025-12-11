@@ -1,0 +1,53 @@
+BC–66
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+6 INSPECT EACH SPEED SENSOR
+(a) Disconnect each speed sensor connector.
+(b) Measure the resistance according to the value(s) in the
+Front Speed Sensor:
+table below.
+Standard resistance:
+FRONT
+1 Tester Connection Condition Specified Condition
+2
+A14-1 (FL+) - A14-2 (FL- 1.4 to 1.8 kΩ at 20°C
+Always
+) (68°F)
+A14-1 (FL+) - Body
+Always 10 kΩ or higher
+ground
+A14-2 (FL-) - Body
+Always 10 kΩ or higher
+ground
+A35-1 (FR+) - A35-2 1.4 to 1.8 kΩ at 20°C
+Always
+(FR-) (68°F)
+Rear Speed Sensor: A35-1 (FR+) - Body
+BC Always 10 kΩ or higher
+ground
+A35-2 (FR-) - Body
+Always 10 kΩ or higher
+ground
+REAR
+1 Tester Connection Condition Specified Condition
+g1-1 (RL+) - g1-2 (RL-) Always Below 2.2 kΩ
+2
+g1-1 (RL+) - Body
+Always 10 kΩ or higher
+ground
+g1-2 (RL-) - Body
+Always 10 kΩ or higher
+ground
+f1-1 (RR+) - f1-2 (RR-) Always Below 2.2 kΩ
+C136027E01
+f1-1 (RR+) - Body
+Always 10 kΩ or higher
+ground
+f1-2 (RR-) - Body
+Always 10 kΩ or higher
+ground
+(c) Connect the connector.
+NOTICE:
+Check the speed sensor signal after replacement
+(See page BC-11).
+NG REPLACE EACH SPEED SENSOR
+OK

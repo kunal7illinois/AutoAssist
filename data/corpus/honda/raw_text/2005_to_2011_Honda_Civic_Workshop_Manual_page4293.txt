@@ -1,0 +1,39 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+43 -21 Right-rear ON (1) ON ON
+ON/OFF
+wheel lock
+44 -21 Left-rear wheel ON (1) ON ON
+ON/OFF
+lock
+51 -11 Motor lock ON OFF ON ON
+-12 Motor lock ON OFF ON ON
+circuit
+malfunction
+-13 Motor relay ON OFF ON ON
+OFF
+malfunction
+52 -12 Motor stuck ON OFF ON ON
+OFF
+53 -01 Motor relay ON OFF ON ON
+stuck ON 1
+-12 Motor relay ON OFF ON ON
+stuck ON 2
+54 -03 Fail-safe relay ON ON ON ON
+1 stuck ON
+-04 Fail-safe relay ON ON ON ON
+1 stuck OFF
+(initial)
+-21 Fail-safe relay ON ON ON ON
+1 stuck OFF
+(main)
+56 -01 Initial VIG ON ON ON ON
+FET stuck
+OFF
+-02 Initial VIG ON ON ON ON
+FET stuck ON
+-11 VIG FET stuck ON ON ON ON
+OFF
+61 -01 VSA ON ON ON ON
+modulator-

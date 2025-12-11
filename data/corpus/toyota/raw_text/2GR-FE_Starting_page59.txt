@@ -1,0 +1,45 @@
+ST–59
+2GR-FE STARTING – SMART KEY SYSTEM
+MAIN BODY:
+Measurement Item/Display
+Item Normal Condition Diagnostic Note
+(Range)
+ON: Engine switch on (IG)
+STSW1 Start Switch 1/ON or OFF -
+OFF: Engine switch off
+ON: Engine switch on (IG)
+START SW2 Start Switch 2/ON or OFF -
+OFF: Engine switch off
+OK:
+ON (engine switch on (IG)) and OFF (engine switch
+off) appear on the screen.
+OK Go to step 3
+NG
+2 CHECK ENGINE SWITCH CONDITION
+(a) Check the power source mode change.
+(1) When the key is inside the vehicle and the shift lever
+is in the P position, check that pressing the engine
+switch causes the power source mode to change as
+follows:
+OK:
+off → on (ACC) → on (IG) → off
+HINT:
+• If power mode does not change to ON (IG and
+ACC) (See page ST-114).
+• If power mode does not change to ON (IG) (See
+page ST-122).
+• If power mode does not change to ON (ACC)
+(See page ST-131).
+NG GO TO OTHER PROBLEM
+OK
+END
+3 INSPECT ENGINE SWITCH
+(a) Remove the engine switch.
+SS1 GND SS2
+ST
+START
+STOP
+7 6 5 4 3 2 1
+14 13 12 11 10 9 8
+A109252E01
+(b) Disconnect the switch connector.

@@ -1,0 +1,37 @@
+13B-336 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 18. Check for harness damage between camshaft
+position sensor connector B-22 terminal 5 and ECM
+connector C-58 terminal 50 <M/T> or PCM connector C-55
+terminal 56 <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR: B-22
+YES : Go to Step 19.
+NO : Repair it. Then go to Step 20.
+AAKK000000221177AB
+CONNECTOR : C-58<M/T>, C-55<A/T>
+PCM<A/T> ECM<M/T>
+C-55 C-58
+AK000225AI
+STEP 19. Check the distributor installation.
+Q:Is the distributor installation in a good condition?
+YES : Replace the distributor. Then go to Step 20.
+NO : Repair it. Then go to Step 20.
+STEP 20. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0340 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0401: Exhaust Gas Recirculation Flow Insufficient Detected
+. DTC SET CONDITIONS
+TECHNICAL DESCRIPTION
+• When the EGR solenoid switches from "OFF" to Check Conditions
+"ON" while the engine is running, EGR gas flows. • At least 20 seconds have passed since the last
+• The ECM <M/T> or PCM <A/T> checks how the monitor was complete.
+EGR gas flow signal changes. • Engine coolant temperature is higher than 76°C
+(169°F).
+. • Engine speed is at between 1,000 and 1,650 <M/
+T> or 910 and 1,650 <A/T> r/min.
+TSB Revision

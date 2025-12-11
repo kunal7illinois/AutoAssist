@@ -1,0 +1,28 @@
+54B-506 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 4. Check driver’s door switch connector D-11 and
+ETACS-ECU connector C-119 for damage.
+Q:Are driver’s door switch connector D-11 and ETACS-
+CONNECTOR <ECLIPSE>: D-11
+ECU connector C-119 in good condition?
+YES : Go to Step 5.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. If the
+functions, which are described in "CIRCUIT
+OPERATION", work normally, the input signal from
+DEVICE SIDE the driver’s door switch should be normal.
+D-11
+1 2 3
+AC106483AE
+CONNECTOR <ECLIPSE SPYDER>: D-11
+DEVICE SIDE
+D-11
+1 2 3
+AC106485AE
+CONNECTOR: C-119
+DEVICE SIDE
+1 2 3 4 5 6 7 8 91011121314151617181920
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AF
+TSB Revision

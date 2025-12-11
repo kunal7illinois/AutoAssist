@@ -1,0 +1,37 @@
+ES–124
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+Either of following condition A or B met -
+A. Ignition switch ON 0.012 seconds or more
+B. Electronic throttle actuator power ON
+TYPICAL MALFUNCTION THRESHOLDS
+P0120:
+VTA1 voltage 0.2 V or less, or 4.535 V or more
+P0122:
+ES
+VTA1 voltage 0.2 V or less
+P0123:
+VTA1 voltage 4.535 V or more
+P0220:
+VTA2 voltage 1.75 V or less, or 4.8 V or more
+P0222:
+VTA2 voltage 1.75 V or less
+P0223:
+VTA2 voltage when VTA1 0.2 V or more, and 2.02 V or less 4.8 V or more
+P2135 Case 1:
+Difference between VTA1 and VTA2 voltages 0.02 V or less
+P2135 Case 2:
+VTA1 voltage 0.2 V or less
+VTA2 voltage 1.75 V or less
+COMPONENT OPERATING RANGE
+VTA1 voltage 0.69 to 4.05 V
+VTA2 voltage 2.25 to 4.8 V
+FAIL-SAFE
+When any of these DTCs, as well as other DTCs relating to ETCS (Electronic Throttle Control System)
+malfunctions, are set, the ECM enters fail-safe mode. During fail-safe mode, the ECM cuts the current to
+the throttle actuator off, and the throttle valve is returned to a 6° throttle angle by the return spring. The
+ECM then adjusts the engine output by controlling the fuel injection (intermittent fuel-cut) and ignition
+timing, in accordance with the accelerator pedal opening angle, to allow the vehicle to continue at a
+minimal speed. If the accelerator pedal is depressed firmly and gently, the vehicle can be driven slowly.
+Fail-safe mode continues until a pass condition is detected, and the ignition switch is then turned OFF.

@@ -1,0 +1,63 @@
+Audi TT No. 4 / 4
+Current Flow Diagram
+Mechatronic unit for dual clutch gearbox, gearbox oil
+temperature sender, temperature sender in control unit,
+diagnosic connetion
+G93 Gearbox oil temperature sender
+G193 Automatic gearbox hydraulic pressure sender 1
+G194 Automatic gearbox hydraulic pressure sender 2
+G195 Gearbox output speed sender
+G196 Gearbox output speed sender 2
+G501 Input shaft speed sender 1
+G502 Input shaft speed sender 2
+G510 Temperature sender in control unit
+J519 Onboard supply control unit
+J533 Data bus diagnostic interface
+J623 Engine control unit
+J743 Mechatronic unit for dual clutch gearbox
+T16 16-pin connector, diagnostic connector
+T16a 16-pin connector, black, connector E, on onboard power supply
+control unit
+T20d 20-pin connector, black, on data bus diagnostic interface
+G93 ϑ G195 G196 G501 G502 T20e 20-pin connector, on mechatronic unit for dual clutch gearbox
+T52c 52-pin connector, brown, on onboard supply control unit
+J743 B383 Connection 1 (drive train CAN bus, high), in main wiring harness
+G193 G194 ϑ G510 B390 Connection 1 (drive train CAN bus, low), in main wiring harness
+T20e/17 T20e/10 T20e/15 T20e/1
+P/N K
+B444 Connection 1 (diagnosis), in main wiring harness
+4499 5500
+• • • • ✱✱ • CAN bus (data wire)
+0,35 0,35 0,35 0,35 0,35 0,35
+* ⇒ Engine Current Flow Diagram
+li/sw or/sw or/sw or/br or/br gr/ws
+** Is dropped from June 2008
+T52c/30##
+# up to May 2009
+T16a/7#
+J519
+B383 B390 B444
+## from June 2009
+• • • •
+0,35 0,35 0,35 0,35 0,35 0,35
+or/sw or/sw or/br or/br gr/ws gr/ws
+K ws = white
+T
+/1
+2
+6
+0d T
+/6
+20d T16/7
+sw = black
+J623 J533 J623 J533 J623 ro = red
+✱ ✱ ✱ br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+29 30 31 32 33 34 35 36 37 38 39 40 41 42 or = orange
+8J0-004040409
+rs = pink
+Edition 04.2009

@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then turn it ON (II) again.
+4. Check for DTCs with the HDS.
+Is DTC 64-12 indicated?
+YES -Go to step 5.
+NO -Intermittent failure, the system is OK at this time. Check for loose
+terminals between the steering angle sensor 5P connector and the VSA
+modulator-control unit 37P connector. Refer to INTERMITTENT
+FAILURES TROUBLESHOOTING (see ).
+5. Turn the ignition switch to LOCK (0).
+6. Disconnect the steering angle sensor 5P connector.
+7. Disconnect the VSA modulator-control unit 37P connector.
+8. Check for continuity between VSA modulator-control unit 37P connector
+terminal No. 7 and steering angle sensor 5P connector terminal No. 5.
+Fig. 39: Checking Continuity Between VSA Modulator-Control Unit 7
+And Steering Angle Sensor 5P Connector Terminal No. 5
+Is there continuity?
+YES -Go to step 9.

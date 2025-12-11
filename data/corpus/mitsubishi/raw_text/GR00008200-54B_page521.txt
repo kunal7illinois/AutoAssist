@@ -1,0 +1,31 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-521
+SYMPTOM PROCEDURES
+CONNECTOR <ECLIPSE>: D-06
+AC106554AC
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+If the SWS communication line between the sunroof
+The ETACS-ECU receives a signal through the sun-
+motor assembly and the ETACS-ECU is defective,
+roof motor assembly via the SWS communication
+the ETACS-ECU cannot identify the input signal from
+line from the sunroof switch, and sends a signal to
+the sunroof switch even if the sunroof is normal.
+the data link connector.
+.
+. TROUBLESHOOTING HINTS
+• Malfunction of the sunroof switch
+• Malfunction of the sunroof motor assembly
+• Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Check the sunroof operation.
+Q:Does the sunroof work normally?
+YES : Go to Step 2.
+NO : Refer to Inspection Procedure F-1 "Sunroof does not
+operate P.54B-167."
+TSB Revision

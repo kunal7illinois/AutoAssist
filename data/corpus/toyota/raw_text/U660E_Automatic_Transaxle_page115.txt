@@ -1,0 +1,33 @@
+AX–115
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+INSPECTION PROCEDURE
+1 CHECK OTHER DTC OUTPUT (IN ADDITION TO DTC P0872 OR P0873)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent AX
+tester on.
+(c) Enter the following items: "DIAGNOSIS / OBD/MOBD /
+ECT / DTC INFO / CURRENT CODES".
+(d) Read the DTCs using the intelligent tester.
+Result
+Display (DTC output) Proceed to
+Only "P0873" is output A
+Only "P0872" is output B
+"P0872 or P0873" and other DTCs C
+HINT:
+If a solenoid is stuck OFF, DTCs for several solenoids
+including the malfunctioning solenoid will be detected.
+B Go to step 4
+C GO TO DTC CHART
+A
+2 CHECK TRANSMISSION WIRE (SHORT TO GROUND)
+(a) Remove the TCM.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Condition Specified Condition
+10 (TPS1) - Body ground (Valve body
+TPS1 10 kΩ or higher
+assembly)
+OK REPLACE TCM
+C133212E10
+NG

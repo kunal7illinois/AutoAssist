@@ -1,0 +1,61 @@
+Key Reminder without Smart Key System and Seat Belt Warning
+System Outline
+Key Reminder Operation
+With the ignition key inserted in the key cylinder (Unlock warning SW on), the ignition SW still off and driver’s door open
+(Door courtesy SW on), when a signal is input to the combination meter, the combination meter operates key reminder
+buzzer sounds.
+Seat Belt Warning Operation
+When the driver has not fastened the seat belt while the power SW is pushed to IG ON position (Power SW type), or while
+the ignition SW is ON (Ignition SW type), the driver seat belt warning light blinks, and a warning buzzer comes on.
+Also, in the front passenger seat, a sensor recognizes passenger, and when the passenger has not fastened the seat belt,
+the front passenger seat belt warning light blinks.
+: Parts Location
+Code See Page Code See Page Code See Page
+48 (2GR–FE) E44 C 57 O21 60
+AA2255 CC
+52 (2AZ–FE) E45 D 57 T7 A 62 (*1)
+48 (2GR–FE) E49 57 T10 A 62 (*1)
+AA2266 AA
+52 (2AZ–FE) F1 A 58 T11 B 62 (*1)
+A41 A 59 F2 B 58 T14 A 62 (*1)
+A42 B 59 F3 58 T15 A 62 (*1)
+49 (2GR–FE) N1 B 59 T16 A 62 (*1)
+AA6600 BB
+53 (2AZ–FE) 62 (*1) T17 A 62 (*1)
+NN33
+C57 51 (2GR–FE) 63 (*2) T18 B 62 (*1)
+E7 B 56 A 60 d1 D 63 (*2)
+NN66
+E8 C 56 B 60 d2 B 63 (*2)
+E9 D 56 O1 C 59 d3 B 63 (*2)
+E22 56 O3 B 63 (*2) d4 B 63 (*2)
+E30 A 56 O4 C 63 (*2) d5 B 63 (*2)
+E43 B 57 O20 A 62 (*1)
+: Relay Blocks
+Code See Page Relay Blocks (Relay Block Location)
+1 22 Engine Room R/B (Engine Compartment Left)
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+1A 25 Engine Room Main Wire and Engine Room J/B (Engine Compartment Left)
+3A
+3C
+3D
+3F
+3333366666 IIIIInnnnnssssstttttrrrrruuuuummmmmeeeeennnnnttttt PPPPPaaaaannnnneeeeelllll WWWWWiiiiirrrrreeeee aaaaannnnnddddd JJJJJ/////BBBBB NNNNNooooo.....33333 (((((BBBBBeeeeehhhhhiiiiinnnnnddddd ttttthhhhheeeee CCCCCooooommmmmbbbbbiiiiinnnnnaaaaatttttiiiiiooooonnnnn MMMMMeeeeettttteeeeerrrrr)))))
+3G
+3J
+3L
+3O
+3P
+3Q
+333666 IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll NNNooo...222 WWWiiirrreee aaannnddd JJJ///BBB NNNooo...333 (((BBBeeehhhiiinnnddd ttthhheee CCCooommmbbbiiinnnaaatttiiiooonnn MMMeeettteeerrr)))
+3R
+3U
+ID 30 Engine Room Main Wire and Instrument Panel J/B (Cowl Side Left)
+IF 30
+IG IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll WWWiiirrreee aaannnddd IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll JJJ///BBB (((CCCooowwwlll SSSiiidddeee LLLeeefffttt)))
+3311
+IH
+* 1 : w/ Power Seat * 2 : w/o Power Seat
+194
+CAMRY (EM0250U)

@@ -1,0 +1,62 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-223
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC SET CONDITIONS Judgement Criteria (change in the angular accel-
+eration of the crankshaft is used for misfire
+Check Conditions
+detection).
+• Engine speed is between 500 and 6,000 r/min.
+• Misfire has occurred more frequently than
+• Engine coolant temperature is higher than −10°C
+allowed during the last 200 revolutions [when the
+(14°F).
+catalyst temperature is higher than 950°C
+• Intake air temperature is higher than −10°C
+(1742°F)].
+(14°F).
+or
+• Barometric pressure is higher than 76 kPa (11
+• Misfire has occurred in 20 or more of the last
+psi).
+1,000 revolutions (corresponding to 1.5 times the
+• Adaptive learning is complete for the vane which
+limit of emission standard).
+generates a crankshaft position signal.
+• While the engine is running, excluding gear shift-
+.
+TROUBLESHOOTING HINTS (The most likely
+ing, deceleration, sudden acceleration/decelera-
+causes for this code to be set are: )
+tion and A/C compressor switching.
+• The throttle deviation is −0.059 volt/10 ms to • Ignition system related part(s) failed.
+• Poor crankshaft position sensor.
++0.059 volt/10 ms.
+• Incorrect air/fuel ratio.
+• Low compression pressure.
+• Skipping of timing belt teeth.
+• EGR system and EGR valve failed.
+• ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 22:
+Crankshaft Position Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+22, Crankshaft Position Sensor.
+16 PIN (4) Check the waveform of the crankshaft position sensor while
+keeping the engine speed constant.
+MB991502
+• The pulse width should be constant.
+AKX01177AB
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : Go to Step 2.
+NO : Refer to, DTC P0335 − Crankshaft Position Sensor
+Circuit Malfunction P.13A-236.
+TSB Revision

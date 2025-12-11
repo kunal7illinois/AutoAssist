@@ -1,0 +1,15 @@
+54B-266 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTOR: A-10X
+FRONT-ECU
+AC106535AB
+. .
+CIRCUIT OPERATION TECHNICAL DESCRIPTION (COMMENT)
+When the lighting switch is set to "TAIL" position, the If the tail lights do not illuminate normally, the column
+"TAIL" signal is sent through the column-ECU (incor- switch or the front-ECU may be defective.
+porated in the column switch) to the front-ECU. IF
+the front-ECU receives the "TAIL" signal through the . TROUBLESHOOTING HINTS
+column-ECU, the front-ECU turns on the tail light • Malfunction of the column switch (tail light switch)
+relay (incorporated in the front-ECU), thus causing • Malfunction of the front-ECU
+the tail lights to illuminate. • Damaged harness wires or connectors
+TSB Revision

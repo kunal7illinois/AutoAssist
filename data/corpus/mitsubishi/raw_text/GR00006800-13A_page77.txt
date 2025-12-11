@@ -1,0 +1,43 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-77
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the sensor supply voltage at ECM
+connector C-60 <M/T> or PCM connector C-54 <A/T> by
+backprobing.
+(1) Do not disconnect the ECM connector C-60 <M/T> or PCM
+connector C-54 <A/T>.
+(2) Disconnect the intake air temperature sensor connector B-
+14.
+(3) Turn the ignition switch to the "ON" position.
+(4) Measure the voltage between terminal 72 <M/T> or 64 <A/
+<M/T>
+T> and ground by backprobing.
+• Voltage should be between 4.5 and 4.9 volts.
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+7172737475767778798081 Q:Is the voltage normal?
+8283848586878889909192
+YES : Go to Step 6.
+C-60 CONNECTOR NO : Go to Step 7.
+HARNESS SIDE VIEW
+AK000285AC
+<A/T>
+C-54 CONNECTOR
+HARNESS SIDE VIEW
+41 42 43 444546
+47 48 495051525354555657
+58 59 60616263 646566
+AK000286AD
+STEP 6. Check connector C-60 at ECM <M/T> or connector
+C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-60<M/T>,C-54<A/T>
+YES : Repair harness wire between intake air temperature
+sensor connector B-14 and ECM connector C-60 <M/
+ECM<M/T>
+T> or PCM connector C-54 <A/T> because of open
+OR
+PCM<A/T> circuit. Then go to Step 11.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 11.
+C-54 C-60
+AK000280BB
+TSB Revision

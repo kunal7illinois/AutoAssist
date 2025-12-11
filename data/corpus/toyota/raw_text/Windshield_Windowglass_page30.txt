@@ -1,0 +1,45 @@
+WS–30
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+INSPECTION PROCEDURE
+1 CHECK DTC OUTPUT
+(a) Turn the ignition switch off.
+WS (b) Wait for at least 10 seconds, and then turn the ignition
+switch on (IG).
+(c) Check whether the DTC output recurs.
+Result
+Display (DTC output) Proceed to
+No output A
+Output DTCs B
+B GO TO DTC CHART
+A
+2 INSPECT POWER WINDOW REGULATOR MASTER SWITCH ASSEMBLY
+(a) Disconnect the M1 connector.
+(b) Measure the voltage and resistance according to the
+M1 value(s) in the table below.
+B
+E Standard voltage
+Tester Connection Condition Specified Condition
+6 (B) - Body ground Ignition switch on (IG) 10 to 14 V
+Standard resistance
+Tester Connection Condition Specified Condition
+B137060E01 1 (E) - Body ground Always Below 1 Ω
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+3 INSPECT POWER WINDOW REGULATOR MASTER SWITCH ASSEMBLY
+(a) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+(with Jam Protection)
+Tester Connection Condition Specified Condition
+8 (UP) - 1 (E) - 4 (AUTO) Below 1 Ω
+Auto UP
+5 (DN) - 6 (B) Below 1 Ω
+8 (UP) - 1 (E) Below 1 Ω
+Manual UP
+5 (DN) - 6 (B) Below 1 Ω
+B050518E04
+8 (UP) - 5 (DN) - 6 (B) OFF Below 1 Ω
+5 (DN) - 1 (E) Below 1 Ω
+Manual DOWN
+8 (UP) - 6 (B) Below 1 Ω

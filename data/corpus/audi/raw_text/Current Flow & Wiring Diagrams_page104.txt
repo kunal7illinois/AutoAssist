@@ -1,0 +1,58 @@
+Audi TT No. 8 / 6
+Current Flow Diagram
+Driver door control unit, mirror adjustment switch, mirror
+adjustment change-over switch, adjustment switch for
+mirror with fold-in feature, driver side interior locking button
+for central locking system
+E43 Mirror adjustment switch
+E48 Mirror adjustment change-over switch
+E168 Adjustment switch for mirror with fold-in feature
+E308 Driver side interior locking button
+J386 Driver door control unit
+0,35 0,35 R65 0,35 0,35 L146 Driver side door inner handle illumination bulb
+ro/sw ro/sw ro/sw ro/ws L156 Switch illumination bulb
+T32f 32-pin connector, connector C, on driver door control unit
+2 2 2
+W30 Driver side door warning lamp
+# # #
+W30 W31 L146 W31 Front left entry light
+1/31 1/31 1/31
+303 Earth connection 3, in driver door wiring harness
+0,35 0,35 0,35
+br br br R65 Positive connection (58), in driver door wiring harness
+5599 6611 6666 * up to May 2007
+J386
+T32f/18 T32f/17 ** from June 2007
+# Models with LED equipment (QQ1)
+T32f/22✱ T32f/20✱ T32f/19✱ T32f/7✱ T32f/2 T32f/6 T32f
+T32f/25✱✱ T32f/8✱✱ T32f/6✱✱ T32f ✱ ✱ /31✱
+/32 T32f T32f T32f
+✱✱ /19✱✱ /24✱✱ /1✱✱
+✱✱ ✱
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+bl/li bl/sw bl/gr li/bl br br/ro bl/ro br/bl
+4466 6677
+0,35 4477
+br
+✱✱
+0,35
+br/ro
+1/58s 2/31 3 4
+2 1/31 3/58s 4/58d
+L156
+ws = white
+E43 E48 E168 E308
+sw = black
+5599 6611 5522 5533 5555 6666 6677 ro = red
+br = brown
+0,35 0,35 0,35 0,35 0,35 0,35 0,35
+gn = green
+br br br br br br br
+bl = blue
+303 gr = grey
+li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 or = orange
+8J0-008060408
+rs = pink
+Edition 04.2008

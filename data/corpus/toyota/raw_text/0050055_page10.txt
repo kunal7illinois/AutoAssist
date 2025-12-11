@@ -1,0 +1,44 @@
+ES–308
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+HINT:
+• For more information, see the diagrams below.
+Normal Condition: Malfunction Condition:
+(3) Approximately 4,000 rpm (3) Approximately 4,000 rpm
+(2) Approximately 2,500 rpm (2) Approximately 2,500 rpm
+(1) Idling (1) Idling (1) Idling (1) Idling
+ES Engine RPM Engine RPM
+A/F Sensor A/F Sensor
+Voltage Voltage
+Fuel-cut Fuel-cut
+"Condition (1), (2)" "Condition (3)" When A/F sensor circuit malfunctioning,
+Remains at approximately 3.3 V 3.8 V or more voltage output does not change
+A107161E08
+• If the output voltage of the A/F sensor remains at
+approximately 3.3 V (see Malfunction Condition diagram)
+under any conditions, including those above, the A/F
+sensor may have an open circuit. (This will also happen if
+the A/F sensor heater has an open circuit.)
+• If the output voltage of the A/F sensor remains at either
+approximately 3.8 V or more, or 2.8 V or less (see
+Malfunction Condition diagram) under any conditions,
+including those above, the A/F sensor may have a short
+circuit.
+• The ECM stops fuel injection (fuel cut) during engine
+deceleration. This causes a lean condition and result in a
+momentary increase in the A/F sensor output voltage.
+• The ECM must establish a closed throttle valve position
+learning value to perform fuel cut. If the battery terminal
+has been reconnected, the vehicle must be driven over 16
+km/h (10 mph) to allow the ECM to learn the closed throttle
+valve position.
+• When the vehicle is driven:
+The output voltage of the A/F sensor may be below 2.8 V
+during fuel enrichment. For the vehicle, this translates to a
+sudden increase in speed with the accelerator pedal fully
+depressed when trying to overtake another vehicle. The A/
+F sensor is functioning normally.
+• The A/F sensor is a current output element; therefore, the
+current is converted into a voltage inside the ECM.
+Measuring the voltage at the connectors of the A/F sensor
+or ECM will show a constant voltage result.
+NG Go to step 9

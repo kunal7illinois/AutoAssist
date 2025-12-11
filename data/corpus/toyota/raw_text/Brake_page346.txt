@@ -1,0 +1,28 @@
+BC–335
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DTC C0226/21 SFR Solenoid Circuit
+DTC C0236/22 SFL Solenoid Circuit
+DTC C0246/23 SRR Solenoid Circuit
+DTC C0256/24 SRL Solenoid Circuit
+DESCRIPTION
+These solenoids turn on when signals are received from the skid control ECU and they control the
+pressure acting on the wheel cylinders to control the braking force.
+DTC No. DTC Detection Condition Trouble Area
+C0226/21
+C0236/22 • Each solenoid circuit
+Solenoid valve signal does not match the check result.
+C0246/23 • Brake actuator assembly
+C0256/24
+BC
+WIRING DIAGRAM
+Brake Actuator Assembly
+(Skid Control ECU)
+ALT ABS No. 2 3
+A60 +BS
+4
+A60 GND1
+FL MAIN
+1
+A60 GND2
+Battery
+C131988E04

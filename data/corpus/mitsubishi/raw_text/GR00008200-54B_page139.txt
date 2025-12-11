@@ -1,0 +1,44 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-139
+SYMPTOM PROCEDURES
+STEP 5. Check at front power window sub-switch
+connector E-05 in order to check the power window relay
+circuit of the power supply to the power window sub-
+switch.
+(1) Disconnect power window sub-switch connector E-05, and
+CONNECTOR: E-05
+DOOR (RH) measure at the harness side.
+E-05
+HARNESS SIDE
+3 2 1
+8 7 6 5 4
+AC106601AD
+(2) Measure the voltage between terminal 7 and ground.
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+CONNECTOR: E-05
+(HARNESS SIDE)
+Q:Does the measured voltage correspond with this range?
+33 22 11 YES : Go to Step 8.
+88 77 66 55 44 NO : Go to Step 6.
+AACC110066664422AB
+STEP 6. Check power window relay connector C-116 and
+front power window sub-switch connector E-05 for
+damage.
+Q:Are power window relay connector C-116 and power
+CONNECTOR: C-116 C-116
+window sub-switch connector E-05 in good condition?
+JUNCTION BLOCK
+(FRONT VIEW) 1 2 3 YES : Go to Step 7.
+4
+NO : Repair or replace the connector. Refer to GROUP
+5 00E, Harness Connector Inspection P.00E-2. When
+the power window sub-switch is operated, the power
+window (RH) should open or close normally.
+AC102788AZ
+CONNECTOR: E-05
+DOOR (RH)
+E-05
+1 2 3
+4 5 6 7 8
+AC106601AC
+TSB Revision

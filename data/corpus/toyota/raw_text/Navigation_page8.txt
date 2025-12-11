@@ -1,0 +1,26 @@
+NS–8
+NAVIGATION – NAVIGATION SYSTEM
+(d) Map matching
+The current driving route is calculated by
+autonomous navigation (according to the gyro
+sensor and vehicle speed sensor) and GPS
+navigation. This information is then compared with
+possible road shapes from the map data in the map
+disc and the vehicle position is set onto the most
+appropriate road.
+Start
+Actual driving route
+Driving route on the display
+(Route by estimation)
+L1 L2 L3 Roads
+L 1 L 2 L 3
+The system compares the shape of the roads L1,
+L2 and L3 to the estimated running track after the
+vehicle makes a right turn. At point A, the vehicle
+position differs enough from the shape of L1 that
+A
+the display switches to the road L2.
+Map
+Matching
+NS
+I100030E07

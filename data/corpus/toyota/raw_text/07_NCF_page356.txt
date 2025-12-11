@@ -1,0 +1,44 @@
+BE-22 BODY ELECTRICAL - LIGHTING
+3. Interior Light Control
+(cid:3) The interior light control (interior light and ignition switch illumination*1/engine switch illumination*2)
+consists primarily of the fade-in/fade-out function and timer illumination function.
+(cid:3) The interior light control activates as described in the diagram below when one of items is in the respective
+state.
+(cid:3) This control is controlled by the main body ECU.
+*1: Models without smart key system
+*2: Models with smart key system
+Light OFF State
+Condition (2)
+Condition (4) Condition (1)
+Light ON State
+(During 15 Second)*1
+Condition (3) Condition (2)
+Light ON State
+Condition (5) (Constantly ON)
+241BE32
+Condition Item
+(cid:3) With power source*2 OFF and all doors closed, any door is unlocked.
+(cid:3) With all doors closed, power source*2 is changed from ACC to OFF.
+Condition (1)
+(cid:3) With power source OFF and all doors closed, key enters any actuation area
+around the doors. (Only for models with smart key system)
+Condition (2) (cid:3) Any door is open.
+Condition (3) (cid:3) With power source*2 OFF, all doors are closed.
+(cid:3) Power source*2 is ACC or ON.
+(cid:3) More than 15 seconds have elapsed since the Light ON State (15 second
+Condition (4)
+duration)*1.
+(cid:3) With power source*2 OFF and all doors closed, all doors are locked.
+(cid:3) With power source*2 ACC or ON, all doors are closed.
+Condition (5)
+(cid:3) With power source*2 OFF and all doors closed, all doors are locked.
+*1: The function setting can be changed using the customized body electronics system. For details, refer to
+Customized Body Electronics System section on page BE-13.
+*2: The power source condition can be changed by operating the engine switch on models with the smart
+key system, and the ignition switch on models without the smart key system.
+4. Battery Saving Control
+When the following two conditions have been met, battery saving control turns off the lights illuminated by
+the illuminated entry controls. Battery saving control is controlled by the main body ECU.
+(cid:3) The key is not in the actuation area (models with smart key system), or the ignition key is not in the ignition
+key cylinder (models without smart key system).
+(cid:3) There is no change in the condition of the doors for 20 minutes.

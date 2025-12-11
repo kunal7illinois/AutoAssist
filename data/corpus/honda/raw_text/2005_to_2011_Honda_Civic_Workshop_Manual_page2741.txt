@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System (R18A1) - Civic (Except Hybrid)
+Fig. 8: Checking Continuity Between Gauge Control Module (TACH)
+Terminal No. 32 And Body Ground
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES - Go to step 14.
+NO - Repair open in the wire between the gauge control module (tach) (signal
+line) and the fuel gauge sending unit, then go to step 24.
+14. Remove the jumper wire from the fuel tank unit 4P connector.
+15. Remove the fuel tank unit (see FUEL TANK UNIT
+REMOVAL/INSTALLATION ).
+16. Test the fuel gauge sending unit (see FUEL GAUGE SENDING UNIT
+TEST ).
+Is the fuel gauge sending unit OK?
+YES - Go to step 17.
+NO - Replace the fuel gauge sending unit (see FUEL PUMP/FUEL GAUGE
+SENDING UNIT REPLACEMENT ), then go to step 23.
+17. Connect the fuel tank unit 4P connector.
+18. Reconnect the gauge control module (tach) 36P connector.
+19. Turn the ignition switch ON (II).
+20. Clear the DTC with the HDS.

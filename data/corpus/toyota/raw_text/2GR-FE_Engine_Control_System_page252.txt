@@ -1,0 +1,49 @@
+ES–252
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Reference: Inspection using an oscilloscope
+EV1, EV2 and NE Signal Waveform
+5 V/DIV.
+NE
+GND
+EV1
+GND
+EV2
+GND
+20 ms./DIV.
+ES
+A140642E02
+HINT:
+• The correct waveform is as shown.
+• EV1+ and EV2+ stand for the VVT sensor signal, and NE+ stands for the CKP sensor signal.
+Item Content
+NE+ - NE-
+Terminal EV1+ - EV1-
+EV2+ - EV2-
+5 V/DIV.
+Equipment Setting
+20 ms./DIV.
+Condition Cranking or idling
+MONITOR DESCRIPTION
+If no signal is transmitted by the VVT sensor despite the engine revolving, or the rotations of the camshaft
+and the crankshaft are not synchronized, the ECM interprets this as a malfunction of the sensor.
+MONITOR STRATEGY
+P0365: VVT sensor (Bank 1) open/short
+P0365: VVT position/Crankshaft position misalignment (Bank 1)
+P0367: VVT position sensor (Bank 1) range check (low voltage)
+P0368: VVT position sensor (Bank 1) range check (high voltage)
+Related DTCs
+P0390: VVT sensor (Bank 2) open/short
+P0390: VVT position/Crankshaft position misalignment (Bank 2)
+P0392: VVT position sensor (Bank 2) range check (low voltage)
+P0393: VVT position sensor (Bank 2) range check (high voltage)
+Required Sensors/Components (Main) VVT position sensor (Bank 1 and 2)
+Required Sensors/Components (Sub) Crankshaft position sensor
+Frequency of Operation Continuous
+Duration 5 seconds
+2 driving cycles: P0365, P0390 (cranking)
+MIL Operation
+Immediate: Others
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+All:
+Monitor runs whenever following DTCs are not present None

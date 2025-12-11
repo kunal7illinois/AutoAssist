@@ -1,0 +1,25 @@
+2AZ-FE ENGINE CONTROL SYSTEM – CAMSHAFT TIMING OIL CONTROL VALVE
+ES–395
+ASSEMBLY
+ON-VEHICLE INSPECTION
+Intelligent Tester
+1. CHECK CAMSHAFT TIMING OIL CONTROL VALVE
+ASSEMBLY
+(a) Check the operation.
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch ON.
+(3) Turn the intelligent tester main switch ON.
+(4) Start and warm up the engine.
+(5) Select the menu items: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST / VVT
+DLC3
+CTRL B1.
+(6) Operate the OCV using the intelligent tester,
+and then check the engine speed. ES
+CAN VIM
+Standard condition
+B127989E01 Tester Operation Specified Condition
+OCV is OFF Normal engine speed
+OCV is ON Rough idling or engine stalls
+If the operation is not as specified, check the oil
+control valve, wire harness and ECM.

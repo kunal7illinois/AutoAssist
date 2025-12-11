@@ -1,0 +1,29 @@
+54A-134 CHASSIS ELECTRICAL
+RADIO AND TAPE PLAYER
+STEP 1. Check the amplifier power supply circuit by
+backprobing.
+(1) Do not disconnect amplifier connector D-20.
+CONNECTOR<ECLIPSE> : D-20
+DEVICE SIDE
+1 2 3 4 5 6 7 8
+9101112131415161718
+AC106483AK
+CONNECTOR <ECLIPSE SPYDER> : D-20
+DEVICE SIDE
+1 2 3 4 5 6 7 8
+9101112131415161718
+AC106485AK
+(2) Measure the voltages between terminal 2 and ground by
+HARNESS SIDE
+backprobing.
+D-20
+(3) Measure the voltage between terminal 10 and ground by
+backprobing.
+• The measured value should be approximately 12 volts
+(battery positive voltage).
+1 2 3 4 5 6 7 8
+9 101112131415161718 Q:Does the measured voltage correspond with this range?
+YES : Go to Step 4.
+NO : Go to Step 2.
+AC106896AB
+TSB Revision

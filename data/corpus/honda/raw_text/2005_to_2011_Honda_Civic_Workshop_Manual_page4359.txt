@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+(see VSA MODULATOR-CONTROL UNIT REMOVAL AND
+INSTALLATION ), and retest.
+NO -Repair open in the wire between the No. 4 (7.5 A) fuse in the under-dash
+fuse/relay box and the VSA modulator-control unit.
+DTC 62-21: VSA MODULATOR-CONTROL UNIT IG HIGH VOLTAGE
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Turn the ignition switch to LOCK (0), then start the engine.
+4. Check for DTCs with the HDS.
+Is DTC 62-21 indicated?
+YES -Go to step 5.
+NO -Intermittent failure, the system is OK at this time.
+5. Using a voltmeter, measure the voltage between the battery terminals.
+Compare the voltage measured at the battery with the voltage shown in the
+VSA DATA LIST with the HDS.
+Is there a voltage difference of 3 V or more?
+YES -Replace the VSA modulator-control unit (see VSA MODULATOR-
+CONTROL UNIT REMOVAL AND INSTALLATION ).
+NO -Check the battery (see BATTERY TEST ), and troubleshoot the
+alternator regulator circuit (see ALTERNATOR AND REGULATOR
+CIRCUIT TROUBLESHOOTING ). Also check for loose terminals in the
+VSA modulator-control unit 37P connector. If it is OK, replace the VSA
+modulator-control unit (see VSA MODULATOR-CONTROL UNIT
+REMOVAL AND INSTALLATION ).
+DTC 64-11: STEERING ANGLE SENSOR POWER CIRCUIT SHORT
+1. Turn the ignition switch ON (II).

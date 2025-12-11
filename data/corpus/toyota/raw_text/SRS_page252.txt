@@ -1,0 +1,55 @@
+RS–250
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+Terminal
+Terminal No. (Symbols) Wiring Color Condition Specification
+Description
+Rear occupant Ignition switch on (IG), a load
+d1-5 (SVC3) - d1-3 (SGD3) GR - W classification sensor is applied to rear occupant 4.5 to 5.1 V
+LH power supply line classification sensor LH
+Rear occupant Ignition switch on (IG), a load
+d1-6 (SVC4) - d1-4 (SGD4) V - BR classification sensor is applied to rear occupant 4.5 to 5.1 V
+RH power supply line classification sensor RH
+Front occupant Ignition switch on (IG), a load
+d1-7 (SIG1) - d1-1 (SGD1) SB - G classification sensor is applied to front occupant 0.2 to 4.9 V
+LH signal line classification sensor LH
+Front occupant Ignition switch on (IG), a load
+d1-8 (SIG2) - d1-2 (SGD2) L - O classification sensor is applied to front occupant 0.2 to 4.9 V
+RH signal line classification sensor RH
+Rear occupant Ignition switch on (IG), a load
+d1-9 (SIG3) - d1-3 (SGD3) Y - W classification sensor is applied to rear occupant 0.2 to 4.9 V
+LH signal line classification sensor LH
+Rear occupant Ignition switch on (IG), a load
+d1-10 (SIG4) - d1-4 (SGD4) R - BR classification sensor is applied to rear occupant 0.2 to 4.9 V
+RH signal line classification sensor RH
+Front occupant Ignition switch on (IG), a load
+d1-11 (SVC1) - d1-1 (SGD1) R - G classification sensor is applied to front occupant 4.5 to 5.1 V
+LH power supply line classification sensor LH
+Front occupant Ignition switch on (IG), a load
+d1-12 (SVC2) - d1-2 (SGD2) W - O classification sensor is applied to front occupant 4.5 to 5.1 V
+RH power supply line classification sensor RH
+DIAGNOSIS SYSTEM
+CG SG CANH SIL 1. CHECK DLC3
+(a) The ECU uses ISO 15765-4 for communication.
+The terminal arrangement of the DLC3 complies
+RS with SAE J1962 and matches the ISO 15765-4
+format.
+CANL BAT
+H100769E16
+Symbols (Terminal No.) Terminal Description Condition Pulse condition
+SIL (7) - SG (5) Bus "+" Line During transmission Pulse generation
+CG (4) - Body ground Chassis Ground Always Below 1 Ω
+SG (5) - Body ground Signal ground Always Below 1 Ω
+BAT (16) - Body ground Battery positive Always 10 to 14 V
+CANH (6) - CANL (14) CAN bus line Ignition switch off (*) 54 to 69 Ω
+CANH (6) - BAT (16) HIGH-level CAN bus line Ignition switch off (*) 6 kΩ or higher
+CANH (6) - CG (4) HIGH-level CAN bus line Ignition switch off (*) 200 Ω or higher
+CANL (14) - BAT (16) LOW-level CAN bus line Ignition switch off (*) 6 kΩ or higher
+CANL (14) - CG (4) LOW-level CAN bus line Ignition switch off (*) 200 Ω or higher
+NOTICE:
+*: Before measuring the resistance, leave the
+vehicle as is for at least 1 minute and do not
+operate the ignition switch, any other switches,
+or the door.
+If the result is not as specified, the DLC3 may have
+a malfunction. Repair or replace the harness and
+connector.

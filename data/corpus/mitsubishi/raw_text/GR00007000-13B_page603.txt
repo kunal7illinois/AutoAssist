@@ -1,0 +1,49 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-603
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+.
+TROUBLESHOOTING HINTS (The most likely
+causes for this code to be set are:)
+• Malfunction of the A/C control system.
+• Open or shorted circuit, or improper connector
+contact.
+• ECM <M/T> or PCM <A/T> failed.
+DIAGNOSIS
+STEP 1. Check connector C-58 at ECM <M/T> or connector
+C-55 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+YES : Go to Step 2.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+STEP 2. Check the output voltage at ECM harness side
+connector C-58 <M/T> or PCM harness side connector C-
+55 <A/T>.
+(1) Disconnect the connector C-58 <M/T> or C-55 <A/T> and
+measure at the harness side.
+(2) Start the engine and run at idle.
+(3) Turn the A/C switch "ON".
+(4) Measure the voltage between terminal 65 <M/T> or 61 <A/
+<M/T>
+T> and ground.
+C-58 HARNESS • If atmospheric air temperature is 15°C (59°F) or less,
+SIDE CONNECTOR
+the voltage should be 1 volt or less.
+47 46 45 44434241 • If atmospheric air temperature is 18°C (65.4°F) or more,
+59 58 57565554535251504948
+68 67 6665 646362 6160 the voltage should be battery positive voltage.
+(5) Turn the A/C switch "OFF".
+(6) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Replace the ECM or PCM. Then confirm that the
+AK000366AC
+malfunction symptom is eliminated.
+<A/T>
+NO : Refer to GROUP 55, Introduction To Heater, Air
+Conditioning And Ventilation Diagnosis P.55-5.
+C-55 HARNESS
+SIDE CONNECTOR
+464544 4342 41
+575655545352515049 48 47
+666564 63626160 59 58
+AK000367AC
+TSB Revision

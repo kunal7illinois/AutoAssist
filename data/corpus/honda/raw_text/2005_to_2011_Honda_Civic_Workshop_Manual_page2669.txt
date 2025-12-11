@@ -1,0 +1,16 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+Fig. 34: Measuring Voltage Between Fuel Pressure Switch 2P Connector
+Terminal No. 1 And Body Ground
+Is there about 5 V?
+YES -Go to step 15.
+NO -Go to step 10.
+10. Turn the ignition switch OFF.
+11. Connect fuel pressure switch 2P connector terminal No. 1 to body ground with
+a jumper wire.
+Fig. 35: Connecting Fuel Pressure Switch 2P Connector Terminal No. 1 To
+Body Ground With Jumper Wire
+12. Jump the SCS line with the HDS.
+13. Disconnect PCM connector A (44P).
+14. Check for continuity between body ground and PCM connector terminal A41.

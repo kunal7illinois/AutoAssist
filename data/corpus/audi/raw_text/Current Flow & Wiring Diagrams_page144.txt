@@ -1,0 +1,54 @@
+Audi TT No. 16 / 2
+Current Flow Diagram
+Driver seat adjustment switch, driver seat adjustment
+thermal fuse 1, driver seat height adjustment motor, seat
+longitudinal adjustment motor
+E363 Driver seat longitudinal adjustment switch
+E364 Driver seat height adjustment switch
+S44 Driver seat adjustment thermal fuse 1
+SD3 Fuse 3 on fuse holder D
+T6ac 6-pin connector, on seat adjustment switch
+T10f 10-pin connector, red, under driver seat
+T10s 10-pin connector, on seat adjustment switch
+B299
+V245 Driver seat height adjustment motor
+10,0 16,0 V288 Seat longitudinal adjustment motor
+ro ro
+44 Earth point, lower part of left A-pillar
+B300 SD3
+110A 95 Earth connection 1, in seat adjuster wiring harness
+✱
+4,0 E363 E364
+ro
+376 Earth connection 11, in main wiring harness
+1 ϑ C ✱✱ B299 Positive connection 3 (30), in main wiring harness
+S44
+30A
+1a T6ac T6ac T6ac T6ac T10s/6 T10s/2 T10s/3 T10s
+/3 /4 /1 /2 /8 B300 Positive connection 4 (30), in main wiring harness
+4,0 2,5 2,5 2,5 2,5
+ro/gn ro/gn br ro/gn br B322 Positive connection 8 (30a), in main wiring harness
+B322 M1 M1 Positive connection 1 (30), in seat adjustment wiring harness
+* main fuse box, in luggage compartment, rear right, on the battery
+95 ** Relay carrier under left dash panel
+2,5 2,5 2,5 2,5 2,5 1,5 2,5 2,5 1,5 2,5 2,5 2,5 2,5
+ro/gn ro/gn ro/gn ro/gn ro/gn ro/gn br br br bl ro/bl sw/bl sw
+2299 2222 2255 6600 2211 5588
+1 2 1 2
+T10f T10f/5 M M
+/4 ws = white
+V288 V245
+sw = black
+ro = red
+4,0 2,5 br = brown
+br br
+gn = green
+bl = blue
+376
+gr = grey
+44 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-016020409
+rs = pink
+Edition 04.2009

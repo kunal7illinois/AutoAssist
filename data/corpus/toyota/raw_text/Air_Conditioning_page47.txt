@@ -1,0 +1,40 @@
+AC–47
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+ACTUATOR CHECK
+HINT:
+*: For AUTO A/C
+1. ACTUATOR CHECK*
+(a) Start the engine and warm it up.
+(b) Perform the indicator check (See page AC-34).
+(c) Push the "R/F" switch to perform the actuator check.
+HINT:
+Be sure to perform the actuator check after starting
+A/C Control Assembly:
+the engine.
+E124466E02
+(d) As the actuator check is repeated from steps 1 to 10
+at 1 second intervals, check the temperature and air
+A/C Control Assembly:
+flow visually and by hand.
+HINT: AC
+Display Code • The display blinks at 1 second intervals in the
+step operation.
+• Push the "OFF" switch to finish panel diagnosis.
+• Push the "AUTO" switch to enter the sensor
+check mode.
+E124466E06
+Conditions
+Step No. Display Code
+Blower Level Air Mix Damper Airflow Vent Air Inlet Damper Compressor
+1 0 0 0% open FACE FRESH OFF
+2 1 1 0% open FACE FRESH OFF
+RECIRCULATION /
+3 2 17 0% open FACE ON
+FRESH
+4 3 17 0% open FACE RECIRCULATION ON
+5 4 17 50% open B/L RECIRCULATION ON
+6 5 17 50% open B/L RECIRCULATION ON
+7 6 17 50% open FOOT FRESH ON
+8 7 17 100% open FOOT-0 FRESH ON
+9 8 17 100% open F/D FRESH ON
+10 9 31 100% open DEF FRESH ON

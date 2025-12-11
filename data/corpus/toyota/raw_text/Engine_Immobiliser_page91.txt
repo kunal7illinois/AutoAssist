@@ -1,0 +1,40 @@
+EI–87
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+DTC B2797 Communication Malfunction No. 1
+DESCRIPTION
+This DTC is output when an error occurs in communication between the transponder key amplifier and the
+transponder key ECU.
+HINT:
+Some noise is found in the communication line.
+DTC No. DTC Detection Condition Trouble Area
+• Key
+Keys are positioned too close to each other, or noise
+B2797 • Transponder key amplifier
+occurred in communication line
+• Transponder key ECU assembly
+WIRING DIAGRAM
+E15 E25
+Transponder Key Amplifier Transponder Key ECU Assembly
+4 BR 15
+CODE CODE
+B052550E15
+INSPECTION PROCEDURE
+NOTICE:
+EI
+If the transponder key ECU assembly is replaced, register the key and ECU communication ID
+(See page EI-57).
+1 CHECK KEYS
+(a) Check whether the ignition key being used is near other
+Example: ignition keys, as shown in the illustration. Also, check
+whether the key ring is in contact with the key grip.
+Result
+Result Proceed to
+Key is near other keys and/or key ring is in contact
+A
+with key grip.
+Key is not near other keys and/or key ring is not in
+B
+contact with key grip.
+B072873E02
+B Go to step 3
+A

@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+25, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals between the ATF temperature sensor and the PCM, then go to step 1.
+If the HDS indicates NOT COMPLETED, go to step 24.
+27. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+28. Start the engine with the shift lever in P, and wait for at least 20 seconds.
+29. Check for DTCs with the HDS.
+Is DTC P0713 indicated?
+YES -Check for poor connections or loose terminals between the ATF
+temperature sensor and the PCM. If the PCM was updated, substitute a known-
+good PCM (see SUBSTITUTING THE PCM ), then go to step 28. If the
+PCM was substituted, go to step 1.
+NO -Go to step 30.
+30. Monitor the OBD STATUS for P0713 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM (see ECM/PCM REPLACEMENT ). If
+any other DTCs were indicated in step 29, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals between the ATF temperature sensor and the PCM. If the PCM was
+updated, substitute a known-good PCM (see SUBSTITUTING THE PCM ),
+then go to step 28. If the PCM was substituted, go to step 1. If the HDS
+indicates NOT COMPLETED, go to step 28.
+DTC P0716: Problem in Input Shaft (Mainshaft) Speed Sensor Circuit; DTC P0717: Problem in Input Shaft (Mainshaft)
+Speed Sensor Circuit (No Signal Input)

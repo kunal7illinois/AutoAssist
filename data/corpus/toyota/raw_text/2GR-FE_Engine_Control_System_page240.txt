@@ -1,0 +1,44 @@
+ES–240
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2 CHECK HARNESS AND CONNECTOR (VVT SENSOR FOR INTAKE CAMSHAFT - ECM)
+(a) Disconnect the C41 or C45 VVT sensor connector.
+Wire Harness Side: (b) Disconnect the C55 ECM connector.
+(c) Measure the resistance according to the value(s) in the
+VVT Sensor
+table below.
+Standard resistance (Check for open)
+C41
+Tester Connection Specified Condition
+Bank 1
+VVR+ (C41-1) - VV1+ (C55-69) Below 1 Ω
+VVR- (C41-2) - VV1- (C55-92) Below 1 Ω
+C45 VVL+ (C45-1) - VV2+ (C55-67) Below 1 Ω
+Bank 2 VVL- (C45-2) - VV2- (C55-90) Below 1 Ω
+ES
+Standard resistance (Check for short)
+Tester Connection Specified Condition
+ECM Connector
+VVR+ (C41-1) or VV1+ (C55-69) - Body ground 10 kΩ or higher
+C55 VVR- (C41-2) or VV1- (C55-92) - Body ground 10 kΩ or higher
+VV2+ VVL+ (C45-1) or VV2+ (C55-67) - Body ground 10 kΩ or higher
+VVL- (C45-2) or VV2- (C55-90) - Body ground 10 kΩ or higher
+(d) Reconnect the VVT sensor connector.
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+VV1+
+VV2-
+VV1-
+A135027E01
+OK
+3 CHECK VVT SENSOR FOR INTAKE CAMSHAFT (SENSOR INSTALLATION)
+(a) Check the CKP sensor installation condition.
+OK:
+Sensor is installed correctly.
+NG REPAIR OR REPLACE VVT SENSOR
+Clearance
+OK NG
+BR03795E17
+OK
+4 CHECK CAMSHAFT TIMING GEAR ASSEMBLY (TEETH OF PLATE)
+(a) Check the teeth of the signal plate.

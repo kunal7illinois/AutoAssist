@@ -1,0 +1,41 @@
+AX–152
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Actuator gear position under TCM gear shift command
+Proceed to
+malfunction 1st 2nd 3rd 4th 5th 6th
+Stuck ON 2nd 2nd 3rd 4th 5th 6th
+Shift solenoid SL3 C
+Stuck OFF 1st 1st 3rd 4th 5th N*1
+Stuck
+3rd 3rd 3rd 4th 5th 5th
+AX
+Shift solenoid SL4
+ON*3
+D
+Stuck OFF 1st 2nd 1st 4th N*1 6th
+Stuck ON N*2 N*2 N*2 N*2 N*2 N*2
+Shift solenoid SLT Stuck E
+1st 2nd 3rd 4th 5th 6th
+OFF*3
+HINT:
+• *1: Neutral
+• *2: If the shift solenoid SLT is stuck on, the line
+pressure will be low. Therefore, the amount of torque
+that can be transmitted by each gear is lower than the
+normal limit. When the engine power exceeds this
+lowered limit, the engine speed will increase freely.
+• *3: When shift solenoid SLT is stuck OFF, gear
+shifting is normal.
+A GO TO DTC CHART (RELATED SHIFT
+SOLENOID VALVE (SL1) PERFORMANCE
+DTC P0746)
+B GO TO DTC CHART (RELATED SHIFT
+SOLENOID VALVE (SL2) PERFORMANCE
+DTC P0776)
+C GO TO DTC CHART (RELATED SHIFT
+SOLENOID VALVE (SL3) PERFORMANCE
+DTC P0796)
+E GO TO DTC CHART (RELATED SHIFT
+SOLENOID VALVE (SLT) PERFORMANCE
+DTC P2714)
+D

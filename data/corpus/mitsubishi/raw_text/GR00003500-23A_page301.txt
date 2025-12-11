@@ -1,0 +1,25 @@
+AUTOMATIC TRANSAXLE 23A-301
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 8. Using scan tool MB991502, check data list item 29:
+Vehicle Speed Signal.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine.
+(3) Set scan tool MB991502 to data reading mode for item 29,
+Vehicle Speed Signal.
+• Check that the speedometer and scan tool display
+speed match when driving at a vehicle speed of 40 km/h
+(25 mph).
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+16 PIN
+Q:Is the sensor operating properly?
+MB991502
+AC001252AB YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Replace the PCM.
+TSB Revision

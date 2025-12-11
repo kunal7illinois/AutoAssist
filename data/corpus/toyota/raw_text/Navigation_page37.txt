@@ -1,0 +1,25 @@
+NS–37
+NAVIGATION – NAVIGATION SYSTEM
+(d) LAN Monitor (Original) Screen
+*1
+I100058E04
+(1) Check Result/*1
+HINT:
+Check results of all the devices are displayed.
+Result Meaning Action
+No Err (OK) There are no communication DTCs. -
+The device responds with a "check"-type
+CHEK Look up the DTC in "Unit Check Mode".
+DTC.
+1. Check power supply wire harness of the
+The device was previously present, but does
+NCON device.
+not respond in diagnostic mode.
+2. Check the AVC-LAN of the device.
+Old The device responds with an "old"-type DTC. Look up the DTC in "Unit Check Mode".
+1. Check power supply wire harness of the
+The device responds in diagnostic mode, but
+NRES device.
+gives no DTC information.
+2. Check the AVC-LAN of the device.
+NS

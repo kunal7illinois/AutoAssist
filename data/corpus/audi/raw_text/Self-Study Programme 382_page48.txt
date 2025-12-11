@@ -1,0 +1,24 @@
+Infotainment
+Standard sound system
+This sound system has an auxiliary 5-channel DSP amplifier, the digital sound package control unit J525 which
+is diagnosable via CAN. The amplifier supplies the front two-way systems, the rear two-way systems and the
+central loudspeakers integrated in the dash panel.
+The standard sound system is standard equipment of the concert and symphony radios as well as the
+navigation systems with MMI operating logic. These radios or navigation systems do not use an internal
+amplifier.
+All loudspeakers are diagnosed via the amplifier, i.e. via address word 47. Vehicle model, equipment,
+networking and type of driving noise compensation are also coded in the amplifier.
+R22
+R23
+R158 R160
+R16
+R20
+R21
+R159 J525
+R14
+382_051
+R22 R23 R16 R160
+J525
+R158 R20 R21 R14 R159
+382_056
+48

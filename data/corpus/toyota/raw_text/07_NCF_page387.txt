@@ -1,0 +1,33 @@
+BODY ELECTRICAL - AIR CONDITIONING BE-53
+Solenoid Valve Operation
+(cid:1) The crank chamber is connected to the discharge passage. A solenoid valve is provided between the
+discharge passage (LO pressure) and the discharge passage (HI pressure).
+(cid:1) The solenoid valve operates under duty cycle control in accordance with the signals from A/C ECU.
+Suction
+A/C ECU A/C ECU
+Crank Chamber Piston
+Crank Chamber
+Discharge Pressure
+Discharge Pressure (HI)
+Discharge Pressure (LO)
+Piston Discharge Pressure (HI)
+Crank Chamber Pressure Solenoid Valve
+(2GR-FE Engine)
+Suction Pressure
+Solenoid Valve
+(2AZ-FE Engine) 025BE56TE
+(cid:1) When the solenoid valve closes (solenoid coil is energized), a difference in pressure is created and the
+pressure in the crank chamber decreases. Then, the pressure that is applied to the right side of the piston
+becomes greater than the pressure that is applied to the left side of the piston. This compresses the spring
+and tilts the swash plate. As a result, the piston stroke increases and the discharge capacity increases.
+Suction
+A/C ECU A/C ECU
+Discharge
+Discharge Pressure
+Solenoid Valve
+Crank Chamber
+(2GR-FE Engine)
+Pressure + Spring
+Piston Stroke: Large
+Force Solenoid Valve
+(2AZ-FE Engine) 025BE57TE

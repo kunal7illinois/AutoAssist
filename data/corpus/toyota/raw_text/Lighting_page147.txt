@@ -1,0 +1,34 @@
+LI–134
+LIGHTING – AUTOMATIC LIGHT CONTROL SENSOR
+BLAIOGDHYT IENLGECTRUICAL TOMATIC LIGHT CONTROL SENSOR
+COMPONENTS
+AUTOMATIC LIGHT CONTROL SENSOR
+NO. 1 DEFROSTER
+NOZZLE GARNISH
+E128181E01
+ON-VEHICLE INSPECTION
+Wire Harness Side:
+1. INSPECT AUTOMATIC LIGHT CONTROL SENSOR
+Automatic Light Control Sensor
+(for Manual Air Conditioning System)
+(a) Disconnect the E11 automatic light control sensor
+connector.
+(b) Measure the voltage and resistance according to
+LI E11
+the value(s) in the table below.
+CLTE
+Standard voltage
+CLTB
+Tester Connection Condition Specified Condition
+B109993E17
+E11-3 (CLTB) - E11-6 Ignition switch off Below 1 V
+(CLTE) Ignition switch on (IG) 10 to 14 V
+Standard resistance
+Tester Connection Specified Condition
+E11-6 (CLTE) - Body ground Below 1 Ω
+If the result is not as specified, there may be a
+malfunction on the wire harness side.
+(c) Reconnect the automatic light control sensor
+connector.
+(d) Connect an oscilloscope to the automatic light
+control sensor connector.

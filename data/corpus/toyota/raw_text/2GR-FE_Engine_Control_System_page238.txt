@@ -1,0 +1,44 @@
+ES–238
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+P0340 (Engine running):
+Engine speed 600 rpm or more
+Starter OFF
+P0345 (Engine running):
+Engine speed 600 rpm or more
+Battery voltage 8 V or more
+Starter OFF
+Engine switch ON
+P0340 (Cranking):
+Starter ON
+Minimum battery voltage Less than 11 V
+CPU initial Not initial
+ES P0345 (Cranking):
+Starter ON
+Battery voltage while starter is ON at least once Less than 11 V
+P0340, P0342, P0343 (Chattering, Low voltage, High voltage):
+Starter OFF
+Engine switch ON
+Time after engine switch off to on 2 seconds or more
+P0345, P0347, P0348 (Chattering, Low voltage, High voltage):
+Starter OFF
+Engine switch ON
+Time after engine switch off to on 2 seconds or more
+Battery Voltage 8 V or more
+TYPICAL MALFUNCTION THRESHOLDS
+P0340 (Engine running):
+Camshaft position and crankshaft position phase Misaligned
+Camshaft position signal No signal
+P0340 (Cranking):
+Camshaft position signal No signal
+P0340 (Chattering):
+Camshaft position sensor voltage Less than 0.3 V, or more than 4.7 V
+P0342 (Low voltage):
+Camshaft position sensor voltage Less than 0.3 V
+P0343 (High voltage):
+Camshaft position sensor voltage More than 4.7 V
+P0345 (Engine running, cranking):
+VVT sensor signal No signal
+P0345 (Chattering):
+VVT sensor voltage Less than 0.3 V, or more than 4.7 V
+P0347 (Low voltage):
+VVT sensor voltage Less than 0.3 V

@@ -1,0 +1,33 @@
+CA–85
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+NEXT
+6 CHECK FOR SHORT IN CAN BUS WIRES (COMBINATION METER)
+(a) Disconnect the combination meter connector (F1).
+E10
+DLC3: (b) Measure the resistance according to the value(s) in the
+CANH
+table below.
+Standard resistance
+Tester Connection Condition Specified Value
+E10-6 (CANH) - E10-14
+Ignition switch off 108 to 132 Ω
+(CANL)
+HINT:
+CANL
+If the resistance changes to 108 to 132 Ω when the
+C126231E11
+connector is disconnected, there may be a short in the
+Combination meter.
+NG REPAIR OR REPLACE CAN BUS MAIN WIRE
+(COMBINATION METER MAIN BUS WIRE)
+CA
+OK
+REPLACE COMBINATION METER
+7 CHECK FOR SHORT IN CAN BUS WIRES (NO. 2 CAN - NO. 1 CAN J/C)
+(a) Reconnect the No. 1 CAN J/C connector (E42).
+No. 2 CAN J/C Connector (Rear of the
+(b) Disconnect the No. 2 CAN J/C connector (E41).
+Vehicle) Wire Harness Side View:
+Front
+E41
+C133246E06

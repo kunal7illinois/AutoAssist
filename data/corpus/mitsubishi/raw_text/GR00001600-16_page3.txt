@@ -1,0 +1,54 @@
+ENGINE ELECTRICAL 16-3
+CHARGING SYSTEM
+CHARGING SYSTEM
+.
+GENERAL DESCRIPTION
+M1161000100094
+The charging system charges the battery with the
+generator output to keep the battery charged at a
+constant level during varying electrical load.
+Operation
+When the ignition switch is turned on, current flows in
+VOLTAGE the field coil and initial excitation of the field coil
+occurs.
+When the stator coil begins to generate power after
+the engine is started, the field coil is excited by the
+APPROXIMATELY
+output current of the stator coil.
+14.4 V
+The generator output voltage rises as the field cur-
+rent increases and it falls as the field current
+decreases. When the battery positive voltage (gener-
+TIME ator S terminal voltage) reaches a regulated voltage
+AKX00183AB
+of approximately 14.4 V, the field current is cut off.
+Rotation of the excited field coil generates AC volt-
+When the battery positive voltage drops below the
+age in the stator.
+regulated voltage, the voltage regulator regulates the
+This alternating current is rectified through diodes to
+output voltage to a constant level by controlling the
+DC voltage having a waveform shown in the illustra-
+field current.
+tion at left.
+In addition, when the field current is constant, the
+The average output voltage fluctuates slightly with
+generator output voltage rises as the engine speed
+the generator load condition.
+increases.
+GENERATOR
+B
+STATOR
+COIL
+ECM <M/T>
+PCM <A/T>
+FIELD COIL G
+S
+L +
+IGNITION
+FR CHARGING SWITCH BATTERY
+VOLTAGE REGULATOR
+WARNING
+LIGHT –
+AKX01210AB
+TSB Revision

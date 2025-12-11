@@ -1,0 +1,35 @@
+CC–8
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+HINT:
+• Use the following procedures to troubleshoot the cruise
+control system.
+• *: Use the intelligent tester.
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 PROBLEM SYMPTOM CONFIRMATION
+NEXT
+3 CHECK CAN COMMUNICATION SYSTEM*
+Refer to PRECAUTION (See page CA-1).
+(a) Check for output DTCs.
+Result
+Result Proceed to
+CAN DTC is not output A
+CAN DTC is output B
+HINT:
+The ECM of this system is connected to the CAN
+communication system. Therefore, before starting
+troubleshooting, make sure to check that there is no
+trouble in the CAN communication system.
+B PROCEED TO "CAN COMMUNICATION
+CC SYSTEM"
+A
+4 DTC CHECK AND CLEAR*
+Refer to DTC CHECK / CLEAR (See page CC-16).
+NEXT
+5 DTC CHECK (OTHER THAN CAN SYSTEM DTC)*
+Result
+Result Proceed to
+DTC is not output A
+DTC is output B

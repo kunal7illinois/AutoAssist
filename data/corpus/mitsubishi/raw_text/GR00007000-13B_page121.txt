@@ -1,0 +1,50 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-121
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 13. Check for harness damage between engine
+coolant temperature sensor connector B-11 terminal 1 and
+ECM connector C-58 terminal 44 <M/T> or PCM connector
+C-55 terminal 44 <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-11 ENGINE
+COOLANT YES : Replace the ECM or PCM. Then go to Step 14.
+TEMPERATURE NO : Repair it. Then go to Step 14.
+SENSOR
+ACX02490AC
+CONNECTOR : C-58<M/T>, C-55<A/T>
+PCM<A/T> ECM<M/T>
+C-55 C-58
+AK000225AI
+STEP 14. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0125 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0128 : Coolant Thermostat (Coolant Temperature Below Thermostat Regulating Temperature)
+. • The intake air temperature when the engine is
+TECHNICAL DESCRIPTION
+• The ECM <M/T> or PCM <A/T> checks the time started − intake air temperature is 5°C (9°F) or
+less.
+for the engine coolant temperature to reach the
+• The volume air flow sensors output frequency is
+judgment temperature.
+in the low frequency (50 − 100Hz or less) state for
+300 seconds or less.
+.
+DTC SET CONDITIONS
+Judgment Criteria
+Check Conditions
+• The time for the engine coolant temperature to
+• Engine coolant temperature is between −10°C
+rise to 77°C (171°F) takes longer than approxi-
+(14°F) and 77°C (171°F) when the engine is
+mately 14 to 21 minutes.
+started.
+• The ECM <M/T> or PCM <A/T> monitors for this
+• The engine coolant temperature − intake air tem-
+condition once during the drive cycle.
+perature is 5°C (9°F) or less when the engine is
+started.
+.
+TSB Revision

@@ -1,0 +1,49 @@
+ES–356
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Required Sensors/Components (Main) A/F sensor
+Required Sensors/Components (Related) HO2 sensor
+Frequency of Operation Continuous
+Duration 10 seconds
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Sensor voltage detection monitor (Lean side malfunction P2195, P2197):
+P0031, P0032, P0051, P0052 (A/F sensor heater - Sensor 1)
+P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+ES P0125 (Insufficient ECT for Closed Loop)
+The monitor will run whether these DTCs are not present
+P0136, P0156 (HO2 Sensor - Sensor 2)
+P0171, P0172 (Fuel system)
+P0300 - P0308 (Misfire)
+P0335 (CKP sensor)
+P0340, P0341 (CMP sensor)
+P0500 (VSS)
+Time while all of following conditions are met: 2 seconds or more
+Rear HO2 sensor voltage 0.15 V or more
+Time after engine start 30 seconds or more
+A/F sensor status Activated
+Fuel system status Closed-loop
+Engine Running
+Sensor voltage detection monitor (Rich side malfunction P2196, P2198):
+P0031, P0032, P0051, P0052 (A/F sensor heater - Sensor 1)
+P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+P0125 (Insufficient ECT for Closed Loop)
+The monitor will run whether these DTCs are not present
+P0136, P0156 (HO2 Sensor - Sensor 2)
+P0171, P0172 (Fuel system)
+P0300 - P0308 (Misfire)
+P0335 (CKP sensor)
+P0340, P0341 (CMP sensor)
+P0500 (VSS)
+Time while all of following conditions are met: 2 seconds or more
+Rear HO2 sensor voltage Less than 0.6 V
+Time after engine start 30 seconds or more
+A/F sensor status Activated
+Fuel system status Closed-loop
+Engine Running

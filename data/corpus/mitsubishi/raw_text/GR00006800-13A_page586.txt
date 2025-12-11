@@ -1,0 +1,50 @@
+13A-586 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+ON-VEHICLE SERVICE
+2. While repeatedly revving the engine, measure the heated
+oxygen sensor output voltage.
+Standard value:
+ENGINE HEATED OXYGEN REMARKS
+SENSOR OUTPUT
+VOLTAGE
+When revving 0.6 − 1.0 V If you make the air/
+engine fuel ratio rich by
+revving the engine
+repeatedly, a
+normal heated
+oxygen sensor will
+output a voltage of
+0.6 − 1.0 V.
+3. If the sensor is defective, replace the heated oxygen sensor.
+NOTE: For removal and installation of the heated oxygen sen-
+sor, refer to GROUP 15, Exhaust Pipe and Main Muffler P.15-
+21.
+.
+<Heated oxygen sensor (rear)>
+1. Using scan tool MB991502, observe HO S reading. If
+2
+HEATED OXYGEN SENSOR values are unsatisfactory, or if Scan tool is not available, use
+EQUIPMENT SIDE CONNECTOR the following procedure:
+(1) Disconnect the heated oxygen sensor connector and
+connect special tool MB991658 to the connector on the
+heated oxygen sensor side.
+(2) Make sure that there is continuity [11 − 18 Ω at 20°C (68°
+F)] between terminal 5 and terminal 6 on the heated
+oxygen sensor connector
+MB991658 (3) If there is no continuity, replace the heated oxygen
+AK000121AB
+sensor.
+(4) Warm up the engine until engine coolant is 80° C (176°F)
+JUMPER
+WIRES or higher.
+CAUTION
+Be very careful when connecting the jumper wires; incor-
+rect connection can damage the heated oxygen sensor.
+(5) Use the jumper wires to connect terminal 5 of the heated
+oxygen sensor connector to the positive battery terminal
+and terminal 6 to the negative battery terminal.
+MB991658 (6) Connect a digital voltage meter between terminal 3 and
+AK000122AB
+terminal 4.
+2. While repeatedly revving the engine, measure the heated
+oxygen sensor output voltage.
+TSB Revision

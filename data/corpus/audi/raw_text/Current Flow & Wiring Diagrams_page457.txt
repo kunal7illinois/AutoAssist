@@ -1,0 +1,52 @@
+Audi TT No. 49 / 8
+Current Flow Diagram
+Climatronic control unit, heated driver and front passenger
+seat regulator, front left and right seat temperature sender,
+front left and right seat heating
+E94 Heated driver seat regulator
+E95 Heated front passenger seat regulator
+G344 Front left seat temperature sender
+G345 Front right seat temperature sender
+J255 Climatronic control unit
+T3ae 3-pin connector, black, connector E, on Climatronic control unit
+T6d 6-pin connector, green, under driver seat
+T6e 6-pin connector, green, under front passenger seat
+T16c 16-pin connector, brown, connector C, on Climatronic control unit
+T16d 16-pin connector, black, connector D, on Climatronic control unit
+Z45 Front left seat heating
+Z46 Front right seat heating
+2200
+411 Earth connection 2 (sender earth), in main wiring harness
+2,5
+ro/bl * Operating unit for air conditioning
+** models with heated seat ⇒ seat heater Current Flow Diagram
+J255 ✱
+T3ae/2
+*** only for Heater 9AA
+E94 E95
+T3ae/1 T16c/10 T3ae/3 T16c/9 T16d/2
+1,5 0,5 1,5 0,5 0,35✱✱✱
+sw/gn sw/ws sw/ge ge/bl br/ws
+T6d/4 T6d/2 T6e/4 T6e/2 8888
+0,35 0,35
+sw/ws sw/ws
+Z45 Z46
+✱✱ ✱✱
+ϑ ϑ
+G344 G345
+0,35 0,35
+br/sw br/sw
+ws = white
+T6d/1 T6e/1 sw = black
+ro = red
+✱✱✱ ✱✱✱
+0,35 0,35 0,35 0,35 br = brown
+br/ws br/ws br/ws br/ws gn = green
+9955 411 bl = blue
+411 gr = grey
+li = purple
+ge = yellow
+85 86 87 88 89 90 91 92 93 94 95 96 97 98 or = orange
+8J0-049080409
+rs = pink
+Edition 04.2009

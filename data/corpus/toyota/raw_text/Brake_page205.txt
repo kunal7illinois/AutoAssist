@@ -1,0 +1,34 @@
+BC–199
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+WIRING DIAGRAM
+Brake Actuator Assembly
+Yaw Rate and
+Acceleration Sensor - Skid Control ECU
+CANL CANL
+2 25
+CANH CANH
+3 11
+BC
+From Battery
+IG1
+ECU-IG NO. 2
+IG
+5 3 5
+GND From Ignition Switch (*1),
+1 1 2 Main Body ECU (*2)
+(*1): without Smart Key System (*2): with Smart Key System
+C136028E04
+INSPECTION PROCEDURE
+NOTICE:
+When replacing the yaw rate and acceleration sensor, perform zero point calibration (See page
+BC-119).
+HINT:
+When U0123/62, U0124/95 or U0126/63 is output together with C1232/32, C1234/34, C1243/43, C1244/
+44, C1245/45, or C1381/97, inspect and repair the trouble areas indicated by U0123/62, U0124/95 or
+U0126/63 first.
+1 CHECK DTC
+(a) Clear the DTC (See page BC-141).
+(b) Turn the ignition switch off.
+(c) At a speed of 19 mph (30 km/h) or more, drive the
+vehicle, turn the steering wheel, and decelerate the
+vehicle (depress the brake pedal).

@@ -1,0 +1,54 @@
+ES–216
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+CONFIRMATION DRIVING PATTERN
+1. Connect the intelligent tester to the DLC3.
+2. Turn the ignition switch on (IG).
+3. Turn the tester on.
+4. Record the DTC(s) and freeze frame data.
+5. Using the tester, switch the ECM from normal mode to check mode (See page ES-49).
+6. Read the misfire counts of each cylinder (CYL #10 to #60) with the engine in an idling condition. If any
+misfire count is displayed, skip the following confirmation driving pattern.
+7. Drive the vehicle several times with the conditions, such as engine rpm and engine load, shown in
+MISFIRE RPM and MISFIRE LOAD in the DATA LIST.
+HINT:
+In order to store misfire DTCs, it is necessary to operate the vehicle for the period of time shown in the
+table below, using the MISFIRE RPM and MISFIRE LOAD in the DATA LIST.
+ES
+Engine RPM Duration
+Idling 3.5 minutes or more
+1,000 3 minutes or more
+2,000 1.5 minutes or more
+3,000 1 minute or more
+8. Check whether misfires have occurred by checking DTCs and freeze frame data.
+HINT:
+Do not turn the engine switch off until the stored DTC(s) and freeze frame data have been recorded.
+When the ECM returns to normal mode (default), the stored DTC(s), freeze frame data and other data
+will be erased.
+9. Record the DTC(s), freeze frame data and misfire counts.
+10.Turn the engine switch off and wait for at least 5 seconds.
+INSPECTION PROCEDURE
+HINT:
+• If any DTCs other than misfire DTCs are output, troubleshoot those DTCs first.
+• Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame
+data can be helpful in determining whether the vehicle was running or stopped, whether the engine
+was warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the
+time of a malfunction (See page ES-45).
+• If the misfire does not recur when the vehicle is brought to the workshop, reproduce the conditions
+stored in the ECM as freeze frame data.
+• If the misfire still cannot be reproduced even though the conditions stored in the ECM as freeze frame
+data have been reproduced, one of the following factors is considered to be a possible cause of the
+problem:
+(a)There was insufficient fuel in the tank.
+(b)Improper fuel is used.
+(c)The spark plugs have been contaminated.
+(d)The problem requires further diagnosis.
+• After finishing repairs, check the misfire counts of the cylinders (CYL #1, #2, #3, #4, #5 and #6).
+• Be sure to confirm that no misfiring cylinder DTCs are set again by conducting the confirmation driving
+pattern after finishing repairs.
+• For 6 and 8 cylinder engines, the ECM intentionally does not set the specific misfiring cylinder DTCs at
+high engine RPM. If misfires occur only in high engine RPM areas, only DTC P0300 is set.
+In the event of DTC P0300 being present, perform the following operations:
+(a)Clear the DTC (See page ES-45).
+(b)Start the engine and conduct the confirmation driving pattern.
+(c)Read the misfiring rates of each cylinder or DTC(s) using the tester.

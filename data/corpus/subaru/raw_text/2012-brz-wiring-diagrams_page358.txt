@@ -1,0 +1,43 @@
+R–G
+R–L R–G
+R–G
+21
+12 B
+)B(71D
+,)A(61D
+rotcennoC
+noitcnuJ
+A73(A), D5(B), D6(C)
+(BAT) Main Body ECU
+7. 5A
+ECU–B
+32 1
+1
+A
+R–G
+(BAT)
+7. 5A
+MPX–B
+1
+R–L
+(BAT) (IG) (ACC)
+10A 10A
+ECU IG1 ECU ACC
+2 2 2 2
+9 8
+1
+19 3C 27 3A
+Y Y
+G–Y G–Y
+G G
+L–O L–O
+G
+Air Conditioning (Manual A/C)
+15A
+HAZ
+ACC IG BMPX BECU
+2
+25 AD2
+G
+358
+BRZ (G4400BE)

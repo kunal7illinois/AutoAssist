@@ -1,0 +1,42 @@
+CAN data bus interfaces
+The overview shows by way of example the
+information exchanged across the CAN data bus.
+The individual control units send or receive data
+required for smooth operation of the convertible
+top.
+Control unit with display in dash panel
+insert J285
+– Ambient temperature
+Convenience system central control unit
+J393
+– Requirements for convenience opening/
+closing
+Driver door control unit J386
+Front passenger door control unit J387
+Convertible top operation
+control unit J256 – Door glass position
+– Convertible top closed and locked
+– Convertible top in intermediate
+position ABS control unit J104
+– Convertible top stowed and locked – Road speed signal
+– Power window regulator
+Command to lower the door glasses
+Command to close the door glasses Steering column electronics control unit
+J527
+– Messages in the centre display
+of the dash panel insert – Status of terminal 15
+– Convertible top status, activation
+of the convertible top operation
+warning lamp
+Onboard power supply control unit J519
+Sleep standby
+– Rear window defroster on or off
+Climatronic control unit J255
+– Transition from closed loop to open loop
+control
+– Heated rear window button E230
+Disable function
+Digital sound package control unit J525
+– Sound tuning for convertible top open/
+closed
+33

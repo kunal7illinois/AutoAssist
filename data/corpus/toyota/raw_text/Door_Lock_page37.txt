@@ -1,0 +1,26 @@
+DL–37
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Wire Harness Side:
+I7
+Front Door Lock Assembly LH
+UL L
+IK
+E7
+Instrument Panel J/B
+Main Body ECU
+ACTD
+B112609E01
+(b) Disconnect the ECU (instrument panel J/B) connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection (Symbols) Condition Specified Condition
+I7-4 (L) - IK-2 Always Below 1 Ω
+I7-1 (UL) - E7-5 (ACTD) Always Below 1 Ω
+DL
+IK-2 - Body ground Always 10 kΩ or higher
+E7-5 (ACTD) - Body ground Always 10 kΩ or higher
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

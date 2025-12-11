@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+23. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+24. Start the engine, and warm it up to normal operating temperature (the radiator
+fan comes on).
+25. Drive the vehicle with the shift lever in 2 for at least 2 seconds, then shift to D,
+and drive in 4th gear for at least 2 seconds.
+26. Check for DTCs with the HDS.
+Is DTC P0843 indicated?
+YES -Check for poor connections or loose terminals between the 2nd clutch
+transmission fluid pressure switch and the PCM. If the PCM was updated,
+substitute a known-good PCM (see SUBSTITUTING THE PCM ), then go to
+step 24. If the PCM was substituted, go to step 1.
+NO -Go to step 27.
+27. Monitor the OBD STATUS for P0843 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM (see ECM/PCM REPLACEMENT ). If
+any other DTCs were indicated in step 26, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals between the 2nd clutch transmission fluid pressure switch and the
+PCM. If the PCM was updated, substitute a known-good PCM (see
+SUBSTITUTING THE PCM ), then go to step 24. If the PCM was
+substituted, go to step 1. If the HDS indicates NOT COMPLETED, go to step
+24.
+DTC P0847: Short in 3rd Clutch Transmission Fluid Pressure Switch Circuit, or 3rd Clutch Transmission Fluid
+Pressure Switch Stuck ON

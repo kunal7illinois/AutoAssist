@@ -1,0 +1,20 @@
+AV–90
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+4 CHECK HARNESS AND CONNECTOR (RADIO RECEIVER - BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+Wire Harness View:
+table below.
+Standard resistance
+Tester connection Condition Specified condition
+SPD - Body ground Ignition switch off 10 kΩ or higher
+F8 HINT:
+If the resistance between terminal SPD and body ground
+is less than 10 kΩ, there may be a short in a wire
+harness, connector, or an ECU that is connected to the
+SPD signal wire.
+NG REPAIR OR REPLACE HARNESS OR
+SPD CONNECTOR OR EACH ECU
+E129800E01
+OK
+REPLACE COMBINATION METER
+AV

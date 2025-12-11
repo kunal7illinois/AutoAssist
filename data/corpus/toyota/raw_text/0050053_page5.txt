@@ -1,0 +1,45 @@
+ES–293
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+WIRING DIAGRAM
+Accelerator Pedal Position Sensor
+ECM
+VPA
+VPA
+EPA
+EPA
+VCPA
+VCPA
+ES
+VPA2
+VPA2
+EPA2
+EPA2
+VCP2
+VCP2
+A112573E01
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 READ VALUE USING INTELLIGENT TESTER (ACCEL POS #1 AND ACCEL POS #2)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / ETCS / ACCEL POS
+#1 and ACCEL POS #2.
+(d) Read the value displayed on the tester.
+Standard voltage
+Accelerator Pedal
+ACCEL POS #1 ACCEL POS #2
+Depressed Released Operations
+FI07052E06 0.5 to 4.5 V 1.2 to 5.0 V
+Difference between Difference between
+Released → Depressed
+ACCEL POS #1 and ACCEL POS #1 and
+→ Released
+ACCEL POS #2 is ACCEL POS #2 is
+greater than 0.02 V greater than 0.02 V
+OK Go to step 5
+NG

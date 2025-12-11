@@ -1,0 +1,21 @@
+DL–35
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Driver Side Door Lock Motor Circuit
+DESCRIPTION
+The driver's door lock motor is built into the driver's door lock assembly.
+The main body ECU controls the driver's door lock motor to lock/unlock the driver's door. This ECU
+applies current from terminal ACT+ to terminal ACTD to operate the motor to lock the door. It reverses the
+direction of the current flow to operate the motor to unlock the door.
+WIRING DIAGRAM
+Main Body ECU
+I7
+Front Door Lock Assembly LH
+Instrument Panel J/B
+2
+L 4 1
+IK ACT+
+5
+UL 1
+E7 ACTD
+B109770E04
+DL

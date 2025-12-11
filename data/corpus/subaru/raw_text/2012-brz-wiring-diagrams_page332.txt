@@ -1,0 +1,40 @@
+BR–W
+BR
+R–G
+R–L
+A73(A), D5(B), D6(C)
+(BAT) Main Body ECU
+7. 5A
+ECU–B
+32
+1
+R–G
+(BAT)
+7. 5A
+MPX–B
+1
+R–L
+(BAT) (ACC) (IG)
+10A 10A
+ECU ACC ECU IG1
+2 2 2 2
+8 9
+1
+19 3C
+∗ 4 : w/ Smart Entry & Start System
+BR–W
+BR
+G
+15A
+HAZ
+IG ACC ACC(∗4) BMPX
+2
+22 B
+28 3B
+G–R
+G
+W )4∗( W )4∗(
+Combination Meter
+25 AD2
+332
+BRZ (G4400BE)

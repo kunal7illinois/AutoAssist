@@ -1,0 +1,79 @@
+BC–156
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DIAGNOSTIC TROUBLE CODE CHART
+• If a trouble code is displayed during the DTC check, check
+the circuit indicated by the DTC. For details of each code,
+refer to the page for the respective "DTC No." in the DTC
+chart.
+• Inspect the fuse and relay before investigating the trouble
+areas as shown in the table below.
+DTC chart of ABS:
+DTC No. Detection Item Trouble Area See page
+1. Front speed sensor RH
+2. Speed sensor circuit
+3. Speed sensor rotor
+C0200/31 (*1) Front Speed Sensor RH Circuit BC-156
+4. Sensor installation
+5. Brake actuator assembly (Skid
+control ECU)
+1. Front speed sensor LH
+2. Speed sensor circuit
+3. Speed sensor rotor
+C0205/32 (*1) Front Speed Sensor LH Circuit BC-156
+4. Sensor installation
+BC 5. Brake actuator assembly (Skid
+control ECU)
+1. Rear speed sensor RH
+2. Speed sensor circuit
+3. Speed sensor rotor
+C0210/33 (*1) Rear Speed Sensor RH Circuit BC-164
+4. Sensor installation
+5. Brake actuator assembly (Skid
+control ECU)
+1. Rear speed sensor LH
+2. Speed sensor circuit
+3. Speed sensor rotor
+C0215/34 (*1) Rear Speed Sensor LH Circuit BC-164
+4. Sensor installation
+5. Brake actuator assembly (Skid
+control ECU)
+1. Brake actuator assembly
+C0226/21 SFR Solenoid Circuit BC-172
+2. SFRH or SFRR circuit
+1. Brake actuator assembly
+C0236/22 SFL Solenoid Circuit BC-172
+2. SFLH or SFLR circuit
+1. Brake actuator assembly
+C0246/23 SRR Solenoid Circuit BC-172
+2. SRRH or SRRR circuit
+1. Brake actuator assembly
+C0256/24 SRL Solenoid Circuit BC-172
+2. SRLH or SRLR circuit
+1. ABS NO. 1 fuse
+2. VSC NO. 2 relay
+C0273/13 (*1) Open in ABS Motor Relay Circuit BC-175
+3. VSC NO. 2 relay circuit
+4. Brake actuator assembly
+1. ABS NO. 1 fuse
+Short to B+ in ABS Motor Relay 2. VSC NO. 2 relay
+C0274/14 BC-175
+Circuit 3. VSC NO. 2 relay circuit
+4. Brake actuator assembly
+1. ABS NO. 2 fuse
+Open in ABS Solenoid Relay 2. ABS solenoid relay
+C0278/11 BC-181
+Circuit 3. ABS solenoid relay circuit
+4. Brake actuator assembly
+Short to B+ in ABS Solenoid
+C0279/12 Brake actuator assembly BC-181
+Relay Circuit
+1. Brake actuator assembly
+C1225/25 SM Solenoid Circuit BC-172
+2. SM1 or SM2 circuit
+1. Front speed sensor RH
+2. Speed sensor rotor
+Foreign Object is Attached on Tip
+C1235/35 3. Sensor installation BC-197
+of Front Speed Sensor RH
+4. Brake actuator assembly (Skid
+control ECU)

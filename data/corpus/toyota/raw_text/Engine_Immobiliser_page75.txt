@@ -1,0 +1,19 @@
+EI–73
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+2. PERFORM ACTIVE TEST
+HINT:
+Performing the intelligent tester ACTIVE TEST allows a
+relay, VSV, actuator and other items to be operated
+without removing any parts. Performing the ACTIVE
+TEST early in troubleshooting is one way to shorten
+labor time. The DATA LIST can be displayed during the
+ACTIVE TEST.
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the ignition switch to the ON position.
+(c) Perform the ACTIVE TEST according to the display
+on the tester.
+IMMOBILISER:
+Item Test Details Diagnostic Note
+SECURITY INDIC Turn security indicator ON/OFF -
+EI

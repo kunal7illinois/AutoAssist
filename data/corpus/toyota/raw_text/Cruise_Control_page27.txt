@@ -1,0 +1,32 @@
+CC–27
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+Clutch Switch Circuit
+DESCRIPTION
+Clutch switch circuit inspection is necessary for M/T vehicles.
+When the clutch pedal is released, the ECM receives positive (+) battery voltage through the ECU IG
+fuse. While depressing the clutch pedal, the clutch switch sends a signal to terminal D of the ECM. The
+ECM cancels cruise control drive when terminal D receives the signal.
+WIRING DIAGRAM
+A21 ECM
+Clutch Switch
+56
+C24 D
+1 2
+ECU IG
+from Battery
+E113306E06
+INSPECTION PROCEDURE
+1 INSPECT ECM
+(a) Disconnect the C24 connector from the ECM.
+ECM Wire Harness View: (b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+table below. CC
+C24
+Standard voltage
+Tester Connection Condition Specified Condition
+C24-56 (D) - Body Clutch pedal depressed Below 1 V
+ground Clutch pedal released 10 to 14 V
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+D
+E129949E01

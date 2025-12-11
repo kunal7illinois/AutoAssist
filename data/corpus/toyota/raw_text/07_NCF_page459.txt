@@ -1,0 +1,47 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-125
+8) Situation: G
+The lock switch on the door outside handle is pressed to perform entry lock with the key left in the cabin.
+In this situation, the following control is performed:
+Possible Effects without Warning Vehicle theft
+The warning is activated when all of the following conditions
+are met:
+(cid:3) Power source is OFF.
+Warning Condition
+(cid:3) All doors are closed.
+(cid:3) Key is in the vehicle.
+(cid:3) Lock switch on the door outside handle switch is ON.
+Buzzer —
+Multi-information
+Combination —
+Display
+MMeetteerr
+Master Warning
+—
+Light
+Wireless Door Lock Buzzer Sounds for 2 seconds
+Engine Switch Indicator Light —
+The key is removed from the cabin and the lock switch on the
+Warning Stop Condition
+door outside handle is pressed again.
+9) Situation: H
+The luggage door is closed with the key left in the luggage room.
+In this situation, the following control is performed:
+Possible Effects without Warning Key Confinement
+The warning is activated when all of the following conditions
+are met:
+Warning Condition (cid:3) Vehicle speed is 0 mph (0 km/h).
+(cid:3) All doors are closed.
+(cid:3) Trunk open function is available.
+Buzzer —
+Multi-information
+Combination —
+Display
+MMeetteerr
+Master Warning
+—
+Light
+Wireless Door Lock Buzzer Sounds for 2 seconds
+Engine Switch Indicator Light —
+The luggage room is opened using the trunk open function and
+Warning Stop Condition
+the key is removed from the luggage room.

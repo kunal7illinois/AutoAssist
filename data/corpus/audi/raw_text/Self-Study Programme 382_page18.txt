@@ -1,0 +1,43 @@
+Electrical system and convenience electronics
+Onboard power supply control unit J519
+Function
+The onboard power supply control unit in the Audi
+TT Coupé ´07 basically has the same main functions
+as the control unit in the AudiA3´04.
+The onboard power supply control unit controls:
+– the outside light
+– the charge indicator lamp
+– terminal 58s
+– the load management system
+– terminals 15, 50 and 30G
+– the electric fuel pump II relay
+– the windscreen wiper
+– the heated rear window
+– the signal horn
+– the interior light 382_059
+Installation location
+The onboard power supply control unit is housed
+under the dash panel on the left, and can be
+accessed by removing the dash panel trim in the
+driver footwell.
+System overview
+The onboard power supply control unit is integrated
+in the convenience CAN bus within the vehicle Onboard power supply Wiper motor
+networking system. control unit control unit
+J519 J400
+It also performs the function of the LIN master for
+the wiper motor control unit and the rain and light
+detector sensor. Rain and light
+detector sensor
+G397
+382_046
+Reference
+For further information on the
+outside light control, activation of the
+charge indicator lamp, the dimming
+function (terminals 58s and 58d),
+the load management system, the
+terminal management system as well
+as the fuel pump relay control, refer
+to Self-Study Programme 312.
+18

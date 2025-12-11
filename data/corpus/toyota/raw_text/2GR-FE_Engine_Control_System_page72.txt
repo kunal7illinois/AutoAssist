@@ -1,0 +1,67 @@
+ES–72
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Suspected Trouble MIL Memory See page
+Area
+P0020 Camshaft Position 1. Open or short in Comes on DTC stored ES-79
+"A" Actuator Circuit Oil Control Valve
+(Bank 2) (OCV) for intake
+camshaft circuit
+2. OCV for intake
+camshaft (bank 2)
+3. ECM
+P0021 Camshaft Position Same as DTC P0011 Comes on DTC stored ES-84
+"A" - Timing Over-
+Advanced or System
+Performance (Bank
+2)
+P0022 Camshaft Position Same as DTC P0011 Comes on DTC stored ES-84
+"A" - Timing Over-
+Retarded (Bank 2)
+ES
+P0023 Camshaft Position 1. Open or short in Comes on DTC stored ES-91
+"B" Actuator Circuit / Oil Control Valve
+Open (Bank 2) (OCV) for exhaust
+camshaft circuit
+2. OCV for exhaust
+camshaft (bank 2)
+3. ECM
+P0024 Camshaft Position Same as DTC P0014 Comes on DTC stored ES-96
+"B" - Timing Over-
+Advanced or System
+Performance (Bank
+2)
+P0025 Camshaft Position Same as DTC P0014 Comes on DTC stored ES-96
+"B" - Timing Over-
+Retarded (Bank 2)
+P0031 Oxygen (A/F) Sensor 1. Open in Air-Fuel Comes on DTC stored ES-107
+Heater Control Circuit Ratio (A/F) sensor
+Low (Bank 1 Sensor heater circuit
+1) 2. A/F sensor heater
+(bank 1 sensor 1)
+3. A/F sensor heater
+relay
+4. ECM
+P0032 Oxygen (A/F) Sensor 1. Short in A/F sensor Comes on DTC stored ES-107
+Heater Control Circuit heater circuit
+High (Bank 1 Sensor 2. A/F sensor heater
+1) (bank 1 sensor 1)
+3. A/F sensor heater
+relay
+4. ECM
+P0037 Oxygen Sensor 1. Open in Heated Comes on DTC stored ES-115
+Heater Control Circuit Oxygen (HO2)
+Low (Bank 1 Sensor sensor heater circuit
+2) 2. HO2 sensor heater
+(bank 1 sensor 2)
+3. Engine room
+junction block (EFI
+relay)
+4. ECM
+P0038 Oxygen Sensor 1. Short in HO2 Comes on DTC stored ES-115
+Heater Control Circuit sensor heater circuit
+High (Bank 1 Sensor 2. HO2 sensor heater
+2) (bank 1 sensor 2)
+3. Engine room
+junction block (EFI
+relay)
+4. ECM

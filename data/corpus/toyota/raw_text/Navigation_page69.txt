@@ -1,0 +1,29 @@
+NS–69
+NAVIGATION – NAVIGATION SYSTEM
+2 IDENTIFY THE COMPONENT WHICH HAS STORED THIS CODE
+(a) Enter the diagnostic mode.
+Example:
+(b) Press the "LAN Mon" switch to change to "LAN Monitor"
+mode.
+(c) Identify the component which has stored this code.
+Component Table:
+Display Component
+DSP-AMP (440) Stereo component amplifier
+AVN (140) Radio and navigation assembly
+HINT:
+"NAVI" is the component which has stored this code in
+the example shown in the illustration.
+Component which has
+stored this code
+DTC Component shown by sub-code
+E121199E02
+NEXT
+3 CHECK COMPONENT WHICH HAS STORED THIS CODE
+(a) Select the component which has stored this code.
+Component Table:
+Component Proceed to
+Radio and navigation assembly (AVN) Radio and navigation assembly communication error (See page NS-188)
+NS
+Stereo component amplifier (DSP-AMP) Stereo component amplifier communication error (See page NS-185)
+NEXT
+END

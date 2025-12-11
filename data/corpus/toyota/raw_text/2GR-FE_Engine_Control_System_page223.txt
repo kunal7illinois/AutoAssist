@@ -1,0 +1,45 @@
+ES–223
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DATA LIST / PRIMARY / COOLANT TEMP.
+(e) Read the COOLANT TEMP twice, when the engine is
+both cold and warmed up.
+Standard:
+With cold engine:
+Same as ambient air temperature.
+With warm engine:
+Between 75°C and 95°C (167°F and 203°F).
+NG REPLACE ENGINE COOLANT
+TEMPERATURE SENSOR (See page ES-499)
+OK ES
+17 READ VALUE OF INTELLIGENT TESTER (MAF)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DATA LIST / PRIMARY / MAF and COOLANT
+TEMP.
+(e) Allow the engine to idle until the COOLANT TEMP
+reaches 75°C (167°F) or more.
+(f) Read the MAF with the engine in an idling condition and
+at an engine speed of 2,500 rpm.
+Standard:
+MAF while engine is idling:
+Between 2.1 g/sec and 3.1 g/sec (shift position: N,
+A/C: OFF).
+MAF at an engine speed of 2,500 rpm:
+Between 7.8 g/sec and 11.4 g/sec (shift position:
+N, A/C: OFF).
+NG REPLACE MASS AIR FLOW METER (See
+page ES-477)
+OK
+18 CHECK MISFIRE COUNT (CYL #1, #2, #3, #4, #5 AND #6)
+HINT:
+• If the result of step 4 is "1 or 2 cylinders", proceed to A.
+• If the result of step 4 os "more than 3 cylinders", proceed
+to B.
+B Go to step 5
+A
+CHECK FOR INTERMITTENT PROBLEMS

@@ -1,0 +1,24 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-497
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check connector B-45 at generator connector for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR:B-45
+YES : Go to Step 4.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK000546AC
+STEP 4. Check connector C-53 at ECM <M/T> or connector
+C-50 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-53<M/T>,C-50<A/T>
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then confirm that the
+OR
+PCM<A/T> malfunction symptom is eliminated.
+C-50 C-53
+AK000280BK
+TSB Revision

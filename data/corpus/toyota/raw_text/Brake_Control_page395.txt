@@ -1,0 +1,28 @@
+BC–384
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+1 CHECK CAN COMMUNICATION SYSTEM
+(a) Check if a CAN communication system DTC is output
+(See page BC-302).
+Result
+Condition Proceed to
+CAN communication system DTC is not output A
+CAN communication system DTC is output B
+B INSPECT CAN COMMUNICATION SYSTEM
+(See page CA-8)
+A
+2 CHECK IF SKID CONTROL ECU CONNECTOR IS SECURELY CONNECTED
+BC
+(a) Check if the skid control ECU connector is securely
+connected.
+OK:
+The connector is securely connected.
+NG CONNECT CONNECTOR TO ECU
+CORRECTLY
+OK
+3 CHECK BATTERY
+(a) Check the battery voltage.
+Standard voltage:
+11 to 14 V
+NG CHECK AND REPLACE CHARGING SYSTEM
+OR BATTERY
+OK

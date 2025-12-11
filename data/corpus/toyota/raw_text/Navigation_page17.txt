@@ -1,0 +1,37 @@
+NS–17
+NAVIGATION – NAVIGATION SYSTEM
+6 RECHECK DTC
+HINT:
+• If the system cannot enter the diagnostic mode, inspect
+the AVC-LAN and all the components that connect to the
+AVC-LAN for short circuits.
+• Even if the malfunction symptom is not confirmed, check
+for diagnostic trouble codes. This is because the system
+stores past diagnostic trouble codes.
+• Refer to the detailed description on the diagnostic screen
+as necessary (See page NS-30).
+• Check the diagnostic trouble code and inspect the area
+the code indicates.
+A CODE IS OUTPUT (GO TO STEP 7)
+A CODE IS NOT OUTPUT (GO TO STEP 8)
+7 DIAGNOSTIC TROUBLE CODE CHART
+(a) Find the output code in the diagnostic trouble code chart
+(See page NS-52).
+NEXT GO TO STEP 10
+8 PROBLEM SYMPTOMS TABLE
+(a) Find the applicable symptom code in the problem
+symptoms table (See page NS-41).
+HINT:
+If the symptom does not recur and no code is output,
+perform the symptom reproduction method (See page
+IN-40).
+THERE IS AN APPLICABLE SYMPTOM
+CODE IN THE TABLE (GO TO STEP 10)
+THERE IS NO APPLICABLE SYMPTOM
+CODE IN THE TABLE (GO TO STEP 9)
+9 CHECK THE ECU TERMINAL ARRANGEMENT BASED ON THE MALFUNCTION
+SYMPTOM
+NS
+NEXT
+10 CHECK THE CIRCUIT
+(a) Adjust, repair, or replace as necessary.

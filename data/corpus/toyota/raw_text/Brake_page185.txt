@@ -1,0 +1,35 @@
+BC–179
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+1 RECONFIRM DTC
+HINT:
+These codes are detected when a problem is determined in
+the brake actuator assembly.
+The solenoid circuits are in the brake actuator assembly.
+Therefore, solenoid circuit inspection and solenoid unit
+inspection cannot be performed. Be sure to check if any DTC
+code is output before replacing the brake actuator assembly.
+(a) Clear the DTC (See page BC-141).
+(b) Start the engine.
+(c) Drive the vehicle at the speed of 4 mph (6 km/h) or more.
+(d) Check if the same DTC is recorded (See page BC-141).
+Result
+Condition Proceed to
+DTCs (C0226/21, C0236/22, C0246/23, C0256/24 and/or C1225/25) are not output A
+BC
+DTCs (C0226/21, C0236/22, C0246/23, C0256/24 and/or C1225/25) are output B
+HINT:
+• If a speed signal of 4 mph (6 km/h) or more is input to
+the skid control ECU, with the ignition switch on (IG)
+and the stop light switch off, the ECU performs self
+diagnosis of the motor and solenoid circuits.
+• If the normal system code is output (the trouble code
+is not output), slightly jiggle the connectors, wire
+harness, and fuses of the brake actuator assembly.
+Make sure that no DTCs are output.
+• If any DTCs are output while jiggling a connector or
+wire harness of the brake actuator assembly (skid
+control ECU), inspect and repair the connector or wire
+harness.
+B REPLACE BRAKE ACTUATOR ASSEMBLY
+A
+USE SIMULATION METHOD TO CHECK

@@ -1,0 +1,47 @@
+Audi TT No. 3 / 19
+Current Flow Diagram
+Fuel pump relay, electric fuel pump 2 relay
+J17 Fuel pump relay
+J49 Electric fuel pump 2 relay
+J519 Onboard supply control unit
+J623 Engine control unit
+SB7 Fuse 7 on fuse holder B
+SB8 Fuse 8 on fuse holder B
+T11b 11-pin connector, black, connector A, on onboard power supply
+control unit
+2222 T52b 52-pin connector, yellow, on onboard supply control unit
+1,0 0,5 B277 6,0 T81 81-pin connector, black, on engine control unit
+sw/bl sw/bl ro
+7 8 B277 Positive connection 1 (15a), in main wiring harness
+221133 ST1 SB7 SB8
+15A 30A * Relay and fuse carrier in electronics box engine compartment
+7a 8a # up to May 2007
+4477 ## from June 2007
+♦ up to May 2009
+0,35 0,5 4,0 1,5 1,0 ♦♦ from June 2009
+sw/bl sw/bl ro ro/bl ro/bl
+15 4/86## 2/30## 3/30## 2/85##
+J623
+T81/21 3/86# 1/30# 1/30# 3/86#
+5 ✱ ✱ 2.1
+J49 J17
+T81/65 4/85# 2/87# 2/87# 4/87a 5/85#
+6/85## 8/87## 5/87## 1/86##
+0,35 0,5 4,0 1,5 0,35
+sw/br sw/br sw/ge ro/sw li
+112277 112299 T52b/38♦♦
+T11b/10♦
+J519
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+239 240 241 242 243 244 245 246 247 248 249 250 251 252 or = orange
+8J0-003190409
+rs = pink
+Edition 10.2010

@@ -1,0 +1,51 @@
+ES–165
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Throttle position sensor 1 range check (Fluctuating): 2 seconds
+(Accelerator pedal ON)
+Throttle position sensor 1 range check (Low voltage): 2 seconds
+(Accelerator pedal ON)
+Throttle position sensor 1 range check (High voltage): 2 seconds
+(Accelerator pedal ON)
+Throttle position sensor 2 range check (Fluctuating): 2 seconds
+(Accelerator pedal ON)
+Throttle position sensor 2 range check (Low voltage): 2 seconds
+(Accelerator pedal ON)
+Throttle position sensor 2 range check (High voltage): 2 seconds
+(Accelerator pedal ON)
+Duration Throttle position sensor 1 range check (Fluctuating): 10 seconds
+(Accelerator pedal OFF)
+Throttle position sensor 1 range check (Low voltage): 10 seconds
+(Accelerator pedal OFF)
+Throttle position sensor 1 range check (High voltage): 10 seconds
+(Accelerator pedal OFF)
+Throttle position sensor 2 range check (Fluctuating): 10 seconds ES
+(Accelerator pedal OFF)
+Throttle position sensor 2 range check (Low voltage): 10 seconds
+(Accelerator pedal OFF)
+Throttle position sensor 2 range check (High voltage): 10 seconds
+(Accelerator pedal OFF)
+Throttle position sensor range check (Correlation): Within 0.5 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs are not present None
+TYPICAL MALFUNCTION THRESHOLDS
+P0120:
+VTA1 voltage 0.2 V or less, or 4.535 V or more
+P0122:
+VTA1 voltage 0.2 V or less
+P0123:
+VTA1 voltage 4.535 V or more
+P0220:
+VTA2 voltage 1.75 V or less, or 4.8 V or more
+P0222:
+VTA2 voltage 1.75 V or less
+P0223:
+VTA2 voltage when VTA1 is 0.2 to 2.02 V 4.8 V or more
+P2135:
+Either of following conditions A or B is met: -
+Condition A -
+Difference between VTA1 and VTA2 voltages 0.02 V or less
+Condition B -
+VTA1 voltage 0.2 V or less
+VTA2 voltage 1.75 V or less

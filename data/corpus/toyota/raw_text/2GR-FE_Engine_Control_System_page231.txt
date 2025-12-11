@@ -1,0 +1,39 @@
+ES–231
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+If there is no signal from the crankshaft position sensor despite the engine revolving, the ECM interprets
+this as a malfunction of the sensor.
+If the malfunction is not repaired successfully, these DTCs are set 10 seconds after the engine is next
+started.
+MONITOR STRATEGY
+P0335: CKP sensor signal check when starter ON
+Related DTCs P0335: CKP sensor signal check when starter OFF
+P0335: sensor pulse check
+Required Sensors/Components (Main) Crankshaft Position (CKP) sensor
+Required Sensors/Components (Sub) -
+Frequency of Operation Continuous
+Duration Within 5 seconds and 3 times
+ES
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+All:
+Monitor will run whenever these DTCs are not present -
+CKP sensor signal check when starter OFF:
+Engine rpm 600 rpm or more
+Time after starter ON to OFF 3 seconds or more
+CKP sensor pulse check:
+Battery voltage 7 V or higher
+Starter ON
+Number of VVT sensor signal pulse 6 times
+CMP sensor circuit fail Not detected
+Ignition switch ON
+TYPICAL MALFUNCTION THRESHOLDS
+CKP sensor signal check when starter OFF:
+Sensor signal No signal
+CKP sensor pulse check:
+Number of sensor pulse 132 or less, or 174 or more
+COMPONENT OPERATING RANGE
+• CKP sensor output voltage fluctuates while crankshaft is revolving
+CKP sensor
+• 34 CKP sensor signals per crankshaft revolution

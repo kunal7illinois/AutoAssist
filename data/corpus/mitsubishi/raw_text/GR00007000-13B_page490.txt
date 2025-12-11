@@ -1,0 +1,37 @@
+13B-490 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 4. Check the idle air control motor coil resistance.
+(1) Disconnect the idle air control motor connector B-34.
+CONNECTOR:B-34
+IDLE AIR
+CONTROL
+MOTOR
+ACX02523AI
+(2) Measure the resistance between idle air control motor
+connector terminal 2 and either terminal 1 or terminal 3.
+Standard value: 28 − 33 ohm [at 20°C (68°F)]
+(3) Measure the resistance between idle air control motor
+connector terminal 5 and either terminal 4 or terminal 6.
+Standard value: 28 − 33 ohm [at 20° C (68° F)]
+Q:Is the resistance normal?
+1 2 3 YES : Go to Step 5.
+4 5 6
+NO : Replace the idle air control motor. Then go to Step 14.
+1 2 3
+4 5 6
+AKX01561AB
+STEP 5. Check the power supply voltage at idle air control
+motor harness side connector B-34.
+(1) Disconnect the connector B-34 and measure at the harness
+side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 2, 5 and ground.
+• Voltage should be battery positive voltage.
+B-34 HARNESS
+SIDE CONNECTOR (4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 7.
+3 2 1
+6 5 4 NO : Go to Step 6.
+AKX01428AF
+TSB Revision

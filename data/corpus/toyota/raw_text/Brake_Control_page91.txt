@@ -1,0 +1,33 @@
+BC–91
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+5 INSPECT SKID CONTROL ECU CONNECTOR (IG1 TERMINAL VOLTAGE)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Harness Side
+(b) Turn the ignition switch on (IG).
+Connector Front View):
+(c) Measure the voltage according to the value(s) in the
+table below.
+A25
+Standard voltage
+Tester Connection Condition Specified Condition
+A25-18 (IG1) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+IG1
+C131970E07 NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (IG1 CIRCUIT)
+OK
+BC
+6 INSPECT SKID CONTROL ECU CONNECTOR (GND TERMINAL CONTINUITY)
+(a) Measure the resistance according to the value(s) in the
+Skid Control ECU (Harness Side
+table below.
+Connector Front View):
+Standard resistance
+GND2 GND1 A25 Tester Connection Specified Condition
+A25-4 (GND1) - Body ground Below 1 Ω
+A25-1 (GND2) - Body ground Below 1 Ω
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (GND CIRCUIT)
+C131970E05
+OK

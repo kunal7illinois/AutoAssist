@@ -1,0 +1,35 @@
+AUTOMATIC TRANSAXLE 23A-93
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 11. Check the power supply voltage at crankshaft
+position sensor connector B-20.
+(1) Disconnect connector B-20 and measure at the harness
+CONNECTOR: B-20
+side.
+<2.4L ENGINE>
+(2) Turn the ignition switch to the "ON" position.
+B-20
+AC004926AC
+CONNECTOR: B-20
+<3.0L ENGINE>
+B-20
+AC004927AC
+(3) Measure the voltage between terminal 3 and ground.
+• Voltage should be battery positive voltage.
+HARNESS
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+CONNECTOR: B-20
+Q:Is the voltage normal?
+YES : Go to Step 13.
+NO : Go to Step 12.
+ACX02112AC
+STEP 12. Check connector A-18X at MFI relay for damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-18X
+YES : Repair harness open circuit or short circuit to ground
+between MFI relay connector A-18X terminal 4 and
+crankshaft position sensor connector B-20 terminal 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+BATTERY A-18X Connector Inspection P.00E-2.
+FRONT OF VEHICLE
+AC102447AE
+TSB Revision

@@ -1,0 +1,39 @@
+23A-284 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 6. Check harness for short circuit to ground between
+dual pressure switch connector A-36 terminal 1 and
+automatic compressor controller connector C-12 terminal
+4.
+Q:Is the harness wire in good condition?
+CONNECTOR: A-36
+YES : Go to Step 7.
+NO : Repair it.
+A-36
+AC004374AC
+CONNECTOR: C-12
+C-12
+AC001741AT
+STEP 7. Using scan tool MB991502, check data list item 65:
+Dual Pressure Switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to data reading mode for item65:
+Dual Pressure Switch.
+• When the A/C is in operation, the scan tool display
+should be "ON."
+• When the A/C is not in operation, the scan tool display
+should be "OFF."
+16 PIN
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 AC001252AE Q:Is the switch operating properly?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Check the air conditioning system. Refer to GROUP
+55A, Troubleshooting Strategy P.55-5.
+TSB Revision

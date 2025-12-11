@@ -1,0 +1,38 @@
+ANTI-LOCK BRAKING SYSTEM (ABS) 35B-47
+ON-VEHICLE SERVICE
+POINTS IN WAVEFORM MEASUREMENT
+SYMPTOM PROBABLE CAUSES REMEDY
+Too small or zero waveform amplitude Faulty wheel speed sensor Replace sensor
+Incorrect pole piece-to-ABS rotor Adjust clearance
+clearance
+Waveform amplitude fluctuates Axle hub eccentric or with large Replace hub
+excessively (This is no problem if the runout
+minimum amplitude is 100 mV or
+more)
+Noisy or disturbed waveform Open circuit in wheel speed sensor Replace sensor
+Open circuit in harness Repair harness
+Incorrectly mounted wheel speed Mount correctly
+sensor
+ABS rotor with missing or damaged Replace ABS rotor
+teeth
+NOTE: The wheel speed sensor cable moves in relation to motion of the front or rear suspension. Therefore,
+it is likely that it has an open circuit only when driving on rough roads but it functions normally when driving on
+smooth roads. It is recommended to observe sensor output voltage waveform also under special conditions,
+such as driving on a rough road.
+HYDRAULIC UNIT CHECK
+M1352001700233
+Required Special Tool:
+MB991502: Scan Tool (MUT-II)
+CAUTION
+• The roller of the braking force tester and the tire should
+be dry during testing.
+• When testing the front brakes, apply the parking brake.
+When testing the rear brakes, stop the front wheels
+with chocks.
+1. Jack up the vehicle. Then support the vehicle with rigid
+racks at the specified jack-up points or place the front or rear
+wheels on the rollers of the braking force tester.
+2. Release the parking brake, and feel the drag force (drag
+torque) on each road wheel. When using the braking force
+tester, take a reading of the brake drag force.
+TSB Revision

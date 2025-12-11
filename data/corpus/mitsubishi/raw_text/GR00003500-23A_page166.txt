@@ -1,0 +1,42 @@
+23A-166 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 44. Check connectors C-61 <2.4L Engine> or C-63
+<3.0L Engine> at PCM and C-65 at shift switch assembly
+for damage.
+Q:Are the connectors in good condition?
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE> YES : Repair harness short circuit to ground between shift
+switch assembly connector C-65 terminal 4 and PCM
+PCM connector C-61 <2.4L Engine> or C-63 <3.0L
+Engine> terminal 109.
+NO : Repair or replace the defective connector(s). Refer to
+GROUP 00E, Harness Connector Inspection P.00E-
+2.
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+CONNECTOR: C-65
+C-65
+AC001741AS
+DTC 28: Park/Neutral Position Switch System (Short Circuit)
+. .
+Park/Neutral Position Switch System Circuit TROUBLESHOOTING HINTS (The most likely
+Refer to P.23A-136. causes for this code to be set:)
+• Malfunction of the Park/Neutral position switch
+CIRCUIT OPERATION
+• Malfunction of the ignition switch
+Refer to P.23A-136.
+• Damaged harness, connector
+• Malfunction of the PCM
+.
+DTC SET CONDITIONS
+If the PCM detects more than one kind of park/neu-
+tral position switch input signals for continuous
+period of thirty seconds, it is judged that there is a
+short circuit in the Park/Neutral position switch and
+diagnostic trouble code number "28" is output.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+TSB Revision

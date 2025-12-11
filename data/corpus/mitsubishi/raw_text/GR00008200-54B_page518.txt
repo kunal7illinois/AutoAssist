@@ -1,0 +1,44 @@
+54B-518 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991862: SWS Monitor Kit
+STEP 1. Check the windshield intermittent wiper interval
+adjusting knob.
+(1) Remove the windshield wiper and washer switch, and
+check at the switch side.
+(2) Measure the resistance value between terminals 27 and
+28.The measured resistance should change smoothly from
+approximately 0 ohm ("FAST" position) to 1 kilo ohm
+("SLOW" position).
+Q:Is the windshield intermittent wiper interval adjusting
+UPPER SIDE
+knob in good condition?
+YES : Go to Step 2.
+NO : Replace the column switch (windshield wiper and
+washer switch). If the wiper interval can be adjusted
+AC003178AB normally, it indicates that the windshield intermittent
+wiper interval adjusting knob should send a signal to
+the ECU.
+STEP 2. Check column switch connector C-86 and ETACS-
+ECU connector C-118 for damage.
+Q:Are column switch connector C-86 and ETACS-ECU
+CONNECTOR: C-86
+connector C-118 in good condition?
+YES : Go to Step 3.
+DEVICE SIDE NO : Repair or replace the connector.Refer to GROUP
+1 2 3 4 5 00E, Harness Connector Inspection P.00E-2. If the
+6 7 8 910 wiper interval can be adjusted normally, it indicates
+that the windshield intermittent wiper interval
+adjusting knob should send a signal to the ECU.
+AC106475AB
+CONNECTOR: C-118
+DEVICE SIDE
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+TSB Revision

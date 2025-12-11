@@ -1,0 +1,62 @@
+ES–60
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Trouble Areas MIL Memory See page
+P0122 Throttle / Pedal - TP sensor (built into Comes on DTC stored ES-114
+Position Sensor / throttle body)
+Switch "A" Circuit - Short in VTA1 circuit
+Low Input - Open in VC circuit
+- ECM
+P0123 Throttle / Pedal - TP sensor (built into Comes on DTC stored ES-114
+Position Sensor / throttle body)
+Switch "A" Circuit - Open in VTA1 circuit
+High Input - Open in E2 circuit
+- Short between VC
+and VTA1 circuits
+- ECM
+P0125 Insufficient Coolant - Cooling system Comes on DTC stored ES-123
+Temperature for - ECT sensor
+ES Closed Loop Fuel - Thermostat
+Control
+P0128 Coolant Thermostat - Thermostat Comes on DTC stored ES-126
+(Coolant - Cooling system
+Temperature Below - ECT sensor
+Thermostat - ECM
+Regulating
+Temperature)
+P0136 Oxygen Sensor - Open or short in Comes on DTC stored ES-129
+Circuit Malfunction HO2 sensor (sensor
+(Bank 1 Sensor 2) 2) circuit
+- HO2 sensor (sensor
+2)
+- HO2 sensor heater
+(sensor 2)
+- Air-Fuel Ratio (A/F)
+sensor (sensor 1)
+- Integration relay
+(EFI MAIN relay)
+- Gas leakage from
+exhaust system
+P0137 Oxygen Sensor - Open in HO2 sensor Comes on DTC stored ES-129
+Circuit Low Voltage (sensor 2) circuit
+(Bank 1 Sensor 2) - HO2 sensor (sensor
+2)
+- HO2 sensor heater
+(sensor 2)
+- Integration relay
+(EFI MAIN relay)
+- Gas leakage from
+exhaust system
+P0138 Oxygen Sensor - Short in HO2 sensor Comes on DTC stored ES-129
+Circuit High Voltage (sensor 2) circuit
+(Bank 1 Sensor 2) - HO2 sensor (sensor
+2)
+- ECM internal circuit
+malfunction
+P0141 Oxygen Sensor - Open or short in Comes on DTC stored ES-80
+Heater Circuit HO2 sensor heater
+Malfunction (Bank 1 circuit
+Sensor 2) - HO2 sensor heater
+(sensor 2)
+- Integration relay
+(EFI MAIN relay)
+- ECM

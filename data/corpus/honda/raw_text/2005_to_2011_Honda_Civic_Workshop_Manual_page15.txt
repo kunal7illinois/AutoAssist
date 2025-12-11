@@ -1,0 +1,41 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+valve
+malfunction
+(solenoid
+speculative)
+-23 ABS left-rear ON ON
+outlet solenoid
+valve
+malfunction
+(solenoid stuck
+ON)
+41 -21 Right-front wheel ON (1)
+ON/OFF
+lock
+42 -21 Left-front wheel ON (1)
+ON/OFF
+lock
+43 -21 Right-rear wheel ON (1)
+ON/OFF
+lock
+44 -21 Left-rear wheel ON (1)
+ON/OFF
+lock
+51 -11 Motor lock ON OFF
+-12 Motor lock ON OFF
+circuit
+malfunction
+-13 Motor relay OFF ON OFF
+malfunction
+52 -12 Motor stuck OFF ON OFF
+53 -01 Motor relay stuck ON OFF
+ON 1
+-12 Motor relay stuck ON OFF
+ON 2
+54 -03 Fail-safe relay 1 ON ON
+stuck ON
+-04 Fail-safe relay 1 ON ON
+stuck OFF
+(initial)

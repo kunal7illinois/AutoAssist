@@ -1,0 +1,46 @@
+ES–284
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2. P0456: EVAP very small leak
+In operation C, the vacuum pump creates negative pressure (vacuum) in the EVAP system and the
+EVAP system pressure is measured. If the stabilized system pressure is higher than the second 0.02
+inch leak pressure standard, the ECM determines that the EVAP system has a small leak, illuminates
+the MIL and sets the DTC (2 trip detection logic).
+EVAP Pressure when EVAP System Leaks:
+ON: Open
+ON
+VSV (for EVAP)
+OFF: Closed
+ON: Closed
+ON
+Vent Valve
+ES ON: Vent
+Vacuum Pump ON
+EVAP Pressure
+P0455
+Positive
+Negative
+P0456
+First 0.02 Inch
+Leak Pressure
+Standard
+Sequence
+OK
+A B C D E
+Time
+10 seconds 60 Within 15 minutes
+seconds
+60 seconds
+10 seconds
+A129400E02
+MONITOR STRATEGY
+Required Sensors/Components EVAP VSV and pump module
+Frequency of Operation Once per driving cycle
+Duration Within 15 minutes (varies with amount of fuel in tank)
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+EVAP key-off monitor runs when all of following conditions are met: -
+Atmospheric pressure 70 to 110 kPa (525 to 825 mmHg)
+Battery voltage 10.5 V or more
+Vehicle speed Below 2.5 mph (4 km/h)
+Engine switch OFF

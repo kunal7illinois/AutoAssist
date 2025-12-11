@@ -1,0 +1,52 @@
+ES–263
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Evaporative Emission System Reference Ori-
+DTC P043E
+fice Clog Up
+Evaporative Emission System Reference Ori-
+DTC P043F
+fice High Flow
+Evaporative Emission System Leak Detection
+DTC P2401
+Pump Control Circuit Low
+Evaporative Emission System Leak Detection
+DTC P2402
+Pump Control Circuit High
+ES
+Evaporative Emission System Switching Valve
+DTC P2419
+Control Circuit Low
+DTC SUMMARY
+Detection Detection
+DTCs Monitoring Items Malfunction Detection Conditions Trouble Areas
+Timings Logic
+P043E 0.02 inch orifice clogged P043E, P043F, P2401, P2402, P2419
+are present when one of the following
+P043F 0.02 inch orifice high-flow
+conditions is met during key-off EVAP
+P2401 Vacuum pump stuck OFF monitor • Pump module
+P2402 Vacuum pump stuck ON • Reference orifice clogged • Connector/wire While
+• Reference orifice high-flow harness (Pump ignition 2 trip
+• Leak detection pump OFF module - ECM) switch OFF
+Vent valve stuck open malfunction • ECM
+P2419 (vent) • Leak detection pump ON
+malfunction
+• Vent valve ON (close) malfunction
+HINT:
+The 0.02 inch orifice is located inside the pump module.
+DESCRIPTION
+The circuit description can be found in the EVAP (Evaporative Emission) System (See page ES-400).
+INSPECTION PROCEDURE
+Refer to the EVAP System (See page ES-400).
+MONITOR DESCRIPTION
+5 hours*1 after the ignition switch is turned off, the electric vacuum pump creates negative pressure
+(vacuum) in the EVAP (Evaporative Emission) system. The ECM monitors for leaks and actuator
+malfunctions based on the EVAP pressure.
+HINT:
+*1: If the engine coolant temperature is not below 35°C (95°F) 5 hours after the ignition switch is turned off,
+the monitor check starts 2 hours later. If it is still not below 35°C (95°F) 7 hours after the ignition switch is
+turned off, the monitor check starts 2.5 hours later.
+Sequence Operations Descriptions Duration
+Activated by soak timer, 5 hours (7 or 9.5 hours) after ignition switch
+- ECM activation -
+turned off.

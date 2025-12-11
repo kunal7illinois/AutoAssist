@@ -1,0 +1,33 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-571
+SYMPTOM PROCEDURES
+STEP 3. Measure at rear wiper motor connector F-07 by
+backprobing to check the ignition switch (ACC) line of the
+power supply to the rear wiper motor.
+(1) Do not disconnect rear wiper motor connector F-07.
+CONNECTOR <ECLIOSE>: F-07
+(2) Turn the ignition switch to the "ACC" position.
+1 2 3
+DEVICE SIDE
+AC106489AH
+(3) Measure the voltage between terminal 1 and ground by
+backprobing.
+CONNECTOR: F-07 • The measured value should be approximately 12 volts
+(HARNESS SIDE) (battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 6.
+NO : Go to Step 4.
+AC003714AB
+STEP 4. Check rear wiper motor connector F-07 for
+damage.
+Q:Is rear wiper motor connector F-07 in good condition?
+CONNECTOR <ECLIOSE>: F-07
+YES : Go to Step 5.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. If the
+1 2 3
+rear wiper operates normally, it indicates that a
+DEVICE SIDE
+correct auto-stop signal is sent from the rear wiper
+motor.
+AC106489AH
+TSB Revision

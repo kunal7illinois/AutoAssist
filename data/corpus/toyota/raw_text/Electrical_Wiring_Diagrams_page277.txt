@@ -1,0 +1,86 @@
+SRS
+ICR+
+B
++SL –SL +SR –SR
+A A A A
+D+ D– D2–
+276
+CAMRY (EM0250U)
+B–Y
+Y
+B–Y
+Y
+Spiral
+Cable
+G
+B C C
+SFP+ SFP– ICP–
+–SL
+A13
+Y
+B–Y
+Z1
+B 7
+SFD+ SFD–
+A28
+Y
+N21
+1 2 1 2 1 2 1 2
+B B C C 6 7 6 B C C
+PD+ PD– PP+ PP– ICD+ ICD– ICP+
+D+ D– D2+ D2– P+ P– P2+ P2–
+A A A A A A A A
+3 AE4 4 AE4 2 AE4 1 AE4
+1 2 4 3
+2 1 2 1
++SL +SR –SR
+B–Y
+Y1
+N8 O8
+E30(A), N1(B), O1(C)
+E16 c1(A), c2(B)
+B–Y
+B–Y
+Y
+Y
+B–Y
+R–Y
+Y
+G–Y
+B–Y Y
+P+
+G
+R
+R
+W
+W
+B
+B
+O16
+1 2 1 2
+L+ L– R+ R– ICL+ ICL– ICR–
+2 1 4 5 9 10 9 10
+5 6 8 7 4 3 1 2 30 28 29 27
+D2+
+P– P2–
+R–Y G–Y
+Side Airbag
+Squib (LH) Side Airbag Squib (RH)
+Curtain Shield Curtain Shield
+Pretensioner (LH) Pretensioner (RH) Airbag Squib (LH) Airbag Squib (RH)
+Airbag Sensor Assembly Center
+Airbag Squib Airbag Squib Airbag Sensor Airbag Sensor
+(Steering Wheel Pad) (Front Passenger' s (Front LH) (Front RH)
+Airbag Assembly)
+Y
+B–Y
+Y
+B–Y
+1 Ec1 2 Ec1 3 Ec1 4 Ec1
+1 B 2 B 1 A 2 A
+RG–Y P–Y R–Y G–Y
+∗ 3 : w/ Power Seat
+∗ 4 : w/o Power Seat
+1 NZ2 2 NZ2 1 OY2 2 OY2
+P2+
+GR GR

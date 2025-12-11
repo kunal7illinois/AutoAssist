@@ -1,0 +1,45 @@
+ES–477
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 CHECK HARNESS AND CONNECTOR (VSV FOR AICV - ECM, VSV FOR AICV - EFI
+RELAY)
+(a) Check the wire harness between the VSV for AICV
+Wire Harness Side: connector and the ECM connector.
+(1) Disconnect the A53 VSV for AICV connector.
+(2) Disconnect the A55 ECM connector.
+(3) Measure the resistance between the terminals of
+AICV VSV
+the wire harness side connectors and body ground.
+Standard resistance (Check for open)
+Tester Connection Specified Condition
+A53 1 2
+VSV for AICV (A53-2) - AICV (A55-4) Below 1 Ω
+Standard resistance (Check for short) ES
+Tester Connection Specified Condition
+VSV for AICV (A53-2) or AICV (A55-4) - Body
+Engine Room Junction Block 10 kΩ or higher
+ground
+(4) Reconnect the ECM connector.
+(b) Check the EFI No. 3 fuse.
+(1) Remove the EFI No. 3 fuse from the engine room R/
+B.
+(2) Measure the resistance EFI No. 3 fuse.
+Standard resistance:
+Below 1 Ω
+1E
+(3) Reinstall the EFI No. 3 fuse.
+(c) Check the wire harness between the VSV for AICV and
+the EFI relay.
+(1) Remove the engine room junction block from the
+engine room R/B.
+(2) Measure the resistance between the terminals of
+the wire harness side connectors.
+Standard resistance (Check for open)
+Tester Connection Specified Condition
+VSV for AICV (A53-1) - 1E-6 Below 1 Ω
+(3) Reconnect the VSV for AICV connector.
+(4) Reinstall the engine room junction block.
+NG REPAIR OR REPLACE HARNESS OR
+Engine Room Relay Block CONNECTOR
+A55 ECM Connector
+AICV
+A137083E01

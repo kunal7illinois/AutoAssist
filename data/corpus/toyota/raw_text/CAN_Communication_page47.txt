@@ -1,0 +1,32 @@
+CA–47
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+(c) Measure the resistance according to the value(s) in the
+Skid Control ECU Connector table below.
+(Front View): Standard resistance:
+without VSC
+without VSC: A25 Tester Connection Condition Specified Value
+A25-26 (CANH) - A25-15
+Ignition switch off 54 to 69 Ω
+(CANL)
+with VSC (TMC made)
+Tester Connection Condition Specified Value
+A26-11 (CANH) - A26-25
+CANL CANH Ignition switch off 54 to 69 Ω
+(CANL)
+with VSC (TMMK made)
+with VSC (TMC Made):
+Tester Connection Condition Specified Value
+A26
+A60-35 (CANH) - A60-14
+Ignition switch off 54 to 69 Ω
+(CANL)
+NG REPAIR OR REPLACE SKID CONTROL ECU
+BRANCH WIRE OR CONNECTOR (CAN-H,
+CA
+CAN-L)
+CANH CANL
+with VSC (TMMK Made):
+A60
+CANL CANH
+C133241E01
+OK

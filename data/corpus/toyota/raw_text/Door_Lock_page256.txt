@@ -1,0 +1,39 @@
+DL–238
+DOOR LOCK – REAR DOOR LOCK
+INSPECTION
+1. INSPECT REAR DOOR LOCK LH ASSEMBLY
+(a) Remove the rear door lock assembly LH.
+(b) Check operation of the door lock motor.
+(1) Apply battery voltage and check operation of
+the door lock motor.
+OK
+Measurement Condition Specified Condition
+Battery positive (+) → Terminal 4
+Lock
+Battery negative (-) → Terminal 1
+Battery positive (+) → Terminal 1
+Unlock
+Battery negative (-) → Terminal 4
+Lock
+Unlock
+L UL
+E123890E03
+(c) Check operation of the unlock detection switch.
+(1) Measure the resistance according to the
+value(s) in the table below.
+Standard resistance
+Tester Measurement Door Lock (Specified
+Connection Condition Condition Condition)
+Battery positive
+(+) → Terminal 4
+6 - 9 Lock 10 kΩ or higher
+Battery negative
+(-) → Terminal 1
+Battery positive
+(+) → Terminal 1
+6 - 9 Unlock Below 1 Ω
+Lock Battery negative
+Unlock (-) → Terminal 4
+2. INSPECT REAR DOOR LOCK RH ASSEMBLY
+DL (a) Remove the rear door lock assembly RH.
+E123890E02

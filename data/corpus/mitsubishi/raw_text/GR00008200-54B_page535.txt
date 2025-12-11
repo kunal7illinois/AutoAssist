@@ -1,0 +1,28 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-535
+SYMPTOM PROCEDURES
+STEP 2. Measure at driver’s seat belt switch connector D-
+13 in order to check the ground circuit to the driver’s seat
+belt switch.
+(1) Disconnect driver’s seat belt switch connector D-13, and
+CONNECTOR <ECLIPSE>: D-13
+measure at the harness side.
+DEVICE SIDE
+D-13
+1 2
+AC106483AF
+CONNECTOR <ECLIPSE SPYDER>: D-13
+DEVICE SIDE
+D-13
+1 2
+AC106485AF
+(2) Measure the resistance value between terminal 2 and
+ground.
+CONNECTOR D-13 • The measured value should be 2 ohm or less.
+(HARNESS SIDE)
+Q:Does the measured resistance value correspond with
+this range?
+2 1
+YES : Go to Step 5.
+NO : Go to Step 3.
+AC106519AB
+TSB Revision

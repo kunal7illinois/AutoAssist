@@ -1,0 +1,31 @@
+ES–258
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0617 Starter Relay Circuit High
+DESCRIPTION
+While the engine is being cranked, the positive battery voltage is applied to terminal STA of the ECM. If
+the ECM detects the Starter Control (STA) signal while the vehicle is being driven, it determines that there
+is a malfunction in the STA circuit. The ECM then illuminates the MIL and sets the DTC.
+This monitor runs when the vehicle is driven at 20 km/h (12.4 mph) for over 20 seconds.
+DTC No. DTC Detection Conditions Trouble Areas
+When conditions (a), (b) and (c) met, positive (+B) battery
+voltage 10.5 V or more applied to ECM for 20 seconds (1 trip • Park/Neutral Position (PNP) switch
+detection logic) • Starter relay circuit
+P0617
+(a) Vehicle speed 20 km/h (12.4 mph) or more • Ignition switch
+ES (b) Engine speed 1,000 rpm or more • ECM
+(c) STA signal ON
+MONITOR STRATEGY
+Related DTCs P0617: Starter signal
+Required Sensors/Components (Main) STARTER relay, PNP switch, Clutch start switch and Ignition switch
+Required Sensors/Components (Related) Vehicle Speed Sensor (VSS), Crankshaft Position (CKP) sensor
+Frequency of Operation Continuous
+Duration 20 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+Battery voltage 10.5 V or more
+Vehicle speed 20 km/h (12.43 mph) or more
+Engine speed 1,000 rpm or more
+TYPICAL MALFUNCTION THRESHOLDS
+Starter signal ON

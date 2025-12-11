@@ -1,0 +1,33 @@
+CHASSIS - TIRE PRESSURE WARNING SYSTEM CH-143
+3. Tire Pressure Warning System Reset Switch
+(cid:3) By operating the tire pressure warning system reset switch, tire pressure warning system ECU can be set
+to issue a warning at an inflation pressure that corresponds with the type of tires. Therefore, the dealer must
+set the warning threshold to the proper value in order to comply with the local regulations.
+(cid:3) Operate the tire pressure warning system reset switch only after the inflation pressures of all 5 tires
+(including the standard type spare tire*) have been adjusted on the vehicle.
+(cid:3) To initialize the system, press and hold the tire pressure warning system reset switch for 3 seconds or longer
+with the engine switch turned ON. After the system has been initialized, the tire pressure warning light
+blinks 3 times at 0.5 Hz.
+(cid:3) During the initialization, the tire pressure warning system valve & transmitter measures the inflation
+pressure of the tires, and registers the signals that are transmitted into the ECU at a frequency of 1 per
+minute. The initialization process is completed when the signals from the 5 tires have been received.
+(cid:3) Once the tire pressure warning system reset switch has been pressed, turning OFF the engine switch is not
+recommended for a few minutes.
+*: Optional Equipment
+Service Tip
+(cid:3) Since the initialized values are dependent upon the accuracy of the tire pressure gauge to be used,
+use a tire pressure gauge that has been properly calibrated.
+(cid:3) The system must be initialized in the following conditions:
+1)New vehicle delivery
+2)Replacement with tires of different size (inflation pressure)
+3)Tire pressure warning system ECU replacement
+CAUTION
+If the system is initialized with tires whose inflation pressure deviates from the threshold pressure,
+the system can be initialized at those values. Therefore, initialize only after the tires have been inflated
+to the specified air pressure.
+4. Tire Pressure Warning Light
+(cid:3) The tire pressure warning light is located in the combination meter.
+(cid:3) This warning light illuminates or blinks in accordance with signals from the tire pressure warning system
+ECU if the vehicles own tires are inflated with low pressure or if malfunction occurs in the system.
+Tire Pressure Warning Light
+025CH62TE

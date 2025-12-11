@@ -1,0 +1,40 @@
+EI–46
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+DTC B2799 Engine Immobiliser System
+DESCRIPTION
+This DTC is output when one of the following occurs: 1) the ECM detects errors in its own
+communications with the ID code box; 2) the ECM detects errors in the communication lines; or 3) the
+ECU communication ID between the ID code box and ECM is different and an engine start is attempted.
+Before troubleshooting for this DTC, make sure no certification ECU DTCs are present. If present,
+troubleshoot the certification ECU DTCs first.
+DTC No. DTC Detection Condition Trouble Area
+One of following conditions is met:
+• Error in communication between ECM and ID code
+• Wire harness
+box
+B2799 • ECM
+• Error in communication lines
+• ID code box
+• Communication ID is different with ID code box
+during communication
+WIRING DIAGRAM
+ECM ID Code Box
+No. 4 J/B
+11 7 11 10 6
+Y L L
+IMI A55 AE5 4C 4F E50 EFIO
+10 13 4 5 5
+G G G
+IMO A55 AE5 4C 4F E50 EFII
+EI
+B128336E03
+INSPECTION PROCEDURE
+NOTICE:
+• If the ID code box is replaced, register the key and ECU communication ID (See page EI-8).
+• If the ECM is replaced, register the ECU communication ID (See page EI-8).
+1 CHECK DTC OUTPUT
+(a) Delete the DTCs (See page EI-24).
+(b) Recheck for DTCs (See page EI-24).
+Result
+Result Proceed to
+B2799 output reoccurs A

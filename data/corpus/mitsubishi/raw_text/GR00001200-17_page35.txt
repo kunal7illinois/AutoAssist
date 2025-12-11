@@ -1,0 +1,40 @@
+ENGINE AND EMISSION CONTROL 17-35
+AUTO-CRUISE CONTROL
+STEP 6. Check the output circuit voltage at auto-cruise
+control switch connector C-82 (terminal numbers 2 and 3)
+by backprobing.
+(1) Do not disconnect auto-cruise control switch connector C-
+207.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 2 and ground by
+C-82 CONNECTOR backprobing.
+HARNESS SIDE VIEW • Voltage should be battery positive voltage.
+(MAIN switch is at the "ON" position.)
+1 2 3 (4) Measure the voltage between terminal 3 and ground by
+backprobing.
+• Voltage should be between 6.8 and 7.2 volts.
+(MAIN switch is at the "ON" position.)
+• Voltage should be between 3.5 and 5.0 volts.
+(All switches are at the "OFF" position.)
+ACX01913AE
+• Voltage should be between 0.4 and 2.3 volts.
+("SET" switch is at the "ON" position)
+• Voltage should be between 2.3 and 3.5 volts.
+("RESUME" switch is at the "ON" position.)
+• Voltage should be between 1 volt or less.
+("CANCEL" switch is at the "ON" position.)
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage within specifications?
+YES : Go to Step 9.
+NO : Go to Step 7.
+STEP 7. Check auto-cruise control switch connector C-82.
+Q:Is the connector damaged?
+CONNECTORS: C-82
+YES : Repair or replace connector.
+CLOCK SPRING Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that diagnostic trouble code 15 is not
+output.
+NO : Go to Step 8.
+AC106551AC
+TSB Revision

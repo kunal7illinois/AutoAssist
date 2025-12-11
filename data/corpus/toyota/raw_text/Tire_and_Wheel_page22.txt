@@ -1,0 +1,38 @@
+TW–22
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+TEST MODE PROCEDURE
+1. ENTER TEST MODE
+HINT:
+• Operation of the tire pressure warning reset switch
+can be checked in TEST MODE.
+• During TEST MODE, the system is not initialized by
+pushing the tire pressure warning reset switch. The
+circuit of the tire pressure warning reset switch can be
+inspected during this mode.
+(a) Make sure that the ignition switch is off.
+(b) Connect the intelligent tester to DLC3.
+(c) Turn the ignition switch on (IG).
+(d) Select the TEST MODE on intelligent tester.
+(e) Confirm that the tire pressure warning light in the
+combination meter blinks at 0.125 second intervals.
+TW 2. PERFORM SIGNAL CHECK
+HINT:
+• When entering signal check mode, the tire pressure
+warning ECU sets all the signal check DTCs first.
+After completing signal check for each inspection
+item, the DTCs for systems that are determined to be
+normal by the tire pressure warning ECU will be
+DLC3
+erased.
+Intelligent Tester
+The DTCs for other inspection items may not be
+C131977E01
+erased when only a certain signal is inspected.
+• When signal check returns to normal mode, all the
+signal check DTCs will be erased.
+(a) Make sure that the ignition switch is off.
+(b) Connect the intelligent tester to DLC3.
+(c) Turn the ignition switch on (IG).
+DLC3
+Intelligent Tester
+C131977E01

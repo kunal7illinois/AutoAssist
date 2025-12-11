@@ -1,0 +1,63 @@
+BC–288
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+5. INITIAL CHECK
+(a) When the vehicle speed first becomes
+approximately 4 mph (6 km/h) or more after the
+ignition switch is turned on (IG), each solenoid valve
+and motor of the brake actuator assembly is
+sequentially activated to perform an electrical
+check. During the initial check, the operating sound
+of solenoid valve and motor can be heard from the
+engine compartment, but this is not a malfunction.
+6. FUNCTION OF COMPONENTS
+Components Function
+• Changes the fluid path based on the signals from the skid control ECU during the operation of
+the ABS with EBD & Brake Assist & TRAC & VSC system, in order to control the fluid pressure
+Brake actuator assembly
+that is applied to the wheel cylinders.
+• Houses the skid control ECU.
+• Judges the vehicle driving condition based on the signals from each sensor, and controls the
+Skid control ECU (housed in brake brake actuator assembly.
+actuator assembly) • Sends and receives the control signals to or from the ECM, yaw rate and acceleration sensor,
+and steering angle sensor via CAN communication.
+BC
+• Detects the fluid pressure in the master cylinder.
+Master cylinder pressure sensor
+• Housed in the brake actuator assembly.
+Speed sensor Detects speed of each wheel and inputs the data into the skid control ECU.
+Illuminates the brake light when the brake pedal is depressed. (Sends a brake on signal to the skid
+Stop light switch
+control ECU)
+• Supplies power to the pump motor.
+Motor relay
+• Housed in the skid control ECU.
+• Supplies power to each solenoid.
+Solenoid relay
+• Housed in the skid control ECU.
+• Controls the engine output based on the signals received from the skid control ECU.
+ECM • Sends the accelerator pedal position signal and the engine speed signal to the skid control
+ECU.
+• Comes on to inform the driver that a malfunction in the ABS, EBD or BA (Brake Assist) has
+ABS warning light occurred.
+• Blinks to output DTC.
+• Comes on to inform the driver that the parking brake is ON when the system is normal.
+BRAKE warning light
+• Comes on to inform the driver that a malfunction in the EBD has occurred.
+VSC warning light Comes on to inform the driver that a malfunction in the VSC system has occurred.
+SLIP indicator light Blinks to inform the driver that TRC and VSC are operating.
+Brake fluid level warning switch Detects the brake fluid level.
+Skid control buzzer Intermittently sounds to inform the driver that the VSC is operating.
+• Acceleration sensor measures the capacity of the condenser that changes the distance
+between the electrodes depending on G force, which occurs when the vehicle is accelerated,
+and converts the measured value into electrical signals.
+Yaw rate and acceleration sensor
+• Yaw rate sensor detects the vehicle's angular velocity (yaw rate) in the vertical direction based
+on the amount and direction of the piezoelectric ceramics deflection.
+• Sends signals to the skid control ECU via CAN communication.
+• Installed in the steering column.
+• Detects the steering amount and direction and sends the signals to the skid control ECU via
+CAN communication.
+Steering angle sensor
+• Has the magnetic resistance element, which detects the rotation of the magnet housed in the
+detection gear in order to detect the changes in magnetic resistance and the steering amount
+and direction.

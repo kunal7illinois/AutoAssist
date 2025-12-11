@@ -1,0 +1,41 @@
+CA–13
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+TERMINALS OF ECU
+NOTICE:
+This section describes the standard CAN values for all
+CAN related components.
+1. JUNCTION CONNECTOR (NO. 1 CAN J/C, NO. 2 CAN
+J/C)
+(a) No. 1 CAN J/C
+No. 1 CAN J/C “B” side (without Earth Terminal): No. 1 CAN J/C “A” side (with Earth Terminal):
+Earth Terminal
+CA
+B B
+E46 E42
+W W
+B B
+E62 E45
+W W
+B
+E63
+W
+B E43
+W
+B E44
+W
+Earth Terminal
+C137761E02
+No. 1 CAN J/C connectors ("A" side, with earth
+Connector Color Wire Color (CAN-H) Wire Color (CAN-L)
+terminal)
+CAN Main Bus Wire (E42) White B W
+Airbag Sensor Assembly Center (E45) Black B W
+No. 1 CAN J/C connectors ("B" side, with earth
+Connector Color Wire Color (CAN-H) Wire Color (CAN-L)
+terminal)
+Yaw Rate Sensor* (E46) Blue B W
+DLC3 (E62) Gray B W
+Steering Angle Sensor* (E63) Brown B W
+Combination Meter (E43) White B W
+Main Body ECU (E44) Black B W
+*: with VSC

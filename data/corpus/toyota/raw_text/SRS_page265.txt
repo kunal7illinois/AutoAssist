@@ -1,0 +1,36 @@
+RS–263
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+5 CHECK WIRE HARNESS (SHORT)
+(a) Disconnect the service wire from connector C.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance:
+for Power seat
+D A
+C B Tester connection Condition Specified condition
+Front Seat Inner T10-9 (BSW) - T10-5
+Always 1 MΩ or Higher
+Belt Assembly RH Occupant (BGND)
+Classification
+for Manual seat
+ECU
+Tester connection Condition Specified condition
+O4-9 (BSW) - O4-5
+Always 1 MΩ or Higher
+(BGND)
+Result
+Connector B
+Result Proceed to
+BGND
+NG (for Power seat) A
+T10 (*1)
+*1: for Power Seat
+NG (for Manual seat) B
+O4 (*2)
+*2: for Manual Seat OK C
+BSW
+C123747E01 A REPAIR OR REPLACE FRONT SEAT WIRE
+RH
+B REPAIR OR REPLACE FLOOR WIRE NO. 2
+RS
+C

@@ -1,0 +1,19 @@
+Audi TT 2007 ➤
+Direct shift gearbox 02E, four-wheel drive - Edition 08.2008
+Direct shift gearbox 02E four-wheel drive
+Overall ratio 3.000 2.362
+iov. in top gear
+Allocation: rear Designation Rear final drive 02D and 0AV
+final drive
+2.1 Calculating ratio “i”
+Example:
+6th gear Final drive
+Drive gear ZG1 = 40 ZA1 = 20
+Driven gear ZG2 = 33 ZA2 = 72
+i = Z2 : Z1 (Z1 = number of teeth on drive gear, Z2 = number of
+teeth on driven gear)
+iG = gear ratio = ZG2 : ZG1 = 33 : 40 = 0.825
+iA = axle ratio = ZA2 : ZA1 = 72 : 20 = 3.6
+iov = overall ratio = iG x iA = 0.825 x 3.6 = 2.97
+4
+Rep. Gr.00 - Technical data

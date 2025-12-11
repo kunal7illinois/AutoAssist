@@ -1,0 +1,30 @@
+ES–138
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+HO2 SENSOR CIRCUIT MALFUNCTION
+15 to 20 seconds
+(P0136: ABNORMAL VOLTAGE)
+Active air-fuel ratio control Operation
+Off
+Normal
+0.59 V
+HO2 sensor voltage
+Abnormal
+ES
+0.21 V
+A115540E02
+Open or Short in Heated Oxygen (HO2) Sensor Circuit (DTC P0137 or P0138)
+During active air-fuel ratio control, the ECM calculates the Oxygen Storage Capacity (OSC)* of the Three-
+Way Catalytic Converter (TWC) by forcibly regulating the air-fuel ratio to become rich or lean. If the HO2
+sensor has an open or short, or the voltage output of the sensor decreases significantly, the OSC
+indicates an extraordinarily high value. Even if the ECM attempts to continue regulating the air-fuel ratio to
+become rich or lean, the HO2 sensor output does not change.
+While performing active air-fuel ratio control, when the target air-fuel ratio is rich and the HO2 sensor
+voltage output is 0.21 V or less (lean), the ECM interprets this as an abnormally low sensor output voltage
+and sets DTC P0137. When the target air-fuel ratio is lean and the voltage output is 0.59 V or more (rich)
+during active air-fuel ratio control, the ECM determines that the sensor voltage output is abnormally high,
+and sets DTC P0138.
+HINT:
+DTC P0138 is also set if the HO2 sensor voltage output is more than 1.2 V for 10 seconds or more.
+*: The TWC has the capability to store oxygen. The OSC and the emission purification capacity of the
+TWC are mutually related. The ECM determines whether the catalyst has deteriorated based on the
+calculated OSC value (see page ES-191).

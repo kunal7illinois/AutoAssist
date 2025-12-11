@@ -1,0 +1,43 @@
+ES–199
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Engine coolant temperature 75°C (167°F) or more
+Atmospheric pressure 76 kPa (570 mmHg) or more
+Idling OFF
+Engine RPM Less than 4,000 rpm
+A/F sensor status Activated
+Fuel system status Closed loop
+Engine load 10 to 80 %
+All of following conditions (a), (b) and (c) met -
+(a) Mass air flow rate 2.5 to 40 g/sec.
+(b) Estimated front catalyst temperature 650° to 840°C (1,202° to 1,544°F)
+(c) Estimated rear catalyst temperature 400° to 770°C (752° to 1,418°F)
+Rear HO2 sensor heater monitor Completed
+ES
+Shift position 4th
+TYPICAL MALFUNCTION THRESHOLDS
+Oxygen Storage Capacity (OSC) of Three-Way Catalytic Converter
+Less than 0.07 g
+(TWC)
+MONITOR RESULT
+Refer to CHECKING MONITOR STATUS (see page ES-17).
+CONFIRMATION DRIVING PATTERN
+HINT:
+Performing this confirmation pattern will activate the catalyst monitor. This is very useful for verifying the
+completion of a repair.
+NOTICE:
+This test will not be completed
+Vehicle Speed if the vehicle is driven at
+absolutely constant speed
+(h)
+such as with cruise control
+Between 64 km/h and
+activated.
+113 km/h (40 mph and
+70 mph)
+(g)
+Idling
+Ignition Switch OFF
+Warm up Time
+10 minutes
+(Note: Even if vehicle stops during driving pattern, test can be resumed)
+A115372E26

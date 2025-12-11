@@ -1,0 +1,56 @@
+Audi TT No. 31 / 2
+Current Flow Diagram
+Navigation system with CD drive control unit, fuses
+J401 Navigation system with CD drive control unit
+J533 Data bus diagnostic interface
+SC32 Fuse 32 on fuse holder C
+SC34 Fuse 34 on fuse holder C
+SC35 Fuse 35 on fuse holder C
+SD3 Fuse 3 on fuse holder D
+T2l 2-pin connector, black, connector CAN, on navigation
+system with CD drive control unit
+T2m 2-pin connector, black, connector A, on navigation system
+B300 B415 B421 with CD drive control unit
+T20d 20-pin connector, black, on data bus diagnostic interface
+380 Earth connection 15, in main wiring harness
+• • • • • •
+10,0 6,0 0,35 0,35 0,35 0,35 0,35 0,35
+ro ro or/li or/li or/li or/br or/br or/br
+610 Earth point (audio), under centre console, front
+2255 2244
+T20d T20d
+B299 /20 /10
+J533 J533
+B299 Positive connection 3 (30), in main wiring harness
+32 34 35
+J401
+T2l/1 T2l/2 B300 Positive connection 4 (30), in main wiring harness
+16,0 SC32 SC34 SC35
+ro 5A 15A 30A
+Connection 1 (infotainment CAN bus, high), in main wiring
+32a 34a 35a T2m/1 T2m/2 B415
+30 31 harness
+E1
+SD3 Connection 1 (infotainment CAN bus, low), in main wiring
+110A ro 1 /w ,5 s ro 4 /g ,0 n 1 b , r 5 B421 harness
+✱
+• CAN bus (data wire)
+1188
+* main fuse box, in luggage compartment, rear right, on the
+battery
+380
+2,5
+br
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+610 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-031020409
+rs = pink
+Edition 04.2009

@@ -1,0 +1,37 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+– In “Auto” and “AC on” mode (lamps in buttons light) and with
+temperature set to “cold” stop (maximum cooling output),
+square-wave signal with a pulse width -A- between 75 % and
+100 % (the regulating valve is actuated).
+Note
+♦ The illustration shows a signal with a signal ratio of approx. 80
+%.
+♦ The pulse width -A- is governed by the required cooling output,
+the electrical system voltage etc. (over the width of area -A-,
+the current is controlled via the air conditioner compressor
+regulating valve -N280- by the air conditioner operating unit,
+Climatronic control unit -J255- ).
+♦ The signal distance -B- is always 2 milliseconds (correspond‐
+ing to a frequency of 500 hertz).
+♦ The duty cycle is derived from the ratio of pulse width -A- to
+signal distance -B-.
+– The setting on the air conditioner operating unit, Climatronic
+control unit -J255- and the measured ambient influences gov‐
+ern the pulse width of the square-wave signal (signal ratio
+between 100 % and greater than 30 %, the regulating valve is
+actuated such that the compressor output required to obtain
+the specified temperatures is achieved).
+Note
+♦ In “Auto” and “AC on” mode (lamps in buttons light) and with
+temperature set to “cold” stop, the air conditioner compressor
+regulating valve -N280- is actuated such that the maximum
+permissible current of approx. 0.65 A flows via the air condi‐
+tioner compressor regulating valve -N280- (maximum com‐
+pressor output).
+♦ In control mode, the actuation time is governed by the required
+cooling output and the vehicle electrical system voltage, for
+example. It is however always of sufficient duration to achieve
+a mean current of 0.3 A.
+47
+3. Servicing work on refrigerant circuit

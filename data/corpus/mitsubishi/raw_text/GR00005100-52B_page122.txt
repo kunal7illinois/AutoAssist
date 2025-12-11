@@ -1,0 +1,31 @@
+52B-122 SUPPLEMENTAL RESTRAINT SYSTEM (SRS)
+SRS AIR BAG DIAGNOSIS
+STEP 1. Check the side impact sensor (LH) line at the SRS-
+ECU connector C-74.
+(1) Disconnect left-side side impact sensor connector D-12,
+CONNECTOR: D-12
+and measure at the wiring harness side.
+<ECLIPSE> (2) Connect the negative battery terminal.
+(3) Turn the ignition switch to the "ON" position.
+FRONT
+SEAT BELT CAUTION
+Do not insert a test probe into the terminal from its front
+REAR FRONT OF side directly as the connector contact pressure may be
+SPEAKER
+VEHICLE weakened.
+(4) Measure the voltage between terminal 1 and the ground.
+• Voltage should be 9 volts or more
+Q:Is the voltage normal?
+<ECLIPSE SPYDER> YES : Replace the side impact sensor (LH). Refer to P.52B-
+153. Then go to Step 3.
+FRONT
+SEAT BELT NO : Go to Step 2.
+REAR SPEAKER FRONT OF
+BRACKET VEHICLE
+AC003136AB
+D-12 CONNECTOR
+(HARNESS SIDE)
+REAR VIEW
+1 2
+AC100398AF
+TSB Revision

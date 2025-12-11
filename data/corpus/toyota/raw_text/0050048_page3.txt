@@ -1,0 +1,51 @@
+ES–270
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1 INSPECT BATTERY CURRENT SENSOR ASSEMBLY
+(a) Disconnect the B29 battery current sensor connector.
+Component Side: Battery
+(b) Measure the resistance of the battery current sensor.
+Current
+Sensor Standard resistance
+Tester Connection Specified Condition
+2 (VC5) - 4 (E2) 3 to 10 kΩ
+2 (VC5) - 3 (IB) Below 0.5 kΩ
+3 (IB) - 4 (E2) 3 to 10 kΩ
+HINT:
+ES The resistance differs according to the tester type.
+VC5 THB
+2 1 NG REPLACE BATTERY CURRENT SENSOR
+4 3 ASSEMBLY
+E2 IB
+A124656E02
+OK
+2 CHECK HARNESS AND CONNECTOR (BATTERY CURRENT SENSOR - ECM)
+(a) Disconnect the B29 battery current sensor connector.
+Wire Harness Side:
+(b) Disconnect the B30 ECM connectors.
+(c) Measure the resistance of the wire harness side
+Battery Current Sensor Connector
+connectors.
+Standard resistance (Check for open)
+THB VC5 Tester Connection Specified Condition
+B29 B29-3 (IB) - B30-68 (IB) Below 1 Ω
+B29-2 (VC5) - B30-69 (VCIB) Below 1 Ω
+IB E2
+B29-4 (E2) - B30-92 (EIB) Below 1 Ω
+B29-1 (THB) - B30-120 (THB) Below 1 Ω
+IB VCIB EIB THB Standard resistance (Check for short)
+Tester Connection Specified Condition
+B29-3 (IB) or B30-68 (IB) - Body
+10 kΩ or higher
+ground
+B29-2 (VC5) or B30-69 (VCIB) - Body
+10 kΩ or higher
+ground
+B29-1 (THB) or B30-120 (THB) - Body
+10 kΩ or higher
+ground
+ECM Connector
+B30
+A127962E01 NG REPAIR OR REPLACE HARNESS AND
+CONNECTOR
+OK
+REPLACE ECM

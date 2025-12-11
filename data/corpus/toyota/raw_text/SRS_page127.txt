@@ -1,0 +1,44 @@
+RS–127
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+INSPECTION PROCEDURE
+1 CHECK DTC (OCCUPANT CLASSIFICATION ECU)
+(a) Turn the ignition switch on (IG), and wait for at least 10
+seconds.
+(b) Using the intelligent tester, check the DTCs of the
+occupant classification ECU (See page RS-251).
+OK:
+DTC is not output.
+NG GO TO OCCUPANT CLASSIFICATION
+SYSTEM
+OK
+2 CHECK DTC (CENTER AIRBAG SENSOR ASSEMBLY)
+(a) Turn the ignition switch on (IG), and wait for at least 60
+for Manual Seat: seconds.
+(b) Clear the DTCs stored in the memory (See page RS-41).
+(c) Turn the ignition switch off.
+(d) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+Center Airbag
+(e) Check the DTCs (See page RS-41).
+Occupant Classification Sensor Assembly
+OK:
+ECU
+DTC B1650/32 is not output.
+HINT:
+RS
+Codes other than DTC B1650/32 may be output at this
+for Power Seat:
+time, but they are not related to this check.
+OK USE SIMULATION METHOD TO CHECK (See
+page RS-32)
+Center Airbag
+Occupant Classification Sensor Assembly
+ECU
+DLC3 DTC 32
+CG TC
+C131555E02
+NG
+3 CHECK CONNECTION OF CONNECTORS
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.

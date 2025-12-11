@@ -1,0 +1,52 @@
+13A-544 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check the circuit at ECM connector C-53 <M/T> or
+PCM connector C-57 <A/T>.
+(1) Disconnect the connectors C-53 <M/T> or C-57 <A/T> and
+measure at the harness side.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 45 <M/T> or 83 <A/
+<M/T>
+T> and ground.
+C-53 HARNESS • Voltage should be 1 volt or less when the A/C switch is
+SIDE CONNECTOR
+"OFF".
+• Voltage should be battery positive voltage when the A/C
+3837363534333231
+switch is "ON".
+4645444342414039
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Replace the ECM or PCM. Then confirm that the
+malfunction symptom is eliminated.
+AK000420AC
+NO : Refer to GROUP 55, Heating and air conditioning −
+<A/T> Introduction To Heater, Air Conditioning And
+C-57 HARNESS
+SIDE CONNECTOR Ventilation Diagnosis P.55-5.
+77 76 75 74737271
+89 88 87868584838281807978
+98 97 9695 949392 9190
+AKX01449AG
+DATA LIST REFERENCE TABLE
+M1131152000177
+CAUTION
+• When shifting the select lever to D range, the brakes should be applied so that the vehicle does
+not move forward.
+• Driving tests always need two persons: one driver and one observer.
+NOTE: .
+*1: If the idle speed is lower than the standard value on a very cold engine [approximately −20°C (−4°F)] even
+when the IAC motor is fully opened, the air volume limiter built in the throttle body could be defective.
+*2: In a new vehicle [driven approximately 500 km (311 mile) or less], the step of the stepper motor is some-
+times 30 steps greater than the standard value.
+*3: The injector drive time represents the time when the cranking speed is at 250 r/min or below when the
+power supply voltage is 11 volts.
+*4: In a new vehicle [driven approximately 500 km (311 mile) or less], the injector drive time is sometimes 10%
+longer than the standard time.
+*5: In a new vehicle [driven approximately 500 km (311 mile) or less], the volume air flow sensor output fre-
+quency is sometimes 10% higher than the standard frequency.
+*6: GST items. [Data list items consist of MUT-II items and GST items. GST items can be accessed through
+the use of a general scan tool (GST). When MUT-II (MB991502) is used, MUT-II items appear alphabeti-
+cally; then, GST items appear alphabetically. The black and white characters of the GST items are
+inverted from the MUT-II items.]
+TSB Revision

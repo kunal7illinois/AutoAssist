@@ -1,0 +1,70 @@
+Audi TT No. 32 / 14
+Current Flow Diagram
+Navigation system with CD drive control unit, iPod holder,
+satellite radio
+J401 Navigation system with CD drive control unit
+R146 Satellite radio
+R192 iPod holder
+SC47 Fuse 47 on fuse holder C
+T8m 8-pin connector, black, pin connector A, on satellite radio
+T8n 8-pin connector, black, pin connector B, on satellite radio
+T12a 12-pin connector, black, on CD changer
+T12f 12-pin connector, blue, radio connector B
+R192 1
+r
+0
+o
+,0 B300 2
+ro
+,5
+T12r 12-pin connector, black, on iPod holder
+T12r/5 T12r/6 T12r/4
+47 50 Earth point, on left in luggage compartment
+0,21
+gr 44 SC47
+5A
+47a B300 Positive connection 4 (30), in main wiring harness
+113322 115544 118822
+a
+b 0,5 0,5 0,5 0,5
+B318 Positive connection 4 (30a), in main wiring harness
+ro/ws ro/ws ro/ws ro/ws
+0,21 0,21 0,21 B318
+gr ws ro
+117711 117733 117755 J401 V14 Connection (screening), in CD changer wiring harness
+V45 Connection 2 (screening), in CD changer wiring harness
+T12f/2 T12f/8 T12f/9
+220099 ✱✱
+117788 119955 ✱ 118822 • CAN bus (data wire)
+* Coupé
+** Roadster
+0,35 0,35 0,35 0,35 0,4 0,5 0,5 # vehicles without satellite radio bridged by mating plug
+bl li ws sw sw ro/ws
+R146 30
+T8n/5 T8n/6 T8n/7 C1 C2 T8m/2
+0,35# 0,35# 0,35#
+ws/ge li/gr bl/gn
+T8n/8 T8n/3 T8n/4 T8n/1 T8n/2 T8m/1
+31
+115566 117788
+• •
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,5
+sw gn gr ge sw sw V45 or/br or/li br
+V14
+0,35
+sw 0,5 ws = white
+br
+sw = black
+ro = red
+1122 2277 2200
+T12a/9 T12a/10 T12a/7 br = brown
+gn = green
+0,21 0,21 0,21 bl = blue
+gr ws ro
+gr = grey
+117711 117733 117755 50 li = purple
+ge = yellow
+169 170 171 172 173 174 175 176 177 178 179 180 181 182 or = orange
+8J0-032140409
+rs = pink
+Edition 04.2009

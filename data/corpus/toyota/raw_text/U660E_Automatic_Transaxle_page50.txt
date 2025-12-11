@@ -1,0 +1,85 @@
+AX–50
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Measurement Item/
+Item Normal Condition Diagnostic Note
+Range (display)
+Check mode result for vehicle
+SPD TEST speed sensor: - -
+0: COMPL, 1: INCMPL
+MIL status:
+MIL ON: MIL ON -
+AX ON or OFF
+MIL ON run distance:
+MIL ON RUN DIST Min.: 0 mile (65,535 km), Distance after DTC detected -
+Max.: 110,950 mile (65,535 km)
+Running time from MIL ON:
+Equivalent to running time after
+MIL ON RUN TIME Min.: 0 minute, -
+MIL ON
+Max.:65,535 minutes
+Engine run time:
+ENG RUN TIME Min.: 0 second, Time after engine start -
+Max.: 65,535 seconds
+Time after DTC cleared:
+Equivalent to time after DTCs
+TIME DTC CLEAR Min.: 0 minute, -
+erased
+Max.: 65,535 minutes
+Distance after DTC cleared:
+Equivalent to time after DTCs
+DIST DTC CLEAR Min.: 0 km/h, -
+erased
+Max.: 65,535 km/h
+Warm-up cycle after DTC
+Number of warm-up cycles after
+WU CYC DTC CLEAR cleared: -
+DTC cleared
+Min.: 0, Max.: 255
+OBD CERT OBD requirement OBD2 -
+Comprehensive component
+Comprehensive Component
+COMP ON monitor -
+Monitor
+0: NOT AVL, 1: AVAIL
+Comprehensive component
+CCM ENA monitor - -
+UNABLE or ENABLE
+Comprehensive component
+CCM CMPL monitor - -
+COMPL or INCMPL
+Fuel system monitor
+FUEL ENA - -
+UNABLE or ENABLE
+Fuel system monitor
+FUEL CMPL - -
+COMPL or INCMPL
+Misfire monitor
+MISFIRE ENA - -
+UNABLE or ENABLE
+Misfire monitor
+MISFIRE CMPL - -
+COMPL or INCMPL
+O2S (A/FS) heater monitor
+HTR ENA - -
+UNABLE or ENABLE
+O2S (A/FS) heater monitor
+HTR CMPL - -
+COMPL or INCMPL
+O2S (A/FS) monitor
+O2S(A/FS) ENA - -
+UNABLE or ENABLE
+O2S (A/FS) monitor
+O2S(A/FS) CMPL - -
+COMPL or INCMPL
+EVAP monitor
+EVAP ENA - -
+UNABLE or ENABLE
+EVAP monitor
+EVAP CMPL - -
+COMPL or INCMPL
+Catalyst monitor:
+CAT ENA - -
+UNABLE or ENABLE
+Catalyst monitor
+CAT CMPL - -
+COMPL or INCMPL

@@ -1,0 +1,38 @@
+BC–71
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+1 INSPECT FUSE (ECU-IG NO. 2 FUSE)
+(a) Remove the ECU-IG No. 2 fuse from the instrument
+Instrument Panel J/B: panel J/B.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Specified Condition
+ECU-IG No. 2 fuse Below 1 Ω (Continuity)
+(c) Install the fuse.
+ECU-IG No. 2 Fuse
+C136048E01
+NG REPLACE FUSE
+OK
+2 INSPECT BATTERY BC
+(a) Check the battery voltage.
+Standard voltage:
+11 to 14 V
+NG INSPECT CHARGING SYSTEM
+OK
+3 INSPECT SKID CONTROL ECU CONNECTOR (IG1 TERMINAL VOLTAGE)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Harness Side
+(b) Turn the ignition switch on (IG).
+Connector Front View):
+(c) Measure the voltage according to the value(s) in the
+table below.
+A25
+Standard voltage
+Tester Connection Condition Specified Condition
+A25-18 (IG1) -
+Ignition switch on (IG) 10 to 14 V
+Body ground
+IG1
+C131970E07 NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (IG1 CIRCUIT)
+OK

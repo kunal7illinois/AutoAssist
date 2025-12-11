@@ -1,0 +1,84 @@
+ES–62
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Measurement Item: Range
+Intelligent Tester Display Normal Condition*1 Diagnostic Note
+(Display)
+Overall fuel compensation carried
+Long-term fuel trim of bank 2: out in long-term to compensate for
+LONG FT #2 -20 to 20%
+Min.: -100%, Max.: 99.2% continual deviation of short-term
+fuel trim from central value
+• OL (Open Loop): Has not yet
+satisfied conditions to go
+closed loop
+• CL (Closed Loop): Using A/F
+sensor as feedback for fuel
+control
+Fuel system status (Bank 1): OL
+• OL DRIVE: Open loop due to
+FUEL SYS #1 or CL or OL DRIVE or OL FAULT CL: Idling after warming up
+driving conditions (fuel
+or CL FAULT
+enrichment)
+• OL FAULT: Open loop due to
+detected system fault
+• CL FAULT: Closed loop but A/
+ES
+F sensor, which used for fuel
+control malfunctioning
+• OL (Open Loop): Has not yet
+satisfied conditions to go
+closed loop
+• CL (Closed Loop): Using A/F
+sensor as feedback for fuel
+control
+Fuel system status (Bank 2): OL
+• OL DRIVE: Open loop due to
+FUEL SYS #2 or CL or OL DRIVE or OL FAULT CL: Idling after warming up
+driving conditions (fuel
+or CL FAULT
+enrichment)
+• OL FAULT: Open loop due to
+detected system fault
+• CL FAULT: Closed loop but A/
+F sensor, which used for fuel
+control, malfunctioning
+Short-term fuel trim associated
+O2FT B1 S2 with bank 1 sensor 2: -20 to 20% Same as SHORT FT #1
+Min.: -100%, Max.: 99.2%
+Short-term fuel trim associated
+O2FT B2 S2 with bank 2 sensor 2: -20 to 20% Same as SHORT FT #2
+Min.: -100%, Max.: 99.2%
+• Value less than 1 (0.000 to
+0.999) = Lean
+Short-term fuel trim associated
+• Stoichiometric air-fuel ratio
+AF FT B1 S1 with bank 1 sensor 1: -
+= 1
+Min.: 0, Max.: 1.999
+• Value greater than 1 (1.001
+to 1.999) = Rich
+• Value less than 1 (0.000 to
+0.999) = Lean
+Short-term fuel trim associated
+• Stoichiometric air-fuel ratio
+AF FT B2 S1 with bank 2 sensor 1: -
+= 1
+Min.: 0, Max.: 1.999
+• Value greater than 1 (1.001
+to 1.999) = Rich
+A/F sensor current:
+AFS B1 S1 - -
+Min.: -128 mA, Max.: 127.99 mA
+A/F sensor current:
+AFS B2 S1 - -
+Min.: -128 mA, Max.: 127.99 mA
+Estimated catalyst temperature
+CAT TEMP B1S1 (bank 1 sensor 1): - -
+Min.: -40°C, Max.: 6,513.5°C
+Estimated catalyst temperature
+CAT TEMP B1S2 (bank 1 sensor 2): - -
+Min.: -40°C, Max.: 6,513.5°C
+Estimated catalyst temperature
+CAT TEMP B2S1 (bank 2 sensor 1): - -
+Min.: -40°C, Max.: 6,513.5°C

@@ -1,0 +1,51 @@
+AC–33
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+(a) Waveform 1:
+Item Contents
+Terminal No.
+E38-2 (SOL+) - E38-14 (GND)
+(Symbols)
+Tool Setting 5 V/DIV., 500 µs/DIV.
+GND
+Engine is running
+Vehicle Condition
+A/C switch: ON
+E106664E02
+(b) Waveform 2:
+Item Contents
+Terminal No.
+E38-8 (LOCK) - E38-14 (GND)
+(Symbols)
+GND
+Tool Setting 200 mV/DIV., 10 ms./DIV.
+Engine is running
+Vehicle Condition Blower switch: LO
+A/C switch: ON
+E116941E01
+(c) Waveform 3:
+Item Contents
+Terminal No.
+E38-23 (BLW) - E38-14 (GND)
+(Symbols)
+AC
+Tool Setting 1 V/DIV., 500 µs/DIV.
+Ignition switch on (IG)
+Vehicle Condition
+Blower switch: ON
+GND
+2. A/C CONTROL ASSEMBLY
+E103396E01
+F16
+E124487E01
+HINT:
+Check from the rear of the connector while it is
+connected to the A/C control assembly.
+Terminal No. Specified
+Wiring Color Terminal Description Condition
+(Symbols) Condition
+Ground for A/C control
+F16-3 (GND) - Body ground W-B - Body ground Always Below 1 V
+assembly
+F16-4 (TX+) - F16-3 (GND) L - W-B LIN communication circuit Ignition switch on (IG) Pulse generation
+F16-5 (IG+) - F16-3 (GND) V - W-B Power source (IG) Ignition switch off Below 1 V
+F16-5 (IG+) - F16-3 (GND) V - W-B Power source (IG) Ignition switch on (IG) 10 to 14 V

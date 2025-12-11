@@ -1,0 +1,16 @@
+BC–109
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+(1) Operation description
+The skid control ECU receives a speed signal
+from each wheel speed sensor, and uses these
+signals to detect locking of the wheels. The ECU
+uses this information in order to determine
+appropriate control of the solenoid valves.
+The solenoid valves control the hydraulic
+pressure applied to the brake cylinder at each
+wheel. In this way, the solenoid valves are used
+to control the brake power split between the front
+and rear, and left and right wheels. The BRAKE
+warning light will come on if there is a
+malfunction in the EBD system.
+BC

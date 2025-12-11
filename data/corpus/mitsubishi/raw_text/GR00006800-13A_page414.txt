@@ -1,0 +1,40 @@
+13A-414 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 13. Check for harness damage between power
+steering pressure switch connector B-19 (terminal 1) and
+ECM connector C-53 (terminal 37) <M/T> or PCM connector
+C-54 (terminal 52) <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-19
+YES : Replace the ECM or PCM. Then go to Step 14.
+NO : Repair it. Then go to Step 14.
+POWER STEERING
+PRESSURE SWITCH
+ACX02520AD
+CONNECTORS:C-53<M/T>,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-53,C-54
+AK000280BH
+STEP 14. Using scan tool MB991502, check data list item
+27: Power Steering Pressure Switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+27, Power Steering Pressure Switch.
+16 PIN • If the steering wheel is stopped while idling, "OFF" will
+be displayed.
+MB991502
+• If the steering wheel is steered while idling, "ON" will be
+AKX01177AB
+displayed.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the switch operating properly?
+YES : The inspection is complete.
+NO : Retry the troubleshooting.
+TSB Revision

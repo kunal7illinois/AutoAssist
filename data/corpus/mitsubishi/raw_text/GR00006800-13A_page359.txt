@@ -1,0 +1,23 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-359
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP18. Pressure test for clogging in the evaporator line
+from hose D to hose F.
+(1) Unplug hose E.
+(2) On the EVAP pressure pump, set the pressure/hold valve to
+OPEN, and set the vent valve to CLOSED. Turn the pump
+timer to ON. You can reset the timer as required. (These
+settings are listed under "Leak Test" in the pump
+instructions.)
+OPEN CLOSED
+Pressure
+Vent
+Hold
+CLOSED OPEN
+ACX01806
+(3) Air should pass through hose E.
+Q:Is air blown from hose E?
+YES : Connect the hose E. Then go to Step 19.
+NO : Go to Step 20.
+HOSE E
+AC002029AC
+TSB Revision

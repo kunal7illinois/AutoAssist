@@ -1,0 +1,53 @@
+ES–182
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+*: The TWC has the capability to store oxygen. The OSC and the emission purification capacity of the
+TWC are mutually related. The ECM determines whether the catalyst has deteriorated, based on the
+calculated OSC value (See page ES-249).
+HO2 SENSOR CIRCUIT LOW VOLTAGE (P0137 and P0157: OPEN):
+15 to 20 seconds
+Active air-fuel
+Operation
+Off
+ratio control
+Normal Abnormal
+Stoichiometric
+Target air-fuel ratio Air-Fuel Level
+Rich Normal
+ES HO2 sensor
+voltage
+0.21 V
+Abnormal
+HO2 SENSOR CIRCUIT HIGH VOLTAGE (P0138 and P0158: SHORT):
+Operation
+Active air-fuel
+Off
+ratio control
+Lean
+Abnormal
+Stoichiometric
+Target air-fuel ratio
+Air-Fuel Level
+HO2 sensor 0.59 V
+voltage
+A080024E11
+4. High or Low Impedance of Heated Oxygen (HO2)
+Interrelation between temperature of
+Sensor (DTCs P0136 and P0156 or P0137 and P0157)
+element and impedance:
+During normal air-fuel ratio feedback control, there are
+small variations in the exhaust gas oxygen
+DTC Detection Area
+concentration. In order to continuously monitor the slight
+15,000 variation of the HO2 sensor signal while the engine is
+running, the impedance* of the sensor is measured by
+1,000
+the ECM. The ECM determines that there is a
+Ω 100 malfunction in the sensor when the measured
+impedance deviates from the standard range.
+10 *: The effective resistance in an alternating current
+5
+electrical circuit.
+300 400 500 600 700 800 HINT:
+(572)(752)(932)(1,112)(1,292)(1,472) • The impedance cannot be measured using an
+°C (°F) ohmmeter.
+A076841E09

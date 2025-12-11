@@ -1,0 +1,56 @@
+BE-32 BODY ELECTRICAL - METER
+Warning Mode
+1) General
+(cid:3) When a warning is necessary, the warning display interrupts the multi-information display.
+(cid:3) The master warning light may illuminate or flash and the buzzer may sound depending on the item
+in the multi-information display.
+Warning Detail Warning Detail
+The key is not inside the The driver door is opened
+vehicle. with the shift lever in any
+(Models with smart key position other than P.
+system) (Models with smart key
+: Flash : Flash system)
+Buzzer: Sound Buzzer: Sound
+025BE19P 025BE20P
+Steering lock has not been Steering lock is
+released. malfunctioning.
+(Models with smart key (Models with smart key
+system) system)
+: Flash : Flash
+025BE21P 025BE22P
+The power source is TRAC and VSC are
+switched from OFF to malfunctioning.
+ACC twice with the brake (Models with Brake
+pedal released. Control System [ABS with
+(Models with smart key EBD, Brake Assist, TRAC
+Buzzer: Sound : Illuminate
+system) and VSC])
+Buzzer: Sound
+025BE23P
+025BE24P
+Key battery is low. Parking brake is still
+(Models with smart key engaged with the vehicle
+system) having reached a speed of
+5 km/h (3 mph).
+: Flash : Flash
+Buzzer: Sound Buzzer: Sound
+025BE25P 025BE26P
+Any door is open. Engine hood is open.
+*: The vehicle having *: The vehicle having
+reached a speed of 5 reached a speed of 5
+km/h (3 mph). km/h (3 mph).
+: Flash*
+Buzzer: Sound*
+025BE28P
+Luggage compartment
+door is open.
+*: The vehicle having
+reached a speed of 5
+: Flash* km/h (3 mph).
+: Illuminate
+: Flash*
+Buzzer: Sound*
+: Illuminate
+025BE29P
+Buzzer: Sound*
+025BE27P

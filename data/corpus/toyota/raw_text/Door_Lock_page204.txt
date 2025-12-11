@@ -1,0 +1,46 @@
+DL–194
+DOOR LOCK – SMART KEY SYSTEM
+INSPECTION PROCEDURE
+1 CHECK HARNESS AND CONNECTOR (CERTIFICATION ECU - LUGGAGE
+COMPARTMENT OPEN SWITCH)
+(a) Disconnect the E58 ECU connector.
+Certification ECU:
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+E58
+Tester Connection
+Condition Specified Condition
+(Symbols)
+Luggage compartment open
+10 kΩ or higher
+E58-7 (TSW5) - Body switch not pushed
+ground Luggage compartment open
+Below 1 Ω
+switch pushed
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+TSW5
+SHOWN IN PROBLEM SYMPTOMS TABLE
+B137968E01
+NG
+2 INSPECT LUGGAGE COMPARTMENT OPEN SWITCH
+(a) Disconnect the switch connector.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+Luggage compartment open
+10 kΩ or higher
+switch not pushed (OFF)
+S9-1 - S9-2
+Luggage compartment open
+Below 1 Ω
+switch pushed (ON)
+NG REPLACE LUGGAGE COMPARTMENT
+OPEN SWITCH
+Pushed
+Free
+DL
+B137969E01
+OK
+REPLACE CERTIFICATION ECU

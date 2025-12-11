@@ -1,0 +1,38 @@
+54A-180 CHASSIS ELECTRICAL
+RADIO AND TAPE PLAYER
+STEP 8. Check the multi-center display power supply
+circuit (ACC) at the multi-center display connector C-09 by
+backprobing.
+(1) Do not disconnect the multi-center display connector C-09
+CONNECTOR : C-09
+and measure at the harness side.
+(2) Turn the ignition switch to the "ACC" position.
+DEVICE SIDE
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+AC106557AY
+(3) Measure the voltage between terminal 3 and ground.
+HARNESS SIDE • The measured value should be approximately 12 volts
+C-09
+(battery positive voltage).
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 11.
+NO : Go to Step 9.
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+AC106889AB
+STEP 9. Check multi-center display connector C-09 for
+damage.
+Q:Is multi-center display connector C-09 in good
+CONNECTOR : C-09
+condition?
+YES : Go to Step 10.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. The
+multi-center display should display the information
+concerning the audio system correctly.
+DEVICE SIDE
+1 2 3 4 5 6 7 8 910
+11121314151617181920
+AC106557AY
+TSB Revision

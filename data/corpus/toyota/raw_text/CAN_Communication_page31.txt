@@ -1,0 +1,54 @@
+CA–31
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+• X: Not set or may be set according to the
+malfunctioning part when one side of the CAN
+bus wire opens
+• : Set under the condition shown in the table
+above
+(b) without VSC SYSTEM
+DTC Trouble Mode
+Output from Output DTC Air
+Skid Control Combination Center Airbag
+ECM Conditioner Main Body ECU
+ECU Meter ECU Sensor
+Communicatio Amplifier ECU Communicatio
+Communicatio Communicatio Communicatio
+n Stop Mode Communicatio n Stop Mode
+n Stop Mode n Stop Mode n Stop Mode
+n Stop Mode
+Skid Control
+U0073 X X X X X X
+ECU
+Combination U0100 (cid:123) X X X X X
+Meter ECU U0129 X (cid:123) X X X X
+Air
+Conditioner
+B1499 X X X X
+Amplifier
+ECU
+No DTC X X X (cid:123) (cid:123) X
+CA
+HINT:
+• (cid:123): Set
+• X: Not set or may be set according to the
+malfunctioning part when one side of the CAN
+bus wire becomes open.
+(c) Perform troubleshooting depending on the
+combination of DTCs output.
+HINT:
+• ECM Communication Stop Mode (See Page CA-
+54)
+• Skid Control ECU Communication Stop Mode
+(See page CA-42)
+• Steering Angle Sensor Communication Stop
+Mode (See page CA-49)
+• Yaw Rate Sensor Communication Stop Mode
+(See page CA-51)
+• Combination Meter ECU Communication Stop
+Mode (See page CA-61)
+• Center Airbag Sensor Communication Stop
+Mode (See page CA-63)
+• Air Conditioner Amplifier ECU Communication
+Stop Mode (See page CA-46)
+• Main Body ECU Communication Stop Mode (See
+page CA-57)

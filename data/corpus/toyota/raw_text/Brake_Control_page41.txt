@@ -1,0 +1,54 @@
+BC–41
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+7 CHECK HARNESS AND CONNECTOR (FRONT SPEED SENSOR TO SKID CONTROL ECU)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Wire Harness Side) (b) Measure the resistance according to the value(s) in the
+Connector Front View: table below.
+Standard resistance:
+FL+ FL- FR- FR+ A25 LH
+Tester Connection Specified Condition
+A25-5 (FL+) - A14-1 (FL+) Below 1 Ω
+A25-6 (FL-) - A14-2 (FL-) Below 1 Ω
+A14-1 (FL+) - Body ground 10 kΩ or higher
+Front Speed Sensor (Wire Harness Side) A14-2 (FL-) - Body ground 10 kΩ or higher
+Connector Front View:
+RH
+Tester Connection Specified Condition
+A14 A35
+A25-10 (FR+) - A35-1 (FR+) Below 1 Ω
+BC
+A25-9 (FR-) - A35-2 (FR-) Below 1 Ω
+A35-1 (FR+) - Body ground 10 kΩ or higher
+A35-2 (FR-) - Body ground 10 kΩ or higher
+FL- FL+ FR- FR+
+(c) Connect the connectors.
+NG REPAIR OR REPLACE HARNESS OR
+C132908E02
+CONNECTOR (FRONT SPEED SENSOR TO
+SKID CONTROL ECU)
+OK
+8 INSPECT SPEED SENSOR SIGNAL WAVEFORM
+(a) Lift up the vehicle.
+Front Speed Sensor (Wire Harness Side) (b) Perform the inspection using an oscilloscope.
+Connector Front View: (1) Disconnect the front speed sensor connector.
+(2) Connect the oscilloscope to terminals 1 and 2 of the
+front speed sensor.
+A14 A35
+(3) Check that a waveform is output when the tires are
+rotated.
+OK:
+The same waveforms is output from front
+FL- FL+ FR- FR+
+wheels and there is no noise or interference in
+Normal Signal Waveform:
+the waveform.
+HINT:
+• As vehicle speed (wheel rotation speed)
+increases, the width of the waveform narrows
+GND and the output voltage becomes greater.
+• When noise is identified in the waveform on the
+oscilloscope, the erratic signals are generated
+due to rotor scratches, looseness or foreign
+1 V/Division, 2 ms./Division matter attached to the speed sensor.
+(4) Connect the connector.
+C132005E01 NG Go to step 11

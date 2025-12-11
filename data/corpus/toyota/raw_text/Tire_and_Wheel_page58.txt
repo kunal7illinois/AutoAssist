@@ -1,0 +1,42 @@
+TW–57
+TIRE AND WHEEL – TIRE PRESSURE WARNING SYSTEM
+DTC C2171/71 Transmitter ID not Registered
+DESCRIPTION
+The IDs of each tire pressure warning valve and transmitters are registered to the tire pressure warning
+ECU.
+When the ECU detects that an ID is not the one of registered IDs, or cannot receive an ID signal, a DTC is
+output.
+DTC No. DTC Detection Condition Trouble Area
+Transmitter ID code is not registered. (When
+C2171/71 an ID code is unregistered for 51 minutes or Tire pressure warning ECU
+more)
+INSPECTION PROCEDURE
+NOTICE:
+• When replacing the tire pressure warning ECU, read the IDs stored in the ECU using the
+TW
+intelligent tester and note them down before removal.
+• It is necessary to perform initialization (See page TW-18) after registration (See page TW-15) the
+transmitter IDs into the tire pressure warning ECU after the ECU have been replaced.
+1 CONFIRM REGISTRATION CONDITION (REGISTERED ID CODES)
+(a) Connect the intelligent tester to the DLC3 connector.
+(b) Turn the ignition switch ON (IG) and turn the tester ON.
+(c) Select REGIT ID CODE by following the prompts
+displayed on the intelligent tester.
+OK:
+The registered transmitter ID codes are displayed on
+the intelligent tester screen.
+OK REPLACE TIRE PRESSURE WARNING ECU
+NG
+2 PERFORM REGISTRATION (TRANSMITTER ID)
+(a) Register the transmitter IDs for all the wheels (See page
+TW-15).
+(b) Set the tire pressure of all the wheels to the appropriate
+specified values.
+NEXT
+3 READ VALUE ON DATA LIST
+(a) Check the DATA LIST (See page TW-29).
+(b) Select "TIREPRESS" by following the prompts displayed
+on the intelligent tester.
+HINT:
+It may take up to 1 minute or more to display the tire
+pressure data.

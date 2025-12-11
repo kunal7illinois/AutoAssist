@@ -1,0 +1,44 @@
+Audi TT No. 32 / 8
+Current Flow Diagram
+Navigation system with CD drive control unit, digital sound
+package control unit, front left and right bass loudspeaker,
+centre mid-range and treble loudspeaker, middle
+loudspeaker, microphone unit in front roof module
+J401 Navigation system with CD drive control unit
+J525 Digital sound package control unit
+R21 Front left bass loudspeaker
+R23 Front right bass loudspeaker
+R148 Middle loudspeaker
+R158 Centre mid-range and treble loudspeaker
+R164 Microphone unit in front roof module
+T4g 4-pin connector, black, on microphone unit in front roof module
+T20a 20-pin connector, black, in the front left door
+T20b 20-pin connector, black, in the front right door
+T32a 32-pin connector, black, on digital sound package control unit
+* models with radio BOSE soundsystem (8RY)
+J401
+R164
+R148 R158 R21 R23
+T4g/4 T4g/3 1/-- 2/+ 1/-- 2/+ 1/-- 2/+ 1/-- 2/+
+1,0 1,0 1,0 1,0
+br/ro ro br/gr ro/gr
+T20a T20a T20b T20b
+/2 /12 /2 /12
+0,35 0,35 0,35 2,5 2,5 0,5 0,5 1,0 1,0 1,0 1,0
+ge gn sw br/sw ws/sw br/gr ro/gr br/ro ro br/gr ro/gr
+T32a T32a T32a T32a T32a T32a T32a
+/9 /10 /23 /17 T32a/5 /20 T32a/8 /15 T32a/3 /16 T32a/4
+ws = white
+J525 ✱
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+85 86 87 88 89 90 91 92 93 94 95 96 97 98 or = orange
+8J0-032080409
+rs = pink
+Edition 04.2009

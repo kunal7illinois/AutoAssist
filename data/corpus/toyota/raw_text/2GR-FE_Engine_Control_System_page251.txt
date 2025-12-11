@@ -1,0 +1,50 @@
+ES–251
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0365 Camshaft Position Sensor "B" Circuit (Bank 1)
+Camshaft Position Sensor "B" Circuit Low
+DTC P0367
+Input (Bank 1)
+Camshaft Position Sensor "B" Circuit High
+DTC P0368
+Input (Bank 1)
+DTC P0390 Camshaft Position Sensor "B" Circuit (Bank 2)
+Camshaft Position Sensor "B" Circuit Low
+DTC P0392 ES
+Input (Bank 2)
+Camshaft Position Sensor "B" Circuit High
+DTC P0393
+Input (Bank 2)
+DESCRIPTION
+The exhaust camshaft's Variable Valve Timing (VVT) sensor consists of a magnet and MRE (Magneto
+Resistance Element).
+The exhaust camshaft has a sensor plate with 3 teeth on its outer circumference.
+When the exhaust camshaft rotates, changes occur in the air gaps between the 3 teeth and MRE, which
+affects the magnet. As a result, the resistance of the MRE material fluctuates. The VVT sensor converts
+the exhaust camshaft rotation data to pulse signals, uses the pulse signals to determine the camshaft
+angle, and sends it to the ECM.
+DTC No. DTC Detection Condition Trouble Area
+• Input voltage to ECM remains 0.3 V or less, or 4.7
+V or higher for more than 5 seconds, when 2 or • Open or short in VVT sensor for exhaust camshaft
+more seconds have elapsed after turning engine circuit
+P0365
+switch on (IG) • VVT sensor for exhaust camshaft
+P0390
+(1 trip detection logic) • Exhaust camshaft
+• No VVT sensor signal to ECM during cranking • Jumped tooth of timing chain
+(1 trip detection logic) • ECM
+• Open or short in VVT sensor for exhaust camshaft
+Output voltage of VVT sensor is 0.3 V or less for 5 circuit
+P0367
+seconds • VVT sensor for exhaust camshaft
+P0392
+(1 trip detection logic) • Exhaust camshaft
+• Jumped tooth of timing chain
+• ECM
+• Open or short in VVT sensor for exhaust camshaft
+Output voltage of VVT sensor is 4.7 V or more for 5 circuit
+P0368
+seconds • VVT sensor for exhaust camshaft
+P0393
+(1 trip detection logic) • Exhaust camshaft
+• Jumped tooth of timing chain
+• ECM

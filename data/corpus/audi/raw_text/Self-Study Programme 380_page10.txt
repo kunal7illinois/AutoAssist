@@ -1,0 +1,36 @@
+Occupant protection
+Airbag control unit J234
+Airbag control unit J234 and integrated electronics have the task of detecting a collision.
+In the Audi TT Coupé ‘07 the airbag control unit is attached to the vehicle body in the area of the handbrake
+lever.
+The airbag control unit is integrated in the CAN powertrain data bus so that it can exchange information with
+other control units.
+The airbag electronics basically have the following
+main tasks:
+– Collision detection (front, side, rear)
+– Defined deployment of the belt tensioners,
+airbags and battery disconnect
+– Defined deployment of the second front airbag
+stage
+– Evaluation of all input information
+– Permanent monitoring of the complete airbag
+system
+– Independent energy supply via capacitor for
+a defined period of time
+(approx. 150 ms)
+– Fault display via failure warning lamp
+– Storage of error / and crash information
+– Indication of a collision event to other system 380_008
+components via the powertrain CAN bus or
+discrete collision output (conventionally wired)
+– Activate seat belt reminder
+To find out which components need replacing after an accident, refer to the valid Workshop Manual in
+ElsaWin.
+An airbag control unit can only be replaced with a VAS tester running the "Guided Fault Finding" or "Guided
+Functions" application.
+Reference
+For more information about the
+airbag control unit J234, refer to Self-
+Study Programmes 323 Audi A6`05
+and 361 Audi Q7.
+10

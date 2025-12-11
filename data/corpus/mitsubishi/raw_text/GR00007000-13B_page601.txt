@@ -1,0 +1,42 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-601
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check connector B-45 at generator connector for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR:B-45
+YES : Go to Step 4.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK000735AB
+STEP 4. Check connector C-51 at ECM <M/T> or connector
+C-52 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTOR : C-51<M/T>, C-52<A/T>
+YES : Go to Step 5.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM<A/T> ECM<M/T>
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+C-52 C-51
+AK000225AJ
+STEP 5. Check for open circuit and short circuit to ground
+and harness damage between generator connector B-45
+terminal 1 and ECM connector C-51 terminal 8 <M/T> or
+PCM connector C-52 terminal 8 <A/T>.
+NOTE: Check harness after checking intermediate connector
+CONNECTOR:B-45
+B-13. If intermediate connector is damaged, repair or replace
+them. Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2. Then check that the malfunction is eliminated.
+Q:Is the harness wire in good condition?
+YES : Replace the ECM or PCM. Then confirm that the
+malfunction symptom is eliminated.
+NO : Repair it. Then confirm that the malfunction symptom
+is eliminated.
+AK000735AB
+CONNECTOR : C-51<M/T>, C-52<A/T>
+PCM<A/T> ECM<M/T>
+C-52 C-51
+AK000225AJ
+TSB Revision

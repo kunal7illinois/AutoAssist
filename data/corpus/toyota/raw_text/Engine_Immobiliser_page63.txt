@@ -1,0 +1,28 @@
+EI–59
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+Procedure Security Indicator Condition
+4. Remove the key. ON
+HINT:
+5. Register another key ?
+When the maximum number of the key codes is registered, the
+Yes: Go to procedure "D"
+security indicator remains off until the last key registered is removed.
+No: Go to procedure "E"
+After it is removed, the security indicator starts blinking.
+6. End (Procedure "E")
+HINT:
+• When no key is inserted in the key cylinder while
+the system is in automatic key code registration
+mode, the security indicator remains on.
+• When the immobiliser system is operating
+normally and the key is pulled out, the security
+indicator blinks continuously.
+• If the key code registration has failed in the
+automatic key code registration mode, code 2-1
+will be output from the security indicator. Trying
+to register an already registered key will cause
+code 2-2 to be output when the key is inserted. If
+the number of registered key codes exceeds the
+limit, code 2-3 will be output from the security
+indicator. The output details are shown below.
+EI

@@ -1,0 +1,44 @@
+AX–128
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+TYPICAL ENABLING CONDITIONS
+ON malfunction:
+The monitor will run whenever this DTC is not present. None
+Turbine speed sensor circuit Circuit is not malfunctioning
+AX TFT sensor circuit Circuit is not malfunctioning
+Shift solenoid valve SL1 circuit Circuit is not malfunctioning
+Shift solenoid valve SL2 circuit Circuit is not malfunctioning
+Shift solenoid valve SL3 circuit Circuit is not malfunctioning
+Shift solenoid valve SL4 circuit Circuit is not malfunctioning
+Shift solenoid valve SLT circuit Circuit is not malfunctioning
+ECT (Engine coolant temperature) sensor circuit Circuit is not malfunctioning
+Knock control sensor circuit Circuit is not malfunctioning
+ETCS (Electric throttle control system) System is not down
+Transmission range "D"
+Engine Starting
+TFT -10°C (5°F) or more
+Input turbine torque 100 N*m or more
+Turbine speed 250 rpm or more
+Output speed 250 rpm or more
+TYPICAL MALFUNCTION THRESHOLDS
+ON malfunction:
+Detection criteria Threshold
+Turbine speed - Output speed x Gear ratio at output speed
+75 rpm or more
+1,000 rpm (Condition varies with output speed)
+INSPECTION PROCEDURE
+1 CHECK OTHER DTCS OUTPUT (IN ADDITION TO DTC P2714)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester on.
+(c) Enter the following items: "DIAGNOSIS / OBD/MOBD /
+ECT / DTC INFO / CURRENT CODES".
+(d) Read the DTCs using the intelligent tester.
+Result
+Display (DTC output) Proceed to
+Only "P2714" is output A
+"P2714" and other DTCs B
+HINT:
+If a solenoid is stuck ON, DTCs for several solenoids
+including the malfunctioning solenoid will be detected.
+A INSPECT SHIFT SOLENOID VALVE SLT
+B

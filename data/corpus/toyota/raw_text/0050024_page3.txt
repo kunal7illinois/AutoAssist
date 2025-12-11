@@ -1,0 +1,65 @@
+ES–123
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. DTC Detection Conditions Trouble Areas
+• TP sensor (built into throttle body)
+Output voltage of VTA2 1.75 V or less for 2 seconds when
+• Short in VTA2 circuit
+P0222 accelerator pedal depressed
+• Open in VC circuit
+(1 trip detection logic)
+• ECM
+• TP sensor (built into throttle body)
+Output voltage of VTA2 4.8 V or more, and VTA1 between 0.2
+• Open in VTA2 circuit
+V and 2.02 V for 2 seconds when accelerator pedal
+P0223 • Open in E2 circuit
+depressed
+• Short between VC and VTA2 circuits
+(1 trip detection logic)
+• ECM
+Either condition (a) or (b) met (1 trip detection logic):
+(a) Difference between output voltages of VTA1 and VTA2 • Short between VTA1 and VTA2 circuits
+P2135 0.02 V or less for 0.5 seconds or more • TP sensor (built into throttle body)
+(b) Output voltage of VTA1 0.2 V or less, and VTA2 1.75 V or • ECM
+less, for 0.4 seconds or more
+ES
+HINT:
+• When any of these DTCs are set, check the throttle valve opening angle by selecting the following
+menu items the intelligent tester: DIAGNOSIS / ENHANCED OBD II / DATA LIST / ETCS / THROTTLE
+POS #1 AND THROTTLE POS #2.
+• THROTTLE POS #1 denotes the VTA1 signal, and THROTTLE POS #2 denotes the VTA2 signal.
+Reference (Normal Condition)
+Tester Display Accelerator Pedal Fully Released Accelerator Pedal Fully Depressed
+THROTTLE POS #1 0.5 to 1.1 V 3.3 to 4.9 V
+THROTTLE POS #2 2.1 to 3.1 V 4.6 to 5.0 V
+MONITOR DESCRIPTION
+The ECM uses the Throttle Position (TP) sensor to monitor the throttle valve opening angle. There are
+several checks that the ECM performs to confirm the proper operation of the TP sensor.
+• A specific voltage difference is expected between the sensor terminals, VTA1 and VTA2, for each
+throttle valve opening angle. If the difference between VTA1 and VTA2 is incorrect, the ECM interprets
+this as a malfunction in the sensor, and sets a DTC.
+• VTA1 and VTA2 each have a specific voltage range. If VTA1 or VTA2 is outside the normal operating
+range, the ECM interprets this as a malfunction in the sensor, and sets a DTC.
+• VTA1 and VTA2 should never be close to the same voltage level. If VTA1 is within 0.02 V of VTA2, the
+ECM determines that there is a short circuit in the sensor, and sets a DTC.
+If the malfunction is not repaired successfully, a DTC is set 10 seconds after the engine is next started.
+MONITOR STRATEGY
+P0120: Throttle position sensor 1 range check (Fluctuating)
+P0122: Throttle position sensor 1 range check (Low voltage)
+P0123: Throttle position sensor 1 range check (High voltage)
+Related DTCs P0220: Throttle position sensor 2 range check (Fluctuating)
+P0222: Throttle position sensor 2 range check (Low voltage)
+P0223: Throttle position sensor 2 range check (High voltage)
+P2135: Throttle position sensor range check (Correlation)
+Required Sensors/Components (Main) Throttle position sensor
+Required Sensors/Components (Related) -
+Frequency of Operation Continuous
+2 seconds: P0120, P0122, P0123, P0220, P0222 and P0223
+(Accelerator pedal ON)
+10 seconds: P0120, P0122, P0123, P0220, P0222 and P0223
+Duration
+(Accelerator pedal OFF)
+0.5 seconds: P2135 Case 1
+0.4 seconds: P2135 Case 2
+MIL Operation Immediate
+Sequence of Operation None

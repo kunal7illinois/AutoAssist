@@ -1,0 +1,31 @@
+ES–410
+2AZ-FE ENGINE CONTROL SYSTEM – THROTTLE BODY
+ON-VEHICLE INSPECTION
+1. CHECK THROTTLE BODY
+(a) Check the throttle control motor operating sounds.
+(1) Turn the ignition switch ON.
+(2) When pressing the accelerator pedal, check
+the operating sound of the running motor. Make
+sure that no friction noises emit from the motor.
+If friction noise exists, replace the throttle body.
+(b) Check the throttle position sensor.
+Intelligent Tester
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch ON.
+(3) Push the intelligent tester main switch ON.
+ES
+(4) Enter the following menus: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / THROTTLE
+POS.
+(5) Depress the accelerator pedal. When the
+throttle valve is fully opened, check that the
+value of "THROTTLE POS" is within the
+DLC3 specification.
+Standard throttle valve opening percentage:
+60% or more
+CAN VIM NOTICE:
+When checking the standard throttle valve
+B127989E01 opening percentage, the shift lever should
+be in the N position.
+If the percentage is less than 60%, replace the
+throttle body.

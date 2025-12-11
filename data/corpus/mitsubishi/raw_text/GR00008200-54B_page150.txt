@@ -1,0 +1,36 @@
+54B-150 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Check that power window sub-switches operate normally.
+Q:Does the power window sub-switch operate the power
+window (RH)?
+YES : Replace the power window main switch. When the
+power window main switch is operated, the power
+window (RH) should open or close normally.
+NO : Refer to Symptom Chart P.54B-135 before resolving
+this trouble. Refer to P.54B-135.
+KEYLESS ENTRY SYSTEM
+GENERAL DESCRIPTION CONCERNING KEYLESS ENTRY SYSTEM
+M1549022000017
+The following ECUs affect the functions and control
+of the keyless entry system.
+Functions Control ECU
+Operating the Transmitter Lock Switch ETACS-ECU
+Operating the Transmitter Unlock Switch Press Once ETACS-ECU
+Operating the Transmitter Unlock Switch Press Twice ETACS-ECU
+Operating the Transmitter Trunk Switch ETACS-ECU
+Keyless Entry Hazard Answerback and Horn Answerback ETACS-ECU
+Function
+ALL DOOR LOCK FUNCTION
+.Operating the Transmitter Lock Switch
+When the transmitter lock switch is pressed, the ETACS-ECU
+activates the lock relay output for 0.25 seconds and locks all
+Transmitter LOCK doors.
+lock switch OFF
+ON
+Lock relay output
+OFF
+t
+t: 0.25 seconds
+AC106433AB
+TSB Revision

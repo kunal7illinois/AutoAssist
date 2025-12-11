@@ -1,0 +1,24 @@
+AX–229
+U660E AUTOMATIC TRANSAXLE – SHIFT LEVER
+INSPECTION
+Switch Side:
+1. INSPECT TRANSMISSION CONTROL SWITCH
+(a) Measure resistance between each terminal of the
+(Connector Front View):
+shift lock control unit assembly when the shift lever
+is moved to each position.
+Standard resistance AX
+Shift Position Tester Connection Specified Condition
+J43
+S, "+" and "-" 3 - 7 Below 1 Ω
+Except S, "+" and "-" 3 - 7 10 kΩ or higher
+Press continuously "+"
+2 - 5 Below 1 Ω
+(Up shift)
+S 2 - 5 10 kΩ or higher
+Press continuously "-"
+1 - 5 Below 1 Ω
+(Down shift)
+C110341E15 S 1 - 5 10 kΩ or higher
+If the resistance value is not as specified, replace
+the shift lock control ECU.

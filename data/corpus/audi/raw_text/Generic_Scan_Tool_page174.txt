@@ -1,0 +1,51 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+3.5.28 ECM Voltage Supply, Checking
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Wiring diagram.
+Test requirements
+• The Engine Control Module (ECM) - J623- fuses OK.
+• Battery voltage at least 12.5 volts.
+• All electrical consumers such as, lights and rear window de‐
+froster, switched off.
+• Vehicles with automatic transmission, selector lever in position
+“P” or “N”.
+• A/C switched off.
+• Ground connections between engine/transmission/chassis
+OK.
+• Ignition switched OFF.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the Engine Control Module (ECM) Power Supply Re‐
+lay -J271- .
+Checking voltage
+– Using a multimeter, check the Engine Control Module (ECM)
+Power Supply Relay Box socket 8 (relay terminal 87) to
+Ground.
+Specified value: Battery voltage.
+If the specified value was Not obtained:
+– Check the wiring connections from the Battery to the Engine
+Control Module (ECM) Power Supply Relay -J271- socket 8
+for an open or a short circuit.
+– Check the wiring connections for damage, corrosion, loose or
+broken terminals.
+– If necessary, repair the faulty wiring connection.
+If the specified value was obtained:
+– Switch the ignition ON.
+– Using a multimeter, check the Engine Control Module (ECM)
+Power Supply Relay Box socket 4, (relay terminal 86) to
+Ground.
+Specified value: Battery voltage.
+If the specified value was Not obtained:
+– Remove Fuse SD3 (2011 >) in Fuse Panel D and check re‐
+sistance of circuit between fuse and relay terminal socket 1.
+Refer to Wiring Diagrams for pin locations.
+Specified value: 1.5 ohm or less.
+– If fuse is blown, locate short to ground in circuit, refer to wiring
+diagram.
+– Repair as necessary.
+170
+Rep. Gr.ST - Generic Scan Tool

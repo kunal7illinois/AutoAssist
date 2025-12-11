@@ -1,0 +1,35 @@
+SUPPLEMENTAL RESTRAINT SYSTEM (SRS) 52B-63
+SRS AIR BAG DIAGNOSIS
+STEP 2. Check the SRS warning light.
+(1) Disconnect the combination meter connector C-42.
+(2) Connect the negative battery cable.
+(3) Turn the ignition switch to the "ON" position.
+Q:Does the SRS warning light go out when combination
+CONNECTORS: C-42
+COMBINATION METER meter connector C-42 is disconnected?
+YES : Go to Step 3.
+NO : Replace the combination meter. Then go to Step 4.
+AC106665AB
+SRS WARNING LIGHT
+AC000346AB
+STEP 3. Check the harness for short circuit to ground
+between SRS-ECU connector C-72 (terminal No.3) and
+combination meter connector C-42 (terminal No.25).
+Q:Is the harness wire between the SRS-ECU connector C-
+CONNECTOR: C-72
+72 (terminal No.3) and combination meter connector C-
+42 (terminal No.25) in good condition?
+HARNESS SIDE
+(REAR VIEW) YES : Erase the DTC memory, and recheck if any DTC sets.
+If DTC 43 sets, replace the SRS-ECU. Refer to
+1 2 3 4 5 6 7 8 P.52B-142. Then go to Step 4.
+9 10111213141516
+NO : Repair the harness wire between SRS-ECU
+SRS-ECU connector C-72 and combination meter connector C-
+42. Then go to Step 4.
+ACCELERATOR PEDAL
+CENTER REINFORCEMENT(LH) AC000358AH
+CONNECTOR: C-42
+COMBINATION METER
+AC000370AE
+TSB Revision

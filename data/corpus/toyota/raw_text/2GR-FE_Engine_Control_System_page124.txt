@@ -1,0 +1,49 @@
+ES–124
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Atmospheric Air
+Ideal Air-Fuel Mixture
+Housing
+Output Voltage
+Solid Electrolyte
+(Zirconia Element)
+Platinum Electrode
+Heater
+Cover
+Richer - Air-Fuel Ratio - Leaner
+Coating (Ceramic)
+Exhaust Gas
+ES
+A088111E14
+HINT:
+• Sensor 2 refers to the sensor mounted behind the Three-Way Catalytic Converter (TWC) and located
+far from the engine assembly.
+• When any of these DTCs are set, the ECM enters fail-safe mode. The ECM turns off the Heated
+Oxygen (HO2) Sensor heater in fail-safe mode. Fail-safe mode continues until the engine switch is
+turned off.
+• The ECM provides a pulse width modulated control circuit to adjust the current through the heater. The
+HO2 sensor heater circuit uses a relay on the B+ side of the circuit.
+Reference (System Diagram of Bank 1 Sensor 2):
+HO2 Sensor ECM
+EFI Relay
+Heater
+EFI MAIN
+EFI No. 3 +B HT1B HT1B
+From
+Battery
+Sensor
+E2 OX1B OX1B
+Duty
+Control
+EX1B
+MREL
+Ground
+A103832E40
+DTC No. DTC Detection Condition Trouble Area
+• Open in HO2 sensor heater circuit
+P0037 Heated Oxygen (HO2) sensor heater current is less • HO2 sensor heater
+P0057 than 0.3 A (1 trip detection logic) • Engine room junction block (EFI relay)
+• ECM
+• Short in HO2 sensor heater circuit
+P0038 Heated Oxygen (HO2) sensor heater current is more • HO2 sensor heater
+P0058 than 2 A (1 trip detection logic) • Engine room junction block (EFI relay)
+• ECM

@@ -1,0 +1,71 @@
+RS–279
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+5 CHECK FRONT SEAT WIRE RH (SHORT)
+(a) Disconnect the service wire from connector C.
+(b) Measure the resistance according to the value(s) in the
+Front Seat Wire RH table below.
+Standard resistance:
+for Power seat
+D A
+Tester connection Condition Specified condition
+C B
+Occupant T11-8 (SIG2) - T11-2
+Front Seat Inner Always 1 MΩ or Higher
+Classification (SGD2)
+Belt Assembly RH
+ECU T11-12 (SVC2) - T11-2
+Always 1 MΩ or Higher
+(SGD2)
+T11-8 (SIG2) - T11-12
+Always 1 MΩ or Higher
+(SVC2)
+for Manual seat
+Connector B
+Tester connection Condition Specified condition
+d1-8 (SIG2) - d1-2
+SGD2 *1: for Power Seat Always 1 MΩ or Higher
+(SGD2)
+T11 (*1) *2: for Manual Seat d1-12 (SVC2) - d1-2 Always 1 MΩ or Higher
+(SGD2)
+d1 (*2)
+d1-8 (SIG2) - d1-12
+Always 1 MΩ or Higher
+SIG2 SVC2 (SVC2)
+C138022E02
+NG REPAIR OR REPLACE FRONT SEAT WIRE
+RH
+OK
+RS
+6 CHECK FRONT SEAT WIRE RH (SHORT TO GROUND)
+(a) Measure the resistance according to the value(s) in the
+table below.
+Front Seat Wire RH Standard resistance:
+for Power seat
+Tester connection Condition Specified condition
+D A
+T11-2 (SGD2) - Body
+C B ground Always 1 MΩ or Higher
+Occupant
+Front Seat Inner
+Classification T11-8 (SIG2) - Body
+Belt Assembly RH Always 1 MΩ or Higher
+ground
+ECU
+T11-12 (SVC2) - Body
+Always 1 MΩ or Higher
+ground
+for Manual seat
+Tester connection Condition Specified condition
+Connector B
+d1-2 (SGD2) - Body
+Always 1 MΩ or Higher
+ground
+SGD2 *1: for Power Seat
+d1-8 (SIG2) - Body
+Always 1 MΩ or Higher
+T11 (*1) *2: for Manual Seat ground
+d1-12 (SVC2) - Body
+Always 1 MΩ or Higher
+d1 (*2) ground
+SIG2 SVC2
+C138022E02

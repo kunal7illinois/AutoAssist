@@ -1,0 +1,52 @@
+BC–303
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+3. WARNING LIGHT AND INDICATOR LIGHT INITIAL
+CHECK
+ABS Warning Light: BRAKE Warning (a) Release the parking brake.
+Light: NOTICE:
+Before releasing the parking brake, move the
+USA: USA:
+shift lever to the P position for safety (Automatic
+Transaxle model) or set the chocks to hold the
+vehicle for safety (Manual Transaxle model).
+CANADA: CANADA: HINT:
+When the parking brake is applied or the level of the
+brake fluid is low, the BRAKE warning light comes
+on.
+(b) When the ignition switch is turned on (IG), check
+Master Caution SLIP Indicator that the ABS, VSC (without multi-information
+Indicator Light: Light: display), and BRAKE warning lights, and master
+caution and SLIP indicator lights come on for
+approximately 3 seconds.
+HINT:
+If the ECU stores any DTCs, the ABS, BRAKE, and BC
+VSC warning (multi-information display and master
+caution indicator light) lights, and SLIP indicator
+VSC Warning Light (without
+multi-information display) light come on.
+If the indicator remains on or does not come on,
+proceed to troubleshooting for the light circuits listed
+below.
+Trouble Area See procedure
+C137469E01
+ABS warning light (Remains on) BC-380
+ABS warning light (Does not come on) BC-385
+BRAKE warning light (Remains on) BC-395
+BRAKE warning light (Does not come on) BC-404
+VSC warning light (Remains on) BC-388
+VSC warning light (Does not come on) BC-392
+SLIP indicator light (Remains on) BC-408
+SLIP indicator light (Does not come on) BC-412
+4. SYMPTOM SIMULATION
+HINT:
+The most difficult case in troubleshooting is when no
+symptoms occur. In such cases, a thorough customer
+problem analysis must be carried out. Then the same or
+similar conditions and environment in which the problem
+occurred in the customer's vehicle should be
+reproduced. No matter how experienced or skilled a
+technician may be, if he proceeds to troubleshoot without
+confirming the problem symptoms, he will likely overlook
+something important and make a wrong guess at some
+points in the repair operation. This leads to a standstill in
+troubleshooting.

@@ -1,0 +1,81 @@
+WS–12
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+Specified
+Symbols (Terminal No.) Wiring Color Terminal Description Condition
+Condition
+Ignition switch on (IG),
+Power window motor driver side power window 10 to 14 V → 0
+DN (M1-5) - E (M1-1) R - W-B
+DOWN output switch OFF → DOWN V
+(Manual operation)
+WS Ignition switch on (IG),
+Power window motor UP front passenger side 0 V → 10 to 14
+PU (M1-16) - E (M1-1) W - W-B
+output power window switch OFF V
+→ UP (Manual operation)
+Ignition switch on (IG),
+front passenger side
+Power window motor 0 V → 10 to 14
+PD (M1-15) - E (M1-1) R - W-B power window switch OFF
+DOWN output V
+→ DOWN (Manual
+operation)
+Ignition switch on (IG), rear
+Power window motor UP LH side power window 0 V → 10 to 14
+RLU (M1-12) - E (M1-1) L - W-B
+output switch OFF → UP (Manual V
+operation)
+Ignition switch on (IG), rear
+Power window motor LH side power window 0 V → 10 to 14
+RLD (M1-13) - E (M1-1) B - W-B
+DOWN output switch OFF → UP (Manual V
+operation)
+Ignition switch on (IG), rear
+Power window motor UP RH side power window 0 V → 10 to 14
+RRU (M1-10) - E (M1-1) Y - W-B
+output switch OFF → UP (Manual V
+operation)
+Ignition switch on (IG), rear
+Power window motor RH side power window 0 V → 10 to 14
+RRD (M1-18) - E (M1-1) LG - W-B
+DOWN output switch OFF → UP (Manual V
+operation)
+without Jam protection
+Specified
+Symbols (Terminal No.) Wiring Color Terminal Description Condition
+Condition
+Ignition switch on (IG),
+Power window motor UP driver side power window 0 V → 10 to 14
+UP (M1-3) - E (M1-1) G - W-B
+output switch OFF → UP (Manual V
+operation)
+Ignition switch on (IG),
+Power window motor driver side power window 0 V → 10 to 14
+DOWN output switch OFF → DOWN V
+(Manual operation)
+Ignition switch on (IG),
+DN (M1-4) - E (M1-1) G - W-B driver side power window
+fully closed → driver side
+Power window motor 10 to 14 V → 0
+power window switch
+AUTO DOWN output V → 10 to 14 V
+DOWN (AUTO operation)
+→ driver side power
+window fully open
+Ignition switch on (IG),
+Power window motor UP front passenger side 0 V → 10 to 14
+PU (M1-16) - E (M1-1) W - W-B
+output power window switch OFF V
+→ UP (Manual operation)
+Ignition switch on (IG),
+front passenger side
+Power window motor 0 V → 10 to 14
+PD (M1-15) - E (M1-1) R - W-B power window switch OFF
+DOWN output V
+→ DOWN (Manual
+operation)
+Ignition switch on (IG), rear
+Power window motor UP LH side power window 0 V → 10 to 14
+RLU (M1-12) - E (M1-1) L - W-B
+output switch OFF → UP (Manual V
+operation)

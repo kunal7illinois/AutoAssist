@@ -1,0 +1,36 @@
+BC–70
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+WIRING DIAGRAM
+Brake Actuator Assembly
+(Skid Control ECU)
+IG1
+ECU IG No. 2 18
+A25 IG1
+5 3
+2 1
+E23
+BC
+Ignition SW
+AM1
+(*2) (*2)
+AM1 IG1
+4 1
+Main Body ECU (*1)
+ALT
+6
+E7 AM1
+3
+AM2 1 IG1D E7
+(*1)
+E6 AM2
+4
+FL MAIN A25 GND1
+1
+A25 GND2
+Battery
+*1: with Smart Key System
+*2: without Smart Key System
+C136502E01
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).

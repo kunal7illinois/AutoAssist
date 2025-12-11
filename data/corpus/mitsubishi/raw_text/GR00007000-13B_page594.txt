@@ -1,0 +1,44 @@
+13B-594 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 6. Using scan tool MB991502, check data list.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Check the following items in the data list. Refer to, Data List
+Reference Table P.13B-640.
+16 PIN a. Item 21: Engine Coolant Temperature Sensor.
+b. Item 13: Intake Air Temperature Sensor.
+MB991502
+AKX01177AB c. Item 25: Barometric pressure Sensor.
+d. Item 69: Right Bank Heated Oxygen Sensor (rear).
+e. Item 59: Left Bank Heated Oxygen Sensor (rear).
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : Go to Step 7.
+NO : Repair or replace. Then confirm that the malfunction
+symptom is eliminated.
+STEP 7. Using scan tool MB991502, check data list item 39:
+Right Bank heated oxygen sensor (front).
+(1) Start the engine and run at idle.
+(2) Set scan tool MB991502 to the data reading mode for item
+39, Right Bank Heated Oxygen Sensor (front).
+• Warm up the engine. When the engine is decelerated
+suddenly from 4,000 r/min, the output voltage should
+increase from 200 mV or less to 600 − 1,000 mV in a
+few seconds.
+16 PIN (3) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 Q:Is the sensor operating properly?
+AKX01177AB YES : Go to Step 8.
+NO : Refer to, DTC P0130 − Heated Oxygen Sensor Circuit
+(bank 1, sensor 1) P.13B-122, DTC P0131 − Heated
+Oxygen Sensor Circuit Low Voltage (bank 1, sensor
+1) P.13B-132, DTC P0132 − Heated Oxygen Sensor
+Circuit High Voltage (bank 1, sensor 1) P.13B-137,
+DTC P0133 − Heated Oxygen Sensor Circuit Slow
+Response (bank 1, sensor 1) P.13B-140, DTC P0134
+− Heated Oxygen Sensor Circuit No Activity Detected
+(bank 1, sensor 1) P.13B-143.
+TSB Revision

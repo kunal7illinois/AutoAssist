@@ -1,0 +1,51 @@
+RS–130
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+8 CHECK FLOOR WIRE NO. 2 (SHORT TO B+)
+(a) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+Floor Wire No. 2
+(b) Turn the ignition switch on (IG).
+(c) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+D A
+C B Tester Connection Condition Specified Condition
+Center Airbag
+Occupant Sensor Assembly O4-8 (FSR+) - Body
+Ignition switch ON Below 1 V
+Classification ground
+ECU O4-4 (FSR-) - Body
+Ignition switch ON Below 1 V
+ground
+Connector C NG REPAIR OR REPLACE FLOOR WIRE NO. 2
+O4
+FSR-
+FSR+
+C C123686E03
+OK
+RS 9 CHECK FLOOR WIRE NO. 2 (SHORT TO GROUND)
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+Floor Wire No. 2
+battery, and wait for at least 90 seconds.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+D A
+C B Tester Connection Condition Specified Condition
+Center Airbag
+Occupant Sensor Assembly O4-8 (FSR+) - Body
+Always 1 MΩ or higher
+Classification ground
+ECU O4-4 (FSR-) - Body
+Always 1 MΩ or higher
+ground
+HINT:
+Connector C After replacing the center airbag sensor assembly, check
+for DTCs of the center airbag sensor assembly. If the
+O4 DTC B1650/32 is detected, replace the occupant
+FSR- classification ECU (See page RS-469) and perform "zero
+point calibration" and "sensitivity check" of the occupant
+classification system (See page RS-242).
+FSR+ NG REPAIR OR REPLACE FLOOR WIRE NO. 2
+C C123686E03

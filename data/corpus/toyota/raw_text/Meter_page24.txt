@@ -1,0 +1,43 @@
+ME–24
+METER – METER / GAUGE SYSTEM
+TERMINALS OF ECU
+1. COMBINATION METER ASSEMBLY
+F1 F2
+E123358E01
+Specified
+Symbols (Terminal No.) Wiring Color Terminal Description Condition
+Condition
+Turn the ignition switch on (IG),
+Below 1 V
+turn signal RH indicator light OFF
+B (F2-1) - Body ground G - Body ground Turn indicator light signal
+Turn the ignition switch on (IG),
+10 to 14 V
+turn signal RH indicator light ON
+Turn the ignition switch on (IG),
+Below 1 V
+turn signal LH indicator light OFF
+B (F2-2) - Body ground L - Body ground Turn indicator light signal
+Turn the ignition switch on (IG),
+10 to 14 V
+turn signal LH indicator light ON
+Turn the ignition switch on (IG),
+CHECK ENGINE warning light Below 3 V
+Malfunction indicator lamp ON
+CHK (F2-4) - Body ground R - Body ground
+ME signal Turn the ignition switch on (IG),
+CHECK ENGINE warning light 10 to 14 V
+OFF
+Turn the ignition switch on (IG),
+10 to 14 V
+Brake fluid level warning BRAKE warning light OFF
+B/LE (F2-6) - Body ground LG - Body ground
+light signal Turn the ignition switch on (IG),
+Below 1 V
+BRAKE warning light ON
+Pulse generation
++S (F2-12) - Body ground V - Body ground Speed signal (Output) Turn the wheel slowly
+(See waveform 1)
+Turn the ignition switch on (IG), Pulse generation
+SI (F2-14) - Body ground V - Body ground Speed signal (Input)
+turn the wheel slowly (See waveform 1)

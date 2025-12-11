@@ -1,0 +1,34 @@
+ES–392
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• Always turn the voltage on and off on the
+battery side, not the fuel pump side.
+NG REPLACE FUEL PUMP
+OK
+REPLACE ECM
+8 READ VALUE USING INTELLIGENT TESTER (STARTER SIG)
+ES (a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY /
+STARTER SIG.
+(d) Check the result when the ignition switch is turned to ON
+and START.
+OK
+Ignition Switch Position Starter Signal
+ON OFF
+START ON
+NG REPAIR OR REPLACE STARTING SYSTEM
+OK
+9 READ VALUE USING INTELLIGENT TESTER (ENGINE SPD)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY / ENGINE
+SPD.
+(d) Read the values displayed on the tester while cranking.
+Standard:
+Values are displayed continuously.
+NG REPAIR OR REPLACE CRANKSHAFT
+POSITION SENSOR CIRCUIT
+OK
+REPLACE ECM

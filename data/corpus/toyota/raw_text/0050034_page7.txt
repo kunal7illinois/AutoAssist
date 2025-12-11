@@ -1,0 +1,59 @@
+ES–196
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1 INSPECT IGNITION COIL ASSEMBLY (POWER SOURCE)
+(a) Disconnect the ignition coil with igniter connector.
+Wire Harness Side:
+(b) Measure the resistance.
+Ignition Coil with Igniter Connector Standard resistance (Check for open)
+Tester Connections Specified Conditions
+B9 B10
+B9-4 (GND) - Body ground Below 1 Ω
+B11 B12 B10-4 (GND) - Body ground Below 1 Ω
+B11-4 (GND) - Body ground Below 1 Ω
++B (+) GND (-)
+B12-4 (GND) - Body ground Below 1 Ω
+Front View
+ES A054393E62 (c) Turn the ignition switch ON.
+(d) Measure the voltage between the terminals of the wire
+harness side connector.
+Standard voltage
+Tester Connections Specified Conditions
+B9-1 (+B) - B9-4 (GND) 9 to 14 V
+B10-1 (+B) - B10-4 (GND) 9 to 14 V
+B11-1 (+B) - B11-4 (GND) 9 to 14 V
+B12-1 (+B) - B12-4 (GND) 9 to 14 V
+(e) Reconnect the ignition coil with igniter connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+2 CHECK HARNESS AND CONNECTOR (IGNITION COIL ASSEMBLY - ECM)
+(a) Disconnect the ignition coil with connector.
+Wire Harness Side:
+(cid:2071)(cid:2083)(cid:2110)(cid:2102)(cid:2090)(cid:2138)(cid:2150)(cid:2086)(cid:2071)(cid:2142)(cid:35)(cid:53)(cid:53)(cid:59)(cid:12446)(cid:2580)(cid:2981)(cid:2086)(cid:2112)(cid:2082)(cid:2098) (b) Disconnect the B30 ECM connector.
+(c) Measure the resistance.
+Ignition Coil with Igniter Connector Standard resistance (Check for open)
+Tester Connections Specified Conditions
+IGF
+B9 B10
+B9-2 (IGF) - B30-81 (IGF1) Below 1 Ω
+B11 B12 B10-2 (IGF) - B30-81 (IGF1) Below 1 Ω
+IGT1
+Front View B11-2 (IGF) - B30-81 (IGF1) Below 1 Ω
+IGT2
+B12-2 (IGF) - B30-81 (IGF1) Below 1 Ω
+IGT3
+IGT4 Standard resistance (Check for open)
+(cid:2075)(cid:2150)(cid:2091)(cid:2150)(cid:2086)(cid:2150)(cid:2107)(cid:2144)(cid:2159)(cid:2142)(cid:2086)(cid:2150)(cid:2119)(cid:2136)(cid:2159)(cid:2098)(cid:12446)(cid:2580)(cid:2981)(cid:2086)(cid:2112)I(cid:2082)G(cid:2098)T2
+ECM Connector
+B30 Tester Connections Specified Conditions
+IGT1
+B12-3 (IGT1) - B30-85 (IGT1) Below 1 Ω
+B11-3 (IGT2) - B30-84 (IGT2) Below 1 Ω
+B10-3 (IGT3) - B30-83 (IGT3) Below 1 Ω
+B9-3 (IGT4) - B30-82 (IGT4) Below 1 Ω
+Standard resistance (Check for short)
+Front View
+IGF1 IGT4 IGT3 Tester Connections Specified Conditions
+B9-2 (IGF) or B30-81 (IGF1) - Body
+A105983E04 10 kΩor higher
+ground

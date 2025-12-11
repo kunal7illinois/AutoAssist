@@ -1,0 +1,35 @@
+TD–33
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/ Smart Key System)
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the intelligent tester main switch on.
+(d) Select the item below in the DATA LIST and read the
+display on the intelligent tester.
+MAIN BODY (Main Body ECU):
+Item Test Details Diagnostic Note
+IG SW ignition switch ON signal ON/OFF -
+ACC SW ignition switch ACC signal ON/OFF -
+OK:
+When the ignition switch is operated, the display
+changes as shown in the table.
+NG Go to step 2
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+2 CHECK HARNESS AND CONNECTOR (BATTERY - INSTRUMENT PANEL J/B)
+(a) Disconnect the IA J/B connector.
+Connector Wire Harness View: (b) Measure the voltage according to the value(s) in the
+table below.
+Instrument Panel J/B Assembly TD
+Standard voltage
+(Vehicle Rear Side)
+Tester Connection Condition Specified Condition
+IA-1 - Body ground Ignition switch ON 10 to 14 V
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+IA
+1
+B110530E02
+OK

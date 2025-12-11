@@ -1,0 +1,48 @@
+ES–286
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Throttle Actuator Control Throttle Body Range /
+DTC P2119
+Performance
+DESCRIPTION
+The Electronic Throttle Control System (ETCS) is composed of the throttle actuator, Throttle Position (TP)
+sensor, Accelerator Pedal Position (APP) sensor, and ECM. The ECM operates the throttle actuator to
+regulate the throttle valve in response to driver inputs. The TP sensor detects the opening angle of the
+throttle valve, and provides the ECM with feedback so that the throttle valve can be appropriately
+controlled by the ECM.
+DTC No. DTC Detection Conditions Trouble Areas
+Throttle valve opening angle continues to vary greatly from • ETCS
+P2119
+ES target opening angle (1 trip detection logic) • ECM
+MONITOR DESCRIPTION
+The ECM determines the actual opening angle of the throttle valve from the TP sensor signal. The actual
+opening angle is compared to the target opening angle commanded by the ECM. If the difference
+between these two values is outside the standard range, the ECM interprets this as a malfunction in the
+ETCS. The ECM then illuminates the MIL and sets the DTC.
+If the malfunction is not repaired successfully, the DTC is set when the accelerator pedal is quickly
+released (to close the throttle valve) after the engine speed reaches 5,000 rpm by the accelerator pedal
+being fully depressed (fully open the throttle valve).
+MONITOR STRATEGY
+Related DTCs P2119: ETCS malfunction
+Required Sensors/Components (Main) Throttle actuator
+Required Sensors/Components (Related) -
+Frequency of Operation Continuous
+Duration Within 1 second
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present None
+TYPICAL MALFUNCTION THRESHOLDS
+Either of following conditions A or B met -
+A. Difference between commanded closed throttle position and
+0.3 V or more for 1 second
+current closed throttle position
+B. Difference between commanded open throttle position and current
+0.3 V or more for 0.6 seconds
+open throttle position
+FAIL-SAFE
+When this DTC, or other DTCs relating to ETCS (Electronic Throttle Control System) malfunctions, are
+set, the ECM enters fail-safe mode. During fail-safe mode, the ECM cuts the current to the throttle
+actuator off, and the throttle valve is returned to a 6° throttle angle by the return spring. The ECM then
+adjusts the engine output by controlling the fuel injection (intermittent fuel-cut) and ignition timing, in
+accordance with the accelerator pedal opening angle, to allow the vehicle to continue at a minimal speed.
+If the accelerator pedal is depressed firmly and gently, the vehicle can be driven slowly.

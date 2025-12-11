@@ -1,0 +1,47 @@
+LI–43
+LIGHTING – LIGHTING SYSTEM
+INSPECTION PROCEDURE
+1 PERFORM ACTIVE TEST BY INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Select the item below in the ACTIVE TEST and then
+check that the relay operates.
+MAIN BODY (MAIN BODY ECU):
+Item Test Details Diagnostic Note
+HEAD LIGHT (HI) High beam headlights ON / OFF -
+OK:
+Relay operates. (High beam headlights illuminate.)
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+NG
+2 INSPECT INSTRUMENT PANEL JUNCTION BLOCK ASSEMBLY
+(a) Measure the voltage according to the value(s) in the
+Instrument Panel J/B Assembly table below.
+Standard voltage
+ID
+Tester Connection Condition Specified Condition
+ID-3 (HRLY) - Body Light control switch
+10 to 14 V → Below 1 V
+ground OFF → HEAD
+Light control switch in
+ID-9 (DRL) - Body
+HEAD, dimmer switch 10 to 14 V → Below 1 V
+ground
+HRLY DRL LOW → HIGH
+E121528E02
+OK Go to step 6
+NG
+LI
+3 CHECK HARNESS AND CONNECTOR (ENGINE ROOM J/B ASSEMBLY - BATTERY AND
+BODY GROUND)
+(a) Disconnect the 1G engine room J/B assembly connector.
+Wire Harness Side:
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Engine Room
+1 1G Tester Connection Condition Specified Condition
+J/B Assembly
+1G-1 - Body ground Always 10 to 14 V
+B074501E17

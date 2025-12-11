@@ -1,0 +1,70 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Pa‐ Monitoring Frequency of
+sage cedure ria and Threshold rameters with En‐ Time checks, MIL
+Value able Conditions Length Illum
+P2128 Accelerator – Check the Ac‐ • Signal voltage --- 0.2 Sec. • Continu‐
+Pedal Posi‐ celerator Ped‐ > 2.5 V ous
+tion Sensor al Position
+E Circuit Sensor 1 - • 2 DCY
+High Input G79- / Accel‐
+erator Pedal
+Position Sen‐
+sor 2 -G185- .
+Refer to
+⇒ “3.5.18 Ac‐
+celerator Ped‐
+al Position
+Sensor / Ac‐
+celerator Ped‐
+al Position
+Sensor 2,
+Checking”,
+page 147 .
+P2138 Accelerator – Check the Ac‐ • Signal voltage --- 0.24 Sec. • Continu‐
+Pedal Posi‐ celerator Ped‐ sensor 1 vs. 2 > ous
+tion Sensor al Position 0.12 to 0.70 V
+D / E Volt‐ Sensor 1 - • 2 DCY
+age Corre‐ G79- / Accel‐
+lation erator Pedal
+Position Sen‐
+sor 2 -G185- .
+Refer to
+⇒ “3.5.18 Ac‐
+celerator Ped‐
+al Position
+Sensor / Ac‐
+celerator Ped‐
+al Position
+Sensor 2,
+Checking”,
+page 147 .
+P2146 Fuel Injec‐ – Check the short to battery • injection valve 0.5 Sec • Continu‐
+tor Group A Fuel injectors plus commanded ous
+Supply Volt‐ -N30, N31, • signal current < off
+age Circuit / N32, N33, 2.6 A • 2 DCY
+short to N83- . Refer to • engine speed >
+ground ⇒ “3.5.27 short to ground 40 rpm
+Fuel Injectors, • signal current >
+Checking”, 14.9 A
+page 167 .
+P2149 Fuel Injec‐ – Check the short to battery • injection valve 0.5 Sec • Continu‐
+tor Group B Fuel injectors plus commanded ous
+Supply Volt‐ -N30, N31, • signal current < off
+age Circuit / N32, N33, 2.6 A • 2 DCY
+Short to N83- . Refer to • engine speed >
+ground ⇒ “3.5.27 short to ground 40 rpm
+Fuel Injectors, • signal current >
+Checking”, 14.9 A
+page 167 .
+P2152 – Check the short to battery • injection valve 0.5 Sec • Continu‐
+Fuel injectors plus commanded ous
+-N30, N31, • signal current < off
+N32, N33, 2.6 A • 2 DCY
+N83- . Refer to • engine speed >
+⇒ “3.5.27 short to ground 40 rpm
+Fuel Injectors, • signal current >
+Checking”, 14.9 A
+page 167 .
+88
+Rep. Gr.ST - Generic Scan Tool

@@ -1,0 +1,26 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+Before you remove the dashboard wire harness, floor wire harness, disconnect
+(cid:1)
+the driver's airbag connector, the front passenger's airbag connector, both side
+airbag connectors, both side curtain airbag connectors, both seat belt buckle
+tensioner connectors and both seat belt tensioner connectors.
+Make sure the battery is fully charged. If the battery is dead or low, measuring
+(cid:1)
+values may not be correct.
+Do not touch a tester probe to the terminals in the SRS unit or harness
+(cid:1)
+connectors, and do not connect the SRS unit terminals or the sensor terminals
+with a jumper wire. Use only the backprobe set and the multimeter. Backprobe
+spring-loaded lock type connectors correctly.
+READING THE DTC
+1. Make sure the ignition switch is OFF.
+2. Connect the HDS to the data link connector (DLC) (A).
+Fig. 33: Identifying Data Link Connector (DLC)
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+3. Turn the ignition switch ON (II).
+4. Make sure the HDS communicates with the vehicle and the SRS unit. If it does
+not communicate, troubleshoot the DLC circuit (see DLC CIRCUIT
+TROUBLESHOOTING ).
+5. Use the HDS to check for DTCs.

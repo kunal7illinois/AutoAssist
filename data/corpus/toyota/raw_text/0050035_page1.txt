@@ -1,0 +1,57 @@
+ES–198
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Catalyst System Efficiency Below Threshold
+DTC P0420
+(Bank 1)
+MONITOR DESCRIPTION
+The ECM uses sensors mounted in front of and behind the Three-Way Catalytic Converter (TWC) to
+monitor its efficiency.
+The first sensor, the Air-Fuel Ratio (A/F) sensor, sends pre-catalyst information to the ECM. The second
+sensor, the Heated Oxygen (HO2) sensor, sends post-catalyst information to the ECM.
+In order to detect any deterioration in the TWC, the ECM calculates the Oxygen Storage Capacity (OSC)
+of the TWC. This calculation is based on the voltage output of the HO2 sensor while performing active air-
+fuel ratio control, rather than the conventional detecting method, which uses the locus ratio.
+The OSC value is an indication of the oxygen storage capacity of the TWC. When the vehicle is being
+ES
+driven with a warm engine, active air-fuel ratio control is performed for approximately 15 to 20 seconds.
+When it is performed, the ECM deliberately sets the air-fuel ratio to lean or rich levels. If the rich-lean
+cycle of the HO2 sensor is long, the OSC becomes greater. There is a direct correlation between the
+OSCs of the HO2 sensor and the TWC.
+The ECM uses the OSC value to determine the state of the TWC. If any deterioration has occurred, it
+illuminates the MIL and sets the DTC.
+DTC No. DTC Detection Conditions Trouble Areas
+• Front exhaust pipe (with TWC)
+OSC value smaller than standard value under active air-fuel • Gas leakage from exhaust system
+P0420
+ratio control (2 trip detection logic) • Air-Fuel Ratio (A/F) sensor (sensor 1)
+• Heated Oxygen (HO2) sensor (sensor 2)
+MONITOR STRATEGY
+Related DTCs P0420: Catalyst Deterioration
+Required Sensors/Components (Main) A/F sensor and HO2 sensor
+Intake air temperature sensor, mass air flow meter, crankshaft position
+Required Sensors/Components (Related)
+sensor and engine coolant temperature sensor
+Frequency of Operation Once per driving cycle
+Duration About 30 seconds
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+P0011 (VVT System 1 - Advance)
+P0012 (VVT System 1 - Retard)
+P0031, 32 (A/F Sensor heater - Sensor 1)
+P0037, 38 (O2 Sensor heater - Sensor 2)
+P0100 - P0103 (MAF meter)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+P0125 (Insufficient ECT for Closed Loop)
+Monitor runs whenever following DTCs not present P0136 (O2 Sensor - Sensor 2)
+P0171, P0172 (Fuel system)
+P0300 - P0304 (Misfire)
+P0335 (CKP sensor)
+P0340 (CMP sensor)
+P0351 - P0354 (Igniter)
+P0500 (VSS)
+P2196 (A/F Sensor - rationality)
+P2A00 (A/F Sensor - slow response)
+Battery voltage 11 V or more
+Intake air temperature -10°C (14°F) or more

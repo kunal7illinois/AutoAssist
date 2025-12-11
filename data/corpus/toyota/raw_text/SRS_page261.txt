@@ -1,0 +1,42 @@
+RS–259
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+Passenger Side Buckle Switch Circuit Malfunc-
+DTC B1771
+tion
+DESCRIPTION
+The passenger side buckle switch circuit consists of the occupant classification ECU and the front seat
+inner belt assembly RH.
+DTC B1771 is recorded when a malfunction is detected in the passenger side buckle switch circuit.
+Troubleshoot DTC B1771 first when the DTC B1771 and B1795 are output simultaneously.
+DTC No. DTC Detecting Condition Trouble Area
+• The occupant classification ECU receives a line
+short circuit signal, an open circuit signal, a short
+• Front seat inner belt assembly RH
+circuit to ground signal or a short circuit to B+ signal
+• Floor wire No. 2
+B1771 in the passenger side buckle switch circuit for 2
+• Front seat wire RH (for Power seat)
+seconds.
+• Occupant classification ECU
+• Passenger side buckle switch malfunction
+• Occupant classification ECU malfunction
+WIRING DIAGRAM
+T7 (*1) O3 (*2)
+Front Seat Inner Belt Assembly RH (Front Passenger’s Side) Occupant Classification ECU
+9 9
+T10 O4 BSW
+2
+(*1) (*2) RS
+5 5
+T10 O4 BGND
+1
+(*1) (*2)
+*1: for Power Seat
+*2: for Manual Seat
+H043685E02
+INSPECTION PROCEDURE
+HINT:
+• If troubleshooting (wire harness inspection) is difficult to perform, remove the front passenger seat
+installation bolts to see the under surface of seat cushion.
+• In the above case, hold the seat so that it does not fall down. Holding the seat for a long period of time
+may cause a problem, such as seat rail deformation. Hold the seat only as necessary.

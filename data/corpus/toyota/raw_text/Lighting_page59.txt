@@ -1,0 +1,34 @@
+LI–59
+LIGHTING – LIGHTING SYSTEM
+INSPECTION PROCEDURE
+1 READ VALUE OF INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Select the items below in the DATA LIST, and read the
+display on the intelligent tester.
+MAIN BODY (MAIN BODY ECU):
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+Driver side door lock position ON: Driver side door is unlocked
+D LOCK POS SW -
+switch signal / ON or OFF OFF: Driver side door is locked
+ON: Passenger side door is
+Passenger side door lock position unlocked
+P LOCK POS SW -
+switch signal / ON or OFF OFF: Passenger side door is
+locked
+RR LOCK POS SW Rear right door lock position ON: Rear right door is unlocked
+-
+(with Smart Key System) switch signal / ON or OFF OFF: Rear right door is locked
+RL LOCK POS SW Rear left door lock position switch ON: Rear left door is unlocked
+-
+(with Smart Key System) signal / ON or OFF OFF: Rear left door is locked
+OK:
+Normal conditions listed above are displayed.
+NG GO TO POWER DOOR LOCK CONTROL
+SYSTEM
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE
+LI

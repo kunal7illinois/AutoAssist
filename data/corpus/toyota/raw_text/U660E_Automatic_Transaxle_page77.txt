@@ -1,0 +1,40 @@
+AX–77
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+DTC P0724 Brake Switch "B" Circuit High
+DESCRIPTION
+The purpose of this circuit is to prevent the engine from stalling while driving in lock-up condition when
+brakes are suddenly applied.
+AX
+When the brake pedal is depressed, this switch sends a signal to the TCM. Then the TCM cancels the
+operation of the lock-up clutch while braking is in progress.
+DTC No. DTC Detection Condition Trouble Area
+The stop light switch remains ON even when the
+• Short in stop light switch signal circuit
+vehicle is driven in a STOP (less than 2 mph (3 km/h))
+P0724 • Stop light switch
+and GO (19 mph (30 km/h) or more) fashion 5 times. (2-
+• TCM
+trip detection logic).
+MONITOR DESCRIPTION
+This DTC indicates that the stop light switch remains ON. When the stop light switch remains ON during
+"stop and go" driving, the TCM interprets this as a fault in the stop light switch, illuminates the MIL, and
+stores the DTC. The vehicle must stop (less than 2 mph (3 km/h)) and go (19 mph (30 km/h) or more) five
+times for two consecutive driving cycles in order to set this DTC.
+MONITOR STRATEGY
+Related DTCs P0724: Stop light switch/Range check/Rationality
+Required sensors/Components Stop light switch
+Frequency of operation Continuous
+Duration GO and STOP 5 times
+MIL operation 2 driving cycles
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+The stop light switch remains ON during GO and STOP 10 times.
+GO and STOP are defined as follows;
+The monitor will run whenever this DTC is not present. None
+GO: (Vehicle speed is 18.63 mph (30 km/h) or more) 18.7 mph (30 km/h) or more
+STOP: (Vehicle speed is less than 1.86 mph (3 km/h)) Less than 1.86 mph (3 km/h)
+Starter OFF
+Battery voltage 8 V or more
+Ignition switch ON
+TYPICAL MALFUNCTION THRESHOLDS
+Switch status ON stuck

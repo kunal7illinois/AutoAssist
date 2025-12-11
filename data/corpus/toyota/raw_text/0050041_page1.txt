@@ -1,0 +1,43 @@
+ES–244
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P050A Cold Start Idle Air Control System Performance
+DTC P050B Cold Start Ignition Timing Performance
+DESCRIPTION
+The Electronic Throttle Control System (ETCS) controls the engine idling speed. The ETCS operates the
+throttle actuator to open and close the throttle valve, and adjusts the intake air amount to achieve the
+target idling speed.
+In addition, the ECM retards the ignition timing and the ETCS increases the intake air amount to quickly
+increase the catalyst temperature at cold start to reduce emissions.
+DTC No. DTC Detection Conditions Trouble Areas
+ES
+• Throttle body assembly
+• Mass air flow meter
+• Air induction system
+Accumulated intake air amount during 10 seconds of idling
+P050A • PCV hose connections
+after cold start is less than threshold (2 trip detection logic)
+• VVT system
+• Air cleaner filter element
+• ECM
+• Throttle body assembly
+• Mass air flow meter
+Ignition timing retard value insufficient for 5 seconds or more • Air induction system
+P050B during 10 seconds of P050A monitoring duration at cold start • PCV hose connections
+(2 trip detection logic) • VVT system
+• Air cleaner filter element
+• ECM
+MONITOR DESCRIPTION
+Ignition Timing
+Accumulated Intake Air Value
+P050B Detected
+Advanced
+(g) Pass Detected
+5 or more
+P050A Detected
+Threshold Threshold
+Pass Detected
+0 Retarded
+3 10 (Second) 3 10 (Second)
+Time Time
+Engine Start Engine Start
+A112588E01

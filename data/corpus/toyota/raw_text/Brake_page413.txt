@@ -1,0 +1,31 @@
+BC–402
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+7 CHECK HARNESS AND CONNECTOR (MAIN BODY ECU TO PARKING BRAKE SWITCH)
+(a) Measure the resistance according to the value(s) in the
+Main Body ECU table below.
+Wire Harness View: Standard resistance:
+Automatic Transaxle
+Tester Connection Condition Specified Condition
+IC : Automatic Transaxle IC-14 (PKB) - A18-1 Always Below 1 Ω
+IC-14 (PKB) - Body
+Always 10 kΩ or higher
+ground
+Manual Transaxle
+Tester Connection Condition Specified Condition
+IM-2 (PKB) - E33-1 Always Below 1 Ω
+IM-2 (PKB) - Body
+Always 10 kΩ or higher
+IM : Manual Transaxle ground
+BC
+(b) Connect the connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (MAIN BODY ECU TO
+PARKING BRAKE SWITCH)
+Parking Brake Switch Harness Side
+Connector Front View:
+A18 : Automatic
+Transaxle
+E33 : Manual
+Transaxle
+C136418E03
+OK

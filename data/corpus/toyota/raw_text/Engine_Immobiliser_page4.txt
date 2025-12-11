@@ -1,0 +1,21 @@
+EI–4
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+SYSTEM DIAGRAM
+Enigine Switch
+- Transponder Key
+Certification ECU
+Amplifier (with Key Coil)
+Main Body ECU ID Code Box Steering Lock ECU
+ECM
+LIN Communication Line
+EI B128344E02
+Communication table:
+Transmitting ECU (Transmitter) Receiving ECU (Receiver) Signals Communication method
+Main body ECU Certification ECU Key code recognition signal LIN
+ID code box Certification ECU DTC (B2791) signal LIN
+• Steering lock release signal
+ID code box Steering lock ECU • Matching request random LIN
+number signal
+Matching request random number
+ID code box Certification ECU LIN
+signal

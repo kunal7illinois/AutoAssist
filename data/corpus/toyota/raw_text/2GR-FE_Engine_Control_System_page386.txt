@@ -1,0 +1,40 @@
+ES–386
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Duration 10 minutes
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Case 1:
+Engine switch ON
+Engine Running
+Battery voltage 8 V or more
+Starter OFF
+Case 2:
+Internal engine OFF timer (elapsed time from engine stop) 10 to 300 minutes
+ES Battery voltage 8 V or more
+Engine switch ON
+Starter OFF
+Case 3:
+Internal engine OFF timer (elapsed time from engine stop) 310 minutes
+Battery voltage 8 V or more
+Engine switch ON
+Starter OFF
+TYPICAL MALFUNCTION THRESHOLDS
+Case 1:
+Soak timer measurement when ECM CPU clock counts 10 minutes Less than 7 minutes or more than 13 minutes
+Case 2:
+ECM had the started record by internal engine Yes
+Case 3:
+ECM had the started record by internal engine No
+INSPECTION PROCEDURE
+HINT:
+• DTC P2610 is set if an internal ECM problem is detected. In this case, diagnostic procedures are not
+required. ECM replacement is required.
+• Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame
+data can be helpful in determining whether the vehicle was running or stopped, whether the engine
+was warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the
+time of a malfunction (See page ES-45).
+1 REPLACE ECM
+(a) Replace the ECM (See page ES-518).
+NEXT

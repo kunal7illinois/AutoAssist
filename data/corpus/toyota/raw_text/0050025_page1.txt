@@ -1,0 +1,41 @@
+ES–128
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Throttle / Pedal Position Sensor / Switch "A"
+DTC P0121
+Circuit Range / Performance Problem
+HINT:
+This DTC relates to the Throttle Position (TP) sensor.
+DESCRIPTION
+Refer to DTC P0120 (see page ES-114).
+DTC No. DTC Detection Conditions Trouble Areas
+Difference between VTA1 and VTA2 voltages less than 0.8 V,
+P0121 TP sensor (built into throttle body)
+or more than 1.6 V for 2 seconds (1 trip detection logic)
+ES
+MONITOR DESCRIPTION
+The ECM uses the TP sensor to monitor the throttle valve opening angle.
+This sensor transmits two signals: VTA1 and VTA2. VTA1 is used to detect the throttle opening angle and
+VTA2 is used to detect malfunctions in VTA1. The ECM performs several checks to confirm the proper
+operation of the TP sensor and VTA1.
+For each throttle opening angle, a specific voltage difference is expected between the outputs of VTA1
+and VTA2. If the output voltage difference between the two signals deviates from the normal operating
+range, the ECM interprets this as a malfunction of the TP sensor. The ECM illuminates the MIL and sets
+the DTC.
+If the malfunction is not repaired successfully, the DTC is set 2 seconds after the engine is next started.
+MONITOR STRATEGY
+Related DTCs P0121: TP sensor rationality
+Required Sensors/Components (Main) TP sensor
+Required Sensors/Components (Related) -
+Frequency of Operation Continuous
+Duration Within 2 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present P0120 - P0223, P2135 (TP sensor)
+Either of following conditions A or B set -
+A. Ignition switch ON
+B. Electric throttle motor power ON
+TYPICAL MALFUNCTION THRESHOLDS
+Difference in voltage between VAT1 and VTA2
+Less than 0.8 V, or more than 1.6 V
+TP sensor 1 - [TP sensor 2 x 0.8 (corrected by learning value)]

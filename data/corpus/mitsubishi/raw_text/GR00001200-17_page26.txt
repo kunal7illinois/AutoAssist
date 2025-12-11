@@ -1,0 +1,38 @@
+17-26 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+STEP 4. Check stoplight switch connector C-03.
+Q:Is the connector damaged?
+CONNECTOR: C-03
+YES : Repair or replace connector.
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that diagnostic trouble code 14 is not
+output.
+NO : Go to Step 5.
+AC101196AE
+STEP 5. Check the stoplight switch.
+(1) Disconnect stoplight switch connector C-03.
+(2) Connect an ohmmeter to the stoplight switch between
+STOPLIGHT SWITCH terminals 3 and 4, and check whether there is continuity
+CONNECTOR: C-03
+when the plunger of the stoplight switch is pushed in and an
+open circuit when it is released.
+1 2
+3 4 (3) The stoplight switch is in good condition if the circuit is open
+when the plunger is pushed in to a depth of within 4 mm
+(0.2 inch) from the outer case edge surface, and if there is
+continuity when it is released.
+Q:Is the circuit is open?
+ACX01917AC YES : Replace the stoplight switch.
+Refer to GROUP 35A, Brake Pedal P.35A-31.
+Then check that a diagnostic trouble code 14 is not
+output.
+NO : Check that diagnostic trouble code 14 is not output.
+If diagnostic trouble code 14 is output, replace the
+NO
+CONTINUITY CONTINUITY auto-cruise control-ECU. (Refer to P.17-86.)
+Then check that diagnostic trouble code 14 is not
+output.
+4 mm (0.2 in)
+AC001463AB
+TSB Revision

@@ -1,0 +1,42 @@
+EI–41
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+1 CHECK WIRE HARNESS (CERTIFICATION ECU - ENGINE SWITCH)
+(a) Disconnect the E58 ECU and E52 switch connectors.
+Wire Harness Side Connector Front View:
+(b) Measure the resistance according to the value(s) in the
+table below.
+E58 Standard resistance
+Certification ECU
+Tester Connection Specified Condition
+E58-30 (VC5) - E52-14 (VC5)
+Below 1 Ω
+E58-40 (AGND) - E52-8 (AGND)
+1 2 3 4 5 6 7 8 9 1011121314151617
+1819202122232425262728293031323334353637383940 E58-30 (VC5) - Body ground
+10 kΩ or higher
+E58-40 (AGND) - Body ground
+VC5 AGND
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+E52
+Engine Switch
+1 2 3 4 5 6 7
+8 9 1011121314
+AGND VC5
+B119109E07
+OK
+2 CHECK HARNESS AND CONNECTOR (ENGINE SWITCH POWER SOURCE)
+(a) Reconnect the E58 ECU and E52 switch connectors.
+Wire Harness Side Connector Rear View:
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage EI
+Tester Connection Condition Specified Condition
+E58
+Certification ECU E58-30 (VC5) - Body Key is not in cabin Below 1 V
+ground Press engine switch 4.6 to 5.4 V
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+VC5
+B128349E01
+OK

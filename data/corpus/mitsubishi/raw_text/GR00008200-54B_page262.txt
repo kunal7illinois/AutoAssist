@@ -1,0 +1,63 @@
+54B-262 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+ON
+Headlight switch
+OFF
+ON
+Passing/Dimmer
+PASS
+switch
+OFF
+Hibeam
+Front ECU ACK
+Acknowdge
+OTHERS
+ON
+Headlight
+relay (Lo)
+OFF
+ON
+Headlight
+relay (Hi)
+OFF
+ON
+Hi-beam indicator
+light
+OFF
+AC106816AB
+HEADLIGHT AUTOMATIC-SHUTDOWN FUNCTION
+Even if the lighting switch (tail light switch or headlight switch) is
+Ignition switch ON
+ON, the head light (including the tail lights) will automatically go
+(IG1)
+OFF
+off in the following conditions to prevent the battery from dis-
+Driver's door ON
+switch OFF charging as a result of forgetting to turn off lights.
+When the ignition key is turned from "ON" to "LOCK" (OFF) or
+Taillight switch or ON
+"ACC" position with the lighting switch turned ON, and this
+headlight switch OFF
+state continues for three minutes, the light will automatically be
+Illumination ON
+turned off. If the driver’s seat door is opened during these three
+output signal OFF
+minutes, the light will go off one second later.
+T1: 3 minutes T1 T2
+T2: 1 second AC101466AB NOTE: This function can be disabled by the configuration func-
+tion (Refer to P.54B-627.)
+DIMMER AUTOMATIC RESET FUNCTION
+If the headlight switch is turned off while the high-beam head-
+lights are on, the dimmer switch will be reset. Because of this,
+Dimmer ON
+switch the headlights will illuminate at low beam when they are turned
+OFF
+on at next opportunity. The dimmer switch will be also reset if
+Headlight ON the dimmer switch is turned on unintentionally while the pass-
+switch ing switch is operated.
+OFF
+HI
+Headlight LO
+OFF
+AC106399AB
+TSB Revision

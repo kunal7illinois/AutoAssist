@@ -1,0 +1,59 @@
+RS–228
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+4 CHECK WIRE HARNESS (SOURCE VOLTAGE OF CENTER AIRBAG SENSOR ASSEMBLY)
+(a) Disconnect the connectors from the center airbag sensor
+E30 assembly.
+(b) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+(c) Turn the ignition switch on (IG).
+(d) Operate all components of the electrical system
+IG2
+(defogger, wipers, headlight, heater blower, etc.).
+(e) Measure the voltage according to the value(s) in the
+E2 E1 table below.
+Standard voltage
+G027651E43
+Tester Connection Condition Specified Condition
+E30-21 (IG2) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+(f) Turn the ignition switch off.
+(g) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E30-25 (E1) - Body
+Always Below 1 Ω
+ground
+E30-26 (E2) - Body
+Always Below 1 Ω
+ground
+NG REPAIR OR REPLACE WIRE HARNESS
+RS
+OK
+5 CHECK WIRE HARNESS (SOURCE VOLTAGE OF COMBINATION METER)
+(a) Disconnect the negative (-) terminal cable from the
+Combination Meter Assembly Side: battery, and wait for at least 90 seconds.
+(b) Disconnect the F1 connector from the combination meter
+assembly.
+(c) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+(d) Turn the ignition switch on (IG).
+(e) Measure the voltage according to the value(s) in the
+F1
+table below.
+E2 B2
+Standard voltage
+Tester Connection Condition Specified Condition
+B
+F1-1 (B) - Body ground Always 10 to 14 V
+F1-2 (B2) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+ES IG+
+F1-13 (IG+) - Body
+E123360E02 Ignition switch on (IG) 10 to 14 V
+ground
+(f) Turn the ignition switch off.
+(g) Measure the resistance according to the value(s) in the
+table below.

@@ -1,0 +1,73 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Pa‐ Monitor‐ Frequency of
+sage cedure ria and Threshold rameters with ing Time checks, MIL Il‐
+Value Enable Condi‐ Length lum
+tions
+P2097 Post Cata‐ – Check the fuel • Deviation • Lambda con‐ 140 Sec. • 2 DCY
+lyst Fuel pressure. Re‐ lambda control trol, active
+Trim Sys‐ fer to > 3%
+tem Too ⇒ “3.5.2 Fuel • lambda set
+Rich Bank 1 Pump Pres‐ point 1
+sure, Check‐
+• engine load
+ing”,
+16….100%
+page 113
+• Engine
+– Check the speed,
+Oxygen Sen‐ 1120-4000
+sor (O2S) Be‐ RPM
+hind Three
+Way Catalytic • Fuel cutoff
+Converter and catalyst
+(TWC) - heating not
+G130- . Refer active
+to
+• ECT > 50° C
+⇒ “3.5.22 Oxy‐
+gen Sensor • engine load
+after Catalytic changes <
+Converter, 7%
+Checking”,
+page 156 • O2S front,
+ready and
+– Check the heater active
+Three Way
+• O2S rear,
+Catalytic Con‐
+ready and
+verter (TWC).
+heater active
+Refer to
+⇒ “3.5.30 Cat‐ • catalyst gas
+alytic Convert‐ temperature
+er, Checking”, 350 to 8500°
+page 173 . C
+• mass flow 25
+to 150 kg/h
+• 2nd lambda
+control loop
+active
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Pa‐ Monitoring Frequency of
+sage cedure ria and Threshold rameters with En‐ Time checks, MIL
+Value able Conditions Length Illum
+P2101 Throttle Ac‐ – Check the signal range check --- 0.6 Sec. • Continu‐
+tuator Con‐ Throttle Valve • Duty cycle > ous
+trol Motor Control Mod‐ 80%
+Circuit ule -J338- . • 2 DCY
+Range/Per‐ Refer to • ECM power
+formance ⇒ stage no failure
+“3.5.19 Throt‐
+rationality check
+tle Valve Con‐
+• deviation throt‐
+trol Module,
+tle valve angles
+Checking”,
+vs. calculated
+page 149 .
+value > 4 .. 50
+%
+86
+Rep. Gr.ST - Generic Scan Tool

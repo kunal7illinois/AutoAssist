@@ -1,0 +1,44 @@
+ES–250
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0516 Battery Temperature Sensor Circuit Low
+DTC P0517 Battery Temperature Sensor Circuit High
+DESCRIPTION
+Resistance (kΩ)
+6
+5
+ES
+4
+3
+2
+1
+0
+10 20 30 40 50 60
+(50) (68) (86)(104)(122)(140)
+°C (°F)
+A110648E01
+The battery temperature sensor installed on the battery current sensor detects battery temperature.
+A thermistor is integrated into the battery temperature sensor, and the resistance in the battery
+temperature sensor changes according to the battery temperature.
+The resistance of the thermistor in the battery temperature sensor decreases as the battery temperature
+increases. The resistance increases as the temperature decreases.
+The battery temperature sensor is connected to the ECM. The ECM supplies 5 V from the THB terminal to
+the battery temperature sensor through resistor R.
+The battery temperature sensor and resistor R are connected in series. This results in fluctuations in the
+voltage supplied from the THB terminal when the resistance changes according to the battery
+temperature.
+The ECM determines the battery temperature according to fluctuations in voltage. When the battery
+temperature is high, the ECM determines to reduce the amount of current supplied from the generator in
+order to protect the battery.
+DTC No. DTC Detection Condition Trouble Area
+Battery temperature sensor output value is • Battery temperature sensor
+0.2 V or less for 0.5 seconds or more with the • Short in battery temperature sensor
+P0516
+ignition switch ON circuit
+(1 trip detection logic) • ECM
+Battery temperature sensor output value is • Battery temperature sensor
+4.8 V or more for 0.5 seconds or more with • Open in battery temperature sensor
+P0517
+the ignition switch ON circuit
+(1 trip detection logic) • ECM
+WIRING DIAGRAM
+Refer to DTC P1550 (see page ES-262)

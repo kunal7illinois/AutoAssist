@@ -1,0 +1,36 @@
+LI–24
+LIGHTING – LIGHTING SYSTEM
+Measurement Item / Display
+Item Normal Condition Diagnostic Note
+(Range)
+0.8 ms. to 22.0 ms. (Value is
+Illumination rate information / 0
+ILLUMINATE RATE output according to ambient -
+ms. to 99.99 ms.
+illuminance)
+Parking brake switch signal / ON ON: Parking brake switch is ON
+PARKING BRAKE SW -
+or OFF OFF: Parking brake switch is OFF
+2. PERFORM ACTIVE TEST
+HINT:
+Performing the intelligent tester ACTIVE TEST allows a
+relay, VSV, actuator, and other items to be operated
+without removing any parts. Performing the ACTIVE
+TEST early in troubleshooting is one way to save time.
+The DATA LIST can be displayed during the ACTIVE
+TEST.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Perform the ACTIVE TEST according to the display
+on the tester.
+MAIN BODY (MAIN BODY ECU):
+Item Test Details Diagnostic Note
+F FOG LIGHT RLY Front fog light relay ON / OFF -
+HEAD LIGHT Headlight relay ON / OFF -
+HEAD LIGHT (HI) High beam headlights ON / OFF -
+TAIL LIGHT Taillight ON / OFF -
+DIMMER SIG Dimmer signal ON / OFF -
+Interior light and ignition key cylinder light ON
+ILLUMI OUTPUT / OFF (Interior light switch in DOOR position -
+and all doors are closed)
+LI

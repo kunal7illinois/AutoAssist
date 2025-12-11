@@ -1,0 +1,43 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-545
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 8. Check the right bank injector resistance at injector
+intermediate connector B-48.
+(1) Disconnect the injector intermediate connector B-48.
+(2) Measure the resistance between each male connector side
+CONNECTOR:B-48
+terminal.
+a. Measure the resistance between terminal 1 and 2 when
+measuring No. 1 cylinder injector.
+b. Measure the resistance between terminal 1 and 3 when
+measuring No. 3 cylinder injector.
+c. Measure the resistance between terminal 1 and 4 when
+measuring No. 5 cylinder injector.
+• Resistance should be between 13 and 16 ohm [at 20°C
+(68°F)].
+AK000209AC
+Q:Is the resistance normal?
+YES : Go to Step 11.
+INJECTOR
+INTERMEDIATE NO : Go to Step 9.
+CONNECTOR
+1 2
+3 4
+AK000447AB
+STEP 9. Check the right bank injector.
+(1) Remove the intake manifold.
+CONNECTORS : B-01, B-05, B-26
+(2) Disconnect the right bank injector connector, which
+deviates from the standard value at Step 8.
+B-05 B-26
+B-01
+AK000210AB
+(3) Measure the resistance between injector side connector
+INJECTOR SIDE terminal 1 and 2.
+CONNECTOR Standard value: 13 − 16 ohm [at 20°C (68°F)]
+Q:Is the resistance standard value?
+1 2
+YES : Go to Step 10.
+NO : Replace the injector. Then confirm that the
+malfunction symptom is eliminated.
+AK000559AB
+TSB Revision

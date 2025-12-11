@@ -1,0 +1,38 @@
+23A-16 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+NOTE: If a sensor is disconnected when the ignition The 24 <Vehicles without sport mode> or 25 <Vehi-
+switch is in the "ON" position a diagnostic trouble cles with sport mode> diagnostic items are displayed
+code is memorized. In this case, erase the DTC in numeric order.
+using the scan tool.
+HOW TO READ AND ERASE DIAGNOSTIC
+TROUBLE CODES
+.
+Required Special Tools:
+MB991502: Scan Tool (MUT-II)
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+NOTE: If the battery positive voltage is low, diagnostic trouble
+codes will not be output. Check the battery if the scan tool can-
+not display.
+NOTE: If the battery is disconnected or if the powertrain con-
+trol module connector is disconnected, the diagnostic trouble
+codes will be erased. Do not disconnect the battery or power-
+train control module before the diagnostic trouble codes have
+been read.
+1. Connect the scan tool to the data link connector.
+2. Turn the ignition switch to the "ON" position.
+3. Record the diagnostic trouble codes for A/T.
+4. Refer to the Diagnostic Trouble Code Chart.
+5. Turn the ignition switch to the "LOCK" (OFF) and then back
+to "ON" again.
+6. Erase the diagnostic trouble code by selecting DTC erase
+16 PIN
+from SPECIAL MENU screen, using scan tool.
+MB991502 7. Check for diagnostic trouble codes. Confirm the scan tool
+AC001252AB
+displays "normal."
+8. Turn the ignition switch to the "LOCK" (OFF) position.
+9. Disconnect the scan tool.
+TSB Revision

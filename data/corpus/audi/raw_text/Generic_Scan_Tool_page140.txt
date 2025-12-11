@@ -1,0 +1,47 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+– Install the engine cover with air filter. Refer to appropriate
+service manual.
+Final procedures
+After the repair work, the following work steps must be performed
+in the following sequence:
+1 - Check the DTC memory. Refer to
+⇒ “3.3.3 Diagnostic Mode 03 - Read DTC Memory”,
+page 14 .
+2 - If necessary, erase the DTC memory. Refer to
+⇒ “3.3.4 Diagnostic Mode 04 - Erase DTC Memory”,
+page 15 .
+3 - If the DTC memory was erased, generate readiness code.
+Refer to ⇒ “3.2 Readiness Code”, page 8 .
+3.5.13 Leak Detection Pump, Checking
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ EVAP Smoke Machine
+♦ Wiring diagram.
+Test requirements
+• The ignition switched Off.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the right rear wheel housing liner. Refer to the Repair
+Manual.
+– Disconnect the Leak Detection Pump (LDP) -V144- electrical
+harness connector .
+Checking internal resistance
+– Using a multimeter, check the Leak Detection Pump (LDP) -
+V144- for resistance as follows:
+Leak Detection Pump (LDP) -V144- Specified values
+electrical connector terminals
+1 to 2 134 to 153 Ω
+1 to 3 134 to 153 Ω
+If any of the specified values were Not obtained:
+– Replace the Leak Detection Pump (LDP) --V144-- . Refer to
+the Repair Manual.
+If the specified values were obtained:
+Checking voltage supply
+Note
+The voltage for the Leak Detection Pump (LDP) --V144-- is sup‐
+plied via the Fuse SB7.
+136
+Rep. Gr.ST - Generic Scan Tool

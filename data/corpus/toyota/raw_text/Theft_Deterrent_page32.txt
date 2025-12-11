@@ -1,0 +1,36 @@
+TD–32
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/ Smart Key System)
+Ignition Switch Circuit
+DESCRIPTION
+The main body ECU determines the ignition position (OFF, ACC, ON) based on signals from the IG or
+ACC circuit.
+WIRING DIAGRAM
+Main Body ECU
+Instrument Panel J/B
+ACC
+1 ECU-ACC
+5 3
+IA ACC
+22
+3
+2 1
+II
+10
+IF
+IG1
+ECU IG No. 1
+5 3
+ALT IG
+15
+9
+2 1
+II
+6
+AM2
+TD E7 AM1
+22
+E7 ACCD
+3
+FL MAIN E7 IG1D
+Battery
+B139457E01

@@ -1,0 +1,30 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-509
+SYMPTOM PROCEDURES
+STEP 8. Check passenger’s door switch connector D-01
+and ETACS-ECU connector C-118 for damage.
+Q:Are passenger’s door switch connector D-01 and
+CONNECTOR <ECLIPSE>: D-01
+ETACS-ECU connector C-118 in good condition?
+YES : Go to Step 9.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. If the
+functions, which are described in "CIRCUIT
+OPERATION", work normally, the input signal from
+the passenger’s door switch should be normal.
+DEVICE SIDE
+D-01
+1 2 3
+AC106483AD
+CONNECTOR <ECLIPSE SPYDER>: D-01
+DEVICE SIDE
+D-01
+1 2 3
+AC106485AD
+CONNECTOR: C-118
+DEVICE SIDE
+51 52 53545556575859
+60 61 62636465666768
+69 70 71 727374
+JUNCTION BLOCK
+(REAR VIEW) AC106481AD
+TSB Revision

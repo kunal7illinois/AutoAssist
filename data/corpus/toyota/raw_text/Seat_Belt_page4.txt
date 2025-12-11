@@ -1,0 +1,34 @@
+SB–4
+SEAT BELT – SEAT BELT WARNING SYSTEM
+HOW TO PROCEED WITH
+TROUBLESHOOTING
+HINT:
+• Use the following procedures to troubleshoot the seat belt
+warning system.
+• *: Use the intelligent tester.
+1 VEHICLE BROUGHT TO WORKSHOP
+NEXT
+2 INSPECT BATTERY VOLTAGE
+Standard voltage:
+11 to 14 V
+If the voltage is below 11 V, recharge or replace the battery
+before proceeding to the next step.
+NEXT
+3 CHECK COMMUNICATION FUNCTION OF CAN COMMUNICATION SYSTEM (CAN)*
+(a) Use the intelligent tester to check if the CAN
+Communication System (CAN) is functioning normally.
+Result
+Result Proceed to
+SB CAN DTC is not output A
+CAN DTC is output B
+B GO TO CAN COMMUNICATION SYSTEM
+A
+4 PROBLEM SYMPTOMS TABLE
+HINT:
+See page SB-4.
+NEXT
+5 OVERALL ANALYSIS AND TROUBLESHOOTING*
+(a) DATA LIST / ACTIVE TEST (See page SB-7)
+(b) Terminals of ECU (See page SB-4)
+(c) On-vehicle Inspection (See page SB-7)
+NEXT

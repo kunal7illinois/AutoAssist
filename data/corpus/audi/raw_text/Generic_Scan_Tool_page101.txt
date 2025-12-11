@@ -1,0 +1,67 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Pa‐ Monitoring Frequency of
+sage cedure ria and Threshold rameters with En‐ Time checks, MIL
+Value able Conditions Length Illum
+P2279 Intake Air • Check the in‐ • Offset value • Desired mass 2 Sec. • 2 DCY
+System take system throttle mass flow 5 to 21 kg/
+Leak for leaks. flow > 19 kg/h h
+Check oil cap
+for proper seal • correction fac‐ • ECT >-42.8° C
+along with en‐ tor > 0.95
+• EVAP purge
+gine cover
+valve closed
+gaskets or oil
+dipstick not
+seated in
+tube, that may
+allow addition‐
+al air into
+crankcase.
+The PCV sys‐
+tem is not me‐
+tered (no
+valve) so any
+additional air
+entering
+through an
+engine gasket
+will cause an
+increase in
+PCV volume
+drawn into the
+intake mani‐
+fold.
+P2293 Fuel Rail – Check the difference be‐ fuel cut off not ac‐ 3.5 Sec • Continu‐
+Fuel Pressure tween MPa actual tive ous
+Sensor - pressure - target
+G247- . Refer pressure = > 1.3 • 2 DCY
+to <-3 MPa
+⇒ “3.5.5 Fuel
+Pressure Sen‐
+sor, Check‐
+ing”,
+page 119 ..
+P2294 Fuel Rail – Check the signal voltage • valve comman‐ 1 Sec • Continu‐
+Fuel Pressure 2.3 ... 2.7 V ded off ous
+Sensor -
+G247- . Refer • engine relay • 2 DCY
+to commanded
+⇒ “3.5.5 Fuel on
+Pressure Sen‐
+sor, Check‐
+ing”,
+page 119 ..
+P2295 Fuel Rail – Check the signal voltage • valve comman‐ 1 Sec • Continu‐
+Fuel Pressure 1.8 .. 2.2 V ded off ous
+Sensor -
+G247- . Refer • engine relay • 2 DCY
+to commanded
+⇒ “3.5.5 Fuel on
+Pressure Sen‐
+sor, Check‐
+ing”,
+page 119 ..
+97
+3. Diagnosis and Testing

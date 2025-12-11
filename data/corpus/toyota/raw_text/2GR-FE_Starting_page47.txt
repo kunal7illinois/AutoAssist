@@ -1,0 +1,35 @@
+ST–47
+2GR-FE STARTING – SMART KEY SYSTEM
+3 INSPECT RELAY (ACC RELAY)
+(a) Remove the ACC relay from the instrument panel J/B.
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Specified Condition
+3 - 5 10 kΩ or higher
+Below 1 Ω (when battery voltage is applied to
+3 - 5
+terminals 1 and 2)
+A092673 NG REPLACE RELAY
+OK
+4 CHECK WIRE HARNESS (INSTRUMENT PANEL J/B - MAIN BODY ECU)
+(a) Disconnect the E7 ECU connector.
+Wire Harness Side:
+Main Body ECU
+II
+E7
+ACCD
+B138001E02
+(b) Disconnect the II J/B connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Terminal No. (Symbol) Condition Specified Condition
+II-3 - E7-22 (ACCD) Always Below 1 Ω
+E7-22 or II-3 - Body
+Always 10 kΩ or higher
+ground
+ST
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK

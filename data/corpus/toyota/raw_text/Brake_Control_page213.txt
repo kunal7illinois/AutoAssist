@@ -1,0 +1,40 @@
+BC–207
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+3 INSPECT EACH SPEED SENSOR
+(a) Disconnect each speed sensor connector.
+(b) Measure the resistance according to the value(s) in the
+Front Speed Sensor:
+table below.
+Standard resistance:
+RH
+1 Tester Connection Condition Specified Condition
+2
+1.4 to 1.8 kΩ at 20°C
+1 (FR+) - 2 (FR-) Always
+(68 °F)
+1 (FR+) - Body ground Always 10 kΩ or higher
+2 (FR-) - Body ground Always 10 kΩ or higher
+2 (RR+) - 1 (RR-) Always 0.9 to 2.1 kΩ
+2 (RR+) - Body ground Always 10 kΩ or higher
+1 (RR-) - Body ground Always 10 kΩ or higher
+Rear Speed Sensor:
+LH BC
+Tester Connection Condition Specified Condition
+1.4 to 1.8 kΩ at 20°C
+1 (FL+) - 2 (FL-) Always
+(68 °F)
+1 (FL+) - Body ground Always 10 kΩ or higher
+1 2 (FL-) - Body ground Always 10 kΩ or higher
+2 (RL+) - 1 (RL-) Always 0.9 to 2.1 kΩ
+2
+2 (RL+) - Body ground Always 10 kΩ or higher
+1 (RL-) - Body ground Always 10 kΩ or higher
+C136027E01
+Result
+Result Proceed to
+OK (for rear) A
+OK (for front) B
+NG C
+B Go to step 5
+C REPLACE EACH SPEED SENSOR
+A

@@ -1,0 +1,28 @@
+13B-470 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR : B-39 CONNECTOR:C-78
+AK101597AB AK000312AG
+CONNECTOR:C-87 CONNECTOR:C-28
+AK000219AC AK000733AC
+CONNECTOR:C-62 CONNECTOR : B-36
+ECM
+C-62
+AK000310AC AK101597AC
+CONNECTOR: C-112 CONNECTOR: C-111
+AK101422AD AK101421AD
+. TECHNICAL DESCRIPTION
+CIRCUIT OPERATION
+• A 5-volt voltage is applied to the vehicle speed • The vehicle speed sensor converts the vehicle
+speed into pulse signals and inputs them to the
+sensor output terminal (terminal 3) from the ECM
+ECM.
+(terminal 80). The vehicle speed sensor gener-
+• The vehicle speed sensor outputs a pulse signal
+ates a pulse signal when the output terminal is
+while the vehicle is driven.
+opened and grounded.
+• The ECM checks whether the pulse signal is out-
+put.
+.
+.
+TSB Revision

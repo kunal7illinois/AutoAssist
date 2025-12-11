@@ -1,0 +1,47 @@
+ES–260
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+• Following the A/F CONTROL procedure enables technicians to check and graph the output voltages of
+both the A/F and HO2 sensors.
+• To display the graph, enter the following menus on the tester: DIAGNOSIS / ENHANCED OBD II /
+ACTIVE TEST / A/F CONTROL / USER DATA / AFS B1 S1 and O2S B1 S2 or AFS B2 S1 and O2S B2
+S2, and press the YES button and then the ENTER button followed by the F4 button.
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).
+ES
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P0420 AND/OR P0430)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DTC INFO / CURRENT CODES.
+(d) Read the DTCs.
+Result
+Display (DTC output) Proceed to
+P0420 and/or P0430 A
+P0420 and/or P0430 and other DTCs B
+HINT:
+If any DTCs other than P0420 or P0430 are output,
+troubleshoot those DTCs first.
+B GO TO DTC CHART (See page ES-63)
+A
+2 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (A/F CONTROL)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine and turn the tester on.
+(c) Warm up the engine at a engine speed of 2,500 rpm for
+approximately 90 seconds.
+(d) On the tester, enter the following menus: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST / A/F CONTROL.
+(e) Perform the A/F CONTROL operation with the engine in
+an idling condition (press the RIGHT or LEFT button to
+change the fuel injection volume.)
+(f) Monitor the output voltages of the A/F and HO2 sensors
+(AFS B1 S1 and O2S B1 S2 or AFS B2 S1 and O2S B2
+S2) displayed on the tester.
+HINT:
+• The A/F CONTROL operation lowers the fuel injection
+volume by 12.5 % or increases the injection volume
+by 25 %.

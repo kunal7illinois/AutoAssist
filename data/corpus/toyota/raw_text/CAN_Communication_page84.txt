@@ -1,0 +1,46 @@
+CA–84
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+HINT:
+• The connectors connected to the No. 1 CAN J/C
+can be distinguished according to the color of the
+communication bus wires and the shape of the
+connectors.
+• Reconnecting the connectors to non-specified
+positions on the No. 1 CAN J/C does not affect
+system operation. However, it is preferred to
+reconnect the connectors to their specified
+positions to avoid negative effects on the wiring
+such as tension on the wiring harnesses, and to
+make future maintenance easier.
+B Go to step 15
+A
+4 CHECK FOR SHORT IN CAN BUS WIRES (COMBINATION METER MAIN BUS WIRE)
+(a) Disconnect the combination meter main bus wire white
+CA No. 1 CAN “B” J/C Side (without
+connector (E43) from the No. 1 CAN J/C "B" side
+Earth Terminal) Wire Harness Side
+(without earth terminal).
+NOTICE:
+• Before disconnecting the connector, make a note
+E43 CANH
+of where it is connected.
+• Reconnect the connector to its original position.
+CANL
+C133231E01
+(b) Measure the resistance according to the value(s) in the
+E10
+DLC3: table below.
+CANH
+Standard resistance
+Tester Connection Condition Specified Value
+E10-6 (CANH) - E10-14
+Ignition switch off 108 to 132 Ω
+(CANL)
+NG REPLACE NO. 1 CAN J/C
+CANL
+C126231E11
+OK
+5 RECONNECT CONNECTOR
+(a) Reconnect the combination meter main bus wire
+connector (E43) to the No. 1 CAN J/C "B" side (without
+earth terminal).

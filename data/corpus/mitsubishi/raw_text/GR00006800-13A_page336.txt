@@ -1,0 +1,38 @@
+13A-336 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check the output circuit voltage at intermediate
+connector D-16.
+(1) Remove the rear seat cushion. (Refer to GROUP 52, Rear
+Seat P.52A-20.)
+(2) Remove the protector.
+(3) Disconnect intermediate connector D-16.
+(4) Use special tools (MB991658 and MB991709) to connect
+MB991709
+terminals 5, 6 and 8 between connectors of the
+MB991658
+intermediate connector respectively.
+(5) Turn the ignition switch to the "ON" position.
+(6) Remove the fuel cap.
+(7) Measure the voltage between terminal 5 and ground.
+• Voltage should be between 2.0 and 3.0 volts.
+(8) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+AC002079AB YES : Remove the special tools and connect intermediate
+connector D-16. Then go to Step 3 .
+NO : Go to Step 6.
+STEP 3. Check the output circuit voltage at ECM connector
+C-57 <M/T> or PCM connector C-57 <A/T> by backprobing.
+(1) Do not disconnect the ECM connector C-56 <M/T> or PCM
+connector C-57 <A/T>.
+(2) Turn the ignition switch to the "ON" position.
+(3) Remove the fuel cap.
+(4) Measure the voltage between terminal 61 <M/T> or terminal
+HARNESS SIDE 92 <A/T> and ground by backprobing.
+CONNECTOR • Voltage should be between 2.0 and 3.0 volts.
+<M/T> C-56 (5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 21.
+<A/T> C-57
+NO : Go to Step 4.
+AC002551AC
+TSB Revision

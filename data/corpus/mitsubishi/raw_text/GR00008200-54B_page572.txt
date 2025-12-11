@@ -1,0 +1,40 @@
+54B-572 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 5. Check the wiring harness between rear wiper
+motor connector F-07 (terminal 1) and the ignition switch
+(ACC).
+NOTE: Also check intermediate connector F-24 and junction
+CONNECTOR <ECLIOSE>: F-07
+block connectors C-101 and C-111. If intermediate connector F-
+24 or junction block connector C-101 or C-111 is damaged,
+repair or replace the connector as described in GROUP 00E,
+1 2 3
+Harness Connector Inspection P.00E-2.
+DEVICE SIDE
+AC106489AH
+Q:Is the wiring harness between rear wiper motor
+CONNECTOR <ECLIPSE>: F-24
+connector F-07 (terminal 1) and the ignition switch
+(ACC) in good condition?
+F-24
+YES : No action to be taken.
+1 2
+NO : Repair the wiring harness. If the rear wiper operates
+3 4 5 6
+normally, it indicates that a correct auto-stop signal is
+sent from the rear wiper motor.
+AC106489AT
+CONNECTORS: C-101, C-111
+JUNCTION BLOCK
+(FRONT VIEW)
+C-101
+C-111
+DEVICE SIDE
+C-101
+1 2 3 4 5 6 7
+8 91011 12 131415
+C-111
+1 2
+3 4 5 6
+AC106480AC
+TSB Revision

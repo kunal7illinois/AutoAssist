@@ -1,0 +1,53 @@
+IN–53
+INTRODUCTION – HOW TO TROUBLESHOOT ECU CONTROLLED SYSTEMS
+HINT:
+If the vehicle has or had a water leakage
+problem, the leakage may have damaged the
+ECU or connections. Look for evidence of
+corrosion or short circuits. Proceed with caution
+during water tests.
+IN
+(d) HIGH ELECTRICAL LOAD METHOD: When a
+malfunction seems to occur when an electrical load
+is excessive.
+(1) Turn on the heater blower, headlight, rear
+window defogger and all other electrical loads.
+AUTO Check if the malfunction reoccurs.
+5. DIAGNOSTIC TROUBLE CODE CHART
+Look for output Diagnostic Trouble Codes (DTCs) (from the
+DTC checks) in the appropriate section's Diagnostic Trouble
+B107149 Code Chart. Use the chart to determine the trouble area and
+the proper inspection procedure. A description of each of the
+chart's columns is shown in the table below.
+Item Description
+DTC No. Indicates the diagnostic trouble code
+Detection Item Indicates the system or details of the problem
+Trouble Area Indicates the suspected areas of the problem
+See Page Indicates the page where the inspection procedures for each circuit is
+to be found, or gives instruction for checking and repairs.
+6. PROBLEM SYMPTOMS TABLE
+When a "Normal" code is output during a DTC check but
+the problem still occurs, use the Problem Symptoms
+Table. The suspected areas (circuits or parts) for each
+problem symptoms are in the table. The suspected areas
+are listed in order of probability. A description of each of
+the chart's columns is shown in the table below.
+HINT:
+In some cases, the problem is not detected by the
+diagnostic system even though a problem symptom
+occurs. It is possible that the problem occurs outside the
+detection range of the diagnostic system, or that the
+problem occurs in a completely different system.
+Item Description
+Problem Symptom -
+Circuit Inspection, Inspection Order Indicates the order in which the circuits need to be checked
+Circuit or Part Name Indicates the circuit or part which needs to be checked
+See Page Indicates the page where the flowchart for each circuit is located
+7. CIRCUIT INSPECTION
+A description of the main areas of each circuit inspection
+is shown in the table below.
+Item Description
+Circuit Description The major role, operation of the circuit and its component parts are
+explained.
+Diagnostic Trouble Code No. and Detection Item Indicates the diagnostic trouble codes, diagnostic trouble code
+settings and suspected areas for a problem

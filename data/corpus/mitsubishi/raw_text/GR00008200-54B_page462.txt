@@ -1,0 +1,40 @@
+54B-462 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 19. Check the wiring harness between horn relay
+connector A-05X (terminal 3) and ETACS-ECU connector
+C-117 (terminal 44).
+NOTE: Also check intermediate connector C-89. If intermediate
+CONNECTOR: A-05X
+connector C-89 is damaged, repair or replace the connector as
+described in GROUP 00E, Harness Connector Inspection
+FRONT-ECU P.00E-2.
+DEVICE SIDE
+A-05X
+1 2
+X
+3 4
+AC106537AH
+CONNECTOR: C-117
+DEVICE SIDE
+21 22 23242526272829
+30 31 32333435363738
+39 40 41 424344
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AB
+Q:Is the wiring harness between horn relay connector A-
+CONNECTOR: C-89
+05X (terminal 3) and ETACS-ECU connector C-117
+CONNECTOR BLOCK (LH)
+(terminal 44) in good condition?
+YES : Replace the ETACS-ECU. All the vehicle horn
+(including the theft-alarm horn) should sound when
+the theft-alarm system is triggered.
+NO : Repair the wiring harness. All the vehicle horn
+1 2 3 4 5 6 7 8 910 111213
+(including the theft-alarm horn) should sound when
+141516171819202122232425
+262728 29 30 31 38 the theft-alarm system is triggered.
+3233 34 35 36 37
+AC106477AC
+TSB Revision

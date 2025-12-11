@@ -1,0 +1,35 @@
+13A-232 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS:C-60<M/T>,C-57<A/T>
+KNOCK SENSOR
+ECM<M/T>
+OR
+PCM<A/T>
+C-60
+C-57
+ACX02470AG AK000280BE
+CONNECTOR: B-35
+AK103530AB
+. • Engine speed is higher than 2,500 r/min.
+CIRCUIT OPERATION
+• The knock sensor sends a signal voltage to the Judgment Criteria
+ECM (terminal 78) <M/T> or PCM (terminal 90) • Knock sensor output voltage (knock sensor peak
+<A/T>. voltage in each 1/2 turn of the crankshaft) has not
+changed more than 0.06 volt in the last consecu-
+. TECHNICAL DESCRIPTION tive 200 periods.
+• The knock sensor converts the vibration of the
+.
+cylinder block into a voltage and outputs it. If TROUBLESHOOTING HINTS (The most likely
+there is a malfunction of the knock sensor, the causes for this code to be set are: )
+voltage output will not change. • Knock sensor failed.
+• The ECM <M/T> or PCM <A/T> checks whether • Open or shorted knock sensor circuit, or loose
+the voltage output changes. connector.
+• ECM <M/T> failed.
+. DTC SET CONDITIONS • PCM <A/T> failed.
+Check Conditions
+• 2 seconds or more have passed since the start-
+ing sequence was completed.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

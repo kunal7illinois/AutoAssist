@@ -1,0 +1,41 @@
+ES–231
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0500 Vehicle Speed Sensor "A"
+DESCRIPTION
+The speed sensor detects the wheel speed and sends the appropriate signals to the skid control ECU.
+The skid control ECU converts these wheel speed signals into a 4-pulse signal and outputs it to the ECM
+via the combination meter. The ECM determines the vehicle speed based on the frequency of these pulse
+signals.
+4-Pulse 4-Pulse
+ES
+From Wheel
+Speed Sensor
+ECM
+Skid Control ECU Combination Meter
+A115899E01
+DTC No. DTC Detection Conditions Trouble Areas
+• Open or short in speed signal circuit
+While vehicle being driven, no vehicle speed sensor signal • Vehicle speed sensor
+P0500 transmitted to ECM • Combination meter
+(1 trip detection logic) • ECM
+• Skid control ECU
+MONITOR DESCRIPTION
+The ECM assumes that the vehicle is being driven, when the indicated engine speed is more than 2,300
+rpm and 30 seconds have elapsed since the Park/Neutral Position (PNP) switch was turned OFF. If there
+is no speed signal from the combination meter, despite these conditions being met, the ECM interprets
+this as a malfunction in the speed signal circuit. The ECM then illuminates the MIL and sets the DTC.
+MONITOR STRATEGY
+Related DTCs P0500: Vehicle speed sensor "A" pulse input error
+Vehicle Speed Sensor (VSS), Combination meter and Skid control
+Required Sensors/Components (Main)
+ECU
+Park/Neutral Position (PNP) switch, Engine Coolant Temperature
+Required Sensors/Components (Related) (ECT) sensor, Crankshaft Position (CKP) sensor, Throttle Position
+(TP) sensor and Mass Air Flow (MAF) meter
+Frequency of Operation Continuous
+Duration 2 seconds
+MIL Operation Immediate
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs not present P0120 - P0223, P2135 (TP sensor)
+Either of following conditions (a) or (b) met: -

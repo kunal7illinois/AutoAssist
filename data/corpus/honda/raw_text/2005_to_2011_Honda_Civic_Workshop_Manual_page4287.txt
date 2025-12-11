@@ -1,0 +1,37 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+offset position
+-23 Steering angle OFF OFF ON ON
+sensor counter
+malfunction
+-24 Steering angle OFF OFF ON ON
+sensor
+exchange
+malfunction
+-26 Steering angle OFF OFF ON ON
+sensor DIAG
+signal error
+(main)
+31 -01 ABS right- ON ON ON ON
+front inlet
+solenoid valve
+malfunction
+(solenoid
+initial pulse)
+-21 ABS right- ON ON ON ON
+front inlet
+solenoid valve
+malfunction
+(solenoid
+pulse)
+-22 ABS right- ON ON ON ON
+front inlet
+solenoid valve
+malfunction
+(solenoid
+speculative)
+-23 ABS right- ON ON ON ON
+front inlet
+solenoid valve
+malfunction

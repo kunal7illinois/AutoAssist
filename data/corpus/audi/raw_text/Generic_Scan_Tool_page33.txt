@@ -1,0 +1,67 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P0014 Exhaust – Check the • adjustment an‐ • Engine speed, 5 Sec. • Continu‐
+Camshaft Camshaft Ad‐ gle difference > >550 RPM ous
+Position Ac‐ justment 3° CA
+tuator Cir‐ Valve 1 (ex‐ • ECT > - 7.5 °C • 2 DCY
+cuit stuck haust) -
+• Time after engine
+check Bank N318- . Refer
+start > 3.5 Sec.
+1 to
+⇒ • number of
+“3.5.39 Cam‐ checks@normal
+shaft Adjust‐ operation 3
+ment Valve 1,
+Exhaust”, • time length for
+page 188 more than 1.5 Sec
+P0016 Camshaft – Check the adaptive vs. target --- 2 Sec. • 2 DCY
+Position Camshaft Po‐ values > 20° CA
+Sensor An‐ sition (CMP)
+gular Offset Sensor -
+Check G40- . Refer
+to
+⇒
+“3.5.36 Cam‐
+shaft Position
+Sensor,
+Checking”,
+page 182
+P0017 Camshaft – Check the adaptive vs. target --- 2 Sec • multiple
+Position Camshaft Po‐ values > 20° CA
+Sensor An‐ sition (CMP) • 2 DCY
+gular Offset Sensor 3 -
+Check G300- . Refer
+to
+⇒
+“3.5.37 Cam‐
+shaft Position
+Sensor 3,
+Checking”,
+page 184
+P025 Fuel Pump – Check the fuel Signal voltage > --- 0.7 Sec • Continu‐
+A Open circuit pump. Refer 4.40...5.60 V ous
+to
+⇒ “3.5.4 Fuel • 2 DCY
+Pump Electri‐
+cal, Testing”,
+page 116 .
+P025 Fuel Pump – Check the fuel Signal voltage< • Engine speed, > 0.7 Sec • Continu‐
+C Short to pump. Refer 2.15...3.25 V 80 RPM ous
+ground to
+⇒ “3.5.4 Fuel • 2 DCY
+Pump Electri‐
+cal, Testing”,
+page 116 .
+P025 Fuel Pump – Check the fuel Signal current > • Engine speed, > 0.7 Sec • Continu‐
+D Short to B+ pump. Refer 1.10 A 80 RPM ous
+to
+⇒ “3.5.4 Fuel • 2 DCY
+Pump Electri‐
+cal, Testing”,
+page 116 .
+29
+3. Diagnosis and Testing

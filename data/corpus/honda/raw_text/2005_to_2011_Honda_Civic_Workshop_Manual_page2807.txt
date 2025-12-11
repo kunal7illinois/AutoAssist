@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Gauges - Civic (All Except Hybrid)
+1. Clear the DTCs with the HDS.
+2. Turn the ignition switch OFF, and then back ON (II).
+3. Wait for 6 seconds or more.
+4. Check for DTCs with the HDS.
+Is DTC B1152 indicated?
+YES - Replace the gauge control module (tach).
+NO - Intermittent failure, the system is OK at this time. Check for loose or
+poor connections. If the connections are good, check the battery condition (see
+BATTERY TEST ), and the charging system.
+DTC B1155: GAUGE CONTROL MODULE LOST COMMUNICATION WITH THE MICU
+(HEADLIGHT SWITCH MESSAGE); DTC B1156: GAUGE CONTROL MODULE LOST
+COMMUNICATION WITH THE MICU (WIPER SWITCH MESSAGE); DTC B1159: GAUGE
+CONTROL MODULE LOST COMMUNICATION WITH THE MICU (DOOR SW MESSAGE); DTC
+B1188: GAUGE CONTROL MODULE LOST COMMUNICATION WITH THE MICU (RM
+MESSAGE)
+NOTE: If you are troubleshooting multiple DTCs, be sure to follow
+the instructions in B-CAN System Diagnosis Test Mode A
+(see TROUBLESHOOTING - B-CAN SYSTEM DIAGNOSIS
+TEST MODE A ).
+1. Clear the DTCs with the HDS.
+2. Turn the ignition switch OFF, and then back ON (II).
+3. Check for DTCs with the HDS.
+Are DTCs B1155, B1156, B1157, B1159, B1160, and/or B1188 indicated?
+YES - Go to step 4.
+NO - Intermittent failure. The gauge control module is OK at this time. Check
+for loose or poor connections. If the connections are good, check the battery
+condition (see BATTERY TEST ), and the charging system.
+4. Check for DTCs with the HDS.

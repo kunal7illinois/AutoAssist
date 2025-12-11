@@ -1,0 +1,40 @@
+ES–360
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Test Results Suspected Trouble Areas Proceed To
+• Fuel cap improperly installed
+Fuel cap loose • Defective fuel cap B
+• Fuel cap does not meet OEM specifications
+Defective fuel cap - B
+No fuel cap - C
+(c) Reinstall the fuel cap.
+A Go to step 28
+B Go to step 26
+C Go to step 27
+ES
+14 INSPECT DUTY VACUUM SWITCHING VALVE (PURGE VSV)
+(a) Turn the ignition switch OFF.
+(b) Disconnect the B2 purge VSV connector.
+(c) Disconnect the hose (connected to the canister) from the
+purge VSV.
+(d) Start the engine.
+(e) Use your finger to confirm that the purge VSV has no
+suction.
+Purge VSV
+Hose (to Canister)
+A125627E01
+Result
+Test Results Suspected Trouble Areas Proceed To
+No suction ECM A
+Suction applied Purge VSV B
+(f) Reconnect the purge VSV connector.
+(g) Reconnect the hose.
+A Go to step 34
+B Go to step 30
+15 CHECK EVAP HOSE (PURGE VSV - INTAKE MANIFOLD)
+(a) Disconnect the hose (connected to the intake manifold)
+from the purge VSV.
+(b) Start the engine.
+(c) Use your finger to confirm that the hose has suction.
+Purge VSV Hose (to Intake
+Manifold)
+A125624E01

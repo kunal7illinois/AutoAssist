@@ -1,0 +1,44 @@
+AC–66
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+Result
+Result Proceed to
+CAN DTC is not output A
+CAN DTC is output B
+B GO TO CAN COMMUNICATION SYSTEM
+A
+2 INSPECT AIR CONDITIONING AMPLIFIER
+(a) Remove the A/C amplifier with the connectors still
+Air Conditioning Amplifier
+connected.
+Connector Wire Harness View:
+E38
+SG-2 LOCK
+AC
+E124471E03
+(b) Measure the waveform of the connector.
+200 mV/DIV.
+Item Contents
+Tool setting 200 mV/DIV., 10 ms./DIV.
+Engine is running
+GND
+Vehicle condition A/C switch: ON
+Blower switch: LO
+Standard
+10 ms./DIV. Tester Connection
+Condition Specified Condition
+E116941E03 (Symbols)
+Engine is running
+E38-8 (LOCK) - E38-13
+A/C switch: ON Pulse generation
+(SG-2)
+Blower switch: LO
+Result
+Result Proceed to
+NG A
+OK (When troubleshooting according to the
+B
+PROBLEM SYMPTOMS TABLE)
+OK (When troubleshooting according to the DTC) C
+B PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+C REPLACE AIR CONDITIONING AMPLIFIER

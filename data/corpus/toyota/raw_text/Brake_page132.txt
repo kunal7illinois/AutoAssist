@@ -1,0 +1,54 @@
+BC–126
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+(6) Check that the VSC warning light blinks (models
+TEST MODE
+without multi information display) or "CHECK
+VSC SYSTEM" is displayed on the multi
+Blinking Pattern:
+information display (models with multi
+information display) (Test Mode).
+0.13 sec. 0.13 sec. HINT:
+ON • The SLIP indicator light remains on during
+Test Mode because TRAC is prohibited.
+• If the VSC warning light does not blink
+OFF
+(models without multi information display) or
+"CHECK VSC SYSTEM" is not displayed on
+the multi information display (models with
+Display:
+multi information display), perform zero point
+calibration again.
+• The zero point calibration is performed only
+once after the system enters the Test Mode.
+• Calibration cannot be performed again until
+the stored data is cleared.
+BC (7) Turn the ignition switch off and disconnect the
+SST from the DLC3.
+C135802E01
+TEST MODE PROCEDURE
+ABS Warning BRAKE Warning 1. WARNING LIGHT AND INDICATOR LIGHT INITIAL
+Light: Light: CHECK
+(a) Release the parking brake.
+NOTICE:
+Before releasing the parking brake, move the
+shift lever to the P position for safety (A/T) or set
+the chocks to hold the vehicle for safety (M/T).
+HINT:
+When the parking brake is applied or the level of the
+VSC Warning SLIP Indicator brake fluid is low, the BRAKE warning light comes
+Light (*1): Light: on.
+(b) When the ignition switch is turned on (IG), check
+that the ABS warning, BRAKE warning, SLIP
+indicator, and master caution indicator lights come
+on for approximately 3 seconds. Vehicles equipped
+with VSC, which are not equipped with a multi
+information display, the VSC warning light will
+illuminate instead of the master caution indicator
+Master Caution Indicator Light:
+light.
+HINT:
+If the ECU stores a DTC, the ABS warning, BRAKE
+warning, VSC warning and SLIP indicator lights will
+come on.
+(*1): Models without Multi Information Display
+C140885E01

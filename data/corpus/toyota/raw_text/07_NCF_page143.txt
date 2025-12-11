@@ -1,0 +1,35 @@
+EG-116 ENGINE - 2GR-FE ENGINE
+(cid:1) Sensor Output Waveforms (cid:2)
+VVT Sensor Signal Plate (720(cid:4) CA)
+60(cid:4) CA 180(cid:4) CA 120(cid:4) CA
+VVT
+Sensor
+180(cid:4) CA 60(cid:4) CA 120(cid:4) CA
+0 V
+360(cid:4) CA 360(cid:4) CA
+Crankshaft
+Position
+Sensor
+0 V
+10(cid:4) CA
+285EG84
+2) MRE Type VVT Sensor
+(cid:3) The MRE type VVT sensor consists of an MRE, a magnet and a sensor. The direction of the magnetic
+field changes due to the different shapes (protruded and non-protruded portions) of the timing rotor,
+which passes by the sensor. As a result, the resistance of the MRE changes, and the output voltage to
+the ECM changes to Hi or Lo. The ECM detects the camshaft position based on this output voltage.
+(cid:3) The differences between the MRE type VVT sensor and the pickup coil type VVT sensor used on the
+conventional model are as follows.
+Sensor Type
+IItteemm
+MRE Pick-up Coil
+Constant digital output starts from Analog output changes with the
+Signal Output
+low engine speeds. engine speed.
+Detection is made by comparing
+the NE signals with the Hi/Lo Detection is made by comparing
+output switch timing due to the the NE signals with the change of
+Camshaft Position Detection protruded/non-protruded portions waveform that is output when the
+of the timing rotor, or made based protruded portion of the timing
+on the number of the input NE rotor passes.
+signals during Hi/Lo outputs.

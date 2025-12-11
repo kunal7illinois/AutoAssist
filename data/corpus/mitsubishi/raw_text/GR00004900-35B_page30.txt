@@ -1,0 +1,25 @@
+35B-30 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+Q:Is the harness wire between the ignition switch (IG2)
+CONNECTOR: A-02
+and the ABS-ECU connector A-02 (terminal 15)
+damaged?
+YES : Repair it and go to Step 5.
+NO : Go to Step 3.
+HARNESS SIDE
+AC001985AF
+STEP 3. Check the harness wires between the ABS-ECU
+connector A-02 (terminals 11 and 12) and the data link
+connector C-29 (terminals 1 and 7).
+NOTE: After inspecting the intermediate connectors C-77 and
+CONNECTOR: C-77
+C-94, inspect the wires. If the intermediate connector C-77 or
+C-94 is damaged, repair or replace it. Refer to GROUP 00E,
+Harness Connector Inspection P.00E-2. If the connector has
+been repaired or replaced, go to Step 5.
+COMBINATION
+METER
+AC004427AB
+CONNECTOR: C-94
+AC004410AD
+TSB Revision

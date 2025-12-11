@@ -1,0 +1,26 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+Fig. 57: Measuring Resistance Between Motor Angle Sensor 6P Connector
+Terminals No. 2 And No. 5
+Is the resistance between 13-25 ohms?
+YES -Open, or short to body ground in the wire harness between the motor
+angle sensor 6P connector and EPS control unit.
+NO -Faulty motor angle sensor (internal failure), or short to body ground in the
+wire (sensor side), replace the motor (see MOTOR REMOVAL AND
+INSTALLATION ).
+SYMPTOM TROUBLESHOOTING
+EPS INDICATOR DOES NOT COME ON
+1. Turn the ignition switch ON (II), and watch the EPS indicator.
+Does the EPS indicator come on?
+YES -The system is OK at this time.
+NO -Troubleshoot the gauge control module (tach) (see SELF-DIAGNOSTIC
+FUNCTION ).
+EPS INDICATOR DOES NOT GO OFF, AND NO DTCS ARE STORED
+1. Turn the ignition switch to LOCK (0).
+2. Connect the HDS to the data link connector (DLC).
+3. Turn the ignition switch ON (II).
+4. Check for DTCs with the HDS.
+Are any DTCs indicated?
+YES -Troubleshooting the indicated DTC.
+NO -Go to step 5.

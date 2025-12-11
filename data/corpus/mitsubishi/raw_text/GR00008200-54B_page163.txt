@@ -1,0 +1,42 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-163
+SYMPTOM PROCEDURES
+STEP 5. Check the hazard warning light.
+Q: Do the hazard warning lights work normally?
+YES : Replace the ETACS-ECU. Check that the
+answerback functions work normally.
+NO : Refer to Inspection Procedure K-2 "Hazard warning
+lights do not flash when the hazard warning light
+switch is turned on P.54B-352."
+STEP 6. Check the theft-alarm system (horn).
+Q:Does the theft-alarm system work normally?
+YES : Replace the ETACS-ECU. Check that the
+answerback functions work normally.
+NO : Refer to Inspection Procedure N-2 "Tone alarm does
+not sound when the theft-alarm system is triggered
+P.54B-449."
+INSPECTION PROCEDURE E-3: Keyless Entry System: Encrypted Code cannot be Registered
+Encrypted Transmitter Code Circuit
+. If the encrypted code register mode can be set but
+CIRCUIT OPERATION
+the transmitter can not be registered, the transmitter
+The ETACS-ECU operates the encrypted code regis-
+or the ETACS-ECU may be defective.
+ter mode according to the following signals:
+• Key reminder switch
+.
+• Hazard warning light switch TROUBLESHOOTING HINTS
+• Malfunction of the key reminder switch
+. • Malfunction of the hazard warning light switch
+TECHNICAL DESCRIPTION (COMMENT)
+• Malfunction of the transmitter
+Is the encrypted code register mode can not be set,
+• Malfunction of the ETACS-ECU
+the input circuits from the switches described in
+• Damaged harness wires or connectors
+"CIRCUIT OPERATION" or the ETACS-ECU may be
+defective.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

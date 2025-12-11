@@ -1,0 +1,27 @@
+Audi TT 2007 ➤
+4-cylinder direct petrol injection engine (2.0 ltr. 4-valve turbo), mechanics - Edition 11.2006
+Note
+Functional check and servicing the visual and acoustic oil pres‐
+sure warning: Current flow diagrams, ⇒ Vehicle diagnosis, testing
+and information system VAS 5051; “Function and component se‐
+lection” .
+Test sequence
+• Tightening torques ⇒ page 132
+– Remove the oil pressure switch -F1- -A- and screw it onto
+tester.
+– Screw tester into oil filter bracket in place of the oil pressure
+switch.
+– Connect brown wire of tester to earth (-).
+– Connect voltage tester -V.A.G 1527 B- with adapter leads from
+auxiliary measuring set -V.A.G 1594 C- to battery positive (+)
+and oil pressure switch -F1- -B-. LED must not light up.
+– If the LED lights up, renew 1.4 bar oil pressure switch.
+If the LED does not light up:
+– Start engine and run at increased speed: at 1.2 ... 1.6 bar
+pressure the LED should light up, otherwise renew oil pressure
+switch -F1- .
+– Increase engine speed further. At 2,000 rpm and an oil tem‐
+perature of 80 °C the oil pressure should be between 2.7 ... 4.5
+bar.
+142
+Rep. Gr.17 - Lubrication

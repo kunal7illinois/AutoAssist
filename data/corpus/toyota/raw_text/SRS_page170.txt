@@ -1,0 +1,53 @@
+RS–170
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+1 CHECK FRONT PASSENGER AIRBAG ASSEMBLY (FRONT PASSENGER SIDE SQUIB)
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Disconnect the connectors from the front passenger
+F E DC airbag assembly.
+(d) Connect the white wire side of SST (resistance 2.1 Ω) to
+connector E (orange connector).
+Front Passenger Center Airbag CAUTION:
+Side Squib Sensor Assembly
+Never connect the tester to the front passenger
+airbag assembly (front passenger side squib) for
+measurement, as this may lead to a serious injury
+Connector E
+due to airbag deployment.
+NOTICE:
+• Do not forcibly insert the SST into the terminals of
+c2 SST the connector when connecting.
+• Insert straight the SST into the terminals of the
+Color: Orange connector.
+SST 09843-18060
+(e) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+DLC3 DTC 52 (f) Turn the ignition switch on (IG), and wait for at least 60
+seconds.
+(g) Clear the DTCs stored in the memory (See page RS-41).
+(h) Turn the ignition switch off.
+(i) Turn the ignition switch on (IG), and wait for at least 60
+CG TC
+RS
+seconds.
+C
+C114809E05 (j) Check the DTCs (See page RS-41).
+OK:
+DTC B1805, B1806, B1807, B1808, or 52 is not
+output.
+HINT:
+Codes other than DTC B1805, B1806, B1807, B1808,
+and 52 may be output at this time, but they are not
+related to this check.
+OK REPLACE FRONT PASSENGER AIRBAG
+ASSEMBLY (See page RS-392)
+NG
+2 CHECK CONNECTOR
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Disconnect the SST from connector E.
+(d) Check that the instrument panel wire assembly
+connectors (on the front passenger airbag assembly
+side) are not damaged.

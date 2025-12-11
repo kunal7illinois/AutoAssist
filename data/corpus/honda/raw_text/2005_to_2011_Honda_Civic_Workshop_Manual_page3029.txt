@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 HVAC Heating/Air Conditioning - Civic (All Except Hybrid)
+YES - Repair the short in the wires.
+NO - Go to step 12.
+12. Turn the ignition switch ON (II), and check the same terminals for voltage to
+body ground. See Fig. 21.
+Is there any voltage?
+YES -Repair any short to power in the wires between the HVAC control panel
+and the mode control motor. This short may also damage the HVAC control
+panel. Repair the short to power before replacing the HVAC control panel.
+NO -Check for loose wires or poor connections at the HVAC control panel 24P
+connector and at the mode control motor 7P connector. If the connections are
+good, substitute a known-good HVAC control panel, and recheck. If the
+symptom/indication goes away, replace the original HVAC control panel.
+DTC INDICATOR 5: A PROBLEM IN THE MODE CONTROL LINKAGE, DOORS, OR MOTOR
+1. Clear the DTC (see CLEAR THE DTCS ).
+2. Turn the ignition switch to LOCK (0), and then ON (II).
+3. Do the self-diagnostic with the HVAC control unit (see HOW TO USE THE
+SELF-DIAGNOSTIC FUNCTION ).
+4. Check for DTCs.
+Is DTC 5 indicated?
+YES - Go to step 5.
+NO - Intermittent failure.
+5. Turn the ignition switch to LOCK (0).
+6. Test the mode control motor (see MODE CONTROL MOTOR TEST ).
+Is the mode control motor OK?
+YES - Go to step 7.

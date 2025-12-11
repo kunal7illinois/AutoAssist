@@ -1,0 +1,45 @@
+CA–62
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+1 CHECK CAN BUS LINE FOR DISCONNECTION (MAIN BODY ECU BRANCH WIRE)
+(a) Turn the ignition switch off.
+Main Body ECU Connector (Front View):
+(b) Disconnect the main body ECU connector.
+(c) Measure the resistance according to the value(s) in the
+E8
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E8-5 (CANH) - E8-6
+Ignition switch off 54 to 69 Ω
+(CANL)
+CANH
+CANL NG REPAIR OR REPLACE CAN BRANCH WIRE
+CONNECTED TO MAIN BODY ECU (CAN-H,
+CAN-L)
+CA
+B137983E02
+OK
+2 CHECK HARNESS AND CONNECTOR (BECU, IG, GND1)
+(a) without Smart Key System
+Wire Harness Side:
+(1) Disconnect the 1F J/B connector.
+(2) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+1F-10 (GND1) - Body
+Always Below 1 Ω
+ground
+(3) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+1F-1 (BECU)* - Body
+Always 10 to 14 V
+ground
+1F 1F-11 (IG) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+*: TMC Made only
+GND1 IG BECU (4) Reconnect the J/B connector.
+C133238E01

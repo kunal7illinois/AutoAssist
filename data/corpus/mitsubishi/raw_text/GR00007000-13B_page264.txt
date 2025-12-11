@@ -1,0 +1,36 @@
+13B-264 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Using scan tool MB991502, check data list item 21:
+Engine Coolant Temperature Sensor.
+(1) Turn the ignition switch to the "ON" position.
+(2) Set scan tool MB991502 to the data reading mode for item
+21, Engine Coolant Temperature Sensor.
+• The engine coolant temperature and temperature
+shown with the scan tool should approximately match.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+16 PIN
+YES : Go to Step 4.
+MB991502 NO : Refer to DTC P0116 − Engine Coolant Temperature
+AKX01177AB Circuit Range/Performance Problem P.13B-77, DTC
+P0117 − Engine Coolant Temperature Circuit Low
+Input P.13B-85, DTC P0118 − Engine Coolant
+Temperature Circuit High Input P.13B-89.
+STEP 4. Using scan tool MB991502, check data list item 25:
+Barometric Pressure Sensor.
+(1) Turn the ignition switch to the "ON" position.
+(2) Set scan tool MB991502 to the data reading mode for item
+25, Barometric Pressure Sensor.
+• When altitude is 0 m (0 foot), 101 kPa.
+• When altitude is 600 m (1,969 feet), 95 kPa.
+• When altitude is 1,200 m (3,937 feet), 88 kPa.
+• When altitude is 1,800 m (5,906 feet), 81 kPa.
+16 PIN (3) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 Q:Is the sensor operating properly?
+AKX01177AB YES : Go to Step 5.
+NO : Refer to DTC P0106 − Barometric Pressure Circuit
+Range/Performance Problem P.13B-42, DTC P0107
+− Barometric Pressure Circuit Low Input P.13B-46,
+DTC P0108 − Barometric Pressure Circuit High Input
+P.13B-56.
+TSB Revision

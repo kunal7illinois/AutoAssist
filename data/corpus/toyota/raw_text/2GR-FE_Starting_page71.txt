@@ -1,0 +1,36 @@
+ST–71
+2GR-FE STARTING – SMART KEY SYSTEM
+DTC B2283 Vehicle Speed Sensor Malfunction
+DESCRIPTION
+The skid control ECU converts these signals into 4-pulse signals and sends them to the combination
+meter. After this signal is converted into a more precise rectangular waveform by the waveform shaping
+circuit inside the combination meter, it is then transmitted to the main body ECU. The main body ECU
+determines the vehicle speed based on the frequency of these pulse signals.
+HINT:
+When the main body ECU is replaced with a new one and the negative (-) battery terminal is connected,
+the power source mode becomes the IG-ON mode. When the battery is removed and reinstalled, the
+power source mode that was selected when the battery was removed is restored.
+After the main body ECU is replaced, perform the registration procedures for the engine immobiliser
+system (See page EI-8).
+DTC No. DTC Detection Condition Trouble Area
+• B2282 detection area
+• Combination meter
+When both conditions below are met:
+• Speed sensor
+B2283 • Over-deceleration in vehicle speed
+• Skid control ECU
+• Vehicle speed and engine speed do not match
+• Main body ECU
+• Wire harness or connector
+Combination
+Meter (Meter
+Skid Control ECU
+4 pulses ECU) 4 pulses
+Main Body ECU
+Front
+Speed CAN
+Sensor
+B2282 Detection Area
+B2283 Detection Area
+ST
+A109248E08

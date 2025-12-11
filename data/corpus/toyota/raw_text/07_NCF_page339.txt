@@ -1,0 +1,26 @@
+BODY ELECTRICAL - MULTIPLEX COMMUNICATION BE-5
+— REFERENCE —
+MPX communication uses serial communication data that consists of bits and frames in order to exchange
+information among the various ECUs. This allows a reduction of the amount of wiring on the vehicle.
+(cid:3) A bit is the basic unit of communication that is used to represent the information. A bit is represented by
+binary values of “0” or “1”.
+(cid:3) A frame is a body of data that is transmitted together. A frame contains a header that indicates the
+beginning, and an end message that indicates the end.
+(cid:1) Conceptual Drawing (cid:2)
+Frame
+1
+Data
+0
+Header End Message
+Serial Communication Data
+240BE05
+Switch
+Light
+On On
+Motor
+Off
+ECU ECU
+Battery
+Heater
+Solenoid
+240BE03

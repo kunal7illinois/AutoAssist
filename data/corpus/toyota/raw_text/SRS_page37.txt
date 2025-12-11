@@ -1,0 +1,49 @@
+RS–37
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+• When the front passenger occupant
+classification system has trouble, both the
+SRS warning light and the passenger airbag
+ON/OFF indicator ("OFF") come on. In this
+case, check the DTCs in "AIRBAG SYSTEM"
+first. Then troubleshoot the occupant
+classification system if DTC B1650/32 is
+detected, and troubleshoot the passenger
+airbag ON/OFF indicator if DTC B1660/43 is
+detected.
+ON
+Ignition Switch
+OFF
+4 sec. 2 sec.
+Passenger Airbag ON
+ON/OFF Indicator
+(”ON”) OFF
+4 sec. 2 sec.
+Passenger Airbag ON
+ON/OFF Indicator
+(”OFF”) OFF
+ON/OFF condition depends on the
+front passenger detection results. RS
+C123768E01
+6. PASSENGER AIRBAG ON/OFF INDICATOR CHECK
+(a) Turn the ignition switch on (IG).
+(b) Check that the passenger airbag ON/OFF indicator
+("ON" and "OFF") comes on for approximately 4
+seconds, then goes off for approximately 2 seconds.
+HINT:
+Refer to the table in the previous step regarding the
+passenger airbag ON/OFF indicator when the
+ignition switch is turned on (IG) and approximately 6
+seconds pass.
+C123721
+7. ACTIVATION PREVENTION MECHANISM
+(a) FUNCTION OF ACTIVATION PREVENTION
+MECHANISM
+(1) An activation prevention mechanism is built into
+the connector (on the center airbag sensor
+assembly side) of the airbag system squib circuit
+to prevent accidental airbag activation.
+(2) This mechanism closes the circuit when the
+connector is disconnected by bringing the short
+spring into contact with the terminals and
+shutting off external electricity to prevent
+accidental airbag activation.

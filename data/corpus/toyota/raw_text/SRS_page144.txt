@@ -1,0 +1,34 @@
+RS–144
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Driver Side Seat Belt Buckle Switch Circuit Mal-
+DTC B1655/37
+function
+DESCRIPTION
+The driver side seat belt buckle switch circuit consists of the center airbag sensor assembly and the front
+seat inner belt assembly LH.
+DTC B1655/37 is recorded when a malfunction is detected in the driver side seat belt buckle switch circuit.
+DTC No. DTC Detection Condition Trouble Area
+• The center airbag sensor assembly receives a line
+short circuit signal, an open circuit signal, a short
+• Floor wire
+circuit to ground signal or a short circuit to B+ signal
+• Front seat inner belt assembly LH (Driver side seat
+B1655/37 in the driver side seat belt buckle switch circuit for 2
+belt buckle switch)
+seconds.
+• Center airbag sensor assembly
+• Front seat inner belt assembly LH malfunction
+• Center airbag sensor assembly malfunction
+WIRING DIAGRAM
+N3
+Front Seat Inner Belt Assembly LH
+Center Airbag Sensor Assembly
+11
+LBE+
+N1 DBE+
+RS
+1
+12
+N1 DBE-
+LBE- 3
+H043715E15

@@ -1,0 +1,45 @@
+AX–145
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Short in Torque Converter Clutch Solenoid Cir-
+DTC P2769
+cuit (Shift Solenoid Valve SL)
+Open in Torque Converter Clutch Solenoid Cir-
+DTC P2770
+AX
+cuit (Shift Solenoid Valve SL)
+DESCRIPTION
+The shift solenoid valve SL is turned ON or OFF by signals from the TCM to control the hydraulic pressure
+acting on the lock-up relay valve, which then controls operation of the lock-up clutch.
+DTC No. DTC Detection Condition Trouble Area
+TCM detects a short in the shift solenoid valve SL • Short in shift solenoid valve SL circuit
+P2769 circuit when the shift solenoid valve SL is operated (2 • Shift solenoid valve SL
+trip detection logic). • TCM
+TCM detects an open in the shift solenoid valve SL • Open in shift solenoid valve SL circuit
+P2770 circuit when the shift solenoid valve SL is not operated • Shift solenoid valve SL
+(2 trip detection logic). • TCM
+Fail-safe function:
+If the TCM detects a malfunction, it turns the shift solenoid valve SL OFF.
+MONITOR DESCRIPTION
+Based on the signals from the throttle position sensor, the air flow meter and the crankshaft position
+sensor, the TCM sends a signal to the solenoid valve SL to regulate the hydraulic pressure and provide
+smoother torque converter clutch engagement. The shift solenoid valve SL responds to commands from
+the TCM. The valve controls the lock-up relay valve to perform the torque-converter lock-up function. If
+the TCM detects an open or short circuit for shift solenoid valve SL, it will illuminate the MIL.
+MONITOR STRATEGY
+P2769: Shift solenoid valve SL/Range check (Low resistance)
+Related DTCs
+P2770: Shift solenoid valve SL/Range check (High resistance)
+Required sensors/Components Shift solenoid valve SL
+Frequency of operation Continuous
+Duration 1 time
+MIL operation 2 driving cycles
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+P2769: Range check (Low resistance):
+The monitor will run whenever the following DTCs are not present None
+Solenoid ON
+Time after solenoid OFF to ON More than 0.008 sec.
+P2770: Range check (High resistance):
+The monitor will run whenever the following DTCs are not present None
+Solenoid ON
+Time after solenoid ON to OFF More than 0.008 sec.

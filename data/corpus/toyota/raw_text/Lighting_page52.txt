@@ -1,0 +1,40 @@
+LI–48
+LIGHTING – LIGHTING SYSTEM
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester main switch on.
+(c) Select the item below in the ACTIVE TEST and then
+check that the relay operates.
+MAIN BODY (MAIN BODY ECU):
+Item Test Details Diagnostic Note
+F FOG LIGHT RLY Front fog light relay ON / OFF -
+OK:
+Front fog light relay operates. (Front fog lights
+come on.)
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+NG
+2 INSPECT FUSE (FR FOG)
+(a) Remove the FR FOG fuse from the instrument panel J/B
+assembly.
+(b) Measure the resistance of the fuse.
+Standard resistance:
+Below 1 Ω
+NG REPLACE FUSE
+OK
+3 INSPECT FOG LIGHT RELAY
+(a) Remove the front fog light relay from the instrument
+panel J/B assembly.
+(b) Measure the resistance according to the value(s) in the
+1 2 table below.
+3 5
+Standard resistance
+5
+Tester Connection Specified Condition
+LI 2 1
+10 kΩ or higher
+3
+3 - 5 Below 1 Ω (When battery voltage is applied to
+terminals 1 and 2)
+B060778E87
+NG REPLACE FOG LIGHT RELAY
+OK

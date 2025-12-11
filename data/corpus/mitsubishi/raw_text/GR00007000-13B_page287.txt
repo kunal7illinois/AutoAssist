@@ -1,0 +1,39 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-287
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the injector.
+(1) Disconnect the injector connector B-01 <No. 1 cylinder> or
+CONNECTORS : B-01, B-05, B-26
+B-05 <No. 3 cylinder> or B-26 <No. 5 cylinder>.
+B-05 B-26
+B-01
+AK000210AB
+(2) Measure the resistance between injector side connector
+terminal 1 and 2.
+INJECTOR SIDE Standard value: 13 − 16 ohm [at 20°C (68°F)]
+CONNECTOR
+Q:Is the resistance standard value?
+1 2 YES : Repair harness wire between injector intermediate
+connector and injector connector because of open
+circuit or short circuit to ground or harness
+damage.
+a. Repair harness wire between injector
+AK000241AB intermediate connector B-48 terminal 1 and
+injector connector B-01 terminal 1 and harness
+wire between injector connector B-01 terminal
+2 and injector intermediate connector B-48
+terminal 2 when checking No. 1 cylinder.
+b. Repair harness wire between injector
+intermediate connector B-48 terminal 1 and
+injector connector B-05 terminal 1 and harness
+wire between injector connector B-05 terminal
+2 and injector intermediate connector B-48
+terminal 3 when checking No. 3 cylinder.
+c. Repair harness wire between injector
+intermediate connector B-48 terminal 1 and
+injector connector B-26 terminal 1 and harness
+wire between injector connector B-26 terminal
+2 and injector intermediate connector B-48
+terminal 4 when checking No. 5 cylinder.
+Then go to Step 12.
+NO : Replace the injector. Then go to Step 12.
+TSB Revision

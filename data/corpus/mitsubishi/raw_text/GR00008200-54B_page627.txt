@@ -1,0 +1,50 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-627
+ON-VEHICLE SERVICE
+ON-VEHICLE SERVICE
+ADJUSTMENT PROCEDURES OF SWS
+FUNCTION
+M1549002500236
+Required Special Tools:
+• MB991223: Test Harness Set
+• MB991502: Scan Toll (MUT-II)
+• MB991529: Diagnostic Trouble Code Check Harness
+The following functions can be enabled or disabled by operat-
+ing input switches in a special manner. This set mode is stored
+after the battery is disconnected.
+• Keyless entry hazard answerback function
+• Headlight automatic shutdown function
+• Initialization of above mentioned functions
+NOTE: The keyless entry hazard answerback can be also
+adjusted by operating the RKE transmitter. (however, this
+adjustment can be done more easily by operating the transmit-
+ter.) Refer to GROUP 42, Keyless Entry System − On-vehicle
+Service − Enabling/disabling the Answerback Function P.42-
+82.
+Entry conditions for adjustment mode
+1. Set switches to the following conditions:
+• Hazard warning light switch: OFF
+• Diagnosis control: ON (Connect scan tool MB991502 to the
+data link connector, or connect the data link connector ter-
+minal 1 to ground.)
+• Key reminder switch: OFF (insert the ignition key)
+• Ignition switch: "LOCK" (OFF)
+• Driver’s door switch: OFF (driver’s door?)
+2. If the windshield washer switch remains on for 10 seconds
+or more, the tone alarm incorporated in the ETACS-ECU
+sounds once, and then enter the adjustment mode.
+Release conditions for the adjustment mode
+The adjustment mode will be released under one of the follow-
+ing conditions:
+• Diagnosis control: OFF (Disconnect scan tool MB991502
+from the data link connector, or disconnect the data link
+connector terminal 1 from ground.)
+• Key reminder switch: ON (ignition key removed)
+• Ignition switch: Turn to the positions other than "LOCK"
+(OFF).
+• Driver’s door switch: ON (driver’s door open)
+• After three minutes while the adjustment is not made (If any
+adjustment has been made within the three-minute period,
+cancel or complete the operation, and then release the
+adjustment mode within three minutes).
+• When any other warning tone alarms sound
+TSB Revision

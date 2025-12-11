@@ -1,0 +1,43 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-109
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check for open circuit and short circuit to ground
+between throttle position sensor connector B-07 (terminal
+3) and ECM connector C-60 (terminal 81) <M/T> or PCM
+connector C-54 (terminal 46) <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-07
+YES : Replace the ECM or PCM. Then go to Step 11.
+NO : Repair it. Then go to Step 11.
+THROTTLE
+POSITION
+SENSOR
+ACX02472AE
+CONNECTORS:C-60<M/T>,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+STEP 6. Check the throttle position sensor.
+(1) Disconnect the connector B-07.
+CONNECTOR : B-07
+THROTTLE
+POSITION
+SENSOR
+ACX02472AE
+(2) Measure the resistance between throttle position sensor
+side connector terminal 1 and 4.
+THROTTLE POSITION
+SENSOR SIDE Standard value: 3.5 − 6.5 kΩ
+CONNECTOR
+(3) Measure resistance between the throttle position sensor
+1 2 3 4 side connector terminal 1 and 3.
+(4) Move the throttle valve from the idle position to the full-open
+position.
+• Resistance should change smoothly in proportion to the
+opening angle of the throttle valve.
+AK000320AB Q:Is the resistance normal?
+YES : Go to Step 7.
+NO : Replace the throttle position sensor. Refer to P.13A-
+593, Throttle Body. Then go to Step 11.
+TSB Revision

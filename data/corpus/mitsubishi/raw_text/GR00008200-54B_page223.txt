@@ -1,0 +1,35 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-223
+SYMPTOM PROCEDURES
+STEP 4. Check the windshield washer motor.
+(1) Disconnect windshield washer motor connector A-33, and
+CONNECTOR: A-33
+check at windshield washer motor connector side.
+(2) Fill the windshield washer tank with washer fluid.
+A-33
+AC106670AB
+(3) When battery voltage is applied between terminals 1 and 2,
+CONNECTOR A-33
+washer fluid should gush out.
+Q:Does the windshield washer motor operate normally?
+YES : Go to Step 5.
+NO : Replace the windshield washer motor. Check that the
+windshield washer works normally.
+AC003168AB
+STEP 5. Check at windshield washer motor connector A-33
+to check the windshield washer motor ground circuit.
+(1) Disconnect windshield washer motor connector A-33, and
+CONNECTOR: A-33
+measure at the wiring harness side.
+A-33
+AC106670AB
+(2) Measure the resistance value between terminal 2 and
+ground.
+• The measured value should be 2 ohm or less.
+CONNECTOR A-33
+Q:Does the measured resistance value correspond with
+(HARNESS SIDE)
+this range?
+2 1 YES : Go to Step 8.
+NO : Go to Step 6.
+ACX01578AB
+TSB Revision

@@ -1,0 +1,30 @@
+DL–34
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Wire Harness Side:
+J5
+Rear Door Lock Assembly RH
+LSSR E
+IL (*1)
+E6 (*2)
+Instrument Panel J/B Main Body ECU
+*1: w/o Smart Key System
+LSWR
+*2: w/ Smart Key System
+B112608E01
+(b) Disconnect the ECU (instrument panel J/B) connector.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection (Symbols) Condition Specified Condition
+J5-6 (LSSR) - IL-5 (*1) Always Below 1 Ω
+J5-6 (LSSR) - E6-5 (LSWR)
+Always Below 1 Ω
+DL (*2)
+J5-6 (LSSR) - Body ground Always 10 kΩ or higher
+J5-9 (E) - Body ground Always Below 1 Ω
+*1: w/o SMART KEY SYSTEM
+*2: w/ SMART KEY SYSTEM
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE MAIN BODY ECU (INSTRUMENT PANEL J/B)

@@ -1,0 +1,22 @@
+2GR-FE ENGINE CONTROL SYSTEM – CAMSHAFT TIMING OIL CONTROL VALVE
+ES–481
+ASSEMBLY
+ON-VEHICLE INSPECTION
+Intelligent Tester
+1. INSPECT CAMSHAFT TIMING OIL CONTROL VALVE
+ASSEMBLY
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Start and warm up the engine.
+(d) Connect the intelligent tester and select VVT from
+the ACTIVE TEST menu.
+(e) Check the engine speed when the OCV is operated
+with the intelligent tester.
+OK
+DLC3
+Condition Specified Condition
+CAN VIM
+VVT system is OFF (OCV is OFF) Normal engine speed ES
+C131977E05
+VVT system is ON (OCV is ON) Rough idle or engine stalled

@@ -1,0 +1,48 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-137
+SYMPTOM PROCEDURES
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+STEP 1. Check the continuity of the power window main
+switch.
+(1) Remove the power window main switch. Refer to P.42-54.
+(2) Check continuity when the switch on the power window
+<ECLIPSE>
+main switch is operated to "UP" or "DOWN" position.
+SWITCHES TO SWITCH POSITION TESTER SPECIFIED
+BE CHECKED CONNECTION CONDITION
+POWER POWER
+WINDOW WINDOW
+LOCK SWITCHES
+SWITCH TO BE
+CHECKED
+1 2 3 4
+5 6 7 8 9 10 Power Lock UP 7 − 6 Less than
+window 2 ohm
+AC000463AB
+(RH)
+OFF 7 − 8 Less than
+<ECLIPSE SPYDER>
+2 ohm
+DOWN 6 − 8 Less than
+2 ohm
+Unlock UP 7 − 6, Less than
+8 − 9 2 ohm
+1 2 3 4 OFF 7 − 8 − 9 Less than
+5 6 7 8 9 10 2 ohm
+AC003390AB DOWN 7 − 9, Less than
+6 − 8 2 ohm
+Q:Is the power window main switch in good condition?
+YES : Go to Step 2.
+NO : Replace the power window main switch. When the
+power window sub-switch is operated, the power
+window (RH) should open or close normally.
+STEP 2. Check the power window lock switch.
+Q:Is the power window lock switch at the "UNLOCK"
+position?
+YES : Go to Step 3.
+NO : Operate the power window lock switch to the
+"UNLOCK" position? When the power window sub-
+switch is operated, the power window (RH) should
+open or close normally.
+TSB Revision

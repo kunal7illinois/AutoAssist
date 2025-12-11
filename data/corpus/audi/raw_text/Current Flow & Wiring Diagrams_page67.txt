@@ -1,0 +1,54 @@
+Audi TT No. 3 / 16
+Current Flow Diagram
+Engine control unit, secondary air pump relay, secondary
+air pump motor, fuel system diagnostic pump, secondary
+air inlet valve
+J299 Secondary air pump relay
+J623 Engine control unit
+N112 Secondary air inlet valve
+N320 Secondary air inlet valve 2
+T81 81-pin connector, black, on engine control unit
+V101 Secondary air pump motor
+V144 Fuel system diagnostic pump
+1,0 1,0
+li/br li 367 Earth connection 2, in main wiring harness
+2 2
+# #
+N112 N320 672 Earth point 2, on front of left longitudinal member
+1 1
+B350 Positive connection 1 (87a), in main wiring harness
+0,35 1,0 1,0 0,35
+li/br sw/gn sw/gn li
+* models with fuel system diagnostic pump
+220022 220033 ** Relay and fuse carrier in electronics box engine compartment
+T81/44
+J623
+T81/47
+# only USA
+T81/80 T81/25 T81/46
+0,35 0,35 0,35
+bl/li bl/br br/li
+2/+
+ϑ
+M
+V101
+2244 1/--
+1,0 0,5 4,0 4,0
+sw/gn br/li ro/ge br
+1/S 2/-- 3/+ 4/85 1/30 367
+3 ✱✱
+J299
+V144 ✱ 118844 220022 220055 3/86 2/87 w sw s = = w bl h a i c te k
+ro = red
+1,0 1,0 1,0 1,0 4,0 10,0 6,0
+sw/gn sw/gn sw/gn sw/gn ro/sw br br br = brown
+gn = green
+B350 bl = blue
+223333
+gr = grey
+672 li = purple
+ge = yellow
+197 198 199 200 201 202 203 204 205 206 207 208 209 210 or = orange
+8J0-003160407
+rs = pink
+Edition 10.2010

@@ -1,0 +1,17 @@
+CA–71
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+3 CHECK CAN BUS WIRE (SHORT TO GND IN CAN BUS WIRE)
+(a) Measure the resistance according to the value(s) in the
+E10
+DLC3: CG table below.
+CANH
+Standard resistance
+Tester Connection Condition Specified Value
+E10-4 (CG) - E10-6 (CANH) Ignition switch off 200 Ω or higher
+E10-4 (CG) - E10-14 (CANL) Ignition switch off 200 Ω or higher
+NG SHORT TO GND IN CAN BUS WIRE (See
+CANL page CA-104)
+C126400E10
+OK
+GO TO "HOW TO PROCEED WITH TROUBLESHOOTING" (See page CA-8)
+CA

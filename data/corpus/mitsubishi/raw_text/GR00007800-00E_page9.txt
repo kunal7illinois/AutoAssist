@@ -1,0 +1,33 @@
+GENERAL <ELECTRICAL> 00E-9
+HOW TO DIAGNOSE
+CHECKING SWITCHES
+M1001004800047
+In a circuit diagram, a switch is shown in the idle state.
+1. Normally open or normally closed switch
+NORMAL OPEN (NO) TYPE
+Switches are classified into those which open the circuit and
+OFF ON those which close the circuit when off.
+Switches are shown in their normal state unless specified
+otherwise.
+CURRENT DOES CURRENT FLOWS
+NOT FLOW
+NORMAL CLOSED (NC) TYPE
+OFF ON
+CURRENT CURRENT DOES
+FLOWS NOT FLOW
+ACX00944AB
+2. Switch connection
+6 This figure illustrates a complex switch. The continuity
+between terminals at each position is as indicated in the
+table below.
+SWITCH TESTER SPECIFIED
+POSITION CONNECTION CONNECTION
+OFF OFF − −
+1ST 2ND3RD4THSTAGE
+1st stage 1−5−6 Continuity
+5 4 3 2 1
+2nd stage 1−4−6 Continuity
+3rd stage 1−3−6 Continuity
+4th stage 1−2−6 Continuity
+ACX00945AB
+TSB Revision

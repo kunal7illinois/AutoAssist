@@ -1,0 +1,26 @@
+NS–131
+NAVIGATION – NAVIGATION SYSTEM
+In a tunnel
+In a building Under an overpass
+On a forest or tree-lined path Between tall buildings Under a cliff, overhang
+I100196E03
+OK:
+GPS mark is displayed.
+NG Go to step 3
+OK
+SYSTEM RETURNS TO NORMAL
+3 CHECK GPS INFORMATION (NAVIGATION CHECK MODE)
+(a) Enter the "Navigation Check" mode (GPS Information)
+(See page NS-27).
+(b) Check how many of the following codes appear in the
+"STS" column.
+For DENSO Made:
+T, P
+NS
+For AISIN AW Made:
+08H, 04H
+OK:
+At least 3 codes appear.
+I102403E01
+NG PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE

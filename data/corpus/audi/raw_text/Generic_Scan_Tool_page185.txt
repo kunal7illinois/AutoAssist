@@ -1,0 +1,49 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+Test requirements
+• The Engine Control Module (ECM) - J623- fuses OK.
+• The fuel filter OK.
+• The battery voltage at least 12.5 V.
+• All electrical consumers switched off (radiator fan must NOT
+run during test).
+• A/C switched off.
+• The fuel tank at least 1/4 filled.
+• The ignition switched OFF.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove the engine cover with air filter. Refer to the Repair
+Manual.
+Checking voltage
+– Disconnect the Secondary Air Injection Sensor 1 -G609- elec‐
+trical harness connector.
+– Switch the ignition ON.
+– Using a multimeter, check the Secondary Air Injection Sensor
+1 -G609- electrical harness connector for voltage using the
+chart below.
+Secondary Air Injection Sensor 1 - Specified value
+G609- electrical harness connector
+terminals
+1 to Battery Positive Battery Voltage
+3 to Ground near 5 V
+4 to ECM pin T60/55 1.5 Ω Max.
+– Switch the ignition OFF.
+If the specified value was obtained:
+– Replace the Secondary Air Injection Sensor 1 -G609- .
+If the specified value was Not obtained:
+Checking wiring connections
+If the manufacturers test box is being used, perform the following
+step.
+– Install the test box.
+If the manufacturers test box is not being used, perform the fol‐
+lowing step.
+– Remove the Engine Control Module (ECM) -J623- . Refer to
+the Repair Manual.
+– Using a multimeter, check the Secondary Air Injection Sensor
+1 -G609- electrical harness connector terminals to the Engine
+Control Module (ECM) -J623- electrical harness connector
+T60 terminals for an open circuit. Refer to Wiring Diagrams for
+pin locations.
+181
+3. Diagnosis and Testing

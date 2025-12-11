@@ -1,0 +1,51 @@
+BC–196
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+• When the speed sensor or the yaw rate sensor has trouble, DTCs for the steering angle sensor may be
+output even when the steering angle sensor is normal. When DTCs for the speed sensor or yaw rate
+sensor are output together with other DTCs for the steering angle sensor, inspect and repair the speed
+sensor and yaw rate sensor first, and then inspect and repair the steering angle sensor.
+1 CHECK DTC
+(a) Clear the DTC (See page BC-141).
+(b) Turn the ignition switch off.
+(c) Turn the ignition switch on (IG) again and check that no
+CAN communication system DTC is output.
+(d) Drive the vehicle and turn the steering wheel to the right
+and left at the speed of 22 mph (35 km/h) and check that
+no speed sensor and yaw rate sensor DTCs are output.
+Result
+Condition Proceed to
+No CAN communication system DTC and the speed sensor or yaw rate sensor DTC
+A
+BC are output
+CAN communication system DTC is output B
+Speed sensor or yaw rate sensor DTC is output C
+HINT:
+• If there is a malfunction in the speed sensor or the
+yaw rate sensor, an abnormal value may be output
+although the steering angle sensor is normal.
+• If the speed sensor and the yaw rate sensor DTCs are
+output simultaneously, repair the sensors and inspect
+the steering angle sensor.
+B INSPECT CAN COMMUNICATION SYSTEM
+C REPAIR CIRCUIT INDICATED BY OUTPUT
+DTC (See page BC-151)
+A
+2 INSPECT STEERING ANGLE SENSOR (POWER SOURCE TERMINAL)
+(a) Turn the ignition switch off.
+Steering Angle Sensor Wire (b) Remove the steering wheel and the column cover lower.
+Harness View:
+(c) Disconnect the steering angle sensor connector.
+(d) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Specified
+Tester Connection Condition
+Condition
+Ignition switch on
+E17-1 (IG) - Body ground 10 to 14 V
+(IG)
+E17-1 (IG) E17-3 (BAT) - Body ground Always 10 to 14 V
+NG REPAIR OR REPLACE HARNESS OR
+E17-3 (BAT)
+CONNECTOR (POWER SOURCE CIRCUIT)
+G030156E15

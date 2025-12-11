@@ -1,0 +1,56 @@
+DL–120
+DOOR LOCK – SMART KEY SYSTEM
+(2) It is possible that signals output from the indoor
+electrical key antenna may leak through the
+window. Also, if the electrical key is too close to
+a door oscillator, the oscillator output signals are
+too strong and the electrical key cannot respond.
+As a result, when the electrical key is near the
+vehicle interior (window, door handle), the entry
+lock function may not operate. Also, the
+electrical key reminder warning buzzer may
+sound and the entry unlock operation may stop
+functioning. In this situation, move the electrical
+key away from the vehicle interior (window, door
+handle), perform the entry lock operation and
+perform the entry unlock operation.
+(3) Do not touch the lock switch while opening or
+closing the door.
+If the lock switch is pressed when opening or
+closing the door while the electrical key is being
+carried, the door ajar warning buzzer sounds
+(beeps outside the vehicle for 10 seconds).
+(4) If the electrical key is on the instrument panel,
+rear package tray, floor, or in the glove box, the
+electrical key reminder function may not operate
+and the electrical key may be locked in the
+vehicle. Always carry the electrical key.
+(5) If the electrical key is outside the vehicle but is
+very close to a window or door handle (the ECU
+determines that the electrical key is inside the
+vehicle) and the transmitter or mechanical key is
+used to lock the doors (entry lock is not used),
+entry unlock will not operate. To unlock the
+doors, perform a wireless door unlock operation.
+The entry lock function operates in this way to
+prevent the user from unintentionally unlocking
+the doors from outside the vehicle. For example,
+when a user operates the wireless door lock
+operation from inside the vehicle, radio waves
+from a door oscillator may leak into the vehicle
+interior and the doors may unlock.
+(6) To allow the user enough time to check if the
+doors are locked after performing a door lock
+DL
+operation (entry lock function or wireless door
+lock operation), the entry unlock function will not
+be permitted for 3 seconds after the door lock
+operation.
+(d) Precautions for the entry ignition function:
+(1) To start the engine, first depress the brake pedal
+firmly until the engine switch indicator illuminates
+green.
+(2) When operating the engine switch, firmly press
+the switch. If the switch is pressed too quickly,
+power source control and engine starting may
+not operate.

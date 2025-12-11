@@ -1,0 +1,37 @@
+ESP
+Operation and displays
+The functions of button E256 for ESP and TCS were
+extended as follows:
+381_025
+Briefly pressing the button (<3 s) deactivates only
+the TCS function. TCS OFF improves traction when
+starting from a stop on loose surfaces (e.g. on snow
+or sand).
+TCS OFF
+TCS OFF is active up to a road speed of 70 kph. TCS
+is switched on automatically when this speed is
+exceeded.In all-wheel-drive models, TCS is automat-
+ically switched off again when the vehicle's road
+speed drops below 70 kph. In front-wheel-drive
+models, TCS is not automatically switched off when
+the vehicle's road s peed drops below this threshold.
+381_027
+If the button is pressed for longer than 3 s, the ESP
+function is switched off.
+ESP
+When the brake is applied, TCS and ESP are
+SWITCHED
+switched on again for the duration of the braking
+manoeuvre and remain active until a stable driving OFF
+condition is restored.
+The ESP function is activated automatically if faults
+are diagnosed in the magnetic ride system or when
+actuating the rear spoiler.
+381_027a
+If the button is pressed for longer than 10 s, the ESP
+function is switched on again and cannot be
+switched off again until the ignition has been
+turned off and on again.
+ESP / TCS ON
+381_027b
+20

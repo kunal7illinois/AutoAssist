@@ -1,0 +1,45 @@
+ES–476
+2GR-FE ENGINE CONTROL SYSTEM – MASS AIR FLOW METER
+ON-VEHICLE INSPECTION
+1. CHECK MASS AIR FLOW METER
+NOTICE:
+• Perform the MAF meter inspection by following
+the procedures below.
+• Only replace the MAF meter when both the LONG
+FT#1 value and MAF value in the DATA LIST (with
+the engine stopped) are not within the normal
+operating range.
+(a) Perform confirmation driving pattern.
+Intelligent Tester
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch on (IG).
+(3) Turn the tester on.
+(4) Clear the DTCs (See page ES-45).
+ES
+(5) Start the engine and warm it up with all
+accessory switches off (until the engine coolant
+temperature is 75 °C(167°F) or more).
+(6) Drive the vehicle at 31 mph (50 km/h) or more
+for 3 minutes or more (*1).
+(7) Allow the engine to idle (accelerator pedal
+fulley released) for 2 minutes or more (*2).
+(8) Perform steps (*1) and (*2) at least 3 times or
+DLC3
+more.
+CAN VIM
+C131977E05
+(Vehicle Speed)
+*1 *1 *1
+31 mph (50 km/h)
+Idling
+Ignition switch OFF
+*2 *2 *2
+Warming up
+*1: 3 minutes or more
+*2: 2 minutes or more
+A116436E18
+(b) Read values using the intelligent tester (LONG
+FT#1).
+(1) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / PRIMARY /
+LONG FT#1.

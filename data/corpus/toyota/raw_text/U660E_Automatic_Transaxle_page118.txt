@@ -1,0 +1,27 @@
+AX–118
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Transmission Fluid Pressure Switch No.2 Cir-
+DTC P0877
+cuit Low
+Transmission Fluid Pressure Switch No.2 Cir-
+DTC P0878
+AX
+cuit High
+DESCRIPTION
+ATF pressure switch No. 2 is installed in the shift solenoid valve ATF output passage. This switch is used
+to identify the malfunctioning part when a fail-safe operation is performed. If the shift solenoid valve
+malfunctions when the ATF pressure switch has a malfunction, a fail-safe operation will be performed.
+This fail-safe operation is different from the fail-safe operation performed when the solenoid valve
+malfunctions and the ATF pressure switch is normal.
+DTC No. DTC Detecting Condition Trouble Area
+ATF pressure switch No. 2 OFF is detected twice when • ATF temperature sensor assembly (ATF pressure
+P0877
+any of the gears from 4th to 6th engages normally. switch No. 2)
+ATF pressure switch No. 2 ON is detected twice when • Transmission wire
+P0878 any of the gears from 1st to 3rd engages normally. • TCM
+WIRING DIAGRAM
+TCM
+TSP2
+ATF Pressure Switch No. 2
+Transaxle Assembly
+C133258E02

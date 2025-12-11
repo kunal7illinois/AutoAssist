@@ -1,0 +1,47 @@
+Audi TT No. 18 / 5
+Current Flow Diagram
+Convenience CAN bus, high 1, convenience CAN bus, low
+1
+J256 Convertible roof actuation control unit
+J386 Driver door control unit
+J519 Onboard supply control unit
+J527 Steering column electronics control unit
+J533 Data bus diagnostic interface
+T12e 12-pin connector, black, connector G, on onboard power supply
+control unit
+T20a 20-pin connector, black, in the front left door
+T20c 20-pin connector, black, connector A, on steering column
+electronics control unit
+T20d 20-pin connector, black, on data bus diagnostic interface
+B397 B406 T20f 20-pin connector, black, connector A, on driver door control unit
+T20v 20-pin connector, red, connector B, on convertible roof actuation
+control unit
+Connection 1 (convenience CAN bus, high), in main wiring
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35 B397
+or/gn or/gn or/gn or/gn or/gn or/gn or/br or/br or/br or/br or/br or/br harness
+Connection 1 (convenience CAN bus, low), in main wiring
+B406
+5577 6644 harness
+* Roadster with power operated convertible top
+T20d/15 T12e/8 T20c T20v/9 T20d/5 T12e/7 T20c T20v/10
+/14 /15
+J533 J519 J527 J256 J533 J519 J527 J256
+✱ ✱
+T20a/3 T20a/20
+0,35 0,35
+or/gn or/br
+T20f/8 T20f/9
+J386 J386
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-018050906
+rs = pink
+Edition 04.2009

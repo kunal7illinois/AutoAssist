@@ -1,0 +1,43 @@
+23A-298 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 3. Using an oscilloscope, check the waveform at
+PCM connector C-57 <2.4L Engine> or C-59 <3.0L Engine>.
+(1) Do not disconnect connector C-57 <2.4L Engine> or C-59
+CONNECTOR: C-57 <2.4L ENGINE> OR
+<3.0L Engine>.
+C-59 <3.0L ENGINE>
+PCM
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+(2) Connect an oscilloscope probe to PCM connector C-57
+C-57 <2.4L ENGINE> OR <2.4L Engine> or C-59 <3.0L Engine> terminal 80 by
+C-59 <3.0L ENGINE>
+backprobing.
+CONNECTOR HARNESS
+SIDE VIEW OSCILLO- (3) Start the engine.
+SCOPE
+PROBE
+AC001954AD
+(4) Check the waveform.
+NORMAL WAVEFORM
+• The waveform should show a pattern similar to the illus-
+(V)
+tration when running the vehicle.
+12
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the waveform normal?
+YES : Go to Step 4.
+NO : Go to Step 5.
+0
+(ms)
+AC102347AB
+STEP 4. Check connector C-57 <2.4L Engine> or C-59
+<3.0L Engine> at PCM for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-57 <2.4L ENGINE> OR
+C-59 <3.0L ENGINE> YES : Go to Step 8.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM Connector Inspection P.00E-2.
+C-57 <2.4L ENGINE> OR C-59 <3.0L ENGINE>
+AC001657AZ
+TSB Revision

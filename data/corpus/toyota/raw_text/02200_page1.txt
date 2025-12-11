@@ -1,0 +1,25 @@
+ST–3
+2AZ-FE STARTING – STARTING SYSTEM
+SYSTEM DIAGRAM
+The starting system rotates the starter motor according to the
+signals from the ignition switch and PNP switch.
+ECM
+Ignition Switch
+AM1 AM1 ST1
+from Battery STAR
+AM2 AM2 ST2
+from Battery
+B L
+Park/Neutral
+P
+Position Switch
+N
+STA
+ST
+Pull-in Coil Holding Coil
+ST
+Armature Coil
+M
+from Battery
+Starter
+A129321E01

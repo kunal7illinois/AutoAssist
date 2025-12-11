@@ -1,0 +1,53 @@
+ES–141
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+TYPICAL ENABLING CONDITIONS
+All:
+P0031, 32 (A/F Sensor heater - Sensor 1)
+P0037, 38 (O2 Sensor heater - Sensor 2)
+P0100 - P0103 (MAF meter)
+P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+P0120 - P0223, P2135 (TP sensor)
+P0125 (Insufficient ECT for Closed Loop)
+Monitor runs whenever following DTCs not present P0171, P0172 (Fuel system)
+P0300 - P0304 (Misfire)
+P0335 (CKP sensor)
+P0340 (CMP sensor)
+P0455, P0456 (EVAP system)
+P0500 (VSS)
+P2196 (A/F Sensor - rationality) ES
+P2A00 (A/F Sensor - slow response)
+Heated Oxygen Sensor Output Voltage (Abnormal Voltage Output, High Voltage and Low Voltage):
+Active air-fuel ratio control Executing
+Active air-fuel ratio control begins when all of following conditions met: -
+Battery voltage 11 V or more
+Engine coolant temperature 75°C (167°F) or more
+Idling OFF
+Engine RPM Less than 4,000 rpm
+A/F sensor status Activated
+Fuel system status Closed loop
+Fuel cut OFF
+Engine load 10 to 80 %
+Shift position 4th
+Heated Oxygen Sensor Impedance (Low):
+Battery voltage 11 V or more
+Estimated rear HO2 sensor temperature Less than 700°C (1,292°F)
+ECM monitor Completed
+DTC P0606 Not set
+Heated Oxygen Sensor Impedance (High):
+Battery voltage 11 V or more
+Estimated rear HO2 sensor temperature 450°C (842°F) or more
+ECM monitor Completed
+DTC P0606 Not set
+Heated Oxygen Sensor Output Voltage (Extremely High):
+Battery voltage 11 V or more
+Time after engine start 2 seconds or more
+TYPICAL MALFUNCTION THRESHOLDS
+Heated Oxygen Sensor Output Voltage (Abnormal Voltage Output):
+Either of following conditions met: 1 or 2
+1. All of following conditions (a), (b) and (c) met -
+(a) Commanded air-fuel ratio 14.3 or less
+(b) Rear HO2 sensor voltage 0.21 to 0.59 V
+(c) OSC (Oxygen Storage Capacity of Catalyst) 2 g or more
+2. All of following conditions (d), (e) and (f) met -
+(d) Commanded air-fuel ratio 14.9 or more

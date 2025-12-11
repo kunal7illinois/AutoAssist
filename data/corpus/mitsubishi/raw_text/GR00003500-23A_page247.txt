@@ -1,0 +1,33 @@
+AUTOMATIC TRANSAXLE 23A-247
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 7. Check harness for open circuit, short circuit to
+ground and damage between combination meter
+connector C-43 terminal 9 and PCM connector C-61 <2.4L
+Engine> or C-63 <3.0L Engine> terminal 121.
+Q:Is the harness wire in good condition?
+CONNECTOR: C-43
+C-43 YES : Go to Step 8.
+NO : Repair it.
+AC001729AW
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE>
+PCM
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+STEP 8. Check harness for damage between combination
+meter connector C-43 terminal 12 and the ground.
+Q:Is the harness wire in good condition?
+CONNECTOR: C-43
+C-43 YES : Go to Step 9.
+NO : Repair it.
+AC001729AW
+STEP 9. Check connector B-41 at Park/Neutral position
+switch for damage.
+Q:Is the connector in good condition?
+CONNECTOR: B-41
+B-41 YES : Go to Step 10.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+DIPSTICK
+AC001844AK
+TSB Revision

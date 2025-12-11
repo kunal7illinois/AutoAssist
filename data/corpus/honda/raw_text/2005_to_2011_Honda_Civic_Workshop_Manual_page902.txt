@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+YES -Replace shift solenoid valve B (see SHIFT SOLENOID VALVE AND
+SHIFT SOLENOID WIRE HARNESS REPLACEMENT ), then go to step
+16.
+NO -Replace the shift solenoid harness (see SHIFT SOLENOID VALVE
+AND SHIFT SOLENOID WIRE HARNESS REPLACEMENT ), then go
+to step 16.
+16. Reconnect all connectors.
+17. Turn the ignition switch to ON (II).
+18. Clear the DTC with the HDS.
+19. Test-drive the vehicle in 1st gear with the shift lever in D, for at least 1 second.
+Then drive in 3rd gear for at least 1 second.
+20. Check for DTCs with the HDS.
+Is DTC P0977 indicated?
+YES -Check for poor connections or loose terminals between shift solenoid
+valve B and the PCM, then go to step 1.
+NO -Go to step 21.
+21. Monitor the OBD STATUS for P0977 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+20, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals between shift solenoid valve B and the PCM, then go to step 1. If the
+HDS indicates NOT COMPLETED, go to step 19.
+22. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+23. Test-drive the vehicle in 1st gear with the shift lever in D, for at least 1 second.

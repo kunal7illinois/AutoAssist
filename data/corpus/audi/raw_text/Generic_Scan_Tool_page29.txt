@@ -1,0 +1,45 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+A pending DTC is saved the first time a fault is detected (output
+via Mode 07).
+– If the fault is detected again by the end of the following driving
+cycle, a confirmed DTC is entered (output via Mode 03) and
+the MIL is activated.
+– If this malfunction is not detected again by the end of the fol‐
+lowing driving cycle, the corresponding pending code will be
+deleted at the end of the driving cycle.
+Note
+Depending on scan tool and protocol used, some of the informa‐
+tion provided may be referred to by a different name.
+Procedure
+– Connect the scan tool.
+– Start the engine and run at idle.
+Note
+If the engine does not start, crank the engine using starter for at
+least 5 seconds. Do not switch the ignition off afterward.
+– Select Mode 7: Check test results of components that are
+continuously monitored.
+The number of pending DTCs or 0 malfunctions detected will be
+displayed on the scan tool screen.
+– Refer to the DTC tables for the diagnostic repair procedures.
+– Switch the ignition OFF.
+3.3.8 Diagnostic Mode 08 - Request Control
+of On-Board System, Test or Compo‐
+nent
+Not supported on this vehicle
+3.3.9 Diagnostic Mode 09 - Read Vehicle In‐
+formation
+Diagnostic Mode 09 makes it possible to access vehicle-specific
+information from the ECM and the TCM (where applicable).
+Note
+Depending on scan tool and protocol used, Diagnostic Mode 09
+and the information provided may be referred to by a different
+name.
+Test requirement
+• No internal ECM related DTC's stored in memory.
+Procedure
+– Connect the scan tool.
+– Switch the ignition on.
+– Select “Mode 09: Vehicle information”.
+25
+3. Diagnosis and Testing

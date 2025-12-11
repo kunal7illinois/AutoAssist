@@ -1,0 +1,70 @@
+BODY ELECTRICAL - AIR CONDITIONING BE-59
+(cid:2)SYSTEM CONTROL
+1. General
+The air conditioning system has the following controls.
+Automatic Manual
+Control Outline
+A/C A/C
+This control is capable of effecting complex control by artificially simulating
+Neural Network
+the information processing method of the nervous system of living
+Control (cid:3) —
+organisms in order to establish a complex input/output relationship that is
+[See page BE-60]
+similar to a human brain.
+The A/C ECU controls the damper positions (air inlet control damper, air
+mix control damper and mode control damper) and blower speed in
+Manual Control — (cid:3)
+accordance with the positions of the switches (temperature control switch,
+blower switch, mode select switch and air inlet control switch).
+Based on the temperature set at the temperature control switch, the neural
+network control calculates the outlet air temperature based on the input (cid:3) —
+signals from various sensors.
+OOuuttlleett AAiirr
+The temperature settings for the driver and front passenger are controlled
+Temp. Control
+independently in order to provide separate vehicle interior temperatures for
+(cid:3) —
+the right and left sides of the cabin. Thus, air conditioning that
+accommodates the occupants’ preferences has been realized.
+Controls the blower motor in accordance with the airflow volume that has
+Blower Control been calculated by the neural network control based on the input signals from (cid:3) —
+various sensors.
+Automatically switches the air outlets in accordance with the outlet mode
+that has been calculated by the neural network control based on the input (cid:3) —
+signals from various sensors.
+In accordance with the engine coolant temperature, outside air temperature,
+Air Outlet Control
+amount of sunlight, required blower, outlet temperature, and vehicle speed
+conditions, this control automatically switches the blower outlet to (cid:3) —
+FOOT/DEF mode to prevent the windows from becoming fogged when the
+outside air temperature is low.
+Automatically controls the air inlet control damper to achieve the calculated
+Air Inlet Control (cid:3) —
+required outlet air temperature.
+Through the calculation of the target evaporator temperature based on
+various sensor signals, the A/C ECU optimally controls the discharge
+(cid:3) (cid:3)
+capacity by regulating the opening extent of the A/C compressor solenoid
+valve.
+CCoommpprreessssoorr
+The A/C ECU compares the A/C pulley speed signals, which are
+Control
+transmitted by the lock sensor located on the A/C compressor, with the
+engine speed signals, which are transmitted by the ECM (crankshaft position (cid:3) (cid:3)
+sensor). When the A/C ECU determines that the A/C pulley is locked, it
+turns off the magnetic clutch. (Only for models with 2GR-FE engine)
+When the temperature control switch is in the MAX A/C position, the A/C
+MAX A/C ECU turns the compressor on and activates the servomotor (air inlet) to set
+— (cid:3)
+Control the air inlet control damper to the RECIRC position, improving the cooling
+efficiency.
+Rear Window Switches the rear defogger and outside rear view mirror heaters on for 15
+Defogger Control minutes when the rear defogger button is pressed. Switches them off if the (cid:3) (cid:3)
+[See page BE-172] button is pressed again while they are operating.
+Outside Calculates the outside temperature using signals transmitted by the outside
+Temperature temperature sensor. Calculated values are corrected by the A/C ECU and (cid:3) (cid:3)
+Indication Control then indicated on the multi-information display.
+Self-Diagnosis A DTC (Diagnostic Trouble Code) is stored in the memory when the A/C
+(cid:3) (cid:3)
+[See page BE-61] ECU detects a problem with the air conditioning system.

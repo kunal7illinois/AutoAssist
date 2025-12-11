@@ -1,0 +1,37 @@
+ES–227
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+1 READ OUTPUT DTC (CHECK KNOCK SENSOR CIRCUIT)
+(a) Disconnect the CV1 connector.
+(b) Using lead wires, connect the connectors as follows:
+Knock Sensor ECM
+CV1 Male Connector - Female Connector
+1 2 95 Terminal 2 - Terminal 4
+2 2 C55
+Terminal 1 - Terminal 3
+94
+1 1 C55 Terminal 4 - Terminal 2
+118 Terminal 3 - Terminal 1
+1 2 4 4 C55
+(c) Warm up the engine.
+117
+3 3 C55 (d) Run the engine at 3,000 rpm for 10 seconds or more.
+(e) Connect the intelligent tester to the DLC3.
+ES
+(f) Turn the ignition switch on (IG) and turn the intelligent
+tester on.
+CV1
+(g) Enter the following menus: DIAGNOSIS / ENHANCED
+Male Female
+OBD II / DTC INFO / CURRENT CODES.
+(h) Read the DTCs.
+Result
+Display Proceed to
+DTCs same as when vehicle brought in P0327, P0328
+A
+→ P0327, P0328 or P0332, P0333 → P0332, P0333
+G041090E02 DTCs different from when vehicle brought in P0327,
+P0328 → P0332, P0333 or P0332, P0333 → P0327, B
+P0328
+(i) Reconnect the CV1 connector.
+B Go to step 4
+A

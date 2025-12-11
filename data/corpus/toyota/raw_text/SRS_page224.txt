@@ -1,0 +1,19 @@
+RS–224
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+SRS Warning Light Remains ON
+DESCRIPTION
+The SRS warning light is located on the combination meter assembly.
+When the SRS is normal, the SRS warning light comes on for approximately 6 seconds after the ignition
+switch is turned from off to on (IG), and then goes off automatically.
+If there is a malfunction in the SRS, the SRS warning light comes on to inform the driver of a problem.
+When terminals TC and CG of the DLC3 are connected, the DTC is displayed by blinking of the SRS
+warning light.
+The SRS is equipped with a voltage-increase circuit (DC-DC converter) in the center airbag sensor
+assembly in case the source voltage drops.
+When the battery voltage drops, the voltage-increase circuit (DC-DC converter) functions to increase the
+voltage of the SRS to normal voltage.
+A malfunction in this circuit is not recorded in the center airbag sensor assembly. The SRS warning light
+automatically goes off when the source voltage returns to normal.
+The signal to illuminate the SRS warning light is transmitted from the center airbag sensor assembly to
+the combination meter assembly through the CAN communication system.
+RS

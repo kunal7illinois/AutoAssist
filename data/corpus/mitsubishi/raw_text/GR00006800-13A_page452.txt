@@ -1,0 +1,46 @@
+13A-452 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the engine start-ability.
+(1) Depress the accelerator pedal slightly, and start the engine.
+Q:Is the start ability good?
+YES : Go to Step 6.
+NO : Go to Step 7.
+STEP 6. Check the idle air control (IAC) motor operation
+sound.
+(1) Check that the engine coolant temperature is 20°C (68°F)
+CONNECTOR:B-34
+or below.
+IDLE AIR
+CONTROL MOTOR NOTE: If necessary, you can disconnect the engine coolant
+temperature sensor connector and connect the harness
+side of the connector to another engine coolant temperature
+sensor that is at 20°C (68°F) or below.
+(2) Check that the operation sound of the IAC motor can be
+heard after the ignition is switched to the "ON" position (but
+without starting the engine).
+• An operation sound is heard.
+ACX02519AI
+Q:Did you hear the operation sound?
+YES : Refer to, Clean the throttle valve area P.13A-575.
+NO : Refer to DTC P0506 Idle Control System RPM Lower
+Than Expected P.13A-390, DTC P0507 Idle Control
+System RPM Higher Than Expected P.13A-399.
+STEP 7. Check the ignition timing.
+(1) Check the ignition timing at cranking.
+Standard value: 5° BTDC ± 3°
+Q:Is the ignition timing normal?
+YES : Go to Step 8.
+NO : Check that the crankshaft position sensor and timing
+belt cover are in the correct position. Then confirm
+that the malfunction symptom is eliminated.
+STEP 8. Check harness connector B-01 or B-02 or B-05 or
+B-06 at injector for damage.
+Q:Is the harness connector in good condition?
+CONNECTOR : B-01, B-02, B-05, B-06
+YES : Go to Step 9.
+B-01 B-02 B-05B-06
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AAKK000000227733AB
+TSB Revision

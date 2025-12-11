@@ -1,0 +1,16 @@
+CH-72 CHASSIS - U660E AUTOMATIC TRANSAXLE
+Road Condition Support Control
+Under road condition support control, ECT ECU determines the throttle valve opening angle and the vehicle
+speed whether the vehicle is being driven uphill or downhill.
+To achieve the optimal drive force while driving uphill, this control prevents the transaxle from up shifting
+to the 5th or 6th gear. To achieve the optimal engine brake effect while driving downhill, this control
+automatically downshifts the transaxle to the 5th or 4th or 3rd gear.
+5th
+6th 4th 5th 3rd 5th 4th (Brake Operating) 6th without Control
+with Control
+6th 4th 3rd 4th 3rd 4th 5th 6th
+040SC13C
+Driver’s Intention Support Control
+Estimates the driver’s intention based on the accelerator operation and vehicle condition to switch to a shift
+pattern that is well-suited to each driver, without the need to operate the shift pattern select switch used in
+the conventional models.

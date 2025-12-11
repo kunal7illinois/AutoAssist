@@ -1,0 +1,47 @@
+LI–60
+LIGHTING – LIGHTING SYSTEM
+Interior Light Circuit
+DESCRIPTION
+The main body ECU controls the illuminated entry system (interior light and ignition key cylinder light).
+WIRING DIAGRAM
+Main Body ECU
+E25
+Transpoder Key Amplifier
+Instrument Panel J/B
+Ignition Key
+Cylinder Light
+10
+(*1) (*1)
+II ILE
+2 ILL+ ILL- 6 21
+Q9
+Rear Room Light Assembly
+DOOR (*3) 5
+IR
+2
+(*3)
+OFF
+1
+Interior Light
+ON 3
+Q6
+DOME Overhead J/B
+(*2)
+CTY
+6
+(*2)
+B
+7
+E
+8
+From Battery
+LI
+*1: without Smart Key System
+*2: with Sliding Roof
+*3: without Sliding Roof
+E121492E02
+INSPECTION PROCEDURE
+1 PERFORM ACTIVE TEST BY INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn intelligent tester
+main switch on.

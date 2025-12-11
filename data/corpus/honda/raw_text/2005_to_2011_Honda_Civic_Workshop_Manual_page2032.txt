@@ -1,0 +1,27 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+body ground in this fuse circuit.
+7. Disconnect EPS control unit connector A (2P) and connector D (28P).
+8. Measure voltage between EPS control unit connector A (2P) terminal No. 2
+and body ground.
+Fig. 14: Measuring Voltage Between EPS Control Unit Connector A (2P)
+Terminal No. 2 And Body Ground
+Is there battery voltage?
+YES -Check for loose terminals in the EPS control unit connectors, and repair
+if necessary. If no poor connections are found, replace the EPS control unit
+(see EPS CONTROL UNIT REMOVAL/INSTALLATION ).
+NO -Repair open in the wire between the EPS control unit and No. 1 (70 A)
+fuse in the under-hood fuse/relay box.
+DTC 21-01: EXCESSIVE CHANGE OF THE VEHICLE SPEED SIGNAL (REGULAR DIAGNOSIS);
+DTC 21-02: COMPARISON BETWEEN THE VEHICLE SPEED AND THE ENGINE SPEED SIGNAL
+(REGULAR DIAGNOSIS)
+NOTE:
+If the MIL indicator is on, troubleshoot the fuel and
+(cid:1)
+emissions systems first.
+Even though the system is operating normally, the EPS
+(cid:1)
+indicator will come on caused by the detecting
+condition of DTC 21-01 or DTC 21-02.
+1. Turn the ignition switch to LOCK (0).

@@ -1,0 +1,39 @@
+ME–63
+METER – METER / GAUGE SYSTEM
+2 CHECK DTC
+(a) Check if DTC B1244 is output (See page LI-20).
+Result
+Result Proceed to
+B1244 is not output A
+B1244 is output B (See page LI-23)
+B GO TO LIGHTING SYSTEM
+A
+3 PERFORM ACTIVE TEST BY INTELLIGENT TESTER
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester ON.
+(d) Enter the following menus: DIAGNOSIS / BODY / MAIN
+BODY / ACTIVE TEST.
+(e) Check the meter illumination.
+MAIN BODY:
+Item Test Details Diagnostic Note
+DIMMER SIG Auto dimmer signal ON/OFF -
+OK:
+The meter illumination is dimmed when the DIMMER
+SIG is ON.
+HINT:
+Refer to the sensitivity setting in the customization table of
+the automatic light control system. (See page LI-12)
+NG Go to step 4
+OK
+CHECK LIGHTING SETTING
+4 REPLACE COMBINATION METER ASSEMBLY
+ME
+(a) Replace the combination meter assembly to a new or a
+normal one.
+OK:
+The operation of the combination meter assembly
+returns to normal.
+NG REPLACE MAIN BODY ECU RH
+OK
+END

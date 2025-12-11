@@ -1,0 +1,35 @@
+13A-352 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the evaporative emission ventilation
+solenoid using scan tool MB991502.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+16 PIN
+MB991502
+AC001252AB
+(2) Disconnect hose E from the evaporative emission
+EVAPORATIVE EMISSION
+VENTILATION SOLENOID ventilation solenoid side, and connect a hand vacuum
+pump.
+(3) Turn the ignition switch to the "ON" position.
+(4) Set scan tool MB991502 to actuator test mode for item 29:
+Evaporative Emission Ventilation Solenoid. When the
+evaporative emission ventilation solenoid is operated, apply
+a pressure on the hand vacuum pump and confirm that air
+HOSE E
+is maintained.
+(5) Turn the ignition switch to the "LOCK" (OFF) position. Then
+AC002030AC
+disconnect scan tool MB991502.
+EVAPORATIVE EMISSION (6) Disconnect the hand vacuum pump, and connect hose E to
+VENTILATION SOLENOID
+the evaporative emission canister.
+Q:Is the solenoid valve in good condition?
+YES : Go to Step 6.
+NO : Replace the evaporative emission ventilation
+solenoid. Then go to Step 27.
+AC002031AB
+TSB Revision

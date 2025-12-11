@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+NO -Intermittent failure, the system is OK at this time. If any other DTCs were
+indicated, go to the INDICATED DTC'S TROUBLESHOOTING.
+5. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+6. Start the engine, and wait for at least 2 minutes.
+7. Check for DTCs in the A/T SYSTEM with the HDS.
+Is DTC U0155 indicated in the A/T SYSTEM?
+YES -Check for poor connections or loose terminals at the PCM. If the PCM
+was updated, substitute a known-good PCM (see SUBSTITUTING THE
+PCM ), then go to step 6. If the PCM was substituted, go to step 1.
+NO -Go to step 8.
+8. Monitor the OBD STATUS for U0151 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM (see ECM/PCM REPLACEMENT ). If
+any other DTCs were indicated in step 7, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals at the PCM. If the PCM was updated, substitute a known-good PCM
+(see SUBSTITUTING THE PCM ), then go to step 6. If the PCM was
+substituted, go to step 1. If the HDS indicates NOT COMPLETED, go to step
+6.
+ROAD TEST
+1. Start the engine, and warm it up to normal operating temperature (the radiator
+fan comes on).
+2. Apply the parking brake, and block both rear wheels.

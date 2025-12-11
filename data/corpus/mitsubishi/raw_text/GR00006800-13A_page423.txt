@@ -1,0 +1,49 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-423
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, check data list item 95:
+Manifold Differential Pressure Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+95, Manifold Differential Pressure Sensor.
+16 PIN • While engine is idling, pressure should be between 62
+and 76 kPa.
+MB991502
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+AKX01177AB
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+STEP 2. Check connector B-04 at manifold differential
+pressure sensor for damage.
+Q:Is the connector in good condition?
+CONNECTOR:B-04
+YES : Go to Step 3.
+MANIFOLD
+DIFFERENTIAL NO : Repair or replace it. Refer to GROUP 00E, Harness
+PRESSURE
+Connector Inspection P.00E-2. Then go to Step 12.
+SENSOR
+AK101574AB
+STEP 3. Check the sensor supply voltage at manifold
+differential pressure sensor harness side connector B-04.
+(1) Disconnect the connector B-04 and measure at the harness
+side.
+(2) Turn the ignition switch to "ON" position.
+(3) Measure the voltage between terminal 3 and ground.
+• Voltage should be between 4.8 and 5.2 volts.
+B-04 HARNESS
+(4) Turn the ignition switch to "LOCK" (OFF) position.
+SIDE CONNECTOR
+Q:Is the voltage normal?
+3 2 1
+YES : Go to Step 6.
+NO : Go to Step 4.
+AKX01427AD
+TSB Revision

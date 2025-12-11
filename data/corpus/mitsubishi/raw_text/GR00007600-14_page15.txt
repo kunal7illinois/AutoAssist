@@ -1,0 +1,53 @@
+COOLING SYSTEM 14-15
+ENGINE COOLING DIAGNOSIS
+STEP 4. Check the harness wire between ECM connector
+C-49 (terminal number 21) <2.4L-M/T>, C-51 (terminal
+number 18) <3.0L-M/T> or PCM connector C-50 (terminal
+number 18) <2.4L-A/T>, C-52 (terminal number 18) <3.0L-A/
+T> and fan controller connector A-30 (terminal number 2).
+NOTE: If intermediate connector C-07 (terminal number 6) is
+damaged, repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+Q:Are the harness wires between ECM connector C-49
+CONNECTOR:
+C-49 <2.4L-M/T>, C-50 <2.4L-A/T> (terminal number 21) <2.4L-M/T>, C-51 (terminal number
+C-51 <3.0L-M/T>, C-52 <3.0L-A/T> 18) <3.0L-M/T> or PCM connector C-50 (terminal number
+18) <2.4L-A/T>, C-52 (terminal number 18) <3.0L-A/T>
+ECM <M/T>
+OR and fan controller connector A-30 (terminal number 2)
+PCM <A/T> damaged?
+YES : Repair or replace them, then go to Step 6.
+NO : Go to Step 5.
+AC000245AE
+STEP 5. Check the fan controller at ECM connector C-49
+(terminal number 21) <2.4L-M/T>, C-51 (terminal number
+18) <3.0L-M/T> or PCM connector C-50 (terminal number
+18) <2.4L-A/T>, C-52 (terminal number 18) <3.0L-A/T>.
+(1) Disconnect ECM connector C-49 (terminal number 21)
+<2.4L-M/T>
+CONNECTOR C-49 <2.4L-M/T>, C-51 (terminal number 18) <3.0L-M/T> or
+PCM connector C-50 (terminal number 18) <2.4L-A/T>, C-
+52 (terminal number 18) <3.0L-A/T>.
+(2) Pull out the terminal number <2.4L-M/T> or 18 <2.4L-A/T,
+<2.4L-A/T, 3.0L>
+3.0L> and connect it to the body ground.
+CONNECTOR C-50, C-51, C-52
+(3) Reconnect ECM connector C-49 (terminal number 21)
+<2.4L-M/T>, C-51 (terminal number 18) <3.0L-M/T> or
+PCM connector C-50 (terminal number 18) <2.4L-A/T>, C-
+52 (terminal number 18) <3.0L-A/T> with pin 21 <2.4L-M/T>
+AC000257AC
+or 18 <2.4L-A/T, 3.0L> still removed.
+(4) Turn the ignition switch to the " ON" position.
+Q:Do the radiator fan motor and condenser fan motor
+stop?
+YES : Replace the ECM <M/T> or PCM <A/T>. Then go to
+Step 6.
+NO : Replace the radiator fan motor and fan controller
+assembly. Then go to Step 6 .
+STEP 6. Check the symptoms.
+Q:Do the radiator fan and condenser fan operate
+correctly?
+YES : This diagnosis is complete.
+NO : Return to Step 1.
+TSB Revision

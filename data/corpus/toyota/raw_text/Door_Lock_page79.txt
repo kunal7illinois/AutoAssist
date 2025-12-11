@@ -1,0 +1,59 @@
+DL–76
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/ Smart Key System)
+PROBLEM SYMPTOMS TABLE
+If a normal system code is displayed during the DTC check,
+but the problem still occurs, check the circuits for each
+problem symptom in the order given in the table below and
+proceed to the relevant troubleshooting page.
+HINT:
+• The following is the troubleshooting procedure for the
+wireless door lock control of a vehicle without the smart
+key system.
+• For the troubleshooting procedure for the wireless door
+lock control of a vehicle with the smart key system, refer to
+the wireless door lock control system (without Smart Key
+System).
+• Inspect the fuse and relay before investigating the
+suspected areas shown in the table below.
+• Inspect each malfunction circuit in numerical order for its
+corresponding symptom.
+WIRELESS DOOR LOCK CONTROL SYSTEM:
+Symptom Suspected area See page
+1. Perform the operation check DL-71
+2. Check if the CAN communication DTC is output CA-31
+3. Door control transmitter DL-210
+4. Door courtesy light switch circuit LI-52
+5. Luggage compartment door courtesy light switch DL-44
+The wireless door lock control system does not
+operate. 6. Power source circuit DL-89
+7. Replace door control receiver -
+8. Replace certification ECU -
+9. If the symptom still occurs after the above areas have been -
+inspected and proved to be normal, replace the main body
+ECU (Instrument panel J/B)
+1. Perform the operation check DL-71
+2. Door courtesy light switch circuit LI-52
+The automatic lock function does not operate normally.
+3. If the symptom still occurs after the above areas have been -
+inspected and proved to be normal, replace the main body
+ECU (Instrument panel J/B)
+1. Perform the operation check DL-71
+2. Lighting system LI-12
+The illuminated entry function only does not operate.
+3. If the symptom still occurs after the above areas have been -
+inspected and proved to be normal, replace the main body
+ECU (Instrument panel J/B)
+DL 1. Perform the operation check DL-71
+2. Wireless door lock buzzer circuit DL-86
+The answer back function does not operate (Wireless 3. Replace certification ECU -
+door lock buzzer).
+4. If the symptom still occurs after the above areas have been -
+inspected and proved to be normal, replace the main body
+ECU (Instrument panel J/B)
+1. Perform the operation check DL-71
+2. Wire harness -
+The answer back function does not operate (Hazard 3. Turn signal flasher LI-138
+warning light).
+4. If the symptom still occurs after the above areas have been -
+inspected and proved to be normal, replace the main body
+ECU (Instrument panel J/B)

@@ -1,0 +1,41 @@
+AUTOMATIC TRANSAXLE 23A-307
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 3. Using scan tool MB991502, check data list item 67:
+Select Switch, item 68: Shift Switch (Up), item 69: Shift
+Switch (Down).
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Check the following items in the data list.
+a. item 67: Select Switch
+b. item 68: Shift Switch (Up)
+c. item 69: Shift Switch (Down)
+The switches above are displayed, depending on the
+16 PIN selector lever condition as shown in the table.
+SELECTOR LEVER DATA LIST ITEM
+MB991502 AC001252AE
+OPERATION
+67 68 69
+D range OFF OFF OFF
+Sport mode ON OFF OFF
+Upshift and hold the ON ON OFF
+selector lever
+Downshift and hold ON OFF ON
+the selector lever
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the switch operating properly?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Replace the PCM.
+STEP 4. Check the shift switch assembly.
+Refer to P.23A-363, Transaxle Control.
+Q:Is the switch operating properly?
+YES : Go to Step 5.
+NO : Replace the shift switch assembly. Refer to P.23A-
+361, Transaxle Control.
+TSB Revision

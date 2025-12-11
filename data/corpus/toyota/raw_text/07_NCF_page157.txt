@@ -1,0 +1,30 @@
+EG-130 ENGINE - 2GR-FE ENGINE
+9. Cooling Fan Control System
+General
+A cooling fan control system is used. To achieve an optimal fan speed in accordance with the engine coolant
+temperature, vehicle speed, engine speed, and air conditioning operating conditions, the ECM calculates
+the proper fan speed and sends the signals to the cooling fan ECU. Upon receiving the signals from the ECM,
+the cooling fan ECU actuates the fan motors.
+(cid:1) Wiring Diagram (cid:2)
+From
+Battery
+Engine Coolant
+Temp. Sensor
+Fan No.1 Relay
+Crankshaft
+Position Sensor
+Combination Meter ECM
+Fan Motor
+No.1
+Vehicle Speed Signal
+Cooling
+Fan ECU
+A/C ECU
+Fan Motor
+(cid:3) A/C ON/OFF
+No.2
+Condition Signal
+(cid:3) A/C Refrigerant
+Pressure Signal
+CAN (CAN No.1 Bus)
+01YEG14TE

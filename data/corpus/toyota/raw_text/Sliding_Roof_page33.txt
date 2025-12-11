@@ -1,0 +1,29 @@
+RF–33
+SLIDING ROOF – SLIDING ROOF SYSTEM
+INSPECTION PROCEDURE
+1 PERFORM ACTIVE TEST BY INTELLIGENT TESTER (SLIDING ROOF OPERATION)
+(a) Select the ACTIVE TEST, use the intelligent tester to
+generate a control command, and then check that the
+sliding roof slides open/close and tilts up/down.
+Sliding roof ECU
+Item Test Details Diagnostic Note
+Operate sliding roof SLIDE CLOSE/TILT UP
+SLIDING ROOF CLOS/UP: Sliding roof SLIDE CLOSE or TILT UP operation occurs -
+OFF: Sliding roof is not operating
+Operate sliding roof SLIDE OPEN/TILT DOWN
+SLIDING ROOF OPEN/DOWN: Sliding roof SLIDE OPEN or TILT DOWN operation occurs -
+OFF: Sliding roof is not operating
+OK:
+Sliding roof operates normally.
+RF
+NG Go to step 2
+OK
+REPLACE SLIDING ROOF DRIVE GEAR SUB-ASSEMBLY (SLIDING ROOF CONTROL ECU)
+2 INSPECT FUSE (S/ROOF, ECU-IG NO. 1)
+(a) Remove the S/ROOF and ECU-IG No. 1 fuses from the
+instrument panel J/B.
+(b) Measure the resistance of the fuses.
+Standard resistance:
+Below 1 Ω
+NG REPLACE FUSE
+OK

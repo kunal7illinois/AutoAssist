@@ -1,0 +1,35 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-483
+SYMPTOM PROCEDURES
+STEP 5. Check backup light switch connector B-37 and
+ETACS-ECU connector C-117 for damage.
+Q:Are backup light switch connector B-37 and ETACS-
+CONNECTOR<2.4L ENGINE>: B-37
+ECU connector C-117 in good condition?
+YES : Go to Step 6.
+NO : Repair or replace the connector. Refer to GROUP
+00E, Harness Connector Inspection P.00E-2. If the
+rear wiper operates normally, it indicates that a
+correct "R" position signal is sent from the backup
+light switch.
+DEVICE SIDE
+1 2
+AC106467AB
+CONNECTOR<3.0L ENGINE WITH OUT
+VARIABLE INDUCTION SYSTEM>: B-37
+DEVICE SIDE
+1 2
+AC106469AB
+CONNECTOR<3.0L ENGINE WITH
+VARIABLE INDUCTION SYSTEM>: B-37
+DEVICE SIDE
+1 2
+AC106471AB
+CONNECTOR: C-117
+DEVICE SIDE
+21 22 23242526272829
+30 31 32333435363738
+39 40 41 424344
+JUNCTION BLOCK
+(REAR VIEW)
+AC106481AB
+TSB Revision

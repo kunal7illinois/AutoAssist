@@ -1,0 +1,33 @@
+BC–338
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+• Check the condition of each related circuit connector before troubleshooting (See page IN-40).
+1 INSPECT FUSIBLE LINK (ABS NO. 1 FUSE)
+(a) Remove the fusible link from the engine room R/B.
+Engine Room R/B (b) Check if the fusible link is malted.
+Fusible Link
+OK:
+The fusible link is not melted.
+(c) Install the fusible link to the engine room R/B with the
+nut.
+Torque: 5.4 N*m (55 kgf*cm, 48 in.*lbf)
+NG REPLACE FUSIBLE LINK
+ABS No. 1
+BC
+C136500E04
+OK
+2 INSPECT SKID CONTROL ECU (+BM TERMINAL VOLTAGE)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Harness Side (b) Measure the voltage according to the value(s) in the
+Connector Front View):
+table below.
+Standard voltage
+Tester Connection Condition Specified Condition
+A60
+A60-2 (+BM) - Body
+Always 10 to 14 V
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (+BM CIRCUIT)
++BM
+C136493E01
+OK

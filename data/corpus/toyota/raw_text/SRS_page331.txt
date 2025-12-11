@@ -1,0 +1,51 @@
+RS–329
+SUPPLEMENTAL RESTRAINT SYSTEM – OCCUPANT CLASSIFICATION SYSTEM
+Occupant Classification Sensor Power Supply
+DTC B1793
+Circuit Malfunction
+DESCRIPTION
+The occupant classification sensor power supply circuit consists of the occupant classification ECU and
+the occupant classification sensors.
+DTC B1793 is recorded when a malfunction is detected in the occupant classification sensor power
+supply circuit.
+DTC No. DTC Detecting Condition Trouble Area
+• The occupant classification ECU receives a line
+short circuit signal, an open circuit signal, a short • Front seat assembly RH (Occupant classification
+circuit to ground signal or a short circuit to B+ signal sensors)
+B1793
+in the occupant classification sensor power supply • Front seat wire RH
+circuit for 2 seconds. • Occupant classification ECU
+• Occupant classification ECU malfunction
+WIRING DIAGRAM
+T17 (*1)
+d5 (*2)
+Rear Occupant Classification Sensor RH Occupant Classification ECU
+6 6
+SVC4 T11 d1 SVC4
+1
+(*1) (*2)
+T16 (*1)
+d4 (*2)
+Front Occupant Classification Sensor RH
+RS
+12 12
+SVC2 T11 d1 SVC2
+1
+(*1) (*2)
+T15 (*1)
+d3 (*2)
+Rear Occupant Classification Sensor LH
+5 5
+SVC3 T11 d1 SVC3
+1
+(*1) (*2)
+T14 (*1)
+d2 (*2)
+Front Occupant Classification Sensor LH
+11 11
+SVC1 T11 d1 SVC1
+1
+(*1) (*2)
+*1: for Power Seat
+*2: for Manual Seat
+H045946E02

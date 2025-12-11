@@ -1,0 +1,49 @@
+BC–287
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+(1) Operation description
+The skid control ECU determines the vehicle
+operating conditions based on signals received
+from the wheel speed sensors, yaw rate and
+acceleration sensor, and steering angle sensor.
+The skid control ECU sends signals via CAN
+communication to the ECM in order to control
+engine torque. The skid control ECU controls
+brake hydraulic pressure using the pump and
+solenoid valves.
+The SLIP indicator light will blink, and the skid
+control system buzzer will sound when the
+system is operating. If a malfunction occurs in
+the VSC system, both the master caution
+indicator light and the SLIP indicator light will
+come on. In addition to this, the DTC will appear
+on the multi-information display. Vehicles without
+a multi-information display will illuminate the
+VSC warning light and SLIP indicator light if a BC
+malfunction occurs.
+3. ABS with EBD, BA, TRAC and VSC OPERATION
+(a) The skid control ECU calculates vehicle stability
+tendency based on the signals from the speed
+sensor, yaw rate and acceleration sensor, and
+steering angle sensor. In addition, it evaluates the
+results of the calculations to determine whether any
+control actions (control of the engine output torque
+by electronic throttle control and of the wheel brake
+pressure by the brake actuator assembly) should be
+implemented.
+(b) The SLIP indicator blinks and the skid control
+buzzer sounds to inform the driver that the VSC
+system is operating. The SLIP indicator also blinks
+when traction control is operating, and the operation
+being performed is displayed.
+4. FAIL SAFE
+(a) When a failure occurs in the ABS with BA, TRAC
+and VSC systems, the ABS and VSC warning (with
+multi-information display) lights, and SLIP indicator
+light come on and ABS with BA, TRAC and VSC
+operations are prohibited. In addition, when there is
+a failure that disables the EBD operation, the
+BRAKE warning light also comes on and the EBD
+operation is prohibited.
+(b) If control is prohibited due to a malfunction during
+operation, control will be disabled gradually. This is
+to avoid sudden vehicle instability.

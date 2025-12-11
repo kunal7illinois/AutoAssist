@@ -1,0 +1,54 @@
+DL–150
+DOOR LOCK – SMART KEY SYSTEM
+PROBLEM SYMPTOMS TABLE
+HINT:
+• Use the table below to help determine the cause of the
+problem symptoms. The potential causes of the symptoms
+are listed in order of probability in the "Suspected area"
+column of the table. Check each symptom by checking the
+suspected areas in the order they are listed. Replace parts
+as necessary.
+• Inspect the fuses and relays related to this system before
+inspecting the suspected areas below.
+SMART KEY SYSTEM:
+Symptom Suspected area See page
+1. Check for DTCs in the smart key system (Starting function). ST-26
+2. Refer to PROBLEM SYMPTOMS TABLE of the power door DL-11
+lock control system ("All doors cannot be locked/unlocked
+simultaneously by neither door control switch nor door key
+cylinder").
+3. Courtesy light switch circuit LI-52
+4. Lock position switch circuit -
+- Driver door DL-19
+- Front passenger door DL-22
+- Rear passenger door LH DL-25
+Entry lock/unlock does not operate.
+- Rear passenger door RH DL-28
+5. Entry lock switch cirucit DL-173
+6. Touch sensor circuit DL-177
+7. Antenna circuit DL-180
+8. Refer to "ID code matching inside the cabin cannot be -
+performed".
+9. Door oscillator circuit DL-168
+10. Replace the main body ECU. -
+11. Replace the certification ECU. -
+1. Check for DTCs in the smart key system (Starting function). ST-26
+2. Check if any function is cancelled due to customization. DL-145
+3. Refer to PROBLEM SYMPTOM TABLE of the power door DL-11
+lock control system ("Luggage compartment door opener does
+not operate").
+4. Operate the luggage compartment opener switch on the DL-71
+electrical key to check the wireless function.
+Luggage compartment does not open (when the 5. Refer to PROBLEM SYMPTOMS TABLE of the wireless DL-74
+electrical key is outside the vehicle). door lock control system of the wireless door lock control
+system ("The wireless door lock control system does not
+DL
+operate").
+6. Check operation of the cabin oscillator in active test. DL-156
+7. Luggage oscillator circuit DL-182
+8. Luggage compartment opener switch circuit DL-188
+9. Replace the main body ECU. -
+10. Replace the certification ECU. -
+1. Registration of the key. EI-8
+All entry function does not operate. 2. Certification ECU power source circuit DL-190
+3. Replace certification ECU. -

@@ -1,0 +1,52 @@
+ES–130
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Insufficient Coolant Temperature for Closed
+DTC P0125
+Loop Fuel Control
+DESCRIPTION
+Refer to DTC P0115 (see page ES-105).
+DTC No. DTC Detection Conditions Trouble Areas
+Engine Coolant Temperature (ECT) does not reach closed-
+• ECT sensor
+loop enabling temperature for 20 minutes (this period varies
+P0125 • Cooling system
+with engine start ECT)
+• Thermostat
+(2 trip detection logic)
+ES MONITOR DESCRIPTION
+The resistance of the ECT sensor varies in proportion to the actual ECT. The ECT supplies a constant
+voltage to the sensor and monitors the signal output voltage of the sensor. The signal voltage output
+varies according to the changing resistance of the sensor. After the engine is started, the ECT is
+monitored through this signal. If the ECT sensor indicates that the engine is not yet warm enough for
+closed-loop fuel control, despite a specified period of time having elapsed since the engine was started,
+the ECM interprets this as a malfunction in the sensor or cooling system and sets the DTC.
+Example:
+The ECT is 0°C (32°F) at engine start. After about 1 minute running time, the ECT sensor still indicates
+that the engine is not warm enough to begin closed-loop fuel (air-fuel ratio feedback) control. The ECM
+interprets this as a malfunction in the sensor or cooling system and sets the DTC.
+MONITOR STRATEGY
+Related DTCs P0125: Insufficient engine coolant temperature for closed-loop fuel control
+Required Sensors/Components (Main) Thermostat, cooling system
+Required Sensors/Components (Related) Engine coolant temperature sensor and mass air flow meter
+Frequency of Operation Once per driving cycle
+72.38 seconds or more: Engine coolant temperature at engine start 1.7°C
+(35°F) or more
+122.73 seconds or more: Engine coolant temperature at engine start -9.45° to
+Duration
+1.7°C (15° to 35°F)
+20 minutes or more: Engine coolant temperature at engine start less than -
+9.45°C (15°F)
+MIL Operation 2 driving cycles
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+P0100 - P0103 (MAF meter)
+Monitor runs whenever following DTCs not present P0110 - P0113 (IAT sensor)
+P0115 - P0118 (ECT sensor)
+Thermostat failure Not detected
+TYPICAL MALFUNCTION THRESHOLDS
+72.38 seconds or more: Engine coolant temperature at engine start 1.7°C
+(35°F) or more
+Time until actual engine coolant temperature reaches closed- 122.73 seconds or more: Engine coolant temperature at engine start -9.45° to
+loop fuel control enabling temperature 1.7°C (15° to 35°F)
+20 minutes or more: Engine coolant temperature at engine start less than -
+9.45°C (15°F)

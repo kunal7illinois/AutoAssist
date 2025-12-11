@@ -1,0 +1,30 @@
+ES–103
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+3 CHECK HARNESS AND CONNECTOR (OCV - ECM)
+(a) Disconnect the C42 or C46 OCV connector.
+Wire Harness Side Front View:
+(b) Disconnect the C55 ECM connector.
+OCV Connector (c) Measure the resistance between the terminals.
+Standard resistance (Check for open)
+Tester Connection Specified Condition
+C42
+OE1+ (C55-16) - C42-1 Below 1 Ω
+C46 OE1- (C55-17) - C42-2 Below 1 Ω
+OE2+ (C55-14) - C46-1 Below 1 Ω
+OE2- (C55-15) - C46-2 Below 1 Ω
+Standard resistance (Check for short)
+C55 ECM Connector ES
+Tester Connection Specified Condition
+OE2+ OE1- OE1+ (C55-16) or C42-1 - Body ground 10 kΩ or higher
+OE1- (C55-17) or C42-2 - Body ground 10 kΩ or higher
+OE2+ (C55-14) or C46-1 - Body ground 10 kΩ or higher
+OE2- (C55-15) or C46-2 - Body ground 10 kΩ or higher
+(d) Reconnect the ECM connector.
+(e) Reconnect the OCV connector.
+OE2-
+OE1+
+NG REPAIR OR REPLACE HARNESS OR
+A106380E14
+CONNECTOR
+OK
+REPLACE ECM (See page ES-481)

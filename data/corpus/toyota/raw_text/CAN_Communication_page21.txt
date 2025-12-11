@@ -1,0 +1,42 @@
+CA–21
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+(b) Measure the resistance according to the value(s) in
+Center Airbag Sensor the table below.
+Wire Harness View :
+CANH
+CANL
+E30 E1
+E10
+BAT
+CA
+C125063E03
+Standard resistance
+Terminals Wiring Color Terminal Description Condition Specified Condition
+HIGH-level CAN bus wire -
+E30-13 (CANH) - E30-22 (CANL) B - W Ignition Switch off 54 to 69 Ω
+LOW-level CAN bus wire
+HIGH-level CAN bus wire -
+E30-13 (CANH) - E30-25 (E1) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+LOW-level CAN bus wire -
+E30-22 (CANL) - E30-25 (E1) W - W-B Ignition Switch off 200 Ω or higher
+Ground
+HIGH-level CAN bus wire -
+E30-13 (CANH) - E10-16 (BAT) B - L Ignition Switch off 6 kΩ or higher
+Battery positive
+LOW-level CAN bus wire -
+E30-22 (CANL) - E10-16 (BAT) W - L Ignition Switch off 6 kΩ or higher
+Battery positive
+8. ECM
+(a) 2AZ-FE
+ECM:
+CANH A24
+(cid:20)(cid:21) (cid:20)(cid:20) (cid:20)(cid:19) (cid:20)(cid:18) (cid:19)(cid:27) (cid:19)(cid:26) (cid:19)(cid:25) (cid:19)(cid:24) (cid:19)(cid:23) (cid:19)(cid:22) (cid:19)(cid:21) (cid:19)(cid:20) (cid:19)(cid:19) (cid:19)(cid:18) (cid:27) (cid:26) (cid:25) (cid:24) (cid:23) (cid:22) (cid:21) (cid:20) (cid:19) (cid:19)(cid:19) (cid:19)(cid:18) (cid:27) (cid:26) (cid:25) (cid:24) (cid:23) (cid:22) (cid:21) (cid:20) (cid:19)
+(cid:22)(cid:18) (cid:21)(cid:27) (cid:21)(cid:26) (cid:21)(cid:25) (cid:21)(cid:24) (cid:21)(cid:23) (cid:21)(cid:22) (cid:21)(cid:21) (cid:21)(cid:20) (cid:21)(cid:19) (cid:21)(cid:18) (cid:20)(cid:27) (cid:20)(cid:26) (cid:20)(cid:25) (cid:20)(cid:24) (cid:20)(cid:23) (cid:20)(cid:22) (cid:19)(cid:27) (cid:19)(cid:26) (cid:19)(cid:25) (cid:19)(cid:24) (cid:19)(cid:23) (cid:19)(cid:22) (cid:19)(cid:21) (cid:19)(cid:20)
+(cid:22)(cid:24) (cid:22)(cid:23) (cid:22)(cid:22) (cid:22)(cid:21) (cid:22)(cid:20) (cid:22)(cid:19) (cid:24)(cid:21) (cid:24)(cid:20) (cid:24)(cid:19) (cid:24)(cid:18) (cid:23)(cid:27) (cid:23)(cid:26) (cid:23)(cid:25) (cid:23)(cid:24) (cid:23)(cid:23) (cid:23)(cid:22) (cid:23)(cid:21) (cid:23)(cid:20) (cid:23)(cid:19) (cid:23)(cid:18) (cid:22)(cid:27) (cid:22)(cid:26) (cid:22)(cid:25) (cid:21)(cid:18) (cid:20)(cid:27) (cid:20)(cid:26) (cid:20)(cid:25) (cid:20)(cid:24) (cid:20)(cid:23) (cid:20)(cid:22) (cid:20)(cid:21) (cid:20)(cid:20) (cid:20)(cid:19) (cid:20)(cid:18)
+(cid:26)(cid:24) (cid:26)(cid:23) (cid:26)(cid:22) (cid:26)(cid:21) (cid:26)(cid:20) (cid:26)(cid:19) (cid:26)(cid:18) (cid:25)(cid:27) (cid:25)(cid:26) (cid:25)(cid:25) (cid:25)(cid:24) (cid:25)(cid:23) (cid:25)(cid:22) (cid:25)(cid:21) (cid:25)(cid:20) (cid:25)(cid:19) (cid:25)(cid:18) (cid:24)(cid:27) (cid:24)(cid:26) (cid:24)(cid:25) (cid:24)(cid:24) (cid:24)(cid:23) (cid:24)(cid:22) (cid:22)(cid:19) (cid:22)(cid:18) (cid:21)(cid:27) (cid:21)(cid:26) (cid:21)(cid:25) (cid:21)(cid:24) (cid:21)(cid:23) (cid:21)(cid:22) (cid:21)(cid:21) (cid:21)(cid:20) (cid:21)(cid:19)
+(cid:19)(cid:18)(cid:21)(cid:19)(cid:18)(cid:20)(cid:19)(cid:18)(cid:19)(cid:19)(cid:18)(cid:18) (cid:27)(cid:27) (cid:27)(cid:26) (cid:27)(cid:25) (cid:27)(cid:24) (cid:27)(cid:23) (cid:27)(cid:22) (cid:27)(cid:21) (cid:27)(cid:20) (cid:27)(cid:19) (cid:27)(cid:18) (cid:26)(cid:27) (cid:26)(cid:26) (cid:26)(cid:25) (cid:22)(cid:27) (cid:22)(cid:26) (cid:22)(cid:25) (cid:22)(cid:24) (cid:22)(cid:23) (cid:22)(cid:22) (cid:22)(cid:21) (cid:22)(cid:20)
+(cid:19)(cid:18)(cid:27) (cid:19)(cid:18)(cid:26) (cid:19)(cid:18)(cid:25) (cid:19)(cid:18)(cid:24) (cid:19)(cid:18)(cid:23) (cid:19)(cid:18)(cid:22) (cid:19)(cid:20)(cid:24)(cid:19)(cid:20)(cid:23)(cid:19)(cid:20)(cid:22)(cid:19)(cid:20)(cid:21)(cid:19)(cid:20)(cid:20)(cid:19)(cid:20)(cid:19)(cid:19)(cid:20)(cid:18)(cid:19)(cid:19)(cid:27)(cid:19)(cid:19)(cid:26)(cid:19)(cid:19)(cid:25)(cid:19)(cid:19)(cid:24)(cid:19)(cid:19)(cid:23)(cid:19)(cid:19)(cid:22)(cid:19)(cid:19)(cid:21)(cid:19)(cid:19)(cid:20)(cid:19)(cid:19)(cid:19)(cid:19)(cid:19)(cid:18) (cid:24)(cid:18) (cid:23)(cid:27) (cid:23)(cid:26) (cid:23)(cid:25) (cid:23)(cid:24) (cid:23)(cid:23) (cid:23)(cid:22) (cid:23)(cid:21) (cid:23)(cid:20) (cid:23)(cid:19) (cid:23)(cid:18)
+CANL
+A107881E28
+(1) Disconnect the A24 connector from the ECM.

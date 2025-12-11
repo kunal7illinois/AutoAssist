@@ -1,0 +1,55 @@
+AC–44
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+2. ACTIVE TEST
+HINT:
+Performing the intelligent tester's ACTIVE TEST allows
+relays, VSVs, actuators and other items to be operated
+without removing any parts. Performing the ACTIVE
+TEST early in troubleshooting is one way to save time.
+The DATA LIST can be displayed in the ACTIVE TEST.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Enter the following menus: DIAGNOSIS / OBD/
+MOBD / AIR CONDITIONER / ACTIVE TEST.
+(e) Perform the ACTIVE TEST by referring to the table
+below.
+AIR CONDITIONER (for MANUAL A/C)
+Item Test Details / Display (Range) Diagnostic Note
+DEFOGER RLY-R
+Defogger relay (Rear) / OFF, ON -
+(Defogger relay (Rear))
+AIR MIX PULSE-D Driver side air mix servo motor pulse / Min.: 0,
+-
+(Air mix servomotor pulse (D side)) Max.: 255
+AIR OUT PULSE-D Driver side air outlet servo motor pulse / Min.:
+-
+(Air outlet servomotor pulse (D side) 0, Max.: 255
+A/I DAMP PLS Air inlet damper target pulse / Min.: 0, Max.:
+-
+(Air inlet damper target pulse) 255
+AIR CONDITIONER (for AUTO A/C)
+Item Test Details / Display (Range) Diagnostic Note
+BLOWER MOTOR
+AC Blower motor / Min.: Level 0, Max.: Level 31 -
+(Blower motor)
+DEFOGER RLY-R
+Defogger relay (Rear) / OFF, ON -
+(Defogger relay (Rear))
+AIR MIX PULSE-D Driver side air mix servo motor pulse / Min.: 0,
+-
+(Air mix servomotor pulse (D side)) Max.: 255
+AIR MIX PULSE-P Passenger side air mix servo motor pulse /
+-
+(Air mix servomotor pulse (P side)) Min.: 0, Max.: 255
+AIR OUT PULSE-D Driver side air outlet servo motor pulse / Min.:
+-
+(Air outlet servomotor pulse (D side) 0, Max.: 255
+A/I DAMP PLS Air inlet damper target pulse / Min.: 0, Max.:
+-
+(Air inlet damper target pulse) 255
+ENGINE
+Item Test Details / Display (Range) Diagnostic Note
+A/C MAG CLUTCH
+Magnetic clutch relay / ON or OFF -
+(Magnetic clutch relay)

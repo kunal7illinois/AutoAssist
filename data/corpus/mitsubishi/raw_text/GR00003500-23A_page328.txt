@@ -1,0 +1,56 @@
+23A-328 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+ACTUATOR TEST REFERENCE TABLE
+M1231008200130
+MUT-II SCAN ITEM INSPECTION ITEM TEST CONTENT INSPECTION NORMAL
+TOOL NO. REQUIREMENT CONDITION
+DISPLAY
+1st SHIFT 07 1st indicator light Illuminate each • Ignition switch: Shift indicator light
+LMP <Vehicles with sport indicator light for ON illuminates.
+mode> three to the signal • Selector lever
+from the MUT-II. position: P
+• Engine:
+stopped
+• Throttle
+opening
+voltage: Less
+than one volts
+2nd SHIFT 08 2nd indicator light
+LMP <Vehicles with sport
+mode>
+2ND SOL 03 Second solenoid valve Drive the solenoid The solenoid
+valve specified by should click when
+the scan tool activated
+(MUT-II) at 50 %
+duty for five
+seconds. No other
+solenoid valve
+should be
+energized.
+3rd SHIFT 09 3rd indicator light Illuminate each Shift indicator light
+LMP <Vehicles with sport indicator light for illuminates.
+mode> three to the signal
+from the MUT-II.
+4th SHIFT 10 4th indicator light
+LMP <Vehicles with sport
+mode>
+A/T RELAY 12 A/T control relay Control relay is Data list No. 54
+OFF for three • (1) During test:
+seconds. 0 V
+• (2) Normal:
+Battery positive
+voltage [12 V]
+L/R SOL 01 Low-reverse solenoid Drive the solenoid The solenoid
+valve valve specified by should click when
+the scan tool activated
+O/D SOL 04 Overdrive solenoid
+(MUT-II) at 50 %
+valve
+duty for five
+TCC SOL 06 Torque converter clutch
+seconds. No other
+solenoid valve
+solenoid valve
+U/D SOL 02 Underdrive solenoid should be
+valve energized.
+TSB Revision

@@ -1,0 +1,37 @@
+V1.2 User Guide 3/19/09 V1.2 User Guide 3/19/09
+TOOL USE Reading Sensors (continued)
+Reading Sensors TPM Not Found
+If the search period expires without reading a TPM then the BRT-
+DBL4 will emit a single Audible Beep and indicate on the display
+Once a TPM has been selected, either through the TPM Selection
+that no TPM was found. The OE part number will be displayed.
+process (i.e. Test Indicator visible) or simply a subsequent read of
+the previously selected type (TPM Indicator not visible) a TPM read
+can be initiated by pressing the Test Button.
+TPM Activation The TPM Data will still be stored but will indicate that the TPM Failed
+When the Test Button is pressed the BRT-DBL4 will begin the process to Read.
+of reading the TPM, this will be indicated by the display that details
+the TPM Type it is activating and a progress bar that indicates the Pressing the Left Back Button will return the user back to the
+maximum period for which it will send the LF Command and look previous menu.
+for the UHF response.
+TPM Data Storage
+The BRT-DBL4 is capable of storing up to 5 TPM Data records for
+Auditing purposes; this Data is also stored over a power down. TPM
+Data is stored chronologically, that is, the last read TPM’s data will
+TPM activation can be aborted at any time by pressing the Back always be displayed in Data Item position 1.
+Button. When the activation is aborted, the user will be returned to
+the previous menu. If a Data Item is empty then the display will regard that as an
+Unknown TPM (Note that unknown TPM’s are not displayed in the
+TPM Found Audit File, see Audit System).
+If a TPM of the indicated type is found, then the BRT-DBL4 will emit
+a series of tones that follows the pattern of received data. This TPM If a TPM is read that already exists in the TPM Data, then that TPM
+Data will immediately be stored and displayed. This newly stored Data record will be updated with the new information and placed
+TPM Data will be placed in Item position 1 and all other TPM Data at the top of the list just as if a new TPM had been read.
+will be shifted down a position.
+TPM’s that failed to be read are also stored, however, the BRT-DBL4
+Pressing the Back Button will return the user back to the menu they assumes that any failed read of a TPM that immediately follows a
+were previously on (i.e. the Menu Page where the user pressed the failed read of a TPM of same Type is an actual attempt to reread
+Test Button). that TPM, and so the TPM Data is just updated. Failures of the same
+Type that are interspersed by a successfully read TPM are stored as
+separate failures.
+14 15

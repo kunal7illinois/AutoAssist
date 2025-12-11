@@ -1,0 +1,49 @@
+AUTOMATIC TRANSAXLE 23A-263
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 8. Using scan tool MB991502, check data list item 11:
+Throttle position sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to data reading mode for item 11:
+Throttle Position Sensor.
+• With the throttle valve in idle position, voltage should be
+between 535 and 735 mV.
+• With the throttle valve in full-open position, voltage
+should be between 4,500 and 5,500 mV.
+16 PIN
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 AC001252AD Q:Is the sensor operating properly?
+YES : Go to Step 9.
+NO : Check the throttle position sensor. Refer to P.23A-42,
+P.23A-51, P.23A-59, diagnostic trouble code number
+11, 12, 14: Throttle Position Sensor System. Then
+check the symptom.
+STEP 9. Disassemble and clean the valve body.
+Check the O-ring installation bolts for looseness and the valve
+VALVE body for damage. Repair or replace the faulty parts. Refer to
+BODY
+GROUP 23B, Valve Body P.23B-74.
+ASSEMBLY
+Q:Is the repair possible and the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Replace the valve body assembly. Then check the
+symptom. Go to Step 10.
+AC001860AB
+STEP 10. Replace the PCM.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Start over at Step 1.
+INSPECTION PROCEDURE 8: Shift Shock when Shifting from "N" to "D," "N" to "R" and Long Delay
+. .
+COMMENT TROUBLESHOOTING HINTS (The most likely
+If abnormal shock or delay of two seconds or more causes for this code to be set:)
+occurs when the selector lever is moved from "N" to • Abnormal line pressure
+"D" range and from "N" to "R" range while the engine • Malfunction of the oil pump
+is idling, the cause is probably abnormal line pres- • Malfunction of the valve body
+sure or a malfunction of the oil pump or valve body. • Malfunction of the PCM
+.
+TSB Revision

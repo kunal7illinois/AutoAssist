@@ -1,0 +1,55 @@
+Audi TT No. 7 / 2
+Current Flow Diagram
+Climatronic control unit, fuses
+J255 Climatronic control unit
+J519 Onboard supply control unit
+SA4 Fuse 4 on fuse holder A
+SC1 Fuse 1 on fuse holder C
+SC4 Fuse 4 on fuse holder C
+SC12 Fuse 12 on fuse holder C
+SC16 Fuse 16 on fuse holder C
+SD3 Fuse 3 on fuse holder D
+B272 T2t 2-pin connector, black connector L, on onboard supply control
+B299 B272 unit
+6,0 16,0 16,0
+ro ro ro T16d 16-pin connector, black, connector D, on Climatronic control unit
+B300 E1 E1 44 Earth point, lower part of left A-pillar
+SD3 SA4
+22 110A 110A
+384 Earth connection 19, in main wiring harness
+✱✱ #
+4,0 4,0 6,0
+ro sw ro
+B163 Positive connection 1 (15), in interior wiring harness
+T2t/1 1 4 12 16
+J255 ✱
+B272 Positive connection (30), in main wiring harness
+SC1 SC4 SC12 SC16
+J519 10A 5A 10A 10A
+T2t/2 1a 4a 12a 16a T16d T16d B278 Positive connection 2 (15a), in main wiring harness
+/15 /16
+30 31
+4,0 0,5 1,0 1,0 B299 Positive connection 3 (30), in main wiring harness
+sw sw/ro ro/gn br
+B300 Positive connection 4 (30), in main wiring harness
+* Operating unit for air conditioning
+B163 B278 384
+** main fuse box, in luggage compartment, rear right, on the battery
+# Main fuse holder, electronics box, in front left engine
+compartment
+4,0 0,5 1,5
+sw sw/ro br
+55 3300
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 or = orange
+8J0-007020806
+rs = pink
+Edition 10.2008

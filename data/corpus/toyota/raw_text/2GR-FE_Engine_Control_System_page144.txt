@@ -1,0 +1,42 @@
+ES–144
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0110 Intake Air Temperature Circuit Malfunction
+DTC P0112 Intake Air Temperature Circuit Low Input
+DTC P0113 Intake Air Temperature Circuit High Input
+DESCRIPTION
+Fig. 1
+Resistance
+(kΩ)
+ES
+Acceptable
+(°C)
+Temperature
+(°F)
+A067628E20
+The Intake Air Temperature (IAT) sensor, mounted on the Mass Air Flow (MAF) meter, monitors the IAT.
+The IAT sensor has a built-in thermistor with a resistance that varies according to the temperature of the
+intake air. When the IAT drops, the resistance of the thermistor increases. When the temperature rises,
+the resistance drops. These variations in resistance are transmitted to the ECM as voltage changes (See
+Fig. 1).
+The IAT sensor is powered by a 5 V supply from the THA terminal of the ECM, via resistor R.
+Resistor R and the IAT sensor are connected in series. When the resistance value of the IAT sensor
+changes, according to changes in the IAT, the voltage at terminal THA also varies. Based on this signal,
+the ECM increases the fuel injection volume when the engine is cold to improve driveability.
+HINT:
+When any of DTCs P0110, P0112 and P0113 are set, the ECM enters fail-safe mode. During fail-safe
+mode, the IAT is estimated to be 20°C (68°F) by the ECM. Fail-safe mode continues until a pass condition
+is detected.
+DTC No. Proceed to DTC Detection Condition Trouble Area
+Open or short in Intake Air Temperature (IAT) • Open or short in IAT sensor circuit
+P0110 Step 1 sensor circuit for 0.5 seconds • IAT sensor (built into MAF meter)
+(1 trip detection logic) • ECM
+• Short in IAT sensor circuit
+Short in Intake Air Temperature (IAT) sensor
+P0112 Step 4 • IAT sensor (built into MAF meter)
+circuit for 0.5 seconds (1 trip detection logic)
+• ECM
+• Open in IAT sensor circuit
+Open in Intake Air Temperature (IAT) sensor
+P0113 Step 2 • IAT sensor (built into MAF meter)
+circuit for 0.5 seconds (1 trip detection logic)
+• ECM

@@ -1,0 +1,55 @@
+ES–29
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+PROBLEM SYMPTOMS TABLE
+HINT:
+Use the table below to help determine the cause of the
+problem symptom. The potential causes of the symptoms are
+listed in order of probability in the "Suspected area" column of
+the table. Check each symptom by checking the suspected
+areas in the order they are listed. Replace parts as
+necessary.
+SFI system
+Symptom Suspected area See page
+1. Battery CH-4
+2. Starter ST-8
+ES
+Engine does not crank (Does not start) 3. Starter relay ST-16
+4. Park/neutral position switch AX-108
+5. Immobiliser system EI-3
+1. ECM power source circuit ES-366
+2. Crankshaft position sensor ES-402
+3. Camshaft position sensor ES-399
+No initial combustion (Does not start) 4. Ignition system IG-4
+5. Fuel pump control circuit ES-378
+6. ECM ES-26
+7. VC output circuit ES-373
+1. Fuel pump control circuit ES-378
+Engine cranks normally but difficult to start
+2. Compression EM-3
+1. Ignition system IG-4
+2. Spark plug IG-7
+Difficult to start with cold engine
+3. Fuel pump control circuit ES-378
+4. Injector FU-11
+1. Injector FU-11
+2. Ignition system IG-4
+Difficult to start with warm engine
+3. Spark plug IG-7
+4. Fuel pump control circuit ES-378
+1. Electronic throttle control system ES-265
+High engine idle speed 2. A/C signal circuit -
+3. ECM power source circuit ES-366
+1. Electronic throttle control system ES-265
+2. A/C signal circuit -
+Low engine idle speed (Poor idling) 3. Fuel pump control circuit ES-378
+4. Air induction system EC-7
+5. PCV hose EC-7
+1. Compression EM-3
+2. Spark plug IG-7
+3. Injector FU-11
+4. Ignition system IG-4
+Rough idling 5. Fuel pump control circuit ES-378
+6. Electronic throttle control system ES-265
+7. Air induction system EC-7
+8. PCV hose EC-7
+9. Mass air flow meter ES-391

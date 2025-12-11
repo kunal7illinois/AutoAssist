@@ -1,0 +1,28 @@
+AUTOMATIC TRANSAXLE 23A-139
+AUTOMATIC TRANSAXLE DIAGNOSIS
+CONNECTORS: C-111, C-112
+JUNCTION BLOCK
+(FRONT VIEW)
+C-112
+C-111
+C-111
+C-112
+AC106814AB
+. .
+CIRCUIT OPERATION DTC SET CONDITIONS
+• Battery positive voltage is applied to the Park/ If the PCM detects no Park/Neutral position switch
+Neutral position switch (terminal 8) when the igni- input signal from any selector position for continuous
+tion switch is turned "ON." period of thirty seconds, it is judged that there is an
+• Battery positive voltage is applied to the PCM open circuit in the Park/Neutral position switch and
+(terminal 101) when the selector lever is in the diagnostic trouble code number "27" is output.
+"P" range. The PCM judges that the selector
+lever is in the "P" range when the battery positive . TROUBLESHOOTING HINTS (The most likely
+voltage is applied. causes for this code to be set:)
+• Battery positive voltage is applied to the PCM ter- • Malfunction of the Park/Neutral position switch
+minal 108 (121, 102, 109, 122 or 110) when the • Malfunction of the ignition switch
+selector lever is in the "R" range ("N," "D," "3," "2" • Damaged harness, connector
+or "L" range). The PCM judges that the selector • Malfunction of the PCM
+lever is in the "R" range ("N," "D," "3," "2" or "L"
+range) when the battery positive voltage is
+applied.
+TSB Revision

@@ -1,0 +1,55 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 STEERING EPS System - Civic (All Except Hybrid & Si)
+TERMINAL NUMBER REFERENCE
+Terminal
+Signal
+Terminal Wire sign
+Description
+number color (Terminal
+Terminals Conditions Voltage
+name)
+CAN
+CAN-H
+1 WHT communication - - -
+(CAN-HI)
+circuit
+NEP Detects With 3 V or
+3 BLU (Engine tachometer 3-GND engine less-6 V
+pulse) signal running or more
+SCS
+Detects service
+(Service SCS not About 5
+7 BRN check connector 7-GND
+check grounded V
+signal
+signal)
+VS2
+LT Detects torque
+8 (Voltage - - -
+GRN sensor signal
+sensor 2)
+PVF
+Drives the
+9 BRN (Voltage - - -
+torque sensor
+fade)
+VS1
+Detects torque
+10 GRN (Voltage - - -
+sensor signal
+sensor 1)
+Detects motor
+S1 (Signal
+12 PNK angle sensor - - -
+1)
+signal
+R1 (Motor Detects motor
+13 BLU angle angle sensor - - -
+sensor 1) signal
+Detects motor
+S2 (Signal
+14 BRN angle sensor - - -
+2)
+signal
+CAN-L CAN

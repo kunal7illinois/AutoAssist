@@ -1,0 +1,47 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-609
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+. • Improper connector contact, open circuit or short-
+TROUBLESHOOTING HINTS (The most likely
+circuited harness wire.
+causes for this code to be set are:)
+• Malfunction of the ignition switch. • Disconnected ECM <M/T> or PCM <A/T> ground
+• Malfunction of the MFI relay. wire.
+• Malfunction of the ECM <M/T> or PCM <A/T>.
+DIAGNOSIS
+STEP 1. Check connector A-18X at MFI relay for damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-18X
+YES : Go to Step 2.
+MFI RELAY NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK101363AB
+STEP 2. Check the MFI relay.
+(1) Remove the MFI relay.
+CONNECTOR: A-18X
+MFI RELAY
+AK101363AB
+(2) Check for continuity between the MFI relay terminals 2 and
+3.
+• There should be continuity. (approximately 70 Ω)
+(3) Use jumper wires to connect MFI relay terminal 2 to the
+1 2 positive battery terminal and terminal 3 to the negative
+3 4 battery terminal.
+MFI RELAY
+SIDE
+CONNECTOR
+AK101234AB
+(4) Check the continuity between the MFI relay terminals 1 and
+MFI RELAY SIDE 4 while connecting and disconnecting the jumper wire at the
+CONNECTOR
+negative battery terminal.
+1 2 • Should be less than 2 ohm. (Negative battery terminal
+3 4 connected)
+• Should be open loop. (Negative battery terminal discon-
+nected)
+(5) Install the MFI relay.
+Q:Is the voltage normal?
+AK101235AB YES : Go to Step 3.
+NO : Replace the MFI relay. Then confirm that the
+malfunction symptom is eliminated.
+TSB Revision

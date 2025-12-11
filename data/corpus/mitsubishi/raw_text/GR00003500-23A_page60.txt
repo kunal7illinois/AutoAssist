@@ -1,0 +1,41 @@
+23A-60 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 2. Using scan tool MB991502, check data list item 11:
+Throttle Position Sensor.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to data reading mode for item 11:
+Throttle Position Sensor.
+• With the throttle valve in idle position, voltage should be
+between 535 and 735 mV.
+• With the throttle valve in full-open position, voltage
+should be between 4,500 and 5,500 mV.
+16 PIN
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 AC001252AB Q:Is the sensor operating properly?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Go to Step 3.
+STEP 3. Check the sensor output voltage at throttle
+position sensor connector B-07 by backprobing.
+(1) Do not disconnect connector B-07.
+CONNECTOR: B-07
+<2.4L ENGINE> <3.0L ENGINE> (2) Turn the ignition switch to the "ON" position.
+B-07
+B-07
+AC001831AF
+(3) Measure the voltage between terminal 3 and ground by
+backprobing.
+• With the throttle valve in idle position, voltage should be
+B-07 CONNECTOR
+between 0.535 and 0.735 volts.
+HARNESS SIDE VIEW
+• With the throttle valve in full-open position, voltage
+should be between 4.5 and 5.5 volts.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the voltage normal?
+YES : Go to Step 4.
+AC001548AC NO : Go to Step 8.
+TSB Revision

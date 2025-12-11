@@ -1,0 +1,30 @@
+BC–177
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+DTC C0226/21 SFR Solenoid Circuit
+DTC C0236/22 SFL Solenoid Circuit
+DTC C0246/23 SRR Solenoid Circuit
+DTC C0256/24 SRL Solenoid Circuit
+DTC C1225/25 SM Solenoid Circuit
+DESCRIPTION
+These solenoids turn on when signals are received from the skid control ECU and they control the
+pressure acting on the wheel cylinders to control the braking force.
+DTC No. DTC Detection Condition Trouble Area
+C0226/21 BC
+C0236/22 Open or short in the solenoid circuit continues for 0.05 seconds or • Brake actuator assembly
+C0246/23 more. • Solenoid circuit
+C0256/24
+When any of the following is detected:
+• While outputting switching solenoid (SM1 or SM2) ON,
+overcurrent continues for 0.05 seconds or more.
+• While outputting switching solenoid (SM1 or SM2) OFF, an
+open circuit continues for 0.05 seconds or more.
+• While outputting switching solenoid (SM1 or SM2) ON,
+• Brake actuator assembly
+C1225/25 an open circuit continues for 0.1 second or more.
+• SM1 or SM2 circuit
+• While outputting switching solenoid (SM1 or SM2) OFF,
+current continues to be applied for 0.1 second or more.
+• Short to GND in the switching solenoid (SM1 or SM2)
+continues for 0.1 second or more.
+• Switching solenoids SM1 and SM2 are shorted for 0.1 second
+or more.

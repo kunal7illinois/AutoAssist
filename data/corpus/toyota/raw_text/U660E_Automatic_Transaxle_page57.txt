@@ -1,0 +1,32 @@
+AX–57
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Either a or b is met (See below)
+a. All of the following conditions are met
+ECT 20°C (68°F) or more
+ECT sensor fail Not detected
+Time after PNP switch ON to OFF 2 sec. or more
+b. All of the following conditions are met AX
+ECT Less than 20°C (68°F)
+ECT sensor fail Detected
+Time after PNP switch ON to OFF 30 sec. or more
+TYPICAL MALFUNCTION THRESHOLDS
+Vehicle speed sensor signal No pulse input
+WIRING DIAGRAM
+F2 TCM
+Combination Meter
+3
++S SPD1
+C56
+12
+8
+C56 E1
+A122761E04
+INSPECTION PROCEDURE
+1 INSPECT SPEEDOMETER (METER OPERATION)
+(a) Drive the vehicle and check if operation of the
+speedometer in the combination meter is normal.
+HINT:
+The vehicle speed sensor is operating normally if the
+speedometer display is normal.
+NG CHECK SPEEDOMETER CIRCUIT
+OK

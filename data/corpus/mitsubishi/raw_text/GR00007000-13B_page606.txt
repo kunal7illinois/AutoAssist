@@ -1,0 +1,23 @@
+13B-606 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 3. Check for open circuit and short circuit to ground
+and harness damage between fan controller A-30 terminal
+2 and ECM connector C-51 terminal 18 <M/T> or PCM
+connector C-52 terminal 18 <A/T>.
+NOTE: Check harness after checking intermediate connector
+CONNECTOR : A-30
+C-07. If intermediate connector is damaged, repair or replace
+them. Refer to GROUP 00E, Harness Connector Inspection
+FAN
+CONTROLLER P.00E-2. Then confirm that the malfunction symptom is elimi-
+nated.
+Q:Is the harness wire in good condition?
+YES : Refer to GROUP 14 − Engine Cooling Diagnosis −
+Symptom Chart P.14-3.
+NO : Repair it. Then confirm that the malfunction symptom
+ACX02501AE is eliminated.
+CONNECTOR : C-51<M/T>, C-52<A/T>
+PCM<A/T> ECM<M/T>
+C-52 C-51
+AK000225AJ
+TSB Revision

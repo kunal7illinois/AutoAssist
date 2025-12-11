@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+TROUBLESHOOTING INFORMATION ).
+This code is caused by an electrical circuit problem and
+(cid:1)
+cannot be caused by a mechanical problem in the
+transmission.
+1. Turn the ignition switch to ON (II).
+2. Clear the DTC with the HDS.
+3. Check the 2nd PRESSURE SWITCH in the DATA LIST with the HDS when
+not in 2nd gear.
+Is the 2nd PRESSURE SWITCH OFF?
+YES -Go to step 4.
+NO -Go to step 7.
+4. Start the engine, and warm it up to normal operating temperature (the radiator
+fan comes on).
+5. Test-drive the vehicle in 3rd gear with the shift lever in D, for at least 2
+seconds.
+6. Monitor the OBD STATUS for P0842 in the DTCs MENU with the HDS.
+Does the HDS indicate FAILED?
+YES -Go to step 7.
+NO -If the HDS indicates PASSED, intermittent failure, the system is OK at
+this time. Check for intermittent short to body ground in the wire between the
+2nd clutch transmission fluid pressure switch and the PCM. If the HDS
+indicates NOT COMPLETED, go to step 4.
+7. Turn the ignition switch to LOCK (0).
+8. Disconnect the 2nd clutch transmission fluid pressure switch connector.
+9. Turn the ignition switch to ON (II).
+10. Check the 2nd PRESSURE SWITCH in the DATA LIST with the HDS.

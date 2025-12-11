@@ -1,0 +1,53 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-141
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTORS:C-60<M/T>,C-54,C-57<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+HEATED OXYGEN C-54 C-60
+SENSOR (FRONT) C-57
+ACX02476AK
+AK000280BD
+CONNECTOR: B-17
+AAKK110033552266AB
+. • The ECM <M/T> or PCM <A/T> forcibly varies
+CIRCUIT OPERATION
+• A voltage corresponding to the oxygen concen- the air/fuel mixture to make it leaner and richer,
+and checks the response speed of the heated
+tration in the exhaust gas is sent to the ECM (ter-
+oxygen sensor (front). In addition, the ECM <M/
+minal 76) <M/T> or PCM (terminal 71) <A/T>
+T> or PCM <A/T> also checks for an open circuit
+from the output terminal (terminal 4) of the heated
+in the heated oxygen sensor (front) output line.
+oxygen sensor (front).
+• Terminal 2 of the heated oxygen sensor (front) is
+.
+grounded with ECM (terminal 92) <M/T> or PCM DTC SET CONDITIONS
+(terminal 57) <A/T>.
+Check Conditions
+• 2 seconds or more have passed since the start-
+.
+TECHNICAL DESCRIPTION ing sequence was completed.
+• The heated oxygen sensor (front) detects the
+Judgment Criteria
+concentration of oxygen in the exhaust gas; it
+• Heated oxygen sensor (front) output voltage has
+converts those data to voltage, and inputs the
+continued to be 1.2 volts or higher for 2 seconds.
+resulting signals to the ECM <M/T> or PCM <A/
+T>.
+.
+• When the heated oxygen sensor (front) begins to TROUBLESHOOTING HINTS (The most likely
+causes for this code to be set are: )
+deteriorate, the heated oxygen sensor signal
+• Heated oxygen sensor (front) deteriorated.
+response becomes poor.
+• Short circuit in heated oxygen sensor (front) out-
+put line.
+• ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

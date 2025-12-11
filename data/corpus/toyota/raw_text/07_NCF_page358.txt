@@ -1,0 +1,37 @@
+BE-24 BODY ELECTRICAL - LIGHTING
+(cid:3)LIGHT TURN-OFF SYSTEM
+(cid:3) The light turn-off system is used to prevent the driver from leaving the vehicle with the exterior lights
+(headlights, fog lights, parking lights, taillights and license plate lights) ON.
+(cid:3) If the pwer source* is turned OFF and any door is opened and all doors (including the luggage
+compartment door) are closed with all exterior lights ON, this system turns them OFF approximately 30
+seconds after door closure. However, with all the doors locked, when the lock button on the wireless
+remote control is pushed, the exterior lights are turned OFF immediately.
+(cid:3) When the power source* is turned OFF and the driver’s door is opened with the exterior lights except
+headlights ON, this system turns them OFF.
+*: The power source condition can be changed by operating the engine switch on models with the smart key
+system, and the ignition switch on models without the smart key system.
+(cid:1) System Diagram (cid:2)
+Ignition*1/Engine Switch*2
+Power Distributor
+(IG1 Relay)
+(cid:3) Headlight Relays Headlights
+(cid:3) DRL Relay
+Light Control
+Switch
+Door Lock
+Detection Switches Main
+Body Fog Light Relay Front Fog Lights
+ECU
+Courtesy Switches
+Wireless Door Lock Taillights
+Receiver*1
+License Plate
+Taillight Relay
+CAN Lights
+(MS Bus)
+Certification ECU*2
+Parking Lights
+Door Lock Request Signal
+025BE11P
+*1: Models without smart key system
+*2: Models with smart key system

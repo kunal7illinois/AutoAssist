@@ -1,0 +1,30 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-333
+SYMPTOM PROCEDURES
+STEP 19. Check the wiring harness between headlight (RH)
+connector A-35 (terminal 3) and front-ECU connector A-
+10X (terminal 2).
+NOTE: Also check intermediate connector C-06. If intermediate
+CONNECTOR: A-35
+connector C-06 is damaged, repair or replace the connector as
+described in GROUP 00E, Harness Connector Inspection
+P.00E-2.
+DEVICE SIDE
+1
+2 3
+AC106465AJ
+CONNECTOR: A-10X
+FRONT-ECU
+DEVICE SIDE A-10X
+1 2 3 4 5 6 7 8 91011
+AC106535AE
+Q:Is the wiring harness between headlight (RH) connector
+CONNECTOR: C-06
+A-35 (terminal 3) and front-ECU connector A-10X
+HARNESS SIDE
+(terminal 2) in good condition?
+1 2 3 4 5 6 7 8
+9101112131415161718 YES : No action to be taken.
+NO : Repair the wiring harness. Check that the headlights
+illuminate normally.
+AC106473AF
+TSB Revision

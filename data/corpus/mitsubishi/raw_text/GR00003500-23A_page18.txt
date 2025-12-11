@@ -1,0 +1,51 @@
+23A-18 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+FAIL-SAFE/BACKUP FUNCTION
+M1231008300137
+When malfunctions of the main sensors or actuators The following table shows how the fail-safe/backup
+are detected by the PCM, the transaxle is controlled function affects vehicle driveability and operation.
+by pre-set control logic to maintain safe conditions
+for driving.
+MALFUNCTIONING JUDGEMENT CONTROL CONTENTS DURING MALFUNCTION
+ITEM CONDITION
+Input shaft speed sensor No output pulse from the The diagnostic trouble code is recorded when the
+input shaft speed sensor is judgement condition occurs once. When the
+detected for one second or judgement condition is met four times, the transaxle
+more when the vehicle holds 3rd gear or 2nd gear depending on speed and
+speed is 30 km/h (19 mph) for vehicles with sport mode "N" range light flashes
+or more. as a fail-safe.
+Output shaft speed The output signal from the The diagnostic trouble code is recorded when the
+sensor output shaft speed sensor judgement condition occurs once. When the
+has been lost for one judgement condition is met four times, the transaxle
+second or more while the holds 3rd gear or 2nd gear depending on speed and
+vehicle is being driven. for vehicles with sport mode "N" range light flashes
+as a fail-safe.
+Low-reverse solenoid Solenoid valve resistance When the judgement condition is met four times, the
+valve is below 2.7 W for 0.32 A/T control relay is turned off and for vehicles with
+seconds. sport mode "N" range light flashes. The transaxle
+Underdrive solenoid
+will only operate in 3rd and reverse gears until the
+valve
+system is repaired.
+Second solenoid valve
+Overdrive solenoid valve
+Torque converter clutch
+solenoid valve
+Incomplete 1st Gear ratio value which is The diagnostic trouble code is displayed and the
+shifting sent from the output shaft judgement condition occurs once. When the
+2nd
+speed sensor is not judgement condition is met four times, the A/T
+3rd
+identical to the output from control relay is turned off and for vehicles with sport
+4th the input shaft speed mode "N" range light flashes. The transaxle will only
+Reverse sensor for one second operate in 3rd and reverse gears until the system is
+after shifting finished. repaired.
+A/T control relay A/T control relay voltage is Switch the A/T control relay off and for vehicles with
+less than seven volts for sport mode "N" range light flashes. The transaxle
+0.1 second after the will only operate in 3rd and reverse gears until the
+ignition switch is turned system is repaired.
+"ON."
+Abnormality in the PCM Abnormality has occurred Switch the A/T control relay off. The transaxle will
+in the PCM. only operate in 3rd and reverse gears until the
+system is repaired.
+TSB Revision

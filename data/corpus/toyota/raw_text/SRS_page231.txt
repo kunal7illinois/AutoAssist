@@ -1,0 +1,57 @@
+RS–231
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+3 CHECK WIRE HARNESS (SOURCE VOLTAGE OF COMBINATION METER)
+(a) Turn the ignition switch off.
+Combination Meter Assembly Side: (b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Disconnect the F1 connector from the combination meter
+assembly.
+(d) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+(e) Turn the ignition switch on (IG).
+F1
+(f) Measure the voltage according to the value(s) in the
+E2 B2
+table below.
+Standard voltage
+B
+Tester Connection Condition Specified Condition
+F1-1 (B) - Body ground Always 10 to 14 V
+F1-2 (B2) - Body
+ES IG+ Always 10 to 14 V
+ground
+E123360E02
+F1-13 (IG+) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+(g) Turn the ignition switch off.
+(h) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+F1-12 (E2) - Body
+Always Below 1 Ω
+ground
+RS
+F1-24 (ES) - Body
+Always Below 1 Ω
+ground
+NG REPAIR OR REPLACE WIRE HARNESS
+OK
+4 CHECK SRS WARNING LIGHT
+(a) Turn the ignition switch off.
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Connect the connector to the combination meter
+assembly.
+(d) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+(e) Turn the ignition switch on (IG).
+(f) Check the SRS warning light condition.
+OK:
+After the primary check period, SRS warning light
+goes off for approximately 10 seconds, and
+remains on.
+HINT:
+The primary check period is approximately 6 seconds
+after the ignition switch is turned on (IG).

@@ -1,0 +1,44 @@
+ES–361
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Result
+Test Results Suspected Trouble Areas Proceed To
+EVAP hose between purge VSV and intake manifold
+Suction applied A
+normal
+• Intake manifold port
+No suction B
+• EVAP hose between purge VSV and intake manifold
+(d) Reconnect the hose.
+B Go to step 25
+A
+16 INSPECT DUTY VACUUM SWITCHING VALVE (PURGE VSV) ES
+(a) Remove the purge VSV.
+Purge VSV
+(b) Apply the battery voltage to the terminals of the purge
+VSV.
+(c) Using an air gun, confirm that air flows from port A to port
+A
+B.
+B
+A112597E01
+Result
+Test Results Suspected Trouble Areas Proceed To
+Air flows Purge VSV normal A
+No air flow Purge VSV B
+(d) Install the purge VSV.
+B Go to step 30
+A
+17 CHECK HARNESS AND CONNECTOR (POWER SOURCE OF PURGE VSV)
+(a) Disconnect the B2 purge VSV connector.
+Wire Harness Side:
+(b) Turn the ignition switch ON.
+Purge VSV Connector (c) Measure the voltage between terminal 2 of the purge
+B2 VSV connector and the body ground.
+Front View
+A052933E22
+Result
+Test Results Suspected Trouble Areas Proceed To
+9 to 14 V Normal A
+Wire harness or connectors between purge VSV and
+Other than result above B
+ECM

@@ -1,0 +1,47 @@
+ES–359
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Monitor Driving Pattern
+ECT: 75°C (167°F) or more
+Accelerator Pedal Accelerator Pedal
+Between 38 and 75 mph Depressed At least 3 times Released (Fuel-cut)
+Vehicle Speed
+(60 and 120 km/h)
+(B) (D) (E)
+40 mph (64 km/h)
+or more
+(F)
+6 mph
+(10 km/h)
+(A) (C)
+Idling
+Time
+ES
+Warming up 10 minutes 10 seconds 4 seconds
+or more or more or more
+Refer to figure below
+A107162E21
+Driving Pattern Detail for (C) through (F)
+Cumulative Detection Period "t" = t1 + t2 + t3 = 3 seconds or more
+Reference Engine RPM
+Delay Detection Period t1
+(D) (E)
+(F)
+2,500 rpm
+1,000 rpm
+Idling t2 t3
+(C)
+Time
+Idling
+4 seconds 4 seconds 4 seconds
+or more or more or more
+A107163E08
+1. Connect an intelligent tester to the DLC3.
+2. Turn the ignition switch on (IG).
+3. Turn the tester on.
+4. Clear the DTCs.
+5. Start the engine, and warm it up until the ECT reaches 75°C (167°F) or higher (Procedure "A").
+6. On the intelligent tester, enter the following menus to check the fuel-cut status: DIAGNOSIS /
+ENHANCED OBD II / DATA LIST / USER DATA / FC IDLE.
+7. Drive the vehicle at between 38 mph (60 km/h) and 75 mph (120 km/h) for at least 10 minutes
+(Procedure "B").
+8. Change the transmission to the 2nd gear (Procedure "C").

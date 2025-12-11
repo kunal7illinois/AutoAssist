@@ -1,0 +1,42 @@
+ES–86
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+5 CHECK HARNESS AND CONNECTOR (A/F SENSOR - ECM)
+(a) Disconnect the B7 A/F sensor connector.
+Wire Harness Side: (b) Disconnect the B30 ECM connector.
+(c) Measure the resistance.
+Standard resistance (Check for open)
+A/F Sensor Connector
+Tester Connections Specified Conditions
+HA1A B7-1 (HA1A) - B30-109 (HA1A) Below 1 Ω
+Standard resistance (Check for short)
+B7
+Tester Connections Specified Conditions
+ES
+B7-1 (HA1A) or B30-109 (HA1A) -
+10 kΩ or higher
+Body ground
+ECM Connector (d) Reconnect the A/F sensor connector.
+B30
+(e) Reconnect the ECM connector.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+HA1A
+A127715E01
+OK
+6 CHECK WHETHER DTC OUTPUT RECURS
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON.
+(c) Turn the tester ON.
+(d) Clear DTCs (see page ES-35).
+(e) Start the engine.
+(f) Allow the engine to idle for 1 minute or more.
+(g) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(h) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+No output A
+P0031 or P0032 B
+B REPLACE ECM
+A
+CHECK FOR INTERMITTENT PROBLEMS

@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+not indicated, go to step 4.
+NO -If any DTCs are indicated, go to the indicated DTCs troubleshooting. If
+DTCs are not indicated, intermittent failure, the system is OK at this time.
+Check for loose terminals at the yaw rate-lateral acceleration sensor 5P
+connector and the VSA modulator-control unit 37P connector. Refer to
+INTERMITTENT FAILURES TROUBLESHOOTING (see ).
+4. Turn the ignition switch to LOCK (0).
+5. Disconnect the yaw rate-lateral acceleration sensor 5P connector.
+6. Disconnect the VSA modulator-control unit 37P connector.
+7. Check for continuity between the VSA modulator-control unit 37P connector
+terminal and the yaw rate-lateral acceleration sensor 5P connector terminal (see
+table).
+CONNECTOR TERMINAL DESCRIPTION
+Connector Terminal No.
+Sign VSA Modulator-control Yaw Rate-lateral Acceleration
+Unit Sensor
+CAN-L 1 4
+CAN-
+15 3
+H
+Fig. 51: Checking Continuity Between VSA Modulator-Control Unit And

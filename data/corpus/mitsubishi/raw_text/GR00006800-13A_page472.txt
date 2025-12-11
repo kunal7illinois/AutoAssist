@@ -1,0 +1,46 @@
+13A-472 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 11. Using scan tool MB991502, check data list.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Check the following items in the data list. Refer to, Data List
+Reference Table P.13A-544.
+16 PIN a. Item 45: Idle Air Control Motor Position.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502
+AKX01177AB Q:Is the actuator operating properly?
+YES : Check the following items, and repair or replace the
+defective items.
+a. Vacuum leak.
+• Broken intake manifold gasket.
+• Broken air intake hose.
+• Broken vacuum hose.
+• Positive crankcase ventilation valve does
+not operate.
+b. Injector clogged.
+Then confirm that the malfunction symptom is
+eliminated.
+NO : Adjusting the basic idle speed. Refer to, Basic Idle
+Speed Adjustment P.13A-577.
+STEP 12. Check the ignition timing.
+Refer to GROUP 11A, On-vehicle Service − Ignition Timing
+Check P.11A-6.
+Q:Is the ignition timing normal?
+YES : Check the following items, and repair or replace the
+defective items.
+a. Check the ignition coil, spark plugs, spark plug
+cables.
+b. Check if the injectors are clogged.
+c. Check compression pressure.
+d. Check if the foreign materials (water,
+kerosene, etc.) got into fuel.
+Then confirm that the malfunction symptom is
+eliminated.
+NO : Check that the crankshaft position sensor and timing
+cover are in the correct position. Then confirm that the
+malfunction symptom is eliminated.
+TSB Revision

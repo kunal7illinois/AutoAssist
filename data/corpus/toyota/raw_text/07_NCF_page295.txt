@@ -1,0 +1,30 @@
+CHASSIS - BRAKE CH-131
+3) Rear Wheel Skid Restraining Control (Turn to the Right)
+In rear wheel skid restraining control, the brake of the front wheel of the outer circle of the turn is applied.
+Also, depending on whether the brake is ON or OFF and the condition of the vehicle, there are circumstances
+in which the brake might not be applied to the wheels even if those wheels are targeted for braking.
+(cid:3) The diagram below shows the hydraulic circuit in the pressure increase mode, as it controls the rear
+wheel skid condition while the vehicle make a right turn.
+(cid:3) In other operating modes, the pressure holding valve and the pressure reduction valve are turned
+ON/OFF according to the ABS with EBD operating pattern.
+(cid:3) The rear wheel skid restraining control system is activated, each solenoid operates as shown in the
+table on the next page.
+(cid:1) Pressure Increase Mode (TMC Made Models) (cid:2)
+Master Cylinder
+Brake Actuator
+Master Cylinder
+Pressure Sensor
+Port (A) Port (B)
+(1) (1)
+Port (D) Port (E)
+Port (C) Port (F)
+Pumps
+(3) Port (H) (4) (5) Port (I) (6)
+Port (G) Port (J)
+Pressure
+Regulator
+Valves
+(7) (8) (9) (10)
+Front Left Rear Right Reservoirs Rear Left Front Right
+025CH81Y
+Pressure Increase Mode

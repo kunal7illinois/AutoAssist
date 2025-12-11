@@ -1,0 +1,39 @@
+13B-544 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the ignition system.
+(1) Connect the tachometer to engine speed detection
+CONNECTOR: A-12X AC101133
+connector A-12X terminal 1.
+(2) Crank the engine.
+• A tachometer moves.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Does a tachometer move?
+ENGINE SPEED YES : Go to Step 6.
+DETECTION NO : Refer to INSPECTION PROCEDURE 33 − Ignition
+CONNECTOR
+Circuit System P.13B-633.
+AC101151AC
+STEP 6. Check the ignition timing.
+(1) Check the ignition timing at cranking.
+Standard value: 5°BTDC ± 3°
+Q:Is the ignition timing normal?
+YES : Go to Step 7.
+NO : Check that the crankshaft position sensor and timing
+belt cover are in the correct position. Then confirm
+that the malfunction symptom is eliminated.
+STEP 7. Check the left bank injector.
+(1) Disconnect the left bank injector connector B-02, B-06, B-
+CONNECTORS : B-02, B-06, B-25
+25.
+B-02 B-06 B-25
+AK000213AB
+(2) Measure the resistance between each injector side
+INJECTOR SIDE connector terminal 1 and 2.
+CONNECTOR Standard value: 13 − 16 ohm [at 20°C (68°F)]
+Q:Is the resistance standard value?
+1 2
+YES : Go to Step 8.
+NO : Replace the faulty injector. Then confirm that the
+malfunction symptom is eliminated.
+AK000559AB
+TSB Revision

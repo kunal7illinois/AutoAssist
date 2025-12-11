@@ -1,0 +1,23 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+to the indicated DTC's troubleshooting.
+DTC P0183: FUEL TEMPERATURE SENSOR CIRCUIT HIGH VOLTAGE
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Turn the ignition switch ON (II).
+2. Check the FUEL TEMPERATURE SENSOR in the DATA LIST with the
+HDS.
+Is about - 40°F (-40°C) or less, or 4.92 V or more indicated?
+YES -Go to step 3.
+NO -Intermittent failure, the system is OK at this time. Check for poor
+connections or loose terminals at the fuel temperature sensor and the PCM.
+3. Turn the ignition switch OFF.
+4. Disconnect the fuel temperature sensor 2P connector.
+5. Connect fuel temperature sensor 2P connector terminals No. 1 and No. 2 with a
+jumper wire.
+Fig. 4: Connecting Fuel Temperature Sensor 2P Connector Terminals No.
+1 And 2 With Jumper Wire
+6. Turn the ignition switch ON (II).

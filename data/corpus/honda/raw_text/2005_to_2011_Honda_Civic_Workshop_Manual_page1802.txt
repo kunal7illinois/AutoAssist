@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EGR System (R18A1) - Civic (All Except Hybrid)
+3. Start the engine. Hold the engine speed at 3,000 rpm without load (in Park or
+neutral) until the radiator fan comes on, then let it idle.
+4. Do the EGR TEST in the INSPECTION MENU with the HDS.
+Is the result OK?
+YES - Intermittent failure, the system is OK at this time. Check for poor
+connections or loose terminals at the EGR valve and the ECM/PCM.
+NO - Go to step 5.
+5. Turn the ignition switch OFF.
+6. Turn the ignition switch ON (II).
+7. Check the EGR VLS in the DATA LIST with the HDS.
+Is about 0 V indicated?
+YES - Go to step 8.
+NO - Go to step 21.
+8. Turn the ignition switch OFF.
+9. Disconnect the EGR valve 6P connector.
+10. Turn the ignition switch ON (II).
+11. Measure voltage between EGR valve 6P connector terminal No. 3 and body
+ground.
+Fig. 9: Measuring Voltage Between EGR Valve 6P Connector Terminal

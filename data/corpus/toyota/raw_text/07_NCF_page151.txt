@@ -1,0 +1,15 @@
+EG-124 ENGINE - 2GR-FE ENGINE
+2) Camshaft Timing Oil Control Valve
+This camshaft timing oil control valve controls the spool valve using duty-cycle control from the ECM.
+This allows hydraulic pressure to be applied to the VVT-i controller advance or retard side. When the
+engine is stopped, the camshaft timing oil control valve is in the most retard position.
+(cid:1) Intake Camshaft Timing Oil Control Valve (cid:2)
+To VVT-i Controller To VVT-i Controller
+(Advance Side)* (Retard Side)*
+Sleeve
+Spring
+Drain Drain Coil
+Plunger
+Oil Pressure Spool Valve
+238EG62
+*: The advance and retard sides of the exhaust side oil control valve are reverse of the intake side.

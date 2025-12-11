@@ -1,0 +1,48 @@
+Audi TT No. 61 / 15
+Current Flow Diagram
+Hall sender, Knock sensor 1, Fuel pressure sender, Intake
+manifold flap potentiometer, Engine control unit
+G40 Hall sender
+G61 Knock sensor 1
+G247 Fuel pressure sender
+G336 Intake manifold flap potentiometer
+J623 Engine control unit
+T3f 3-pin connector, green
+T6p 6-pin connector, on front of engine
+T60 60-pin connector
+220 Earth connection (sender earth), in engine wiring harness
+316 Earth connection (sender earth 2) in engine wiring harness
+J623
+D141 Connection (5V) in engine prewiring harness
+T60 T60 T60 T60 T60 T60 T60
+/40 /54 /8 /25 /10 /27 /43
+S
+D174 Connection 2 (5V) in engine prewiring harness
+316 316
+0.35 0.5
+sw sw
+220
+D174 D141
+0.5 0.5 0.5 0.35 0.35 0.35 0.5 0.5 0.5
+ge/gr br/gn vi/sw sw br/rt ws/br sw gr br
+TT66pp TT66pp TT66pp TT66pp TT66pp TT66pp
+//44 //55 //66 //11 //22 //33
+0.35
+sw
+0.5 0.5 0.5 0.5 0.35 0.35 TT33ff TT33ff TT33ff 0.5 0.5 0.5
+br bl gr sw/gr gr sw //33 //11 //22 sw gn br
+1 2 3 1 2 3 1 2 3
+- S + + S - + S -
+ws = white
+sw = black
+G247 G40 G61 G336
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+183 184 185 186 187 188 189 190 191 192 193 194 195 196 or = orange
+8J0-061150410 rs = pink
+04.2010

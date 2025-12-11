@@ -1,0 +1,40 @@
+ME–53
+METER – METER / GAUGE SYSTEM
+Fuel Receiver Gauge Malfunction
+DESCRIPTION
+The meter CPU uses the fuel sender gauge assembly to determine the level of the fuel in the fuel tank.
+The resistance of the fuel sender gauge will vary between approximately 15 Ω with the float at the full
+position, and 410 Ω with the float at the empty position. The meter outputs battery voltage through two
+820 Ω resistors that are mounted in parallel inside the meter ECU. The meter CPU measures the voltage
+between the variable resistor in the fuel sender gauge and the two resistors mounted in parallel in the
+meter. Voltage measured at this point will vary as the float of the fuel sender gauge is moved. The highest
+voltage observed should be approximately half of battery voltage.
+HINT:
+The fuel level warning light will come on when the fuel level is below 10.5 liters.
+WIRING DIAGRAM
+Combination Meter Assembly
+15
+FR
+F2
+2
+N10 Fuel Sender Gauge Assembly
+3
+16
+FE
+F2
+ECM
+CAN Communication Line (CAN No. 1 Bus)
+- Vehicle Speed Signal
+- ST Signal
+E128091E01
+INSPECTION PROCEDURE
+1 CHECK CAN COMMUNICATION SYSTEM
+ME
+(a) Check if CAN communication DTC is output (See page
+CA-25).
+Result
+Result Proceed to
+CAN communication DTC is not output A
+CAN communication DTC is output B (See page CA-31)
+B GO TO CAN COMMUNICATION SYSTEM
+A

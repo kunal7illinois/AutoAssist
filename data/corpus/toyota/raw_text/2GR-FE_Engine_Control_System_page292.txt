@@ -1,0 +1,51 @@
+ES–292
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0504 Brake Switch "A" / "B" Correlation
+DTC P0724 Brake Switch "B" Circuit High
+DESCRIPTION
+The stop light switch is a duplex system that transmits two signals: STP and ST1-. These two signals are
+used by the ECM to monitor whether or not the brake system is working properly. If the signals, which
+indicate the brake pedal is being depressed and released, are detected simultaneously, the ECM
+interprets this as a malfunction in the stop light switch and sets the DTC.
+HINT:
+The normal conditions are as shown in the table below. The signals can be read using an intelligent tester.
+Signal Brake Pedal Released In Transition Brake Pedal Depressed
+STP OFF ON ON
+ES
+ST1- ON ON OFF
+DTC No. DTC Detection Condition Trouble Area
+Conditions (a), (b) and (c) continue for 0.5 seconds or
+more
+• Short in stop light switch signal circuit
+(1 trip detection logic):
+P0504 • Stop light switch
+(a) Ignition switch on (IG)
+• ECM
+(b) Brake pedal released
+(c) STP signal OFF when ST1- signal OFF
+The stop light switch remains ON even when the
+• Short in stop light switch signal circuit
+vehicle is driven in a STOP (less than 2 mph (3 km/h))
+P0724 • Stop light switch
+and GO (19 mph (30 km/h) or more) fashion 5 times. (2
+• ECM
+trip detection logic)
+MONITOR DESCRIPTION
+This DTC indicates that the stop light switch remains on. When the stop light switch remains ON during
+"stop and go" driving, the ECM interprets this as a fault in the stop light switch and the MIL comes on and
+the ECM stores the DTC. The vehicle must stop (less than 2 mph (3 km/h)) and go (19 mph (30 km/h) or
+more) 5 times in two driving cycles in order to detect a malfunction.
+MONITOR STRATEGY
+Related DTCs P0724: Stop light switch/Rationality
+Required sensors/Components Stop light switch, Vehicle speed sensor
+Frequency of operation Continuous
+Duration GO and STOP 5 times
+MIL operation 2 driving cycles
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+The monitor will run whenever this DTC is not present None
+Engine switch ON
+Starter OFF
+Battery voltage 8 V or more
+GO (Vehicle speed is 18.65 mph (30 km/h) or more) Once
+STOP (Vehicle speed is less than 1.86 mph (3 km/h)) Once

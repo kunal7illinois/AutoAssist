@@ -1,0 +1,35 @@
+NS–42
+NAVIGATION – NAVIGATION SYSTEM
+(2) Receiving condition/*2
+(DENSO model):
+Display Contents
+T The system is receiving a GPS signal, but is not using it for location.
+P The system is using the GPS signal for location.
+- The system cannot receive a GPS signal.
+(AISIN AW model):
+Display Contents
+01H The system cannot receive a GPS signal.
+02H The system is tracing a satellite.
+03H The system is receiving a GPS signal, but is not using it for location.
+04H The system is using the GPS signal for location.
+Measurement information/*3:
+Display Contents
+2D 2-dimensional location method is being used.
+3D 3-dimensional location method is being used.
+NG Location data cannot be used.
+Error Reception error has occurred.
+- Any other state.
+Position information/*4
+Display Contents
+Position Latitude and longitude information on the current position is displayed.
+Date information/*5:
+Display Contents
+The date/time information obtained from GPS signal is displayed in
+Date
+Greenwich mean time (GMT). The last 4 digits are displayed.
+(c) Vehicle Sensors Screen
+*1
+*2
+*3
+NS
+E120077E01

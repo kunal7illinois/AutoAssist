@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+SOLENOID VALVE AND SHIFT SOLENOID WIRE HARNESS
+REPLACEMENT ), then go to step 15.
+15. Reconnect all connectors.
+16. Turn the ignition switch to ON (II).
+17. Clear the DTC with the HDS.
+18. Start the engine with the shift lever in P, and wait for at least 1 second.
+19. Check for DTCs with the HDS.
+Is DTC P0982 indicated?
+YES -Check for intermittent short to body ground in the wire between shift
+solenoid valve D and the PCM, then go to step 1.
+NO -Go to step 20.
+20. Monitor the OBD STATUS for P0982 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+19, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for intermittent short to body ground
+in the wire between shift solenoid valve D and the PCM, then go to step 1. If
+the HDS indicates NOT COMPLETED, go to step 18.
+21. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+22. Start the engine with the shift lever in P, and wait for at least 1 second.
+23. Check for DTCs with the HDS.
+Is DTC P0982 indicated?
+YES -Check for intermittent short to body ground in the wire between shift
+solenoid valve D and the PCM. If the PCM was updated, substitute a known-

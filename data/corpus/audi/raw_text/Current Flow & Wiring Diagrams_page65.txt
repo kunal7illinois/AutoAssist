@@ -1,0 +1,57 @@
+Audi TT No. 3 / 14
+Current Flow Diagram
+Engine control unit, active charcoal filter system solenoid
+valve 1, variable intake manifold change-over valve, inlet
+camshaft control valve 1, heater element for crankcase
+breather
+J623 Engine control unit
+N79 Heater element for crankcase breather
+N80 Activated charcoal filter solenoid valve 1
+N156 Variable intake manifold change-over valve
+4411 N205 Camshaft control valve 1
+4,0 N318 Exhaust camshaft control valve 1
+sw SC7 Fuse 7 on fuse holder C
+SC11 Fuse 11 on fuse holder C
+7 11
+T14 14-pin connector, black, on front left in engine compartment
+SC7 SC11
+5A 10A T40 40-pin connector, black, on engine control unit
+7a 11a T81 81-pin connector, black, on engine control unit
+D107 Connection 5, in engine compartment wiring harness
+1,0
+ge/ro
+118811
+J623
+T81/64 T40/121 T40/115 T40/120
+118811
+0,35 1,0 1,0 1,0 1,0
+li/ro li li/ro li/sw ge/ro
+T14/12 T14/2
+118877
+0,5 1,0 1,0
+li/ro bl/ro ge/ro
+2/-- 2/-- 2/-- 2/-- 1/+
+T14/6
+1/+
+N80
+1/+
+N156
+1/+
+N205
+1/+
+N318
+2/--
+N79
+ws = white
+sw = black
+ro = red
+1,0 1,0 1,0 1,0 1,0 1,0 br = brown
+bl/ro bl/ro bl/ro bl/ro bl/ro br gn = green
+D107 bl = blue
+5588 gr = grey
+li = purple
+ge = yellow
+169 170 171 172 173 174 175 176 177 178 179 180 181 182 or = orange
+8J0-003140806
+rs = pink
+Edition 10.2010

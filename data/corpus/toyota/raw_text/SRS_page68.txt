@@ -1,0 +1,43 @@
+RS–68
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+5 CHECK FRONT AIRBAG SENSOR LH (SHORT)
+(a) Disconnect the service wire from connector B.
+(b) Measure the resistance according to the value(s) in the
+table below.
+F A Standard resistance
+E DC B
+Tester Connection Condition Specified Condition
+Front Airbag A13-2 (+SL) - A13-1 (-
+Always 1 MΩ or higher
+Sensor LH SL)
+Center Airbag
+Sensor Assembly
+NG Go to step 10
+Connector E
+A13
+-SL +SL
+C C114791E06
+OK
+RS 6 CHECK FRONT AIRBAG SENSOR LH (SHORT TO B+)
+(a) Connect the negative (-) terminal cable to the battery,
+and wait for at least 2 seconds.
+(b) Turn the ignition switch on (IG).
+F A (c) Measure the voltage according to the value(s) in the
+E DC B table below.
+Standard voltage
+Front Airbag
+Sensor LH
+Tester Connection Condition Specified Condition
+Center Airbag
+A13-2 (+SL) - Body
+Sensor Assembly Ignition switch on (IG) Below 1 V
+ground
+A13-1 (-SL) - Body
+Ignition switch on (IG) Below 1 V
+ground
+Connector E
+NG Go to step 11
+A13
+-SL +SL
+C C114791E06
+OK

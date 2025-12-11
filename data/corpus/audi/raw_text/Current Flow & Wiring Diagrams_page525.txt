@@ -1,0 +1,53 @@
+Audi TT No. 61 / 4
+Current Flow Diagram
+Terminal 50 voltage supply relay
+J104 ABS control unit
+B163 J519 Onboard supply control unit
+J681 Terminal 15 voltage supply relay 2
+J682 Terminal 50 voltage supply relay
+SC1 Fuse 1 on fuse holder C
+SC2 Fuse 2 on fuse holder C
+4.0 4.0 4.0 SC4 Fuse 4 on fuse holder C
+sw sw sw
+SC29 Fuse 29 on fuse holder C
+SC31 Fuse 31 on fuse holder C
+8
+87 1 2 4 29 31 T47 47-pin connector
+J681 SC1 SC2 SC4 SC29 SC31 T52b 52-pin connector
+* 1a 22aa 4a 29a 31a 44 Earth point, lower part of left A-pillar
+374 Earth connection 9, in main wiring harness
+1.0 0.35 0.35 0.5 4.0 375 Earth connection 10, in main wiring harness
+sw/bl ge/sw ge/sw sw/rt sw/bl
+J519
+B163 Positive connection 1 (15), in interior wiring harness
+T52b
+T47 /29
+222299 /8 229933
+J104 0.5 B277 Positive connection 1 (15a) in main wiring harness
+rt/sw
+* Relay carrier on onboard supply control unit, on left under dash
+4 2
+86 30 panel
+J682
+6 8
+85 87
+0.5 4.0
+br rt
+B277 1100
+375
+0.5 1.0 0.5 1.0
+sw/bl sw/bl br br
+374 ws = white
+6666 226622 229911 sw = black
+ro = red
+br = brown
+2.5
+gn = green
+br
+bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+29 30 31 32 33 34 35 36 37 38 39 40 41 42 or = orange
+8J0-061040410 rs = pink
+04.2010

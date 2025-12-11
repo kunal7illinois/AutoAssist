@@ -1,0 +1,50 @@
+ES–156
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+TYPICAL ENABLING CONDITIONS
+P0010 (VVT OCV)
+P0011 (VVT System 1 - Advance)
+P0012 (VVT System 1 - Retard)
+P0031, P0032 (A/F sensor heater - Sensor 1)
+P0100 - P0103 (MAF meter)
+P0115 - P0118 (ECT sensor)
+Monitor runs whenever following DTCs not present
+P0120 - P0223, P2135 (TP sensor)
+P0125 (Insufficient ECT for Closed Loop)
+P0335 (CKP sensor)
+P0340 (CMP sensor)
+P0351 - P0354 (Igniter)
+P0500 (VSS)
+Fuel system status Closed loop
+Battery voltage 11 V or more
+ES
+Either of following conditions 1 or 2 set -
+1. Engine RPM Below 1,100 rpm
+2. Intake air amount per revolution 0.22 g/rev or more
+Catalyst monitor Not executed
+TYPICAL MALFUNCTION THRESHOLDS
+Purge-cut Executing
+Either of following conditions 1 or 2 met -
+1. Average of short-term fuel trim and long-term fuel trim 35 % or more (varies with ECT)
+2. Average of short-term fuel trim and long-term fuel trim -35 % or less (varies with ECT)
+WIRING DIAGRAM
+Refer to DTC P2195 (see page ES-296).
+INSPECTION PROCEDURE
+HINT:
+• Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition
+when malfunctions are detected. When troubleshooting, freeze frame data can help determine if the
+vehicle was moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or
+rich, and other data from the time the malfunction occurred.
+• A low A/F sensor voltage could be caused by a rich air-fuel mixture. Check for conditions that would
+cause the engine to run rich.
+• A high A/F sensor voltage could be caused by a lean air-fuel mixture. Check for conditions that would
+cause the engine to run lean.
+1 CHECK ANY OTHER DTCS OUTPUT (IN ADDITION TO DTC P0171 OR P0172)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / CURRENT CODES.
+(d) Read DTCs.
+Result
+Display (DTC Output) Proceed To
+P0171 or P0172 A
+P0171 or P0172 and other DTCs B

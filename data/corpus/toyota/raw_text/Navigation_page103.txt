@@ -1,0 +1,31 @@
+NS–103
+NAVIGATION – NAVIGATION SYSTEM
+DTC 63-7D Disc cannot be Played
+DTC 63-7E No Playable Files
+DTC 63-7F Copyright Protection Error
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+• An incompatible MP3/WMA file is used.
+63-7D • Although the file has an extension of ".mp3" or
+".wma", the header information cannot be read.
+• CD
+• A disc with no music data is used. • Radio and navigation assembly
+63-7E
+• Playable files are not on the disc (MP3/WMA).
+63-7F A copy-protected file, which cannot be played, is used.
+INSPECTION PROCEDURE
+HINT:
+After the inspection is completed, clear the DTCs.
+1 CHANGE DISC
+(a) Insert a disc with a playable file and check if the disc can
+be played correctly.
+HINT:
+For details on playable files and discs, refer to the
+Owner's Manual.
+OK:
+The disc can be played correctly.
+NG REPLACE RADIO AND NAVIGATION
+ASSEMBLY
+OK
+DISC IS FAULTY
+NS

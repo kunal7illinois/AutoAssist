@@ -1,0 +1,21 @@
+Electrical system and convenience electronics
+System behaviour in case of malfunction
+A detected system malfunction is indicated to the
+driver by activating a rear spoiler warning lamp in
+the rev counter. If no fault has occurred, this
+indicator lamp comes on for 3 seconds after turning
+on the ignition and goes out again.
+382_014
+In the case of the following faults, the rear spoiler is extended for safety reasons:
+● The convenience system central control unit J393 receives no road speed signal
+● The convenience system central control unit no longer receives any CAN messages
+● Implausible signals to rear spoiler adjustment limit switches 1 and 2 are detected
+● The convenience system central control unit is supplied with undervoltage (U < 10.5V)
+Note
+If a fault is detected in the
+"electrically adjustable rear spoiler"
+function, the ESP can no longer be
+switched off manually. If the ESP was
+switched off at this time, it is
+reactivated automatically.
+28

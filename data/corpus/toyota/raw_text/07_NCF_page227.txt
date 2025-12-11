@@ -1,0 +1,21 @@
+CHASSIS - U660E AUTOMATIC TRANSAXLE CH-63
+Speed Sensors
+(cid:3) The U660E automatic transaxle uses an input turbine speed sensor (for the NT signal) and a counter gear
+speed sensor (for the NC signal). Thus, the ECT ECU can detect the timing of the shifting of the gears
+and appropriately control the engine torque and hydraulic pressure in response to the various conditions.
+These speed sensors are the Hall type.
+(cid:3) The input turbine speed sensor detects the input speed of the transaxle. The No.2 clutch piston is used
+as the timing rotor for this sensor.
+(cid:3) The counter gear speed sensor detects the speed of the counter gear. The counter drive gear is used as
+the timing rotor for this sensor.
+(cid:3) The Hall type speed sensor consists of a magnet and Hall IC. The Hall IC converts the changes in the
+magnetic flux density that occur through the rotation of the timing rotor into electric signal, and outputs
+the signal to the ECT ECU.
+Counter Gear
+Input Turbine Speed Sensor
+Speed Sensor
+No.2 Upper Valve Body
+No.1 Upper Valve Body
+Lower Valve Body
+Engine Side
+01YCH24TE

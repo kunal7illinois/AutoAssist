@@ -1,0 +1,51 @@
+Audi TT 2007 ➤
+TDI injection and glow plug system (4-cyl. 2.0 ltr. 4-valve common rail, generation II) - Edition 05.2010
+Note
+♦ The test box has 105 sockets. The connecting cable can be
+disconnected from the test box. This means that only the cable
+(and not the test box) has to be purchased for future engine
+control units with different types of connectors.
+♦ The smaller of the two connectors on the engine control unit
+has the contacts 1 to 60. The larger of the two connectors has
+the contacts 1 to 94.
+♦ To carry out tests on the 60-pin wiring harness connector, the
+adapter cable -V.A.G 1598/39-1- is connected to connector
+-A- on the test box. For components connected to 60-pin wiring
+harness connector ⇒ Current flow diagrams, Electrical fault
+finding and Fitting locations.
+♦ To carry out tests on the 94-pin wiring harness connector, the
+adapter cable -V.A.G 1598/39-2- must be connected to con‐
+nectors -A- and -B- on the test box. For components connec‐
+ted to 94-pin wiring harness connector ⇒ Current flow
+diagrams, Electrical fault finding and Fitting locations.
+♦ The test box -V.A.G 1598/42- is designed so it can be con‐
+nected both to the wiring harness for the engine control unit
+and to the engine control unit itself at the same time.
+♦ The advantage of this is that the electronic engine control sys‐
+tem remains fully functional when the test box is connected
+(for example, for measuring signals when the engine is run‐
+ning).
+♦ The relevant test procedure will state whether it is necessary
+to also connect the engine control unit to the test box.
+The engine control unit has to be removed before connectors can
+be unplugged from engine control unit ⇒ page 62 .
+WARNING
+To prevent damage to the electronic components, select ap‐
+propriate measuring range before connecting the measuring
+cables and observe the test requirements.
+– Connect the test box -V.A.G 1598/42- to wiring harness with
+adapter cable -V.A.G 1598/39-1- or adapter cable -V.A.G
+1598/39-2- . Connect earth clip of test box to negative terminal
+of battery. The instructions for performing the individual tests
+indicate whether or not the engine control unit itself also needs
+to be connected to the test box.
+– Carry out test as described in appropriate repair procedures.
+Installing engine control unit
+Installation is performed in the reverse sequence.
+Perform the following after reconnecting engine control unit:
+– Interrogate event memory and erase if necessary.
+11.2 Removing and installing engine control
+unit -J623-
+Special tools and workshop equipment required
+62
+Rep. Gr.23 - Mixture preparation - injection

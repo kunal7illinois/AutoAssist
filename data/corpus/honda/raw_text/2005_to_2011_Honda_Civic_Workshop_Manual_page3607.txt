@@ -1,0 +1,16 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Navigation System - Civic (Except Hybrid)
+Fig. 8: Navigation System Function Diagram
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Vehicle Speed Pulse
+The vehicle speed pulse is sent by the ECM/PCM. The ECM/PCM receives a signal
+from the countershaft speed sensor, then it processes the signal and transmits it to
+the speedometer and other systems.
+Fig. 9: Vehicle Speed Pulse Circuit Diagram
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+GA-Net Bus Configuration
+The GA-Net bus passes audio and navigation commands throughout the navigation
+and audio components.
+These commands include audio/XM selections by voice, and XM station and music
+title names. Because the entire bus is daisy chained between components (see

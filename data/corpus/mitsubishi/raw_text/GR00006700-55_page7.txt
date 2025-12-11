@@ -1,0 +1,41 @@
+HEATING AND AIR CONDITIONING 55-7
+MANUAL A/C DIAGNOSIS
+STEP 4. Check the magnetic clutch operation.
+Connect the battery (+) terminal to the compressor magnetic
+<2.4L ENGINE> clutch connector terminal 1; <2.4L engine>/terminal 4; <3.0L
+MAGNETIC CLUTCH engine>, and ground the battery (−) terminal to the body of the
+CONNECTOR
+compressor.
+Q:Can the sound of the magnetic clutch (click) be heard?
+YES : Go to Step 5.
+NO : Replace. Then go to Step 11.
+<3.0L ENGINE>
+MAGNETIC CLUTCH
+CONNECTOR
+1 2
+3 4
+AC001367AB
+STEP 5. Check the dual pressure switch operation.
+(1) Remove the dual pressure switch connector and connect
+HIGH/LOW the high/low pressure side terminals located on the harness
+PRESSURE SIDE
+side as shown in the illustration.
+(2) Install a gauge manifold to the high-pressure side service
+valve of the refrigerant line. (Refer to P.55-26.)
+(3) When the high/low pressure sides of the dual pressure
+switch are at operation pressure (ON) and the resistance is
+less than 2 ohm between the respective terminals, then the
+condition is normal. If open loop, replace the switch.
+ITEMS SWITCH POSITION
+being being turned
+turned on off
+LOW-PRESSURE HIGH-PRESSURE Low-pressure side kPa (psi) 221 (32.1) 196 (28.4)
+SIDE SIDE
+High-pressure side kPa (psi) 2,354 (341.4) 2,942 (426.7)
+ON ON
+Q:Is the dual pressure switch operating properly?
+OFF OFF
+YES : Go to Step 6.
+NO : Replace the switch. Then go to Step 11.
+AC001368AB
+TSB Revision

@@ -1,0 +1,44 @@
+ES–166
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+COMPONENT OPERATING RANGE
+VTA1 voltage 0.69 to 4.05 V
+VTA2 voltage 2.25 to 4.8 V
+FAIL-SAFE
+When any of these DTCs, as well as other DTCs relating to ETCS (Electronic Throttle Control System)
+malfunctions, are set, the ECM enters fail-safe mode. During fail-safe mode, the ECM cuts the current to
+the throttle actuator off, and the throttle valve is returned to a 6° throttle angle by the return spring. The
+ECM then adjusts the engine output by controlling the fuel injection (intermittent fuel-cut) and ignition
+timing, in accordance with the accelerator pedal opening angle, to allow the vehicle to continue at a
+minimal speed. If the accelerator pedal is depressed gently, the vehicle can be driven slowly.
+WIRING DIAGRAM
+ES
+C5
+Throttle Position Sensor (Built into Throttle Body)
+ECM
+5 V
+5 96 VCTA
+VC C55
+98
+6
+VTA C55
+VTA1
+99
+4
+VTA2 C55
+VTA2
+97
+3
+E2 C55 ETA
+A085458E17
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. The ECM records vehicle and driving condition
+information as freeze frame data the moment a DTC is stored. When troubleshooting, freeze frame data
+can be helpful in determining whether the vehicle was running or stopped, whether the engine was
+warmed up or not, whether the air-fuel ratio was lean or rich, as well as other data recorded at the time of
+a malfunction (See page ES-45).
+1 READ VALUE OF THROTTLE POSITION SENSOR (THROTTLE POS AND THROTTLE POS
+#2)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester on.

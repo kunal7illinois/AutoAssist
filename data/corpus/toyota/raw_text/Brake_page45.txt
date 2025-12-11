@@ -1,0 +1,48 @@
+BC–45
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+WIRING DIAGRAM
+Brake Actuator Assembly (Skid Control ECU)
+17
+A25 RL-
+2 g1
+Speed Sensor Rear LH
+7
+1
+A25 RL+
+8
+A25 RR-
+2
+f1
+Speed Sensor Rear RH
+19
+1 BC
+A25 RR+
+F040884E16
+INSPECTION PROCEDURE
+HINT:
+Check the condition of each related circuit connector before troubleshooting (See page IN-40).
+1 READ VALUE OF INTELLIGENT TESTER (REAR SPEED SENSOR)
+(a) Connect the intelligent tester to the DLC3.
+(b) Start the engine.
+(c) Select "DATA LIST" and read the value displayed on the
+intelligent tester (See page BC-25).
+DATA LIST: ABS
+Measurement Item /
+Item Normal Condition
+Range (Display)
+Wheel speed sensor (RR) reading / min.: 0 MPH (0
+RR WHEEL SPD Actual wheel speed
+km/h), max.: 202 MPH (326 km/h)
+Wheel speed sensor (RL) reading / min.: 0 MPH (0
+RL WHEEL SPD Actual wheel speed
+km/h), max.: 202 MPH (326 km/h)
+(d) Check that there is no difference between the speed
+value output from the speed sensor displayed on the
+intelligent tester and the speed value displayed on the
+speedometer when driving the vehicle.
+OK:
+The speed value output from the speed sensor
+displayed on the intelligent tester is the same as
+the actual vehicle speed.
+NG Go to step 5
+OK

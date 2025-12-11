@@ -1,0 +1,49 @@
+14-16 COOLING SYSTEM
+ENGINE COOLING DIAGNOSIS
+INSPECTION PROCEDURE 5: Radiator Fan does not Operate
+.TECHNICAL DESCRIPTION .TROUBLESHOOTING HINTS
+The cause could be a malfunction of the radiator fan • Malfunction of radiator fan motor
+motor or an open circuit between the fan controller • Malfunction of fan controller
+and the radiator fan motor.
+.DIAGNOSIS
+Replace the radiator fan motor and fan controller assembly.
+Q:Does the radiator fan operate correctly?
+YES : There is no action to be taken?
+NO : Repair the wiring harness between the fan controller
+and the radiator fan motor.
+INSPECTION PROCEDURE 6: Condenser Fan does not Operate
+. .
+Radiator Fan and Condenser Fan Drive Circuit TECHNICAL DESCRIPTION
+Refer to P.14-6. The cause could be a malfunction of the condenser
+fan motor or of the fan controller.
+.
+CIRCUIT OPERATION
+.
+• The fan controller is powered from fusible link TROUBLESHOOTING HINTS
+number 2. • Malfunction of condenser fan motor
+• The ECM <M/T> or PCM <A/T> judges the • Malfunction of fan controller
+required revolution speed of radiator fan motor
+and condenser fan motor using the input signals
+transmitted from A/C switch, automatic compres-
+sor controller, vehicle speed sensor and engine
+coolant temperature sensor. The ECM <M/T> or
+PCM <A/T> activates the fan controller to drive
+the radiator fan motor and condenser fan motor.
+.
+DIAGNOSIS
+STEP 1. Check the condenser fan motor.
+Refer to GROUP 55, Condenser and Condenser Fan Motor
+P.55-51.
+Q:Is the condenser fan in good condition?
+YES : Go to Step 2.
+NO : Replace the fan motor, then go to Step 3.
+STEP 2. Check the fan controller.
+Refer to P.14-19.
+Q:Is the fan controller in good condition?
+YES : Go to Step 3.
+NO : Replace the fan controller, then go to Step 3.
+STEP 3. Check the symptoms.
+Q:Does the condenser fan operate correctly?
+YES : This diagnosis is complete.
+NO : Return to Step1.
+TSB Revision

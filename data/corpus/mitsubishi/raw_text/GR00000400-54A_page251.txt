@@ -1,0 +1,36 @@
+CHASSIS ELECTRICAL 54A-251
+MULTI-CENTER DISPLAY
+STEP 2. Check the compass sensor connector D-23 and
+compass-ECU connector C-38.
+(1) Disconnect the compass sensor connector D-23 and
+CONNECTOR: C-38
+compass-ECU connector C-38, measure at the harness
+side.
+(2) Measure the resistance between compass sensor
+connector D-23 and compass-ECU connector C-38.
+COMPASS-ECU COMPASS SENSOR SPECIFIED
+CONNECTOR C-38 CONNECTOR D-23 CONDITION
+TERMINAL NO. TERMINAL NO.
+DEVICE SIDE
+1 2 3 1 5 Should be
+4 5 6
+less than
+2 2
+AC106552AE
+two ohm
+3 3
+CONNECTOR <ECLIPSE> : D-23
+4 4
+DEVICE SIDE 6 1
+1 2 3 4 5 5 Shield wire between
+compass-ECU and
+compass sensor
+Q:Is the resistance value less than two ohm?
+YES : Go to Step 3.
+NO : Repair the wiring harness.
+AC106554AH
+CONNECTOR <ECLIPSE SPYDER> : D-23
+DEVICE SIDE
+1 2 3 4 5
+AC106555AD
+TSB Revision

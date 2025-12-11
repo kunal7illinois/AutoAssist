@@ -1,0 +1,56 @@
+ENGINE - 2GR-FE ENGINE EG-133
+Operation
+(cid:3) As indicated in the below timing chart, when the ECM detects a STSW signal (start signal) from the main
+body ECU, the ECM outputs STAR signal (starter relay drive signal) through the starter cut relay to the
+starter relay and actuates the starter. The ECM also outputs ACCR signal (ACC-cut request signal) to
+the main body ECU. Thus, the main body ECU will not energize the ACC relay. If the engine is already
+running, the ECM stops the output of the STAR signal to the starter relay and the output of the ACCR
+signal to the main body ECU. Thus, the starter operation stops and the main body ECU energizes the ACC
+relay.
+(cid:3) After the starter operates and the engine speed becomes higher than approximately 500 rpm, the ECM
+determines that the engine has started and stops the output of the STAR signal to the starter relay and the
+output of ACCR signal to the main body ECU. Thus, the starter operation stops and the main body ECU
+energizes the ACC relay.
+(cid:3) If the engine has any failure and does not start, the starter operates as long as its maximum continuous
+operation time and stops automatically. The maximum continuous operation time is approximately 2
+seconds through 25 seconds depending on the water temperature condition. When the engine water
+temperature is extremely low, it is approximately 25 seconds and when the engine is warmed up
+sufficiently, it is approximately 2 seconds.
+(cid:3) This system cuts off the current that powers the accessories while the engine is cranking to prevent the
+accessory illumination from operating intermittently due to the unstable voltage that is associated with
+the cranking of the engine.
+(cid:3) This system has following protections.
+- While the engine is running normally, the starter does not operate.
+- Even if the driver keeps pressing the engine switch, the ECM stops the output of the STAR and ACCR
+signals when the engine speed becomes higher than 1200 rpm. Thus, the starter operation stops and
+the main body ECU energizes the ACC relay.
+- In case the driver keeps pressing the engine switch and the engine does not start, the ECM stops the
+output of the STAR and ACCR signals after 30 seconds have elapsed. Thus, the starter operation stops
+and the main body ECU energizes the ACC relay.
+- Thus, the main body ECU will stop the operation of the starter.
+- In case the ECM cannot detect an engine speed signal while the starter is operating, the ECM will
+immediately stop the output of the STAR and ACCR signals. Thus, the starter operation stops and the
+main body ECU energizes the ACC relay.
+(cid:1) Timing Chart (cid:2)
+ON
+STSW Signal
+(Start Signal)
+OFF
+Cranking Limit
+Approx. 2 to 25 sec.
+STAR Signal ON
+(Starter Relay
+Drive Signal) OFF
+ON
+ACC Relay (OFF)
+(ACCR Signal)
+OFF
+(ON) Successful
+Starting of Engine
+Engine Speed
+Signal (NE) Failed Starting of
+Engine
+ECM determines that the engine has started
+successfully when the engine speed is
+approximately 500 rpm.
+230LX17

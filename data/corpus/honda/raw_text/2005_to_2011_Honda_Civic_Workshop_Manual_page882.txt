@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+DTC P0971: Problem in A/T Clutch Pressure Control Solenoid Valve C
+NOTE:
+Before you troubleshoot, record all freeze data and any
+(cid:1)
+on-board snapshot with the HDS, and review General
+Troubleshooting Information (see GENERAL
+TROUBLESHOOTING INFORMATION ).
+This code is caused by an electrical circuit problem and
+(cid:1)
+cannot be caused by a mechanical problem in the
+transmission.
+1. Turn the ignition switch to ON (II).
+2. Clear the DTC with the HDS.
+3. Start the engine, and wait for at least 1 second.
+4. Check for DTCs with the HDS.
+Is DTC P0971 indicated?
+YES -Go to step 8.
+NO -Go to step 5.
+5. Select Clutch Pressure Control Solenoid Valve C in the Miscellaneous Test
+Menu, and test A/T clutch pressure control solenoid valve C with the HDS.
+Does the HDS indicate NORMAL?
+YES -Go to step 6.
+NO -Go to step 8.
+6. In the Clutch Pressure Control Solenoid Valve Control menu, select A/T clutch
+pressure control solenoid valve C at 0.2 A.
+7. Monitor the OBD STATUS for P0971 in the DTCs MENU with the HDS.
+Does the HDS indicate FAILED?
+YES -Go to step 8.

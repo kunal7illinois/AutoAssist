@@ -1,0 +1,40 @@
+BE-26 BODY ELECTRICAL - METER
+2. System Diagram
+Steering Pad Switch
+Vehicle Speed Signal
+DISP Switch*1
+(cid:3) ECM
+(cid:3) Main Body ECU*3
+Skid Control ECU (cid:3) Audio Head Unit
+(cid:3) Stereo Amplifier*4
+Speed Sensor Signal (cid:3) Tire Pressure Warning
+System ECU*2
+ECM
+Warning Light Control
+Rheostat Signal
+Tire Pressure Warning Syatem ECU*2 (cid:3) Heater Control Panel
+(cid:3) Audio Head Unit
+Warning Light Control
+Meter ECU
+Flasher Relay
+Clock Display
+Seat Belt Reminder
+Fuel Sender Gauge Light (Front Passenger)
+CAN
+Generator L Terminal (CAN No.1 Bus)
+(cid:3) ECM
+(cid:3) A/C ECU
+Washer Fluid (cid:3) Skid Control ECU
+Level Switch (cid:3) Airbag Sensor
+Assembly
+(cid:3) Main Body ECU
+Oil Pressure Switch
+CAN
+(MS Bus)
+Brake Fluid Level
+Warning Switch (cid:3) Certification ECU*3
+025BE14P
+*1: Only for XLE grade models
+*2: Only for U.S.A. models
+*3: Only for models with smart key system
+*4: Only for models with JBL premium sound system

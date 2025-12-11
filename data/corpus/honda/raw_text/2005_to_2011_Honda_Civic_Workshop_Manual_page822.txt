@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+11. Inspect A/T clutch pressure control solenoid valve A (see A/T CLUTCH
+PRESSURE CONTROL SOLENOID VALVE A TEST ).
+Does A/T clutch pressure control solenoid valve A operate properly?
+YES -Repair the hydraulic system related with shift valve A, or replace the
+transmission, then go to step 14.
+NO -Replace A/T clutch pressure control solenoid valve A (see A/T CLUTCH
+PRESSURE CONTROL SOLENOID VALVE A REPLACEMENT ), then
+go to step 12.
+12. Turn the ignition switch to ON (II).
+13. Clear the DTC with the HDS.
+14. Test-drive the vehicle with the shift lever in D, and let the transmission shift
+through all five gears.
+15. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 14, then go
+to step 16.
+16. Check for DTCs with the HDS.
+Is DTC P0747 indicated?
+YES -Go to step 9.
+NO -Go to step 17.
+17. Monitor the OBD STATUS for P0747 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -Troubleshooting is complete. If any other DTCs were indicated in step
+16, go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, go to step 9. If the HDS indicates NOT
+COMPLETED, go to step 14.
+DTC P0751: Shift Solenoid Valve A Stuck OFF; DTC P0752: Shift Solenoid Valve A Stuck ON

@@ -1,0 +1,48 @@
+Audi TT No. 9 / 6
+Current Flow Diagram
+ABS control unit, tyre pressure monitor control unit 2, CAN
+bus wiring
+J104 ABS control unit
+J527 Steering column electronics control unit
+J533 Data bus diagnostic interface
+J623 Engine control unit
+J793 Tyre pressure monitor control unit 2
+T18c 18-pin connector, black, on tyre pressure monitor control unit 2
+T20c 20-pin connector, black, connector A, on steering column
+electronics control unit
+T20d 20-pin connector, black, on data bus diagnostic interface
+T47 47-pin connector, on ABS control unit
+B383 Connection 1 (drive train CAN bus, high), in main wiring harness
+B384 Connection 2 (drive train CAN bus, high), in main wiring harness
+B390 Connection 1 (drive train CAN bus, low), in main wiring harness
+B391 Connection 2 (drive train CAN bus, low), in main wiring harness
+J104
+• CAN bus (data wire)
+* ⇒ Engine Current Flow Diagram
+** models with tyre pressure monitor
+T47/12 T47/13 T47/7 T47/9 T47/11 T47/14 # Is dropped from June 2009
+6666
+• •
+0,35 0,35 0,35 0,35 0,35 0,35 0,35
+or/sw or/sw or/br gn/ws gn/ro gn/li gn/gr
+B391
+B384 5588
+• •
+0,35 0,35 0,35 0,35
+or/sw or/br or/br or/sw
+B383 B390 T18c T18c T18c T18c T18c T18c
+/15 /16 /13 /18 /9 /11
+0,35 0,35 # 0,35 0,35 0,35 0,35 # J793 ws = white
+or/sw or/sw or/sw or/br or/br or/br ✱✱ sw = black
+ro = red
+br = brown
+T20c T20d T20d T20c/11 gn = green
+/12 /16 /6
+J623 J527 J533 J533 J623 J527 bl = blue
+✱ ✱ gr = grey
+li = purple
+ge = yellow
+57 58 59 60 61 62 63 64 65 66 67 68 69 70 or = orange
+8J0-009060409
+rs = pink
+Edition 04.2009

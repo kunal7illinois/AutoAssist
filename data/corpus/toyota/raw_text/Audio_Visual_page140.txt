@@ -1,0 +1,31 @@
+AV–140
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+Radio Receiver Power Source Circuit
+DESCRIPTION
+This circuit provides power to the radio receiver.
+WIRING DIAGRAM
+Radio Receiver
+RADIO NO. 1
+4 1
+From Battery F6 F26 B
+(*1) (*2)
+5
+F11 +B
+(*2)
+RADIO NO. 2
+3 11
+From ACC Relay F6 F26 ACC
+(*1) (*2)
+16
+F11 ACC
+(*2)
+7 20
+F6 F26 GND
+(*1) (*2)
+*1: Standard Model
+*2: Premium Model
+14
+F11 GND
+AV
+(*2)
+E129790E05

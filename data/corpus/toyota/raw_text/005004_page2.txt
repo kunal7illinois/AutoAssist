@@ -1,0 +1,53 @@
+ES–22
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(b) If the test value is between the minimum and
+maximum test limits, the component is functioning
+normally. If not, the component is malfunctioning.
+The test value is usually not near the test limits. If
+the test value is near the test limits, the component
+is likely to malfunction in the near future.
+HINT:
+The monitor result might on rare occasions be
+PASS even if the malfunction indicator lamp (MIL) is
+illuminated. This indicates the system malfunctioned
+on a previous driving cycle. This might be caused by
+an intermittent problem.
+4. MONITOR RESULT INFORMATION
+ES
+If you use a generic scan tool, multiply the test value by
+the scaling value listed below.
+A/F Sensor (Sensor 1)
+Monitor ID Test ID Scaling Unit Description
+$01 $8E Multiply by 0.001 V A/F sensor deterioration level
+$01 $91 Multiply by 0.004 mA A/F sensor current
+HO2 Sensor (Sensor 2)
+Monitor ID Test ID Scaling Unit Description
+$02 $07 Multiply by 0.001 V Minimum sensor voltage
+$02 $08 Multiply by 0.001 V Maximum sensor voltage
+$02 $8F Multiply by 0.0003 g Maximum oxygen storage capacity
+Catalyst
+Monitor ID Test ID Scaling Unit Description
+$21 $A9 Multiply by 0.0003 No dimension Oxygen storage capacity of catalyst
+EVAP
+Monitor ID Test ID Scaling Unit Description
+$3D $C9 Multiply by 0.001 kPa Test value for small leak (P0456)
+$3D $CA Multiply by 0.001 kPa Test value for gross leak (P0455)
+$3D $CB Multiply by 0.001 kPa Test value for leak detection pump stuck OFF (P2401)
+$3D $CD Multiply by 0.001 kPa Test value for leak detection pump stuck ON (P2402)
+$3D $CE Multiply by 0.001 kPa Test value for vent valve stuck OFF (P2420)
+$3D $CF Multiply by 0.001 kPa Test value for vent valve stuck ON (P2419)
+$3D $D0 Multiply by 0.001 kPa Test value for reference orifice low flow (P043E)
+$3D $D1 Multiply by 0.001 kPa Test value for reference orifice high flow (P043F)
+$3D $D4 Multiply by 0.001 kPa Test value for purge VSV stuck closed (P0441)
+$3D $D5 Multiply by 0.001 kPa Test value for purge VSV stuck open (P0441)
+$3D $D7 Multiply by 0.001 kPa Test value for purge flow insufficient (P0441)
+Misfire
+Monitor ID Test ID Scaling Unit Description
+Exponential Weighted Moving Average (EWMA) misfire for all
+cylinders:
+$A1 $0B Multiply by 1 Time EWMA = Total misfire counts for last driving cycle * 0.1 + Last
+EWMA * 0.9
+Misfire counts for last 10 driving cycles - Total
+Ignition switch ON: Total misfire counts for last driving cycle
+$A1 $0C Multiply by 1 Time Engine running: Total misfire counts for current driving cycle
+Misfire counts for last or current driving cycle - all cylinders

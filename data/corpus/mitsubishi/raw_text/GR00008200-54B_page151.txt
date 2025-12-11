@@ -1,0 +1,39 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-151
+SYMPTOM PROCEDURES
+DRIVER(cid:146)S DOOR UNLOCK FUNCTION
+.Operating the Transmitter Unlock Switch Press Once
+When the transmitter unlock switch is pressed once, the
+ETACS-ECU activates the unlock relay output for 0.25 seconds
+Transmitter UNLOCK and unlocks driver(cid:146)s door.
+unlock switch OFF
+ON
+Unock relay output
+OFF
+t
+t: 0.25 seconds
+AC106433AC
+ALL DOOR UNLOCK FUNCTION
+.Operating the Transmitter Unlock Switch Press Twice
+When the transmitter unlock switch is pressed twice, the
+ETACS-ECU activates the unlock relay output for 0.25 seconds
+Transmitter UNLOCK and unlocks all doors.
+unlock switch OFF
+ON
+Unock relay output
+OFF
+t t
+t: 0.25 seconds
+AC106434AB
+TRUNK LID OPEN FUNCTION
+.Operating the Transmitter Trunk Switch
+When the transmitter trunk switch is pressed, the ETACS-ECU
+activates the open relay output for 0.25 seconds and open
+Transmitter ON(TRUNK) trunk lid.
+trunk switch OFF
+ON
+Open relay output
+OFF
+t
+t: 0.25 seconds
+AC106433AD
+TSB Revision

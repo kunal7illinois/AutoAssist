@@ -1,0 +1,55 @@
+BC–144
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+(cid:123): Light ON
+-: Light OFF
+(*1): Models without multi information display
+(*2): Models with multi information display
+• The DTCs are simultaneously stored in the
+memory. The DTCs can be read by connecting
+the SST between terminals TC and CG of the
+DLC3 and observing the blinking pattern of the
+ABS and VSC (models without multi information
+display) warning lights, by reading the multi
+information display (models with multi
+information display), or by connecting the
+intelligent tester.
+• This system has a Test Mode (signal check)
+function (See page BC-123).
+The DTC can be read by connecting the
+intelligent tester and observing the blinking
+pattern of the ABS and VSC (models without
+BC multi information display) warning lights or by
+reading the multi information display (models
+with multi information display).
+3. WARNING LIGHT AND INDICATOR LIGHT CHECK
+(a) Release the parking brake.
+ABS Warning BRAKE Warning NOTICE:
+Light: Light:
+When releasing the parking brake, move the
+shift lever to the P position for safety (A/T) or set
+the chocks to hold the vehicle for safety (M/T).
+HINT:
+When the parking brake is applied or the level of the
+brake fluid is low, the BRAKE warning light comes
+on.
+(b) When the ignition switch is turned on (IG), check
+VSC Warning SLIP Indicator
+that the ABS, BRAKE and VSC (models without
+Light (*1): Light:
+multi information display) warning lights, and SLIP,
+and master caution indicator lights come on for
+approximately 3 seconds.
+HINT:
+If the warning light and indicator light check result is
+not normal, proceed to troubleshooting for the ABS,
+BRAKE and VSC warning light circuits and SLIP
+Master Caution Indicator Light: indicator light circuit.
+If the indicator remains on, proceed to
+troubleshooting for the light circuit below.
+Trouble Area See procedure
+ABS warning light circuit BC-229
+(*1): Models without Multi Information Display
+BRAKE warning light circuit BC-244
+VSC warning light circuit BC-236
+C140885E01
+SLIP indicator light circuit BC-255

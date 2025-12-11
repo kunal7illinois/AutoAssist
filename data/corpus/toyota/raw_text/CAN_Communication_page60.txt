@@ -1,0 +1,32 @@
+CA–60
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+Main Body ECU Communication Stop Mode
+DESCRIPTION
+Detection Item Symptom Trouble Area
+• "Integrated J/B" not displayed on
+"Communication Bus Check" screen of • Power source circuit of the main body
+the intelligent tester ECU
+Main Body ECU Communication Stop Mode
+• Applies to "Main Body ECU • Main body ECU branch wire or connector
+Communication Stop Mode" in "DTC • Main body ECU
+combination table"
+WIRING DIAGRAM
+without Smart Key
+System:
+DLC3
+Combination Meter
+ECM
+CA
+120 Ω No. 1 CAN J/C No. 2 CAN J/C 120 Ω
+5 E8 E8 6
+ECU-IG 11 CANH CANL
+1F IG
+GND1 1F
+ECU-B 1
+1F BECU*
+*: TMC Mode
+Main Body ECU
+Trouble Area
+: CAN Main Bus Line (CANH) : CAN Branch Line (CANH)
+: CAN Main Bus Line (CANL) : CAN Branch Line (CANL)
+C133247E01

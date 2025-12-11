@@ -1,0 +1,36 @@
+BE-110 BODY ELECTRICAL - SMART KEY SYSTEM
+4. Construction and Operation
+Key
+The key consists of a mechanical key, a transmitter for the wireless door lock remote control and a
+transceiver for the smart key system, and a transponder chip for the engine immobilizer control.
+(cid:3) The transceiver function of the key receives the signals from the oscillators and returns the ID code to
+the tuner.
+(cid:3) The transmitter function for the wireless door lock remote control has a LOCK button, UNLOCK button,
+TRUNK button, and PANIC button.
+(cid:3) The transponder chip in the key for the engine immobilizer control returns a signal to the engine switch
+as a response to the radio wave it received from the engine switch.
+(cid:3) This mechanical key operates the driver door lock cylinder, glove box lock cylinder, and trunk strage
+extensiion lock cylinder but cannot be used to start the engine.
+A total of four keys can be registered. For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).
+LOCK Button
+UNLOCK Button
+TRUNK Button
+PANIC Button
+Mechanical Key
+025BE92TE
+Oscillator (Driver and Front Passenger Door, Front and Rear Rooms, Trunk Inner, Trunk
+Outer)
+Each oscillator functions based on a request signal received from the certification ECU, and creates a key
+actuation area that is used to detect the presence of a key.
+The actuation area formed by the front door oscillator and trunk outer oscillator is approximately 0.7 to 1.0
+m (2.3 to 3.3 ft.) from the outside handle of the front doors, or the center of the rear bumper.
+(cid:3) The actuation area of front door oscillator is formed by transmitting a request signal every 0.25 seconds
+while the engine switch is OFF and each door is locked. In this way it detects the proximity of a key. When
+locking the door using the lock switch on the outer door handle, the actuation area is formed when the
+lock switch is pressed.
+(cid:3) The actuation area of the trunk outer oscillator is formed when the trunk open switch is ON. It is formed
+twice to allow the key to be verified.
+(cid:3) The actuation area of the front and rear room oscillator is formed when the driver door is opened or
+closed, when the start button is pressed, when a warning is activated, or when the lock switch is ON.
+(cid:3) The actuation area of the trunk inner oscillator forms when the trunk lid is closed or the trunk open switch
+is pressed, and is formed twice to allow the key to be verified.

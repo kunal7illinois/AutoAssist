@@ -1,0 +1,64 @@
+Audi 100 1991 ➤ , Audi 80 1992 ➤ , Audi A1 2011 ➤ , Audi A2 2001 ➤ , A ...
+Air conditioner with refrigerant R134a - Edition 06.2010
+Note
+♦ In the event of a very high cooling output requirement (e.g.
+high ambient temperature and high fresh-air blower speed at
+low engine speed), the air conditioner compressor cannot in‐
+itially set the pressure on the low-pressure end to the value
+-C- given in the graph (e.g. for a certain time after switching
+on the air conditioner). The air conditioner compressor is ac‐
+tuated with the maximum specified control current, however
+the delivery volume of the air conditioner compressor is no
+longer sufficient under these ambient conditions and at this
+engine speed to reduce the pressure on the low-pressure end
+to the value in the graph. One way of checking the control ac‐
+tion of the air conditioner compressor under these conditions
+is to actuate the fresh-air blower with only approx. 40 % of the
+maximum voltage and to check the pressures at reduced
+fresh-air blower speed ⇒ Vehicle diagnostic tester ( „self-di‐
+agnosis“ or „guided fault-finding“ function for air conditioner)
+and ⇒ Heating, air conditioning; Rep. gr. 87 or ⇒ Air condi‐
+tioning; Rep. gr. 87 (vehicle-specific workshop manual).
+♦ Under unfavourable conditions (very high ambient tempera‐
+tures, high humidity), the pressure on the high-pressure end
+may increase up to max. 29 bar.
+♦ The control current -B- is displayed in the measured value
+block of the operating and display unit for Climatronic air con‐
+ditioning system -E87- or the operating and display unit, Cli‐
+matronic control unit -J255- .
+♦ The pressure in the refrigerant circuit measured by the high-
+pressure sender -G65- or the refrigerant pressure and tem‐
+perature sender -G395- is displayed in the measured value
+block of the operating and display unit for Climatronic air con‐
+ditioning system -E87- or the operating and display unit, Cli‐
+matronic control unit -J255- ⇒ Vehicle diagnostic tester ( „self-
+diagnosis“ or „guided fault-finding“ function for air conditioner)
+and ⇒ Heating, air conditioning; Rep. gr. 87 or ⇒ Air condi‐
+tioning; Rep. gr. 87 (vehicle-specific workshop manual).
+♦ The low pressure settles as a function of the control current
+for the air conditioner compressor regulating valve -N280-
+within the air conditioner compressor output range in the tol‐
+erance band.
+♦ Under unfavourable conditions (very high ambient tempera‐
+tures, high humidity), the air conditioner compressor output
+may not always be sufficient to attain the specified value.
+♦ If the compressor capacity utilisation is greater than 90 %, the
+pressure on the low-pressure end may be in excess of the
+tolerance range „C“ shown in the graph (the compressor out‐
+put no longer suffices).
+♦ The specified operating current for the regulating valve must
+be greater than 0.3 A to ensure reliable actuation of the regu‐
+lating valve.
+♦ At absolute pressure, „0 bar“ corresponds to an absolute vac‐
+uum. Normal ambient pressure corresponds to 1 bar absolute.
+On the scales of most pressure gauges, 0 bar corresponds to
+an absolute pressure of one bar (can be seen from „-1 bar“
+mark below „0“).
+♦ In the "maximum cooling output" setting, the control current is
+regulated to approx. 0.65 (vehicle-specific up to 0.85 A) (dis‐
+played in measured value block) ⇒ Vehicle diagnostic tester
+( „self-diagnosis“ or „guided fault-finding“ function for air con‐
+ditioner) and ⇒ Heating, air conditioning; Rep. gr. 87 or ⇒ Air
+conditioning; Rep. gr. 87 (vehicle-specific workshop manual).
+121
+7. Checking pressures

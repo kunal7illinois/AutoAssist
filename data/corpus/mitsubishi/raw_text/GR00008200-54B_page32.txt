@@ -1,0 +1,33 @@
+54B-32 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 3. Check at column switch connector C-86 by
+backprobing in order to check the power supply circuit to
+the column switch (through the battery).
+(1) Measure at column switch connector C-86 without
+CONNECTOR: C-86
+disconnecting the connector.
+DEVICE SIDE
+1 2 3 4 5
+6 7 8 910
+AC106475AB
+(2) Measure the voltage between terminal 1 and ground by
+backprobing.
+• The measured value should be approximately 12 volts
+CONNECTOR C-86 (battery positive voltage).
+(HARNESS SIDE)
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 6.
+NO : Go to Step 4.
+1 2 3 4 5
+6 7 8 9 10
+AC001202AF
+STEP 4. Check column switch connector C-86 for damage.
+Q:Is column switch connector C-86 in good condition?
+CONNECTOR: C-86
+YES : Go to Step 5.
+NO : Repair or replace the connector. Refer to GROUP
+DEVICE SIDE 00E, Harness Connector Inspection P.00E-2. The
+1 2 3 4 5 system should communicate with the column switch
+6 7 8 910 (column-ECU) normally.
+AC106475AB
+TSB Revision

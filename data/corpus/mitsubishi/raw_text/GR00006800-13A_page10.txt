@@ -1,0 +1,41 @@
+13A-10 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+MODE 6 REFERENCE TABLE
+The engine control module (ECM) <M/T> or powertrain control module (PCM) <A/T> monitors the condition
+of emission control system.
+By selecting MODE 6 using scan tool, Test Result and Limit Value (minimum) *1 or (maximum) *2 about the
+main items of emission control system which ECM <M/T> or PCM <A/T> monitors can be confirmed. The
+value at the last monitoring is output by ECM <M/T> or PCM <A/T> as a test result.
+TEST MONITORING SIMPLE TECHNICAL INDICATION OF SCAN CONVERSION
+ID ITEM DESCRIPTION TOOL COEFFICIENT IN
+USING
+GENERAL SCAN
+TOOL
+01 Catalyst ECM <M/T> or PCM <A/T> Catalyst Frequency × 0.0039
+monitor monitors the deterioration of Ratio
+catalyst by the output frequency Test Result and Limit
+ratio between heated oxygen Value (max.)
+sensor (front) and heated oxygen
+sensor (rear).
+03 EGR monitor ECM <M/T> or PCM <A/T> EGR Monitor Pressure × 0.43 kPa
+monitors the operation of EGR Value
+system by the pressure difference Test Result and Limit
+of intake manifold between before Value (min.) kPa
+and after introduction of EGR using
+the manifold differential pressure
+sensor.
+06 Evaporation ECM <M/T> or PCM <A/T> EVAP Leak Mon. 1 mm × 0.032 kPa
+leak monitor monitors the leak of fuel Pressure Value
+(Small leak) evaporation gas by the reduction of Test Result and Limit
+vacuum in tank after appointed time Value (max.) kPa
+using the fuel tank differential
+pressure sensor after making the
+fuel tank and the fuel line vacuum.
+07 Evaporation ECM <M/T> or PCM <A/T> EVAP Leak Mon. Gross × 0.032 kPa
+leak monitor monitors the leak of fuel Pressure Value
+(Gross leak) evaporation gas by the reduction of Test Result and Limit
+vacuum in tank after appointed time Value (min.) kPa
+using the fuel tank differential
+pressure sensor after making the
+fuel tank and the fuel line vacuum.
+TSB Revision

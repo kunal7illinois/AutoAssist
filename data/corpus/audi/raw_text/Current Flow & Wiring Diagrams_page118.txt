@@ -1,0 +1,36 @@
+Audi TT No. 9 / 4
+Current Flow Diagram
+ABS control unit, rear right and left speed sensor, front right
+and left speed sensor
+G44 Rear right speed sensor
+G45 Front right speed sensor
+G46 Rear left speed sensor
+G47 Front left speed sensor
+J104 ABS control unit
+T47 47-pin connector, on ABS control unit
+B510 Connection 1 (rear right speed sensor), in interior wiring harness
+B511 Connection 2 (rear right speed sensor), in interior wiring harness
+B512 Connection 1 (rear left speed sensor), in interior wiring harness
+B513 Connection 2 (rear left speed sensor), in interior wiring harness
+J3 Connection 1, in ABS wiring harness
+J104
+J5 Connection 2, in ABS wiring harness
+T47/33 T47/34 T47/36 T47/37 T47/42 T47/43 T47/45 T47/46
+0,75 0,75 0,5 0,5 1,0 1,0 0,5 0,5
+sw gn ws sw br/gr gr br sw
+B512 B513 B511 B510 J3 J5
+0,75 0,75 0,75 0,75 0,5 0,5
+br sw sw br br sw
+ws = white
+sw = black
+ro = red
+2 1 1 2 2 1 1 2 br = brown
+gn = green
+bl = blue
+G45 G46 G44 G47 gr = grey
+li = purple
+ge = yellow
+29 30 31 32 33 34 35 36 37 38 39 40 41 42 or = orange
+8J0-009040806
+rs = pink
+Edition 04.2009

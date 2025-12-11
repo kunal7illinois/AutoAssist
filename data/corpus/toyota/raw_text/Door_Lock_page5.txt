@@ -1,0 +1,59 @@
+DL–5
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+SYSTEM DESCRIPTION
+1. POWER DOOR LOCK CONTROL SYSTEM
+DESCRIPTION
+(a) The power door lock system locks/unlocks all the
+doors.
+The master switch and the door control switch on
+the passenger door send "lock/unlock" request
+signals to the main body ECU. Then, the main body
+ECU sends these request signals to the lock motors
+in each door to lock/unlock all the doors at once in
+response to the inputs.
+Operating the driver's door lock using a mechanical
+key sends request signals to lock/unlock the doors
+to the main body ECU via the master switch. "2-step
+unlock function" is optional for unlocking procedures
+of the key-linked lock for the driver side door.
+2. FUNCTION OF MAIN COMPONENT
+Components Function
+Door control switch on master switch assembly locks/unlocks all
+Multiplex network master switch assembly (Manual door lock switch)
+doors.
+Door control switch Door control switch on passenger side door locks/unlocks all doors.
+Placed on each door. Detects door status (open or closed) and
+Door courtesy switch outputs data to main body ECU. Turns on when door is open and turns
+off when door is closed.
+• Built-in motor locks/unlocks door.
+• Built-in door control switch (key-linked) detects door key
+operation's door status (locked or unlocked) and outputs data to
+Driver side door lock main body ECU.
+• Built-in position switch detects door status (locked or unlocked)
+and outputs data to main body ECU. This switch turns off when
+door is locked and turns on when door is unlocked.
+• Built-in motor locks/unlocks door.
+Front passenger side door lock, luggage compartment door lock, rear • Built-in position switch detects door status (locked or unlocked)
+LH and RH door locks and outputs data to main body ECU. This switch turns off when
+door is locked and turns on when door is unlocked.
+3. SYSTEM FUNCTION
+HINT:
+The following functions' default settings are ON. Some of
+these functions can be customized (See page DL-10).
+(a) This system is controlled by the main body ECU.
+The main body ECU outputs signals to each door
+lock motor. The door lock control system of the DL
+CAMRY has the following functions:
+Function Outline
+This function can lock or unlock all doors by the door lock control
+Manual lock and unlock function
+switch operation.
+This function, which is linked with the key cylinder, can lock or unlock
+Key-linked lock and unlock function
+all the doors when a lock or unlock operation is effected.
+Performing the door lock operation with an electrical key (*1) or a
+Manual unlock prohibition function mechanical key (transmitter) will prohibit the unlock operation by the
+door lock control switch.
+If a each door lock (*1) or driver's door lock (*2) operation is
+Key lock-in prevention function (Electrical key) performed when the electrical key (*1) or mechanical key is in the
+cabin (*1) or ignition key cylinder (*2), all the doors will be unlocked.

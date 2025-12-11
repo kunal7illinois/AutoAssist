@@ -1,0 +1,21 @@
+RS–45
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+CHECK MODE PROCEDURE
+1. CHECK MODE (SIGNAL CHECK): DTC CHECK
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Select "SIGNAL CHECK", and proceed with
+checking using the intelligent tester.
+NOTICE:
+Select "SIGNAL CHECK" from the "DTC
+CHECK" screen displayed on the intelligent
+tester to clear the output DTCs (both present
+and past).
+HINT:
+DLC3 • DTCs can be detected more sensitively in check
+Intelligent Tester mode than in normal diagnosis mode.
+C131977E01 • Perform check mode inspection when a
+malfunction in each squib circuit is suspected
+even after the normal system code is output
+through normal diagnosis mode inspection.
+RS

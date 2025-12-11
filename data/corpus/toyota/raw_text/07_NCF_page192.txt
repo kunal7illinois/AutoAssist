@@ -1,0 +1,51 @@
+CH-28 CHASSIS - U250E AUTOMATIC TRANSAXLE
+5. Clutch Pressure Control
+Clutch to Clutch Pressure Control
+(cid:3) This control is used for shifting from the 2nd to 3rd gear, and from the 3rd to 4th gear.
+(cid:3) Solenoid valves actuate SL1, SL2, and SL3 in accordance with the signals from the ECM, and guide this
+output pressure directly to the control valves B , C , and C in order to regulate the line pressure that acts
+1 0 1
+on the B brake, C and C clutches. As a result, compact B , C and C accumulators without a back
+1 0 1 1 0 1
+pressure chamber have been realized.
+(cid:3) Input Turbine Speed Sensor
+Sensor Signal (cid:3) Counter Gear Speed Sensor
+ECM (cid:3) Throttle Position Sensor
+(cid:3) Mass Air Flow Meter
+(cid:3) ATF Temperature Sensor
+SL1 SL2 SL3
+(cid:3) Engine Coolant Temp. Sensor
+(cid:4)
+(cid:4)
+(cid:4)
+B 1 Control C 0 Control C 1 Control
+Valve Valve Valve (cid:6): ON X: OFF
+B C C
+1 0 1
+B C C
+1 0 1 2nd (cid:6) X (cid:6)
+3rd X (cid:6) (cid:6)
+4th (cid:6) (cid:6) X
+211CH15
+Line Pressure
+Clutch Pressure Optimal Control
+The ECM monitors the signals from various types of sensor such as the input turbine speed sensor, allowing
+shift solenoid valves SL1, SL2, and SL3 to minutely control the clutch pressure in accordance with engine
+output and driving conditions. As a result, smooth shift characteristics have been realized.
+Target rpm Change Ratio
+Signals from Various Sensors
+Input Shaft ECM
+Engine Speed
+Speed Engine Torque Information
+ATF Temperature
+Practical rpm Change Ratio Input Turbine
+Time Speed Sensor
+SL1
+SL2 Clutch/Brake
+Pressure
+SL3
+Solenoid Drive Signal
+Output Shaft
+Torque
+Time
+025CH26Y

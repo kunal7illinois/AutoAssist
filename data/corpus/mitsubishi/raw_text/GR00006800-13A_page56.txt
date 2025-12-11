@@ -1,0 +1,26 @@
+13A-56 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 15. Check connector B-14 at barometric pressure
+sensor for damage.
+Q:Is the connector in good condition?
+CONNECTOR : B-14
+YES : Go to Step 16.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 18.
+BAROMETRIC
+PRESSURE
+SENSOR
+ACX02480AF
+STEP 16. Check connector C-60 at ECM <M/T> or
+connector C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-60<M/T>,C-54<A/T>
+YES : Go to Step 17.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 18.
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+TSB Revision

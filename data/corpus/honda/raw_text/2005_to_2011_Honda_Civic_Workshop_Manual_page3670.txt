@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Navigation System - Civic (Except Hybrid)
+A sensor output voltage HIGHER than the Offset voltage indicates that the
+vehicle is turning to the left.
+The yaw rate offset and sensor should both indicate about 2.500 V when
+(cid:1)
+stopped. If either reads zero or 5.000 V, replace the navigation unit.
+The yaw rate offset and sensor should be within +/- 0.01 V of each other when
+(cid:1)
+stopped. The sensor value should change relative to the offset as the car is
+turned while driving. If not, replace the navigation unit.
+Example: Vehicle stopped
+VEHICLE STOPPED SPECIFICATION
+Normal Abnormal
+Offset 2.526 V Offset 2.526 V
+Sensor 2.516-2.536 V Sensor 2.623 V
+Example: Vehicle turning
+VEHICLE TURNING SPECIFICATION
+Normal Abnormal
+Offset 2.526 V Offset 2.526 V
+2.678 V (right turn)
+Sensor Sensor 2.623 V (no change on turns)
+2.478 V (left turn)
+The settings CCW Cal Factor, CW Cal Factor, and Set are for factory use only.
+THIS SHOULD NEVER BE USED.
+NOTE: Do not try to adjust the yaw rate sensor without
+instructions from the factory. See next paragraph for
+tuning.

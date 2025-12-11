@@ -1,0 +1,52 @@
+Audi TT 2007 ➤
+Direct shift gearbox 02E, front-wheel drive - Edition 12.2006
+5 Notes on the direct shift gearbox 02E
+5.1 General notes
+Gearbox
+The direct shift gearbox 02E is a dual-clutch gearbox, also refer‐
+red to as “S tronic”. It has the same basic construction as a 6-
+speed manual gearbox. The engine torque is transferred to the
+gearbox via the dual-mass flywheel. The two multi-plate "wet"
+clutches are controlled hydraulically and actuated alternately so
+that the gearbox is operated like an automatic gearbox, in other
+words the gears are engaged automatically (but can also be se‐
+lected manually via the tiptronic function). There is no clutch
+pedal. For further information please refer to ⇒ Self-study pro‐
+gramme No. 308 ; Direct shift gearbox 02E .
+Selector mechanism
+In selector lever position “P” the selector lever cable is used to
+engage the parking lock mechanically. All other gearshift com‐
+mands and selector lever positions are transmitted via the CAN
+data bus from the selector lever -E313- (selector mechanism) to
+the mechatronic unit for direct shift gearbox -J743- .
+Gear oil (gearbox and final drive)
+The direct shift gearbox and front final drive have a common filling
+of gear oil ⇒ page 66 .
+Note
+Use only the correct type of gear oil for the direct shift gearbox
+02E (available as a replacement part). Other types of oil will cause
+malfunctions and/or failure of the gearbox; for Part No. refer to ⇒
+Parts catalogue .
+Regulations for the disposal of oil
+Drained oil must be disposed of properly.
+♦ Improper disposal of used oil endangers the environment.
+♦ It must not be mixed with solvents, brake fluid, coolant or sim‐
+ilar.
+♦ Please observe the information shown on the packaging of the
+oil.
+Variation of gear-change points for gradients
+Additional gear-change maps automatically select the gear-
+change points for gradients according to accelerator pedal posi‐
+tion and road speed.
+• The gear-change map for extreme uphill gradients is matched
+to the engine power.
+• The gear-change map for extreme downhill gradients is
+matched to the engine braking effect.
+• By selecting a gear directly via the tiptronic mode, it is possible
+to make use of the engine braking effect available in a partic‐
+ular gear, for instance when driving downhill with a trailer.
+5.2 Safety functions of gearbox control unit
+In the event of a failure of one or more components or sensors,
+the control unit J743 will activate appropriate backup functions.
+5
+5. Notes on the direct shift gearbox 02E

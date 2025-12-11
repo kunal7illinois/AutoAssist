@@ -1,0 +1,57 @@
+AUTOMATIC TRANSAXLE 23A-255
+AUTOMATIC TRANSAXLE DIAGNOSIS
+INSPECTION PROCEDURE 4: Does not Move (forward or backward)
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+causes for this case:)
+If the vehicle does not move forward or backward
+• Abnormal line pressure
+when the selector lever is shifted to any position
+• Malfunction of the power train
+while the engine is idling, the cause is probably
+• Malfunction of the oil pump
+abnormal line pressure, or a malfunction of the
+• Malfunction of the valve body
+power train, oil pump or valve body.
+• Low A/T fluid level
+• Malfunction of the PCM
+.
+.
+DIAGNOSIS
+STEP 1. Check the hydraulic pressure.
+Measure the hydraulic pressure of each element when the
+transaxle is in 1st, 2nd or reverse. Check if each hydraulic
+pressure is within the standard value. Refer to P.23A-26,
+Hydraulic Pressure Test. If some elements are within the stan-
+dard value and some are not, recheck the symptom.
+Q:Are all pressures within the standard value?
+YES : Check A/T fluid level and condition. If not OK, repair
+or replace as necessary, then recheck symptom. If
+OK, go to Step 3.
+NO : Go to Step 2.
+STEP 2. Disassemble and clean the valve body.
+Check the O-ring installation bolts for looseness and valve
+VALVE body for damage. Repair or replace the faulty parts. Refer to
+BODY
+GROUP 23B, Valve Body P.23B-74.
+ASSEMBLY
+Q:Is the repair possible and the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Replace the valve body assembly. Then check the
+symptom. If the symptom is not eliminated, go to Step
+4.
+AC001860AB
+STEP 3. Check the transaxle power train components.
+Disassemble the transaxle and check the planetary carrier and
+output shaft, etc. Repair or replace the damaged parts. Refer to
+GROUP 23B, Transaxle P.23B-10, Planetary Gear P.23B-64,
+Output Shaft P.23B-68, Differential P.23B-70. Then check the
+PLANETARY GEAR
+symptom.
+Q:Is the symptom eliminated?
+OUTPUT SHAFT
+YES : Diagnosis is complete.
+NO : Go to Step 5.
+DIFFERENTIAL
+AC004468AB
+TSB Revision

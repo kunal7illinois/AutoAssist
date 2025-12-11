@@ -1,0 +1,44 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-343
+SYMPTOM PROCEDURES
+FLASHER TIMER
+GENERAL DESCRIPTION CONCERNING FLASHER TIMER
+M1549023600012
+The following ECUs affect the functions and control
+of the flasher timer.
+Functions Control ECU
+Turn signal light ETACS-ECU, column switch
+Hazard light ETACS-ECU
+FLASHER TIMER FUNCTION
+.
+Turn signal light
+The turn signal light output (flashing signal) is turned ON when
+ON the turn signal light ignition switch is ON and the turn signal
+Ignition switch
+OFF
+light switch is ON (LH or RH.) If the front turn signal light or rear
+Turn signal ON turn signal light bulb has burned out, the flashing speed
+light switch LH OFF
+increases to indicate that the bulb has burned out.
+Turn signal ON
+light switch RH OFF
+Turn signal ON
+light output LH OFF
+Turn signal ON
+light output RH
+OFF
+AC005444AB
+.
+Hazard light
+The hazard lights output (flashing) is turned ON when the haz-
+ard switch is turned OFF to ON. When the switch is turned ON
+ON again, the output is turned OFF.
+Hazard light
+switch OFF NOTE: The hazard light switch is a push-return type toggle
+Turn signal ON switch.
+light output LH
+OFF
+Turn signal ON
+light output RH
+OFF
+AC005445AB
+TSB Revision

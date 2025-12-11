@@ -1,0 +1,39 @@
+CHASSIS - U660E AUTOMATIC TRANSAXLE CH-67
+7. Powertrain Cooperative Control
+Throttle Control at Launch
+By controlling the engine output in cooperative control with ETCS-i (Electronic Throttle Control
+System-intelligent) when the vehicle is launched, excellent launch performance (improved response and
+suppression of tire slippage) is ensured.
+: Conventional
+Accelerator
+: U660E
+Pedal Opening
+Throttle
+Valve Opening
+Tire Slippage Suppression
+Linear Output Increase
+Drive
+Force
+Time
+01YCH28Y
+Deceleration Force Control
+The ECT ECU determines the gear position when the accelerator pedal is OFF (released completely) in
+accordance with the operation of the accelerator pedal (released suddenly or slowly) during deceleration.
+In this way, preventing unnecessary upshifts and downshifts when the accelerator pedal is OFF and ensuring
+smooth acceleration when the vehicle needs to accelerate again.
+Variation in
+: Slow Accelerator Pedal Operation
+Accelerator
+: Sudden Accelerator Pedal Operation
+Pedal Operation
+6th
+5th
+4th
+3rd
+Gear Position
+Drive Force is
+changed by driver’s
+Drive Force
+input
+Time
+01YCH29Y

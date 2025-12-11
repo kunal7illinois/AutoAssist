@@ -1,0 +1,23 @@
+EI–95
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+Door Courtesy Switch Circuit
+DESCRIPTION
+When an additional transponder key is registered, the transponder key ECU assembly detects the front
+door courtesy light switch open/close condition, and enters the key registration mode.
+WIRING DIAGRAM
+Transponder Key
+ECU Assembly
+N6
+Door Courtesy Light
+Switch Assembly
+(Driver’s Side)
+No. 3 J/B
+13 12 12 7
+1 L L Y
+EN2 3O 3A E15 CTY
+B128328E01
+INSPECTION PROCEDURE
+NOTICE:
+If the transponder key ECU assembly is replaced, register the key and ECU communication ID
+EI
+(See page EI-57).

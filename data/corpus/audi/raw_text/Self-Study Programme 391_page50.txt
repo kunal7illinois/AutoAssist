@@ -1,0 +1,19 @@
+Infotainment
+Aerial system for radio navigation systems (without TV tuner)
+The BNS 5.0 and RNS-E radio navigation systems In vehicles equipped with a radio navigation system
+have FM tuners with switched diversity. without TV tuner, the serial selection function is
+In these radios, aerial switching takes place in an integrated in aerial amplifier -2- R111.
+external aerial amplifier with aerial selection. Aerial amplifier -2- R111 receives signals from both
+The radio has an aerial input (HF signal) and a signal radio aerials and can switch between both aerials
+output (IF signal). when FM reception is desired. When AM reception
+The IF signal is evaluated by an aerial amplifier. is desired, aerial amplifier -2- R111 is always
+If the signal is too weak, this aerial amplifier switched to the stub aerial.
+switches to the other aerial.
+391_077
+Legend:
+J393 Convenience system central control unit R65 Telephone aerial
+J503 Control unit with display for radio and R86 Aerial amplifier, mobile telephone
+navigation R93 Radio aerial 2
+R24 Aerial amplifier R111 Aerial amplifier -2-
+R50 Navigation aerial R126 Telephone bracket
+50

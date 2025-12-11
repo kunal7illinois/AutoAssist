@@ -1,0 +1,34 @@
+NS–128
+NAVIGATION – NAVIGATION SYSTEM
+Vehicle Position Mark is not Updated
+INSPECTION PROCEDURE
+1 CHECK MAP DISC
+(a) Check that the map disc is not deformed or cracked.
+OK:
+No deformations or cracks on map disc.
+NG REPLACE MAP DISC
+I100152E12
+OK
+2 CHECK NAVIGATION DISPLAY
+(a) Check if a touch scroll can be performed on the map
+display.
+OK:
+Touch scroll can be performed.
+NG PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE
+OK
+3 CHECK VEHICLE SENSOR (NAVIGATION CHECK MODE)
+(a) Enter the "Navigation Check" mode (Vehicle Sensors)
+(See page NS-27).
+(b) While driving the vehicle, compare the "Speed" indicator
+to the reading on the speedometer. Check if these
+readings are almost equal.
+OK:
+The readings are almost equal.
+NG GO TO "SPEED SIGNAL DOES NOT
+CHANGE IN NAVIGATION CHECK MODE" IN
+E120089
+PROBLEM SYMPTOMS TABLE
+NS
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

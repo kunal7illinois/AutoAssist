@@ -1,0 +1,70 @@
+Audi TT No. 46 / 16
+Current Flow Diagram
+Engine control unit, exhaust temperature sender 1,
+camshaft control valve 1, intake manifold flap valve,
+exhaust camshaft control valve 1
+G235 Exhaust gas temperature sender 1
+J623 Engine control unit
+N205 Inlet camshaft control valve 1
+N316 Intake manifold flap valve
+N318 Exhaust camshaft control valve 1
+N428 Valve for oil pressure control
+220022
+T10 10-pin connector, black, in front left engine compartment
+T14 14-pin connector, black, on front left in engine compartment
+0,35
+br/gn T14c 14-pin connector, black, on left of engine
+T60 60-pin connector, on engine control unit
+✱✱ ϑ T94 94-pin connector, on engine control unit
+T14c/8
+G235
+1/s 2/-- 3/+
+B564 Connection 31, in main wiring harness
+0,5 0,5 0,5
+0,35 sw br ro/gn
+br/gn D110 Connection 8, in engine compartment wiring harness
+6688 220011 * up to May 2009
+T60/6
+J623
+T94/20 ** from June 2009
+*** for models with dual clutch gearbox 0BH only (S tronic)
+T60/45 T60/5 T60/46 T94/20
+B564 220022 6677
+1,0 0,35 0,5 2,5 0,5 0,35 1,0 1,0 1,0 0,5 0,5
+ro/gn ro/gn ro/gn ro/gn ro/gn br/gn bl/gr bl/gn sw/gn sw br
+4499 118899 119922 221100 2 1 1 1
+✱✱✱ T10 T10
+N316 N205 N318 N428
+/10 /9
+1 2 2 2
+0,35 0,5 0,5
+ro/gn sw br
+1/S 2/31
+T14/7 T14c ϑ
+/7
+3/+ G235 ✱ w
+sw
+s =
+=
+w
+bl
+h
+a
+i
+c
+te
+k
+ro = red
+2,5 0,5 0,5 0,5 1,0 0,5
+ro/gn ro/gn ro/gn ro/gn ro/gn ro/gn br = brown
+gn = green
+D110
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+197 198 199 200 201 202 203 204 205 206 207 208 209 210
+or = orange
+8J0-046160410
+rs = pink
+Edition 04.2010

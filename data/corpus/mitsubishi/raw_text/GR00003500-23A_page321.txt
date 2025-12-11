@@ -1,0 +1,30 @@
+AUTOMATIC TRANSAXLE 23A-321
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 27. Check connector C-61 <2.4L Engine> or C-63
+<3.0L Engine> at PCM connector for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE> YES : Repair harness open circuit or short circuit to ground
+between shift switch assembly connector C-65
+PCM terminal 3 and PCM connector C-61 <2.4L Engine> or
+C-63 <3.0L Engine> terminal 122.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+STEP 28. Check the shift switch assembly.
+Refer to P.23A-363, Transaxle Control.
+Q:Is the switch operating properly?
+YES : Go to Step 29.
+NO : Replace the shift switch assembly. Refer to P.23A-
+361, Transaxle Control.
+STEP 29. Check connector C-65 at shift switch assembly
+for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-65
+YES : Go to Step 30.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2.
+C-65
+AC001741AS
+TSB Revision

@@ -1,0 +1,45 @@
+35B-10 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991529: Diagnostic Trouble Code Check Harness
+.
+STEP 1. Check the wheel speed sensor installation.
+Q:Is the wheel speed sensor bolted securely in place at
+FRONT WHEEL REAR WHEEL
+SPEED SENSOR SPEED SENSOR the front knuckle or the rear knuckle?
+YES : Go to Step 2.
+NO : Install it properly (Refer to P.35B-55.) and go to Step
+9 .
+AC000939AB
+STEP 2. Check wheel speed sensor circuit at the ABS-ECU
+connector A-02.
+(1) Disconnect the connector A-02 and measure at the harness
+side.
+(2) Measure the resistance between the ABS-ECU connector
+A-02 (HARNESS SIDE)
+terminals 1 and 3, 4 and 5, 6 and 7, or 8 and 9.
+Standard Value: 1.28 − 1.92 kΩ
+Q:Is the resistance between terminals 1 and 3, 4 and 5, 6
+and 7, or 8 and 9 within the standard value?
+YES : Go to Step 6.
+NO <terminals 6 and 7> : Go to Step 3.
+NO <terminals 4 and 5> : Go to Step 4.
+NO <terminals 1 and 3, 8 and 9> : Go to Step 5.
+AC000940AB
+STEP 3. Check the harness wires between the ABS-ECU
+connector A-02 (terminals 6 and 7) and the wheel speed
+sensor <front: LH> connector A-22 (terminals 1 and 2).
+NOTE: After inspecting the intermediate connector C-06,
+CONNECTOR: C-06
+inspect the wires. If the intermediate connector C-06 is dam-
+aged, repair or replace it. Refer to GROUP 00E, Harness Con-
+nector Inspection P.00E-2. If the connector has been repaired
+or replaced, go to Step 9.
+COMBINATION
+METER
+AC001989BH
+TSB Revision

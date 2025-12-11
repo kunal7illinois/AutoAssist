@@ -1,0 +1,35 @@
+ES–460
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(c) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST / FUEL PUMP /
+SPD.
+(d) Check whether the fuel pump operation sound occurs
+when performing the Active Test on the tester.
+OK:
+Fuel pump operating sound occurs.
+NG Go to step 2
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE (See page
+ES-33)
+ES
+2 CHECK ECM POWER SOURCE CIRCUIT
+NG REPAIR OR REPLACE ECM POWER
+SOURCE CIRCUIT
+OK
+3 INSPECT ENGINE ROOM JUNCTION BLOCK (C/OPN RELAY)
+(a) Remove the integration relay from the engine room relay
+block.
+(b) Inspect the C/OPN relay.
+(1) Measure the C/OPN relay resistance.
+Engine Room Junction Block
+Standard resistance
+Tester Connections Specified Conditions
+10 kΩ or higher
+1E-7 - 1E-13 Below 1 Ω
+(Apply battery voltage between terminals 1D-12 and
+1E-8)
+1D 1E (c) Reinstall the integration relay.
+NG REPLACE ENGINE ROOM JUNCTION
+BLOCK
+Engine Room Relay Block
+A140654E03

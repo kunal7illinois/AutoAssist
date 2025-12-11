@@ -1,0 +1,35 @@
+ES–317
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred.
+1 INSPECT AIR-FUEL RATIO SENSOR (HEATER RESISTANCE) (See page ES-83)
+NG REPLACE AIR-FUEL RATIO SENSOR
+OK
+ES
+2 INSPECT INTEGRATION RELAY (EFI MAIN RELAY) (See page ES-84)
+NG REPLACE INTEGRATION RELAY (EFI MAIN
+RELAY)
+OK
+3 CHECK HARNESS AND CONNECTOR (A/F SENSOR - ECM) (See page ES-310)
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+4 REPLACE AIR-FUEL RATIO SENSOR
+NEXT
+5 CHECK WHETHER DTC OUTPUT RECURS
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON and turn the tester ON.
+(c) Clear DTCs (see page ES-35).
+(d) Start the engine.
+(e) Allow the engine to idle for 5 minutes or more.
+(f) Select the following menu items: DIAGNOSIS /
+ENHANCED OBD II / DTC INFO / PENDING CODES.
+(g) Read pending DTCs.
+Result
+Display (DTC Output) Proceed To
+No output A
+P2238, P2239, P2252 or P2253 B
+B REPLACE ECM

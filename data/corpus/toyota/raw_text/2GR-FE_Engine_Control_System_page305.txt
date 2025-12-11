@@ -1,0 +1,29 @@
+ES–305
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC P0560 System Voltage
+DESCRIPTION
+The battery supplies electricity to the ECM even when the ignition switch is off. This power allows the
+ECM to store data such as DTC history, freeze frame data and fuel trim values. If the battery voltage falls
+below a minimum level, these memories are cleared and the ECM determines that there is a malfunction
+in the power supply circuit. When the engine is next started, the ECM illuminates the MIL and sets the
+DTC.
+DTC No. DTC Detection Condition Trouble Area
+Open in ECM back-up power source circuit • Open in back-up power source circuit
+P0560
+(1 trip detection logic) • ECM
+HINT:
+If DTC P0560 is set, the ECM does not store other DTCs.
+ES
+MONITOR STRATEGY
+Related DTCs P0560: ECM system voltage
+Required Sensors/Components (Main) ECM
+Required Sensors/Components (Sub) -
+Frequency of Operation Continuous
+Duration 3 seconds
+MIL Operation Immediate (MIL illuminated after next engine start)
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+Monitor runs whenever following DTCs are not present: None
+Stand-by RAM Initialized
+TYPICAL MALFUNCTION THRESHOLDS
+ECM power source Less than 3.5 V

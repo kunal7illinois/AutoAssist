@@ -1,0 +1,49 @@
+CHASSIS - U660E AUTOMATIC TRANSAXLE CH-45
+(cid:3)PLANETARY GEAR UNIT
+1. Construction
+(cid:1) The 6-speed configuration has been achieved by using 2 planetary gear units, creating a 6-speed automatic
+transaxle.
+(cid:1) A Ravingneaux type planetary gear unit is used as the rear gear unit. The gear unit consists of pairs of sun
+gears (front and rear) and planetary pinion gears (long and short) with different diameters within a single
+planetary gear.
+(cid:1) The centrifugal fluid pressure canceling mechanism is used in the C1 and C2 clutches that are applied when
+shifting between the 1st to 6th gears. Refer to CH-51 for details.
+(cid:1) The shapes of the grooves in the clutches and brake linings have been optimized in order to reduce drag
+during clutch and brake operation.
+F1 B2 Ring Gear B3 B1
+Long Pinion Gear U/D Planetary
+C2
+Gear Unit
+Short Pinion Gear
+Intermediate C1 Pinion Gear
+Shaft
+Input Shaft
+Ravigneaux Planetary
+Sun Gear
+Gear Unit
+Counter Drive Gear
+Rear Sun Gear
+Differential
+Ring Gear
+Drive Pinion
+Front Sun Gear
+Ring Gear
+Counter Driven Gear
+01YCH03Y
+2. Function of Components
+Component Function
+C1 No.1 Clutch Connects intermediate shaft and Ravigneaux planetary rear sun gear.
+C2 No.2 Clutch Connects intermediate shaft and Ravigneaux planetary ring gear.
+Prevents Ravigneaux planetary front sun gear and U/D planetary carrier from
+B1 No.1 Brake
+turning either clockwise or counterclockwise.
+Prevents Ravigneaux planetary ring gear from turning either clockwise or
+B2 No.2 Brake
+counterclockwise.
+Prevents U/D planetary ring gear from turning either clockwise or
+B3 No.3 Brake
+counterclockwise.
+F1 No.1 One-Way Clutch Prevents Ravigneaux planetary ring gear from turning counterclockwise.
+These gears change the route through which driving force is transmitted, in
+Planetary Gears accordance with the operation of each clutch and brake, in order to increase
+or reduce the input and output speeds.

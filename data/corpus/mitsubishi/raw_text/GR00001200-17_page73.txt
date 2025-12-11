@@ -1,0 +1,38 @@
+ENGINE AND EMISSION CONTROL 17-73
+AUTO-CRUISE CONTROL
+STEP 3. Check the output circuit voltage at junction block
+connector C-108 (terminal number 25) by backprobing.
+(1) Do not disconnect auto-cruise control switch connector C-
+108.
+(2) Turn the ignition switch to the "ON" position.
+(3) Measure the voltage between terminal 25 and ground by
+backprobing.
+C-108 CONNECTOR
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+HARNESS SIDE VIEW
+Q:Is the voltage approximately battery positive voltage?
+YES : Go to Step 5.
+NO : Go to Step 4.
+AC103111AB
+STEP 4. Check junction block connector C-108.
+Q:Is the connector damaged?
+CONNECTOR: C-108
+JUNCTION BLOCK YES : Repair or replace connector.
+(FRONT VIEW) Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that the malfunction is eliminated.
+NO : Replace the junction block.
+Then check that the malfunction is eliminated.
+AC103108AC
+STEP 5. Check combination meter connector C-41 and C-
+43.
+Q:Is any connector damaged?
+CONNECTORS: C-41, C-43
+YES : Repair or replace connector.
+C-41 C-43
+Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2.
+Then check that the malfunction is eliminated.
+NO : Go to Step 6.
+AC101196AG
+TSB Revision

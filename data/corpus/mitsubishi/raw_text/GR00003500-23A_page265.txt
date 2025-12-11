@@ -1,0 +1,51 @@
+AUTOMATIC TRANSAXLE 23A-265
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 6. Replace the PCM.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Start over at Step 1.
+INSPECTION PROCEDURE 9: Shift shock and slipping
+. TROUBLESHOOTING HINTS (The most likely
+COMMENT
+causes for this code to be set:)
+If shift shock when driving are due to upshifting or
+• Abnormal line pressure
+downshifting and the transaxle speed become higher
+• Malfunction of each solenoid valve
+than the engine speed, the cause is probably abnor-
+• Malfunction of the oil pump
+mal line pressure or a malfunction of a solenoid
+• Malfunction of the valve body
+valve, oil pump, valve body or of a brake or clutch.
+• Malfunction of each brake or each clutch
+• Malfunction of the PCM
+.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+STEP 1. Using scan tool MB991502, carry out the actuator
+test.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to actuator test mode for following
+items.
+a. Item 01: Low-reverse solenoid valve
+b. Item 02: Underdrive solenoid valve
+c. Item 03: Second solenoid valve
+16 PIN d. Item 04: Overdrive solenoid valve
+• An operation sound should be heard from solenoid
+MB991502
+AC001252AB valve when solenoid valve is operated.
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Are the solenoid valves operating properly?
+YES : Go to Step 2.
+NO : Repair or replace the solenoid valves. Refer to
+GROUP 23B, Valve Body P.23B-74. Then confirm
+that the symptom is eliminated.
+TSB Revision

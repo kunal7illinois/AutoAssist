@@ -1,0 +1,59 @@
+Audi TT No. 6 / 7
+Current Flow Diagram
+Airbag control unit, seat occupied recognition control unit,
+pressure sensor for seat occupied recognition, seat belt
+force sensor for seat occupied recognition, front passenger
+side belt switch
+E25 Front passenger side belt switch
+G452 Pressure sensor for seat occupied recognition
+G453 Seat belt force sensor for seat occupied recognition
+J234 Airbag control unit
+J706 Seat occupied recognition control unit
+8844 T2ab 2-pin connector, in front passenger seat
+T3aa 3-pin connector, in front passenger seat
+0,5
+gn/ge T10i 10-pin connector, black, under front passenger seat
+T75 75-pin connector, yellow, on airbag control unit
+T10i 140 Earth connection 2, in seat adjuster wiring harness
+/6
+383 Earth connection 18, in main wiring harness
+0,5
+gn/ge
+J234
+T75/57
+T75/59 33 T75/56 8844
+0,5 0,5 0,5 0,5
+ge/gr sw/gn ro gn/ge
+T10i/2 T10i/4 T10i/3 T2ab
+/2
+0,5 0,5 0,5
+ge/gr sw/gn ro
+8 9 18
+J706 G453 E25
+7 6 15 5/31 4 14 16
+0,5 0,5 0,5 0,5 0,5 0,5 0,5
+gr ws br/ws br ge br/ge sw
+T3aa T3aa T3aa/2 T2ab
+8833 /3 /1 /1
+1 2 3 0,5
+140 br
+ws = white
+G452
+0,5 0,5 sw = black
+br br
+ro = red
+7766
+T10i/5
+br = brown
+gn = green
+0,5
+br bl = blue
+383
+gr = grey
+383
+li = purple
+ge = yellow
+71 72 73 74 75 76 77 78 79 80 81 82 83 84 or = orange
+8J0-006070906
+rs = pink
+Edition 10.2010

@@ -1,0 +1,31 @@
+CC–35
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+5 CHECK WIRE HARNESS (SPIRAL CABLE - ECM AND BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+Vehicle Side Connector Front View: table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E18
+E18-1 - A55-40 (CCS)*1
+Always Below 1 Ω
+E18-1 - A24-40 (CCS)*2
+A55-40 (CCS) - Body
+ground*1
+CCS A24-40 (CCS) - Body Always 10 kΩ or higher
+ground*2
+ECC
+E18-2 (ECC) - Body
+Always Below 1 Ω
+ground
+ECM Wire Harness View: A24 *2 HINT:
+*1: 2GR-FE
+A55 *1
+*2: 2AZ-FE
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+CCS
+*1: 2GR-FE
+*2: 2AZ-FE
+E126837E02 CC
+OK
+REPLACE ECM

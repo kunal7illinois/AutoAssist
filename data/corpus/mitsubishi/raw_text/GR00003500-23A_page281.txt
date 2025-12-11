@@ -1,0 +1,34 @@
+AUTOMATIC TRANSAXLE 23A-281
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 1. Using scan tool MB991502, check data list item 65:
+Dual Pressure Switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to data reading mode for item 65:
+Dual Pressure Switch.
+• When the A/C is in operation, the scan tool display
+should be "ON."
+• When the A/C is not in operation, the scan tool display
+should be "OFF."
+16 PIN
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 AC001252AE Q:Is the switch operating properly?
+YES : This malfunction is intermittent. Refer to GROUP 00,
+How to Use Troubleshooting/Inspection Service
+Points − How to Cope with Intermittent Malfunction
+P.00-6.
+NO : Go to Step 2.
+STEP 2. Check connector A-36 at dual pressure switch for
+damage.
+Q:Is the connector in good condition?
+CONNECTOR: A-36
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+A-36
+Connector Inspection P.00E-2.
+AC004374AC
+TSB Revision

@@ -1,0 +1,30 @@
+13A-314 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 19. Check connectors D-16 at intermediate
+connector and D-18 at fuel tank differential pressure
+sensor for damage.
+Q:Are the connectors in good condition?
+CONNECTOR: D-16
+YES : Go to Step 20.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 22.
+AC001787AD
+CONNECTOR: D-18
+FUEL TANK DIFFERENTIAL
+PRESSURE SENSOR
+FUEL TANK
+AC103356AD
+STEP 20. Check the harness wire between intermediate
+connector D-16 terminal 5 and fuel tank differential
+pressure sensor connector D-18 terminal 1 for damage.
+Q:Is the harness wire in good condition?
+CONNECTOR: D-16
+YES : Go to Step 22.
+NO : Repair it. Then go to 22.
+AC001787AD
+CONNECTOR: D-18
+FUEL TANK DIFFERENTIAL
+PRESSURE SENSOR
+FUEL TANK
+AC103356AD
+TSB Revision

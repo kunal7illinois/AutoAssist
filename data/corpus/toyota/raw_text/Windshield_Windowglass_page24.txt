@@ -1,0 +1,25 @@
+WS–24
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+DTC B2312 Driver Side Door Master Switch Malfunction
+DESCRIPTION
+The portion of the power window control system that is located in the driver door consists of a power
+window master switch, regulator, and a motor with an integrated ECU. The driver door power window
+WS
+regulator motor is controlled by the ECU when the power window master switch is operated (models with
+jam protection).
+When the ECU determines that the power window master switch is stuck, DTC B2312 is set.
+NOTICE:
+The power window control system uses a serial communication protocol (LIN) to communicate
+with the main body ECU. Inspect the communication function by following HOW TO PROCEED
+WITH TROUBLESHOOTING. Troubleshoot the power window control system after confirming that
+the communication system is functioning properly.
+DTC No. DTC Detection Condition Trouble Area
+• Power window regulator motor (on driver
+side)
+• Power window regulator master switch
+The power window regulator master switch is
+B2312 • Wire harness
+stuck
+• Power window regulator master switch is
+held in same position for more than 20
+seconds

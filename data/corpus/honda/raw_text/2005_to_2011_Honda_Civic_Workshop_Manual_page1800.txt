@@ -1,0 +1,22 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EGR System (R18A1) - Civic (All Except Hybrid)
+7. Turn the ignition switch OFF.
+8. Jump the SCS line with the HDS.
+9. Disconnect ECM/PCM connector B (44P).
+10. Check for continuity between EGR valve 6P connector terminal No. 2 and
+ECM/PCM connector terminal B33.
+Fig. 8: Checking Continuity Between EGR Valve 6P Connector Terminal
+No. 2 And ECM/PCM Connector Terminal B33
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+Is there continuity?
+YES - Go to step 18.
+NO - Repair open in the wire between the ECM/PCM (B33) and the EGR
+valve, then go to step 13.
+11. Turn the ignition switch OFF.
+12. Replace the EGR valve (see EGR VALVE REPLACEMENT ).
+13. Reconnect all connectors.
+14. Turn the ignition switch ON (II).
+15. Reset the ECM/PCM with the HDS.
+16. Do the ECM/PCM idle learn procedure (see ECM/PCM IDLE LEARN
+PROCEDURE ).

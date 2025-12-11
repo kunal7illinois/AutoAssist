@@ -1,0 +1,40 @@
+BC–210
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+Condition Proceed to
+DTCs (C1235/35, C1236/36, C1238/38 and/or C1239/39) are not output C
+B Go to step 8
+C USE SIMULATION METHOD TO CHECK
+A
+7 CHECK FRONT SPEED SENSOR TIP
+(a) Turn the ignition switch off.
+(b) Remove the front speed sensor (See page BC-438).
+(c) Check the speed sensor tip.
+OK:
+No scratches or foreign matter on the sensor tip.
+NOTICE:
+BC Check the speed sensor signal after cleaning or
+replacement (See page BC-123).
+NG CLEAN OR REPLACE FRONT SPEED
+SENSOR
+OK
+8 CHECK EACH SPEED SENSOR ROTOR
+(a) Turn the ignition switch off.
+(b) Remove each speed sensor rotor.
+(c) Check the speed sensor rotor.
+OK:
+No scratches, missing teeth, or foreign matter on
+the rotors.
+NOTICE:
+Check the speed sensor signal after cleaning or
+replacement (See page BC-123).
+NG CLEAN OR REPLACE EACH SPEED
+SENSOR ROTOR
+OK
+9 RECONFIRM DTC
+(a) Install the front speed sensor and the speed sensor
+rotor.
+(b) Clear the DTC (See page BC-141).
+(c) Start the engine.
+(d) Drive the vehicle at the speed of 12 mph (20 km/h) or
+more for at least 60 seconds.
+(e) Check if the same DTC is recorded (See page BC-141).

@@ -1,0 +1,87 @@
+A33(A), A34(B), A35(C), A36(D)
+ECM
+)1∗(
+25 C
+R Y
+)2∗(
+Y
+C1(A), C2(B), C3(C), C4(D)
+Injector Driver (EDU)
+7 AC2 6 AC2 5 AC2
+12 B
+Y
+Y–R
+6 A
+11 B
+R
+G–R
+5 A
+8 AC2
+31 B
+Y–RB
+W
+3 A
+1 AC2
+14 D
+L–B
+R–GL
+2 A
+2 AC2
+23 D
+L
+B–GL
+12 A
+3
+25 D
+R–G
+W–GL
+11 A
+AC2
+24 D
+R–Y
+W–R
+8 A
+4 AC2
+32 B
+W–L
+B–R
+V V
+(Shielded) (Shielded)
+(Shielded) (Shielded)
+7 A
+W–R
+(A/T)
+14 A (∗1)
+13 B 5 C 17 A (∗2) 26 C
+15 C 17 A 32 C 34 C
+G–Y(∗1)
+Y(∗1)
+R(A/T)
+G–W(∗1)
+GR–R(∗1)
+(Shielded)
+B
+R–RG )1∗( W–G )1∗( Y–G )1∗(
+W–R(A/T)
+O–W
+BR
+B–L
+18 A 19 A
+LG–R(∗1)
+O
+B–P
+Y(∗2)
+(Shielded)
+B
+R
+R
+IJF1 IJF2 IJT1 IJT4 IJT2 IJT3 FPD FPF
+3 A
+IJF1 IJF2 #1 #4 #2 #3 FPD FPF IREL STSW2 STA ST1–
+BR–B
+BR–W
+WFSE IMO TACH STSW ACCR CANL CANH STAR
+BR–W
+R(A/T)
+111
+BRZ (G4400BE)

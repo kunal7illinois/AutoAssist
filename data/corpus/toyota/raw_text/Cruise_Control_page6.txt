@@ -1,0 +1,53 @@
+CC–6
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+3. OPERATION OF CRUISE CONTROL
+The cruise control main switch operates 7 functions:
+SET, - (COAST), TAP-DOWN, RES (RESUME), +
+(ACCEL), TAP-UP, and CANCEL. The SET, TAP-DOWN,
+and - (COAST) functions, and the RES (RESUME), TAP-
+UP, and + (ACCEL) functions are operated with the
+same switch. The cruise control main switch is an
+automatic return type switch which turns on only while
+operating it in the direction of each arrow and turns off
+after releasing it.
+(a) SET CONTROL
+The vehicle speed is stored and constant speed
+control is maintained when pushing the cruise
+control main switch to - (COAST)/SET while driving
+with the main switch on (the CRUISE main indicator
+light is on), and the vehicle speed is within the set
+speed range (between the low and high speed
+limits).
+(b) - (COAST) CONTROL
+When the cruise control main switch is set to -
+(COAST)/SET and held in that position while the
+cruise control system is operating, the ECM sends a
+"throttle valve opening angle 0°" demand signal to
+the cruise control system. Then the vehicle speed,
+when the cruise control main switch is released, is
+stored and maintained.
+HINT:
+An actual throttle valve opening angle of 0° is not
+possible due to the idle speed control, etc.
+(c) TAP-DOWN CONTROL
+When tapping down the cruise control main switch
+to - (COAST)/SET (for approximately 0.6 seconds)
+while the cruise control system is in operation, the
+stored vehicle speed decreases each time by
+approximately 1.6 km/h (1.0 mph). When the cruise
+control main switch is released from - (COAST)/SET
+CC
+and the difference between the driving and stored
+vehicle speed is more than 5 km/h (3 mph), the
+driving vehicle speed is stored and constant speed
+control is maintained.
+(d) ACCELERATION CONTROL
+The throttle valve motor of the throttle body
+assembly is instructed by the ECM to open the
+throttle valve when + (ACCEL)/RES (RESUME) on
+the cruise control main switch is pressed and held
+while the cruise control system is in operation.
+When the cruise control main switch is released
+from + (ACCEL)/RES (RESUME), the vehicle speed
+is stored and the vehicle is controlled at a constant
+speed.

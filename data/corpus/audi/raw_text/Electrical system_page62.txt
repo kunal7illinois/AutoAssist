@@ -1,0 +1,35 @@
+Audi TT 2007 ➤
+Electrical system - Edition 11.2010
+5 Data bus diagnostic interface
+5.1 Data bus diagnostic interface -J533-
+General notes
+♦ The data bus diagnostic interface -J533- interlinks the various
+CAN bus systems in the vehicle.
+♦ For example, it transfers data from the engine control unit
+(powertrain CAN bus) to the instrument cluster (instrument
+cluster CAN bus).
+♦ Fault finding is performed via „Guided Fault Finding“ ⇒ Vehicle
+diagnostic, testing and information system VAS 5051.
+♦ Repair of CAN bus wiring ⇒ Electrical system; General infor‐
+mation; Rep. gr. 97 .
+5.2 Removing and installing data bus diag‐
+nostic interface -J533-
+– When renewing control unit select „Replacement“ function for
+appropriate control unit in „Guided Fault Finding“ or „Guided
+Functions“ ⇒ Vehicle diagnostic, testing and information sys‐
+tem VAS 5051.
+Removing
+– Switch off ignition and take out ignition key.
+– Remove driver's storage com partment ⇒ Rep. gr. 68 .
+– Remove bolt -arrow- and detach air duct -1-.
+– Release retaining clips -1 and 6- by compressing clips
+-arrows-.
+– Disengage lug -2- from bracket -3-.
+– Unplug electrical connector -4- and detach data bus diagnostic
+interface -J533- -item 5-.
+Installing
+Installation is carried out in the reverse order; note the following:
+– Install air duct ⇒ Rep. gr. 80 or ⇒ Rep. gr. 87 .
+– Install driver's storage compartment ⇒ Rep. gr. 68 .
+54
+Rep. gr.90 - Gauges, instruments

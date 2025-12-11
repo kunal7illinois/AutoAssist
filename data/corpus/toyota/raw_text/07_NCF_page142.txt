@@ -1,0 +1,23 @@
+ENGINE - 2GR-FE ENGINE EG-115
+Crankshaft Position Sensor
+The timing rotor of the crankshaft consists of 34 teeth, with 2 teeth missing. The crankshaft position sensor
+outputs the crankshaft rotation signals every 10(cid:4), and the missing teeth are used to determine the
+top-dead-center.
+NE Signal Plate (720(cid:4) CA)
+Engine
+Front
+10(cid:4) CA
+2 Teeth
+Timing Rotor Crankshaft Missing
+Position Sensor
+285EG79 279EG50
+Intake and Exhaust VVT Sensors
+1) General
+The MRE (Magnetic Resistance Element) type intake and exhaust VVT sensors are used. To detect the
+camshaft position, a timing rotor that is secured to the camshaft in front of the VVT controller is used
+to generate 6 (3 Hi Output, 3 Lo Output) pulses for every 2 revolutions of the crankshaft.
+Intake VVT Sensor RH Exhaust VVT Sensor RH
+Timing Rotor
+Timing Rotor
+Intake VVT Sensor (Right Bank) Exhaust VVT Sensor (Right Bank)
+285EG82 285EG83

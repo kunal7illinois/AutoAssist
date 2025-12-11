@@ -1,0 +1,40 @@
+35B-20 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+CONNECTOR: A-02 CONNECTORS: C-03, C-06
+COMBINATION METER
+C-06
+C-03
+AC001985AD AC004421AB
+RELAY BOX FUSE (11)
+BATTERY
+AC103266AC
+. • Stoplight switch system harness is damaged and
+CIRCUIT OPERATION
+• The ON signal when the brake pedal is pressed no signal is input to ABS-ECU.
+or the OFF signal when the brake pedal is
+.
+released is input to the ABS-ECU (terminal 14). TROUBLESHOOTING HINTS (The most likely
+causes for this DTC is to set are:)
+. • Malfunction of the stoplight switch
+ABS DTC SET CONDITION
+• Damaged wiring harness or connector
+Output is provided in the following cases:
+• Stoplight switch is not operating properly and • Malfunction of the hydraulic unit (integrated with
+ABS-ECU)
+remains in ON state for more than 15 minutes.
+.
+DIAGNOSIS
+Required Special Tools:
+• MB991223: Harness Set
+• MB991502: Scan Tool (MUT-II)
+• MB991529: Diagnostic Trouble Code Check Harness
+.
+STEP 1. Check the stoplight operation.
+Q:Does the stoplight light or go out correctly?
+YES : Go to Step 3.
+NO : Go to Step 2.
+STEP 2. Check the stoplight switch installation condition.
+Q:Is the stoplight switch installed properly?
+YES : Go to Step 4.
+NO : Install it correctly and then go to Step 7.
+TSB Revision

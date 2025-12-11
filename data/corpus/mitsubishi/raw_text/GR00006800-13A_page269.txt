@@ -1,0 +1,38 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-269
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC P0441: Evaporative Emission Control System Incorrect Purge Flow
+CONNECTOR:B-33 CONNECTOR:D-10
+EVAPORATIVE EMISSION
+VENTILATION SOLENOID
+EVAPORATIVE
+EMISSION PURGE
+SOLENOID VALVE
+ACX02513AJ ACX02516AJ
+. • 20 seconds have elapsed from the time the duty
+TECHNICAL DESCRIPTION
+• ECM <M/T> or PCM <A/T> detects stuck open of cycle of the evaporative emission purge solenoid
+has turned to 0 percent.
+evaporative emission purge solenoid valve and
+stuck close of evaporative emission ventilation Judgment Criteria
+solenoid valve by pressure change in fuel tank. • The pressure in the fuel tank is −2 kPa (0.29 psi)
+• Stuck open of evaporative emission purge sole- or less for 0.1 second.
+noid valve is judged through monitoring leak of
+evaporative emission control system. .
+TROUBLESHOOTING HINTS (The most likely
+• Stuck close of evaporative emission ventilation
+causes for this code to be set are:)
+solenoid valve is judged after 20 seconds of end • Evaporative emission purge solenoid failed.
+of monitoring leak of evaporative emission control • Evaporative emission ventilation solenoid failed.
+system, or of usual operation of evaporative • Choking up of hose between evaporative emis-
+emission purge solenoid from ON to OFF.
+sion canister and evaporative emission ventila-
+tion solenoid.
+.
+DTC SET CONDITIONS
+Check Conditions
+• ON duty cycle of the evaporative emission purge
+solenoid is 0 percent.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

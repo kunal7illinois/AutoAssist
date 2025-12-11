@@ -1,0 +1,45 @@
+Audi TT No. 49 / 7
+Current Flow Diagram
+Climatronic control unit, sunlight penetration photosensor,
+left and right footwell vent temperature sender, evaporator
+output temperature sender, front left and right chest vent
+temperature sensor
+G107 Sunlight penetration photosensor
+G261 Left footwell vent temperature sender
+G262 Right footwell vent temperature sender
+G263 Evaporator out-flow temperature sender
+G385 Front left chest vent temperature sensor
+G386 Front right chest vent temperature sensor
+J255 Climatronic control unit
+T16c 16-pin connector, brown, connector C, on Climatronic control
+unit
+T16d 16-pin connector, black, connector D, on Climatronic control unit
+T20k 20-pin connector, connector B, on Climatronic control unit
+97 Earth connection 1, in air conditioning system wiring harness
+411 Earth connection 2 (sender earth), in main wiring harness
+J255 ✱
+* Operating unit for air conditioning
+** not for Heater (9AA)
+# left-hand drive only
+T20k/8 T20k/9 T20k/11 T16d/2 T16c/5 T16d/1 T16c T16c
+/15 /14 ## right-hand drive only
+# ##
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 0,35
+gr/ro bl ro/sw bl/gn bl/gr ro/ge sw/gn ws/gn
+2 2 2 2 2 2 1 4
+ϑ ✱✱ ϑ ✱✱ ϑ ✱✱ ✱✱ ϑ ϑ ✱✱
+G261 G262 G263 G385 G386
+1 1 1 1 1 G107 3 ws = white
+✱✱ sw = black
+ro = red
+✱✱ # ##
+0,35 0,35 0,35 0,35 0,35 0,35 0,35 br = brown
+br/ws br/ws br/ws br/ws br/ws br/ws br/ws gn = green
+97 411 bl = blue
+97 411 gr = grey
+li = purple
+ge = yellow
+71 72 73 74 75 76 77 78 79 80 81 82 83 84 or = orange
+8J0-049070409
+rs = pink
+Edition 04.2009

@@ -1,0 +1,46 @@
+AC–103
+AIR CONDITIONING – AIR CONDITIONING SYSTEM
+INSPECTION PROCEDURE
+1 CHECK HARNESS AND CONNECTOR (IG+ - BODY GROUND)
+(a) Disconnect the connector from the heater control panel.
+A/C Control Assembly Connector
+Wire Harness View: (b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Tester Connection
+Condition Specified Condition
+(Symbols)
+F16-5 (IG+) - Body
+Ignition switch on (IG) 10 to 14 V
+ground
+F16-5 (IG+) - Body
+Ignition switch off Below 1 V
+ground
+F16 Result
+Result Proceed to
+OK A
+NG (without Smart key system) B
+IG+
+E124480E02 NG (with Smart key system) C
+B GO TO STARTING SYSTEM
+C GO TO PUSH BUTTON START SYSTEM
+A
+AC
+2 CHECK HARNESS AND CONNECTOR (GND - BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+A/C Control Assembly Connector
+Wire Harness View: table below.
+Standard resistance
+Tester Connection
+Condition Specified Condition
+(Symbols)
+F16-3 (GND) - Body
+Always Below 1 Ω
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+F16
+GND
+E124480E03
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

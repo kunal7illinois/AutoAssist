@@ -1,0 +1,44 @@
+AX–43
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+DTC CHECK / CLEAR
+Intelligent Tester
+1. CHECK DTC
+(a) DTCs which are stored in the TCM can be displayed
+with the intelligent tester.
+These scan tools can display pending DTCs and
+current DTCs. Some DTCs are not stored if the AX
+TCM doesn't detect a malfunction during
+consecutive driving. However, the malfunction
+detected while a driving is stored as a pending DTC.
+(1) Connect the intelligent tester to the Controller
+Area Network Vehicle Interface Module (CAN
+VIM). Then connect the CAN VIM to the Data
+DLC3 Link Connector 3 (DLC3).
+CAN VIM
+(2) Turn the ignition switch on (IG).
+C131977E05 (3) Enter the following menus: DIAGNOSIS / OBD/
+MOBD / ECT / DTC INFO / CURRENT CODES
+(or PENDING CODE).
+(4) Confirm the DTCs and freeze frame data and
+then write them down.
+(5) Confirm the details of the DTCs (See page AX-
+46).
+NOTICE:
+When a symptom has been duplicated using
+normal mode, use the intelligent tester to
+check for DTCs. For DTCs that are subject to
+"2-trip detection logic", perform the
+following steps:
+Turn the ignition switch OFF after the symptom
+has occurred once. Repeat the process of
+attempting to duplicate the symptom. When the
+problem or symptom happens for the second
+time and a DTC has been recorded, the MIL will
+illuminate, and the code will be stored.
+2. CLEAR DTC
+(a) Connect the intelligent tester to the CAN VIM. Then
+connect the CAN VIM to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Enter the following menus: DIAGNOSIS / OBD/
+MOBD / ECT / DTC INFO / CLEAR CODES and
+press YES.

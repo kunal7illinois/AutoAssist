@@ -1,0 +1,52 @@
+Audi TT No. 46 / 5
+Current Flow Diagram
+Control relay, fuses
+J519 Onboard supply control unit
+J789 Control relay
+SB5 Fuse 5 on fuse holder B
+SB6 Fuse 6 on fuse holder B
+SB7 Fuse 7 on fuse holder B
+SB8 Fuse 8 on fuse holder B
+SB9 Fuse 9 on fuse holder B
+SB10 Fuse 10 on fuse holder B
+SB11 Fuse 11 on fuse holder B
+SB12 Fuse 12 on fuse holder B
+T11b 11-pin connector, black, connector A, on onboard power supply
+control unit
+T52b 52-pin connector, yellow, on onboard supply control unit
+* Relay carrier on left under dash panel
+# up to May 2009
+6611 2222
+## from June 2009
+6,0 6,0
+ro/ge ro
+5 6 7 8 9 10 11 12 7 8
+SB5 SB6 SB7 SB8 SB9 SB10 SB11 SB12
+ST2 ST1
+SB7 SB8
+10A 10A 10A 20A 25A 10A 5A 10A 10A 30A
+5a 6a 7a 8a 9a 10a 11a 11a 7a 8a
+1,0 1,0 1,0 2,5 2,5 1,0 0,5 0,35 0,5 1,0
+ro/bl sw/gn bl/ro ro ro/gn ro/gn ro/gn bl/ro ro/gn ro/gn
+224400 224477 227700 8844 9988 119977 223388 118866  2/30 6/86
+2.1
+J789
+8/87 4/85
+0,35 0,35
+ro/gr li
+T52b/38##
+8800 T11b/10#
+J519
+ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+43 44 45 46 47 48 49 50 51 52 53 54 55 56 or = orange
+8J0-046050909
+rs = pink
+Edition 04.2010

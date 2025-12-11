@@ -1,0 +1,39 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Parame‐ Monitor‐ Frequency
+sage cedure ria and Threshold ters with Enable Con‐ ing Time of checks,
+Value ditions Length MIL Illum
+P2403 Evaporative – Check the • Low signal volt‐ • LDP commanded 10 Sec. • Once/
+Emission Leak Detec‐ age >1 Sec. OFF DCY
+System tion Pump
+Leak Detec‐ (LDP) - • evap purge valve • 2 DCY
+tion Pump V144- . Refer closed
+Sense Cir‐ to
+• ECT at start >=
+cuit/Open ⇒
+4...35° C
+“3.5.13 Leak
+Detection • LDP activated, Se‐
+Pump, lected gear = any
+Checking ”, drive
+page 136 .
+• ambient pressure
+> 743,5 hPa
+• number of diagno‐
+sis attempts <=15
+• IAT > 4° C
+• delta ambient
+pressure < 300
+[Pa]
+• IAT drop after en‐
+gine start, < 7°K
+• Time after engine
+start > 175 - 1200
+Sec.
+• ECT 4 .. 115° C
+• Vehicle speed >=
+19 mph
+• selected gear any
+drive
+102
+Rep. Gr.ST - Generic Scan Tool

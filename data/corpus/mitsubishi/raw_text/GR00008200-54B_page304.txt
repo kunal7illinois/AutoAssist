@@ -1,0 +1,27 @@
+54B-304 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 31. Measure at rear combination light (RH) connector
+F-09 in order to check the ground circuit to the rear
+combination light (RH).
+(1) Disconnect rear combination light (RH) connector F-09, and
+CONNECTOR <ECLIPSE>: F-09
+measure at the wiring harness side.
+DEVICE SIDE
+1 2 3
+4 5 6
+AC106489AI
+CONNECTOR <ECLIPSE SPYDER>: F-09
+DEVICE SIDE
+1 2 3
+4 5 6
+AC106491AF
+(2) Measure the resistance value between terminal 5 and
+ground.
+CONNECTOR: F-09 • The measured value should be 2 ohm or less.
+(HARNESS SIDE)
+Q:Does the measured resistance value correspond with
+3 2 1 this range?
+6 5 4 YES : Go to Step 34.
+NO : Go to Step 32.
+AC102040AH
+TSB Revision

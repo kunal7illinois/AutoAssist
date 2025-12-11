@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES ABS System - Civic (All Except Hybrid)
+Is there continuity?
+YES - Check for loose terminals in the ABS modulator-control unit 25P
+connector, clean terminal G202 and recheck. If necessary, substitute a known-
+good ABS modulator-control unit: Except Si model (see REMOVAL -
+EXCEPT SI MODEL ), Si model (see REMOVAL - SI MODEL ), and
+retest.
+NO - Repair open in the wire between the ABS modulator-control unit and
+body ground (G202).
+BRAKE SYSTEM INDICATOR DOES NOT GO OFF, AND NO DTCS ARE STORED
+1. Release the parking brake.
+2. Turn the ignition switch ON (II).
+3. Check the brake system indicator for several seconds when the ignition switch
+is turned ON (II).
+Does the indicator come on then go off?
+YES - Intermittent failure, the system is OK at this time. Check for loose
+terminals between the gauge control module (tach) 36P connector and the ABS
+modulator-control unit 25P connector. Refer to INTERMITTENT
+FAILURES TROUBLESHOOTING .
+NO - Go to step 4.
+4. Check the BRAKE INDICATOR in the ABS DATA LIST with the HDS.
+Does it indicate OFF?
+YES - Go to step 5.
+NO - Check for loose terminals in the ABS modulator-control unit 25P
+connector. If necessary, substitute a known-good ABS modulator-control unit:
+Except Si model (see REMOVAL - EXCEPT SI MODEL ), Si model (see
+REMOVAL - SI MODEL ), and retest.

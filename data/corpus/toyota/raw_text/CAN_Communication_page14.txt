@@ -1,0 +1,37 @@
+CA–14
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+(b) No. 2 CAN J/C (FRONT OF THE VEHICLE)
+No. 2 CAN J/C (Front of the Vehicle) Wire Harness View:
+Front of the Vehicle
+CANH
+(for Skid Control ECU) CANH
+(for ECM)
+A40
+CANL
+(for Skid Control ECU)
+CANL
+(for ECM)
+CA
+C137762E02
+Terminals Wiring Color Connects to
+A40-1 (CANH) B ECM (CANH)
+A40-7 (CANL) W ECM (CANL)
+A40-2 (CANH) B Skid Control ECU (CANH)
+A40-8 (CANL) W Skid Control ECU (CANL)
+(c) No. 2 CAN J/C (REAR OF THE VEHICLE)
+No. 2 CAN J/C (Rear of the Vehicle) Wire Harness View:
+Front of the Vehicle
+E41
+CANH
+CANH
+(for No. 1 CAN J/C)
+(for Accessory Gateway)
+CANL
+(for No. 1 CAN J/C) CANH
+(for A/C Amplifier)
+CANL
+CANL (for A/C Amplifier)
+(for Accessory Gateway)
+C137763E02
+Terminals Wiring Color Connects to
+E41-1 (CANH) B Accessory Gateway (CANH)

@@ -1,0 +1,49 @@
+AX–94
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+CAN communication system Circuit is not malfunctioning
+Electronic throttle system Circuit is not malfunctioning
+OFF malfunction:
+TCM selected gear 4th, 5th or 6th
+TCM indicated pressure value of SL2 1,200 kPa
+AX
+Throttle valve opening angle 3% or more
+ON malfunction (A):
+TCM selected gear 1st
+Vehicle speed 1.2 mph (2 km/h) to 25 mph (40 km/h)
+Vehicle speed 1.2 mph (2 km/h) or more
+ECT (Engine coolant temperature) Above 40°C (104°F)
+Engine speed - Turbine speed 50 rpm or more
+ON malfunction (B):
+TCM selected gear 2nd
+4.5% or more at engine speed 2,000 rpm
+Throttle valve opening angle
+(Varies with engine speed)
+Vehicle speed 1.2 mph (2 km/h) or more
+ECT (Engine coolant temperature) Above 40°C (104°F)
+ON malfunction (C):
+TCM selected gear 3rd
+4.5% or more at engine speed 2,000 rpm
+Throttle valve opening angle
+(Varies with engine speed)
+Vehicle speed 1.2 mph (2 km/h) or more
+ECT (Engine coolant temperature) Above 40°C (104°F)
+ECT (Engine coolant temperature) 40°C (104°F) or more
+TYPICAL MALFUNCTION THRESHOLDS
+OFF malfunction:
+Input (turbine) speed-Intermediate shaft speed x Gear ratio 1,000 rpm or more
+ON malfunction:
+Input (turbine) speed/Intermediate shaft speed when output
+0.998 to 1.138
+speed less than 1,000 rpm
+INSPECTION PROCEDURE
+1 CHECK OTHER DTCS OUTPUT (IN ADDITION TO DTC P0776)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the intelligent
+tester on.
+(c) Enter the following items: "DIAGNOSIS / OBD/MOBD /
+ECT / DTC INFO / CURRENT CODES".
+(d) Read the DTCs using the intelligent tester.
+Result
+Display (DTC output) Proceed to
+Only "P0776" is output A
+"P0776" and other DTCs B

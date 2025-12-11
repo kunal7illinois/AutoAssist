@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+NO -If the HDS indicates PASSED, intermittent failure, the system is OK at
+this time. Check for poor connections or loose terminals between the
+transmission range switch and the PCM. If the HDS indicates NOT
+COMPLETED, go to step 12.
+15. Shift to D, and check the ATP FWD and ATP D in the DATA LIST with the
+HDS.
+Are ATP FWD and ATP D ON?
+YES -Go to step 16.
+NO -Go to step 22.
+16. Shift to D3, and check the ATP FWD and ATP D3 in the DATA LIST with the
+HDS.
+Are ATP FWD and ATP D3 ON?
+YES -Go to step 17.
+NO -Go to step 22.
+17. Shift to 2, and check the ATP FWD and ATP 2-1 in the DATA LIST with the
+HDS.
+Are ATP FWD and ATP 2-1 ON?
+YES -Go to step 18.
+NO -Go to step 22.
+18. Clear the DTC with the HDS.
+19. Start the engine, run the vehicle with the shift lever in D until the vehicle speed
+reaches 25 mph (40 km/h), then slow down and stop the wheels.
+20. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 19, then go
+to step 21.
+21. Monitor the OBD STATUS for P0706 in the DTCs MENU with the HDS.

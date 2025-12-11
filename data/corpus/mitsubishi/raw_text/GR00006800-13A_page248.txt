@@ -1,0 +1,46 @@
+13A-248 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR : B-09 CONNECTORS:C-53,C-60<M/T>,
+C-50,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-50 C-53, C-60
+C-54
+AAKK000000227766AB AK000280BV
+CONNECTOR: A-18X
+MFI RELAY
+AK101363AB
+. .
+CIRCUIT OPERATION DTC SET CONDITIONS
+• The camshaft position sensor power is supplied
+Check Conditions
+from the MFI relay (terminal 4).
+• Engine speed is higher than 50 r/min.
+• Terminal 1 of the camshaft position sensor is
+grounded with ECM (terminal 40) <M/T> or PCM Judgment Criteria
+(terminal 16) <A/T>. • Camshaft position sensor output voltage has not
+• A 5-volt voltage is applied on the camshaft posi- changed (no pulse signal is input) for 2 seconds.
+tion sensor output terminal (terminal 2) from the
+Check Conditions
+ECM (terminal 88) <M/T> or PCM (terminal 56) • Engine speed is higher than 50 r/min.
+<A/T>. The camshaft position sensor generates a
+pulse signal when the output terminal is opened Judgment Criteria
+and grounded. • Normal signal pattern has not been input for cyl-
+inder identification from the crankshaft position
+. sensor signal and camshaft position sensor sig-
+TECHNICAL DESCRIPTION
+• The camshaft position sensor functions to detect nal for 2 seconds.
+the top dead center position of the number 1 cyl-
+.
+inder and to convert that data to pulse signals TROUBLESHOOTING HINTS (The most likely
+that are input to the ECM <M/T> or PCM <A/T>. causes for this code to be set are: )
+• When the engine is running, the camshaft posi- • Camshaft position sensor failed.
+tion sensor outputs a pulse signal. • Open or shorted camshaft position sensor circuit,
+• The ECM <M/T> or PCM <A/T> checks whether or loose connector.
+pulse signal is input while the engine is cranking. • ECM failed. <M/T>
+• PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tool:
+• MB991709: Test Harness Set
+TSB Revision

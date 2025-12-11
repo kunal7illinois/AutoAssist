@@ -1,0 +1,36 @@
+EI–44
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+Communication Condition Failure between
+DTC B2791
+ECM
+DESCRIPTION
+This DTC is output when the ID code box does not respond to a verification request signal from the ECM.
+HINT:
+• If the engine switch is turned off immediately after an engine start, this DTC is also detected.
+• If this DTC is detected simultaneously with DTC B2799, troubleshoot DTC B2799 first.
+DTC No. DTC Detection Condition Trouble Area
+• Wire harness
+ID code box does not respond to a verification request
+B2791 • ID code box
+signal from ECM
+• ECM
+WIRING DIAGRAM
+ECM ID Code Box
+No. 4 J/B
+11 7 11 10 6
+Y L L
+IMI A55 AE5 4C 4F E50 EFIO
+EI
+B128335E03
+INSPECTION PROCEDURE
+NOTICE:
+• If the ID code box is replaced, register the key and ECU communication ID (See page EI-8).
+• If the ECM is replaced, register the ECU communication ID (See page EI-8).
+• If the engine can be started even when DTC B2791 is output, the ID code box can be considered
+normal. Be sure to recheck for DTCs after clearing the DTCs (See page EI-24).
+1 CHECK DTC OUTPUT
+(a) Delete the DTCs (See page EI-24).
+(b) Recheck for DTCs (See page EI-24).
+Result
+Result Proceed to
+B2791 and other DTC output A

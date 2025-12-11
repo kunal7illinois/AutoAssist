@@ -1,0 +1,45 @@
+Audi TT No. 40 / 8
+Current Flow Diagram
+Control unit for headlight range control, CAN bus wiring
+J250 Electronically controlled damping control unit
+J431 Headlight range control, control unit
+J527 Steering column electronics control unit
+J533 Data bus diagnostic interface
+T20c 20-pin connector, black, connector A, on steering column
+electronics control unit
+T20d 20-pin connector, black, on data bus diagnostic interface
+T26a 26-pin connector, black, on headlight range control, control unit
+T47a 47-pin connector, on electronically controlled damping control
+unit
+B383 Connection 1 (drive train CAN bus, high), in main wiring harness
+B384 Connection 2 (drive train CAN bus, high), in main wiring harness
+B390 Connection 1 (drive train CAN bus, low), in main wiring harness
+B391 Connection 2 (drive train CAN bus, low), in main wiring harness
+J431
+• CAN bus (data wire)
+* with electronically controlled damping
+T26a/2 T26a/3
+• •
+0,35 0,35
+or/sw or/br
+B384 B391
+✱ ✱
+0,35 0,35 0,35 0,35
+or/sw or/sw or/br or/br
+B383 T47a/23 B390 T47a/22
+J250 J250
+ws = white
+sw = black
+0,35 0,35 0,35 0,35
+or/sw or/sw or/br or/br ro = red
+br = brown
+gn = green
+T20d/16 T20 c /12 T20d/6 T20c/11
+J533 J527 J533 J527 bl = blue
+gr = grey
+li = purple
+ge = yellow
+85 86 87 88 89 90 91 92 93 94 95 96 97 98 or = orange
+8J0-040080408
+rs = pink
+Edition 08.2008

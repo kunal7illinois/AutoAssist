@@ -1,0 +1,60 @@
+RS–192
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+2 CHECK FLOOR WIRE (DRIVER SIDE - SIDE SQUIB CIRCUIT)
+(a) Turn the ignition switch off.
+Floor Wire
+(b) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(c) Disconnect the SST from connector C.
+A (d) Disconnect the connectors from the center airbag sensor
+D C B assembly.
+Driver Side - Side (e) Check for a short to B+ in the circuit.
+Center Airbag
+Squib (1) Connect the negative (-) terminal cable to the
+Sensor Assembly
+battery, and wait for at least 2 seconds.
+(2) Turn the ignition switch on (IG).
+NZ2
+Connector C (3) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+SFL- 1 2 SFL+
+Tester Connection Condition Specified Condition
+C C114825E06 NZ2-2 (SFL+) - Body Ignition switch on (IG) Below 1 V
+ground
+NZ2-1 (SFL-) - Body
+Ignition switch on (IG) Below 1 V
+ground
+(f) Check for an open in the circuit.
+(1) Turn the ignition switch off.
+(2) Disconnect the negative (-) terminal cable from the
+battery, and wait for at least 90 seconds.
+(3) Measure the resistance according to the value(s) in
+the table below.
+RS Standard resistance
+Tester Connection Condition Specified Condition
+NZ2-2 (SFL+) - NZ2-1
+Always Below 1 Ω
+(SFL-)
+(g) Check for a short to ground in the circuit.
+(1) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+NZ2-2 (SFL+) - Body
+Always 1 MΩ or higher
+ground
+NZ2-1 (SFL-) - Body
+Always 1 MΩ or higher
+ground
+(h) Check for a short in the circuit.
+(1) Release the activation prevention mechanism built
+into connector B (See page RS-32).
+(2) Measure the resistance according to the value(s) in
+the table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+NZ2-2 (SFL+) - NZ2-1
+Always 1 MΩ or higher
+(SFL-)
+NG REPAIR OR REPLACE FLOOR WIRE

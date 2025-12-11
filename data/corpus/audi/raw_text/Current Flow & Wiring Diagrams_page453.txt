@@ -1,0 +1,48 @@
+Audi TT No. 49 / 4
+Current Flow Diagram
+Climatronic control unit, dash panel temperature sensor,
+high pressure sender, compressor regulating valve, air
+conditioning system compressor regulating valve,
+temperature sensor blower
+G56 Dash panel temperature sensor
+G65 High pressure sender
+J255 Climatronic control unit
+N280 Air conditioning system compressor regulating valve
+T4a 4-pin connector, black, in front left engine compartment
+T16d 16-pin connector, black, connector D, on Climatronic control unit
+V42 Temperature sensor blower
+43 Earth point, lower part of right A-pillar
+366 Earth connection 1, in main wiring harness
+372 Earth connection 7, in main wiring harness
+J255 ✱
+388 Earth connection 23, in main wiring harness
+G56 M V42
+T16d/3 T16d/4 389 Earth connection 24, in main wiring harness
+390 Earth connection 25, in main wiring harness
+0,35 1,0
+br/bl gn/sw
+672 Earth point 2, on front of left longitudinal member
+T4a/3
+* Operating unit for air conditioning
+388 372
+** not for Heater (9AA)
+66
+0,5 0,5 1,0 1,0 1,0
+sw/ro br br gn/sw br
+389
+2 3 1/31 2
+2,5 2,5
+br ✱✱ br
+N280 T4a/4
+G65 ✱✱ 390 1 366 w sw s = = w bl h a i c te k
+ro = red
+4,0 1,0 6,0 br = brown
+br br br gn = green
+bl = blue
+gr = grey
+43 672 li = purple
+ge = yellow
+29 30 31 32 33 34 35 36 37 38 39 40 41 42 or = orange
+8J0-049040409
+rs = pink
+Edition 04.2009

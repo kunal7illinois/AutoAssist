@@ -1,0 +1,36 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-97
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check connector B-07 at throttle position sensor
+for damage.
+Q:Is the connector in good condition?
+CONNECTOR : B-07
+YES : Go to Step 3.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then go to Step 14.
+THROTTLE
+POSITION
+SENSOR
+ACX02484AC
+STEP3. Check the throttle position sensor.
+(1) Disconnect the connector B-07.
+CONNECTOR : B-07
+THROTTLE
+POSITION
+SENSOR
+ACX02484AC
+(2) Measure the resistance between throttle position sensor
+side connector terminal 1 and 4.
+THROTTLE POSITION Standard value: 3.5 − 6.5 kΩ
+SENSOR SIDE CONNECTOR
+(3) Measure resistance between the throttle position sensor
+1 2 3 4 side connector terminal 1 and 3.
+(4) Move the throttle valve from the idle position to the full-open
+position.
+• Resistance should change smoothly in proportion to the
+opening angle of the throttle valve.
+AKX01413AB
+Q:Is the resistance normal?
+YES : Go to Step 4.
+NO : Replace the throttle position sensor. Refer to P.13B-
+690, Throttle Body. Then go to Step 14.
+TSB Revision

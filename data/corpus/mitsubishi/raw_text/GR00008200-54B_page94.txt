@@ -1,0 +1,33 @@
+54B-94 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTOR: C-108 CONNECTOR: C-117, C-119
+JUNCTION BLOCK JUNCTION BLOCK
+C-117
+(FRONT VIEW) (REAR VIEW)
+C-119
+AC102788AD AC102793AE
+CONNECTOR: E-07 CONNECTOR: E-13
+DOOR (RH) DOOR (LH)
+AC001999AD AC002000AC
+. .
+CIRCUIT OPERATION TECHNICAL DESCRIPTION (COMMENT)
+• The ETACS-ECU operates the central door lock The wiring harness between the door lock actuator or
+system according to the following signals: the ETACS-ECU and the door lock actuator may
+• Driver’s or passenger’s door lock actuator defective.
+switch
+• Driver’s or passenger’s door lock key cylinder . TROUBLESHOOTING HINTS
+switch • Malfunction of the driver(cid:146)s or front passenger(cid:146)s
+• Door lock switch, which is incorporated in the door lock actuator
+power window main switch or power window • Malfunction of the ETACS-ECU
+sub switch (front RH) • Damaged harness wires or connectors
+• The ETACS-ECU locks or unlocks all the doors
+by operating the central door lock relay (incorpo-
+rated in the ECU) in response to input signals.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Test Harness Set
+STEP 1. Check which door lock is defective.
+Q:Which of the door locks is defective?
+Driver’s door : Go to Step 2.
+Front passenger’s door : Go to Step 5.
+TSB Revision

@@ -1,0 +1,54 @@
+Audi TT No. 42 / 9
+Current Flow Diagram
+Engine control unit, injector for cylinders 1 up to 4, air mass
+meter
+G70 Air mass meter
+J519 Onboard supply control unit
+J623 Engine control unit
+N30 Injector, cylinder 1
+N31 Injector, cylinder 2
+N32 Injector, cylinder 3
+N33 Injector, cylinder 4
+J519
+T5b 5-pin connector, black, on air mass meter
+T52c/32
+T8h 8-pin connector, black, connector F, on onboard supply control
+1177 unit
+G70
+T52c 52-pin connector, brown, on onboard supply control unit
+0,5 0,5 T60 60-pin connector, on engine control unit
+bl bl
+T94 94-pin connector, on engine control unit
+T5b/1 T5b/2 T5b/4 T5b/5
+B344 Connection 1 (61), in main wiring harness
+g 0 r , / 3 g 5 e 0 b ,3 l 5 b 0 r , / 3 g 5 n sw 0, / 5 bl B344 0 b , l 5✱✱ * up to May 2009
+** from June 2009
+3355
+J623
+T94/18 T94/23 T94/39 T94/70
+T60/46 T60/31 T60/2 T60/17 T60/1 T60/16 T60/47 T60/32 T94/70
+✱
+1,5 1,5 1,5 1,5 1,5 1,5 1,5 1,5 0,5
+br/sw ro/sw br/ws ro/ws br/li ro/li br/gr ro/gr bl
+1166
+✱
+0,5
+bl
+T8h/4
+1 1 1 1
+J519
+✱
+N30 N31 N32 N33
+2 2 2 2 ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+99 100 101 102 103 104 105 106 107 108 109 110 111 112 or = orange
+8J0-042090409
+rs = pink
+Edition 09.2009

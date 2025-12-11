@@ -1,0 +1,31 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Gauges - Civic (All Except Hybrid)
+1. Before replacing the gauge control module, connect the HDS.
+2. Select GAUGES from the BODY ELECTRICAL menu display.
+3. Select "Gauge Control Module Replacement (ODO rewrite)" from the
+ADJUSTMENT menu, and follow the instructions on the display to retrieve
+the ODO value and the Smart Maintenance information.
+4. Replace the gauge control module.
+5. Follow the instructions on the display to write the new ODO value and Smart
+maintenance to the new gauge control module. If the data transfer fails, refer to
+the instructions to release the locked ODO value .
+RELEASE LOCKED ODOMETER MILEAGE TO THE ORIGINAL GAUGE CONTROL MODULE
+If after you attempt to transfer mileage the odometer has dashes (- - -), garbled, or
+incorrect value display, do the following Start over. The original gauge control
+module is going to be unlocked and restored to its original state.
+1. Confirm that you have the latest HDS version of software.
+2. Make sure that the HDS shows the correct VIN for the car you are working on.
+3. With the ignition switch OFF, reconnect the original gauge assembly.
+4. Completely re-boot the HDS.
+5. Clear any stored DTCs.
+6. Navigate to Body Electric/Gauges/Adjustment/Instrument Panel Replacement.
+7. Select "3. Releasing Locked ODO Valve".
+8. Follow the prompts and the Odometer mileage will be restored.
+9. Start over and make sure the screen prompts are followed.
+DASH LIGHTS BRIGHTNESS CONTROLLER AND ODOMETER
+SELECT/RESET BUTTON TEST/REPLACEMENT
+1. Remove the subdisplay visor (see SUBDISPLAY VISOR
+REMOVAL/INSTALLATION ) and disconnect the connectors.
+2. Remove the two screws and the dash lights brightness controller-odometer
+select/reset button (A).

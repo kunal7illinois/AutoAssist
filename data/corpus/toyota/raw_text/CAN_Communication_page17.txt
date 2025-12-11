@@ -1,0 +1,52 @@
+CA–17
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+2. DLC3
+DLC3: E10 CANH (a) Measure the resistance according to the value(s) in
+CG
+the table below.
+CANL BAT
+C125062E02
+Standard resistance
+Terminals Wiring Color Terminal Description Condition Specified Condition
+HIGH-level CAN bus wire -
+E10-6 (CANH) - E10-14 (CANL) B - W Ignition Switch off 54 to 69 Ω
+LOW-level CAN bus wire
+HIGH-level CAN bus wire -
+E10-6 (CANH) - E10-4 (CG) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+LOW-level CAN bus wire -
+E10-14 (CANL) - E10-4 (CG) W - W-B Ignition Switch off 200 Ω or higher
+Ground
+HIGH-level CAN bus wire -
+E10-6 (CANH) - E10-16 (BAT) B - L Ignition Switch off 1 MΩ or higher
+Battery positive CA
+LOW-level CAN bus wire -
+E10-14 (CANL) - E10-16 (BAT) W - L Ignition Switch off 1 MΩ or higher
+Battery positive
+3. SKID CONTROL ECU (w/o VSC)
+(a) Disconnect the A25 connector from the skid control
+ECU.
+(b) Measure the resistance according to the value(s) in
+Skid Control ECU (Harness Side
+the table below.
+Connector Front View):
+A25 +BS CANL
+GND1 CANH
+C131970E11
+Standard resistance
+Terminals Wiring Color Terminal Description Condition Specified Condition
+HIGH-level CAN bus wire -
+A25-26 (CANH) - A25-15 (CANL) B - W Ignition Switch off 54 to 69 Ω
+LOW-level CAN bus wire
+HIGH-level CAN bus wire -
+A25-26 (CANH) - A25-4 (GND1) B - W-B Ignition Switch off 200 Ω or higher
+Ground
+LOW-level CAN bus wire -
+A25-15 (CANL) - A25-4 (GND1) W - W-B Ignition Switch off 200 Ω or higher
+Ground
+HIGH-level CAN bus wire -
+A25-26 (CANH) - A25-3 (+BS) B - L Ignition Switch off 6 kΩ or higher
+Battery positive
+LOW-level CAN bus wire -
+A25-15 (CANL) - A25-3 (+BS) W - L Ignition Switch off 6 kΩ or higher
+Battery positive

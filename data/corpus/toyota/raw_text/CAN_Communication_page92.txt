@@ -1,0 +1,18 @@
+CA–92
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+Short to B+ in CAN Bus Line
+DESCRIPTION
+A short to B+ is suspected in the CAN bus wire when the resistance between terminals 6 (CANH) and 16
+(BAT), or terminals 14 (CANL) and 16 (BAT) of the DLC3 is below 6 kΩ.
+Symptom Trouble Area
+• Short to B+ in CAN bus wire
+• Brake actuator assembly (Skid control ECU)
+• Steering angle sensor
+• Yaw rate sensor
+The resistance between terminals 6 (CANH) and 16 (BAT), or • ECM
+terminals 14 (CANL) and 16 (BAT) of the DLC3 is below 6 kΩ. • Combination meter
+• Main body ECU
+• A/C amplifier
+• Center airbag sensor
+• No. 1 CAN J/C
+CA

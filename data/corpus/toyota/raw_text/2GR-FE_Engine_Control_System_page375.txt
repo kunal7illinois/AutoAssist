@@ -1,0 +1,54 @@
+ES–375
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+TYPICAL MALFUNCTION THRESHOLDS
+P2238 and P2241 (Open circuit between AF+ and AF-):
+A/F sensor admittance Below 0.022 1/Ω
+P2238 and P2241 (Short circuit between AF+ and GND):
+AF+ terminal voltage 0.5 V or less
+P2238 and P2241 (Short circuit between AF+ and AF-):
+Difference between AF+ and AF- terminal voltages 0.1 v or less
+P2239 and P2242 (Short circuit between AF+ and +B):
+AF+ terminal voltage More than 4.5 V
+P2252 and P2255 (Short circuit between AF- and GND):
+AF- terminal voltage 0.5 V or less
+ES
+P2253 and P2256 (Short circuit between AF- and +B):
+AF- terminal voltage More than 4.5 V
+WIRING DIAGRAM
+Refer to DTC P2195 (See page ES-350).
+INSPECTION PROCEDURE
+HINT:
+Intelligent tester only:
+Malfunctioning areas can be identified by performing the A/F CONTROL function provided in the ACTIVE
+TEST. The A/F CONTROL function can help to determine whether the Air-Fuel Ratio (A/F) sensor, Heated
+Oxygen (HO2) sensor and other potential trouble areas are malfunctioning.
+The following instructions describe how to conduct the A/F CONTROL operation using the intelligent
+tester.
+1. Connect the intelligent tester to the DLC3.
+2. Start the engine and turn the tester on.
+3. Warm up the engine at an engine speed of 2,500 rpm for approximately 90 seconds.
+4. On the tester, enter the following menus: DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST / A/F
+CONTROL.
+5. Perform the A/F CONTROL operation with the engine in an idling condition (press the RIGHT or LEFT
+button to change the fuel injection volume).
+6. Monitor the output voltages of the A/F and HO2 sensors (AFS B1 S1 and O2S B1 S2 or AFS B2 S1
+and O2S B2 S2) displayed on the tester.
+HINT:
+• The A/F CONTROL operation lowers the fuel injection volume by 12.5 % or increases the injection
+volume by 25 %.
+• Each sensor reacts in accordance with increases and decreases in the fuel injection volume.
+Tester Display
+Injection Volume Status Voltage
+(Sensor)
+AFS B1S1 or AFS B2S1
++25 % Rich Less than 3.0 V
+(A/F)
+AFS B1S1 or AFS B2S1
+-12.5 % Lean More than 3.35 V
+(A/F)
+O2S B1S2 or O2S B2S2
++25 % Rich More than 0.55 V
+(HO2)
+O2S B1S2 or O2S B2S2
+-12.5 % Lean Less than 0.4 V
+(HO2)

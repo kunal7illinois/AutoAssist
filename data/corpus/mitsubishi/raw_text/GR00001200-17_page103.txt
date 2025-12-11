@@ -1,0 +1,42 @@
+ENGINE AND EMISSION CONTROL 17-103
+EMISSION CONTROL
+<3.0L ENGINE>
+To inspect the sensor, refer to GROUP 13B (3.0L), Multiport
+Fuel Injection (MFI) Diagnosis − Diagnostic Trouble Code
+Chart P.13B-22.
+FUEL TANK DIFFERENTIAL PRESSURE SENSOR
+CHECK
+M1173007700102
+To inspect the sensor, refer to GROUP 13C, Fuel Supply Fuel
+Tank − Fuel Tank Differential Pressure Sensor Check P.13C-
+15.
+EVAPORATIVE EMISSION VENTILATION
+SOLENOID CHECK
+M1173007800057
+Refer to Evaporative Emission Canister And Fuel Tank Pres-
+sure Relief Valve − Fuel Tank Pressure Relief Valve Inspection
+P.17-111.
+EXHAUST GAS RECIRCULATION(EGR) SYSTEM
+GENERAL INFORMATION
+M1173005200048
+The exhaust gas recirculation (EGR) system lowers OPERATION
+the oxides of nitrogen (NOx) emission level. When
+When the engine coolant temperature is low, when
+the air/fuel mixture combustion temperature is high,
+the engine is at idle or when a wide open throttle
+a large quantity of NOx is generated in the combus-
+operation is performed, the EGR valve is kept
+tion chamber. Therefore, this system recirculates
+closed, achieving no EGR.
+part of exhaust gas from the exhaust port of the cylin-
+After warming up of the engine, the EGR valve can
+der head to the combustion chamber through the
+be opened by the engine control module.
+intake manifold to decrease the air/fuel mixture com-
+The engine control module monitors the EGR system
+bustion temperature, resulting in reduction of NOx.
+and illuminates the check engine/malfunction indica-
+The EGR flow rate is controlled by the EGR valve so
+tor lamp to indicate that there is a malfunction.
+as not to decrease the driveability.
+TSB Revision

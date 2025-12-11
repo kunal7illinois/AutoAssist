@@ -1,0 +1,35 @@
+Audi TT No. 61 / 11
+Current Flow Diagram
+Engine control unit
+F366 Actuator 1 for camshaft adjustment
+F367 Actuator 2 for camshaft adjustment
+F368 Actuator 3 for camshaft adjustment
+F369 Actuator 4 for camshaft adjustment
+F370 Actuator 5 for camshaft adjustment
+F371 Actuator 6 for camshaft adjustment
+J623 Engine control unit
+T60 60-pin connector
+D101 Connection 1 in engine compartment wiring harness
+J623
+T60 T60 T60 T60 T60 T60
+/2 /17 /20 /5 /3 /18
+0.75 0.75 0.75 0.75 0.75 0.75
+ge/sw ge/rt gn/ge ws/gn gr/ge gr/sw
+1 1 1 1 1 1
+F366 F367 F368 F369 F370 F371
+2 2 2 2 2 2
+0.5 0.5 0.5 0.5 0.5 0.5
+bl/rt bl/rt bl/rt bl/rt bl/rt bl/rt
+D101
+D101 ws = white
+sw = black
+ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+127 128 129 130 131 132 133 134 135 136 137 138 139 140 or = orange
+8J0-061110410 rs = pink
+04.2010

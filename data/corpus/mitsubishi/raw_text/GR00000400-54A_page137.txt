@@ -1,0 +1,28 @@
+CHASSIS ELECTRICAL 54A-137
+RADIO AND TAPE PLAYER
+STEP 4. Check the amplifier power supply circuit by
+backprobing.
+(1) Do not disconnect amplifier connector D-20.
+CONNECTOR<ECLIPSE> : D-20
+DEVICE SIDE
+1 2 3 4 5 6 7 8
+9101112131415161718
+AC106483AK
+CONNECTOR <ECLIPSE SPYDER> : D-20
+DEVICE SIDE
+1 2 3 4 5 6 7 8
+9101112131415161718
+AC106485AK
+(2) Measure the resistance between terminal 1 and ground by
+HARNESS SIDE
+backprobing.
+D-20
+(3) Measure the resistance between terminal 9 and ground by
+backprobing.
+• The measured value should be 2 ohm or less.
+1 2 3 4 5 6 7 8 Q:Does the measured resistance value correspond with
+9 101112131415161718 this range?
+YES : Go to Step 7.
+NO : Go to Step 5.
+AC106897AB
+TSB Revision

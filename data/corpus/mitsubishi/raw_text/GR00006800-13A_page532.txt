@@ -1,0 +1,30 @@
+13A-532 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONNECTOR:B-41 CONNECTOR:C-87
+AK101752AC AK000219AC
+CONNECTOR:C-28 CONNECTOR:C-54
+AK000733AC AK000280BN
+. .
+COMMENT TROUBLESHOOTING HINTS (The most likely
+• If the selector lever is moved to "P" or "N" range caused for this code to be set are: )
+and the ignition switch is turned to "START" posi- • Malfunction of the ignition switch.
+tion, battery positive voltage is supplied to PCM • Malfunction of the park/neutral position switch.
+(terminal 58) through the ignition switch and park/ • Improper connector contact, open circuit or short-
+neutral position switch. Because of this, the PCM circuit in the harness wire.
+detects that the engine is cranking. • Malfunction of the PCM.
+• The park/neutral position switch detects the
+selector lever position (P, N or other ranges) and
+converts it to a voltage signal (high or low). Then
+the park/neutral position switch sends that signal
+to the PCM.
+DIAGNOSIS
+STEP 1. Check connector B-41 at park/neutral position
+switch for damage.
+Q:Is the connector in good condition?
+CONNECTOR:B-41
+YES : Go to Step 2.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+Connector Inspection P.00E-2. Then confirm that the
+malfunction symptom is eliminated.
+AK101752AC
+TSB Revision

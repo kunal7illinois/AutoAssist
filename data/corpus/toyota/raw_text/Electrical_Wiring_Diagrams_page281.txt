@@ -1,0 +1,49 @@
+SRS
+: Junction Block and Wire Harness Connector
+Code See Page Junction Block and Wire Harness (Connector Location)
+1A 25 Engine Room Main Wire and Engine Room J/B (Engine Compartment Left)
+3C
+3D
+3E 33336666 IIIInnnnssssttttrrrruuuummmmeeeennnntttt PPPPaaaannnneeeellll WWWWiiiirrrreeee aaaannnndddd JJJJ////BBBB NNNNoooo....3333 ((((BBBBeeeehhhhiiiinnnndddd tttthhhheeee CCCCoooommmmbbbbiiiinnnnaaaattttiiiioooonnnn MMMMeeeetttteeeerrrr))))
+3G
+3L
+3Q
+3R 333666 IIInnnssstttrrruuummmeeennnttt PPPaaannneeelll NNNooo...222 WWWiiirrreee aaannnddd JJJ///BBB NNNooo...333 (((BBBeeehhhiiinnnddd ttthhheee CCCooommmbbbiiinnnaaatttiiiooonnn MMMeeettteeerrr)))
+3U
+ID 30 Engine Room Main Wire and Instrument Panel J/B (Cowl Side Left)
+IE
+3300
+IF
+IG IIIInnnnssssttttrrrruuuummmmeeeennnntttt PPPPaaaannnneeeellll WWWWiiiirrrreeee aaaannnndddd IIIInnnnssssttttrrrruuuummmmeeeennnntttt PPPPaaaannnneeeellll JJJJ////BBBB ((((CCCCoooowwwwllll SSSSiiiiddddeeee LLLLeeeefffftttt))))
+3311
+IH
+IM 30
+: Connector Joining Wire Harness and Wire Harness
+Code See Page Joining Wire Harness and Wire Harness (Connector Location)
+AE4 66 Engine Room Main Wire and Instrument Panel Wire (Instrument Panel Right)
+64 (2GR–FE)
+CCAA33 EEnnggiinnee WWiirree aanndd EEnnggiinnee RRoooomm MMaaiinn WWiirree ((IInnssiiddee ooff tthhee EEnnggiinnee RRoooomm RR//BB aanndd EEnnggiinnee RRoooomm JJ//BB))
+65 (2AZ–FE)
+EA1 66 Instrument Panel Wire and Engine Room Main Wire (Left Kick Panel)
+EO2 66 Instrument Panel Wire and Floor No.2 Wire (Right Kick Panel)
+Ec1 66 Instrument Panel Wire and Instrument Panel Wire Assembly (Behind The Glove Box)
+FE3 66 Instrument Panel No.2 Wire and Instrument Panel Wire (Instrument Panel Center)
+68 (*1)
+NNZZ22 FFlloooorr WWiirree aanndd FFrroonntt SSeeaatt AAiirrbbaagg AAsssseemmbbllyy LLHH ((UUnnddeerr tthhee DDrriivveerr’’ss SSeeaatt))
+69 (*2)
+OT1 68 (*1) Floor No.2 Wire and Front Seat RH Wire (Under the Front Passenger’s Seat)
+68 (*1)
+OOYY22 FFlloooorr NNoo..22 WWiirree aanndd FFrroonntt SSeeaatt AAiirrbbaagg AAsssseemmbbllyy RRHH ((UUnnddeerr tthhee FFrroonntt PPaasssseennggeerr’’ss SSeeaatt))
+69 (*2)
+: Ground Points
+Code See Page Ground Points Location
+C6 65 (2AZ–FE) Cylinder Block
+C7 64 (2GR–FE) Left Side of the Cylinder Block
+E1 66 Instrument Panel Left
+E2 66 Instrument Panel Brace LH
+E3 66 Instrument Panel Right
+F1 66 Instrument Panel Left
+O1 67 Right Rear Quarter Panel
+* 1 : w/ Power Seat * 2 : w/o Power Seat
+280
+CAMRY (EM0250U)

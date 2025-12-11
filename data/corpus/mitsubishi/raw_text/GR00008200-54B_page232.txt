@@ -1,0 +1,25 @@
+54B-232 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+CONNECTOR: F-07 CONNECTOR: F-24
+AC102763AB AC102764AL
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+• The rear wiper switch sends a signal through the If the rear wiper does not work normally, the input cir-
+cuit system from the switches, the rear wiper motor,
+column-ECU (incorporated in the column switch)
+the column switch (windshield wiper and windshield
+to the ETACS-ECU. If the column-ECU sends a
+washer switch) or the ETACS-ECU may be defective
+rear wiper switch "ON" signal to the ETACS-ECU,
+(refer to "CIRCUIT OPERATION").
+the ETACS-ECU turns on the relay (incorporated
+in the ETACS-ECU), thus causing the rear wiper
+.
+motor to be turned on. TROUBLESHOOTING HINTS
+• The ETACS-ECU operates the rear wiper accord- • Malfunction of the rear wiper motor
+ing to the following switches: • Malfunction of the column switch (windshield
+• Ignition switch (ACC) wiper and washer switch)
+• Rear wiper switch • Malfunction of the ETACS-ECU
+• Damaged harness wires or connectors
+.
+TSB Revision

@@ -1,0 +1,34 @@
+ST–90
+2GR-FE STARTING – SMART KEY SYSTEM
+DTC B2288 Steering Lock Signal Circuit Malfunction
+DESCRIPTION
+This DTC is output when the main body ECU cannot detect the unlock condition of the steering lock within
+a specified time.
+HINT:
+When the main body ECU is replaced with a new one and the negative (-) battery terminal is connected,
+the power source mode becomes the IG-ON mode. When the battery is removed and reinstalled, the
+power source mode that was selected when the battery was removed is restored.
+After the main body ECU is replaced, perform the registration procedures for the engine immobiliser
+system (See page EI-8).
+DTC No. DTC Detection Condition Trouble Area
+After turning engine switch from off to on (IG), the
+• Main body ECU
+steering wheel does not unlock for a certain period of
+B2288 • Steering lock ECU
+time (ECU unlocks steering wheel only when it receives
+• Wire harness or connector
+an unlock signal from LIN communication and cable)
+WIRING DIAGRAM
+E51 E7
+Steering Lock ECU Main Body ECU
+4 18
+SLP1 SLP
+B112452E04
+INSPECTION PROCEDURE
+1 CHECK FOR DTCS
+ST
+(a) Delete the DTCs (See page ST-26).
+(b) After all DTCs are cleared, check if the trouble occurs
+again 5 seconds after the engine switch is turned on
+(IG).
+(c) Check for DTCs again.

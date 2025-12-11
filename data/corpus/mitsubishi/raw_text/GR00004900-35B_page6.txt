@@ -1,0 +1,37 @@
+35B-6 ANTI-LOCK BRAKING SYSTEM (ABS)
+ANTI-LOCK BRAKING SYSTEM (ABS) DIAGNOSIS
+.
+By Special Operation for Brake Pedal
+Required Special Tool:
+• MB991529: Diagnostic Trouble Code Check Harness
+1. Use special tool MB991529 to ground number 1 terminal of
+the data link connector.
+MB991529
+DATA LINK
+CONNECTOR AC002241AB
+ON
+IGNITION SWITCH
+OFF
+ON
+STOPLIGHT SWITCH
+OFF
+ON
+ABS WARNING LIGHT
+OFF
+3 s
+DIAGNOSTIC TROUBLE
+CODE MEMORY
+WITHIN
+3 s W IN I T 1 H s - W IN I T 1 H s - W IN I T 1 H s - W IN I T 1 H s - W IN I T 1 H s - W IN I T 1 H s - W IN I T 1 H s - W IN I T 1 H s - W IN I T 1 H s - W IN I T 1 H s - 1 s
+1ST 2ND 3RD 4TH 5TH 6TH 7TH 8TH 9TH 10TH
+ERASING
+COMPLETED
+AC000937AB
+2. Depress the brake pedal and hold it.
+3. Turn the ignition switch to the "ON" position.
+4. After turning the ignition switch to the "ON" position, release
+the brake pedal within three seconds. Repeat this process of
+pressing and releasing the brake pedal 10 continuous times.
+5. Turn the ignition switch to the "LOOK" (OFF) position.
+6. Disconnect special tool MB991529.
+TSB Revision

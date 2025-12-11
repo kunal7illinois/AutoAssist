@@ -1,0 +1,74 @@
+EG-114 ENGINE - 2GR-FE ENGINE
+5. Main Component of Engine Control System
+General
+The main components of the 2GR-FE engine control system are as follows:
+Components Outline Quantity Function
+The ECM optimally controls the SFI ESA and ISC to
+ECM 32-bit CPU 1 suit the operating conditions of the engine in
+accordance with the signals provided by the sensors.
+(cid:3) This sensor detects the oxygen concentration in
+the exhaust emission by measuring the
+Oxygen Sensor electromotive force which is generated in the
+Cup Type
+(Bank 1, Sensor 2) 2 sensor itself.
+with Heater
+(Bank 2, Sensor 2) (cid:3) The basic construction and operation of this
+sensor are the same as in the 2AZ-FE engine. For
+details, see page EG-47.
+(cid:3) As with the oxygen sensor, this sensor detects the
+oxygen concentration in the exhaust emission.
+Air Fuel
+However, it detects the oxygen concentration in
+Ratio Sensor Planar Type
+2 the exhaust emission linearly.
+(Bank 1, Sensor 1) with Heater
+(cid:3) The basic construction and operation of this
+(Bank 2, Sensor 1)
+sensor are the same as in the 2AZ-FE engine. For
+details, see page EG-47.
+(cid:3) This sensor has a built-in hot-wire to directly
+detect the intake air mass.
+Mass Air Flow Meter Hot-wire Type 1 (cid:3) The basic construction and operation of this meter
+are the same as in the 2AZ-FE engine. For details,
+see page EG-40.
+Crankshaft
+Pick-up Coil Type This sensor detects the engine speed and performs
+Position Sensor 1
+(36-2) the cylinder identification.
+(Rotor Teeth)
+Intake VVT Sensor
+MRE Type
+LH, RH 2 This sensor performs the cylinder identification.
+(3)
+(Rotor Teeth)
+Exhaust VVT Sensor
+MRE Type
+LH, RH 2 This sensor performs the cylinder identification.
+(3)
+(Rotor Teeth)
+Engine Coolant This sensor detects the engine coolant temperature
+Thermistor Type 1
+Temperature Sensor by means of an internal thermistor.
+Intake Air This sensor detects the intake air temperature by
+Thermistor Type 1
+Temperature Sensor means of an internal thermistor.
+Built-in This sensor detects an occurrence of the engine
+Knock Sensor 1,2 Piezoelectric Type 2 knocking indirectly from the vibration of the cylinder
+(Flat Type) block caused by the occurrence of engine knocking.
+(cid:3) This sensor detects the throttle valve opening
+angle.
+Throttle
+No-contact Type 1 (cid:3) The basic construction and operation of this
+Position Sensor
+sensor are the same as in the 2AZ-FE engine. For
+details, see page EG-44.
+(cid:3) This sensor detects the amount of pedal effort
+applied to the accelerator pedal.
+Accelerator Pedal
+No-contact Type 1 (cid:3) The basic construction and operation of this
+Position Sensor
+sensor are the same as in the 2AZ-FE engine. For
+details, see page EG-42.
+The injector is an electromagnetically-operated
+Injector 12-Hole Type 6 nozzle which injects fuel in accordance with signals
+from the ECM.

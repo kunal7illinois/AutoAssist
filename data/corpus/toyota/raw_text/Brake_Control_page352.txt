@@ -1,0 +1,35 @@
+BC–341
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+Open or Short Circuit in ABS Solenoid Relay
+DTC C0278/11
+Circuit
+DESCRIPTION
+The ABS solenoid relay supplies power to the ABS solenoid.
+The solenoid relay is turned on 1.5 seconds after the ignition switch is turned on (IG), and is turned off if
+an open or short in the solenoid is detected by self diagnosis performed when the vehicle starts running.
+The ABS solenoid relay is housed in the skid control ECU in the brake actuator assembly.
+HINT:
+If a speed signal of 4 mph (6 km/h) or more is input to the skid control ECU, with the ignition switch on (IG)
+and the stop light switch off, the skid control ECU performs self diagnosis of the motor and solenoid
+circuits.
+DTC No. DTC Detection Condition Trouble Area
+When any of the following is detected:
+• When the relay is ON, the voltage is less than IG
+• ABS No. 2 fuse (Fusible link)
+terminal voltage x 0.8 V for 0.5 seconds.
+C0278/11 • Brake actuator assembly (skid control ECU)
+• When the relay is OFF, the voltage is out of range
+(IG terminal voltage x 0.1 to IG terminal voltage x • Solenoid relay circuit BC
+0.8).
+WIRING DIAGRAM
+Brake Actuator Assembly
+(Skid Control ECU)
+ALT ABS No. 2 3
+A60 +BS
+4
+A60 GND1
+FL MAIN
+1
+A60 GND2
+Battery
+C131988E04

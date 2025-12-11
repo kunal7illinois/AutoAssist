@@ -1,0 +1,18 @@
+ES–220
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+TYPICAL MALFUNCTION THRESHOLDS
+P0450: Canister pressure sensor chattering
+Less than 42.1 kPa-a (315.9 mmHg-a), or more than 123.8 kPa-a
+EVAP pressure
+(928.4 mmHg-a)
+P0451: Canister pressure sensor noise
+Frequency that EVAP pressure change 0.3 kPa-g (2.25 mmHg-g) or
+10 times or more in 10 seconds
+more
+P0451: Canister pressure sensor fixed/flat
+EVAP pressure change during reference pressure Less than 0.65 kPa-g (4.87 mmHg-g)
+P0452: Canister pressure sensor low voltage
+ES
+EVAP pressure Less than 42.1 kPa-a (315.9 mmHg-a)
+P0453: Canister pressure sensor high voltage
+EVAP pressure More than 123.8 kPa-a (928.4 mmHg-a)

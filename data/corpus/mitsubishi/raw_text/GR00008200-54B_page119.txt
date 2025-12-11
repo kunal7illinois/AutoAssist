@@ -1,0 +1,51 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-119
+SYMPTOM PROCEDURES
+STEP 2. Check the input signal by using "DATA LIST" of
+the SWS monitor.
+(1) Tun the ignition switch to the "ON" position before checking
+COLUMN SWITCH input signals from the ignition switch (IG1).
+CONNECTOR
+(2) Operate the MUT-II according to the procedure below to
+MB991502 display "ETACS ECU."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+3. Select "SWS MONITOR."
+DATA LINK
+4. Select "DATA LIST."
+CONNECTOR
+5. Select "ETACS ECU."
+AC101571AB (3) Check that normal conditions are displayed on the items
+described in the table below.
+COLUMN SWITCH
+CONNECTOR ITEM No. ITEM NAME NORMAL CONDITIONS
+ITEM No.30 IG SW (IG1) ON
+SWS MONITOR
+HARNESS (FOR Q:Is the scan tool display "IG SW (IG1)" as normal
+COLUMN-ECU) condition?
+COLUMN SWITCH YES : Go to Step 3.
+CONNECTOR AT NO : Refer to Inspection Procedure O-2 "ETACS-ECU
+HARNESS SIDE
+does not receive a signal from the ignition switch
+AC101421AB
+(IG1) P.54B-469."
+STEP 3. Check the power window relay.
+BATTERY VOLTAGE TESTER SPECIFIED
+CONNECTION CONDITION
+Not applied 4 − 5 Open circuit
+• Connect terminal 3 4 − 5 Less than 2
+to the positive ohm
+battery terminal
+• Connect terminal 1
+to the negative
+battery terminal
+POWER WINDOW
+Q:Is the power window relay in good condition?
+RELAY
+YES : Go to Step 4.
+NO : Replace the power window relay. Check that the
+1 2 3
+5 power windows work normally.
+4 4
+5 1 3
+AC106673AD
+TSB Revision

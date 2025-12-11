@@ -1,0 +1,34 @@
+CA–54
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+Yaw Rate Sensor Communication Stop Mode
+DESCRIPTION
+Detection Item Symptom Trouble Area
+• "Yaw Rate/Decelerate Sensor" is not
+displayed on the "Communication Bus • Power source circuit of the yaw rate
+Check" screen of the intelligent tester sensor
+Yaw Rate Sensor Communication Stop Mode
+• Applies to "Yaw Rate Sensor • Yaw rate sensor branch wire or connector
+Communication Stop Mode" in the "DTC • Yaw rate sensor
+COMBINATION TABLE"
+WIRING DIAGRAM
+DLC3
+Combination Meter
+ECM
+CA
+120 Ω No. 1 CAN J/C No. 2 CAN J/C 120 Ω
+3 2
+CANH CANL
+ECU-IG LH
+5 1
+IG GND
+E34 Yaw Rate Sensor
+Trouble Area
+: CAN Main Bus Wire (CANH) : CAN Branch Wire (CANH)
+: CAN Main Bus Wire (CANL) : CAN Branch Wire (CANL)
+C126215E04
+INSPECTION PROCEDURE
+NOTICE:
+• Turn the ignition switch off before measuring the resistance of the CAN main wire and CAN
+branch wires.
+• After the ignition switch is turned off, check that the key reminder warning system and light
+reminder warning system are not operating.

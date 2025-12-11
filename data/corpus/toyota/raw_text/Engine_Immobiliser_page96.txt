@@ -1,0 +1,36 @@
+EI–92
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+Security Indicator Light Circuit
+DESCRIPTION
+When the transponder key is registered, the transponder key ECU assembly outputs the key registration
+condition by lighting up, blinking or turning off the security indicator.
+WIRING DIAGRAM
+Clock Assembly Transponder Key
+(Security Indicator Light) ECU Assembly
+No. 3 J/B
+8 11 6 8
+Y P
+LP F3 3R 3B E15 IND
+19 8 2
+W-B W-B
+GND1 F3 3R 3U
+F1
+B128327E01
+INSPECTION PROCEDURE
+NOTICE:
+If the transponder key ECU assembly is replaced, register the key and ECU communication ID
+EI
+(See page EI-57).
+1 PERFORM ACTIVE TEST BY INTELLIGENT TESTER
+(a) Connect the intelligent tester (with CAN VIM) to the
+DLC3.
+(b) Turn the ignition switch to the ON position.
+(c) Perform the ACTIVE TEST according to the display on
+the tester.
+IMMOBILISER:
+Item Tester Details Diagnostic Note
+SECURITY INDIC Turn security indicator ON/OFF -
+OK:
+Security indicator turns on and off.
+OK PROCEED TO NEXT CIRCUIT INSPECTION
+SHOWN IN PROBLEM SYMPTOMS TABLE

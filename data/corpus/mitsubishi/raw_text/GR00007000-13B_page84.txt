@@ -1,0 +1,24 @@
+13B-84 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 13. Check for harness damage between engine
+coolant temperature sensor connector B-11 terminal 1 and
+ECM connector C-58 terminal 44 <M/T> or PCM connector
+C-55 terminal 44 <A/T>.
+Q:Is the harness wire in good condition?
+CONNECTOR : B-11 ENGINE
+COOLANT YES : Replace the ECM or PCM. Then go to Step 14.
+TEMPERATURE NO : Repair it. Then go to Step 14.
+SENSOR
+ACX02490AC
+CONNECTOR : C-58<M/T>, C-55<A/T>
+PCM<A/T> ECM<M/T>
+C-55 C-58
+AK000225AI
+STEP 14. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0116 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+TSB Revision

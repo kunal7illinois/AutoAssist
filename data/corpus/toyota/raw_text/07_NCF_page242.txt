@@ -1,0 +1,32 @@
+CH-78 CHASSIS - U660E AUTOMATIC TRANSAXLE
+2. Shift Lock System
+General
+The shift lock system function setting is as follows:
+Function Without Smart Key System With Smart Key System
+Key Interlock (cid:5) —
+Shift Lock (cid:5) (cid:5)
+(cid:3) The key interlock device prevents the key from being pulled out after the ignition switch is turned OFF,
+unless the shift lever is moved to the P position. Thus, the driver is urged to park the vehicle in the P
+position.
+(cid:3) The shift lock mechanism prevents the shift lever from being shifted to any position other than the P
+position, unless the ignition switch is ON (unless the IG-ON mode is selected)*1, and the brake pedal
+is depressed. This mechanism helps to prevent unintentional acceleration.
+(cid:3) The shift lock system mainly consists of the shift lock ECU, shift lock solenoid, key interlock solenoid*2
+and shift lock override button.
+(cid:3) The shift lock solenoid has a built-in P detection switch.
+*1: Models with smart key system
+*2: Except models with smart key system
+(cid:1) System Diagram (cid:2)
+Key Interlock
+Solenoid*2
+Stop Light Switch
+Shift Lock Solenoid Assembly
+Shift Lock Shift Lock
+ECU Solenoid
+Main Body ECU*1
+Ignition Switch*2
+P Detection
+Switch
+025CH20TE
+*1: Models with smart key system
+*2: Except models with smart key system

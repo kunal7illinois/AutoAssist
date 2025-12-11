@@ -1,0 +1,21 @@
+BE-96 BODY ELECTRICAL - SMART KEY SYSTEM
+Main Body ECU
+(cid:3) Main body ECU consists of the IG relay No.1 and No.2 actuation circuits, CPU, and hold circuit.
+(cid:3) The hold circuit is installed to prevent the power supply to the relays from being cut off when an
+abnormality occurs in IG Relay No.1 and/or No.2 actuation circuits while driving.
+Main Body ECU IG1 Relay
+IG1 Relay
+Actuation Circuit
+CPU Hold Circuit
+IG2 Relay
+IG2 Relay
+Actuation Circuit
+263BE138
+Service Tip
+The main body ECU constantly stores the present power source state in its memory. Therefore, if
+the power to main body ECU is interrupted due to the removal of the battery, the main body ECU
+restores the power source after the battery is reconnected.
+For this reason, if the battery is removed when the engine switch is in a state other than OFF, the
+power will be restored to the vehicle at the same time the power is restored to main body ECU (by
+reconnecting the battery).
+Therefore, before removing the battery, be sure to turn the engine switch OFF.

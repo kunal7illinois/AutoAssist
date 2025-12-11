@@ -1,0 +1,43 @@
+BC–231
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+INSPECTION PROCEDURE
+1 CHECK HARNESS AND CONNECTOR (MOMENTARY INTERRUPTION)
+(a) Using the intelligent tester, check for any momentary
+interruption in the wire harness and connector
+corresponding to a DTC (See page BC-118).
+ABS / VSC:
+Item (Display) Measurement Item / Range (Display) Normal Condition
+EFI communication open detection / ERROR or ERROR: Momentary interruption
+EFI COM OPN
+NORMAL NORMAL: Normal
+ERROR: Momentary interruption
+STEERING OPN Steering sensor open detection / ERROR or NORMAL
+NORMAL: Normal
+Yaw rate sensor open detection / ERROR or ERROR: Momentary interruption
+YAW RATE OPN
+NORMAL NORMAL: Normal
+Result
+Condition Proceed to
+BC
+There is a constant open circuit A
+There are no momentary interruptions B
+There are momentary interruptions C
+HINT:
+Perform the above inspection before removing the
+sensor and connector.
+B Go to step 3
+C Go to step 4
+A
+2 CHECK IF EACH SENSOR AND ECM CONNECTOR IS SECURELY CONNECTED
+(a) Turn the ignition switch off.
+(b) Check if each sensor or ECM connector is securely
+connected.
+OK:
+The connector should be securely connected.
+NG CONNECT CONNECTOR TO EACH SENSOR
+OR ECM CORRECTLY
+OK
+3 RECONFIRM DTC
+(a) Turn the ignition switch off.
+(b) Record the output DTCs (for ABS, VSC, and CAN
+communication) (See page BC-141).

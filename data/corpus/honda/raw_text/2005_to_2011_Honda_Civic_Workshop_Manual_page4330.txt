@@ -1,0 +1,32 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+WHEEL SPEED SENSOR REPLACEMENT ).
+DTC 12-12: RIGHT-FRONT WHEEL SPEED SENSOR SHORT TO THE OTHER SENSOR
+CIRCUIT; DTC 14-12: LEFT-FRONT WHEEL SPEED SENSOR SHORT TO THE OTHER SENSOR
+CIRCUIT; DTC 16-12: RIGHT-REAR WHEEL SPEED SENSOR SHORT TO THE OTHER SENSOR
+CIRCUIT; DTC 18-12: LEFT-REAR WHEEL SPEED SENSOR SHORT TO THE OTHER SENSOR
+CIRCUIT
+1. Turn the ignition switch ON (II).
+2. Clear the DTC with the HDS.
+3. Test-drive the vehicle. Drive the vehicle at 13 mph (20 km/h) or more, and go a
+distance of 328 ft (100 m) or more.
+NOTE: Drive the vehicle on the road, not on the lift.
+4. Check for DTCs with the HDS.
+Is DTC 12-12, 14-12, 16-12, and/or 18-12 indicated?
+YES -Go to step 5.
+NO -Intermittent failure, the system is OK at this time. Check for loose
+terminals between the wheel speed sensor 2P connector and the VSA
+modulator-control unit 37P connector. Refer to INTERMITTENT
+FAILURES TROUBLESHOOTING (see ).
+5. Turn the ignition switch to LOCK (0).
+6. Disconnect VSA modulator-control unit 37P connector.
+7. Check for continuity between the appropriate VSA modulator-control unit 37P
+connector wheel speed sensor +B terminals (see table).
+DTC REFERENCE
+VSA Modulator-control Unit 37P Connector Terminal No.
+DTC
+Appropriate Terminal Other Terminals
+12-12 No. 19 No. 22 No. 9 No. 20
+14-12 No. 22 No. 19 No. 9 No. 20
+16-12 No. 9 No. 19 No. 22 No. 20

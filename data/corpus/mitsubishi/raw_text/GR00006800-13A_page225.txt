@@ -1,0 +1,42 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-225
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the spark plugs.
+(1) Check that the plug is not burned, that the insulator plug is
+not damaged, and that the seizure state is good.
+(2) If cleaning is required due to carbon deposits, etc., clean
+using a plug cleaner or wire brush, etc.
+(3) Check the plug gap using a plug gap gauge, and adjust if
+PLUG GAP
+not within the standard value.
+GAUGE
+Standard value: 1.0 − 1.1 mm (0.039 − 0.043 inch)
+Q:Is the spark plug in good condition?
+YES : Go to Step 6.
+MEASU- NO : Replace the faulty spark plug. Then go to Step 13.
+REMENT
+DIRECTION
+AAKKXX0011227722 AB
+STEP 6. Check the spark plug cable.
+(1) Check the cap and coating for cracks.
+(2) Measure the resistance.
+Limit: maximum 19 kΩ
+Q:Is the resistance normal?
+YES : Refer to, INSPECTION PROCEDURE 33 − Ignition
+Circuit System P.13A-535.
+NO : Replace the faulty spark plug cable. Then go to Step
+13.
+AKX00382
+STEP 7. Check the injector.
+(1) Disconnect the injector connector.
+CONNECTOR : B-01, B-02, B-05, B-06
+B-01 B-02 B-05B-06
+AAKK000000227733AB
+(2) Measure the resistance between each injector side
+INJECTOR SIDE connector terminal 1 and 2.
+CONNECTOR Standard value: 13 − 16 ohm [at 20°C (68°F)]
+Q:Is the resistance standard value?
+1 2
+YES : Go to Step 8.
+NO : Replace the faulty injector. Then go to Step 13.
+AK000559AB
+TSB Revision

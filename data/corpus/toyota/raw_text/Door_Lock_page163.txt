@@ -1,0 +1,57 @@
+DL–153
+DOOR LOCK – SMART KEY SYSTEM
+TERMINALS OF ECU
+1. CHECK CERTIFICATION ECU
+E58 E59
+E125964E03
+(a) Disconnect the E58 ECU connector.
+(b) Measure the voltage and resistance according to
+the value(s) in the table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
++B (E58-1) - Body ground W - Body ground +B power supply Always 10 to 14 V
+IG (E58-18) - Body ground LG - Body ground Ignition power supply Engine switch off Below 1 V
+IG (E58-18) - Body ground LG - Body ground Ignition power supply Engine switch on (IG) 10 to 14 V
+E (E58-17) - Body ground W-B - Body ground Ground Always Below 1 Ω
+ACC (E58-19) - Body ground L - Body ground ACC power supply Engine switch off Below 1 V
+ACC (E58-19) - Body ground L - Body ground ACC power supply Engine switch on (ACC) 10 to 14 V
+Front lock switch LH not
+TSW1 (E58-3) - Body ground GR - Body ground Entry lock switch signal 10 kΩ or higher
+pushed
+Front lock switch LH
+TSW1 (E58-3) - Body ground GR - Body ground Entry lock switch signal Below 1 Ω
+pushed
+Front lock switch RH not
+TSW2 (E58-4) - Body ground L - Body ground Entry lock switch signal 10 kΩ or higher
+pushed
+Front lock switch RH
+TSW2 (E58-4) - Body ground L - Body ground Entry lock switch signal Below 1 Ω
+pushed
+LIN (E58-10) - Body ground O - Body ground LIN line Always 10 kΩ or higher
+CANH (E58-27) - Body ground L - Body ground CAN line Always 10 kΩ or higher
+CANL (E58-28) - Body ground W - Body ground CAN line Always 10 kΩ or higher
+AGND (E58-40) - Body ground G - Body ground Ground Always Below 1 Ω
+Luggage compartment
+TSW5 (E58-7) - Body ground G - Body ground Opener switch OFF 10 kΩ or higher
+opener switch signal
+Luggage compartment
+TSW5 (E58-7) - Body ground G - Body ground Opener switch ON Below 1 Ω
+opener switch signal
+If the result is not as specified, the wire harness side DL
+may have a malfunction.
+(c) Reconnect the E58 ECU connector.
+(d) Measure the voltage according to the value(s) in the
+table below.
+Symbols (Terminal No.) Wiring Color Terminal Description Condition Specified Condition
+Door electrical key All doors closed, all doors
+Alternating between 5
+CLG1 (E58-33) - CG1B (E58-34) LG - L oscillator (front LH) sensor locked and engine switch
+V and below 1 V
+signal off
+Door electrical key
+Door unlocked or door
+CLG1 (E58-33) - CG1B (E58-34) LG - L oscillator (front LH) sensor Below 1 V
+open
+signal
+Touch sensor detection Outside door handle
+SEN1 (E58-22) - E (E58-17) B - W-B Below 1 V
+signal touched

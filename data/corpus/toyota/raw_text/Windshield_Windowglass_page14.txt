@@ -1,0 +1,44 @@
+WS–14
+WINDSHIELD / WINDOWGLASS – POWER WINDOW CONTROL SYSTEM
+3. CHECK POWER WINDOW REGULATOR SWITCH
+ASSEMBLY (REAR LH)
+K1
+WS
+B137057E02
+(a) Disconnect the K1 switch connector.
+(b) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Specified
+Symbols (Terminal No.) Wiring Color Terminal Description Condition
+Condition
+B (K1-3) - Body ground V - Body ground Power supply Ignition switch on (IG) 10 to 14 V
+If the result is not as specified, there may be a
+malfunction in the wire harness.
+(c) Reconnect the K1 switch connector and reset the
+power window motor.
+(d) Measure the voltage according to the value(s) in the
+table below.
+Standard voltage
+Specified
+Symbols (Terminal No.) Wiring Color Terminal Description Condition
+Condition
+Ignition switch on (IG),
+Power window motor UP front passenger side 0 V → 10 to 14
+U (K1-4) - Body ground G - Body ground
+output power window switch OFF V
+→ UP (Manual operation)
+Ignition switch on (IG),
+front passenger side
+Power window motor 0 V → 10 to 14
+D (K1-1) - Body ground R - Body ground power window switch OFF
+DOWN output V
+→ DOWN (Manual
+operation)
+If the result is not as specified, the power window
+regulator switch assembly may have a malfunction.
+4. CHECK POWER WINDOW REGULATOR SWITCH
+ASSEMBLY (REAR RH)
+J1
+B137057E03
+(a) Disconnect the J1 switch connector.

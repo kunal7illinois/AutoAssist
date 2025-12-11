@@ -1,0 +1,44 @@
+Audi TT No. 47 / 24
+Current Flow Diagram
+Onboard supply control unit, parking brake contact switch,
+socket illumination bulb, cigarette lighter, 12 V socket,
+luggage compartment light
+F321 Parking brake contact switch
+J519 Onboard supply control unit
+L28 Cigarette lighter illumination bulb
+L42 Socket illumination bulb
+T52a 52-pin connector, black, on onboard supply control unit
+T52b 52-pin connector, yellow, on onboard supply control unit
+U1 Cigarette lighter
+U5 12 V socket
+W3 Luggage compartment light
+44 Earth point, lower part of left A-pillar
+376 Earth connection 11, in main wiring harness
+B489 Connection 25, in main wiring harness
+J519 * only USA
+T52a/12 T52b/47
+5566 112299 B489 113300
+0,35 0,5 4,0✱ 2,5 ✱ 2,5 0,35 2,5 ✱ 0,35
+br/ge gn/ro ro/ws ro/ws ro/ws gr/bl ro/ws gr/bl
+5555 2 3/58s 2 3/58s
+1 2
+✱
+F321 W3 U1 U5
+2 1/31 1/31 L28 1/31 L42
+0,35 0,5 2,5 2,5
+br br br br
+116622 222222 376
+ws = white
+sw = black
+ro = red
+4,0 br = brown
+br
+gn = green
+bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+309 310 311 312 313 314 315 316 317 318 319 320 321 322 or = orange
+8J0-047240409
+rs = pink
+Edition 04.2010

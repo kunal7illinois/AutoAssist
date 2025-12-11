@@ -1,0 +1,25 @@
+EI–40
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/ Smart Key System)
+Short to GND in Immobiliser System Power
+DTC B278A
+Source Circuit
+DESCRIPTION
+This DTC is output when the engine switch power source supply line is open or shorted.
+DTC No. DTC Detection Condition Trouble Area
+• Wire harness
+Engine switch power source supply line is open or
+B278A • Engine switch
+shorted
+• Certification ECU
+WIRING DIAGRAM
+Engine Switch Certification ECU
+14 30
+R
+VC5 E52 E58 VC5
+8 40
+G
+AGND E52 E58 AGND
+EI B128331E02
+INSPECTION PROCEDURE
+NOTICE:
+If the certification ECU is replaced, register the key and ECU communication ID (See page EI-8).

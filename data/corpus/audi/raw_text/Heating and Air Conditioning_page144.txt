@@ -1,0 +1,58 @@
+Audi TT 2007 ➤
+Heating and Air Conditioning - Edition 04.2009
+– Use hose clamps up to 40 mm -3093- for example to pinch off the two coolant hoses between the engine
+and the heat exchanger of the air conditioner unit ⇒ page 114 .
+– Repeat the cooling output test ⇒ page 130 .
+– Read out the measured value block with the measured values for the left footwell vent temperature sender
+-G261- , the right footwell vent temperature sender -G262- and the evaporator output temperature sender
+-G263- ⇒ "Guided fault-finding" function of vehicle diagnostic, testing and information system VAS 5051.
+• The measured values for -G261- and -G262- differ by less than 3 °C from the measured value for -G263-
+⇒ "Guided fault-finding" function of vehicle diagnostic, testing and information system VAS 5051.
+↓ ↓
+yes no
+↓ ↓
+Detach the hose cl–amps up to 40 mm -3093- – Check the sender supplying the deviating measured
+from the two coolant hoses. value for correct installation, as well as the electrical
+connections for contact resistance ⇒ "Guided fault-
+↓ finding" function of vehicle diagnostic, testing and in‐
+formation system VAS 5051. and ⇒ Current flow
+diagrams, Electrical fault finding and Fitting locations
+Check actuation an–d operation of the left tem‐ – Eliminate the cause of the incorrect measured value.
+perature flap control motor -V158- and the Replace the defective sender if necessary.
+right temperature flap control motor -V159-
+⇒ page 137 and ⇒ page 140 .
+↓
+• If actuation and operation of -V158- and -V159- are OK
+↓ no
+yes ↓
+↓
+Check operation o–f the temperature flap for Eliminate the cause of th–e malfunction ⇒ "Guided fault-
+the side of the air distributor housing respon‐ finding" function of vehicle diagnostic, testing and in‐
+sible for the temperature increase formation system VAS 5051 and ⇒ Current flow
+⇒ page 124 . diagrams, Electrical fault finding and Fitting locations.
+Replace the air dis–tributor housing if neces‐ ↓
+sary ⇒ page 170 . Repeat the cooling– output test ⇒ page 130 .
+↓
+Repeat the cooling– output test ⇒ page 130 .
+10.1.5 Fault localisation in the event of ice for‐
+mation at the evaporator
+♦ The air conditioner compressor regulating valve -N280- is ac‐
+tuated by the air conditioner operating unit, Climatronic control
+unit -J255- such that the temperature of the air downstream of
+the evaporator reaches the specified value (approx. 2 to 5 °C).
+♦ After starting the vehicle, a value greater than 75 % (0.55 A)
+is displayed in the measured value block for actuation of the
+air conditioner compressor regulating valve -N280- (air condi‐
+tioner operating unit, Climatronic control unit -J255- ) depend‐
+ing on the measured temperature, engine speed and electrical
+system voltage. As soon as the temperature measured by the
+evaporator output temperature sender -G263- approaches the
+specified value, actuation is cancelled and the compressor
+output thus reduced ⇒ "Guided fault-finding" function of vehi‐
+cle diagnostic, testing and information system VAS 5051 .
+♦ Under certain operating conditions, residual moisture in the
+refrigerant circuit may lead to the formation of ice at the air
+conditioner compressor regulating valve -N280- (and at the
+expansion valve). Such ice formation impedes air conditioner
+138
+Rep. Gr.87 - Air conditioning system

@@ -1,0 +1,38 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+Brake Switch
+(cid:2)
+Set the Trigger Type to Parameter.
+(cid:1)
+Adjust the Parameter setting to APP Sensor A (V) above 1.3 V.
+(cid:1)
+Set the recording time to 60 seconds.
+(cid:1)
+Set the Trigger point to -30 seconds.
+(cid:1)
+8. Find a suitable level road. When you are ready to do the test, press OK on the
+HDS.
+9. Monitor the HDS and accelerate quickly until the APP Sensor A reads 1.3 V.
+Maintain a steady throttle until the transmission shifts to 5th gear, then slow
+the vehicle and come to a stop.
+10. Save the snapshot if the entire event was recorded or increase the recording
+time setting as necessary and repeat step 9.
+11. Adjust the Parameter setting to 2.5 V. Retest-drive the vehicle. While
+monitoring the HDS accelerate quickly until the APP Sensor A reads 2.5 V.
+Maintain a steady throttle until the transmission shifts to 5th gear (or
+reasonable speed), then slow the vehicle and come to a stop.
+12. Save the snapshot if the entire event was recorded or increase the recording
+time setting as necessary and repeat step 11.
+13. Accelerate quickly until the accelerator pedal is to the floor. Maintain a steady
+pedal until the transmission shifts to 3rd gear, then slow to a stop, and save the
+snap shot.
+14. Review each snapshot individually and compare the Shift Command, APP
+Sensor A (V), and the Vehicle Speed to the table below.
+Upshift: D Position
+VEHICLE SPEED REFERENCE - UPSHIFT D POSITION
+APP Sensor A voltage: 1.3 V
+1st-->2nd 9-12 mph (15-19
+km/h)
+2nd-->3rd 17-21 mph (28-33
+km/h)

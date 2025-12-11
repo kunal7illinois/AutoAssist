@@ -1,0 +1,35 @@
+AUTOMATIC TRANSAXLE 23A-257
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 2. Replace the torque converter clutch solenoid
+valve.
+Replace the torque converter clutch solenoid valve. Refer to
+GROUP 23B, Valve Body P.23B-74. Then check the symptom.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Go to Step 3.
+AC001866
+STEP 3. Disassemble and clean the valve body.
+Check the O-ring installation bolts for looseness and valve
+VALVE body for damage. Repair or replace the faulty parts. Refer to
+BODY
+GROUP 23B, Valve Body P.23B-74.
+ASSEMBLY
+Q:Is the repair possible and the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Replace the valve body assembly. Then check the
+symptom. If the symptom is not eliminated, go to Step
+4.
+AC001860AB
+STEP 4. Replace the torque converter assembly.
+(1) Remove the transaxle.
+(2) Replace the torque converter assembly. Refer to GROUP
+23B, Transaxle P.23B-10. Then check the symptom.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Go to Step 5.
+AC001857
+STEP 5. Replace the PCM.
+Q:Is the symptom eliminated?
+YES : Diagnosis is complete.
+NO : Start over at Step 1.
+TSB Revision

@@ -1,0 +1,29 @@
+BC–323
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+OK
+7 CHECK HARNESS AND CONNECTOR (FRONT SPEED SENSOR TO SKID CONTROL ECU)
+(a) Disconnect the skid control ECU connector.
+Skid Control ECU (Harness Side (b) Measure the resistance according to the value(s) in the
+Connector Front View): table below.
+Standard resistance:
+LH
+Tester Connection Specified Condition
+FL+ FL- A60 A60-5 (FL+) - A14-1 (FL+) Below 1 Ω
+A60-6 (FL-) - A14-2 (FL-) Below 1 Ω
+A60-5 (FL+) - Body ground 10 kΩ or higher
+A60-6 (FL-) - Body ground 10 kΩ or higher
+RH
+FR- FR+
+Tester Connection Specified Condition BC
+Front Speed Sensor (Harness Side A60-10 (FR+) - A35-1 (FR+) Below 1 Ω
+Connecotor Front View): A60-9 (FR-) - A35-2 (FR-) Below 1 Ω
+A60-10 (FR+) - Body ground 10 kΩ or higher
+A14 A35
+A60-9 (FR-) - Body ground 10 kΩ or higher
+(c) Connect the connectors.
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (FRONT SPEED SENSOR TO
+FL- FL+ FR- FR+
+SKID CONTROL ECU)
+C139143E01
+OK

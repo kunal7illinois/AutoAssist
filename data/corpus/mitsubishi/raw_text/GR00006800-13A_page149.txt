@@ -1,0 +1,29 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-149
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 7. Check the injector.
+(1) Disconnect each injector connector.
+CONNECTOR : B-01, B-02, B-05, B-06
+B-01 B-02 B-05B-06
+AAKK000000227733AB
+(2) Measure the resistance between injector side connector
+INJECTOR SIDE terminal 1 and 2.
+CONNECTOR Standard value: 13 − 16 ohm [at 20°C (68°F)]
+Q:Is the resistance standard value?
+1 2
+YES : Go to Step 8.
+NO : Replace the injector. Then go to Step 12.
+AK000559AB
+STEP 8. Check connector C-60, C-49 at ECM <M/T> or
+connector C-57, C-50 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-49,C-60<M/T>,
+C-50,C-57<A/T> YES : Go to Step 9.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 12.
+OR
+PCM<A/T>
+C-49,
+C-50 C-57 C-60
+AK000280BF
+TSB Revision

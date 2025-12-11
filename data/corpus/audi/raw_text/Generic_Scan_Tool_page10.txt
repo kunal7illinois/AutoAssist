@@ -1,0 +1,57 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+sure drops again. The control module uses the measured
+value to determine the size of the leak.
+Leak diagnosis is activated automatically shortly following every
+engine start. If a malfunction is determined, an entry is made to
+the DTC memory. The Malfunction Indicator Lamp in the instru‐
+ment cluster is illuminated if the malfunction is recognized for two
+subsequent starts.
+For all evaporative system component locations, hose routing,
+removal/installation procedures and torque specifications, refer
+to the service manual.
+2.3 Electronic Engine Power Control
+For EPC, the throttle valve is not operated by a cable from the
+accelerator pedal. There is no mechanical connection between
+the accelerator pedal and the throttle valve.
+The position of the accelerator pedal is communicated to engine
+control module (ECM) by the throttle position sensor / accelerator
+pedal position sensor 2 (variable resistances; stored in one hous‐
+ing) that are connected with the accelerator pedal.
+The accelerator pedal position (driver's intention) is a main input
+unit for the ECM.
+Operation of the throttle valve occurs via an electric motor, the
+throttle drive for in the throttle valve control module. This is true
+across the entire engine speed and engine load spectrum.
+The throttle valve is operated by the EPC according to specifica‐
+tions of engine control module (ECM).
+With engine off and ignition switched on, the ECM controls the
+throttle drive according to specifications of throttle position sen‐
+sor / accelerator pedal position sensor 2. This means, if the
+accelerator pedal is pressed half way, the throttle drive opens the
+throttle valve to the same degree; i.e. throttle valve is then opened
+approximately half way.
+With engine running under load, ECM can open or close the throt‐
+tle valve independently of the throttle position sensor / accelerator
+pedal position sensor 2.
+This means, for example, that the throttle valve could be fully
+opened even though the accelerator pedal has only been pressed
+half way. This has the advantage of preventing torque losses at
+the throttle valve.
+In addition, it results in a significant reduction in emissions and
+fuel consumption under certain load conditions.
+It would be incorrect to think that EPC consists of only one or two
+components. EPC is much more of a system containing all com‐
+ponents that contribute to recognizing, controlling and monitoring
+the position of the throttle valve.
+2.4 Fuel Injection System
+For all fuel injection system component locations, removal/instal‐
+lation procedures and torque specifications, refer to the service
+manual.
+2.5 Engine Control Module
+The ECM regulates fuel injection, throttle valve control module,
+oxygen sensor regulation, ignition, knock control, evaporative
+emission purge valve, engine speed limitation through the fuel
+injectors or the power supply relay, as well as OBD functions.
+6
+Rep. Gr.ST - Generic Scan Tool

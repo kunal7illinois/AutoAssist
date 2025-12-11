@@ -1,0 +1,40 @@
+AV–129
+AUDIO / VISUAL – AUDIO AND VISUAL SYSTEM
+Radio Receiver Communication Error
+INSPECTION PROCEDURE
+1 IDENTIFY THE COMPONENT SHOWN BY SUB-CODE
+(a) Enter the diagnostic mode.
+Example:
+Service Check Mode
+*2
+*1 *2
+*1 *2
+Detailed Information Mode
+*1 *2 *3
+*1 *2 *4
+*2
+Continues to display check result when more *1 *2
+components are installed.
+*1
+*1 *2
+*1 *2
+*1 *2 DTC
+*1 *2
+Component
+*1 shown by the
+*1 *2 sub-code
+*1: SEEK TRACK DOWN Continues to display detailed information
+of the first code.
+*2: SEEK TRACK UP
+*3: PRESET SWITCH “2” *1 *2
+Continues to display detailed information when
+*4: PRESET SWITCH “3”
+more DTCs are detected.
+*1 *2 AV
+E110917E05
+(b) Press the preset switch "3" to change to "Detailed
+Information Mode".
+(c) Identify the component shown by the sub-code.
+HINT:
+• "190 (radio receiver)" is the component shown by the sub-
+code in the example shown in the illustration.

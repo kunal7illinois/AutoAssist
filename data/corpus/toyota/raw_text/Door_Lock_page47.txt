@@ -1,0 +1,34 @@
+DL–47
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Luggage Compartment Door Courtesy Switch Circuit
+DESCRIPTION
+The door courtesy switch turns on when the door is open and turns off when the door is closed.
+The main body ECU detects the condition of the door courtesy switch.
+WIRING DIAGRAM
+E6
+S5 Main Body ECU
+Luggage Compartment Door Lock Assembly
+(Courtesy Switch)
+2 3 25
+LGCY
+B109777E19
+INSPECTION PROCEDURE
+1 READ VALUE OF DATA LIST (DOOR COURTESY SWITCH)
+(a) Check the DATA LIST for proper functioning of the door
+courtesy switch.
+MAIN BODY:
+Diagnostic
+Item Measurement Item / Display (Range) Normal Condition
+Note
+DL
+Luggage compartment door courtesy
+ON: Luggage compartment door is OPEN
+LUGG COURTSY SW light switch signal -
+OFF: Luggage compartment door is CLOSED
+/ ON or OFF
+OK:
+"ON" (door is open) and "OFF" (door is closed)
+appear on the screen.
+NG Go to step 2
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

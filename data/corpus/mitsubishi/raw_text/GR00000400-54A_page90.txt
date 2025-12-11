@@ -1,0 +1,29 @@
+54A-90 CHASSIS ELECTRICAL
+COMBINATION METERS ASSEMBLY AND VEHICLE SPEED SENSOR
+STEP 2. Check the fuel pump module signal circuit at the
+fuel pump module connector D-17 by back probing.
+(1) Do not disconnect the fuel pump module connector D-17.
+CONNECTOR <ECLIPSE> : D-17
+(2) Turn the ignition switch to "ON" position.
+DEVICE SIDE
+1 2 3
+4 5
+AC106483AI
+CONNECTOR <ECLIPSE SPYDER> : D-17
+DEVICE SIDE
+1 2 3
+4 5
+AC106485AI
+(3) Measure the voltage between terminal 2 and ground by
+HARNESS SIDE
+back probing.
+D-17
+• The measured value should be approximately 5 volts or
+more.
+Q:Does the measured voltage correspond with this range?
+YES : Go to Step 5.
+NO : Go to Step 3.
+1 2 3
+4 5
+AC106898AB
+TSB Revision

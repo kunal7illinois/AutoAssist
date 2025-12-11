@@ -1,0 +1,53 @@
+ES–180
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Ideal Air Fuel Mixture
+Atmospheric Air
+Housing Output Voltage
+Platinum Electrode
+Solid Electrolyte
+(Zirconia Element)
+Heater
+ES Coating (Ceramic)
+Cover Richer - Air Fuel Ratio - Leaner
+Exhaust Gas
+A115539E08
+DTC No. DTC Detection Condition Trouble Area
+• Abnormal voltage output:
+During active air-fuel ratio control, following
+conditions (a) and (b) are met for a certain
+period of time (2 trip detection logic) • Open or short in HO2 sensor (bank 1, 2 sensor 2)
+(a) Heated Oxygen (HO2) sensor voltage does circuit
+not decrease to less than 0.2 V • HO2 sensor (bank 1, 2 sensor 2)
+P0136
+(b) HO2 sensor voltage does not increase to • HO2 sensor heater (bank 1, 2 sensor 2)
+P0156
+more than 0.6 V • Air-Fuel Ratio (A/F) sensor (bank 1, 2 sensor 1)
+• Low impedance: • Engine room junction block (EFI relay)
+Sensor impedance is less than 5 Ω for more • Gas leakage from exhaust system
+than 30 seconds when ECM presumes sensor
+to being warmed up and operating normally (2
+trip detection logic)
+• Low voltage (open):
+During active air-fuel ratio control, following
+conditions (a) and (b) are met for a certain
+period of time (2 trip detection logic) • Open in HO2 sensor (bank 1, 2 sensor 2) circuit
+(a) HO2 sensor voltage output less than 0.21 V • HO2 sensor (bank 1, 2 sensor 2)
+P0137
+(b) Target air-fuel ratio rich • HO2 sensor heater (bank 1, 2 sensor 2)
+P0157
+• High impedance: • Engine room junction block (EFI relay)
+Sensor impedance is 15 kΩ or more for more • Gas leakage from exhaust system
+than 90 seconds when ECM presumes sensor
+to being warmed up and operating normally (2
+trip detection logic)
+• High voltage (short):
+During active air-fuel ratio control, following
+conditions (a) and (b) are met for a certain
+period of time (2 trip detection logic) • Short in HO2 sensor (bank 1, 2 sensor 2) circuit
+P0138
+(a) HO2 sensor voltage output 0.59 V or more • HO2 sensor (bank 1, 2 sensor 2)
+P0158
+(b) Target air-fuel ratio lean • ECM internal circuit malfunction
+• Extremely high voltage (short):
+HO2 sensor voltage output exceeds 1.2 V for
+more than 30 seconds (2 trip detection logic)

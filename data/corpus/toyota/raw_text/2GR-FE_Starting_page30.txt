@@ -1,0 +1,66 @@
+ST–30
+2GR-FE STARTING – SMART KEY SYSTEM
+DIAGNOSTIC TROUBLE CODE CHART
+PUSH-BUTTON START FUNCTION:
+DTC No. Detection Item Trouble Area See page
+B2271 Ignition Hold Monitor Malfunction 1. AM2 fuse ST-31
+2. Main body ECU (Instrument
+panel J/B)
+3. Wire harness or connector
+B2272 Ignition 1 Monitor Malfunction 1. IG1 relay ST-34
+2. Main body ECU (Instrument
+panel J/B)
+3. Wire harness or connector
+B2273 Ignition 2 Monitor Malfunction 1. IG2 relay ST-39
+2. Main body ECU (Instrument
+panel J/B)
+3. Wire harness or connector
+B2274 ACC Monitor Malfunction 1. ACC relay ST-43
+2. Main body ECU (Instrument
+panel J/B)
+3. Wire harness or connector
+B2275 STSW Monitor Malfunction 1. ECM ST-48
+2. Main body ECU (Instrument
+panel J/B)
+3. Wire harness or connector
+B2276 ACCR Signal Circuit Malfunction 1. Main body ECU (Instrument ST-51
+panel J/B)
+2. ECM
+3. Wire harness or connector
+B2277 Detecting Vehicle Submersion Main body ECU (Instrument panel ST-54
+J/B)
+B2278 Engine Switch Circuit Malfunction 1. Engine switch ST-55
+2. Main body ECU (Instrument
+panel J/B)
+3. Wire harness or connector
+B2281 "P" Signal Malfunction 1. Main body ECU (Instrument ST-60
+panel J/B)
+2. Shift lock control ECU
+3. Wire harness or connector
+B2282 Vehicle Speed Signal Malfunction 1. CAN communication system ST-63
+2. Combination meter system
+3. Main body ECU (Instrument
+panel J/B)
+4. Wire harness or connector
+B2283 Vehicle Speed Sensor 1. B2282 detection area ST-69
+Malfunction 2. Combination meter
+3. Speed sensor
+4. Skid control ECU
+5. Main body ECU (Instrument
+panel J/B)
+6. Wire harness or connector
+B2284 Brake Signal Malfunction 1. Stop light switch ST-72
+2. CAN communication system
+3. ECM
+4. Main body ECU (Instrument
+ST panel J/B)
+5 Wire harness or connector
+B2285 Steering Lock Position Signal 1. Main body ECU (Instrument ST-77
+Circuit Malfunction panel J/B)
+2. Steering lock ECU
+3. Wire harness or connector
+B2286 Runnable Signal Malfunction 1. CAN communication system ST-81
+2. ECM
+3. Main body ECU (Instrument
+panel J/B)
+4. Wire harness or connector

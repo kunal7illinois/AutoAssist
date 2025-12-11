@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+NOTE: DTC P1780 means there is one or more A/T DTCs
+regarding the shift control system.
+Are there other DTCs?
+YES -Go to the INDICATED DTC'S TROUBLESHOOTING.
+NO -Go to step 6.
+6. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+7. Test-drive the vehicle with the shift lever in D, and let the transmission shift
+through all five gears.
+8. Turn the ignition switch to LOCK (0). Repeat the test-drive in step 7, then go
+to step 9.
+9. Check for DTCs with the HDS.
+Is DTC P1780 indicated?
+YES -Check for poor connections or loose terminals at the PCM. If the PCM
+was updated, substitute a known-good PCM (see SUBSTITUTING THE
+PCM ), then go to step 7. If the PCM was substituted, go to step 1.
+NO -Go to step 10.
+10. Monitor the OBD STATUS for P1780 in the DTCs MENU with the HDS.
+Does the HDS indicate PASSED?
+YES -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM (see ECM/PCM REPLACEMENT ). If
+any other DTCs were indicated in step 9, go to the INDICATED DTC'S
+TROUBLESHOOTING.
+NO -If the HDS indicates FAILED, check for poor connections or loose
+terminals at the PCM. If the PCM was updated, substitute a known-good PCM

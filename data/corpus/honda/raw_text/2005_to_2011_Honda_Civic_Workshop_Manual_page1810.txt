@@ -1,0 +1,29 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ENGINE PERFORMANCE EGR System (R18A1) - Civic (All Except Hybrid)
+YES - Go to step 49.
+NO - Go to step 42.
+42. Turn the ignition switch OFF.
+43. Replace the EGR valve (see EGR VALVE REPLACEMENT ).
+44. Reconnect all connectors.
+45. Turn the ignition switch ON (II).
+46. Reset the ECM/PCM with the HDS.
+47. Do the ECM/PCM idle learn procedure (see ECM/PCM IDLE LEARN
+PROCEDURE ).
+48. Do the EGR TEST in the INSPECTION MENU with the HDS.
+49. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P2413 indicated?
+YES - Check for poor connections or loose terminals at the EGR valve and the
+ECM/PCM, then go to step 1.
+NO - Go to step 50.
+50. Monitor the OBD STATUS for DTC P2413 in the DTCs MENU with the
+HDS.
+Does the screen indicate PASSED?
+YES - Troubleshooting is complete. If any other Temporary DTCs or DTCs
+were indicated in step 49, go to the indicated DTCs troubleshooting.
+NO - If the screen indicates FAILED, go to step 1 and recheck. If the screen
+indicates EXECUTING, keep idling until a result comes on. If the screen
+indicates OUT OF CONDITION, go to step 47.
+51. Turn the ignition switch OFF.
+52. Reconnect all connectors.
+53. Update the ECM/PCM if it does not have the latest software (see UPDATING

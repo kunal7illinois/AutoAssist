@@ -1,0 +1,28 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 BRAKES VSA System - Civic (All Except Hybrid)
+good VSA modulator-control unit (see VSA MODULATOR-CONTROL
+UNIT REMOVAL AND INSTALLATION ), and retest.
+NO -Repair open in the wire between the VSA modulator-control unit and
+body ground (G202).
+BRAKE SYSTEM INDICATOR DOES NOT GO OFF, AND NO DTCS ARE STORED
+1. Release the parking brake.
+2. Turn the ignition switch ON (II).
+3. Check the brake system indicator for several seconds when the ignition switch
+is turned ON (II).
+Does the indicator come on then go off?
+YES -Intermittent failure, the system is OK at this time. Check for loose
+terminals between the gauge control module (tach) 36P connector and the VSA
+modulator-control unit 37P connector. Refer to INTERMITTENT
+FAILURES TROUBLESHOOTING (see ).
+NO -Go to step 4.
+4. Check the BRAKE INDICATOR in the VSA DATA LIST with the HDS.
+Does it indicate OFF?
+YES -Go to step 5.
+NO -Check for loose terminals in the VSA modulator-control unit 37P
+connector. If necessary, substitute a known-good VSA modulator-control unit
+(see VSA MODULATOR-CONTROL UNIT REMOVAL AND
+INSTALLATION ), and retest.
+5. Turn the ignition switch to LOCK (0).
+6. Disconnect the parking brake switch 1P connector.
+7. Turn the ignition switch ON (II).

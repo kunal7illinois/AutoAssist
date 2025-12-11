@@ -1,0 +1,46 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-471
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+DTC SET CONDITIONS Judgement Criteria
+• Vehicle speed sensor output voltage has not
+Check Conditions
+changed (no pulse signal is input) for 2 seconds.
+• 2 seconds or more have passed the starting
+sequence was completed.
+.
+• Engine speed is at between 2,100 and 4,000 r/ TROUBLESHOOTING HINTS (The most likely
+causes for this code to be set are:)
+min.
+• Volumetric efficiency is at between 40 and 70 • Vehicle speed sensor failed.
+• Open or shorted vehicle speed sensor circuit, or
+percent.
+loose connector.
+• ECM failed.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 24:
+Vehicle Speed Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine.
+(3) Set scan tool MB991502 to the data reading mode for item
+24, Vehicle Speed Sensor.
+16 PIN • Check that the speedometer and MUT-II display speed
+match when traveling at a vehicle speed of 40 km/h (25
+MB991502
+mph).
+AKX01177AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+STEP 2. Check speed meter.
+Q:Is the speed meter functioning?
+YES : Go to Step 3.
+NO : Go to Step 8.
+TSB Revision

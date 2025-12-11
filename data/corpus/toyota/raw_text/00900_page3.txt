@@ -1,0 +1,52 @@
+FU–6
+2AZ-FE FUEL – FUEL SYSTEM
+ON-VEHICLE INSPECTION
+Intelligent Tester
+1. CHECK FUEL PUMP OPERATION
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch ON. Do not start the engine.
+(c) Select the following tester menus: DIAGNOSIS,
+ENHANCED OBD II, ACTIVE TEST and FUEL
+PUMP/SPD. Operate the fuel pump.
+(d) Touch the fuel hose in the engine compartment to
+check the fuel flow, and you will be able to hear the
+sound of the fuel pump.
+DLC3
+(e) Stop the fuel pump.
+If there is no fuel flow, the fuel pump may not
+operate. Check the fuel pump circuit (see page FU-
+CAN VIM
+33).
+B127989E01 2. CHECK FUEL PRESSURE
+(a) Check that the battery positive voltage is above 12
+V.
+(b) Discharge the fuel system pressure (see page FU-
+9).
+FU
+(c) Disconnect the cable from the negative (-) battery
+terminal.
+(d) Disconnect the fuel main tube (see page FU-10).
+(e) Install SST (pressure gauge) as shown in the
+illustration.
+SST (Hose) SST 09268-31011 (95336-08070, 90467-13001,
+09268-41500), 09268-45014 (09268-41200,
+Fuel Tube 09268-41220, 09268-41250)
+(f) Wipe off any gasoline.
+(g) Reconnect the cable to the negative (-) battery
+SST (T-joint)
+terminal.
+(h) Start the engine.
+SST
+(i) Measure the fuel pressure at idle.
+SST (Hose) (Pressure Gauge)
+Fuel pressure:
+304 to 343 kPa (3.1 to 3.5 kgf/cm2, 44 to 50 psi)
+If the pressure is not as specified, check the fuel
+pump and injectors.
+(j) After checking the fuel pressure, disconnect the
+cable from the negative (-) battery terminal and
+carefully remove SST and the fuel tube connector to
+SST (Fuel Tube prevent fuel from spilling.
+Connector) (k) Reconnect the fuel main tube (see page FU-14).
+(l) Check for fuel leaks (see page FU-14).
+A088229E05

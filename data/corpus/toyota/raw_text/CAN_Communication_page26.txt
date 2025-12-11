@@ -1,0 +1,28 @@
+CA–26
+CAN COMMUNICATION – CAN COMMUNICATION SYSTEM
+(b) Measure the resistance according to the value(s) in
+Main Body ECU: the table below.
+E8
+CANN
+CANP
+CANH
+CANL
+CA
+C136714E01
+Standard resistance
+Terminals Wiring Color Terminal Description Condition Specified Condition
+HIGH-level CAN bus wire -
+E8-5 (CANH) - E8-6 (CANL) B - W Ignition Switch off 54 to 69 Ω
+LOW-level CAN bus wire
+HIGH-level CAN bus wire -
+E8-16 (CANP) - E8-15 (CANN) W - L Ignition Switch off 108 to 132 Ω
+LOW-level CAN bus wire
+13. ACCESSORY GATEWAY
+(a) Measure the resistance according to the value(s) in
+Accessory Gateway:
+the table below.
+CANL CANH
+C136715E02
+Standard resistance
+Terminals Terminal Description Condition Specified Condition
+E61-6 (CANH) - E61-14 (CANL) HIGH-level CAN bus wire - LOW-level CAN bus wire Ignition Switch off 54 to 69 Ω

@@ -1,0 +1,44 @@
+35C-12 TRACTION CONTROL SYSTEM (TCL)
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+CONNECTOR: A-02 CONNECTOR: C-29
+COMBINATION METER
+AC001985AD AC004429AB
+CONNECTOR: C-94
+CONNECTOR: C-77
+CONNECTOR
+BLOCK (RH)
+COMBINATION
+METER
+AC004427AB AC003604AB
+CONNECTORS: C-111, C-112
+JUNCTION BLOCK
+(FRONT VIEW)
+C-111
+C-112
+AC102149AC
+. TECHNICAL DESCRIPTION (COMMENT)
+CIRCUIT OPERATION
+When communication with the scan tool is not possi-
+• The diagnostic output is made from the ABS-
+ble, the cause is probably an open circuit in the ABS-
+ECU (terminal 11) to the diagnostic output termi-
+ECU power circuit or an open circuit in the diagnostic
+nal (terminal 7) of the data link connector.
+output circuit.
+• When the data link connector’s diagnostic test
+mode control terminal (terminal 1) is grounded, .
+TROUBLESHOOTING HINTS (The most likely
+the ABS-ECU (terminal 12) will switch to the diag-
+causes for this case:)
+nostic mode.
+• Blown fuse
+• Damaged wiring harness or connector
+.
+• Malfunction of the hydraulic unit (Integrated with
+ABS-ECU)
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991223: Harness Set
+.
+TSB Revision

@@ -1,0 +1,14 @@
+ES–318
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+NOTICE:
+If P0630 is set, the VIN must be input to the ECM
+using the intelligent tester. However, all DTCs are
+cleared automatically by the tester when inputting
+the VIN. If DTCs other than P0630 are set, check
+them first.
+B GO TO DTC CHART (See page ES-518)
+A
+2 INPUT VIN WITH INTELLIGENT TESTER
+NEXT
+ES
+END

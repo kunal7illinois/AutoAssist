@@ -1,0 +1,31 @@
+BE-92 BODY ELECTRICAL - SMART KEY SYSTEM
+2. System Diagram
+The main body ECU controls the push button start function. The system diagram below shows the
+components that relate to this function.
+Engine Switch
+(cid:3) Transponder Key Amplifier
+Switch Position
+Signal
+ACC Relay
+Park/Neutral Position Switch
+IG1 Relay
+Stop Light Switch Main Body
+ECU
+Combination Meter
+(cid:3) Vehicle Speed Signal IG2 Relay
+Steering Lock ST CUT Relay ST Relay
+ECU
+Local Communication
+ID Code Box Front Room
+Oscillator
+Key
+ECM
+Certification
+ECU
+Rear Room
+Oscillator
+DLC3
+Antenna
+CAN (CAN No. 1 Bus)
+Tuner
+025BE82TE

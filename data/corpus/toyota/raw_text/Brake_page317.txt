@@ -1,0 +1,43 @@
+BC–306
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+(b) DTC clear
+DLC3:
+CG (1) Using SST, connect terminals TC and CG of the
+DLC3.
+SST 09843-18040
+(2) Turn the ignition switch on (IG).
+TC
+G022986E01
+(3) Clear the DTCs stored in the ECU by depressing
+the brake pedal 8 times or more within 5
+seconds.
+(4) Check that the warning light indicates a normal
+system code.
+(5) Remove the SST.
+HINT:
+BC Clearing the DTCs cannot be performed by
+disconnecting the battery terminal or the ECU-IG
+fuse.
+BR03890
+2. DTC CHECK/CLEAR (WHEN USING INTELLIGENT
+Intelligent Tester
+TESTER:)
+(a) DTC check
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch on (IG).
+(3) Read the DTCs by following the prompts on the
+tester screen.
+(b) DTC clear
+(1) Connect the intelligent tester to the DLC3.
+(2) Turn the ignition switch on (IG).
+(3) Operate the intelligent tester to clear the codes.
+HINT:
+Refer to the intelligent tester operator's manual
+DLC3
+for further details.
+CAN VIM
+3. END OF DTC CHECK/CLEAR
+C131977E05
+(a) Turn the ignition switch on (IG).
+(b) Check that the ABS warning light goes off within
+approximately 3 seconds.

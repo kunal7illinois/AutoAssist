@@ -1,0 +1,46 @@
+Audi TT No. 31 / 7
+Current Flow Diagram
+Coupé, navigation system with CD drive control unit, aerial
+amplifier, radio, telephone and navigation system aerial
+J401 Navigation system with CD drive control unit
+R52 Radio, telephone and navigation system aerial
+R113 Aerial amplifier 4
+R132 Rear window aerial 3
+T2f 2-pin connector, blue, on rear right roof frame
+T4o 4-pin connector, brown, on right in rear lid
+* rear window upper left
+R52 ✱✱
+** roof aerial
+B1 B2
+0,5
+sw
+0,14
+J401
+8811
+J1 J2 J3 J4 G1 G2
+0,5 0,5 0,5
+sw sw sw
+0,4 0,4 0,4
+0,5 0,5 0,5
+sw sw sw
+T4o/1 T4o/2 T4o/3 T4o/4 T 2f/1 T2f/2
+0,5 0,5 0,5
+sw sw sw
+R132
+0,14 0,14
+0,14
+ws = white
+0,5 0,5 8811 sw = black
+sw sw
+ro = red
+B1 B2 A1 A2 A2 br = brown
+✱ gn = green
+R113
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+71 72 73 74 75 76 77 78 79 80 81 82 83 84 or = orange
+8J0-031070906
+rs = pink
+Edition 04.2009

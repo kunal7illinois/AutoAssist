@@ -1,0 +1,35 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-351
+SYMPTOM PROCEDURES
+STEP 8. Check the input signal by using "FUNCTION
+DIAG." of the SWS monitor.
+If the Ignition switch is turned to the "ON" position and the turn-
+COLUMN SWITCH signal light switch (LH) is turned on, normal conditions should
+CONNECTOR
+be displayed on the items described in the table below.
+MB991502 Operate the MUT-II according to the procedure below to dis-
+play "TURN SIG.LH."
+1. Select "SYSTEM SELECT."
+2. Select "SWS."
+DATA LINK 3. Select "SWS MONITOR."
+CONNECTOR
+4. Select "FUNCTION DIAG."
+AC101571AB 5. Select "TURN SIGNAL."
+6. Select "TURN SIG.LH."
+COLUMN SWITCH
+CONNECTOR ITEM No. ITEM NAME NORMAL
+CONDITIONS
+SWS MONITOR ITEM No.11 T/S LH SW ON
+HARNESS (FOR
+COLUMN-ECU) Q:Do the scan tool display the items "T/S LH SW" is
+COLUMN SWITCH normal condition?
+CONNECTOR AT
+YES : Replace the ETACS-ECU. The ignition key reminder
+HARNESS SIDE
+tone alarm function should work normally.
+AC101421AB
+NO : Refer to Inspection Procedure O-7 "ETACS-ECU
+does not receive any signal from the taillight switch,
+the headlight switch, the passing light switch, the
+dimmer switch, the turn-signal light switch or switch
+P.54B-511."
+TSB Revision

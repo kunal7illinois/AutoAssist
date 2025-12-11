@@ -1,0 +1,27 @@
+CHASSIS - BRAKE CH-97
+5. Function of Main Components
+Component Function
+(cid:3) Lights up to alert the driver when a malfunction occurs in
+the EBD or skid control ECU.
+Brake System
+(cid:3) Lights up to alert the driver when the brake fluid level is low.
+Combination Warning Light (cid:3) Lights up to alert the driver when the parking brake pedal
+Meter
+is depressed.
+Lights up to alert the driver when the skid control ECU detects
+ABS Warning Light
+a malfunction in the ABS or EBD.
+Brake Fluid Level Warning Switch Detects the brake fluid level.
+Speed Sensors Detects the wheel speed of each of 4 wheels.
+Stop Light Switch Detects the brake pedal depressing signals.
+Parking Brake Switch Detects the parking brake pedal depressing signals.
+Charges of fluid path based on the signals from the skid control
+Actuator Portion ECU during the operation of the ABS with EBD, in order to
+control the fluid pressure that is applied to the wheel cylinders.
+Judges the vehicle driving condition based on the signals from
+Brake Actuator Skid Control ECU each sensor, and sends brake control signals to the brake
+actuator.
+Supplies or cuts off power to solenoid valves in the brake
+ABS solenoid relay
+actuator.
+ABS motor relay Supplies or cuts off power to motor in the brake actuator.

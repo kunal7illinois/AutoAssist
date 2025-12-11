@@ -1,0 +1,40 @@
+CC–38
+CRUISE CONTROL – CRUISE CONTROL SYSTEM
+INSPECTION PROCEDURE
+1 CHECK WIRE HARNESS (TERMINAL TC of DLC3 - ECM)
+(a) Disconnect the A55 connector from the ECM. (2GR-FE)
+(b) Disconnect the A24 connector from the ECM. (2AZ-FE)
+DLC3: (c) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+E10
+Tester Connection Condition Specified Condition
+A55-27 (TC) - E10-13
+(cid:19) (cid:20) (cid:21) (cid:22) (cid:23) (cid:24) (cid:25) (cid:26) (TC)*1
+Always Below 1 Ω
+A24-27 (TC) - E10-13
+(cid:27) (cid:19)(cid:18)(cid:19)(cid:19)(cid:19)(cid:20)(cid:19)(cid:21)(cid:19)(cid:22)(cid:19)(cid:23)(cid:19)(cid:24) (TC)*2
+TC
+NG REPAIR OR REPLACE HARNESS OR
+ECM Wire Harness View:
+CONNECTOR (DLC3 - ECM)
+A24 *2
+A55 *1
+TC
+*1: 2GR-FE
+CC *2: 2AZ-FE
+E126838E04
+OK
+2 CHECK WIRE HARNESS (TERMINAL CG of DLC3 - BODY GROUND)
+(a) Measure the resistance according to the value(s) in the
+DLC3: table below.
+E10 Standard resistance
+CG
+Tester connection Condition Specified condition
+E10-4 (CG) - Body
+1 2 3 4 5 6 7 8 Always Below 1 Ω
+ground
+9 10 11 1213 1415 16
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR (DLC3 - BODY GROUND)
+C126742E20

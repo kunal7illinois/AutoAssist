@@ -1,0 +1,13 @@
+BC–73
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+DTC C1249/49 Open in Stop Light Switch Circuit
+DESCRIPTION
+This circuit recognizes brake operation by sending a stop light signal to the skid control ECU.
+The skid control ECU has an open detection circuit, which outputs this DTC when detecting an open in the
+stop light signal input line (STP terminal) or the ground line of the stop light circuit with the stop light switch
+off (brake pedal not depressed).
+DTC No. DTC Detecting Condition Trouble Area
+Stop light switch circuit is open, and stop light switch • Stop light switch
+C1249/49 voltage is 40% or more and less than 67% of the • Stop light switch circuit
+battery voltage. • Brake actuator assembly (Skid Control ECU)
+BC

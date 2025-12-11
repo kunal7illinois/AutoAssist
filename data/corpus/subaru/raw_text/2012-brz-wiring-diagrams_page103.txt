@@ -1,0 +1,113 @@
+L–R R–L
+R
+R–L
+1 1
+1 5
+ETCS
+Relay
+2 3
+1 1
+17 C
+R
+R–L
+1
+W
+2 A
+G–Y
+6C
+(BAT)
+7. 5A
+EFI(+B)
+2
+1
+AC1
+Y–RB
+25 B 14 B
+26 AC1 15
+2 3 2 3
+52C
+RB–Y
+L–Y
+1
+R
+R–L
+1
+62C
+15 B
+13 AC1
+2 3
+V–Y
+R–G
+R
+R–L
+1
+21C
+26 B
+2 AC1
+2 3
+P–Y
+W–G
+34 B
+5 AC1
+B–G
+R–L
+V
+V
+V
+(BAT)
+15A
+ETCS
+2
+1
+V V
+7 C
+A33(A), A34(B), A35(C), A36(D)
+ECM
+L–R L–R
+R R R R R
+W–B W–B
+rosneS
+TVV
+noitisoP
+tfahsmaC(
+)rosneS
+)ediS
+tsuahxE
+2
+knaB(
+rosneS
+TVV
+noitisoP
+tfahsmaC(
+)rosneS
+)ediS
+tsuahxE
+1
+knaB(
+rosneS
+TVV
+noitisoP
+tfahsmaC(
+)rosneS
+)ediS
+ekatnI
+2
+knaB(
+rosneS
+TVV
+noitisoP
+tfahsmaC(
+)rosneS
+)ediS
+ekatnI
+1
+knaB(
+MCR +BM BATT
+EV2+ EV1+ VV2+ VV1+ VCV
+EV2+ VC EV1+ VC VV2+ VC VV1+ VC
+EV2– EV1– VV2– VV1–
+BR–W BR–W
+V
+P
+103
+BRZ (G4400BE)

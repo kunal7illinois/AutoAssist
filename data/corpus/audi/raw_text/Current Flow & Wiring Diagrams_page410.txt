@@ -1,0 +1,49 @@
+Audi TT No. 47 / 10
+Current Flow Diagram
+Onboard supply control unit
+J519 Onboard supply control unit
+T52a 52-pin connector, black, on onboard supply control unit
+T52b 52-pin connector, yellow, on onboard supply control unit
+T52c 52-pin connector, brown, on onboard supply control unit
+42 Earth point, next to steering column
+1177 44 Earth point, lower part of left A-pillar
+0,5
+bl 374 Earth connection 9, in main wiring harness
+B344 5500 375 Earth connection 10, in main wiring harness
+392 Earth connection 27, in main wiring harness
+0,35 0,5
+bl ro/sw
+B344 Connection 1 (61), in main wiring harness
+T
+/3
+5
+2
+2c
+T52b/29
+J519
+• CAN bus (data wire)
+T52a T52b T52c/5 T52a/23 T52c T52c T52c T52c T52c T52c
+/ 3 4 1 2 / 3 5 1 2 31 31 111100 /31 /13 /14 /16 /15 /31
+
+2,5 2,5 2,5 0,5 0,35 0,35 0,35 0,35 0,35 0,35
+br br br br br sw/ws ro/sw or/br or/gn sw/ws
+9988 9911 8899 9966
+375
+7700 336688
+1,0 1,5 1,0 0,5 0,35 0,35 0,5 0,5 0,35 0,5
+br br br br br br br br br br
+392 374 5500 113311 114477 440099 442222 115533 332244
+ws = white
+sw = black
+ro = red
+2,5 2,5 2,5
+br br br br = brown
+gn = green
+bl = blue
+gr = grey
+44 44 42 li = purple
+ge = yellow
+113 114 115 116 117 118 119 120 121 122 123 124 125 126 or = orange
+8J0-047100909
+rs = pink
+Edition 04.2010

@@ -1,0 +1,22 @@
+DL–31
+DOOR LOCK – POWER DOOR LOCK CONTROL SYSTEM
+Rear Door UNLOCK Detection Switch RH Circuit
+DESCRIPTION
+The rear right door unlock detection switch is built into the rear right door lock assembly. The switch turns
+on when the rear right door is locked and turns off when the door is unlocked.
+The main body ECU is connected to the rear right door lock assembly via terminal LSWR (w/ smart key
+system), LSWL (w/o smart key system), and rear right door lock/unlock state signals are input to the ECU.
+The main body ECU applies voltage to the door unlock detection switch via terminal LSWR (w/ smart key
+system), LSWL (w/o smart key system). When the door unlock detection switch is on (there is continuity
+between the switch terminals), a lock state signal is input to the ECU. When the switch is off (there is no
+continuity between the switch terminals), an unlock state signal is input.
+WIRING DIAGRAM
+w/ SMART KEY SYSTEM:
+Main Body ECU
+J5
+Rear Door Lock Assembly RH
+5
+9 E LSSR 6
+E6 LSWR
+B109773E36
+DL

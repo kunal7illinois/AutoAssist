@@ -1,0 +1,12 @@
+ST–116
+2GR-FE STARTING – SMART KEY SYSTEM
+Power Source Mode does not Change to ON (IG and ACC)
+DESCRIPTION
+When the engine switch is pushed with the electrical key in the cabin, the main body ECU receives
+signals to switch the power source mode.
+HINT:
+To allow use of the intelligent tester to inspect the push-button start function when the engine switch is off,
+repeat opening and closing any of the doors. Opening and closing a door establishes communication
+between the intelligent tester and the main body ECU. (Opening and closing a door can also be simulated
+by operating a door courtesy light switch.)
+ST

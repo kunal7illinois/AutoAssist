@@ -1,0 +1,48 @@
+17-78 ENGINE AND EMISSION CONTROL
+AUTO-CRUISE CONTROL
+CHECK AUTO-CRUISE CONTROL-ECU TERMINALS
+M1172002700201
+ACX02234
+TERMINAL CHECK ITEM CHECK CONDITIONS NORMAL
+NO. CONDITION
+1 Throttle position When accelerator pedal is fully depressed 4.0 − 5.5 V
+sensor input When accelerator pedal is released 0.4 − 1.0 V
+2 Power train When accelerator pedal is depressed 4.0 − 5.5 V
+control module
+When accelerator pedal is not depressed 2.5 V or less
+output (Idle
+switch)
+3 A/T control No "OD-OFF" request Battery positive
+output voltage
+"OD-OFF" request 0 V
+4 Stoplight switch When brake pedal is depressed When stoplight Battery positive
+input switch is ON voltage
+When brake pedal is not When stoplight 0 V
+depressed switch is OFF
+5 Pump power Ignition switch: "ON" position 10 V or more
+supply Stoplight switch: OFF
+6 ECU power Ignition switch: "ON" position Battery positive
+supply voltage
+7 Release valve When decelerating with the "SET" switch while driving 1 V or less
+at constant speed
+8 Control valve 10 V or more
+7 Release valve When cancelling constant speed driving with the 10 V or more
+"CANCEL" switch
+8 Control valve Battery positive
+voltage
+9 Auto-cruise When main switch is "ON" Approximately
+control switch 7.0 V
+input When input switch has not been When all switches 3.5 − 5.0 V
+operated are OFF
+When input switch is pushed When "SET" switch 0.4 − 2.3 V
+down is ON
+When input switch is pushed up When "RESUME" 2.3 − 3.5 V
+switch is ON
+When input switch is pulled When "CANCEL" 0.4 V or less
+forward switch is ON
+10 Vehicle speed When vehicle is moved forwards When sensor is ON 0 V
+sensor input and backwards, sensor turns When sensor is OFF 8 − 12 V*
+ON and OFF repeatedly
+11 Diagnosis control When ignition switch is "ON" position 4 V or more
+input
+TSB Revision

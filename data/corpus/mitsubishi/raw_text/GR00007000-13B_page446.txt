@@ -1,0 +1,47 @@
+13B-446 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 18. Using scan tool MB991502, check evaporative
+emission system monitor test.
+CAUTION
+• To prevent damage to scan tool MB991502, always turn
+the ignition switch to the "LOCK" (OFF) position before
+connecting or disconnecting scan tool MB991502.
+• With this monitor, the ECM <M/T> or PCM <A/T> auto-
+matically increases the engine speed to 1,600 r/min or
+more. Check that the transaxle is set to "neutral" <M/T>
+or "P" <A/T> position.
+16 PIN (1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+MB991502 (3) Erase the DTCs using scan tool MB991502.
+AC001252AB
+(4) Check that the fuel cap is securely closed. (Tighten until
+three clicks are heard.)
+(5) Start the engine.
+(6) Select "System Test," and press the "YES" key.
+(7) Select "Evap Leak Mon," and press the "YES" key.
+(8) During the monitor, keep the accelerator pedal at the idling
+position.
+NOTE: If the engine speed does not reach 2,000 r/min dur-
+ing the monitor test, adjustment of the Speed Adjusting
+Screw may be needed. Refer to P.13B-679. And adjust to
+the standard value.
+(9) Keep the engine speed and engine load within the specified
+range. When the monitor test starts, the "In Progress" item
+on the scan tool MB991502 will change from "NO" to "YES."
+(10)Turn the ignition switch to the "LOCK" (OFF) position. Then
+disconnect scan tool MB991502.
+Q:What is displayed on scan tool MB991502?
+"Evap Leak Mon. Completed. Test Passed" : The
+evaporative emission system is working properly at
+this time. Then go to Step 26 .
+"Evap Leak Mon. Completed. Test Failed and DTCs Set"
+: Replace the ECM <M/T> or PCM <A/T>. Then go to
+Step 26.
+"Evap Lead Mon. discontinued. Retest again from the
+first" : The monitor was discontinued for a certain reason
+(vehicle speed input from ECM <M/T> or PCM <A/T>,
+engine speed and engine load deviating from
+specified range). Turn the ignition switch to the
+"LOCK" (OFF) position once, and recheck
+evaporative emission system monitor test.
+TSB Revision

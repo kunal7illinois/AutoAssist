@@ -1,0 +1,45 @@
+Audi TT No. 61 / 10
+Current Flow Diagram
+Accelerator position sender, Throttle valve module, Engine
+control unit
+G79 Accelerator position sender
+G185 Accelerator position sender 2
+G186 Throttle valve drive for electric throttle
+G187 Throttle valve drive angle sender 1 for electric throttle
+G188 Throttle valve drive angle sender 2 for electric throttle
+J338 Throttle valve module
+J623 Engine control unit
+T6b 6-pin connector
+T6o 6-pin connector
+T12m 12-pin connector, in luggage compartment, rear right
+T60 60-pin connector
+T94 94-pin connector
+J623 B486 Connection 22, in main wiring harness
+T94 T94 T94 T94 T94 T94 T60 T60 T60 T60 T60 T60
+/82 /35 /83 /61 /11 /81 /1 /16 /41 /12 /24 /44
+1.0
+bl/sw
+0.35 0.35 0.35 0.35 0.35 0.35 1.0 0.35 0.35 0.35 0.35
+ge/gn ws/gr gn/gr gn/rt ws/rt gr/sw br/sw ge/br bl gn/ws gr/rt
+B486
+0.35 0.35
+ge/gn ge/gn
+T12m
+/10
+T6b T6b T6b T6b T6b T6b
+T6o T6o T6o T6o T6o T6o /3 /5 /1 /2 /4 /6
+/2 /3 /4 /6 /5 /1
+J338
+M ws = white
+sw = black
+G79 G185
+G186 G188 G187 ro = red
+br = brown
+gn = green
+bl = blue
+gr = grey
+li = purple
+ge = yellow
+113 114 115 116 117 118 119 120 121 122 123 124 125 126 or = orange
+8J0-061100410 rs = pink
+04.2010

@@ -1,0 +1,44 @@
+BC–247
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for ADVICS Made)
+1 CHECK CAN COMMUNICATION SYSTEM
+(a) Check if the CAN communication system DTC is output
+(See page CA-25).
+Result
+Condition Proceed to
+DTC is not output A
+DTC is output B
+B INSPECT CAN COMMUNICATION SYSTEM
+A
+2 CHECK VSC WARNING LIGHT
+(a) Connect the intelligent tester to the DLC3. BC
+(b) Start the engine.
+(c) Select "VSC WARN LAMP" in the Active Test and
+operate the VSC warning light (models without multi
+information display) or multi information display (models
+with multi information display) using the intelligent tester.
+ABS / VSC:
+Item (Display) Vehicle Condition / Test Details Diagnostic Note
+Turn VSC warning light (*1) or multi
+VSC WARN LAMP Observe combination meter
+information display (*2) ON / OFF
+(*1): Models without multi information display
+(*2): Models with multi information display
+(d) Check that "ON" and "OFF" of the VSC warning light
+(models without multi information display) or multi
+information display (models with multi information
+display) are indicated on the combination meter when
+using the intelligent tester.
+OK:
+The VSC warning light (models without multi
+information display) or multi information display
+(models with multi information display) turns on or
+off in accordance with the intelligent tester.
+HINT:
+If troubleshooting has been carried out according to the
+Problem Symptoms Table, refer back to the table and
+proceed to the next step before replacing the part (See
+page BC-134).
+OK REPLACE BRAKE ACTUATOR ASSEMBLY
+NG
+3 INSPECT COMBINATION METER ASSEMBLY
+(a) Turn the ignition switch off.

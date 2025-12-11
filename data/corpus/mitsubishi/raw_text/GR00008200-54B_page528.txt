@@ -1,0 +1,26 @@
+54B-528 SIMPLIFIED WIRING SYSTEM (SWS)
+SYMPTOM PROCEDURES
+STEP 7. Check continuity between every two terminals
+other than key reminder switch connector C-88 terminals 4
+and 6.
+(1) Measure at key reminder switch connector C-88 without
+disconnecting the connector.
+(2) No continuity should be present between key reminder
+CONNECTOR: C-88
+switch terminal 4 and each terminal other than terminal 6,
+and between key reminder switch terminal 6 and each
+COLUMN SWITCH
+terminal other than terminal 4.
+Q:Is continuity present between any two terminals?
+YES : Replace the ETACS-ECU. If the functions, which are
+described in "CIRCUIT OPERATION", work normally,
+the input signal from the key reminder switch should
+be normal.
+AC106518AB NO : Replace the key reminder switch. If the functions,
+which are described in "CIRCUIT OPERATION", work
+normally, the input signal from the key reminder
+switch should be normal.
+INSPECTION PROCEDURE P-2: The ETACS-ECU does not Receive Any Signal from the Hazard
+Warning Light Switch.
+Hazard Warning Switch Input Circuit
+TSB Revision

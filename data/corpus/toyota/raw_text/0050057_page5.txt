@@ -1,0 +1,47 @@
+ES–323
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Vehicle speed Below 4 km/h (2.5 mph)
+Ignition switch OFF
+Time after key off 5 or 7 or 9.5 hours
+Canister pressure sensor malfunction (P0450, P0451, P0452 and
+Not detected
+P0453)
+Purge VSV Not operated by scan tool
+Vent valve Not operated by scan tool
+Leak detection pump Not operated by scan tool
+Both of following conditions met before key off Conditions 1 and 2
+1. Duration that vehicle driven 5 minutes or more
+2. EVAP purge operation Performed
+ECT 4.4° to 35°C (40° to 95°F)
+ES
+IAT 4.4°to 35°C (40° to 95°F)
+1. Key-off monitor sequence 1 to 8
+1. Atmospheric pressure measurement
+Next sequence run if following condition set -
+Atmospheric pressure change Less than 0.3 kPa-g (2.25 mmHg-g) in 1 second
+2. First reference pressure measurement
+Next sequence run if all of following conditions set Condition 1, 2 and 3
+1. EVAP pressure just after reference pressure measurement start -1 kPa-g (-7.5 mmHg-g) or less
+2. Reference pressure -4.85 to -1.057 kPa-g (-36.4 to -7.93 mmHg-g)
+3. Reference pressure Saturated within 60 seconds
+3. Vent valve stuck closed check
+Next sequence run if following condition set -
+EVAP pressure change after vent valve ON (closed) 0.3 kPa-g (2.25 mmHg-g) or more
+4. Vacuum introduction
+Next sequence run if following condition set -
+EVAP pressure Saturated within 15 minutes
+5. Purge VSV stuck closed check
+Next sequence run if following condition set -
+EVAP pressure change after purge VSV ON (open) 0.3 kPa-g (2.25 mmHg-g) or more
+6. Second reference pressure measurement
+Next sequence run if all of following conditions set Condition 1, 2, 3 and 4
+1. EVAP pressure just after reference pressure -1 kPa-g (-7.5 mmHg-g) or less
+2. Reference pressure -4.85 to -1.057 kPa-g (-36.4 to -7.93 mmHg-g)
+3. Reference pressure Saturated within 60 seconds
+4. Reference pressure difference between first and second Less than 0.7 kPa-g (5.25 mmHg-g)
+7. Leak check
+Next sequence run if following condition set -
+EVAP pressure when vacuum introduction complete Second reference pressure or less
+8. Atmospheric pressure measurement
+EVAP monitor complete if following condition set -
+Atmospheric pressure difference between sequence 1 and 8 Within 0.3 kPa-g (2.25 mmHg-g)

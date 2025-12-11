@@ -1,0 +1,45 @@
+ES–412
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Components Operations
+Canister Contains activated charcoal to absorb EVAP (Evaporative Emissions) generated in fuel tank.
+Cut-off valve Located in fuel tank. Valve floats and closes when fuel tank 100 % full.
+Opens or closes line between canister and intake manifold. ECM uses purge VSV to control EVAP purge flow. In order
+Purge VSV (Vacuum
+to discharge EVAP absorbed by canister to intake manifold, ECM opens purge VSV. EVAP discharge volume to intake
+Switching Valve)
+manifold controlled by purge VSV duty cycle ratio (current-carrying time) (Open: ON; Closed: OFF).
+Controls EVAP pressure from fuel tank to canister. Valve consists of diaphragm, spring and restrictor (diameter: 0.08
+Refueling valve inch). When fuel vapor and pressure inside fuel tank increase, valve opens. While EVAP purged, valve closes and
+restrictor prevents large amount of vacuum from affecting pressure in fuel tank. Valve opened while refueling.
+Roll-over valve Located in fuel tank. Valve closed by its own weight when vehicle overturns to prevent fuel from spilling out.
+Built into ECM. To ensure accurate EVAP monitor, measures 5 hours (+-15 min) after ignition switch turned off. This
+Soak timer allows fuel to cool down, stabilizing EVAP pressure. When approximately 5 hours elapsed, ECM in activated (refer to
+fig. 3).
+Canister pump
+Consists of (a) to (d) below. Canister pump module cannot be disassembled.
+module
+ES Vents and closes EVAP system. When ECM turns valve ON, EVAP system closed. When ECM turns valve off, EVAP
+(a) Vent valve system vented. Negative pressure (vacuum) created in EVAP system to check for EVAP leaks by closing purge VSV,
+turning on vent valve (closed) and operating leak detection pump (refer to fig. 1).
+(b) Canister pressure Indicates pressure as voltages. ECM supplies regulated 5 V to canister pressure sensor, and uses feedback from
+sensor sensor to monitor EVAP system pressure (refer to fig. 2).
+(c) Leak detection
+Creates negative pressure (vacuum) in EVAP system for leak check.
+pump
+Has opening with 0.02 inch diameter. Vacuum produced through orifice by closing purge VSV, turning off vent valve
+(d) Reference orifice
+and operating leak detection pump, to monitor reference pressure. Reference pressure indicates small leak of EVAP.
+Canister Pump Module (fig. 1): : Airflow
+Condition: Purge Flow Condition: Leak Check
+Vent Valve: OFF
+(vent) To Canister
+Filter
+(Atmosphere)
+Canister
+Reference Orifice
+(0.02 Inch)
+From Refueling
+Valve
+Canister Pressure Leak Detection Vent Valve: ON Leak Detection
+Sensor Pump: OFF (closed) Pump: ON
+A115902E02

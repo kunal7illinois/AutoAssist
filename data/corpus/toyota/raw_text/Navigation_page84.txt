@@ -1,0 +1,38 @@
+NS–84
+NAVIGATION – NAVIGATION SYSTEM
+DTC 58-10 Gyro Error
+DTC 80-10 Gyro Error
+DESCRIPTION
+DTC No. DTC Detection Condition Trouble Area
+Ground short, power supply short, or open circuit in the
+58-10
+gyro signal • Gyro sensor
+Ground short, power supply short, or open circuit in the • Radio and navigation assembly
+80-10
+gyro signal
+INSPECTION PROCEDURE
+HINT:
+After the inspection is completed, clear the DTCs.
+1 CHECK VEHICLE SENSOR (NAVIGATION CHECK MODE)
+(a) Enter the "Navigation Check" mode (Vehicle Sensors)
+(See page NS-27).
+(b) Check the gyro voltage.
+Standard voltage:
+0.1 to 4.5 V
+NG REPLACE RADIO AND NAVIGATION
+ASSEMBLY
+E120088
+OK
+2 CLEAR DTC
+(a) Clear the DTCs (See page NS-46).
+NEXT
+3 RECHECK DTC
+(a) Recheck for DTCs and check if the same trouble occurs
+again.
+HINT:
+If DTCs are detected frequently, replace the radio and
+NS navigation assembly.
+OK:
+Malfunction disappears.
+NG REPLACE RADIO AND NAVIGATION
+ASSEMBLY

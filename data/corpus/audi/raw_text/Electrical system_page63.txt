@@ -1,0 +1,27 @@
+Audi TT 2007 ➤
+Electrical system - Edition 11.2010
+5.3 Connector at data bus diagnostic inter‐
+face -J533-
+Multi-pin connector, 20-pin
+1 - Battery „+“ (terminal 30)
+2 - Battery „+“ (terminal 30)
+3 - Reserved for external diagnosis
+4 - Reserved for K-wire
+5 - CAN bus Low (convenience)
+6 - CAN bus Low (powertrain)
+7 - Reserved for screening
+8 - CAN bus Low (instrument cluster)
+9 - CAN bus Low (diagnosis)
+10 - CAN Bus Low (Infotainment)
+11 - Earth „–“ (terminal 31)
+12 - Earth „–“ (terminal 31)
+13 - Instrument cluster wake-up input
+14 - Terminal 15
+15 - CAN bus High (convenience)
+16 - CAN bus High (powertrain)
+17 - Reserved for screening
+18 - CAN bus High (instrument cluster)
+19 - CAN bus High (diagnosis)
+20 - CAN bus High (Infotainment)
+55
+5. Data bus diagnostic interface

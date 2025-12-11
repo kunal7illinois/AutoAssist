@@ -1,0 +1,63 @@
+BC–314
+BRAKE CONTROL – VEHICLE STABILITY CONTROL SYSTEM (for BOSCH Made)
+DIAGNOSTIC TROUBLE CODE CHART
+• If a trouble code is displayed during the DTC check, check
+the circuit indicated by the DTC. For details of each code,
+refer to the page for the respective "DTC No." in the DTC
+chart.
+• Inspect the fuse and relay before investigating the trouble
+areas as shown in the table below.
+DTC chart of ABS:
+DTC No. Detection Item Trouble Area See page
+C0200/31 Right Front Wheel Speed Sensor 1. Front speed sensor RH BC-316
+Signal Malfunction 2. Front speed sensor circuit RH
+3. Front speed sensor rotor RH
+4. Sensor installation
+5. Brake actuator assembly (skid
+control ECU)
+C0205/32 Left Front Wheel Speed Sensor 1. Front speed sensor LH BC-316
+Signal Malfunction 2. Front speed sensor circuit LH
+3. Front speed sensor rotor LH
+4. Sensor installation
+BC 5. Brake actuator assembly (skid
+control ECU)
+C0210/33 Right Rear Wheel Speed Sensor 1. Rear speed sensor RH BC-324
+Signal Malfunction 2. Rear speed sensor circuit RH
+3. Rear speed sensor rotor RH
+4. Sensor installation
+5. Brake actuator assembly (skid
+control ECU)
+C0215/34 Left Rear Wheel Speed Sensor 1. Rear speed sensor LH BC-324
+Signal Malfunction 2. Rear speed sensor circuit LH
+3. Rear speed sensor rotor LH
+4. Sensor installation
+5. Brake actuator assembly (skid
+control ECU)
+C0226/21 SFR Solenoid Circuit 1. Each solenoid circuit BC-333
+2. Brake actuator assembly
+C0236/22 SFL Solenoid Circuit 1. Each solenoid circuit BC-333
+2. Brake actuator assembly
+C0246/23 SRR Solenoid Circuit 1. Each solenoid circuit BC-333
+2. Brake actuator assembly
+C0256/24 SRL Solenoid Circuit 1. Each solenoid circuit BC-333
+2. Brake actuator assembly
+C0273/13 Open or Short Circuit in ABS 1. ABS No. 1 fuse (Fusible link) BC-335
+Motor Relay Circuit 2. Brake actuator assembly (skid
+control ECU)
+3. Motor relay circuit
+C0278/11 Open or Short Circuit in ABS 1. ABS No. 2 fuse (Fusible link) BC-339
+Solenoid Relay Circuit 2. Brake actuator assembly (skid
+control ECU)
+3. Solenoid relay circuit
+C1225/25 SMC Solenoid Circuit 1. Brake actuator assembly (skid BC-348
+control ECU)
+2. SMC1 solenoid circuit
+C1226/26 SMC Solenoid Circuit 1. Brake actuator assembly (skid BC-348
+control ECU)
+2. SMC2 circuit
+C1227/27 SRC Solenoid Circuit 1. Brake actuator assembly (skid BC-348
+control ECU)
+2. SRC1 circuit
+C1228/28 SRC Solenoid Circuit 1. Brake actuator assembly (skid BC-348
+control ECU)
+2. SRC2 circuit

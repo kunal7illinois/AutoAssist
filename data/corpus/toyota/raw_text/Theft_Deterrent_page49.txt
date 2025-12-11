@@ -1,0 +1,33 @@
+TD–47
+THEFT DETERRENT – THEFT DETERRENT SYSTEM (w/o Smart Key System)
+• Detecting that the doors are unlocked does not set off
+the alarm during passive arming mode.
+• A forced door lock signal is not output during passive
+arming mode (see FORCED DOOR LOCK
+CONTROL).
+• Although the theft deterrent system detects that the
+doors are opened during passive arming mode, the
+alarm will not go off immediately because an entry
+delay time is set.
+• If the condition (1) of active arming mode is met
+during passive arming mode, the theft deterrent
+system will switch to active arming mode.
+(a) Passive arming mode:
+This system activates as described in the diagram
+below when one of items for each condition is met.
+Disarmed State
+Condition (1)
+Disarmed State 1 *1 Disarmed State 2 *2
+Condition (3)
+Condition (3)
+Condition (2)
+TD
+Arming Preparation State
+Condition (5)
+Condition (4)
+Condition (7) Condition (8)
+Armed State
+Condition (9) Condition (6)
+Condition (7) Condition (8)
+Alarm Sounding State
+B112143E02

@@ -1,0 +1,20 @@
+13B-434 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+TROUBLESHOOTING HINTS OVERVIEW OF TROUBLESHOOTING
+The most likely causes for this code to be set are: • To determine the cause of DTC P0455, a perfor-
+• Loose fuel cap. mance test is needed. The performance test uses
+• Fuel cap relief pressure is incorrect. a mechanical vacuum gauge and scan tool
+• Fuel overflow limiter valve failed. MB991502 set on the fuel tank differential pres-
+• Purge line or vapor line is clogged. sure sensor (TANK PRES SNER 73.) The
+• Fuel tank, purge line or vapor line seal failed. mechanical gauge reading is used to verify scan
+• Evaporative emission purge solenoid failed. tool MB991502 reading. A comparison of the
+• Evaporative emission ventilation solenoid failed. mechanical gauge reading to scan tool
+• Fuel tank differential pressure sensor failed. MB991502 reading determines the reading prob-
+• Evaporative emission canister seal is faulty. lem in the system.
+• Evaporative emission canister is clogged. • Prior to doing the performance test, several sim-
+ple inspections are needed to exclude some pos-
+. sibilities of the symptom.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+TSB Revision

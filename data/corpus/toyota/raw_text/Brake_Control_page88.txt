@@ -1,0 +1,39 @@
+BC–88
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+WIRING DIAGRAM
+Brake Actuator Assembly
+Main Body ECU (Skid Control ECU)
+5
+CANH E8
+6
+CANL E8
+Combination Meter
+17 26
+F1 A25 CANH
+CANH
+BC
+18 15
+MICRO
+F1 A25 CANL
+COMPUTER
+CANL
+BRAKE
+DRIVER IC IG+
+6
+F2
+B/LE
+A16
+Brake Fluid Level Warning SW
+1 2
+E33 (*1)
+A18 (*2)
+4
+Parking Brake SW
+A25 GND1
+2 14
+PKB IM IC 1
+1
+(*1) (*2) A25 GND2
+(*1): M/T
+(*2): A/T
+C136504E01

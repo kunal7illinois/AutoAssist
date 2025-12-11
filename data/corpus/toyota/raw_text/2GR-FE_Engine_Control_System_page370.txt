@@ -1,0 +1,30 @@
+ES–370
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+17 PERFORM CONFIRMATION DRIVING PATTERN
+NEXT
+18 CHECK WHETHER DTC OUTPUT RECURS (DTC P2195, P2196, P2197 OR P2198)
+(a) Read the DTCs using the intelligent tester.
+(b) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DTC INFO / PENDING CODES.
+Result
+Display (DTC Output) Proceed to
+ES No output A
+P2195, P2196, P2197 or P2198 B
+B REPAIR OR REPLACE ECM
+A
+19 CONFIRM IF VEHICLE HAS RUN OUT OF FUEL IN PAST
+(a) Has the vehicle run out of fuel in the past?
+NO CHECK FOR INTERMITTENT PROBLEMS
+YES
+DTC CAUSED BY RUNNING OUT OF FUEL
+20 REPLACE AIR FUEL RATIO SENSOR
+(a) Replace the air fuel ratio sensor (See page EC-19).
+NEXT
+21 PERFORM CONFIRMATION DRIVING PATTERN
+NEXT
+22 CHECK WHETHER DTC OUTPUT RECURS (DTC P2195, P2196, P2197 OR P2198)
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG) and turn the tester on.
+(c) Read the DTCs using the intelligent tester.
+(d) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DTC INFO / PENDING CODES.

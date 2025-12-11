@@ -1,0 +1,45 @@
+EI–90
+ENGINE IMMOBILISER – ENGINE IMMOBILISER SYSTEM (w/o Smart Key System)
+OK END
+NG
+2 CHECK HARNESS AND CONNECTOR (TRANSPONDER KEY ECU - ECM)
+(a) Disconnect the E15 ECU and A24*1 or A55*2 ECM
+connectors.
+Wire Harness Side Connector Front View: Wire Harness Side Connector Rear View:
+A24*1
+E15
+A55*2
+Transponder Key ECU Assembly
+ECM
+*1: for 2AZ-FE
+IMO IMI
+*2: for 2GR-FE
+EFIO EFII
+B139202E01
+(b) Measure the resistance according to the value(s) in the
+table below.
+Standard resistance
+Tester Connection Condition Specified Condition
+E15-12 (EFII) - A24*1,
+A55*2-10 (IMO)
+Below 1 Ω
+E15-13 (EFIO) - A24*1,
+A55*2-11 (IMI)
+Always
+EI
+E15-12 (EFII) - Body
+ground
+10 kΩ or higher
+E15-13 (EFIO) - Body
+ground
+*1: for 2AZ-FE
+*2: for 2GR-FE
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+3 REPLACE TRANSPONDER KEY ECU ASSEMBLY
+(a) After replacing the transponder key ECU assembly with
+a normally functioning transponder key ECU assembly,
+check that the engine starts.
+OK:
+The engine starts.

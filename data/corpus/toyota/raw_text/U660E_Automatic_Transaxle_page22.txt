@@ -1,0 +1,44 @@
+AX–22
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+REGISTRATION
+NOTICE:
+• When the automatic transaxle is replaced, the
+transaxle's compensation code must be input into the
+TCM (Proceed to step 1).
+AX • When the TCM is replaced, the existing transaxle
+compensation codes must be input into the new TCM
+(Proceed to step 2).
+1. INPUT COMPENSATION CODE
+NOTICE:
+Transaxle compensation codes are unique, 60-digit
+alphanumeric values printed on the QR label. If an
+incorrect transaxle compensation code is input into
+the TCM, shift shock may occur.
+(a) Record the transmission compensation code
+specified on the QR label.
+QR Code Label HINT:
+The transaxle compensation code is imprinted on
+the QR label.
+(cid:20)(cid:35)(cid:18)(cid:23)(cid:45)
+(cid:12)(cid:12)(cid:12)(cid:12)(cid:12) (b) Shift the shift lever to N or P position.
+(cid:15)(cid:12)(cid:12)(cid:12)(cid:12)(cid:12)
+(cid:18)(cid:18)(cid:18)(cid:18)(cid:18) (cid:18)(cid:18)(cid:18)(cid:18)(cid:18) (cid:18)(cid:18)(cid:18)(cid:18)(cid:18) Transmission (c) Connect the intelligent tester to the DLC3.
+(cid:18)(cid:18)(cid:18)(cid:18)(cid:18) (cid:18)(cid:18)(cid:18)(cid:18)(cid:18) (cid:18)(cid:18)(cid:18)(cid:18)(cid:18) Compensa- (d) Turn the ignition switch on (IG).
+(cid:18)(cid:18)(cid:18)(cid:18)(cid:18) (cid:18)(cid:18)(cid:18)(cid:18)(cid:18) (cid:18)(cid:18)(cid:18)(cid:18)(cid:18)
+(cid:18)(cid:18)(cid:18)(cid:18)(cid:18) (cid:18)(cid:18)(cid:18)(cid:18)(cid:18) (cid:18)(cid:18)(cid:18)(cid:18)(cid:18) tion Code (e) Turn the tester on.
+NOTICE:
+Do not start the engine.
+QR Code Label
+C133268E01
+(f) Enter the menu items in this order: DIAGNOSIS /
+M-OBD / OBD(cid:932)MENU OBD/MOBD / ECT / AT CODE UTILITY.
+[Name of system]
+(g) Press "ENTER".
+1 : DATA LIST
+1 : DTC INFO
+3 : ACTIVE TEST
+4 : SNAPSHOT
+6 : RESET MEMORY
+8 : CHECK MODE
+9 : AT CODE UTILITY
+C133193

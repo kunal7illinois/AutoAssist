@@ -1,0 +1,54 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-227
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 11. Check the following items.
+(1) Check the following items, and repair or replace the
+defective component.
+a. Check for skipped timing belt teeth.
+b. Check compression.
+c. EGR valve failed.
+Q:Are there any abnormalities?
+YES : Go to Step 12.
+NO : Repair or replace it. Then go to Step 13.
+STEP 12. Replace the injector.
+(1) Replace the injector.
+CONNECTOR : B-01, B-02, B-05, B-06
+(2) Carry out a test drive with the drive cycle pattern. Refer to,
+B-01 B-02 B-05B-06 Procedure 6 − Other Monitor P.13A-5.
+(3) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0300 is output?
+YES : Replace the ECM or PCM. Then go to Step 13.
+NO : The inspection is complete.
+AAKK000000227733AB
+STEP 13. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to,
+Procedure 6 − Other Monitor P.13A-5.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0300 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+DTC P0301: Cylinder 1 Misfire Detected, DTC P0302: Cylinder 2 Misfire Detected, DTC P0303: Cylinder
+3 Misfire Detected, DTC P0304: Cylinder 4 Misfire Detected
+. DTC SET CONDITIONS
+Misfire Detected Circuit
+• Refer to, DTC P0201 − P0204 Injector Circuit Check Conditions
+Malfunction P.13A-216. • Engine speed is between 500 and 6,000 r/min.
+• Engine coolant temperature is higher than −10°C
+.
+CIRCUIT OPERATION
+(14°F).
+• Refer to, DTC P0201 − P0204 Injector Circuit • Intake air temperature is higher than −10°C
+Malfunction P.13A-216.
+(14°F).
+• Barometric pressure is higher than 76 kPa (11
+. psi) .
+TECHNICAL DESCRIPTION
+• If a misfire occurs while the engine is running, the • Volumetric efficiency is at between 30 and 55
+percent.
+engine speed changes for an instant.
+• The ECM <M/T> or PCM <A/T> checks for such • Adaptive learning is complete for the vane which
+generates a crankshaft position signal.
+changes in engine speed.
+• While the engine is running, excluding gear shift-
+. ing, deceleration, sudden acceleration/decelera-
+tion and A/C compressor switching.
+TSB Revision

@@ -1,0 +1,49 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+page 177
+⇒ “3.5.34 Secondary Air Injection Solenoid Valve, Checking”,
+page 179
+⇒ “3.5.35 Secondary Air Injection Sensor 1, Checking”,
+page 180
+⇒ “3.5.36 Camshaft Position Sensor, Checking”, page 182
+⇒ “3.5.37 Camshaft Position Sensor 3, Checking”, page 184
+⇒ “3.5.38 Camshaft Adjustment Valve, Checking”, page 186
+⇒ “3.5.39 Camshaft Adjustment Valve 1, Exhaust”, page 188
+⇒ “3.5.40 Knock Sensor, Checking”, page 190
+⇒ “3.5.41 Ignition Coil with Power Output Stage, Checking”, page
+192
+⇒ “3.5.42 Speed Signal, Checking”, page 194
+⇒ “3.5.43 CAN Bus Terminal Resistance, Checking”, page 195
+⇒ “3.5.44 CAN-Bus Terminal Resistance, Transmission Control
+Module to Engine Control Module, Checking”, page 197
+3.5.1 Fuel Pump Voltage Supply, Checking
+Special tools and workshop equipment required
+♦ Multimeter.
+♦ Electrical connector test lead set.
+Test conditions
+• Battery voltage 12.5 V.
+• Fuse 47 in Fuse Panel C is OK.
+• Fuel filter OK.
+• Ignition switched OFF.
+Test procedure
+– Perform a preliminary check to verify the customers complaint.
+Refer to ⇒ “3.1 Preliminary Check”, page 8
+Start diagnosis
+– Remove rear seat bench. Refer to the Repair Manual .
+Test procedure for Fuel Delivery Unit
+– Remove the floor sealing cover to access the Fuel Delivery
+Unit (fuel pump).
+– Disconnect the harness connector from the Fuel Delivery Unit.
+– Connect the multimeter positive lead to terminal 1 of the Fuel
+Delivery Unit harness connector.
+– Connect the multimeter ground to the Battery Negative termi‐
+nal.
+–
+– Crank the engine and note voltage displayed on multimeter
+during crank. Voltage should be within 2.5 volts of battery volt‐
+age.
+Turn the ignition switch OFF.
+If voltage is below specification:
+– Check voltage supply from the Fuel Pump relay (J17).
+112
+Rep. Gr.ST - Generic Scan Tool

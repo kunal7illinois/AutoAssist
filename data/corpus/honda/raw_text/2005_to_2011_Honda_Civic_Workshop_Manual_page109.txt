@@ -1,0 +1,24 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 RESTRAINTS SRS (Supplemental Restraint System) - Civic (Except Hybrid)
+6. From the HDS Main Menu, select SRS, then weight sensor, then Misc Test,
+then Inspection. In the HDS Inspection Menu, select "SEAT OUTPUT CHK"
+and follow the prompts until the ODS unit operation check has been
+completed.
+DRIVER'S SEAT POSITION SENSOR OPERATION CHECK
+Check the driver's seat position after any of these actions.
+Driver's seat position sensor replacement
+(cid:1)
+Cover plate (front side of driver's seat slide rail) replacement
+(cid:1)
+1. Make sure the ignition switch is OFF (0).
+2. Connect the HDS to the data link connector (DLC) (A).
+Fig. 40: Identifying Data Link Connector (DLC)
+Courtesy of AMERICAN HONDA MOTOR CO., INC.
+3. Turn the ignition switch ON (II).
+4. Make sure the HDS communicates with the vehicle and the SRS unit. If it does
+not communicate, troubleshoot the DLC circuit (see DLC CIRCUIT
+TROUBLESHOOTING ).
+5. From the HDS Main Menu, select SRS, then Parameter Information Buckle
+Switch, Seat Position Sensor, then driver's seat position sensor.
+6. Move the seat all the way forward.

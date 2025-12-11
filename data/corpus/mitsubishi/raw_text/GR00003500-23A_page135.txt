@@ -1,0 +1,34 @@
+AUTOMATIC TRANSAXLE 23A-135
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 8. Check connector C-61 <2.4L Engine> or C-63
+<3.0L Engine> at PCM for damage.
+Q:Is the connector in good condition?
+CONNECTOR: C-61 <2.4L ENGINE> OR
+C-63 <3.0L ENGINE> YES : Go to Step 9.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+PCM Connector Inspection P.00E-2.
+C-61 <2.4L ENGINE> OR C-63 <3.0L ENGINE>
+AC001657BC
+STEP 9. Using scan tool MB991502, check data list item 26:
+Stoplight Switch.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to data reading mode for item 26:
+Stoplight Switch.
+• When the brake pedal is depressed, the display should
+be "ON."
+• When the brake pedal is not depressed, the display
+should be "OFF."
+16 PIN
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+MB991502 AC001252AB Q:Is the switch operating properly?
+YES : This malfunction may be intermittent. Refer to
+GROUP 00, How to Use Troubleshooting/Inspection
+Service Points − How to Cope with Intermittent
+Malfunction P.00-6.
+NO : Replace the PCM.
+TSB Revision

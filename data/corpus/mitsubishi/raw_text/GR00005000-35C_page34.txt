@@ -1,0 +1,35 @@
+35C-34 TRACTION CONTROL SYSTEM (TCL)
+TRACTION CONTROL SYSTEM (TCL) DIAGNOSIS
+INSPECTION PROCEDURE 6: The TCL System does not Operate.
+. .
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINTS (The most likely
+The cause depends on driving and road surface con- cause for this case:)
+ditions, so diagnosis may be difficult. However, if no Malfunction of the hydraulic unit
+diagnostic trouble code is displayed, carry out the fol-
+lowing inspection.
+.
+DIAGNOSIS
+Check the hydraulic unit (Refer to P.35C-38.). If the hydraulic
+unit (integrated with ABS-ECU) is malfunctioning, replace it.
+Then check that the malfunction symptom is eliminated.
+DATA LIST REFERENCE TABLE
+M1354003000087
+The following items can be read by the scan tool
+from the ABS-ECU input data.
+MUT-II SCAN ITEM CHECK ITEM CHECKING NORMAL VALUE
+TOOL NO. REQUIREMENTS
+DISPLAY
+BATT. 16 ABS-ECU power supply voltage Ignition switch power supply 9 − 16 V
+VOLTAGE voltage and valve monitor
+voltage
+FL SNSR 12 Front-left wheel speed sensor Drive the vehicle Vehicle speeds
+displayed on the
+FR SNSR 11 Front-right wheel speed sensor
+speedometer and
+RL SNSR 14 Rear-left wheel speed sensor
+scan tool are
+RR SNSR 13 Rear-right wheel speed sensor identical.
+STOPLIGHT 36 Stoplight switch Depress the brake pedal. ON
+SW
+Release the brake pedal. OFF
+TSB Revision

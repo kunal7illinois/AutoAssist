@@ -1,0 +1,32 @@
+CHASSIS - U660E AUTOMATIC TRANSAXLE CH-75
+13. Diagnosis
+(cid:3) When the ECT ECU detects a malfunction, the ECT ECU makes a diagnosis and memorizes the
+information related to the fault. Furthermore, the MIL (Malfunction Indicator Lamp) in the combination
+meter illuminates or blinks to inform the driver of the malfunction.
+(cid:3) At the same time, the DTC (Diagnosis Trouble Code) are stored in the memory. The DTC stored in the
+ECT ECU are output to a hand-held tester connected to the DLC3 via the ECM.
+(cid:3) For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).
+Service Tip
+The ECM uses the CAN protocol for diagnostic communication. Therefore, a hand-held tester and
+a dedicated adapter [CAN VIM (Vehicle Interface Module)] are required for accessing diagnostic
+data. For details, see the 2007 Camry Repair Manual (Pub. No. RM0250U).
+14. Fail-safe
+This function minimizes the loss of operation when any abnormality occurs in a sensor or solenoid.
+(cid:1) Fail-safe Control List (cid:2)
+Malfunction Part Function
+Input Turbine Speed Sensor Shifting to only either the 1st or 3rd gears is allowed.
+(cid:3) The counter gear speed is detected through the signals from the skid
+Counter Gear Speed Sensor control ECU (speed sensor signals).
+(cid:3) Shifting between the 1st to 4th gears is allowed.
+ATF Temp. Sensor Shifting between the 1st to 4th gears is allowed.
+When the vehicle is being driven in 6th gear, the transaxle is fixed in
+ECT ECU Power Supply
+6th gear. When being driven in any of the 1st to 5th gears, the transaxle
+(Voltage is Low)
+is fixed in 5th gear.
+CAN Communication Shifting to only either the 1st or 3rd gears is allowed.
+Knock Sensor Shifting between the 1st to 4th gears is allowed.
+The current to the failed solenoid valve is cut off and operating the other
+Solenoid Valve SL1, SL2, solenoid valves with normal operation performs shift control. (Shift
+SL3 and SL4 controls in fail-safe mode are described in the table on the next page.
+For details, refer to Fail-Safe Control List)

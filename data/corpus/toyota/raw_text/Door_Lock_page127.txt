@@ -1,0 +1,43 @@
+DL–121
+DOOR LOCK – WIRELESS DOOR LOCK CONTROL SYSTEM (w/o Smart Key System)
+INSPECTION PROCEDURE
+1 INSPECT WIRELESS DOOR LOCK BUZZER
+(a) Disconnect the A48 wireless door lock buzzer connector.
+Wireless Door Lock Buzzer:
+(b) Measure the resistance according to the value(s) in the
+table below.
+HINT:
+A48 The buzzer activation circuit is built into the ECU, not into
+the buzzer itself. When battery voltage is applied directly
+2 1
+to the buzzer, the buzzer will not sound.
+Standard resistance
+Tester Connection Condition Specified Condition
+A48-1 - A48-2 Always Approx. 1 kΩ
+NG REPLACE WIRELESS DOOR LOCK BUZZER
+B144393E01
+OK
+2 CHECK HARNESS AND CONNECTOR (MAIN BODY ECU - WIRELESS DOOR LOCK
+BUZZER - BODY GROUND)
+(a) Disconnect the E9 main body ECU connector.
+Connector Wire Harness View: (b) Measure the resistance according to the value(s) in the
+table below.
+Main Body ECU
+Standard resistance
+Symbol
+Condition Specified Condition
+(Tester Connection)
+BZR
+BZR (E9-7) - A48-1 Always Below 1 Ω
+BZR (E9-7) - Body ground Always 10 kΩ or higher
+E9
+A48-1 - Body ground Always 10 kΩ or higher
+Wire Harness Side A48-2 - Body ground Always Below 1 Ω
+Connector Front View:
+NG REPAIR OR REPLACE HARNESS OR
+Wireless Door Lock Buzzer CONNECTOR
+DL
+A48
+B113633E03
+OK
+PROCEED TO NEXT CIRCUIT INSPECTION SHOWN IN PROBLEM SYMPTOMS TABLE

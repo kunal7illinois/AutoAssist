@@ -1,0 +1,38 @@
+SIMPLIFIED WIRING SYSTEM (SWS) 54B-385
+SYMPTOM PROCEDURES
+Q:Are the wiring harnesses among fog light relay
+CONNECTOR: C-06
+connector A-04X (terminal 4), fog light connectors A-28
+HARNESS SIDE
+(terminal 1), A-31 (terminal 1) and combination meter
+1 2 3 4 5 6 7 8
+9101112131415161718 connector C-43 (terminal 13) in good condition?
+YES : Go to Step 11.
+NO : Repair the wiring harness. Check that the fog lights
+illuminate normally.
+AC106473AF
+CONNECTOR: C-89
+CONNECTOR BLOCK (LH)
+1 2 3 4 5 6 7 8 910 111213
+141516171819202122232425
+262728 29 30 31 38
+3233 34 35 36 37
+AC106477AC
+STEP 11. Replacement of ECU
+(1) Replace the front-ECU.
+(2) The fog lights should illuminate normally.
+Q:Do the fog lights illuminate normally?
+YES : There is no action to be taken.
+NO : Replace the ETACS-ECU. The fog light should
+illuminate normally.
+INSPECTION PROCEDURE L-2: Fog Light: Fog Lights do not Go Out when the Headlights (Low-beam)
+are Turned Off while the Fog lights are On.
+. .
+TECHNICAL DESCRIPTION (COMMENT) TROUBLESHOOTING HINT
+If the trouble above occurs, the front-ECU may be Malfunction of the front-ECU
+defective.
+DIAGNOSIS
+Replace the front-ECU.
+The fog lights should go out when the headlights (low-beam)
+are turned off while the fog lights are on.
+TSB Revision

@@ -1,0 +1,61 @@
+ES–76
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. Detection Item Suspected Trouble MIL Memory See page
+Area
+P0158 Oxygen Sensor 1. Short in HO2 Comes on DTC stored ES-171
+Circuit High Voltage sensor (bank 2
+(Bank 2 Sensor 2) sensor 2) circuit
+2. HO2 sensor (bank
+2 sensor 2)
+3. ECM internal
+circuit malfunction
+P0161 Oxygen Sensor 1. HO2 sensor Comes on DTC stored ES-115
+Heater Circuit 2. ECM
+Malfunction (Bank 2
+Sensor 2)
+P0171 System Too Lean 1. Air induction Comes on DTC stored ES-191
+(Bank 1) system
+2. Injector blockage
+3. MAF meter
+ES 4. ECT sensor
+5. Fuel pressure
+6. Gas leakage from
+exhaust system
+7. Open or short in A/
+F sensor (bank 1
+sensor 1) circuit
+8. A/F sensor (bank 1
+sensor 1)
+9. A/F sensor heater
+(bank 1 sensor 1)
+10. A/F sensor heater
+relay
+11. A/F sensor heater
+and A/F sensor
+heater relay circuits
+12. PCV hose
+connections
+13. PCV valve and
+hose
+14. ECM
+P0172 System Too Rich 1. Injector leakage or Comes on DTC stored ES-191
+(Bank 1) blockage
+2. MAF meter
+3. ECT sensor
+4. Ignition system
+5. Fuel pressure
+6. Gas leakage from
+exhaust system
+7. Open or short in A/
+F sensor (bank 1
+sensor 1) circuit
+8. A/F sensor (bank 1
+sensor 1)
+9. A/F sensor heater
+(bank 1 sensor 1)
+10. A/F sensor heater
+relay
+11. A/F sensor heater
+and A/F sensor
+heater relay circuits
+12. ECM

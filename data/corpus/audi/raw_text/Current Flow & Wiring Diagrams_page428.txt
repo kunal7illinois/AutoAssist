@@ -1,0 +1,51 @@
+Audi TT No. 47 / 28
+Current Flow Diagram
+Control unit in dash panel insert, data bus diagnostic
+interface
+J285 Control unit in dash panel insert
+J533 Data bus diagnostic interface
+T20d 20-pin connector, black, on data bus diagnostic interface
+T32 32-pin connector, blue, on control unit in dash panel insert
+Y24 Display in dash panel insert
+377 Earth connection 12, in main wiring harness
+B321 Positive connection 7 (30a), in main wiring harness
+• CAN bus (data wire)
+* Wake Up wire (exciter wire)
+Y24 J285
+T32/1 T32/2 T32/18 T32/3 T32/4 T32/19 T32/5 T32/29 T32/30
+30 30 30 31 31 31
+✱ • •
+0,35 0,35 0,35
+bl/ge or/bl or/br
+339944 339966 5555 4411
+0,35 0,35 0,35 0,5 0,5 0,5 0,5 0,5 0,5 0,5
+ro/gr ro/gr ro/gr br br br br br ro/ge sw/bl
+15
+30 T20d T20d T20d
+T20d/1 /14 /13 /18 T20d/8
+B321 377
+T
+31
+20d/11 J533 w
+sw
+s =
+=
+w
+bl
+h
+a
+i
+c
+te
+k
+ro = red
+0,5 1,5 0,5 0,5 br = brown
+ro/gr br br br gn = green
+bl = blue
+5544 111188 5544 gr = grey
+li = purple
+ge = yellow
+365 366 367 368 369 370 371 372 373 374 375 376 377 378 or = orange
+8J0-047280409
+rs = pink
+Edition 04.2010

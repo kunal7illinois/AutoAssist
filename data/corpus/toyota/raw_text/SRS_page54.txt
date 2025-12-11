@@ -1,0 +1,29 @@
+RS–54
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+Front Satellite Sensor Bus RH Initialization
+DTC B1603/83
+Incomplete
+Lost Communication with Front Airbag Sensor
+DTC B1612/83
+RH
+Front Airbag Sensor RH Initialization Incom-
+DTC B1613/83
+plete
+DESCRIPTION
+The front airbag sensor RH circuit consists of the center airbag sensor assembly and front airbag sensor
+RH.
+The front airbag sensor RH detect impacts to the vehicle and send signals to the center airbag sensor
+assembly to determine if the airbag should be deployed.
+DTC B1603/83, B1612/83, or B1613/83 is recorded when a malfunction is detected in the front airbag
+sensor RH circuit.
+DTC No. DTC Detecting Condition Trouble Area
+• The airbag sensor assembly center receives a line
+short circuit signal, an open circuit signal, a short • Instrument panel wire
+B1603/83
+circuit to ground signal or a short circuit to B+ signal • Engine room main wire
+B1612/83
+in the front airbag sensor RH circuit for 2 seconds. • Front airbag sensor RH
+B1613/83
+• Front airbag sensor RH malfunction • Center airbag sensor assembly
+• Center airbag sensor assembly malfunction
+RS

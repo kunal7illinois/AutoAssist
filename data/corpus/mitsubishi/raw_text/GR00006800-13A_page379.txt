@@ -1,0 +1,34 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-379
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 2. Check for short circuit to ground between fuel
+gauge unit connector D-17 terminal 2 and ECM connector
+C-60 terminal 74 <M/T> or PCM connector C-54 terminal 60
+<A/T>.
+NOTE: Check harness after checking intermediate connectors
+CONNECTOR:D-17
+C-90, and C-28. If intermediate connectors are damaged,
+repair or replace them. Refer to GROUP 00E, Harness Con-
+nector Inspection P.00E-2. Then go to Step 6.
+Q:Is the harness wire in good condition?
+YES : Refer to GROUP 54A, Combination Meter P.54A-103.
+NO : Repair it. Then go to Step 6.
+AK000734AC
+CONNECTORS:C-60<M/T>,C-54<A/T>
+ECM<M/T>
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+STEP 3. Check connector C-60 at ECM <M/T> or connector
+C-54 at PCM <A/T> for damage.
+Q:Is the connector in good condition?
+CONNECTORS:C-60<M/T>,C-54<A/T>
+YES : Go to Step 4.
+NO : Repair or replace it. Refer to GROUP 00E, Harness
+ECM<M/T>
+Connector Inspection P.00E-2. Then go to Step 6.
+OR
+PCM<A/T>
+C-54 C-60
+AK000280BB
+TSB Revision

@@ -1,0 +1,68 @@
+ES–316
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(d) On the tester, select the following menu items: DIAGNOSIS / ENHANCED OBD II / ACTIVE TEST / A/
+F CONTROL.
+(e) Perform the A/F CONTROL operation with the engine idling (press the RIGHT or LEFT button to
+change the fuel injection volume).
+(f) Monitor the output voltages of the A/F and HO2 sensors (AFS B1 S1 and O2S B1 S2) displayed on the
+tester.
+HINT:
+• The A/F CONTROL operation lowers the fuel injection volume by 12.5 % or increases the injection
+volume by 25 %.
+• The sensors react in accordance with increases and decreases in the fuel injection volume.
+Standard
+Tester Display
+Injection Volume Status Voltages
+(Sensor)
+ES
+AFS B1 S1 +25 % Rich Less than 3.0
+(A/F) -12.5 % Lean More than 3.35
+O2S B1 S2 +25 % Rich More than 0.5
+(HO2) -12.5 % Lean Less than 0.4
+NOTICE:
+The A/F sensor has an output delay of a few seconds and the HO2 sensor has a maximum output
+delay of approximately 20 seconds.
+A/F Sensor (Sensor 1) HO2 Sensor (Sensor 2) Main Suspected
+Case
+Output Voltage Output Voltage Trouble Areas
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 %
+1 -
+Output Voltage Output Voltage
+More than 3.35 V More than 0.5 V
+Less than 3.0 V Less than 0.4 V
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 %
+• A/F sensor
+2 • A/F sensor heater
+Output Voltage Output Voltage • A/F sensor circuit
+Almost More than 0.5 V
+no reaction Less than 0.4 V
+Injection Volume Injection Volume
++25 % +25 %
+-12.5 % -12.5 %
+• HO2 sensor
+3 • HO2 sensor heater
+Output Voltage Output Voltage • HO2 sensor circuit
+More than 3.35 V Almost
+Less than 3.0 V no reaction
+Injection volume Injection Volume
+• Injector
++25 % +25 %
+• Fuel pressure
+-12.5 % -12.5 %
+• Gas leakage from
+4 exhaust system
+Output Voltage Output Voltage
+(Air-fuel ratio
+Almost Almost
+extremely lean or
+no reaction no reaction
+rich)
+Following the A/F CONTROL procedure enables technicians to check and graph the output voltages of
+both the A/F and HO2 sensors.
+To display the graph, select the following menu items on the tester: DIAGNOSIS / ENHANCED OBD II /
+ACTIVE TEST / A/F CONTROL / USER DATA / AFS B1 S1 and O2S B1 S2; then press the YES button
+and then the ENTER button followed by the F4 button.

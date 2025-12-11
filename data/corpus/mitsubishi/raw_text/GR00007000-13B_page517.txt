@@ -1,0 +1,22 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-517
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 12. Using scan tool MB991502, check actuator test
+item 11: Variable Induction control Solenoid.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the actuator test mode for item
+11, Variable induction control solenoid.
+16 PIN • An operation sound should be heard and vibration
+should be felt when the variable induction control sole-
+MB991502
+noid is operated.
+AKX01177AB
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the solenoid operating properly?
+YES : The inspection is complete.
+NO : Retry the troubleshooting.
+TSB Revision

@@ -1,0 +1,31 @@
+RS–43
+SUPPLEMENTAL RESTRAINT SYSTEM – AIRBAG SYSTEM
+2. DTC CLEAR (USING SST CHECK WIRE)
+(a) Clear the DTCs.
+(1) When the ignition switch is turned off, the DTCs
+are cleared.
+HINT:
+Depending on the DTC, the code may not be
+cleared by turning off the ignition switch. In this
+case, proceed to the next procedure.
+(2) Using SST, connect terminals TC and CG of the
+DLC3, and then turn the ignition switch on (IG).
+SST 09843-18040
+(3) Disconnect terminal TC of the DLC3 within 3 to
+10 seconds after the DTCs are output, and
+check if the SRS warning light comes on after 3
+seconds.
+(4) Within 2 to 4 seconds after the SRS warning
+light comes on, connect terminals TC and CG of
+the DLC3.
+(5) The SRS warning light should go off within 2 to 4
+seconds after connecting terminals TC and CG
+of the DLC3. Then, disconnect terminal TC
+within 2 to 4 seconds after the SRS warning light
+goes off.
+(6) The SRS warning light comes on again within 2
+to 4 seconds after disconnecting terminal TC.
+Then, reconnect terminals TC and CG within 2
+to 4 seconds after the SRS warning light comes
+on.
+RS

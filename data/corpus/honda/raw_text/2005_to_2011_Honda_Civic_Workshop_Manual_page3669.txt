@@ -1,0 +1,38 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Navigation System - Civic (Except Hybrid)
+NOTE: The data shown in the GPS Detail screen is an example
+only.
+GPS DATA CHART
+Column Description Problem indication
+If 3D is missing follow GPS icon is white or
+Active satellites
+3D not shown (see GPS ICON IS WHITE OR
+(Yellow Dot)
+NOT SHOWN).
+PRN The satellite ID number
+The status: 0 = cannot If all 0, then, follow GPS icon is white or not
+ST view or searching, 2 = shown troubleshooting (see GPS ICON IS
+acquiring WHITE OR NOT SHOWN).
+Azimuth, the angle (0-
+AZI 360) clockwise from
+north
+Elevation from the
+EL horizon (90 deg is
+overhead)
+C/N N/A Healthy signal is 49-52, no signal: 27-33
+ACC N/A
+YAW RATE
+This diagnostic checks the yaw rate sensor in the control unit. This device detects
+when the vehicle turns, and repositions the vehicle position icon on the map screen.
+For more detailed information, see YAW RATE SENSOR theory of operation
+under System Description.
+Sensor indicates the voltage output from the yaw rate sensor. It should indicate
+(cid:1)
+about 2.500 V when stopped.
+Offset is the reference voltage or standard within the yaw rate sensor. It also
+(cid:1)
+should indicate about 2.500 V when stopped.
+A sensor output voltage LOWER than the Offset voltage indicates that the
+(cid:1)
+vehicle is turning to the right.

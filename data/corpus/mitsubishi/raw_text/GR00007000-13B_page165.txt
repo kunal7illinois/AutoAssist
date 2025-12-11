@@ -1,0 +1,40 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-165
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 14. Check the right bank heated oxygen sensor
+(rear).
+(1) Disconnect the right bank heated oxygen sensor (rear)
+RIGHT BANK connector B-28 and connect test harness special tool,
+HEATED OXYGEN MB991316, to the connector on the right bank heated
+SENSOR (REAR)
+oxygen sensor (front) side.
+(2) Warm up the engine until engine coolant 80°C (176°F) or
+higher.
+CAUTION
+Be very careful when connecting the jumper wires; incor-
+rect connection can damage the right bank heated oxygen
+ACX02493AJ sensor (rear).
+CONNECTOR: B-28
+AAKK110033550088AB
+(3) Use the jumper wires to connect terminal 1 (red clip) to the
+positive battery terminal and terminal 3 (blue clip) to the
+JUMPER
+negative battery terminal.
+WIRES
+BLACK (4) Connect a digital volt meter between terminal 2 (black clip)
+RED and terminal 4 (white clip).
+(5) While repeatedly revving the engine, measure the right
+bank heated oxygen sensor (rear) output voltage.
+WHITE BLUE Standard value: 0.6 − 1.0 V
+Q:Is the voltage at the standard value?
+MB991316
+AKX01625AB YES : Replace the ECM or PCM. Then go to Step 15.
+NO : Replace the right bank heated oxygen sensor (rear).
+Then go to Step 15.
+STEP 15. Test the OBD-II drive cycle.
+(1) Carry out a test drive with the drive cycle pattern. Refer to
+Procedure 6 − Other Monitor P.13B-6.
+(2) Check the diagnostic trouble code (DTC).
+Q:Is the DTC P0136 is output?
+YES : Retry the troubleshooting.
+NO : The inspection is complete.
+TSB Revision

@@ -1,0 +1,36 @@
+23A-174 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+STEP 13. Check the switch output voltage at PCM
+connector C-61 <2.4L Engine> or C-63 <3.0L Engine> by
+backprobing. ("D" position)
+Measure the voltage between terminal 102 and ground by
+backprobing.
+• When selector lever position is "P," voltage should be 0.5
+volt or less.
+• When selector lever position is "R," voltage should be 0.5
+volt or less.
+• When selector lever position is "N," voltage should be 0.5
+C-61 <2.4L ENGINE> OR
+volt or less.
+C-63 <3.0L ENGINE>
+• When selector lever position is "D," voltage should be bat-
+CONNECTOR HARNESS
+tery positive voltage.
+SIDE VIEW AC001906AD
+• When selector lever position is "3," voltage should be 0.5
+volt or less. <Vehicles without sport mode>
+• When selector lever position is "2," voltage should be 0.5
+volt or less. <Vehicles without sport mode>
+• When selector lever position is "L," voltage should be 0.5
+volt or less. <Vehicles without sport mode>
+• When selector lever position is sport mode, voltage should
+be 0.5 volt or less. <Vehicles with sport mode>
+Q:Is the voltage normal?
+YES : Go to Step 20 <Vehicles with sport mode>. Go to Step
+17 <Vehicles without sport mode>.
+NO : Tern the ignition switch to the "LOCK" (OFF) position.
+Go to Step 14 <Vehicles with sport mode>. Repair
+harness damage between the Park/Neutral position
+switch connector B-41 terminal 1 and PCM connector
+C-61 terminal 102 <Vehicles without sport mode>.
+TSB Revision

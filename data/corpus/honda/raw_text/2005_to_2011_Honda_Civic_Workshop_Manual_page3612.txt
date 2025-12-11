@@ -1,0 +1,36 @@
+http://ReadManuals.com
+2008 Honda Civic EX
+2006-08 ACCESSORIES & EQUIPMENT Navigation System - Civic (Except Hybrid)
+sensor and the travel distance signals from the PCMs vehicle speed pulse (VSP)
+signal.
+Map Matching Tuning
+The map matching tuning is accomplished by indicating the vehicle position on the
+roads on the map. The map data transmitted from the DVD-ROM is checked
+against the vehicle position data, and the vehicle position is indicate on the nearest
+road. Map matching tuning does not occur when the vehicle travels on a road not
+shown on the map, or when the vehicle position is far away from a road on the map.
+GPS Tuning
+The GPS tuning is accomplished by indicating the vehicle position as the GPS's
+vehicle position. The navigation unit compares its calculated vehicle position data
+with the GPS vehicle position data. If there is large difference between the two, the
+indicated vehicle position is adjusted to the GPS vehicle position.
+Distance Tuning
+The distance tuning reduces the difference between the travel distance signal from
+the VSP and the distance data on the map. The navigation unit compares its
+calculated vehicle position data with the GPS vehicle position data. The navigation
+unit then decreases the tuning value when the vehicle position is always ahead of
+the GPS vehicle position, and it increases the tuning value when the vehicle
+position is always behind the GPS vehicle position.
+Route Guidance
+The navigation unit can calculate different routes to a selected destination. You
+have five options:
+Direct Route - Calculate a route that is the most direct.
+(cid:1)
+Easy Route - Calculate a route that minimizes the number of turns needed.
+(cid:1)
+Minimize Freeways - Calculate a route that avoids freeway travel. If that is not
+(cid:1)
+possible, keep the amount of freeway travel to a minimum.
+Minimize Toll Roads - Calculate a route that avoids, or minimizes travel on
+(cid:1)
+toll roads.

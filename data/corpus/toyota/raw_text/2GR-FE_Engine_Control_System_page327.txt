@@ -1,0 +1,23 @@
+ES–327
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+9 CHECK HARNESS AND CONNECTOR (PARK / NEUTRAL POSITION SWITCH - ECM)
+(a) Disconnect the ECM connectors.
+Wire Harness Side:
+(b) Turn the ignition switch off.
+(c) Measure the resistance according to the value(s) in the
+table below.
+Park / Neutral Position SW
+Standard resistance (Check for open)
+Tester Connection Specified Condition
+B (C1-4) - NSW (C55-62) Below 1 Ω
+C1 1 2 3 4
+5 6 7 8 9 Standard resistance (Check for short)
+Tester Connection Specified Condition
+B (C1-4) or NSW (C55-62) - Body ground 10 kΩ or higher ES
+C55 ECM Connector
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+NSW
+C136861E06
+OK
+REPLACE ECM

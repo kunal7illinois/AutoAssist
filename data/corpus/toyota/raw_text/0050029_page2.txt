@@ -1,0 +1,35 @@
+ES–155
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+MONITOR DESCRIPTION
+Under closed-loop fuel control, fuel injection volumes that deviate from those estimated by the ECM
+cause changes in the long-term fuel trim compensation value. The long-term fuel trim is adjusted when
+there are persistent deviations in the short-term fuel trim values. Deviations from the ECM's estimated fuel
+injection volumes also affect the average fuel trim learning value, which is a combination of the average
+short-term fuel trim (fuel feedback compensation value) and the average long-term fuel trim (learning
+value of the air-fuel ratio). If the average fuel trim learning value exceeds the malfunction threshold, the
+ECM interprets this as a fault in the fuel system and sets a DTC.
+Example:
+The average fuel trim learning value is +35 % or more or -35 % or less, the ECM interprets this as a fuel
+system malfunction.
+ES
+Fuel Compensation Amount
+P0171
++35 (%)
+Lean Malfunction 1.35
+Threshold
+1.0
+P0172
+-35 (%) 0.65
+Rich Malfunction
+Threshold
+A121607E02
+MONITOR STRATEGY
+P0171: Fuel trim lean
+Related DTCs
+P0172: Fuel trim rich
+Required Sensors/Components (Main) Fuel system
+Required Sensors/Components (Related) A/F sensor, Mass air flow meter, Crankshaft position sensor
+Frequency of Operation Continuous
+Duration Within 10 seconds
+MIL Operation 2 driving cycles
+Sequence of Operation None

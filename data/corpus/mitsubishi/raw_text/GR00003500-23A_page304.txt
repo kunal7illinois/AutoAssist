@@ -1,0 +1,29 @@
+23A-304 AUTOMATIC TRANSAXLE
+AUTOMATIC TRANSAXLE DIAGNOSIS
+CONNECTORS: C-111, C-112
+JUNCTION BLOCK
+(FRONT VIEW)
+C-112
+C-111
+C-111
+C-112
+AC106814AB
+. .
+CIRCUIT OPERATION TROUBLESHOOTING HINTS (The most likely
+If the select switch of the shift switch assembly is set causes for this case:)
+to the sport mode, battery positive voltage will be • Malfunction of the Park/Neutral position switch
+applied to the PCM (terminal number 109). If the shift • Malfunction of the shift switch assembly select
+switch of the shift switch assembly is set to "UP" or switch
+"DOWN" position, battery positive voltage will be • Malfunction of the shift switch assembly shift
+applied to the PCM (terminal number 122, 110). switch (Up)
+• Malfunction of the shift switch assembly shift
+. COMMENT switch (Down)
+The cause is probably a malfunction of the Park/Neu- • Damaged harness, connector
+tral position switch circuit, shift switch assembly cir- • Malfunction of the PCM
+cuit or a defective PCM.
+.
+DIAGNOSIS
+Required Special Tool:
+• MB991502: Scan Tool (MUT-II)
+.
+TSB Revision

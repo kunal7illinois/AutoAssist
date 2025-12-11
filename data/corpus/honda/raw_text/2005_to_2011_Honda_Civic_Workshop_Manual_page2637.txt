@@ -1,0 +1,30 @@
+http://ReadManuals.com
+2008 Honda Civic GX
+2006-08 ENGINE PERFORMANCE Fuel Supply System - Civic GX
+NO -Troubleshooting is complete. If any other Temporary DTCs or DTCs are
+indicated, go to the indicated DTC's troubleshooting.
+27. Reconnect all connectors.
+28. Update the PCM if it does not have the latest software (see UPDATING THE
+PCM ), or substitute a known-good PCM (see SUBSTITUTING THE
+PCM ).
+29. Check for Temporary DTCs or DTCs with the HDS.
+Is DTC P0183 indicated?
+YES -Check for poor connections or loose terminals at the fuel temperature
+sensor and the PCM. If the PCM was updated, substitute a known-good PCM
+(see SUBSTITUTING THE PCM ), then recheck. If the PCM was
+substituted, go to step 1.
+NO -If the PCM was updated, troubleshooting is complete. If the PCM was
+substituted, replace the original PCM, refer to the ECM/PCM
+REPLACEMENT . If any other Temporary DTCs or DTCs are indicated, go
+to the indicated DTC's troubleshooting.
+DTC P0191: FUEL RAIL PRESSURE SENSOR CIRCUIT RANGE/PERFORMANCE PROBLEM
+NOTE: Before you troubleshoot, record all freeze data and any on-
+board snapshot, and review the general troubleshooting
+information (see GENERAL TROUBLESHOOTING
+INFORMATION ).
+1. Turn the ignition switch OFF.
+2. Check for a loose or damaged fuel pressure regulator P1 vacuum line.
+Is the line OK?
+YES -Go to step 3.
+NO -Reconnect or repair the fuel pressure regulator P1 vacuum line, then go to
+step 21.

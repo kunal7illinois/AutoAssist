@@ -1,0 +1,45 @@
+AX–79
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+NOTICE:
+In the table above, the conditions listed under
+"Normal Condition" are reference conditions. Do not
+depend solely on these reference conditions when
+deciding whether a part is faulty.
+OK Go to step 3 AX
+NG
+2 INSPECT STOP LIGHT SWITCH ASSEMBLY
+(a) Remove the stop light switch assembly.
+(b) Measure the resistance according to the value(s) in the
+2 1 table below.
+Standard resistance
+Switch Position Tester Connection Specified Condition
+Switch pin free 1 - 2 Below 1 Ω
+Switch pin pushed in 1 - 2 10 kΩ or higher
+Free Pushed In
+4 3 Switch pin free 3 - 4 10 kΩ or higher
+Switch pin pushed in 3 - 4 Below 1 Ω
+I013683E16
+NG REPLACE STOP LIGHT SWITCH ASSEMBLY
+OK
+3 CHECK HARNESS AND CONNECTOR (STOP LIGHT SWITCH ASSEMBLY - TCM)
+(a) Install the stop light switch assembly.
+Wire Harness Side:
+(b) Disconnect the TCM connector.
+TCM Connector (Front View)
+(c) Measure the voltage according to the value(s) in the
+table below when the brake pedal is depressed and
+C56
+released.
+Standard voltage
+Condition Tester Connection Specified Condition
+Brake pedal is C56-12 (STP) - Body
+10 to 14 V
+depressed ground
+STP
+C133210E03 C56-12 (STP) - Body
+Brake pedal is released Below 1 V
+ground
+NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+OK
+REPLACE TCM

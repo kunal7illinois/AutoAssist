@@ -1,0 +1,70 @@
+ES–68
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2. ACTIVE TEST
+HINT:
+Performing an ACTIVE TEST enables components
+including the relays, VSV (Vacuum Switching Valve) and
+actuators, to be operated without removing any parts.
+The ACTIVE TEST can be performed with an intelligent
+tester. Performing an ACTIVE TEST as the first step in
+troubleshooting is one method of shortening diagnostic
+time.
+DATA LIST can be displayed during ACTIVE TEST.
+(a) Connect the intelligent tester to the DLC3.
+(b) Turn the ignition switch on (IG).
+(c) Turn the tester on.
+(d) Enter the following menus: DIAGNOSIS /
+ENHANCED OBD II / ACTIVE TEST.
+ES
+(e) Perform the ACTIVE TEST by referring to the table
+below.
+Intelligent Tester Displays Test Details Control Ranges Diagnostic Note
+• All injectors tested at the
+same time
+• Perform test at less than
+INJ VOL Change injection volume Between -12.5 and 24.8 % 3,000 rpm
+• Injection volume can be
+changed in 1 % graduations
+within control range
+• Perform test at less than
+3,000 rpm
+• A/F CONTROL enables to
+check and to graph A/F (Air
+Fuel Ratio) sensor and
+Heated Oxygen (HO2) sensor
+Lower by 12.5 % or increase by voltage outputs
+A/F CONTROL Change injection volume
+24.8 % • To conduct test, select
+following menu items:
+ACTIVE TEST / A/F
+CONTROL / USER DATA /
+AFS B1S1 and O2S B1S2,
+and press YES and ENTER
+followed by F4
+Test is possible when following
+ON (low speed)/OFF (high conditions are met:
+FUEL PMP SP CTL Fuel pump speed control
+speed) • Ignition switch is on (IG)
+• Engine is stopped
+EVAP (PURGE) VSV Activate VSV for EVAP (Purge) ON/OFF -
+EVAP VSV (ALONE) Activate EVAP VSV control ON/OFF -
+• Engine stalls or idles roughly
+Turn on and off OCV when OCV turned ON
+VVT CTRL B1 ON/OFF
+(Oil Control Valve) • Normal engine running or
+idling when OCV OFF
+• Engine stalls or idles roughly
+Turn on and off OCV when OCV turned ON
+VVT CTRL B2 ON/OFF
+(Oil Control Valve) • Normal engine running or
+idling when OCV OFF
+A/C MAG CLUTCH Control the A/C magnet clutch ON/OFF -
+Activate fuel pump (C/OPN
+FUEL PUMP / SPD ON/OFF -
+Relay)
+• ON: TC and TE1 connected
+Turn on and off TC and TE1
+TC/TE1 ON/OFF • OFF: TC and TE1
+connection
+disconnected
+FC IDL PROHBT Prohibit idling fuel cut control ON/OFF -

@@ -1,0 +1,44 @@
+ES–83
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+COMPONENT OPERATING RANGE
+A/F sensor heater current 0.9 to 9.9 A
+WIRING DIAGRAM
+Refer to DTC P2195 (see page ES-296).
+INSPECTION PROCEDURE
+HINT:
+Read freeze frame data using the intelligent tester. Freeze frame data records the engine condition when
+malfunctions are detected. When troubleshooting, freeze frame data can help determine if the vehicle was
+moving or stationary, if the engine was warmed up or not, if the air-fuel ratio was lean or rich, and other
+data from the time the malfunction occurred. ES
+1 INSPECT AIR-FUEL RATIO SENSOR (HEATER RESISTANCE)
+(a) Disconnect the B7 A/F sensor connector.
+Component Side:
+(b) Measure the resistance of the A/F sensor connector.
+A/F Sensor Standard resistance
++B HA1A
+Tester Connections Specified Conditions
+1 (HA1A) - 2 (+B) 1.8 Ω to 3.4 Ω at 20°C (68°F)
+Sensor 1
+1 (HA1A) - 4 (A1A-) 10 kΩ or higher
+(c) Reconnect the A/F sensor connector.
+A1A- A1A+
+NG REPLACE AIR-FUEL RATIO SENSOR
+A052607E27
+OK
+2 CHECK TERMINAL VOLTAGE (+B OF A/F SENSOR)
+(a) Disconnect the B7 A/F sensor connector.
+Wire Harness Side:
+(b) Turn the ignition switch ON.
+(c) Measure the voltage between the terminals of the B7 A/F
+A/F Sensor Connector
+sensor connector and body ground.
+Standard voltage
++B
+B7 Tester Connections Specified Conditions
+B7-2 (+B) - Body ground 9 to 14 V
+Sensor 1
+(d) Reconnect the A/F sensor connector.
+Front View
+A076787E08
+OK Go to step 5
+NG

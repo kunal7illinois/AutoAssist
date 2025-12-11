@@ -1,0 +1,39 @@
+AX–142
+U660E AUTOMATIC TRANSAXLE – AUTOMATIC TRANSAXLE SYSTEM
+Torque Converter Clutch Pressure Control
+DTC P2759 Solenoid Control Circuit Electrical (Shift Sole-
+noid Valve SLU)
+AX DESCRIPTION
+The amount of current flow to the solenoid is controlled by the (*) duty ratio of the TCM output signal. The
+higher the duty ratio becomes, the higher the lock-up hydraulic pressure becomes during the lock-up
+operation.
+Hydraulic
+A
+Pressure
+ON
+B
+OFF
+1 Cycle Current
+C133227E01
+(*) Duty Ratio
+The duty ratio is the ratio of the period of continuity in one cycle. For example, if A is the period of
+continuity in one cycle, and B is the period of non-continuity, then Duty Ratio = A/(A+B) x 100 (%).
+DTC No. DTC Detection Condition Trouble Area
+Open or short is detected in shift solenoid valve SLU • Open or short in shift solenoid valve SLU circuit
+P2759 circuit for 1 second or more while driving (1-trip • Shift solenoid valve SLU
+detection logic). • TCM
+MONITOR DESCRIPTION
+When an open or short in a shift solenoid valve (SLU) circuit is detected, the TCM determines there is a
+malfunction. The TCM will turn on the MIL and store this DTC.
+MONITOR STRATEGY
+Related DTCs P2759: Shift solenoid valve SLU/Range check
+Required sensors/Components Shift solenoid valve SLU
+Frequency of operation Continuous
+Duration 1 sec.
+MIL operation Immediate
+Sequence of operation None
+TYPICAL ENABLING CONDITIONS
+ALL:
+The monitor will run whenever this DTC is not present None
+Ignition switch ON
+Starter OFF

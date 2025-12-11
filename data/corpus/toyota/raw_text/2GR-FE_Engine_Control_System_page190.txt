@@ -1,0 +1,32 @@
+ES–190
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+(c) Enter the following menus: DIAGNOSIS / ENHANCED
+OBD II / DATA LIST / PRIMARY / O2S B1S2 or O2S
+B2S2.
+(d) Allow the engine to idle.
+(e) Read the Heated Oxygen (HO2) sensor output voltage
+while idling.
+Result
+HO2 Sensor Output Voltage Proceed to
+More than 1.2 V A
+Less than 1.0 V B
+B Go to step 5
+A
+ES
+3 CHECK HARNESS AND CONNECTOR (CHECK FOR SHORT)
+(a) Turn the engine switch off and wait for 5 minutes.
+Wire Harness Side Front View:
+(b) Disconnect the C55 ECM connector.
+(c) Measure the resistance according to the value(s) in the
+C55 ECM Connector table below.
+Standard resistance
+HT2B HT1B
+Tester Connection Specified Condition
+HT1B (C55-48) - OX1B (C55-88) 10 kΩ or higher
+HT2B (C55-47) - OX2B (C55-87) 10 kΩ or higher
+(d) Reconnect the ECM connector.
+NG Go to step 4
+OX2B OX1B
+A107892E78
+OK
+REPLACE ECM (See page ES-518)

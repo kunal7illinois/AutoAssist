@@ -1,0 +1,34 @@
+ES–244
+2GR-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+DTC No. DTC Detection Condition Trouble Area
+P0351
+• Ignition system
+P0352
+• Open or short in IGF1 or IGT circuit (1 to 6)
+P0353 No IGF signal to ECM while engine is running
+between ignition coil and ECM
+P0354 (1 trip detection logic)
+• No. 1 to No. 6 ignition coils
+P0355
+• ECM
+P0356
+Reference: Inspection using an oscilloscope.
+IGT and IGF Signal waveform
+2 V/DIV.
+CH1
+ES
+GND
+CH2
+GND
+20 ms./Division
+A140641E02
+While cranking or idling the engine, check the waveform between terminals IGT (1 to 6) and E1, and IGF1,
+IGF1 and E1 of the ECM connector.
+Item Content
+CH1: IGT1, IGT2, IGT3, IGT4, IGT5,
+Terminals IGT6 - E1
+CH2: IGF1 - E1
+2 V/DIV.
+Equipment Settings
+20 ms./DIV.
+Conditions Cranking or idling

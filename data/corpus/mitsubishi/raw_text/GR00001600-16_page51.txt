@@ -1,0 +1,33 @@
+ENGINE ELECTRICAL 16-51
+IGNITION SYSTEM
+Point C:
+Height of Zener voltage
+HEIGHT OF ZENER PROBABLE CAUSE
+VOLTAGE
+High Problem in zener diode
+Low Abnormal resistance in
+primary coil circuit
+.
+ABNORMAL WAVEFORMS EXAMPLES
+Example 1
+• Wave characteristics
+Spark line is high and short.
+• Cause of problem
+Spark plug gap is too large.
+AKX00288
+Example 2
+• Wave characteristics
+Spark line is low and long, and is sloping.
+Also, the second half of the spark line is distorted. This
+could be a result of misfiring.
+• Cause of problem
+Spark plug gap is too small.
+AKX00289
+Example 3
+• Wave characteristics
+Spark line is low and long, and is sloping. However,
+there is almost no spark line distortion.
+• Cause of problem
+Spark plug gap is fouled.
+AKX00290
+TSB Revision

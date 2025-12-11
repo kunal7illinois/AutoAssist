@@ -1,0 +1,54 @@
+ES–219
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+2. DTC P0451: Canister pressure sensor noise or fixed/flat
+If the canister pressure sensor voltage output fluctuates rapidly for 10 seconds, the ECM stops the
+EVAP system monitor. The ECM interprets this as noise from the canister pressure sensor, and stops
+the EVAP system monitor. The ECM then illuminates the MIL and sets the DTC.
+Alternatively, if the sensor voltage output does not change for 10 seconds, the ECM interprets this as
+the sensor being fixed/flat, and stops the monitor. The ECM then illuminates the MIL and sets the DTC.
+(Both the malfunctions are detected by 2 trip detection logic).
+3. DTC P0452: Canister pressure sensor voltage low
+If the canister pressure sensor output [pressure] is below 42.1 kPa-a (315.9 mmHg-a), the ECM
+interprets this as an open or short circuit malfunction in the canister pressure sensor or its circuit, and
+stops the EVAP system monitor. The ECM then illuminates the MIL and sets the DTC (1 trip detection
+logic).
+4. DTC P0453: Canister pressure sensor voltage high
+ES
+If the canister pressure sensor output [pressure] is 123.8 kPa-a (928.4 mmHg-a) or more, the ECM
+interprets this as an open or short circuit malfunction in the canister pressure sensor or its circuit, and
+stops the EVAP system monitor. The ECM then illuminates the MIL and sets the DTC (1 trip detection
+logic).
+MONITOR STRATEGY
+Required Sensors/Components Canister pump module
+Once per driving cycle: P0451 sensor fixed/flat
+Frequency of Operation
+Continuous: P0451 sensor noise, P0450, P0452 and P0453
+0.5 seconds: P0450, P0452 and P0453
+Duration
+2 minutes: P0451
+Immediate: P0450, P0452 and P0453
+MIL Operation
+2 driving cycles: P0451
+Sequence of Operation None
+TYPICAL ENABLING CONDITIONS
+P0451 (Noise monitor):
+Monitor runs whenever following DTCs not present None
+Atmospheric pressure (absolute pressure) 70 to 110 kPa-a (525 to 825 mmHg-a)
+Battery voltage 10.5 V or more
+Intake air temperature 4.4°to 35°C (40° to 95°F)
+Canister pressure sensor malfunction (P0450, P0452, 0453) Not detected
+Either of following conditions met A or B
+A. Engine condition Running
+B. Time after key off 5 or 7 or 9.5 hours
+P0451 (Fixed/flat monitor):
+Monitor runs whenever following DTCs not present None
+Battery voltage 10.5 V or more
+Intake air temperature 4.4°to 35°C (40° to 95°F)
+Canister pressure sensor malfunction (P0450, P0452, 0453) Not detected
+Atmospheric pressure (absolute pressure) 70 to 110 kPa-a (525 to 825 mmHg-a)
+Time after key off 5 or 7 or 9.5 hours
+P0450, P0452 and P0453:
+Monitor runs whenever following DTCs not present None
+Either of following conditions met (a) or (b)
+(a) Ignition switch ON
+(b) Soak timer ON

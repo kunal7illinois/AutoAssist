@@ -1,0 +1,30 @@
+BODY ELECTRICAL - REAR VIEW MIRROR BE-169
+3. EC Mirror Cell
+The gel type EC elements are placed between a layer of transparent conductive coating, and a layer of
+conductive reflector surfaces, which are placed between 2 sheets of glass. The EC elements have color
+coating characteristics. These characteristics are utilized to electronically vary the mirrors reflection rate
+through the electro-chemical oxidation reduction reaction.
+Transparent
+Conductive Coating
+View Direction
+Glass
+Conductive Reflector
+Surfaces EC Elements
+025BE185P
+4. Reflection Rate Control
+This CPU detects the surrounding light using its surrounding light detection sensor, the rear light using its
+rear light detection sensor, and determines whether it is day or night based on the intensity of the surrounding
+light. At the same time, the intensity of the glare from the rear is determined through the difference in intensity
+between the surrounding and rear light. In accordance with the intensity of the rear light, the reflection rate
+is varied steplessly.
+AUTO OFF: Reflection Rate Fixed.
+Surrounding Light Detection Sensor Large
+Reflection
+AUTO Mode
+Rate
+Rear Light
+Surrounding Light
+Small
+Rear Light Detection Sensor Dark Bright
+Rear Light
+279BE41 240BE136

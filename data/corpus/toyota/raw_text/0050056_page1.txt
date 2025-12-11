@@ -1,0 +1,52 @@
+ES–313
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+Oxygen (A/F) Sensor Pumping Current Circuit
+DTC P2238
+Low (Bank 1 Sensor 1)
+Oxygen (A/F) Sensor Pumping Current Circuit
+DTC P2239
+High (Bank 1 Sensor 1)
+Oxygen (A/F) Sensor Reference Ground Circuit
+DTC P2252
+Low (Bank 1 Sensor 1)
+Oxygen (A/F) Sensor Reference Ground Circuit
+ES
+DTC P2253
+High (Bank 1 Sensor 1)
+DESCRIPTION
+Refer to DTC P2195 (see page ES-292).
+DTC No. DTC Detection Conditions Trouble Areas
+• Case 1:
+Condition (a) or (b) continues for 5.0 seconds or more • Open or short in A/F sensor (sensor 1) circuit
+(2 trip detection logic): • A/F sensor (sensor 1)
+(a) AF+ voltage 0.5 V or less • A/F sensor heater (sensor 1)
+P2238
+(b) (AF+) - (AF-) = 0.1 V or less • Integration relay (EFI MAIN relay)
+• Case 2: • A/F sensor heater and EFI MAIN relay circuits
+A/F sensor admittance: Less than 0.022 1/Ω • ECM
+(2 trip detection logic)
+• Open or short in A/F sensor (sensor 1) circuit
+• A/F sensor (sensor 1)
+AF+ voltage more than 4.5 V for 5.0 seconds or more • A/F sensor heater (sensor 1)
+P2239
+(2 trip detection logic) • Integration relay (EFI MAIN relay)
+• A/F sensor heater and EFI MAIN relay circuits
+• ECM
+• Open or short in A/F sensor (sensor 1) circuit
+• A/F sensor (sensor 1)
+AF- voltage 0.5 V or less for 5.0 seconds or more • A/F sensor heater (sensor 1)
+P2252
+(2 trip detection logic) • Integration relay (EFI MAIN relay)
+• A/F sensor heater and EFI MAIN relay circuits
+• ECM
+• Open or short in A/F sensor (sensor 1) circuit
+• A/F sensor (sensor 1)
+AF- voltage more than 4.5 V for 5.0 seconds or more • A/F sensor heater (sensor 1)
+P2253
+(2 trip detection logic) • Integration relay (EFI MAIN relay)
+• A/F sensor heater and EFI MAIN relay circuits
+• ECM
+MONITOR DESCRIPTION
+The Air-Fuel Ratio (A/F) sensor varies its output voltage in proportion to the air-fuel ratio. If the A/F sensor
+impedance (alternating current resistance) or output voltage deviates greatly from the standard range, the
+ECM determines that there is an open or short in the A/F sensor circuit.

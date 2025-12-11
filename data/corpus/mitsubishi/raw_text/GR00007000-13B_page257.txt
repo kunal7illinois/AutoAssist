@@ -1,0 +1,56 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-257
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+• Engine coolant temperature is higher than 77°C • Engine coolant temperature is higher than 77°C
+(171°F). (171°F).
+• Volume air flow sensor output frequency is 75 Hz • Volume air flow sensor output frequency is 75 Hz
+or less. or less.
+Judgment Criteria Judgment Criteria
+• Long-term fuel trim has continued to be higher • Long-term fuel trim has continued to be higher
+than +12.5 percent for 5 seconds. than +12.5 percent for 5 seconds.
+or or
+• Short-term fuel trim has continued to be higher • Short-term fuel trim has continued to be higher
+than +12.5 percent for 5 seconds. than +22.3 percent for 5 seconds.
+Check Area Check Area
+• Engine coolant temperature is higher than • Engine coolant temperature is higher than 77°C
+approximately 100°C (212°F) when the engine is (171°F).
+started. • Under the closed loop air/fuel ratio control.
+• Intake air temperature is higher than 60°C
+Judgment Criteria
+(140°F) when the engine is started.
+• Long-term fuel trim has continued to be +12.5
+• Under the closed loop air/fuel ratio control.
+percent for 5 seconds.
+• Engine coolant temperature is higher than 77°C
+or
+(171°F).
+• Short-term fuel trim has continued to be +25.0
+• Volume air flow sensor output frequency is 75 Hz
+percent for 5 seconds.
+or more.
+Judgment Criteria . TROUBLESHOOTING HINTS (The most likely
+• Long-term fuel trim has continued to be higher causes for this code to be set are: )
+than +12.5 percent for 5 seconds. • Volume air flow sensor failed.
+or • Injector (Number 2, 4, 6) failed.
+• Short-term fuel trim has continued to be higher • Incorrect fuel pressure.
+than +17.6 percent for 5 seconds. • Air drawn in from gaps in gasket, seals, etc.
+• Left bank heated oxygen sensor failed.
+Check Area
+• Engine coolant temperature is higher than • Engine coolant temperature sensor failed.
+approximately 100°C (212°F) when the engine is • Intake air temperature sensor failed.
+• Barometric pressure sensor failed.
+started.
+• Intake air temperature is higher than 60°C • Use of incorrect or contaminated fuel.
+(140°F) when the engine is started. • ECU failed. <M/T>
+• Under the closed loop air/fuel ratio control. • PCM failed. <A/T>
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Check the exhaust leaks.
+Q:Are there any abnormalities?
+YES : Go to Step 2.
+NO : Repair it. Then go to Step 14.
+STEP 2. Check the intake system vacuum leak.
+Q:Are there any abnormalities?
+YES : Go to Step 3.
+NO : Repair it. Then go to Step 14.
+TSB Revision

@@ -1,0 +1,43 @@
+MULTIPORT FUEL INJECTION (MFI) <3.0L> 13B-253
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, check data list item 12:
+Volume Air Flow Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Start the engine and run at idle.
+(3) Set scan tool MB991502 to the data reading mode for item
+12, Volume Air Flow Sensor.
+16 PIN (4) Warm up the engine to normal operating temperature: 80°C
+to 96°C (176°F to 205°F).
+MB991502
+• When idling, between 17 and 46 Hz (between 2.2 and
+AKX01177AB
+5.7 g/s).
+• When 2,500 r/min, between 63 and 103 Hz (between
+9.0 and 14.7 g/s).
+(5) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+YES : Go to Step 2.
+NO : Refer to DTC P0101 − Volume Air Flow Circuit
+Range/Performance Problem P.13B-29, DTC P0102
+− Volume Air Flow Circuit Low Input P.13B-35.
+STEP 2. Using scan tool MB991502, check data list item 13:
+Intake Air Temperature Sensor.
+(1) Turn the ignition switch to the "ON" position.
+(2) Set scan tool MB991502 to the data reading mode for item
+13, Intake Air Temperature Sensor.
+• The intake air temperature and temperature shown with
+the scan tool should approximately match.
+(3) Turn the ignition switch to the "LOCK" (OFF) position.
+Q:Is the sensor operating properly?
+16 PIN
+YES : Go to Step 3.
+MB991502 NO : Refer to DTC P0111 − Intake Air Temperature Circuit
+AKX01177AB Range/Performance Problem P.13B-62, DTC P0112
+− Intake Air Temperature Circuit Low Input P.13B-67,
+DTC P0113 − Intake Air Temperature Circuit High
+Input P.13B-71.
+TSB Revision

@@ -1,0 +1,31 @@
+13A-388 MULTIPORT FUEL INJECTION (MFI) <2.4L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 14. Check for harness damage between ignition
+switch connector C-87 (terminal 2) and vehicle speed
+sensor connector B-39 (terminal 1).
+NOTE: Check harness after checking intermediate connectors
+CONNECTOR:C-87
+B-36, C-28, C-78, B-112 and C-111. If intermediate connectors
+are damaged, repair or replace them. Refer to GROUP 00E,
+Harness Connector Inspection P.00E-2. Then go to Step 17.
+Q:Is the harness wire in good condition?
+YES : Go to Step 15.
+NO : Repair it. Then go to Step 17.
+AK000219AC
+CONNECTOR:B-39
+AK000547AC
+STEP 15. Check for harness damage between vehicle
+speed sensor connector B-39 (terminal 3) and ECM
+connector C-60 (terminal 86).
+NOTE: Check harness after checking intermediate connector
+CONNECTOR:B-39
+B-36. If intermediate connector is damaged, repair or replace
+them. Refer to GROUP 00E, Harness Connector Inspection
+P.00E-2. Then go to Step 17.
+Q:Is the harness wire in good condition?
+YES : Go to Step 16.
+NO : Repair it. Then go to Step 17.
+AK000547AC
+CONNECTOR:C-60
+AK000280BI
+TSB Revision

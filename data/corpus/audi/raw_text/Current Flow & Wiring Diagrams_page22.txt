@@ -1,0 +1,60 @@
+Audi TT No. 1 / 22
+Current Flow Diagram
+Onboard supply control unit, terminal 30 voltage supply
+relay 2, vanity mirror contact switch, glove compartment
+light, illuminated vanity mirror
+E26 Glove compartment light switch
+F147 Driver vanity mirror contact switch
+F148 Front passenger side vanity mirror contact switch
+J519 Onboard supply control unit
+J689 Terminal 30 voltage supply relay 2
+L151 Front left footwell illumination bulb
+L152 Front right footwell illumination bulb
+✱
+B4 T8k 8-pin connector, black, behind right dash panel
+4/85
+J689
+1/30
+T10d 10-pin connector, black, connector K, on onboard power supply
+control unit
+T8k/4 T11c 11-pin connector, brown, connector D, on onboard power supply
+control unit
+3/86 2/87 229999 T12c 12-pin connector, black, connector B, on onboard power supply
+control unit
+0,5 0,5 0,5 W6 Glove compartment light
+ro/ws ro/ws ro/ws
+W14 Front passenger side illuminated vanity mirror
+W20 Driver side illuminated vanity mirror
+J519
+2 44 Earth point, lower part of left A-pillar
+W6
+T12c T11c/9 T10d/10 B320 1 370 Earth connection 5, in main wiring harness
+/11
+228833
+388 Earth connection 23, in main wiring harness
+0,5 0,5 0,5 0,5 0,35 0,35 0,5 0,5
+bl/gr ws/gr ws/gr ro/ws ro/ws ro/ws ws/gr br/ge
+B320 Positive connection 6 (30a), in main wiring harness
+229977 2 2 2 2 2
+L1 ✱ 5 ✱ 1 1/31 T8k/3 1 W20 1 W14 L1 ✱ 5 ✱ 2 1/31 E26 1 * R da e s la h y p c a a n r e ri l er on onboard power supply control unit, under left
+** Models with LED equipment (QQ1)
+0,5 0,5 0,35 0,35 0,5 0,5
+br ws/gr br/bl br/bl br br
+112266 229922
+1 1
+T8k/7
+F147 F148
+118800 229955 2/31 330088 2/31 220066 ws = white
+sw = black
+ro = red
+1,0 0,5 0,5 0,35 0,35 0,35 1,0 0,5
+br br br br br br br br br = brown
+gn = green
+370 388 bl = blue
+gr = grey
+44 li = purple
+ge = yellow
+281 282 283 284 285 286 287 288 289 290 291 292 293 294 or = orange
+8J0-001220408
+rs = pink
+Edition 04.2008

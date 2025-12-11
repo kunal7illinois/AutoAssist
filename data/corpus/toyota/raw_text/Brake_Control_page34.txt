@@ -1,0 +1,56 @@
+BC–34
+BRAKE CONTROL – ANTI-LOCK BRAKE SYSTEM
+DIAGNOSTIC TROUBLE CODE CHART
+NOTICE:
+Turn the ignition switch off before removing parts.
+HINT:
+• If no abnormality is found when inspecting parts, inspect
+the skid control ECU and ground points for poor contact.
+• If a malfunction code is displayed during the DTC check,
+check the circuit indicated by the DTC. For details of each
+code, refer to the "See page" for respective "DTC No." in
+the DTC chart.
+• When 2 or more DTCs are detected, perform circuit
+inspection one by one until the problem is identified.
+ANTI-LOCK BRAKE SYSTEM:
+DTC No. Detection Item Trouble Area See page
+C0200/31 Right Front Wheel Speed Sensor 1. Front speed sensor RH BC-30
+Signal Malfunction 2. Front speed sensor RH circuit
+3. Front speed sensor rotor RH
+4. Sensor installation
+BC 5. Brake actuator assembly (skid
+control ECU)
+C0205/32 Left Front Wheel Speed Sensor 1. Front speed sensor LH BC-30
+Signal Malfunction 2. Front speed sensor LH circuit
+3. Front speed sensor rotor LH
+4. Sensor installation
+5. Brake actuator assembly (skid
+control ECU)
+C0210/33 Right Rear Wheel Speed Sensor 1. Rear speed sensor RH BC-38
+Signal Malfunction 2. Rear speed sensor RH circuit
+3. Rear speed sensor rotor RH
+4. Sensor installation
+5. Brake actuator assembly (skid
+control ECU)
+C0215/34 Left Rear Wheel Speed Sensor 1. Rear speed sensor LH BC-38
+Signal Malfunction 2. Rear speed sensor LH circuit
+3. Rear speed sensor rotor LH
+4. Sensor installation
+5. Brake actuator assembly (skid
+control ECU)
+C0226/21 SFR Solenoid Circuit 1. SFRR or SFRH circuit BC-47
+2. Brake actuator assembly
+C0236/22 SFL Solenoid Circuit 1. SFLR or SFLH circuit BC-47
+2. Brake actuator assembly
+C0246/23 SRR Solenoid Circuit 1. SRRR or SRRH circuit BC-47
+2. Brake actuator assembly
+C0256/24 SRL Solenoid Circuit 1. SRLR or SRLH circuit BC-47
+2. Brake actuator assembly
+C0273/13 Open or Short Circuit in ABS 1. Brake actuator assembly BC-49
+Motor Relay Circuit (motor relay)
+2. ABS No. 1 fuse (Fusible link)
+3. Wire harness (+BM circuit)
+C0278/11 Open or Short Circuit in ABS 1. Brake actuator assembly BC-53
+Solenoid Relay Circuit (solenoid relay)
+2. ABS No. 2 fuse (Fusible link)
+3. Wire harness (+BS circuit)

@@ -1,0 +1,33 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-303
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 1. Using scan tool MB991502, check data list item 73:
+Fuel Tank Differential Pressure Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+16 PIN
+MB991502
+AC001252AB
+(2) Disconnect hose G from the evaporative emission canister
+HOSE G
+side, and plug the hose from which the pipes have been
+disconnected.
+(3) Turn the ignition switch to the "ON" position.
+(4) Remove the fuel cap.
+(5) Set scan tool MB991502 to the data reading mode for item
+73, Fuel Tank Differential Pressure Sensor.
+• The fuel tank pressures should be −1.5 to 1.5 kPa (−285
+to 285 inHg.)
+AC002036AC
+(6) Connect an evaporative emission system pressure pump to
+the fuel filler neck, and apply pressure.
+• The scan tool reading should increase.
+(7) Turn the ignition switch to the "LOCK" (OFF) position. Then
+disconnect scan tool MB991502.
+Q:Is the scan tool reading within the specified value?
+YES : Go to Step 22.
+NO : Go to Step 2.
+AC000186
+TSB Revision

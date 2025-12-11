@@ -1,0 +1,26 @@
+BODY ELECTRICAL - SMART KEY SYSTEM BE-101
+Pattern B: OFF (cid:1) ACC (cid:1) IG ON (cid:1) OFF
+1) OFF (cid:1) ACC
+Step System Operation
+a) The driver has the key in their possession and enters the vehicle.
+When the driver presses the engine switch once with the following conditions satisfied, the
+main body ECU recognizes the engine switch signal and transmits the key certification
+request to the certification ECU.
+b)
+(cid:3) Shift position is P.
+(cid:3) Brake pedal is not depressed.
+(cid:3) Power source is OFF.
+Due to the brake pedal not being depressed, the main body ECU will turn ON the amber
+c)
+indicator light of the engine switch.
+The rest of the system operation is the same as d) to h) in pattern A. For details, see page
+d)
+BE-98.
+2) ACC (cid:1) IG ON
+Step System Operation
+When the power source is at ACC and the driver pressed the engine switch again, the main
+a)
+body ECU recognizes the engine switch signal and turns ON the IG relays.
+The rest of the system operation is the same as j) to n) in pattern A. For details, see page
+b)
+BE-99.

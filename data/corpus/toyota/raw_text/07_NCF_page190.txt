@@ -1,0 +1,25 @@
+CH-26 CHASSIS - U250E AUTOMATIC TRANSAXLE
+4. Construction and Operation of Main Components
+ATF Temperature Sensor
+(cid:3) The ATF temperature sensor is installed in the valve body for direct detection of the fluid temperature.
+(cid:3) The ATF temperature sensor is used for the revision of clutch and brake pressures to maintain a smooth
+shift quality every time.
+Lower Valve Body
+ATF Temperature Sensor
+241CH87
+Speed Sensors
+(cid:3) The U250E automatic transaxle uses an input turbine speed sensor (for the NT signal) and a counter gear
+speed sensor (for the NC signal). Thus, the ECM can detect the timing of the shifting of the gears and
+appropriately control the engine torque and hydraulic pressure in response to the various conditions.
+These speed sensors are the pick-up coil type.
+(cid:3) The input turbine speed sensor detects the input speed of the transaxle. The direct clutch (C ) drum is
+2
+used as the timing rotor for this sensor.
+(cid:3) The counter gear speed sensor detects the speed of the counter gear. The counter drive gear is used as
+the timing rotor for this sensor.
+Input Turbine Counter Gear Counter Drive Gear
+Speed Sensor Speed Sensor
+Direct Clutch (C )
+2
+Drum
+211CH16

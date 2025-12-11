@@ -1,0 +1,35 @@
+13B-670 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CONDITION OF WAVE PROBABLE CAUSE
+PATTERN BUILD-UP
+SECTION AND MAXIMUM
+VOLTAGE
+Rises from approximate 2 Normal
+volts to approximate 4.5 volts
+at the top-right
+2-volt rectangular wave Open-circuit in ignition primary
+circuit
+Rectangular wave at power Ignition power transistor
+voltage malfunction
+.
+Examples of Abnormal Wave Patterns
+Example 1 (Wave pattern during engine cranking)
+• Cause of problem
+NORMAL WAVE
+Open-circuit in ignition primary circuit
+PATTERN
+• Wave pattern characteristics
+Top-right part of the build-up section cannot be seen, and
+voltage value is approximately 2 volts too low.
+2V
+AKX01612AB
+Example 2 (Wave pattern during engine cranking)
+NORMAL WAVE • Cause of problem
+PATTERN
+BATTERY Malfunction in ignition power transistor
+POSITION • Wave pattern characteristics
+VOLTAGE
+Power voltage results when the ignition power transistor is
+ON.
+AKX01613AB
+TSB Revision

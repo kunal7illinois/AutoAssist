@@ -1,0 +1,128 @@
+I GROUND POINT
+(ME01) C55
+(E04)
+A49 (E) C4
+(E) A52
+(GND2) A25
+A29 (E)
+(GND2) A26
+A25 (GND1) A5
+A26 (GND1)
+A6 A4
+4 W–B
+B (E) T8
+(∗3)
+5 1 W–B
+A B (E) T6
+O20(A), T18(B)
+(E2) E30
+10 EO2
+W–B
+E39 (GND)
+E3 E1
+398
+CAMRY (EM0250U)
+B–W
+B–W
+W–B
+B–W
+W–B
+(2GR–FE) B
+(2GR–FE)
+W
+(2GR–FE)
+W–B
+BR
+BR
+W–B
+(w/o VSC)
+W–B W–B
+W–B
+(w/ VSC)
+W–B
+(w/o VSC)
+W–B
+(w/ VSC) W–B
+)3∗(
+)3∗(
+16 10
+W–B W–B W–B
+N17 (MGND) NA1 CA3
+(2GR–FE) (2GR–FE) (2GR–FE)
+C55 (E01)
+B
+A51 (E)
+W–B (E) A34
+A50 (E)
+W–B
+(∗1)
+W–B
+(∗1)
+W–B
+(∗1)
+5
+W–B
+IE
+3
+IM
+W–B
+(GND) E51
+(∗1)
+B–W
+B
+(E03)
+(2GR–FE)
+5
+4L (GND3) E8
+4
+4E (GND) E52
+5 5
+4H 4E (COM)
+10
+IG
+B–W
+∗ 1 : 2GR–FE w/ Smart Key System
+∗ 3 : w/ Power Seat
+∗ 4 : w/ Sliding Roof
+∗ 5 : w/o Sliding Roof
+∗ 6 : w/ Jam Protection
+∗ 7 : w/o Jam Protection
+B–W
+)EF–RG2(
+Canister Pump
+Module
+Engine Control
+Module Engine Control
+Module
+Headlamp (RH Low)
+Washer Level
+Warning SW
+Side Marker Lamp
+(Front RH) Fog Lamp
+(Front RH)
+Turn Signal and
+Parking Lamp (Front RH) Skid Control ECU
+with Actuator
+Headlamp (RH High)
+Skid Control ECU
+with Actuator
+Skid Control ECU
+with Actuator
+Skid Control ECU
+with Actuator
+Power Seat SW
+(Front Passenger' s
+Seat)
+3 W–B
+B (GND) T10
+(∗3) Occupant
+Classification
+ECU
+(∗3) Seat Heater (RH)
+Junction
+Connector
+Main Body ECU
+Power SW
+Airbag Sensor
+Assembly Center
+Blower Motor Steering Lock ECU

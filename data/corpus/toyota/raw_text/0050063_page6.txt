@@ -1,0 +1,43 @@
+ES–390
+2AZ-FE ENGINE CONTROL SYSTEM – SFI SYSTEM
+5 CHECK HARNESS AND CONNECTOR (INSTRUMENT PANEL J/B - ECM)
+(a) Disconnect the A9 ECM connector.
+(b) Disconnect the IE connector from instrument panel
+junction block.
+(c) Measure the resistance.
+Wire Harness Side:
+Standard resistance (Check for open)
+Tester Connections Specified Conditions
+A9 ECM Connector
+IE-5 (Instrument panel J/B) - A9-7
+FC (FC) Below 1Ω
+Standard resistance (Check for short)
+ES
+Tester Connections Specified Conditions
+IE-5 (Instrument panel J/B) or A9-7
+10 kΩ or higher
+(FC) - Body ground
+Front View
+(d) Reconnect the instrument panel junction block and the
+Main Body ECU ECM connectors.
+(Instrument Panel Junction Block) NG REPAIR OR REPLACE HARNESS OR
+CONNECTOR
+IE
+17 1
+18 2
+19 3
+20 4
+21 5
+22 6
+23 7
+24 8
+25 9
+26 10
+27 11
+28 12
+29 13
+30 14
+31 15
+32 16
+A133158E02
+OK

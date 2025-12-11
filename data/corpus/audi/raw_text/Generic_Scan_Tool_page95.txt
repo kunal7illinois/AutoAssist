@@ -1,0 +1,77 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Pa‐ Monitoring Frequency of
+sage cedure ria and Threshold rameters with En‐ Time checks, MIL
+Value able Conditions Length Illum
+P2187 System Too • Check for a • Adaptive value • Number of in‐ 40 Sec. • 2 DCY
+Lean at Idle vacuum leak > 5.02% jections after
+Bank 1 or poor engine engine start >
+gasket seal. 1500
+• Check O2 • Engine speed <
+sensor opera‐ 860 RPM
+tion. If any O2
+codes are set, • Mass air flow <
+diagnose 35 kg/h
+them first.
+• ECT > 59° C
+• Check the fuel
+• IAT < 85° C
+pressure. Re‐
+fer to • Ratio manifold
+⇒ “3.5.2 Fuel pressure to
+Pump Pres‐ ambient pres‐
+sure, Check‐ sure > 0.20
+ing”,
+page 113 • Delta part load
+adaptation
+• Check the ready
+Secondary Air
+Injection • Lambda con‐
+Combination trol - closed
+Valve. Refer loop
+to
+• EVAP purge
+⇒ “3.5.31 Sec‐
+valve closed
+ondary Air In‐
+jection Combi‐ • Valve overlap <
+nation Valve, 40° CRK
+Checking”,
+page 174 .
+P2188 System Too • Check O2 • Adaptive value • Number of in‐ 40 Sec. • 2 DCY
+Rich at Idle sensor opera‐ < -5.02% jections after
+Bank 1 tion. If any O2 engine start >
+codes are set, 1500
+diagnose
+them first. • Engine speed <
+860 RPM
+• Check the fuel
+pressure. Re‐ • Mass air flow <
+fer to 35 kg/h
+⇒ “3.5.2 Fuel
+• ECT > 59° C
+Pump Pres‐
+sure, Check‐ • IAT < 85° C
+ing”,
+page 113 • Ratio manifold
+pressure to
+• Check the ambient pres‐
+Evaporative sure > 0.20
+Emission
+(EVAP) Can‐ • Delta part load
+ister Purge adaptation
+Regulator ready
+Valve -N80- .
+• Lambda con‐
+Refer to
+trol - closed
+⇒ “3.5.8 EVAP
+loop
+Canister
+Purge Regu‐ • EVAP purge
+lator Valve 1, valve closed
+Checking”,
+page 124 . • Valve overlap <
+40° CRK
+91
+3. Diagnosis and Testing

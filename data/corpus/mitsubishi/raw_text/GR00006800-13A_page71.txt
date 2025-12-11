@@ -1,0 +1,56 @@
+MULTIPORT FUEL INJECTION (MFI) <2.4L> 13A-71
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+CIRCUIT OPERATION .
+DTC SET CONDITIONS
+• Approximately 5 volts are applied to the intake air
+temperature sensor output terminal (terminal 6) Check Conditions
+from the ECM (terminal 72) <M/T> or PCM (ter- • 2 seconds or more have passed since the staring
+minal 64) <A/T> via the resistor in the ECM <M/ sequence was completed.
+T> or PCM <A/T>. The ground terminal (terminal
+Judgement Criteria
+5) is grounded with ECM (terminal 40) <M/T> or • Intake air temperature sensor output voltage has
+PCM (terminal 16) <A/T>.
+continued to be 0.2 volt or lower [corresponding
+• The intake air temperature sensor is a negative to an air intake temperature of 115°C (239°F) or
+temperature coefficient type of resistor. When the
+higher] for 2 seconds.
+intake air temperature rises, the resistance
+decreases. .
+TROUBLESHOOTING HINTS (The most likely
+• The intake air temperature sensor output voltage
+causes for this code to be set are:)
+increases when the resistance increases and
+• Intake air temperature sensor failed.
+decreases when the resistance decreases.
+• Open or shorted intake air temperature sensor
+circuit, or loose connector.
+.
+TECHNICAL DESCRIPTION • ECM failed. <M/T>
+• The intake air temperature sensor converts the • PCM failed. <A/T>
+intake air temperature to a voltage.
+• The ECM <M/T> or PCM <A/T> checks whether
+this voltage is within a specified range.
+DIAGNOSIS
+Required Special Tools
+• MB991502: Scan Tool (MUT-II)
+STEP 1. Using scan tool MB991502, check data list item 13:
+Intake Air Temperature Sensor.
+CAUTION
+To prevent damage to scan tool MB991502, always turn the
+ignition switch to the "LOCK" (OFF) position before con-
+necting or disconnecting scan tool MB991502.
+(1) Connect scan tool MB991502 to the data link connector.
+(2) Turn the ignition switch to the "ON" position.
+(3) Set scan tool MB991502 to the data reading mode for item
+13, Intake Air Temperature Sensor.
+16 PIN • The intake air temperature and temperature shown with
+the scan tool should approximately match.
+MB991502
+(4) Turn the ignition switch to the "LOCK" (OFF) position.
+AKX01177AB
+Q:Is the sensor operating properly?
+YES : It can be assumed that this malfunction is intermittent.
+Refer to GROUP 00, How to Use Troubleshooting/
+Inspection Service Points P.00-6.
+NO : Go to Step 2.
+TSB Revision

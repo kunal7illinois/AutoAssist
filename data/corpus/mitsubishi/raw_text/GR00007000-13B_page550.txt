@@ -1,0 +1,36 @@
+13B-550 MULTIPORT FUEL INJECTION (MFI) <3.0L>
+MULTIPORT FUEL INJECTION (MFI) DIAGNOSIS
+STEP 5. Check the engine start-ability.
+(1) Depress the accelerator pedal slightly, and start the engine.
+Q:Is the start ability good?
+YES : Go to Step 6.
+NO : Go to Step 7.
+STEP 6. Check the idle air control (IAC) motor operation
+sound.
+(1) Check that the engine coolant temperature is 20°C (68°F)
+CONNECTOR:B-34
+or below.
+NOTE: If necessary, you can disconnect the engine coolant
+temperature sensor connector and connect the harness
+side of the connector to another engine coolant temperature
+sensor that is at 20°C (68°F) or below.
+(2) Check that the operation sound of the IAC motor can be
+heard after the ignition is switched to the "ON" position (but
+IDLE AIR
+CONTROL without starting the engine).
+MOTOR • An operation sound is heard.
+ACX02523AI
+Q:Did you hear the operation sound?
+YES : Refer to, Clean the throttle valve area P.13B-677.
+NO : Refer to DTC P0506 Idle Control System RPM Lower
+Than Expected P.13B-478, DTC P0507 Idle Control
+System RPM Higher Than Expected P.13B-487.
+STEP 7. Check the ignition timing.
+(1) Check the ignition timing at cranking.
+Standard value: 5° BTDC ± 3°
+Q:Is the ignition timing normal?
+YES : Go to Step 8.
+NO : Check that the crankshaft position sensor and timing
+belt cover are in the correct position. Then confirm
+that the malfunction symptom is eliminated.
+TSB Revision

@@ -1,0 +1,38 @@
+http://ReadManuals.com
+2008 Honda Civic LX
+2006-08 TRANSMISSION Automatic Transmission - Civic (Except Hybrid)
+VOLTAGE) reference ignition
+voltage switch ON
+(II): About 5
+0 V
+C14 GRN/WHT SG1 (SENSOR Sensor ground Less than
+GROUND) 1.0 V at all
+times
+C22 WHT/BLK POILCS (ENGINE OIL Detects EOP With
+PRESSURE (EOP) sensor signal ignition
+SENSOR) switch ON
+(II). About
+0.5 V
+With engine
+running:
+About 0.7 V
+(depending
+on engine
+oil pressure)
+C36 BLK/YEL IG1 (IGNITION Detects ignition With
+SIGNAL) switch signal ignition
+switch ON
+(II): Battery
+voltage
+C40 BRN/YEL LG1 (LOGIC Ground circuit Less than
+GROUND) for PCM circuit 1.0 V at all
+times
+C43 BLK/BLU NC (OUTPUT SHAFT Detects output With
+(COUNTERSHAFT) shaft ignition
+SPEED SENSOR) (countershaft) switch ON
+speed sensor (II): About 0
+signal V or about 5
+0 V
+With vehicle
+moving
+About 2.5 V

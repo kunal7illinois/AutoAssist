@@ -1,0 +1,72 @@
+TT RS 2012 ➤
+Generic Scan Tool - Edition 07.2011
+DTC Error Mes‐ Diagnostic Pro‐ Malfunction Crite‐ Secondary Pa‐ Monitoring Frequency of
+sage cedure ria and Threshold rameters with En‐ Time checks, MIL
+Value able Conditions Length Illum
+P2106 Throttle Ac‐ – Check the • duty cycle > 80 --- 5 Sec. • Continu‐
+tuator Con‐ Throttle Valve % ous
+trol System Control Mod‐
+- Forced ule -J338- . • ECM power • 2 DCY
+Limited Refer to stage failure
+Power ⇒
+“3.5.19 Throt‐
+tle Valve Con‐
+trol Module,
+Checking”,
+page 149 .
+P2122 Accelerator – Check the Ac‐ • Signal voltage --- 0.2 Sec. • Continu‐
+Pedal Posi‐ celerator Ped‐ < 0.63 V ous
+tion Sensor al Position
+D Circuit Sensor 1 - • 2 DCY
+Low Input G79- / Accel‐
+erator Pedal
+Position Sen‐
+sor 2 -G185- .
+Refer to
+⇒ “3.5.18 Ac‐
+celerator Ped‐
+al Position
+Sensor / Ac‐
+celerator Ped‐
+al Position
+Sensor 2,
+Checking”,
+page 147 .
+P2123 Accelerator – Check the Ac‐ • Signal voltage --- 0.2 Sec. • Continu‐
+Pedal Posi‐ celerator Ped‐ > 4.8 V ous
+tion Sensor al Position
+D Circuit Sensor 1 - • 2 DCY
+High Input G79- / Accel‐
+erator Pedal
+Position Sen‐
+sor 2 -G185- .
+Refer to
+⇒ “3.5.18 Ac‐
+celerator Ped‐
+al Position
+Sensor / Ac‐
+celerator Ped‐
+al Position
+Sensor 2,
+Checking”,
+page 147 .
+P2127 Accelerator – Check the Ac‐ • Signal voltage --- 0.2 Sec. • Continu‐
+Pedal Posi‐ celerator Ped‐ < 0.29 V ous
+tion Sensor al Position
+E Circuit Sensor 1 - • 2 DCY
+Low Input G79- / Accel‐
+erator Pedal
+Position Sen‐
+sor 2 -G185- .
+Refer to
+⇒ “3.5.18 Ac‐
+celerator Ped‐
+al Position
+Sensor / Ac‐
+celerator Ped‐
+al Position
+Sensor 2,
+Checking”,
+page 147 .
+87
+3. Diagnosis and Testing
