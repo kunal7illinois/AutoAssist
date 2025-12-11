@@ -84,67 +84,7 @@ This setup keeps each stage simple and modular while scaling to many manuals.
 
 The system is organized as a pipeline from PDF ingestion to search. Each major step is handled by a separate python module.
 
-```text
-                          +------------------------------+
-                          |          PDF Manual          |
-                          |   (user provided or local)   |
-                          +--------------+---------------+
-                                         |
-                                         v
-+----------------------------------------------------------------------------------+
-| Manual Ingestion Tools (manual_tools.py, add_manual.py, bulk_add_manuals.py)     |
-| - Accept new manuals from CLI or Streamlit                                      |
-| - Copy PDFs into project structure                                              |
-| - Trigger text extraction and passage segmentation                              |
-| - Optionally rebuild TF IDF index                                               |
-+------------------------------+--------------------------------------------------+
-                               |
-                               v
-                        +--------------------------------------+
-                        |           extract_pdfs.py            |
-                        |   Converts each PDF page to text     |
-                        +------------------+-------------------+
-                                         |
-                                         v
-                +--------------------------------------------------+
-                |                segment_passages.py               |
-                | Splits extracted text into passages and writes   |
-                | JSONL records with metadata                      |
-                +------------------+-------------------------------+
-                                         |
-                                         v
-                +--------------------------------------------------+
-                |                tfidf_indexer.py                  |
-                | Collects all passages, builds TF IDF index,      |
-                | saves vectorizer, matrix, and metadata           |
-                +------------------+-------------------------------+
-                                         |
-                                         v
-+----------------------------------------------------------------------------------+
-|                                search_engine.py                                  |
-| Loads index, normalizes query, computes cosine similarity, applies boosts,       |
-| and returns top ranked passages with PDF and page metadata                       |
-+--------------------------------+-------------------------------------------------+
-                                         |
-                                         |
-                    +--------------------+---------------------+
-                    |                                          |
-                    v                                          v
-      +---------------------------+               +------------------------------+
-      |       CLI Interface       |               |    Streamlit UI (app.py)     |
-      | - Direct queries          |               | - User enters problem        |
-      | - Evaluation mode         |               | - Results shown with links   |
-      +---------------------------+               | - Manual upload available    |
-                                                  +------------------------------+
-                                                         |
-                                                         v
-                                        +----------------+----------------+
-                                        |          evaluate.py            |
-                                        | Runs test queries, opens PDFs,  |
-                                        | collects judgments, computes    |
-                                        | P@5, R@5, and F1                |
-                                        +---------------------------------+
-```
+![AutoAssist Architecture](Architecture.png)
 
 High level notes:
 
