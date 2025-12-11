@@ -15,6 +15,7 @@ Repo: https://github.com/kunal7illinois/AutoAssist
 6. [Using AutoAssist (UI and CLI)](#6-using-autoassist-ui-and-cli)  
 7. [Performance and Evaluation](#7-performance-and-evaluation)  
 8. [Limitations and Future Work](#8-limitations-and-future-work)
+9. [Legal Notice and Data Source Attribution](#9-legal-notice-and-data-source-attribution)
 
 ---
 
@@ -383,10 +384,12 @@ Today, all manuals live on disk. In the future, manuals could be stored in cloud
 
 In short, the core pipeline of extraction, segmentation, indexing, and linking works well. The biggest gains now would come from smarter query handling and ranking on top of that foundation.
 
-## Legal Notice and Data Source Attribution
+---
+
+## 9. Legal Notice and Data Source Attribution
 
 All vehicle service manuals used in this project were sourced from publicly available documents hosted on AllCarManuals:
 
-https://www.allcarmanuals.com/makesmodels.html
+https://www.allcarmanuals.com
 
 Only manuals for older vehicles were used, and they were accessed strictly for academic, non commercial purposes as part of the CS410 course project at UIUC.
