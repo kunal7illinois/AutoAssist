@@ -1,12 +1,12 @@
 
 # AutoAssist: Vehicle Maintenance Question Answering Tool
-A CS410 Course Project - Fall 2025  
+A CS410 Course Project – Fall 2025  
 Author: Kunal Sinha (kunal7)
 
 ## Overview
 AutoAssist is a retrieval-based question answering system designed to help users understand and troubleshoot vehicle issues using natural language. A person may describe a problem in everyday terms, and the system connects that description to technical procedures found in automotive service manuals. AutoAssist expands user queries into terminology commonly found in manuals, detects the vehicle make when possible, and retrieves the most relevant maintenance steps or diagnostic checks.
 
-The system uses TF-IDF with cosine similarity for ranking passages, a rule-based expansion method for bridging informal and technical vocabulary, and a simple boosting mechanism to prioritize results for the detected manufacturer. A Streamlit application provides an accessible interface, and an evaluation module supports precision-based assessment of retrieval effectiveness.
+The system uses TF-IDF with cosine similarity for ranking passages, a rule-based expansion method for bridging informal and technical vocabulary, and a boosting mechanism to prioritize results associated with the detected manufacturer. A Streamlit application provides an accessible interface, and an evaluation module supports precision-based assessment of retrieval effectiveness.
 
 ## Data Pipeline
 ### 1. PDF to Raw Text
@@ -23,31 +23,31 @@ data/corpus/<make>/passages/
 
 ### 4. TF-IDF Index Construction
 A unified index is built for all makes. The process generates:
-- `vectorizer.pkl`  
-- `tfidf_matrix.pkl`  
-- `metadata.pkl`
+- vectorizer.pkl  
+- tfidf_matrix.pkl  
+- metadata.pkl
 
 These artifacts allow the system to match user queries against the entire set of passages.
 
 ## System Architecture
 ### Query Normalization
-A rule-based synonym expansion module maps common descriptions to technical language. This step improves recall and is intentionally transparent to show how input is interpreted.
+A rule-based synonym expansion module maps common descriptions to technical language. This step improves recall and makes the interpretation process transparent.
 
 ### Retrieval Engine
-The engine loads the TF-IDF index, transforms queries into the same vector space, applies cosine similarity, and ranks passages. If the make of the vehicle is detected, scores for matching passages are boosted before ranking.
+The engine loads the TF-IDF index, transforms queries into the same vector space, applies cosine similarity, and ranks passages. If the make of the vehicle is detected, the retrieval score for matching passages is boosted before ranking.
 
 ### User Interface
 A Streamlit interface allows users to:
-- Enter a problem description  
-- View the normalized query  
-- See likely checks and open full instructions in the service manual  
-- Upload new manuals through the “Add Manuals” interface  
+- Enter a problem description
+- View the normalized query
+- See likely checks and open corresponding instructions in the service manual
+- Upload new manuals through the “Add Manuals” interface
 
 ### Manual Ingestion Pipeline
-New manuals can be added without modifying the code. Uploading a PDF triggers text extraction, passage segmentation, and a rebuild of the TF-IDF index.
+New manuals can be added without modifying code. Uploading a PDF triggers text extraction, passage segmentation, and a rebuild of the TF-IDF index.
 
 ### Evaluation Module
-An evaluation script guides a human evaluator through a set of predefined queries. For each query, the top five passages are shown, the linked PDFs are opened, and the evaluator marks relevant results. The tool then computes Precision@5, Recall@5, and F1@5.
+An evaluation script guides a human evaluator through a set of predefined queries. For each query, the top five passages are displayed, the linked PDFs are opened, and the evaluator marks relevant results. The tool then computes Precision@5, Recall@5, and F1@5.
 
 ## How to Run the System
 ### Installation
@@ -81,23 +81,52 @@ Run:
 ```
 python src/evaluate.py
 ```
-The script outputs Precision@5, Recall@5, and F1@5 for each query and stores human judgments in:
+
+This script outputs Precision@5, Recall@5, and F1@5 for each query and stores human judgments in:
 ```
 human_judgments.json
 ```
 
+## Data Download (Manuals and RAW DATA)
+To keep the repository lightweight, the full set of manuals and raw extracted data is not stored in GitHub.  
+They must be downloaded separately.
+
+### Download Link
+The complete data package (about 1 GB) is available here:
+
+https://drive.google.com/file/d/1ZjNO5KipRuTRMH3hB8ilCPySBzLZd-zc/view?usp=sharing
+
+### Instructions
+1. Download the ZIP file from the link above.  
+2. Extract it.
+3. Place the extracted folders inside the project's `data/` directory so the structure becomes:
+
+```
+data/
+    manuals/
+    RAW DATA/
+    corpus/
+```
+
+4. After placing the data, you may rebuild the TF-IDF index (optional but recommended):
+```
+python src/tfidf_indexer.py
+```
+
+The system will now have access to all manuals and can operate normally.
+
 ## Design Decisions
 ### Choice of TF-IDF
-TF-IDF is well understood, transparent, and suitable for a system whose goal is interpretability. It matches the instruction and theory taught in CS410, especially the Vector Space Model and traditional retrieval pipelines.
+TF-IDF is transparent, computationally efficient, and aligns with classical retrieval methods emphasized in CS410. It provides a clear understanding of why passages are retrieved.
 
 ### Streamlit as the Interface
-Streamlit allows rapid prototyping, clear layout, and a low barrier for graders who need to run and inspect the system.
+Streamlit offers a simple, accessible interface for graders, requiring minimal setup. It allows a well-structured presentation of search results.
 
 ### Rule-Based Query Expansion
-Automotive manuals rely on consistent technical terminology. Query expansion compensates for differences between lay descriptions and these terms. A rule-based approach was chosen due to its reliability and predictability.
+Manuals use highly consistent technical terminology. A rule-based expansion allows explicit control and interpretability of how queries are transformed, ensuring consistent behavior.
 
 ### Optional Language Model Integration
-If needed, a language model could assist with summarization or query interpretation, but the system is designed to satisfy the course requirements using classical IR techniques alone.
+While useful for summarization or semantic normalization, large language models are not required for the system to meet project requirements. Classical IR techniques serve as the foundation.
 
 ## Summary
-AutoAssist implements the full lifecycle of a classical retrieval system: parsing, segmentation, indexing, searching, ranking, evaluation, and user interaction. The system reflects the principles covered in CS410 and demonstrates how traditional IR techniques can solve a practical real-world problem.
+AutoAssist implements the full lifecycle of a classical retrieval system: parsing, segmentation, indexing, searching, ranking, evaluation, and user interaction. The system reflects the principles covered in CS410 and demonstrates how traditional IR techniques can be applied to a real-world diagnostic task.
