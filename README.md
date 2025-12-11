@@ -382,3 +382,11 @@ Improving segmentation with headings or bullet structure would produce cleaner p
 Today, all manuals live on disk. In the future, manuals could be stored in cloud storage or rendered directly inside the UI, which would make the app easier to share and less dependent on local file layout.
 
 In short, the core pipeline of extraction, segmentation, indexing, and linking works well. The biggest gains now would come from smarter query handling and ranking on top of that foundation.
+
+## Legal Notice and Data Source Attribution
+
+All vehicle service manuals used in this project were sourced from publicly available documents hosted on AllCarManuals:
+
+https://www.allcarmanuals.com/makesmodels.html
+
+Only manuals for older vehicles were used, and they were accessed strictly for academic, non commercial purposes as part of the CS410 course project at UIUC.
