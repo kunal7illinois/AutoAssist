@@ -6,6 +6,18 @@ Repo: https://github.com/kunal7illinois/AutoAssist
 
 ---
 
+## Table of Contents
+1. [Overview and Motivation](#1-overview-and-motivation)  
+2. [System Features](#2-system-features)  
+3. [Data Pipeline](#3-data-pipeline)  
+4. [Architecture](#4-architecture)  
+5. [Setup and Installation](#5-setup-and-installation)  
+6. [Using AutoAssist (UI and CLI)](#6-using-autoassist-ui-and-cli)  
+7. [Performance and Evaluation](#7-performance-and-evaluation)  
+8. [Limitations and Future Work](#8-limitations-and-future-work)
+
+---
+
 ## 1. Overview and Motivation
 
 AutoAssist is a lightweight search engine that makes car maintenance information easier to find. Most cars do not come with a single clean service manual. They come with many separate PDF documents, each covering a different subsystem. A single problem might show up in a diagnostic flowchart in one manual, a replacement procedure in another, and a short note in a troubleshooting table somewhere else.
