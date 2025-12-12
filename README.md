@@ -219,12 +219,7 @@ The UI shows:
 
 ### 6.3 Opening Manual Pages
 
-Each result has an `Open PDF` link.
-
-Clicking it:
-
-- Opens the corresponding manual  
-- Jumps to the correct page number  
+Each result has a PDF link. Copy the link and paste it on a browser and jump to the page number in the results.
 
 If the PDF does not open right away:
 
