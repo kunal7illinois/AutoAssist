@@ -159,6 +159,25 @@ AutoAssist/
 ```
 
 Manuals in `Test_Manuals` are not used until you explicitly ingest them through the UI or CLI.
+Here is the markdown block you can paste directly **after section 5.4**, matching your README’s style:
+
+### 5.5 Download Required NLTK Tokenizer Data
+
+AutoAssist uses NLTK’s `sent_tokenize` during passage segmentation.
+NLTK requires a one-time download of its tokenizer models (`punkt` and `punkt_tab`).
+If these are missing, you will see an error such as:
+
+```
+LookupError: Resource punkt_tab not found.
+```
+
+To install the required data, open a Python shell and run:
+
+```python
+import nltk
+nltk.download('punkt')
+nltk.download('punkt_tab')
+```
 
 ---
 
